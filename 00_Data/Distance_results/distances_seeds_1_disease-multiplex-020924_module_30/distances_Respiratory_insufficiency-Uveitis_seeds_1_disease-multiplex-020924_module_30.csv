@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,0.39787878787878794
+1,disease_on_symptoms,20,21,1.5101916376306619
+2,disease_on_drugs,14,27,0.21580203897277084

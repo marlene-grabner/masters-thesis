@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,0.2270955165692008
+1,disease_on_symptoms,14,22,0.8668831168831168
+2,disease_on_drugs,27,24,0.568355119825708

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,18,29,0.16261107035134925
+1,disease_on_symptoms,28,22,0.15032467532467542
+2,disease_on_drugs,17,29,0.06336537613546178

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.30151050905767884
+1,disease_on_symptoms,18,18,2.083333333333333
+2,disease_on_drugs,23,21,0.6569264069264069

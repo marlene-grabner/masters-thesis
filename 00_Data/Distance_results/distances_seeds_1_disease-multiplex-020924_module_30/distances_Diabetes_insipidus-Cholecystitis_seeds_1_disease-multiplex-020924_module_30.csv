@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,24,25,0.5918197278911563
+1,disease_on_symptoms,18,19,0.9996443812233284
+2,disease_on_drugs,18,13,1.1228287841191067

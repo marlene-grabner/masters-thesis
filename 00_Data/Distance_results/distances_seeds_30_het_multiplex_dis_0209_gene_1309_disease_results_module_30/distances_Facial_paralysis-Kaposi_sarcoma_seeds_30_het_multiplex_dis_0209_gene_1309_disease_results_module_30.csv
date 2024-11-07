@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,22,30,0.11538461538461542
+1,disease_on_symptoms,21,16,0.5715894465894467
+2,disease_on_drugs,17,28,0.21400560224089626

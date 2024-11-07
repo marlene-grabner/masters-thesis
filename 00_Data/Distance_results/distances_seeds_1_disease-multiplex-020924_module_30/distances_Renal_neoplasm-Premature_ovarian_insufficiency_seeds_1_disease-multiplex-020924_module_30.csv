@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,22,23,0.2196969696969695
+1,disease_on_symptoms,25,22,0.898065764023211
+2,disease_on_drugs,18,17,-0.031092436974790028

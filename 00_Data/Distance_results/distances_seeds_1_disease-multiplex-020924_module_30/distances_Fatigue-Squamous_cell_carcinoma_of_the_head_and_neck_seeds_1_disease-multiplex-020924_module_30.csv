@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,21,0.1717714909204271
+1,disease_on_symptoms,21,25,1.319751552795031
+2,disease_on_drugs,26,21,0.8764320785597384

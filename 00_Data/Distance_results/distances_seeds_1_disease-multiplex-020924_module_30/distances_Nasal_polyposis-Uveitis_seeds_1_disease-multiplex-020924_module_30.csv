@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Uveitis nodes,sAB
+0,disease_on_genes,15,30,0.5055555555555555
+1,disease_on_symptoms,25,21,1.4397515527950309
+2,disease_on_drugs,10,27,0.12472472472472473

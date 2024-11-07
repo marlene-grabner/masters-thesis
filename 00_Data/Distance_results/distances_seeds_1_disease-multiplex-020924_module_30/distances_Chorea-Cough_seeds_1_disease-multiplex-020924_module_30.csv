@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Cough nodes,sAB
+0,disease_on_genes,14,27,0.28723061040134223
+1,disease_on_symptoms,27,21,2.236111111111111
+2,disease_on_drugs,8,27,0.4718915343915342

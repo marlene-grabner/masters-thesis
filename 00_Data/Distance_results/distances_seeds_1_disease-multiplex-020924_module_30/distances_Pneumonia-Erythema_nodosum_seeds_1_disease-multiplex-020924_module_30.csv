@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.08674055829228244
+1,disease_on_symptoms,26,23,0.30709507883420906
+2,disease_on_drugs,28,28,0.3571428571428572

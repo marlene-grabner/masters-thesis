@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,21,24,0.21884920634920646
+1,disease_on_symptoms,26,19,1.4072874493927126
+2,disease_on_drugs,20,19,0.9203778677462888

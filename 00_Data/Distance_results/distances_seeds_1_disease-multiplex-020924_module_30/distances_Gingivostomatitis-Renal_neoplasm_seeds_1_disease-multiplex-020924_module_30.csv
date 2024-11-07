@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.14662004662004668
+1,disease_on_symptoms,23,25,0.9987318840579709
+2,disease_on_drugs,29,18,0.8631694790902422

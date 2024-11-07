@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.1952380952380952
+1,disease_on_symptoms,15,20,-0.19523809523809543
+2,disease_on_drugs,30,24,-0.040740740740740744

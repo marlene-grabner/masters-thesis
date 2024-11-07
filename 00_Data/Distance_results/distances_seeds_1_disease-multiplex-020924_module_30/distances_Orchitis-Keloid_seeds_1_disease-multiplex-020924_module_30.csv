@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Keloid nodes,sAB
+0,disease_on_genes,23,22,0.19898989898989905
+1,disease_on_symptoms,16,20,2.5659722222222223
+2,disease_on_drugs,17,19,0.49673202614379086

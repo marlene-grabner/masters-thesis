@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,25,25,-0.040000000000000036
+1,disease_on_symptoms,23,19,-0.1589844175656534
+2,disease_on_drugs,21,22,-0.3290546662639686

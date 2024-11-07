@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.13333333333333308
+1,disease_on_symptoms,19,14,-0.3353839143312827
+2,disease_on_drugs,28,24,-0.09775641025641035

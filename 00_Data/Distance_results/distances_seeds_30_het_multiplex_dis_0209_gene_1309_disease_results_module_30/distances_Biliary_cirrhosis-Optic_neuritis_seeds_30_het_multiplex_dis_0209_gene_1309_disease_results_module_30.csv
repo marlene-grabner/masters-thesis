@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.09470246734397669
+1,disease_on_symptoms,22,21,0.2993053458169739
+2,disease_on_drugs,25,27,0.05296296296296288

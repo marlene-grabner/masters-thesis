@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,30,0.2142857142857142
+1,disease_on_symptoms,20,14,0.26323529411764723
+2,disease_on_drugs,25,24,0.20232993197278892

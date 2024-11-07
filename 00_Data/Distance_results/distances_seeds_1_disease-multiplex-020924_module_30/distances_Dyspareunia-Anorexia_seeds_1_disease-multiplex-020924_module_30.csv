@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Anorexia nodes,sAB
+0,disease_on_genes,24,17,0.19942611190817794
+1,disease_on_symptoms,17,25,0.972436974789916
+2,disease_on_drugs,23,13,0.7018766257896694

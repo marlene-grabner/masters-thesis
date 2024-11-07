@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,27,26,-0.30153738644304695
+1,disease_on_symptoms,22,22,-0.25
+2,disease_on_drugs,22,26,-0.32750582750582746

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.16831287745957524
+1,disease_on_symptoms,14,22,0.6356421356421356
+2,disease_on_drugs,24,29,0.4368764909997833

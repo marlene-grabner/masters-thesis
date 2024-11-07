@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,12,27,0.5480769230769231
+1,disease_on_symptoms,27,14,2.197283520454252
+2,disease_on_drugs,9,13,0.8434343434343434

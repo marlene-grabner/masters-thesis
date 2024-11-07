@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.311439312567132
+1,disease_on_symptoms,13,21,2.582525317819435
+2,disease_on_drugs,18,17,0.6595238095238094

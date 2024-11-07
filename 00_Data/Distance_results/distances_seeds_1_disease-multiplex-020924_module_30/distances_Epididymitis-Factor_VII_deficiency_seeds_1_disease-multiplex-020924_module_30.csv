@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.4783141762452108
+1,disease_on_symptoms,23,23,1.6086956521739129
+2,disease_on_drugs,27,21,1.2695105820105819

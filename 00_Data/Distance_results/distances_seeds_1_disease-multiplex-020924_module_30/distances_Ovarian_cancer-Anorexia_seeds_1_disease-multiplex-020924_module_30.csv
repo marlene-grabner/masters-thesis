@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,17,0.17780748663101598
+1,disease_on_symptoms,17,25,1.7483473389355741
+2,disease_on_drugs,25,13,1.119433198380567

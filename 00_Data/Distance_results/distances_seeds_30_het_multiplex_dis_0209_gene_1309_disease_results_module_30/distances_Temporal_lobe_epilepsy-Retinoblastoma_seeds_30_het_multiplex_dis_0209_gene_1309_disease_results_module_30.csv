@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,21,0.21045260209346894
+2,disease_on_drugs,28,27,0.22011784511784493

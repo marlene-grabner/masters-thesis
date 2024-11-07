@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,23,30,-0.2264150943396226
+1,disease_on_symptoms,23,14,0.34232835319791843
+2,disease_on_drugs,22,25,-0.22673114119922644

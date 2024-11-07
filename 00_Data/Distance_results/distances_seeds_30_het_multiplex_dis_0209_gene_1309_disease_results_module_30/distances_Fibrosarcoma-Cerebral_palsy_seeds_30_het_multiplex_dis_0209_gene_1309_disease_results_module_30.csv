@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,14,13,0.6435693935693934
+2,disease_on_drugs,26,21,-0.13155638687553584

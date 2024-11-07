@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.16732804232804233
+1,disease_on_symptoms,17,18,1.2297385620915031
+2,disease_on_drugs,25,26,0.5882202111613877

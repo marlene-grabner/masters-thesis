@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Emphysema nodes,sAB
+0,disease_on_genes,28,30,-0.12068965517241381
+1,disease_on_symptoms,17,18,0.42464985994397764
+2,disease_on_drugs,19,27,-0.039537248919399914

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,0.032163742690058506
+1,disease_on_symptoms,13,22,1.2633866133866136
+2,disease_on_drugs,21,20,0.09915795586527287

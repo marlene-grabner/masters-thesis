@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,14,17,0.6151396042287882
+1,disease_on_symptoms,25,22,3.535744680851064
+2,disease_on_drugs,10,15,0.9166666666666665

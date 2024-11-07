@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,30,0.08674463937621835
+1,disease_on_symptoms,19,18,0.6759127548601231
+2,disease_on_drugs,24,30,0.2810185185185188

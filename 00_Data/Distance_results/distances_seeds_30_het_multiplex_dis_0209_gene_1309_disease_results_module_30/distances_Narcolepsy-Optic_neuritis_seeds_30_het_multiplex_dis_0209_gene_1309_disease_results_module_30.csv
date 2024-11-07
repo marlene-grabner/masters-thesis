@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,-0.32692307692307687
+1,disease_on_symptoms,20,21,1.0471254355400696
+2,disease_on_drugs,21,27,-0.37929894179894175

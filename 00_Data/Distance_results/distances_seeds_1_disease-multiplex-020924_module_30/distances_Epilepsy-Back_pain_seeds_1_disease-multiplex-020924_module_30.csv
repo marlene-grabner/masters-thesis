@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Back_pain nodes,sAB
+0,disease_on_genes,29,30,0.10310734463276816
+1,disease_on_symptoms,18,16,0.2861519607843135
+2,disease_on_drugs,30,23,0.47389937106918234

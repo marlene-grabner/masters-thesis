@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,28,23,0.3482980148581172
+1,disease_on_symptoms,14,21,1.4833333333333334
+2,disease_on_drugs,24,19,1.13953488372093

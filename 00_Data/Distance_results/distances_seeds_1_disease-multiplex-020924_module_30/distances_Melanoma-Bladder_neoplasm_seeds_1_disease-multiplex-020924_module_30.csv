@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,24,26,-0.14
+1,disease_on_symptoms,23,20,-0.03288675429726995
+2,disease_on_drugs,22,25,-0.21276595744680848

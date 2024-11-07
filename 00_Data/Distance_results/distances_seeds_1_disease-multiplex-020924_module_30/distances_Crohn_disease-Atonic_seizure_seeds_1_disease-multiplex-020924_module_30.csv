@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,25,29,0.43165799175883746
+1,disease_on_symptoms,20,16,1.6305555555555553
+2,disease_on_drugs,21,24,0.819047619047619

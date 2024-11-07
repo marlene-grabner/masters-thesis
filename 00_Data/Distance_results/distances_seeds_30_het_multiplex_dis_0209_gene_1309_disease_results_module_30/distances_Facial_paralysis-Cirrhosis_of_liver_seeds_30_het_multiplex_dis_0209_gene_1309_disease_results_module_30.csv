@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,-0.038461538461538436
+1,disease_on_symptoms,21,19,0.5768170426065162
+2,disease_on_drugs,17,30,0.22494785148101792

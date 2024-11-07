@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,26,27,0.3609229694135354
+1,disease_on_symptoms,23,16,1.5827062430323298
+2,disease_on_drugs,25,18,0.9767441860465116

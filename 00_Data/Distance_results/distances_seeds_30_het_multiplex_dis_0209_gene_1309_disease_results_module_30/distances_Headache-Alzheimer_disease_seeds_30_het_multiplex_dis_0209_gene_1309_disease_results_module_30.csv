@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,23,19,0.29584831644328213
+2,disease_on_drugs,23,19,-0.15053939195815613

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.036363636363636376
+1,disease_on_symptoms,17,19,0.09004127966976272
+2,disease_on_drugs,24,22,-0.1535737812911726

@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.324175824175824
+1,disease_on_symptoms,20,22,-0.07499999999999996
+2,disease_on_drugs,30,25,-0.170909090909091

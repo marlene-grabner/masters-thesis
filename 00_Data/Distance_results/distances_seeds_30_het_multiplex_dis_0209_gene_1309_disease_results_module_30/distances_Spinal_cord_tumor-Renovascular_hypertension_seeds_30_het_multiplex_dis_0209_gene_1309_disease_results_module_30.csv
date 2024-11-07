@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,14,17,0.5787476280834913
+2,disease_on_drugs,22,29,0.05366033560759731

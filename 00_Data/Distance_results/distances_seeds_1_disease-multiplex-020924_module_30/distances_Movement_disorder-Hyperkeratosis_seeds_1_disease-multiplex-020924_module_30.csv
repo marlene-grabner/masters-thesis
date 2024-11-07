@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.5902930402930402
+1,disease_on_symptoms,22,21,1.6456005235075002
+2,disease_on_drugs,15,23,0.9789473684210526

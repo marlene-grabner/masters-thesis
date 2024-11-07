@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.24463937621832343
+1,disease_on_symptoms,22,7,1.5392969099865652
+2,disease_on_drugs,24,22,0.5611001317523057

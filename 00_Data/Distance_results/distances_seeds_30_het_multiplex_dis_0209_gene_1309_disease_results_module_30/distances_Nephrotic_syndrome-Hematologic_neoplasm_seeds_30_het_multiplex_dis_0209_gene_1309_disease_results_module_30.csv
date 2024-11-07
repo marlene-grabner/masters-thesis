@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,15,18,0.01969696969696977
+2,disease_on_drugs,28,27,-0.07380952380952377

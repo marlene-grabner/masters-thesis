@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Rhinitis nodes,sAB
+0,disease_on_genes,17,30,0.34259491030454736
+1,disease_on_symptoms,21,15,0.6341269841269839
+2,disease_on_drugs,14,22,0.4722222222222223

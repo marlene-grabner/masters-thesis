@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,28,18,0.4048481711525187
+1,disease_on_symptoms,19,26,2.36927575348628
+2,disease_on_drugs,26,10,0.26111111111111107

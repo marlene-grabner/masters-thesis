@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,13,18,0.553763440860215
+2,disease_on_drugs,22,30,-0.016200466200466224

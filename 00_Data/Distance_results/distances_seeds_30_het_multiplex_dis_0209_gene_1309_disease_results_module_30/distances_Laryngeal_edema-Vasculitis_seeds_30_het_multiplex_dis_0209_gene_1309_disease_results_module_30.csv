@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.10595238095238091
+1,disease_on_symptoms,16,18,0.32128267973856217
+2,disease_on_drugs,28,26,0.05591168091168086

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,0.19500000000000006
+1,disease_on_symptoms,21,26,1.2377445249785675
+2,disease_on_drugs,24,15,0.41025641025641035

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,27,0.2777777777777779
+1,disease_on_symptoms,22,16,1.2197966507177034
+2,disease_on_drugs,24,18,0.8869047619047621

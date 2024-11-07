@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.4035087719298246
+1,disease_on_symptoms,18,21,-0.2054334554334556
+2,disease_on_drugs,30,27,-0.35019493177387917

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,25,23,0.312427536231884
+1,disease_on_symptoms,24,25,1.3668197278911565
+2,disease_on_drugs,23,18,1.136178861788618

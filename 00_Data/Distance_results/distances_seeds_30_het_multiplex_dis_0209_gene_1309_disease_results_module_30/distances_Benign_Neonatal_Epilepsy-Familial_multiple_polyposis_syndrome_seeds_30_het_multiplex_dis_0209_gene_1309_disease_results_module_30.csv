@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,19,1.232565789473684
+2,disease_on_drugs,21,25,0.5897722567287786

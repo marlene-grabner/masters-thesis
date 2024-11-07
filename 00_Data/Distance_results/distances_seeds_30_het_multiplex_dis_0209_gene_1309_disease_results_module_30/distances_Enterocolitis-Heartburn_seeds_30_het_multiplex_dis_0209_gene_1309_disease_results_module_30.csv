@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,-0.07547169811320753
+1,disease_on_symptoms,21,16,0.31177606177606165
+2,disease_on_drugs,25,25,0.15999999999999992

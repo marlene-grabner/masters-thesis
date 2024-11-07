@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,0.11802413273001511
+1,disease_on_symptoms,21,22,1.2085472666868018
+2,disease_on_drugs,25,25,0.56

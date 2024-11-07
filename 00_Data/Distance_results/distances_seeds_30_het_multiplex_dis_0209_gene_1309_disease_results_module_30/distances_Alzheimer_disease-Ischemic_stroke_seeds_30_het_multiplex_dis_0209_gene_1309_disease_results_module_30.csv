@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,23,30,-0.16981132075471694
+1,disease_on_symptoms,19,16,0.3046992481203008
+2,disease_on_drugs,19,28,-0.08064709646456558

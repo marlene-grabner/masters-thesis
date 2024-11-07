@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,20,0.008333333333333304
+1,disease_on_symptoms,23,24,0.8472286463151402
+2,disease_on_drugs,26,18,0.07770007770007781

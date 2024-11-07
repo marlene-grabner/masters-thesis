@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,29,0.09259259259259256
+1,disease_on_symptoms,19,20,0.3840080971659918
+2,disease_on_drugs,22,28,0.19863636363636372

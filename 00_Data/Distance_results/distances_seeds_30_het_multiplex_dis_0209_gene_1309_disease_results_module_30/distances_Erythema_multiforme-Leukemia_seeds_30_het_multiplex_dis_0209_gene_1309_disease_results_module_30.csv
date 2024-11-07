@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,18,21,0.24664224664224665
+2,disease_on_drugs,30,30,0.016666666666666607

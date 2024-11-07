@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.01969696969696977
+1,disease_on_symptoms,20,19,1.0559716599190283
+2,disease_on_drugs,30,18,0.10138888888888897

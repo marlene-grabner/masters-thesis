@@ -1,0 +1,4 @@
+,Layer,Conjunctivitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,26,0.05454545454545445
+1,disease_on_symptoms,27,19,0.4971183998643953
+2,disease_on_drugs,28,24,0.2582417582417582

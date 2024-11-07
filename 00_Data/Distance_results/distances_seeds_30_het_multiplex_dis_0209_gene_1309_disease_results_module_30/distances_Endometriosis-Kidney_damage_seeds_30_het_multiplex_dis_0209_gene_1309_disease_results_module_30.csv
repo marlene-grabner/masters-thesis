@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,16,15,0.029368279569892408
+2,disease_on_drugs,30,21,0.0326330532212884

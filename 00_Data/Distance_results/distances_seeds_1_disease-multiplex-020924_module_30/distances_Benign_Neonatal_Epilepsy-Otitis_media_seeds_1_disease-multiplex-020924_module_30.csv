@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.2758620689655171
+1,disease_on_symptoms,16,22,2.7343002392344498
+2,disease_on_drugs,26,29,0.8937304075235111

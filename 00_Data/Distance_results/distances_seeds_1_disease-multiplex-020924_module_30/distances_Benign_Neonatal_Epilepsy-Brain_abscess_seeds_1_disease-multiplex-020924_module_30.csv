@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,29,27,0.06878306878306883
+1,disease_on_symptoms,16,21,1.331684362934363
+2,disease_on_drugs,26,23,0.4001774622892633

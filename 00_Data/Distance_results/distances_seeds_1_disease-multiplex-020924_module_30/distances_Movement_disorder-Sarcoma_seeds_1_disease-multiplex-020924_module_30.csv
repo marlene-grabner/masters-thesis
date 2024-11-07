@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.4757575757575758
+1,disease_on_symptoms,22,26,1.6134906759906762
+2,disease_on_drugs,15,21,1.4

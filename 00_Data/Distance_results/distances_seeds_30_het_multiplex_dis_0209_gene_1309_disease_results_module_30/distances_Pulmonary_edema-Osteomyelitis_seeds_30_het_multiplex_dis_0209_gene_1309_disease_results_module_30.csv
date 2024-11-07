@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,11,22,0.3484848484848482
+2,disease_on_drugs,27,28,0.5097041847041848

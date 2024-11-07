@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.1132075471698113
+1,disease_on_symptoms,21,22,0.28365045806906264
+2,disease_on_drugs,29,17,-0.12271805273833669

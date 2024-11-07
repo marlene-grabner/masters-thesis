@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,13,22,0.7152347652347653
+2,disease_on_drugs,19,30,0.4161654135338344

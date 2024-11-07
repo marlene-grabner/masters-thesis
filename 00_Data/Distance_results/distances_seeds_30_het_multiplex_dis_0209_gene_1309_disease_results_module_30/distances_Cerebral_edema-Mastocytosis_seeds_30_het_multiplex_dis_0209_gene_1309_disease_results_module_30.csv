@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,0.19999999999999996
+1,disease_on_symptoms,10,24,0.7987745098039216
+2,disease_on_drugs,16,20,0.2562500000000001

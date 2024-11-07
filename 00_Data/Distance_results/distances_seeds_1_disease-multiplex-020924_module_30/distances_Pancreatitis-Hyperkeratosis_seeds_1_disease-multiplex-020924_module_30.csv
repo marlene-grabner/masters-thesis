@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.27124542124542117
+1,disease_on_symptoms,20,21,1.439924506387921
+2,disease_on_drugs,30,23,0.5283018867924529

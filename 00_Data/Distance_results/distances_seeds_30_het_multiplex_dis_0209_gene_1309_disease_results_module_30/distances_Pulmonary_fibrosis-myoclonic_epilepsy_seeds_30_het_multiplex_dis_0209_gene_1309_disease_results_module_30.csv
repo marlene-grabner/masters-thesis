@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,25,30,0.018181818181818077
+1,disease_on_symptoms,22,16,1.4288277511961724
+2,disease_on_drugs,25,25,0.43999999999999995

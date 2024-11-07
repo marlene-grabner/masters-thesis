@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,18,21,0.4273504273504274
+1,disease_on_symptoms,21,20,1.5590301974448315
+2,disease_on_drugs,6,19,0.7270175438596491

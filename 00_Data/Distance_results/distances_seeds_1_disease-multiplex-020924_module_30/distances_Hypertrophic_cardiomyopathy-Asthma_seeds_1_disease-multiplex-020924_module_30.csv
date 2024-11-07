@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.3284848484848486
+1,disease_on_symptoms,17,19,2.2438940488476096
+2,disease_on_drugs,17,24,0.3729674796747968

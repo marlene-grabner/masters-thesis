@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,27,26,-0.33892382948986743
+1,disease_on_symptoms,21,19,-0.5370300751879702
+2,disease_on_drugs,27,18,-0.3833333333333332

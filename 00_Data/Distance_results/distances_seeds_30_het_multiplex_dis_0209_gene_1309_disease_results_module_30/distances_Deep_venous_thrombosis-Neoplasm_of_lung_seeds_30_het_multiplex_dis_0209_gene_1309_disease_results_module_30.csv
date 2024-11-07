@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,19,0.5328477443609023
+2,disease_on_drugs,28,30,0.2917898193760262

@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,0.3288372093023255
+1,disease_on_symptoms,20,27,0.36225374310480696
+2,disease_on_drugs,21,17,0.4117647058823528

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.1387362637362637
+1,disease_on_symptoms,19,19,0.9210526315789476
+2,disease_on_drugs,24,29,0.6772798742138364

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,17,25,0.3059383753501399
+1,disease_on_symptoms,22,19,2.1495507060333763
+2,disease_on_drugs,15,18,1.4237373737373737

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,23,0.11579414374445429
+1,disease_on_symptoms,21,19,0.6478070175438595
+2,disease_on_drugs,25,11,0.23777777777777764

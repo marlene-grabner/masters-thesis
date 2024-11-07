@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.09242424242424252
+1,disease_on_symptoms,25,14,0.468058608058608
+2,disease_on_drugs,24,24,0.04166666666666674

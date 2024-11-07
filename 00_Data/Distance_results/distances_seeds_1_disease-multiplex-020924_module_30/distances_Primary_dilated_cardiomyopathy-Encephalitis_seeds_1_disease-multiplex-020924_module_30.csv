@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.7401477832512318
+1,disease_on_symptoms,25,17,1.395014005602241
+2,disease_on_drugs,7,18,1.0885714285714287

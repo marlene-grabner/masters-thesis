@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,27,0.3148148148148149
+1,disease_on_symptoms,17,22,0.9154668860551212
+2,disease_on_drugs,25,26,1.7058823529411766

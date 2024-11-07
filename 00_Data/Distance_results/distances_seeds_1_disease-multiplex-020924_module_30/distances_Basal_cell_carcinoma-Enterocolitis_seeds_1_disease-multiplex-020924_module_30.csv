@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,0.26413750470354236
+1,disease_on_symptoms,23,21,1.602249200075287
+2,disease_on_drugs,25,24,0.5505952380952379

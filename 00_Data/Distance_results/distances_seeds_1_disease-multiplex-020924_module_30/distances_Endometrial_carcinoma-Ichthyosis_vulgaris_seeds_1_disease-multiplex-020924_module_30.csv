@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,23,27,0.15774557165861514
+1,disease_on_symptoms,21,21,1.119047619047619
+2,disease_on_drugs,21,27,0.6994047619047619

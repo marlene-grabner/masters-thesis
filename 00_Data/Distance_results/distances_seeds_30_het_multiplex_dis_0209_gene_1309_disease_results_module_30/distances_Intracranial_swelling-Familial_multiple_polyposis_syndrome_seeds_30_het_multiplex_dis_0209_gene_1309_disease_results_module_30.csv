@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,11,19,0.48086124401913866
+2,disease_on_drugs,21,25,0.1643064182194618

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.5593220338983051
+1,disease_on_symptoms,9,25,0.5456209150326798
+2,disease_on_drugs,11,27,0.524720893141946

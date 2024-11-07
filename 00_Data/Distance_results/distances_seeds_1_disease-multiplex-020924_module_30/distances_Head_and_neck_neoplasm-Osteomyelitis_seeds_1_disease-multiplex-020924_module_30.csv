@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.4142424242424243
+1,disease_on_symptoms,20,23,1.5061678463094033
+2,disease_on_drugs,27,23,1.076521739130435

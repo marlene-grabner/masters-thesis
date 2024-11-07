@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.3220338983050848
+1,disease_on_symptoms,13,25,1.3695546558704454
+2,disease_on_drugs,19,21,0.7209273182957394

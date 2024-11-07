@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,-0.15701754385964906
+1,disease_on_symptoms,16,18,0.8703022875816995
+2,disease_on_drugs,28,22,-0.1959090909090908

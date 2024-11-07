@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.17685185185185204
+1,disease_on_symptoms,20,17,1.0660572337042924
+2,disease_on_drugs,21,26,0.6332320162107397

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,28,0.18518518518518512
+1,disease_on_symptoms,17,21,0.954592363261094
+2,disease_on_drugs,25,21,0.6497722567287785

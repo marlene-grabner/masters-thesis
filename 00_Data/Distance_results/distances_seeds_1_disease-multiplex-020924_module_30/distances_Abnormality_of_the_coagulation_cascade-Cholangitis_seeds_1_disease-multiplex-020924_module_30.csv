@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Cholangitis nodes,sAB
+0,disease_on_genes,23,27,0.2807085346215781
+1,disease_on_symptoms,23,22,1.4669740887132194
+2,disease_on_drugs,18,26,1.297979797979798

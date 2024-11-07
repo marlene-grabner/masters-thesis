@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.43606060606060604
+1,disease_on_symptoms,15,19,0.5785345717234263
+2,disease_on_drugs,21,24,0.9567460317460317

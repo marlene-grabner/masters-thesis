@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,28,30,0.15517241379310343
+1,disease_on_symptoms,18,21,0.8641636141636142
+2,disease_on_drugs,23,29,0.19441240918002545

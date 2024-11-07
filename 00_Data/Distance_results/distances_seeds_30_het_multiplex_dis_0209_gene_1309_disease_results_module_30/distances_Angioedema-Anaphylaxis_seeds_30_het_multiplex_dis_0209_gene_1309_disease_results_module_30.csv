@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.19395711500974666
+1,disease_on_symptoms,18,14,0.19394841269841256
+2,disease_on_drugs,26,26,-0.15384615384615397

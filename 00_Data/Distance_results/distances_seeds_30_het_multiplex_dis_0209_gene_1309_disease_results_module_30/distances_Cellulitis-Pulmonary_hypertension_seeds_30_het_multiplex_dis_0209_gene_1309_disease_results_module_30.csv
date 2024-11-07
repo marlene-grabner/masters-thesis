@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.06896551724137923
+1,disease_on_symptoms,20,18,0.6748538011695908
+2,disease_on_drugs,26,27,0.262659248508305

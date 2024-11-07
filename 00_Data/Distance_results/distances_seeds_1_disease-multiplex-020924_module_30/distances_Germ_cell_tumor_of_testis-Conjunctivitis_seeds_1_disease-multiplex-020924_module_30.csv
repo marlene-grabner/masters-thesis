@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,27,0.2407407407407407
+1,disease_on_symptoms,23,27,1.0361996779388083
+2,disease_on_drugs,20,26,0.6571906354515051

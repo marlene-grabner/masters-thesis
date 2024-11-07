@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,27,30,0.19532163742690067
+1,disease_on_symptoms,15,17,1.4667892156862745
+2,disease_on_drugs,25,28,0.6612668463611862

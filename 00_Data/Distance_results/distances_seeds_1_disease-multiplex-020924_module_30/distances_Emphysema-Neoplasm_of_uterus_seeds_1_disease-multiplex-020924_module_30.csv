@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.032594417077175475
+1,disease_on_symptoms,14,19,0.3057074504442925
+2,disease_on_drugs,29,28,0.2979323308270678

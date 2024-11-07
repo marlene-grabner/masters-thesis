@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,20,16,-0.13680555555555562
+2,disease_on_drugs,28,29,-0.14103145795523298

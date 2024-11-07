@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,28,29,-0.08929651715495623
+1,disease_on_symptoms,14,17,0.9202358362699918
+2,disease_on_drugs,28,30,0.18965517241379315

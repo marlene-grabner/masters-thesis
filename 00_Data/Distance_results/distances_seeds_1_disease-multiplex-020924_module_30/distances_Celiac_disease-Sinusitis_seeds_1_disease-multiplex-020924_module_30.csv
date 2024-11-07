@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Sinusitis nodes,sAB
+0,disease_on_genes,17,29,0.30249581091807043
+1,disease_on_symptoms,22,21,2.017718715393134
+2,disease_on_drugs,15,28,0.6340254706533774

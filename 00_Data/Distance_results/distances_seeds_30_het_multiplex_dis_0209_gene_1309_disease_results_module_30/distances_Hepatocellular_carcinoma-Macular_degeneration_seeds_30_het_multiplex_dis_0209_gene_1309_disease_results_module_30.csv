@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,24,30,-0.0537037037037037
+1,disease_on_symptoms,23,17,0.4911125319693095
+2,disease_on_drugs,22,17,-0.17818456053750165

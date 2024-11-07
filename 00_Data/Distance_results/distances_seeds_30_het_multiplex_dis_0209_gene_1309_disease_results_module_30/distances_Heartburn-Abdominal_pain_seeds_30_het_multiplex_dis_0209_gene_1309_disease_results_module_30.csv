@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,-0.3559523809523809
+1,disease_on_symptoms,16,19,-0.1785714285714286
+2,disease_on_drugs,25,29,-0.24155810983397186

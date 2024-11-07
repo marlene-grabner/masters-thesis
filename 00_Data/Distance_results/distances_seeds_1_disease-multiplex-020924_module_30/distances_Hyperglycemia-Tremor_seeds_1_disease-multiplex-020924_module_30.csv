@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Tremor nodes,sAB
+0,disease_on_genes,30,16,0.25262681159420297
+1,disease_on_symptoms,14,23,1.1996810475071342
+2,disease_on_drugs,26,16,0.6830357142857142

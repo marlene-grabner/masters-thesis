@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Sepsis nodes,sAB
+0,disease_on_genes,29,22,-0.30734833118200267
+1,disease_on_symptoms,23,23,-0.5
+2,disease_on_drugs,27,17,-0.3913151119033471

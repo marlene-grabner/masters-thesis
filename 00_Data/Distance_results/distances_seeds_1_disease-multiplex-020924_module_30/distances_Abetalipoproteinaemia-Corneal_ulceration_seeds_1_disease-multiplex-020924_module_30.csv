@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,17,28,0.44161998132586366
+1,disease_on_symptoms,25,19,1.6920574162679427
+2,disease_on_drugs,13,26,0.9615384615384617

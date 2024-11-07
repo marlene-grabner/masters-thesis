@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.42115009746588694
+1,disease_on_symptoms,22,22,-0.4999999999999999
+2,disease_on_drugs,27,22,-0.474025974025974

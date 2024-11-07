@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.3655023923444978
+1,disease_on_symptoms,20,21,1.678019744483159
+2,disease_on_drugs,14,17,0.4089861751152073

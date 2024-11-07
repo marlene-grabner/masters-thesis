@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,14,19,-0.05023923444976086
+2,disease_on_drugs,27,30,-0.32602339181286544

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,17,17,0.5294117647058822
+2,disease_on_drugs,24,28,0.24931318681318682

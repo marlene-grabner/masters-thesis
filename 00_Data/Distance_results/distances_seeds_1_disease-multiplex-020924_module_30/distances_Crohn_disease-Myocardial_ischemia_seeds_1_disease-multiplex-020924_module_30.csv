@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,0.29166666666666674
+1,disease_on_symptoms,20,13,1.331118881118881
+2,disease_on_drugs,21,23,0.591709015622059

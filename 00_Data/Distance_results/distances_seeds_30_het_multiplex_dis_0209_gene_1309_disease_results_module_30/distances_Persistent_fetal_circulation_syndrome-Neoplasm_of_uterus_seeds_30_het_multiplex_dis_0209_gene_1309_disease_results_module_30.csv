@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,24,30,0.0
+1,disease_on_symptoms,22,18,0.9025252525252525
+2,disease_on_drugs,21,26,0.08267087522406658

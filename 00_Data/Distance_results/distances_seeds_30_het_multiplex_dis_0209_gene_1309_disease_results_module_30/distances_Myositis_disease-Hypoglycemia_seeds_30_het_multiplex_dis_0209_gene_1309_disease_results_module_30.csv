@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000013
+1,disease_on_symptoms,18,19,0.40686739370949887
+2,disease_on_drugs,26,27,0.09169220018276625

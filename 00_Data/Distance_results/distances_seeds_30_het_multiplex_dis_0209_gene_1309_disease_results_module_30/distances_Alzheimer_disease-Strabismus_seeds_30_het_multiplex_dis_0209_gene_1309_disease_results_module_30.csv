@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Strabismus nodes,sAB
+0,disease_on_genes,23,17,-0.3088235294117647
+1,disease_on_symptoms,19,24,0.37298551611587105
+2,disease_on_drugs,19,16,-0.23970864661654123

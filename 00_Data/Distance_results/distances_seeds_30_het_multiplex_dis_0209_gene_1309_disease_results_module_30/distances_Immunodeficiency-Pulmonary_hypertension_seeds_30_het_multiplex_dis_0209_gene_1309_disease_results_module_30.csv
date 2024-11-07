@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.03703703703703709
+1,disease_on_symptoms,21,18,0.5546398046398049
+2,disease_on_drugs,26,27,0.149814546040961

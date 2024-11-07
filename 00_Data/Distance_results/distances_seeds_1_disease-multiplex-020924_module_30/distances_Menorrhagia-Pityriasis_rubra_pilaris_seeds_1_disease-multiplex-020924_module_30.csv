@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,26,28,0.1645299145299146
+1,disease_on_symptoms,19,23,0.8994769532526972
+2,disease_on_drugs,24,26,0.18070512820512818

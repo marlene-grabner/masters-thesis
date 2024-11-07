@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Encephalitis nodes,sAB
+0,disease_on_genes,25,29,0.1837037037037037
+1,disease_on_symptoms,26,13,0.9487179487179489
+2,disease_on_drugs,24,22,0.45520421607378125

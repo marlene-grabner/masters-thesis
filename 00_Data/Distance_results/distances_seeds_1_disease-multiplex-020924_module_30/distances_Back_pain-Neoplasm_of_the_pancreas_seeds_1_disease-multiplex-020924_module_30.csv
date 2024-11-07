@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.24999999999999978
+1,disease_on_symptoms,16,20,1.0756944444444447
+2,disease_on_drugs,23,30,0.9622641509433962

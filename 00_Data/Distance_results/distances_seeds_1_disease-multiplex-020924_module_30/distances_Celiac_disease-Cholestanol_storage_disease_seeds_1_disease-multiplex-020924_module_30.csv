@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,17,30,0.3454317897371715
+1,disease_on_symptoms,22,17,1.625188536953243
+2,disease_on_drugs,15,25,1.0966666666666667

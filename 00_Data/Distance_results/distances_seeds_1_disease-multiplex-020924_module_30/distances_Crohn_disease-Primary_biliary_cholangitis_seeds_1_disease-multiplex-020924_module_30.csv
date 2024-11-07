@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,25,26,0.37910256410256404
+1,disease_on_symptoms,20,17,0.8697138314785375
+2,disease_on_drugs,21,18,0.3498168498168497

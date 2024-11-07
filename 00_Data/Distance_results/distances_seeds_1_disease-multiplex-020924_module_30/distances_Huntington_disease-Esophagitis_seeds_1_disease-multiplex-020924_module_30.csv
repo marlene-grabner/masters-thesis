@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Esophagitis nodes,sAB
+0,disease_on_genes,30,24,0.20400601585999434
+1,disease_on_symptoms,16,23,1.2840370680044595
+2,disease_on_drugs,27,20,0.4643617021276596

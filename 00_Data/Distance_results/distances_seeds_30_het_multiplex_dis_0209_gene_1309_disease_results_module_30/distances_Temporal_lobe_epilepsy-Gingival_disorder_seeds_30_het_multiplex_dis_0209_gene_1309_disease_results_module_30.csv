@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,19,0.17432060543515693
+2,disease_on_drugs,28,24,0.14903846153846145

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,26,23,0.1625874125874125
+1,disease_on_symptoms,23,18,2.228643808177212
+2,disease_on_drugs,25,18,0.20930232558139528

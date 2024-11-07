@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,-0.01888136322098588
+1,disease_on_symptoms,22,25,1.1571760154738877
+2,disease_on_drugs,22,25,-0.08290135396518372

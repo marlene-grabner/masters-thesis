@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,28,30,0.2626026272577997
+1,disease_on_symptoms,23,17,1.2440537084398975
+2,disease_on_drugs,28,26,0.7414021164021165

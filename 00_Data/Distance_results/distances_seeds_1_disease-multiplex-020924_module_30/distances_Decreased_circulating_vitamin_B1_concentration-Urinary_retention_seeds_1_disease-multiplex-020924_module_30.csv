@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.2870557029177718
+1,disease_on_symptoms,13,18,2.9653294733939894
+2,disease_on_drugs,16,19,0.4737312030075187

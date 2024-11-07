@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,23,30,0.24241181296144365
+1,disease_on_symptoms,19,14,2.3161312371838685
+2,disease_on_drugs,22,22,0.4545454545454546

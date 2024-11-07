@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,21,19,0.24705513784461153
+2,disease_on_drugs,26,30,-0.0021062271062268767

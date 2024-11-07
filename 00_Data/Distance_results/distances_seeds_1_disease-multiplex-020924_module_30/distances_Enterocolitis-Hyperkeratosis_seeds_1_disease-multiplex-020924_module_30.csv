@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,0.018854485835617885
+1,disease_on_symptoms,21,21,1.0952380952380953
+2,disease_on_drugs,24,23,0.04299645390070905

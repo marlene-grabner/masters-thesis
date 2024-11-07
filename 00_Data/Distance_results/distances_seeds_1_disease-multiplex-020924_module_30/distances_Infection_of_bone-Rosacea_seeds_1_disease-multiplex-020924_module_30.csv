@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.0543956043956042
+1,disease_on_symptoms,21,17,0.42024178092289555
+2,disease_on_drugs,24,27,0.01593137254901955

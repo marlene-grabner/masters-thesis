@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,21,30,-0.15392156862745088
+1,disease_on_symptoms,22,19,0.17656669389660395
+2,disease_on_drugs,19,28,-0.12474004159334506

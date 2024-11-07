@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.24195402298850577
+1,disease_on_symptoms,15,26,1.0588492808005003
+2,disease_on_drugs,21,28,0.6930272108843536

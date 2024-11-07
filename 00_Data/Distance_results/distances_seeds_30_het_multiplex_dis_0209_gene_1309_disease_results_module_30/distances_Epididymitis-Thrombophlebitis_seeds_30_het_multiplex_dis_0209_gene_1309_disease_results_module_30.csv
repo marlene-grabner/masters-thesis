@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,29,30,0.05084745762711873
+1,disease_on_symptoms,23,18,0.19034994697773056
+2,disease_on_drugs,26,29,0.25483482035206184

@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,27,27,-0.35185185185185186
+1,disease_on_symptoms,24,23,-0.38270891150169617
+2,disease_on_drugs,25,20,-0.41555555555555557

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,-0.5263157894736843
+1,disease_on_symptoms,17,18,-0.7769841269841271
+2,disease_on_drugs,26,22,-0.581002331002331

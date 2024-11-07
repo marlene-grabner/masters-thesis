@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.46666666666666656
+1,disease_on_symptoms,25,16,2.1572560975609756
+2,disease_on_drugs,7,29,0.7063492063492063

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,27,28,-0.036375661375661394
+1,disease_on_symptoms,21,15,0.5325396825396824
+2,disease_on_drugs,27,23,-0.004508856682769791

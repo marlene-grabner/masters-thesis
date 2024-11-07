@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Pericarditis nodes,sAB
+0,disease_on_genes,15,25,0.15833333333333344
+1,disease_on_symptoms,27,22,1.8555967841682126
+2,disease_on_drugs,13,25,0.8221052631578947

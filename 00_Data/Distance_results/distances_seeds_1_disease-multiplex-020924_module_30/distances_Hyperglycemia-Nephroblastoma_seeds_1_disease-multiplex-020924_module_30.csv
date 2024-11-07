@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.10969696969696963
+1,disease_on_symptoms,14,25,1.0376556776556778
+2,disease_on_drugs,26,21,0.7021276595744681

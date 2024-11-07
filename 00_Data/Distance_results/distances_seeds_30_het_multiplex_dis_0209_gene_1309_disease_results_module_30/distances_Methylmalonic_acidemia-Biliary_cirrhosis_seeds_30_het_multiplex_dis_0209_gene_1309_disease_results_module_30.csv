@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,25,26,0.039592760180995556
+1,disease_on_symptoms,17,22,1.5336624160153571
+2,disease_on_drugs,21,25,0.2602898550724637

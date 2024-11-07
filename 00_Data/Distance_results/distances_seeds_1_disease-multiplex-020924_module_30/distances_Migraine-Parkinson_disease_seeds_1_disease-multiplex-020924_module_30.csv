@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,21,-0.017927170868347275
+1,disease_on_symptoms,14,20,0.892016806722689
+2,disease_on_drugs,29,19,0.20833333333333326

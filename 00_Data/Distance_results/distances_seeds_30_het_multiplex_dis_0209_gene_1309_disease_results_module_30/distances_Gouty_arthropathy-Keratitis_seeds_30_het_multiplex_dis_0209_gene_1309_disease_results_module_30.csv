@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,30,0.13850574712643682
+1,disease_on_symptoms,18,25,0.5140826873385014
+2,disease_on_drugs,23,29,0.13274132164686891

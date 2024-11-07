@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Encephalitis nodes,sAB
+0,disease_on_genes,12,28,0.3226190476190476
+1,disease_on_symptoms,27,17,0.5445137651020007
+2,disease_on_drugs,9,18,0.40740740740740744

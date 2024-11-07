@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.1875
+1,disease_on_symptoms,11,21,1.5929383116883118
+2,disease_on_drugs,21,17,-0.2353678313430636

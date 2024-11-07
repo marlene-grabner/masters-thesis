@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,24,0.32651360544217667
+1,disease_on_symptoms,19,19,2.3684210526315788
+2,disease_on_drugs,24,19,0.574000407996736

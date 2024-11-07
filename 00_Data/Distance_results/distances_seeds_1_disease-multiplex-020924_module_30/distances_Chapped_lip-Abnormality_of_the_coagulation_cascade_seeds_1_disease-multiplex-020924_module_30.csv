@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Abnormality_of_the_coagulation_cascade nodes,sAB
+0,disease_on_genes,26,23,0.3021295474711625
+1,disease_on_symptoms,21,23,1.1171183888575191
+2,disease_on_drugs,24,18,0.6984126984126984

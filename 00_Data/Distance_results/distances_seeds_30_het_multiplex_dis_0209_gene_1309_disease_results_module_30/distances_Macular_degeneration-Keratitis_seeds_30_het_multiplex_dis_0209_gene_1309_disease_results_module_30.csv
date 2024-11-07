@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333348
+1,disease_on_symptoms,17,25,0.5831932773109245
+2,disease_on_drugs,17,29,-0.0958638327894874

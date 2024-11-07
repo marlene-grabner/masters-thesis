@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Nocturia nodes,sAB
+0,disease_on_genes,20,21,0.5154761904761906
+1,disease_on_symptoms,22,24,1.2546936758893281
+2,disease_on_drugs,15,14,0.9652709359605913

@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,17,30,-0.05421360033375078
+1,disease_on_symptoms,21,16,1.6287403474903475
+2,disease_on_drugs,14,30,0.47272727272727266

@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,13,16,0.18202917771883298
+2,disease_on_drugs,28,28,-0.03571428571428581

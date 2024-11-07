@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,28,0.4903234501347711
+1,disease_on_symptoms,20,25,0.5905555555555555
+2,disease_on_drugs,14,23,0.15196407587711946

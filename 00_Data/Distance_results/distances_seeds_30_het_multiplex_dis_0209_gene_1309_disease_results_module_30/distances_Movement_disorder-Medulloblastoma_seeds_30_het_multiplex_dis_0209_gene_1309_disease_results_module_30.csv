@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.08684210526315783
+1,disease_on_symptoms,17,22,0.2692993281228575
+2,disease_on_drugs,26,26,-0.07692307692307687

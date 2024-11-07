@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.02128851540616239
+1,disease_on_symptoms,14,25,0.6250549450549452
+2,disease_on_drugs,24,21,-0.022222222222222254

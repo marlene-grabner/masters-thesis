@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,22,27,0.45779220779220764
+1,disease_on_symptoms,23,14,1.4157713614235354
+2,disease_on_drugs,17,13,1.2745098039215688

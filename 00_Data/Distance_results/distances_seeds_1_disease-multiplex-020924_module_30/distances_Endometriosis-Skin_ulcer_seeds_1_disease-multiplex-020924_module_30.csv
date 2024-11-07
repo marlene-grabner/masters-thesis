@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,12,19,1.3053197509903791
+2,disease_on_drugs,27,22,0.6437847866419295

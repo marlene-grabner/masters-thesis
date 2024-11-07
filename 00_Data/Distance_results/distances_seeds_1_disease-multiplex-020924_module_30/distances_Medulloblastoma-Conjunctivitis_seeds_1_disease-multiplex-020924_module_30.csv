@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.22676450034940587
+1,disease_on_symptoms,19,27,0.7854902957877785
+2,disease_on_drugs,24,26,0.3007051282051283

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Prostatitis nodes,sAB
+0,disease_on_genes,25,30,-0.1636363636363637
+1,disease_on_symptoms,19,22,0.3039444509277629
+2,disease_on_drugs,23,28,-0.17411094872731703

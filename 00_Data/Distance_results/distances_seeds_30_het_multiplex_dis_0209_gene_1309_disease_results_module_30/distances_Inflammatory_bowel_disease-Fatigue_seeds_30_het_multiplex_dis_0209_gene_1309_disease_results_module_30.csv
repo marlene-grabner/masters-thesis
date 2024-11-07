@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.05769230769230771
+1,disease_on_symptoms,20,16,1.6777777777777776
+2,disease_on_drugs,27,26,0.05368757727248297

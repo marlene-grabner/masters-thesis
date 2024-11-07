@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,17,0.3705684293919589
+1,disease_on_symptoms,16,25,0.7382317073170732
+2,disease_on_drugs,18,13,1.0583126550868487

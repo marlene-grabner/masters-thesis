@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Gangrene nodes,sAB
+0,disease_on_genes,24,26,0.2191666666666665
+1,disease_on_symptoms,18,19,0.2962304409672831
+2,disease_on_drugs,18,23,0.2709437963944856

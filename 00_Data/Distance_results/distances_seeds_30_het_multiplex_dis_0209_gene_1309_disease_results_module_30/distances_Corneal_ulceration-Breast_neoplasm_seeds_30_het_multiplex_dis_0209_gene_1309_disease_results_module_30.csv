@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.17302955665024622
+1,disease_on_symptoms,15,20,0.05119047619047623
+2,disease_on_drugs,23,30,-0.036095159967186374

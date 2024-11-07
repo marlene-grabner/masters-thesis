@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,0.12420178799489134
+1,disease_on_symptoms,22,16,0.5122607655502396
+2,disease_on_drugs,26,25,0.5686274509803921

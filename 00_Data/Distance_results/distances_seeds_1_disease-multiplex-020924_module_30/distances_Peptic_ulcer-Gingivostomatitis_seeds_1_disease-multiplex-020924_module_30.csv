@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,28,30,-0.08760262725779944
+1,disease_on_symptoms,14,23,0.6658972637233505
+2,disease_on_drugs,28,29,0.49213551119177246

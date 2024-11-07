@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,23,24,0.18917668825161882
+1,disease_on_symptoms,20,23,1.0492416582406472
+2,disease_on_drugs,19,24,0.6744186046511629

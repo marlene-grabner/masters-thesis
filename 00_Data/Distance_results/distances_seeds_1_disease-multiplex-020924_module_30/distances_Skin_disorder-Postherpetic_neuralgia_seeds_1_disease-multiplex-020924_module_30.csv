@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,7,30,0.2285070785070784
+1,disease_on_symptoms,30,15,1.4555555555555557
+2,disease_on_drugs,6,29,0.7851395730706074

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,18,0.25168067226890756
+2,disease_on_drugs,28,27,0.10833333333333339

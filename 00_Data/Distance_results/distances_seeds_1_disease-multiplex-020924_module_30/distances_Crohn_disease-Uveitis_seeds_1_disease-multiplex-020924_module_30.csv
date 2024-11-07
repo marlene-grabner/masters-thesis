@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,-0.187962962962963
+1,disease_on_symptoms,20,21,-0.16846689895470401
+2,disease_on_drugs,21,27,-0.17030423280423268

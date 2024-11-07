@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.11893629456458199
+1,disease_on_symptoms,21,13,-0.06604180133591875
+2,disease_on_drugs,29,28,0.1941491660184944

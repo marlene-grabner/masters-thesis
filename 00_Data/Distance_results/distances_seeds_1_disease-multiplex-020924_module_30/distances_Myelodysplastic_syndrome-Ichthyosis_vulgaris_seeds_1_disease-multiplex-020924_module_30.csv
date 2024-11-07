@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,26,27,0.22711390635918915
+1,disease_on_symptoms,15,21,1.0253968253968258
+2,disease_on_drugs,21,27,0.38690476190476186

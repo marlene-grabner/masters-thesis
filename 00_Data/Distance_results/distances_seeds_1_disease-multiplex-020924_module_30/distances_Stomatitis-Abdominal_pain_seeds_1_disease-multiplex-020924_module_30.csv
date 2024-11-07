@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,23,24,1.0890957446808511
+2,disease_on_drugs,30,24,0.3583333333333334

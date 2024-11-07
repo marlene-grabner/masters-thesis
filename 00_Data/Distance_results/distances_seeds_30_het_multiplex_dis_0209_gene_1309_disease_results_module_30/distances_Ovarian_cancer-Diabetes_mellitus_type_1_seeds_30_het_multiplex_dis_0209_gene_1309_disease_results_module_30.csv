@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,17,18,1.4694677871148458
+2,disease_on_drugs,17,26,0.21924655371987778

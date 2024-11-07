@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,29,25,0.23777777777777764
+1,disease_on_symptoms,15,17,1.3839460784313724
+2,disease_on_drugs,27,24,1.0389433551198257

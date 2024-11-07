@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,11,20,0.5061583577712612
+2,disease_on_drugs,21,24,0.2150793650793652

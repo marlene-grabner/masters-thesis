@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,24,27,0.17361111111111094
+1,disease_on_symptoms,20,15,1.175
+2,disease_on_drugs,22,26,0.43881118881118875

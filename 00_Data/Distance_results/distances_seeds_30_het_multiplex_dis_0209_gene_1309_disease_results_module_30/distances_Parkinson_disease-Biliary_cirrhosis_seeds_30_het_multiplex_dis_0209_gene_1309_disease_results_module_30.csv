@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.0011773940345369827
+1,disease_on_symptoms,23,22,0.9137900746596399
+2,disease_on_drugs,22,25,0.2200773694390714

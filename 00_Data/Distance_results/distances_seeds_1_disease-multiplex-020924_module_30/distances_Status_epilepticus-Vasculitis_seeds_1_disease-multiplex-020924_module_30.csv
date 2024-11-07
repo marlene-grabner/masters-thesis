@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,24,0.20720830622424624
+1,disease_on_symptoms,17,19,2.086343309253526
+2,disease_on_drugs,30,20,0.44999999999999996

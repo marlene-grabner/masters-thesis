@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,21,0.09821428571428559
+1,disease_on_symptoms,14,22,1.0797258297258296
+2,disease_on_drugs,13,20,-0.06439393939393945

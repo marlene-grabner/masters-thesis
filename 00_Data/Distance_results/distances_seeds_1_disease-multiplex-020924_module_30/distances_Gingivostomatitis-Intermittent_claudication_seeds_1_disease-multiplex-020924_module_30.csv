@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.19833333333333347
+1,disease_on_symptoms,23,24,0.6386255010792476
+2,disease_on_drugs,29,18,0.7307817722344501

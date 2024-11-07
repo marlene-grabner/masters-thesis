@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Propionic_acidemia nodes,sAB
+0,disease_on_genes,30,22,-0.014102564102564052
+1,disease_on_symptoms,14,17,0.5325291406885333
+2,disease_on_drugs,29,21,0.20857142857142863

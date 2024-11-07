@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,28,0.3680969665543168
+1,disease_on_symptoms,17,25,1.615182072829132
+2,disease_on_drugs,30,23,0.8970467596390486

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,26,25,0.0
+1,disease_on_symptoms,20,20,1.4249999999999998
+2,disease_on_drugs,24,21,0.08968253968253981

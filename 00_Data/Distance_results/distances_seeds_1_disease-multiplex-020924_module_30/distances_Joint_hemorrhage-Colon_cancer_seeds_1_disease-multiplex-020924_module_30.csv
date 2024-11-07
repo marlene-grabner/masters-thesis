@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.39505494505494476
+1,disease_on_symptoms,13,21,1.2449903038138332
+2,disease_on_drugs,18,24,1.0595238095238093

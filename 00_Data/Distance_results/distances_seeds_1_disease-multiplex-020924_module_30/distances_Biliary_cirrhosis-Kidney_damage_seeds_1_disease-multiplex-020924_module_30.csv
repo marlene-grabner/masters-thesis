@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.3782608695652172
+1,disease_on_symptoms,15,26,0.6873358348968106
+2,disease_on_drugs,15,13,0.41959706959706966

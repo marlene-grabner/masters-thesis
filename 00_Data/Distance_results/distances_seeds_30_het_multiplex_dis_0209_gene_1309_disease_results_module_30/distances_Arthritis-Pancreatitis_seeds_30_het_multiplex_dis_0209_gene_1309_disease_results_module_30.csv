@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,17,0.2912162162162162
+2,disease_on_drugs,29,30,-0.03309955191895586

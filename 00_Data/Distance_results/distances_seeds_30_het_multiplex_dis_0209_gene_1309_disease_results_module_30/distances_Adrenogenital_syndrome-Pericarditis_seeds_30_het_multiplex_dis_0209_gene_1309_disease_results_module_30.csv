@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.2321428571428572
+1,disease_on_symptoms,9,21,0.00952380952380949
+2,disease_on_drugs,23,26,0.18495324551225156

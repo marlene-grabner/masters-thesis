@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Headache nodes,sAB
+0,disease_on_genes,27,30,-0.10721247563352843
+1,disease_on_symptoms,21,23,0.11528326745718043
+2,disease_on_drugs,25,23,-0.25648550724637686

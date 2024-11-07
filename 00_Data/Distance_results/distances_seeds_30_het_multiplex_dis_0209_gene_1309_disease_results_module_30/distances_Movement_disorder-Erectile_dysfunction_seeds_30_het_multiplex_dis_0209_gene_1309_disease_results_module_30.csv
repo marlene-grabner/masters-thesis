@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,17,15,-0.3426470588235295
+2,disease_on_drugs,26,30,-0.1595238095238094

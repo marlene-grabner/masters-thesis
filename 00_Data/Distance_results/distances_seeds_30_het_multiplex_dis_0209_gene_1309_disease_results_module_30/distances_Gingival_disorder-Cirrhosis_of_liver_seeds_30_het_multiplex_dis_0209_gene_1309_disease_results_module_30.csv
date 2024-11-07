@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,19,19,-0.1842105263157896
+2,disease_on_drugs,24,30,-0.18009259259259247

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.221186440677966
+1,disease_on_symptoms,15,16,0.5630376344086021
+2,disease_on_drugs,23,29,0.922557951793334

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,0.20879120879120894
+1,disease_on_symptoms,28,16,0.6988636363636362
+2,disease_on_drugs,23,24,0.7242715078630897

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,13,30,0.10050685748360166
+1,disease_on_symptoms,26,15,0.9444965603502191
+2,disease_on_drugs,9,30,-0.02991452991453003

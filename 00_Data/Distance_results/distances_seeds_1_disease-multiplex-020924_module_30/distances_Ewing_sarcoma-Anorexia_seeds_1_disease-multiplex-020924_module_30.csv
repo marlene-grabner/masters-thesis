@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,24,17,0.35643830703012913
+1,disease_on_symptoms,25,25,2.2
+2,disease_on_drugs,17,13,1.3948717948717948

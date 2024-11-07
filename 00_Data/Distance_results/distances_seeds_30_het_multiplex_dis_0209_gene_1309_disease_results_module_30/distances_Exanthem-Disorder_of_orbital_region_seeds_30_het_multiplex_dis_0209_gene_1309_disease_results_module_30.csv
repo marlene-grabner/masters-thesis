@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000155
+1,disease_on_symptoms,21,18,0.1413308913308915
+2,disease_on_drugs,29,28,0.0513568403768041

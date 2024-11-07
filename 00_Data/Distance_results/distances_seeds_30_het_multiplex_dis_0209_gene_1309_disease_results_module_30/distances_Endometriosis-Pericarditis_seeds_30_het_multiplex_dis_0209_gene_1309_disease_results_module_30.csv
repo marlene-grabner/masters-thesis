@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.03452380952380951
+1,disease_on_symptoms,16,21,0.02883687258687262
+2,disease_on_drugs,30,26,0.08049450549450543

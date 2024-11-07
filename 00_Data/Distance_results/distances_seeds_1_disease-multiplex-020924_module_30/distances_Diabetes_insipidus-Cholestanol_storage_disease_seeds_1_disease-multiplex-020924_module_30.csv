@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,24,30,0.18287037037037024
+1,disease_on_symptoms,18,17,0.1978991596638655
+2,disease_on_drugs,18,25,0.3683720930232557

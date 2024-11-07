@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,29,30,0.14035087719298245
+1,disease_on_symptoms,17,14,1.598400650582814
+2,disease_on_drugs,26,22,0.12485431235431244

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.11919929865575662
+1,disease_on_symptoms,19,20,1.0705465587044534
+2,disease_on_drugs,20,28,0.2124999999999999

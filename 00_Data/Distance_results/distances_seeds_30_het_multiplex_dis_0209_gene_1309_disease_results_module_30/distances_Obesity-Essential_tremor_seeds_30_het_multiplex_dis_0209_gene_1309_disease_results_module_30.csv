@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,-0.2222222222222222
+1,disease_on_symptoms,18,23,0.41811005066572404
+2,disease_on_drugs,25,21,-0.26252587991718435

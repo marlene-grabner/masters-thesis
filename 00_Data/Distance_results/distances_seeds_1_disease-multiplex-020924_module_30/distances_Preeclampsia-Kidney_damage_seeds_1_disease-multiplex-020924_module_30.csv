@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.13913043478260856
+1,disease_on_symptoms,17,26,0.788093233715669
+2,disease_on_drugs,23,13,-0.10293571163136361

@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,17,23,0.20632798573975042
+1,disease_on_symptoms,21,18,2.0781440781440783
+2,disease_on_drugs,14,18,0.84375

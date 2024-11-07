@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,21,21,0.26190476190476186
+2,disease_on_drugs,29,30,0.23811611143580746

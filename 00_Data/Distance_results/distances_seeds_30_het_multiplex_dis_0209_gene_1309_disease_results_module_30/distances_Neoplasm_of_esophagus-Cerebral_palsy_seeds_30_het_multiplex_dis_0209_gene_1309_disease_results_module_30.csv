@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,29,30,0.01665692577440092
+1,disease_on_symptoms,20,13,0.6707459207459205
+2,disease_on_drugs,25,21,0.11387163561076608

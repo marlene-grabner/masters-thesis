@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.24327317473338783
+1,disease_on_symptoms,15,20,1.1488095238095235
+2,disease_on_drugs,23,20,0.9765166835187058

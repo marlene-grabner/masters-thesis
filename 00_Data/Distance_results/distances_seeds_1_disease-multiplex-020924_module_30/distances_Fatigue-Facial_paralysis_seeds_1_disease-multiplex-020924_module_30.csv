@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,-0.1420329670329672
+1,disease_on_symptoms,21,23,1.3255223037831736
+2,disease_on_drugs,26,14,-0.013461538461538414

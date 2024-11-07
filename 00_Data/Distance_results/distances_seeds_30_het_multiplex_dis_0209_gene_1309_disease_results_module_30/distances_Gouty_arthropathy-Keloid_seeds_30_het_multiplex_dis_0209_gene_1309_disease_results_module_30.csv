@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Keloid nodes,sAB
+0,disease_on_genes,28,23,0.0
+1,disease_on_symptoms,18,17,0.32096171802054174
+2,disease_on_drugs,23,22,0.07099253403601247

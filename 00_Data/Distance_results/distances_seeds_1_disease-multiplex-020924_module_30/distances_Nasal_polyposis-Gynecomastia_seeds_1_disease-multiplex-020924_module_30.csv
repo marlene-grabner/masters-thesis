@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,15,30,0.4111111111111112
+1,disease_on_symptoms,25,16,0.7314024390243905
+2,disease_on_drugs,10,24,0.5433823529411763

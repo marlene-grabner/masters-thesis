@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,29,30,0.28897330995519166
+1,disease_on_symptoms,17,20,1.9300079491255964
+2,disease_on_drugs,26,30,0.8736263736263736

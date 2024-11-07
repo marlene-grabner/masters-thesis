@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,27,-0.01851851851851838
+1,disease_on_symptoms,21,27,1.351851851851852
+2,disease_on_drugs,27,26,0.1131806697844433

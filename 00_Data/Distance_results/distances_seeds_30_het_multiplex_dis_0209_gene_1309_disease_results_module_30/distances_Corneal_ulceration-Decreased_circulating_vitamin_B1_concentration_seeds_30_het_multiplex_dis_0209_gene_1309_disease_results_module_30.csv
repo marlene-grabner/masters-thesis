@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,28,30,-0.08682266009852213
+1,disease_on_symptoms,15,17,0.7329656862745098
+2,disease_on_drugs,23,25,-0.02126811594202893

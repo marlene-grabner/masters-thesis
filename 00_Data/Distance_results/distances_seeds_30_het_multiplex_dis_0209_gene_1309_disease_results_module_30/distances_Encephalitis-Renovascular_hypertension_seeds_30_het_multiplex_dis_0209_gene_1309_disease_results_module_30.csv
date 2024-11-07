@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,13,17,0.4862745098039216
+2,disease_on_drugs,22,29,0.06925748355768624

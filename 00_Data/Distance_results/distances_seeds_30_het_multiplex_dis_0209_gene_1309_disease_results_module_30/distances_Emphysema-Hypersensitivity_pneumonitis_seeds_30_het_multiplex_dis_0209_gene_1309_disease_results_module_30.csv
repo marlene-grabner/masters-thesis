@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,18,20,0.19166666666666665
+2,disease_on_drugs,27,25,-0.11632478632478627

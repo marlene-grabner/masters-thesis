@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,13,0.18383141248994916
+1,disease_on_symptoms,14,26,1.9074175824175827
+2,disease_on_drugs,24,9,0.36868686868686873

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,25,26,-0.29336349924585203
+1,disease_on_symptoms,22,22,-0.2954545454545454
+2,disease_on_drugs,25,25,-0.31999999999999995

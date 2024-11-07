@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,23,0.42509131613055273
+2,disease_on_drugs,28,29,-0.01884020395817143

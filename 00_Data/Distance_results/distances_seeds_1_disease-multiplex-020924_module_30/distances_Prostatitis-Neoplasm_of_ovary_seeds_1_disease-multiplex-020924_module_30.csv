@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,0.3453703703703703
+1,disease_on_symptoms,20,26,1.512458193979933
+2,disease_on_drugs,29,15,1.0336990595611288

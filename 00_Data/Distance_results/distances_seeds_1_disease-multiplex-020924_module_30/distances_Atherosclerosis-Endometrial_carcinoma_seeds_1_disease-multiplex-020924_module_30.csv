@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.2744052502050862
+1,disease_on_symptoms,13,21,1.2641672053436759
+2,disease_on_drugs,29,21,0.7085714285714286

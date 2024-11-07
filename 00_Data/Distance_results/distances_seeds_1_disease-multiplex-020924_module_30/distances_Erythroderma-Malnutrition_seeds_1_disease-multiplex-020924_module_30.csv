@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,26,0.07225274725274722
+1,disease_on_symptoms,19,18,1.5388019598545912
+2,disease_on_drugs,28,23,0.37254901960784315

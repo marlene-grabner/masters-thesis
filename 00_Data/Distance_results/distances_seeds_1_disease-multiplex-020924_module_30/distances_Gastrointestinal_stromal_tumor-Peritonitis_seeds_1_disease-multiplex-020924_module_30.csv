@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Peritonitis nodes,sAB
+0,disease_on_genes,23,30,0.13092698933552072
+1,disease_on_symptoms,20,17,0.9971383147853736
+2,disease_on_drugs,19,28,1.0706686930091185

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,23,26,-0.12244897959183676
+1,disease_on_symptoms,24,19,0.2952621379028968
+2,disease_on_drugs,22,24,-0.15225625823451905

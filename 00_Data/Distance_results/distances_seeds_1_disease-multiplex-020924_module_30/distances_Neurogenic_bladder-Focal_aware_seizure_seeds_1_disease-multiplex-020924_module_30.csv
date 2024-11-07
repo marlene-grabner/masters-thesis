@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.014689265536723228
+1,disease_on_symptoms,17,15,0.7876225490196078
+2,disease_on_drugs,26,29,0.509090909090909

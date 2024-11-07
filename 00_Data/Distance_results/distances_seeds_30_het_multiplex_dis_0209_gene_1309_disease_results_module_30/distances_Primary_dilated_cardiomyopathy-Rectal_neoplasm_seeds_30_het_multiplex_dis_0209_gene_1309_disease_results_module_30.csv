@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,24,20,0.7594696969696972
+2,disease_on_drugs,15,29,0.16682340647857896

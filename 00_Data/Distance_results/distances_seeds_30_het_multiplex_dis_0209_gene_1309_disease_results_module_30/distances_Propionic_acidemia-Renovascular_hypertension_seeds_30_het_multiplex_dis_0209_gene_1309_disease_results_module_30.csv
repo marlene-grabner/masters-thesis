@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,16,17,0.04517602495543671
+2,disease_on_drugs,30,29,-0.1032144944476916

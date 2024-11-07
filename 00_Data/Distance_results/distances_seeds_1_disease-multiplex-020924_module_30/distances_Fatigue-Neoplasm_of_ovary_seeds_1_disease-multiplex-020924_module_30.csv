@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,0.2565384615384616
+1,disease_on_symptoms,21,26,1.426700958615852
+2,disease_on_drugs,26,15,0.9127579737335836

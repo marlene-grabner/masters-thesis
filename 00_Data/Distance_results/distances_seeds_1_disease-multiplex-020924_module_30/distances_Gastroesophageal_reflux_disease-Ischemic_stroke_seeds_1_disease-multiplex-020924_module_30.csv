@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.19761904761904758
+1,disease_on_symptoms,17,16,1.1216577540106951
+2,disease_on_drugs,25,23,0.6222101449275363

@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,17,0.6900093370681604
+2,disease_on_drugs,26,25,0.039125188536953015

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Orchitis nodes,sAB
+0,disease_on_genes,21,23,0.40800865800865815
+1,disease_on_symptoms,20,16,1.5548611111111112
+2,disease_on_drugs,19,17,0.6356209150326797

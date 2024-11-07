@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,21,29,-0.12105090311986866
+1,disease_on_symptoms,20,17,0.42551669316375196
+2,disease_on_drugs,19,30,-0.020408163265306145

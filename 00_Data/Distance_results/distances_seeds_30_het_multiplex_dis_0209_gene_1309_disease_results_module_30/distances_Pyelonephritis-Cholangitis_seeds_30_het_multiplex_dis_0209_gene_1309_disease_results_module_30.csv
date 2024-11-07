@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,24,30,0.016203703703703498
+1,disease_on_symptoms,19,18,0.42464833254306944
+2,disease_on_drugs,19,28,-0.056950887857942556

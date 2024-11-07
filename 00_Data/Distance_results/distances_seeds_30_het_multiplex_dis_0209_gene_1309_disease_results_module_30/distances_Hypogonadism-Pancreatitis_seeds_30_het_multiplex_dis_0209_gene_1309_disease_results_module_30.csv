@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,17,17,-0.32352941176470584
+2,disease_on_drugs,29,30,-0.20317553087862827

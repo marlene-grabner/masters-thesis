@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,24,29,-0.018867924528301883
+1,disease_on_symptoms,22,25,0.9866150870406187
+2,disease_on_drugs,21,21,-0.0714285714285714

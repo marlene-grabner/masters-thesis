@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,26,30,-0.05494505494505486
+1,disease_on_symptoms,20,14,-0.08655462184873919
+2,disease_on_drugs,20,26,0.07441471571906355

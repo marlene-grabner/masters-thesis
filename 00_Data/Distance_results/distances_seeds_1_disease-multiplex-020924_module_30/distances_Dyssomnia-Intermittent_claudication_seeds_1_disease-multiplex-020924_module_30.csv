@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,18,20,0.18815789473684208
+1,disease_on_symptoms,21,24,3.0684523809523805
+2,disease_on_drugs,17,18,0.714939309056956

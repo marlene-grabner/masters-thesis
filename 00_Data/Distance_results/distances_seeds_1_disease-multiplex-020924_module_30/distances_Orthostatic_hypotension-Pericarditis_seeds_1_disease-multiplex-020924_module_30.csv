@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.23787878787878802
+1,disease_on_symptoms,12,22,0.6735739750445633
+2,disease_on_drugs,17,25,0.283921568627451

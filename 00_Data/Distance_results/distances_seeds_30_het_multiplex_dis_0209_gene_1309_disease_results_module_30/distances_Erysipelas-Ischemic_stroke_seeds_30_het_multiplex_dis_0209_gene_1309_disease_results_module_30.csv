@@ -1,0 +1,4 @@
+,Layer,Erysipelas nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,18,16,0.061274509803921795
+2,disease_on_drugs,29,28,0.05253435312418975

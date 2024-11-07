@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,18,16,0.29003267973856217
+2,disease_on_drugs,22,28,0.14896103896103896

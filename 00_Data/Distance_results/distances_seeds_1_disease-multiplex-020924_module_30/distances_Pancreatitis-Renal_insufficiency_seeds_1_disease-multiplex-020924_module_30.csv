@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.10333333333333328
+1,disease_on_symptoms,20,23,0.9468907987866533
+2,disease_on_drugs,30,17,0.7596996245306633

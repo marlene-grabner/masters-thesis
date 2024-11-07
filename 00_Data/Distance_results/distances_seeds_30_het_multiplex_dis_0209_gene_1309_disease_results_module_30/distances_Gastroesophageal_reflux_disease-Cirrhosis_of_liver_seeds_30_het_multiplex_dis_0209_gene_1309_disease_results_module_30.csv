@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,18,19,0.1083056740951478
+2,disease_on_drugs,25,30,0.03333333333333344

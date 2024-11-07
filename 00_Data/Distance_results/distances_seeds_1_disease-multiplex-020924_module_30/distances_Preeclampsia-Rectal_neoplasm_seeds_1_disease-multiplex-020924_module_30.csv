@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.1785714285714286
+1,disease_on_symptoms,17,21,1.870485036119711
+2,disease_on_drugs,23,29,0.6937781109445278

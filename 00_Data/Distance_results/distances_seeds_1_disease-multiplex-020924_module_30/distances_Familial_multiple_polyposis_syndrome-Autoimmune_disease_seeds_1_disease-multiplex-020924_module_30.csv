@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,18,22,0.2785353535353534
+1,disease_on_symptoms,26,19,2.7125506072874495
+2,disease_on_drugs,10,19,-0.09183303085299444

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.5087719298245614
+1,disease_on_symptoms,25,17,1.948235294117647
+2,disease_on_drugs,7,26,0.7385947385947385

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.05476190476190479
+1,disease_on_symptoms,17,17,0.23529411764705888
+2,disease_on_drugs,26,24,0.10499999999999998

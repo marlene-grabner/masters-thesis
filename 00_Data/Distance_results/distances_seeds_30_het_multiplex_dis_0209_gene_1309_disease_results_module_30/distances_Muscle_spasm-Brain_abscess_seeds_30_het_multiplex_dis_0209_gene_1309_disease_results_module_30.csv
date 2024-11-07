@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,15,21,0.42222222222222205
+2,disease_on_drugs,29,23,-0.20147618498443087

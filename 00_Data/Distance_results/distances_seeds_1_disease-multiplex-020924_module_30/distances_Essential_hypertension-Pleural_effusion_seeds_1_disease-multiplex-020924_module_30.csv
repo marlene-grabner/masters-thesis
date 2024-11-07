@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,0.06769293924466324
+1,disease_on_symptoms,14,20,1.0266806722689075
+2,disease_on_drugs,28,22,0.5042857142857144

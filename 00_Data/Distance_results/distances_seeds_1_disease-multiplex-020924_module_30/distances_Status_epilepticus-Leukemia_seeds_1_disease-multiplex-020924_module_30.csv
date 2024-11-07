@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,18,0.28063096111518715
+1,disease_on_symptoms,17,27,1.6064567241037828
+2,disease_on_drugs,30,17,1.3798498122653315

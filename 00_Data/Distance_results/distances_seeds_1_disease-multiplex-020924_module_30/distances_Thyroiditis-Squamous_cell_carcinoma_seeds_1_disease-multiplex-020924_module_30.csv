@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,26,16,0.1314102564102564
+1,disease_on_symptoms,28,26,1.7040598290598292
+2,disease_on_drugs,23,14,0.3836662749706228

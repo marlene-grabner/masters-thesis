@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,17,10,-0.3786492374727666
+2,disease_on_drugs,24,16,-0.1395833333333334

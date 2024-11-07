@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.22348111658456493
+1,disease_on_symptoms,14,20,0.12478991596638656
+2,disease_on_drugs,29,27,0.25

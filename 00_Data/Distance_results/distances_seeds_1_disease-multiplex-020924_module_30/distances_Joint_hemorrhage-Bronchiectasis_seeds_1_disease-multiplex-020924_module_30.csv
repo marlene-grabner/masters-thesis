@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.2833333333333332
+1,disease_on_symptoms,13,15,0.6316849816849817
+2,disease_on_drugs,18,26,-0.00815850815850827

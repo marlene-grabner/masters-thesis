@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,27,-0.0021442495126704486
+1,disease_on_symptoms,22,19,-0.21463998132804285
+2,disease_on_drugs,15,20,-0.32499999999999996

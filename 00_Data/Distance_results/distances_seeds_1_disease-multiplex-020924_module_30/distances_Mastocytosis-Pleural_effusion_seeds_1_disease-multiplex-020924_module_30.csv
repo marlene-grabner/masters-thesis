@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,18,30,0.2680555555555555
+1,disease_on_symptoms,28,20,0.5988095238095235
+2,disease_on_drugs,17,22,0.32579185520361986

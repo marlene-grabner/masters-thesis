@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.3642857142857141
+1,disease_on_symptoms,17,19,1.0439456484348122
+2,disease_on_drugs,28,18,0.4365079365079365

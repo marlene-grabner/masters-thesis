@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,0.5
+1,disease_on_symptoms,18,20,2.11125730994152
+2,disease_on_drugs,21,25,0.8219461697722568

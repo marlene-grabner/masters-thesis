@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.29824561403508776
+1,disease_on_symptoms,20,17,0.17957074721780608
+2,disease_on_drugs,28,24,-0.45581501831501847

@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.13207547169811318
+1,disease_on_symptoms,16,20,0.71875
+2,disease_on_drugs,27,20,-0.0009653270291567484

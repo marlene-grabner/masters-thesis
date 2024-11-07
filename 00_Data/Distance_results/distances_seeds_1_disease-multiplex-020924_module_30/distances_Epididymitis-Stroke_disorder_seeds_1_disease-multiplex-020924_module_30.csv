@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,29,30,0.3389733099551917
+1,disease_on_symptoms,23,15,0.5816170861937453
+2,disease_on_drugs,27,30,0.8401559454191032

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.0801001251564456
+1,disease_on_symptoms,21,24,0.14980158730158744
+2,disease_on_drugs,29,16,0.5058189655172414

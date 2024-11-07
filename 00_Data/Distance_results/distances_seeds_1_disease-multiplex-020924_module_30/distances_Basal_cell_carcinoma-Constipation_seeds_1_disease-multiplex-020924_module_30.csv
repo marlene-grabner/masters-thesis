@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Constipation nodes,sAB
+0,disease_on_genes,26,30,0.2676739926739926
+1,disease_on_symptoms,23,17,1.5092710997442453
+2,disease_on_drugs,25,27,1.0968660968660968

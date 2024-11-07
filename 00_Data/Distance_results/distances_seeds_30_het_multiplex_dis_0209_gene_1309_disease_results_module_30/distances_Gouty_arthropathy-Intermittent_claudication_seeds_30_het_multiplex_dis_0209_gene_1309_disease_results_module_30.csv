@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,30,-0.051724137931034475
+1,disease_on_symptoms,18,14,-0.3715277777777777
+2,disease_on_drugs,23,24,-0.04407570151094675

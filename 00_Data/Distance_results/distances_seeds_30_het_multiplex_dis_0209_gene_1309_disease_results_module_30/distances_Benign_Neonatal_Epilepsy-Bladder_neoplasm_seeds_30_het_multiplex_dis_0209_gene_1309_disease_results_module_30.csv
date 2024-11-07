@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,16,19,1.537828947368421
+2,disease_on_drugs,21,25,0.691511387163561

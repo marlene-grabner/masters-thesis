@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.22807017543859653
+1,disease_on_symptoms,17,18,0.31293183940242786
+2,disease_on_drugs,26,24,-0.17788461538461542

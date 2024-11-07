@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,21,30,-0.5924369747899159
+1,disease_on_symptoms,20,20,-0.675
+2,disease_on_drugs,21,30,-0.6162464985994398

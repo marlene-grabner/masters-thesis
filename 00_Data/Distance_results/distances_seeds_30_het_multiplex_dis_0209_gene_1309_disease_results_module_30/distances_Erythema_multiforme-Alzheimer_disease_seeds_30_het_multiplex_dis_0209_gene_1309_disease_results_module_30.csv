@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.2264150943396226
+1,disease_on_symptoms,18,19,0.019124387545440102
+2,disease_on_drugs,30,19,-0.17835660580021495

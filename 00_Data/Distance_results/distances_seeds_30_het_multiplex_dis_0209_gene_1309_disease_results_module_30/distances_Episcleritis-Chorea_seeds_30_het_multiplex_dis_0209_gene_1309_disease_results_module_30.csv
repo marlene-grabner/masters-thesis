@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Chorea nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,18,17,1.0549486461251167
+2,disease_on_drugs,28,24,0.4613095238095237

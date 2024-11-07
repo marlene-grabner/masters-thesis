@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,-0.06896551724137934
+1,disease_on_symptoms,17,23,0.06310741687979537
+2,disease_on_drugs,19,29,-0.1435269207501515

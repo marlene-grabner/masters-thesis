@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.4816710875331567
+1,disease_on_symptoms,13,18,2.732078853046595
+2,disease_on_drugs,16,19,0.6326597744360902

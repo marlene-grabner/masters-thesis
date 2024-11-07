@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,9,27,0.41666666666666674
+1,disease_on_symptoms,27,23,2.453236714975845
+2,disease_on_drugs,9,20,0.9655172413793103

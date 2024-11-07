@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.6785714285714286
+1,disease_on_symptoms,25,15,2.4016666666666664
+2,disease_on_drugs,7,21,1.4285714285714288

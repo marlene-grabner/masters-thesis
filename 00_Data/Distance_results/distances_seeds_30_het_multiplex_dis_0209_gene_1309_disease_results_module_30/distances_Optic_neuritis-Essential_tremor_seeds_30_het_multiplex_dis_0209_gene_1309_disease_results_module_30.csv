@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,-0.14583333333333337
+1,disease_on_symptoms,21,23,0.7663749294184077
+2,disease_on_drugs,27,21,-0.135251322751323

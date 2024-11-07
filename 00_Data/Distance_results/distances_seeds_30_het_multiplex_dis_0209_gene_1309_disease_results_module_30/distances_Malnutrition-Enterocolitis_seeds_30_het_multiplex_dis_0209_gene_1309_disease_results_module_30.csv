@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.1578947368421053
+1,disease_on_symptoms,14,21,0.2714285714285716
+2,disease_on_drugs,29,25,-0.13233716475095791

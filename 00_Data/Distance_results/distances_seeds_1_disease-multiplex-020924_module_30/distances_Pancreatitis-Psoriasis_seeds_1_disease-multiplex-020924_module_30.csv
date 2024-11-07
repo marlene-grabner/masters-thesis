@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.22520525451559936
+1,disease_on_symptoms,20,21,1.4869628339140535
+2,disease_on_drugs,30,28,0.6539408866995076

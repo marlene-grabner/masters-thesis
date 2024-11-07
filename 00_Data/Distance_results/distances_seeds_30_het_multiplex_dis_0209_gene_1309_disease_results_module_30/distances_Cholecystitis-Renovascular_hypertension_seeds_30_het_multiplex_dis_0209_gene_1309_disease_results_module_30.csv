@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,25,30,0.018181818181818077
+1,disease_on_symptoms,23,17,0.4235933503836318
+2,disease_on_drugs,21,29,-0.23536945812807875

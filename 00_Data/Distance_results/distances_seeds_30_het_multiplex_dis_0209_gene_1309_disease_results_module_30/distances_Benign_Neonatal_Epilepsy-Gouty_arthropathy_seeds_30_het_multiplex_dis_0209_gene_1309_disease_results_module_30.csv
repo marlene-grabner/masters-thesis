@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.2931034482758621
+1,disease_on_symptoms,16,18,1.025531045751634
+2,disease_on_drugs,21,23,0.5758987389422172

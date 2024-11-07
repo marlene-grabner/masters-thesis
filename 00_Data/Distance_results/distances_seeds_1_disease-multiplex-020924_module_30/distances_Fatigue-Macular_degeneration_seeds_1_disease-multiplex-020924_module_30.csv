@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.21272893772893764
+1,disease_on_symptoms,21,15,0.896031746031746
+2,disease_on_drugs,26,21,0.8738991504948952

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,21,15,0.4039682539682543
+2,disease_on_drugs,25,21,-0.1382194616977226

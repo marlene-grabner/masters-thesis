@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,29,27,0.2473088852399199
+1,disease_on_symptoms,17,19,0.8430512555899554
+2,disease_on_drugs,26,26,0.596153846153846

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,-0.07692307692307687
+1,disease_on_symptoms,20,22,0.3524891774891774
+2,disease_on_drugs,23,25,0.08637681159420274

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,14,0.17489177489177488
+1,disease_on_symptoms,16,25,0.28222560975609756
+2,disease_on_drugs,27,10,0.031081081081081097

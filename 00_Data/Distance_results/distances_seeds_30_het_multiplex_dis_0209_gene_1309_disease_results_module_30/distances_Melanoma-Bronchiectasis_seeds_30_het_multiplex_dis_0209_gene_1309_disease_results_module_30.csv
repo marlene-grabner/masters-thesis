@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.10428849902534099
+1,disease_on_symptoms,23,19,0.6869347281246596
+2,disease_on_drugs,25,25,0.32000000000000006

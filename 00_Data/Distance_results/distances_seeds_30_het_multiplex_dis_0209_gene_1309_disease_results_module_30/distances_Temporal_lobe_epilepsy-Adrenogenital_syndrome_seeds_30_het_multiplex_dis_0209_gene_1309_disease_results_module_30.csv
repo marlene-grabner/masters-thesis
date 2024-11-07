@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,9,-0.018099547511312597
+2,disease_on_drugs,28,23,0.2130221653878943

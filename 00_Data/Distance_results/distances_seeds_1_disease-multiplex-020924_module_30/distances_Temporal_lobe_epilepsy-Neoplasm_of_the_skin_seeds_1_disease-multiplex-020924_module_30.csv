@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,29,28,0.15694408434880303
+1,disease_on_symptoms,17,21,1.3177797434763379
+2,disease_on_drugs,26,24,0.9207692307692308

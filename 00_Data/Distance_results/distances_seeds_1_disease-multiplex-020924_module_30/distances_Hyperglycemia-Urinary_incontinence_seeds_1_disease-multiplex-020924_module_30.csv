@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,26,0.19157509157509156
+1,disease_on_symptoms,14,20,1.1586134453781511
+2,disease_on_drugs,26,20,0.3913043478260869

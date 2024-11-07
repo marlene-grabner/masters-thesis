@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,29,25,0.36592592592592577
+1,disease_on_symptoms,18,22,0.37803030303030294
+2,disease_on_drugs,30,24,0.9370370370370371

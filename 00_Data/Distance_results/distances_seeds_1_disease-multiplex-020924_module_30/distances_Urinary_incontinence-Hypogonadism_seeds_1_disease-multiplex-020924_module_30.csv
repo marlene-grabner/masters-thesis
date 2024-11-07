@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.1744755244755245
+1,disease_on_symptoms,20,12,0.8229166666666667
+2,disease_on_drugs,20,30,0.7833333333333334

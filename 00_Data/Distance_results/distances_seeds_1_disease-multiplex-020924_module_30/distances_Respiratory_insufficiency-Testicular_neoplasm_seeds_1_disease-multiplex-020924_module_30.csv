@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,0.3799999999999999
+1,disease_on_symptoms,20,25,1.8972222222222224
+2,disease_on_drugs,14,23,1.065595098203794

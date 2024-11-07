@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,14,21,1.1809523809523808
+2,disease_on_drugs,29,21,0.07750410509031203

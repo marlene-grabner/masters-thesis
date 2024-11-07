@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.2717416715371126
+1,disease_on_symptoms,17,16,1.1811497326203209
+2,disease_on_drugs,27,24,0.7647058823529411

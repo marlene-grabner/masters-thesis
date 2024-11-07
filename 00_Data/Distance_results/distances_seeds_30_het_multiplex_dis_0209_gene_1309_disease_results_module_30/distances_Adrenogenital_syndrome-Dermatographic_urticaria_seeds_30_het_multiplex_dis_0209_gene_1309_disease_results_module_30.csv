@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.15254237288135597
+1,disease_on_symptoms,9,18,0.2962962962962963
+2,disease_on_drugs,23,28,0.3093106807940569

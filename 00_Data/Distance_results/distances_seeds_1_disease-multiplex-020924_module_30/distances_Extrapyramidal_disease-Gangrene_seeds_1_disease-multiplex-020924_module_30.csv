@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,14,26,0.5142857142857145
+1,disease_on_symptoms,25,19,2.479473684210526
+2,disease_on_drugs,10,23,0.7767457180500659

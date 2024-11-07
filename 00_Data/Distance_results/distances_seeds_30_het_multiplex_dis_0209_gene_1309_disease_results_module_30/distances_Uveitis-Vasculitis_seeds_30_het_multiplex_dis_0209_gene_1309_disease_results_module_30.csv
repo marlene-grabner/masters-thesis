@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,20,18,0.37339181286549694
+2,disease_on_drugs,23,26,-0.04439969967920265

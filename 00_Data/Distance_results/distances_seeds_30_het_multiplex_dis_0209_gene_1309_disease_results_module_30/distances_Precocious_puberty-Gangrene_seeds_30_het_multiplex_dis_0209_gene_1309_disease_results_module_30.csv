@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,16,22,0.27870813397129224
+2,disease_on_drugs,27,27,0.5

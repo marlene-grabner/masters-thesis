@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,21,23,0.2716450216450217
+1,disease_on_symptoms,20,24,1.5337121212121212
+2,disease_on_drugs,19,22,1.1480044345898006

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.057273721629751195
+1,disease_on_symptoms,18,19,0.7212343922870237
+2,disease_on_drugs,26,22,-0.06687062937062938

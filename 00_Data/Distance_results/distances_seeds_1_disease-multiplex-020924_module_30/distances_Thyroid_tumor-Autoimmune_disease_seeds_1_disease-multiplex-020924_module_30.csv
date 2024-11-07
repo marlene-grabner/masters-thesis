@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,23,22,0.3327624066754502
+1,disease_on_symptoms,20,19,1.1016531713900135
+2,disease_on_drugs,20,19,0.41022267206477725

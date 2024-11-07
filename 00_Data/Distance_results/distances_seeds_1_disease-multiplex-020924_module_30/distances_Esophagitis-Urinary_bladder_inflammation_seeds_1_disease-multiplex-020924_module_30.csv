@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,24,25,0.14652173913043476
+1,disease_on_symptoms,23,22,0.7549626701800614
+2,disease_on_drugs,20,24,0.20984848484848473

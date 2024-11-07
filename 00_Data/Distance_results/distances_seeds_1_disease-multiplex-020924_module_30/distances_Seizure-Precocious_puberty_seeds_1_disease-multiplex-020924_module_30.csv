@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,29,30,0.25480225988700567
+1,disease_on_symptoms,25,14,1.3465934065934069
+2,disease_on_drugs,28,24,0.9807692307692308

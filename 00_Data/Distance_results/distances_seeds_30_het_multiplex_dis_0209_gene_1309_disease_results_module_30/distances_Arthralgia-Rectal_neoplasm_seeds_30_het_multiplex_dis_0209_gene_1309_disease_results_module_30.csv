@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,17,20,0.0900238473767887
+2,disease_on_drugs,30,29,0.033284628872004784

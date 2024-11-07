@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Myalgia nodes,sAB
+0,disease_on_genes,29,30,0.03360607831677398
+1,disease_on_symptoms,20,16,0.8076388888888888
+2,disease_on_drugs,24,29,0.1453182606809802

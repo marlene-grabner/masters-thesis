@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,23,30,-0.01953787257314743
+1,disease_on_symptoms,19,17,0.5901272789817682
+2,disease_on_drugs,21,17,-0.3154946189001917

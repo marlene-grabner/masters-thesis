@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,23,22,0.44387351778656137
+1,disease_on_symptoms,21,19,1.951378446115288
+2,disease_on_drugs,21,19,0.5022556390977444

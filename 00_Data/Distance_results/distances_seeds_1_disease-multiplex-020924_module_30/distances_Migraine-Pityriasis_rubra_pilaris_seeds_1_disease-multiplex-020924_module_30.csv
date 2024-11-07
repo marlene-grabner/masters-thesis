@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,28,0.0011494252873565092
+1,disease_on_symptoms,14,23,0.35344972301494026
+2,disease_on_drugs,29,26,-0.038461538461538325

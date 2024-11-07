@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,30,-0.10526315789473684
+1,disease_on_symptoms,17,17,0.08823529411764697
+2,disease_on_drugs,26,29,-0.19699782975645053

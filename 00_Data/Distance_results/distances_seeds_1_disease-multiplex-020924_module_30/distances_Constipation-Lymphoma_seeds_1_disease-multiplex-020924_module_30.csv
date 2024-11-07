@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.1605311355311354
+1,disease_on_symptoms,17,21,1.6030517470145953
+2,disease_on_drugs,27,25,1.345327635327635

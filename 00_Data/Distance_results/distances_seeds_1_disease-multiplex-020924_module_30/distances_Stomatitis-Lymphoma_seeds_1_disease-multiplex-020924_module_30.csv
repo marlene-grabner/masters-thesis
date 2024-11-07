@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.09148351648351638
+1,disease_on_symptoms,23,21,1.5584415584415585
+2,disease_on_drugs,30,25,0.769090909090909

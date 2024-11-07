@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,28,-0.03703703703703709
+1,disease_on_symptoms,21,22,0.2608980167119703
+2,disease_on_drugs,25,15,-0.18166666666666664

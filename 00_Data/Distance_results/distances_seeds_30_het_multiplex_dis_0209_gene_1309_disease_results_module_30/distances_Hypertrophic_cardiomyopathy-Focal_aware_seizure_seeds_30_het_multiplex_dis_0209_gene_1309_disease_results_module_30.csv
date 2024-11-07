@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.03418079096045212
+1,disease_on_symptoms,19,16,0.13486842105263164
+2,disease_on_drugs,22,29,0.00024586637162715697

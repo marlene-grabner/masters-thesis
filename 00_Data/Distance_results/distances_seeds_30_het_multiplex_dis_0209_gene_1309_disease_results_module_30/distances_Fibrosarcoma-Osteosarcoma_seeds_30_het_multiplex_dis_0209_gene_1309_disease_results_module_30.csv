@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333317
+1,disease_on_symptoms,14,22,-0.29653679653679665
+2,disease_on_drugs,26,29,-0.34914395948878707

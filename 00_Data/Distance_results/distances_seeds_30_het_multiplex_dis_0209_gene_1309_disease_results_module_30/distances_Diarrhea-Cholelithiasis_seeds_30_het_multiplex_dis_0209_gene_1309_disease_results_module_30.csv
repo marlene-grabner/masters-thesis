@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.036363636363636376
+1,disease_on_symptoms,21,20,0.6767131242741
+2,disease_on_drugs,29,18,-0.05064400423901505

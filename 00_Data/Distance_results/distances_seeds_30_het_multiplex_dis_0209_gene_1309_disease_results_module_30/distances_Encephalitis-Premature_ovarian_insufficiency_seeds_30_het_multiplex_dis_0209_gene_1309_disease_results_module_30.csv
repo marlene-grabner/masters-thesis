@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,30,0.30536723163841817
+1,disease_on_symptoms,13,18,0.5905017921146953
+2,disease_on_drugs,22,22,0.34090909090909083

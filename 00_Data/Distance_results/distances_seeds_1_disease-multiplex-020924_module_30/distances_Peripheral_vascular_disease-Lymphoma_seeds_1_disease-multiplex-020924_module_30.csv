@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Lymphoma nodes,sAB
+0,disease_on_genes,23,26,0.05441608081359628
+1,disease_on_symptoms,16,21,1.8372345559845558
+2,disease_on_drugs,22,25,1.0451063829787235

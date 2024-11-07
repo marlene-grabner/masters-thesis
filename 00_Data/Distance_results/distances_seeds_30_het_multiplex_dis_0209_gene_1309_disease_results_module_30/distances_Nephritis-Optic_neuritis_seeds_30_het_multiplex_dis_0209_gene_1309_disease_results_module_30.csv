@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.01754385964912286
+1,disease_on_symptoms,17,21,0.4570986289252543
+2,disease_on_drugs,25,27,-0.04396011396011401

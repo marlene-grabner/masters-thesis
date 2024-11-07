@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,18,16,-0.27941176470588225
+2,disease_on_drugs,29,30,-0.06927722579388274

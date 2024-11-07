@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,23,26,0.11978704525288375
+1,disease_on_symptoms,19,17,1.529153766769866
+2,disease_on_drugs,19,25,1.1390909090909092

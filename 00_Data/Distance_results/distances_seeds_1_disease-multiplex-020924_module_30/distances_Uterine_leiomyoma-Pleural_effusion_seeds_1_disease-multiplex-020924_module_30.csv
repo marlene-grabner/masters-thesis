@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,24,30,0.2842592592592592
+1,disease_on_symptoms,21,20,1.0003774680603947
+2,disease_on_drugs,18,22,0.37222222222222223

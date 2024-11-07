@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,27,30,0.24463937621832343
+1,disease_on_symptoms,17,13,1.5532428355957766
+2,disease_on_drugs,20,29,0.48979591836734704

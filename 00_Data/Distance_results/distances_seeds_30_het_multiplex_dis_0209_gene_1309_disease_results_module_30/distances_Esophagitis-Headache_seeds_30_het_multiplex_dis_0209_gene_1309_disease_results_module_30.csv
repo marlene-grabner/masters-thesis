@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,20,23,0.361248736097068
+2,disease_on_drugs,30,23,0.06283839212469222

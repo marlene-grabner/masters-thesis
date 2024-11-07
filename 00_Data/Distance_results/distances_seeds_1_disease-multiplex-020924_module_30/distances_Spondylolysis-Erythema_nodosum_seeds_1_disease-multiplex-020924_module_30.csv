@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,28,0.2353415103415104
+1,disease_on_symptoms,19,23,1.3243979514002395
+2,disease_on_drugs,20,28,0.3738095238095238

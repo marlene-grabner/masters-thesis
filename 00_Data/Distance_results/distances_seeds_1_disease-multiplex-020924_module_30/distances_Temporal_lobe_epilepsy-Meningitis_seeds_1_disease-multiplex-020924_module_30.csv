@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,0.3275862068965516
+1,disease_on_symptoms,17,20,2.1151430842607315
+2,disease_on_drugs,26,26,1.1153846153846154

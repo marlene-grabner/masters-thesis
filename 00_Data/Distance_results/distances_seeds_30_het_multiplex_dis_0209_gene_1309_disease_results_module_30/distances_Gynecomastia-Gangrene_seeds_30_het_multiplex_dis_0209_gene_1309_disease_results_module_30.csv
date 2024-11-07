@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,15,22,0.315929565929566
+2,disease_on_drugs,29,27,0.552020616675789

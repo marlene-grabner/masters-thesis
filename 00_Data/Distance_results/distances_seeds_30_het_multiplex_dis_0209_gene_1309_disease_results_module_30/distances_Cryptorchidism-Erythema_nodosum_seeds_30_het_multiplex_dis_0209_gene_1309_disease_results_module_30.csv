@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,23,30,0.053732567678424825
+1,disease_on_symptoms,19,22,0.9008927529466684
+2,disease_on_drugs,21,29,0.4501806239737274

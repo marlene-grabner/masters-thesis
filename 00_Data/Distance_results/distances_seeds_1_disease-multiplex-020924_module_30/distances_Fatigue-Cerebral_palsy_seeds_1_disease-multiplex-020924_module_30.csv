@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,26,27,0.002069558673332139
+1,disease_on_symptoms,21,16,0.9770752895752897
+2,disease_on_drugs,26,18,0.3024475524475525

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,11,16,0.3811026936026938
+2,disease_on_drugs,27,29,0.28680897646414905

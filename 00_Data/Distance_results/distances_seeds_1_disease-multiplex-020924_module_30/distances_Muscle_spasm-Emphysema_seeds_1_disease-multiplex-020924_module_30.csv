@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Emphysema nodes,sAB
+0,disease_on_genes,25,30,0.26515151515151514
+1,disease_on_symptoms,23,14,0.9573191203625986
+2,disease_on_drugs,19,29,0.8333333333333333

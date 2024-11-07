@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,17,18,-0.9771708683473388
+2,disease_on_drugs,26,28,-0.3194444444444444

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,13,20,0.661130536130536
+2,disease_on_drugs,22,29,0.4142387362468498

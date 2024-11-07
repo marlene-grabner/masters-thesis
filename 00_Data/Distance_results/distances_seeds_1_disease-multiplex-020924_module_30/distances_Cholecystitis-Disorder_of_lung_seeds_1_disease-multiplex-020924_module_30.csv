@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,25,27,0.596096866096866
+1,disease_on_symptoms,19,17,1.1928964568283456
+2,disease_on_drugs,13,20,0.41608391608391626

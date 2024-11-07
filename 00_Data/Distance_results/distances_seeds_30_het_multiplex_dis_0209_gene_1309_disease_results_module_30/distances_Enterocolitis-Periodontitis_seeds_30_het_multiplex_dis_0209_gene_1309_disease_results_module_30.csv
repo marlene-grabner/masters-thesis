@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,21,21,0.19047619047619047
+2,disease_on_drugs,25,28,-0.3007142857142857

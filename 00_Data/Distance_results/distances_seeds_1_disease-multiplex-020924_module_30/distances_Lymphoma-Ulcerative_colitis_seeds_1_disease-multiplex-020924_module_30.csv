@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,0.11354351448691058
+1,disease_on_symptoms,21,20,1.2680313588850176
+2,disease_on_drugs,25,25,0.3999999999999999

@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,29,30,0.050555230859146816
+1,disease_on_symptoms,20,24,0.28901515151515156
+2,disease_on_drugs,24,20,-0.011742424242424221

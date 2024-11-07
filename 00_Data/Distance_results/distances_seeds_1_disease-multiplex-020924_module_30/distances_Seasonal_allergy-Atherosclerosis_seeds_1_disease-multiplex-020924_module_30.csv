@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,29,30,0.1174751607247222
+1,disease_on_symptoms,15,13,0.3203296703296701
+2,disease_on_drugs,29,29,0.39655172413793105

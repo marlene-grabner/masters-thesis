@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.1415204678362575
+1,disease_on_symptoms,19,22,0.049043062200957
+2,disease_on_drugs,24,20,-0.2272727272727273

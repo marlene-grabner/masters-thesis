@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,27,30,-0.07212475633528281
+1,disease_on_symptoms,21,17,0.6929824561403506
+2,disease_on_drugs,25,26,0.0011010558069379783

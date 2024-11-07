@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,26,13,0.42307692307692313
+1,disease_on_symptoms,15,25,3.8333333333333335
+2,disease_on_drugs,26,8,0.6764705882352942

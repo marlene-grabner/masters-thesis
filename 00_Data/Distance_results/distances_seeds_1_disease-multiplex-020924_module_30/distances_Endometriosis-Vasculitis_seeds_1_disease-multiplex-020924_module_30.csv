@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.36805555555555536
+1,disease_on_symptoms,12,19,0.5922467458970004
+2,disease_on_drugs,27,20,0.8861702127659574

@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.26936339522546415
+1,disease_on_symptoms,23,18,2.0525215034759046
+2,disease_on_drugs,20,19,0.5120782726045883

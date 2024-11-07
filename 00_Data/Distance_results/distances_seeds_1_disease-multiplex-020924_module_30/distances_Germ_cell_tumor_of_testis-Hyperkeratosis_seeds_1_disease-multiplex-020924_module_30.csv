@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,0.1317126269956459
+1,disease_on_symptoms,23,21,1.83789760963674
+2,disease_on_drugs,20,23,0.6976744186046511

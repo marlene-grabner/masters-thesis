@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,0.0006157635467980427
+1,disease_on_symptoms,21,20,0.4376016260162603
+2,disease_on_drugs,23,28,0.049765558397271814

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,27,25,0.07752136752136751
+1,disease_on_symptoms,17,17,0.9117647058823528
+2,disease_on_drugs,24,24,0.12500000000000022

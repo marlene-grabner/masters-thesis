@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,-0.03738644304682048
+1,disease_on_symptoms,23,14,0.1288819875776397
+2,disease_on_drugs,26,26,0.038461538461538325

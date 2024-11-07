@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.2706043956043954
+1,disease_on_symptoms,16,22,-0.6776315789473684
+2,disease_on_drugs,25,25,-0.3799999999999998

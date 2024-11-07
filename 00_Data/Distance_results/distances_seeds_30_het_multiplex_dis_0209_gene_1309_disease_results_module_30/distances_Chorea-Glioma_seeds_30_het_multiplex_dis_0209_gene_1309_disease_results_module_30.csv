@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Glioma nodes,sAB
+0,disease_on_genes,30,22,0.03846153846153855
+1,disease_on_symptoms,17,21,1.613887660327289
+2,disease_on_drugs,24,21,0.36051587301587307

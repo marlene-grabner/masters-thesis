@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,0.2869696969696969
+1,disease_on_symptoms,23,14,1.1954423367466844
+2,disease_on_drugs,23,26,0.6923930107159919

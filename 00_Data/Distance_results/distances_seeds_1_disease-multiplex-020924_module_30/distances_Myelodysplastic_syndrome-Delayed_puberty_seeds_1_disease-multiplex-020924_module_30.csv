@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,26,22,0.21023302938196564
+1,disease_on_symptoms,15,20,1.6416666666666666
+2,disease_on_drugs,21,19,0.5009398496240602

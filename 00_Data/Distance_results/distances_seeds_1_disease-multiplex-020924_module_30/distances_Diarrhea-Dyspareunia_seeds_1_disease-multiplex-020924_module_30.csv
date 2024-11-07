@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,24,0.025054466230936878
+1,disease_on_symptoms,19,17,0.9721362229102168
+2,disease_on_drugs,26,23,0.4257559210975359

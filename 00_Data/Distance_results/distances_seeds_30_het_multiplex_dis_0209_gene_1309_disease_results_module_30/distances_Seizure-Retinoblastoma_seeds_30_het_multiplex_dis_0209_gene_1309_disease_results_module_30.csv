@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,21,21,1.142857142857143
+2,disease_on_drugs,29,27,0.823230249954388

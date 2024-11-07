@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,23,26,-0.2042352057880008
+1,disease_on_symptoms,19,25,0.6831100478468901
+2,disease_on_drugs,21,25,-0.10070393374741204

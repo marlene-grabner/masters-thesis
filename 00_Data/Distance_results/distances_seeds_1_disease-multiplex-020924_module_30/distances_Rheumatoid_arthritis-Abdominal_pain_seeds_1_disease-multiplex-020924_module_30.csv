@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.05146198830409343
+1,disease_on_symptoms,15,24,1.2125
+2,disease_on_drugs,25,24,0.2852721088435375

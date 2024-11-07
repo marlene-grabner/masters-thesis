@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,23,-0.0020289855072463947
+1,disease_on_symptoms,19,19,1.2368421052631577
+2,disease_on_drugs,24,11,1.1714285714285713

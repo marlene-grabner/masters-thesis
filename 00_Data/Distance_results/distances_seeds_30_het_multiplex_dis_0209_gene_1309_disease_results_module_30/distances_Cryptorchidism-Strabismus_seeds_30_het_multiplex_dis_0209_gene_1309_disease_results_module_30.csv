@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Strabismus nodes,sAB
+0,disease_on_genes,23,17,-0.4805626598465472
+1,disease_on_symptoms,19,24,-0.5511270909832721
+2,disease_on_drugs,21,16,-0.6375884813384813

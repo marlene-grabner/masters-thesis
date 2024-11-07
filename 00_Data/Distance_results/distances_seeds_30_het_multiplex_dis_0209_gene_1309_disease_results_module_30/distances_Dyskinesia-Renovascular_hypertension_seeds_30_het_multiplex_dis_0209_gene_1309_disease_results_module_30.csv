@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,15,17,0.14669117647058805
+2,disease_on_drugs,28,29,-0.27768775386742717

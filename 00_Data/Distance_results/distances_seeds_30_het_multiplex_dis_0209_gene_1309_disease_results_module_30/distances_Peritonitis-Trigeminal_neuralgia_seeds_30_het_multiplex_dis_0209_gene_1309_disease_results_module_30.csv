@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,14,15,-0.0023809523809523725
+2,disease_on_drugs,24,25,-0.1629421768707482

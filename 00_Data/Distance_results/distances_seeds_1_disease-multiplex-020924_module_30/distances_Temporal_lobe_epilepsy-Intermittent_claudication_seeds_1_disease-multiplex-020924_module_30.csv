@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,20,0.2955137227304714
+1,disease_on_symptoms,17,24,1.6439801530368243
+2,disease_on_drugs,26,18,0.6878399378399378

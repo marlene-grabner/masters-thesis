@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,20,28,0.13809523809523827
+1,disease_on_symptoms,23,19,0.9644219243761576
+2,disease_on_drugs,18,26,0.4151126651126651

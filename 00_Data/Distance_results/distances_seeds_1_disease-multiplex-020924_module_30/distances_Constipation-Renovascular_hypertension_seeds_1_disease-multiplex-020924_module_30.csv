@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.1317927170868345
+1,disease_on_symptoms,17,22,0.7250788427259014
+2,disease_on_drugs,27,20,0.622438928289992

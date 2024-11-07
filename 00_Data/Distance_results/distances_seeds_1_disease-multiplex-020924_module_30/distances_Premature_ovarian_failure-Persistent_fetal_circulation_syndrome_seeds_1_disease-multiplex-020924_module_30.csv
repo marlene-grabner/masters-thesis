@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,28,25,0.2618867924528301
+1,disease_on_symptoms,21,20,1.78130081300813
+2,disease_on_drugs,21,18,0.6382783882783882

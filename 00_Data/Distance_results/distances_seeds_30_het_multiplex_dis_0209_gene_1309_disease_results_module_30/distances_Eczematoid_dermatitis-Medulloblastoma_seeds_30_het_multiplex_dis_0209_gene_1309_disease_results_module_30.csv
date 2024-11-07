@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,25,22,0.697137330754352
+2,disease_on_drugs,30,26,0.21236263736263727

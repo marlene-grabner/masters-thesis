@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,20,18,0.8510233918128658
+2,disease_on_drugs,27,26,0.09251196043648857

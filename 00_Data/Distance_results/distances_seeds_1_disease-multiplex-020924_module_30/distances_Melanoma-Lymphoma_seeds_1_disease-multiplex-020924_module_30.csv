@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,24,26,-0.019230769230769162
+1,disease_on_symptoms,23,21,0.24421230942970062
+2,disease_on_drugs,22,25,-0.12510638297872345

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.17368421052631566
+1,disease_on_symptoms,19,20,-0.00445344129554659
+2,disease_on_drugs,24,27,-0.20343137254901966

@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,0.18254159633469969
+1,disease_on_symptoms,21,16,0.5753700128700125
+2,disease_on_drugs,24,25,0.38647959183673475

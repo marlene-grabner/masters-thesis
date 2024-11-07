@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,28,-0.11182336182336172
+1,disease_on_symptoms,18,22,0.35479797979797967
+2,disease_on_drugs,25,15,0.008333333333333304

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.13731527093596063
+1,disease_on_symptoms,20,19,0.9491902834008097
+2,disease_on_drugs,30,26,0.4464285714285714

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.10340722495894905
+1,disease_on_symptoms,25,18,0.8032816537467702
+2,disease_on_drugs,26,26,0.32692307692307687

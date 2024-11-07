@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Fatigue nodes,sAB
+0,disease_on_genes,26,26,0.05769230769230771
+1,disease_on_symptoms,28,21,0.6709183673469388
+2,disease_on_drugs,23,26,0.5316360657975565

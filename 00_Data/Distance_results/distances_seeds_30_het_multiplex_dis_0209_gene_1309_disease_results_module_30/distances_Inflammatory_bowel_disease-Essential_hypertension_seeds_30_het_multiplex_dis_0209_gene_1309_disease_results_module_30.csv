@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.10344827586206895
+1,disease_on_symptoms,20,13,0.9422494172494174
+2,disease_on_drugs,27,28,-0.03475228475228476

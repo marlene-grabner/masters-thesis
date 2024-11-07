@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,29,17,0.3146661963136079
+1,disease_on_symptoms,15,25,0.81
+2,disease_on_drugs,29,13,0.8490589869900214

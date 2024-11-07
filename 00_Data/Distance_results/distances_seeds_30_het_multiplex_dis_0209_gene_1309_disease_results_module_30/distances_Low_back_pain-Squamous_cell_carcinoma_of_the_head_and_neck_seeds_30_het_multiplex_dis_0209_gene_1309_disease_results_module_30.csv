@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666652
+1,disease_on_symptoms,16,22,-0.5005980861244019
+2,disease_on_drugs,25,30,-0.10636363636363644

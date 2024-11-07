@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,22,18,0.5424242424242423
+2,disease_on_drugs,25,29,-0.10702426564495515

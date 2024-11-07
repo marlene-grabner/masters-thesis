@@ -1,0 +1,4 @@
+,Layer,Renovascular_hypertension nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,21,30,-0.24075630252100866
+1,disease_on_symptoms,22,16,0.5801435406698565
+2,disease_on_drugs,20,23,-0.3049797775530839

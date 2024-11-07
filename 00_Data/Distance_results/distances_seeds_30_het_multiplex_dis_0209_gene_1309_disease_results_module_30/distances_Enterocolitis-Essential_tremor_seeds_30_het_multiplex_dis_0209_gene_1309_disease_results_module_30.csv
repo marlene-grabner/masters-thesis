@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.0
+1,disease_on_symptoms,21,23,1.1300112930547714
+2,disease_on_drugs,25,21,0.15399585921325043

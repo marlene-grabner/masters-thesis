@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,27,25,-0.17319088319088338
+1,disease_on_symptoms,21,21,0.47619047619047605
+2,disease_on_drugs,25,24,-0.021292517006803013

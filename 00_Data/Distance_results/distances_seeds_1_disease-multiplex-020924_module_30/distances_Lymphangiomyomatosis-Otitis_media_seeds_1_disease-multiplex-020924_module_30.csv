@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.07742946708463938
+1,disease_on_symptoms,19,22,0.7257556307620494
+2,disease_on_drugs,22,29,0.7562081258835824

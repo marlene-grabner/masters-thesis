@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,24,30,0.07175925925925908
+1,disease_on_symptoms,19,12,0.3050367855121676
+2,disease_on_drugs,19,23,0.03454287893647168

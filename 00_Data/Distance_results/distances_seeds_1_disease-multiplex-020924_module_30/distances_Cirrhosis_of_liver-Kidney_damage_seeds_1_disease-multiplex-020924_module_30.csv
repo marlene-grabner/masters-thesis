@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.023333333333333206
+1,disease_on_symptoms,14,26,-0.06675824175824174
+2,disease_on_drugs,26,13,-0.10897435897435903

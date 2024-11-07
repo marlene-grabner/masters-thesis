@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,25,26,0.45058823529411773
+1,disease_on_symptoms,19,19,0.8684210526315792
+2,disease_on_drugs,13,23,0.939799331103679

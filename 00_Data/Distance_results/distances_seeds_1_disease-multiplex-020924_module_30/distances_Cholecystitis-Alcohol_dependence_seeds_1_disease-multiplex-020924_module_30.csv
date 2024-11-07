@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,25,12,0.5599549549549552
+1,disease_on_symptoms,19,27,2.4652512924824137
+2,disease_on_drugs,13,9,0.8958818958818959

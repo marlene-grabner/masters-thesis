@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,15,24,0.2554487179487177
+2,disease_on_drugs,30,15,0.1499999999999999

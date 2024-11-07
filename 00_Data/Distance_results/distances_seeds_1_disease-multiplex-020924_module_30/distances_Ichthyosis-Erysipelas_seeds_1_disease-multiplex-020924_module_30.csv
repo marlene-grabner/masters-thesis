@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,-0.2367243867243869
+1,disease_on_symptoms,17,20,-0.15325914149443554
+2,disease_on_drugs,24,27,-0.196078431372549

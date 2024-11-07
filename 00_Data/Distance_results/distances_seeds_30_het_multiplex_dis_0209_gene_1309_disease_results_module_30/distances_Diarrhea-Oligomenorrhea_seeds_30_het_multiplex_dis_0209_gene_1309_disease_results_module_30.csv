@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,21,11,1.04396645021645
+2,disease_on_drugs,29,24,0.23999674690956385

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.019047619047619202
+1,disease_on_symptoms,15,12,0.34537037037037055
+2,disease_on_drugs,25,18,0.2959948320413437

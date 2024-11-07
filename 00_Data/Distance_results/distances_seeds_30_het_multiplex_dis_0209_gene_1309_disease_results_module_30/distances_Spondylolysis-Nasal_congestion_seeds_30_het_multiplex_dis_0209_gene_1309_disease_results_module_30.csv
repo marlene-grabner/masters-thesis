@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,-0.2068965517241379
+1,disease_on_symptoms,17,14,-0.2712794795337492
+2,disease_on_drugs,19,25,-0.4088038277511964

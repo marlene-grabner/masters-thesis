@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,0.1963636363636363
+1,disease_on_symptoms,25,13,1.7906882591093118
+2,disease_on_drugs,23,23,0.6739130434782608

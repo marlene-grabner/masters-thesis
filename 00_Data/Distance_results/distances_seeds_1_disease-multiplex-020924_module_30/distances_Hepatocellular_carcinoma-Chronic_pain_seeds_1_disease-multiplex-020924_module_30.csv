@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,23,30,0.08859721082854799
+1,disease_on_symptoms,19,22,2.813076204924729
+2,disease_on_drugs,19,28,1.1098024316109423

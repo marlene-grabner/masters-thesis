@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,29,29,0.24137931034482762
+1,disease_on_symptoms,17,25,1.9050980392156864
+2,disease_on_drugs,26,27,0.87070633768747

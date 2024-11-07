@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,24,30,-0.12962962962962965
+1,disease_on_symptoms,21,16,0.3820785070785071
+2,disease_on_drugs,24,29,-0.13051669919757103

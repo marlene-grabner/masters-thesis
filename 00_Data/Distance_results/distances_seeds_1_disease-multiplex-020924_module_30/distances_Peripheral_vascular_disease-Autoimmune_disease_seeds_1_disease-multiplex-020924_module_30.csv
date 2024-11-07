@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,23,22,0.1786561264822133
+1,disease_on_symptoms,16,19,2.1421522556390977
+2,disease_on_drugs,22,19,0.8029525032092428

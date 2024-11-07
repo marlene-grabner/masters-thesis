@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,22,25,0.3341005802707928
+1,disease_on_symptoms,22,21,1.3253800463102787
+2,disease_on_drugs,14,20,0.632563025210084

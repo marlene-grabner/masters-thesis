@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,26,18,-0.1328671328671328
+1,disease_on_symptoms,20,21,0.2614401858304298
+2,disease_on_drugs,27,17,-0.12527233115468417

@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.001818181818181941
+1,disease_on_symptoms,25,26,0.6868476621417798
+2,disease_on_drugs,30,24,0.25555555555555554

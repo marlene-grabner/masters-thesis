@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,-0.08620689655172409
+1,disease_on_symptoms,14,16,0.5339285714285713
+2,disease_on_drugs,28,25,0.1132075471698113

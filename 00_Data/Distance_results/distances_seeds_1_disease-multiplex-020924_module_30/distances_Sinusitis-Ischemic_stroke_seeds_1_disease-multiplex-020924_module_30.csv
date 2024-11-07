@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,0.3383888564192479
+1,disease_on_symptoms,21,16,0.9443371943371943
+2,disease_on_drugs,28,23,0.7614328340031662

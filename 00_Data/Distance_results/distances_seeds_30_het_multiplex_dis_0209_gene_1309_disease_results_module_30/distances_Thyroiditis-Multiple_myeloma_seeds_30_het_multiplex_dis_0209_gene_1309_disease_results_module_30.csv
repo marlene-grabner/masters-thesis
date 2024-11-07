@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.1607142857142857
+1,disease_on_symptoms,21,21,-0.09523809523809512
+2,disease_on_drugs,29,25,-0.14089399744572173

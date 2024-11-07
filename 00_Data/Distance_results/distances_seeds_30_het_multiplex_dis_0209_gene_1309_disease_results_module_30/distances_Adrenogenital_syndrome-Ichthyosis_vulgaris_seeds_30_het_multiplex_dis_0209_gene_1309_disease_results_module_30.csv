@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.14035087719298245
+1,disease_on_symptoms,9,21,0.8095238095238093
+2,disease_on_drugs,23,24,0.16830481036077716

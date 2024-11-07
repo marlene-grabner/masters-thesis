@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,22,0.22450466200466201
+1,disease_on_symptoms,19,23,1.7504086302713304
+2,disease_on_drugs,24,17,0.920343137254902

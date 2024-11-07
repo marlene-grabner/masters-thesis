@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.07005494505494503
+1,disease_on_symptoms,21,17,0.356921716054843
+2,disease_on_drugs,25,27,0.2698290598290598

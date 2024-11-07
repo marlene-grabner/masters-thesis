@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,15,18,0.09242424242424252
+2,disease_on_drugs,30,27,-0.006140350877193113

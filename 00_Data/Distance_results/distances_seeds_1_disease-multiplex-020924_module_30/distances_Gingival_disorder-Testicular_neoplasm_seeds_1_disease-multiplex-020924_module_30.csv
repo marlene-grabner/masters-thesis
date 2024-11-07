@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,21,25,0.3016149068322982
+1,disease_on_symptoms,26,25,1.5681749622926096
+2,disease_on_drugs,20,23,0.9797775530839232

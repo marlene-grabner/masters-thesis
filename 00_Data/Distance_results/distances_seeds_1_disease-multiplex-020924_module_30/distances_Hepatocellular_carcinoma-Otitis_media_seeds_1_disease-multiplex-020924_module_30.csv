@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,23,29,0.2164686887325571
+1,disease_on_symptoms,19,22,1.9433422803127551
+2,disease_on_drugs,19,29,1.1982758620689655

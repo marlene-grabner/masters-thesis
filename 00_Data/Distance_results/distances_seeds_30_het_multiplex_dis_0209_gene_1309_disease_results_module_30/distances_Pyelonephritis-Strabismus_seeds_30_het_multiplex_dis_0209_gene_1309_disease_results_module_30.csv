@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Strabismus nodes,sAB
+0,disease_on_genes,24,17,-0.05526661884265893
+1,disease_on_symptoms,19,24,1.428677070583435
+2,disease_on_drugs,19,16,0.21141917293233092

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,25,18,0.5001291989664083
+1,disease_on_symptoms,23,28,1.4559280233832665
+2,disease_on_drugs,19,17,0.968954248366013

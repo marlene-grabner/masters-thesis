@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,18,26,0.3620823620823621
+1,disease_on_symptoms,28,17,0.5197245564892623
+2,disease_on_drugs,17,18,0.603081232492997

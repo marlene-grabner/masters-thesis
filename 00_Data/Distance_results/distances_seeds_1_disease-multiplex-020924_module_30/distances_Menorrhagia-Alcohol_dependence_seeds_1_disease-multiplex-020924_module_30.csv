@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,12,0.24274628879892024
+1,disease_on_symptoms,19,27,0.7226883634206289
+2,disease_on_drugs,24,9,0.17108585858585834

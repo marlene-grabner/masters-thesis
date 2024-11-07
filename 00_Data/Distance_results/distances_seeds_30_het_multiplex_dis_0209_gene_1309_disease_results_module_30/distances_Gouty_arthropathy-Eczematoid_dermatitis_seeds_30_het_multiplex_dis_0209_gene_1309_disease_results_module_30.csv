@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,28,30,0.2068965517241379
+1,disease_on_symptoms,18,25,0.6973385012919897
+2,disease_on_drugs,23,30,0.22317473338802296

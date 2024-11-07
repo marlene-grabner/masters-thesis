@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,0.09090909090909083
+1,disease_on_symptoms,21,19,1.062155388471178
+2,disease_on_drugs,27,25,0.5537891737891738

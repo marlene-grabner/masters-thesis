@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,20,27,-0.02224192277383774
+1,disease_on_symptoms,25,23,0.6814855072463768
+2,disease_on_drugs,19,15,-0.04674922600619191

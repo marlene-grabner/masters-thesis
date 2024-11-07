@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,23,17,0.2759590792838873
+1,disease_on_symptoms,21,22,2.251937984496124
+2,disease_on_drugs,19,15,0.5843137254901962

@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,0.33331825037707397
+1,disease_on_symptoms,21,20,0.7076655052264811
+2,disease_on_drugs,24,21,0.6888888888888889

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,24,1.1339285714285716
+2,disease_on_drugs,25,20,0.5905555555555555

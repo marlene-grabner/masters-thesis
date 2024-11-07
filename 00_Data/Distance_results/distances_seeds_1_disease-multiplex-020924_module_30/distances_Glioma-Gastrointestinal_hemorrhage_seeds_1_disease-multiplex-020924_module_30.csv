@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,22,27,0.3075826290112005
+1,disease_on_symptoms,24,19,0.9455069359445125
+2,disease_on_drugs,20,27,1.1664893617021277

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,-0.10983397190293731
+1,disease_on_symptoms,17,20,0.9697535771065184
+2,disease_on_drugs,21,28,0.2797619047619049

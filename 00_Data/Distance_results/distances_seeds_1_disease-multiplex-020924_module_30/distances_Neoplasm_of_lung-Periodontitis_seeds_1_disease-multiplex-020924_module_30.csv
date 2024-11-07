@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.18226688542521186
+1,disease_on_symptoms,20,25,0.9572222222222222
+2,disease_on_drugs,30,22,0.8189976689976688

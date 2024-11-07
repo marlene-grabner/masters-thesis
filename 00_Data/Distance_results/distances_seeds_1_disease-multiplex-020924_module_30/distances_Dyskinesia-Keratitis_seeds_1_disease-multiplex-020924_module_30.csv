@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Keratitis nodes,sAB
+0,disease_on_genes,24,28,0.2896062271062272
+1,disease_on_symptoms,17,25,1.637591036414566
+2,disease_on_drugs,23,23,0.956521739130435

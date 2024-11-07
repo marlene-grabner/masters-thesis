@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.15517241379310343
+1,disease_on_symptoms,14,13,0.1905779405779402
+2,disease_on_drugs,26,28,-0.22395197395197397

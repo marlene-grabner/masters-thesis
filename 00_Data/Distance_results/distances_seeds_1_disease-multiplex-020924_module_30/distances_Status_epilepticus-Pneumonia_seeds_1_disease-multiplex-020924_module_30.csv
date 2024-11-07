@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Pneumonia nodes,sAB
+0,disease_on_genes,29,30,0.2884083382037794
+1,disease_on_symptoms,17,26,2.1578185836051773
+2,disease_on_drugs,30,28,1.0344827586206895

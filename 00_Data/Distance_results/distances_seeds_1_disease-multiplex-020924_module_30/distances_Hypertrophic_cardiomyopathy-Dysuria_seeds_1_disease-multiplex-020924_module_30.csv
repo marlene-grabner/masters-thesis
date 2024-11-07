@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,0.3027274498344048
+1,disease_on_symptoms,17,16,1.3621323529411766
+2,disease_on_drugs,17,23,0.7782608695652173

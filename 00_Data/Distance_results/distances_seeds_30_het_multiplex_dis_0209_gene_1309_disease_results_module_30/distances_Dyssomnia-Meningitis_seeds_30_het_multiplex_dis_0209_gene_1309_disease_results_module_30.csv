@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Meningitis nodes,sAB
+0,disease_on_genes,18,29,0.0851063829787233
+1,disease_on_symptoms,21,17,2.5769570986289256
+2,disease_on_drugs,17,27,0.33026341849871277

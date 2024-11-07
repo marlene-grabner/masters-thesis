@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,29,30,0.15253263198909006
+1,disease_on_symptoms,17,16,1.2687722816399285
+2,disease_on_drugs,26,30,0.6450549450549448

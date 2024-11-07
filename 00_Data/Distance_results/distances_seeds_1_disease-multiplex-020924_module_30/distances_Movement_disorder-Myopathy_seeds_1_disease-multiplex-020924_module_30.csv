@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,18,0.4805555555555556
+1,disease_on_symptoms,22,21,1.4634299808718416
+2,disease_on_drugs,15,6,0.9714285714285715

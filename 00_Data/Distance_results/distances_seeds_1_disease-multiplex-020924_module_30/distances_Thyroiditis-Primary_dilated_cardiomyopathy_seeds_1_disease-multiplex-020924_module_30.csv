@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.6016483516483517
+1,disease_on_symptoms,28,25,1.2633018867924526
+2,disease_on_drugs,23,7,1.206832298136646

@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,0.14376218323586754
+1,disease_on_symptoms,16,17,2.0619986631016043
+2,disease_on_drugs,23,20,0.20930232558139528

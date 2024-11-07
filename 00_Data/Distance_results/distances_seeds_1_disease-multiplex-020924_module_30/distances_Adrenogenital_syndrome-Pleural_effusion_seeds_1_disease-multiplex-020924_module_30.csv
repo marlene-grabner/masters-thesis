@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,7,20,0.3593915343915344
+2,disease_on_drugs,22,22,0.13636363636363646

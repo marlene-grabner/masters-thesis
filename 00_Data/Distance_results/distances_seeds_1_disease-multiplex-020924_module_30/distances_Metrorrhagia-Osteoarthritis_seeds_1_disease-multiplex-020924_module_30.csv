@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,25,0.01846153846153853
+1,disease_on_symptoms,17,20,0.7936406995230523
+2,disease_on_drugs,26,21,0.4509001636661212

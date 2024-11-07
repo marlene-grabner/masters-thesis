@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,24,0.020697167755991286
+1,disease_on_symptoms,21,22,0.9001812141347023
+2,disease_on_drugs,27,21,0.05687830687830697

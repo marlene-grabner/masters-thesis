@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,24,25,-0.01836734693877551
+1,disease_on_symptoms,23,23,1.9565217391304348
+2,disease_on_drugs,22,20,0.3547619047619046

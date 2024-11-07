@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,14,30,0.6976190476190476
+1,disease_on_symptoms,27,16,1.9502583979328165
+2,disease_on_drugs,8,23,0.8182854137447406

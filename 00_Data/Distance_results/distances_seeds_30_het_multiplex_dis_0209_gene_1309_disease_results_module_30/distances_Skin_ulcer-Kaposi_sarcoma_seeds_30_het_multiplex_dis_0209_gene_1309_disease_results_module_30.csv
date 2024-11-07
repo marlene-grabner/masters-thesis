@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,16,0.17500000000000004
+2,disease_on_drugs,24,28,0.023809523809523725

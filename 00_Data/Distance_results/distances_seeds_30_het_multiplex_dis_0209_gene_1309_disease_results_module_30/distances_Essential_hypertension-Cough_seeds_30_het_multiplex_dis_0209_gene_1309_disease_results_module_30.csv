@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Cough nodes,sAB
+0,disease_on_genes,28,27,0.09090909090909083
+1,disease_on_symptoms,13,22,1.2144355644355644
+2,disease_on_drugs,28,24,0.29029304029304037

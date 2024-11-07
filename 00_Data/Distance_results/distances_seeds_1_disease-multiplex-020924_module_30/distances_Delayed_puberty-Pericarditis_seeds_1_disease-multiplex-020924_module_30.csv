@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Pericarditis nodes,sAB
+0,disease_on_genes,22,25,0.19358178053830244
+1,disease_on_symptoms,20,22,0.616991341991342
+2,disease_on_drugs,19,25,0.6546411483253587

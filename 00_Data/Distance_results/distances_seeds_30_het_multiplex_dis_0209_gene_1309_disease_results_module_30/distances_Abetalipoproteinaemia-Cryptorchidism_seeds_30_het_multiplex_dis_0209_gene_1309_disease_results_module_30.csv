@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,14,23,-0.13853449723014932
+1,disease_on_symptoms,26,19,0.4963112910481331
+2,disease_on_drugs,14,21,-0.07380952380952377

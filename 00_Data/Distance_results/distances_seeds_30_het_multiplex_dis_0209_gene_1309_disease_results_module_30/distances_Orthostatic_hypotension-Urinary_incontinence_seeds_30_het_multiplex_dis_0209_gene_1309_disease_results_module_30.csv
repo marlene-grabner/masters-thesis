@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,-0.22033898305084743
+1,disease_on_symptoms,20,20,0.15000000000000013
+2,disease_on_drugs,28,20,-0.19107142857142856

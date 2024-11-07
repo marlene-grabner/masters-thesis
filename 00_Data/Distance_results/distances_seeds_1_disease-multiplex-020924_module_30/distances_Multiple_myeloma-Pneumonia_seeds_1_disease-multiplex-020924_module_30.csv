@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.1452380952380954
+1,disease_on_symptoms,21,26,0.7494544462629569
+2,disease_on_drugs,25,28,0.639245283018868

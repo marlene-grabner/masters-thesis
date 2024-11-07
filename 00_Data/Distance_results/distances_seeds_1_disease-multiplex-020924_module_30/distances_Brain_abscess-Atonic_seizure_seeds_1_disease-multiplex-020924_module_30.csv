@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,29,0.15868454661558107
+1,disease_on_symptoms,21,16,0.9338803088803092
+2,disease_on_drugs,23,24,0.3802035152636447

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.185808039376538
+1,disease_on_symptoms,20,25,0.568888888888889
+2,disease_on_drugs,28,18,0.4065734989648033

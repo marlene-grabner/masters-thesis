@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,30,23,0.15985780694558382
+1,disease_on_symptoms,17,20,0.8620031796502385
+2,disease_on_drugs,28,19,0.6698328267477203

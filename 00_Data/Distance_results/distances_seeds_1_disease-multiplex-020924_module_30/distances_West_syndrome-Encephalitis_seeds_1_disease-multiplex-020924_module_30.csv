@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Encephalitis nodes,sAB
+0,disease_on_genes,29,28,0.6309523809523812
+1,disease_on_symptoms,18,17,2.1937441643324
+2,disease_on_drugs,22,18,1.0

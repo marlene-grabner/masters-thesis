@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,28,23,0.32869017172086235
+1,disease_on_symptoms,24,20,1.2151515151515149
+2,disease_on_drugs,28,20,0.5017857142857143

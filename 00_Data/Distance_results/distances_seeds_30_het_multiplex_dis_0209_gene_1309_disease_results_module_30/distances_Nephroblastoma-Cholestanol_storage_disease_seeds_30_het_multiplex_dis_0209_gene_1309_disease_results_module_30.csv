@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,29,29,0.01724137931034475
+1,disease_on_symptoms,20,18,0.41564327485380104
+2,disease_on_drugs,24,28,0.13163919413919412

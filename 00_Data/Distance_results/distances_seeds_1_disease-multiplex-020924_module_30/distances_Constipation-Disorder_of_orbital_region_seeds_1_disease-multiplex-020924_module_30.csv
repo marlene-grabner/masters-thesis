@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.07845223195661255
+1,disease_on_symptoms,17,27,0.6106654783125371
+2,disease_on_drugs,27,16,0.8492140396210164

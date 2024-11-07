@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.23235294117647054
+1,disease_on_symptoms,15,23,0.6369946605644548
+2,disease_on_drugs,30,21,0.04663865546218471

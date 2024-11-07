@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,0.23508158508158505
+1,disease_on_symptoms,25,14,0.5877289377289379
+2,disease_on_drugs,18,26,0.3671328671328673

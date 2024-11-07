@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.0724358974358974
+1,disease_on_symptoms,16,21,1.001085907335907
+2,disease_on_drugs,30,25,0.1963636363636363

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,17,16,-0.3790106951871659
+2,disease_on_drugs,26,25,-0.36882352941176477

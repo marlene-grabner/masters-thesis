@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,29,30,0.1694915254237288
+1,disease_on_symptoms,23,15,0.3408848207475206
+2,disease_on_drugs,26,24,0.27878205128205114

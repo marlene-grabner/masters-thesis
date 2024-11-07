@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.05225779967159272
+1,disease_on_symptoms,14,18,1.3596230158730158
+2,disease_on_drugs,29,26,0.4534965034965035

@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.03808525506638705
+1,disease_on_symptoms,19,27,0.9021951012797693
+2,disease_on_drugs,23,26,0.26632994334857685

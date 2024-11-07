@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.38596491228070173
+1,disease_on_symptoms,19,21,-0.3755639097744359
+2,disease_on_drugs,30,27,-0.4186159844054582

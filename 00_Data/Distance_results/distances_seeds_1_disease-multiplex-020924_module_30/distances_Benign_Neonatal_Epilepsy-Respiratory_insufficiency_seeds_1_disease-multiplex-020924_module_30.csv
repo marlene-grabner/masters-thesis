@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,29,25,0.47851851851851857
+1,disease_on_symptoms,16,20,2.99375
+2,disease_on_drugs,26,14,1.1178571428571429

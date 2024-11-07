@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.08833333333333315
+1,disease_on_symptoms,25,24,0.4100850340136055
+2,disease_on_drugs,26,18,0.30147630147630156

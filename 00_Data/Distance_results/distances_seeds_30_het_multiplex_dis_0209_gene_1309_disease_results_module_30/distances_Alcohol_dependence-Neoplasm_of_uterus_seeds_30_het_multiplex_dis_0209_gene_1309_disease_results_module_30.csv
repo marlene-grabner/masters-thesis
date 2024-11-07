@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,18,18,0.11111111111111116
+2,disease_on_drugs,24,26,-0.13948717948717948

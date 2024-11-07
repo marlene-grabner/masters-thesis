@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.4744639376218325
+1,disease_on_symptoms,16,21,1.5337435649935651
+2,disease_on_drugs,23,24,0.9139492753623188

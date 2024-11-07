@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,-0.09965034965034958
+1,disease_on_symptoms,28,27,-0.18324915824915822
+2,disease_on_drugs,23,17,0.19002557544757037

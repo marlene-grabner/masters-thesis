@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,20,14,0.46029411764705896
+2,disease_on_drugs,29,22,0.08814309422828703

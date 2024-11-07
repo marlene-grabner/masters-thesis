@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,21,21,0.26190476190476186
+1,disease_on_symptoms,20,26,2.3600334448160534
+2,disease_on_drugs,19,20,0.8974358974358974

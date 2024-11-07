@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,22,25,-0.5548240165631471
+1,disease_on_symptoms,26,23,-0.3639683298068389
+2,disease_on_drugs,12,23,-0.5006211180124224

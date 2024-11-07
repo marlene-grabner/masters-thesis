@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.2542424242424244
+1,disease_on_symptoms,12,19,0.16928409734012462
+2,disease_on_drugs,17,24,0.2459947393591584

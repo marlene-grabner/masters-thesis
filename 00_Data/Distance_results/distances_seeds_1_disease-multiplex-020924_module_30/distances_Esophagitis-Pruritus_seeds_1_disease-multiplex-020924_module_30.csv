@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Pruritus nodes,sAB
+0,disease_on_genes,24,26,0.10485507246376802
+1,disease_on_symptoms,23,19,0.9681813228723986
+2,disease_on_drugs,20,24,0.2250000000000001

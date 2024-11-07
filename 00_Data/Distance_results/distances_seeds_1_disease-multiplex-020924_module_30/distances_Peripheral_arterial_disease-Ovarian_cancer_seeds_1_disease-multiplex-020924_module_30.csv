@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,25,27,0.3638461538461537
+1,disease_on_symptoms,14,17,0.9862428842504742
+2,disease_on_drugs,22,25,1.127659574468085

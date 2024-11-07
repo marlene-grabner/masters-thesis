@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,27,25,0.01917378917378909
+1,disease_on_symptoms,21,17,0.7773109243697478
+2,disease_on_drugs,27,25,0.3466951566951568

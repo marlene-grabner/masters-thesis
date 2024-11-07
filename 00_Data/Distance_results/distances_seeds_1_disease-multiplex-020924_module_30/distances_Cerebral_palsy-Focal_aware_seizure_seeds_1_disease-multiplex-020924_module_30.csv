@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,0.06613756613756605
+1,disease_on_symptoms,16,15,0.8122311827956992
+2,disease_on_drugs,18,29,0.34042553191489366

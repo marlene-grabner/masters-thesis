@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,16,20,0.16736111111111107
+1,disease_on_symptoms,23,26,1.0206641184902052
+2,disease_on_drugs,16,13,0.43161472148541113

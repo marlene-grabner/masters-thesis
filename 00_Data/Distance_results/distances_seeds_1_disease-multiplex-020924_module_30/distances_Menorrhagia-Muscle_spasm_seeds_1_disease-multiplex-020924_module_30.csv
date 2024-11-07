@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,26,25,0.11681749622926096
+1,disease_on_symptoms,19,23,1.6748392720932768
+2,disease_on_drugs,24,19,0.7931201550387594

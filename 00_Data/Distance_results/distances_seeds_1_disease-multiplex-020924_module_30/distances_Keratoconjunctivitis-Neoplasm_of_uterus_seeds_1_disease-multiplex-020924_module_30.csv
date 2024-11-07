@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,29,28,-0.08897243107769426
+1,disease_on_symptoms,25,19,0.2903827751196171
+2,disease_on_drugs,27,28,0.015476190476190421

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,-0.035098522167487656
+1,disease_on_symptoms,22,17,0.015117235705471188
+2,disease_on_drugs,29,25,0.06194125159642394

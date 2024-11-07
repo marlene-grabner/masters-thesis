@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,26,30,0.08873626373626364
+1,disease_on_symptoms,19,15,0.8409700722394222
+2,disease_on_drugs,24,23,0.6808317915510329

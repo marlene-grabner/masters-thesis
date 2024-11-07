@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,12,21,1.1174242424242424
+2,disease_on_drugs,17,29,0.7839315636299498

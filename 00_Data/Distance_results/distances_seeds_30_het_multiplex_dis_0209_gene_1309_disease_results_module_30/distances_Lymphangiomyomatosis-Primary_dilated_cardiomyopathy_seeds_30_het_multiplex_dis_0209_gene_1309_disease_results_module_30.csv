@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.24862637362637363
+1,disease_on_symptoms,17,24,0.9645205643232904
+2,disease_on_drugs,24,15,0.25929487179487176

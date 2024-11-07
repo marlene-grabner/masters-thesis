@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.1795787545787546
+1,disease_on_symptoms,14,21,0.6714285714285717
+2,disease_on_drugs,29,24,0.9622641509433962

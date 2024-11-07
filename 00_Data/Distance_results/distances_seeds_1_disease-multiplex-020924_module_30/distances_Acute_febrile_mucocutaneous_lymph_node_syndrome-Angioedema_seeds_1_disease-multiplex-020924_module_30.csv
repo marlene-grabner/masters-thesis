@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.051683087027914576
+1,disease_on_symptoms,18,17,0.8818394024276377
+2,disease_on_drugs,25,25,0.1399999999999999

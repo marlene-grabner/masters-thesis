@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.5768361581920904
+1,disease_on_symptoms,22,16,1.0529306220095693
+2,disease_on_drugs,15,29,1.246394984326019

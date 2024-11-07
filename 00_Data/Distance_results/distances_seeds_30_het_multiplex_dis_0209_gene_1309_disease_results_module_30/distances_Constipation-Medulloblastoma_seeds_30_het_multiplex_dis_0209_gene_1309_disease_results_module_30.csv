@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.12192982456140344
+1,disease_on_symptoms,16,22,0.9630681818181817
+2,disease_on_drugs,28,26,0.167785917785918

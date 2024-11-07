@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Strabismus nodes,sAB
+0,disease_on_genes,17,13,0.3591251885369533
+1,disease_on_symptoms,21,26,1.3643324760346038
+2,disease_on_drugs,14,9,0.5966183574879227

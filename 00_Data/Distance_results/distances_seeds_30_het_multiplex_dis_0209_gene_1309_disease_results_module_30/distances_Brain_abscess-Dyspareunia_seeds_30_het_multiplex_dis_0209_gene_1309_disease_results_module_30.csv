@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,29,-0.0535714285714286
+1,disease_on_symptoms,21,20,0.3833333333333333
+2,disease_on_drugs,23,28,-0.04827365728900257

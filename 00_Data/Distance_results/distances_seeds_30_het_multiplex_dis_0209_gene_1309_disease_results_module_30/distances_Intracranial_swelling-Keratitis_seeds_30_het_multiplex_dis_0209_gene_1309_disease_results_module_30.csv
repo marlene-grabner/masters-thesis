@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,11,25,0.4989898989898993
+2,disease_on_drugs,21,29,-0.024958949096880234

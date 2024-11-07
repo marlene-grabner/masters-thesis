@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,17,-0.009902951079421518
+1,disease_on_symptoms,19,28,0.4160734282514795
+2,disease_on_drugs,20,9,-0.09396551724137925

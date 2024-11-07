@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,29,21,0.0844663382594415
+1,disease_on_symptoms,16,25,0.14493902439024398
+2,disease_on_drugs,25,21,0.7173913043478262

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Strabismus nodes,sAB
+0,disease_on_genes,23,17,-0.3088235294117647
+1,disease_on_symptoms,22,24,0.19359354413702223
+2,disease_on_drugs,21,16,-0.46899131274131256

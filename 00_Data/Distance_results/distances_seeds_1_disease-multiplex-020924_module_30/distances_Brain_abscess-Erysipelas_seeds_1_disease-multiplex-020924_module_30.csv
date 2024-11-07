@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.07202982202982211
+1,disease_on_symptoms,21,20,0.07770034843205575
+2,disease_on_drugs,23,27,0.009565217391304115

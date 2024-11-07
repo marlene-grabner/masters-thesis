@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,26,30,-0.213095238095238
+1,disease_on_symptoms,20,19,0.17634952766531709
+2,disease_on_drugs,23,30,-0.27343450916051415

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.3392597968069666
+1,disease_on_symptoms,23,14,1.7083683061943933
+2,disease_on_drugs,25,13,0.8421052631578947

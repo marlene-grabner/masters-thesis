@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,28,28,0.05357142857142838
+1,disease_on_symptoms,14,19,1.2082478924584188
+2,disease_on_drugs,28,26,0.40873015873015883

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,0.05730258560447221
+1,disease_on_symptoms,21,16,0.5807995495495497
+2,disease_on_drugs,25,27,-0.019344729344729528

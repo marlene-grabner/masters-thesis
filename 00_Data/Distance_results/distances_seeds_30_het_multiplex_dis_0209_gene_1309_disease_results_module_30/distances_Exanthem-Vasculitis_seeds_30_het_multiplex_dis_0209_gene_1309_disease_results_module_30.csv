@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.213095238095238
+1,disease_on_symptoms,21,18,-0.08943833943833934
+2,disease_on_drugs,29,26,-0.09532191945985047

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,28,20,0.3148809523809526
+1,disease_on_symptoms,15,22,2.1008599508599506
+2,disease_on_drugs,20,15,0.875

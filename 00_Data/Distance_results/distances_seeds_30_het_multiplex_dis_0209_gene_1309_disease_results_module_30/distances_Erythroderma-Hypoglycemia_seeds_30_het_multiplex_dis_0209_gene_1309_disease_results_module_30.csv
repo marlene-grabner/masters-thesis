@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,20,19,1.1217611336032385
+2,disease_on_drugs,29,27,0.08953658091589123

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,29,26,0.018181818181818077
+1,disease_on_symptoms,18,23,-0.002651113467656341
+2,disease_on_drugs,29,26,-0.023752109959006562

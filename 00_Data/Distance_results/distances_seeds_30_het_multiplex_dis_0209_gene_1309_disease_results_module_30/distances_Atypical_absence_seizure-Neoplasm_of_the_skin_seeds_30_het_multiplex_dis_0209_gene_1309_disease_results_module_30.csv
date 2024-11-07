@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,13,22,0.9268231768231767
+2,disease_on_drugs,22,29,0.4659628741778843

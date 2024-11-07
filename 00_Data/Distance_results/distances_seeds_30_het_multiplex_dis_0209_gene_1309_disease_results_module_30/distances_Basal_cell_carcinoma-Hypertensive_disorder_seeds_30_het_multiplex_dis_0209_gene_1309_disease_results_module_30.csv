@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,24,21,0.6041666666666667
+2,disease_on_drugs,27,26,0.34065742084609996

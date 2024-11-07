@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,13,22,1.3399100899100898
+2,disease_on_drugs,19,29,0.5305127041742286

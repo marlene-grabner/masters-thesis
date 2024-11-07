@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,20,24,0.14734848484848473
+1,disease_on_symptoms,23,19,1.0061566960880464
+2,disease_on_drugs,17,19,0.7182662538699689

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,26,-0.1785714285714286
+1,disease_on_symptoms,18,15,0.03686868686868694
+2,disease_on_drugs,27,26,0.03948287910552062

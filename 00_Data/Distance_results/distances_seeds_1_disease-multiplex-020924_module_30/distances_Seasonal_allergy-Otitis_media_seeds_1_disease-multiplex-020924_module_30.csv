@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.12068965517241392
+1,disease_on_symptoms,15,22,0.6776412776412779
+2,disease_on_drugs,29,29,0.34482758620689635

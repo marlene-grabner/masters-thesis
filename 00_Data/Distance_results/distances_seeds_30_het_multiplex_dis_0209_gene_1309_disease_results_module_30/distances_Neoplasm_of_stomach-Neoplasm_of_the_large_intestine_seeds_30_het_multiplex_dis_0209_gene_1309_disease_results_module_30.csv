@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,25,30,-0.6563636363636364
+1,disease_on_symptoms,23,22,-0.9123627580149318
+2,disease_on_drugs,24,29,-0.6558365864237693

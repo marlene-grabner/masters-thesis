@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,24,0.4296296296296298
+1,disease_on_symptoms,16,23,1.883465719063545
+2,disease_on_drugs,23,24,0.9347826086956523

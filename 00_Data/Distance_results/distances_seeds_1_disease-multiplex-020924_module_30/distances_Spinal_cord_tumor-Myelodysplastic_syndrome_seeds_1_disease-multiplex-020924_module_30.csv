@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,22,26,0.15340909090909083
+1,disease_on_symptoms,22,15,1.3334971334971337
+2,disease_on_drugs,14,21,0.392857142857143

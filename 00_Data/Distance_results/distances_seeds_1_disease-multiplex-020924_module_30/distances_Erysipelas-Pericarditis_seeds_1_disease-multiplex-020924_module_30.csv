@@ -1,0 +1,4 @@
+,Layer,Erysipelas nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,25,-0.16778975741239877
+1,disease_on_symptoms,20,22,0.384848484848485
+2,disease_on_drugs,27,25,-0.19307692307692315

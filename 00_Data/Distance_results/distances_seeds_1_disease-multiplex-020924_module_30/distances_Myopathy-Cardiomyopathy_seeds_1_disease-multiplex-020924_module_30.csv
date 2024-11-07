@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,18,25,0.5000516795865633
+1,disease_on_symptoms,21,17,1.0177650007371368
+2,disease_on_drugs,6,24,0.4916666666666667

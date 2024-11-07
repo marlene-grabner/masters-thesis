@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Blepharitis nodes,sAB
+0,disease_on_genes,23,20,0.308164812942366
+1,disease_on_symptoms,19,27,0.8240952623103652
+2,disease_on_drugs,11,19,0.5473684210526315

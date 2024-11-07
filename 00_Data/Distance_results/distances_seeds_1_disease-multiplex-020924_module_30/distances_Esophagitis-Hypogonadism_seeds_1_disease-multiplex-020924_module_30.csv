@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,24,30,0.22575250836120397
+1,disease_on_symptoms,23,12,1.129710144927536
+2,disease_on_drugs,20,30,1.0183333333333333

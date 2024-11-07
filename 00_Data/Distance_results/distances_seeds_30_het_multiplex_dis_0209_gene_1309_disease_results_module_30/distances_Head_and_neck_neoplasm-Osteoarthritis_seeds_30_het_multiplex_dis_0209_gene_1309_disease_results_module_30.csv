@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.18012820512820515
+1,disease_on_symptoms,22,22,0.022727272727272707
+2,disease_on_drugs,27,25,-0.09923076923076934

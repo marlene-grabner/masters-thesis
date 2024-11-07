@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.1245614035087721
+1,disease_on_symptoms,14,17,1.2915424234209811
+2,disease_on_drugs,29,25,1.0925925925925926

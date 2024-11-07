@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,14,30,0.4759136212624586
+1,disease_on_symptoms,27,12,1.5405982905982905
+2,disease_on_drugs,8,30,0.8155701754385964

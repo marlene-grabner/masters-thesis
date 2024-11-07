@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,17,25,0.3016806722689074
+2,disease_on_drugs,28,29,0.0861312764670299

@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,16,20,0.47777777777777763
+2,disease_on_drugs,27,27,0.38888888888888906

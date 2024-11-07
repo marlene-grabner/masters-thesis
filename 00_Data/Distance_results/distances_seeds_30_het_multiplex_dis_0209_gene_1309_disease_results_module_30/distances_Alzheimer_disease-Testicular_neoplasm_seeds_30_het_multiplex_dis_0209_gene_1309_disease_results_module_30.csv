@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,23,25,-0.06166666666666665
+1,disease_on_symptoms,19,26,0.712055780476833
+2,disease_on_drugs,19,24,-0.01662586699306412

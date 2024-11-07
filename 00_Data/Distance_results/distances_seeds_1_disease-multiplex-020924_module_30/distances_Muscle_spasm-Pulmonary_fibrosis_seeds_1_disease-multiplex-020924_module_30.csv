@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,25,24,0.2873299319727891
+1,disease_on_symptoms,23,22,1.6871541501976286
+2,disease_on_drugs,19,24,0.6511627906976745

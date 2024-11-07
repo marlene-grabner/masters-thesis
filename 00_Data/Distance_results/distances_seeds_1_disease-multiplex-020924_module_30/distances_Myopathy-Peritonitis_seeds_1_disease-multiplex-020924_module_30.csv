@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Peritonitis nodes,sAB
+0,disease_on_genes,18,30,0.41388888888888875
+1,disease_on_symptoms,21,17,0.8273625239569511
+2,disease_on_drugs,6,28,0.650560224089636

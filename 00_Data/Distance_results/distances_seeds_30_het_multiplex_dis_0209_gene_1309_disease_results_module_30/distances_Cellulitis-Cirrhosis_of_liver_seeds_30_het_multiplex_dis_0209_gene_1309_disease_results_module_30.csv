@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,20,19,0.35850202429149824
+2,disease_on_drugs,26,30,0.15586080586080597

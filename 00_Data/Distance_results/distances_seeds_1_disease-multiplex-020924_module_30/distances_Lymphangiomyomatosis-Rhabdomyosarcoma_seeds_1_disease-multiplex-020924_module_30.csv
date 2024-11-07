@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,-0.05013309671694777
+1,disease_on_symptoms,19,24,0.46261729906160753
+2,disease_on_drugs,22,17,-0.16491841491841508

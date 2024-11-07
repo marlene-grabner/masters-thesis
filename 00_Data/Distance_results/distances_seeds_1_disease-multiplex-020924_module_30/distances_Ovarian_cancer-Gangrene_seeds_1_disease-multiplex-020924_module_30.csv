@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.26415094339622636
+1,disease_on_symptoms,17,19,1.4871861025111799
+2,disease_on_drugs,25,23,0.9157608695652173

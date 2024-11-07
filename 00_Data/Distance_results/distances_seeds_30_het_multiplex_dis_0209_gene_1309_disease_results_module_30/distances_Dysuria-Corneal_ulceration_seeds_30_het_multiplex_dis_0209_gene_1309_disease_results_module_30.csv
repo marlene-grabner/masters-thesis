@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.03386699507389168
+1,disease_on_symptoms,12,15,0.9055555555555554
+2,disease_on_drugs,21,23,0.016751364577451522

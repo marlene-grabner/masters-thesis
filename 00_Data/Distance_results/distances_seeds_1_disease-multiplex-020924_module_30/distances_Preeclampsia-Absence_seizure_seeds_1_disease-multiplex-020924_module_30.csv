@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.1119122257053291
+1,disease_on_symptoms,17,16,0.5480169340463459
+2,disease_on_drugs,23,22,0.08937198067632846

@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,29,27,-0.05295566502463045
+1,disease_on_symptoms,20,18,0.8571637426900585
+2,disease_on_drugs,24,22,-0.2367424242424243

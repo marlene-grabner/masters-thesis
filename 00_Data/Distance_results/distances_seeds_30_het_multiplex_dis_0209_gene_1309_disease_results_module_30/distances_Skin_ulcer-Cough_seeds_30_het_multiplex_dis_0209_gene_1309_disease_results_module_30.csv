@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,20,22,0.683116883116883
+2,disease_on_drugs,24,24,0.04166666666666652

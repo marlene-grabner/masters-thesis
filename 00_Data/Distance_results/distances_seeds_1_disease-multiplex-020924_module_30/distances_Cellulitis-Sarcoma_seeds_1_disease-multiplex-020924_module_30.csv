@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,22,25,0.3530020703933747
+1,disease_on_symptoms,26,26,1.0000000000000002
+2,disease_on_drugs,12,21,1.606060606060606

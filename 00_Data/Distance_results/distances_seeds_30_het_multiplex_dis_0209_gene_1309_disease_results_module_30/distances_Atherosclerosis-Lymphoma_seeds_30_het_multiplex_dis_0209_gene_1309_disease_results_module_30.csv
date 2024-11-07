@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,14,20,0.21764705882352953
+2,disease_on_drugs,29,24,0.3350140967252222

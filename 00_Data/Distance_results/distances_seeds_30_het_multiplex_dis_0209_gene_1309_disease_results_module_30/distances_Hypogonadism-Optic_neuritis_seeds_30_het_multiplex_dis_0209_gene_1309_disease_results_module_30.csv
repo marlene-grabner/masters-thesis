@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,17,21,0.39208314904909347
+2,disease_on_drugs,29,27,0.05655902207626329

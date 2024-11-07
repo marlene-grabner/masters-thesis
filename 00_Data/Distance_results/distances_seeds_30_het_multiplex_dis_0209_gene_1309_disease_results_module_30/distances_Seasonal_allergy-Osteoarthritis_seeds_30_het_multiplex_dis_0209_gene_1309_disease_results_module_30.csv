@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,29,26,-0.12937062937062926
+1,disease_on_symptoms,18,22,0.1499999999999999
+2,disease_on_drugs,29,25,-0.13172413793103432

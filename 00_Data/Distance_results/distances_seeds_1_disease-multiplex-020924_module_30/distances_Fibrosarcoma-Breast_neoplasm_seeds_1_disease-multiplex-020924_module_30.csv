@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,22,30,0.02622377622377625
+1,disease_on_symptoms,24,16,0.39375000000000004
+2,disease_on_drugs,13,30,0.37209302325581395

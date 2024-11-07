@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,25,27,0.3460398860398859
+1,disease_on_symptoms,14,20,1.1720588235294116
+2,disease_on_drugs,22,25,0.5319148936170213

@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,25,0.4678431372549019
+1,disease_on_symptoms,15,13,2.2842490842490846
+2,disease_on_drugs,21,16,0.4665781853281854

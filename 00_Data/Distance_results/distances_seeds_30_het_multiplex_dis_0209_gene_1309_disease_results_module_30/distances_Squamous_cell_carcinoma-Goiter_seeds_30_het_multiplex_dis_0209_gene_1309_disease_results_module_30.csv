@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,22,12,0.6321301247771836
+2,disease_on_drugs,30,18,0.36111111111111116

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,22,17,0.14160839160839167
+2,disease_on_drugs,23,26,0.4087263668009009

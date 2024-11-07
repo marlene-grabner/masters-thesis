@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.10194817845314641
+1,disease_on_symptoms,23,16,0.5089882943143813
+2,disease_on_drugs,29,25,0.13346104725415064

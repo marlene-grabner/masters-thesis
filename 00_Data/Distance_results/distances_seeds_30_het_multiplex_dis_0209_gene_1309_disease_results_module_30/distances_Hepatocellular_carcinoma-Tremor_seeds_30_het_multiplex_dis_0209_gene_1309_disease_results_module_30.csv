@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Tremor nodes,sAB
+0,disease_on_genes,24,27,-0.17647058823529416
+1,disease_on_symptoms,23,17,1.5322890025575449
+2,disease_on_drugs,22,24,0.3476613965744402

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,17,23,-0.06982097186700775
+1,disease_on_symptoms,21,24,0.840873015873016
+2,disease_on_drugs,17,17,0.2647058823529411

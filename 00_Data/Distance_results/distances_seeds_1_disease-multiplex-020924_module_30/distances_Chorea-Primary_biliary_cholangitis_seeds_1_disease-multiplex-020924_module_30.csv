@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,14,26,0.5450549450549451
+1,disease_on_symptoms,27,17,2.3481877599524656
+2,disease_on_drugs,8,18,0.9246794871794872

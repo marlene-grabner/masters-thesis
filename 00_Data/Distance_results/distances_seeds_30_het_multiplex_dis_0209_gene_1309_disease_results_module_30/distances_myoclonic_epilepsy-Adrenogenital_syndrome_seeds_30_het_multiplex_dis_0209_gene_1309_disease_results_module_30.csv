@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,16,9,1.315
+2,disease_on_drugs,25,23,0.6628260869565217

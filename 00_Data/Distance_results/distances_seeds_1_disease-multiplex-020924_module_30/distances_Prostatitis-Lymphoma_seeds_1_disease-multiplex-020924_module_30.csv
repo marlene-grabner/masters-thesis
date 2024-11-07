@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.07481684981684977
+1,disease_on_symptoms,20,21,0.9997386759581881
+2,disease_on_drugs,29,25,0.7032950191570881

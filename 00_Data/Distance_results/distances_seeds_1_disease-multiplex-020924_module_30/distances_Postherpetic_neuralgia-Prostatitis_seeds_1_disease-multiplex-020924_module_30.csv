@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,15,20,0.7130952380952382
+2,disease_on_drugs,29,29,0.27586206896551735

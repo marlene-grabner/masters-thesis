@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,24,27,0.17851307189542487
+1,disease_on_symptoms,18,15,-0.09545454545454546
+2,disease_on_drugs,18,26,0.006993006993007089

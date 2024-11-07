@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,24,26,0.05916666666666659
+1,disease_on_symptoms,22,21,0.3285764622973928
+2,disease_on_drugs,24,25,0.10285714285714276

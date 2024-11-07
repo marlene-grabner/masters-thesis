@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,0.03411306042884976
+1,disease_on_symptoms,22,22,0.5454545454545454
+2,disease_on_drugs,29,24,0.15514530470613752

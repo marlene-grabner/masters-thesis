@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,25,0.13409703504043136
+1,disease_on_symptoms,15,22,1.2352989352989354
+2,disease_on_drugs,21,25,0.5017391304347827

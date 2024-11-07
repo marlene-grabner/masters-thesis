@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Periodontitis nodes,sAB
+0,disease_on_genes,29,23,0.1735093991465806
+1,disease_on_symptoms,15,25,0.96
+2,disease_on_drugs,29,22,0.4047728809392095

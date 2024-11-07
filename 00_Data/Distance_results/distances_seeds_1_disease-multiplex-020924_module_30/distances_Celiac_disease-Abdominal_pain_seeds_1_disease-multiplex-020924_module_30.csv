@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,17,30,0.2695452649144763
+1,disease_on_symptoms,22,24,2.029891304347826
+2,disease_on_drugs,15,24,0.41217948717948727

@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Asthma nodes,sAB
+0,disease_on_genes,28,25,-0.22754716981132073
+1,disease_on_symptoms,13,20,1.2028554778554779
+2,disease_on_drugs,28,22,-0.1298701298701297

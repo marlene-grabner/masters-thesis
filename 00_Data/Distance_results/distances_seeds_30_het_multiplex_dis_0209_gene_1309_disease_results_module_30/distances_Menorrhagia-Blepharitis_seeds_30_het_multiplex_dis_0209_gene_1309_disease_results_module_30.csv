@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,30,0.14035087719298245
+1,disease_on_symptoms,16,18,0.819240196078431
+2,disease_on_drugs,23,30,0.24402515723270435

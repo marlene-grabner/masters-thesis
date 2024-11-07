@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,23,15,0.18390541571319607
+1,disease_on_symptoms,21,27,2.083333333333333
+2,disease_on_drugs,19,13,1.21875

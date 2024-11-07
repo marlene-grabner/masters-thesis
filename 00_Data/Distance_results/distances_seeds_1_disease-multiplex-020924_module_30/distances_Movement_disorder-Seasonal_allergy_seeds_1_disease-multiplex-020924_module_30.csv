@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,0.2705825053574906
+1,disease_on_symptoms,22,15,0.7826781326781325
+2,disease_on_drugs,15,29,0.6554858934169279

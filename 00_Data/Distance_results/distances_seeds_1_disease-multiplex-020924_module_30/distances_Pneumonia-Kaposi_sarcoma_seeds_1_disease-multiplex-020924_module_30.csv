@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.2999999999999998
+1,disease_on_symptoms,26,27,1.5085873246250605
+2,disease_on_drugs,28,13,1.1219512195121952

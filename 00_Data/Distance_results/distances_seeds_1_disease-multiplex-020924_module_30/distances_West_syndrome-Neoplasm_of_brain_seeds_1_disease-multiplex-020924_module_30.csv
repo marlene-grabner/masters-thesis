@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,29,22,0.36942959001782527
+1,disease_on_symptoms,18,23,2.1107576293154233
+2,disease_on_drugs,22,20,1.069047619047619

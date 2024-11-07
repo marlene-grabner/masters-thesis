@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.13538461538461544
+1,disease_on_symptoms,18,26,0.9327894327894328
+2,disease_on_drugs,22,24,-0.10902503293807642

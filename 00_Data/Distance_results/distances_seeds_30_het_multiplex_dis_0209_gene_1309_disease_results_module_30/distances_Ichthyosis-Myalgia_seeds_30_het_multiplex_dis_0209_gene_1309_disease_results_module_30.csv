@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Myalgia nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,18,16,0.5627042483660132
+2,disease_on_drugs,25,29,-0.07213282247765007

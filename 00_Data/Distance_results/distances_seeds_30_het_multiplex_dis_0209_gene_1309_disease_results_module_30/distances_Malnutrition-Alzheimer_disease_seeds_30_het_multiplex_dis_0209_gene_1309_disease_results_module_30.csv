@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.18867924528301883
+1,disease_on_symptoms,14,19,0.45112781954887216
+2,disease_on_drugs,29,19,-0.08809739866908628

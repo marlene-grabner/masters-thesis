@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,25,18,0.3319121447028426
+2,disease_on_drugs,29,22,-0.013983649886286642

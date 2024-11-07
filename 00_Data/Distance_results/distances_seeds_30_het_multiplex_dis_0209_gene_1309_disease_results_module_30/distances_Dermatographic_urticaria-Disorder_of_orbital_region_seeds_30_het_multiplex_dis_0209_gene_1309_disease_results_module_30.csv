@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,30,0.10197740112994347
+1,disease_on_symptoms,18,18,0.5
+2,disease_on_drugs,28,28,0.14285714285714302

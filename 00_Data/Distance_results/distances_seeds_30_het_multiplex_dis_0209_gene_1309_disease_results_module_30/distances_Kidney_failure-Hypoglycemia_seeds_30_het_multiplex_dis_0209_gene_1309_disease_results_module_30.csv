@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.28333333333333344
+1,disease_on_symptoms,20,19,0.1217611336032387
+2,disease_on_drugs,28,27,-0.32704425204425214

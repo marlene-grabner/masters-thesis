@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,12,-0.3999999999999999
+2,disease_on_drugs,25,21,-0.2714699792960664

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,17,15,0.6519607843137254
+2,disease_on_drugs,21,29,0.06712643678160934

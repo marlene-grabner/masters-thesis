@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,22,0.551392649903288
+1,disease_on_symptoms,19,21,3.462907268170426
+2,disease_on_drugs,18,6,1.722222222222222

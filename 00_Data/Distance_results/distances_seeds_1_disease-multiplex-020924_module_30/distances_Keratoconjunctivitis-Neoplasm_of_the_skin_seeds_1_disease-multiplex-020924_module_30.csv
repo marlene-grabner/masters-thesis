@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,29,28,0.03383458646616555
+1,disease_on_symptoms,25,21,0.0202484472049691
+2,disease_on_drugs,27,24,-0.009803921568627194

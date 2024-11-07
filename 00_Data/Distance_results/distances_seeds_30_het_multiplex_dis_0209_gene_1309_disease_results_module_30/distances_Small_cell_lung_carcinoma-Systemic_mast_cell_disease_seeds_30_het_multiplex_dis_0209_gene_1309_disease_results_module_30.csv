@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.1694915254237288
+1,disease_on_symptoms,19,25,0.16703349282296642
+2,disease_on_drugs,30,21,0.04971988795518212

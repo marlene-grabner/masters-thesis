@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,19,20,0.774696356275304
+2,disease_on_drugs,29,24,0.26442203426588584

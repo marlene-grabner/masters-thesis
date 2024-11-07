@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,25,26,0.33214177978883863
+1,disease_on_symptoms,13,17,1.7098039215686274
+2,disease_on_drugs,16,18,0.9491421568627452

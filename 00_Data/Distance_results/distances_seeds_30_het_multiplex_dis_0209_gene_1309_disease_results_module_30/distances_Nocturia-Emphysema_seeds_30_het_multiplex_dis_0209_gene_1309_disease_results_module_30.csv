@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Emphysema nodes,sAB
+0,disease_on_genes,25,30,-0.18518518518518523
+1,disease_on_symptoms,18,18,0.5555555555555554
+2,disease_on_drugs,24,27,-0.0016339869281045694

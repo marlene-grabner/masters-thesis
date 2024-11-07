@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.26306042884990255
+1,disease_on_symptoms,17,17,0.35294117647058876
+2,disease_on_drugs,24,17,0.13818149210903874

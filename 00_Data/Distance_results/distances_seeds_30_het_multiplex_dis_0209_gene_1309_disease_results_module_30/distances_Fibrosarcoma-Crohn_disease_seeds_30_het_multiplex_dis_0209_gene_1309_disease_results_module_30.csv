@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,14,22,0.6706349206349205
+2,disease_on_drugs,26,24,0.08448717948717954

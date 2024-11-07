@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,26,30,-0.002930402930403142
+1,disease_on_symptoms,19,15,0.6997936016511868
+2,disease_on_drugs,24,29,0.20720830622424624

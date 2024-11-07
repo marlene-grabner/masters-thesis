@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.31414267834793497
+1,disease_on_symptoms,10,24,-0.4120098039215685
+2,disease_on_drugs,16,16,-0.34375

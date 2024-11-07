@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Orchitis nodes,sAB
+0,disease_on_genes,27,25,0.03846153846153855
+1,disease_on_symptoms,17,19,1.5444616443068455
+2,disease_on_drugs,24,25,0.34853741496598634

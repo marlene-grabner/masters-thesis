@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.1785714285714286
+1,disease_on_symptoms,13,16,-0.1240053050397878
+2,disease_on_drugs,22,25,-0.06307543520309489

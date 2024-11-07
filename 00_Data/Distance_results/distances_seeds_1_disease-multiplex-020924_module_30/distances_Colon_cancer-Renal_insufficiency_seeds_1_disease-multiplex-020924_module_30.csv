@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,0.2655518394648828
+1,disease_on_symptoms,21,23,1.7916431394692263
+2,disease_on_drugs,24,17,0.26255380200860823

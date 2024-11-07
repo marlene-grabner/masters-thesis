@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,-0.05084745762711862
+1,disease_on_symptoms,18,18,0.5833333333333335
+2,disease_on_drugs,29,27,-0.057676518883415406

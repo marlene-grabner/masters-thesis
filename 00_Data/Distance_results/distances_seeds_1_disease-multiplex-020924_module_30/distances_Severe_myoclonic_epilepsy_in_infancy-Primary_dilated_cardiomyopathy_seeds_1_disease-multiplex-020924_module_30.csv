@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.6500000000000001
+1,disease_on_symptoms,16,25,3.783780487804878
+2,disease_on_drugs,21,7,1.0595238095238093

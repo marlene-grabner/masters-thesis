@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.4328202853047576
+1,disease_on_symptoms,20,21,0.8503193960511033
+2,disease_on_drugs,20,21,1.099303135888502

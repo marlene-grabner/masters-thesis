@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.26648351648351665
+1,disease_on_symptoms,13,22,1.6067932067932067
+2,disease_on_drugs,19,25,0.5983732057416267

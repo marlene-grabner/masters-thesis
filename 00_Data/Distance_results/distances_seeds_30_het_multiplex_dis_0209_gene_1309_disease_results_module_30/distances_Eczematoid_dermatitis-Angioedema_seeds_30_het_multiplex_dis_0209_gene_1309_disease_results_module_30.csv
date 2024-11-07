@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,25,18,-0.31235142118863046
+2,disease_on_drugs,30,26,-0.25467032967032976

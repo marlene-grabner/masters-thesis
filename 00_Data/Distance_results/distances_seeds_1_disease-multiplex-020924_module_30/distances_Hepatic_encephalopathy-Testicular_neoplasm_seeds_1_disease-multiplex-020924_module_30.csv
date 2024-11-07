@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,9,25,0.241045751633987
+1,disease_on_symptoms,27,25,2.0004273504273504
+2,disease_on_drugs,9,23,0.9877717391304348

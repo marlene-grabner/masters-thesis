@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,24,23,0.46802728954671613
+1,disease_on_symptoms,25,25,1.24
+2,disease_on_drugs,17,22,1.1625874125874125

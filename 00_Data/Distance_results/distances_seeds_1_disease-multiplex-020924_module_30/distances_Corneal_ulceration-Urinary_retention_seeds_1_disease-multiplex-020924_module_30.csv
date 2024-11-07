@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,28,30,0.4931146439767129
+1,disease_on_symptoms,19,18,1.4862889204994467
+2,disease_on_drugs,26,19,0.698830409356725

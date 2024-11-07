@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.050000000000000044
+1,disease_on_symptoms,23,26,0.25313971742543173
+2,disease_on_drugs,30,13,-0.01323792486583164

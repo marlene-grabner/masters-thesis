@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,29,30,0.050555230859146816
+1,disease_on_symptoms,20,15,1.0273809523809523
+2,disease_on_drugs,24,23,0.14972633364168964

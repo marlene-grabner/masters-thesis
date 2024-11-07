@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,19,12,-0.07272212790039623
+2,disease_on_drugs,30,23,0.34939841400054705

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,22,30,-0.09615384615384615
+1,disease_on_symptoms,21,19,1.2988721804511278
+2,disease_on_drugs,21,28,0.0714285714285714

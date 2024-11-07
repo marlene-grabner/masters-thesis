@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.22413793103448265
+1,disease_on_symptoms,12,15,1.2833333333333334
+2,disease_on_drugs,30,29,0.9324858757062147

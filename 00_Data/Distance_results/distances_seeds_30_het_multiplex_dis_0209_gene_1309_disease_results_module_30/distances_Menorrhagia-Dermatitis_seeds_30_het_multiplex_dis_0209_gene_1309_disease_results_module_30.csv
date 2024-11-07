@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Dermatitis nodes,sAB
+0,disease_on_genes,27,30,0.12280701754385959
+1,disease_on_symptoms,16,14,0.22946428571428568
+2,disease_on_drugs,23,28,0.14425770308123242

@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,-0.3525567404976756
+1,disease_on_symptoms,20,25,-0.07833333333333337
+2,disease_on_drugs,29,18,-0.5007948153582783

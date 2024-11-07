@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,28,0.0535714285714286
+1,disease_on_symptoms,17,20,0.24260731319554862
+2,disease_on_drugs,18,27,-0.11111111111111116

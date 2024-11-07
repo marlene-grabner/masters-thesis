@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,24,30,0.2893518518518521
+1,disease_on_symptoms,22,13,1.6995504495504492
+2,disease_on_drugs,11,29,0.5249999999999999

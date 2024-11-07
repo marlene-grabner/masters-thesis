@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615374
+1,disease_on_symptoms,19,21,1.0815162907268172
+2,disease_on_drugs,24,23,0.14937943262411335

@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,21,19,0.531015037593985
+2,disease_on_drugs,25,28,-0.07530997304582221

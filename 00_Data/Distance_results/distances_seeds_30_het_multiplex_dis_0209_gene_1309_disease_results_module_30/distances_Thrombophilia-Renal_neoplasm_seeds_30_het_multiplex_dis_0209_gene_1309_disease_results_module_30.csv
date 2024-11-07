@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,27,29,0.017857142857142794
+1,disease_on_symptoms,18,20,0.5799707602339184
+2,disease_on_drugs,22,28,0.4539610389610389

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Keloid nodes,sAB
+0,disease_on_genes,16,22,0.3081638755980862
+1,disease_on_symptoms,23,20,2.061425682507583
+2,disease_on_drugs,16,19,0.9116071428571428

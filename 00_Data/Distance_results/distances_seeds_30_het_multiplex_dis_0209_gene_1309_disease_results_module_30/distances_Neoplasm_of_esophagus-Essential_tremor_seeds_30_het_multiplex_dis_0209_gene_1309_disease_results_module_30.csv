@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.13724137931034475
+1,disease_on_symptoms,20,23,0.927957532861476
+2,disease_on_drugs,25,21,0.18530020703933747

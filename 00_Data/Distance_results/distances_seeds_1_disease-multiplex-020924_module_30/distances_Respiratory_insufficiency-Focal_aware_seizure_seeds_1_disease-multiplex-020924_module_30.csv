@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,25,29,0.44148148148148136
+1,disease_on_symptoms,20,15,2.8130952380952383
+2,disease_on_drugs,14,29,1.102159468438538

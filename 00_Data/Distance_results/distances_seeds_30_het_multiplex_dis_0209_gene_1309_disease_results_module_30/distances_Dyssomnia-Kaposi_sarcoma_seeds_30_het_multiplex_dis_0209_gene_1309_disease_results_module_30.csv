@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,18,30,0.04166666666666674
+1,disease_on_symptoms,21,16,2.1037644787644787
+2,disease_on_drugs,17,28,0.1028944911297851

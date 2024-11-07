@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,14,0.049674708593114625
+2,disease_on_drugs,29,24,0.039294621557145915

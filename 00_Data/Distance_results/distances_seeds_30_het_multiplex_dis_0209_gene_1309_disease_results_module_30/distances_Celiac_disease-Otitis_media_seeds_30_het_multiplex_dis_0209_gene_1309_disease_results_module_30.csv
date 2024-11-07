@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.03419053185271759
+1,disease_on_symptoms,18,20,0.4328947368421052
+2,disease_on_drugs,28,28,0.08928571428571419

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.20307812195597097
+1,disease_on_symptoms,16,21,0.5448439510939509
+2,disease_on_drugs,30,28,0.2395320197044335

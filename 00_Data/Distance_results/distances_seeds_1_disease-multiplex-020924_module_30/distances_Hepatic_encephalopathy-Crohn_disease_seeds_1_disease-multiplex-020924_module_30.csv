@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,9,25,-0.2285353535353536
+1,disease_on_symptoms,27,20,1.3282505910165485
+2,disease_on_drugs,9,21,0.11904761904761907

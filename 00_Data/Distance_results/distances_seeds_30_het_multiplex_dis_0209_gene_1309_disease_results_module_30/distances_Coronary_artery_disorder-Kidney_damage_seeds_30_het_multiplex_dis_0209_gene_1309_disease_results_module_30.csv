@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,23,30,0.09146841673502859
+1,disease_on_symptoms,19,15,0.49700722394220853
+2,disease_on_drugs,22,21,-0.09810731903755165

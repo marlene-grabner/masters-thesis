@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,-0.18644067796610164
+1,disease_on_symptoms,25,20,-0.3372222222222223
+2,disease_on_drugs,30,27,-0.2644249512670567

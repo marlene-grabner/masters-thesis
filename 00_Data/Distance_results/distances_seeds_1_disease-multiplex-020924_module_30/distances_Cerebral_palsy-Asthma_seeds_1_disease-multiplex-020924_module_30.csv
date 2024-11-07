@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.27415954415954413
+1,disease_on_symptoms,16,19,1.874718045112782
+2,disease_on_drugs,18,24,0.6964285714285716

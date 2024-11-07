@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Purpura nodes,sAB
+0,disease_on_genes,24,26,0.04147435897435914
+1,disease_on_symptoms,22,17,0.8795077471548058
+2,disease_on_drugs,24,20,0.022727272727272707

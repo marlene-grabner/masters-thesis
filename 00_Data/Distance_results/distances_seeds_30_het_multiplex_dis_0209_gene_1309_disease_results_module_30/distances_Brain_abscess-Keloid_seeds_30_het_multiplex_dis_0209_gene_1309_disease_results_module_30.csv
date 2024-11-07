@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.12
+1,disease_on_symptoms,21,17,1.1971104231166152
+2,disease_on_drugs,23,22,-0.10678524374176535

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,-0.16981132075471694
+1,disease_on_symptoms,23,22,0.11225296442687749
+2,disease_on_drugs,23,21,-0.27682100508187446

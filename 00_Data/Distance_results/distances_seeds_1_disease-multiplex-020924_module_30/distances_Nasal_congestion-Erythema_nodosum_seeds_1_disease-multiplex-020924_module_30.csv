@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.07007389162561561
+1,disease_on_symptoms,15,23,0.28154080854309704
+2,disease_on_drugs,23,28,0.39177627572768237

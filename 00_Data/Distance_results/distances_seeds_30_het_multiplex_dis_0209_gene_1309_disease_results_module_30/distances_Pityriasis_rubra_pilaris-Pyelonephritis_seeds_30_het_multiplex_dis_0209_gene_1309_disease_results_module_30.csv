@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,27,24,-0.0774782135076254
+1,disease_on_symptoms,21,19,0.5824561403508772
+2,disease_on_drugs,25,19,-0.03401913875598095

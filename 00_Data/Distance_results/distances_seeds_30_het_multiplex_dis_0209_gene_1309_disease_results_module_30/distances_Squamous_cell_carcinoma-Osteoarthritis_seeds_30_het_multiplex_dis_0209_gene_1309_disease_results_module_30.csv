@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.2527472527472526
+1,disease_on_symptoms,22,22,0.31818181818181834
+2,disease_on_drugs,30,25,-0.15272727272727282

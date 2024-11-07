@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,30,0.052197802197802234
+1,disease_on_symptoms,20,17,0.7899841017488076
+2,disease_on_drugs,27,25,0.5737321937321938

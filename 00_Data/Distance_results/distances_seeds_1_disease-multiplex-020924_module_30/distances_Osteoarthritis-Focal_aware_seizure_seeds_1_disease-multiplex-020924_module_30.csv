@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,25,29,0.31333333333333324
+1,disease_on_symptoms,20,15,1.3523809523809522
+2,disease_on_drugs,21,29,0.6399999999999999

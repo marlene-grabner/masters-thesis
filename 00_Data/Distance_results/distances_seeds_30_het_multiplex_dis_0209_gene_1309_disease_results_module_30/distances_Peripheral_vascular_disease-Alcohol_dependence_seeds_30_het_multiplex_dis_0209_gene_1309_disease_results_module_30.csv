@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,25,30,-0.08969696969696961
+1,disease_on_symptoms,17,18,-0.05760971055088704
+2,disease_on_drugs,25,24,0.14238095238095227

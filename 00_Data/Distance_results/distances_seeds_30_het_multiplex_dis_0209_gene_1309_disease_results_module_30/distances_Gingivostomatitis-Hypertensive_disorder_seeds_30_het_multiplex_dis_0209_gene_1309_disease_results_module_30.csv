@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.22719298245614028
+1,disease_on_symptoms,15,21,-0.23333333333333317
+2,disease_on_drugs,30,26,-0.10494505494505513

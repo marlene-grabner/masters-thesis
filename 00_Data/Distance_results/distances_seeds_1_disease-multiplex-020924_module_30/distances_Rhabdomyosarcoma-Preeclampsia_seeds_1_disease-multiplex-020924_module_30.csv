@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,23,26,0.33762200532386877
+1,disease_on_symptoms,24,17,2.835664753706361
+2,disease_on_drugs,17,23,0.9782608695652173

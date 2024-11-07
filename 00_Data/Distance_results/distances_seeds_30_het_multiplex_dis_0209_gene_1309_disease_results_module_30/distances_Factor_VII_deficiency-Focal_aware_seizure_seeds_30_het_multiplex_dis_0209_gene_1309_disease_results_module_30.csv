@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.14003759398496252
+1,disease_on_symptoms,19,16,1.0905075187969924
+2,disease_on_drugs,25,29,0.6686079182630906

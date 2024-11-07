@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,20,0.9690476190476192
+2,disease_on_drugs,29,24,0.4391129906744742

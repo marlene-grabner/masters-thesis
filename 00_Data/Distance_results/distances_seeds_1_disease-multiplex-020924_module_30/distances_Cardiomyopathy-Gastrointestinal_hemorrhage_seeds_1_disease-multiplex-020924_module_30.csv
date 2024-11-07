@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,25,27,0.13450142450142422
+1,disease_on_symptoms,17,19,0.5896112831097349
+2,disease_on_drugs,24,27,0.6642156862745099

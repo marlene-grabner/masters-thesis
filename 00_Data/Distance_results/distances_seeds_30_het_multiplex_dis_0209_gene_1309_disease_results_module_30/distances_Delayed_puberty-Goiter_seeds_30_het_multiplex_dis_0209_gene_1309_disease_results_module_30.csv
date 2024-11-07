@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,16,12,0.9047619047619051
+2,disease_on_drugs,29,18,0.5276554984918889

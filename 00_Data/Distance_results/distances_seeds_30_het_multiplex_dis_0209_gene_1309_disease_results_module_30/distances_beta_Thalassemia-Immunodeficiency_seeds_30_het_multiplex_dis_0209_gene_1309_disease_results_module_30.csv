@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,13,21,0.4006679594914888
+2,disease_on_drugs,24,26,-0.06455128205128191

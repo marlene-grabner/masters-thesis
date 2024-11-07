@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,18,25,0.340516795865633
+1,disease_on_symptoms,21,23,0.019386410690758638
+2,disease_on_drugs,6,23,0.5829585207396302

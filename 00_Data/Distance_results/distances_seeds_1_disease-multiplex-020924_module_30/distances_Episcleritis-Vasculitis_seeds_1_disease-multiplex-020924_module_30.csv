@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.10879629629629606
+1,disease_on_symptoms,22,19,0.9904597969424671
+2,disease_on_drugs,29,20,0.41481351161154123

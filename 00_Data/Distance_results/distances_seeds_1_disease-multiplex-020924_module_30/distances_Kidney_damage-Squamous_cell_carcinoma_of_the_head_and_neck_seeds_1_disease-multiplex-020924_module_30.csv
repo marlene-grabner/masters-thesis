@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,20,21,0.2908246225319395
+1,disease_on_symptoms,26,25,1.7218552036199095
+2,disease_on_drugs,13,21,0.7194570135746607

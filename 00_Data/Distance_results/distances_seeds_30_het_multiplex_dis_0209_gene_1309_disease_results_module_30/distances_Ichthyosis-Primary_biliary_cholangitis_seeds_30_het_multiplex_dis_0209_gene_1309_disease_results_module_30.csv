@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,28,26,0.0006613756613758071
+1,disease_on_symptoms,18,23,0.48854129845646277
+2,disease_on_drugs,25,26,0.31556561085972845

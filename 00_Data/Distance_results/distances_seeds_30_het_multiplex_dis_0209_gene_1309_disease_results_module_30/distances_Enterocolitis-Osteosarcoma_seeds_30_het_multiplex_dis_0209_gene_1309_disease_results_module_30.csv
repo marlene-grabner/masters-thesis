@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.20877192982456128
+1,disease_on_symptoms,21,22,0.16082754454847503
+2,disease_on_drugs,25,29,-0.2632439335887612

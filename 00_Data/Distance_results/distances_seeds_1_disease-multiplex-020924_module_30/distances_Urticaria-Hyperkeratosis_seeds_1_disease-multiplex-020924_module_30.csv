@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,10,26,0.3141025641025641
+1,disease_on_symptoms,27,21,1.3931878306878307
+2,disease_on_drugs,9,23,0.5

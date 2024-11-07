@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,0.19266917293233088
+1,disease_on_symptoms,19,25,0.5199043062200954
+2,disease_on_drugs,22,21,0.16646531762810834

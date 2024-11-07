@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Diarrhea nodes,sAB
+0,disease_on_genes,12,27,0.14779202279202308
+1,disease_on_symptoms,27,19,0.8519789812695988
+2,disease_on_drugs,9,26,0.3839438339438339

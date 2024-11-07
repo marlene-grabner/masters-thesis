@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.1132075471698113
+1,disease_on_symptoms,19,17,1.1240110079119368
+2,disease_on_drugs,25,22,0.30408123791102537

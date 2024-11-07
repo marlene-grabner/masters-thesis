@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Keratitis nodes,sAB
+0,disease_on_genes,17,28,0.37212885154061603
+1,disease_on_symptoms,21,25,1.0668322981366458
+2,disease_on_drugs,14,23,0.25910693301997667

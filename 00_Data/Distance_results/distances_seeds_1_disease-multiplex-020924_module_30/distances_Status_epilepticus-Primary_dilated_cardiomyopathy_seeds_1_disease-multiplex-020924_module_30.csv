@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,29,30,0.5420806545879604
+1,disease_on_symptoms,17,25,3.7675630252100842
+2,disease_on_drugs,30,7,1.1447876447876448

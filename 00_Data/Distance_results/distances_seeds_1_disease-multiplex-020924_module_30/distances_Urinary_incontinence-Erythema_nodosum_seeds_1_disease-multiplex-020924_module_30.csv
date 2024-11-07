@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,26,28,0.3660459910459912
+1,disease_on_symptoms,20,23,1.2433013144590497
+2,disease_on_drugs,20,28,0.6696428571428572

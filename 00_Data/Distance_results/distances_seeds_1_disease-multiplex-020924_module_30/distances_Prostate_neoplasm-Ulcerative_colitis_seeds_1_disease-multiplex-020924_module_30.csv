@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,17,27,0.27713408595761524
+1,disease_on_symptoms,21,20,1.3382984901277586
+2,disease_on_drugs,17,25,0.7745098039215685

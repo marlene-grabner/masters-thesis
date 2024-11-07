@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,29,30,-0.06808883693746337
+1,disease_on_symptoms,20,14,0.2031512605042014
+2,disease_on_drugs,24,25,-0.12215986394557832

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,27,26,0.2833682739343115
+1,disease_on_symptoms,17,19,1.464826281389749
+2,disease_on_drugs,20,24,0.9564393939393938

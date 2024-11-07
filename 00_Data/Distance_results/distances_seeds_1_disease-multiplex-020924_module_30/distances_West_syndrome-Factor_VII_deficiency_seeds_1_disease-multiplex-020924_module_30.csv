@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.4955555555555555
+1,disease_on_symptoms,18,23,2.5036526452221044
+2,disease_on_drugs,22,21,1.045404208194906

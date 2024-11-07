@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.08771929824561409
+1,disease_on_symptoms,17,22,0.8630536130536131
+2,disease_on_drugs,26,27,0.17044293931086374

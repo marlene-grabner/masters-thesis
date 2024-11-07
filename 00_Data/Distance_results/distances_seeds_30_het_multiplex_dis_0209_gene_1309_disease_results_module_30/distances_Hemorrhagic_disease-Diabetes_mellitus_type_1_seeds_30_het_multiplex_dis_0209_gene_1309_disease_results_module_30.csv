@@ -1,0 +1,4 @@
+,Layer,Hemorrhagic_disease nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,26,30,0.08928571428571419
+1,disease_on_symptoms,19,18,0.748696064485538
+2,disease_on_drugs,24,26,0.17307692307692313

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Uveitis nodes,sAB
+0,disease_on_genes,28,30,-0.20632183908045976
+1,disease_on_symptoms,23,21,-0.28712591756070016
+2,disease_on_drugs,26,27,-0.3211310003762834

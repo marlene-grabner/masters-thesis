@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.41666666666666663
+1,disease_on_symptoms,17,17,-0.7647058823529413
+2,disease_on_drugs,26,26,-0.5

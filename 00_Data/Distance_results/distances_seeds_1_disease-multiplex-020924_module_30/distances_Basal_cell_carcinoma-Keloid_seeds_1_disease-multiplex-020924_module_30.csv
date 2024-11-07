@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Keloid nodes,sAB
+0,disease_on_genes,26,22,0.22698135198135216
+1,disease_on_symptoms,23,20,1.10793731041456
+2,disease_on_drugs,25,19,0.7272727272727273

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,17,14,-0.31607481702358364
+2,disease_on_drugs,26,29,-0.16428743670122992

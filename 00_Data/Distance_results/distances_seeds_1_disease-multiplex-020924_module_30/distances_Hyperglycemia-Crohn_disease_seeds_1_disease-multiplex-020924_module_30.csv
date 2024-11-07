@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.29907407407407405
+1,disease_on_symptoms,14,20,1.7483193277310927
+2,disease_on_drugs,26,21,0.6970618034447822

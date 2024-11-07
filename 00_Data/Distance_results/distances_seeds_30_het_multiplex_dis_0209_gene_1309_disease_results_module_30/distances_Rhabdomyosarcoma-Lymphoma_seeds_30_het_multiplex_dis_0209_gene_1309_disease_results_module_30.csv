@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,29,26,-0.12727272727272732
+1,disease_on_symptoms,19,20,0.15802968960863706
+2,disease_on_drugs,29,24,0.03800693992626325

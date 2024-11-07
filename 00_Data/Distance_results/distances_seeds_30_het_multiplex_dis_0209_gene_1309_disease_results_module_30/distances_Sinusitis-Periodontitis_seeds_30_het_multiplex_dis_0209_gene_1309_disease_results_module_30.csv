@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,29,30,-0.27118644067796616
+1,disease_on_symptoms,20,21,-0.14608013937282238
+2,disease_on_drugs,27,28,-0.2166065416065417

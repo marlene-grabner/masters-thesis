@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Goiter nodes,sAB
+0,disease_on_genes,23,26,0.5313289195276774
+1,disease_on_symptoms,21,15,0.7500000000000002
+2,disease_on_drugs,19,16,1.1142857142857143

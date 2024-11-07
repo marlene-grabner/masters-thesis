@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,16,18,0.5081699346405228
+2,disease_on_drugs,29,22,0.1484418218698138

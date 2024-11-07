@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,20,21,0.4577235772357724
+2,disease_on_drugs,25,23,-0.07072463768115944

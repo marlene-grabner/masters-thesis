@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Rhinitis nodes,sAB
+0,disease_on_genes,18,30,0.5513888888888889
+1,disease_on_symptoms,21,15,0.11031746031746015
+2,disease_on_drugs,6,22,0.6547619047619049

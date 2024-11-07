@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,24,20,0.3036147623862486
+1,disease_on_symptoms,23,27,1.9189694041867955
+2,disease_on_drugs,20,19,0.3582658569500674

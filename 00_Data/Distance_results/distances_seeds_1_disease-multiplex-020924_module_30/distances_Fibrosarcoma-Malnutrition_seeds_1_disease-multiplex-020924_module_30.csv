@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Malnutrition nodes,sAB
+0,disease_on_genes,22,26,0.1319930069930071
+1,disease_on_symptoms,24,18,2.587301587301587
+2,disease_on_drugs,13,23,1.1111111111111112

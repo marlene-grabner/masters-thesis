@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,21,18,0.1413308913308915
+2,disease_on_drugs,26,28,0.022893772893772812

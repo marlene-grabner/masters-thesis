@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.2527272727272727
+1,disease_on_symptoms,14,20,1.327310924369748
+2,disease_on_drugs,27,21,0.5046296296296295

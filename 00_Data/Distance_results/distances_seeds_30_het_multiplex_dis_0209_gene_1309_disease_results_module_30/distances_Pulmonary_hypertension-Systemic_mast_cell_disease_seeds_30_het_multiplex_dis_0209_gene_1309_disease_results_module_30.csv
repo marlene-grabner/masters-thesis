@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,0.0
+1,disease_on_symptoms,18,25,0.6075710594315245
+2,disease_on_drugs,27,21,0.08730158730158721

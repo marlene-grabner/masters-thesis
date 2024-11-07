@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,26,22,-0.19696969696969713
+1,disease_on_symptoms,21,25,-0.09275362318840563
+2,disease_on_drugs,25,18,-0.15627906976744188

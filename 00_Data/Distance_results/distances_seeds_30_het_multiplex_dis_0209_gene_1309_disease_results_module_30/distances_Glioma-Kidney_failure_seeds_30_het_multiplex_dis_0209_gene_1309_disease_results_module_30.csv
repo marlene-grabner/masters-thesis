@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,22,30,-0.05512820512820504
+1,disease_on_symptoms,21,20,1.0229094076655052
+2,disease_on_drugs,21,28,0.09438775510204067

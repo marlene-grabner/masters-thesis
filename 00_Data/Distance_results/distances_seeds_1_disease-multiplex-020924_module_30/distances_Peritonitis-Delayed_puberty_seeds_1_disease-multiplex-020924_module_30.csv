@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,22,0.5232492997198879
+1,disease_on_symptoms,17,20,1.3234896661367248
+2,disease_on_drugs,28,19,1.01803711406175

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,23,24,0.04648473635522676
+1,disease_on_symptoms,21,23,2.5425371729719557
+2,disease_on_drugs,21,12,0.7164502164502164

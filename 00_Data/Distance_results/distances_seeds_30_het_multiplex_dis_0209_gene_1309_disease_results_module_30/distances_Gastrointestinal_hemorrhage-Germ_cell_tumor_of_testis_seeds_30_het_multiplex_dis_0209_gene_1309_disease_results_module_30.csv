@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,28,27,-0.2006854256854259
+1,disease_on_symptoms,20,22,0.3346320346320346
+2,disease_on_drugs,27,20,0.06176122931442074

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Rosacea nodes,sAB
+0,disease_on_genes,28,30,0.06699507389162562
+1,disease_on_symptoms,14,17,0.8993629709948494
+2,disease_on_drugs,28,27,0.509090909090909

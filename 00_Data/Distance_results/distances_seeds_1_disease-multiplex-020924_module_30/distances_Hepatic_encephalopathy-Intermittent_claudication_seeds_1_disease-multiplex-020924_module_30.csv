@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,9,20,0.09549808429118767
+1,disease_on_symptoms,27,24,2.5861928104575163
+2,disease_on_drugs,9,18,0.9629629629629628

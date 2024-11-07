@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,17,26,0.15047879616963056
+1,disease_on_symptoms,22,19,2.2830551989730425
+2,disease_on_drugs,15,24,0.3817307692307692

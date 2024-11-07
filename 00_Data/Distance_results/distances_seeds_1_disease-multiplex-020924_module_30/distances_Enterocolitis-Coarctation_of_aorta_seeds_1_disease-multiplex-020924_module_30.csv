@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,0.4814814814814814
+1,disease_on_symptoms,21,14,2.3404761904761906
+2,disease_on_drugs,24,13,0.9521396396396395

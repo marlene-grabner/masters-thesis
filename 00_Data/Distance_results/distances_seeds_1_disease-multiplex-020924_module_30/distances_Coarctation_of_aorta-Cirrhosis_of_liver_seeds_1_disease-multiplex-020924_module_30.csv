@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,0.24649122807017543
+1,disease_on_symptoms,14,14,1.0714285714285714
+2,disease_on_drugs,13,26,0.4423076923076923

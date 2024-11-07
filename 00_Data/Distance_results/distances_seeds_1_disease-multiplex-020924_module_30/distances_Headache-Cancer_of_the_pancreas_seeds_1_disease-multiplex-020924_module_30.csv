@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.18672316384180787
+1,disease_on_symptoms,25,16,1.0115243902439024
+2,disease_on_drugs,26,29,0.8544369423679767

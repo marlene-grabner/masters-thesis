@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,26,29,0.1454545454545455
+1,disease_on_symptoms,16,18,0.45915032679738554
+2,disease_on_drugs,25,28,0.2656873315363881

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.2184848484848484
+1,disease_on_symptoms,18,26,-0.059634809634809605
+2,disease_on_drugs,26,24,-0.13179487179487182

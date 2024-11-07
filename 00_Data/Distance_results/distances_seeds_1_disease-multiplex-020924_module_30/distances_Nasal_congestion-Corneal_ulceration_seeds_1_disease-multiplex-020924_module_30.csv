@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.13903940886699484
+1,disease_on_symptoms,15,19,0.5468524251805984
+2,disease_on_drugs,23,26,0.5700976042590948

@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.1039408866995073
+1,disease_on_symptoms,23,21,1.4231601731601733
+2,disease_on_drugs,30,28,0.5194581280788177

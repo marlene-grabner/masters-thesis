@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Obesity nodes,sAB
+0,disease_on_genes,25,27,-0.07478632478632485
+1,disease_on_symptoms,19,18,0.6232021495179394
+2,disease_on_drugs,25,25,0.020000000000000018

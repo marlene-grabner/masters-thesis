@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.24161793372319695
+1,disease_on_symptoms,19,15,1.176057791537668
+2,disease_on_drugs,26,21,0.8505767282363026

@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,18,25,0.577596899224806
+1,disease_on_symptoms,18,23,4.520590314598798
+2,disease_on_drugs,10,21,1.118509984639017

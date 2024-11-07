@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,22,30,0.26398601398601396
+1,disease_on_symptoms,22,17,0.4946524064171123
+2,disease_on_drugs,14,25,0.7728571428571429

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,22,25,0.32199226305609296
+2,disease_on_drugs,29,24,0.1228583821296898

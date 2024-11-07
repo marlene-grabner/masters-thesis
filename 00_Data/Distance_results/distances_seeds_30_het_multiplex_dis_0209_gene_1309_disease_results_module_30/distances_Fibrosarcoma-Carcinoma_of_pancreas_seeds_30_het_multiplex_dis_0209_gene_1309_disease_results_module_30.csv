@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,14,18,0.04563492063492047
+2,disease_on_drugs,26,21,-0.02010755202244563

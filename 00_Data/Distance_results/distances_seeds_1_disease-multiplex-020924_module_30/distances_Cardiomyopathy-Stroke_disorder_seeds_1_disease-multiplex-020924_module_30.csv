@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,25,30,-0.22030303030303033
+1,disease_on_symptoms,17,15,0.2818627450980391
+2,disease_on_drugs,24,30,-0.13425925925925908

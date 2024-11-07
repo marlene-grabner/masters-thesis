@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Uveitis nodes,sAB
+0,disease_on_genes,10,30,0.1333333333333333
+1,disease_on_symptoms,27,21,0.4914021164021163
+2,disease_on_drugs,9,27,0.17592592592592582

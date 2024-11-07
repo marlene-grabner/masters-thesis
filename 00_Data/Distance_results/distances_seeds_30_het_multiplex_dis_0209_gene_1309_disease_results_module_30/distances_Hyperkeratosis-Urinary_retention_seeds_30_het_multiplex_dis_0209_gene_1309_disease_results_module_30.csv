@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,-0.019230769230769162
+1,disease_on_symptoms,25,16,0.9972256097560976
+2,disease_on_drugs,25,28,0.13260107816711586

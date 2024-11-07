@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,-0.13058835574363536
+1,disease_on_symptoms,23,24,0.21087727412889312
+2,disease_on_drugs,25,17,0.023809523809523725

@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.27118644067796605
+1,disease_on_symptoms,13,16,1.1215185676392574
+2,disease_on_drugs,23,29,0.6867719986160765

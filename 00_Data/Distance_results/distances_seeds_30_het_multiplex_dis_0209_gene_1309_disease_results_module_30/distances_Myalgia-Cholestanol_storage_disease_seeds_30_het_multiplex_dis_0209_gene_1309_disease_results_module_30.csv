@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.2545295149035651
+1,disease_on_symptoms,16,18,0.09538398692810457
+2,disease_on_drugs,29,28,-0.19334975369458118

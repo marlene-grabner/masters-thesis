@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,30,25,0.20878787878787874
+1,disease_on_symptoms,16,16,1.1875
+2,disease_on_drugs,27,17,0.6751336898395723

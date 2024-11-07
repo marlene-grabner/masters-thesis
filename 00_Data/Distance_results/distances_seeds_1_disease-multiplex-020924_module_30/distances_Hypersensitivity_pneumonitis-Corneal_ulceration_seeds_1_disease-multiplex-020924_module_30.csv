@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,24,28,-0.15247252747252737
+1,disease_on_symptoms,23,19,0.08167157022992266
+2,disease_on_drugs,24,26,-0.30000000000000004

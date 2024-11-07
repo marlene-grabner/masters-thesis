@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,25,25,-0.10000000000000009
+1,disease_on_symptoms,17,23,0.4213554987212276
+2,disease_on_drugs,24,21,0.1329365079365079

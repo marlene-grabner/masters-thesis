@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,17,27,0.1933139534883721
+1,disease_on_symptoms,27,24,1.3679193899782136
+2,disease_on_drugs,14,25,0.3914652014652016

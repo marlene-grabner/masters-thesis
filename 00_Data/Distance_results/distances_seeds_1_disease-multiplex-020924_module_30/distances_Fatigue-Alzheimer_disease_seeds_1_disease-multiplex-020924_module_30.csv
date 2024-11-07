@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,26,20,0.045234113712374624
+1,disease_on_symptoms,21,23,1.1190005646527386
+2,disease_on_drugs,26,18,0.029720279720279796

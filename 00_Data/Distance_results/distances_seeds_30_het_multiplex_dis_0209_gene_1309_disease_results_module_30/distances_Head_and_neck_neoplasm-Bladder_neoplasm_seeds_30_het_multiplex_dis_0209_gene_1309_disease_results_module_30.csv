@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,-0.4452380952380952
+1,disease_on_symptoms,22,19,-0.9354942233632862
+2,disease_on_drugs,27,25,-0.5

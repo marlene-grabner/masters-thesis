@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.10344827586206895
+1,disease_on_symptoms,17,18,0.5192810457516339
+2,disease_on_drugs,26,23,0.3815097945532726

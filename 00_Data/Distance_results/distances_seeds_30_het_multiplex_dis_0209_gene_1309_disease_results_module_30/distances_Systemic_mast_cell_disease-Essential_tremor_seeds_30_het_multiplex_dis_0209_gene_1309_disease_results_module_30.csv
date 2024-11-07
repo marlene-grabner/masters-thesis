@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,0.1399999999999999
+1,disease_on_symptoms,25,23,0.7934420289855075
+2,disease_on_drugs,21,21,0.523809523809524

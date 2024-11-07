@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,24,23,0.21739130434782594
+1,disease_on_symptoms,23,20,0.9240899898887762
+2,disease_on_drugs,20,20,1.05

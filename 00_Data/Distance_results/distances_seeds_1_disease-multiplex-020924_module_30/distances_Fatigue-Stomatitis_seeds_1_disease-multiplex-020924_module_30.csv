@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Stomatitis nodes,sAB
+0,disease_on_genes,26,30,0.14368131868131861
+1,disease_on_symptoms,21,23,0.49350649350649367
+2,disease_on_drugs,26,30,0.2543956043956044

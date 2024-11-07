@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,23,20,0.34944388270980786
+1,disease_on_symptoms,19,26,1.7215249662618086
+2,disease_on_drugs,11,13,0.8076923076923077

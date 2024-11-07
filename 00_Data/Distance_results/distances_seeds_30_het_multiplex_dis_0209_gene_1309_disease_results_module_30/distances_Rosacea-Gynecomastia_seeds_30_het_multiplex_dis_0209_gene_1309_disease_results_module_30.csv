@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,18,15,-0.26515151515151514
+2,disease_on_drugs,30,29,-0.20259107734268467

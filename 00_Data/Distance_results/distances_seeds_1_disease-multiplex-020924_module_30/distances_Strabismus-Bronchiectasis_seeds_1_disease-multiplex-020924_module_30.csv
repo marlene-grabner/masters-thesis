@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,13,30,0.3795766249254622
+1,disease_on_symptoms,26,15,1.1249843652282676
+2,disease_on_drugs,9,26,0.2774114774114773

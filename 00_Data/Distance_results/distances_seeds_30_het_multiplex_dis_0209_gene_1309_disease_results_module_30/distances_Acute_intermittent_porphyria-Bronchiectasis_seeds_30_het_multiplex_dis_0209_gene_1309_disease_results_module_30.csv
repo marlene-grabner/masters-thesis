@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,17,19,0.7939456484348122
+2,disease_on_drugs,24,25,0.08195578231292511

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,27,26,0.15234102026554863
+1,disease_on_symptoms,19,19,0.7894736842105265
+2,disease_on_drugs,20,24,0.5450757575757574

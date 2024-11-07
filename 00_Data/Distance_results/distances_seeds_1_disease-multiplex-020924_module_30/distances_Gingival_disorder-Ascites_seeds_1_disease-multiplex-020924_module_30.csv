@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Ascites nodes,sAB
+0,disease_on_genes,21,30,0.2226890756302522
+1,disease_on_symptoms,26,17,1.0646637903819847
+2,disease_on_drugs,20,27,0.5401891252955082

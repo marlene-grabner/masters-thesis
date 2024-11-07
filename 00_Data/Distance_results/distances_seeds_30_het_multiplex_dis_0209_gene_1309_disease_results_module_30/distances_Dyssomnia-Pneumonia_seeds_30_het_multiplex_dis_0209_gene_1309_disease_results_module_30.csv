@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Pneumonia nodes,sAB
+0,disease_on_genes,18,30,0.125
+1,disease_on_symptoms,21,23,1.9885657820440432
+2,disease_on_drugs,17,29,0.4067378075668049

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.32008476893628646
+1,disease_on_symptoms,16,25,1.2222256097560975
+2,disease_on_drugs,27,18,0.7611111111111111

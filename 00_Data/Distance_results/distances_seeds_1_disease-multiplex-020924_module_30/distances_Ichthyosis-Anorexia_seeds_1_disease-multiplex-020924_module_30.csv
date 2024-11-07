@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,17,0.21316102198455145
+1,disease_on_symptoms,17,25,0.8898039215686278
+2,disease_on_drugs,24,13,0.7993762993762996

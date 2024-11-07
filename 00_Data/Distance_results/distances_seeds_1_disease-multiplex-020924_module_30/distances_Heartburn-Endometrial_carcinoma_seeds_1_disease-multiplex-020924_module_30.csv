@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,24,23,0.14976487819919826
+1,disease_on_symptoms,20,21,0.8808072009291523
+2,disease_on_drugs,22,21,0.5802627604953188

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.38983050847457634
+1,disease_on_symptoms,12,18,1.2444444444444445
+2,disease_on_drugs,27,22,1.0408163265306123

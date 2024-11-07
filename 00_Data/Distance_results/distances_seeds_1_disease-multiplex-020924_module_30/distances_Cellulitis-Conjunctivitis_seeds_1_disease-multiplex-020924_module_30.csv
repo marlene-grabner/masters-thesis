@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,22,27,0.1451719576719579
+1,disease_on_symptoms,26,27,0.6805891522872656
+2,disease_on_drugs,12,26,0.4615384615384617

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,27,0.3018733537601461
+1,disease_on_symptoms,20,23,0.9933265925176946
+2,disease_on_drugs,27,15,0.45343915343915353

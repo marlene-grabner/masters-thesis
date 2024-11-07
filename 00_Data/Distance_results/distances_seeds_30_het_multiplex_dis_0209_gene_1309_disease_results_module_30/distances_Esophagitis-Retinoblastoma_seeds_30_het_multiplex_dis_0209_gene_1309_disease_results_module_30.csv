@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,20,21,-0.08132984901277585
+2,disease_on_drugs,30,27,0.14463937621832357

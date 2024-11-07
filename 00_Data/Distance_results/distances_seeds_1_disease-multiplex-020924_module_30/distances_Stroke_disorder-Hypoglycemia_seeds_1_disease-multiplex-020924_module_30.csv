@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,15,12,0.2129629629629628
+2,disease_on_drugs,30,22,0.25

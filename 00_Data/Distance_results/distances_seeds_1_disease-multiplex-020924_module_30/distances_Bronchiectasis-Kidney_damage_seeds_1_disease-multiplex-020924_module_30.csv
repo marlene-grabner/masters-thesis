@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,-0.17666666666666675
+1,disease_on_symptoms,15,26,0.18408380237648547
+2,disease_on_drugs,26,13,-0.41025641025641035

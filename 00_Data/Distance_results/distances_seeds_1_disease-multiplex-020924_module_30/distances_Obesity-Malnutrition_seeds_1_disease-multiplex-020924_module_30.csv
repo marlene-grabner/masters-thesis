@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Malnutrition nodes,sAB
+0,disease_on_genes,26,26,0.05769230769230771
+1,disease_on_symptoms,20,18,0.9567251461988304
+2,disease_on_drugs,27,23,0.4629629629629628

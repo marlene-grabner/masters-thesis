@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,17,0.24718397997496888
+1,disease_on_symptoms,18,25,0.07692506459948323
+2,disease_on_drugs,27,13,0.393945868945869

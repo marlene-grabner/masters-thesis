@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.1764132553606239
+1,disease_on_symptoms,18,19,0.29678362573099415
+2,disease_on_drugs,26,24,-0.20032051282051277

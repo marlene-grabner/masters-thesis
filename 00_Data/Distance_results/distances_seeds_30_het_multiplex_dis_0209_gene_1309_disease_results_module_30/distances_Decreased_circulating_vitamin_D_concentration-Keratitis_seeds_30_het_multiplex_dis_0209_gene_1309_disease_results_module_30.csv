@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,30,-0.08939393939393936
+1,disease_on_symptoms,13,25,0.9157894736842107
+2,disease_on_drugs,21,29,0.1664696223316915

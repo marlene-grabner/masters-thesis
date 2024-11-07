@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,14,27,0.5126145309072139
+1,disease_on_symptoms,25,20,2.4927777777777775
+2,disease_on_drugs,10,25,0.6071428571428572

@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.06896551724137923
+1,disease_on_symptoms,22,19,0.5074687828217994
+2,disease_on_drugs,15,25,0.17833333333333323

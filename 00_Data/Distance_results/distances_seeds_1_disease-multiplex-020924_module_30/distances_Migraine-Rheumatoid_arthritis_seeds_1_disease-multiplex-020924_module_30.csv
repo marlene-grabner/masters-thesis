@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,27,0.06900584795321629
+1,disease_on_symptoms,14,15,0.7530377668308699
+2,disease_on_drugs,29,25,0.27629629629629626

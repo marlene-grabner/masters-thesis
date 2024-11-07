@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,26,30,-0.1238095238095237
+1,disease_on_symptoms,21,20,0.8759872241579556
+2,disease_on_drugs,25,28,0.13890835579514826

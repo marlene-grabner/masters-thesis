@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,0.10909090909090913
+1,disease_on_symptoms,23,23,0.19565217391304346
+2,disease_on_drugs,21,29,0.3053201970443349

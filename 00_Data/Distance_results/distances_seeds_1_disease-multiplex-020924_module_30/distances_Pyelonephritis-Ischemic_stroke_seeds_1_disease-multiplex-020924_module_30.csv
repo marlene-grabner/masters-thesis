@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,23,30,0.2388706590101175
+1,disease_on_symptoms,21,16,0.9887387387387387
+2,disease_on_drugs,19,23,0.865424430641822

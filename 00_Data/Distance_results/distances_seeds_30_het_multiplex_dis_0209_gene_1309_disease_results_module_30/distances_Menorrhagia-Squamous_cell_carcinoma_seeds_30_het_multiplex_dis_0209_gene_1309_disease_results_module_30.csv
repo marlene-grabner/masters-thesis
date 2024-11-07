@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,27,30,0.1578947368421053
+1,disease_on_symptoms,16,22,0.7791566985645932
+2,disease_on_drugs,23,30,0.49056603773584895

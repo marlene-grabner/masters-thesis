@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,-0.16545454545454552
+1,disease_on_symptoms,23,19,0.22076931459082494
+2,disease_on_drugs,24,29,0.1636168943829972

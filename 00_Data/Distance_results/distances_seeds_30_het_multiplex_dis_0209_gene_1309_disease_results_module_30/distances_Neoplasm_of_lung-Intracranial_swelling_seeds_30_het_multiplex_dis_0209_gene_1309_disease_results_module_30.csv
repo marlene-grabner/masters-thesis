@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,11,0.26507177033492835
+2,disease_on_drugs,30,21,0.011484593837534973

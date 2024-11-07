@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,20,19,0.0493252361673413
+2,disease_on_drugs,24,28,0.09249084249084238

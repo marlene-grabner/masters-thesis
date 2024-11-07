@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,26,26,-0.07692307692307687
+1,disease_on_symptoms,20,19,0.6943994601889338
+2,disease_on_drugs,20,25,0.3055555555555556

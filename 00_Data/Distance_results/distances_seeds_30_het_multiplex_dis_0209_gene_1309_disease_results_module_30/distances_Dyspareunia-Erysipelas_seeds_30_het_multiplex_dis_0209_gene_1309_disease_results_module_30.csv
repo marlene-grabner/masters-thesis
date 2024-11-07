@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,20,18,0.10701754385964901
+2,disease_on_drugs,28,29,-0.17490925589836648

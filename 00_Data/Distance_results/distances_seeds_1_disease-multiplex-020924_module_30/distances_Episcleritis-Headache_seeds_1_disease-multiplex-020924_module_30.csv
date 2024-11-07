@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,22,25,0.8562282398452612
+2,disease_on_drugs,29,26,0.5127441523993248

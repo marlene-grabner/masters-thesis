@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.0337231968810916
+1,disease_on_symptoms,14,19,1.8212576896787422
+2,disease_on_drugs,26,26,0.6923076923076923

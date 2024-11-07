@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.061764705882352944
+1,disease_on_symptoms,16,20,0.5506944444444444
+2,disease_on_drugs,30,19,0.1277658431793769

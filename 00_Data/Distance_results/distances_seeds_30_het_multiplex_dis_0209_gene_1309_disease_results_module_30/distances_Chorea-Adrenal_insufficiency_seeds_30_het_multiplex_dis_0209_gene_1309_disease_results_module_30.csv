@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,15,0.10098039215686283
+2,disease_on_drugs,24,24,0.16666666666666652

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.034482758620689724
+1,disease_on_symptoms,14,17,0.10443209541881249
+2,disease_on_drugs,26,25,0.01987933634992456

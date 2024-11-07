@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,17,25,0.552829131652661
+1,disease_on_symptoms,21,19,0.6929197994987468
+2,disease_on_drugs,17,13,1.6693815987933633

@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,21,22,0.25468136514648143
+1,disease_on_symptoms,26,23,0.9967237731212886
+2,disease_on_drugs,20,20,1.05

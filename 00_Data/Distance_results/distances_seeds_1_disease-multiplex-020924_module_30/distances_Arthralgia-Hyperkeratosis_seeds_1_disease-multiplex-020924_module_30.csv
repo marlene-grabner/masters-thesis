@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.12637362637362626
+1,disease_on_symptoms,19,21,0.5025689223057646
+2,disease_on_drugs,30,23,-0.24528301886792447

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,30,0.2068965517241379
+1,disease_on_symptoms,18,23,0.31474608224343115
+2,disease_on_drugs,23,24,-0.06490903484428001

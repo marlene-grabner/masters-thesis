@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Cholangitis nodes,sAB
+0,disease_on_genes,17,27,0.441968706674589
+1,disease_on_symptoms,25,22,1.0547775628626694
+2,disease_on_drugs,13,26,0.8076923076923079

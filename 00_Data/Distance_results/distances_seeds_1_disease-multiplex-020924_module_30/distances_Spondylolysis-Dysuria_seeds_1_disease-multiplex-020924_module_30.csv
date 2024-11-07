@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Dysuria nodes,sAB
+0,disease_on_genes,27,30,-0.12148786717752236
+1,disease_on_symptoms,19,16,0.481062030075188
+2,disease_on_drugs,20,23,-0.09325075834175933

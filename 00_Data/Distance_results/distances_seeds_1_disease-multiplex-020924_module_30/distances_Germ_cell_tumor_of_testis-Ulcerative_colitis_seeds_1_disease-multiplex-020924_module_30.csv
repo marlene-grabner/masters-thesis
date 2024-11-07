@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,0.4259259259259258
+1,disease_on_symptoms,23,20,1.4398129423660264
+2,disease_on_drugs,20,25,0.8

@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,30,0.0
+1,disease_on_symptoms,21,18,0.7988400488400491
+2,disease_on_drugs,21,28,-0.006802721088435604

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,-0.13398692810457524
+1,disease_on_symptoms,18,19,1.030741267583373
+2,disease_on_drugs,25,24,0.18443877551020393

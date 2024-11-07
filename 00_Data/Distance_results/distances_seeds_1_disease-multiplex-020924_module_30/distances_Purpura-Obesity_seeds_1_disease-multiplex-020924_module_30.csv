@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Obesity nodes,sAB
+0,disease_on_genes,26,26,0.19230769230769207
+1,disease_on_symptoms,17,20,2.175516693163752
+2,disease_on_drugs,20,27,0.4736012608353033

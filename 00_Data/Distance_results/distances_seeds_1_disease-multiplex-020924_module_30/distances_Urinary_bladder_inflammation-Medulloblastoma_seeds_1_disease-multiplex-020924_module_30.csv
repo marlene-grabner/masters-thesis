@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,25,26,0.351764705882353
+1,disease_on_symptoms,22,19,1.0230773719220445
+2,disease_on_drugs,24,24,1.4166666666666667

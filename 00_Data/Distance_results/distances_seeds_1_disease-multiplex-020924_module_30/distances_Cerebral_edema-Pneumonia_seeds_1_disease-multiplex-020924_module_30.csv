@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.41666666666666674
+1,disease_on_symptoms,9,26,0.5186202686202686
+2,disease_on_drugs,11,28,0.6981351981351982

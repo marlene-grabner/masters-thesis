@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,21,0.23082010582010581
+1,disease_on_symptoms,20,25,1.543888888888889
+2,disease_on_drugs,25,21,0.6521739130434783

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,21,23,-0.3370976849237719
+2,disease_on_drugs,29,23,-0.30108983969553693

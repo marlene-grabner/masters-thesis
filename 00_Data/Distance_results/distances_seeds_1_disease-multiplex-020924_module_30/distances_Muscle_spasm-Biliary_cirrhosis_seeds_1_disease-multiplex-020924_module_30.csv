@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,25,26,0.4098039215686273
+1,disease_on_symptoms,23,15,1.7720823798627001
+2,disease_on_drugs,19,15,1.0509803921568628

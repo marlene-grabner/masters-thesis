@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,23,25,-0.08438405797101445
+1,disease_on_symptoms,23,17,-0.12212276214833762
+2,disease_on_drugs,18,24,0.13293650793650813

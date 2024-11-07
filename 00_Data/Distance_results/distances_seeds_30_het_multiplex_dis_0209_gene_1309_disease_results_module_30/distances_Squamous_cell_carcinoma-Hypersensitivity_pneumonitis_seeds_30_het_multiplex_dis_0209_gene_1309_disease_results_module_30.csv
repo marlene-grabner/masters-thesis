@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.2545454545454545
+1,disease_on_symptoms,22,20,-0.006385281385281383
+2,disease_on_drugs,30,25,-0.22545454545454557

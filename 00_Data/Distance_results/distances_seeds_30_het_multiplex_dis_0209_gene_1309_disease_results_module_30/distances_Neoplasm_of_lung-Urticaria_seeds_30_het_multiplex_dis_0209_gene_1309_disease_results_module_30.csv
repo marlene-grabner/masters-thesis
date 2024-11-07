@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.14814814814814814
+1,disease_on_symptoms,19,21,0.2081453634085213
+2,disease_on_drugs,30,24,-0.06342592592592577

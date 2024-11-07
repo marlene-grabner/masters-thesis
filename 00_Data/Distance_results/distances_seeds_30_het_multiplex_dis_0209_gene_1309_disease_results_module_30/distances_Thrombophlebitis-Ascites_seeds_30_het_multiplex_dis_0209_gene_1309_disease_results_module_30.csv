@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,22,0.16363636363636358
+2,disease_on_drugs,29,27,0.08830505382229514

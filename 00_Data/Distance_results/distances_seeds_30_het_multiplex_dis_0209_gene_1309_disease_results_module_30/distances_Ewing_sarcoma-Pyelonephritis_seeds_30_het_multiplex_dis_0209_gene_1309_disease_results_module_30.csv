@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,-0.07638888888888906
+1,disease_on_symptoms,17,19,0.35173718610251115
+2,disease_on_drugs,24,19,-0.2308496532027744

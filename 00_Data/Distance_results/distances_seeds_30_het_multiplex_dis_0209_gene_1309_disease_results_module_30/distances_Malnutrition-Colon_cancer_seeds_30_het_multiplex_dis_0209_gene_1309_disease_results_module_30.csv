@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,-0.3928571428571429
+1,disease_on_symptoms,14,22,-0.5609668109668109
+2,disease_on_drugs,29,26,-0.4370147094285025

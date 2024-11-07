@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.4833333333333334
+1,disease_on_symptoms,16,24,1.8270833333333334
+2,disease_on_drugs,21,15,0.6246031746031746

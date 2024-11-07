@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,20,18,0.3109649122807019
+2,disease_on_drugs,30,29,0.3872004675628289

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,15,0.15177187153931349
+1,disease_on_symptoms,14,27,2.001451800232288
+2,disease_on_drugs,28,13,1.1707317073170733

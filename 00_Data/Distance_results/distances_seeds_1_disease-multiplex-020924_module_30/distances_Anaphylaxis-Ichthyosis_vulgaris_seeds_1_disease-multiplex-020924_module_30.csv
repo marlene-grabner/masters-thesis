@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,27,27,0.0185185185185186
+1,disease_on_symptoms,15,21,0.6920634920634918
+2,disease_on_drugs,26,27,0.32002902757619744

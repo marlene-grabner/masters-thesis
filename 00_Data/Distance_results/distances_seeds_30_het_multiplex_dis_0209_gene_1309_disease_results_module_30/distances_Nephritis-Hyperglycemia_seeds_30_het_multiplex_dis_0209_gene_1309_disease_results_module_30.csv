@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Hyperglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,17,17,0.8823529411764706
+2,disease_on_drugs,25,26,-0.001266968325791984

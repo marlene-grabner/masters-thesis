@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Nocturia nodes,sAB
+0,disease_on_genes,27,25,0.03921568627450989
+1,disease_on_symptoms,17,18,1.0250233426704014
+2,disease_on_drugs,17,24,0.3506695361071257

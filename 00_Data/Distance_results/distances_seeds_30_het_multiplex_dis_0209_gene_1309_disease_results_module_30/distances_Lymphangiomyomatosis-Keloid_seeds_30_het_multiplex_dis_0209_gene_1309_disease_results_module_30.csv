@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,-0.2233124018838304
+1,disease_on_symptoms,17,17,0.3529411764705883
+2,disease_on_drugs,24,22,-0.08160408432147559

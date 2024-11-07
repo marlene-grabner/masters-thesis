@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.30833333333333335
+1,disease_on_symptoms,17,27,1.804268171915231
+2,disease_on_drugs,27,9,0.8981481481481481

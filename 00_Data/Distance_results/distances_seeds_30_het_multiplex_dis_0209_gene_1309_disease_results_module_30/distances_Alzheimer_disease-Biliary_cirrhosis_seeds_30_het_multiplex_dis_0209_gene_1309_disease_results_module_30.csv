@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.10321821036106749
+1,disease_on_symptoms,19,22,1.1193254755514062
+2,disease_on_drugs,19,25,0.3136842105263158

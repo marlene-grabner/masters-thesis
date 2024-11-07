@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Orchitis nodes,sAB
+0,disease_on_genes,29,25,-0.03703703703703709
+1,disease_on_symptoms,18,19,1.0796586059743958
+2,disease_on_drugs,29,25,-0.0606130268199232

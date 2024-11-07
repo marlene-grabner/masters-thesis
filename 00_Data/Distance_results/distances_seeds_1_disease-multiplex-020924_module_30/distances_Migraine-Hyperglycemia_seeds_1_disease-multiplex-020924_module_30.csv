@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Hyperglycemia nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,14,14,0.9642857142857144
+2,disease_on_drugs,29,26,0.25454545454545463

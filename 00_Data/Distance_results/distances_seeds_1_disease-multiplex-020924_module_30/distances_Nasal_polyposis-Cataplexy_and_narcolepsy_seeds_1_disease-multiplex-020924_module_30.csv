@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,15,25,0.3166666666666669
+1,disease_on_symptoms,25,18,2.3355297157622736
+2,disease_on_drugs,10,17,0.2779956427015251

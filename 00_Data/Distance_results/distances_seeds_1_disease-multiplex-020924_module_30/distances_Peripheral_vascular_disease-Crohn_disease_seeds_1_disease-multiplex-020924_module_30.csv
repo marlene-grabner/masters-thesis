@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,23,25,0.10449429540548882
+1,disease_on_symptoms,16,20,1.98125
+2,disease_on_drugs,22,21,0.5105204872646734

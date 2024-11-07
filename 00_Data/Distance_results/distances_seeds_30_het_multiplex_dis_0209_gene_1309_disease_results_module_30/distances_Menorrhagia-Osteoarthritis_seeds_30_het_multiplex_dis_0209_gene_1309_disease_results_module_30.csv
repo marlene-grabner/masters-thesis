@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,26,-0.019593613933236442
+1,disease_on_symptoms,16,22,0.37006578947368407
+2,disease_on_drugs,23,25,0.14916666666666667

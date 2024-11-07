@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.019047619047619202
+1,disease_on_symptoms,19,18,0.7072467204046151
+2,disease_on_drugs,30,26,0.04771062271062276

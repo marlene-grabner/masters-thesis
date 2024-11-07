@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,-0.018513957307060958
+1,disease_on_symptoms,14,14,0.3214285714285716
+2,disease_on_drugs,28,26,-0.07346357346357346

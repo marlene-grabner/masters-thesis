@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.17016072676450023
+1,disease_on_symptoms,21,15,0.6444444444444444
+2,disease_on_drugs,27,15,0.8962962962962964

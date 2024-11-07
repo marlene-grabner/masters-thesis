@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pruritus nodes,sAB
+0,disease_on_genes,17,26,0.08425770308123237
+1,disease_on_symptoms,21,19,1.0087092731829572
+2,disease_on_drugs,17,24,0.81922525107604

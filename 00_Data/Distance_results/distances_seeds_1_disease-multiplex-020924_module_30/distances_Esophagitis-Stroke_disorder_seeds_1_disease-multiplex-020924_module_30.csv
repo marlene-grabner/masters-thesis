@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,24,30,0.22287394038829622
+1,disease_on_symptoms,23,15,1.1147978642257814
+2,disease_on_drugs,20,30,1.0150000000000001

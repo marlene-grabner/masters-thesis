@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.471294952427028
+1,disease_on_symptoms,15,15,2.0
+2,disease_on_drugs,26,16,0.7948717948717949

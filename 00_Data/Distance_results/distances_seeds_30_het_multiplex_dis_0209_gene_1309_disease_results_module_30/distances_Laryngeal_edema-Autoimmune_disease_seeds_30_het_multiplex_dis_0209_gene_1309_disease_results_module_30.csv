@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1952380952380952
+1,disease_on_symptoms,16,20,-0.11319444444444438
+2,disease_on_drugs,28,25,-0.2416037735849057

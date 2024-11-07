@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.21052631578947367
+1,disease_on_symptoms,22,21,-0.023633343400785156
+2,disease_on_drugs,30,27,-0.23001949317738812

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.6181818181818182
+1,disease_on_symptoms,25,26,2.7057767722473605
+2,disease_on_drugs,7,21,1.4642857142857142

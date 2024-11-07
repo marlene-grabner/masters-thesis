@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,0.01665692577440092
+1,disease_on_symptoms,12,13,0.22051282051282062
+2,disease_on_drugs,23,28,-0.027524053099500678

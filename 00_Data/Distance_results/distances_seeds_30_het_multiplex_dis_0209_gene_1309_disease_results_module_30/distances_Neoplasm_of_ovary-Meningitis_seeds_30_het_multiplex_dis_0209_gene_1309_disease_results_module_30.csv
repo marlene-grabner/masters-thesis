@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.08502824858757063
+1,disease_on_symptoms,22,17,0.7688879747703279
+2,disease_on_drugs,29,27,0.12221766101076459

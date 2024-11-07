@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,-0.2321428571428571
+1,disease_on_symptoms,18,20,-0.2210526315789474
+2,disease_on_drugs,29,27,-0.3017241379310345

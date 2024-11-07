@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,13,23,0.6022853957636565
+2,disease_on_drugs,19,29,0.42993799153055057

@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,25,30,-0.2222222222222222
+1,disease_on_symptoms,18,19,0.27722459301406666
+2,disease_on_drugs,24,30,0.0

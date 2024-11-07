@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,26,-0.4423076923076923
+1,disease_on_symptoms,20,16,-0.47777777777777763
+2,disease_on_drugs,20,25,-0.5522222222222223

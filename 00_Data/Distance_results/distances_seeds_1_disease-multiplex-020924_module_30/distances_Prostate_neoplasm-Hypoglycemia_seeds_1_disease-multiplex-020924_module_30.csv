@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,17,30,0.37171464330413007
+1,disease_on_symptoms,21,12,1.5487012987012987
+2,disease_on_drugs,17,22,1.1463046757164406

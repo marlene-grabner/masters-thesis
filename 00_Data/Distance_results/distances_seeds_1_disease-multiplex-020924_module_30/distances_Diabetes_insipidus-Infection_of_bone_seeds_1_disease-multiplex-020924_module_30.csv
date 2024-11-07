@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,24,26,0.3207051282051281
+1,disease_on_symptoms,18,21,0.834249084249084
+2,disease_on_drugs,18,24,0.9613095238095237

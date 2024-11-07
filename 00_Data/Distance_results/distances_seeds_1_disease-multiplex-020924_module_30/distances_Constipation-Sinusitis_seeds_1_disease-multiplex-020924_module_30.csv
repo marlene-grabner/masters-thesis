@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.08415156828365467
+1,disease_on_symptoms,17,21,0.13187380215243993
+2,disease_on_drugs,27,28,0.6188191438191439

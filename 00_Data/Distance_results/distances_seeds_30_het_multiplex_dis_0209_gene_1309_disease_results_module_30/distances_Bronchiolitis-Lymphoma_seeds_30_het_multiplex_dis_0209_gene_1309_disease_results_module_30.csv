@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,28,26,0.0185185185185186
+1,disease_on_symptoms,25,20,0.9266666666666665
+2,disease_on_drugs,24,24,0.20833333333333326

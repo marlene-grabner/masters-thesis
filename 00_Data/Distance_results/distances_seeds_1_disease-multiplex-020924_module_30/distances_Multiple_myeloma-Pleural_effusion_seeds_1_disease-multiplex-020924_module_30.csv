@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.10833333333333339
+1,disease_on_symptoms,21,20,0.4876016260162601
+2,disease_on_drugs,25,22,0.30042553191489363

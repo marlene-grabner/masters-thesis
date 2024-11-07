@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Pneumonia nodes,sAB
+0,disease_on_genes,21,30,-0.5557422969187675
+1,disease_on_symptoms,26,26,-0.4423076923076922
+2,disease_on_drugs,20,28,-0.45833333333333337

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,17,18,0.028011204481792618
+2,disease_on_drugs,26,27,-0.09546847282696347

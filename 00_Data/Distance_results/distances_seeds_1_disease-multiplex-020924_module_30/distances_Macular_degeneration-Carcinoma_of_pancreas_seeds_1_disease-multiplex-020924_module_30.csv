@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.17201257861635222
+1,disease_on_symptoms,15,25,-0.32166666666666677
+2,disease_on_drugs,21,21,0.11904761904761907

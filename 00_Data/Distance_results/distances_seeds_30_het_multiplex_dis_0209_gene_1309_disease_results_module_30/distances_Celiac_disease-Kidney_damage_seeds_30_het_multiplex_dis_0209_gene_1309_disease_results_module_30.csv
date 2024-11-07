@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,18,15,0.036363636363636376
+2,disease_on_drugs,28,21,-0.12074829931972797

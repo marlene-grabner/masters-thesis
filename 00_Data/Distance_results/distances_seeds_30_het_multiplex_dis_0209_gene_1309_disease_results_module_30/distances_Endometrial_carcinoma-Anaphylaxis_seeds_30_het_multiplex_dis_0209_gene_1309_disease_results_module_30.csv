@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.15129280223619834
+1,disease_on_symptoms,21,14,1.0404761904761903
+2,disease_on_drugs,26,26,0.6923076923076925

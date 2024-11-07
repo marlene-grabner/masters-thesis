@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.12003284072249576
+1,disease_on_symptoms,25,21,0.6782194616977226
+2,disease_on_drugs,26,28,0.5376475376475376

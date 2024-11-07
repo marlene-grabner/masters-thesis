@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,-4.105090311989912e-05
+1,disease_on_symptoms,14,23,-0.7130266912875609
+2,disease_on_drugs,24,28,-0.269459706959707

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.3991166608277863
+1,disease_on_symptoms,21,18,1.492979242979243
+2,disease_on_drugs,25,19,0.7674162679425838

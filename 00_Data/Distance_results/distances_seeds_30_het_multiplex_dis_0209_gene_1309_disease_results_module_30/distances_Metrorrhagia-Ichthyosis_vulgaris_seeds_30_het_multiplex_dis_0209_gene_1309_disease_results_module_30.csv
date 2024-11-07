@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,0.03703703703703698
+1,disease_on_symptoms,17,21,0.8002358838272152
+2,disease_on_drugs,26,24,0.04288461538461541

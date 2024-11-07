@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,16,30,-0.03520950280673607
+1,disease_on_symptoms,23,18,0.023359255331683704
+2,disease_on_drugs,16,19,0.14694548872180446

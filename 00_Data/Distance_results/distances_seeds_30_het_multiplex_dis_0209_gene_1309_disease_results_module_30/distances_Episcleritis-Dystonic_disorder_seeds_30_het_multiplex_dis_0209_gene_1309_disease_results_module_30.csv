@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,17,0.6507469654528479
+2,disease_on_drugs,28,26,0.27879527879527877

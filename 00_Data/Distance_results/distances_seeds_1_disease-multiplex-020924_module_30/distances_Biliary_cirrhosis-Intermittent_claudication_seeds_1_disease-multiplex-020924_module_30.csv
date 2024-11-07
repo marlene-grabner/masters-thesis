@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.40326086956521734
+1,disease_on_symptoms,15,24,0.733653846153846
+2,disease_on_drugs,15,18,0.8828282828282827

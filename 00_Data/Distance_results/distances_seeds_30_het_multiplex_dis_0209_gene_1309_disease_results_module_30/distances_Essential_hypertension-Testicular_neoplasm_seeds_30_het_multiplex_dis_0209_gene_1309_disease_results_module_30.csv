@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,-0.05773584905660378
+1,disease_on_symptoms,13,26,1.0641025641025639
+2,disease_on_drugs,28,24,0.2518315018315018

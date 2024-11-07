@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Arthralgia nodes,sAB
+0,disease_on_genes,27,30,-0.10623781676413269
+1,disease_on_symptoms,23,17,1.1961636828644504
+2,disease_on_drugs,25,30,0.37909090909090915

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,24,23,-0.10777058279370932
+1,disease_on_symptoms,23,20,-0.00614256825075854
+2,disease_on_drugs,22,20,-0.04880952380952375

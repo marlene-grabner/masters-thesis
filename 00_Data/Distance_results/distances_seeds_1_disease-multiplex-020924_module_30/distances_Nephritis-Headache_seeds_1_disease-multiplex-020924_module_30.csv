@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,25,0.13273901808785538
+2,disease_on_drugs,27,26,0.020252109874751456

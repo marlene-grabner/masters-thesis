@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,29,26,0.019122257053291625
+1,disease_on_symptoms,17,17,0.5588235294117647
+2,disease_on_drugs,30,23,-0.0028712059064808226

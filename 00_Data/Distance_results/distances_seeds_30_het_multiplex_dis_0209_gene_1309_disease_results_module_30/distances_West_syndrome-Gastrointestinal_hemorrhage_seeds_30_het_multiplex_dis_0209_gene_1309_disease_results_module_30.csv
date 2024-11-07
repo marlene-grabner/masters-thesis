@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,0.10283251231527091
+1,disease_on_symptoms,13,20,0.33904428904428885
+2,disease_on_drugs,19,27,0.17493007882023903

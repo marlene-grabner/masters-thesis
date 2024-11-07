@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,24,0.008796296296296191
+1,disease_on_symptoms,14,20,0.33298319327731085
+2,disease_on_drugs,24,22,0.39122200263504614

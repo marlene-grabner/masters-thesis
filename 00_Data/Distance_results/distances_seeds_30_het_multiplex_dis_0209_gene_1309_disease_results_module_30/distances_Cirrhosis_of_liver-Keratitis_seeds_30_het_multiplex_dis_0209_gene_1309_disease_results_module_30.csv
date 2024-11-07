@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,19,25,0.2770334928229663
+2,disease_on_drugs,30,29,0.17003701539060967

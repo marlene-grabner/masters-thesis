@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,27,29,0.37552453931764274
+1,disease_on_symptoms,19,16,1.819454887218045
+2,disease_on_drugs,27,22,0.8163265306122449

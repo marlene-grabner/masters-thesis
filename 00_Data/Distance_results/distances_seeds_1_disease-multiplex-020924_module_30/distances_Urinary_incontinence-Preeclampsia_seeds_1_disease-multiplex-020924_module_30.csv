@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,26,26,0.26923076923076916
+1,disease_on_symptoms,20,17,1.9103736089030208
+2,disease_on_drugs,20,23,0.4433771486349847

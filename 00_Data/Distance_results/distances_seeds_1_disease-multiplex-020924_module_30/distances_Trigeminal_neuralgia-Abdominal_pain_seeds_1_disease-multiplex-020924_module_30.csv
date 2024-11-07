@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.051026272577996634
+1,disease_on_symptoms,19,24,0.16011321909424736
+2,disease_on_drugs,26,24,0.039102564102564186

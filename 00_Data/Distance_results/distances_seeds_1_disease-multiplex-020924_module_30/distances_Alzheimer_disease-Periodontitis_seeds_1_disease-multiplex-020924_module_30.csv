@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Periodontitis nodes,sAB
+0,disease_on_genes,20,23,0.14234074823053589
+1,disease_on_symptoms,23,25,1.032463768115942
+2,disease_on_drugs,18,22,0.5818181818181816

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,20,18,0.6007309941520469
+2,disease_on_drugs,29,22,0.061405126313848424

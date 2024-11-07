@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,17,30,0.22518115942028993
+1,disease_on_symptoms,27,24,1.9586056644880174
+2,disease_on_drugs,14,28,0.42261904761904767

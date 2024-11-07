@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,-0.1385467980295566
+1,disease_on_symptoms,12,19,0.23273910582908885
+2,disease_on_drugs,29,22,-0.23117585592230627

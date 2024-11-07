@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.08620689655172409
+1,disease_on_symptoms,22,13,1.1404095904095906
+2,disease_on_drugs,30,28,0.22044334975369462

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,18,29,0.5392924105323225
+1,disease_on_symptoms,21,16,1.6800997425997424
+2,disease_on_drugs,6,22,1.0833333333333335

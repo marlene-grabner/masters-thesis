@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,0.03633004926108385
+1,disease_on_symptoms,20,20,0.8500000000000001
+2,disease_on_drugs,24,27,-0.047794117647058876

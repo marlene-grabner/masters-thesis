@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.017446393762183154
+1,disease_on_symptoms,21,16,1.8761261261261262
+2,disease_on_drugs,27,23,0.4360064412238325

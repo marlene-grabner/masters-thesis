@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,28,29,0.2456140350877194
+1,disease_on_symptoms,18,20,1.324853801169591
+2,disease_on_drugs,23,20,0.3733063700707788

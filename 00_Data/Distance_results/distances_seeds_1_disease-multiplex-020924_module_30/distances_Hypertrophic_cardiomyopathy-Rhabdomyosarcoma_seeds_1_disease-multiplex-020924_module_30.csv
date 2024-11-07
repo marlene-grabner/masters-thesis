@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,23,0.380530489472245
+1,disease_on_symptoms,17,24,2.761776661884266
+2,disease_on_drugs,17,17,0.9411764705882353

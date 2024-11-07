@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,28,27,0.21815776815776822
+1,disease_on_symptoms,17,21,0.926360017691287
+2,disease_on_drugs,28,27,0.5272727272727273

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.00028248587570622874
+1,disease_on_symptoms,22,13,0.4337662337662338
+2,disease_on_drugs,29,22,0.16797283176593525

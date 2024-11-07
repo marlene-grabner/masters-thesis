@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,23,27,0.3614814814814813
+1,disease_on_symptoms,16,18,1.9679330065359477
+2,disease_on_drugs,17,21,0.577767949284977

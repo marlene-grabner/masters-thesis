@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,20,26,0.3688127090301003
+1,disease_on_symptoms,23,17,0.865601023017903
+2,disease_on_drugs,18,18,0.6111111111111112

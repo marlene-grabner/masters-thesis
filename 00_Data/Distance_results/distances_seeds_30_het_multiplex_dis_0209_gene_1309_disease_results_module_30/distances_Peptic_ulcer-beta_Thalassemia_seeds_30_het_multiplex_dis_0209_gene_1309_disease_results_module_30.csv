@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,13,0.09050116550116538
+2,disease_on_drugs,30,24,0.033796296296296324

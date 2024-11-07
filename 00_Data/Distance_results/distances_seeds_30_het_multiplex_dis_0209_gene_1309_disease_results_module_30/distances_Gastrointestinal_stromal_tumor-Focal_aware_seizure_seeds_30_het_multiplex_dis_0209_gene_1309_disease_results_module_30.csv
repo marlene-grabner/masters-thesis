@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,19,16,0.1942669172932332
+2,disease_on_drugs,28,29,0.15815400570391525

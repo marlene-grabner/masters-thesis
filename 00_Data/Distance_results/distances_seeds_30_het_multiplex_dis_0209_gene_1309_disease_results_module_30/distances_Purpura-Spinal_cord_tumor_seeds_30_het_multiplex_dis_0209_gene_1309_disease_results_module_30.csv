@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,27,29,0.0886243386243386
+1,disease_on_symptoms,17,14,0.2580645161290325
+2,disease_on_drugs,24,22,0.1287055335968379

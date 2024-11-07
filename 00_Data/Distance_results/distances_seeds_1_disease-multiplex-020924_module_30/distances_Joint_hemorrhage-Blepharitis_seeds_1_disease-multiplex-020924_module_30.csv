@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.4849999999999999
+1,disease_on_symptoms,13,27,1.2778490028490026
+2,disease_on_drugs,18,19,0.75592697961119

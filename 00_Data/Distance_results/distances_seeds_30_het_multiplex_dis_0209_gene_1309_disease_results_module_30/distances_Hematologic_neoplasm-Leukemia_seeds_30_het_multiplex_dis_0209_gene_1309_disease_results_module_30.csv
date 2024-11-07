@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.4
+1,disease_on_symptoms,18,21,-0.8965201465201467
+2,disease_on_drugs,27,30,-0.4956140350877193

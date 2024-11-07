@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Vasculitis nodes,sAB
+0,disease_on_genes,7,24,0.18423579109062982
+1,disease_on_symptoms,30,19,0.9907984246330113
+2,disease_on_drugs,6,20,0.5205128205128204

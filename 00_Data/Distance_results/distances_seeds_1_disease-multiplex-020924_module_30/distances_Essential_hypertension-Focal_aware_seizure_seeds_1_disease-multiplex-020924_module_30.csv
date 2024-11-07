@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.03414786967418548
+1,disease_on_symptoms,14,15,1.0267651888341542
+2,disease_on_drugs,28,29,0.5958646616541354

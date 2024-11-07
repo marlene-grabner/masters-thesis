@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,29,25,0.33164750957854405
+1,disease_on_symptoms,17,20,2.821899841017488
+2,disease_on_drugs,26,14,1.1486263736263735

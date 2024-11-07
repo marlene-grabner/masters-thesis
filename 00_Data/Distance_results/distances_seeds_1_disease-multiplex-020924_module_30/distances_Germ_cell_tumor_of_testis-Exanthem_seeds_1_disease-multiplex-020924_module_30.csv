@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,28,0.3272727272727274
+1,disease_on_symptoms,23,26,1.2988533205924513
+2,disease_on_drugs,20,28,0.711309523809524

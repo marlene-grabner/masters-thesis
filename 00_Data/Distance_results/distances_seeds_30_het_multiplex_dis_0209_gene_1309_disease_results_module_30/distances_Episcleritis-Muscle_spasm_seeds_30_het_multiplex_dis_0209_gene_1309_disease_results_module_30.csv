@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,15,0.5611111111111113
+2,disease_on_drugs,28,29,0.3157030507302738

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Diarrhea nodes,sAB
+0,disease_on_genes,23,27,0.19871175523349427
+1,disease_on_symptoms,19,19,2.131578947368421
+2,disease_on_drugs,11,26,1.196985446985447

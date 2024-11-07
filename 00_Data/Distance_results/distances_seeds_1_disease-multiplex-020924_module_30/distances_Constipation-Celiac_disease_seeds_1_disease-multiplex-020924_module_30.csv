@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.2862119315811429
+1,disease_on_symptoms,17,22,2.1749622926093513
+2,disease_on_drugs,27,15,0.8052910052910054

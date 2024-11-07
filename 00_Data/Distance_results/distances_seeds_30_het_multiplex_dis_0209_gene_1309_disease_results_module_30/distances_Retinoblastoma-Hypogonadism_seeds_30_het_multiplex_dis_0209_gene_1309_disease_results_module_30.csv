@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,21,17,1.0324340262420757
+2,disease_on_drugs,27,29,0.4143632548804963

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,-0.6117703349282295
+1,disease_on_symptoms,14,21,-0.588095238095238
+2,disease_on_drugs,22,17,-0.5384615384615384

@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.5058928083128247
+1,disease_on_symptoms,16,19,2.7855263157894736
+2,disease_on_drugs,21,19,1.2273809523809522

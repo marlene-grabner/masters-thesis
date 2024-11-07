@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,26,9,0.131013431013431
+1,disease_on_symptoms,28,27,1.65479797979798
+2,disease_on_drugs,23,9,0.1657608695652173

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,22,26,0.365530303030303
+1,disease_on_symptoms,23,15,1.2900076277650647
+2,disease_on_drugs,17,21,0.9486952675807165

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,17,27,0.2630813953488371
+1,disease_on_symptoms,27,17,1.890423846306199
+2,disease_on_drugs,14,26,0.7508241758241758

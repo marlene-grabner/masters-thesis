@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.3508771929824561
+1,disease_on_symptoms,24,22,-0.6487977602108037
+2,disease_on_drugs,27,26,-0.3962801698650755

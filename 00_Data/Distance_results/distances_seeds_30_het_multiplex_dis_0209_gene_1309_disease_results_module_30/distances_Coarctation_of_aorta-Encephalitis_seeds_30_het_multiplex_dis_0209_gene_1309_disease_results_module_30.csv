@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,29,0.1421957671957672
+1,disease_on_symptoms,19,13,0.6266447368421053
+2,disease_on_drugs,24,22,0.3256752305665349

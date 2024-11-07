@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.042577030812325
+1,disease_on_symptoms,14,22,2.0162337662337664
+2,disease_on_drugs,26,20,0.048913043478260976

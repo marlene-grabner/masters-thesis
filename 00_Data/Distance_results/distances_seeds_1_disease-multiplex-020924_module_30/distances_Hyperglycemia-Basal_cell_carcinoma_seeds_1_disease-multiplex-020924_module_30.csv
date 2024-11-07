@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,26,0.07481684981684977
+1,disease_on_symptoms,14,23,1.4429242907503776
+2,disease_on_drugs,26,25,0.47058823529411775

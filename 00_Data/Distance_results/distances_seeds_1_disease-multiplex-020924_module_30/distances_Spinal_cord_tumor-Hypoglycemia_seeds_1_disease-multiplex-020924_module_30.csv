@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,22,30,0.39860139860139854
+1,disease_on_symptoms,22,12,1.6760249554367204
+2,disease_on_drugs,14,22,0.9761904761904763

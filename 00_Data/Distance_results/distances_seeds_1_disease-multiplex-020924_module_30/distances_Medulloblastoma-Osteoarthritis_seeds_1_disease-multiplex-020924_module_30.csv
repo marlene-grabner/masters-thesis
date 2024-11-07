@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,0.35254901960784313
+1,disease_on_symptoms,19,20,1.4889338731443997
+2,disease_on_drugs,24,21,0.6902777777777775

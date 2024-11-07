@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Uveitis nodes,sAB
+0,disease_on_genes,24,30,0.2773148148148148
+1,disease_on_symptoms,18,21,0.9404761904761907
+2,disease_on_drugs,18,27,0.5592592592592591

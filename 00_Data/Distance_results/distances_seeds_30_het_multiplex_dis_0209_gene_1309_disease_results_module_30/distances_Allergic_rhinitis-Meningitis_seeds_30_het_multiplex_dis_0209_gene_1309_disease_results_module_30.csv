@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,-0.03508771929824561
+1,disease_on_symptoms,20,17,0.4605325914149443
+2,disease_on_drugs,25,27,-0.13501424501424508

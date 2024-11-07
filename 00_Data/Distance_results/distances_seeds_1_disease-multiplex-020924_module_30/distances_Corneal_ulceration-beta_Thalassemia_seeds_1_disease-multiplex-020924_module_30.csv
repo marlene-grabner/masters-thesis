@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,28,22,0.29396103896103876
+1,disease_on_symptoms,19,21,3.2208020050125317
+2,disease_on_drugs,26,6,0.3020833333333335

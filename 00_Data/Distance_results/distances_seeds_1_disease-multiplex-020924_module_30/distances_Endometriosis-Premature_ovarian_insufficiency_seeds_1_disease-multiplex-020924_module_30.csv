@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,-0.05660377358490565
+1,disease_on_symptoms,12,22,-0.5597147950089125
+2,disease_on_drugs,27,17,-0.3155080213903745

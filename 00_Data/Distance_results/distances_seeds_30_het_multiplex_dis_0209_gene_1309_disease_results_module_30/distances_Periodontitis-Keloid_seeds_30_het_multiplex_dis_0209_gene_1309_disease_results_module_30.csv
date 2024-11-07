@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.018867924528301883
+1,disease_on_symptoms,21,17,0.6306943830163647
+2,disease_on_drugs,28,22,0.13655844155844155

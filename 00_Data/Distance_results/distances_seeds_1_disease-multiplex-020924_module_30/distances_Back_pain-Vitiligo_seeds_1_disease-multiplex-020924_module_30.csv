@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,24,0.2615740740740742
+1,disease_on_symptoms,16,22,1.6939294258373203
+2,disease_on_drugs,23,11,0.5588235294117647

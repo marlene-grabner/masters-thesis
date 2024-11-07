@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.020467836257309857
+1,disease_on_symptoms,18,23,0.6975374101567104
+2,disease_on_drugs,25,24,-0.0013605442176869431

@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.04444444444444451
+1,disease_on_symptoms,21,27,0.20833333333333348
+2,disease_on_drugs,29,13,0.20361247947454864

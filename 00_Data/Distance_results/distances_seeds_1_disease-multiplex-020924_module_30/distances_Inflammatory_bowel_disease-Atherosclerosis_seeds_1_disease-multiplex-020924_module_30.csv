@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,17,30,0.15489130434782616
+1,disease_on_symptoms,27,13,1.6299857549857548
+2,disease_on_drugs,14,29,0.3828903654485052

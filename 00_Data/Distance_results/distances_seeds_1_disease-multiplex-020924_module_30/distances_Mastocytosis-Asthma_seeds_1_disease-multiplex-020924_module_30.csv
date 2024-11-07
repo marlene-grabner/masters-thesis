@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Asthma nodes,sAB
+0,disease_on_genes,18,25,-0.00126614987080087
+1,disease_on_symptoms,28,19,0.31388977763557824
+2,disease_on_drugs,17,24,-0.10049019607843146

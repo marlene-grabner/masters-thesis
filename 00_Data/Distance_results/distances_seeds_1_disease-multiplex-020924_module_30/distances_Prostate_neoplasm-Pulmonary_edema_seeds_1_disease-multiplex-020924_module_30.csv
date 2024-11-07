@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,17,30,0.28660826032540676
+1,disease_on_symptoms,21,14,1.526190476190476
+2,disease_on_drugs,17,27,0.8586848880966529

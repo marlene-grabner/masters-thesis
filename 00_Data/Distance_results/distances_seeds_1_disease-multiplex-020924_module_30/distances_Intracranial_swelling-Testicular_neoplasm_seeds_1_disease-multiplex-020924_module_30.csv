@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.197878787878788
+1,disease_on_symptoms,14,25,0.6875457875457878
+2,disease_on_drugs,24,23,0.33994372494603775

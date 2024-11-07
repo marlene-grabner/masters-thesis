@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,26,25,-0.020000000000000018
+1,disease_on_symptoms,19,18,0.65627469574838
+2,disease_on_drugs,24,17,-0.02941176470588225

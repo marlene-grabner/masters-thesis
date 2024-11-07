@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,16,21,0.8106097168597168
+2,disease_on_drugs,27,26,0.24345535666290363

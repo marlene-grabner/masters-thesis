@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,15,0.6798761609907118
+2,disease_on_drugs,28,28,0.24999999999999978

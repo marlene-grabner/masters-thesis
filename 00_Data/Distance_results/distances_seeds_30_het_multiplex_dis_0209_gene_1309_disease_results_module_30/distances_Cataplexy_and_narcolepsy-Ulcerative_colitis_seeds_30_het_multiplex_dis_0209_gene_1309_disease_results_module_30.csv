@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,25,27,-0.11538461538461542
+1,disease_on_symptoms,19,20,1.5630229419703106
+2,disease_on_drugs,18,27,-0.13888888888888884

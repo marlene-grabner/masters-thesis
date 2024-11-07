@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,26,25,-0.05844645550527894
+1,disease_on_symptoms,18,19,1.2967836257309941
+2,disease_on_drugs,25,18,0.01175710594315249

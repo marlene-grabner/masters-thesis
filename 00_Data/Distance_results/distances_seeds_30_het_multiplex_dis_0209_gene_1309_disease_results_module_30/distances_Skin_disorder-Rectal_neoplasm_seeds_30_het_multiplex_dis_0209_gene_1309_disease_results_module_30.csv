@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.12575757575757573
+1,disease_on_symptoms,19,20,0.5399797570850202
+2,disease_on_drugs,23,29,-0.01680890324068729

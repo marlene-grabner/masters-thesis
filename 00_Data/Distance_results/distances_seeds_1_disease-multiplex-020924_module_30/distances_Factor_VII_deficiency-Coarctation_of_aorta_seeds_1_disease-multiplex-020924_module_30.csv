@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,0.38230769230769224
+1,disease_on_symptoms,23,14,2.8487913379217726
+2,disease_on_drugs,21,13,1.0112044817927168

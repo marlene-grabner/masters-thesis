@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,19,24,0.3947113423092614
+1,disease_on_symptoms,21,19,1.9104010025062657
+2,disease_on_drugs,17,19,0.922514619883041

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,21,13,1.6964016375781084
+2,disease_on_drugs,27,21,0.4993386243386244

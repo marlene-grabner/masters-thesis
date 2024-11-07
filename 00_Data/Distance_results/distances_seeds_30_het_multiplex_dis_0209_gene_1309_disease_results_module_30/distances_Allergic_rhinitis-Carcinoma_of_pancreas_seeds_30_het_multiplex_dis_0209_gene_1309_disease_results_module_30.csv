@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,28,30,0.1040229885057471
+1,disease_on_symptoms,20,18,0.28698830409356724
+2,disease_on_drugs,25,21,0.26062111801242227

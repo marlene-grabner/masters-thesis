@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.20000000000000007
+1,disease_on_symptoms,19,22,-0.29907223713385456
+2,disease_on_drugs,30,27,-0.2165692007797272

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,27,0.35185185185185186
+1,disease_on_symptoms,23,22,1.1114185331576638
+2,disease_on_drugs,20,26,1.652173913043478

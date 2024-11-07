@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,17,14,0.4402277039848199
+2,disease_on_drugs,24,24,0.39583333333333326

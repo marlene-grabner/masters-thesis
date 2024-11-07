@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.3453846153846154
+1,disease_on_symptoms,20,17,1.1170508744038155
+2,disease_on_drugs,20,23,0.8882709807886755

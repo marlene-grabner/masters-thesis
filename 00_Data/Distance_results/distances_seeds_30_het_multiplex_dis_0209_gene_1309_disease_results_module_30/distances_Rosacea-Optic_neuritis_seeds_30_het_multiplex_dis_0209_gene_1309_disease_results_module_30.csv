@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.31491228070175437
+1,disease_on_symptoms,18,21,0.07234432234432253
+2,disease_on_drugs,30,27,-0.39844054580896704

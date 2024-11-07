@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.17999999999999994
+1,disease_on_symptoms,18,20,0.7668128654970758
+2,disease_on_drugs,22,20,0.5496753246753245

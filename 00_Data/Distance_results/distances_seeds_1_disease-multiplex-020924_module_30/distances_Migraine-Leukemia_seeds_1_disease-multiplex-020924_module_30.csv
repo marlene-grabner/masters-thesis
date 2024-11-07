@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.15416666666666679
+1,disease_on_symptoms,14,27,1.0506516969931605
+2,disease_on_drugs,29,17,0.9335038363171355

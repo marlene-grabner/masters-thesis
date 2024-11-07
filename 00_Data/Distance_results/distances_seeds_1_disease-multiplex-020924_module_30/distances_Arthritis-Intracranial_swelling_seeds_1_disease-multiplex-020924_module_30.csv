@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,19,14,0.14547732968785598
+2,disease_on_drugs,29,24,-0.09142539579266962

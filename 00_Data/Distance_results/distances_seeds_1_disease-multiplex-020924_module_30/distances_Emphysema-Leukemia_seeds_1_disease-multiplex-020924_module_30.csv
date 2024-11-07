@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.27500000000000013
+1,disease_on_symptoms,14,27,0.5253903729513487
+2,disease_on_drugs,29,17,0.5856777493606138

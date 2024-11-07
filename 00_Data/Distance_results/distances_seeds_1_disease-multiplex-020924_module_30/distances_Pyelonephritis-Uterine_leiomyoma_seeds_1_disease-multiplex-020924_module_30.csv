@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,23,24,0.4268038852913969
+1,disease_on_symptoms,21,21,1.2857142857142856
+2,disease_on_drugs,19,18,1.2154654654654657

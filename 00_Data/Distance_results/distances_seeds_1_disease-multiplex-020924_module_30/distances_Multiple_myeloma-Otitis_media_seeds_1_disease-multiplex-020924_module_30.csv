@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.07742946708463938
+1,disease_on_symptoms,21,22,1.0468639887244537
+2,disease_on_drugs,25,29,0.6490166028097062

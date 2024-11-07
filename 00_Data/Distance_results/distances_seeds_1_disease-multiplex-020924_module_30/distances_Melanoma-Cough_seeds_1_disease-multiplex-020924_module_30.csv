@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cough nodes,sAB
+0,disease_on_genes,24,27,0.1775599128540304
+1,disease_on_symptoms,23,21,2.1478919631093545
+2,disease_on_drugs,22,27,0.9833711262282687

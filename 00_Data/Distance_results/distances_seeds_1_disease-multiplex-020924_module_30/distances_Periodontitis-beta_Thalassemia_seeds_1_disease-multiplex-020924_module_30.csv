@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,23,22,0.42215634606938957
+1,disease_on_symptoms,25,21,3.4341200828157348
+2,disease_on_drugs,22,6,0.8365800865800868

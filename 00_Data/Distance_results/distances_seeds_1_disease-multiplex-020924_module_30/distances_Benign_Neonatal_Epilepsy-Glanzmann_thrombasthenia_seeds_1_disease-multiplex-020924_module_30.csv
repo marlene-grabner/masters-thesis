@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,29,24,0.3376572327044023
+1,disease_on_symptoms,16,21,2.0073600386100385
+2,disease_on_drugs,26,24,1.0358333333333336

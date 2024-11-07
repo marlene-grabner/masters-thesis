@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.0714285714285714
+1,disease_on_symptoms,20,17,0.15405405405405403
+2,disease_on_drugs,23,24,-0.08614708603145216

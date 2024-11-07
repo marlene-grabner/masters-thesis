@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.3207547169811321
+1,disease_on_symptoms,18,19,-0.02967441125335868
+2,disease_on_drugs,30,19,-0.42325456498388847

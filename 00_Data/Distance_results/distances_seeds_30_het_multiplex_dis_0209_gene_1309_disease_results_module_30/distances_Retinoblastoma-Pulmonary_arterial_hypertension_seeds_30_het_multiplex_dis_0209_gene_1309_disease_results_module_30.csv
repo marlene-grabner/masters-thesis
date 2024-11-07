@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.10344827586206895
+1,disease_on_symptoms,21,17,0.7723721067374321
+2,disease_on_drugs,27,25,0.41840455840455837

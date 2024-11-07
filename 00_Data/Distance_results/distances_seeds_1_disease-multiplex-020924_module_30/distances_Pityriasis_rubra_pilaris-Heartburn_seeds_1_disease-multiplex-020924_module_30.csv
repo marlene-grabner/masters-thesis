@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Heartburn nodes,sAB
+0,disease_on_genes,28,24,0.08814102564102577
+1,disease_on_symptoms,23,20,0.4093781597573305
+2,disease_on_drugs,26,22,0.37631118881118875

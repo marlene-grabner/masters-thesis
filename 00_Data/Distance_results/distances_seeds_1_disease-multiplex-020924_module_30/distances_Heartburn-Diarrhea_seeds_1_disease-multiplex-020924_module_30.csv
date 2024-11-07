@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Diarrhea nodes,sAB
+0,disease_on_genes,24,27,-0.07911220043572964
+1,disease_on_symptoms,20,19,0.48363697705802977
+2,disease_on_drugs,22,26,0.37470862470862465

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,-0.05203742113905463
+1,disease_on_symptoms,19,20,0.38572874493927123
+2,disease_on_drugs,26,26,-0.05769230769230771

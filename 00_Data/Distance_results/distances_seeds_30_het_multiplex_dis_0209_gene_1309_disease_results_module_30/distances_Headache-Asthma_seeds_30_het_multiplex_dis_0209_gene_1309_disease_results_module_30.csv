@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.001818181818181941
+1,disease_on_symptoms,23,20,0.09962082912032355
+2,disease_on_drugs,23,22,-0.12949055775142737

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,9,27,-0.2407407407407407
+1,disease_on_symptoms,27,27,1.2407407407407407
+2,disease_on_drugs,9,26,0.018681318681318837

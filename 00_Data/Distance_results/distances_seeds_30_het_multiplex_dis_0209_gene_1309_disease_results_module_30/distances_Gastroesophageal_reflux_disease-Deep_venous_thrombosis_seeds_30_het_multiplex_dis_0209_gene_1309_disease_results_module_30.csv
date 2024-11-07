@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,18,16,0.6149918300653594
+2,disease_on_drugs,25,28,0.2814016172506739

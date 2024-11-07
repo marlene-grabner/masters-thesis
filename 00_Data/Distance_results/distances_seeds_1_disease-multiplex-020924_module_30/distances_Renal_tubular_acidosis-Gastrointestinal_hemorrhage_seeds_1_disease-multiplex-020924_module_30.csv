@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,18,27,0.5907407407407406
+1,disease_on_symptoms,18,19,3.2488146040777623
+2,disease_on_drugs,10,27,0.4337837837837837

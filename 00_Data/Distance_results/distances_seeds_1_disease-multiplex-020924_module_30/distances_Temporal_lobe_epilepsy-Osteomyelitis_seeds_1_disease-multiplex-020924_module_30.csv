@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,29,25,0.3857215836526182
+1,disease_on_symptoms,17,23,2.6150255754475706
+2,disease_on_drugs,26,23,1.0597399494915023

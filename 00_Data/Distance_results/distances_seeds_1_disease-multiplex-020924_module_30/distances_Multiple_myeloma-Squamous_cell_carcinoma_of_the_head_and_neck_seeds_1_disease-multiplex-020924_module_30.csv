@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,21,-0.002532928064842954
+1,disease_on_symptoms,21,25,0.6220289855072465
+2,disease_on_drugs,25,21,0.06869565217391305

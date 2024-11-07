@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.0006157635467980427
+1,disease_on_symptoms,14,15,0.03308702791461382
+2,disease_on_drugs,26,23,-0.03938297727117601

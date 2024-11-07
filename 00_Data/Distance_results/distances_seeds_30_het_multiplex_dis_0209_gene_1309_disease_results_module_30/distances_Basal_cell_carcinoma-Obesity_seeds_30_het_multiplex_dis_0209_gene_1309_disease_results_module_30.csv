@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.23099415204678364
+1,disease_on_symptoms,24,18,0.14384920634920628
+2,disease_on_drugs,27,25,-0.05868945868945863

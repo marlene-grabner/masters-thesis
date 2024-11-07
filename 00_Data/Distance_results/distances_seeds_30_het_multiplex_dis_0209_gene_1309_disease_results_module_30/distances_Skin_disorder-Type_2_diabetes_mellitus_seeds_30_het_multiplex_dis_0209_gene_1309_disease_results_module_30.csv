@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,25,30,-0.2545454545454545
+1,disease_on_symptoms,19,16,0.4208176691729322
+2,disease_on_drugs,23,27,-0.14373590982286633

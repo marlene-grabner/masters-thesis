@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,21,19,0.319172932330827
+2,disease_on_drugs,25,25,-0.06000000000000005

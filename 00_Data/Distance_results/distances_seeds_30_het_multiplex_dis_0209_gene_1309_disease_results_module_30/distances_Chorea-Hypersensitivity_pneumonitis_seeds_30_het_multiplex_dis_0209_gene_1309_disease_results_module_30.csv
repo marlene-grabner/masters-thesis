@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.10909090909090913
+1,disease_on_symptoms,17,20,0.845349761526232
+2,disease_on_drugs,24,25,0.20273809523809527

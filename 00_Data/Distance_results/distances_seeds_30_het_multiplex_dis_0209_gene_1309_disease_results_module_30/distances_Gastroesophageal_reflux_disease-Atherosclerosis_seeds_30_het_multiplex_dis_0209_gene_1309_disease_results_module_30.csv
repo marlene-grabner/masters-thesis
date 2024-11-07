@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,18,14,0.5138888888888888
+2,disease_on_drugs,25,29,0.23588761174968087

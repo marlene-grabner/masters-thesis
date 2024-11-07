@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Myopathy nodes,sAB
+0,disease_on_genes,24,18,0.3204365079365077
+1,disease_on_symptoms,22,21,1.400005033725964
+2,disease_on_drugs,24,6,0.16666666666666674

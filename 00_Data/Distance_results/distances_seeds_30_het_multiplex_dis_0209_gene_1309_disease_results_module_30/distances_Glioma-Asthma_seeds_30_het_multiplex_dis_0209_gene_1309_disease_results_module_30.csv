@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Asthma nodes,sAB
+0,disease_on_genes,22,25,-0.1476595744680851
+1,disease_on_symptoms,21,20,0.5838850174216028
+2,disease_on_drugs,21,22,0.13840229537903959

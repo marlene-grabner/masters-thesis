@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,25,30,0.0
+1,disease_on_symptoms,19,17,1.1915204678362574
+2,disease_on_drugs,25,26,0.17600301659125184

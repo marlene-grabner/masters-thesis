@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,23,-0.002508361204013543
+1,disease_on_symptoms,23,19,0.7479023646071699
+2,disease_on_drugs,26,22,0.1478729603729605

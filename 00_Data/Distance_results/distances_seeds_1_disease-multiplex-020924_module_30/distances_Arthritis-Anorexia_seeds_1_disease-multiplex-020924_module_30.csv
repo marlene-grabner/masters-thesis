@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.1589486858573217
+1,disease_on_symptoms,19,25,1.08933014354067
+2,disease_on_drugs,29,13,0.8383857521788556

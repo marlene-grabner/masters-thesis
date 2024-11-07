@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,26,30,-0.017857142857142905
+1,disease_on_symptoms,21,15,0.5150793650793652
+2,disease_on_drugs,25,24,0.18151360544217665

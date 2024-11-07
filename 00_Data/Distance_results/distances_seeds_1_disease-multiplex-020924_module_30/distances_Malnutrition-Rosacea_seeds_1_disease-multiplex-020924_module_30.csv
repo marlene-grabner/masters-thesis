@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.03653846153846141
+1,disease_on_symptoms,18,17,1.2534080298786183
+2,disease_on_drugs,23,27,0.32000000000000006

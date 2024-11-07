@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,22,30,0.11794871794871797
+1,disease_on_symptoms,17,20,1.1819157392686803
+2,disease_on_drugs,21,22,0.5564784053156147

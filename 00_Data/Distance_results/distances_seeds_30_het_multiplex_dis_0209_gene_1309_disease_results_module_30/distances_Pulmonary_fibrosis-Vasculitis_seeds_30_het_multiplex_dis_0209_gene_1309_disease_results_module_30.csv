@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,26,-0.07843137254901966
+1,disease_on_symptoms,22,18,0.9035353535353532
+2,disease_on_drugs,25,26,-0.07812971342383124

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,24,30,-0.05787037037037057
+1,disease_on_symptoms,19,17,0.6687306501547987
+2,disease_on_drugs,19,29,-0.14579552329098622

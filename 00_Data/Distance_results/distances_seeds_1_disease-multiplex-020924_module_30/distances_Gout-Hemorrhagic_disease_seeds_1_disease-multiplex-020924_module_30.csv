@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,24,0.3273299319727889
+1,disease_on_symptoms,18,19,0.787814129919393
+2,disease_on_drugs,23,19,0.6328320802005014

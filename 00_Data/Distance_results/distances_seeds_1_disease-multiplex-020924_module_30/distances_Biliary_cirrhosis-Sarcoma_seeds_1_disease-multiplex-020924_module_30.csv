@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.6862745098039216
+1,disease_on_symptoms,15,26,0.9556285178236397
+2,disease_on_drugs,15,21,1.211111111111111

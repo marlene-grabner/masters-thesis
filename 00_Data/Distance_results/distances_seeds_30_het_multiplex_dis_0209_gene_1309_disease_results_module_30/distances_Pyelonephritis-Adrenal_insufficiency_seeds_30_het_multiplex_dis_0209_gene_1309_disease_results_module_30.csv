@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,24,30,0.18287037037037024
+1,disease_on_symptoms,19,15,0.6667698658410735
+2,disease_on_drugs,19,24,0.21585577315381488

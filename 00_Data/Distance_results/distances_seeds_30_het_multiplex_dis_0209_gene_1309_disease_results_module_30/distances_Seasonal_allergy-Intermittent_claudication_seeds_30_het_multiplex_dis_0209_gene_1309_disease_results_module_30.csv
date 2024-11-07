@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,30,0.0847457627118644
+1,disease_on_symptoms,18,14,0.25
+2,disease_on_drugs,29,24,0.1986689438299718

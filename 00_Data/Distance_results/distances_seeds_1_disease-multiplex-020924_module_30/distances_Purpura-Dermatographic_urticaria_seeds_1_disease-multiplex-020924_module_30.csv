@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,26,29,0.015034965034965042
+1,disease_on_symptoms,17,14,0.981295744104093
+2,disease_on_drugs,20,28,-0.0625

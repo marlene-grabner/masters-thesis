@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,25,30,-0.25636363636363635
+1,disease_on_symptoms,20,18,0.37412280701754375
+2,disease_on_drugs,22,26,-0.2038170163170162

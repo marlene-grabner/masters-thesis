@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,24,22,0.326086956521739
+1,disease_on_symptoms,17,24,0.5823469631755143
+2,disease_on_drugs,23,19,0.09142421270567724

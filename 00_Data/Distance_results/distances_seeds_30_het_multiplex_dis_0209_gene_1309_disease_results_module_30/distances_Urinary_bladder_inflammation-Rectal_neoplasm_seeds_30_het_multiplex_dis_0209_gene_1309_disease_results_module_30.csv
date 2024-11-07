@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,16,20,-0.19791666666666674
+2,disease_on_drugs,29,29,-0.05172413793103425

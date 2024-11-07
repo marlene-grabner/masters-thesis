@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,25,30,0.18181818181818188
+1,disease_on_symptoms,19,15,1.0840041279669763
+2,disease_on_drugs,25,23,0.41713768115942007

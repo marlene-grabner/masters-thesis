@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.27030812324929987
+1,disease_on_symptoms,18,25,1.3085529715762276
+2,disease_on_drugs,27,21,0.8240740740740742

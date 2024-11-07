@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.17658730158730163
+1,disease_on_symptoms,12,15,2.0425925925925927
+2,disease_on_drugs,30,26,0.8734432234432234

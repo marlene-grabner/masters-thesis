@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.3389830508474576
+1,disease_on_symptoms,22,17,-0.31735911147675844
+2,disease_on_drugs,28,27,-0.4189153439153439

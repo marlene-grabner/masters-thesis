@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,29,30,-0.10170465614650315
+1,disease_on_symptoms,17,16,0.056651069518716346
+2,disease_on_drugs,26,27,0.07510885341074025

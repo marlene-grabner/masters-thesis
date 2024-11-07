@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,0.10321637426900576
+1,disease_on_symptoms,15,14,0.4032840722495892
+2,disease_on_drugs,25,24,-0.0408333333333335

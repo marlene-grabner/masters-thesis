@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,25,28,0.2104582210242587
+1,disease_on_symptoms,19,19,1.8157894736842106
+2,disease_on_drugs,24,28,0.8443223443223442

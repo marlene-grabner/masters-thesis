@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.16978375219170072
+1,disease_on_symptoms,14,18,-0.009920634920634885
+2,disease_on_drugs,29,28,-0.017306196525797235

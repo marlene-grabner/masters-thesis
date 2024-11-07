@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.11764705882352944
+1,disease_on_symptoms,25,20,1.685
+2,disease_on_drugs,7,19,0.0945633314054366

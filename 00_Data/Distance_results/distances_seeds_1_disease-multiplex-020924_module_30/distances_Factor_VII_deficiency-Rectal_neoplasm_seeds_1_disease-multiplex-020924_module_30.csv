@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,0.3036363636363635
+1,disease_on_symptoms,23,21,1.453886693017128
+2,disease_on_drugs,21,29,0.9778981937602627

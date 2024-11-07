@@ -1,0 +1,4 @@
+,Layer,Hemorrhagic_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,26,0.11538461538461542
+1,disease_on_symptoms,19,18,0.839536905326379
+2,disease_on_drugs,24,26,0.07461538461538453

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,21,17,1.4774436090225564
+2,disease_on_drugs,29,26,0.5630938027489751

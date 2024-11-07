@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,24,-0.057734204793028376
+1,disease_on_symptoms,23,22,0.9578392621870884
+2,disease_on_drugs,25,21,0.19225672877846778

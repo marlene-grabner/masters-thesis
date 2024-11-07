@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Cholangitis nodes,sAB
+0,disease_on_genes,14,27,0.5487482255774938
+1,disease_on_symptoms,25,22,2.524139264990329
+2,disease_on_drugs,10,26,0.8944444444444444

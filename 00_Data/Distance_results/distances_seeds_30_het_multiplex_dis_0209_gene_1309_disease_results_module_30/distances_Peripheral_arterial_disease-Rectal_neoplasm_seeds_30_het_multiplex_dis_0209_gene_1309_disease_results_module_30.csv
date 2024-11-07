@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.03452380952380951
+1,disease_on_symptoms,17,20,0.2132352941176472
+2,disease_on_drugs,24,29,0.08478366948601157

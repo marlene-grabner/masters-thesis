@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,16,0.08252583979328154
+1,disease_on_symptoms,15,21,1.038888888888889
+2,disease_on_drugs,25,15,0.5800000000000001

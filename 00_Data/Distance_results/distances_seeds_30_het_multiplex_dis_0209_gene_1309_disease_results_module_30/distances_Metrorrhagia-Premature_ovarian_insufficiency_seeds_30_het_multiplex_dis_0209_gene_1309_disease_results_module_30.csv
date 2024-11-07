@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.22719298245614028
+1,disease_on_symptoms,17,18,0.05065359477124187
+2,disease_on_drugs,26,22,-0.43764568764568745

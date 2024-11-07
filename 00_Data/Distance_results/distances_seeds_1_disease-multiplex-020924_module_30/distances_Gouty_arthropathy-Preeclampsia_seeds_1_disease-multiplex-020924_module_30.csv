@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,25,26,0.27294117647058824
+1,disease_on_symptoms,13,17,2.619607843137255
+2,disease_on_drugs,16,23,0.613677536231884

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,-0.05175438596491222
+1,disease_on_symptoms,19,18,0.6868579105421213
+2,disease_on_drugs,22,22,-0.27272727272727293

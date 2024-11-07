@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,17,30,0.18483521068001663
+1,disease_on_symptoms,21,16,1.8439510939510937
+2,disease_on_drugs,17,23,0.6042199488491047

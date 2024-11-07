@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,30,-0.020000000000000018
+1,disease_on_symptoms,23,18,0.43837634028514216
+2,disease_on_drugs,24,26,0.263782051282051

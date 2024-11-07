@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,29,30,0.08502824858757063
+1,disease_on_symptoms,18,12,-0.008333333333333304
+2,disease_on_drugs,30,17,0.017751355861493456

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.07272727272727275
+1,disease_on_symptoms,14,21,0.6309523809523807
+2,disease_on_drugs,25,21,-0.12687370600414094

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,10,14,0.5440476190476193
+2,disease_on_drugs,16,28,-0.0401785714285714

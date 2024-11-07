@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,19,20,0.3834008097165993
+2,disease_on_drugs,22,25,-0.05288201160541561

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Psoriasis nodes,sAB
+0,disease_on_genes,24,28,0.2255036630036631
+1,disease_on_symptoms,20,21,0.4406213704994193
+2,disease_on_drugs,22,28,0.4815584415584415

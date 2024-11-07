@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,22,26,0.17963286713286708
+1,disease_on_symptoms,23,21,1.1384810841332582
+2,disease_on_drugs,17,25,0.567843137254902

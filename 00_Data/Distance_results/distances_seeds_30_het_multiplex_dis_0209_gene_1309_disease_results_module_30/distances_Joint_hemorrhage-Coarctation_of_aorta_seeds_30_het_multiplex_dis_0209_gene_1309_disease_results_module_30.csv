@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.0009746588693957392
+1,disease_on_symptoms,17,19,0.7134502923976607
+2,disease_on_drugs,26,24,0.2796794871794872

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,26,30,-0.0894688644688646
+1,disease_on_symptoms,20,18,0.24181286549707592
+2,disease_on_drugs,27,25,-0.03857549857549869

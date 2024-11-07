@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.11039886039886038
+1,disease_on_symptoms,20,12,0.7250000000000001
+2,disease_on_drugs,27,21,0.4123677248677249

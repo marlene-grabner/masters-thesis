@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,25,0.3468660968660968
+1,disease_on_symptoms,17,26,1.5541671051246975
+2,disease_on_drugs,20,21,1.0731707317073171

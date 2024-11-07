@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Arthralgia nodes,sAB
+0,disease_on_genes,29,30,-0.051139684395090534
+1,disease_on_symptoms,20,17,0.7967806041335452
+2,disease_on_drugs,24,30,0.10046296296296298

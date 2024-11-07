@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Lymphoma nodes,sAB
+0,disease_on_genes,21,26,0.02127659574468077
+1,disease_on_symptoms,22,20,1.089177489177489
+2,disease_on_drugs,19,24,0.36648306813545495

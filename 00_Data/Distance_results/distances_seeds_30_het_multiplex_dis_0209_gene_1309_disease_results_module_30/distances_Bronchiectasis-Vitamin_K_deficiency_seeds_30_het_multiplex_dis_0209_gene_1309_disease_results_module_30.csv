@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.0
+1,disease_on_symptoms,19,21,0.7082080200501251
+2,disease_on_drugs,25,21,-0.0651345755693582

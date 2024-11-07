@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,17,0.19318181818181812
+2,disease_on_drugs,25,30,-0.10242424242424253

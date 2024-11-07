@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,24,13,0.9236399861399862
+2,disease_on_drugs,15,24,0.20160256410256427

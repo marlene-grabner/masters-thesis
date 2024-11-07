@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,19,19,-0.3421052631578947
+2,disease_on_drugs,29,25,-0.14554278416347377

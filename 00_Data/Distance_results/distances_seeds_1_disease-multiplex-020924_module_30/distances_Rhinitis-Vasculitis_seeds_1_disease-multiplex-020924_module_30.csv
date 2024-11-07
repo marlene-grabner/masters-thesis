@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.20879629629629637
+1,disease_on_symptoms,15,19,0.5517027863777091
+2,disease_on_drugs,22,20,0.37857142857142856

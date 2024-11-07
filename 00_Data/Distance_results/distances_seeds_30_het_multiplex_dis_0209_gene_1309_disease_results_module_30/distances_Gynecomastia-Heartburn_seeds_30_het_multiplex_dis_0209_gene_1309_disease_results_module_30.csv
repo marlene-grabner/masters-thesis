@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.3214285714285714
+1,disease_on_symptoms,15,16,0.02956989247311803
+2,disease_on_drugs,29,25,-0.20324393358876114

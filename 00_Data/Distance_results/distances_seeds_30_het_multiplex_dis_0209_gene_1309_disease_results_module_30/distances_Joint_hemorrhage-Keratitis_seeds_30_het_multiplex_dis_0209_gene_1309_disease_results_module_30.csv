@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,25,0.8380952380952382
+2,disease_on_drugs,26,29,0.30572703158910053

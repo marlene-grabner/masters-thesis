@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,-0.6337593441041716
+1,disease_on_symptoms,21,22,-0.39333534682371885
+2,disease_on_drugs,24,29,-0.6047901756668835

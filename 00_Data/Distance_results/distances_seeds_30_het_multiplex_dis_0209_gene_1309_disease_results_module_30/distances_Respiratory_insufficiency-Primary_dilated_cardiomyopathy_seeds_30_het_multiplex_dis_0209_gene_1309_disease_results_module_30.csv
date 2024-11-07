@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,21,24,-0.2307539682539681
+2,disease_on_drugs,25,15,-0.2783333333333333

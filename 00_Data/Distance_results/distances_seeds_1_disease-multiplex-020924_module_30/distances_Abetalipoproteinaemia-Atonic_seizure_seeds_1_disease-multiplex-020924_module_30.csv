@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,17,29,0.2576946820707293
+1,disease_on_symptoms,25,16,-0.1710975609756098
+2,disease_on_drugs,13,24,0.25883575883575904

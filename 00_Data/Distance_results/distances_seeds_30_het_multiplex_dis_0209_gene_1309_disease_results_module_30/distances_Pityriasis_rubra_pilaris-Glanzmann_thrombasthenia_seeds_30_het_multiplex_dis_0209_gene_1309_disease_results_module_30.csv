@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,-0.1350762527233117
+1,disease_on_symptoms,21,19,0.31535087719298227
+2,disease_on_drugs,25,24,-0.12290816326530618

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,-0.1071428571428571
+1,disease_on_symptoms,19,16,0.017293233082706694
+2,disease_on_drugs,25,27,0.15669515669515688

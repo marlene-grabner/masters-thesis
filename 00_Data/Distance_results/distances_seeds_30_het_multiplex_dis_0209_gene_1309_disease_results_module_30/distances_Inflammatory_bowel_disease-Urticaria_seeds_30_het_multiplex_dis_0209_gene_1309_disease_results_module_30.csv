@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.2407407407407407
+1,disease_on_symptoms,20,21,-0.41518583042973267
+2,disease_on_drugs,27,24,-0.2991557734204793

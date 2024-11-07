@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Leukemia nodes,sAB
+0,disease_on_genes,21,30,-0.019607843137254943
+1,disease_on_symptoms,22,21,1.066143159166415
+2,disease_on_drugs,19,30,0.3565162907268171

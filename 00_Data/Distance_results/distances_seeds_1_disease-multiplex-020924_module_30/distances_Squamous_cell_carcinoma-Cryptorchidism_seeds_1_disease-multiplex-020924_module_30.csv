@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,16,23,0.17523923444976064
+1,disease_on_symptoms,26,18,1.7381507381507382
+2,disease_on_drugs,14,18,0.5

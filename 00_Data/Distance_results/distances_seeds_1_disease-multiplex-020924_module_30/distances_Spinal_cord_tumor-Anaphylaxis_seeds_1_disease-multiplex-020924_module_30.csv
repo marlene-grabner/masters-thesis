@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,22,27,0.35678210678210687
+1,disease_on_symptoms,22,15,1.3019656019656018
+2,disease_on_drugs,14,26,0.8293956043956046

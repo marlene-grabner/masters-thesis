@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.13559322033898313
+1,disease_on_symptoms,17,20,0.6963831478537359
+2,disease_on_drugs,26,27,0.35771112186206544

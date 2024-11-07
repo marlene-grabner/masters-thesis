@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Anorexia nodes,sAB
+0,disease_on_genes,25,29,-0.10983397190293731
+1,disease_on_symptoms,22,13,0.7415084915084913
+2,disease_on_drugs,25,28,0.036118598382749445

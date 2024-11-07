@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,22,29,0.11764705882352944
+1,disease_on_symptoms,21,11,0.8906926406926408
+2,disease_on_drugs,17,24,0.38145624103299847

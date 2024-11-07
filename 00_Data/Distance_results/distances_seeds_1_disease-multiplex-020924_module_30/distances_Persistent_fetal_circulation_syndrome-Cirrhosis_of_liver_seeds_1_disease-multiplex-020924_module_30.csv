@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,0.3251515151515152
+1,disease_on_symptoms,20,14,1.357563025210084
+2,disease_on_drugs,18,26,0.44289044289044277

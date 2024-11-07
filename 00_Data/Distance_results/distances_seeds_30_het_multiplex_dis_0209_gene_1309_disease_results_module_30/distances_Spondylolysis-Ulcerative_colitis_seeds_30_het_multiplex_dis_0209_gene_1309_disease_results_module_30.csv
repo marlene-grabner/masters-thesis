@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,28,27,-0.09090909090909094
+1,disease_on_symptoms,17,20,0.6077901430842609
+2,disease_on_drugs,19,27,-0.288329519450801

@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,24,30,0.03888888888888897
+1,disease_on_symptoms,22,17,0.1984779925956397
+2,disease_on_drugs,21,17,-0.012236473536783254

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,24,0.1074074074074074
+1,disease_on_symptoms,17,23,0.37314578005115084
+2,disease_on_drugs,27,12,0.20512820512820507

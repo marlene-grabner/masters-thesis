@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,21,30,-0.19691876750700277
+1,disease_on_symptoms,26,20,0.17633779264214056
+2,disease_on_drugs,20,30,0.06000000000000005

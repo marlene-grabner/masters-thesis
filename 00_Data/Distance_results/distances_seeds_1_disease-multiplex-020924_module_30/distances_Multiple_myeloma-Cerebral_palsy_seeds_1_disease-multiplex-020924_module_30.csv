@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,26,27,0.3990216631726067
+1,disease_on_symptoms,21,16,1.4127252252252256
+2,disease_on_drugs,25,18,1.0297674418604652

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,22,19,-0.017417434939899668
+2,disease_on_drugs,30,28,0.16995073891625623

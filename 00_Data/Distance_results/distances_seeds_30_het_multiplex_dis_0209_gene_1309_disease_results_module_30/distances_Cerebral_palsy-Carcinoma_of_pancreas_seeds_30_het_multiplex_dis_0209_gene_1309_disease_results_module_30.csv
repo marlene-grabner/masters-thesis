@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,13,18,0.5873311276537085
+2,disease_on_drugs,21,21,-0.09523809523809534

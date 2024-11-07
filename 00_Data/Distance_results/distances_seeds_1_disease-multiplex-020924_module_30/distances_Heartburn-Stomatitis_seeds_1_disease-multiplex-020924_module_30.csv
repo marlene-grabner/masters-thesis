@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Stomatitis nodes,sAB
+0,disease_on_genes,24,30,-0.22824074074074086
+1,disease_on_symptoms,20,23,0.4563953488372092
+2,disease_on_drugs,22,30,-0.12272727272727257

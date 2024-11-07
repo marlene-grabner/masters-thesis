@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,25,25,0.48
+1,disease_on_symptoms,18,20,1.7150584795321637
+2,disease_on_drugs,17,14,0.28280021686093804

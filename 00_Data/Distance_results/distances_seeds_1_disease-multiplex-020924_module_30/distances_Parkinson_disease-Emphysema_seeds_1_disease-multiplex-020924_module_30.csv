@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Emphysema nodes,sAB
+0,disease_on_genes,21,30,0.19481792717086832
+1,disease_on_symptoms,20,14,1.2512605042016804
+2,disease_on_drugs,19,29,0.5

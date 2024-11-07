@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,17,30,0.07300724637681166
+1,disease_on_symptoms,27,15,1.3703703703703702
+2,disease_on_drugs,14,30,0.7824675324675325

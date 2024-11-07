@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,0.02242224803200421
+1,disease_on_symptoms,21,23,1.4510634293242988
+2,disease_on_drugs,24,14,0.26864035087719285

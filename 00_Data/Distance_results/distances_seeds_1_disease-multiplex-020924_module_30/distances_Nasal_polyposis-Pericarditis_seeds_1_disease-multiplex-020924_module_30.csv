@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,15,25,0.21666666666666679
+1,disease_on_symptoms,25,22,0.9373307543520308
+2,disease_on_drugs,10,25,0.137142857142857

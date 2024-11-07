@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,12,17,-0.3943542934415143
+2,disease_on_drugs,21,26,-0.31345959005533475

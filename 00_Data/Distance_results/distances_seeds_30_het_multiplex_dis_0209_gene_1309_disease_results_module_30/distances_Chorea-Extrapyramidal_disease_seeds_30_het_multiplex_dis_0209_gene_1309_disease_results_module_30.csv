@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,30,-0.6
+1,disease_on_symptoms,17,18,-1.0323529411764705
+2,disease_on_drugs,24,25,-0.7348129251700681

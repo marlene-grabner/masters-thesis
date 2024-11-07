@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,25,30,-0.2545454545454545
+1,disease_on_symptoms,23,14,0.19372167198254164
+2,disease_on_drugs,21,29,-0.30916256157635447

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,21,30,0.6036414565826331
+1,disease_on_symptoms,22,25,2.0921083172147004
+2,disease_on_drugs,21,7,0.7499999999999998

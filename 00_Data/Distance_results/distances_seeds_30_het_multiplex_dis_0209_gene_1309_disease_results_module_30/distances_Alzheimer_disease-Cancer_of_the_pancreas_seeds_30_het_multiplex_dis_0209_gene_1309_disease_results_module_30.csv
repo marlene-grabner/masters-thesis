@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,23,30,-0.037735849056603765
+1,disease_on_symptoms,19,23,0.31344666012858236
+2,disease_on_drugs,19,30,0.1389903329752955

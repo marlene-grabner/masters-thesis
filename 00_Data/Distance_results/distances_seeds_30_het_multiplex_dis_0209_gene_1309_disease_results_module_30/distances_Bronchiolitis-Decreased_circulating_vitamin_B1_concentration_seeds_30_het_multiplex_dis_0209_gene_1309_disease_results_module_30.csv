@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,25,17,0.6515966386554621
+2,disease_on_drugs,24,25,0.0602721088435374

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,24,26,0.06680431369872375
+1,disease_on_symptoms,23,20,0.8868806875631954
+2,disease_on_drugs,20,20,0.15000000000000013

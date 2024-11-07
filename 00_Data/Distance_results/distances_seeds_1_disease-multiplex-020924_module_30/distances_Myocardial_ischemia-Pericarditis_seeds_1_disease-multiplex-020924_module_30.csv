@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.16363636363636358
+1,disease_on_symptoms,13,22,0.27202797202797213
+2,disease_on_drugs,23,25,0.03978260869565231

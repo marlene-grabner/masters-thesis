@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,17,0.1633986928104576
+1,disease_on_symptoms,18,24,0.7966269841269842
+2,disease_on_drugs,23,16,0.5237945930880712

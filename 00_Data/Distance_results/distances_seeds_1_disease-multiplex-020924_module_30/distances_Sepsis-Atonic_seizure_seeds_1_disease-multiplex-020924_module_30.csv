@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,22,29,0.3201026492101542
+1,disease_on_symptoms,23,16,2.0820791527313265
+2,disease_on_drugs,17,24,0.9655667144906743

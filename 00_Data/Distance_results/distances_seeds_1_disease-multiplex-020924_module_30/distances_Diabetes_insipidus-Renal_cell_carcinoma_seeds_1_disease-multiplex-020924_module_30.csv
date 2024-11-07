@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,24,25,0.3069217687074828
+1,disease_on_symptoms,18,24,1.3511904761904763
+2,disease_on_drugs,18,20,1.3684210526315788

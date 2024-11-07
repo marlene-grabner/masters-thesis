@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,28,0.3108784893267651
+1,disease_on_symptoms,14,14,1.1071428571428572
+2,disease_on_drugs,11,24,0.11428571428571432

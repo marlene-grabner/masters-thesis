@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,28,30,0.1229885057471265
+1,disease_on_symptoms,23,20,0.77623862487361
+2,disease_on_drugs,26,24,0.3998717948717949

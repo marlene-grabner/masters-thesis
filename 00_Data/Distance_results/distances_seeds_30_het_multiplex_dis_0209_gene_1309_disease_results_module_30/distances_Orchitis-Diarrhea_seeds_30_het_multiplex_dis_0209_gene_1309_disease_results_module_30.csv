@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,25,30,-0.21818181818181814
+1,disease_on_symptoms,19,21,0.18239348370927333
+2,disease_on_drugs,25,29,-0.2815581098339719

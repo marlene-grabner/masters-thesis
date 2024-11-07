@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,-0.03333333333333344
+1,disease_on_symptoms,13,16,0.6238395225464193
+2,disease_on_drugs,29,29,-0.017241379310344862

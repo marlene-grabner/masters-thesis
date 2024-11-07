@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.20694444444444438
+1,disease_on_symptoms,15,19,1.3038183694530443
+2,disease_on_drugs,23,19,1.1825215211942899

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.3313840155945418
+1,disease_on_symptoms,13,16,0.4675895225464193
+2,disease_on_drugs,29,27,0.32010582010582

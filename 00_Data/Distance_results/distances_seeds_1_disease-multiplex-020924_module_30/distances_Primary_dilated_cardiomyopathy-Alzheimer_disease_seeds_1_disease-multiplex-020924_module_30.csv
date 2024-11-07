@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,0.5150000000000001
+1,disease_on_symptoms,25,23,1.5991304347826087
+2,disease_on_drugs,7,18,0.8085714285714285

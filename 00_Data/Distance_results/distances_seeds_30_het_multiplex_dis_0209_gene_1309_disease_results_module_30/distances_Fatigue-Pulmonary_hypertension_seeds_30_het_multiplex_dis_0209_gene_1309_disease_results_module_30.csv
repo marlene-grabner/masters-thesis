@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.18732193732193736
+1,disease_on_symptoms,16,18,0.5825163398692812
+2,disease_on_drugs,26,27,-0.17202870504757306

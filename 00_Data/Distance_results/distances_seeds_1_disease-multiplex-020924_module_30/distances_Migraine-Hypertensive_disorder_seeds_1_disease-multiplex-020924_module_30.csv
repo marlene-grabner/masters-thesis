@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,26,0.0023809523809525945
+1,disease_on_symptoms,14,15,0.98752052545156
+2,disease_on_drugs,29,26,0.5818181818181818

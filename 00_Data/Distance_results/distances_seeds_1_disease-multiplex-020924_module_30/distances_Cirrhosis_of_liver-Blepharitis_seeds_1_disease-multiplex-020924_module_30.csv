@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.29833333333333334
+1,disease_on_symptoms,14,27,0.37975867853916645
+2,disease_on_drugs,26,19,0.4170265407107512

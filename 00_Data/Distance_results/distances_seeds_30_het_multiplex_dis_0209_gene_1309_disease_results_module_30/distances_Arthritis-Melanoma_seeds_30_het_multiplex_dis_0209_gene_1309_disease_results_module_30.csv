@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Melanoma nodes,sAB
+0,disease_on_genes,30,27,0.03411306042884976
+1,disease_on_symptoms,20,23,1.2893579373104145
+2,disease_on_drugs,29,25,0.4634227330779055

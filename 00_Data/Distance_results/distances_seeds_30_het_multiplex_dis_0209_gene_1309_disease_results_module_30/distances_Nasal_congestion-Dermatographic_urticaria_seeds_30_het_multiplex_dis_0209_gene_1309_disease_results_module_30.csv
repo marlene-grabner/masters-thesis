@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.13559322033898313
+1,disease_on_symptoms,14,18,-0.10019841269841301
+2,disease_on_drugs,25,28,0.05361185983827488

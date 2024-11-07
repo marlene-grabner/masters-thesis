@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,27,30,0.14035087719298245
+1,disease_on_symptoms,18,16,1.5400326797385622
+2,disease_on_drugs,24,25,0.40811224489795905

@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.31736909323116214
+1,disease_on_symptoms,18,16,1.1570669934640523
+2,disease_on_drugs,19,27,0.27531994236799706

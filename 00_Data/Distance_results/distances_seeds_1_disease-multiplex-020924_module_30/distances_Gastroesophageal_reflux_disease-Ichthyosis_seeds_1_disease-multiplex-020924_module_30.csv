@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,26,27,0.15199161425576513
+1,disease_on_symptoms,17,17,1.0294117647058825
+2,disease_on_drugs,25,24,0.816734693877551

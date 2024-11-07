@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Pain nodes,sAB
+0,disease_on_genes,29,26,-0.12727272727272732
+1,disease_on_symptoms,19,16,1.606907894736842
+2,disease_on_drugs,29,26,0.29036653002170243

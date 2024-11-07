@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,29,25,0.05555555555555558
+1,disease_on_symptoms,14,20,0.3191176470588233
+2,disease_on_drugs,22,25,-0.009400386847195241

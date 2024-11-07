@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,22,26,-0.22596153846153832
+1,disease_on_symptoms,21,22,0.21013289036544847
+2,disease_on_drugs,21,25,-0.08621118012422335

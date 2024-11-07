@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,20,0.43166666666666664
+1,disease_on_symptoms,17,22,1.5269779240367476
+2,disease_on_drugs,17,15,0.9937499999999999

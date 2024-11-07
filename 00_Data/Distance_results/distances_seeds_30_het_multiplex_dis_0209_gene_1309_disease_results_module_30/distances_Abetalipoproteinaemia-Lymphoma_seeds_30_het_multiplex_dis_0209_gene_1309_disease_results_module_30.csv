@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Lymphoma nodes,sAB
+0,disease_on_genes,14,26,-0.13571428571428557
+1,disease_on_symptoms,26,20,0.3541806020066891
+2,disease_on_drugs,14,24,0.32832080200501257

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.2511904761904762
+1,disease_on_symptoms,20,20,0.5750000000000002
+2,disease_on_drugs,25,22,0.34042553191489366

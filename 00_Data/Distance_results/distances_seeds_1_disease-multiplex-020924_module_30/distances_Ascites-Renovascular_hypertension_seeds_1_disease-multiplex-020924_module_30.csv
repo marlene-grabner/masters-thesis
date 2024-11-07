@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,-0.08683473389355745
+1,disease_on_symptoms,17,22,0.25222816399286985
+2,disease_on_drugs,27,20,-0.24438534278959811

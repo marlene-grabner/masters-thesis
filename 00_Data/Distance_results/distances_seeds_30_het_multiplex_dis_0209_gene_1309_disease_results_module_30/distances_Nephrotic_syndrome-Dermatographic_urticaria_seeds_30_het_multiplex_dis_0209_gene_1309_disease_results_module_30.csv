@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.05084745762711873
+1,disease_on_symptoms,15,18,0.15353535353535364
+2,disease_on_drugs,28,28,0.14285714285714302

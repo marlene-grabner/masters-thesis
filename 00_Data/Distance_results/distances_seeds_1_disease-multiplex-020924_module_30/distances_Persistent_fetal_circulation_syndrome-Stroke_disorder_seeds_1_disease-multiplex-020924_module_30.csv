@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,25,30,0.1615151515151516
+1,disease_on_symptoms,20,15,0.40476190476190466
+2,disease_on_drugs,18,30,0.22916666666666652

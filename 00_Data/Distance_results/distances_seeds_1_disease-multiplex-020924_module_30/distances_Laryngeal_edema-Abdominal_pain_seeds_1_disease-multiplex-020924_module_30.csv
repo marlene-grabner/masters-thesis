@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,20,24,-0.01931818181818179
+2,disease_on_drugs,28,24,0.020146520146520075

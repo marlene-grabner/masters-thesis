@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,25,30,-0.2727272727272727
+1,disease_on_symptoms,22,21,-0.37080942313500453
+2,disease_on_drugs,25,28,-0.37392183288409697

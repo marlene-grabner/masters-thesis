@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.6466666666666667
+1,disease_on_symptoms,22,26,1.4051573426573427
+2,disease_on_drugs,15,13,0.6362637362637364

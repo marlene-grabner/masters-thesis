@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,22,25,0.12765957446808507
+1,disease_on_symptoms,21,20,0.7068234610917536
+2,disease_on_drugs,17,21,0.3047324192835028

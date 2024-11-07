@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pneumonia nodes,sAB
+0,disease_on_genes,21,30,-0.004201680672268893
+1,disease_on_symptoms,20,23,0.3406723963599596
+2,disease_on_drugs,21,29,0.4634154351395732

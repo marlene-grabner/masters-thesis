@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Psoriasis nodes,sAB
+0,disease_on_genes,21,28,0.16836734693877564
+1,disease_on_symptoms,24,21,0.8609126984126982
+2,disease_on_drugs,20,28,0.5226190476190475

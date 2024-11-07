@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,17,18,1.4885154061624646
+2,disease_on_drugs,24,30,0.188425925925926

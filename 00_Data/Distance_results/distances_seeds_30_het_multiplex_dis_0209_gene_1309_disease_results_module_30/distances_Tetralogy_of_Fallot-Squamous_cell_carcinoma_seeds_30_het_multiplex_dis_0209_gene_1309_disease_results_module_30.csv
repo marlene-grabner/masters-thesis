@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,19,22,0.23418718636947133
+2,disease_on_drugs,20,30,0.03499999999999992

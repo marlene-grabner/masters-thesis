@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,21,28,0.16326530612244894
+1,disease_on_symptoms,26,21,0.9914659808276833
+2,disease_on_drugs,20,24,0.7727272727272727

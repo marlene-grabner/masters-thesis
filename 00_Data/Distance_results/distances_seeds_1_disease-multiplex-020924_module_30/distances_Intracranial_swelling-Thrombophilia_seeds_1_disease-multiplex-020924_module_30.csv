@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.403411306042885
+1,disease_on_symptoms,14,18,0.9424603174603174
+2,disease_on_drugs,24,21,0.6648809523809525

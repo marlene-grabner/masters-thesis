@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.16060337178349604
+1,disease_on_symptoms,21,19,1.8164786967418547
+2,disease_on_drugs,24,19,0.5116279069767442

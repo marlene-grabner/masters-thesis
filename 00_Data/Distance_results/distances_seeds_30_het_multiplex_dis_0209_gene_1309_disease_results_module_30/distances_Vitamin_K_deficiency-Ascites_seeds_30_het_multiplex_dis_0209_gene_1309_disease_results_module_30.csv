@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Ascites nodes,sAB
+0,disease_on_genes,25,30,0.1287878787878789
+1,disease_on_symptoms,21,22,0.9115322661834289
+2,disease_on_drugs,21,27,0.10780423280423279

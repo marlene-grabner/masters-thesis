@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,18,27,0.46111111111111125
+1,disease_on_symptoms,18,15,2.131818181818182
+2,disease_on_drugs,10,26,0.47264957264957275

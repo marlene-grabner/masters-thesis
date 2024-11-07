@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,0.04970760233918137
+1,disease_on_symptoms,11,22,0.3712121212121213
+2,disease_on_drugs,27,20,0.09604018912529555

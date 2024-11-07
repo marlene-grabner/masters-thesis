@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,27,0.15575048732943464
+1,disease_on_symptoms,17,19,1.66640866873065
+2,disease_on_drugs,17,20,0.29932432432432443

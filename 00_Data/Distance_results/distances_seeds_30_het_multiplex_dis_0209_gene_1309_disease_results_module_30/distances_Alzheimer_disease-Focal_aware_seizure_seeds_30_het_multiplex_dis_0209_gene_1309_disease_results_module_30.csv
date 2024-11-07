@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,-0.42307692307692313
+1,disease_on_symptoms,19,16,-0.6613721804511278
+2,disease_on_drugs,19,29,-0.5291893526920749

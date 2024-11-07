@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,22,19,0.16049130586999638
+2,disease_on_drugs,26,25,0.3332428355957766

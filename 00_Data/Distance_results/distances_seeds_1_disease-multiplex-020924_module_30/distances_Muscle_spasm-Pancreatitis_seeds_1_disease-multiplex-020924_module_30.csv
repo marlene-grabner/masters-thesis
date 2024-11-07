@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,25,30,0.051515151515151736
+1,disease_on_symptoms,23,20,0.27853892821031345
+2,disease_on_drugs,19,30,0.3877551020408163

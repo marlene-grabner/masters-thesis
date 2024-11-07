@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,23,26,0.07897071872227146
+1,disease_on_symptoms,19,19,0.5263157894736841
+2,disease_on_drugs,19,22,-0.08924611973392471

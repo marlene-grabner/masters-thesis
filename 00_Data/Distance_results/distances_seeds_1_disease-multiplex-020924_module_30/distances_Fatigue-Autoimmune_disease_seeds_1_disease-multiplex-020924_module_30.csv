@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,22,0.07896270396270388
+1,disease_on_symptoms,21,19,1.9716165413533835
+2,disease_on_drugs,26,19,0.3352226720647773

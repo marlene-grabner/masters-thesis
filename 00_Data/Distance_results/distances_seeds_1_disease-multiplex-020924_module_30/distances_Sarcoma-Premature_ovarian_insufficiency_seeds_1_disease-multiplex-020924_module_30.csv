@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,25,23,0.1875
+1,disease_on_symptoms,26,22,1.0434149184149182
+2,disease_on_drugs,21,17,0.06965944272445812

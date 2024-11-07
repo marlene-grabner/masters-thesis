@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,-0.038461538461538325
+1,disease_on_symptoms,18,17,0.11139122315592931
+2,disease_on_drugs,23,27,0.10444444444444434

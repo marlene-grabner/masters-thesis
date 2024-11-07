@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,26,14,-0.11840659340659354
+1,disease_on_symptoms,16,26,0.2834249084249083
+2,disease_on_drugs,26,14,0.14120879120879115

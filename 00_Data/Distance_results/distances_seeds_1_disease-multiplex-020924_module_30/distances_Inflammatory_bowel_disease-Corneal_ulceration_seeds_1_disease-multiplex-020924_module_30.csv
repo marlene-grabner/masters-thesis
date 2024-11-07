@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,17,28,0.10146103896103909
+1,disease_on_symptoms,27,19,1.651834901262819
+2,disease_on_drugs,14,26,0.014285714285714457

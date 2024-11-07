@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Vasculitis nodes,sAB
+0,disease_on_genes,21,26,0.042553191489361764
+1,disease_on_symptoms,22,18,1.0967171717171715
+2,disease_on_drugs,19,26,-0.04696356275303648

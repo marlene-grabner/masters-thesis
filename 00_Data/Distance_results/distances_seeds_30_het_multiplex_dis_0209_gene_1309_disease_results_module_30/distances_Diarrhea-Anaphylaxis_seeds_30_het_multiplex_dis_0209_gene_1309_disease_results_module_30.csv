@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.12378167641325544
+1,disease_on_symptoms,21,14,0.711904761904762
+2,disease_on_drugs,29,26,-0.053930552206414184

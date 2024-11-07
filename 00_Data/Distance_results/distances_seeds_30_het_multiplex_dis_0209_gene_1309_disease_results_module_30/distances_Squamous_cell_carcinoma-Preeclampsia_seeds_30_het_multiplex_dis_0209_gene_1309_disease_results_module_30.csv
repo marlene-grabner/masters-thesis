@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,22,18,0.8952020202020203
+2,disease_on_drugs,30,22,0.0821678321678323

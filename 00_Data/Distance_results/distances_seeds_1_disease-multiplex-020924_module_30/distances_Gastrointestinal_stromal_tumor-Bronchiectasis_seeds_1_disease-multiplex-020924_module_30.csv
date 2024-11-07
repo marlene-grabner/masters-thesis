@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,23,30,0.23312824719715608
+1,disease_on_symptoms,20,15,0.676190476190476
+2,disease_on_drugs,19,26,0.8726495726495729

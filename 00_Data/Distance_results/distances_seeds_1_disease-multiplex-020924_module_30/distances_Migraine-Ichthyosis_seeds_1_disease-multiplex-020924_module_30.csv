@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,27,0.05146198830409343
+1,disease_on_symptoms,14,17,0.21564109514773655
+2,disease_on_drugs,29,24,0.2264150943396226

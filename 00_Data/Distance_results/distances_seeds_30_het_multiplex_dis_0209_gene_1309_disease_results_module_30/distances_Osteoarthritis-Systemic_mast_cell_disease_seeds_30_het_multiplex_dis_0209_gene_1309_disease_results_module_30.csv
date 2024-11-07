@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,-0.020279720279720248
+1,disease_on_symptoms,22,25,0.42617021276595746
+2,disease_on_drugs,25,21,0.15706004140786756

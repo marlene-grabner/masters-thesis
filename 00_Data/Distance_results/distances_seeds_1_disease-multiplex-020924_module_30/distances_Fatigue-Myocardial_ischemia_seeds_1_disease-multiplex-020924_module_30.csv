@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,0.12225274725274748
+1,disease_on_symptoms,21,13,0.3933419521654815
+2,disease_on_drugs,26,23,0.039178213091256575

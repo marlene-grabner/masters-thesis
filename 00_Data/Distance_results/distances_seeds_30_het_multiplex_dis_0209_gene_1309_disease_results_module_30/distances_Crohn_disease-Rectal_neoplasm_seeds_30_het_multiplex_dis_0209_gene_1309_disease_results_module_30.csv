@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.0904761904761906
+1,disease_on_symptoms,22,20,0.9226190476190474
+2,disease_on_drugs,24,29,0.21174907829104317

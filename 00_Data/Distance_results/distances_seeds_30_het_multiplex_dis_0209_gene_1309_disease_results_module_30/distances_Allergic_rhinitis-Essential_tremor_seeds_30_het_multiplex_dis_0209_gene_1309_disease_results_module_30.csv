@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,-0.04081632653061229
+1,disease_on_symptoms,20,23,1.241329625884732
+2,disease_on_drugs,25,21,0.15399585921325043

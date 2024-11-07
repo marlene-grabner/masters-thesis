@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,25,15,0.3766666666666665
+2,disease_on_drugs,30,21,-0.06540616246498598

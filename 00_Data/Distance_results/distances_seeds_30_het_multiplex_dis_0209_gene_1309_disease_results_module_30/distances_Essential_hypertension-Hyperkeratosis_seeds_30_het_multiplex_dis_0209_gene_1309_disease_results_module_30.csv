@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,28,26,-0.0007122507122505617
+1,disease_on_symptoms,13,25,1.1868825910931173
+2,disease_on_drugs,28,25,0.09587601078167118

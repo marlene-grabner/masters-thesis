@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.37412587412587395
+1,disease_on_symptoms,20,21,2.7475029036004646
+2,disease_on_drugs,28,6,0.5150560224089635

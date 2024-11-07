@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Vitiligo nodes,sAB
+0,disease_on_genes,25,24,0.20062925170068047
+1,disease_on_symptoms,18,22,2.3946969696969695
+2,disease_on_drugs,23,11,0.2647058823529411

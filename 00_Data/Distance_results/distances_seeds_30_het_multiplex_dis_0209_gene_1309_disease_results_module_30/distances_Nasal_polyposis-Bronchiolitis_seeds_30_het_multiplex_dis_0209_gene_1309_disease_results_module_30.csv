@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.4137931034482759
+1,disease_on_symptoms,20,25,-0.6066666666666667
+2,disease_on_drugs,25,24,-0.3703401360544216

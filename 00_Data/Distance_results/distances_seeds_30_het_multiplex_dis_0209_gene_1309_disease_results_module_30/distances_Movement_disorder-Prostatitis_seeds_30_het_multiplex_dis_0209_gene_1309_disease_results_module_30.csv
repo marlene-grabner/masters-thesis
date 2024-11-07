@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,22,0.4254764843000136
+2,disease_on_drugs,26,28,0.12367724867724861

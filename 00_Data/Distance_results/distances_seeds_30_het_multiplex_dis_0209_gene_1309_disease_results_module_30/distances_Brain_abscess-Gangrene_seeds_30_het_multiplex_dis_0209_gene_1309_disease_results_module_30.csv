@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,27,-0.14814814814814814
+1,disease_on_symptoms,21,22,0.3550035236081748
+2,disease_on_drugs,23,27,-0.16702093397745577

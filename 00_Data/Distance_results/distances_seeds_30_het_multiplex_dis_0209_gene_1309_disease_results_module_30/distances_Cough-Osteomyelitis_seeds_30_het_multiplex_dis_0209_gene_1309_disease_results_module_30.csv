@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,30,-0.42105263157894735
+1,disease_on_symptoms,22,22,-0.8409090909090909
+2,disease_on_drugs,24,28,-0.44184981684981695

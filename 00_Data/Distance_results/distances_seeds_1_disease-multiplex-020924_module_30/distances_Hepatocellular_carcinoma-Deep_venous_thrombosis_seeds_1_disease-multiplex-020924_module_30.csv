@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,23,28,0.21317440019486034
+1,disease_on_symptoms,19,14,1.480006835269993
+2,disease_on_drugs,19,24,0.8139534883720929

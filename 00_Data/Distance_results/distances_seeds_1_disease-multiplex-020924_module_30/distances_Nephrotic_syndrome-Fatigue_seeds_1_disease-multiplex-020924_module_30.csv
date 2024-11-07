@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Fatigue nodes,sAB
+0,disease_on_genes,20,26,-0.06346153846153846
+1,disease_on_symptoms,24,21,0.1251984126984127
+2,disease_on_drugs,18,26,0.07264957264957284

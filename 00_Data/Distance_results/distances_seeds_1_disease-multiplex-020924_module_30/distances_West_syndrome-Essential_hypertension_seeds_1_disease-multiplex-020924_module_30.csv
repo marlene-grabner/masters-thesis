@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.20958646616541343
+1,disease_on_symptoms,18,14,1.0768849206349207
+2,disease_on_drugs,22,28,0.7042857142857144

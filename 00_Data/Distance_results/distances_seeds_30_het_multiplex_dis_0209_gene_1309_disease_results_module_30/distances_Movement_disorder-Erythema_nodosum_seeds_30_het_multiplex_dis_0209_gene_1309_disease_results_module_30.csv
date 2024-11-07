@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,17,22,0.34680515562868486
+2,disease_on_drugs,26,29,0.1891849529780565

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,0.12280701754385959
+1,disease_on_symptoms,22,16,0.9944677033492821
+2,disease_on_drugs,23,29,0.46145196632453

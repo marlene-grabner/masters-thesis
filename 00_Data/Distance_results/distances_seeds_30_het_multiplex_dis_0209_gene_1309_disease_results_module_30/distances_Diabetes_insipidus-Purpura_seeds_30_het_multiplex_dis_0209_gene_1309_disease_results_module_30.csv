@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Purpura nodes,sAB
+0,disease_on_genes,26,27,0.09432618394882542
+1,disease_on_symptoms,20,17,1.158108108108108
+2,disease_on_drugs,20,24,0.40340909090909083

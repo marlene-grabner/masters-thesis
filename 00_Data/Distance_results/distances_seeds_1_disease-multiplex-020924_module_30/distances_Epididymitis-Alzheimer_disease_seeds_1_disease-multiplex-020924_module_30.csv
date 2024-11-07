@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,29,20,0.3659218859957776
+1,disease_on_symptoms,23,23,1.1086956521739129
+2,disease_on_drugs,27,18,0.6740740740740738

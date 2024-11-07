@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Nocturia nodes,sAB
+0,disease_on_genes,24,21,0.4320054945054943
+1,disease_on_symptoms,25,24,1.9619897959183674
+2,disease_on_drugs,17,14,0.9573732718894008

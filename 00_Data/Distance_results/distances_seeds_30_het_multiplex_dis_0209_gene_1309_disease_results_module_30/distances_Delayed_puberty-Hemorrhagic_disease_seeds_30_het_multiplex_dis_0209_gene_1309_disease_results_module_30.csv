@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,16,19,0.17800751879699228
+2,disease_on_drugs,29,24,-0.10653871177618734

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,25,27,0.42438746438746455
+1,disease_on_symptoms,20,21,1.6844076655052267
+2,disease_on_drugs,14,23,0.3029629007889878

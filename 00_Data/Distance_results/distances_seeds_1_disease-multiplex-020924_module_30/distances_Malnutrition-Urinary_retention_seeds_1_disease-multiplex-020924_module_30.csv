@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.04026325008758325
+1,disease_on_symptoms,18,18,1.6388888888888888
+2,disease_on_drugs,23,19,0.20676691729323315

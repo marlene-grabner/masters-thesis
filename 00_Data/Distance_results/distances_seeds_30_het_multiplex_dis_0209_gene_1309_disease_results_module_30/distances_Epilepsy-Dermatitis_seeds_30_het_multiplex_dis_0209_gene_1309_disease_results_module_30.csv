@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,21,14,0.8785714285714286
+2,disease_on_drugs,29,28,0.4037680407916344

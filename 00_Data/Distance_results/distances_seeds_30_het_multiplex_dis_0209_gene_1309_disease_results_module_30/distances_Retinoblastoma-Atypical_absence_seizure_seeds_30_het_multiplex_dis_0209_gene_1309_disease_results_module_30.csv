@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,21,13,1.9588450764921352
+2,disease_on_drugs,27,22,1.4030955816670103

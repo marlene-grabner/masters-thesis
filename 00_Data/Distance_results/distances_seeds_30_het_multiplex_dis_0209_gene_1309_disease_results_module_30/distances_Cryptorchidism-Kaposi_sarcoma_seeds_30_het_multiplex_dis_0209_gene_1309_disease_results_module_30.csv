@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,23,30,-0.021739130434782705
+1,disease_on_symptoms,19,16,1.0430451127819549
+2,disease_on_drugs,21,28,0.006802721088435382

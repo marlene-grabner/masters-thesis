@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,26,30,-0.019413919413919345
+1,disease_on_symptoms,21,17,0.3308270676691729
+2,disease_on_drugs,26,26,0.05769230769230793

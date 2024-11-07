@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,25,26,0.41137254901960785
+1,disease_on_symptoms,19,15,0.6040247678018575
+2,disease_on_drugs,24,15,0.7121794871794871

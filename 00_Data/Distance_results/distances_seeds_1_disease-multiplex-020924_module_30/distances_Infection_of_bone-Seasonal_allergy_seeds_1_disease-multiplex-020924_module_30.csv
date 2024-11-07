@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,26,29,0.23802748975162769
+1,disease_on_symptoms,21,15,1.0825396825396822
+2,disease_on_drugs,24,29,0.46742843201041007

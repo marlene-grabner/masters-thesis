@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,0.11603988603988591
+1,disease_on_symptoms,24,16,0.4854166666666666
+2,disease_on_drugs,23,27,0.2229629629629628

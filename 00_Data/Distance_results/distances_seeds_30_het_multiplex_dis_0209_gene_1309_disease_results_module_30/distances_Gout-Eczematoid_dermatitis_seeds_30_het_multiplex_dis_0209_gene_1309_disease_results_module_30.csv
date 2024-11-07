@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,28,30,-0.12130541871921174
+1,disease_on_symptoms,19,25,0.31263157894736837
+2,disease_on_drugs,22,30,-0.15489510489510505

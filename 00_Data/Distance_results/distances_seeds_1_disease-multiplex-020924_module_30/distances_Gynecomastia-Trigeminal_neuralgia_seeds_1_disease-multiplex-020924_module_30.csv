@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.4119458128078817
+1,disease_on_symptoms,16,19,0.7626879699248119
+2,disease_on_drugs,24,26,0.7782692307692309

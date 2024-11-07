@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.08559113300492616
+1,disease_on_symptoms,18,9,0.1944444444444442
+2,disease_on_drugs,25,23,0.22532608695652168

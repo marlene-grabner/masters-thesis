@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Nocturia nodes,sAB
+0,disease_on_genes,25,25,0.020408163265306145
+1,disease_on_symptoms,19,18,1.0361150624308522
+2,disease_on_drugs,25,24,0.24564625850340138

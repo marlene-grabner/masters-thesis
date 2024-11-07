@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,21,29,0.1827586206896552
+1,disease_on_symptoms,24,17,1.4898075083692013
+2,disease_on_drugs,20,30,1.1750000000000003

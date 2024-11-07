@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,26,25,-0.13805429864253393
+1,disease_on_symptoms,20,21,0.16562137049941916
+2,disease_on_drugs,27,20,-0.14714342001576053

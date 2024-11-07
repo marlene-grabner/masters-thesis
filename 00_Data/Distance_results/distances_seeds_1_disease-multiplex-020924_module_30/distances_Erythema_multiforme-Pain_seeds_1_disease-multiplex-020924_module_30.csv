@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.035347985347985444
+1,disease_on_symptoms,16,21,0.7230936293436292
+2,disease_on_drugs,30,26,0.10576923076923084

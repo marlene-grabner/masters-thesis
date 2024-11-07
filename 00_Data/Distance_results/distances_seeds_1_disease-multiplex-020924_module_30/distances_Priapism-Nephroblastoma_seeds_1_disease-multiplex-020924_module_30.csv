@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.21575757575757581
+1,disease_on_symptoms,17,25,1.5770868347338936
+2,disease_on_drugs,28,21,0.6403061224489797

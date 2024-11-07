@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,11,18,-0.1614420062695925
+2,disease_on_drugs,27,29,0.1273262178434591

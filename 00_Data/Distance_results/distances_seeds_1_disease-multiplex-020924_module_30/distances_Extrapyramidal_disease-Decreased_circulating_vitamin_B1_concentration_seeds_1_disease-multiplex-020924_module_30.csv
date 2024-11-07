@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,14,25,0.28582417582417574
+1,disease_on_symptoms,25,13,2.0493117408906882
+2,disease_on_drugs,10,16,1.0774038461538462

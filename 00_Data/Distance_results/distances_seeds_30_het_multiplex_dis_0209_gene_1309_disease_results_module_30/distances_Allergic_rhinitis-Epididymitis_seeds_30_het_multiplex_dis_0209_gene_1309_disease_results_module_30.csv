@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,28,29,-0.10526315789473684
+1,disease_on_symptoms,20,23,0.12808392315470152
+2,disease_on_drugs,25,26,-0.1377375565610861

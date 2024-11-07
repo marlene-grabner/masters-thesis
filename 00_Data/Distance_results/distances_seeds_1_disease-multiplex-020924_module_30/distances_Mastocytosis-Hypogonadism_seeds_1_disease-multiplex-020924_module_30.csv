@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,18,30,0.33392434988179676
+1,disease_on_symptoms,28,12,0.4988095238095238
+2,disease_on_drugs,17,30,0.5840842720066748

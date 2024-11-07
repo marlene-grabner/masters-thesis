@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,22,24,-0.17737154150197632
+1,disease_on_symptoms,24,21,1.4317460317460318
+2,disease_on_drugs,13,18,0.16577060931899656

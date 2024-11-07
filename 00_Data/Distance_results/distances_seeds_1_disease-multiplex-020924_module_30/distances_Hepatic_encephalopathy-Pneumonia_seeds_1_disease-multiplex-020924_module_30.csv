@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Pneumonia nodes,sAB
+0,disease_on_genes,9,30,0.047863247863247915
+1,disease_on_symptoms,27,26,1.4698032575391062
+2,disease_on_drugs,9,28,0.29729729729729737

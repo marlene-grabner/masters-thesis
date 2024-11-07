@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,24,18,0.17559523809523814
+1,disease_on_symptoms,25,21,2.8331262939958597
+2,disease_on_drugs,17,17,1.5

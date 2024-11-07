@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.11836158192090385
+1,disease_on_symptoms,20,17,0.0781001589825121
+2,disease_on_drugs,29,27,-0.037265097609925135

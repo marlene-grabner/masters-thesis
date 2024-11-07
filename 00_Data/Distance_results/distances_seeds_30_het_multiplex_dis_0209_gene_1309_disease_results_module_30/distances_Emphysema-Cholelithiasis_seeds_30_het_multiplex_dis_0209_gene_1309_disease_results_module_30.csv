@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,18,20,1.000877192982456
+2,disease_on_drugs,27,18,0.19444444444444442

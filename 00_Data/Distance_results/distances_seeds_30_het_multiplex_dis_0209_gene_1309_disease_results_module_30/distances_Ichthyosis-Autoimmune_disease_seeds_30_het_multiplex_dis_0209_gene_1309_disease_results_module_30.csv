@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,26,0.0006613756613758071
+1,disease_on_symptoms,18,20,0.5185672514619886
+2,disease_on_drugs,25,25,0.11999999999999988

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,-0.15521346469622344
+1,disease_on_symptoms,18,16,0.826797385620915
+2,disease_on_drugs,26,23,-0.18781994403112423

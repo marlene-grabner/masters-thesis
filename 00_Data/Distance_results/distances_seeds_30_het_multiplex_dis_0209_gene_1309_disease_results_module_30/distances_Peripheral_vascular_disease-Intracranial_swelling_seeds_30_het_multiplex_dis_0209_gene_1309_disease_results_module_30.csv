@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,25,30,0.07090909090909081
+1,disease_on_symptoms,17,11,0.303284950343774
+2,disease_on_drugs,25,21,0.1625672877846791

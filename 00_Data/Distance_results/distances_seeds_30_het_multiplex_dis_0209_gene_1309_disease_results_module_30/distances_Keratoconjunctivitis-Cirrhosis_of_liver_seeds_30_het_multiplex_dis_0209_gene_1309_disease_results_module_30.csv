@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,-0.10169491525423724
+1,disease_on_symptoms,20,19,0.4604251012145748
+2,disease_on_drugs,27,30,-0.16608187134502916

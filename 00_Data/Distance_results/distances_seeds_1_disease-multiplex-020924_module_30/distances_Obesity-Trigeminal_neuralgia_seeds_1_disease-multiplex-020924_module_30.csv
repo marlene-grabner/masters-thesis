@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.0012718762718761933
+1,disease_on_symptoms,20,19,0.3381916329284749
+2,disease_on_drugs,27,26,0.3022227597699294

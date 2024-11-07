@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,28,25,0.2302156334231804
+1,disease_on_symptoms,14,20,0.4542016806722686
+2,disease_on_drugs,28,18,0.6340579710144927

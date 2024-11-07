@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,-5.0875050875198724e-05
+1,disease_on_symptoms,17,15,0.48296568627450975
+2,disease_on_drugs,24,23,0.10671060746222638

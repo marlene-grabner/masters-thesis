@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,19,16,0.002114661654135208
+2,disease_on_drugs,30,28,-0.034688013136289

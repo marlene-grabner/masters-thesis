@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,24,0.36515567765567747
+1,disease_on_symptoms,17,19,0.9930340557275543
+2,disease_on_drugs,25,19,0.7583732057416268

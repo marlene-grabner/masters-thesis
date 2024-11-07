@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.09146841673502859
+1,disease_on_symptoms,19,19,0.736842105263158
+2,disease_on_drugs,25,22,0.29972920696324956

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,27,26,-0.24528301886792447
+1,disease_on_symptoms,22,21,0.11648041880600024
+2,disease_on_drugs,26,26,-0.24999999999999978

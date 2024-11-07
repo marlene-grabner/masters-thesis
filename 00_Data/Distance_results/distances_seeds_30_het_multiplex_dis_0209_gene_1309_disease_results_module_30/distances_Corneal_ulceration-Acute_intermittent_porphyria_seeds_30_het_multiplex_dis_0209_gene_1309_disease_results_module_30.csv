@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,28,27,-0.1633116883116883
+1,disease_on_symptoms,15,17,0.4792892156862745
+2,disease_on_drugs,23,24,-0.128218470551958

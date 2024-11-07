@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.5861247947454844
+1,disease_on_symptoms,17,20,1.5248012718600954
+2,disease_on_drugs,17,27,0.8409090909090908

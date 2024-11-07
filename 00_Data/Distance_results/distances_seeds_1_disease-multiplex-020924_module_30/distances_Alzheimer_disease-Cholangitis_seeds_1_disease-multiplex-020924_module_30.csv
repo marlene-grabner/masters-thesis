@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Cholangitis nodes,sAB
+0,disease_on_genes,20,27,0.36901103230890464
+1,disease_on_symptoms,23,22,1.3795344751866492
+2,disease_on_drugs,18,26,0.8409090909090908

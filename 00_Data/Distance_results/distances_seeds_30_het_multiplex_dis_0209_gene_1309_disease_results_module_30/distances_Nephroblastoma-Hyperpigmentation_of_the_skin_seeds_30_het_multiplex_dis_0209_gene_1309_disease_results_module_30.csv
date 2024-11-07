@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,29,30,0.050555230859146816
+1,disease_on_symptoms,20,17,0.301550079491256
+2,disease_on_drugs,24,28,0.1948260073260073

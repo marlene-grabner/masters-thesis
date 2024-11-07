@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,0.20338983050847448
+1,disease_on_symptoms,25,19,1.4639234449760763
+2,disease_on_drugs,28,29,1.4210526315789473

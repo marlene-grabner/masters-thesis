@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.2999999999999998
+1,disease_on_symptoms,17,13,1.01025641025641
+2,disease_on_drugs,26,18,0.4865967365967365

@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Keratitis nodes,sAB
+0,disease_on_genes,23,30,0.03706590101175822
+1,disease_on_symptoms,19,25,0.9421052631578948
+2,disease_on_drugs,22,29,0.2471571700780626

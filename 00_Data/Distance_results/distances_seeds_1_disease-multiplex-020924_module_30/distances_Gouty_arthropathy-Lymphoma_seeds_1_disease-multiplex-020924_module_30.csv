@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,25,26,0.15567119155354447
+1,disease_on_symptoms,13,21,0.8151260504201678
+2,disease_on_drugs,16,25,0.12387195121951211

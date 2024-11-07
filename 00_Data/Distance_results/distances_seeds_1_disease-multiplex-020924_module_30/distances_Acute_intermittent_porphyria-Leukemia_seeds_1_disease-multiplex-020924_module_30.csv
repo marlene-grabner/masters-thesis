@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.4074074074074072
+1,disease_on_symptoms,20,27,2.1244877856579985
+2,disease_on_drugs,15,17,0.8492647058823528

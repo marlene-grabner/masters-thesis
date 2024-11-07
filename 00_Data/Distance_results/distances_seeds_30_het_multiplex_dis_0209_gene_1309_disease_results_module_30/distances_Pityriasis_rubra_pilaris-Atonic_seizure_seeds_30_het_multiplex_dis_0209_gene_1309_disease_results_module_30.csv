@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,30,0.13840155945419097
+1,disease_on_symptoms,21,15,0.9055555555555557
+2,disease_on_drugs,25,23,0.2679710144927536

@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.21990740740740722
+1,disease_on_symptoms,13,17,0.9695324283559574
+2,disease_on_drugs,23,23,0.45652173913043503

@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,25,22,0.10696324951644098
+1,disease_on_symptoms,23,19,1.65800370491446
+2,disease_on_drugs,20,19,0.20573549257759782

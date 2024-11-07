@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,27,30,0.18908382066276808
+1,disease_on_symptoms,21,16,0.45583976833976836
+2,disease_on_drugs,23,24,0.6368524514338574

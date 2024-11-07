@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,20,18,0.5543859649122806
+2,disease_on_drugs,24,28,0.21474358974358965

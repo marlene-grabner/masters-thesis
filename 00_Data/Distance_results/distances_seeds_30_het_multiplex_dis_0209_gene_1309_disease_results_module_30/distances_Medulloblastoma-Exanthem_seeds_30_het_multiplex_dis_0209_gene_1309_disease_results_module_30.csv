@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,30,0.018421052631579116
+1,disease_on_symptoms,22,21,0.4846974730695661
+2,disease_on_drugs,26,29,0.36132143718350607

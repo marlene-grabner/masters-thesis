@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,0.3682261208576998
+1,disease_on_symptoms,20,26,1.2373745819397992
+2,disease_on_drugs,15,28,0.7209302325581395

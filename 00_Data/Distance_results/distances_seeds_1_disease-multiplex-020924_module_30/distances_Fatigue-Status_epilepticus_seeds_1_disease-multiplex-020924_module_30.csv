@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,29,-0.07388473595370149
+1,disease_on_symptoms,21,17,0.7797434763379036
+2,disease_on_drugs,26,30,-0.10989010989010972

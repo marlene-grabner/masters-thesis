@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.3069696969696969
+1,disease_on_symptoms,16,25,2.3359756097560975
+2,disease_on_drugs,21,23,1.5679936006022963

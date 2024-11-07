@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,30,-0.26923076923076916
+1,disease_on_symptoms,17,18,-0.34094304388422025
+2,disease_on_drugs,24,30,-0.2328703703703704

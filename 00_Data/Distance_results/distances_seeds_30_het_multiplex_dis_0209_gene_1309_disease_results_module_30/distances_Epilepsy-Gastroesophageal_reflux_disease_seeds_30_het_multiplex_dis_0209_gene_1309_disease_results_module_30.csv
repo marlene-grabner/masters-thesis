@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,-0.4466117216117217
+1,disease_on_symptoms,21,18,-0.6211843711843712
+2,disease_on_drugs,29,25,-0.44546615581098337

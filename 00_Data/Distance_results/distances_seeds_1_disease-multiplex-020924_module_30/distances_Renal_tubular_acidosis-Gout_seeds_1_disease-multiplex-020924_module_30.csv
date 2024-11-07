@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Gout nodes,sAB
+0,disease_on_genes,18,25,0.27527131782945724
+1,disease_on_symptoms,18,18,3.166666666666667
+2,disease_on_drugs,10,23,0.31666666666666665

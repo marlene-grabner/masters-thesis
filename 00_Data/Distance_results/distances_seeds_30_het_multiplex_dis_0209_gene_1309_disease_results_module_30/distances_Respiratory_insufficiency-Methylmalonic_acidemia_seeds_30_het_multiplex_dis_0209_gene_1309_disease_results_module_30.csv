@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,27,25,-0.09615384615384615
+1,disease_on_symptoms,21,17,0.6149933657673596
+2,disease_on_drugs,25,21,0.004637681159420204

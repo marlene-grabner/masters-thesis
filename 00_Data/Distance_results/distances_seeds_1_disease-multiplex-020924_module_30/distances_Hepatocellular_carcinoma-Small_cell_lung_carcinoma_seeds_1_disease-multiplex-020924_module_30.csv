@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,23,27,0.03652173913043488
+1,disease_on_symptoms,19,24,1.1300999592003262
+2,disease_on_drugs,19,25,0.3036363636363635

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,28,0.05383597883597879
+1,disease_on_symptoms,19,19,0.39473684210526305
+2,disease_on_drugs,26,26,0.5192307692307692

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,-0.28608058608058606
+1,disease_on_symptoms,21,24,-0.4192460317460317
+2,disease_on_drugs,26,24,-0.42012820512820503

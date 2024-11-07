@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,-0.1607142857142857
+1,disease_on_symptoms,21,20,0.07517421602787455
+2,disease_on_drugs,25,27,-0.09868945868945866

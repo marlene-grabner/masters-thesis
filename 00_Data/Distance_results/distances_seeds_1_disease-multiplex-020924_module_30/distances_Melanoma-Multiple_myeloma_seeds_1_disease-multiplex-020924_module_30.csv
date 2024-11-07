@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,24,26,-0.040000000000000036
+1,disease_on_symptoms,23,21,0.7009222661396575
+2,disease_on_drugs,22,25,0.0238297872340425

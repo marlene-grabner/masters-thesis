@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,23,18,0.15408860610345254
+2,disease_on_drugs,29,27,0.08976464148877938

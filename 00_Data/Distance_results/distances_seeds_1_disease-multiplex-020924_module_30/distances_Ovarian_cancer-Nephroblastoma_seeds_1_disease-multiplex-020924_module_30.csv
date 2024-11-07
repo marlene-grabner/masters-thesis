@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,25,-0.31000000000000005
+1,disease_on_symptoms,17,25,-0.7240336134453781
+2,disease_on_drugs,25,21,-0.34782608695652173

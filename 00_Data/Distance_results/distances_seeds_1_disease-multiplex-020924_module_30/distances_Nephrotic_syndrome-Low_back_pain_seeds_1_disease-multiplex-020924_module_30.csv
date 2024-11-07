@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,20,30,0.17833333333333323
+1,disease_on_symptoms,24,17,0.8938008130081299
+2,disease_on_drugs,18,26,0.45376845376845387

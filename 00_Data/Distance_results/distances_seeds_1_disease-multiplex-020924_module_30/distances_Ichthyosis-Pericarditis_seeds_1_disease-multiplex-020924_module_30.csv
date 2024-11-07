@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,-0.03632478632478642
+1,disease_on_symptoms,17,22,0.39208830385300963
+2,disease_on_drugs,24,25,0.020816326530612272

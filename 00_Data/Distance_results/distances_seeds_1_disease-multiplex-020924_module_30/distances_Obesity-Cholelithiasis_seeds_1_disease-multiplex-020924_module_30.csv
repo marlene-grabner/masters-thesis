@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,26,25,0.27410256410256406
+1,disease_on_symptoms,20,19,1.2336032388663964
+2,disease_on_drugs,27,18,1.0240740740740741

@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,23,30,-0.05440251572327037
+1,disease_on_symptoms,19,25,0.35956937799043076
+2,disease_on_drugs,19,29,0.08503478523895946

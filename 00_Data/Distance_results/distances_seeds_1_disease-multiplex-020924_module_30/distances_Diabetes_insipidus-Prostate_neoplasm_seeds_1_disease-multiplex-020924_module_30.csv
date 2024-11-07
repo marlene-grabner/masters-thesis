@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Prostate_neoplasm nodes,sAB
+0,disease_on_genes,24,17,0.34932448589191756
+1,disease_on_symptoms,18,21,0.7829670329670328
+2,disease_on_drugs,18,17,0.8840336134453781

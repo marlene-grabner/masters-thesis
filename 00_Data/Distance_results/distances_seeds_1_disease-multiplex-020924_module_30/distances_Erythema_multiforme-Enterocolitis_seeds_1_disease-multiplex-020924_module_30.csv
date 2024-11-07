@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.20974658869395713
+1,disease_on_symptoms,16,21,-0.38179697554697545
+2,disease_on_drugs,30,24,-0.2245370370370372

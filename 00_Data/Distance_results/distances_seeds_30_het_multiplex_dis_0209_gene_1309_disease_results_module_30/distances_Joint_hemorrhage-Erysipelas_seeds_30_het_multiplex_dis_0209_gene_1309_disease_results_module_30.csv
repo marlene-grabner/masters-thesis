@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,17,18,1.0261904761904765
+2,disease_on_drugs,26,29,0.5304919218712323

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.1869409660107335
+1,disease_on_symptoms,18,26,0.8785936285936287
+2,disease_on_drugs,27,9,0.2685185185185186

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,25,-0.07279693486590033
+1,disease_on_symptoms,23,22,0.09161176987263953
+2,disease_on_drugs,27,25,0.03911680911680904

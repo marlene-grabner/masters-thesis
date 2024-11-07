@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,23,-0.5355555555555556
+1,disease_on_symptoms,18,19,0.07768294610399895
+2,disease_on_drugs,25,19,-0.6263157894736842

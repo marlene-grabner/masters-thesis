@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,26,22,-0.23703379953379955
+1,disease_on_symptoms,21,25,-0.44472049689440996
+2,disease_on_drugs,25,18,-0.34232558139534885

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,0.1166666666666667
+1,disease_on_symptoms,24,20,0.3196969696969698
+2,disease_on_drugs,28,28,0.2857142857142858

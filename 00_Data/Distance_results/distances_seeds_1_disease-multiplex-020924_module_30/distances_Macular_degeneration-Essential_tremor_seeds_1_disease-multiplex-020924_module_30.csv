@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.2382352941176471
+1,disease_on_symptoms,15,20,1.344047619047619
+2,disease_on_drugs,21,19,0.324874686716792

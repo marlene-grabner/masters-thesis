@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,28,30,0.22409688013136275
+1,disease_on_symptoms,19,15,0.5841073271413828
+2,disease_on_drugs,26,30,0.9464285714285714

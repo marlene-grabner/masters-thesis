@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,26,-0.1153846153846152
+1,disease_on_symptoms,22,21,0.5556478405315612
+2,disease_on_drugs,25,26,-0.13542986425339354

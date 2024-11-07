@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,18,17,-0.4004668534080298
+2,disease_on_drugs,24,25,-0.28496598639455784

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,26,16,0.10279304029304037
+1,disease_on_symptoms,23,21,2.5438076416337285
+2,disease_on_drugs,25,15,0.75

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,23,25,0.22811594202898555
+1,disease_on_symptoms,21,25,1.0811594202898553
+2,disease_on_drugs,19,23,1.0755693581780539

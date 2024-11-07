@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,25,30,-0.09272727272727277
+1,disease_on_symptoms,23,15,0.4415713196033564
+2,disease_on_drugs,24,24,0.16666666666666652

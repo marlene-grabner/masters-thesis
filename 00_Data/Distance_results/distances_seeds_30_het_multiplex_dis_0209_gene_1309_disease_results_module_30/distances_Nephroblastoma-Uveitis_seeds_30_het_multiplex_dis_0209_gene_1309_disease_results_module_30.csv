@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Uveitis nodes,sAB
+0,disease_on_genes,29,30,0.13530099357101122
+1,disease_on_symptoms,20,20,0.44999999999999973
+2,disease_on_drugs,24,23,-0.0644272278754241

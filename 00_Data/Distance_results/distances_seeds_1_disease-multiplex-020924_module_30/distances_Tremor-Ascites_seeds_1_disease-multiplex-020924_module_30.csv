@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Ascites nodes,sAB
+0,disease_on_genes,16,30,0.21059782608695654
+1,disease_on_symptoms,23,17,1.5710358056265985
+2,disease_on_drugs,16,27,0.49458979328165364

@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,28,25,0.16742587601078163
+1,disease_on_symptoms,23,23,1.3478260869565215
+2,disease_on_drugs,28,23,0.37003714529289966

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,24,30,0.2772764561115668
+1,disease_on_symptoms,23,16,1.1133639910813824
+2,disease_on_drugs,20,24,0.8897727272727274

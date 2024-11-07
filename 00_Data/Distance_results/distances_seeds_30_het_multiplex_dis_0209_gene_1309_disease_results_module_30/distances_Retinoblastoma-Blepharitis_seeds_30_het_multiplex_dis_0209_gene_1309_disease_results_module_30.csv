@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,21,18,0.7069597069597071
+2,disease_on_drugs,27,30,0.3744639376218324

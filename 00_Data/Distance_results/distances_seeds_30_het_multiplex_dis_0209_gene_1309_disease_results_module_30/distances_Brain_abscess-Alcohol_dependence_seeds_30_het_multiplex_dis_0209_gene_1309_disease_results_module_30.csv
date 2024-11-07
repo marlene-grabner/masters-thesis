@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,30,-0.22631578947368414
+1,disease_on_symptoms,21,18,0.042735042735042805
+2,disease_on_drugs,23,24,-0.38583102065988284

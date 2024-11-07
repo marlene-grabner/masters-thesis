@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,24,23,-0.29660037002775197
+1,disease_on_symptoms,21,21,-0.09523809523809534
+2,disease_on_drugs,18,21,-0.38125763125763135

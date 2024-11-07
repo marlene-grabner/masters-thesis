@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.11688311688311681
+1,disease_on_symptoms,19,23,1.349787512258908
+2,disease_on_drugs,29,14,0.5296712109061747

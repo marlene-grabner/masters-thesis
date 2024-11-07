@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Obesity nodes,sAB
+0,disease_on_genes,26,26,-0.17307692307692324
+1,disease_on_symptoms,19,20,0.058164642375168496
+2,disease_on_drugs,24,27,-0.19512527233115473

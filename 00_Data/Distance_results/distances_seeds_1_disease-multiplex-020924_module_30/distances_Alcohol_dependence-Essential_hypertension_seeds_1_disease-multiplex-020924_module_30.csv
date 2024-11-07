@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,12,28,0.17976190476190457
+1,disease_on_symptoms,27,14,0.23996644728352035
+2,disease_on_drugs,9,28,0.36668811668811685

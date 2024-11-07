@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,-0.03589743589743599
+1,disease_on_symptoms,20,16,0.9090277777777778
+2,disease_on_drugs,27,30,0.24629629629629624

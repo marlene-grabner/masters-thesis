@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,17,27,0.8232818379877205
+2,disease_on_drugs,26,28,0.4256206756206755

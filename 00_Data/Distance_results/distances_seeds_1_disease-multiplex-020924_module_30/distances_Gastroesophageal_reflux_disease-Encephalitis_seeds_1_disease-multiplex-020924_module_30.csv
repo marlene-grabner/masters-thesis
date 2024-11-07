@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,0.16798941798941813
+1,disease_on_symptoms,17,17,0.7058823529411764
+2,disease_on_drugs,25,18,0.23581395348837209

@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus_type_1 nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,16,0.8995098039215685
+2,disease_on_drugs,26,28,0.040140415140415

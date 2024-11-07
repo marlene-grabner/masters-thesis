@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,22,25,0.2067891682785299
+1,disease_on_symptoms,23,20,1.4228513650151666
+2,disease_on_drugs,17,21,0.5990712074303406

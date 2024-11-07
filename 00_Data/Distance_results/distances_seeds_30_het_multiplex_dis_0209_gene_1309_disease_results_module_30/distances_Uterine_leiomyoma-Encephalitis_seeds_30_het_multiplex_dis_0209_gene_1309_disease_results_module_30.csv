@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.0847457627118644
+1,disease_on_symptoms,20,13,0.37803030303030316
+2,disease_on_drugs,28,22,0.24136363636363622

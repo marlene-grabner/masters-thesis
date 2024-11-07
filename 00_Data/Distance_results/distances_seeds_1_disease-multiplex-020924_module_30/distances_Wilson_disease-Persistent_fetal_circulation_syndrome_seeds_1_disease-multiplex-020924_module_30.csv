@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,23,25,0.30963768115942014
+1,disease_on_symptoms,19,20,2.438191632928475
+2,disease_on_drugs,11,18,1.054597701149425

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,17,14,0.09087828679859045
+1,disease_on_symptoms,28,23,1.1483832663500184
+2,disease_on_drugs,9,14,0.4782608695652173

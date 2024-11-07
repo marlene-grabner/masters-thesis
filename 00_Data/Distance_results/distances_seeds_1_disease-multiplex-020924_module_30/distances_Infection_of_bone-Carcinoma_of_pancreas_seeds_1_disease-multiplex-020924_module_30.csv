@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,23,0.3901098901098903
+1,disease_on_symptoms,21,25,1.3682401656314702
+2,disease_on_drugs,24,21,1.0041666666666669

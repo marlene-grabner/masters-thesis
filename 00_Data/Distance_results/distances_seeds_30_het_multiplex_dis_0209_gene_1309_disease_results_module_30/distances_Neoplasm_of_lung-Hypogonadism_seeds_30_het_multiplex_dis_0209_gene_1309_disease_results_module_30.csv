@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,19,17,0.18928448572411427
+2,disease_on_drugs,30,29,0.0663159945451004

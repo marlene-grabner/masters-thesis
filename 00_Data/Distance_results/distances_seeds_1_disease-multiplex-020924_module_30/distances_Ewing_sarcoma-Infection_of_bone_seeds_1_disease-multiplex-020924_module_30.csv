@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,24,26,0.45903846153846173
+1,disease_on_symptoms,25,21,1.2917184265010353
+2,disease_on_drugs,17,24,1.230182926829268

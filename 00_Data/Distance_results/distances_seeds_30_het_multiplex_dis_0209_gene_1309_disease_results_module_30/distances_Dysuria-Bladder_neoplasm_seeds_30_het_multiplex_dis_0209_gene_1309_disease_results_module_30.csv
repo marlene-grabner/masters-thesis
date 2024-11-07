@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,12,19,1.4407187323146573
+2,disease_on_drugs,21,25,0.4772256728778468

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,30,-0.2807017543859649
+1,disease_on_symptoms,22,16,-0.4612739234449763
+2,disease_on_drugs,26,27,-0.20864914261140655

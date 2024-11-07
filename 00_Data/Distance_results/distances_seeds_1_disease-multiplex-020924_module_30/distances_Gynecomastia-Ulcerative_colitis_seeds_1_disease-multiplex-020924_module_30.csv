@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.2787524366471734
+1,disease_on_symptoms,16,20,0.9624999999999999
+2,disease_on_drugs,24,25,0.6517857142857142

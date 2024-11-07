@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,17,30,0.45994993742177726
+1,disease_on_symptoms,25,16,0.8982621951219514
+2,disease_on_drugs,13,30,1.612701252236136

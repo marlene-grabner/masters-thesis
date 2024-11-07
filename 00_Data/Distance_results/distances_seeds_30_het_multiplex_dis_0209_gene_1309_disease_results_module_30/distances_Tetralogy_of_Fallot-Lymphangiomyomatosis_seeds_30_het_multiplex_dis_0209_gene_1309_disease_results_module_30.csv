@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.14065934065934083
+1,disease_on_symptoms,19,17,0.28775369797041606
+2,disease_on_drugs,20,24,-0.12083333333333335

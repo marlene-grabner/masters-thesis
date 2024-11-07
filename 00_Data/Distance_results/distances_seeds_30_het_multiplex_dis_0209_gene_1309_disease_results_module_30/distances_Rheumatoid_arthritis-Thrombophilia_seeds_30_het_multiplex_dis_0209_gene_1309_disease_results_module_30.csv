@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,-0.03421052631578947
+1,disease_on_symptoms,19,18,0.24707602339181278
+2,disease_on_drugs,30,22,0.24207459207459192

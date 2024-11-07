@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.06888341543513965
+1,disease_on_symptoms,14,20,0.9420168067226893
+2,disease_on_drugs,29,27,0.4642857142857142

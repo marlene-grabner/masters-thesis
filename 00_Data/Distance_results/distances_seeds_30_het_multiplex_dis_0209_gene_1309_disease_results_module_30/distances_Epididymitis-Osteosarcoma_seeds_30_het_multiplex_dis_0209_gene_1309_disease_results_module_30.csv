@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,29,30,-0.05028248587570605
+1,disease_on_symptoms,23,22,0.555292050944225
+2,disease_on_drugs,26,29,0.07113576079093309

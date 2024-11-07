@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,21,26,0.319396051103368
+1,disease_on_symptoms,24,17,2.327026542324247
+2,disease_on_drugs,14,23,0.519766661071009

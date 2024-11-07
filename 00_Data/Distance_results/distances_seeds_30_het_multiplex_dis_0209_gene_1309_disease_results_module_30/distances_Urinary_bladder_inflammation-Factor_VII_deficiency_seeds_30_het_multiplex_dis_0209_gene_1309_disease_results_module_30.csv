@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.0683497536945814
+1,disease_on_symptoms,16,19,0.7681860902255637
+2,disease_on_drugs,29,25,0.38827586206896547

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,14,29,0.3656489861381602
+1,disease_on_symptoms,27,17,1.4471182412358883
+2,disease_on_drugs,8,26,0.682975113122172

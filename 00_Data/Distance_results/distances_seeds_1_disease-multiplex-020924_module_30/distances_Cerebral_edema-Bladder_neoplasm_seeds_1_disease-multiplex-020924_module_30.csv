@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,0.7321428571428572
+1,disease_on_symptoms,9,20,0.7711685823754793
+2,disease_on_drugs,11,25,0.648989898989899

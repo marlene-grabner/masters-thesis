@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,25,22,0.4693617021276595
+1,disease_on_symptoms,20,24,0.8321969696969695
+2,disease_on_drugs,21,19,0.36973684210526336

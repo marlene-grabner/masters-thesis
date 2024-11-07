@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.5135531135531135
+1,disease_on_symptoms,12,15,1.6157407407407407
+2,disease_on_drugs,17,16,1.0918003565062389

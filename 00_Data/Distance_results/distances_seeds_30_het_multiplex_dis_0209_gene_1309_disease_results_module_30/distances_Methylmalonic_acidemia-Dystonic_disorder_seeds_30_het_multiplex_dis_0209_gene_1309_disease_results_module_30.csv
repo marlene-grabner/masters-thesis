@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,25,30,-0.2909090909090909
+1,disease_on_symptoms,17,17,-0.02941176470588225
+2,disease_on_drugs,21,26,-0.34588106928532447

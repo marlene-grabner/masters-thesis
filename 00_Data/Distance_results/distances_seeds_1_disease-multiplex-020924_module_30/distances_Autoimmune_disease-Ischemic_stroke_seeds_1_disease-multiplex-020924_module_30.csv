@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,22,30,0.1808857808857809
+1,disease_on_symptoms,19,16,0.8251879699248119
+2,disease_on_drugs,19,23,0.7200610221205186

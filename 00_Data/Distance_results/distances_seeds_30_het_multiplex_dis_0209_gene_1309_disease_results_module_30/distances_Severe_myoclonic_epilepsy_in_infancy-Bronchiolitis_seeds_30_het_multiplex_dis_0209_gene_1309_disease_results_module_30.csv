@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.17241379310344818
+1,disease_on_symptoms,14,25,1.6554212454212456
+2,disease_on_drugs,21,24,0.2952380952380953

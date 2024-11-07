@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.2883813099707966
+1,disease_on_symptoms,16,28,2.013392857142857
+2,disease_on_drugs,23,9,0.65625

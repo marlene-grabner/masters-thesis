@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,20,0.046969696969696884
+1,disease_on_symptoms,20,27,0.8972025216706068
+2,disease_on_drugs,21,19,-0.10025062656641603

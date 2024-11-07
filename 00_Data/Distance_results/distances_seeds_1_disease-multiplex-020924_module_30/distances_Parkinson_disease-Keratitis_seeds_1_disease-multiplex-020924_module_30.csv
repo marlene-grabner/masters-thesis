@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,21,28,0.2874149659863945
+1,disease_on_symptoms,20,25,1.087777777777778
+2,disease_on_drugs,19,23,0.8633540372670809

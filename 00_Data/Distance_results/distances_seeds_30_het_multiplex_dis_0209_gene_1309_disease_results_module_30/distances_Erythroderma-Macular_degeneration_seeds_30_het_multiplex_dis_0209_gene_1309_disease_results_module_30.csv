@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,20,17,0.6773052464228932
+2,disease_on_drugs,29,17,-0.06437957491842328

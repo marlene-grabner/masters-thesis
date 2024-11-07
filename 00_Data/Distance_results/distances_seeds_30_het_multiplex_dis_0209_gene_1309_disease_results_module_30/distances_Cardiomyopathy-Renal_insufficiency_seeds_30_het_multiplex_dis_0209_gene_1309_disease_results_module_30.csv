@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,30,-0.33090909090909093
+1,disease_on_symptoms,21,19,-0.013032581453634062
+2,disease_on_drugs,24,28,-0.283882783882784

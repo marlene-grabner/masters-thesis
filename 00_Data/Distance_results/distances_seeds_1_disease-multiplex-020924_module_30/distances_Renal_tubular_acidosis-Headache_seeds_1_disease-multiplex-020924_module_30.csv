@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Headache nodes,sAB
+0,disease_on_genes,18,30,0.3374999999999999
+1,disease_on_symptoms,18,25,2.5603875968992247
+2,disease_on_drugs,10,26,0.38076923076923075

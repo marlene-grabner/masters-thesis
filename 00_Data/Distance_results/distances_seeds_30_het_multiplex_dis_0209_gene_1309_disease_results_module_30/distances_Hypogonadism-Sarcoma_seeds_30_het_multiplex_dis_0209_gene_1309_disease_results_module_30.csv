@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,23,0.6339514066496164
+2,disease_on_drugs,29,24,-0.023205378442854085

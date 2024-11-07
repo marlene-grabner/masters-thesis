@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.27982456140350875
+1,disease_on_symptoms,13,20,-0.24871794871794872
+2,disease_on_drugs,28,27,-0.28928571428571437

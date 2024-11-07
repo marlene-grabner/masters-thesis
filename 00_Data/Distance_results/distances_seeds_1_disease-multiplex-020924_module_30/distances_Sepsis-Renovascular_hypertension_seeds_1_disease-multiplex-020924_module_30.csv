@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,22,21,0.14107017013993772
+1,disease_on_symptoms,23,22,0.803776899429073
+2,disease_on_drugs,17,20,0.5188791732909379

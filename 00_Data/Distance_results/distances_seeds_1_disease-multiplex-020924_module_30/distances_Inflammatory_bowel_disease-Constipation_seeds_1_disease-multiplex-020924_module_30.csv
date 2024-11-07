@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Constipation nodes,sAB
+0,disease_on_genes,17,30,0.2686594202898551
+1,disease_on_symptoms,27,17,1.3623489799960384
+2,disease_on_drugs,14,27,0.6043037811330494

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,-0.10909090909090913
+1,disease_on_symptoms,18,19,0.2403192666350562
+2,disease_on_drugs,30,25,-0.0790909090909091

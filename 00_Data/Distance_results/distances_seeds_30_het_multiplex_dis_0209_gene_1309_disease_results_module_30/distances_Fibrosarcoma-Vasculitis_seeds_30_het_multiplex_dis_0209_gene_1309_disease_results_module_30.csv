@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.0357142857142857
+1,disease_on_symptoms,14,18,0.6498015873015872
+2,disease_on_drugs,26,26,0.25

@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,24,0.3376572327044023
+1,disease_on_symptoms,25,19,1.6242105263157893
+2,disease_on_drugs,28,19,1.1287793952967524

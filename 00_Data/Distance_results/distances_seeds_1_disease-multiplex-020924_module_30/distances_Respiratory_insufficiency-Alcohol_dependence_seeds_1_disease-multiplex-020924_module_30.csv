@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,25,12,0.5940090090090091
+1,disease_on_symptoms,20,27,2.4188140267927505
+2,disease_on_drugs,14,9,0.6078329882677707

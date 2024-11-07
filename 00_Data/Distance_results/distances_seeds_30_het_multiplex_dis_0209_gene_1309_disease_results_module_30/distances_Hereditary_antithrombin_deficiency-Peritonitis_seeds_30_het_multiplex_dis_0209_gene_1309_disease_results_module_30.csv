@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Peritonitis nodes,sAB
+0,disease_on_genes,28,30,0.17241379310344818
+1,disease_on_symptoms,16,14,0.5684523809523809
+2,disease_on_drugs,23,24,-0.0037966389145851487

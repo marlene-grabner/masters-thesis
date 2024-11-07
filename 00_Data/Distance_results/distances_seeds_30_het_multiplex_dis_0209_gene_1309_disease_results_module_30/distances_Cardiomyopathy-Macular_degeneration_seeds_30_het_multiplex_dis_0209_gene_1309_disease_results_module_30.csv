@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,25,30,-0.05666666666666664
+1,disease_on_symptoms,21,17,0.014521598112929635
+2,disease_on_drugs,24,17,0.09600669536107098

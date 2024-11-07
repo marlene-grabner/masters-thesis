@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,17,19,0.056415548675610605
+2,disease_on_drugs,26,30,-0.2701465201465203

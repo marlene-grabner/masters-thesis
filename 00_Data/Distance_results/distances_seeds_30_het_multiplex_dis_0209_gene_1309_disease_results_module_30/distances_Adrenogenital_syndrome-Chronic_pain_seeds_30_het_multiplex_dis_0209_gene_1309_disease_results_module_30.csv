@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,9,19,0.5808270676691731
+2,disease_on_drugs,23,28,0.3611314090853732

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Meningitis nodes,sAB
+0,disease_on_genes,23,29,0.3588109791258216
+1,disease_on_symptoms,19,20,1.8965249662618082
+2,disease_on_drugs,11,26,0.8378378378378379

@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,24,30,0.07407407407407418
+1,disease_on_symptoms,24,18,0.7103174603174605
+2,disease_on_drugs,23,26,0.19798989830045732

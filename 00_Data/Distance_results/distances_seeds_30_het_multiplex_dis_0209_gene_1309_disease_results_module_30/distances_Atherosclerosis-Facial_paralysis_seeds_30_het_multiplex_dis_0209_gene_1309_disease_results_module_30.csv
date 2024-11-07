@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.17307692307692313
+1,disease_on_symptoms,14,21,1.1523809523809523
+2,disease_on_drugs,29,17,0.5499162183614075

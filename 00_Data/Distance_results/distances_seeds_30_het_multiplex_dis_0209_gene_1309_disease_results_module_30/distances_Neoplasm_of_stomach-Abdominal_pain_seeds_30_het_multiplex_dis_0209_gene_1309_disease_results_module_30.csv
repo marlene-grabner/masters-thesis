@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,-0.10939393939393938
+1,disease_on_symptoms,23,19,0.5942028985507248
+2,disease_on_drugs,24,29,0.3064275645196268

@@ -1,0 +1,4 @@
+,Layer,Blepharitis nodes,Goiter nodes,sAB
+0,disease_on_genes,20,26,0.3545986622073578
+1,disease_on_symptoms,27,15,0.5925925925925926
+2,disease_on_drugs,19,16,0.31879699248120286

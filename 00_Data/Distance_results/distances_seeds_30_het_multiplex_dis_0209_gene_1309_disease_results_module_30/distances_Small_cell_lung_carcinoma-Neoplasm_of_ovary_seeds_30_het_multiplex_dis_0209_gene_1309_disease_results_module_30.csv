@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,19,22,-0.801902205624927
+2,disease_on_drugs,30,29,-0.38929475939996094

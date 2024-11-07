@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,16,19,0.6442199248120299
+2,disease_on_drugs,28,27,-0.05561568061568045

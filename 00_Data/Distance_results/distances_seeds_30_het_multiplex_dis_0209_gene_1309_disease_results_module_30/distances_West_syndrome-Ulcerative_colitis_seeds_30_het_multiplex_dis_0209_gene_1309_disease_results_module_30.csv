@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.1578947368421053
+1,disease_on_symptoms,13,20,1.186013986013986
+2,disease_on_drugs,19,27,0.43821510297482846

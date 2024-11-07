@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,26,27,-0.3585040047304199
+1,disease_on_symptoms,23,22,-0.31275801493192823
+2,disease_on_drugs,25,24,-0.4090136054421767

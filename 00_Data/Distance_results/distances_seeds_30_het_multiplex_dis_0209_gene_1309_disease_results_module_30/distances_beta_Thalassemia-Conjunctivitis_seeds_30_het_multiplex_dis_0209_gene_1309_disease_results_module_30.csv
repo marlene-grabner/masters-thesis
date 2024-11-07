@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,13,27,0.29622507122507136
+2,disease_on_drugs,24,28,0.16369047619047628

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,26,26,-0.32692307692307687
+1,disease_on_symptoms,17,19,-0.356983144134847
+2,disease_on_drugs,24,25,-0.2886904761904764

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,21,17,0.01754385964912286
+2,disease_on_drugs,23,30,-0.3318567131528576

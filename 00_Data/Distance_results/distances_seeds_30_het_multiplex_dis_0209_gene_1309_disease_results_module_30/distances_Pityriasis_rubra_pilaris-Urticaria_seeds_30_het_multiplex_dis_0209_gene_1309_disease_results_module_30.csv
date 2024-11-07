@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,24,-0.19389978213507642
+1,disease_on_symptoms,21,21,-0.33333333333333326
+2,disease_on_drugs,25,24,-0.32784013605442164

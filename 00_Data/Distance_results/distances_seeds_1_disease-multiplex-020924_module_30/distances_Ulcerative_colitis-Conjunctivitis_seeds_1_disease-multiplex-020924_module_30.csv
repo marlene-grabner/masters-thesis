@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,27,-0.09259259259259267
+1,disease_on_symptoms,20,27,0.28642631993695833
+2,disease_on_drugs,25,26,-0.11689291101055799

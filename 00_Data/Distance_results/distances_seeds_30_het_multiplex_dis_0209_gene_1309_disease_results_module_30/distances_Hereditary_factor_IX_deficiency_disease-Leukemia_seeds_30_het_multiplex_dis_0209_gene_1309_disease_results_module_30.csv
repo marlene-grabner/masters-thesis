@@ -1,0 +1,4 @@
+,Layer,Hereditary_factor_IX_deficiency_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,30,-0.07081280788177347
+1,disease_on_symptoms,18,21,0.6312576312576312
+2,disease_on_drugs,26,30,0.12545787545787568

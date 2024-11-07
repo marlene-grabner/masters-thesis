@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,19,29,0.3177934059286145
+1,disease_on_symptoms,21,16,2.0251769626769627
+2,disease_on_drugs,17,25,0.8333333333333333

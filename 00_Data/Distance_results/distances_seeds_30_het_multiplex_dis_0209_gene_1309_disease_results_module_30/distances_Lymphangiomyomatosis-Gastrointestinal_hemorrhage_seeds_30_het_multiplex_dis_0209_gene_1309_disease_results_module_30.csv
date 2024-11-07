@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,28,-0.09264346764346776
+1,disease_on_symptoms,17,20,0.14777424483306834
+2,disease_on_drugs,24,27,0.09599673202614367

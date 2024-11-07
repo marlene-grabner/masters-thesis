@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.019047619047619202
+1,disease_on_symptoms,16,23,0.2292711817168338
+2,disease_on_drugs,30,26,0.3140109890109888

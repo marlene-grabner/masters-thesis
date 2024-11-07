@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Dermatitis nodes,sAB
+0,disease_on_genes,28,26,0.15599730458221006
+1,disease_on_symptoms,15,25,1.785
+2,disease_on_drugs,20,24,0.6151515151515152

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,20,15,0.480952380952381
+2,disease_on_drugs,24,21,-0.10396825396825382

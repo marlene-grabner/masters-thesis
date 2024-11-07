@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,18,0.2519425019425019
+1,disease_on_symptoms,21,28,0.33078231292517013
+2,disease_on_drugs,24,17,0.2201398852223817

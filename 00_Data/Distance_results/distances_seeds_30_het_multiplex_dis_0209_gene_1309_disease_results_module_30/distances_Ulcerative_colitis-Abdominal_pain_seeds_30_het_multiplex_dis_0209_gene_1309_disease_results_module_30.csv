@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,-0.05175438596491222
+1,disease_on_symptoms,20,19,0.1743589743589744
+2,disease_on_drugs,27,29,0.05603448275862055

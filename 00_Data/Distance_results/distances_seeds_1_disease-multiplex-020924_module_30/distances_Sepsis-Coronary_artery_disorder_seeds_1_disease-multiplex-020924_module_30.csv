@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,22,19,0.2746819932314155
+1,disease_on_symptoms,23,21,1.8289572746094485
+2,disease_on_drugs,17,17,1.0294117647058825

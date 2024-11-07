@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,25,27,-0.11538461538461542
+1,disease_on_symptoms,17,21,1.2202565236620964
+2,disease_on_drugs,21,25,-0.002318840579710102

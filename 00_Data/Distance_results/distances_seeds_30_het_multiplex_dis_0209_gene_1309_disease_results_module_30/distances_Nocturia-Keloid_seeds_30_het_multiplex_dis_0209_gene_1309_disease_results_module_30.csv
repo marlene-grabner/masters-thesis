@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Keloid nodes,sAB
+0,disease_on_genes,25,23,-0.06382978723404253
+1,disease_on_symptoms,18,17,1.3376283846872083
+2,disease_on_drugs,24,22,0.30698287220026366

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Epilepsy nodes,sAB
+0,disease_on_genes,30,29,-0.15225988700564963
+1,disease_on_symptoms,16,18,-0.1550245098039218
+2,disease_on_drugs,27,30,-0.12192982456140344

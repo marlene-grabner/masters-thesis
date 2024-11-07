@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,19,16,0.47011278195488715
+2,disease_on_drugs,27,28,-0.03613516113516124

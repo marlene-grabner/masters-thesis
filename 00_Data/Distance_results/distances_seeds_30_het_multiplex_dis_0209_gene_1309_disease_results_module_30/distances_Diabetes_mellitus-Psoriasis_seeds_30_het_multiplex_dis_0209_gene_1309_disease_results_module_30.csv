@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Psoriasis nodes,sAB
+0,disease_on_genes,21,30,-0.05882352941176472
+1,disease_on_symptoms,22,17,0.8207870560811741
+2,disease_on_drugs,19,30,0.039169351951306774

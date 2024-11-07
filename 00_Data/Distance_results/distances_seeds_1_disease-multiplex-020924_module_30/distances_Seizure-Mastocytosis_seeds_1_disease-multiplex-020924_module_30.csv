@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,29,18,0.4615839243498818
+1,disease_on_symptoms,25,28,2.1249730458221023
+2,disease_on_drugs,28,17,0.8300653594771241

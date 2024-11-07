@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,22,24,0.541419631093544
+1,disease_on_symptoms,21,19,3.087907268170426
+2,disease_on_drugs,6,20,1.0525641025641024

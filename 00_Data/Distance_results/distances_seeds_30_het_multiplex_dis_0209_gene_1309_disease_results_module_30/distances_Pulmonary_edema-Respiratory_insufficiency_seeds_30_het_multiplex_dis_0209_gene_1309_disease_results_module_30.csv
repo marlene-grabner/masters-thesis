@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,11,21,0.5633116883116882
+2,disease_on_drugs,27,25,-0.025555555555555554

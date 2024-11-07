@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,28,30,0.2216338259441708
+1,disease_on_symptoms,15,15,2.0
+2,disease_on_drugs,20,29,0.7536769880365939

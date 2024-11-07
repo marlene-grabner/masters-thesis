@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Exanthem nodes,sAB
+0,disease_on_genes,22,28,0.19999999999999996
+1,disease_on_symptoms,24,26,0.7389102564102563
+2,disease_on_drugs,19,28,0.17475203967365216

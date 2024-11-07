@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,24,24,0.22916666666666652
+1,disease_on_symptoms,17,19,0.8347093223254214
+2,disease_on_drugs,23,20,0.8847826086956521

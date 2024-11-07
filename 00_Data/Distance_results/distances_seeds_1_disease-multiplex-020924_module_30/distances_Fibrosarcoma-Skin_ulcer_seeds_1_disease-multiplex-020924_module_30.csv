@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,22,30,0.21724941724941726
+1,disease_on_symptoms,24,19,1.320073439412485
+2,disease_on_drugs,13,22,0.5376623376623377

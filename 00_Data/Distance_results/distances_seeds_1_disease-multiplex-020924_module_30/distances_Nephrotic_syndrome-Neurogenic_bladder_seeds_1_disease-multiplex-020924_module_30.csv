@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,20,30,0.12166666666666681
+1,disease_on_symptoms,24,17,1.0121652319464367
+2,disease_on_drugs,18,26,0.9292929292929295

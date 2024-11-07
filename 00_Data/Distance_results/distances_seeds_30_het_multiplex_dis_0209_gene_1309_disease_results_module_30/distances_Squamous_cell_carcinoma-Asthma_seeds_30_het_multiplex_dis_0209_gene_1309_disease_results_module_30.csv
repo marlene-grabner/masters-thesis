@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.12909090909090915
+1,disease_on_symptoms,22,20,0.9317099567099565
+2,disease_on_drugs,30,22,0.30419580419580416

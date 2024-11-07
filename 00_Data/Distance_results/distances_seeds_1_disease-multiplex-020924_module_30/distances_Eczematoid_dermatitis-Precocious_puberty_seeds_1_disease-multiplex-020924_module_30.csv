@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,28,30,0.32811986863711007
+1,disease_on_symptoms,24,14,0.7647243107769424
+2,disease_on_drugs,28,24,0.848901098901099

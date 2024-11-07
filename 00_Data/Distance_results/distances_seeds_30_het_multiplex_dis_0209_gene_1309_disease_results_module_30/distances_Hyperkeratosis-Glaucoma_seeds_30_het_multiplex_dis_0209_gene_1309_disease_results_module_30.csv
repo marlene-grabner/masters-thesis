@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,-0.07161172161172169
+1,disease_on_symptoms,25,18,0.5261240310077517
+2,disease_on_drugs,25,28,0.07801886792452817

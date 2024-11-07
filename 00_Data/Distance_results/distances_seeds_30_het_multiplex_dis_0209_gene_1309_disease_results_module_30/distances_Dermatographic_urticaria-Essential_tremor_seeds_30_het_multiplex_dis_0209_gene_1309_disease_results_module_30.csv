@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,0.1399999999999999
+1,disease_on_symptoms,18,23,0.983150701072228
+2,disease_on_drugs,28,21,0.3452380952380951

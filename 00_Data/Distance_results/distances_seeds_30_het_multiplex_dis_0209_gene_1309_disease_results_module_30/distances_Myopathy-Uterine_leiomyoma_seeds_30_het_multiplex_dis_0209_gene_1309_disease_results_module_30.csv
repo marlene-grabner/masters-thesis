@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,23,30,-0.15094339622641506
+1,disease_on_symptoms,22,20,0.13777056277056277
+2,disease_on_drugs,21,28,-0.24744897959183665

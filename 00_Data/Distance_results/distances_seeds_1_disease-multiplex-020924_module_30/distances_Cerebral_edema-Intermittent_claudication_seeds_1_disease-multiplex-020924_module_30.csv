@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.645
+1,disease_on_symptoms,9,24,1.1167929292929295
+2,disease_on_drugs,11,18,0.4296412399860676

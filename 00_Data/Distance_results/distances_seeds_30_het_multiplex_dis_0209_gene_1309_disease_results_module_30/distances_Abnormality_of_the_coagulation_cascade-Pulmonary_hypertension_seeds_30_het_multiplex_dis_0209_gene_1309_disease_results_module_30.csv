@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,24,28,-0.05769230769230771
+1,disease_on_symptoms,24,18,0.4484126984126986
+2,disease_on_drugs,23,27,0.08879227053140104

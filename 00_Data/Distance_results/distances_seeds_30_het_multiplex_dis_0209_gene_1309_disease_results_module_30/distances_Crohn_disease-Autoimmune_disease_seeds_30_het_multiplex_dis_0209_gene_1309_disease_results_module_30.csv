@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,26,-0.1923076923076923
+1,disease_on_symptoms,22,20,0.28214285714285725
+2,disease_on_drugs,24,25,-0.22411564625850333

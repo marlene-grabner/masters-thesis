@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,27,23,0.2362640901771338
+1,disease_on_symptoms,23,21,1.0484660267268961
+2,disease_on_drugs,15,21,0.08968253968253981

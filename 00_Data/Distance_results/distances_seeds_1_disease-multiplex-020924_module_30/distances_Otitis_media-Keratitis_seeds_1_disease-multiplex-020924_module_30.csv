@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,28,0.053517414225218385
+1,disease_on_symptoms,22,25,0.5845647969052223
+2,disease_on_drugs,29,23,0.2676738553800022

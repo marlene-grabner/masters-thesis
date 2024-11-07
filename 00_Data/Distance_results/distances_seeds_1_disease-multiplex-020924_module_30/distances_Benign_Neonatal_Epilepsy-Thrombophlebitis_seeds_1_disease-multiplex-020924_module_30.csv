@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,29,28,0.4028822055137846
+1,disease_on_symptoms,16,15,2.311760752688172
+2,disease_on_drugs,26,21,1.0638297872340425

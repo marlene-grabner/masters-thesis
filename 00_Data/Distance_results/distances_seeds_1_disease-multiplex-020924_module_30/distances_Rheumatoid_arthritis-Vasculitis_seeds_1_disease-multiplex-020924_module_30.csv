@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.15890522875817004
+1,disease_on_symptoms,15,19,2.23797729618163
+2,disease_on_drugs,25,20,0.3966666666666665

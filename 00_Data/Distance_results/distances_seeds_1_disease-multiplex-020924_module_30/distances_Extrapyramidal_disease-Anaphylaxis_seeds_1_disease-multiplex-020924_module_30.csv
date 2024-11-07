@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,14,27,0.5184862562911343
+1,disease_on_symptoms,25,15,2.2649999999999997
+2,disease_on_drugs,10,26,0.717094017094017

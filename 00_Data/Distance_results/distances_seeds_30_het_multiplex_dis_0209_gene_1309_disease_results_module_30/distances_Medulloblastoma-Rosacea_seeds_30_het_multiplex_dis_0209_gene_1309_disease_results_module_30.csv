@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.1043859649122807
+1,disease_on_symptoms,22,18,0.39015151515151514
+2,disease_on_drugs,26,30,0.02188644688644703

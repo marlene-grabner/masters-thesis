@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.22354388843314177
+1,disease_on_symptoms,22,25,1.0826112185686656
+2,disease_on_drugs,29,18,0.4687576424553681

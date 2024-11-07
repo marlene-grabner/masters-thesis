@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,0.25
+1,disease_on_symptoms,21,13,1.5347985347985347
+2,disease_on_drugs,24,23,0.700740055504163

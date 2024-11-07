@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,-0.1785714285714286
+1,disease_on_symptoms,16,19,0.18157894736842106
+2,disease_on_drugs,25,30,-0.05575757575757567

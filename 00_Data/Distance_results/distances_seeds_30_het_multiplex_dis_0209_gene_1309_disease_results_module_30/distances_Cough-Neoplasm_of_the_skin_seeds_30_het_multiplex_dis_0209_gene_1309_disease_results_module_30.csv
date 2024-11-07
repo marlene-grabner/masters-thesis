@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,0.0008771929824562541
+1,disease_on_symptoms,22,22,0.6590909090909092
+2,disease_on_drugs,24,29,0.4670895684233356

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Constipation nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,14,17,0.908715098942803
+2,disease_on_drugs,27,27,0.5925925925925926

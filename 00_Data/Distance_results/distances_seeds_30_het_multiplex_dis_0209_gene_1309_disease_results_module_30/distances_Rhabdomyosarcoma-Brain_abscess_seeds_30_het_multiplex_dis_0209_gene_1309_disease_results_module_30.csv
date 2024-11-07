@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,29,27,-0.1607142857142857
+1,disease_on_symptoms,19,21,0.7464912280701754
+2,disease_on_drugs,29,23,-0.11129050859185785

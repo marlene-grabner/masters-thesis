@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,29,-0.1256613756613757
+1,disease_on_symptoms,19,20,0.3617408906882591
+2,disease_on_drugs,24,28,0.09775641025641035

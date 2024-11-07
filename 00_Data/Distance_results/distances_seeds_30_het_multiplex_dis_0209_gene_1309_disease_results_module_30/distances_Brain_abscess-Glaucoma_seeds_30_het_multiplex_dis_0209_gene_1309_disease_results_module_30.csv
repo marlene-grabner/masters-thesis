@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,-0.06929824561403508
+1,disease_on_symptoms,21,18,0.05769230769230771
+2,disease_on_drugs,23,28,-0.18552855924978684

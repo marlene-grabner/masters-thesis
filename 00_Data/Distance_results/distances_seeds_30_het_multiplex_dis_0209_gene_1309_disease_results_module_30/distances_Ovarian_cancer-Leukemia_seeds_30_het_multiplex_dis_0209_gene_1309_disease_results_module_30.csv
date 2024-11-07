@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,30,-0.33333333333333337
+1,disease_on_symptoms,17,21,-0.37439186200796115
+2,disease_on_drugs,17,30,-0.30423445974134344

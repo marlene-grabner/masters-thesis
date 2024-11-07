@@ -1,0 +1,4 @@
+,Layer,Hereditary_factor_IX_deficiency_disease nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,30,-0.01908866995073888
+1,disease_on_symptoms,18,23,0.9124543419347235
+2,disease_on_drugs,26,30,0.30521978021978047

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.035098522167487656
+1,disease_on_symptoms,18,15,0.1505050505050507
+2,disease_on_drugs,30,23,-0.04835931091058243

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,18,30,0.44885057471264367
+1,disease_on_symptoms,28,18,1.3758626639061422
+2,disease_on_drugs,17,19,0.19556243550051589

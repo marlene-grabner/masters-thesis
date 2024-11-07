@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,16,21,0.3647039897039899
+1,disease_on_symptoms,26,20,1.9737458193979935
+2,disease_on_drugs,14,19,1.3333333333333335

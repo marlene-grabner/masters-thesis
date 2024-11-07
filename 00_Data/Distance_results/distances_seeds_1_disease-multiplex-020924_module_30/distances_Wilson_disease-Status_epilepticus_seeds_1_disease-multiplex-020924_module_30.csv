@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,23,29,0.3356014300542036
+1,disease_on_symptoms,19,17,2.8041795665634677
+2,disease_on_drugs,11,30,1.3170731707317072

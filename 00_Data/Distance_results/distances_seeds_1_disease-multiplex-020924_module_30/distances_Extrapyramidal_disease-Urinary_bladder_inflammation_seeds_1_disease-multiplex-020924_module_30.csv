@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,14,25,0.3658241758241758
+1,disease_on_symptoms,25,22,2.294448742746615
+2,disease_on_drugs,10,24,0.7490196078431373

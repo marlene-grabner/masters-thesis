@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,27,30,-0.05360623781676421
+1,disease_on_symptoms,17,18,0.4571428571428573
+2,disease_on_drugs,24,28,-0.07760989010989006

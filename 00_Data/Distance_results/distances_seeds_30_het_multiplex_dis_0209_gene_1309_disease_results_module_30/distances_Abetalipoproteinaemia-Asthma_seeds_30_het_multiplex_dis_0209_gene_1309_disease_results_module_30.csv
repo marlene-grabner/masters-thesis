@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Asthma nodes,sAB
+0,disease_on_genes,14,25,-0.004432234432234283
+1,disease_on_symptoms,26,20,0.8922240802675585
+2,disease_on_drugs,14,22,0.46933621933621916

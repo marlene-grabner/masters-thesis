@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,17,0.16142270861833108
+1,disease_on_symptoms,21,25,1.8872463768115941
+2,disease_on_drugs,25,13,0.9741700404858302

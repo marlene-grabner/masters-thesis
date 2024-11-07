@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,-0.017282430213464872
+1,disease_on_symptoms,17,19,-0.1483488132094941
+2,disease_on_drugs,26,22,-0.11931818181818166

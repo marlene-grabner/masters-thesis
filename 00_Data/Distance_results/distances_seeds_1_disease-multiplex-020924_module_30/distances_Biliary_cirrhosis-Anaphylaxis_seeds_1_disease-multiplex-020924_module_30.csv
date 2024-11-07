@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.529350104821803
+1,disease_on_symptoms,15,15,1.1
+2,disease_on_drugs,15,26,0.9436522826766729

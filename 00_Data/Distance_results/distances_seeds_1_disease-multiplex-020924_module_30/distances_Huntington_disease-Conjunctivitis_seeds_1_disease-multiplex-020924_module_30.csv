@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.2104288499025342
+1,disease_on_symptoms,16,27,1.2610088285960377
+2,disease_on_drugs,27,26,0.6973875181422353

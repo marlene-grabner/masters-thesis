@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,24,0.12224358974358984
+1,disease_on_symptoms,28,19,0.6655935050391935
+2,disease_on_drugs,23,19,0.7063310450038138

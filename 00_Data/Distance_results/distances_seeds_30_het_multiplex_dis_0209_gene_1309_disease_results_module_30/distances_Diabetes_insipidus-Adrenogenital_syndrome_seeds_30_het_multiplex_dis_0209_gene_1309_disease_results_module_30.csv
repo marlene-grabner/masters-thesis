@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,26,30,-0.0013736263736263687
+1,disease_on_symptoms,20,9,0.17068965517241352
+2,disease_on_drugs,20,23,-0.030080889787664322

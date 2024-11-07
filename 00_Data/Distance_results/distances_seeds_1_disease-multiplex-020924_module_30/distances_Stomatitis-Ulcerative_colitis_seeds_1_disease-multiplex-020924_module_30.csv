@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.06949317738791416
+1,disease_on_symptoms,23,20,0.14709302325581386
+2,disease_on_drugs,30,25,0.027272727272727115

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.13725490196078427
+1,disease_on_symptoms,21,23,0.09862601166948992
+2,disease_on_drugs,29,21,-0.20525451559934327

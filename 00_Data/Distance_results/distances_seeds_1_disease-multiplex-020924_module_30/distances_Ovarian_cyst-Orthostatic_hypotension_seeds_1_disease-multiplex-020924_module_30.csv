@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,20,30,0.3883333333333332
+1,disease_on_symptoms,22,12,1.6508467023172906
+2,disease_on_drugs,15,17,0.9018382352941177

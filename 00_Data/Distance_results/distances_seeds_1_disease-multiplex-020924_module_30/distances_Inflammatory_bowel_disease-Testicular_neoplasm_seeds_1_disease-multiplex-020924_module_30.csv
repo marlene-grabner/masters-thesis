@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,17,25,0.28774390243902426
+1,disease_on_symptoms,27,25,1.3280626780626779
+2,disease_on_drugs,14,23,0.6235101561188516

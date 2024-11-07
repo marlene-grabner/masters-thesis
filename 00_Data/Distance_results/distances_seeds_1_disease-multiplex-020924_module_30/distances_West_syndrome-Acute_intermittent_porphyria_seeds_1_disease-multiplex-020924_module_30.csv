@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,29,27,0.32010582010582
+1,disease_on_symptoms,18,20,1.9211988304093566
+2,disease_on_drugs,22,15,0.8648648648648649

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,24,23,0.2099714770274439
+1,disease_on_symptoms,22,24,1.445487483530962
+2,disease_on_drugs,24,17,0.6341463414634145

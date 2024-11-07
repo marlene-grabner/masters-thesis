@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Angioedema nodes,sAB
+0,disease_on_genes,12,29,0.44047619047619047
+1,disease_on_symptoms,27,17,1.680877401465637
+2,disease_on_drugs,9,25,0.65359477124183

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.33287037037037037
+1,disease_on_symptoms,12,21,1.5135281385281385
+2,disease_on_drugs,17,24,0.6712996174079389

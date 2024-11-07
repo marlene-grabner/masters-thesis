@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,14,19,0.3665413533834587
+2,disease_on_drugs,21,27,0.09292328042328046

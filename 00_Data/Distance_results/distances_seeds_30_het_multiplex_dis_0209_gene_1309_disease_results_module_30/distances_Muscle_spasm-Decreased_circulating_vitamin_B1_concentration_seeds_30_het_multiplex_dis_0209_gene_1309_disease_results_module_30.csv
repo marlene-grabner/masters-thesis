@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,15,17,-0.16703431372549016
+2,disease_on_drugs,29,25,-0.22089399744572158

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,29,26,0.23625512418615857
+1,disease_on_symptoms,23,21,0.4564746847355545
+2,disease_on_drugs,27,23,0.4829629629629628

@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,16,14,-0.05624999999999991
+2,disease_on_drugs,30,24,0.25416666666666665

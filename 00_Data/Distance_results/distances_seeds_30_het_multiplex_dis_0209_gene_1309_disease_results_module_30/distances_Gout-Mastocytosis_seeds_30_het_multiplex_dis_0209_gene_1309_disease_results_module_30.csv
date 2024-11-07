@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,28,30,0.08559113300492616
+1,disease_on_symptoms,19,24,0.45427886576907395
+2,disease_on_drugs,22,20,0.17413419913419914

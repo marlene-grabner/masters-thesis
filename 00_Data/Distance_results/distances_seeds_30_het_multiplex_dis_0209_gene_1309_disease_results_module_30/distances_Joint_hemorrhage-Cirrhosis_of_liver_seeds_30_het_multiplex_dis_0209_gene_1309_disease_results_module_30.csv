@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,19,0.29824561403508754
+2,disease_on_drugs,26,30,0.10503663003663011

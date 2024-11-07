@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,16,-0.25245098039215663
+2,disease_on_drugs,25,29,-0.07402298850574707

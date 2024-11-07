@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Urticaria nodes,sAB
+0,disease_on_genes,25,24,-0.16326530612244894
+1,disease_on_symptoms,19,21,0.9002506265664159
+2,disease_on_drugs,25,24,-0.18335034013605434

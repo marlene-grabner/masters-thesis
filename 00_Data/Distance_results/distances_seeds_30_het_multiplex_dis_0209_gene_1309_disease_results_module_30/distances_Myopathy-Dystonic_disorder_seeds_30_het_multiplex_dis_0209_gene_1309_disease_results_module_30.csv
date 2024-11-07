@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,23,30,-0.3584905660377359
+1,disease_on_symptoms,22,17,-0.462978198272316
+2,disease_on_drugs,21,26,-0.5713116670563478

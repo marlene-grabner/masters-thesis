@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,27,23,0.2582608695652173
+1,disease_on_symptoms,24,25,1.5492176870748298
+2,disease_on_drugs,25,18,0.9264341085271317

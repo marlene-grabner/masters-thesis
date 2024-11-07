@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,23,30,-0.2306261963357943
+1,disease_on_symptoms,21,26,-0.05905619203491552
+2,disease_on_drugs,19,28,-0.276595744680851

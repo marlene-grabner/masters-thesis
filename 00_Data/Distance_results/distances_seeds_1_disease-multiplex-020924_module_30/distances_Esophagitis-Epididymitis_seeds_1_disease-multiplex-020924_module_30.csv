@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,24,29,0.05466497520470526
+1,disease_on_symptoms,23,23,0.9130434782608696
+2,disease_on_drugs,20,27,0.1294523246650905

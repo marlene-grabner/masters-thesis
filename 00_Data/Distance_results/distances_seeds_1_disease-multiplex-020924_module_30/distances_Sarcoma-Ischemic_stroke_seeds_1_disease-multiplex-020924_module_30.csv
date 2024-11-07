@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,25,30,0.3106060606060608
+1,disease_on_symptoms,26,16,1.4725274725274726
+2,disease_on_drugs,21,23,0.6175889328063242

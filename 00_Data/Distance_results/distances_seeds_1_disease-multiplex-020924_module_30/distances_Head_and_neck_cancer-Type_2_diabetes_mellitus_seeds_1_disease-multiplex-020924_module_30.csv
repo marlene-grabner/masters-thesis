@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,16,0.16607450473729535
+1,disease_on_symptoms,22,21,2.814834390415786
+2,disease_on_drugs,24,15,0.6762820512820513

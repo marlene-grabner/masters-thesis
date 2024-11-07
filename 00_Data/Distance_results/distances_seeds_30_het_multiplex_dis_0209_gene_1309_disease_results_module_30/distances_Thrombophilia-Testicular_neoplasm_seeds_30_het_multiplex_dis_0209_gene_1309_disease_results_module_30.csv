@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,0.1530769230769231
+1,disease_on_symptoms,18,26,0.925213675213675
+2,disease_on_drugs,22,24,0.3702239789196311

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,22,28,-0.26700680272108857
+1,disease_on_symptoms,26,17,-0.006471640534567946
+2,disease_on_drugs,12,18,-0.4666666666666667

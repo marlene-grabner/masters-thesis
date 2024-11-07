@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,21,-0.04508611955420461
+1,disease_on_symptoms,21,25,0.30008281573498974
+2,disease_on_drugs,24,21,-0.11111111111111116

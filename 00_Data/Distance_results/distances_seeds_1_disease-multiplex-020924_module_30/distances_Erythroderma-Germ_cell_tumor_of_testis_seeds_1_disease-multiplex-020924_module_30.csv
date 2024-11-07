@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,0.2833333333333332
+1,disease_on_symptoms,19,23,1.0512149940067559
+2,disease_on_drugs,28,20,0.7916666666666667

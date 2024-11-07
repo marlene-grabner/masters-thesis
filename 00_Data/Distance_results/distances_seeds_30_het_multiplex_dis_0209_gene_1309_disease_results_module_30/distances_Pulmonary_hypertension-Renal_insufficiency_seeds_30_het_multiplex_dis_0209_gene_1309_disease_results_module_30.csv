@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,28,30,-0.27586206896551724
+1,disease_on_symptoms,18,19,-0.08894420736525999
+2,disease_on_drugs,27,28,-0.27113997113997135

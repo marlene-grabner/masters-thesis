@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,25,26,-0.13725490196078427
+1,disease_on_symptoms,23,21,0.3179465462074158
+2,disease_on_drugs,21,26,-0.211655365910685

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,25,27,0.03846153846153855
+1,disease_on_symptoms,23,17,0.8353580562659846
+2,disease_on_drugs,21,17,0.10592658115877929

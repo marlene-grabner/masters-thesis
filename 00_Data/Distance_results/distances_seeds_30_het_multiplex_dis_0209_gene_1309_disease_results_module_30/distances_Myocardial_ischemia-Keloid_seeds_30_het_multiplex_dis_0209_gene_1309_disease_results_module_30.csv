@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.29968553459119496
+1,disease_on_symptoms,19,17,0.3155314757481942
+2,disease_on_drugs,30,22,-0.20990675990676

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,26,-0.24528301886792447
+1,disease_on_symptoms,22,21,0.020713782341689413
+2,disease_on_drugs,24,26,-0.3387179487179489

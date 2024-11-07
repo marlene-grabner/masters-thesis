@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,27,-0.12962962962962965
+1,disease_on_symptoms,22,22,0.4772727272727275
+2,disease_on_drugs,24,27,-0.036492374727668864

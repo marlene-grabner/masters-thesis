@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Ascites nodes,sAB
+0,disease_on_genes,28,30,0.01662561576354693
+1,disease_on_symptoms,18,17,0.6566293183940242
+2,disease_on_drugs,26,27,-0.018182551201419317

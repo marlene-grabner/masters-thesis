@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.5773809523809526
+1,disease_on_symptoms,7,27,1.5049797696856522
+2,disease_on_drugs,22,9,0.7525252525252526

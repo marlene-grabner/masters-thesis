@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.16355861493533586
+1,disease_on_symptoms,24,25,0.8153741496598639
+2,disease_on_drugs,28,13,0.750301527740552

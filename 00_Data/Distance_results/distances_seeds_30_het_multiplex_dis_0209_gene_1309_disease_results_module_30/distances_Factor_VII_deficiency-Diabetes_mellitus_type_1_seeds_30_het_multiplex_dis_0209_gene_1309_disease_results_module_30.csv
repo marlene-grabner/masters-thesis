@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,28,30,0.0683497536945814
+1,disease_on_symptoms,19,18,1.4784257942152679
+2,disease_on_drugs,25,26,0.49052790346907993

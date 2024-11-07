@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,0.43695652173913047
+1,disease_on_symptoms,15,23,0.8590389016018305
+2,disease_on_drugs,15,17,0.9756127450980392

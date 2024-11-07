@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.29244663382594416
+1,disease_on_symptoms,17,21,1.0742296918767507
+2,disease_on_drugs,27,28,0.6730399230399231

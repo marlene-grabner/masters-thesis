@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,23,30,-0.16761006289308167
+1,disease_on_symptoms,22,18,0.020707070707070452
+2,disease_on_drugs,21,22,-0.39882210812443364

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,27,-0.2542207792207791
+1,disease_on_symptoms,20,22,-0.19134199134199137
+2,disease_on_drugs,27,27,-2.220446049250313e-16

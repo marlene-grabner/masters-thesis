@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,19,0.3600823868181091
+1,disease_on_symptoms,19,21,1.3196115288220551
+2,disease_on_drugs,26,17,0.930232558139535

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,0.01474383791456968
+1,disease_on_symptoms,16,23,-0.027104236343366894
+2,disease_on_drugs,18,14,0.46875

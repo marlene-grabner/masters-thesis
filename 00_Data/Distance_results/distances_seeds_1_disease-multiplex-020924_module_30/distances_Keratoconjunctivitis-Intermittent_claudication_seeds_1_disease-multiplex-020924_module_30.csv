@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,20,0.31275510204081636
+1,disease_on_symptoms,25,24,1.1876360544217688
+2,disease_on_drugs,27,18,0.6111111111111112

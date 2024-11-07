@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.18949096880131377
+1,disease_on_symptoms,20,19,1.0003711201079621
+2,disease_on_drugs,30,28,0.999384236453202

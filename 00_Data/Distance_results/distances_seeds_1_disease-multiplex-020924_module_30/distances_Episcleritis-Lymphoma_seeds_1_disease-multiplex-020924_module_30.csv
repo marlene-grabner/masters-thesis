@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.03708791208791207
+1,disease_on_symptoms,22,21,0.3242977952280277
+2,disease_on_drugs,29,25,0.040459770114942506

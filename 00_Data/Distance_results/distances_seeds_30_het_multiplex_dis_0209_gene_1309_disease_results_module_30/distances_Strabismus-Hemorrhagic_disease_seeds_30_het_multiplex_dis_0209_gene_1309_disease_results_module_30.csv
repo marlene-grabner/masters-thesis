@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,17,26,-0.17510259917920656
+1,disease_on_symptoms,24,19,0.17469910240718067
+2,disease_on_drugs,16,24,0.043749999999999956

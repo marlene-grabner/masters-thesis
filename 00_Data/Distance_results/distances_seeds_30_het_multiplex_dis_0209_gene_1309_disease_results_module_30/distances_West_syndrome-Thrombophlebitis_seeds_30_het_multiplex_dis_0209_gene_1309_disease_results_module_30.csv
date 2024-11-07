@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,13,18,0.7866004962779154
+2,disease_on_drugs,19,29,0.3157138535995161

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,-0.006993006993006867
+1,disease_on_symptoms,19,20,1.2574224021592444
+2,disease_on_drugs,30,19,0.22448979591836737

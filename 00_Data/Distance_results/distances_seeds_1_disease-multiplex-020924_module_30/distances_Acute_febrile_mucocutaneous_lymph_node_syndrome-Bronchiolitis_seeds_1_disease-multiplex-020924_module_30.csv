@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.1691413727098714
+1,disease_on_symptoms,18,25,1.2721188630490956
+2,disease_on_drugs,25,18,0.4813178294573641

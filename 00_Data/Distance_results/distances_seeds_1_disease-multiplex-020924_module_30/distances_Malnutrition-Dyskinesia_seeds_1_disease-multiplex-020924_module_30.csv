@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,0.0607051282051283
+1,disease_on_symptoms,18,17,1.460130718954248
+2,disease_on_drugs,23,23,0.5217391304347827

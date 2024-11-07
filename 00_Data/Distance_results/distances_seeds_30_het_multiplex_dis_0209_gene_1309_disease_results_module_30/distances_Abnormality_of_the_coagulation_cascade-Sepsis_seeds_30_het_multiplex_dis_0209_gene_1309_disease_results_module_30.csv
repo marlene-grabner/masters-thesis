@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Sepsis nodes,sAB
+0,disease_on_genes,24,30,-0.016666666666666607
+1,disease_on_symptoms,24,15,0.9974358974358977
+2,disease_on_drugs,23,25,0.1626811594202897

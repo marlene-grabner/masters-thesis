@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.16977401129943503
+1,disease_on_symptoms,15,25,1.0266666666666664
+2,disease_on_drugs,29,27,0.4946633825944171

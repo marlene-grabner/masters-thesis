@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,22,30,-0.0034965034965035446
+1,disease_on_symptoms,23,21,0.8619894598155469
+2,disease_on_drugs,20,29,0.09919071076706532

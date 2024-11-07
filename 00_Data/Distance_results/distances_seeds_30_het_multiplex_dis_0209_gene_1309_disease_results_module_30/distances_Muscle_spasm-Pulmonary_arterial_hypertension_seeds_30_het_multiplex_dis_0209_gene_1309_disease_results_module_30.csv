@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.12068965517241381
+1,disease_on_symptoms,15,17,0.18039215686274512
+2,disease_on_drugs,29,25,-0.07422733077905486

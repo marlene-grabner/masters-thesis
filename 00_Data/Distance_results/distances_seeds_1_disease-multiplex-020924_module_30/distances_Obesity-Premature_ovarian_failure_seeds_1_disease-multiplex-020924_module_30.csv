@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,28,-0.2044159544159544
+1,disease_on_symptoms,20,21,-0.3674796747967479
+2,disease_on_drugs,27,21,-0.33465608465608465

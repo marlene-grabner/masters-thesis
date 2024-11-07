@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.19590643274853803
+1,disease_on_symptoms,18,22,0.07272727272727253
+2,disease_on_drugs,29,20,-0.000791695988740182

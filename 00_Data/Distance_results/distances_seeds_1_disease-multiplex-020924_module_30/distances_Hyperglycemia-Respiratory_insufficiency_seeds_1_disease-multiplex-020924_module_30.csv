@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,25,0.2024242424242424
+1,disease_on_symptoms,14,20,1.1027310924369749
+2,disease_on_drugs,26,14,0.34285714285714275

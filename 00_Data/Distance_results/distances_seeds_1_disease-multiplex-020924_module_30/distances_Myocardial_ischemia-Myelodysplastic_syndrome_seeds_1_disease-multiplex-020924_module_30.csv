@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.3571428571428572
+1,disease_on_symptoms,13,15,1.2705128205128204
+2,disease_on_drugs,23,21,0.7951722190852626

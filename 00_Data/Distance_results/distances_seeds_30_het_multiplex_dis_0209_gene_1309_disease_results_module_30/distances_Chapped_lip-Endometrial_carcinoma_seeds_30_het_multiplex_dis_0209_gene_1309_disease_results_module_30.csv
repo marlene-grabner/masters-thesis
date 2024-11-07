@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,26,0.0
+1,disease_on_symptoms,20,21,0.6337688734030196
+2,disease_on_drugs,23,26,0.061787591290696886

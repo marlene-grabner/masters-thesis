@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,15,18,-0.30454545454545423
+2,disease_on_drugs,24,29,0.22729613966601625

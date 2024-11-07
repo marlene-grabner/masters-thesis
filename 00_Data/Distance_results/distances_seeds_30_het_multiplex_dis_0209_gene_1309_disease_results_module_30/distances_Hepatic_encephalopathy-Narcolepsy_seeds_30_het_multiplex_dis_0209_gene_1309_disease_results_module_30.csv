@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.1454545454545455
+1,disease_on_symptoms,14,20,1.1296218487394958
+2,disease_on_drugs,29,21,-0.1721182266009853

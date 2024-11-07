@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,19,15,0.05964912280701751
+2,disease_on_drugs,20,25,-0.21166666666666667

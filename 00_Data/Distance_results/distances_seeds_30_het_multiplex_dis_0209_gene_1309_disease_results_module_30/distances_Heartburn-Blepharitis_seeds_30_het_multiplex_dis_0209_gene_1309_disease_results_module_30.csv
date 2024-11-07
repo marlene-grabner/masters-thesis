@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,30,-0.125
+1,disease_on_symptoms,16,18,0.12254901960784292
+2,disease_on_drugs,25,30,0.16848484848484846

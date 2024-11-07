@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,-0.2893939393939393
+1,disease_on_symptoms,17,19,0.4589783281733746
+2,disease_on_drugs,21,27,-0.08564814814814814

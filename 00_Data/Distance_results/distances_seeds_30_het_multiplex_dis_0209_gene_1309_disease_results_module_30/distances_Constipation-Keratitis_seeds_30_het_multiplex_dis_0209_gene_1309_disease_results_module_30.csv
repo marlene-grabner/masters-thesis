@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333346
+1,disease_on_symptoms,16,25,0.35685975609756104
+2,disease_on_drugs,28,29,-0.03636245786880976

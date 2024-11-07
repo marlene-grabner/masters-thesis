@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,17,20,0.21805555555555567
+1,disease_on_symptoms,27,24,1.9867919389978212
+2,disease_on_drugs,14,18,0.2628968253968256

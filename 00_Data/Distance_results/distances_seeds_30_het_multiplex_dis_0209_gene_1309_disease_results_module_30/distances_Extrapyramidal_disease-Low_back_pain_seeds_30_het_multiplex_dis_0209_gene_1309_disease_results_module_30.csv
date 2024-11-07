@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,18,16,-0.18382352941176472
+2,disease_on_drugs,25,25,-0.019999999999999796

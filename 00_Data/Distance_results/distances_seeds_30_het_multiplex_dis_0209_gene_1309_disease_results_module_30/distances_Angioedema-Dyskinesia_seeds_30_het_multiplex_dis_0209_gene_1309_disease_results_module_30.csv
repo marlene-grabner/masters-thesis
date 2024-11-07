@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,18,15,0.49797979797979774
+2,disease_on_drugs,26,28,-0.04064916564916565

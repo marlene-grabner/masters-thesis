@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,27,30,0.03313840155945402
+1,disease_on_symptoms,21,16,0.4470720720720718
+2,disease_on_drugs,25,29,0.20968071519795672

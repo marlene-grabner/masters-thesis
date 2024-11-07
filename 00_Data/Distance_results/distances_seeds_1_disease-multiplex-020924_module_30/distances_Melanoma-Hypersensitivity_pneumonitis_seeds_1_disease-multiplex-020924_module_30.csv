@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,24,24,0.125
+1,disease_on_symptoms,23,23,1.6956521739130435
+2,disease_on_drugs,22,24,0.5217391304347827

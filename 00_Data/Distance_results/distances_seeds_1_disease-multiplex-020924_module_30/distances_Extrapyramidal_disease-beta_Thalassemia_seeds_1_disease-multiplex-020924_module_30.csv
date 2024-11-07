@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,14,22,0.5349927849927849
+1,disease_on_symptoms,25,21,3.674989648033126
+2,disease_on_drugs,10,6,1.3458333333333332

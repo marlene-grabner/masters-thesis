@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.3757487922705314
+1,disease_on_symptoms,19,15,2.1071207430340557
+2,disease_on_drugs,11,26,0.9885654885654889

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,25,25,0.5800000000000001
+1,disease_on_symptoms,19,26,1.5396536212325684
+2,disease_on_drugs,13,21,1.31447963800905

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,30,15,0.43333333333333335
+1,disease_on_symptoms,14,25,1.313736263736264
+2,disease_on_drugs,27,10,0.34944944944944933

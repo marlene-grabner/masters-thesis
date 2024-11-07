@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,27,0.5086948341665325
+1,disease_on_symptoms,17,23,2.2853580562659848
+2,disease_on_drugs,20,15,0.5428571428571429

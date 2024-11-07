@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,0.07603988603988587
+1,disease_on_symptoms,23,21,0.8061829474872955
+2,disease_on_drugs,23,27,0.3165217391304349

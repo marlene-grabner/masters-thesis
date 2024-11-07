@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.17647058823529416
+1,disease_on_symptoms,17,23,-0.32180306905370837
+2,disease_on_drugs,26,21,-0.2344322344322345

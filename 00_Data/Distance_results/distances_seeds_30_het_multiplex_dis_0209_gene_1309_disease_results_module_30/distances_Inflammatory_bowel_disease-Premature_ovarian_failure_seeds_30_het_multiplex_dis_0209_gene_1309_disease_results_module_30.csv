@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,20,15,0.4726190476190477
+2,disease_on_drugs,27,26,-0.13535451271300314

@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.3457575757575757
+1,disease_on_symptoms,26,20,-0.4703177257525082
+2,disease_on_drugs,24,29,-0.3204836261114725

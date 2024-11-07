@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,18,28,0.6536404416839199
+1,disease_on_symptoms,21,18,1.0863858363858365
+2,disease_on_drugs,6,26,0.6266025641025641

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.3520782061799288
+1,disease_on_symptoms,14,21,1.161904761904762
+2,disease_on_drugs,24,21,0.3744047619047619

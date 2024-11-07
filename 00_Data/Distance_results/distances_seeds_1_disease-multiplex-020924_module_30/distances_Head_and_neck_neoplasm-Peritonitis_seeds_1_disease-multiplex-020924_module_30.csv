@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,20,17,1.0160572337042924
+2,disease_on_drugs,27,28,0.90974025974026

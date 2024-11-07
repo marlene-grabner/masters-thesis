@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,14,17,0.27798861480075887
+2,disease_on_drugs,29,28,0.08519142684296943

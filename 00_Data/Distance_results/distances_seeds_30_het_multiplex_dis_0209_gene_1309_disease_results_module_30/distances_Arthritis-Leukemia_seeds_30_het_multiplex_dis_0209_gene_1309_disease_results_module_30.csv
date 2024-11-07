@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,21,0.731794425087108
+2,disease_on_drugs,29,30,0.3050360413013833

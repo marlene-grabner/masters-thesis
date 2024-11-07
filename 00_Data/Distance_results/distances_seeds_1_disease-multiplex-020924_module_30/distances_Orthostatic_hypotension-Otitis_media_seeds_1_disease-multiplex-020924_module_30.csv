@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.3547535554256769
+1,disease_on_symptoms,12,22,1.3500445632798577
+2,disease_on_drugs,17,29,0.24495105388482208

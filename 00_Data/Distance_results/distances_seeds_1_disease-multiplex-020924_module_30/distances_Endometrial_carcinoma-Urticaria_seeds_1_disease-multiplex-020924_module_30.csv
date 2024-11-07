@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Urticaria nodes,sAB
+0,disease_on_genes,23,10,0.5408432147562583
+1,disease_on_symptoms,21,27,1.812830687830688
+2,disease_on_drugs,21,9,0.8285714285714285

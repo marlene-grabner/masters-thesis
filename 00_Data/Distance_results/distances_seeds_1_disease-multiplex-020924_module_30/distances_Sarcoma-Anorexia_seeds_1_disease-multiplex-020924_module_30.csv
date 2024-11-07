@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,25,17,0.1918767507002801
+1,disease_on_symptoms,26,25,2.3336199095022625
+2,disease_on_drugs,21,13,1.2262443438914028

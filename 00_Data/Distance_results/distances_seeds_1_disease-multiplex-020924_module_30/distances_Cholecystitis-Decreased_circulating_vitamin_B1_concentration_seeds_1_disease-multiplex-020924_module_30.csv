@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,25,25,0.6399999999999999
+1,disease_on_symptoms,19,13,2.2655617408906883
+2,disease_on_drugs,13,16,1.087616047745358

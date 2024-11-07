@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Rosacea nodes,sAB
+0,disease_on_genes,24,30,-0.03750000000000009
+1,disease_on_symptoms,19,18,0.9126363205310575
+2,disease_on_drugs,19,30,0.06698890082348741

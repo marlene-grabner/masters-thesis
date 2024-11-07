@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.2630489705961405
+1,disease_on_symptoms,28,18,1.3943236714975846
+2,disease_on_drugs,23,21,1.1124600037643515

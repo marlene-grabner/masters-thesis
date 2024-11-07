@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,21,27,-0.10251322751322756
+1,disease_on_symptoms,20,21,0.3209349593495936
+2,disease_on_drugs,21,25,0.260207039337474

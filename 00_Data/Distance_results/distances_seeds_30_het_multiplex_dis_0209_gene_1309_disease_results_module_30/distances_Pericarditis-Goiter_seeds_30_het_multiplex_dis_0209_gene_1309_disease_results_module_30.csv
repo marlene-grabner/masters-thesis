@@ -1,0 +1,4 @@
+,Layer,Pericarditis nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.0
+1,disease_on_symptoms,21,12,0.7754329004329006
+2,disease_on_drugs,26,18,0.27894327894327886

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,0.2372727272727273
+1,disease_on_symptoms,20,23,0.7517441860465115
+2,disease_on_drugs,14,30,0.2474025974025975

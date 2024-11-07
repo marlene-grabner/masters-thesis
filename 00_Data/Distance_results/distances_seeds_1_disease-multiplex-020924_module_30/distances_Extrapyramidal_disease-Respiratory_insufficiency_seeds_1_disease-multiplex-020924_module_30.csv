@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,14,25,0.667875457875458
+1,disease_on_symptoms,25,20,3.0261111111111108
+2,disease_on_drugs,10,14,0.842857142857143

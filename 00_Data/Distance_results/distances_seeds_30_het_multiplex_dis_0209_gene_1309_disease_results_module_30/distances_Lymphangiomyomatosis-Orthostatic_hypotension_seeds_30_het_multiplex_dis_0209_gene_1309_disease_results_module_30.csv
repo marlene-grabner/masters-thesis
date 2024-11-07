@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,26,30,0.016483516483516647
+1,disease_on_symptoms,17,20,0.3369634340222576
+2,disease_on_drugs,24,28,0.23328754578754585

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,28,30,-0.12130541871921174
+1,disease_on_symptoms,20,15,0.592857142857143
+2,disease_on_drugs,27,28,0.18012265512265513

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,24,19,0.5623470012239904
+1,disease_on_symptoms,25,21,1.5370600414078672
+2,disease_on_drugs,17,17,1.0588235294117645

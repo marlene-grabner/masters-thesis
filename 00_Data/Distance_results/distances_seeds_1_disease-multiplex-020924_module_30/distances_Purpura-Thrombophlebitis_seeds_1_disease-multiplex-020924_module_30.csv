@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,-0.20451770451770468
+1,disease_on_symptoms,17,15,0.36678921568627443
+2,disease_on_drugs,20,21,-0.07317073170731703

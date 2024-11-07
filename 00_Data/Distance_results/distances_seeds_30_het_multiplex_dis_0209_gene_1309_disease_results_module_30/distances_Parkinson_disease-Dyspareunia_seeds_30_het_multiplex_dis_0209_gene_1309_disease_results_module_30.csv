@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,23,29,0.07692307692307687
+1,disease_on_symptoms,23,20,0.5742669362992925
+2,disease_on_drugs,22,28,0.26954545454545453

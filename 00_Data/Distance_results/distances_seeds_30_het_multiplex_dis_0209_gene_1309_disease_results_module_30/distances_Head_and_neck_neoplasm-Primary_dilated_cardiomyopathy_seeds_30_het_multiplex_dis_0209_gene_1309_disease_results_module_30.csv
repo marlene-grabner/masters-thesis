@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,22,24,0.7164855072463769
+2,disease_on_drugs,27,15,0.319047619047619

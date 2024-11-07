@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,-0.12909090909090915
+1,disease_on_symptoms,21,17,0.2522482677281439
+2,disease_on_drugs,27,25,0.1330199430199428

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Inflammatory_bowel_disease nodes,sAB
+0,disease_on_genes,30,17,0.24039855072463778
+1,disease_on_symptoms,14,27,1.788488837269325
+2,disease_on_drugs,26,14,0.6642857142857144

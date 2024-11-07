@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,-0.08682266009852213
+1,disease_on_symptoms,15,17,-0.022549019607843057
+2,disease_on_drugs,23,28,0.08315065156497381

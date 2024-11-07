@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,30,25,0.1963636363636363
+1,disease_on_symptoms,12,14,0.6602564102564104
+2,disease_on_drugs,27,22,0.40816326530612246

@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.15189393939393936
+1,disease_on_symptoms,21,26,1.0264788403086276
+2,disease_on_drugs,24,13,0.3792013167013166

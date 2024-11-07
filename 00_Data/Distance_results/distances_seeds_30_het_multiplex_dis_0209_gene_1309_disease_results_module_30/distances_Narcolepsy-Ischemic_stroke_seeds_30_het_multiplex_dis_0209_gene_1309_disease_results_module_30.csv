@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,20,16,1.3388888888888888
+2,disease_on_drugs,21,28,-0.10969387755102056

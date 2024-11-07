@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,28,28,0.1964285714285714
+1,disease_on_symptoms,14,19,1.475563909774436
+2,disease_on_drugs,28,26,0.6481481481481481

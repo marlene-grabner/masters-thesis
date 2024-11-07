@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.15254237288135597
+1,disease_on_symptoms,18,15,0.45505050505050515
+2,disease_on_drugs,27,29,0.28240740740740744

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,26,-0.036363636363636376
+1,disease_on_symptoms,18,21,1.2454212454212454
+2,disease_on_drugs,29,26,0.0661080299011334

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,19,0.02631578947368407
+2,disease_on_drugs,28,30,-0.03579638752052561

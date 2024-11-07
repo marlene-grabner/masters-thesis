@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.33569267997580154
+1,disease_on_symptoms,16,18,1.2195669934640523
+2,disease_on_drugs,30,19,0.30880773361976366

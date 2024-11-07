@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,0.2898601398601399
+1,disease_on_symptoms,21,15,1.6325396825396825
+2,disease_on_drugs,23,29,0.5576923076923077

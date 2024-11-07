@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.22631578947368414
+1,disease_on_symptoms,22,17,-0.06609077197312474
+2,disease_on_drugs,29,26,-0.14809500843983603

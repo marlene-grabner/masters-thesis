@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,18,16,-0.1952614379084967
+2,disease_on_drugs,28,29,-0.1933713594330655

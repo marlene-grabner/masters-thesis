@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,21,25,0.15879917184265002
+1,disease_on_symptoms,20,23,1.5734580384226493
+2,disease_on_drugs,19,20,0.7448717948717949

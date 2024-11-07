@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,23,26,0.3837622005323871
+1,disease_on_symptoms,21,19,0.8767543859649121
+2,disease_on_drugs,19,24,1.002422480620155

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.16363636363636358
+1,disease_on_symptoms,18,21,1.5082417582417584
+2,disease_on_drugs,25,21,0.3061697722567287

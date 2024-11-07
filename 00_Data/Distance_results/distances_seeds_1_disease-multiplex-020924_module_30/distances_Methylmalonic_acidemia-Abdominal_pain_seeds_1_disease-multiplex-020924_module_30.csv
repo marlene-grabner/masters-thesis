@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,0.17393939393939406
+1,disease_on_symptoms,16,24,1.1124999999999998
+2,disease_on_drugs,17,24,0.44111669057867053

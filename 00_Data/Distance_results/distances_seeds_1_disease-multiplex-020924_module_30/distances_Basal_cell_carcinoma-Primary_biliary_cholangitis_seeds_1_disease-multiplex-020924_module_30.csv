@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,0.4423076923076923
+1,disease_on_symptoms,23,17,1.1460358056265987
+2,disease_on_drugs,25,18,0.9496124031007755

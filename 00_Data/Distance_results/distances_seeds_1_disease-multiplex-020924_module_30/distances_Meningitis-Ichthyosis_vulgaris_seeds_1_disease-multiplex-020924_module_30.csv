@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,-0.07090403211092866
+1,disease_on_symptoms,20,21,0.05148083623693367
+2,disease_on_drugs,26,27,-0.018867924528301883

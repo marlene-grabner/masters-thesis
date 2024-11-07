@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Urticaria nodes,sAB
+0,disease_on_genes,22,10,0.4204545454545454
+1,disease_on_symptoms,24,27,2.6318082788671027
+2,disease_on_drugs,13,9,0.8636363636363635

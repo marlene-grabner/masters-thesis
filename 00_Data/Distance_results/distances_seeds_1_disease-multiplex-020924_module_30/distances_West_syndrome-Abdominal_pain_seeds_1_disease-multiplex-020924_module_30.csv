@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,0.3903954802259888
+1,disease_on_symptoms,18,24,0.9474206349206349
+2,disease_on_drugs,22,24,0.3061594202898552

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,26,25,0.5870588235294116
+1,disease_on_symptoms,15,21,2.537301587301587
+2,disease_on_drugs,15,20,1.0226190476190475

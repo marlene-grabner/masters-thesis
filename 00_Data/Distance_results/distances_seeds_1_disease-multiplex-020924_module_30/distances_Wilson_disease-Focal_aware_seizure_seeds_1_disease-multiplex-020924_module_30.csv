@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,0.23745819397993317
+1,disease_on_symptoms,19,15,2.7443756449948395
+2,disease_on_drugs,11,29,1.3250000000000002

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.1785714285714286
+1,disease_on_symptoms,13,21,1.3350570997629823
+2,disease_on_drugs,21,26,0.24733068350089615

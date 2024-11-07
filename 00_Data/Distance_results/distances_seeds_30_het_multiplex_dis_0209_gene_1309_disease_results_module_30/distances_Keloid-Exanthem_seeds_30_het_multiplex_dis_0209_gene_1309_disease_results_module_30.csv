@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Exanthem nodes,sAB
+0,disease_on_genes,23,30,0.002201257861635275
+1,disease_on_symptoms,17,21,0.8875866135928057
+2,disease_on_drugs,22,29,0.0996527137500769

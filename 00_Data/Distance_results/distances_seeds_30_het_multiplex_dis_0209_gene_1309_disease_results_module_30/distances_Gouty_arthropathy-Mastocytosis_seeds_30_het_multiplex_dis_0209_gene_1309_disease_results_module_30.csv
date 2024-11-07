@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,18,24,0.3323412698412702
+2,disease_on_drugs,23,20,0.10644590495449946

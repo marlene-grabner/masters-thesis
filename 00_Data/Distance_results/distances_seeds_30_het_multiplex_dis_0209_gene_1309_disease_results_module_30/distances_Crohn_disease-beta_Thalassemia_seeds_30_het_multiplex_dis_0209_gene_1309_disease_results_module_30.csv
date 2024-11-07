@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,30,-0.1607142857142857
+1,disease_on_symptoms,22,13,0.3730769230769233
+2,disease_on_drugs,24,24,-0.20833333333333326

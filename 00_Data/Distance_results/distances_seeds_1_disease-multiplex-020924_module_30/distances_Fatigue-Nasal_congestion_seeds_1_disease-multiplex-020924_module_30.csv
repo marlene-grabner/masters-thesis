@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,26,30,-0.2313186813186815
+1,disease_on_symptoms,21,15,-0.09841269841269851
+2,disease_on_drugs,26,23,-0.16224148522285164

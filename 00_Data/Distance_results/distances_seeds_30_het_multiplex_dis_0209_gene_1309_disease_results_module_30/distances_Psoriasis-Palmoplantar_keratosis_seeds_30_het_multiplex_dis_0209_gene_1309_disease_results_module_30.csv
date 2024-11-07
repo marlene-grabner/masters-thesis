@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,-0.1607142857142857
+1,disease_on_symptoms,17,20,-0.2962639109697933
+2,disease_on_drugs,30,23,-0.19863275909215194

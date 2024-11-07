@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,21,22,0.23570421826235788
+1,disease_on_symptoms,22,22,1.6136363636363638
+2,disease_on_drugs,21,14,0.6071428571428572

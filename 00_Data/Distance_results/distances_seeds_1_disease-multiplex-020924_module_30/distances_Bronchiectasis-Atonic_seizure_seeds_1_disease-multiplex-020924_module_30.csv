@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.30507500487044603
+1,disease_on_symptoms,15,16,0.6163978494623659
+2,disease_on_drugs,26,24,0.6415384615384616

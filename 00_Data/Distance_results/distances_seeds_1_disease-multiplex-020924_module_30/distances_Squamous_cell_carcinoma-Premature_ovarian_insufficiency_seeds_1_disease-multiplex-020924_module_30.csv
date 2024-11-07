@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,16,23,0.3878205128205128
+1,disease_on_symptoms,26,22,2.145979020979021
+2,disease_on_drugs,14,17,0.4601518026565463

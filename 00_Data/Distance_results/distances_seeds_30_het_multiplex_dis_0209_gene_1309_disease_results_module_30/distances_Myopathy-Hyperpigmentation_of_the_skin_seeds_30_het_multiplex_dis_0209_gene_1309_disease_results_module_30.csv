@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,23,30,0.018867924528301883
+1,disease_on_symptoms,22,17,0.5143973673385438
+2,disease_on_drugs,21,28,0.08673469387755084

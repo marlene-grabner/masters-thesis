@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Otitis_media nodes,sAB
+0,disease_on_genes,17,29,0.09573754789272026
+1,disease_on_symptoms,27,22,1.790593004878719
+2,disease_on_drugs,14,29,0.28465459961049366

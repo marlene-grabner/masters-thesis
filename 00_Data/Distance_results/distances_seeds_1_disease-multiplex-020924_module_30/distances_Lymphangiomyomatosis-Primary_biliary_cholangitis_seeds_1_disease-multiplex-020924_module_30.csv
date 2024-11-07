@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,0.5192307692307694
+1,disease_on_symptoms,19,17,1.2188682490540073
+2,disease_on_drugs,22,18,1.04469696969697

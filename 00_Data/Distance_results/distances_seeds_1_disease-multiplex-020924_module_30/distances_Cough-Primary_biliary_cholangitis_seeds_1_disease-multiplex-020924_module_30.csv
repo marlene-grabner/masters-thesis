@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,27,26,0.09432618394882542
+1,disease_on_symptoms,21,17,0.5010319917440662
+2,disease_on_drugs,27,18,0.5296296296296297

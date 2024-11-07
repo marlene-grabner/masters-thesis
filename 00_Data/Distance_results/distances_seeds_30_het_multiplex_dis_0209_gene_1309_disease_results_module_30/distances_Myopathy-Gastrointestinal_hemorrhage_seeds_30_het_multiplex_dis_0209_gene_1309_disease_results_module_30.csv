@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,23,28,-0.09628851540616246
+1,disease_on_symptoms,22,20,0.13658008658008658
+2,disease_on_drugs,21,27,-0.1259920634920635

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,24,30,0.47824074074074097
+1,disease_on_symptoms,25,22,1.7772727272727273
+2,disease_on_drugs,17,15,1.49375

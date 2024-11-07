@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,19,14,-0.20972886762360465
+2,disease_on_drugs,23,24,0.1293748072772125

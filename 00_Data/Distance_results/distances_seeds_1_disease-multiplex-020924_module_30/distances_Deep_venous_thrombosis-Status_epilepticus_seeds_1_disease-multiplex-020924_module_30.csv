@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,28,29,0.24560323221847713
+1,disease_on_symptoms,14,17,2.185212794795337
+2,disease_on_drugs,24,30,0.5740740740740742

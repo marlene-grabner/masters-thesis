@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,23,26,0.26648351648351665
+1,disease_on_symptoms,16,21,2.392656048906049
+2,disease_on_drugs,17,23,0.41617647058823537

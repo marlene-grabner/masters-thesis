@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Leukemia nodes,sAB
+0,disease_on_genes,22,18,0.24090909090909074
+1,disease_on_symptoms,22,27,1.1654985226413799
+2,disease_on_drugs,14,17,0.41752507454594734

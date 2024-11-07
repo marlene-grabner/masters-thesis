@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.25524475524475543
+1,disease_on_symptoms,16,19,0.736795112781955
+2,disease_on_drugs,30,19,0.7083780880773363

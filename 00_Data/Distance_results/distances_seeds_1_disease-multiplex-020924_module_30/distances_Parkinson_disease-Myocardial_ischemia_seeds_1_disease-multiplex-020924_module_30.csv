@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,21,30,0.2899159663865547
+1,disease_on_symptoms,20,13,0.7159673659673658
+2,disease_on_drugs,19,23,0.4109730848861286

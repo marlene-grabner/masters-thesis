@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,0.05263157894736836
+1,disease_on_symptoms,18,17,1.2283380018674137
+2,disease_on_drugs,22,29,-0.1433093613620997

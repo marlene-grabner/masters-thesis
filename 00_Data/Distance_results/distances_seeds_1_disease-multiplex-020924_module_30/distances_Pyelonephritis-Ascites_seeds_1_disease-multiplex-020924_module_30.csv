@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Ascites nodes,sAB
+0,disease_on_genes,23,30,0.2744052502050862
+1,disease_on_symptoms,21,17,0.45717234262125905
+2,disease_on_drugs,19,27,0.6400966183574879

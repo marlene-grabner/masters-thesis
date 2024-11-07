@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,23,30,-0.09213836477987414
+1,disease_on_symptoms,23,18,0.6149110404147518
+2,disease_on_drugs,22,28,0.047402597402597335

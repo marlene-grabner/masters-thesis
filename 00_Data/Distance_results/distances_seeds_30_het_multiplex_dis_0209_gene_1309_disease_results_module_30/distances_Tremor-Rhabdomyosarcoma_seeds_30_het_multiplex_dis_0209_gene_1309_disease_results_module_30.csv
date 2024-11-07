@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,27,29,-0.1607142857142857
+1,disease_on_symptoms,17,19,1.4494324045407638
+2,disease_on_drugs,24,29,0.38156039904576033

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Endometriosis nodes,sAB
+0,disease_on_genes,26,30,-0.160897435897436
+1,disease_on_symptoms,20,16,0.011805555555555625
+2,disease_on_drugs,20,30,0.040000000000000036

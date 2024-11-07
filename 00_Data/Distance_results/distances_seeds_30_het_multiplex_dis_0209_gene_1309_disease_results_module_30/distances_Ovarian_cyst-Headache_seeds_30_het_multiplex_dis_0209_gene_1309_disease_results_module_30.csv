@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,23,0.013893429225237064
+2,disease_on_drugs,24,23,0.041049953746530976

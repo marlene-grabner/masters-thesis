@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Hypertrophic_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,12,19,0.5468307866440294
+2,disease_on_drugs,29,22,-0.15898334255332225

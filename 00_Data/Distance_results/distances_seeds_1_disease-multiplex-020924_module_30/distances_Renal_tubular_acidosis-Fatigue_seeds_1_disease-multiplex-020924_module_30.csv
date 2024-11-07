@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Fatigue nodes,sAB
+0,disease_on_genes,18,26,0.3327505827505828
+1,disease_on_symptoms,18,21,2.4404761904761902
+2,disease_on_drugs,10,26,0.305982905982906

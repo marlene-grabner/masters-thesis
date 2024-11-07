@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,20,25,0.12888888888888883
+1,disease_on_symptoms,23,23,2.282608695652174
+2,disease_on_drugs,18,21,0.559218559218559

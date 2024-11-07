@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,23,0.042535642747731695
+2,disease_on_drugs,21,30,0.05826330532212887

@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.30000000000000004
+1,disease_on_symptoms,16,19,-0.538956766917293
+2,disease_on_drugs,30,30,-0.2666666666666665

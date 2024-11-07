@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Anorexia nodes,sAB
+0,disease_on_genes,22,17,0.2186000274235569
+1,disease_on_symptoms,24,25,2.430595238095238
+2,disease_on_drugs,20,13,1.3910839160839161

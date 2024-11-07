@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Rosacea nodes,sAB
+0,disease_on_genes,24,30,0.11435185185185182
+1,disease_on_symptoms,18,17,0.7970588235294116
+2,disease_on_drugs,18,27,0.5777777777777777

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Myopathy nodes,sAB
+0,disease_on_genes,26,18,0.4832944832944832
+1,disease_on_symptoms,23,21,1.2515998494259362
+2,disease_on_drugs,25,6,0.4784946236559142

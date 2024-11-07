@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,0.33997204751921717
+1,disease_on_symptoms,17,21,1.577251953412944
+2,disease_on_drugs,23,24,0.6382786000616714

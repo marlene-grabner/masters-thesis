@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Obesity nodes,sAB
+0,disease_on_genes,27,26,0.1893646186099014
+1,disease_on_symptoms,17,20,0.6548489666136725
+2,disease_on_drugs,24,27,0.49237472766884505

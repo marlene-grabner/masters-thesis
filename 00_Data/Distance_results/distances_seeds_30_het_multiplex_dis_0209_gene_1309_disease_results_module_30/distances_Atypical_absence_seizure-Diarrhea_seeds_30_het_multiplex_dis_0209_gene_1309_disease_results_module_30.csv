@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,13,21,0.8776125834949364
+2,disease_on_drugs,22,29,0.1961859979101357

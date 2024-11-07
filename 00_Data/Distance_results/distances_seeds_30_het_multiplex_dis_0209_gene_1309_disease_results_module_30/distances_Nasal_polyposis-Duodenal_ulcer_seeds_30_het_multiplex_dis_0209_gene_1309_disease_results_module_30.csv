@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.10344827586206895
+1,disease_on_symptoms,20,17,0.29634340222575495
+2,disease_on_drugs,25,28,-0.08839622641509437

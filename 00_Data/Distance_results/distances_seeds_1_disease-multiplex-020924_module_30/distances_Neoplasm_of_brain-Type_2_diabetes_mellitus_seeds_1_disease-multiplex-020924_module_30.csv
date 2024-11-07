@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,22,16,-0.2628588516746412
+1,disease_on_symptoms,23,21,-0.09255599472990772
+2,disease_on_drugs,20,15,-0.22142857142857142

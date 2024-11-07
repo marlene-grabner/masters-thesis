@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,17,18,0.7219887955182072
+2,disease_on_drugs,24,27,0.1642156862745099

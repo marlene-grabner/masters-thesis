@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,23,26,-0.020408163265306145
+1,disease_on_symptoms,19,21,0.7570802005012529
+2,disease_on_drugs,19,26,0.16941070625281163

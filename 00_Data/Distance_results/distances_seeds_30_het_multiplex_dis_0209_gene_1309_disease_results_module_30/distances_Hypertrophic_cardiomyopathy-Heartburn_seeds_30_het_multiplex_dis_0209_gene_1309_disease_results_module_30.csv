@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.1595238095238095
+1,disease_on_symptoms,19,16,0.34022556390977443
+2,disease_on_drugs,22,25,-0.328549323017408

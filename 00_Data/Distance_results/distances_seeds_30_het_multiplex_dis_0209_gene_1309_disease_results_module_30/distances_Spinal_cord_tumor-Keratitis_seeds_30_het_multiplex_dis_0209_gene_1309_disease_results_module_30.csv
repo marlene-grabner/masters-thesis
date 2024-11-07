@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,30,-0.016666666666666607
+1,disease_on_symptoms,14,25,0.4076923076923076
+2,disease_on_drugs,22,29,0.03236216116540658

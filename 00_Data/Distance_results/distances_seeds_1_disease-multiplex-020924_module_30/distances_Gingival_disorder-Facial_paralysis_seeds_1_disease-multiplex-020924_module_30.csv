@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,21,14,0.09285714285714275
+1,disease_on_symptoms,26,23,2.0268923622960893
+2,disease_on_drugs,20,14,0.5

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,30,-0.23388278388278405
+1,disease_on_symptoms,16,18,0.5678104575163401
+2,disease_on_drugs,26,24,-0.23641025641025637

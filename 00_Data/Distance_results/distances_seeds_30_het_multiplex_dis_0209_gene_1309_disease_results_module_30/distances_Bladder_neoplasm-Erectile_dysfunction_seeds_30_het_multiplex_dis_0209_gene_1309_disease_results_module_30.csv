@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,-0.125
+1,disease_on_symptoms,19,15,0.355108359133127
+2,disease_on_drugs,25,30,0.20151515151515165

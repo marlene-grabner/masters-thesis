@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Gout nodes,sAB
+0,disease_on_genes,17,25,0.0366386554621847
+1,disease_on_symptoms,21,18,1.02014652014652
+2,disease_on_drugs,17,23,0.5411764705882354

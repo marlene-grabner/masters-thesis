@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.0036363636363636598
+1,disease_on_symptoms,18,17,0.5132119514472455
+2,disease_on_drugs,27,24,0.23828976034858407

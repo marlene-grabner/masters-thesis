@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Purpura nodes,sAB
+0,disease_on_genes,30,26,0.31968864468864466
+1,disease_on_symptoms,17,17,1.823529411764706
+2,disease_on_drugs,17,20,0.18918918918918926

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,24,30,-0.018981481481481488
+1,disease_on_symptoms,22,15,0.6766175266175265
+2,disease_on_drugs,24,29,0.2469095640858816

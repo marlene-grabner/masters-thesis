@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.03505747126436787
+1,disease_on_symptoms,17,18,0.19743230625583585
+2,disease_on_drugs,26,23,0.10403726708074523

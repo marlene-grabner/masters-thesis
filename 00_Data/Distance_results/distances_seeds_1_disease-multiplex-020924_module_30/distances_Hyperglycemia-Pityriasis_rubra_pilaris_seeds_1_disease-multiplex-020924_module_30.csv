@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,28,0.1229885057471265
+1,disease_on_symptoms,14,23,0.9499748195400368
+2,disease_on_drugs,26,26,0.2692307692307694

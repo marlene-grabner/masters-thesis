@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,24,27,0.12091503267973858
+1,disease_on_symptoms,23,17,2.4395140664961636
+2,disease_on_drugs,22,24,0.7826086956521738

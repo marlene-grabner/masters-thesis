@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,13,20,1.05
+2,disease_on_drugs,21,24,0.1309523809523807

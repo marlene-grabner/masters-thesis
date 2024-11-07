@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Angioedema nodes,sAB
+0,disease_on_genes,29,29,0.24560323221847713
+1,disease_on_symptoms,17,17,1.7941176470588236
+2,disease_on_drugs,30,25,0.9636363636363636

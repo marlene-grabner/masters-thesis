@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,12,23,0.39015151515151514
+1,disease_on_symptoms,27,18,2.4185185185185185
+2,disease_on_drugs,9,18,0.7407407407407407

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,0.20662768031189094
+1,disease_on_symptoms,21,12,0.9339826839826841
+2,disease_on_drugs,23,22,0.7140096618357488

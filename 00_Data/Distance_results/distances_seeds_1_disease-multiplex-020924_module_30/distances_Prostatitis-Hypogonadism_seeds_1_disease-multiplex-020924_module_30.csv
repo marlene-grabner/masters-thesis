@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.15367231638418088
+1,disease_on_symptoms,20,12,0.5354166666666669
+2,disease_on_drugs,29,30,0.6098675238651861

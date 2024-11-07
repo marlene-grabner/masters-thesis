@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,22,24,0.48542490118577075
+2,disease_on_drugs,15,24,0.21730769230769242

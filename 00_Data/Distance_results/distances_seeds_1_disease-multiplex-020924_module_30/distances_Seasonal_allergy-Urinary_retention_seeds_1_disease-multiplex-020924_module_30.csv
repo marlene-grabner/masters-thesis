@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,0.20012315270935965
+1,disease_on_symptoms,15,18,1.0186868686868689
+2,disease_on_drugs,29,19,0.44547791893526933

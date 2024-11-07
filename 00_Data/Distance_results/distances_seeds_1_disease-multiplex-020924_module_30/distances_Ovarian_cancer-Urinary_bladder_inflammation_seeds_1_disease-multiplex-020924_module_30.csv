@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,27,25,0.4015384615384614
+1,disease_on_symptoms,17,22,1.2144179350061703
+2,disease_on_drugs,25,24,1.5493197278911564

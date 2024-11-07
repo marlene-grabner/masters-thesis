@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,17,20,0.046542130365659906
+1,disease_on_symptoms,21,25,0.9621532091097309
+2,disease_on_drugs,17,19,0.11076711386308924

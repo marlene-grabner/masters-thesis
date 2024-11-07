@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.2428030303030302
+1,disease_on_symptoms,18,26,0.43356643356643354
+2,disease_on_drugs,18,13,0.2270471464019852

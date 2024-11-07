@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,28,27,0.09057239057239053
+1,disease_on_symptoms,23,21,0.42932429888951607
+2,disease_on_drugs,26,24,-0.059294871794871806

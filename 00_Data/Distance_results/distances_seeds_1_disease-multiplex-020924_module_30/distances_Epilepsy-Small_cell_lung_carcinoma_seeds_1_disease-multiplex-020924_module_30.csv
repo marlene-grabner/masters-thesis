@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,29,27,0.1428571428571428
+1,disease_on_symptoms,18,24,1.398809523809524
+2,disease_on_drugs,30,25,1.086969696969697

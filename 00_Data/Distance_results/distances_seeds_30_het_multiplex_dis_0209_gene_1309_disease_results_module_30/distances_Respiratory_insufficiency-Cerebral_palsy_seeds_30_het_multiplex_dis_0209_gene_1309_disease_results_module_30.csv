@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,21,13,0.9120879120879122
+2,disease_on_drugs,25,21,-0.4756935817805382

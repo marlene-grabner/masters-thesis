@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.2500000000000001
+1,disease_on_symptoms,21,19,-0.15939849624060143
+2,disease_on_drugs,29,30,-0.05174361971556585

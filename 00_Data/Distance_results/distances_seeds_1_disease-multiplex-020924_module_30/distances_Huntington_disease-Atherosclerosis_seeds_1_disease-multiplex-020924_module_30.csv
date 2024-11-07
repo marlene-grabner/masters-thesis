@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,16,13,0.7865550397877983
+2,disease_on_drugs,27,29,0.3928571428571428

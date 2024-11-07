@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.01690649036384051
+1,disease_on_symptoms,17,14,1.181756573597181
+2,disease_on_drugs,30,28,0.49876847290640414

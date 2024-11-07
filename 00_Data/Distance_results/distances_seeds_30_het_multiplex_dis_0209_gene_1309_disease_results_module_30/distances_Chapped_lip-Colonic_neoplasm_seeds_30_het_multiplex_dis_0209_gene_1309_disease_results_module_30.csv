@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.2309523809523809
+1,disease_on_symptoms,20,19,-0.1556342780026989
+2,disease_on_drugs,23,29,-0.10419790104947535

@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,28,20,0.13214285714285712
+1,disease_on_symptoms,23,26,0.4860589720838169
+2,disease_on_drugs,28,13,0.27764004288394517

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Uveitis nodes,sAB
+0,disease_on_genes,22,30,0.3364801864801865
+1,disease_on_symptoms,24,21,1.2571428571428571
+2,disease_on_drugs,13,27,0.5314814814814814

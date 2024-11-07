@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Keratitis nodes,sAB
+0,disease_on_genes,18,28,0.6140441683919946
+1,disease_on_symptoms,21,25,0.9778053830227744
+2,disease_on_drugs,6,23,0.1819090454772614

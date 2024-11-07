@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.26
+1,disease_on_symptoms,25,26,1.431266968325792
+2,disease_on_drugs,24,21,0.7805555555555557

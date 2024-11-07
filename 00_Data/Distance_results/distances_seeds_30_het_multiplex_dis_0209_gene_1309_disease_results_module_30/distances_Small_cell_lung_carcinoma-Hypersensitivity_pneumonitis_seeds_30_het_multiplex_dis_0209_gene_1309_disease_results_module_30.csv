@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.36363636363636365
+1,disease_on_symptoms,19,20,-0.3049595141700403
+2,disease_on_drugs,30,25,-0.3451515151515151

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.2933333333333332
+1,disease_on_symptoms,20,23,1.5370070778564207
+2,disease_on_drugs,27,17,0.4598930481283423

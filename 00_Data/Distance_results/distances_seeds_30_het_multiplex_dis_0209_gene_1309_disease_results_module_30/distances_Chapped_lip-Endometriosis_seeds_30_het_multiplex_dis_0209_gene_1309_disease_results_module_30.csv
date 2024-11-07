@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Endometriosis nodes,sAB
+0,disease_on_genes,26,30,-0.2309523809523809
+1,disease_on_symptoms,20,16,0.30347222222222237
+2,disease_on_drugs,23,30,-0.23129614438064006

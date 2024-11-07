@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.2999999999999998
+1,disease_on_symptoms,12,17,0.40838404327248123
+2,disease_on_drugs,27,28,0.8551948051948053

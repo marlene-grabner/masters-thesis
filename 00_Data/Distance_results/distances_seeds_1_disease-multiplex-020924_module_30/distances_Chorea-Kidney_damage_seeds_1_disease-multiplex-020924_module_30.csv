@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,14,20,0.7172268907563026
+1,disease_on_symptoms,27,26,1.4890743428479276
+2,disease_on_drugs,8,13,0.840430402930403

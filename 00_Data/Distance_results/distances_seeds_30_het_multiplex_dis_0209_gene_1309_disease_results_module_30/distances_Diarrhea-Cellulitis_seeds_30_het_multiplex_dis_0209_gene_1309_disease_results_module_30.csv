@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,21,20,0.18890824622531932
+2,disease_on_drugs,29,26,-0.07630817458403683

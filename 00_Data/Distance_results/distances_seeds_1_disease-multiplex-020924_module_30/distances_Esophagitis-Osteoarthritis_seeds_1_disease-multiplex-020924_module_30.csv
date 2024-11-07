@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,24,25,0.14485507246376805
+1,disease_on_symptoms,23,20,1.3642062689585437
+2,disease_on_drugs,20,21,0.5603658536585368

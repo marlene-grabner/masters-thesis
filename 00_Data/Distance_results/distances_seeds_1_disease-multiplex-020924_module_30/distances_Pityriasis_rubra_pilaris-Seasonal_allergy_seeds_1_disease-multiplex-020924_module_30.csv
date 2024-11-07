@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,28,29,0.0362976406533575
+1,disease_on_symptoms,23,15,-0.268192219679634
+2,disease_on_drugs,26,29,0.017024354955389454

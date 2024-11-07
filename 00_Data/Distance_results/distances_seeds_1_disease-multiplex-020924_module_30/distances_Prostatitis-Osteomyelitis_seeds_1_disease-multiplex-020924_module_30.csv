@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,-0.5630303030303031
+1,disease_on_symptoms,20,23,-0.3397623862487361
+2,disease_on_drugs,29,23,-0.48180717333640877

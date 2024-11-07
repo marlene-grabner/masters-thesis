@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.27454545454545454
+1,disease_on_symptoms,20,23,-0.29552578361981774
+2,disease_on_drugs,27,24,-0.11778322440087152

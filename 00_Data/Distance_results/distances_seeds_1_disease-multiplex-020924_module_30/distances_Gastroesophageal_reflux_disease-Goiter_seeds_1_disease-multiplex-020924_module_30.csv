@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.13461538461538458
+1,disease_on_symptoms,17,15,0.8811274509803924
+2,disease_on_drugs,25,16,1.1263414634146343

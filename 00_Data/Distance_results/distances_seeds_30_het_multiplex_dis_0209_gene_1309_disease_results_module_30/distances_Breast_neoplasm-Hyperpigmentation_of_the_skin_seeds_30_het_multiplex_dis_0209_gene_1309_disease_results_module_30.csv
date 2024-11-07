@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,20,17,-0.003855325914149166
+2,disease_on_drugs,30,28,0.14901477832512322

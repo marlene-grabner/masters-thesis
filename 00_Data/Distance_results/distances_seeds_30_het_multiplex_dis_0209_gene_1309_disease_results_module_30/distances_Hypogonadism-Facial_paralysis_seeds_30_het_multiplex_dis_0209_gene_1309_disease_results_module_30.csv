@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.11538461538461542
+1,disease_on_symptoms,17,21,0.5023588382721509
+2,disease_on_drugs,29,17,0.3550136696357702

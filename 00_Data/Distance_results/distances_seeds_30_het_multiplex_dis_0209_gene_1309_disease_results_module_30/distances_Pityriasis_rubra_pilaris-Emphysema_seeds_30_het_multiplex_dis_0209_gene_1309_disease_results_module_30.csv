@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Emphysema nodes,sAB
+0,disease_on_genes,27,30,-0.17738791423001965
+1,disease_on_symptoms,21,18,0.02564102564102555
+2,disease_on_drugs,25,27,-0.11478632478632489

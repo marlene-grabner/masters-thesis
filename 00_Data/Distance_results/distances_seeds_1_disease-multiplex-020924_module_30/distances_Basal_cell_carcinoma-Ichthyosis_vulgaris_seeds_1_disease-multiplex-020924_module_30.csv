@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,26,27,-0.16947535343761766
+1,disease_on_symptoms,23,21,0.7429418407679278
+2,disease_on_drugs,25,27,-0.05769230769230771

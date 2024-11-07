@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1607142857142858
+1,disease_on_symptoms,17,12,0.8726335361730899
+2,disease_on_drugs,24,18,0.5426587301587305

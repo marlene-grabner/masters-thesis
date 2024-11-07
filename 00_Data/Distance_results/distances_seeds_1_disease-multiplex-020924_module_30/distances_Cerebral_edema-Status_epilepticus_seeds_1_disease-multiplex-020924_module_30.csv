@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,29,0.30479251899474
+1,disease_on_symptoms,9,17,1.2091503267973855
+2,disease_on_drugs,11,30,1.0764966740576498

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Stomatitis nodes,sAB
+0,disease_on_genes,21,30,0.23991596638655444
+1,disease_on_symptoms,20,23,2.0593023255813954
+2,disease_on_drugs,19,30,0.7979591836734694

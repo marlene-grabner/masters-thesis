@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Constipation nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,22,16,0.6508672248803831
+2,disease_on_drugs,30,28,0.461822660098522

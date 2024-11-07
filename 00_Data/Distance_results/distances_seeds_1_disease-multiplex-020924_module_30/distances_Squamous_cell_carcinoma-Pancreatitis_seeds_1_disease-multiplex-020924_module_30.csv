@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,16,30,0.37355072463768124
+1,disease_on_symptoms,26,20,2.3335284280936452
+2,disease_on_drugs,14,30,0.9772727272727273

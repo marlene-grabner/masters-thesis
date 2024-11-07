@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,26,0.20119047619047614
+1,disease_on_symptoms,14,19,0.983139667350194
+2,disease_on_drugs,26,24,0.5591666666666666

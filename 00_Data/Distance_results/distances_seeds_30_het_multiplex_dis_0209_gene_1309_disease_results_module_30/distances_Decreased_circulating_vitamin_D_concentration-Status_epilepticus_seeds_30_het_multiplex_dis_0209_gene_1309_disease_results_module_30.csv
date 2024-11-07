@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,13,18,0.9775985663082438
+2,disease_on_drugs,21,30,0.30154061624649864

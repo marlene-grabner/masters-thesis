@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,28,30,0.25919540229885074
+1,disease_on_symptoms,21,15,0.5388888888888888
+2,disease_on_drugs,21,21,0.6428571428571426

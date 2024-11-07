@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,12,0.5295584045584045
+1,disease_on_symptoms,17,27,2.925529807882749
+2,disease_on_drugs,20,9,0.6819923371647509

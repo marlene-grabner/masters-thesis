@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,25,29,-0.09615384615384615
+1,disease_on_symptoms,19,17,-0.06338149294805628
+2,disease_on_drugs,25,26,0.019894419306183853

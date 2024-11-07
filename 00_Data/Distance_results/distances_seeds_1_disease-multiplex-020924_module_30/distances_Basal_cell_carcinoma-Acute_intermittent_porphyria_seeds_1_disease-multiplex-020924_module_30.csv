@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,26,27,0.47203408052464657
+1,disease_on_symptoms,23,20,1.9468907987866533
+2,disease_on_drugs,25,15,1.2000000000000002

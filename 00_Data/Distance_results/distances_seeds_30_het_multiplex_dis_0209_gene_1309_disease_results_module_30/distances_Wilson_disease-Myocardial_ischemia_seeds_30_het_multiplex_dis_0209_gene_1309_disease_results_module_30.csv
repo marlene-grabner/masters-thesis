@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,-0.2893939393939393
+1,disease_on_symptoms,19,19,-0.868421052631579
+2,disease_on_drugs,22,30,-0.36200466200466197

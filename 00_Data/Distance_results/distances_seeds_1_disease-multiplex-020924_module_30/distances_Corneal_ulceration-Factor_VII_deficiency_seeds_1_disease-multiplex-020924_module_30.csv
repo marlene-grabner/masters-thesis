@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,28,25,0.46931266846361197
+1,disease_on_symptoms,19,23,1.7876757110166723
+2,disease_on_drugs,26,21,1.271529888551165

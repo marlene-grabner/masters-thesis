@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,23,0.25408805031446535
+1,disease_on_symptoms,14,24,1.4020989974937343
+2,disease_on_drugs,26,22,0.6856060606060606

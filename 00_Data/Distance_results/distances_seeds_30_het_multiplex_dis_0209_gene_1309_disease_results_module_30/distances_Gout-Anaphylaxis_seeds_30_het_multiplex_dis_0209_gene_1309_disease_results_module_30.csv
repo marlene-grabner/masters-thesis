@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,28,27,-0.20001202501202509
+1,disease_on_symptoms,19,14,0.4628047391205288
+2,disease_on_drugs,22,26,-0.3645104895104896

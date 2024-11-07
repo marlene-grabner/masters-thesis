@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.12515151515151524
+1,disease_on_symptoms,21,25,0.9745341614906833
+2,disease_on_drugs,27,23,0.43800322061191643

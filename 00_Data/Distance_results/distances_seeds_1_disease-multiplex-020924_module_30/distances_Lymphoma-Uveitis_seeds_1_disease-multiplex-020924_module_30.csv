@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,-0.018040293040293198
+1,disease_on_symptoms,21,21,0.2857142857142856
+2,disease_on_drugs,25,27,0.11455840455840449

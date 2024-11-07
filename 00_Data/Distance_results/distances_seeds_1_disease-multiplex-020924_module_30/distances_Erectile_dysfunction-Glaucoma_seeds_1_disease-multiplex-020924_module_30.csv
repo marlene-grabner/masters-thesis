@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,16,14,0.6764880952380954
+2,disease_on_drugs,30,30,0.44999999999999996

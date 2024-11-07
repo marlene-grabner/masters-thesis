@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.2962962962962963
+1,disease_on_symptoms,22,21,-0.047417698580489276
+2,disease_on_drugs,26,27,-0.3026393592431327

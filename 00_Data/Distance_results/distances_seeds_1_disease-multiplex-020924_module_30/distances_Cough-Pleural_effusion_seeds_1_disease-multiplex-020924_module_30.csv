@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.08762183235867438
+1,disease_on_symptoms,21,20,1.2721544715447153
+2,disease_on_drugs,27,22,0.20786092214663632

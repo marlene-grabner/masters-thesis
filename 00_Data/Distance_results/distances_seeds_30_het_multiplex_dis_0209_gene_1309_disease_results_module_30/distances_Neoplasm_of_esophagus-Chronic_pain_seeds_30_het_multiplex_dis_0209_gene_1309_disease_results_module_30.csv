@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,29,30,-0.30509448665497774
+1,disease_on_symptoms,20,19,-0.13529014844804332
+2,disease_on_drugs,25,28,-0.14892183288409688

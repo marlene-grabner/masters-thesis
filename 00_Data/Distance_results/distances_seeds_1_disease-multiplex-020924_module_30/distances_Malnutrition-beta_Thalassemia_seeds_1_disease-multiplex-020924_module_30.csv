@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,22,0.3725233100233101
+1,disease_on_symptoms,18,21,3.140415140415141
+2,disease_on_drugs,23,6,0.867816091954023

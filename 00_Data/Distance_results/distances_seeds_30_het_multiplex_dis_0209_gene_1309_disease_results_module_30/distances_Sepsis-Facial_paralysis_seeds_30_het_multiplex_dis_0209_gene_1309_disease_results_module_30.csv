@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.07435897435897432
+1,disease_on_symptoms,15,21,1.3896825396825399
+2,disease_on_drugs,25,17,0.15210084033613458

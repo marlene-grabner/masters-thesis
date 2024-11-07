@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,28,30,-0.03448275862068961
+1,disease_on_symptoms,16,15,0.29771505376344054
+2,disease_on_drugs,23,29,0.09272286933456342

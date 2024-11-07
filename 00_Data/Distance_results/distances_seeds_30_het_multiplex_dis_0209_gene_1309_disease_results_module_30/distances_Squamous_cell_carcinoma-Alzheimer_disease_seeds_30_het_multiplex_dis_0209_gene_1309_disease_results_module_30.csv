@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.1132075471698113
+1,disease_on_symptoms,22,19,0.6398354533784574
+2,disease_on_drugs,30,19,0.07572502685284643

@@ -1,0 +1,4 @@
+,Layer,Abdominal_pain nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.08446327683615817
+1,disease_on_symptoms,19,27,0.2133655394524958
+2,disease_on_drugs,29,28,0.22740039754558805

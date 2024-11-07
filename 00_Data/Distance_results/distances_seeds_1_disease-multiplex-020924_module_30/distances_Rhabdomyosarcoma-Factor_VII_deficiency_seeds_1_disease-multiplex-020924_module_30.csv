@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.4544927536231884
+1,disease_on_symptoms,24,23,3.146584952204748
+2,disease_on_drugs,17,21,1.557644110275689

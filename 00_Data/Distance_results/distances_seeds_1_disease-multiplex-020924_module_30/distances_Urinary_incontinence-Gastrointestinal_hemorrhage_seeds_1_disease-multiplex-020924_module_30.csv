@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,27,0.1679702198570121
+1,disease_on_symptoms,20,19,0.6432186234817812
+2,disease_on_drugs,20,27,0.34042553191489366

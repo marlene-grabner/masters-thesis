@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,28,23,-0.11589635854341729
+1,disease_on_symptoms,20,19,0.4663292847503371
+2,disease_on_drugs,27,19,-0.0069921179760996655

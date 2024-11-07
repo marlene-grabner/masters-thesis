@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.5333333333333334
+1,disease_on_symptoms,24,27,1.2102396514161222
+2,disease_on_drugs,28,9,0.5593629343629343

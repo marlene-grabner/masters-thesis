@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,-0.09090909090909094
+1,disease_on_symptoms,16,26,-0.10634157509157505
+2,disease_on_drugs,30,21,-0.17647058823529416

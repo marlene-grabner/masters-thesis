@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,26,30,-0.125
+1,disease_on_symptoms,21,14,0.2523809523809526
+2,disease_on_drugs,25,29,-0.049578544061302576

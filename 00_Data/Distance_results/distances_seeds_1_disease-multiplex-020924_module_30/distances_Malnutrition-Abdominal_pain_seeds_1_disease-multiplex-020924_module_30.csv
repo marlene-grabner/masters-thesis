@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,-0.41108058608058606
+1,disease_on_symptoms,18,24,-0.45734126984127
+2,disease_on_drugs,23,24,-0.3608156028368793

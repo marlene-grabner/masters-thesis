@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.0856725146198829
+1,disease_on_symptoms,15,15,0.833333333333333
+2,disease_on_drugs,30,26,0.40796703296703307

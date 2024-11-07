@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.19298245614035092
+1,disease_on_symptoms,22,21,0.17051746702909498
+2,disease_on_drugs,29,24,-0.17082791151594012

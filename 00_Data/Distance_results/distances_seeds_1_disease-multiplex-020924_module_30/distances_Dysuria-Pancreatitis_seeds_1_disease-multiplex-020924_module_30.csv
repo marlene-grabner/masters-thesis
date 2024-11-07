@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.510266900448081
+1,disease_on_symptoms,16,20,-1.06875
+2,disease_on_drugs,23,30,-0.43683347005742423

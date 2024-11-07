@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Cellulitis nodes,sAB
+0,disease_on_genes,24,22,0.3581349206349205
+1,disease_on_symptoms,22,26,0.9344405594405596
+2,disease_on_drugs,11,12,1.0

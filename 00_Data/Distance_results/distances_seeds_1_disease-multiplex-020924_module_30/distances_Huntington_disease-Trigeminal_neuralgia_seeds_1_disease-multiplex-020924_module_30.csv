@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,-0.3805829228243023
+1,disease_on_symptoms,16,19,-0.9435620300751879
+2,disease_on_drugs,27,26,-0.35885341074020316

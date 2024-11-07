@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,14,21,0.4547619047619047
+1,disease_on_symptoms,25,25,2.24
+2,disease_on_drugs,10,21,1.3048387096774194

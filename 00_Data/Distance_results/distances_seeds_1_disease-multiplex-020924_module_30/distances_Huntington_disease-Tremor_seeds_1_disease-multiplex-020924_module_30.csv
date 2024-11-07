@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Tremor nodes,sAB
+0,disease_on_genes,30,16,-0.06693840579710142
+1,disease_on_symptoms,16,23,-0.29790273132664447
+2,disease_on_drugs,27,16,-0.10101744186046513

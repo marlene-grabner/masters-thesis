@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,0.3729874776386404
+1,disease_on_symptoms,16,25,3.5211890243902437
+2,disease_on_drugs,30,8,1.3684210526315788

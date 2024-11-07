@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,27,23,-0.1385185185185186
+1,disease_on_symptoms,23,23,0.6521739130434785
+2,disease_on_drugs,25,22,0.06603481624758212

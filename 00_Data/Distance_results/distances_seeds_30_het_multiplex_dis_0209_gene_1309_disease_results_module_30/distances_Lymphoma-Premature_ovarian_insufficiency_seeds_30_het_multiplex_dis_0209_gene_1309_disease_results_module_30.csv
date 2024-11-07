@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,26,30,-0.016666666666666607
+1,disease_on_symptoms,20,18,0.4757309941520469
+2,disease_on_drugs,24,22,0.1498682476943347

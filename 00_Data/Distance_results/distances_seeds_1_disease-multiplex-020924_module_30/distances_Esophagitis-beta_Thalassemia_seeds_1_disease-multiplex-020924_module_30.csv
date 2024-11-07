@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,24,22,0.5994510320597277
+1,disease_on_symptoms,23,21,3.2517880670054584
+2,disease_on_drugs,20,6,1.0391025641025642

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,25,27,-0.1923076923076923
+1,disease_on_symptoms,23,22,0.17747035573122516
+2,disease_on_drugs,21,26,-0.2349777881692776

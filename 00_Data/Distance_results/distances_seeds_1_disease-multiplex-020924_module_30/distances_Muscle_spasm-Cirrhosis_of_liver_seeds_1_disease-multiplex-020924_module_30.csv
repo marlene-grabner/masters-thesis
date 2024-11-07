@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,0.2833333333333332
+1,disease_on_symptoms,23,14,1.5943847574282357
+2,disease_on_drugs,19,26,0.8474358974358975

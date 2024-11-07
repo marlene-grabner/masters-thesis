@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Meningitis nodes,sAB
+0,disease_on_genes,23,29,0.13210702341137104
+1,disease_on_symptoms,19,17,0.5721534227726179
+2,disease_on_drugs,21,27,0.1947751322751321

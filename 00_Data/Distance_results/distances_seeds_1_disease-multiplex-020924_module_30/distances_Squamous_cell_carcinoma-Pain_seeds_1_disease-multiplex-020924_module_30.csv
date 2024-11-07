@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Pain nodes,sAB
+0,disease_on_genes,16,26,0.2174908424908426
+1,disease_on_symptoms,26,21,1.9742810381108251
+2,disease_on_drugs,14,26,0.7557692307692307

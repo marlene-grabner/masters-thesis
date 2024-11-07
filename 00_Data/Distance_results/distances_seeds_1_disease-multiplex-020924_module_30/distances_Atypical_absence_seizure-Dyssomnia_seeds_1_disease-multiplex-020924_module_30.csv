@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,29,18,-0.12765957446808507
+1,disease_on_symptoms,15,21,1.903174603174603
+2,disease_on_drugs,27,17,-0.011635967518320633

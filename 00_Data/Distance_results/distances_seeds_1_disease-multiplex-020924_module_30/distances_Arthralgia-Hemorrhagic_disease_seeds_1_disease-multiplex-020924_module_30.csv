@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.349537037037037
+1,disease_on_symptoms,19,19,1.6578947368421053
+2,disease_on_drugs,30,19,0.506981740064447

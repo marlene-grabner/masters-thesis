@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.2272727272727273
+1,disease_on_symptoms,19,27,0.6395457242139162
+2,disease_on_drugs,18,17,-0.0017273576097105448

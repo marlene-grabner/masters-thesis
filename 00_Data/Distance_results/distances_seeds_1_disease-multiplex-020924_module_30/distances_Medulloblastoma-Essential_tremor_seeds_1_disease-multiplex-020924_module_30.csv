@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.2127659574468086
+1,disease_on_symptoms,19,20,1.7190620782726045
+2,disease_on_drugs,24,19,0.8830834353325174

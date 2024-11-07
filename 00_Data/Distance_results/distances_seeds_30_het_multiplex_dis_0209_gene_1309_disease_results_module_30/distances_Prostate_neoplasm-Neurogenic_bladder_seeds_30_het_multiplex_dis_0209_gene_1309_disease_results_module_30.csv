@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,21,30,0.09383753501400571
+1,disease_on_symptoms,20,18,0.11154970760233907
+2,disease_on_drugs,21,21,0.04761904761904767

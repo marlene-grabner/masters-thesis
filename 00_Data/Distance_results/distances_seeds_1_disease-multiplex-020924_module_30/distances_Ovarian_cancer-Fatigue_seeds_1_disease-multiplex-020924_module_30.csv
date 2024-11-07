@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Fatigue nodes,sAB
+0,disease_on_genes,27,26,0.16908563134978238
+1,disease_on_symptoms,17,21,1.4422821760283058
+2,disease_on_drugs,25,26,1.098793363499246

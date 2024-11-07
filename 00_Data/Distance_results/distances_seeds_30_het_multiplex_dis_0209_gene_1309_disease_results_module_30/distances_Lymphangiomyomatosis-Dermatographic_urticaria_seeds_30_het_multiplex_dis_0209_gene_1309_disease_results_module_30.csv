@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,26,29,0.1807692307692308
+1,disease_on_symptoms,17,18,0.5503267973856207
+2,disease_on_drugs,24,28,0.49702380952380953

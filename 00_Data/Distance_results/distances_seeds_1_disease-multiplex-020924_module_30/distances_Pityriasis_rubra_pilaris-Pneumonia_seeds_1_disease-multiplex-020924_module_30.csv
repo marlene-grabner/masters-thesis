@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,0.08735632183908049
+1,disease_on_symptoms,23,26,0.3195174390826565
+2,disease_on_drugs,26,28,0.33190883190883214

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Myalgia nodes,sAB
+0,disease_on_genes,23,30,0.01685808039376524
+1,disease_on_symptoms,21,16,0.07102638352638357
+2,disease_on_drugs,21,29,0.4285714285714286

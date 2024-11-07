@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,21,19,0.39768170426065197
+2,disease_on_drugs,29,29,0.034482758620689724

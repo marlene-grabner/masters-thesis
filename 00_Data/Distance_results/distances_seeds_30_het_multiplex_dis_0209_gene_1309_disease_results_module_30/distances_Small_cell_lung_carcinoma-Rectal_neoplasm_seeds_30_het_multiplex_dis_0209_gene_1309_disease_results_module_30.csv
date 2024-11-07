@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,19,20,-0.28188259109311753
+2,disease_on_drugs,30,29,-0.20343853496980324

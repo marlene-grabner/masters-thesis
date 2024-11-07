@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.8333333333333335
+1,disease_on_symptoms,22,25,2.773442940038685
+2,disease_on_drugs,15,7,0.7831168831168833

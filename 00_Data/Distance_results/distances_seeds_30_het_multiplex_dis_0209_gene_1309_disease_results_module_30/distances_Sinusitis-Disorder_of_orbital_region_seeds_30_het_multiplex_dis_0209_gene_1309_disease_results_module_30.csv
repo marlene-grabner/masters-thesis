@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,30,0.05112994350282496
+1,disease_on_symptoms,20,18,0.44576023391812836
+2,disease_on_drugs,27,28,0.21878306878306875

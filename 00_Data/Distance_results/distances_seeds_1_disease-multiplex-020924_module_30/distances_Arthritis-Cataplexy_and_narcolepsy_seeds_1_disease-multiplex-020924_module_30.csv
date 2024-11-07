@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.18181818181818188
+1,disease_on_symptoms,19,18,1.6754781096886362
+2,disease_on_drugs,29,17,0.11451627127612651

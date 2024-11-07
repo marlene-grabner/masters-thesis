@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.29629629629629606
+1,disease_on_symptoms,19,16,0.6578477443609023
+2,disease_on_drugs,27,30,1.3859649122807016

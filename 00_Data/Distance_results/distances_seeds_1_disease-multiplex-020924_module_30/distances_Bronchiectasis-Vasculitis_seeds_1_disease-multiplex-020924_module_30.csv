@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.2217592592592592
+1,disease_on_symptoms,15,19,0.5615067079463363
+2,disease_on_drugs,26,20,0.28110367892976584

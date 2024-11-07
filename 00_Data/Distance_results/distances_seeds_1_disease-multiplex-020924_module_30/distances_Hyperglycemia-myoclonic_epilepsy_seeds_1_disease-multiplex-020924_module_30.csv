@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,14,16,1.625892857142857
+2,disease_on_drugs,26,23,0.7511091393078972

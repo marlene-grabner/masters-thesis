@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.35263157894736863
+1,disease_on_symptoms,14,24,1.3106203007518795
+2,disease_on_drugs,13,24,0.7150900900900903

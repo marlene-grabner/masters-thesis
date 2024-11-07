@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Gout nodes,sAB
+0,disease_on_genes,28,28,-0.0714285714285714
+1,disease_on_symptoms,20,19,0.4609649122807018
+2,disease_on_drugs,25,22,-0.13032882011605418

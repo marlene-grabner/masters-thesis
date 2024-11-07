@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cellulitis nodes,sAB
+0,disease_on_genes,23,22,0.2690099755317146
+1,disease_on_symptoms,20,26,0.7882943143812708
+2,disease_on_drugs,19,12,1.6129032258064515

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,-0.12727272727272732
+1,disease_on_symptoms,20,21,0.16907665505226488
+2,disease_on_drugs,25,27,-0.1770370370370371

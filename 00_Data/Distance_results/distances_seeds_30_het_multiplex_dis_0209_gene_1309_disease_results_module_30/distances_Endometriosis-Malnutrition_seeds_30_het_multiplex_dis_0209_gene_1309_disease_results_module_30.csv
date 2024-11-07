@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,16,14,-0.32946428571428554
+2,disease_on_drugs,30,29,-0.17039742840444183

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,-0.01788617886178856
+1,disease_on_symptoms,21,27,0.23511904761904767
+2,disease_on_drugs,24,13,-0.10810810810810811

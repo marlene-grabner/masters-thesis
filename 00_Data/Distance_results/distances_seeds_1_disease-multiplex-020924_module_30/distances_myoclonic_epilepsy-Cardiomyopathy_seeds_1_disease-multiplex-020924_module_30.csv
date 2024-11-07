@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,0.2903030303030303
+1,disease_on_symptoms,16,17,1.3983400178253118
+2,disease_on_drugs,23,24,0.8931159420289856

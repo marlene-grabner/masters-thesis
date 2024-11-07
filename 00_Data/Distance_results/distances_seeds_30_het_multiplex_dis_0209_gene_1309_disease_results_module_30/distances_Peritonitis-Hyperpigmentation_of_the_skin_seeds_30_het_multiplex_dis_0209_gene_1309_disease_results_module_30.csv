@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,14,17,0.3067904581187313
+2,disease_on_drugs,24,28,0.10187728937728924

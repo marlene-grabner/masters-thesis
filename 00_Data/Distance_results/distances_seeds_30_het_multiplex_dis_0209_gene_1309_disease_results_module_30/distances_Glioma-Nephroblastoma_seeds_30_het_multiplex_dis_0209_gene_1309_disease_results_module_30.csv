@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,22,29,-0.1348884381338742
+1,disease_on_symptoms,21,20,0.09242160278745648
+2,disease_on_drugs,21,24,-0.150595238095238

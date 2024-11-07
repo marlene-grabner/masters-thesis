@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,28,30,-0.15578817733990147
+1,disease_on_symptoms,19,16,-0.36790413533834565
+2,disease_on_drugs,22,27,-0.03707139421425132

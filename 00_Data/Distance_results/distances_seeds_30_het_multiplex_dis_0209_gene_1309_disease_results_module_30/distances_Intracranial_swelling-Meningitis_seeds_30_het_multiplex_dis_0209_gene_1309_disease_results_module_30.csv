@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.2542372881355932
+1,disease_on_symptoms,11,17,0.7570664629488162
+2,disease_on_drugs,21,27,0.17989417989418

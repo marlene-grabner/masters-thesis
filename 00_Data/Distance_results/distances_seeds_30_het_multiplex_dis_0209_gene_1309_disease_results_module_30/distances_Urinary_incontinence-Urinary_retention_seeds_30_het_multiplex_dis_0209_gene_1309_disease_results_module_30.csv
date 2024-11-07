@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,20,16,-0.2104166666666667
+2,disease_on_drugs,20,28,-0.08095238095238089

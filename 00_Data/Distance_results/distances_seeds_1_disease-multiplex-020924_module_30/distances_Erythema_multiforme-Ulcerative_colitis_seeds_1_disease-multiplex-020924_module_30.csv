@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.3159844054580897
+1,disease_on_symptoms,16,20,-0.49236111111111125
+2,disease_on_drugs,30,25,-0.2909090909090909

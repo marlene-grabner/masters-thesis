@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.146978021978022
+1,disease_on_symptoms,16,20,1.3
+2,disease_on_drugs,26,30,0.32692307692307687

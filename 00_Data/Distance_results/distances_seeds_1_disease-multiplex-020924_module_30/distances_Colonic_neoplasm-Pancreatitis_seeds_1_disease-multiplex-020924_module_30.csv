@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,19,20,1.1299257759784074
+2,disease_on_drugs,29,30,1.1694915254237288

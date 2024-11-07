@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,26,30,0.14642857142857135
+1,disease_on_symptoms,21,15,1.1476190476190475
+2,disease_on_drugs,24,23,0.8080481036077705

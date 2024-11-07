@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,-0.11467236467236475
+1,disease_on_symptoms,21,22,0.4604852511829258
+2,disease_on_drugs,24,25,0.08161564625850315

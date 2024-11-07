@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.17555555555555558
+1,disease_on_symptoms,18,17,1.1169934640522876
+2,disease_on_drugs,25,22,-0.016344294003868276

@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,24,25,-0.04081632653061229
+1,disease_on_symptoms,23,22,0.6679402722880985
+2,disease_on_drugs,24,25,0.04122448979591842

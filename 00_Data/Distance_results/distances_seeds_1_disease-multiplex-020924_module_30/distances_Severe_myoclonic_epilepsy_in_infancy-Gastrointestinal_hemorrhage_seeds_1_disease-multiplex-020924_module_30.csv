@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,27,0.3498050682261207
+1,disease_on_symptoms,16,19,1.9283834586466166
+2,disease_on_drugs,21,27,0.6607142857142856

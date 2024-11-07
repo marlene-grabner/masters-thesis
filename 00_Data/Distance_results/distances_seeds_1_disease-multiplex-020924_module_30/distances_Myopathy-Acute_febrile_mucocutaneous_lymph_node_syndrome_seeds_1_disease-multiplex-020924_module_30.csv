@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,18,30,0.37222222222222223
+1,disease_on_symptoms,21,18,0.7786935286935286
+2,disease_on_drugs,6,25,0.40623655913978496

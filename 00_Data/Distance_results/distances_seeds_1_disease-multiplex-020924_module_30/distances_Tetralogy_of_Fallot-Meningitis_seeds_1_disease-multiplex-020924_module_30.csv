@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.5081628677186829
+1,disease_on_symptoms,14,20,1.778781512605042
+2,disease_on_drugs,11,26,1.108108108108108

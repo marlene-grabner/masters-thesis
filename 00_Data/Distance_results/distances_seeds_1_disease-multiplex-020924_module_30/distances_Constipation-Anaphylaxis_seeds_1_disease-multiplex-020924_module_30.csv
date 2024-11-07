@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.3312865497076021
+1,disease_on_symptoms,17,15,1.589705882352941
+2,disease_on_drugs,27,26,0.6788689996237167

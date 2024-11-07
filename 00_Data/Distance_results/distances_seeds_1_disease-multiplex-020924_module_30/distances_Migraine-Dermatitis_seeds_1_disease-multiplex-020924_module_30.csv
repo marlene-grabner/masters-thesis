@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,26,0.13030303030303036
+1,disease_on_symptoms,14,25,1.0724542124542125
+2,disease_on_drugs,29,24,0.31682389937106925

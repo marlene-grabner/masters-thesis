@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.15833333333333321
+1,disease_on_symptoms,18,16,-0.0866013071895424
+2,disease_on_drugs,24,25,-0.26537414965986394

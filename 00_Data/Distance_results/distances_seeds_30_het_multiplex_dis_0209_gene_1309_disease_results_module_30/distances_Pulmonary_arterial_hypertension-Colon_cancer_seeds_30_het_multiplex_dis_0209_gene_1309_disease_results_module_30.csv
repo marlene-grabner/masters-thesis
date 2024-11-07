@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,28,26,-0.03703703703703709
+1,disease_on_symptoms,17,22,0.33761826408885254
+2,disease_on_drugs,25,26,0.07794871794871772

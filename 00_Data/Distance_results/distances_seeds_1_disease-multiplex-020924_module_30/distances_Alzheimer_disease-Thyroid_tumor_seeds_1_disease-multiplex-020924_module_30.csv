@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,20,23,0.1655965621840243
+1,disease_on_symptoms,23,20,0.889711830131446
+2,disease_on_drugs,18,20,1.1328947368421054

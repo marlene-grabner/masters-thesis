@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.07547169811320753
+1,disease_on_symptoms,21,17,-0.2561550936163939
+2,disease_on_drugs,26,26,0.03846153846153855

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,0.37516798365854975
+1,disease_on_symptoms,20,21,1.0733159117305457
+2,disease_on_drugs,20,24,0.615530303030303

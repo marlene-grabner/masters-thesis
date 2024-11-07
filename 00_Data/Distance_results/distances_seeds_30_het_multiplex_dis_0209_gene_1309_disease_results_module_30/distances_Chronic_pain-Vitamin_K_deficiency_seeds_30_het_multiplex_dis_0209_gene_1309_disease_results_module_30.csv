@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.08939393939393936
+1,disease_on_symptoms,19,21,0.6332080200501253
+2,disease_on_drugs,28,21,-0.11394557823129237

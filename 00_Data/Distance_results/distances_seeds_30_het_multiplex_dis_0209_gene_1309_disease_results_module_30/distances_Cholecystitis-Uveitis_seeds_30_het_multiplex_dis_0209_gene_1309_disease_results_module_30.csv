@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,23,20,0.24914054600606672
+2,disease_on_drugs,21,23,-0.16417278373800115

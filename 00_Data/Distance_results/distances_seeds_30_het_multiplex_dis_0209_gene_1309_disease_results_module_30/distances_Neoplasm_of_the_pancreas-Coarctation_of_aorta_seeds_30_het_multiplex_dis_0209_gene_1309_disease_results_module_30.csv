@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.07115009746588707
+1,disease_on_symptoms,20,19,0.1034075573549258
+2,disease_on_drugs,30,24,-0.006018518518518645

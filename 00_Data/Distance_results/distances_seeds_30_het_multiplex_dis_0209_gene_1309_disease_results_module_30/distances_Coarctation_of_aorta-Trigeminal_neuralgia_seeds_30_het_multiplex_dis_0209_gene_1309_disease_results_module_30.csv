@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.1764132553606239
+1,disease_on_symptoms,19,15,-0.24994840041279676
+2,disease_on_drugs,24,25,-0.14253401360544204

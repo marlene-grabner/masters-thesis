@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,26,28,-0.10917785917785927
+1,disease_on_symptoms,23,19,0.01618175874468797
+2,disease_on_drugs,25,28,-0.036725067385444676

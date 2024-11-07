@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,-0.24928774928774933
+1,disease_on_symptoms,22,14,-0.17821067821067826
+2,disease_on_drugs,25,26,-0.29494720965309185

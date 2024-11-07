@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.07115009746588707
+1,disease_on_symptoms,17,14,0.5587557603686637
+2,disease_on_drugs,30,26,0.07683150183150178

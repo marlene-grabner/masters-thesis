@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,29,25,0.2022222222222223
+1,disease_on_symptoms,25,24,1.9778401360544215
+2,disease_on_drugs,28,23,1.4705882352941178

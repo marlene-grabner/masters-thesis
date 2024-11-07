@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,17,24,0.18203012912482075
+1,disease_on_symptoms,22,26,1.7628205128205128
+2,disease_on_drugs,15,15,0.3666666666666667

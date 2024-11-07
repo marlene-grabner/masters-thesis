@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,26,30,-0.12261904761904752
+1,disease_on_symptoms,20,19,0.2269568151147099
+2,disease_on_drugs,23,24,0.04336262719703976

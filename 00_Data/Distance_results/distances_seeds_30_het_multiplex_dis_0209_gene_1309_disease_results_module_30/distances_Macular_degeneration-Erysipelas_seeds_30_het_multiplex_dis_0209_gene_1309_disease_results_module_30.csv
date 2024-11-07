@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,17,18,0.36652661064425773
+2,disease_on_drugs,17,29,0.06605520769027251

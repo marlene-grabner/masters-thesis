@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.018181818181818188
+1,disease_on_symptoms,18,19,1.4114509246088192
+2,disease_on_drugs,25,22,0.042785299806576305

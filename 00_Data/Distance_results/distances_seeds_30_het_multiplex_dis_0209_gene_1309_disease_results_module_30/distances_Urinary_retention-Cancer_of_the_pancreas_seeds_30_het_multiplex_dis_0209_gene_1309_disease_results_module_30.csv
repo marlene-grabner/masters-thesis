@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,23,0.40318422519509456
+2,disease_on_drugs,28,30,0.3107142857142857

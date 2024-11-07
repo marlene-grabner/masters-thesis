@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,22,16,0.272129186602871
+2,disease_on_drugs,27,28,-0.0724867724867726

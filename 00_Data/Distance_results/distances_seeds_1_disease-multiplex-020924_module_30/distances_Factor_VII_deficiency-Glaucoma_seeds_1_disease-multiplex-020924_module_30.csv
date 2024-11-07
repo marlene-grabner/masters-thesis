@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Glaucoma nodes,sAB
+0,disease_on_genes,25,30,0.25515151515151513
+1,disease_on_symptoms,23,14,1.6007218398522745
+2,disease_on_drugs,21,30,0.4680672268907562

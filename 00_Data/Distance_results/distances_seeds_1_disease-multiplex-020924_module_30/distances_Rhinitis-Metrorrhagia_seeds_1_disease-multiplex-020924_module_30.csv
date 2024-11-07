@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.17894736842105274
+1,disease_on_symptoms,15,17,0.4569852941176471
+2,disease_on_drugs,22,26,1.0032051282051282

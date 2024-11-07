@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,0.09999999999999987
+1,disease_on_symptoms,14,20,0.522689075630252
+2,disease_on_drugs,24,24,0.6875

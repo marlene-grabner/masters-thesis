@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.13840155945419097
+1,disease_on_symptoms,21,16,0.5537725225225225
+2,disease_on_drugs,29,27,0.3927659186279875

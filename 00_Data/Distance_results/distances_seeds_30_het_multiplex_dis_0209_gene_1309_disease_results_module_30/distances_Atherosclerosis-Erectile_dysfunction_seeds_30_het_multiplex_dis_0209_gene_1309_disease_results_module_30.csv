@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,14,15,-0.41034482758620694
+2,disease_on_drugs,29,30,-0.22064095071108514

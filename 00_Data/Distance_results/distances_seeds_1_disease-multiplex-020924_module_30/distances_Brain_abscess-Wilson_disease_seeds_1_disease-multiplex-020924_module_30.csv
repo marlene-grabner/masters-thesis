@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,27,23,0.21723027375201287
+1,disease_on_symptoms,21,19,1.5037593984962405
+2,disease_on_drugs,23,11,1.016624040920716

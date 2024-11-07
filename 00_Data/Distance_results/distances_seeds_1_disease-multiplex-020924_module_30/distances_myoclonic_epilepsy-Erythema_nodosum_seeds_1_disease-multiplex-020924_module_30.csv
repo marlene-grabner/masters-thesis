@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.4660509031198685
+1,disease_on_symptoms,16,23,1.7730978260869565
+2,disease_on_drugs,23,28,0.7992784070149799

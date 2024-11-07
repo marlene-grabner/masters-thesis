@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.15807722616233266
+1,disease_on_symptoms,21,26,0.9737939365598942
+2,disease_on_drugs,24,13,0.2192914067914069

@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,27,0.2705413105413106
+1,disease_on_symptoms,25,22,1.2500967117988395
+2,disease_on_drugs,23,26,1.5483584738243124

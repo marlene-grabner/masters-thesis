@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,29,30,-0.10198714202220915
+1,disease_on_symptoms,20,17,-0.03310810810810816
+2,disease_on_drugs,24,30,-0.18657407407407423

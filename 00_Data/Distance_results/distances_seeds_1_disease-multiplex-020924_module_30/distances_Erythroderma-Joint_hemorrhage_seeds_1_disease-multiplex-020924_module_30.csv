@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333333
+1,disease_on_symptoms,19,13,1.0127783400809716
+2,disease_on_drugs,28,18,0.786231884057971

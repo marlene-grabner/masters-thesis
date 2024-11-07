@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,22,28,0.5415584415584416
+1,disease_on_symptoms,24,20,0.9700757575757575
+2,disease_on_drugs,20,27,0.7835106382978725

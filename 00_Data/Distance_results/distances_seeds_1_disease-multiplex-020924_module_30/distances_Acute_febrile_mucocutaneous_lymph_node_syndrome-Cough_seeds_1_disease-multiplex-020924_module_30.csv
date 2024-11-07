@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.05253411306042888
+1,disease_on_symptoms,18,21,1.2072649572649574
+2,disease_on_drugs,25,27,0.13450142450142422

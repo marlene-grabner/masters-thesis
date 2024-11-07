@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,23,27,-0.025732689210950177
+1,disease_on_symptoms,20,19,0.5618083670715248
+2,disease_on_drugs,19,27,0.21739130434782616

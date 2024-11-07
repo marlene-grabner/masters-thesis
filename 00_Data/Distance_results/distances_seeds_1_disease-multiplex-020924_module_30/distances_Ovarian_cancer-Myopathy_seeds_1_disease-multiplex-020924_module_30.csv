@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Myopathy nodes,sAB
+0,disease_on_genes,27,18,0.5555555555555556
+1,disease_on_symptoms,17,21,0.9899012236473537
+2,disease_on_drugs,25,6,0.5752688172043012

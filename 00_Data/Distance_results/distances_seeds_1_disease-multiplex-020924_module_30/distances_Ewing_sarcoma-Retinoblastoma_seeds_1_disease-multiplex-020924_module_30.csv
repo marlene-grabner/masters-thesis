@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,24,26,-0.5609615384615383
+1,disease_on_symptoms,25,24,-0.6298469387755101
+2,disease_on_drugs,17,24,-0.6829268292682926

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,25,29,0.2903703703703704
+1,disease_on_symptoms,13,25,1.9231578947368422
+2,disease_on_drugs,16,27,0.45324612403100795

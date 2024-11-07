@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,24,30,-0.01851851851851849
+1,disease_on_symptoms,19,16,0.3843984962406013
+2,disease_on_drugs,24,28,0.026785714285714413

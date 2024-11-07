@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,21,26,0.19304808666510787
+1,disease_on_symptoms,22,24,1.3782114624505928
+2,disease_on_drugs,21,24,0.6793650793650794

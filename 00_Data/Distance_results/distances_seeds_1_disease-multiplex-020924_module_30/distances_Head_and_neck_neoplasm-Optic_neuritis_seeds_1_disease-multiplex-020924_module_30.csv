@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.1041910331384015
+1,disease_on_symptoms,20,16,0.6534722222222222
+2,disease_on_drugs,27,27,0.31481481481481466

@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,12,30,0.35974801061007966
+1,disease_on_symptoms,27,18,1.8685185185185182
+2,disease_on_drugs,9,19,0.6670843776106934

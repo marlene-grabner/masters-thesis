@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.12183235867446385
+1,disease_on_symptoms,21,14,1.5880952380952378
+2,disease_on_drugs,27,26,0.7917137020910607

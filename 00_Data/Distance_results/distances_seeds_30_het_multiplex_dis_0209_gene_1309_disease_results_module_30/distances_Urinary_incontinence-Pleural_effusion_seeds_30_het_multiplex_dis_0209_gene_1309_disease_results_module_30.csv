@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,29,30,0.27118644067796605
+1,disease_on_symptoms,20,18,1.1289473684210527
+2,disease_on_drugs,20,27,0.3567375886524822

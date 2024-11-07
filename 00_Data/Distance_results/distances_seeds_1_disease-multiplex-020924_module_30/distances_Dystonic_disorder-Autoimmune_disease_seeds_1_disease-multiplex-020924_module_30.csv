@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,17,22,0.6119566707802002
+1,disease_on_symptoms,28,19,2.963105903055511
+2,disease_on_drugs,9,19,0.7951127819548873

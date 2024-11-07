@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,16,26,0.32738095238095233
+1,disease_on_symptoms,26,19,2.4740890688259105
+2,disease_on_drugs,14,23,0.8431257344300822

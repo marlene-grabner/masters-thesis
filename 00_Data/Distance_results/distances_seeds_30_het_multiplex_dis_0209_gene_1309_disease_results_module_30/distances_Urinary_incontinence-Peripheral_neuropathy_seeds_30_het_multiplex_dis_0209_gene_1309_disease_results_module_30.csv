@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,20,21,0.13042973286875714
+2,disease_on_drugs,20,29,0.0199155524278678

@@ -1,0 +1,4 @@
+,Layer,Hereditary_factor_IX_deficiency_disease nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,-0.07023809523809543
+1,disease_on_symptoms,18,19,1.6561561561561562
+2,disease_on_drugs,26,29,0.3086568603809985

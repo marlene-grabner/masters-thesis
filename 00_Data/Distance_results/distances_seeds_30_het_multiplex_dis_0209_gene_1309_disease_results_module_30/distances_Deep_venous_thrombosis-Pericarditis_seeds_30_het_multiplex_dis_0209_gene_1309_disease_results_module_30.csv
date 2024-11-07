@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,16,21,0.9393098455598454
+2,disease_on_drugs,28,26,0.23697598697598687

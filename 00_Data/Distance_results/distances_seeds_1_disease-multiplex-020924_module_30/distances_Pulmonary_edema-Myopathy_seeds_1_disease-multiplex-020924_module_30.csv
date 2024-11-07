@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,18,0.45138888888888884
+1,disease_on_symptoms,14,21,0.7547619047619047
+2,disease_on_drugs,27,6,0.6750841750841752

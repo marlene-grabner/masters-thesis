@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,22,30,-0.038461538461538436
+1,disease_on_symptoms,21,16,0.6809845559845558
+2,disease_on_drugs,21,28,0.2755102040816326

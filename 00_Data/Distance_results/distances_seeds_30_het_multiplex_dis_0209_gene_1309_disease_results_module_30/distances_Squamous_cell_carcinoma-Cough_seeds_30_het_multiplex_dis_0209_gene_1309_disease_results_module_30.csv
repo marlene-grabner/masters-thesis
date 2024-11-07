@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,22,22,0.75
+2,disease_on_drugs,30,24,0.5092592592592591

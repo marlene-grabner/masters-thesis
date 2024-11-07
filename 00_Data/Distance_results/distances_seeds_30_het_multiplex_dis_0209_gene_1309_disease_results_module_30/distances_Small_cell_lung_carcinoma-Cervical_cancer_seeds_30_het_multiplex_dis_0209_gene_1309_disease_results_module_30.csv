@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,-0.10344827586206895
+1,disease_on_symptoms,19,22,-0.16775586416151222
+2,disease_on_drugs,30,15,-0.438888888888889

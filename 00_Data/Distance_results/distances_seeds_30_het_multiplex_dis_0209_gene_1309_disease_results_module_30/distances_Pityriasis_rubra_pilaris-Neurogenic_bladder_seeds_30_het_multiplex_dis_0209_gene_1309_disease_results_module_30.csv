@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,0.050682261208576884
+1,disease_on_symptoms,21,18,0.5470085470085468
+2,disease_on_drugs,25,21,0.09354037267080728

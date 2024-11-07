@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.15254237288135597
+1,disease_on_symptoms,18,20,0.6194444444444445
+2,disease_on_drugs,30,27,-0.21959064327485378

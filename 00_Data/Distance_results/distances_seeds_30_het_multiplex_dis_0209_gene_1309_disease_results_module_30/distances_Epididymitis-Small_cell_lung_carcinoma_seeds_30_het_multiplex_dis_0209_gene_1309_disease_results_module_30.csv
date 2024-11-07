@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,29,30,0.10169491525423724
+1,disease_on_symptoms,23,19,0.5849950964367441
+2,disease_on_drugs,26,30,0.1762820512820511

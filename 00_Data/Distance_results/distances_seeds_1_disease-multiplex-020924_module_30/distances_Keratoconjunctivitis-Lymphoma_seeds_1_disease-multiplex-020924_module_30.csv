@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,29,26,0.03531468531468529
+1,disease_on_symptoms,25,21,0.25006211180124227
+2,disease_on_drugs,27,25,-0.014358974358974264

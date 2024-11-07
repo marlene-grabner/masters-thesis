@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,21,19,-0.332518796992481
+2,disease_on_drugs,27,28,0.1635882635882635

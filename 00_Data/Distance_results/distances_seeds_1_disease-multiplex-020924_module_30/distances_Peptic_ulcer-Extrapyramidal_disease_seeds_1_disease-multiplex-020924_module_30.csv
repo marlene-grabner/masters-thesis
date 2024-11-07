@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,28,14,0.30952380952380953
+1,disease_on_symptoms,14,25,0.6240659340659342
+2,disease_on_drugs,28,10,0.5552631578947369

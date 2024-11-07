@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.23333333333333317
+1,disease_on_symptoms,15,17,1.105514705882353
+2,disease_on_drugs,25,17,0.23613445378151243

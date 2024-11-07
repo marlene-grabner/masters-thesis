@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.32834757834757844
+1,disease_on_symptoms,20,12,1.375
+2,disease_on_drugs,20,21,1.0749128919860629

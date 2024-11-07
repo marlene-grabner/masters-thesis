@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.375
+1,disease_on_symptoms,20,21,-0.7078106852497097
+2,disease_on_drugs,29,26,-0.45613696648179414

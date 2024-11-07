@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.046969696969696884
+1,disease_on_symptoms,17,23,0.44514066496163673
+2,disease_on_drugs,27,20,0.5059495665878646

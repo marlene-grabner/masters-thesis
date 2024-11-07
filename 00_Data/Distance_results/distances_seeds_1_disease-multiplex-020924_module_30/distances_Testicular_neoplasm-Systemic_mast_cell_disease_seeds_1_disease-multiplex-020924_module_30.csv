@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,25,29,0.09346104725415061
+1,disease_on_symptoms,25,16,0.9503048780487804
+2,disease_on_drugs,23,25,0.9148550724637681

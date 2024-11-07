@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,25,30,-0.18181818181818177
+1,disease_on_symptoms,23,16,-0.18896321070234112
+2,disease_on_drugs,21,29,-0.19812807881773398

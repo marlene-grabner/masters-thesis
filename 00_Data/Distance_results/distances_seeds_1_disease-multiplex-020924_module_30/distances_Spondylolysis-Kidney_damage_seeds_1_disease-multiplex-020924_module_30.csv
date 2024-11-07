@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.23018124507486215
+1,disease_on_symptoms,19,26,1.1092442645074223
+2,disease_on_drugs,20,13,0.6917832167832167

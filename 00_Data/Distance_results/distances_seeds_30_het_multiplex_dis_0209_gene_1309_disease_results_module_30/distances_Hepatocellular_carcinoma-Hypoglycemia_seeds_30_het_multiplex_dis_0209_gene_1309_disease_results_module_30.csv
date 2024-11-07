@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,24,30,-0.18333333333333324
+1,disease_on_symptoms,23,19,0.2542225128037485
+2,disease_on_drugs,22,27,0.03088710231567382

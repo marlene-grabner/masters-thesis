@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,26,27,-0.17017416545718422
+1,disease_on_symptoms,23,24,0.5122957138452049
+2,disease_on_drugs,25,25,-0.1200000000000001

@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.19395711500974666
+1,disease_on_symptoms,22,14,0.41774891774891776
+2,disease_on_drugs,29,26,-0.10941644562334218

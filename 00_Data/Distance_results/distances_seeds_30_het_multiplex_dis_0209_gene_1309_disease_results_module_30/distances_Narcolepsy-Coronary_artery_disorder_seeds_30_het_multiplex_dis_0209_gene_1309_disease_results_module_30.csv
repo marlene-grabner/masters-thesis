@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,23,-0.06340579710144933
+1,disease_on_symptoms,20,19,1.8017206477732792
+2,disease_on_drugs,21,22,-0.0460585925702206

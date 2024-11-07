@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Purpura nodes,sAB
+0,disease_on_genes,24,26,0.4198076923076923
+1,disease_on_symptoms,25,17,2.0885154061624647
+2,disease_on_drugs,17,20,1.054054054054054

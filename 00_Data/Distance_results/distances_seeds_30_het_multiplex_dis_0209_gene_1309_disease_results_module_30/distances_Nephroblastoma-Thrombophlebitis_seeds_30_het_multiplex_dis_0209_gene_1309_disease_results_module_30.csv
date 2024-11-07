@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,29,30,-0.10198714202220915
+1,disease_on_symptoms,20,18,-0.003947368421052699
+2,disease_on_drugs,24,29,-0.134447516807634

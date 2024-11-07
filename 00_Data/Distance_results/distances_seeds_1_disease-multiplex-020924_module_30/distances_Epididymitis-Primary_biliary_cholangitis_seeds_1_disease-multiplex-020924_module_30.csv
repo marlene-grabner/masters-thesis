@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,29,26,0.18170966964070412
+1,disease_on_symptoms,23,17,-0.2528772378516624
+2,disease_on_drugs,27,18,0.21851851851851856

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,10,18,0.034126984126984006
+2,disease_on_drugs,16,26,-0.09603937728937728

@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,20,19,-0.4182523616734146
+2,disease_on_drugs,29,25,-0.11361430395913152

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,0.42259653270291553
+1,disease_on_symptoms,16,27,1.6599375538329029
+2,disease_on_drugs,18,19,0.9473684210526314

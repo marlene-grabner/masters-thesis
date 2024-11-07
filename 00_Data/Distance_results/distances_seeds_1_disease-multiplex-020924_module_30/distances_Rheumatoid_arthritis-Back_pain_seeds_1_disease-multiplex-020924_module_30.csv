@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Back_pain nodes,sAB
+0,disease_on_genes,27,30,-0.1564327485380117
+1,disease_on_symptoms,15,16,-0.03380376344086011
+2,disease_on_drugs,25,23,-0.04083333333333339

@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,20,30,0.21999999999999997
+1,disease_on_symptoms,23,16,1.247178093645485
+2,disease_on_drugs,18,30,1.0347222222222223

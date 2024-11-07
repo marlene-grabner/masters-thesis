@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.24064039408866988
+1,disease_on_symptoms,19,19,0.8157894736842104
+2,disease_on_drugs,28,28,0.625

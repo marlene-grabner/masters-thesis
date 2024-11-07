@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,29,18,0.4526167767180238
+1,disease_on_symptoms,17,18,2.9141456582633047
+2,disease_on_drugs,26,10,0.6585470085470084

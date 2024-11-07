@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,30,0.10576923076923084
+1,disease_on_symptoms,17,15,0.5537990196078431
+2,disease_on_drugs,24,21,0.12242063492063493

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.2807992202729045
+1,disease_on_symptoms,23,20,-0.12575834175935285
+2,disease_on_drugs,25,29,-0.18472541507024254

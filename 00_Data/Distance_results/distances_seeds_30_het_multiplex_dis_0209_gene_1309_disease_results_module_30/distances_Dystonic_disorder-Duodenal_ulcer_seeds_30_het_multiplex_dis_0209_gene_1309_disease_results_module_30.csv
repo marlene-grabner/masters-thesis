@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.051724137931034475
+1,disease_on_symptoms,17,17,1.2352941176470589
+2,disease_on_drugs,26,28,0.16702279202279202

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,25,24,0.14488095238095244
+1,disease_on_symptoms,16,17,1.69674688057041
+2,disease_on_drugs,17,23,0.9705882352941178

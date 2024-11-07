@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,29,21,0.1989490968801313
+1,disease_on_symptoms,17,25,1.5679551820728292
+2,disease_on_drugs,26,21,0.9382160392798691

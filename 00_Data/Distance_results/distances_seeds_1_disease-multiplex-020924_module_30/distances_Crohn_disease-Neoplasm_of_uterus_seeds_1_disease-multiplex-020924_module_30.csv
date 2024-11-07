@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,25,28,0.309981684981685
+1,disease_on_symptoms,20,19,1.4061403508771928
+2,disease_on_drugs,21,28,0.8528911564625847

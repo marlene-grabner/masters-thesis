@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,17,0.5760233918128657
+2,disease_on_drugs,30,26,0.3740842490842491

@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,26,-0.17307692307692313
+1,disease_on_symptoms,23,20,-0.29163296258847327
+2,disease_on_drugs,26,25,-0.11580693815987919

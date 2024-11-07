@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.5108632746563779
+1,disease_on_symptoms,21,16,2.2972168597168596
+2,disease_on_drugs,23,22,0.711111111111111

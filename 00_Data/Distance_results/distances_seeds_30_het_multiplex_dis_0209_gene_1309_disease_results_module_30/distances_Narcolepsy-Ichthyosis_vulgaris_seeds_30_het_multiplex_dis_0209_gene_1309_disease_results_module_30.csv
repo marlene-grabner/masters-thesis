@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,-0.07692307692307687
+1,disease_on_symptoms,20,21,1.2625725900116143
+2,disease_on_drugs,21,24,-0.0450396825396826

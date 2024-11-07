@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.35854341736694684
+1,disease_on_symptoms,14,26,1.2695054945054944
+2,disease_on_drugs,27,12,0.8860398860398859

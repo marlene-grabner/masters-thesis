@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.4307692307692308
+1,disease_on_symptoms,13,24,0.31059424809424807
+2,disease_on_drugs,18,19,0.4059981033665243

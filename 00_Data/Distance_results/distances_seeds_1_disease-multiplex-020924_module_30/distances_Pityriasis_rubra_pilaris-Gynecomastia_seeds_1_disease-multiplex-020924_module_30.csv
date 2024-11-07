@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,28,30,0.31034482758620685
+1,disease_on_symptoms,23,16,0.48961817168338895
+2,disease_on_drugs,26,24,0.7390384615384618

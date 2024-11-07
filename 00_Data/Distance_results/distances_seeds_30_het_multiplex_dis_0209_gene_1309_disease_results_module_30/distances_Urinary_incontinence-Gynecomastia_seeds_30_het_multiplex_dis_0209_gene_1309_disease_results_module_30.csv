@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,29,30,0.0
+1,disease_on_symptoms,20,15,0.7238095238095239
+2,disease_on_drugs,20,29,0.530119634060521

@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,0.0006157635467980427
+1,disease_on_symptoms,18,20,0.4353801169590643
+2,disease_on_drugs,28,27,0.1655844155844155

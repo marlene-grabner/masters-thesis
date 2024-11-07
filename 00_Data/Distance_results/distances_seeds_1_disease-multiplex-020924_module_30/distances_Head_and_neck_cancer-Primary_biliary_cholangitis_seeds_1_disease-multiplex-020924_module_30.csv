@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,27,26,0.49055259904316517
+1,disease_on_symptoms,22,17,1.010386672151378
+2,disease_on_drugs,24,18,1.1250000000000002

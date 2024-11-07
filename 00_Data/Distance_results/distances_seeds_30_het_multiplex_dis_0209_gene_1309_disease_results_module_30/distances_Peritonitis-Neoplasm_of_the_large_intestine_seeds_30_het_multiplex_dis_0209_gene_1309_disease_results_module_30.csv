@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,14,22,0.057720057720057616
+2,disease_on_drugs,24,29,-0.21086803296464973

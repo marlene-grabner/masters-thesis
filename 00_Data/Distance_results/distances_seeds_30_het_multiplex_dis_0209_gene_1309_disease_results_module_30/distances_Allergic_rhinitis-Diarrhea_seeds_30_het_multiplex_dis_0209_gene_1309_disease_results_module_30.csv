@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,20,21,0.30903019744483173
+2,disease_on_drugs,25,29,-0.07933588761174981

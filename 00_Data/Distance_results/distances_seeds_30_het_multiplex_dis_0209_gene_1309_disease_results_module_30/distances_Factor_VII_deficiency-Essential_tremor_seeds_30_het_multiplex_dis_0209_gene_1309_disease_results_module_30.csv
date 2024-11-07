@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.08418367346938771
+1,disease_on_symptoms,19,23,0.8665685954015476
+2,disease_on_drugs,25,21,0.5600828157349895

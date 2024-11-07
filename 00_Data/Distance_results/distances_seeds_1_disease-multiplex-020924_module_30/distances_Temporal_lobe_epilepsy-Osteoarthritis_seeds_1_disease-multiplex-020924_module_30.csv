@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,29,25,0.37016602809706267
+1,disease_on_symptoms,17,20,1.4144674085850557
+2,disease_on_drugs,26,21,0.5977905073649754

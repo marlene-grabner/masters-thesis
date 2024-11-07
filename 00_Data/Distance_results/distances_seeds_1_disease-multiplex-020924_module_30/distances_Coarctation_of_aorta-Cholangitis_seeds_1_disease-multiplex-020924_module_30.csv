@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,27,0.5555555555555556
+1,disease_on_symptoms,14,22,2.0721500721500723
+2,disease_on_drugs,13,26,1.4102564102564101

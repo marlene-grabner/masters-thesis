@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Fatigue nodes,sAB
+0,disease_on_genes,26,26,-0.28846153846153866
+1,disease_on_symptoms,18,16,0.5138888888888888
+2,disease_on_drugs,25,26,-0.29268476621417794

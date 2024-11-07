@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Ascites nodes,sAB
+0,disease_on_genes,28,30,0.15455665024630538
+1,disease_on_symptoms,23,17,-0.11918158567774939
+2,disease_on_drugs,28,27,0.10840548340548328

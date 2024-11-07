@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.05555555555555558
+1,disease_on_symptoms,17,21,0.833996756597376
+2,disease_on_drugs,26,24,-0.07955128205128204

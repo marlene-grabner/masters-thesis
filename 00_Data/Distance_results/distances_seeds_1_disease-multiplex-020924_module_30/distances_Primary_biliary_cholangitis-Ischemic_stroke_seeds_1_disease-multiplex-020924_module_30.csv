@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.3569597069597068
+1,disease_on_symptoms,17,16,1.699197860962567
+2,disease_on_drugs,18,23,1.06344998232591

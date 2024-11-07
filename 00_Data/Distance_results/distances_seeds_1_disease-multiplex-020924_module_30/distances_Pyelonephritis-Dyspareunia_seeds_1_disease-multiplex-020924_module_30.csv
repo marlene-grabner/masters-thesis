@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,23,24,0.253931544865865
+1,disease_on_symptoms,21,17,0.7265221878224977
+2,disease_on_drugs,19,23,0.8157349896480333

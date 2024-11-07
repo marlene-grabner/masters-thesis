@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,24,26,0.41999999999999993
+1,disease_on_symptoms,23,15,1.2972540045766587
+2,disease_on_drugs,22,15,1.2036036036036035

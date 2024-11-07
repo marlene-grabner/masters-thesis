@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,14,22,0.6832611832611835
+2,disease_on_drugs,29,27,-0.03603357051632927

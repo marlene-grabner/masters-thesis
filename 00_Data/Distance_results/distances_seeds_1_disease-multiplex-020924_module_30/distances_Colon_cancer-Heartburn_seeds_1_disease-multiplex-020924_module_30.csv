@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,0.03660256410256402
+1,disease_on_symptoms,21,20,0.9290069686411146
+2,disease_on_drugs,24,22,0.9555335968379446

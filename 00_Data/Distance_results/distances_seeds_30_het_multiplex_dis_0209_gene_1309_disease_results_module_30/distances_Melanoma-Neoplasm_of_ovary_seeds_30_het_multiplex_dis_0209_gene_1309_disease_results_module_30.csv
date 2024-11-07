@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,27,30,-0.4386939571150098
+1,disease_on_symptoms,23,22,-0.7371102327624065
+2,disease_on_drugs,25,29,-0.5391315453384418

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.2783333333333333
+1,disease_on_symptoms,20,24,1.2678030303030305
+2,disease_on_drugs,24,18,0.5376984126984128

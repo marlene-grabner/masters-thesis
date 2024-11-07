@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,21,19,0.324874686716792
+1,disease_on_symptoms,20,21,1.5822880371660857
+2,disease_on_drugs,19,17,0.3055555555555556

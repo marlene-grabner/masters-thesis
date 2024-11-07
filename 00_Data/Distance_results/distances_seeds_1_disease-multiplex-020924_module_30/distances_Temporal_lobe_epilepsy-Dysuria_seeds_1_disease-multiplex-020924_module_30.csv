@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Dysuria nodes,sAB
+0,disease_on_genes,29,30,0.0862068965517242
+1,disease_on_symptoms,17,16,1.871045008912656
+2,disease_on_drugs,26,23,0.591683161558938

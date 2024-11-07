@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,24,0.23965141612200447
+1,disease_on_symptoms,19,23,1.2094911191021032
+2,disease_on_drugs,20,24,0.5431818181818182

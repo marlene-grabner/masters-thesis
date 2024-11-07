@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,29,30,0.32174167153711286
+1,disease_on_symptoms,17,13,1.063046757164404
+2,disease_on_drugs,26,29,0.38076923076923075

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Sinusitis nodes,sAB
+0,disease_on_genes,24,29,0.4518135979180222
+1,disease_on_symptoms,25,21,1.0401656314699792
+2,disease_on_drugs,17,28,1.3242063492063492

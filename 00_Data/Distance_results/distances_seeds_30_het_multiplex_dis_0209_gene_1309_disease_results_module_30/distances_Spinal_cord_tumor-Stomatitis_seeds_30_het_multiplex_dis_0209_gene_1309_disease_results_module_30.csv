@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Stomatitis nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,14,19,0.04864433811802238
+2,disease_on_drugs,22,29,-0.029503964595242405

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,9,25,0.17281045751634005
+1,disease_on_symptoms,27,24,1.8607026143790848
+2,disease_on_drugs,9,23,0.96875

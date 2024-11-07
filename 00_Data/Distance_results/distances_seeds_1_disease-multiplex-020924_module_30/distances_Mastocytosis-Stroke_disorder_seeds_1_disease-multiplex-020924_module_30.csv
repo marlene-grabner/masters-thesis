@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,18,30,0.37222222222222223
+1,disease_on_symptoms,28,15,0.9259413067552602
+2,disease_on_drugs,17,30,0.7071339173967459

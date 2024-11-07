@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,29,29,-0.48275862068965514
+1,disease_on_symptoms,20,20,-0.625
+2,disease_on_drugs,25,28,-0.4706873315363881

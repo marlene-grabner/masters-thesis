@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Keloid nodes,sAB
+0,disease_on_genes,20,22,0.02478354978355002
+1,disease_on_symptoms,24,20,0.7746212121212119
+2,disease_on_drugs,18,19,-0.0848348348348349

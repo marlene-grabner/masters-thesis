@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.0334307992202727
+1,disease_on_symptoms,21,17,0.1871590741559781
+2,disease_on_drugs,24,27,-0.040441176470588425

@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,0.1412280701754387
+1,disease_on_symptoms,15,23,1.5552250190694126
+2,disease_on_drugs,29,20,1.1664320900774103

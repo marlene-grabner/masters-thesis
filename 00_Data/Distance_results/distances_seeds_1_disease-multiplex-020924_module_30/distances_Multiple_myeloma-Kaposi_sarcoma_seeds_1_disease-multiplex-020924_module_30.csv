@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,-0.16422764227642273
+1,disease_on_symptoms,21,27,0.5208333333333335
+2,disease_on_drugs,25,13,-0.09263157894736851

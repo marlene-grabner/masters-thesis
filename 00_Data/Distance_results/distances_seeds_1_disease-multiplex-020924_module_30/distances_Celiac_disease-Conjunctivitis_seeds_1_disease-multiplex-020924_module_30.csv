@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,17,27,0.1726579520697169
+1,disease_on_symptoms,22,27,2.9334845049130767
+2,disease_on_drugs,15,26,0.24527829893683561

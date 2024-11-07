@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,-0.05295566502463045
+1,disease_on_symptoms,13,20,0.4144522144522145
+2,disease_on_drugs,28,27,0.14675324675324686

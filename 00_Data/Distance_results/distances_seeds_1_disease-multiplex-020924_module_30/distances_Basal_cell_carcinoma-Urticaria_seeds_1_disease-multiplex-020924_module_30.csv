@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,10,0.42521367521367526
+1,disease_on_symptoms,23,27,1.7954911433172303
+2,disease_on_drugs,25,9,1.0

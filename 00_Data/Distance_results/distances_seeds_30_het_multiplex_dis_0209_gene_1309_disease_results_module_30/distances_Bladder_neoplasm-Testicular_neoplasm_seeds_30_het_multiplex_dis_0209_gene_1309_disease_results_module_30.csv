@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,-0.29450980392156867
+1,disease_on_symptoms,19,26,-0.4376518218623484
+2,disease_on_drugs,25,24,-0.26700680272108857

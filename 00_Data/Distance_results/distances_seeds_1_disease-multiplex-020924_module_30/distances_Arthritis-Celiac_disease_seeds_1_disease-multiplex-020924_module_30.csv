@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.06883604505632035
+1,disease_on_symptoms,19,22,1.2342747111681642
+2,disease_on_drugs,29,15,0.1649425287356321

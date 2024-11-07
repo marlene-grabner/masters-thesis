@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,28,29,0.03508771929824572
+1,disease_on_symptoms,18,20,0.23274853801169626
+2,disease_on_drugs,23,28,-0.028665814151747737

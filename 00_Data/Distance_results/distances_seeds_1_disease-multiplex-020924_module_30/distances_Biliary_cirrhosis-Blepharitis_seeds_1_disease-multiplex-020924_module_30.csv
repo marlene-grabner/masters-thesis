@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.6706521739130435
+1,disease_on_symptoms,15,27,1.8878306878306876
+2,disease_on_drugs,15,19,0.8512899896800827

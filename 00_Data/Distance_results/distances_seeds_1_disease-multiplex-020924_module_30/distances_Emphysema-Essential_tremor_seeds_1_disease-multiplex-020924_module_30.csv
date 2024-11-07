@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.02254901960784328
+1,disease_on_symptoms,14,20,1.2850840336134453
+2,disease_on_drugs,29,19,0.1820175438596492

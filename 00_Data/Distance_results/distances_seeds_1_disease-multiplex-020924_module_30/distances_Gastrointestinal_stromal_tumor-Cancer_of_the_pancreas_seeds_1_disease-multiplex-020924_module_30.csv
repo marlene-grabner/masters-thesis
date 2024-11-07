@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,23,29,-0.1663879598662208
+1,disease_on_symptoms,20,16,-0.13749999999999996
+2,disease_on_drugs,19,29,0.0035919540229885083

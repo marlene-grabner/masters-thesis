@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,-0.017857142857142794
+1,disease_on_symptoms,14,17,-0.36168338303063163
+2,disease_on_drugs,27,25,-0.09472934472934491

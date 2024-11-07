@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,29,18,-0.06382978723404253
+1,disease_on_symptoms,14,21,2.242857142857143
+2,disease_on_drugs,22,17,-0.01912793089263687

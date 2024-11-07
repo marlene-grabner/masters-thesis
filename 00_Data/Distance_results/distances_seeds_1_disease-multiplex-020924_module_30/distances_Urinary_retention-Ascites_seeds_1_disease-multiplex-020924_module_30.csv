@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.19358741681790703
+1,disease_on_symptoms,18,17,0.9661531279178337
+2,disease_on_drugs,19,27,0.2568014238494787

@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,0.01847290640394106
+1,disease_on_symptoms,17,20,0.7288950715421301
+2,disease_on_drugs,24,28,0.1939102564102566

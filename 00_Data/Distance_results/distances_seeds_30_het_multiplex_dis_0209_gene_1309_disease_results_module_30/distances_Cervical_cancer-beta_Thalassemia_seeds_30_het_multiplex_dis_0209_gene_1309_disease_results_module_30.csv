@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,22,13,0.24255744255744283
+2,disease_on_drugs,15,24,0.016987179487179427

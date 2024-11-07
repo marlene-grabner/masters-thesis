@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,-0.0009746588693957392
+1,disease_on_symptoms,19,23,0.5377574370709381
+2,disease_on_drugs,29,15,-0.13181818181818183

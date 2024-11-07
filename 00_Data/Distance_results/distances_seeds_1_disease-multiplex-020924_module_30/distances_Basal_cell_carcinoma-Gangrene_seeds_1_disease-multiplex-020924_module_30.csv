@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,26,0.3076923076923077
+1,disease_on_symptoms,23,19,1.8495150920780214
+2,disease_on_drugs,25,23,0.6865942028985506

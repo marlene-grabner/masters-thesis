@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.5740740740740742
+1,disease_on_symptoms,15,12,2.0611111111111113
+2,disease_on_drugs,21,21,0.8809523809523809

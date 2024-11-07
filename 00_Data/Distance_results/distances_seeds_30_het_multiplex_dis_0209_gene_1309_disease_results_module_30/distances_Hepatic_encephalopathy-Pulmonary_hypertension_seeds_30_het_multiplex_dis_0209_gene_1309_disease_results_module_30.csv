@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.2068965517241379
+1,disease_on_symptoms,14,18,0.4900793650793651
+2,disease_on_drugs,29,27,-0.1583880678708267

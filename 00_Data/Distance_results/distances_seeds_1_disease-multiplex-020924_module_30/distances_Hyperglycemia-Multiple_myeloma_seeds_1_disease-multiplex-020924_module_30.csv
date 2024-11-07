@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,0.09404761904761916
+1,disease_on_symptoms,14,21,1.361904761904762
+2,disease_on_drugs,26,25,0.7443137254901961

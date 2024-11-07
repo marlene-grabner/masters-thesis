@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,22,28,0.2594155844155843
+1,disease_on_symptoms,23,20,1.299797775530839
+2,disease_on_drugs,20,28,0.7416666666666667

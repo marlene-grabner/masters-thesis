@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,22,17,1.7694021664609902
+2,disease_on_drugs,24,25,0.4089115646258503

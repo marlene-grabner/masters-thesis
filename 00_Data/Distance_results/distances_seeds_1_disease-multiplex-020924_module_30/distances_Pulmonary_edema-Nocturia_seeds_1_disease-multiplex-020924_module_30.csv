@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,21,0.32698412698412693
+1,disease_on_symptoms,14,24,1.4957706766917294
+2,disease_on_drugs,27,14,0.5143566911859594

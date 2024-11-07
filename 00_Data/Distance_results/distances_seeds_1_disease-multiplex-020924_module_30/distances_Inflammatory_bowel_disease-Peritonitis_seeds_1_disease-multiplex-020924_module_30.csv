@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Peritonitis nodes,sAB
+0,disease_on_genes,17,30,0.22880434782608683
+1,disease_on_symptoms,27,17,1.7941671618142205
+2,disease_on_drugs,14,28,0.23809523809523814

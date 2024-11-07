@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,28,0.6538720538720537
+1,disease_on_symptoms,20,12,2.275
+2,disease_on_drugs,15,21,0.7619047619047619

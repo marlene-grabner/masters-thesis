@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,18,0.5222222222222221
+1,disease_on_symptoms,17,28,1.5491363211951448
+2,disease_on_drugs,17,17,0.7058823529411764

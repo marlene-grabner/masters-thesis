@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,22,18,-0.12146464646464672
+2,disease_on_drugs,30,21,0.11904761904761885

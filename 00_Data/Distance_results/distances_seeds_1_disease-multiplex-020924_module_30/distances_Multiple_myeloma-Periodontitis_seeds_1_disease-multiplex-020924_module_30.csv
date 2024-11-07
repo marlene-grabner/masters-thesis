@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,26,23,0.09804791481810127
+1,disease_on_symptoms,21,25,1.09768115942029
+2,disease_on_drugs,25,22,0.679052224371373

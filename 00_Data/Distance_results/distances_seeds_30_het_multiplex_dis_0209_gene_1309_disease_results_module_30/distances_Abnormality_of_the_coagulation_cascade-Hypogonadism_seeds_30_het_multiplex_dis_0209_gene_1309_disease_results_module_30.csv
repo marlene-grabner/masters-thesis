@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,24,30,-0.12962962962962965
+1,disease_on_symptoms,24,17,0.5241511238641801
+2,disease_on_drugs,23,29,-0.16249567523930342

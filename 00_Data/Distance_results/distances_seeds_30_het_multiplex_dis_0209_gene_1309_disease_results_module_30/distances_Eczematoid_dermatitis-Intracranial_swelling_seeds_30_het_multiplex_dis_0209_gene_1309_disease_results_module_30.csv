@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,25,11,0.52010101010101
+2,disease_on_drugs,30,21,-0.005182072829131634

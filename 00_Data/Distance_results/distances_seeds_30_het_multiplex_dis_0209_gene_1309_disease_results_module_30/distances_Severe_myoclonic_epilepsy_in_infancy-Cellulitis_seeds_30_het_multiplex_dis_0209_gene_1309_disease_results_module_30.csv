@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.41666666666666674
+1,disease_on_symptoms,14,20,1.8957983193277312
+2,disease_on_drugs,21,26,0.7301262567220015

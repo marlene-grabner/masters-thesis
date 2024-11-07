@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.1417391304347827
+1,disease_on_symptoms,21,19,0.5504385964912282
+2,disease_on_drugs,23,22,-0.10830039525691704

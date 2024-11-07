@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,28,0.31034482758620685
+1,disease_on_symptoms,14,21,0.9738095238095239
+2,disease_on_drugs,27,21,0.4986772486772486

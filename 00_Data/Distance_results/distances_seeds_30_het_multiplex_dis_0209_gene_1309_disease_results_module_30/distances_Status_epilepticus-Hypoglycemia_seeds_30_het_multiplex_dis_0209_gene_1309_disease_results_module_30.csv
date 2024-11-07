@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,19,0.11257309941520455
+2,disease_on_drugs,30,27,0.02992202729044835

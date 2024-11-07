@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,29,27,0.24995438788542246
+1,disease_on_symptoms,17,23,1.9353580562659847
+2,disease_on_drugs,30,15,0.7555555555555555

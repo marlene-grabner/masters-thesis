@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,15,25,0.3966666666666667
+1,disease_on_symptoms,25,24,0.8582482993197278
+2,disease_on_drugs,10,23,0.5666666666666667

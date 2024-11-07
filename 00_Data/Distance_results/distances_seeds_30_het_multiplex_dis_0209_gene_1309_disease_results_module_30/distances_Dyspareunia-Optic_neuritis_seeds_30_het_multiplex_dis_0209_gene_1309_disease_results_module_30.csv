@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,29,27,-0.1428571428571429
+1,disease_on_symptoms,20,21,-0.05104529616724718
+2,disease_on_drugs,28,27,-0.12567340067340083

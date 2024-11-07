@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,21,17,0.496314315199764
+1,disease_on_symptoms,20,22,3.183333333333333
+2,disease_on_drugs,19,15,0.8784313725490198

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,29,30,0.13587570621468936
+1,disease_on_symptoms,20,18,0.5159356725146198
+2,disease_on_drugs,27,21,0.720568783068783

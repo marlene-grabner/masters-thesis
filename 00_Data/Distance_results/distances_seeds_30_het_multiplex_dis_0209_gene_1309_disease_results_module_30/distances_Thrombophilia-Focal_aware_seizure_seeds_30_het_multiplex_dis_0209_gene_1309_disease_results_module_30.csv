@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,0.1607142857142858
+1,disease_on_symptoms,18,16,0.49959150326797386
+2,disease_on_drugs,22,29,0.394630893109595

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Pericarditis nodes,sAB
+0,disease_on_genes,9,25,0.016339869281045916
+1,disease_on_symptoms,27,22,1.523397237682952
+2,disease_on_drugs,9,25,0.6270588235294117

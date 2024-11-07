@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,27,25,0.11455840455840449
+1,disease_on_symptoms,21,19,1.2521929824561404
+2,disease_on_drugs,27,18,0.7129629629629628

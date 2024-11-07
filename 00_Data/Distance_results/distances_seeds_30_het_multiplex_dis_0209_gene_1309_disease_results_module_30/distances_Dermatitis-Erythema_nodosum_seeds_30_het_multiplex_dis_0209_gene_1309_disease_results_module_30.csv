@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,14,22,-0.07034632034632016
+2,disease_on_drugs,28,29,0.03474202748249944

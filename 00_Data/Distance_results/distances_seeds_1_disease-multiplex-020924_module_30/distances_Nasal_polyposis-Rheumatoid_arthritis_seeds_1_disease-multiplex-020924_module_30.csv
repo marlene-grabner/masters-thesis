@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,15,27,0.45873015873015865
+1,disease_on_symptoms,25,15,1.4833333333333334
+2,disease_on_drugs,10,25,0.36571428571428566

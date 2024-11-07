@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,22,17,0.8763540381187442
+2,disease_on_drugs,29,25,0.6271264367816092

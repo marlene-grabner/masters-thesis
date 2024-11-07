@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Diarrhea nodes,sAB
+0,disease_on_genes,22,27,0.13607160035731458
+1,disease_on_symptoms,22,19,0.9696580697864394
+2,disease_on_drugs,14,26,0.9236263736263735

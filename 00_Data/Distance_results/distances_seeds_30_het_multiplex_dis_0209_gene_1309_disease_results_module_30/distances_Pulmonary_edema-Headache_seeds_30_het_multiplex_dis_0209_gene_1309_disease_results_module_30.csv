@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,11,23,0.20530109276912345
+2,disease_on_drugs,27,23,0.048792270531401005

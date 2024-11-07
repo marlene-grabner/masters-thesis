@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Dysuria nodes,sAB
+0,disease_on_genes,21,30,0.04377668308702787
+1,disease_on_symptoms,22,16,0.9505083732057416
+2,disease_on_drugs,21,23,0.22176736307171097

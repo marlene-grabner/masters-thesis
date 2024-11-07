@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.1694915254237288
+1,disease_on_symptoms,25,20,-0.20111111111111102
+2,disease_on_drugs,30,28,-0.20948275862068966

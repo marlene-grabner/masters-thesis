@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,30,0.17543859649122817
+1,disease_on_symptoms,22,15,0.5510647010647012
+2,disease_on_drugs,27,23,0.22167471819645712

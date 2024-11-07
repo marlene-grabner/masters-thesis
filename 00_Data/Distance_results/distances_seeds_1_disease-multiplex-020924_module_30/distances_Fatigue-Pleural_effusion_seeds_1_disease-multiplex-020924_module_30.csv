@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.08772893772893764
+1,disease_on_symptoms,21,20,0.7553135888501741
+2,disease_on_drugs,26,22,0.3157051282051284

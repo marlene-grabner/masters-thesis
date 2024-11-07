@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,10,27,0.45945945945945943
+1,disease_on_symptoms,27,17,1.9459794018617547
+2,disease_on_drugs,9,26,0.875824175824176

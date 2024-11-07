@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,29,24,-0.13207547169811318
+1,disease_on_symptoms,20,19,0.7127867746288801
+2,disease_on_drugs,27,24,-0.049428104575163445

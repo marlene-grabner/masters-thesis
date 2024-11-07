@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,12,30,0.36309523809523814
+1,disease_on_symptoms,27,16,1.6504629629629628
+2,disease_on_drugs,9,24,0.5839646464646464

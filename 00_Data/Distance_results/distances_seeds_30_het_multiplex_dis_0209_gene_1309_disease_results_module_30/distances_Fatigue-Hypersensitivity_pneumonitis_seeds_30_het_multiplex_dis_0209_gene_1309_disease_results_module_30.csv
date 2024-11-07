@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,25,-0.1557315233785822
+1,disease_on_symptoms,16,20,1.5944444444444446
+2,disease_on_drugs,26,25,-0.0177828054298641

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.1597069597069597
+1,disease_on_symptoms,22,25,0.6349323017408124
+2,disease_on_drugs,29,25,-0.09213282247764987

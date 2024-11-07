@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,0.1206896551724137
+1,disease_on_symptoms,11,17,1.312261268143621
+2,disease_on_drugs,24,27,0.23556644880174282

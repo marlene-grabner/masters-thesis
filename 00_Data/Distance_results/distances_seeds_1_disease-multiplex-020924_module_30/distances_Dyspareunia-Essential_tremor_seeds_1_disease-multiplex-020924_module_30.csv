@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,24,21,0.2666666666666666
+1,disease_on_symptoms,17,20,0.6954292527821939
+2,disease_on_drugs,23,19,0.8132287239838727

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,24,18,0.14583333333333326
+1,disease_on_symptoms,18,21,2.3745421245421245
+2,disease_on_drugs,18,17,0.3974789915966386

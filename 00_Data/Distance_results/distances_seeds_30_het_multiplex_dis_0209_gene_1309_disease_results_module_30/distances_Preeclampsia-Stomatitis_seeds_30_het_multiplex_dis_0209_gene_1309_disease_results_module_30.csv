@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,18,19,1.0076260470997314
+2,disease_on_drugs,22,29,0.10685967176839384

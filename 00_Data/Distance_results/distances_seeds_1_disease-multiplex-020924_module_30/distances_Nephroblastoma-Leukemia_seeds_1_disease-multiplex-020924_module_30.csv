@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,-0.12976744186046518
+1,disease_on_symptoms,25,27,-0.0552421652421653
+2,disease_on_drugs,21,17,-0.2198142414860682

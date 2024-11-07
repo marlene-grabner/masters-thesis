@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.2981481481481483
+1,disease_on_symptoms,15,17,0.49987745098039227
+2,disease_on_drugs,21,23,0.3882458121588557

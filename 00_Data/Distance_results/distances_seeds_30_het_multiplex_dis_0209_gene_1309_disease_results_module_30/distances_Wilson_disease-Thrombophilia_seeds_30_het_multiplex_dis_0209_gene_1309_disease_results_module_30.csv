@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,25,27,0.019230769230769162
+1,disease_on_symptoms,19,18,0.5991386122965072
+2,disease_on_drugs,22,22,0.25

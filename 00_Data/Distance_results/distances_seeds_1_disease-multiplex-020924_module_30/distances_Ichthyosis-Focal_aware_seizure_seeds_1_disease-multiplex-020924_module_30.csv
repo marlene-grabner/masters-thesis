@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,0.373015873015873
+1,disease_on_symptoms,17,15,1.2306372549019609
+2,disease_on_drugs,24,29,0.7547169811320755

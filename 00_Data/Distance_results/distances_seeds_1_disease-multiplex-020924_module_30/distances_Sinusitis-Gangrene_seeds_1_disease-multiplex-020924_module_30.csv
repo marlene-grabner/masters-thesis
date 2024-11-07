@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,29,26,0.23918495297805653
+1,disease_on_symptoms,21,19,0.5013784461152881
+2,disease_on_drugs,28,23,0.5913561076604557

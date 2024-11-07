@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,17,-0.210997442455243
+1,disease_on_symptoms,19,24,0.7946501427988577
+2,disease_on_drugs,29,16,0.20198754789272022

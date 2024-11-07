@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,29,17,0.012787723785166127
+1,disease_on_symptoms,16,28,0.541801948051948
+2,disease_on_drugs,26,9,0.3999999999999999

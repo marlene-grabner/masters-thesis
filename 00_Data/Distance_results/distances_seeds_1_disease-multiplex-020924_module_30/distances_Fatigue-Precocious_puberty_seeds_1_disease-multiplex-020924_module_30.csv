@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,0.24963369963369964
+1,disease_on_symptoms,21,14,0.8
+2,disease_on_drugs,26,24,1.0015384615384617

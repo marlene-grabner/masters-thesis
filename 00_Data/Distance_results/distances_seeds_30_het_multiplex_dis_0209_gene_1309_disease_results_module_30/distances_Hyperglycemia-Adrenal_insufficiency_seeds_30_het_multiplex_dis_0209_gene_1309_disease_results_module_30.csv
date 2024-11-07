@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,17,15,-0.37512254901960773
+2,disease_on_drugs,26,24,-0.02121794871794891

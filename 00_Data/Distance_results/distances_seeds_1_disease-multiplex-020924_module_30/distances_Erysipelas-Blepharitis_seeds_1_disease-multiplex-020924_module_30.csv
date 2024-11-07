@@ -1,0 +1,4 @@
+,Layer,Erysipelas nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,20,-0.5398809523809524
+1,disease_on_symptoms,20,27,-0.45066981875492507
+2,disease_on_drugs,27,19,-0.5526315789473686

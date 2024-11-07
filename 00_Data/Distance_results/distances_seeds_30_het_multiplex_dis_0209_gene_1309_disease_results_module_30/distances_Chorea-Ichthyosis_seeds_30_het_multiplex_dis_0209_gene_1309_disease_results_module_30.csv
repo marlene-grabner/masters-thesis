@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.017857142857142794
+1,disease_on_symptoms,17,18,0.4882819794584501
+2,disease_on_drugs,24,25,0.32477891156462557

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.15254237288135597
+1,disease_on_symptoms,14,20,0.7838235294117646
+2,disease_on_drugs,29,27,0.4985860244480935

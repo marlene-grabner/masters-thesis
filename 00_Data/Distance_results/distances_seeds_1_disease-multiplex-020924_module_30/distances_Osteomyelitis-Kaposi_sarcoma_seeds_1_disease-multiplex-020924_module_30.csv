@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,25,15,0.2733333333333332
+1,disease_on_symptoms,23,27,1.8315942028985508
+2,disease_on_drugs,23,13,1.0398550724637683

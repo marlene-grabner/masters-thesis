@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,22,-0.04222754932694084
+1,disease_on_symptoms,15,19,1.2482972136222907
+2,disease_on_drugs,29,19,-0.0018905021173623027

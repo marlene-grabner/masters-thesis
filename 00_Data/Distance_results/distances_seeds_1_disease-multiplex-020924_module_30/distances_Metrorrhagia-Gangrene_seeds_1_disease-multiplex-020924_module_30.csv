@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.09433962264150941
+1,disease_on_symptoms,17,19,0.655486756105951
+2,disease_on_drugs,26,23,0.6540850453893932

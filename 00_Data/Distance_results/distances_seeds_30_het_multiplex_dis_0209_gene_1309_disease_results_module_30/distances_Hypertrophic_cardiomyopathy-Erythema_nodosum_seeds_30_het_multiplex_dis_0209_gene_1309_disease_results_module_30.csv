@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,22,0.6807387093009685
+2,disease_on_drugs,22,29,0.09355215440408138

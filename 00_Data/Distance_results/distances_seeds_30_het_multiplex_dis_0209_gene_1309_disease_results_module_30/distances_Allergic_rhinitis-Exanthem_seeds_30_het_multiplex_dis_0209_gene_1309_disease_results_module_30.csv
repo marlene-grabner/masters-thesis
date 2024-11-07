@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,28,30,-0.13735632183908042
+1,disease_on_symptoms,20,21,-0.4621660859465737
+2,disease_on_drugs,25,29,-0.2485568326947637

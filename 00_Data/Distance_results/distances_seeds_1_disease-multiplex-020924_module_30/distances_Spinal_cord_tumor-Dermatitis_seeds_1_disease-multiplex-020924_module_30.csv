@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Dermatitis nodes,sAB
+0,disease_on_genes,22,26,0.30899419729206956
+1,disease_on_symptoms,22,25,1.1888201160541585
+2,disease_on_drugs,14,24,0.5354010025062657

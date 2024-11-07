@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,18,23,0.44986449864498645
+1,disease_on_symptoms,21,25,1.2160662525879917
+2,disease_on_drugs,6,21,0.5740740740740742

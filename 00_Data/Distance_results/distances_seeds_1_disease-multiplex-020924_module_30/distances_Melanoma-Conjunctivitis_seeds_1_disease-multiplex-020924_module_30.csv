@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,24,27,0.275599128540305
+1,disease_on_symptoms,23,27,1.6448953301127212
+2,disease_on_drugs,22,26,0.5657051282051284

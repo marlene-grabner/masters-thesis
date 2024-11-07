@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Cholangitis nodes,sAB
+0,disease_on_genes,29,27,0.30092592592592604
+1,disease_on_symptoms,15,22,2.3253890253890255
+2,disease_on_drugs,27,26,1.283717679944095

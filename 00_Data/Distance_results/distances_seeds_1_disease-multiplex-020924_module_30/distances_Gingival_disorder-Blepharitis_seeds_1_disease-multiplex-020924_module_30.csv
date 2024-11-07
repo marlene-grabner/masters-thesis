@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Blepharitis nodes,sAB
+0,disease_on_genes,21,20,0.0255226480836237
+1,disease_on_symptoms,26,27,0.867870773531151
+2,disease_on_drugs,20,19,-0.052631578947368585

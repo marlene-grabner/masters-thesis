@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,21,30,0.11638655462184877
+1,disease_on_symptoms,22,21,1.167925098157656
+2,disease_on_drugs,21,27,0.06779100529100535

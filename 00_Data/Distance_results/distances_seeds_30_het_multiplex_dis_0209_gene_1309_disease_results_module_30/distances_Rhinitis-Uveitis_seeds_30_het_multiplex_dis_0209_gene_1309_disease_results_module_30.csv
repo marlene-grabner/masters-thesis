@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,12,20,0.2979166666666666
+2,disease_on_drugs,23,23,0.021739130434782483

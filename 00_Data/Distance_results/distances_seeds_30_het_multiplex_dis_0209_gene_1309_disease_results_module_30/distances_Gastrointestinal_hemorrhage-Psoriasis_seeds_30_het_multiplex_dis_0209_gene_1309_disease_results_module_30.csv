@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,30,-0.05233990147783241
+1,disease_on_symptoms,20,17,0.457790143084261
+2,disease_on_drugs,27,30,0.08362573099415216

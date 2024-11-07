@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.07000000000000006
+1,disease_on_symptoms,19,23,1.135229377792307
+2,disease_on_drugs,30,17,0.5469336670838547

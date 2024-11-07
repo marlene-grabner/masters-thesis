@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,-0.19298245614035092
+1,disease_on_symptoms,17,21,-0.15745245466607694
+2,disease_on_drugs,26,25,-0.17852187028657607

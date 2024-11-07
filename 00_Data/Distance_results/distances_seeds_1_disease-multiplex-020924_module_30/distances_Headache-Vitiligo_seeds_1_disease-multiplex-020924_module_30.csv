@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,24,0.23564814814814805
+1,disease_on_symptoms,25,22,1.5399806576402324
+2,disease_on_drugs,26,11,0.6834719334719335

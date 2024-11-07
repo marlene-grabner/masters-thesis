@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,15,14,0.11264367816091969
+2,disease_on_drugs,24,24,0.25

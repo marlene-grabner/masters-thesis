@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.11864406779661008
+1,disease_on_symptoms,17,18,0.23352007469654512
+2,disease_on_drugs,29,28,0.43883415435139583

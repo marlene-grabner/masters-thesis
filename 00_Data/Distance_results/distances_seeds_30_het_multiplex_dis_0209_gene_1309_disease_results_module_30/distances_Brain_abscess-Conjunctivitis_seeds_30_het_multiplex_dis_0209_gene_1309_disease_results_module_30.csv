@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.1964285714285714
+1,disease_on_symptoms,21,27,0.6273148148148149
+2,disease_on_drugs,23,28,0.16566191694068944

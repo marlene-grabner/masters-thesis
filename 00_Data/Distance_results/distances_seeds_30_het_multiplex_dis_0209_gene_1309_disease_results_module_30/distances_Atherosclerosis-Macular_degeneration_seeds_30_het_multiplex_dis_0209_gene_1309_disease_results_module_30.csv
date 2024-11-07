@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,14,17,0.5246679316888048
+2,disease_on_drugs,29,17,0.07804921068877335

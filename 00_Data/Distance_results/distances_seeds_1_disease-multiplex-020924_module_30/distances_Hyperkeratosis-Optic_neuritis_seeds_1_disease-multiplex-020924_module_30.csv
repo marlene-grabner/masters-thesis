@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,0.13241143901521246
+1,disease_on_symptoms,21,16,0.945020913770914
+2,disease_on_drugs,23,27,0.1029629629629627

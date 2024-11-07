@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,23,30,0.2497949138638227
+1,disease_on_symptoms,20,17,0.9089030206677267
+2,disease_on_drugs,19,25,1.13

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,-0.07023809523809521
+1,disease_on_symptoms,20,18,0.18333333333333335
+2,disease_on_drugs,24,28,0.19551282051282026

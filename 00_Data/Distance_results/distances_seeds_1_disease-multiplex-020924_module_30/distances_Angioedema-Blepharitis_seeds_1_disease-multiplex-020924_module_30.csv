@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.019642857142857073
+1,disease_on_symptoms,17,27,0.23474945533769054
+2,disease_on_drugs,25,19,0.038277511961722244

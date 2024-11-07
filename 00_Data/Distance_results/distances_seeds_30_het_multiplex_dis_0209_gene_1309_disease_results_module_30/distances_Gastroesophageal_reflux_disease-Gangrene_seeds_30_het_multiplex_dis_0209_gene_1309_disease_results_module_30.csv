@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,0.018505079825834603
+1,disease_on_symptoms,18,22,0.40707070707070736
+2,disease_on_drugs,25,27,0.2511396011396012

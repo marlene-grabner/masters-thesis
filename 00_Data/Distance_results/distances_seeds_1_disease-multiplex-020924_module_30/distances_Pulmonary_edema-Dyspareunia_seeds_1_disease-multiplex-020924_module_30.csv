@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.20370370370370372
+1,disease_on_symptoms,14,17,0.39543236649498503
+2,disease_on_drugs,27,23,0.5777455716586151

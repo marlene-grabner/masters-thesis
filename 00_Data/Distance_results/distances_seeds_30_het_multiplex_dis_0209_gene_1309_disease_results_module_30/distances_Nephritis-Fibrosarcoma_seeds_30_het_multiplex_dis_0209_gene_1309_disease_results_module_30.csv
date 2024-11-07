@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,14,0.2571835185687177
+2,disease_on_drugs,25,26,0.1759577677224735

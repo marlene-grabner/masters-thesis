@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,21,28,0.22363945578231292
+1,disease_on_symptoms,20,18,2.149707602339181
+2,disease_on_drugs,19,26,0.4474358974358974

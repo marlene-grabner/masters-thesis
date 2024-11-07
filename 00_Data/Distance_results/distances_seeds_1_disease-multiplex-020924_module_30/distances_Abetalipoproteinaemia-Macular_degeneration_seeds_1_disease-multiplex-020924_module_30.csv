@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,17,30,0.4432832707551104
+1,disease_on_symptoms,25,15,0.6433333333333335
+2,disease_on_drugs,13,21,0.9377289377289377

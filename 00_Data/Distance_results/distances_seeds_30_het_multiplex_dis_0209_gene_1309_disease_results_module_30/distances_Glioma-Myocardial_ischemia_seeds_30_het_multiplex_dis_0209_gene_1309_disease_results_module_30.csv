@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,22,30,-0.2089743589743589
+1,disease_on_symptoms,21,19,0.28703007518796997
+2,disease_on_drugs,21,30,-0.12436974789915978

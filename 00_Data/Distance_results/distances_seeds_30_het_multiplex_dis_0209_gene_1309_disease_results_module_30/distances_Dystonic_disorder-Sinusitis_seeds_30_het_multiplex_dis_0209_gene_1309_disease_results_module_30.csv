@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,17,20,0.8712639109697937
+2,disease_on_drugs,26,27,0.2822394237488577

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,27,30,-0.1413255360623783
+1,disease_on_symptoms,23,17,-0.08030690537084384
+2,disease_on_drugs,25,28,-0.05405660377358501

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.07007797270955174
+1,disease_on_symptoms,21,17,0.8516143299425032
+2,disease_on_drugs,27,17,0.14517726282432175

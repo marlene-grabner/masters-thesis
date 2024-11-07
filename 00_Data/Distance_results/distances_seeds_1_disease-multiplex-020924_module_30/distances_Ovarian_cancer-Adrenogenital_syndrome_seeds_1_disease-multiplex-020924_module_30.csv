@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.4035087719298245
+1,disease_on_symptoms,17,7,2.380252100840336
+2,disease_on_drugs,25,22,0.6721470019342362

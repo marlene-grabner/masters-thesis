@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,18,15,0.48838383838383836
+2,disease_on_drugs,22,30,0.1266899766899765

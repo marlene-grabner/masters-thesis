@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,22,0.14113928399642672
+1,disease_on_symptoms,21,19,0.6787593984962403
+2,disease_on_drugs,23,19,0.20039228506047735

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,25,30,0.018181818181818077
+1,disease_on_symptoms,19,15,0.24107327141382884
+2,disease_on_drugs,23,24,-0.04083795868023432

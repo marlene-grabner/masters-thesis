@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,14,14,-0.2857142857142858
+2,disease_on_drugs,27,24,-0.018654684095860574

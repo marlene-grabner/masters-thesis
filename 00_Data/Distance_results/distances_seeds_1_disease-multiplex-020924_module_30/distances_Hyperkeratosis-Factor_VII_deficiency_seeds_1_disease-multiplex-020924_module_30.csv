@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.25410256410256404
+1,disease_on_symptoms,21,23,2.154103143233578
+2,disease_on_drugs,23,21,0.9523809523809523

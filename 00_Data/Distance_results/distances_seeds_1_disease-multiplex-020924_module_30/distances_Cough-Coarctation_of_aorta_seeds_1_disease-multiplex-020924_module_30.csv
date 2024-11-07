@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,0.31481481481481466
+1,disease_on_symptoms,21,14,2.0738095238095235
+2,disease_on_drugs,27,13,0.4379629629629629

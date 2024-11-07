@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.00030248033877811054
+1,disease_on_symptoms,20,17,0.8707074721780605
+2,disease_on_drugs,24,25,-0.06134353741496601

@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,24,0.16435185185185186
+1,disease_on_symptoms,16,20,0.6006944444444444
+2,disease_on_drugs,23,22,0.7328282828282828

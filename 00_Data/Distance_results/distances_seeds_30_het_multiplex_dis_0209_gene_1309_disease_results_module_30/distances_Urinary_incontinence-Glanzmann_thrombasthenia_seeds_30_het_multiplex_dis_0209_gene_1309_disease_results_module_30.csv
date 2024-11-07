@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,29,24,0.3018867924528301
+1,disease_on_symptoms,20,19,1.5813765182186232
+2,disease_on_drugs,20,24,0.760227272727273

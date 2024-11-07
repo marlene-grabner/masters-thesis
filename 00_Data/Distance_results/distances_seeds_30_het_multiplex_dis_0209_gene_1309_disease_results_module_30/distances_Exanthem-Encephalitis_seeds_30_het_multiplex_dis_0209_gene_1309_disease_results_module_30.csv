@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,-0.016666666666666607
+1,disease_on_symptoms,21,13,0.3473389355742298
+2,disease_on_drugs,29,22,-0.08929559284528854

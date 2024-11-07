@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,20,16,0.3180555555555553
+2,disease_on_drugs,28,29,0.12212643678160906

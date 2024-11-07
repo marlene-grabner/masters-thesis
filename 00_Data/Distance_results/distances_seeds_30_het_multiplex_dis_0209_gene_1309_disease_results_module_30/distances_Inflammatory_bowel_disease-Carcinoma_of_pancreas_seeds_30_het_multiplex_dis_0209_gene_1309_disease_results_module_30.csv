@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,20,18,0.0001461988304094497
+2,disease_on_drugs,27,21,-0.057208994708994654

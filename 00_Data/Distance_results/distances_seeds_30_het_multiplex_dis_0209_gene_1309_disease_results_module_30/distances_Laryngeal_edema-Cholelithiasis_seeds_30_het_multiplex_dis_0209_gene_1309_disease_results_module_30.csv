@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.0015151515151514694
+1,disease_on_symptoms,16,20,0.7229166666666664
+2,disease_on_drugs,28,18,0.0935990338164252

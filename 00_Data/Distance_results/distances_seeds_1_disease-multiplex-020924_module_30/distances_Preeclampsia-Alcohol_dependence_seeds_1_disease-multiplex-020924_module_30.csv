@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,12,0.4057017543859651
+1,disease_on_symptoms,17,27,1.9749950485244603
+2,disease_on_drugs,23,9,0.7733997584541061

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.43333333333333335
+1,disease_on_symptoms,17,23,-0.6116368286445014
+2,disease_on_drugs,24,24,-0.47916666666666663

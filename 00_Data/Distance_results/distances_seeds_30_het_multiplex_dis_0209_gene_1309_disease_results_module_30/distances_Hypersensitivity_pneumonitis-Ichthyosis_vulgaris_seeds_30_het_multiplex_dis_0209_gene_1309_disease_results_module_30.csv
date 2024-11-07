@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,-0.038461538461538436
+1,disease_on_symptoms,20,21,0.4076945412311268
+2,disease_on_drugs,25,24,-0.08127551020408164

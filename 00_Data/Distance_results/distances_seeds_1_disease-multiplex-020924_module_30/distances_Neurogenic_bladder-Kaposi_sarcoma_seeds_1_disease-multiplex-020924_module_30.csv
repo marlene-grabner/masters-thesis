@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.40000000000000013
+1,disease_on_symptoms,17,27,1.5753119429590017
+2,disease_on_drugs,26,13,1.3076923076923075

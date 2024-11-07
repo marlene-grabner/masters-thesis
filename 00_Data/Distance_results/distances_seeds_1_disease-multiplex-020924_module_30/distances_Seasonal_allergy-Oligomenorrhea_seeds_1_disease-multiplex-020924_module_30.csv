@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,28,0.2292800967937083
+1,disease_on_symptoms,15,12,1.335185185185185
+2,disease_on_drugs,29,21,0.7113300492610837

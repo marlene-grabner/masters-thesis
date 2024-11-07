@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,20,16,-0.13402777777777763
+2,disease_on_drugs,28,29,-0.019769250712989406

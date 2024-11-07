@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,22,27,-0.02779495636638485
+1,disease_on_symptoms,19,27,0.05436901432324781
+2,disease_on_drugs,19,26,-0.10922177237966701

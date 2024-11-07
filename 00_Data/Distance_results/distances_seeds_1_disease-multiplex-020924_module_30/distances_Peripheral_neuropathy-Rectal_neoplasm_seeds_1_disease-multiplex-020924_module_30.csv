@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,20,21,1.1455284552845528
+2,disease_on_drugs,24,29,0.9049826501843419

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,23,27,0.0
+1,disease_on_symptoms,23,18,1.342553316837516
+2,disease_on_drugs,22,22,-0.045454545454545414

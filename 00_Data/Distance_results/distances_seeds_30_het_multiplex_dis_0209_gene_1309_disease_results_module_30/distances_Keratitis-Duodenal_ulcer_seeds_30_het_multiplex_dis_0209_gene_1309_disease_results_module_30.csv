@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.0005747126436781436
+1,disease_on_symptoms,25,17,0.6406162464985996
+2,disease_on_drugs,29,28,0.05104355716878417

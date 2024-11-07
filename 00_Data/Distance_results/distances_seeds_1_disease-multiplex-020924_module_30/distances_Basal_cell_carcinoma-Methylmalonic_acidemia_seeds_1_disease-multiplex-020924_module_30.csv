@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,26,25,0.3313574660633485
+1,disease_on_symptoms,23,16,2.1035395763656632
+2,disease_on_drugs,25,17,1.0420168067226894

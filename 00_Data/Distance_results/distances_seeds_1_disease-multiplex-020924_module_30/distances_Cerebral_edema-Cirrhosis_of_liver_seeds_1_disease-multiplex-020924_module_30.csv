@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.43333333333333335
+1,disease_on_symptoms,9,14,0.07643202208419608
+2,disease_on_drugs,11,26,0.448828198828199

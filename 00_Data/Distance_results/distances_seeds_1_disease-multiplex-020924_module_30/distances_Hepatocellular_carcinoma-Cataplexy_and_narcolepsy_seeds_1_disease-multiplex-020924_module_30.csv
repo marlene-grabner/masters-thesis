@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,23,25,0.2065217391304348
+1,disease_on_symptoms,19,18,2.787853643116801
+2,disease_on_drugs,19,17,1.081699346405229

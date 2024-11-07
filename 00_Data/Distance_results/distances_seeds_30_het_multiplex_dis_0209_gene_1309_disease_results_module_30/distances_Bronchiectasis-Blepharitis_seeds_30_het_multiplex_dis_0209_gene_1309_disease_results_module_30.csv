@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,18,-0.15694642010431492
+2,disease_on_drugs,25,30,0.07393939393939397

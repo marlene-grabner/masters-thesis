@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.0847555036041302
+1,disease_on_symptoms,16,20,0.7506944444444446
+2,disease_on_drugs,28,28,0.0714285714285714

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,20,27,0.30080772261623334
+2,disease_on_drugs,27,28,0.056156806156806294

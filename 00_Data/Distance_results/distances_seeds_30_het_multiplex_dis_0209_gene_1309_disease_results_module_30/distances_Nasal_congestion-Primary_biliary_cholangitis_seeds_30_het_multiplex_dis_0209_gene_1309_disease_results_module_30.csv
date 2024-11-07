@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,14,23,0.18486654356219567
+2,disease_on_drugs,25,26,0.07831070889894409

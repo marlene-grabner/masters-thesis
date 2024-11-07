@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,29,30,-0.018118059614260718
+1,disease_on_symptoms,15,22,0.5210073710073706
+2,disease_on_drugs,29,28,0.28069095151672285

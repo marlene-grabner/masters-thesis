@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Fatigue nodes,sAB
+0,disease_on_genes,28,26,-0.20517908017908038
+1,disease_on_symptoms,19,16,0.5990601503759398
+2,disease_on_drugs,22,26,-0.18822843822843827

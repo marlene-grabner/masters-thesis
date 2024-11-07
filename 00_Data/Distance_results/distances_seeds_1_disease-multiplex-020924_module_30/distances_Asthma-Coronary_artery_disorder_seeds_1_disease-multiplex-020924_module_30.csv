@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.1582296650717705
+1,disease_on_symptoms,19,21,2.541979949874687
+2,disease_on_drugs,24,17,0.39735772357723587

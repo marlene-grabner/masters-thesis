@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.3693957115009747
+1,disease_on_symptoms,19,19,-0.368421052631579
+2,disease_on_drugs,30,24,-0.4097222222222222

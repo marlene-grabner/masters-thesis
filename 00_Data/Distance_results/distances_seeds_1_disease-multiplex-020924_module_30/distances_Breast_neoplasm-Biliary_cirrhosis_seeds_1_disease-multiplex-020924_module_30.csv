@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.3571428571428572
+1,disease_on_symptoms,16,15,0.7735887096774194
+2,disease_on_drugs,30,15,1.0222222222222224

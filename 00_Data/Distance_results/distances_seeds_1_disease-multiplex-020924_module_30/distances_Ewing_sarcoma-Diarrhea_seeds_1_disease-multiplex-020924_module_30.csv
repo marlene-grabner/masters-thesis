@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,24,27,0.2762799564270153
+1,disease_on_symptoms,25,19,2.0595693779904307
+2,disease_on_drugs,17,26,1.3296064400715566

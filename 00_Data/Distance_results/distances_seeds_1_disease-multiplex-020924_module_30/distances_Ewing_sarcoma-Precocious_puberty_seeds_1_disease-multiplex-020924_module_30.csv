@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,24,30,0.20046296296296306
+1,disease_on_symptoms,25,14,0.07838827838827833
+2,disease_on_drugs,17,24,0.1707317073170731

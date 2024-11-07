@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Meningitis nodes,sAB
+0,disease_on_genes,17,29,0.4764088543963312
+1,disease_on_symptoms,21,20,1.4121080139372824
+2,disease_on_drugs,14,26,0.32499999999999996

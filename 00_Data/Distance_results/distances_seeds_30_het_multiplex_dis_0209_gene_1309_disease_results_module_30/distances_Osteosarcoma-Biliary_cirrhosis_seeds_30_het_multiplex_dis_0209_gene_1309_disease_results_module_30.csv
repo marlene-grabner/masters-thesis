@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.0010073260073260037
+1,disease_on_symptoms,22,22,0.40909090909090917
+2,disease_on_drugs,29,25,0.08712643678160914

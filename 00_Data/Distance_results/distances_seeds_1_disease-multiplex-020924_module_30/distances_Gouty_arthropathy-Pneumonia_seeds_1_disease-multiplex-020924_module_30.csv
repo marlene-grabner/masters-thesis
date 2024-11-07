@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,0.26848484848484855
+1,disease_on_symptoms,13,26,1.4294871794871793
+2,disease_on_drugs,16,28,0.7414772727272727

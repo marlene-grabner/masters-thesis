@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,18,11,0.06661442006269591
+2,disease_on_drugs,25,21,-0.39569358178053815

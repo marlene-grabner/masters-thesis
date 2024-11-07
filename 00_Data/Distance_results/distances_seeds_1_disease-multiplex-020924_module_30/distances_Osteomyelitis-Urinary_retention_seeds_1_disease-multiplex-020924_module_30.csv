@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.443978779840849
+1,disease_on_symptoms,23,18,2.375957346529987
+2,disease_on_drugs,23,19,0.5680505611855726

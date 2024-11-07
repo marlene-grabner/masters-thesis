@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,17,12,0.5303414469235972
+1,disease_on_symptoms,28,27,2.854196729196729
+2,disease_on_drugs,9,9,1.2222222222222223

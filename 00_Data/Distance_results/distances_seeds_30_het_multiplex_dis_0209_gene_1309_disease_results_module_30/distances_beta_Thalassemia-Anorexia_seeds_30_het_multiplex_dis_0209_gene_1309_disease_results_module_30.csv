@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.15283459964932777
+1,disease_on_symptoms,13,13,0.1923076923076925
+2,disease_on_drugs,24,28,-0.127518315018315

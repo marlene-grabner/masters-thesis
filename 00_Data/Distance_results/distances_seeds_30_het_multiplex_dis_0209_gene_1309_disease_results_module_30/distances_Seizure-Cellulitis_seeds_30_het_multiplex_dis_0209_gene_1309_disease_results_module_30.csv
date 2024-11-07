@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,21,20,0.8300232288037166
+2,disease_on_drugs,29,26,0.5600554617795996

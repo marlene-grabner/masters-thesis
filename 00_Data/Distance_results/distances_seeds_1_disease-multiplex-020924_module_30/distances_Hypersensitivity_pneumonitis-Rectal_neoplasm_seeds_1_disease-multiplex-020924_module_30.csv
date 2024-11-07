@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,24,30,0.11111111111111116
+1,disease_on_symptoms,23,21,0.5487483530961792
+2,disease_on_drugs,24,29,0.3806115810019519

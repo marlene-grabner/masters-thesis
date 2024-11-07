@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.038484848484848566
+1,disease_on_symptoms,20,21,0.12076074332171904
+2,disease_on_drugs,30,24,0.26111111111111107

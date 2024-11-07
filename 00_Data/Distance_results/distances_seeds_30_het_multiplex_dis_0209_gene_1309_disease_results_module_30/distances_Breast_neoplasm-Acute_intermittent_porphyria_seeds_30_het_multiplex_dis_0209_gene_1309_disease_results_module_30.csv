@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,20,17,0.9261923688394276
+2,disease_on_drugs,30,24,0.15509259259259278

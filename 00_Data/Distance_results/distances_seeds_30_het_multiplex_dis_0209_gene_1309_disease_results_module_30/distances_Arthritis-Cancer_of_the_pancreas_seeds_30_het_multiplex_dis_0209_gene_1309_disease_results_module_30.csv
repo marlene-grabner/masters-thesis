@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,23,0.5032103134479271
+2,disease_on_drugs,29,30,0.20362361192285228

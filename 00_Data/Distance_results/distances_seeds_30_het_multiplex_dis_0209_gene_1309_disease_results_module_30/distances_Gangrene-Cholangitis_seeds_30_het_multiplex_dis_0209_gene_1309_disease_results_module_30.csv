@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,22,18,0.14595959595959584
+2,disease_on_drugs,27,28,0.09244829244829234

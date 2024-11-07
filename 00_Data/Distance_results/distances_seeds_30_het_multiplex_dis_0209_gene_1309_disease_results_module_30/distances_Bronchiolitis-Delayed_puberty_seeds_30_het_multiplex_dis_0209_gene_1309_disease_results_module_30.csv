@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,28,30,-0.06896551724137934
+1,disease_on_symptoms,25,16,0.08378048780487823
+2,disease_on_drugs,24,29,0.03339839514205156

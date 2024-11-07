@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,22,26,0.08333333333333326
+1,disease_on_symptoms,21,18,1.1358363858363858
+2,disease_on_drugs,17,26,0.26628433126381146

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,0.12068965517241392
+1,disease_on_symptoms,17,14,1.741257793439957
+2,disease_on_drugs,26,28,0.6474358974358976

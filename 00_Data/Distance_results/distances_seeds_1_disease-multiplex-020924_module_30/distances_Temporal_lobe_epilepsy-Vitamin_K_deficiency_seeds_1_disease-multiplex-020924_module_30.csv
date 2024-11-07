@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.10498084291187748
+1,disease_on_symptoms,17,23,1.2421994884910488
+2,disease_on_drugs,26,20,0.800334448160535

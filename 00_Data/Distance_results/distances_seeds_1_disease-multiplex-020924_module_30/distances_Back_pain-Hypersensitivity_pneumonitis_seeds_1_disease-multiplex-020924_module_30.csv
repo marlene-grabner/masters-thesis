@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,24,0.02777777777777768
+1,disease_on_symptoms,16,23,0.4651964882943145
+2,disease_on_drugs,23,24,0.2127659574468086

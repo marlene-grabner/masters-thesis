@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,0.13723981900452498
+1,disease_on_symptoms,20,19,1.4927125506072876
+2,disease_on_drugs,27,24,0.5095315904139432

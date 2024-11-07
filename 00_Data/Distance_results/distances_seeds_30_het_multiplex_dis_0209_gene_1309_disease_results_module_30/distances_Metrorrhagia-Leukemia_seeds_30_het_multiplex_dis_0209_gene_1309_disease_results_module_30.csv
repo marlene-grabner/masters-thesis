@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,30,-0.33333333333333337
+1,disease_on_symptoms,17,21,-0.5694383016364439
+2,disease_on_drugs,26,30,-0.34294871794871806

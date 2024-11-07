@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,0.0370370370370372
+1,disease_on_symptoms,21,19,0.9793233082706767
+2,disease_on_drugs,27,24,0.35117102396514155

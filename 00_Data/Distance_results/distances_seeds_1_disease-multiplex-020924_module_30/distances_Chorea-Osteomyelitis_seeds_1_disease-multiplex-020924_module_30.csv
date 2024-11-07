@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,14,25,0.5709523809523811
+1,disease_on_symptoms,27,23,2.7427053140096618
+2,disease_on_drugs,8,23,0.8617636746143058

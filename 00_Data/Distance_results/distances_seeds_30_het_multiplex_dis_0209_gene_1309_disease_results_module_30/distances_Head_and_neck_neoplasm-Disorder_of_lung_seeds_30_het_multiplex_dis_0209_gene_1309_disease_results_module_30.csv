@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.17456140350877192
+1,disease_on_symptoms,22,18,-0.18055555555555558
+2,disease_on_drugs,27,24,-0.19975490196078427

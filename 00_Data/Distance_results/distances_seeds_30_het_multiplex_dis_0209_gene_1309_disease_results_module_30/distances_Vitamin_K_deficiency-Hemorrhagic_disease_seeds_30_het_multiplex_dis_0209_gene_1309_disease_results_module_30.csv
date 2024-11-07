@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,26,0.11764705882352944
+1,disease_on_symptoms,21,19,0.6411027568922307
+2,disease_on_drugs,21,24,-0.10238095238095246

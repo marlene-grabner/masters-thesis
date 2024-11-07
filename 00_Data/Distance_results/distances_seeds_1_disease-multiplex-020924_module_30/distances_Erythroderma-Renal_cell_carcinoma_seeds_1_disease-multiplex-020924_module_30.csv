@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,25,0.38090909090909086
+1,disease_on_symptoms,19,24,1.3585781313749492
+2,disease_on_drugs,28,20,0.6875

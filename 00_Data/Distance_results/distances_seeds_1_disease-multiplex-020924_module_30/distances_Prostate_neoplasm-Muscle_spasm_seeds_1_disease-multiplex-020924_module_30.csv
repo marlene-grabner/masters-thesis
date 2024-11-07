@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,17,25,0.3061624649859942
+1,disease_on_symptoms,21,23,1.573734236777715
+2,disease_on_drugs,17,19,1.1911764705882353

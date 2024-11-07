@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.35738859323764993
+1,disease_on_symptoms,21,15,1.6944444444444446
+2,disease_on_drugs,27,16,0.7536606373815675

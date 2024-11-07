@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,20,18,-0.14634502923976633
+2,disease_on_drugs,29,30,-0.23907071887784925

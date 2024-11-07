@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,19,16,0.25093984962406024
+2,disease_on_drugs,22,29,0.02458663716270193

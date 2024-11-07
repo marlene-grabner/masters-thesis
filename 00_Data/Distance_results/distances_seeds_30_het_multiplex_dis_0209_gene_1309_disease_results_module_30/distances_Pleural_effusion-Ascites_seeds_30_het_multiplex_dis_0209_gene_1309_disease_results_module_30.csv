@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,22,0.1636363636363638
+2,disease_on_drugs,27,27,0.0

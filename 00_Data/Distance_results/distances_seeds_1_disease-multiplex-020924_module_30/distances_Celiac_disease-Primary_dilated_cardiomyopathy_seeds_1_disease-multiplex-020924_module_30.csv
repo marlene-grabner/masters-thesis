@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,17,30,0.7071339173967459
+1,disease_on_symptoms,22,25,3.540851063829787
+2,disease_on_drugs,15,7,0.986147186147186

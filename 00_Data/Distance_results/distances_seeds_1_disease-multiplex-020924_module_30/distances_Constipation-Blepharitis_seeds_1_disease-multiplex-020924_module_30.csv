@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.31833333333333336
+1,disease_on_symptoms,17,27,1.5088136264606855
+2,disease_on_drugs,27,19,0.7766759894906348

@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,0.10848484848484863
+1,disease_on_symptoms,25,24,1.1002551020408164
+2,disease_on_drugs,23,24,0.9574082639531296

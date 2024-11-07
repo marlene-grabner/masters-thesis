@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,29,30,0.16977401129943503
+1,disease_on_symptoms,25,20,0.46277777777777773
+2,disease_on_drugs,27,22,-0.04421768707482987

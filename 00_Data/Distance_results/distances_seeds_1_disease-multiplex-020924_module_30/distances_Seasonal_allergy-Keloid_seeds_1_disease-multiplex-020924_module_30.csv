@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Keloid nodes,sAB
+0,disease_on_genes,29,22,0.10126621181387896
+1,disease_on_symptoms,15,20,1.1785714285714284
+2,disease_on_drugs,29,19,0.149425287356322

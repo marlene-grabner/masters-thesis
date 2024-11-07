@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,28,26,0.003968253968253954
+1,disease_on_symptoms,14,19,1.6167122351332879
+2,disease_on_drugs,28,22,1.0863636363636364

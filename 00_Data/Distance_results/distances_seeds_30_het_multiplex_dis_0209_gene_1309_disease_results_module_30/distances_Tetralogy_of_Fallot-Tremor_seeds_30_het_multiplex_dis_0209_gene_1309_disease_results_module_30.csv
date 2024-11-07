@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Tremor nodes,sAB
+0,disease_on_genes,30,27,-0.13771929824561413
+1,disease_on_symptoms,19,17,0.9070347437220501
+2,disease_on_drugs,20,24,0.11969696969696986

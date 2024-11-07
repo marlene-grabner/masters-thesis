@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,16,18,-0.44934640522875813
+2,disease_on_drugs,27,22,-0.3941111798254655

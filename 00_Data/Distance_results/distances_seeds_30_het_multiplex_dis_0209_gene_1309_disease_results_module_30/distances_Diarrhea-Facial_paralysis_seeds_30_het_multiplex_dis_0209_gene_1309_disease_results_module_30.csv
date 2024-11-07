@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.038461538461538436
+1,disease_on_symptoms,21,21,0.8809523809523809
+2,disease_on_drugs,29,17,-0.02804480112884722

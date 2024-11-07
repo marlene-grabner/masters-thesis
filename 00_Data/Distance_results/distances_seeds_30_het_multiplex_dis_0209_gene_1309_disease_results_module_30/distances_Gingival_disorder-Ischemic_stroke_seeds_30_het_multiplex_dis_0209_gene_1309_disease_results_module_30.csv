@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,16,0.16033834586466167
+2,disease_on_drugs,24,28,0.055631868131868156

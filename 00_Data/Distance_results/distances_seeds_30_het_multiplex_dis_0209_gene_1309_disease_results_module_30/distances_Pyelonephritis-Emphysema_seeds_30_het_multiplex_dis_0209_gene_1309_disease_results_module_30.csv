@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Emphysema nodes,sAB
+0,disease_on_genes,24,30,-0.07638888888888906
+1,disease_on_symptoms,19,18,0.5094831673779043
+2,disease_on_drugs,19,27,-0.06242054411390807

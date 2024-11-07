@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666654
+1,disease_on_symptoms,18,17,0.023062558356675922
+2,disease_on_drugs,24,30,-0.005555555555555536

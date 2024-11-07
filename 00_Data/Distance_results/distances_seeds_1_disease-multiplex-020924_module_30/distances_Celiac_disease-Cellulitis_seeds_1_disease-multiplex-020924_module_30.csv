@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Cellulitis nodes,sAB
+0,disease_on_genes,17,22,0.4612265959015185
+1,disease_on_symptoms,22,26,2.4230769230769234
+2,disease_on_drugs,15,12,1.1148148148148151

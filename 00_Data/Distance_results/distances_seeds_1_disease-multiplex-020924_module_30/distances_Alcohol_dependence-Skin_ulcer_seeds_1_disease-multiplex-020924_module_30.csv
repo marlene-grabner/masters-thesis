@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,12,30,0.2940476190476191
+1,disease_on_symptoms,27,19,2.9286380201712006
+2,disease_on_drugs,9,22,0.765721733463669

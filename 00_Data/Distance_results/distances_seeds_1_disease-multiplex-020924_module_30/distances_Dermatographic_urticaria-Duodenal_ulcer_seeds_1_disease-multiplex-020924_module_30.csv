@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,29,28,0.016917293233082775
+1,disease_on_symptoms,14,17,0.49742477636215754
+2,disease_on_drugs,28,28,0.1071428571428572

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,-0.017819706498951815
+1,disease_on_symptoms,18,12,1.8861111111111115
+2,disease_on_drugs,25,18,0.24948320413436686

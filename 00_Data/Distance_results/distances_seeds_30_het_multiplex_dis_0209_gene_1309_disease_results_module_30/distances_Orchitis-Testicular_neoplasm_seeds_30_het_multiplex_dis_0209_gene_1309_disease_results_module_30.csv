@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,0.040000000000000036
+1,disease_on_symptoms,19,26,0.06117858749437688
+2,disease_on_drugs,25,24,0.4497278911564626

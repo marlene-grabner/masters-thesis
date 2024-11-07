@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,26,14,0.4392857142857145
+1,disease_on_symptoms,21,25,2.581821946169772
+2,disease_on_drugs,24,10,1.5088235294117645

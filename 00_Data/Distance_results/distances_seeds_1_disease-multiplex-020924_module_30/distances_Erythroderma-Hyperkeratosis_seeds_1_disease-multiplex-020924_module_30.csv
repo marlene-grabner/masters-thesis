@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.12280219780219803
+1,disease_on_symptoms,19,21,0.3052005012531329
+2,disease_on_drugs,28,23,-0.17647058823529416

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,28,28,-0.2142857142857142
+1,disease_on_symptoms,19,25,0.09899521531100497
+2,disease_on_drugs,22,24,-0.4137022397891962

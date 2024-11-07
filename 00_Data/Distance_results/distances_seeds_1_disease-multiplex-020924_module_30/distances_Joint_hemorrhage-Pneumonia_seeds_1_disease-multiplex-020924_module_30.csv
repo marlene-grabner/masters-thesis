@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,13,26,0.8012820512820511
+2,disease_on_drugs,18,28,0.6775362318840579

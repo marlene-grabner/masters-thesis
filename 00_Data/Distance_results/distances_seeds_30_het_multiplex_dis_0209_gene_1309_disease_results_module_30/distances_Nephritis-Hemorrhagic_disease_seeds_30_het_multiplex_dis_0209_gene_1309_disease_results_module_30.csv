@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,17,19,0.3946508427932576
+2,disease_on_drugs,25,24,-0.06265306122448999

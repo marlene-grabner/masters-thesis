@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Keratitis nodes,sAB
+0,disease_on_genes,16,28,0.2540584415584417
+1,disease_on_symptoms,21,25,2.7542028985507248
+2,disease_on_drugs,15,23,0.776887871853547

@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Uveitis nodes,sAB
+0,disease_on_genes,21,30,-0.11764705882352944
+1,disease_on_symptoms,22,20,0.97012987012987
+2,disease_on_drugs,19,23,-0.21025389560858665

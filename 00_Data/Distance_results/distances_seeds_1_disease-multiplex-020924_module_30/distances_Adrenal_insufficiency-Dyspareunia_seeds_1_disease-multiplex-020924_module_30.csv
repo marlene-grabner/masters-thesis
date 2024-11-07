@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,17,24,0.01434720229555242
+1,disease_on_symptoms,21,17,1.7428129146395401
+2,disease_on_drugs,14,23,0.3131609870740306

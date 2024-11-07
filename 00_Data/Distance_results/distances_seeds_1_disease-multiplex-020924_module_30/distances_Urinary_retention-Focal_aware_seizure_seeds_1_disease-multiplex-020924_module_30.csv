@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.1440886699507391
+1,disease_on_symptoms,18,15,1.7277777777777779
+2,disease_on_drugs,19,29,0.5668859649122806

@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.24473684210526314
+1,disease_on_symptoms,17,19,0.2910216718266252
+2,disease_on_drugs,24,30,-0.17453703703703705

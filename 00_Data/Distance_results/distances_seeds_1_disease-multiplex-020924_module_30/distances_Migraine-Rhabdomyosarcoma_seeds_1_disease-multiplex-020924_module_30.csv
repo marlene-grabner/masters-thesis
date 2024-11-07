@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,23,0.17298331966092406
+1,disease_on_symptoms,14,24,2.18765664160401
+2,disease_on_drugs,29,17,1.3043478260869565

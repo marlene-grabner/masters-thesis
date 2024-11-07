@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,17,18,-0.0025676937441643233
+1,disease_on_symptoms,21,28,-0.28146258503401356
+2,disease_on_drugs,17,17,-0.02941176470588247

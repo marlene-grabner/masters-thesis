@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,-0.21942010846891946
+1,disease_on_symptoms,17,25,-0.2838655462184876
+2,disease_on_drugs,27,13,-0.33198005698005695

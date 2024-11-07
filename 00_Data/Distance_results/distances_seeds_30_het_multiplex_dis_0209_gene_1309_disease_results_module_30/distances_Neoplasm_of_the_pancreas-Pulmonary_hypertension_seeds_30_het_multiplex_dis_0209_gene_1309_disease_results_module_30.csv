@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,20,18,0.12353801169590639
+2,disease_on_drugs,30,27,0.034795321637426824

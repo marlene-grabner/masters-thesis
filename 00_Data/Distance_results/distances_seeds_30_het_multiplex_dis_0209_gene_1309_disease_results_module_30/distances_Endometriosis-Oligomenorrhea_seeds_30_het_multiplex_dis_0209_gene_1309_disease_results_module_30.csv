@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.3048022598870056
+1,disease_on_symptoms,16,11,0.09059343434343425
+2,disease_on_drugs,30,24,-0.3601851851851853

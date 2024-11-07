@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,-0.4150246305418718
+1,disease_on_symptoms,22,20,-0.33051948051948044
+2,disease_on_drugs,29,27,-0.3540640394088671

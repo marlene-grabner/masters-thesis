@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,14,25,0.0924908424908426
+1,disease_on_symptoms,26,21,0.8430753643519602
+2,disease_on_drugs,14,21,0.3309523809523811

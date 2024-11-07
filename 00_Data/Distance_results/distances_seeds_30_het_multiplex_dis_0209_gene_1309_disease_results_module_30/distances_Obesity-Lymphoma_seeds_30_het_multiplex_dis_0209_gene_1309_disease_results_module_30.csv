@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,-0.1310272536687631
+1,disease_on_symptoms,18,20,0.7111111111111112
+2,disease_on_drugs,25,24,0.20442176870748296

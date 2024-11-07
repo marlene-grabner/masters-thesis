@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,-0.26315789473684215
+1,disease_on_symptoms,21,14,0.23571428571428577
+2,disease_on_drugs,25,25,-0.3799999999999999

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,27,30,-0.0009746588693957392
+1,disease_on_symptoms,21,15,0.25476190476190474
+2,disease_on_drugs,27,26,0.0921087996559693

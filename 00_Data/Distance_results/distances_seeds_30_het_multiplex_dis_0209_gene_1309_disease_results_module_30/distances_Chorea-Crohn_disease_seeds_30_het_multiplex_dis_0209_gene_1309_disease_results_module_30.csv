@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,17,22,1.393288084464555
+2,disease_on_drugs,24,24,0.375

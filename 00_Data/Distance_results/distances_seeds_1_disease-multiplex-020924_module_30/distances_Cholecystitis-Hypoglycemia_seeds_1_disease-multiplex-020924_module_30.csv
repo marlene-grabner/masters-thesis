@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.5254545454545454
+1,disease_on_symptoms,19,12,1.3895019807583475
+2,disease_on_drugs,13,22,1.132967032967033

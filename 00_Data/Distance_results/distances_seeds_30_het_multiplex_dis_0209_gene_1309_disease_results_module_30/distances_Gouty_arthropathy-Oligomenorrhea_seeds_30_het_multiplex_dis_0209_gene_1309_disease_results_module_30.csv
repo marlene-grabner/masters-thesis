@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,29,-0.08771929824561409
+1,disease_on_symptoms,18,11,0.6038836642284919
+2,disease_on_drugs,23,24,0.12569380203515257

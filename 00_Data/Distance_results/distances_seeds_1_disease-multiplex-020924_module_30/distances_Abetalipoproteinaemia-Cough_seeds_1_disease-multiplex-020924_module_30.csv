@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Cough nodes,sAB
+0,disease_on_genes,17,27,0.24752426223014456
+1,disease_on_symptoms,25,21,1.431014492753623
+2,disease_on_drugs,13,27,0.6495014245014246

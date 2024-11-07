@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,25,30,0.08814814814814809
+1,disease_on_symptoms,18,12,0.21666666666666656
+2,disease_on_drugs,23,30,0.6059748427672957

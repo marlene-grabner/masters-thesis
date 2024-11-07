@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,23,25,0.2733333333333332
+1,disease_on_symptoms,24,23,1.0478530681467777
+2,disease_on_drugs,22,23,1.1115722441809397

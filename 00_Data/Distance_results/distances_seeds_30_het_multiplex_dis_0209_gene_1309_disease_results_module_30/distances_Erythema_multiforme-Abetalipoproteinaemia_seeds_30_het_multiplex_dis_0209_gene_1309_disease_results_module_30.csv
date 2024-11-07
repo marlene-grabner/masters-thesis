@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.058441558441558294
+1,disease_on_symptoms,18,26,-0.1482128982128983
+2,disease_on_drugs,30,14,0.39155844155844144

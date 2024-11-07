@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,29,30,0.286966686148451
+1,disease_on_symptoms,15,16,0.5068548387096774
+2,disease_on_drugs,29,24,0.5429001301236176

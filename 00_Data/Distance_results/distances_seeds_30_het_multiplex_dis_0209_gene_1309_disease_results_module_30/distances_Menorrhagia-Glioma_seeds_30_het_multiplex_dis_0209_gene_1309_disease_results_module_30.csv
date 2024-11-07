@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Glioma nodes,sAB
+0,disease_on_genes,27,22,0.1428571428571428
+1,disease_on_symptoms,16,21,0.865950772200772
+2,disease_on_drugs,23,21,0.5649350649350651

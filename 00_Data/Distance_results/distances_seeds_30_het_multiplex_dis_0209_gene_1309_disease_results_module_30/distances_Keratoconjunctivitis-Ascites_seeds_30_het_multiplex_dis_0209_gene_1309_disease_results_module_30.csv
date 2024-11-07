@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,-0.08446327683615817
+1,disease_on_symptoms,20,22,0.4553030303030301
+2,disease_on_drugs,27,27,-0.2592592592592591

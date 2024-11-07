@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,0.4214285714285715
+1,disease_on_symptoms,15,23,1.711441647597254
+2,disease_on_drugs,15,14,0.4850574712643678

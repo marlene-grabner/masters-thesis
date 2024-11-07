@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,16,25,0.9122865853658539
+2,disease_on_drugs,28,24,0.3003663003663004

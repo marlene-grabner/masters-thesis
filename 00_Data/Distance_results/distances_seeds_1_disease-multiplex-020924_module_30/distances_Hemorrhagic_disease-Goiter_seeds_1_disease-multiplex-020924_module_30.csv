@@ -1,0 +1,4 @@
+,Layer,Hemorrhagic_disease nodes,Goiter nodes,sAB
+0,disease_on_genes,24,26,0.48224358974358994
+1,disease_on_symptoms,19,15,0.7528379772961817
+2,disease_on_drugs,19,16,0.6090225563909775

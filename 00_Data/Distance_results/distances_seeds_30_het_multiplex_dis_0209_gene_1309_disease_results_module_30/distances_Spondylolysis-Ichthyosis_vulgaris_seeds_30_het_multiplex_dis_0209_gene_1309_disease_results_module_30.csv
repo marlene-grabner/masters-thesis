@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,28,27,0.0
+1,disease_on_symptoms,17,21,0.9441987321244287
+2,disease_on_drugs,19,24,-0.05760403916768664

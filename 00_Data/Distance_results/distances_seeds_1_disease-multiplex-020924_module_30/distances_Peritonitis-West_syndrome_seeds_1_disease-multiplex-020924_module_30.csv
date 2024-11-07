@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.45932203389830506
+1,disease_on_symptoms,17,18,2.1710550887021474
+2,disease_on_drugs,28,22,0.7642857142857145

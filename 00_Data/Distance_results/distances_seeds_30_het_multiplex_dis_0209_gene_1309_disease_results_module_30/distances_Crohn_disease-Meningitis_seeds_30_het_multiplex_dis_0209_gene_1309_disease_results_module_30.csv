@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,-0.054545454545454564
+1,disease_on_symptoms,22,17,0.5433634992458525
+2,disease_on_drugs,24,27,0.08360566448801743

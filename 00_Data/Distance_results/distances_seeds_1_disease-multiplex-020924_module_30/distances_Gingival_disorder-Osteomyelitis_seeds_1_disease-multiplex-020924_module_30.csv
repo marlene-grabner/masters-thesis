@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,21,25,-0.6096894409937889
+1,disease_on_symptoms,26,23,-0.48641730939867567
+2,disease_on_drugs,20,23,-0.531850353892821

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,24,29,0.02790880503144666
+1,disease_on_symptoms,20,16,0.4097222222222223
+2,disease_on_drugs,22,29,0.8423842891388529

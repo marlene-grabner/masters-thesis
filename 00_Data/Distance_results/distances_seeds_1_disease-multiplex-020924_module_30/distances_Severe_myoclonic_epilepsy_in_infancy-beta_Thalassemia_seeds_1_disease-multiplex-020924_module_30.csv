@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.6459207459207459
+1,disease_on_symptoms,16,21,2.259813384813385
+2,disease_on_drugs,21,6,1.4153439153439153

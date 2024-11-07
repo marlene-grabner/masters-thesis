@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,21,19,0.46347117794486237
+2,disease_on_drugs,27,29,0.3798804962598068

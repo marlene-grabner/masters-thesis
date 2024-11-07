@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,0.03386699507389168
+1,disease_on_symptoms,18,16,0.7704248366013071
+2,disease_on_drugs,25,28,0.21324797843665766

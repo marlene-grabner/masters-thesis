@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,7,25,-0.01553571428571443
+1,disease_on_symptoms,30,20,0.01333333333333342
+2,disease_on_drugs,6,21,-0.15740740740740755

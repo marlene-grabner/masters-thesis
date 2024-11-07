@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,29,25,-0.058518518518518525
+1,disease_on_symptoms,20,21,0.5677119628339145
+2,disease_on_drugs,20,24,0.42121212121212137

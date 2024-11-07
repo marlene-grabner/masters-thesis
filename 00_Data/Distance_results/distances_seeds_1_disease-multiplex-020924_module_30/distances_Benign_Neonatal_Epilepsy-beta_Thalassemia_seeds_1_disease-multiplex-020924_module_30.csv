@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,29,22,0.5396613190730837
+1,disease_on_symptoms,16,21,3.353563384813385
+2,disease_on_drugs,26,6,1.3020833333333335

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,0.020252109874751456
+1,disease_on_symptoms,19,21,1.9225563909774435
+2,disease_on_drugs,26,25,0.7839064856711915

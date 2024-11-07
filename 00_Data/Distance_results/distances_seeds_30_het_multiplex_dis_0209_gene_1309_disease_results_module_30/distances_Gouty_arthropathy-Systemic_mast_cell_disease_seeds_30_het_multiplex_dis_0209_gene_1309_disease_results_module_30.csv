@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,0.17543859649122817
+1,disease_on_symptoms,18,25,0.5145478036175712
+2,disease_on_drugs,23,21,0.14516280820628658

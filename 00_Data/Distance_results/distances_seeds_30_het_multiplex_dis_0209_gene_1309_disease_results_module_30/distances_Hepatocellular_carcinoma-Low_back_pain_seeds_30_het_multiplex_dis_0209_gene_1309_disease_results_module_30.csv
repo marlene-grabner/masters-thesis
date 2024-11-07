@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,24,30,-0.11111111111111116
+1,disease_on_symptoms,23,16,-0.2244983277591972
+2,disease_on_drugs,22,25,-0.1590715667311411

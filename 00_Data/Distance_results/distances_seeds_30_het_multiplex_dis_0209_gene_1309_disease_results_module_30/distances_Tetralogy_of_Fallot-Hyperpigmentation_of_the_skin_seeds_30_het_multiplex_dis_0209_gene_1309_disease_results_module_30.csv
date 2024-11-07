@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,19,17,0.6259889920880632
+2,disease_on_drugs,20,28,-0.02857142857142847

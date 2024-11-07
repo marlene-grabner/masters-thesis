@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,10,20,0.22499999999999964
+2,disease_on_drugs,16,29,-0.060512452107279735

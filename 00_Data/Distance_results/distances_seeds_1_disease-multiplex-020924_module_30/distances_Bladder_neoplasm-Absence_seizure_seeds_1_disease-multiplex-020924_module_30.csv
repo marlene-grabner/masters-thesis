@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.36645768025078373
+1,disease_on_symptoms,20,16,1.9347222222222222
+2,disease_on_drugs,25,22,1.127659574468085

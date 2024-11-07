@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,17,22,-0.3152337858220211
+1,disease_on_symptoms,24,21,0.0799603174603174
+2,disease_on_drugs,16,17,-0.15090240641711228

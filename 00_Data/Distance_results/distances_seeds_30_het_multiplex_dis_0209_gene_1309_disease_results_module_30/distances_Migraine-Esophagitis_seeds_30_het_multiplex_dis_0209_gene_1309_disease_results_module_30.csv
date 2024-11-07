@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Esophagitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,12,20,0.43333333333333357
+2,disease_on_drugs,29,30,0.11917007597895957

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,29,25,0.3859259259259258
+1,disease_on_symptoms,18,19,0.8434091986723566
+2,disease_on_drugs,30,18,0.7263888888888888

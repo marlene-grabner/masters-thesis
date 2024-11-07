@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,29,25,0.30955300127713925
+1,disease_on_symptoms,15,13,2.7104395604395606
+2,disease_on_drugs,29,16,0.5195641762452108

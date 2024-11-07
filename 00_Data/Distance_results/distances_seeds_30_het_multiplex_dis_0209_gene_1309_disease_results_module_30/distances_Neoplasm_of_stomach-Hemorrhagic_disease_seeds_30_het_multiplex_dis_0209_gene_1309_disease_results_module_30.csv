@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,26,-0.05921568627450979
+1,disease_on_symptoms,23,19,0.5353056554429552
+2,disease_on_drugs,24,24,0.2916666666666665

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Angioedema nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,16,18,-0.06576797385620936
+2,disease_on_drugs,23,26,-0.17350351511842188

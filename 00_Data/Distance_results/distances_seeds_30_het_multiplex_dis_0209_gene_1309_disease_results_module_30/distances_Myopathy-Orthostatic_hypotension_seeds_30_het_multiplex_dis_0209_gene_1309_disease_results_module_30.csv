@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,23,30,-0.037735849056603765
+1,disease_on_symptoms,22,20,0.2794372294372294
+2,disease_on_drugs,21,28,-0.2193877551020409

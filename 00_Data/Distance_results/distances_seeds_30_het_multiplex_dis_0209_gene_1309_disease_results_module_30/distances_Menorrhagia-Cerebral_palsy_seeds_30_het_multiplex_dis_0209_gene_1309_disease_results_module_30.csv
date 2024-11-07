@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,30,0.1929824561403508
+1,disease_on_symptoms,16,13,1.0871187002652518
+2,disease_on_drugs,23,21,0.195887445887446

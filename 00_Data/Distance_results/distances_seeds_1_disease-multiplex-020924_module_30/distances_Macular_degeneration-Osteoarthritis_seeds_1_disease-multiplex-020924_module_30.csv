@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.3269696969696969
+1,disease_on_symptoms,15,20,0.7476190476190478
+2,disease_on_drugs,21,21,0.8809523809523809

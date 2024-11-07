@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Gout nodes,sAB
+0,disease_on_genes,17,25,0.09701219512195114
+1,disease_on_symptoms,27,18,1.903703703703704
+2,disease_on_drugs,14,23,0.0994208494208495

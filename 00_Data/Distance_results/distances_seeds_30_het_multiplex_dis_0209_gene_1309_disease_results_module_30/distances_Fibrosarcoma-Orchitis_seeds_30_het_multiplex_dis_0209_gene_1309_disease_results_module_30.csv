@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,0.036363636363636376
+1,disease_on_symptoms,14,19,0.1576099339257233
+2,disease_on_drugs,26,25,0.17713423831070885

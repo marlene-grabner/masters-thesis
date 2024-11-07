@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.036904761904761996
+1,disease_on_symptoms,20,21,0.16663763066202097
+2,disease_on_drugs,30,26,0.030494505494505608

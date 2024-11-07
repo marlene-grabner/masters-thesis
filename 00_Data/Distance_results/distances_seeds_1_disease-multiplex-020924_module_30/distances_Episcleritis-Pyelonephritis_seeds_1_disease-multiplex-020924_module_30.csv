@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,23,0.12346185397867115
+1,disease_on_symptoms,22,21,0.8835447498238196
+2,disease_on_drugs,29,19,0.39295977011494254

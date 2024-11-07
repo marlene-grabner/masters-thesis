@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.1393762183235867
+1,disease_on_symptoms,15,14,0.38300492610837455
+2,disease_on_drugs,23,26,0.114002457170159

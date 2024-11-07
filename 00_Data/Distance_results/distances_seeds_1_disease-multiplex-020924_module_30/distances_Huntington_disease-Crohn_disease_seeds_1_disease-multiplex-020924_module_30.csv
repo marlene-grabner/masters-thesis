@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.25648148148148153
+1,disease_on_symptoms,16,20,1.48125
+2,disease_on_drugs,27,21,0.6190476190476191

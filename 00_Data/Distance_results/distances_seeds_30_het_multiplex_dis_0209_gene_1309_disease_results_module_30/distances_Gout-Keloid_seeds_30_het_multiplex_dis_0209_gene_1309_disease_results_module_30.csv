@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Keloid nodes,sAB
+0,disease_on_genes,28,23,-0.09628851540616246
+1,disease_on_symptoms,19,17,0.5640694874441003
+2,disease_on_drugs,22,22,-0.045454545454545414

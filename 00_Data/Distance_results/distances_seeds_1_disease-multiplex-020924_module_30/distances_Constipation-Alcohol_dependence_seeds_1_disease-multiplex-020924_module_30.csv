@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.29880952380952386
+1,disease_on_symptoms,17,27,0.8413052089522677
+2,disease_on_drugs,27,9,1.009259259259259

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,23,21,-0.10116694899303602
+2,disease_on_drugs,23,29,-0.3800023065390383

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,30,0.016483516483516647
+1,disease_on_symptoms,22,21,0.2743884022953791
+2,disease_on_drugs,25,30,0.029393939393939306

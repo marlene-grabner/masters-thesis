@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,-0.13559322033898302
+1,disease_on_symptoms,15,23,0.03913043478260869
+2,disease_on_drugs,28,26,-0.00030525030525030417

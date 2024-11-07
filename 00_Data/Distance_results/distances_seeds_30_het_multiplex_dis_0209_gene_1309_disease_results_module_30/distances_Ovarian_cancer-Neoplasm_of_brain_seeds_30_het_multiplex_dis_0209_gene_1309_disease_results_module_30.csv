@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,27,30,-0.27982456140350875
+1,disease_on_symptoms,17,19,-0.01745786033711738
+2,disease_on_drugs,17,29,-0.25954669723961543

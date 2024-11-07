@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,28,18,0.17391304347826098
+1,disease_on_symptoms,21,21,2.9761904761904763
+2,disease_on_drugs,21,17,0.4957246056317264

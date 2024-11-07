@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Hypertrophic_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,17,19,1.0388716890264882
+2,disease_on_drugs,24,22,0.32073451910408424

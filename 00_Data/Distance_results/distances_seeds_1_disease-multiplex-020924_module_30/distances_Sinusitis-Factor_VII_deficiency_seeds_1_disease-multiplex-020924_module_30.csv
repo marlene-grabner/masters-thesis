@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.48086845466155803
+1,disease_on_symptoms,21,23,1.7915490306794652
+2,disease_on_drugs,28,21,0.9804421768707483

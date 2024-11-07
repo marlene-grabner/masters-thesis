@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,10,25,0.18571428571428572
+1,disease_on_symptoms,27,23,1.9963607085346216
+2,disease_on_drugs,9,20,0.5017241379310344

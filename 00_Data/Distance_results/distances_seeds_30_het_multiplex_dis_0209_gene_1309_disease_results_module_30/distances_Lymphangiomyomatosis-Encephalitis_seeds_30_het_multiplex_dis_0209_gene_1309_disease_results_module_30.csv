@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,29,0.14440559440559442
+1,disease_on_symptoms,17,13,0.4058823529411768
+2,disease_on_drugs,24,22,0.21879117259552028

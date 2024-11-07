@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.3404761904761906
+1,disease_on_symptoms,14,19,0.9422989291410344
+2,disease_on_drugs,26,18,0.5893550893550894

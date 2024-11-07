@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,24,20,0.0049242424242423866
+2,disease_on_drugs,15,28,-0.11879844961240305

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.09121212121212119
+1,disease_on_symptoms,17,26,0.8846679995790803
+2,disease_on_drugs,26,24,0.1612820512820512

@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,16,22,0.21486244019138745
+2,disease_on_drugs,28,30,0.11933497536945814

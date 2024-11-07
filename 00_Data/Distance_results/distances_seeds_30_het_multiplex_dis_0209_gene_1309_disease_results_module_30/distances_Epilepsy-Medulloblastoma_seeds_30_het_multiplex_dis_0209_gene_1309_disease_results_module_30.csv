@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.1394736842105263
+1,disease_on_symptoms,21,22,0.37284808215040766
+2,disease_on_drugs,29,26,0.21868820834338099

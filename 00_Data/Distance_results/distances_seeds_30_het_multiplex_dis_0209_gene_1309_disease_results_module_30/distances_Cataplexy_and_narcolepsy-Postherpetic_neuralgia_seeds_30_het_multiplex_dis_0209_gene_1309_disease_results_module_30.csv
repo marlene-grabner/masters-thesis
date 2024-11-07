@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,19,16,0.5293233082706768
+2,disease_on_drugs,18,29,-0.051255400668460016

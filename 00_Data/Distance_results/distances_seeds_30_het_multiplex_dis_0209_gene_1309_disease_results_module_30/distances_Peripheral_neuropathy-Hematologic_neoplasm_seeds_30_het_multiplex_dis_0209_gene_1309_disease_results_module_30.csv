@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,21,18,-0.19505494505494525
+2,disease_on_drugs,29,27,-0.1457307060755335

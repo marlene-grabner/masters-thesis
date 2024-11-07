@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.01947167755991286
+1,disease_on_symptoms,21,19,1.2771929824561403
+2,disease_on_drugs,27,20,0.33849487785657995

@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,0.401559454191033
+1,disease_on_symptoms,20,12,3.035416666666667
+2,disease_on_drugs,15,22,0.7027027027027026

@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,18,21,0.3772893772893773
+2,disease_on_drugs,29,26,0.23665300217024354

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.19563035942346274
+1,disease_on_symptoms,19,21,0.8224310776942356
+2,disease_on_drugs,20,28,0.7547619047619045

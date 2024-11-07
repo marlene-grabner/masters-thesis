@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,27,-0.16946191474493366
+1,disease_on_symptoms,20,23,0.3311172901921131
+2,disease_on_drugs,25,15,-0.29999999999999993

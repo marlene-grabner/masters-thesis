@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,12,22,0.6448306595365421
+2,disease_on_drugs,29,15,0.02800417972831748

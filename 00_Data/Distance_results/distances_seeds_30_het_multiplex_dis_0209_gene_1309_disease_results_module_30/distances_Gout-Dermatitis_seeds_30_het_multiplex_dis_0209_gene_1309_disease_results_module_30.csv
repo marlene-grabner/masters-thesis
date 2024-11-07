@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Dermatitis nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,19,14,0.23986101617680555
+2,disease_on_drugs,22,28,-0.1532467532467532

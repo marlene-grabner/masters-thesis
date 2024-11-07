@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,16,20,1.082638888888889
+2,disease_on_drugs,28,23,0.2708561685543782

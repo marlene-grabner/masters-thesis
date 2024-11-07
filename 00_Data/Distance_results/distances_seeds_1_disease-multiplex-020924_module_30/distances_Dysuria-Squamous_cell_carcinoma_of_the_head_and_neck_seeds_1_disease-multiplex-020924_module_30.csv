@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.3237766830870279
+1,disease_on_symptoms,16,25,1.3850304878048783
+2,disease_on_drugs,23,21,1.1828063241106719

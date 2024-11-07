@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Cough nodes,sAB
+0,disease_on_genes,28,27,0.09122174122174131
+1,disease_on_symptoms,15,21,2.3277777777777775
+2,disease_on_drugs,21,27,0.48379629629629606

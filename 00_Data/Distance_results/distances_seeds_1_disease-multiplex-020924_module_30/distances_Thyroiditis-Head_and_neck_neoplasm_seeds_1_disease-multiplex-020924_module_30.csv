@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.12069597069597049
+1,disease_on_symptoms,28,20,0.5666666666666667
+2,disease_on_drugs,23,27,0.4582608695652173

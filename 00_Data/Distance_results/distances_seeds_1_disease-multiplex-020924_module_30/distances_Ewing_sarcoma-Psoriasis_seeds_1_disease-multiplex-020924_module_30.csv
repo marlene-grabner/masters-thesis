@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Psoriasis nodes,sAB
+0,disease_on_genes,24,28,0.32486263736263754
+1,disease_on_symptoms,25,21,0.8703933747412007
+2,disease_on_drugs,17,28,0.5865079365079366

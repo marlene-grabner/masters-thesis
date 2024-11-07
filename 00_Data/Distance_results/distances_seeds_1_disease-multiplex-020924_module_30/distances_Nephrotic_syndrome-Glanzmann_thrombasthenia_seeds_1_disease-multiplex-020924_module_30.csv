@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,20,24,0.09053030303030307
+1,disease_on_symptoms,24,21,0.9601190476190475
+2,disease_on_drugs,18,24,0.35218253968254

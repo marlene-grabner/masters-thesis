@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,20,0.35357142857142865
+1,disease_on_symptoms,15,24,1.7182692307692307
+2,disease_on_drugs,27,18,0.8074074074074071

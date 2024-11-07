@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,24,-0.056942637171980115
+1,disease_on_symptoms,16,17,0.4770499108734403
+2,disease_on_drugs,24,23,0.12765957446808507

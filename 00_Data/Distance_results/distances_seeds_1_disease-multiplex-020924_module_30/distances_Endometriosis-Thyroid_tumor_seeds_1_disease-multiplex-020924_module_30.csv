@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.36874487284659563
+1,disease_on_symptoms,12,20,1.0020833333333332
+2,disease_on_drugs,27,20,0.847340425531915

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,24,24,0.04166666666666652
+1,disease_on_symptoms,19,22,0.484303886101062
+2,disease_on_drugs,19,21,0.11647869674185451

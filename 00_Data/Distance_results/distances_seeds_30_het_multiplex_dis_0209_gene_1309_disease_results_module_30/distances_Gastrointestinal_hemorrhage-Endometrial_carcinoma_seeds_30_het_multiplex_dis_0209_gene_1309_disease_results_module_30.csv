@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,28,26,-0.38822751322751314
+1,disease_on_symptoms,20,21,-0.5400116144018583
+2,disease_on_drugs,27,26,-0.2261328817932593

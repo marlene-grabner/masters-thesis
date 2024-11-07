@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,0.3125490196078431
+1,disease_on_symptoms,19,23,0.9895390650539393
+2,disease_on_drugs,24,23,0.9995181930311441

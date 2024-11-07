@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,22,16,1.45619019138756
+2,disease_on_drugs,24,27,0.4275599128540304

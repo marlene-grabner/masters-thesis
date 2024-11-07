@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,13,15,-0.6749084249084247
+2,disease_on_drugs,29,30,-0.23728813559322037

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.18644067796610164
+1,disease_on_symptoms,13,11,0.27301864801864784
+2,disease_on_drugs,21,24,-0.071031746031746

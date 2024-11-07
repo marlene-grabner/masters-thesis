@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,-0.10595238095238091
+1,disease_on_symptoms,19,22,0.30648267008985863
+2,disease_on_drugs,29,24,0.054299501192799804

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,25,23,0.14561594202898553
+1,disease_on_symptoms,18,21,0.9798534798534799
+2,disease_on_drugs,23,21,0.4967532467532467

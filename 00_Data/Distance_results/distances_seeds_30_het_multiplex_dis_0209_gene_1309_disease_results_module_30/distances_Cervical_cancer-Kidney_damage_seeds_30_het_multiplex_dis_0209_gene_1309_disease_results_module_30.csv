@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,28,30,0.15517241379310343
+1,disease_on_symptoms,22,15,0.562981162981163
+2,disease_on_drugs,15,21,0.06269841269841248

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,18,18,0.38888888888888884
+2,disease_on_drugs,30,29,0.051061757256964935

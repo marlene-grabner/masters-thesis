@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.18022528160200246
+1,disease_on_symptoms,18,25,0.2992506459948321
+2,disease_on_drugs,27,13,0.41894586894586916

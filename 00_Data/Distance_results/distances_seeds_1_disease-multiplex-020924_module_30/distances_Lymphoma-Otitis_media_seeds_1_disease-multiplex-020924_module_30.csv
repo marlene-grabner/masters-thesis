@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.021835061490233842
+1,disease_on_symptoms,21,22,0.859710057384476
+2,disease_on_drugs,25,29,0.537905491698595

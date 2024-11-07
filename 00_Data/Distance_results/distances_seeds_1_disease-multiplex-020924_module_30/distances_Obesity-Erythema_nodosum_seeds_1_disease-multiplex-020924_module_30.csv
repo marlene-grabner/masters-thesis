@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,26,28,0.14809727309727294
+1,disease_on_symptoms,20,23,0.9159757330637008
+2,disease_on_drugs,27,28,0.43601491101491097

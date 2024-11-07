@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.1648351648351648
+1,disease_on_symptoms,24,16,0.6041666666666665
+2,disease_on_drugs,27,26,-0.0018679782830728353

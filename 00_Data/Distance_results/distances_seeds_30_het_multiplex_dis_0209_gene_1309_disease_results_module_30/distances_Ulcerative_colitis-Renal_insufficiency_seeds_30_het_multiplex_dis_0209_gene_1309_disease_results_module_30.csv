@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,20,19,0.5657219973009449
+2,disease_on_drugs,27,28,0.09350649350649354

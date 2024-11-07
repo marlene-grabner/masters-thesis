@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,28,30,0.4832512315270934
+1,disease_on_symptoms,15,23,1.6596491228070174
+2,disease_on_drugs,21,30,1.0372549019607842

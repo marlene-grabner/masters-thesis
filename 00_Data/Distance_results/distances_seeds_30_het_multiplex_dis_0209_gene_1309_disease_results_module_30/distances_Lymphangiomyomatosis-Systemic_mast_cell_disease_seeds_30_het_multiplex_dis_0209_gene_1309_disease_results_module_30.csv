@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,-0.09195804195804191
+1,disease_on_symptoms,17,25,0.20778711484593826
+2,disease_on_drugs,24,21,0.07480158730158726

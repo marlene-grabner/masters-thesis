@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.03518518518518521
+1,disease_on_symptoms,13,14,1.176943426943427
+2,disease_on_drugs,28,26,-0.03586691086691074

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.1132075471698113
+1,disease_on_symptoms,17,17,0.7352941176470589
+2,disease_on_drugs,24,22,-0.12689393939393945

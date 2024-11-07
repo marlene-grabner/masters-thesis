@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,16,21,-0.32380148005148013
+2,disease_on_drugs,28,29,-0.2638384754990927

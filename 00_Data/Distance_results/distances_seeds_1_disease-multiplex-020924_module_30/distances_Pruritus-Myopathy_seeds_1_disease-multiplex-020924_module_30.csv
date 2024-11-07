@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Myopathy nodes,sAB
+0,disease_on_genes,26,18,0.3172609819121446
+1,disease_on_symptoms,19,21,0.6337092731829572
+2,disease_on_drugs,24,6,0.7000000000000002

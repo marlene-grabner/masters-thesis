@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,27,25,-0.347094017094017
+1,disease_on_symptoms,15,13,-0.5523809523809523
+2,disease_on_drugs,25,16,-0.3195426829268293

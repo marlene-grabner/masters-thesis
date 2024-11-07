@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.18181818181818177
+1,disease_on_symptoms,20,18,0.18728070175438605
+2,disease_on_drugs,25,27,-0.15051282051282033

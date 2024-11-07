@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,29,27,0.19704433497536944
+1,disease_on_symptoms,17,17,1.8823529411764706
+2,disease_on_drugs,30,26,0.8365384615384617

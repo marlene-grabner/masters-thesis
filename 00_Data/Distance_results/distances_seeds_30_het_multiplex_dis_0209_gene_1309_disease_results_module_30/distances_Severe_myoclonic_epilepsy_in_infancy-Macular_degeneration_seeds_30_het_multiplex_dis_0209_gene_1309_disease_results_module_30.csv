@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,14,17,0.49817023583627007
+2,disease_on_drugs,21,17,0.009066784608580347

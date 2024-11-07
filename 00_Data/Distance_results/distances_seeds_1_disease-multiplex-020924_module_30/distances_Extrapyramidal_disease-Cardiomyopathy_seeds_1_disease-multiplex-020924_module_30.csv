@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,14,25,0.4627472527472529
+1,disease_on_symptoms,25,17,2.4540056022408967
+2,disease_on_drugs,10,24,0.7318627450980391

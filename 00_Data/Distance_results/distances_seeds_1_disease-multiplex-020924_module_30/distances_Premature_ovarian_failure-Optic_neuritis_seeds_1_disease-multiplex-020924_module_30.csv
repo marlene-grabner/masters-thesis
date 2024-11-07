@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,0.19932659932659913
+1,disease_on_symptoms,21,16,0.7654842342342341
+2,disease_on_drugs,21,27,0.2695105820105821

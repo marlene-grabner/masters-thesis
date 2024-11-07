@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Erythroderma nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,20,0.9912957074721782
+2,disease_on_drugs,24,29,0.3027678377792238

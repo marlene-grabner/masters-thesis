@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,25,23,-0.10416666666666663
+1,disease_on_symptoms,22,23,0.689042599912165
+2,disease_on_drugs,25,22,0.1524177949709864

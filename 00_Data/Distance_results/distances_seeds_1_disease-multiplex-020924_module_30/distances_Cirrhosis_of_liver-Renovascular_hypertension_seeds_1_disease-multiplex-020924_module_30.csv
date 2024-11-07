@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,-0.12310924369747922
+1,disease_on_symptoms,14,22,0.30194805194805197
+2,disease_on_drugs,26,20,-0.23118729096989965

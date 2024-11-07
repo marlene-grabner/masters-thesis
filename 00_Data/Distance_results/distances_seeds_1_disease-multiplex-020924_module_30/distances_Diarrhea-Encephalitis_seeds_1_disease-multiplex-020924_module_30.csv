@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,28,0.017147667147667356
+1,disease_on_symptoms,19,17,0.2678878568971448
+2,disease_on_drugs,26,18,-0.17832167832167822

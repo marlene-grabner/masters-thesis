@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,19,17,0.844857241142071
+2,disease_on_drugs,29,26,0.10749939715456946

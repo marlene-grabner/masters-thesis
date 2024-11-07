@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Cough nodes,sAB
+0,disease_on_genes,9,27,0.12037037037037046
+1,disease_on_symptoms,27,21,2.263888888888889
+2,disease_on_drugs,9,27,0.5185185185185184

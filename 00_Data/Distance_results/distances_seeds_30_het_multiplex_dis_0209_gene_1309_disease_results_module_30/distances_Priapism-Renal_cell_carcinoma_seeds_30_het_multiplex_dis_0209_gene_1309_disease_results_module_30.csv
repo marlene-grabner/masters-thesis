@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.0009746588693957392
+1,disease_on_symptoms,12,22,0.6394830659536539
+2,disease_on_drugs,28,22,0.1274025974025974

@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,25,23,-0.02083333333333337
+1,disease_on_symptoms,13,23,1.5132850241545894
+2,disease_on_drugs,21,22,0.37038155642806814

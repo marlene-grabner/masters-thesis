@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.08446327683615817
+1,disease_on_symptoms,13,25,0.2825101214574899
+2,disease_on_drugs,28,21,0.21343537414965974

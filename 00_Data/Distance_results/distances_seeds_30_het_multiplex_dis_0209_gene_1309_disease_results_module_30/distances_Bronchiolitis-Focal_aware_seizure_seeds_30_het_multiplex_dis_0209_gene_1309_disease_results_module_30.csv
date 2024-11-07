@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,-0.03508771929824561
+1,disease_on_symptoms,25,16,0.9328658536585368
+2,disease_on_drugs,24,29,0.2754283235740622

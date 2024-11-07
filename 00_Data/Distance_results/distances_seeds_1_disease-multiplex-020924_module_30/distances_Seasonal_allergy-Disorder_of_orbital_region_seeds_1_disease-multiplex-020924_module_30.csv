@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,17,-0.05617779345621332
+1,disease_on_symptoms,15,27,0.29682539682539666
+2,disease_on_drugs,29,16,0.009147509578544044

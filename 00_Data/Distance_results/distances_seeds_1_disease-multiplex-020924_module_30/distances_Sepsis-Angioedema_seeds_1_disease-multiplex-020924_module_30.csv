@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Angioedema nodes,sAB
+0,disease_on_genes,22,29,0.3285064935064934
+1,disease_on_symptoms,23,17,1.1479539641943735
+2,disease_on_drugs,17,25,0.5840336134453781

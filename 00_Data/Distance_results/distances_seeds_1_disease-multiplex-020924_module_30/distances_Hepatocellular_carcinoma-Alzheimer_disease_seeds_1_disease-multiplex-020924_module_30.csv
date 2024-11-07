@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,23,20,0.16407987866531837
+1,disease_on_symptoms,19,23,1.4496567505720823
+2,disease_on_drugs,19,18,0.8378378378378379

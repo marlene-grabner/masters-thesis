@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,0.5666666666666667
+1,disease_on_symptoms,22,9,0.25309547083740647
+2,disease_on_drugs,29,11,0.3433385579937305

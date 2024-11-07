@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,28,30,0.01769293924466342
+1,disease_on_symptoms,14,20,1.3002100840336135
+2,disease_on_drugs,28,30,0.41256157635467994

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.0537037037037037
+1,disease_on_symptoms,18,19,0.5975580844001893
+2,disease_on_drugs,30,24,0.21157407407407414

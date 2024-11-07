@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,20,18,0.21184210526315805
+2,disease_on_drugs,29,27,-0.08969622331691296

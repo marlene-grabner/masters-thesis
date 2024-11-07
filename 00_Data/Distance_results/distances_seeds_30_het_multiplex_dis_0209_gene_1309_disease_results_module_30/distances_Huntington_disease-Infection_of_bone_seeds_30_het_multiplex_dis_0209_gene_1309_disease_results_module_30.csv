@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,18,0.5740429505135389
+2,disease_on_drugs,26,28,0.09030321530321528

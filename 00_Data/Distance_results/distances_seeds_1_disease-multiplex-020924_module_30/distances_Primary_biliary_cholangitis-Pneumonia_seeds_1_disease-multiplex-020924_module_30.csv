@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.1438644688644688
+1,disease_on_symptoms,17,26,-0.2792539198147952
+2,disease_on_drugs,18,28,0.02898550724637694

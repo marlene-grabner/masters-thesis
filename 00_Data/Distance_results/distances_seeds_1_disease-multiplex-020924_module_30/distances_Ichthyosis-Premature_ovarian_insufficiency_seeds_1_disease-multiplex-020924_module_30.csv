@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,27,23,0.3044444444444445
+1,disease_on_symptoms,17,22,0.9795008912655971
+2,disease_on_drugs,24,17,0.3020086083213771

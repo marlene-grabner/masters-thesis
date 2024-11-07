@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,30,-0.16346153846153832
+1,disease_on_symptoms,22,17,-0.3103318250377074
+2,disease_on_drugs,25,30,-0.2587878787878788

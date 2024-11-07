@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,25,0.24629380053908356
+1,disease_on_symptoms,17,26,1.1916500052614964
+2,disease_on_drugs,25,21,0.5869565217391304

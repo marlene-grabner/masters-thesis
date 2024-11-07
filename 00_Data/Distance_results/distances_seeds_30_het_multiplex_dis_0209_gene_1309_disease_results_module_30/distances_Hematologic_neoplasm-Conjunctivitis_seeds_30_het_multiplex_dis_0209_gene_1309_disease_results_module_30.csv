@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,18,27,0.34259259259259256
+2,disease_on_drugs,27,28,0.05346320346320366

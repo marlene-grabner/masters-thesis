@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,30,-0.17619047619047612
+1,disease_on_symptoms,16,22,0.20334928229665072
+2,disease_on_drugs,25,30,0.10636363636363644

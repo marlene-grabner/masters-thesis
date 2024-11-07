@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,27,25,-0.019230769230769273
+1,disease_on_symptoms,21,20,0.9757839721254358
+2,disease_on_drugs,25,18,0.2469509043927649

@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,18,14,-0.07291666666666652
+2,disease_on_drugs,27,24,0.25612745098039214

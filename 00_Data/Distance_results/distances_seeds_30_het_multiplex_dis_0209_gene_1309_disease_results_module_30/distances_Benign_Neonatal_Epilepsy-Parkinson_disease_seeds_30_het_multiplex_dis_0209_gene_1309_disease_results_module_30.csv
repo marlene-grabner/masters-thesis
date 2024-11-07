@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.24528301886792447
+1,disease_on_symptoms,16,23,0.019962374581939724
+2,disease_on_drugs,21,22,-0.25586429074801165

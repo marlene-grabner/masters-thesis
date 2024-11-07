@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,28,0.3821308321308321
+1,disease_on_symptoms,23,15,1.6974065598779555
+2,disease_on_drugs,15,21,0.6611111111111112

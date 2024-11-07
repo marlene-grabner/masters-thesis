@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,0.28042328042328046
+1,disease_on_symptoms,12,16,1.4970238095238095
+2,disease_on_drugs,30,18,0.8166666666666667

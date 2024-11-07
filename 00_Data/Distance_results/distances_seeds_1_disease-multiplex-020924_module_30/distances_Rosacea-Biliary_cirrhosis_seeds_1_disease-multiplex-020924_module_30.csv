@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.5035714285714286
+1,disease_on_symptoms,17,15,0.9408088235294119
+2,disease_on_drugs,27,15,0.861904761904762

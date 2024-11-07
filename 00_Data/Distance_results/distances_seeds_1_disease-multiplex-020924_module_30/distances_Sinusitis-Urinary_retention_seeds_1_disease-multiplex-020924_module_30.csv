@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,0.3245073891625616
+1,disease_on_symptoms,21,18,1.6999389499389501
+2,disease_on_drugs,28,19,0.5270556710926251

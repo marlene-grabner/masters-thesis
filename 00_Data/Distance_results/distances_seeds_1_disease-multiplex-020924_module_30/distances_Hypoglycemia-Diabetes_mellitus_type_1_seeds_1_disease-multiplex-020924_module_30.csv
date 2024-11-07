@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,-0.3479427549194991
+1,disease_on_symptoms,12,25,-0.8049549549549548
+2,disease_on_drugs,22,8,-0.16666666666666663

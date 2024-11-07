@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.05696661828737293
+1,disease_on_symptoms,25,17,0.7631932773109247
+2,disease_on_drugs,25,26,-0.038144796380090495

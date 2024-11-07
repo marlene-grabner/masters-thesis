@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Meningitis nodes,sAB
+0,disease_on_genes,22,29,0.37029012231852
+1,disease_on_symptoms,21,20,3.216405342624855
+2,disease_on_drugs,6,26,0.4270833333333335

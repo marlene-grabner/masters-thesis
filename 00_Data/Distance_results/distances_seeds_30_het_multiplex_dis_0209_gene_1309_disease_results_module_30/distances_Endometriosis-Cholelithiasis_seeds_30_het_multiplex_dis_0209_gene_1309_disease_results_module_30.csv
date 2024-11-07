@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,-0.10757575757575755
+1,disease_on_symptoms,16,20,0.16736111111111107
+2,disease_on_drugs,30,18,0.06805555555555554

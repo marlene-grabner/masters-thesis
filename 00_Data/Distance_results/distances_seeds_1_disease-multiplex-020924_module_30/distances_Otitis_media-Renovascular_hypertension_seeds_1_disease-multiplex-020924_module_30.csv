@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,21,0.12617405582922836
+1,disease_on_symptoms,22,22,0.6590909090909092
+2,disease_on_drugs,29,20,0.6804187192118227

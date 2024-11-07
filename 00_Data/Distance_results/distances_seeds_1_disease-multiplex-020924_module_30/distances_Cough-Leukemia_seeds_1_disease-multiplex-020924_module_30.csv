@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.20370370370370372
+1,disease_on_symptoms,21,27,1.4629629629629628
+2,disease_on_drugs,27,17,0.6474549415725885

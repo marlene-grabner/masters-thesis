@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,0.020370370370370372
+1,disease_on_symptoms,20,18,0.1007309941520469
+2,disease_on_drugs,30,24,0.13148148148148153

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,18,14,0.6681547619047619
+2,disease_on_drugs,30,22,-0.07738927738927726

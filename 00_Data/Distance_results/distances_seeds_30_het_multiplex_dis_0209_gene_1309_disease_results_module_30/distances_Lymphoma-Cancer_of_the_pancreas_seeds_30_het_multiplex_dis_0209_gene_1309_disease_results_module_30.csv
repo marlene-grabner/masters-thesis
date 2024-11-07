@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,30,-0.2857142857142857
+1,disease_on_symptoms,20,23,-0.4020222446916075
+2,disease_on_drugs,24,30,-0.312962962962963

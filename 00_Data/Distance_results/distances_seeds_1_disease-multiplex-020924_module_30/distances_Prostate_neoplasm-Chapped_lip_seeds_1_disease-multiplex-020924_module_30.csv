@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,17,26,0.2311901504787961
+1,disease_on_symptoms,21,21,1.619047619047619
+2,disease_on_drugs,17,24,0.47776183644189385

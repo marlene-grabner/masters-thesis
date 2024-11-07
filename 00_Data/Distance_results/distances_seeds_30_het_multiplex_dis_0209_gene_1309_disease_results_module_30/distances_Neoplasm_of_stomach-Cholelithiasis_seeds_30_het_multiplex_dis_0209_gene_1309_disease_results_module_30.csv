@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,25,25,0.10000000000000009
+1,disease_on_symptoms,23,20,1.0155207280080893
+2,disease_on_drugs,24,18,0.3561507936507937

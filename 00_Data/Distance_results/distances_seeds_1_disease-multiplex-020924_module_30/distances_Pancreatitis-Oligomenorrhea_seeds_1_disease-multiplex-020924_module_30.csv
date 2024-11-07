@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.4505747126436781
+1,disease_on_symptoms,20,12,1.4
+2,disease_on_drugs,30,21,0.8109243697478992

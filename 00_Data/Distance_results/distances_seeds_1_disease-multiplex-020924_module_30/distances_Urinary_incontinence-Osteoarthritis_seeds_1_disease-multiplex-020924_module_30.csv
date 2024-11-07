@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,0.25714932126696843
+1,disease_on_symptoms,20,20,0.675
+2,disease_on_drugs,20,21,0.6585365853658536

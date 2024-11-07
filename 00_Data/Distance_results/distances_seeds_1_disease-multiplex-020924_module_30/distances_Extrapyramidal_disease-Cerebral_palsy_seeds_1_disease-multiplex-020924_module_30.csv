@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,14,27,-0.257033165569751
+1,disease_on_symptoms,25,16,-0.2993292682926829
+2,disease_on_drugs,10,18,-0.47857142857142865

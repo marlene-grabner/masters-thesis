@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.19298245614035092
+1,disease_on_symptoms,17,22,0.38317564788153025
+2,disease_on_drugs,26,26,0.11538461538461542

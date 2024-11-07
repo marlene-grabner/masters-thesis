@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.3833333333333333
+1,disease_on_symptoms,20,27,1.7897557131599684
+2,disease_on_drugs,24,9,0.7462121212121213

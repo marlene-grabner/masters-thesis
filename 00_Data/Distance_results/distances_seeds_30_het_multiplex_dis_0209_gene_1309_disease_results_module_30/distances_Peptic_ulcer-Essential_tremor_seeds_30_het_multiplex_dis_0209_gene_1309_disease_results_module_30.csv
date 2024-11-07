@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.019607843137254943
+1,disease_on_symptoms,20,23,1.0448179979777557
+2,disease_on_drugs,30,21,0.22016806722689086

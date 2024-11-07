@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,28,0.10907888407888411
+1,disease_on_symptoms,17,23,0.3646419437340154
+2,disease_on_drugs,20,28,0.19047619047619047

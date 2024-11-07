@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,23,30,0.020508613617719273
+1,disease_on_symptoms,16,17,0.9728721033868093
+2,disease_on_drugs,22,25,0.49702127659574447

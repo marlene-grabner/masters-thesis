@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,18,28,0.3787957211870254
+1,disease_on_symptoms,21,14,1.4619047619047618
+2,disease_on_drugs,6,28,0.5035014005602241

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,17,25,0.9248739495798322
+2,disease_on_drugs,26,21,0.45655054165692466

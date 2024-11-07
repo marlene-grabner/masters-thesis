@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,15,0.14258098223615479
+1,disease_on_symptoms,22,27,1.6515151515151516
+2,disease_on_drugs,29,13,1.0435139573070609

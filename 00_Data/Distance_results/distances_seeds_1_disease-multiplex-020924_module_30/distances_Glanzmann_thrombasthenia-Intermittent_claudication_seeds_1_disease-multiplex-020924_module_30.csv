@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,20,-0.027651515151515094
+1,disease_on_symptoms,21,24,1.3906746031746033
+2,disease_on_drugs,24,18,0.21329365079365092

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,30,-0.06751412429378523
+1,disease_on_symptoms,18,21,0.228937728937729
+2,disease_on_drugs,29,29,-0.10344827586206906

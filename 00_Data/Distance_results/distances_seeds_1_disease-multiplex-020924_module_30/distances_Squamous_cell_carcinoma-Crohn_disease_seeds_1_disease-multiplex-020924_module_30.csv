@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,16,25,0.2583333333333335
+1,disease_on_symptoms,26,20,2.595484949832776
+2,disease_on_drugs,14,21,0.5238095238095237

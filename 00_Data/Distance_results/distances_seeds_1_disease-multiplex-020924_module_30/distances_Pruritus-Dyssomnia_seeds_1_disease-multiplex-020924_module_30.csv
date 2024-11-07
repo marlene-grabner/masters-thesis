@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,26,18,-0.22279069767441861
+1,disease_on_symptoms,19,21,1.3098997493734337
+2,disease_on_drugs,24,17,0.03371592539454804

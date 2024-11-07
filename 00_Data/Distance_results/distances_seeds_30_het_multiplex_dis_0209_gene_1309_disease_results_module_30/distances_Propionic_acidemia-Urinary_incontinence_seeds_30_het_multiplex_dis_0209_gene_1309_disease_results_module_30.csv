@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,16,20,0.17152777777777772
+2,disease_on_drugs,30,20,0.04000000000000026

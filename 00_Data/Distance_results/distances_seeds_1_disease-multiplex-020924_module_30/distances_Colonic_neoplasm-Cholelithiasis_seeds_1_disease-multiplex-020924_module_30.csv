@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.41454545454545455
+1,disease_on_symptoms,19,19,1.3421052631578945
+2,disease_on_drugs,29,18,1.8232860520094563

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,-0.288135593220339
+1,disease_on_symptoms,19,18,-0.46431958274063523
+2,disease_on_drugs,29,27,-0.3778735632183907

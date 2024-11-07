@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,27,27,-0.0185185185185186
+1,disease_on_symptoms,18,22,0.983838383838384
+2,disease_on_drugs,22,20,-0.16829004329004316

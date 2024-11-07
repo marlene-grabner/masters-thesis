@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,18,27,0.7129629629629628
+1,disease_on_symptoms,28,16,1.9650974025974026
+2,disease_on_drugs,17,18,0.7697478991596638

@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.03571428571428559
+1,disease_on_symptoms,14,26,-0.09752747252747263
+2,disease_on_drugs,21,14,0.03571428571428559

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,-0.016666666666666607
+1,disease_on_symptoms,21,17,0.1022408963585435
+2,disease_on_drugs,26,17,-0.005866568452068011

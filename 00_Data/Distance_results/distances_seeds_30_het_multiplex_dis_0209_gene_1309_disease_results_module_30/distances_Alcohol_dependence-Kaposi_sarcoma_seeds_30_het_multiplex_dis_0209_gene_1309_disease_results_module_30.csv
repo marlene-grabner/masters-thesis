@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,18,16,-0.12336601307189543
+2,disease_on_drugs,24,28,-0.13003663003663002

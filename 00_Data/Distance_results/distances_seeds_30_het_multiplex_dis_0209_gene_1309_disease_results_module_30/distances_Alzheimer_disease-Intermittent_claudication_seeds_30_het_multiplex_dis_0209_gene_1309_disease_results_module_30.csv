@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,23,30,0.05660377358490565
+1,disease_on_symptoms,19,14,0.4792663476874002
+2,disease_on_drugs,19,24,0.06040901672786614

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Dermatitis nodes,sAB
+0,disease_on_genes,23,26,0.20380434782608692
+1,disease_on_symptoms,19,25,1.4676555023923448
+2,disease_on_drugs,11,24,0.8154761904761907

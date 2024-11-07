@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.3223261250730566
+1,disease_on_symptoms,15,18,-0.5398989898989899
+2,disease_on_drugs,25,28,-0.35921832884097027

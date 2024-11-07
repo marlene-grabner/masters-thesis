@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,24,25,0.5305612244897959
+1,disease_on_symptoms,25,22,1.3459381044487428
+2,disease_on_drugs,17,24,1.7703252032520322

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Headache nodes,sAB
+0,disease_on_genes,24,30,0.25416666666666665
+1,disease_on_symptoms,25,25,1.3599999999999999
+2,disease_on_drugs,17,26,1.1900715563506261

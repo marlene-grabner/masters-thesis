@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,29,30,0.08445353594389249
+1,disease_on_symptoms,20,19,0.3307354925775976
+2,disease_on_drugs,24,25,0.04028911564625837

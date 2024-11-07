@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Malnutrition nodes,sAB
+0,disease_on_genes,23,30,-0.2264150943396226
+1,disease_on_symptoms,22,14,0.17388167388167375
+2,disease_on_drugs,21,29,-0.28916256157635445

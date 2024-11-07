@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.33810637054354187
+1,disease_on_symptoms,14,16,1.3172619047619045
+2,disease_on_drugs,27,25,0.6360398860398859

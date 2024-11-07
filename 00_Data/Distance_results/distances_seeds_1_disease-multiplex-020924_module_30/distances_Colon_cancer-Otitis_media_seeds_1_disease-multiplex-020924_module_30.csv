@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.2763805160356885
+1,disease_on_symptoms,21,22,0.720175173663546
+2,disease_on_drugs,24,29,1.0614834092387768

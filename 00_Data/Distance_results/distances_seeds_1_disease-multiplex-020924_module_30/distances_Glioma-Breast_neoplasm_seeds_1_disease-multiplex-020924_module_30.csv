@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,22,30,0.07342657342657355
+1,disease_on_symptoms,24,16,0.3229166666666665
+2,disease_on_drugs,20,30,0.27500000000000013

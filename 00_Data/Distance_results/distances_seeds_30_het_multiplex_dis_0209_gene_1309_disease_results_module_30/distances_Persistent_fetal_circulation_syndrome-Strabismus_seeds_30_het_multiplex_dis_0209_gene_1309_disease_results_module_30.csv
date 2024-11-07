@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Strabismus nodes,sAB
+0,disease_on_genes,24,17,-0.18077474892395984
+1,disease_on_symptoms,22,24,1.266716073781291
+2,disease_on_drugs,21,16,-0.05908140283140284

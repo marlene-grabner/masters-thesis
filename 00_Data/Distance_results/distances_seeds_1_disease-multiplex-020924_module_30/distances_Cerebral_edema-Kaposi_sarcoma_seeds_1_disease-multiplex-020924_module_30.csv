@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.6000000000000001
+1,disease_on_symptoms,9,27,1.7222222222222223
+2,disease_on_drugs,11,13,0.7462121212121213

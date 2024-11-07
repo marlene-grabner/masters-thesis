@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Myalgia nodes,sAB
+0,disease_on_genes,28,30,-0.033374384236453336
+1,disease_on_symptoms,14,16,1.8327380952380954
+2,disease_on_drugs,24,29,0.2264150943396226

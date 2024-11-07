@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.22354388843314177
+1,disease_on_symptoms,23,19,1.1153971886237333
+2,disease_on_drugs,23,22,0.04677206851119897

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.051765188834154485
+1,disease_on_symptoms,17,18,0.3202147525676935
+2,disease_on_drugs,26,25,-0.07734539969834087

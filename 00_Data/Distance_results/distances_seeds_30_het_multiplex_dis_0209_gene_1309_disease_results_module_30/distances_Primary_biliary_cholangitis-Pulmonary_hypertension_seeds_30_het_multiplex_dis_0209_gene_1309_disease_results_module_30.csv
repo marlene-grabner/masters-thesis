@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.07407407407407418
+1,disease_on_symptoms,23,18,0.3598150111935903
+2,disease_on_drugs,26,27,0.1679567811643281

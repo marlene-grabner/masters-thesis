@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,22,13,1.3997502497502499
+2,disease_on_drugs,30,21,0.26050420168067223

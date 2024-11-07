@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,-0.31818181818181823
+1,disease_on_symptoms,15,27,-0.47989417989417993
+2,disease_on_drugs,21,17,-0.3175586023883237

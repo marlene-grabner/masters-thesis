@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,25,15,0.3933333333333333
+1,disease_on_symptoms,19,27,2.2395118230358504
+2,disease_on_drugs,18,13,1.7786738351254483

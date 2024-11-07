@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Sepsis nodes,sAB
+0,disease_on_genes,21,22,0.23464713580992647
+1,disease_on_symptoms,20,23,1.42633973710819
+2,disease_on_drugs,19,17,0.7745098039215685

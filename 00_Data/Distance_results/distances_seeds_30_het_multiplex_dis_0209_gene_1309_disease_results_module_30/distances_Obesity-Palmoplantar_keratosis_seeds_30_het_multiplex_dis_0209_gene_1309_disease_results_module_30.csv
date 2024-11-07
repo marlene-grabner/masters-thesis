@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,27,26,-0.11215932914046123
+1,disease_on_symptoms,18,20,1.2242690058479533
+2,disease_on_drugs,25,23,0.04130434782608683

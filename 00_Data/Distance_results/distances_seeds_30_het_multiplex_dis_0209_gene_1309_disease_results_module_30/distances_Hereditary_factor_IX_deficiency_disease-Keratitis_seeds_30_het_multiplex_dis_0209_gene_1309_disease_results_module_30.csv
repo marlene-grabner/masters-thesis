@@ -1,0 +1,4 @@
+,Layer,Hereditary_factor_IX_deficiency_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,30,-0.10472085385878505
+1,disease_on_symptoms,18,25,1.0987080103359173
+2,disease_on_drugs,26,29,0.2885941644562333

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.16585266585266578
+1,disease_on_symptoms,17,25,1.7818487394957985
+2,disease_on_drugs,20,23,0.3068756319514663

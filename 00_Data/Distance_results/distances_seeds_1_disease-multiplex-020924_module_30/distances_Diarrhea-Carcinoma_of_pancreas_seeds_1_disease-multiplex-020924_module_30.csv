@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,23,0.18740740740740747
+1,disease_on_symptoms,19,25,1.4295693779904308
+2,disease_on_drugs,26,21,0.5977905073649754

@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.18965517241379315
+1,disease_on_symptoms,19,17,0.5736154110767115
+2,disease_on_drugs,28,28,-0.1964285714285714

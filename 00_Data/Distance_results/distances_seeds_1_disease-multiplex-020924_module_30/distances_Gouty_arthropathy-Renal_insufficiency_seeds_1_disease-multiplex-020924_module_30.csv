@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,20,0.10333333333333328
+1,disease_on_symptoms,13,23,1.6751207729468596
+2,disease_on_drugs,16,17,0.4589460784313726

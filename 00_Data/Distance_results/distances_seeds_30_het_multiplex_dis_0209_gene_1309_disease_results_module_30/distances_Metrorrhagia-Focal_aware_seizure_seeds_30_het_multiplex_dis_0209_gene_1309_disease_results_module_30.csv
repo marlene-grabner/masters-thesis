@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.0892857142857143
+1,disease_on_symptoms,17,16,0.705325311942959
+2,disease_on_drugs,26,29,0.12463226428743668

@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,23,18,-0.03832331801578892
+2,disease_on_drugs,29,28,0.0870495203526056

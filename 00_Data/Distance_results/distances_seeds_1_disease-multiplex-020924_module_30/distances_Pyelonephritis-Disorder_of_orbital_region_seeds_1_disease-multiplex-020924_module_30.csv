@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,23,17,-0.0328644501278772
+1,disease_on_symptoms,21,27,1.0486111111111112
+2,disease_on_drugs,19,16,0.5375000000000001

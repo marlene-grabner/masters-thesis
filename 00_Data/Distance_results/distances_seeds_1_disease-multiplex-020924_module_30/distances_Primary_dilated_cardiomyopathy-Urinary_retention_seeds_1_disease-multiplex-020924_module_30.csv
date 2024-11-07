@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.7023593466424685
+1,disease_on_symptoms,25,18,3.2559948320413437
+2,disease_on_drugs,7,19,0.7727009832272991

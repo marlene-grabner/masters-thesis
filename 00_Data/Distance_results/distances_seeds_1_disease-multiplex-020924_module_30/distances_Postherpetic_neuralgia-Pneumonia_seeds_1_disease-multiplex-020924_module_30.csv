@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.2833333333333332
+1,disease_on_symptoms,15,26,0.47707942464040043
+2,disease_on_drugs,29,28,0.38626739261947973

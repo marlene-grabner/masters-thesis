@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.2235632183908045
+1,disease_on_symptoms,18,18,0.16666666666666696
+2,disease_on_drugs,30,27,-0.17134502923976602

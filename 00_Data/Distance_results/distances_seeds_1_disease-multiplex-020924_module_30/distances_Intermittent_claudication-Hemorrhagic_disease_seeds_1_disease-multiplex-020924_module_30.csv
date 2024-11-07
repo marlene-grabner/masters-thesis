@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,20,24,0.29053030303030325
+1,disease_on_symptoms,24,19,2.0965167278661774
+2,disease_on_drugs,18,19,0.8376797850482061

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,-0.017857142857142905
+1,disease_on_symptoms,21,17,0.8100398053958426
+2,disease_on_drugs,25,27,-0.11886039886039867

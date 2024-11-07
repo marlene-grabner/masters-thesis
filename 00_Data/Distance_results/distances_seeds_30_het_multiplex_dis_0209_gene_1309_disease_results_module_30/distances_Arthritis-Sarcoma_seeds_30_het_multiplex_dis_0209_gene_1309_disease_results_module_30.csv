@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,20,23,0.9546764408493427
+2,disease_on_drugs,29,24,0.1622207764042507

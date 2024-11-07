@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,0.058687363834422746
+1,disease_on_symptoms,21,21,1.9047619047619047
+2,disease_on_drugs,27,24,0.34899237472766886

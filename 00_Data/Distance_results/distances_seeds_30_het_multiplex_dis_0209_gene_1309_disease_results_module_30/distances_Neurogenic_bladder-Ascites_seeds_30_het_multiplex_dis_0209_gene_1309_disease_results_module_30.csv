@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,18,22,-0.266919191919192
+2,disease_on_drugs,21,27,-0.21660052910052907

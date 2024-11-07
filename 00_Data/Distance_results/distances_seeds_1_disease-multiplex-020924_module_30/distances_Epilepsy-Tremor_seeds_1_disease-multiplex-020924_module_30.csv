@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Tremor nodes,sAB
+0,disease_on_genes,29,16,0.039583333333333304
+1,disease_on_symptoms,18,23,0.9081831035701662
+2,disease_on_drugs,30,16,0.23469202898550723

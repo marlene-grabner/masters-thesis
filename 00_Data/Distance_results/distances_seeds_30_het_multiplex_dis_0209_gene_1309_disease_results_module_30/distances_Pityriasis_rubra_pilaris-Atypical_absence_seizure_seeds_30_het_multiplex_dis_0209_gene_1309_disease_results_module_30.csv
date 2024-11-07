@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,27,30,0.10331384015594525
+1,disease_on_symptoms,21,13,1.28657616892911
+2,disease_on_drugs,25,22,0.35990328820116035

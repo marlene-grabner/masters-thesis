@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,29,-0.0006613756613758071
+1,disease_on_symptoms,21,13,0.6596638655462186
+2,disease_on_drugs,27,22,0.07759568473854195

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,22,0.2023601398601398
+1,disease_on_symptoms,21,19,1.9775689223057646
+2,disease_on_drugs,23,19,0.21177944862155407

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Exanthem nodes,sAB
+0,disease_on_genes,17,28,0.615686274509804
+1,disease_on_symptoms,28,26,2.9607753357753355
+2,disease_on_drugs,9,28,0.8470077220077221

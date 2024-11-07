@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Sarcoma nodes,sAB
+0,disease_on_genes,24,25,0.36692176870748283
+1,disease_on_symptoms,18,26,1.2062937062937062
+2,disease_on_drugs,18,21,1.3846153846153846

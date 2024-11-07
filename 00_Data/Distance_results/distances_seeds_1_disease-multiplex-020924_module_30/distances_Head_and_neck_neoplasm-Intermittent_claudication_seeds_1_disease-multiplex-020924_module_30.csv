@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.2883333333333331
+1,disease_on_symptoms,20,24,1.8450757575757575
+2,disease_on_drugs,27,18,0.8444444444444443

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,0.27864623243933595
+1,disease_on_symptoms,21,25,0.9445134575569356
+2,disease_on_drugs,28,23,1.1774601144805747

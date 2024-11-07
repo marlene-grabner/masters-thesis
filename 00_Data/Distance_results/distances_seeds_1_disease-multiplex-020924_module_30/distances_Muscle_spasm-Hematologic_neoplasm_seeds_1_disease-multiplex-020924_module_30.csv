@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,25,22,0.45319148936170195
+1,disease_on_symptoms,23,24,1.7209952204748689
+2,disease_on_drugs,19,19,1.236842105263158

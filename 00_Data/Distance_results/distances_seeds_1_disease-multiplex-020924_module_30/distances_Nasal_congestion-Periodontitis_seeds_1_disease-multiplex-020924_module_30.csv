@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.2621410992616897
+1,disease_on_symptoms,15,25,0.8266666666666667
+2,disease_on_drugs,23,22,0.7323012736056214

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,28,30,0.07007389162561561
+1,disease_on_symptoms,14,13,0.2925315425315427
+2,disease_on_drugs,24,18,0.36904761904761885

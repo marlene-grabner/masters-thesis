@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.07309941520467844
+1,disease_on_symptoms,22,16,0.32535885167464107
+2,disease_on_drugs,20,30,0.20166666666666688

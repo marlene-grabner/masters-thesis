@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,24,27,0.392020697167756
+1,disease_on_symptoms,18,22,0.4454545454545453
+2,disease_on_drugs,18,24,1.125

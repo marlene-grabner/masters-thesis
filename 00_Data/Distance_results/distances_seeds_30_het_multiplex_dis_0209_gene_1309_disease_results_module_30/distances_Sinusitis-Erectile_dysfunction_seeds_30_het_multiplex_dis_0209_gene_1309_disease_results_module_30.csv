@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,29,30,0.06779661016949157
+1,disease_on_symptoms,20,15,0.7250000000000001
+2,disease_on_drugs,27,30,0.6636452241715398

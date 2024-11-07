@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,22,16,-0.04336124401913888
+2,disease_on_drugs,24,24,-0.06249999999999978

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.22033898305084743
+1,disease_on_symptoms,17,19,-0.39533883728930164
+2,disease_on_drugs,24,29,-0.28471318585990013

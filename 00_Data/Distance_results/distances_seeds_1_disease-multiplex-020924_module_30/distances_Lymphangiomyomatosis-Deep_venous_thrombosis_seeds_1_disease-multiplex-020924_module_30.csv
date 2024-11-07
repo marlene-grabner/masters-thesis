@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,26,28,0.2969576719576721
+1,disease_on_symptoms,19,14,1.9305650489861015
+2,disease_on_drugs,22,24,0.908102766798419

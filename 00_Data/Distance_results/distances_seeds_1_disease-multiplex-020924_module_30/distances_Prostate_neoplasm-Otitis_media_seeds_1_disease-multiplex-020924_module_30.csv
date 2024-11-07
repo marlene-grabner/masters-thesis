@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Otitis_media nodes,sAB
+0,disease_on_genes,17,29,0.23092865332039847
+1,disease_on_symptoms,21,22,0.5601530252693043
+2,disease_on_drugs,17,29,1.0416262457006789

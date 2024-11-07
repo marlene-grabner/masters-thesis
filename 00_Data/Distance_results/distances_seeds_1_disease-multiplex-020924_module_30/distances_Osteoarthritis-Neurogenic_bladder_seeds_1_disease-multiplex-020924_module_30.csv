@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.17393939393939406
+1,disease_on_symptoms,20,17,0.8079491255961846
+2,disease_on_drugs,21,26,0.6808510638297873

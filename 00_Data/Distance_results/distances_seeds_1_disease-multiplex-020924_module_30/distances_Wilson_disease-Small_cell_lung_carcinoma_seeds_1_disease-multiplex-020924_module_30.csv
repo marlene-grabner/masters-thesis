@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,23,27,0.011304347826087024
+1,disease_on_symptoms,19,24,0.3718380252957978
+2,disease_on_drugs,11,25,0.07888888888888879

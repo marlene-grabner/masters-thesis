@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,-0.017857142857142794
+1,disease_on_symptoms,18,12,1.202777777777778
+2,disease_on_drugs,25,18,0.2662273901808785

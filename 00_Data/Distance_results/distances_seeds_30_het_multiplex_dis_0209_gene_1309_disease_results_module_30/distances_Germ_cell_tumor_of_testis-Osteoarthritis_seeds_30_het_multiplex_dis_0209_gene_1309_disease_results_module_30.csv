@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,26,-0.30156426382841484
+1,disease_on_symptoms,22,22,0.36363636363636354
+2,disease_on_drugs,20,25,-0.24944444444444447

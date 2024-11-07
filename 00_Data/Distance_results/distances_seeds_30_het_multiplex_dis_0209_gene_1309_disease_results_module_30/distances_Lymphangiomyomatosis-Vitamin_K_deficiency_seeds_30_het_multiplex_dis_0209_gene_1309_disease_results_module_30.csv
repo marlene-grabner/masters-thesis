@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.05844645550527894
+1,disease_on_symptoms,17,21,0.804879846675512
+2,disease_on_drugs,24,21,-0.08710317460317474

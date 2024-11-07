@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Prostatitis nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,21,22,0.8785865297493207
+2,disease_on_drugs,25,28,-0.08287061994609157

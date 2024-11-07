@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,26,27,0.11175616835994195
+1,disease_on_symptoms,28,17,1.056045751633987
+2,disease_on_drugs,23,25,0.7282608695652173

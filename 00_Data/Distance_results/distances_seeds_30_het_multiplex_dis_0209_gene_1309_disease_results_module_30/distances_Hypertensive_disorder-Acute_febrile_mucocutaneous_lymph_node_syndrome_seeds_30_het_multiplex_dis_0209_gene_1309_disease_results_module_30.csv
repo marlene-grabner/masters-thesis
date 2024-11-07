@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.31491228070175437
+1,disease_on_symptoms,21,13,-0.007541478129713619
+2,disease_on_drugs,26,28,-0.2566646316646317

@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,28,30,0.13793103448275867
+1,disease_on_symptoms,25,14,1.973186813186813
+2,disease_on_drugs,24,22,0.2839262187088274

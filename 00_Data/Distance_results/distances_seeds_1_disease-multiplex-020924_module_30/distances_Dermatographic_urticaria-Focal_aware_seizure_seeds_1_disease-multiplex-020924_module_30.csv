@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,0.01724137931034475
+1,disease_on_symptoms,14,15,1.644991789819376
+2,disease_on_drugs,28,29,0.49122807017543857

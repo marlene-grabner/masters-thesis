@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,30,-0.2184065934065934
+1,disease_on_symptoms,16,18,0.3423202614379086
+2,disease_on_drugs,26,26,-0.3076923076923078

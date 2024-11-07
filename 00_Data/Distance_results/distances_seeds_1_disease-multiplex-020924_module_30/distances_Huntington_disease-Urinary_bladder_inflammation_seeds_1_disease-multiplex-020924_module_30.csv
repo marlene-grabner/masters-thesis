@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.17787878787878797
+1,disease_on_symptoms,16,22,0.11498205741626788
+2,disease_on_drugs,27,24,0.7401960784313724

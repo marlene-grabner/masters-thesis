@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Pericarditis nodes,sAB
+0,disease_on_genes,25,25,0.24
+1,disease_on_symptoms,24,22,1.6243412384716736
+2,disease_on_drugs,20,25,0.78

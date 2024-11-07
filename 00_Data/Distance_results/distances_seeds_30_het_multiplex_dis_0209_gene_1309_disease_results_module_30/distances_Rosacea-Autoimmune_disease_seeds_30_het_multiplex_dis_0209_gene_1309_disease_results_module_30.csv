@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.10595238095238091
+1,disease_on_symptoms,18,20,0.38991228070175454
+2,disease_on_drugs,30,25,-0.08424242424242423

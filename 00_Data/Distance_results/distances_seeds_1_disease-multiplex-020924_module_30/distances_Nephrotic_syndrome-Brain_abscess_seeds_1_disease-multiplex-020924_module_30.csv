@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,20,27,0.007308904649330206
+1,disease_on_symptoms,24,21,0.493452380952381
+2,disease_on_drugs,18,23,0.09652998703900084

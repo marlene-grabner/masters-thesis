@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,22,0.2863756613756614
+1,disease_on_symptoms,16,26,2.5153388278388276
+2,disease_on_drugs,18,12,1.2666666666666666

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,21,16,0.3608429858429858
+2,disease_on_drugs,29,29,0.0

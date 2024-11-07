@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Obesity nodes,sAB
+0,disease_on_genes,23,27,-0.3555555555555556
+1,disease_on_symptoms,23,18,0.26328502415458943
+2,disease_on_drugs,22,25,-0.29439071566731145

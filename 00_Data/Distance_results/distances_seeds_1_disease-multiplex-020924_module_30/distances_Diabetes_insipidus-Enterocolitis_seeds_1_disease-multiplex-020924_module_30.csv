@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,24,27,0.27437363834422657
+1,disease_on_symptoms,18,21,0.8562271062271063
+2,disease_on_drugs,18,24,0.669642857142857

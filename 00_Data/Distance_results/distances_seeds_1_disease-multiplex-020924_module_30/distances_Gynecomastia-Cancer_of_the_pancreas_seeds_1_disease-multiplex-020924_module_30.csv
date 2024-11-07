@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.13559322033898313
+1,disease_on_symptoms,16,16,0.21875
+2,disease_on_drugs,24,29,0.10893786597267408

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,29,9,0.021677757612421855
+1,disease_on_symptoms,15,27,1.646031746031746
+2,disease_on_drugs,29,9,0.32486388384754994

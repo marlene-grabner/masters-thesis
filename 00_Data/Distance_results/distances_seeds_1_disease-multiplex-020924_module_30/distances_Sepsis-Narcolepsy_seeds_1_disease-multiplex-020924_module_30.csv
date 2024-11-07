@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,22,25,0.35827852998065746
+1,disease_on_symptoms,23,21,2.048654244306418
+2,disease_on_drugs,17,20,0.5107710651828297

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,0.2962640901771336
+1,disease_on_symptoms,21,27,1.1970899470899472
+2,disease_on_drugs,21,26,0.4645779752162731

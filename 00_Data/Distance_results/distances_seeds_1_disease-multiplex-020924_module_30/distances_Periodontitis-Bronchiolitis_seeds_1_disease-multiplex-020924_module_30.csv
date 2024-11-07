@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,23,23,-0.30434782608695643
+1,disease_on_symptoms,25,25,-0.1200000000000001
+2,disease_on_drugs,22,18,-0.47651515151515156

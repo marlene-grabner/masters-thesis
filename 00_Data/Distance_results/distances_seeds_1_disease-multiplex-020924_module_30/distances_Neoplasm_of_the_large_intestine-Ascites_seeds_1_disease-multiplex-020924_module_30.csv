@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Ascites nodes,sAB
+0,disease_on_genes,20,30,0.19500000000000006
+1,disease_on_symptoms,25,17,0.7783753501400561
+2,disease_on_drugs,19,27,0.41355199593185876

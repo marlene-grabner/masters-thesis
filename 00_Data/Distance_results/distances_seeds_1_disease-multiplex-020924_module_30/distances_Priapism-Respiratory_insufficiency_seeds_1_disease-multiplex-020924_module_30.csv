@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,25,0.3084848484848486
+1,disease_on_symptoms,17,20,0.24240858505564367
+2,disease_on_drugs,28,14,0.029761904761904878

@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,17,28,0.1614612511671334
+1,disease_on_symptoms,25,19,-0.1823444976076556
+2,disease_on_drugs,13,26,0.07051282051282048

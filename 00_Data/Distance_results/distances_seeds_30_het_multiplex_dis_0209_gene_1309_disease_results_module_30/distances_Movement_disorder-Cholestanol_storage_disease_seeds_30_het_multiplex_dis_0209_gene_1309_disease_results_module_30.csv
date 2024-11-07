@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.3728910968244692
+1,disease_on_symptoms,17,18,-0.68828197945845
+2,disease_on_drugs,26,28,-0.5423280423280424

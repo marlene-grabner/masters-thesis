@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555558
+1,disease_on_symptoms,16,21,0.642012548262548
+2,disease_on_drugs,23,25,0.21416666666666662

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.24090505767524406
+1,disease_on_symptoms,17,21,0.6024620374465575
+2,disease_on_drugs,25,21,0.778136645962733

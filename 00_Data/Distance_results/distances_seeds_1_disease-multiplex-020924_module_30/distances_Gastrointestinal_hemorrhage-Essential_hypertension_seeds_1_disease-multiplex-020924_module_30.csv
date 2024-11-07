@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.0912097162097163
+1,disease_on_symptoms,19,14,1.4139895192526772
+2,disease_on_drugs,27,28,0.618831168831169

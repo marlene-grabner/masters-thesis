@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,11,21,0.0037878787878788955
+2,disease_on_drugs,27,23,-0.13294685990338162

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,22,30,0.0410256410256411
+1,disease_on_symptoms,21,22,0.7437581798046915
+2,disease_on_drugs,17,29,0.4412205661874944

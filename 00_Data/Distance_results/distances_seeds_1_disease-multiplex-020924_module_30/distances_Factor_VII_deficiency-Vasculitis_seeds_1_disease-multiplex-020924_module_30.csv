@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,24,0.28651360544217663
+1,disease_on_symptoms,23,19,2.27263811703171
+2,disease_on_drugs,21,20,0.7316492450638792

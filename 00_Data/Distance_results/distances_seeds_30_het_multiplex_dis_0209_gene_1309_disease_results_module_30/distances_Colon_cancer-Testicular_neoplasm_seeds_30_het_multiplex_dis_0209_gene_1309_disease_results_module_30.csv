@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,-0.29450980392156867
+1,disease_on_symptoms,22,26,-0.2805944055944056
+2,disease_on_drugs,26,24,-0.27871794871794886

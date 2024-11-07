@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,-0.1430402930402931
+1,disease_on_symptoms,18,17,-0.23506069094304394
+2,disease_on_drugs,25,17,-0.19243697478991617

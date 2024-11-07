@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,-0.07621082621082631
+1,disease_on_symptoms,22,21,0.9046612302426253
+2,disease_on_drugs,22,21,-0.04822309473472264

@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,14,11,1.278311688311688
+2,disease_on_drugs,21,27,0.24801587301587302

@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Goiter nodes,sAB
+0,disease_on_genes,24,26,0.38224358974358985
+1,disease_on_symptoms,17,15,1.559436274509804
+2,disease_on_drugs,23,16,1.4615384615384617

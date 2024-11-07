@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,23,19,0.4560858668410157
+1,disease_on_symptoms,21,21,1.4047619047619049
+2,disease_on_drugs,19,17,1.0277777777777777

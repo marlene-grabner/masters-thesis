@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,18,22,0.002272727272727204
+2,disease_on_drugs,28,29,-0.2647783251231526

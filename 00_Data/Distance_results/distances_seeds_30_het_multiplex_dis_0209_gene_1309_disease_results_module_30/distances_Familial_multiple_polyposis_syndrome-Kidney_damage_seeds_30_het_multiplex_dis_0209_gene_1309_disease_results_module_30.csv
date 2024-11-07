@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,19,15,0.15180598555211544
+2,disease_on_drugs,25,21,-0.10691511387163555

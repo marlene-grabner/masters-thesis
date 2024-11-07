@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,25,30,0.08878787878787886
+1,disease_on_symptoms,17,20,0.35123211446740843
+2,disease_on_drugs,24,22,0.5018115942028987

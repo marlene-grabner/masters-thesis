@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,30,0.11864406779661008
+1,disease_on_symptoms,20,18,1.2035087719298247
+2,disease_on_drugs,20,30,0.4666666666666668

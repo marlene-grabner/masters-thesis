@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,21,15,0.27063492063492056
+1,disease_on_symptoms,20,27,1.9173758865248225
+2,disease_on_drugs,19,13,1.375

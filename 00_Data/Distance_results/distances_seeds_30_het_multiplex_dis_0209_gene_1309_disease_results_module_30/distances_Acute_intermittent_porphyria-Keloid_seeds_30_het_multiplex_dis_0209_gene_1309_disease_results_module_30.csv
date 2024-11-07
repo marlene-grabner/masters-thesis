@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.09999999999999998
+1,disease_on_symptoms,17,17,1.6764705882352944
+2,disease_on_drugs,24,22,0.22093214756258228

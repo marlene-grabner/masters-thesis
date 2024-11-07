@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,18,26,0.5287490287490288
+1,disease_on_symptoms,21,17,0.1338640719445674
+2,disease_on_drugs,6,18,1.1250000000000002

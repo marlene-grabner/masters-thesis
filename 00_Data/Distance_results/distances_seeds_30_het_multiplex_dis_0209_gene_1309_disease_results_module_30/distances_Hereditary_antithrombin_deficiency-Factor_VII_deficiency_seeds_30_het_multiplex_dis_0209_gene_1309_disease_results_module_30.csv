@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,28,28,-0.08928571428571419
+1,disease_on_symptoms,16,19,-0.27377819548872173
+2,disease_on_drugs,23,25,-0.13427536231884063

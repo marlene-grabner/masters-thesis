@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,9,20,0.2456896551724137
+2,disease_on_drugs,23,29,0.2423884211740286

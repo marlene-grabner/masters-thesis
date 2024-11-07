@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Pericarditis nodes,sAB
+0,disease_on_genes,17,25,0.13165266106442575
+1,disease_on_symptoms,21,22,0.7234974327997583
+2,disease_on_drugs,14,25,0.5184615384615385

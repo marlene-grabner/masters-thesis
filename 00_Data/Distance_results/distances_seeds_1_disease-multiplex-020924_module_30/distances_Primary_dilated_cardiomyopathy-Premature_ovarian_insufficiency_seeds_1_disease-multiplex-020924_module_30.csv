@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.6603773584905661
+1,disease_on_symptoms,25,22,1.943172147001934
+2,disease_on_drugs,7,17,1.1736694677871151

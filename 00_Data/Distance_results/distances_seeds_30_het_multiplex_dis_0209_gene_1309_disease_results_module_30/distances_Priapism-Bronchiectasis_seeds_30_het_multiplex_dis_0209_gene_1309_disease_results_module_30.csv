@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,12,19,-0.7978211658177703
+2,disease_on_drugs,28,25,-0.0007277628032344996

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666683
+1,disease_on_symptoms,19,18,0.5135530267109216
+2,disease_on_drugs,20,26,-0.14389632107023398

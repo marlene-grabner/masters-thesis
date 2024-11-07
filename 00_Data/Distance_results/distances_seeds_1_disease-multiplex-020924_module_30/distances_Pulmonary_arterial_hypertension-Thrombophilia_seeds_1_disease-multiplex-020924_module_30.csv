@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,28,27,0.03635161135161136
+1,disease_on_symptoms,18,18,1.9166666666666667
+2,disease_on_drugs,26,21,0.10336294910762978

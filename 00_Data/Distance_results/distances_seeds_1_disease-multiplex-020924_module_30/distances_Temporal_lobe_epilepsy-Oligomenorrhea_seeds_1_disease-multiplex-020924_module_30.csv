@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,28,0.38626739261947973
+1,disease_on_symptoms,17,12,1.9721095334685597
+2,disease_on_drugs,26,21,0.9306172550853402

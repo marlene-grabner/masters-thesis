@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.10586811857229295
+1,disease_on_symptoms,17,18,0.9090102707749768
+2,disease_on_drugs,25,19,0.4146889952153108

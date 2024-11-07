@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.07090909090909081
+1,disease_on_symptoms,16,26,0.8245192307692308
+2,disease_on_drugs,28,24,0.46062271062271076

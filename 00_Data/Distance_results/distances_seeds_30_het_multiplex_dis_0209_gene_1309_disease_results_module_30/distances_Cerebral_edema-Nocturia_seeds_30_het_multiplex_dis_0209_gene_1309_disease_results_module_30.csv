@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.05555555555555558
+1,disease_on_symptoms,10,18,0.5103174603174605
+2,disease_on_drugs,16,24,0.1729166666666666

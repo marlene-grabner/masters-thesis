@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666665
+1,disease_on_symptoms,21,19,-0.9641604010025062
+2,disease_on_drugs,29,24,-0.30066688353936244

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,16,22,0.2734748803827749
+2,disease_on_drugs,30,28,0.3779556650246305

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,-0.11538461538461531
+1,disease_on_symptoms,21,22,0.37294875666968696
+2,disease_on_drugs,25,25,-0.04000000000000026

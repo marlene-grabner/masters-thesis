@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,25,30,0.09060606060606058
+1,disease_on_symptoms,20,18,0.884356725146199
+2,disease_on_drugs,22,21,0.3925551192993053

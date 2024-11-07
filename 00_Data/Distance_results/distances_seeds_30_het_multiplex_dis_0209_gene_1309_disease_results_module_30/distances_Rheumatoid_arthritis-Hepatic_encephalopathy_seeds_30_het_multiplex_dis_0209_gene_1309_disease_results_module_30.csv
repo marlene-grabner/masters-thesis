@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,19,14,0.19548872180451138
+2,disease_on_drugs,30,29,-0.18820377946619915

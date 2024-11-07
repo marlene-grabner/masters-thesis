@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,19,17,0.2392500859993123
+2,disease_on_drugs,29,17,0.33442102478172675

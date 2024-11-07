@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,27,-0.0009746588693957392
+1,disease_on_symptoms,14,21,0.4999999999999998
+2,disease_on_drugs,27,27,0.11111111111111116

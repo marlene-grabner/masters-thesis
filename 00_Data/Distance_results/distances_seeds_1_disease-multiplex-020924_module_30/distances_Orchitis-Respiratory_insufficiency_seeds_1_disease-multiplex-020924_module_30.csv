@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,23,25,0.6475
+1,disease_on_symptoms,16,20,2.8409722222222222
+2,disease_on_drugs,17,14,0.8985497424776363

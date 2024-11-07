@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,17,17,0.2941176470588236
+2,disease_on_drugs,29,24,0.020426697028844032

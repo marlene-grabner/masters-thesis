@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.07480175006836198
+1,disease_on_symptoms,20,19,0.9542847503373819
+2,disease_on_drugs,29,22,0.31308009097055756

@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,28,0.10968660968660982
+1,disease_on_symptoms,21,21,0.5238095238095237
+2,disease_on_drugs,24,21,0.11210317460317465

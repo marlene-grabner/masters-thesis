@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.14761904761904754
+1,disease_on_symptoms,19,14,0.32729551150603786
+2,disease_on_drugs,24,30,0.6125

@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.10344827586206895
+1,disease_on_symptoms,25,22,0.7338878143133463
+2,disease_on_drugs,30,15,-0.09444444444444455

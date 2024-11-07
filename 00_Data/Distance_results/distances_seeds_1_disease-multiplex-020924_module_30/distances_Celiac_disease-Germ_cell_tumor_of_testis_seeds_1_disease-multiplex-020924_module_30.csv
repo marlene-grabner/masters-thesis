@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,17,27,0.213903743315508
+1,disease_on_symptoms,22,23,1.626570048309179
+2,disease_on_drugs,15,20,0.3952380952380954

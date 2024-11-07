@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,26,28,0.05753968253968256
+1,disease_on_symptoms,23,18,1.2507364204076823
+2,disease_on_drugs,26,26,0.32692307692307687

@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,-0.10058275058275046
+1,disease_on_symptoms,21,20,0.9973867595818815
+2,disease_on_drugs,27,19,-0.0185185185185186

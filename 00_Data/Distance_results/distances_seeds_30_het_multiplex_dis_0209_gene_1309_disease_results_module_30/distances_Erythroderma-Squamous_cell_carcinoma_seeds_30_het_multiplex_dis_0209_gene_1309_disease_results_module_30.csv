@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,20,22,-0.020670995670995618
+2,disease_on_drugs,29,30,-0.222969023962595

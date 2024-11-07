@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,22,22,-0.18181818181818166
+1,disease_on_symptoms,20,19,-0.22975708502024283
+2,disease_on_drugs,19,19,-0.18421052631578938

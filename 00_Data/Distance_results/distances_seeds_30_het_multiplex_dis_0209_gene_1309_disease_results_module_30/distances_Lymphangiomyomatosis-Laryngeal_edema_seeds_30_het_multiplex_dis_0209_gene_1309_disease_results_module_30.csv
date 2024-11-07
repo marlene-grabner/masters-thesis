@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,26,30,-0.285897435897436
+1,disease_on_symptoms,17,16,0.028799019607843368
+2,disease_on_drugs,24,28,-0.21314102564102577

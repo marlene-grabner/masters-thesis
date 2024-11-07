@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,23,30,-0.18934919332786437
+1,disease_on_symptoms,19,19,0.3157894736842106
+2,disease_on_drugs,21,30,-0.11456582633053203

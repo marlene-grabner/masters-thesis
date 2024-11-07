@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.5188644688644688
+1,disease_on_symptoms,17,17,1.0882352941176472
+2,disease_on_drugs,17,18,0.804761904761905

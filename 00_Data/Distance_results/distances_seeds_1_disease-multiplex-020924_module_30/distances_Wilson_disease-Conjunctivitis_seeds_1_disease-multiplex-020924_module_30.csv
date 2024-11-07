@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,0.2127858293075684
+1,disease_on_symptoms,19,27,0.8152385795406389
+2,disease_on_drugs,11,26,0.6101871101871104

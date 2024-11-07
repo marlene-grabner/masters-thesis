@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,27,27,0.4259259259259258
+1,disease_on_symptoms,23,20,2.3467896865520728
+2,disease_on_drugs,20,15,1.2857142857142856

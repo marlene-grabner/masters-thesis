@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,26,30,0.3183150183150183
+1,disease_on_symptoms,28,22,1.3522727272727273
+2,disease_on_drugs,23,15,1.0887871853546913

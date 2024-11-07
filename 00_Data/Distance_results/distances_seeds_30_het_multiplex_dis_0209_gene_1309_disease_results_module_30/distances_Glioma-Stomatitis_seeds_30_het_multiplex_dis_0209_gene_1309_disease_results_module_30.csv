@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,22,30,-0.2692307692307693
+1,disease_on_symptoms,21,19,0.014661654135338154
+2,disease_on_drugs,21,29,-0.026600985221674867

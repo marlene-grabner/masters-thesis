@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_skin nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,22,14,0.2803030303030303
+2,disease_on_drugs,29,24,0.31024994578182596

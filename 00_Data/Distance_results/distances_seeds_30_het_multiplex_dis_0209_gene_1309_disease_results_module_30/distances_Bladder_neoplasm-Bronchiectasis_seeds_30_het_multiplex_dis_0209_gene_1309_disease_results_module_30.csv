@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,26,30,0.0714285714285714
+1,disease_on_symptoms,19,19,0.6842105263157894
+2,disease_on_drugs,25,25,0.1399999999999999

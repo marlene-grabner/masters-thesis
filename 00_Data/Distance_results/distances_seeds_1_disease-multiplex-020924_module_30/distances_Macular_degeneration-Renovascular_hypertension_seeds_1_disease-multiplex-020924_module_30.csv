@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.26904761904761876
+1,disease_on_symptoms,15,22,1.3586404586404588
+2,disease_on_drugs,21,20,0.582897793263647

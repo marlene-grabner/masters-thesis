@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,14,0.23852813852813837
+1,disease_on_symptoms,14,25,1.6561172161172162
+2,disease_on_drugs,26,10,0.7277777777777776

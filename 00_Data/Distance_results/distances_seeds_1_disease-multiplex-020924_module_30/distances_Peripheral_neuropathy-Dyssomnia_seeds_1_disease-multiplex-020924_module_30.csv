@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.02499999999999991
+1,disease_on_symptoms,20,21,1.4370499419279905
+2,disease_on_drugs,24,17,0.23595169775227176

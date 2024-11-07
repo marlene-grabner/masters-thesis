@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.1763157894736842
+1,disease_on_symptoms,22,16,0.84375
+2,disease_on_drugs,27,23,0.56

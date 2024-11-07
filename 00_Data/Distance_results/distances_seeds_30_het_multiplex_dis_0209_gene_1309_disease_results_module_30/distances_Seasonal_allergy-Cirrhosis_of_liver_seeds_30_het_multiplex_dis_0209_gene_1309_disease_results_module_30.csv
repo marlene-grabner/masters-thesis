@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,-0.0847457627118644
+1,disease_on_symptoms,18,19,-0.0035561877667140696
+2,disease_on_drugs,29,30,-0.10144165205532829

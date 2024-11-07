@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.0714285714285714
+1,disease_on_symptoms,11,23,0.1554289700069753
+2,disease_on_drugs,27,26,0.1679567811643281

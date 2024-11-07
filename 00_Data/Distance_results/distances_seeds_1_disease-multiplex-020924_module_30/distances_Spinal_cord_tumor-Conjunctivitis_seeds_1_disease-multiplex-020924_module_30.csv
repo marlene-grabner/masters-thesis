@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,22,27,0.3121864907579195
+1,disease_on_symptoms,22,27,0.8537071394214251
+2,disease_on_drugs,14,26,0.6543956043956045

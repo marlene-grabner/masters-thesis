@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.1413255360623783
+1,disease_on_symptoms,10,19,-0.1110707803992741
+2,disease_on_drugs,16,24,0.07708333333333339

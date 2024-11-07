@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Sarcoma nodes,sAB
+0,disease_on_genes,17,30,0.026282853566958586
+1,disease_on_symptoms,24,23,0.49281144002466837
+2,disease_on_drugs,16,24,0.3270833333333334

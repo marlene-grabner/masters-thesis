@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.20225988700564967
+1,disease_on_symptoms,20,15,-0.36190476190476184
+2,disease_on_drugs,24,29,-0.19261006289308158

@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.017231638418079065
+1,disease_on_symptoms,18,11,0.7628874956461162
+2,disease_on_drugs,21,24,0.30992063492063493

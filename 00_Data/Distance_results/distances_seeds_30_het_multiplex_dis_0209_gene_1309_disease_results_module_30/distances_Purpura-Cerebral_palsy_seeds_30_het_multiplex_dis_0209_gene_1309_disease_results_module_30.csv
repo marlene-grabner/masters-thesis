@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,30,0.1744639376218322
+1,disease_on_symptoms,17,13,1.4025641025641025
+2,disease_on_drugs,24,21,0.11091269841269846

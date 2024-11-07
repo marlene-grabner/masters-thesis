@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.0006699480448455475
+1,disease_on_symptoms,20,19,0.649089068825911
+2,disease_on_drugs,30,21,0.11288515406162447

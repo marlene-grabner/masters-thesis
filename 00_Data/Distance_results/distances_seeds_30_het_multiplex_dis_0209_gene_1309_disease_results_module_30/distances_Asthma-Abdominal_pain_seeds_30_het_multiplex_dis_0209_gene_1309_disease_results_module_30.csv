@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,-0.14575757575757575
+1,disease_on_symptoms,20,19,0.19935897435897454
+2,disease_on_drugs,22,29,0.14360132767840694

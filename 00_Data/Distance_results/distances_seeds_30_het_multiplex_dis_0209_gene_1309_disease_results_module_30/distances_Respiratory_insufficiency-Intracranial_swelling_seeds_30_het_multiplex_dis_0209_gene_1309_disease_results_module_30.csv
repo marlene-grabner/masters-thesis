@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,21,11,0.6286525974025974
+2,disease_on_drugs,25,21,-0.34525879917184255

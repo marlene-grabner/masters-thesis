@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,27,-0.114074074074074
+1,disease_on_symptoms,19,22,-0.22738942700431797
+2,disease_on_drugs,18,26,-0.18686868686868674

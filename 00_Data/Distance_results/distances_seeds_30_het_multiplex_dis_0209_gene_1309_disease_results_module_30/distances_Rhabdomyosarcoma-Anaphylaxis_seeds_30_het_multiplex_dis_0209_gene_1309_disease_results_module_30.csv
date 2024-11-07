@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,29,27,0.052910052910052796
+1,disease_on_symptoms,19,14,1.1581795397584873
+2,disease_on_drugs,29,26,0.5833735230286956

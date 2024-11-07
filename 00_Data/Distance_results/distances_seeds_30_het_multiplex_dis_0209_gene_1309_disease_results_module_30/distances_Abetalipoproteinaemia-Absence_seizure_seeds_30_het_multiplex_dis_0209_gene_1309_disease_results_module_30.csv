@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,14,30,0.05519480519480524
+1,disease_on_symptoms,26,14,-0.13681318681318677
+2,disease_on_drugs,14,22,-0.11652236652236647

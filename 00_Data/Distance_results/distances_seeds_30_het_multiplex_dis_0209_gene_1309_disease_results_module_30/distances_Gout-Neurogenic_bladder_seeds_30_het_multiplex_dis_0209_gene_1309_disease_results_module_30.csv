@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,28,30,0.17179802955665036
+1,disease_on_symptoms,19,18,0.7808598071755966
+2,disease_on_drugs,22,21,0.13877982482633655

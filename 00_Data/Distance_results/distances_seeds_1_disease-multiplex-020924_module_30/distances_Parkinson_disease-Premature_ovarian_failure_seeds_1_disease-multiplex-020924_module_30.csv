@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,21,28,0.2210884353741498
+1,disease_on_symptoms,20,21,1.3947154471544714
+2,disease_on_drugs,19,21,0.6023809523809522

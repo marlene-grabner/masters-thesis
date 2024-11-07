@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,27,0.020614954577218736
+1,disease_on_symptoms,21,19,1.6451754385964914
+2,disease_on_drugs,25,26,0.8623378582202113

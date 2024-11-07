@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,29,30,0.3386908240794857
+1,disease_on_symptoms,17,16,1.2962344028520496
+2,disease_on_drugs,26,24,0.9182692307692308

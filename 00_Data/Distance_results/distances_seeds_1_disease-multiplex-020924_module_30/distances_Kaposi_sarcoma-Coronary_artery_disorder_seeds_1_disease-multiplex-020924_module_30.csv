@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,15,19,0.3187822497420021
+1,disease_on_symptoms,27,21,2.4136904761904763
+2,disease_on_drugs,13,17,1.0

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Exanthem nodes,sAB
+0,disease_on_genes,17,30,-0.032937004589069785
+1,disease_on_symptoms,24,21,0.7196428571428573
+2,disease_on_drugs,16,29,0.5203783524904215

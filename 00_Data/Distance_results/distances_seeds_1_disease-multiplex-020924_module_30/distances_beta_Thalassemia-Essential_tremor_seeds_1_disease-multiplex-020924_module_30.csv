@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,22,21,0.4899577167019027
+1,disease_on_symptoms,21,20,3.045673635307782
+2,disease_on_drugs,6,19,1.087017543859649

@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,19,0.1512820512820512
+2,disease_on_drugs,23,29,0.02635220851112896

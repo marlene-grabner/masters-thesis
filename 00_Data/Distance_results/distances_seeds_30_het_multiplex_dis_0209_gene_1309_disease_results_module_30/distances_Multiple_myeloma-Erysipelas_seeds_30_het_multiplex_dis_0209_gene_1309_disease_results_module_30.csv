@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,21,18,0.8287545787545785
+2,disease_on_drugs,25,29,0.23075351213282236

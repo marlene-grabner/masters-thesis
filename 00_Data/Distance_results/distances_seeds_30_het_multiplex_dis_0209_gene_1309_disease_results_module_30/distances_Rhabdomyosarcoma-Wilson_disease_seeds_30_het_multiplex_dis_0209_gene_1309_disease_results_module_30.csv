@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,29,25,-0.12962962962962965
+1,disease_on_symptoms,19,19,0.1578947368421053
+2,disease_on_drugs,29,22,-0.22257053291536044

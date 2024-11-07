@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,21,30,0.3236694677871148
+1,disease_on_symptoms,26,15,0.9368980612883051
+2,disease_on_drugs,20,21,1.0493612078977934

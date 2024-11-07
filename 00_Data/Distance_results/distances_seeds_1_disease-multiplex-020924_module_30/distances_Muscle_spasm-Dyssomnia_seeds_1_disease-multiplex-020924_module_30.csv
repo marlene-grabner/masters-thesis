@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,25,18,0.016279069767441756
+1,disease_on_symptoms,23,21,1.5271974402409185
+2,disease_on_drugs,19,17,0.6617647058823528

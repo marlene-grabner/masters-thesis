@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,15,0.2342737722048065
+1,disease_on_symptoms,23,27,1.4089855072463768
+2,disease_on_drugs,27,13,1.0879629629629628

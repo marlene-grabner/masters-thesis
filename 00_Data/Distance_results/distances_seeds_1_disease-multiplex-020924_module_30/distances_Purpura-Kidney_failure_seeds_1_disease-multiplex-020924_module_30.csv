@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,26,20,0.03795986622073588
+1,disease_on_symptoms,17,23,1.1777493606138107
+2,disease_on_drugs,20,18,0.020467836257309857

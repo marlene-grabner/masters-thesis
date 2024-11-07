@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,23,30,0.09433962264150941
+1,disease_on_symptoms,16,21,0.8122184684684686
+2,disease_on_drugs,17,29,0.03712849457624112

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.03448275862068961
+1,disease_on_symptoms,20,18,0.6182748538011698
+2,disease_on_drugs,29,27,0.0749863163656268

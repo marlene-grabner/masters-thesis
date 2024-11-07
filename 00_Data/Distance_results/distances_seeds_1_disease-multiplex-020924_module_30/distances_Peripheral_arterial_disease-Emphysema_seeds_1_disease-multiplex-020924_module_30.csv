@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Emphysema nodes,sAB
+0,disease_on_genes,25,30,0.052424242424242484
+1,disease_on_symptoms,14,14,0.7857142857142856
+2,disease_on_drugs,22,29,0.3529411764705883

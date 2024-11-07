@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,29,-0.2536050156739811
+1,disease_on_symptoms,21,13,-0.15567765567765557
+2,disease_on_drugs,26,28,-0.0009157509157506905

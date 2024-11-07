@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,-2.220446049250313e-16
+1,disease_on_symptoms,19,20,0.6656882591093116
+2,disease_on_drugs,26,25,0.07880844645550544

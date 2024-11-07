@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,-0.05769230769230771
+1,disease_on_symptoms,20,17,0.17500000000000004
+2,disease_on_drugs,23,24,-0.06302035152636432

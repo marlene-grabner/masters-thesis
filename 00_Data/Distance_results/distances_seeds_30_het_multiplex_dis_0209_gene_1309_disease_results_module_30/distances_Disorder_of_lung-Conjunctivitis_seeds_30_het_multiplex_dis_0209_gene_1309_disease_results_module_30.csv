@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.03571428571428581
+1,disease_on_symptoms,18,27,0.4314814814814816
+2,disease_on_drugs,24,28,0.17651098901098905

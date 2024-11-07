@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,28,0.45185185185185195
+1,disease_on_symptoms,16,26,1.7058150183150185
+2,disease_on_drugs,18,28,0.8734472049689441

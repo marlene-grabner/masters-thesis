@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Vitiligo nodes,sAB
+0,disease_on_genes,27,30,0.08771929824561409
+1,disease_on_symptoms,18,19,0.14679152837047527
+2,disease_on_drugs,24,25,0.06239795918367341

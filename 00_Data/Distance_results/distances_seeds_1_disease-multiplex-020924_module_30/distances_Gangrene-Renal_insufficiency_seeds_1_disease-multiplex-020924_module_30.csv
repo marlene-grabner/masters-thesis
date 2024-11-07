@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,-0.2369565217391304
+1,disease_on_symptoms,19,23,0.15903890160183076
+2,disease_on_drugs,23,17,0.02679028132992345

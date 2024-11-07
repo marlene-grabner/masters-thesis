@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,20,18,0.4757309941520469
+2,disease_on_drugs,25,26,0.07992458521870272

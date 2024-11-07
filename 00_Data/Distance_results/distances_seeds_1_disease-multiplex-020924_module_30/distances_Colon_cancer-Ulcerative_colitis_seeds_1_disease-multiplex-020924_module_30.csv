@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,0.4154303069397407
+1,disease_on_symptoms,21,20,1.3412020905923343
+2,disease_on_drugs,24,25,0.5918367346938775

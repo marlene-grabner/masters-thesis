@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.06382978723404253
+1,disease_on_symptoms,12,21,2.903679653679654
+2,disease_on_drugs,30,17,0.7036086775135586

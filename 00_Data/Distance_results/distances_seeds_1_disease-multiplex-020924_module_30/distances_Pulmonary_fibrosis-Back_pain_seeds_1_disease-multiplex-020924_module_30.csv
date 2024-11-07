@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Back_pain nodes,sAB
+0,disease_on_genes,24,30,-0.03009259259259256
+1,disease_on_symptoms,22,16,0.8015849282296652
+2,disease_on_drugs,24,23,0.1914893617021276

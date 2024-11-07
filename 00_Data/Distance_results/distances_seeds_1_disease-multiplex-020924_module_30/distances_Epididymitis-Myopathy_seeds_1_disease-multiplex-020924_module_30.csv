@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Myopathy nodes,sAB
+0,disease_on_genes,29,18,0.4461155946849271
+1,disease_on_symptoms,23,21,0.16859589685676624
+2,disease_on_drugs,27,6,0.765993265993266

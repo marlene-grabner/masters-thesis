@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,0.0946890286512927
+1,disease_on_symptoms,21,21,0.666666666666667
+2,disease_on_drugs,25,24,0.3269217687074828

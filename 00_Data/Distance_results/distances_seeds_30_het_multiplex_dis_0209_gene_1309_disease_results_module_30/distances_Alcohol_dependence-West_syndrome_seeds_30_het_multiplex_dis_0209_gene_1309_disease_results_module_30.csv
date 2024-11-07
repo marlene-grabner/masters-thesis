@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,18,13,-0.05569341053212029
+2,disease_on_drugs,24,19,-0.1885964912280702

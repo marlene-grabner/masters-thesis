@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,22,30,0.0410256410256411
+1,disease_on_symptoms,21,19,1.6093984962406016
+2,disease_on_drugs,21,27,0.4470899470899472

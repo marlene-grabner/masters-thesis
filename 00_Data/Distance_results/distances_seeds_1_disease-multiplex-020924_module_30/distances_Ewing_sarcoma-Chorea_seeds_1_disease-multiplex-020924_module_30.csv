@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Chorea nodes,sAB
+0,disease_on_genes,24,14,0.7702067669172934
+1,disease_on_symptoms,25,27,2.205982905982906
+2,disease_on_drugs,17,8,1.3375

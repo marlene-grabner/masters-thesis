@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Esophagitis nodes,sAB
+0,disease_on_genes,24,24,0.1910075547332717
+1,disease_on_symptoms,18,23,0.6630434782608696
+2,disease_on_drugs,18,20,0.21184210526315805

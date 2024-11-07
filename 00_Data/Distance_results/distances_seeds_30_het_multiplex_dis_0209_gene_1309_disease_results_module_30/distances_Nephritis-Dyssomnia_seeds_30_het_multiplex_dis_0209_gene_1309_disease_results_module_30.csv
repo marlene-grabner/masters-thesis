@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.02083333333333326
+1,disease_on_symptoms,17,21,2.6187527642636
+2,disease_on_drugs,25,17,0.11971988795518218

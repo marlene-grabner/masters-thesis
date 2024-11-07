@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Myopathy nodes,sAB
+0,disease_on_genes,14,18,0.5406746031746033
+1,disease_on_symptoms,27,21,2.8700396825396823
+2,disease_on_drugs,8,6,0.8422619047619051

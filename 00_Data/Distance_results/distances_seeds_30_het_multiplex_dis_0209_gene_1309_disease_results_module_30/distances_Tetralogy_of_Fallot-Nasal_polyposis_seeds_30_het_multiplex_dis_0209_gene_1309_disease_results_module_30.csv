@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,19,20,0.4083670715249661
+2,disease_on_drugs,20,25,0.1549999999999998

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,28,30,-0.051724137931034475
+1,disease_on_symptoms,20,16,0.25902777777777763
+2,disease_on_drugs,25,28,-0.021738544474393606

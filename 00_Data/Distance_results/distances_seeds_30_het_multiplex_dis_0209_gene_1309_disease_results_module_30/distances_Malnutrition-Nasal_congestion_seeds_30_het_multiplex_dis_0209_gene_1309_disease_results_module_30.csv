@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,14,14,0.03571428571428581
+2,disease_on_drugs,29,25,-0.15233716475095793

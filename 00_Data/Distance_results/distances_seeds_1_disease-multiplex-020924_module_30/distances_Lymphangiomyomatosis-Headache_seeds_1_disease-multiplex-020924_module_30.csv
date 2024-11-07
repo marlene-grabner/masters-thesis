@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Headache nodes,sAB
+0,disease_on_genes,26,30,0.1797619047619048
+1,disease_on_symptoms,19,25,1.3377511961722486
+2,disease_on_drugs,22,26,0.7421328671328671

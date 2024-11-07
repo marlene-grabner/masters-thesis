@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,15,16,0.2528897849462364
+2,disease_on_drugs,26,29,0.13966722932240194

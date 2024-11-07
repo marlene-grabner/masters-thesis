@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,0.13214285714285712
+1,disease_on_symptoms,17,26,0.19165000526149645
+2,disease_on_drugs,25,13,0.2813765182186234

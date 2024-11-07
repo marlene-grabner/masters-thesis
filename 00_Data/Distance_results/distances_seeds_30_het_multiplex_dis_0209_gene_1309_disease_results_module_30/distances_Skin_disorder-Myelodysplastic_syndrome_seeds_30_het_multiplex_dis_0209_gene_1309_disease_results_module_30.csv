@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,-0.05882352941176472
+1,disease_on_symptoms,19,17,0.1564327485380117
+2,disease_on_drugs,23,24,0.08637835337650346

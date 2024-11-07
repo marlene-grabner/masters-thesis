@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,15,30,0.3055555555555556
+1,disease_on_symptoms,25,15,1.1583333333333332
+2,disease_on_drugs,10,30,0.575

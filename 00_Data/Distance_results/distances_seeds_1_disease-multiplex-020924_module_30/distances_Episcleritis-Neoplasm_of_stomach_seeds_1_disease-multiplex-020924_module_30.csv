@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,23,0.1132075471698113
+1,disease_on_symptoms,22,24,0.8961627140974968
+2,disease_on_drugs,29,22,0.1851834777798269

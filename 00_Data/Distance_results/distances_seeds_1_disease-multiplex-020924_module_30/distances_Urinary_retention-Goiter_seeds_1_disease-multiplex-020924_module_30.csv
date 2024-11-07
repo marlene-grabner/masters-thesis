@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.4546319003052901
+1,disease_on_symptoms,18,15,1.633838383838384
+2,disease_on_drugs,19,16,0.6067669172932331

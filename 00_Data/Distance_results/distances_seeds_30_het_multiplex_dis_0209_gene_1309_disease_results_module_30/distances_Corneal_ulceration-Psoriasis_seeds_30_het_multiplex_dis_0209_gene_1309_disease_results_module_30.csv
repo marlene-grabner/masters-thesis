@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,30,-0.15578817733990147
+1,disease_on_symptoms,15,17,-0.3497549019607842
+2,disease_on_drugs,23,30,-0.163768115942029

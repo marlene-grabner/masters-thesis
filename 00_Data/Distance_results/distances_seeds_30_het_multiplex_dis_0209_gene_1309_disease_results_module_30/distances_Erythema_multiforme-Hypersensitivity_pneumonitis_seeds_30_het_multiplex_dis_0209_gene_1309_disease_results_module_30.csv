@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.2909090909090909
+1,disease_on_symptoms,18,20,-0.18845029239766076
+2,disease_on_drugs,30,25,-0.2572727272727272

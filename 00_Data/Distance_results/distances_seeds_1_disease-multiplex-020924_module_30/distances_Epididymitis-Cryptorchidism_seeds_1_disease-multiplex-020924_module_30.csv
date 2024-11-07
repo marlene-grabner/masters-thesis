@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,29,23,0.3655571946646996
+1,disease_on_symptoms,23,18,1.5181453988452926
+2,disease_on_drugs,27,18,1.3629629629629627

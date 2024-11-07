@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,14,19,1.009284575074049
+2,disease_on_drugs,21,30,0.2344537815126051

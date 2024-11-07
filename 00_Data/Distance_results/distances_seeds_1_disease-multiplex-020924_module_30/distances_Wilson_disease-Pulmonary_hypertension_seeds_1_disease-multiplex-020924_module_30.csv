@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,23,28,0.14795700889051266
+1,disease_on_symptoms,19,20,2.161268556005398
+2,disease_on_drugs,11,28,0.8205128205128205

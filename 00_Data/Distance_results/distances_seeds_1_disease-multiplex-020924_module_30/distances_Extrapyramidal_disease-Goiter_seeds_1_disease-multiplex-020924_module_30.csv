@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Goiter nodes,sAB
+0,disease_on_genes,14,26,0.6123626373626374
+1,disease_on_symptoms,25,15,2.6483333333333334
+2,disease_on_drugs,10,16,1.4115384615384616

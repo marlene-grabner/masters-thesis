@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,29,0.34545454545454546
+1,disease_on_symptoms,15,16,1.6168010752688173
+2,disease_on_drugs,26,29,0.8191222570532917

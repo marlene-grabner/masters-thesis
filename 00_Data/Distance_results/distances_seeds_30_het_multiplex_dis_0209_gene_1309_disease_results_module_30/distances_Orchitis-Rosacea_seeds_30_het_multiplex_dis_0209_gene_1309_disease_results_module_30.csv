@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Rosacea nodes,sAB
+0,disease_on_genes,25,30,-0.016666666666666607
+1,disease_on_symptoms,19,18,-0.08025130393551438
+2,disease_on_drugs,25,30,-0.10787878787878791

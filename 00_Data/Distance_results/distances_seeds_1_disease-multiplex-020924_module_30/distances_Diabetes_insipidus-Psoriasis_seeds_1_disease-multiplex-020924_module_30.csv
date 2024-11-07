@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Psoriasis nodes,sAB
+0,disease_on_genes,24,28,0.3857600732600732
+1,disease_on_symptoms,18,21,1.0723443223443223
+2,disease_on_drugs,18,28,0.877329192546584

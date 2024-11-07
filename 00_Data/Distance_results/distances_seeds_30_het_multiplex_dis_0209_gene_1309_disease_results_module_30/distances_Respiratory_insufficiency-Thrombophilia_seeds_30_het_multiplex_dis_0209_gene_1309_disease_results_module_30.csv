@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,27,27,0.05555555555555558
+1,disease_on_symptoms,21,18,1.2860195360195363
+2,disease_on_drugs,25,22,0.2011798839458414

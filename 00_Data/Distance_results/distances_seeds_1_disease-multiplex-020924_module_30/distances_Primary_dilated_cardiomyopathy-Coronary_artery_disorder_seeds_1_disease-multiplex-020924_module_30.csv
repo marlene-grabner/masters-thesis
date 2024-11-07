@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.46348012889366297
+1,disease_on_symptoms,25,21,3.0970600414078677
+2,disease_on_drugs,7,17,0.3035714285714286

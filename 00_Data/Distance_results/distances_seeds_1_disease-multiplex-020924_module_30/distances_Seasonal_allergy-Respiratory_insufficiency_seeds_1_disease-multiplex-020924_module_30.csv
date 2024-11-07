@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,29,25,0.2058492975734354
+1,disease_on_symptoms,15,20,0.3178571428571426
+2,disease_on_drugs,29,14,0.10817390308168173

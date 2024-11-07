@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.18442205942205936
+1,disease_on_symptoms,21,20,0.6486643437862951
+2,disease_on_drugs,24,28,0.8028846153846154

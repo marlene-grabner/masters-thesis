@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Epididymitis nodes,sAB
+0,disease_on_genes,28,29,0.05293405928614647
+1,disease_on_symptoms,23,23,0.28260869565217384
+2,disease_on_drugs,26,27,0.1131806697844433

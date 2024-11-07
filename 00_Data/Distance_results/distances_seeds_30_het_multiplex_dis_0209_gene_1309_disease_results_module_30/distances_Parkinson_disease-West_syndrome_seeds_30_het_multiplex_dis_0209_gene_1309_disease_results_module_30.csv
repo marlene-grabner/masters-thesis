@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,West_syndrome nodes,sAB
+0,disease_on_genes,23,30,-0.16981132075471694
+1,disease_on_symptoms,23,13,-0.10423634336677812
+2,disease_on_drugs,22,19,-0.2970591667639163

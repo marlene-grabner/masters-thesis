@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.1607142857142858
+1,disease_on_symptoms,19,17,0.9966460268317854
+2,disease_on_drugs,22,27,0.44305297876726457

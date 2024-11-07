@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,30,-0.5818713450292399
+1,disease_on_symptoms,18,16,-1.1186683006535947
+2,disease_on_drugs,25,27,-0.5992877492877492

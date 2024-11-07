@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,18,-0.1051446183025131
+2,disease_on_drugs,28,27,-0.07510822510822512

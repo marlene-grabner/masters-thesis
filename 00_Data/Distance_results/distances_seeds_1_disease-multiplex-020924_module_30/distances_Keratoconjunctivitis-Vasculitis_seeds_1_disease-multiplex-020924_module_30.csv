@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,24,0.2999213836477985
+1,disease_on_symptoms,25,19,0.915980861244019
+2,disease_on_drugs,27,20,0.5705673758865246

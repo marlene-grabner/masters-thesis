@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,12,14,0.20009157509157505
+2,disease_on_drugs,17,29,0.2314578005115091

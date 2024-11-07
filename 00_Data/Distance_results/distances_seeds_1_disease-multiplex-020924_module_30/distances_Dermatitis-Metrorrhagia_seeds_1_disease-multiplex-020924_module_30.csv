@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.15384615384615374
+1,disease_on_symptoms,25,17,0.7577591036414564
+2,disease_on_drugs,24,26,0.699871794871795

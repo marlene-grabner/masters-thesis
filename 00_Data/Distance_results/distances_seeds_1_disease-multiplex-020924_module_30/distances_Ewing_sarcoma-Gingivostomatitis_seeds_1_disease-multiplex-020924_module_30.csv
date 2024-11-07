@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,24,30,0.38935185185185195
+1,disease_on_symptoms,25,23,1.2320652173913045
+2,disease_on_drugs,17,29,1.143928035982009

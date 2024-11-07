@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,0.03559113300492589
+1,disease_on_symptoms,19,19,0.5789473684210527
+2,disease_on_drugs,20,22,-0.09729437229437221

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,16,20,0.2250000000000001
+1,disease_on_symptoms,26,23,2.5296908060883214
+2,disease_on_drugs,14,17,0.7590132827324478

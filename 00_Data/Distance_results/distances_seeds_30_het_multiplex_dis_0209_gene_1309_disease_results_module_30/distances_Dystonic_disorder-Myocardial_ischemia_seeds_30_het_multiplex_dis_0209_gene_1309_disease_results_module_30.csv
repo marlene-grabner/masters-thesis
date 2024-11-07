@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666666
+1,disease_on_symptoms,17,19,-0.14198486412108702
+2,disease_on_drugs,26,30,-0.09514652014652003

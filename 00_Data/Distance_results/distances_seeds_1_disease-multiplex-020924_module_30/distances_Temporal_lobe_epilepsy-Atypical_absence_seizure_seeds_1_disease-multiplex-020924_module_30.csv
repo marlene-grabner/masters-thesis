@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.5862068965517241
+1,disease_on_symptoms,17,15,-0.7778186274509804
+2,disease_on_drugs,26,27,-0.622305542116863

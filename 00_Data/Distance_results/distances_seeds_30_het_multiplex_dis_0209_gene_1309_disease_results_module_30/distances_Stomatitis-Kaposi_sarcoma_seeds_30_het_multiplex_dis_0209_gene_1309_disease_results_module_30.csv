@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,19,16,-0.22462406015037595
+2,disease_on_drugs,29,28,-0.052415521562527045

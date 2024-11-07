@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,23,0.2178349600709848
+1,disease_on_symptoms,21,19,1.7454260651629074
+2,disease_on_drugs,24,11,0.08571428571428563

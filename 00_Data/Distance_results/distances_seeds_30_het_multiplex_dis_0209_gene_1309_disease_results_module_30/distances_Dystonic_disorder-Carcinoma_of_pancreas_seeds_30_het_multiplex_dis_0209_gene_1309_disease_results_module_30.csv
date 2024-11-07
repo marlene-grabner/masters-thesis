@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,18,0.6555088702147525
+2,disease_on_drugs,26,21,0.2949497311199438

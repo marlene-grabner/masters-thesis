@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.05350877192982462
+1,disease_on_symptoms,15,20,0.9571428571428569
+2,disease_on_drugs,25,27,-0.023076923076923217

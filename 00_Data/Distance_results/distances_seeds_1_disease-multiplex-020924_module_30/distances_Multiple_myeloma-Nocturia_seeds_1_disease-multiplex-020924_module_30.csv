@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Nocturia nodes,sAB
+0,disease_on_genes,26,21,0.34378629500580704
+1,disease_on_symptoms,21,24,1.5486111111111112
+2,disease_on_drugs,25,14,0.8528571428571428

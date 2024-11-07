@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.3039563193698531
+1,disease_on_symptoms,20,21,1.1914343786295003
+2,disease_on_drugs,22,17,0.7435897435897436

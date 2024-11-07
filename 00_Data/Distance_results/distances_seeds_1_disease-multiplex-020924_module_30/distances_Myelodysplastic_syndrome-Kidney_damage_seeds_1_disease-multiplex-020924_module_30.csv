@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.22608695652173894
+1,disease_on_symptoms,15,26,0.561319574734209
+2,disease_on_drugs,21,13,0.41273432449903047

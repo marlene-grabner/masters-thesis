@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,-0.2485380116959065
+1,disease_on_symptoms,22,16,0.31055622009569395
+2,disease_on_drugs,20,28,-0.026785714285714413

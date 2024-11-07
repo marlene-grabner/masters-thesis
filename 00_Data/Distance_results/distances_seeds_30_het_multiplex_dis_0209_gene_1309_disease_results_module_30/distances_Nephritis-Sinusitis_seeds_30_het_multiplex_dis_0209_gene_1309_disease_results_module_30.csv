@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,17,20,0.08191573926868068
+2,disease_on_drugs,25,27,0.015156695156695044

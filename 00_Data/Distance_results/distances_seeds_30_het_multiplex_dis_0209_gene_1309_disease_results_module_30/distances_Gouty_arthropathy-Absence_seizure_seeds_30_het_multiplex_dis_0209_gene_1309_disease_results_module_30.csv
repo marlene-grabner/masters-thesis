@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,28,30,0.2586206896551724
+1,disease_on_symptoms,18,14,1.400793650793651
+2,disease_on_drugs,23,22,0.6462450592885376

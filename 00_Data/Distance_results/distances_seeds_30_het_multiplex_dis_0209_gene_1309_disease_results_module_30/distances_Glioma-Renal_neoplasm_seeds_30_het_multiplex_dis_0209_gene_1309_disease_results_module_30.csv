@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,22,29,-0.37254901960784315
+1,disease_on_symptoms,21,20,-0.22221254355400677
+2,disease_on_drugs,21,28,-0.4158163265306124

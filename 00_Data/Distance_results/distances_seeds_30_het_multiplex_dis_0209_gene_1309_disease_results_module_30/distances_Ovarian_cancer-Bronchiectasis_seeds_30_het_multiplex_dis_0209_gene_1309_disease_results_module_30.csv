@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.14035087719298245
+1,disease_on_symptoms,17,19,0.6828345373237015
+2,disease_on_drugs,17,25,0.2553501400560223

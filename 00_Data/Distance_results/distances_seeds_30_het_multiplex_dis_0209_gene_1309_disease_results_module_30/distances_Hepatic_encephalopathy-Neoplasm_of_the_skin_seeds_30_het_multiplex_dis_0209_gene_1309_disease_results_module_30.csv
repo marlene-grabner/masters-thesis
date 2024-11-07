@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,14,22,0.42316017316017307
+2,disease_on_drugs,29,29,-0.10344827586206895

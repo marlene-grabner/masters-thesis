@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.24814814814814823
+1,disease_on_symptoms,20,18,1.8467836257309942
+2,disease_on_drugs,24,21,0.7551587301587301

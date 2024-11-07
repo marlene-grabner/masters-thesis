@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.22833333333333328
+1,disease_on_symptoms,20,27,1.4067769897557132
+2,disease_on_drugs,24,19,0.9057017543859649

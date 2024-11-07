@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,30,-0.07212475633528281
+1,disease_on_symptoms,21,16,0.638795045045045
+2,disease_on_drugs,25,27,0.13378917378917365

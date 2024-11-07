@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,17,30,0.18170289855072475
+1,disease_on_symptoms,27,20,1.0682427107959025
+2,disease_on_drugs,14,27,0.42770034843205584

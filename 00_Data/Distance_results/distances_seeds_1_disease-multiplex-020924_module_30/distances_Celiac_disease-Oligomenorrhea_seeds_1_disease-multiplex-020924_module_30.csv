@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,17,28,0.6522875816993463
+1,disease_on_symptoms,22,12,2.8382352941176467
+2,disease_on_drugs,15,21,1.0063492063492063

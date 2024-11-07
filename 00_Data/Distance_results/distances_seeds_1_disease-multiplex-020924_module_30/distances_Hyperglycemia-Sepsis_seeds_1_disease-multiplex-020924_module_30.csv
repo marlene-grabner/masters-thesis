@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.12738927738927752
+1,disease_on_symptoms,14,23,1.2584354540876281
+2,disease_on_drugs,26,17,0.6388508891928864

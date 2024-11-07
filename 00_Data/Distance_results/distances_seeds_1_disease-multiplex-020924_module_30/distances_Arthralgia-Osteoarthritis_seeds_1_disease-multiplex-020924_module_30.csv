@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,-0.14727272727272733
+1,disease_on_symptoms,19,20,0.17921727395411602
+2,disease_on_drugs,30,21,-0.17647058823529416

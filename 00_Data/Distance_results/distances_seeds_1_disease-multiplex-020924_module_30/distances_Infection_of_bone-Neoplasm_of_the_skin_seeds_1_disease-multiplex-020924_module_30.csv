@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,26,28,0.16788766788766774
+1,disease_on_symptoms,21,21,0.976190476190476
+2,disease_on_drugs,24,24,0.8958333333333333

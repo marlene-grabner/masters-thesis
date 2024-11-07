@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.14021164021164023
+1,disease_on_symptoms,21,25,0.5047204968944101
+2,disease_on_drugs,23,27,0.2028985507246377

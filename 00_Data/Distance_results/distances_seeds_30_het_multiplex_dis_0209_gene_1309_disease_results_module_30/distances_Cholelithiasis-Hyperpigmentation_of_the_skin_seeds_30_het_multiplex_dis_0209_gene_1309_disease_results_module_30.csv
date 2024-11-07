@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,25,30,-0.1454545454545455
+1,disease_on_symptoms,20,17,0.2143879173290939
+2,disease_on_drugs,18,28,-0.13388543823326438

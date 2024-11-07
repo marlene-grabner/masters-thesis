@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Pain nodes,sAB
+0,disease_on_genes,23,26,0.05958637635656272
+1,disease_on_symptoms,25,21,0.9072049689440993
+2,disease_on_drugs,22,26,0.12092074592074575

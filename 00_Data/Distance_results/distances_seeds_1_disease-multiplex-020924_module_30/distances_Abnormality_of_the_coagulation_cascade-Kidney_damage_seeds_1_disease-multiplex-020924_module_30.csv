@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,23,20,0.18361981799797777
+1,disease_on_symptoms,23,26,1.4044263190225923
+2,disease_on_drugs,18,13,0.5998070030328095

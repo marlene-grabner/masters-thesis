@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,26,30,-0.03452380952380951
+1,disease_on_symptoms,22,18,0.027525252525252508
+2,disease_on_drugs,26,22,-0.14758158508158492

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,24,27,-0.23420479302832253
+1,disease_on_symptoms,23,19,0.4384330391195381
+2,disease_on_drugs,22,24,-0.19309947299077712

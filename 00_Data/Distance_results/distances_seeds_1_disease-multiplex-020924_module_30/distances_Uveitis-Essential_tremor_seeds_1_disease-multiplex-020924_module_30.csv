@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.35588235294117654
+1,disease_on_symptoms,21,20,1.3894599303135888
+2,disease_on_drugs,27,19,0.5638613441817104

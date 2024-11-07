@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Purpura nodes,sAB
+0,disease_on_genes,30,27,-0.03606237816764146
+1,disease_on_symptoms,12,17,0.7729885057471266
+2,disease_on_drugs,29,24,0.15862882238126197

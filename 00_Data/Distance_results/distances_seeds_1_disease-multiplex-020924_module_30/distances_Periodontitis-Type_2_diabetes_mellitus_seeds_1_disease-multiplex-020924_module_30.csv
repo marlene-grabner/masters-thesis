@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,23,16,0.1318979933110369
+1,disease_on_symptoms,25,21,2.5107246376811596
+2,disease_on_drugs,22,15,0.9858722358722356

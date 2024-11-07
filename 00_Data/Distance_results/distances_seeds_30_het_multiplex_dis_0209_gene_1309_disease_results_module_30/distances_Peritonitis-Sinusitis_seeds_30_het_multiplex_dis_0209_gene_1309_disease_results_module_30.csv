@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,14,20,-0.13424369747899179
+2,disease_on_drugs,24,27,-0.04098583877995643

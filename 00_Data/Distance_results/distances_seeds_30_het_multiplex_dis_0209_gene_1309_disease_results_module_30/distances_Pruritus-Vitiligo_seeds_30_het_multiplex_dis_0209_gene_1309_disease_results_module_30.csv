@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Vitiligo nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,21,19,-0.16541353383458635
+2,disease_on_drugs,27,25,-0.13638176638176636

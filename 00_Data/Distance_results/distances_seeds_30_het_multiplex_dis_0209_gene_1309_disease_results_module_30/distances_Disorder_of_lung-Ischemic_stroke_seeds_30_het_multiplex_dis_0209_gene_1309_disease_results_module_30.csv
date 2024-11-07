@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.12280701754385959
+1,disease_on_symptoms,18,16,1.1429738562091505
+2,disease_on_drugs,24,28,0.161401098901099

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.3435960591133007
+1,disease_on_symptoms,13,17,1.182654600301659
+2,disease_on_drugs,29,28,0.8245614035087718

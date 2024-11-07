@@ -1,0 +1,4 @@
+,Layer,Glaucoma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.1974842767295597
+1,disease_on_symptoms,14,22,-0.01839826839826819
+2,disease_on_drugs,30,17,0.6018356278681685

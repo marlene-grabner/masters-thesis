@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.4081585081585082
+1,disease_on_symptoms,16,23,2.2038740245261987
+2,disease_on_drugs,21,17,0.9988205808639243

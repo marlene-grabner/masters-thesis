@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.05303030303030298
+1,disease_on_symptoms,17,19,0.3531131750945993
+2,disease_on_drugs,26,22,-0.1571969696969695

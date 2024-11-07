@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,27,29,0.19439883232986688
+1,disease_on_symptoms,19,23,0.8109403944644218
+2,disease_on_drugs,20,27,0.6613672182821118

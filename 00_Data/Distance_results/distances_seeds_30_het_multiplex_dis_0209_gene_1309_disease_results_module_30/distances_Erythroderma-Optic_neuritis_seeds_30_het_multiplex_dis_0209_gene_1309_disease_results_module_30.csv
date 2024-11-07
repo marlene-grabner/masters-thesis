@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.17543859649122806
+1,disease_on_symptoms,20,21,0.24590592334494765
+2,disease_on_drugs,29,27,-0.3350665936872833

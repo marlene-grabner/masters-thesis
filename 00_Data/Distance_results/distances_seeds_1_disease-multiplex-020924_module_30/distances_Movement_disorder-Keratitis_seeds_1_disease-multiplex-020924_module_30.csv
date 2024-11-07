@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.4481937602627257
+1,disease_on_symptoms,22,25,1.5308897485493231
+2,disease_on_drugs,15,23,0.9137299771167049

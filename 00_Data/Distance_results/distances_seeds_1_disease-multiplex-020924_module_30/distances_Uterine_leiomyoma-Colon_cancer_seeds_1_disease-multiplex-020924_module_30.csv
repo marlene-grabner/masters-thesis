@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,24,26,0.015769230769230758
+1,disease_on_symptoms,21,21,1.6428571428571428
+2,disease_on_drugs,18,24,-0.003968253968253954

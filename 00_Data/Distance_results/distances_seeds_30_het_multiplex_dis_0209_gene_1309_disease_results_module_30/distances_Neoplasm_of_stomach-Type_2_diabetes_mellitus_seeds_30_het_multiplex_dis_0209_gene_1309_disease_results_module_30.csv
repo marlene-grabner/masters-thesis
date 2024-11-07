@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,25,30,-0.25636363636363635
+1,disease_on_symptoms,23,16,0.6366708472686733
+2,disease_on_drugs,24,27,-0.0589596949891068

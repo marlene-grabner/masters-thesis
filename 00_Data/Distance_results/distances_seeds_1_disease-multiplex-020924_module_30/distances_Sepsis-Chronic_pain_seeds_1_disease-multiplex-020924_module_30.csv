@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,22,30,0.1748251748251748
+1,disease_on_symptoms,23,22,1.8042819499341238
+2,disease_on_drugs,17,28,0.7010971055088699

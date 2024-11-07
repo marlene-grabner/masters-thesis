@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,23,30,-0.2670221493027072
+1,disease_on_symptoms,19,19,0.052631578947368585
+2,disease_on_drugs,21,28,-0.2789115646258504

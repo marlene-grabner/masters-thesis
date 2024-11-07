@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555569
+1,disease_on_symptoms,21,21,0.28571428571428603
+2,disease_on_drugs,27,25,-0.06330484330484332

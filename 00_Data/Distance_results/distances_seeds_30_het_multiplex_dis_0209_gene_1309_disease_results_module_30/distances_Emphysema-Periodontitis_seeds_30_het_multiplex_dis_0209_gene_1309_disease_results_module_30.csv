@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,21,0.12454212454212454
+2,disease_on_drugs,27,28,-0.016269841269841434

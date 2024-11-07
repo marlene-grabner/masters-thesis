@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.10198714202220915
+1,disease_on_symptoms,24,13,0.5823371448371446
+2,disease_on_drugs,27,28,0.2908609908609907

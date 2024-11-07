@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.10340722495894905
+1,disease_on_symptoms,15,17,0.1671568627450979
+2,disease_on_drugs,26,25,0.19683257918552055

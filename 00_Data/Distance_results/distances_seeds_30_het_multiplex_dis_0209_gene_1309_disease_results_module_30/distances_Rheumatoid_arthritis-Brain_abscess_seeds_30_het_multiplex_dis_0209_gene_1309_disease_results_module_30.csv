@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.03421052631578947
+1,disease_on_symptoms,19,21,0.23596491228070193
+2,disease_on_drugs,30,23,-0.06424665025977583

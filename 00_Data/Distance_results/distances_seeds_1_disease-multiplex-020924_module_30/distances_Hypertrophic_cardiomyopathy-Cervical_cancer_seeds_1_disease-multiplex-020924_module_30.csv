@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.4920077972709551
+1,disease_on_symptoms,17,23,2.20153452685422
+2,disease_on_drugs,17,15,0.8

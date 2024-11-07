@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.007953340402969467
+1,disease_on_symptoms,20,27,0.3447005516154451
+2,disease_on_drugs,20,17,0.23811605723370421

@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.10000000000000009
+1,disease_on_symptoms,19,25,0.12631578947368416
+2,disease_on_drugs,30,29,0.050827975842587136

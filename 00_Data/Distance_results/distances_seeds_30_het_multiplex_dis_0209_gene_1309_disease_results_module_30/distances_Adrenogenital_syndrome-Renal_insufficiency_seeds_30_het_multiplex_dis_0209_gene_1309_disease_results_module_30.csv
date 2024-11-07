@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,9,19,-0.23684210526315796
+2,disease_on_drugs,23,28,-0.04012909511630758

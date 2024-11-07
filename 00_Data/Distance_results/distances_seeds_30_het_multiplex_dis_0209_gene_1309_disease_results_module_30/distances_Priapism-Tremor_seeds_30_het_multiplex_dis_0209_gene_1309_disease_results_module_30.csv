@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Tremor nodes,sAB
+0,disease_on_genes,30,27,-0.1578947368421053
+1,disease_on_symptoms,12,17,0.556964164976335
+2,disease_on_drugs,28,24,0.2742673992673994

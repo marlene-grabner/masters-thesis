@@ -1,0 +1,4 @@
+,Layer,Vasculitis nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.07692307692307687
+1,disease_on_symptoms,18,12,1.1027777777777779
+2,disease_on_drugs,26,18,0.4275446775446776

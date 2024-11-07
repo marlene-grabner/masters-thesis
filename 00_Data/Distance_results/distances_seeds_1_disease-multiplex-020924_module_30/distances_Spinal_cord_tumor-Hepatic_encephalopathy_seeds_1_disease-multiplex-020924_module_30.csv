@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,22,9,0.3695829260345389
+1,disease_on_symptoms,22,27,1.339723768295197
+2,disease_on_drugs,14,9,0.8928571428571428

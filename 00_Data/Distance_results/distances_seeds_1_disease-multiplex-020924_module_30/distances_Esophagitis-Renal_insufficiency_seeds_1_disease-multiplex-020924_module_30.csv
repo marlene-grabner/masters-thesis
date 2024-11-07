@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,24,20,0.17861476238624863
+1,disease_on_symptoms,23,23,1.6739130434782608
+2,disease_on_drugs,20,17,0.9877186009538947

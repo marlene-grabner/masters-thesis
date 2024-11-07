@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,29,30,0.1691992986557569
+1,disease_on_symptoms,20,25,0.7794444444444446
+2,disease_on_drugs,24,30,0.23009259259259252

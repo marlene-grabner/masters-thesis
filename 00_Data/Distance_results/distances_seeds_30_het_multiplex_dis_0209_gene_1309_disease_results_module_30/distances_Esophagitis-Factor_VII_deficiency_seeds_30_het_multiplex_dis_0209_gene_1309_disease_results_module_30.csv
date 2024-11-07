@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.08616584564860408
+1,disease_on_symptoms,20,19,0.9014507422402158
+2,disease_on_drugs,30,25,0.3309090909090908

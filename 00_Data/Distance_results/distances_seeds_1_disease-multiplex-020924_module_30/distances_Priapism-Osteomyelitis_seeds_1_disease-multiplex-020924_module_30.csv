@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,-0.11151515151515146
+1,disease_on_symptoms,17,23,0.39296675191815833
+2,disease_on_drugs,28,23,0.05981305565704553

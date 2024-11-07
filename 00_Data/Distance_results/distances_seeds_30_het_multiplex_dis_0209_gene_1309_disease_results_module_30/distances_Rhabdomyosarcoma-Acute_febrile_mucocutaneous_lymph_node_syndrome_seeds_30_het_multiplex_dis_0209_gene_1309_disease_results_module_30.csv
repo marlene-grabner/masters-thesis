@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,29,30,-0.08446327683615817
+1,disease_on_symptoms,19,13,0.21027327935222662
+2,disease_on_drugs,29,28,-5.401434621021828e-05

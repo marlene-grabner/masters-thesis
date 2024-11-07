@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,14,0.05783882783882777
+1,disease_on_symptoms,24,23,1.1030103299414122
+2,disease_on_drugs,23,14,1.0810810810810811

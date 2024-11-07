@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,0.05084745762711873
+1,disease_on_symptoms,12,19,0.46420486700622554
+2,disease_on_drugs,30,30,0.5

@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,-0.1317260656883299
+1,disease_on_symptoms,22,16,0.8433014354066986
+2,disease_on_drugs,22,25,-0.04034816247582218

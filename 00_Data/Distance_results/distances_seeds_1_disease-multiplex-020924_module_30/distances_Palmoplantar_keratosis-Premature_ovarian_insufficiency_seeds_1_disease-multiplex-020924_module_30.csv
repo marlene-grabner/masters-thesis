@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,26,23,0.26530612244897966
+1,disease_on_symptoms,19,22,0.792974676158245
+2,disease_on_drugs,18,17,0.026844070961717925

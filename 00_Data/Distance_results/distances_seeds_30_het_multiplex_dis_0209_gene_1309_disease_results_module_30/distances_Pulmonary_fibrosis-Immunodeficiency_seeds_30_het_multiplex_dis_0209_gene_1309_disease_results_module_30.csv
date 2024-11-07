@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,25,26,-0.23529411764705888
+1,disease_on_symptoms,22,21,-0.39683378636867017
+2,disease_on_drugs,25,26,-0.2742081447963802

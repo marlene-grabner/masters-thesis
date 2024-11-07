@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,18,24,0.3055555555555556
+1,disease_on_symptoms,28,17,1.045214752567694
+2,disease_on_drugs,17,23,0.42595907928388743

@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,-0.09074074074074068
+1,disease_on_symptoms,18,19,1.0923028291449344
+2,disease_on_drugs,24,27,0.16067538126361658

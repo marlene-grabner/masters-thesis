@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,20,14,-0.018277310924369683
+1,disease_on_symptoms,18,23,2.4348120655119594
+2,disease_on_drugs,19,14,0.5191387559808613

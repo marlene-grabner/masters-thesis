@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,25,30,-0.01851851851851849
+1,disease_on_symptoms,18,19,-0.014382803856488158
+2,disease_on_drugs,24,24,0.02083333333333326

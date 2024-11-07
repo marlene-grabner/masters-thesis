@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,13,22,0.6164335664335663
+1,disease_on_symptoms,26,21,2.6434611487802977
+2,disease_on_drugs,9,6,0.9777777777777779

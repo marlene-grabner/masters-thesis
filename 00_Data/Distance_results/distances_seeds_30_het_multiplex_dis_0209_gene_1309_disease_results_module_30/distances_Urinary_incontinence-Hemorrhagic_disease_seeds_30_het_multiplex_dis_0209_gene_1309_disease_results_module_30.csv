@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,26,0.07272727272727275
+1,disease_on_symptoms,20,19,1.072604588394062
+2,disease_on_drugs,20,24,0.4590909090909092

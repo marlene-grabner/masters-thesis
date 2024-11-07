@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.1901888341543514
+1,disease_on_symptoms,24,24,0.875
+2,disease_on_drugs,28,24,0.3264652014652014

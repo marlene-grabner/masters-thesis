@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.07272727272727275
+1,disease_on_symptoms,17,20,1.9128378378378377
+2,disease_on_drugs,26,21,0.15156651858779524

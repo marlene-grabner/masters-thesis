@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,18,22,-0.1585858585858586
+2,disease_on_drugs,21,27,-0.0826719576719579

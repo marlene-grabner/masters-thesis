@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,22,30,0.1923076923076923
+1,disease_on_symptoms,21,23,1.2138151703369093
+2,disease_on_drugs,17,24,0.46174079387852696

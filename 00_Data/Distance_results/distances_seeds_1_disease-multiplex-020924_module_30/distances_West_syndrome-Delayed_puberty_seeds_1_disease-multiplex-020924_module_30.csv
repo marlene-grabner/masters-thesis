@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,29,22,0.4761904761904763
+1,disease_on_symptoms,18,20,2.1317251461988302
+2,disease_on_drugs,22,19,0.9473684210526314

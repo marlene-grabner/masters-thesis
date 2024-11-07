@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.17316053511705687
+1,disease_on_symptoms,23,27,1.05549114331723
+2,disease_on_drugs,25,19,0.3337320574162679

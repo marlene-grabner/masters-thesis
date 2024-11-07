@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,24,30,0.027314814814814792
+1,disease_on_symptoms,20,16,1.3194444444444446
+2,disease_on_drugs,22,23,0.9792050944224857

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,28,30,-0.06896551724137934
+1,disease_on_symptoms,18,17,0.1755835667600376
+2,disease_on_drugs,23,29,0.08499596355668326

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,0.2672514619883042
+1,disease_on_symptoms,17,17,0.911764705882353
+2,disease_on_drugs,24,26,0.9199999999999999

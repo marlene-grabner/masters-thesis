@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,0.3353488372093023
+1,disease_on_symptoms,21,27,1.8558201058201058
+2,disease_on_drugs,20,17,0.6164944356120827

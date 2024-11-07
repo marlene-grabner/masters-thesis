@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,24,28,0.08951465201465192
+1,disease_on_symptoms,20,19,0.8203441295546561
+2,disease_on_drugs,22,26,0.3522727272727273

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,21,27,0.3511904761904763
+1,disease_on_symptoms,22,17,1.015699986288222
+2,disease_on_drugs,21,25,0.8354037267080745

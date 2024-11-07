@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,15,13,0.88003663003663
+2,disease_on_drugs,30,23,-0.04634946677604579

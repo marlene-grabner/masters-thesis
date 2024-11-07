@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Propionic_acidemia nodes,sAB
+0,disease_on_genes,30,22,0.15384615384615374
+1,disease_on_symptoms,22,17,0.5762032085561497
+2,disease_on_drugs,29,21,0.3223645320197046

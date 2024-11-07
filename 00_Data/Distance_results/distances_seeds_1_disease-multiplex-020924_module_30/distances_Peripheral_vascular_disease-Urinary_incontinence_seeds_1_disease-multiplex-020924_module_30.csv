@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,23,26,0.22474575114326667
+1,disease_on_symptoms,16,20,1.9340277777777777
+2,disease_on_drugs,22,20,0.6666666666666667

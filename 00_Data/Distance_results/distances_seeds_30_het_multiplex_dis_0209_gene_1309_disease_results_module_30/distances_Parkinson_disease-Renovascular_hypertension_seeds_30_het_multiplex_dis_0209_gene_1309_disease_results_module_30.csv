@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,23,30,-0.13207547169811318
+1,disease_on_symptoms,23,17,0.35511508951406645
+2,disease_on_drugs,22,29,-0.27432540414284834

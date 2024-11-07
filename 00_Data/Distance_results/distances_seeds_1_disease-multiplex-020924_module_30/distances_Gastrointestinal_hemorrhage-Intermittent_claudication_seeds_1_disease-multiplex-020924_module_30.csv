@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.22838849487785673
+1,disease_on_symptoms,19,24,1.1693441452468383
+2,disease_on_drugs,27,18,0.6444444444444444

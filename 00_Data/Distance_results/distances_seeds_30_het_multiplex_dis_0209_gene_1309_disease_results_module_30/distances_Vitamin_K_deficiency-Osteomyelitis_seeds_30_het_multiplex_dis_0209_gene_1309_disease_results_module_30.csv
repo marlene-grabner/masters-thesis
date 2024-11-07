@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,25,30,0.1272727272727272
+1,disease_on_symptoms,21,22,1.1911305748515053
+2,disease_on_drugs,21,28,0.13860544217687054

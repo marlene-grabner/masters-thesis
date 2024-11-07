@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,25,23,0.1032608695652173
+1,disease_on_symptoms,19,19,0.9473684210526319
+2,disease_on_drugs,22,21,0.06740159065740459

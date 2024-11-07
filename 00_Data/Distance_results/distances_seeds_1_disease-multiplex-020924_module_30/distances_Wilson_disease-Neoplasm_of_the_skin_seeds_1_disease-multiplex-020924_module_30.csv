@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,23,28,0.15320910973084878
+1,disease_on_symptoms,19,21,1.2823308270676694
+2,disease_on_drugs,11,24,0.08571428571428563

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.1711822660098523
+1,disease_on_symptoms,18,15,1.3732323232323234
+2,disease_on_drugs,27,21,0.46990740740740744

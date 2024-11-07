@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,17,30,0.31562369628702536
+1,disease_on_symptoms,25,15,0.31833333333333336
+2,disease_on_drugs,13,26,0.41025641025641035

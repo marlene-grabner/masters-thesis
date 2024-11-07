@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,26,26,0.3141025641025641
+1,disease_on_symptoms,25,21,1.471801242236025
+2,disease_on_drugs,24,24,0.8333333333333335

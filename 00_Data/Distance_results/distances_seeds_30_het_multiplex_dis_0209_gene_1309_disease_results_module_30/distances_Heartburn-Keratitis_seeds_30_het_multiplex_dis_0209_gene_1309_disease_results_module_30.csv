@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,30,-0.1773809523809523
+1,disease_on_symptoms,16,25,0.37439024390243913
+2,disease_on_drugs,25,29,0.10773946360153275

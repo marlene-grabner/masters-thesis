@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.42553191489361697
+1,disease_on_symptoms,15,20,1.8392857142857144
+2,disease_on_drugs,15,19,0.7305469556243549

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.24171539961013666
+1,disease_on_symptoms,21,16,0.7843870656370657
+2,disease_on_drugs,23,30,1.1337161607875306

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,17,15,0.1594362745098039
+1,disease_on_symptoms,21,27,1.8214285714285716
+2,disease_on_drugs,17,13,0.40784313725490184

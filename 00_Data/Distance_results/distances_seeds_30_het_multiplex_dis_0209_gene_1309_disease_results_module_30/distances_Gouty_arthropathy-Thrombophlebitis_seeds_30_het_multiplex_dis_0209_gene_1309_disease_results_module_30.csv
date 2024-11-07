@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,18,18,0.16666666666666696
+2,disease_on_drugs,23,29,0.10422673278745243

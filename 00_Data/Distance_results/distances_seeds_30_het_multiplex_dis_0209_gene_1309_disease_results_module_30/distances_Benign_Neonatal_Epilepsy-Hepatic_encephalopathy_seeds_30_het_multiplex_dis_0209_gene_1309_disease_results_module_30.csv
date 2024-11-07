@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,16,14,0.1824404761904761
+2,disease_on_drugs,21,29,-0.028308702791461693

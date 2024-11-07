@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Arthralgia nodes,sAB
+0,disease_on_genes,28,30,-0.12068965517241381
+1,disease_on_symptoms,13,17,0.8737556561085973
+2,disease_on_drugs,28,30,-0.0019704433497536034

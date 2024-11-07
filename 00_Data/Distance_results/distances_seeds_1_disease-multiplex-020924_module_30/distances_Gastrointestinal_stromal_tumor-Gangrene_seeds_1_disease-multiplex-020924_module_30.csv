@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Gangrene nodes,sAB
+0,disease_on_genes,23,26,0.15661047027506658
+1,disease_on_symptoms,20,19,1.409986504723347
+2,disease_on_drugs,19,23,1.002070393374741

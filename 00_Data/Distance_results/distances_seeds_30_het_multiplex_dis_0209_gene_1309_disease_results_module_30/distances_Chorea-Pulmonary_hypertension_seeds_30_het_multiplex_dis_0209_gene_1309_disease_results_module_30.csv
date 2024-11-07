@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.08620689655172409
+1,disease_on_symptoms,17,18,0.547012138188609
+2,disease_on_drugs,24,27,0.0731209150326797

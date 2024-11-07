@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,18,27,0.04629629629629628
+1,disease_on_symptoms,28,19,-0.15307550791873314
+2,disease_on_drugs,17,27,-0.08155080213903743

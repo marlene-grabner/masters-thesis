@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,13,17,0.2012066365007541
+2,disease_on_drugs,28,30,-0.15771756978653528

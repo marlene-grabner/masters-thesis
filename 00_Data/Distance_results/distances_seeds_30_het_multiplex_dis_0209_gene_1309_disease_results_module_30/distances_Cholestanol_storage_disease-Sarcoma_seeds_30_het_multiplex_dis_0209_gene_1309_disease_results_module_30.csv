@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,30,0.03360607831677398
+1,disease_on_symptoms,18,23,0.5098680334629435
+2,disease_on_drugs,28,24,0.0915750915750917

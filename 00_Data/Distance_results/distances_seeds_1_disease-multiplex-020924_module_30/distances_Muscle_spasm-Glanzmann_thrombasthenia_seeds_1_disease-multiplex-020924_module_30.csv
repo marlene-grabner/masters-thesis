@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,0.20569727891156453
+1,disease_on_symptoms,23,21,1.6332580463015245
+2,disease_on_drugs,19,24,1.058624031007752

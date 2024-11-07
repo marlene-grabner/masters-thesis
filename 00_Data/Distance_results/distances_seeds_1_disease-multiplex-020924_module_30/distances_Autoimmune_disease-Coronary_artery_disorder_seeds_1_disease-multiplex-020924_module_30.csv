@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,22,19,0.37057999766600536
+1,disease_on_symptoms,19,21,1.5406641604010023
+2,disease_on_drugs,19,17,0.7792397660818715

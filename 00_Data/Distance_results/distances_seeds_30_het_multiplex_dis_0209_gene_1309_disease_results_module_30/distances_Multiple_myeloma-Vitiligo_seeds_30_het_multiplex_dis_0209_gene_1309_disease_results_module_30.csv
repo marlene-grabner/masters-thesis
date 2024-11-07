@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,21,19,0.022681704260651525
+2,disease_on_drugs,25,25,0.05999999999999983

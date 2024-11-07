@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.1008182349503215
+1,disease_on_symptoms,19,21,1.2763784461152883
+2,disease_on_drugs,30,28,0.34298029556650245

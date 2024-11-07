@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,17,30,0.5039841468502295
+1,disease_on_symptoms,28,14,2.125
+2,disease_on_drugs,9,24,1.1003787878787876

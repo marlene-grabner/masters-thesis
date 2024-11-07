@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.07614164615805308
+1,disease_on_symptoms,17,19,1.160732714138287
+2,disease_on_drugs,26,22,-0.06046037296037299

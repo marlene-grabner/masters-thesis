@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,-0.22448979591836737
+1,disease_on_symptoms,21,21,-0.1428571428571428
+2,disease_on_drugs,25,17,-0.0869467787114846

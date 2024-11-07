@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,21,23,0.29733672124976485
+1,disease_on_symptoms,22,21,1.6075707238497934
+2,disease_on_drugs,21,21,0.833333333333333

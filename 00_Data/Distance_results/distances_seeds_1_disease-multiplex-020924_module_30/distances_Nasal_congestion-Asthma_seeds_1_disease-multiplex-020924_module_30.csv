@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.05727272727272714
+1,disease_on_symptoms,15,19,0.08245614035087723
+2,disease_on_drugs,23,24,0.08553037311131684

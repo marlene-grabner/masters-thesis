@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,30,-0.2321428571428571
+1,disease_on_symptoms,19,23,-0.19140241909120626
+2,disease_on_drugs,25,24,-0.3911564625850339

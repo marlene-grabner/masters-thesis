@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.19581280788177335
+1,disease_on_symptoms,18,13,1.0633443617314584
+2,disease_on_drugs,22,28,-0.06233766233766236

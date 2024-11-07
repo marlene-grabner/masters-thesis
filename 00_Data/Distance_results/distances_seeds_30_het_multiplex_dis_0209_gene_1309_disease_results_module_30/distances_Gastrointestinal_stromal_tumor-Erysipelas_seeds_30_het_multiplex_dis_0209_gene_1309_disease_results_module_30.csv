@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,19,18,-0.04966808914177312
+2,disease_on_drugs,28,29,0.1242762077607813

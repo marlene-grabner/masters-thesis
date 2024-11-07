@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,17,18,0.1983193277310924
+1,disease_on_symptoms,22,27,2.2248677248677247
+2,disease_on_drugs,15,17,0.1909313725490196

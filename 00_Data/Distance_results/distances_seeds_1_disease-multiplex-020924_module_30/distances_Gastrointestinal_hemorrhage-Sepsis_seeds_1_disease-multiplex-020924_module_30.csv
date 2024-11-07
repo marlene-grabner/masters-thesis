@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Sepsis nodes,sAB
+0,disease_on_genes,27,22,0.27789802789802787
+1,disease_on_symptoms,19,23,1.5448948458101777
+2,disease_on_drugs,27,17,0.5775401069518717

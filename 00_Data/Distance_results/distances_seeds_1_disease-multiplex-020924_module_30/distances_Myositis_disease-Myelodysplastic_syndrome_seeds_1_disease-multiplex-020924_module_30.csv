@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.2511904761904762
+1,disease_on_symptoms,24,15,1.1615384615384619
+2,disease_on_drugs,28,21,1.0841836734693877

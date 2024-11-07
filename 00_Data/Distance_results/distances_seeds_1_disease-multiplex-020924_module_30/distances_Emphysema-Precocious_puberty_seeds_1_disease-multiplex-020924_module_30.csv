@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,14,14,0.607142857142857
+2,disease_on_drugs,29,24,0.7735849056603774

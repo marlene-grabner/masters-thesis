@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,23,30,0.30285753349740197
+1,disease_on_symptoms,24,15,0.8967948717948719
+2,disease_on_drugs,17,26,1.0080500894454385

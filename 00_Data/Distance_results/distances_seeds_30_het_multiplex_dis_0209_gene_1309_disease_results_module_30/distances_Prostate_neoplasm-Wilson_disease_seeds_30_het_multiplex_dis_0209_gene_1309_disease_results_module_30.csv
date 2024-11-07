@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,21,25,-0.34989648033126286
+1,disease_on_symptoms,20,19,-0.5974021592442644
+2,disease_on_drugs,21,22,-0.3700291956105911

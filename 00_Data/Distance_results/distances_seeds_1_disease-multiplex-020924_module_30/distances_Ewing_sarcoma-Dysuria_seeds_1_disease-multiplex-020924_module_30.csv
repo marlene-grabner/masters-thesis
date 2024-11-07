@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Dysuria nodes,sAB
+0,disease_on_genes,24,30,0.5009352635003252
+1,disease_on_symptoms,25,16,1.5050304878048781
+2,disease_on_drugs,17,23,1.4032608695652171

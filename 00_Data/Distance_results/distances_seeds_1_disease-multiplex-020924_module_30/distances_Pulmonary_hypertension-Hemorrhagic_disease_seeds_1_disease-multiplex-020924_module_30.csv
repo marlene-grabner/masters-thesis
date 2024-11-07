@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,28,24,0.21130952380952372
+1,disease_on_symptoms,20,19,1.6970310391363022
+2,disease_on_drugs,28,19,0.7245240761478164

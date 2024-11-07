@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,22,0.5359848484848484
+1,disease_on_symptoms,15,19,2.2743034055727556
+2,disease_on_drugs,15,18,0.8449494949494949

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,15,30,0.16666666666666652
+1,disease_on_symptoms,25,20,0.1972222222222224
+2,disease_on_drugs,10,29,-0.006277630415561397

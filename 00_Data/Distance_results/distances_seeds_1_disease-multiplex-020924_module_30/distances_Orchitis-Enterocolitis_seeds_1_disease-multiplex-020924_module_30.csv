@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,23,27,0.08148148148148149
+1,disease_on_symptoms,16,21,1.8952300514800515
+2,disease_on_drugs,17,24,0.4569285031085606

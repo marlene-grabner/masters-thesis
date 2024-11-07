@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666666
+1,disease_on_symptoms,18,22,-0.1924242424242424
+2,disease_on_drugs,27,29,-0.17870826491516145

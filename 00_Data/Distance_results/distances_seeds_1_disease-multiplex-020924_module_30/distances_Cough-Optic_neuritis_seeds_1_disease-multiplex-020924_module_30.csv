@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.03703703703703698
+1,disease_on_symptoms,21,16,0.17088963963963955
+2,disease_on_drugs,27,27,0.14814814814814814

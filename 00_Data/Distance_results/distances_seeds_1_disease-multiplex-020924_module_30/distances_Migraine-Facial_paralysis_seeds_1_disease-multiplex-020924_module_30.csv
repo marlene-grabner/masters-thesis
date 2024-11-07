@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,-0.0982683982683985
+1,disease_on_symptoms,14,23,1.1049185831794526
+2,disease_on_drugs,29,14,0.39534883720930236

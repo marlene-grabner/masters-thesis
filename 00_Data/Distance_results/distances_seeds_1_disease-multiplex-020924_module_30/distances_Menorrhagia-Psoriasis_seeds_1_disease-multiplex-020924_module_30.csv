@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,0.16585266585266578
+1,disease_on_symptoms,19,21,1.4779448621553883
+2,disease_on_drugs,24,28,0.5011446886446886

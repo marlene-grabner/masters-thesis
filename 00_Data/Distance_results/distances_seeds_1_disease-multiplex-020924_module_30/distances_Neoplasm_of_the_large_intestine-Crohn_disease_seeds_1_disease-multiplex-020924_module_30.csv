@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,20,25,-0.021212121212121238
+1,disease_on_symptoms,25,20,0.36777777777777776
+2,disease_on_drugs,19,21,0.4747493734335839

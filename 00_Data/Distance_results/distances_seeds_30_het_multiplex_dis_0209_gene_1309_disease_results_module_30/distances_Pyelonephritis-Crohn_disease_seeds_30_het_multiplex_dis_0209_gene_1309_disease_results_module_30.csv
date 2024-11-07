@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,24,26,-0.0408333333333335
+1,disease_on_symptoms,19,22,1.053594351732991
+2,disease_on_drugs,19,24,0.1339759281925743

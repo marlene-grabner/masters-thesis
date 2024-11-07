@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,21,29,0.08000000000000007
+1,disease_on_symptoms,22,25,1.1906769825918762
+2,disease_on_drugs,19,21,0.294611528822055

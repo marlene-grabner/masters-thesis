@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,25,30,0.19272727272727264
+1,disease_on_symptoms,13,20,1.1757575757575758
+2,disease_on_drugs,16,28,0.1651785714285714

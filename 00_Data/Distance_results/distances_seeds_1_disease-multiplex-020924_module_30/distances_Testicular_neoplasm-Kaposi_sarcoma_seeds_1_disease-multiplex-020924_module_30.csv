@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,25,15,-0.08166666666666678
+1,disease_on_symptoms,25,27,0.38717948717948714
+2,disease_on_drugs,23,13,-0.04347826086956519

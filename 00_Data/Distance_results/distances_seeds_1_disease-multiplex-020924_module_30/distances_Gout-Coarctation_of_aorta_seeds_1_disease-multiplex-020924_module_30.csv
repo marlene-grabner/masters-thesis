@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,0.2861538461538462
+1,disease_on_symptoms,18,14,2.2261904761904763
+2,disease_on_drugs,23,13,0.7777777777777777

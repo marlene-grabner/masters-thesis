@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,28,30,0.20566502463054204
+1,disease_on_symptoms,15,22,2.1327190827190825
+2,disease_on_drugs,21,28,0.6964285714285714

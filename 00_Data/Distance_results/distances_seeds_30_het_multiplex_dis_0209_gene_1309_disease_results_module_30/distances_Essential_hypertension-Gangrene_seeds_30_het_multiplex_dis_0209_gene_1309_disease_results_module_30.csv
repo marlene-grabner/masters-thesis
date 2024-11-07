@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,27,0.018181818181818077
+1,disease_on_symptoms,13,22,0.020929070929071036
+2,disease_on_drugs,28,27,0.017772967772967885

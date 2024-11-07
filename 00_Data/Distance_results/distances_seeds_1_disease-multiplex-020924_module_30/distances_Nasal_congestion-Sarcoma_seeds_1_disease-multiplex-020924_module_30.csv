@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.1499999999999999
+1,disease_on_symptoms,15,26,1.3271732332707944
+2,disease_on_drugs,23,21,1.0009881422924902

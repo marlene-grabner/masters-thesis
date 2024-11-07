@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,16,0.005514705882353033
+2,disease_on_drugs,28,27,0.021091871091871273

@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,9,19,-0.18984962406015038
+2,disease_on_drugs,23,30,-0.06789718348372986

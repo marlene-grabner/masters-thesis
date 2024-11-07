@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,17,26,0.045143638850889234
+1,disease_on_symptoms,21,19,1.2981829573934838
+2,disease_on_drugs,17,24,0.2374163079866094

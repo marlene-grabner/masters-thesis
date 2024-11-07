@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.037735849056603765
+1,disease_on_symptoms,15,17,1.2787990196078431
+2,disease_on_drugs,29,22,0.16557563464257186

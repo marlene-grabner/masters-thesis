@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,24,15,0.2923076923076924
+1,disease_on_symptoms,17,27,1.9322638146167561
+2,disease_on_drugs,23,13,0.5458937198067635

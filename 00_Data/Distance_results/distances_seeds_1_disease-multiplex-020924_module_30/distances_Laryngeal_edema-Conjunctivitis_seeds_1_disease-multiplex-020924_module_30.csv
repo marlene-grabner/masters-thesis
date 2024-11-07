@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,-0.19395711500974666
+1,disease_on_symptoms,20,27,-0.48431836091410574
+2,disease_on_drugs,28,26,-0.2216625966625968

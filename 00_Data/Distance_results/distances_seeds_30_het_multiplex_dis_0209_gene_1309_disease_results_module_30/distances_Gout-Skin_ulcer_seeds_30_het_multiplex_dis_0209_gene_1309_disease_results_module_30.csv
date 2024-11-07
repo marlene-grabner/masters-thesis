@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,28,30,-0.12130541871921174
+1,disease_on_symptoms,19,20,0.4103238866396759
+2,disease_on_drugs,22,24,-0.28689064558629773

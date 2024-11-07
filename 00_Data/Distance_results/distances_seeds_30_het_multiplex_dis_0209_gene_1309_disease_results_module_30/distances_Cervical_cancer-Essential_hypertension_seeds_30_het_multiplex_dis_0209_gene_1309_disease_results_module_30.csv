@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,28,28,0.1964285714285714
+1,disease_on_symptoms,22,13,0.9865134865134866
+2,disease_on_drugs,15,28,0.32386489479512726

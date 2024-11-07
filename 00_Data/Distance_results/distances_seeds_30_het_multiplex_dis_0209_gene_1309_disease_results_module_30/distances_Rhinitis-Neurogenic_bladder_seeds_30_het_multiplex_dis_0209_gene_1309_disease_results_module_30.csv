@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,12,18,0.44444444444444464
+2,disease_on_drugs,23,21,0.20172219085262566

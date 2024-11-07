@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,16,18,0.35130718954248374
+2,disease_on_drugs,29,21,0.1847290640394088

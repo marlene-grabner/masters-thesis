@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.05485810485810494
+1,disease_on_symptoms,21,20,1.2739837398373985
+2,disease_on_drugs,27,27,0.24074074074074048

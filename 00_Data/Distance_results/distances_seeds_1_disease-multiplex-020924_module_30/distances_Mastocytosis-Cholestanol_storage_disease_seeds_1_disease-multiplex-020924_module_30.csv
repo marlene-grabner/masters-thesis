@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,18,30,0.26388888888888906
+1,disease_on_symptoms,28,17,0.8752801120448179
+2,disease_on_drugs,17,25,1.0354621848739498

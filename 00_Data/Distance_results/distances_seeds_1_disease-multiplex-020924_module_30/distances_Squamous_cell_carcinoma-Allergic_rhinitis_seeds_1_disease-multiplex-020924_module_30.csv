@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,16,21,0.09443371943371948
+1,disease_on_symptoms,26,22,2.4168123543123543
+2,disease_on_drugs,14,21,0.4571428571428573

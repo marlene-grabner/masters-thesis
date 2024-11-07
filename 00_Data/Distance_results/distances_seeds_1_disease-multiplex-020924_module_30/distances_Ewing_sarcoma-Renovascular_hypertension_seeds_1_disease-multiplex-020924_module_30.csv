@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,24,21,0.37876984126984126
+1,disease_on_symptoms,25,22,2.5388781431334624
+2,disease_on_drugs,17,20,0.7398648648648649

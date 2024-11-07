@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.12226107226107219
+1,disease_on_symptoms,16,23,0.2559573578595318
+2,disease_on_drugs,30,17,0.19649561952440542

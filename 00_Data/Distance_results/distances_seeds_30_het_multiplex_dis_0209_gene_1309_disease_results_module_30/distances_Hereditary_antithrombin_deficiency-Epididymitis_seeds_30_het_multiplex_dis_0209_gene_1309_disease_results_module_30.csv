@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Epididymitis nodes,sAB
+0,disease_on_genes,28,29,0.08771929824561409
+1,disease_on_symptoms,16,23,0.715091973244147
+2,disease_on_drugs,23,26,0.07139444406525164

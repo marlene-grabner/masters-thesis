@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,17,30,0.30241563710123565
+1,disease_on_symptoms,21,18,1.253052503052503
+2,disease_on_drugs,17,19,0.9455624355005161

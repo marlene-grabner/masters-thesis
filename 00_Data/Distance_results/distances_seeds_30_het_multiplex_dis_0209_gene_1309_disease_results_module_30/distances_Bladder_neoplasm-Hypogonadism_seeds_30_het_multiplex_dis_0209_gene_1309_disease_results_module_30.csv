@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,-0.0535714285714286
+1,disease_on_symptoms,19,17,0.6936704506363951
+2,disease_on_drugs,25,29,0.24968071519795676

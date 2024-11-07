@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,21,24,0.17757936507936511
+1,disease_on_symptoms,22,21,1.4901842343702807
+2,disease_on_drugs,21,24,0.4640873015873015

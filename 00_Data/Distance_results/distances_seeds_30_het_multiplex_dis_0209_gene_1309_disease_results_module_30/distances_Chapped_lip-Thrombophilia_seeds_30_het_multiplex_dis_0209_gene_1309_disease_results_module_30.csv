@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.09433962264150941
+1,disease_on_symptoms,20,18,0.8168128654970759
+2,disease_on_drugs,23,22,0.44486166007905137

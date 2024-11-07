@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.2727272727272727
+1,disease_on_symptoms,16,21,1.4455035392535394
+2,disease_on_drugs,21,21,0.4285714285714286

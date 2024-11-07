@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,0.6452241715399611
+1,disease_on_symptoms,21,25,1.7916770186335405
+2,disease_on_drugs,23,7,0.8314699792960663

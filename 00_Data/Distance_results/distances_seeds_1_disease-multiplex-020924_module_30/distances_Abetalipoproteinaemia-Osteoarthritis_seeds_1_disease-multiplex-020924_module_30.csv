@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,17,25,0.30773109243697494
+1,disease_on_symptoms,25,20,0.9600000000000002
+2,disease_on_drugs,13,21,0.6674208144796381

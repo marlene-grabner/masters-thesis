@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,24,30,0.2217592592592592
+1,disease_on_symptoms,22,20,0.48192640692640687
+2,disease_on_drugs,24,22,0.15217391304347827

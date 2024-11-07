@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,18,30,-0.10114942528735615
+1,disease_on_symptoms,21,18,0.9215506715506714
+2,disease_on_drugs,17,19,0.08281733746130016

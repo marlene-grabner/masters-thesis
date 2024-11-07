@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,26,26,0.23076923076923084
+1,disease_on_symptoms,21,17,1.9970514521598113
+2,disease_on_drugs,24,23,0.7229417206290472

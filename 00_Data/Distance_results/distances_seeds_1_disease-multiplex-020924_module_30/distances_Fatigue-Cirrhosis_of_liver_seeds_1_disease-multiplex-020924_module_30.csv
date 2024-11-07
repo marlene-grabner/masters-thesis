@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.10558608058608066
+1,disease_on_symptoms,21,14,0.6928571428571428
+2,disease_on_drugs,26,26,0.26923076923076916

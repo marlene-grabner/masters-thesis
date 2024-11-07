@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,26,0.09242424242424252
+1,disease_on_symptoms,25,25,0.96
+2,disease_on_drugs,26,24,0.23910256410256414

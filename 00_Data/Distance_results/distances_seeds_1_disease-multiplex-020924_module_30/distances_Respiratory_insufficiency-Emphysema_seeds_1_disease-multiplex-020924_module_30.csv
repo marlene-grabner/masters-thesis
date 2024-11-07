@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Emphysema nodes,sAB
+0,disease_on_genes,25,30,0.10696969696969694
+1,disease_on_symptoms,20,14,-0.029621848739495915
+2,disease_on_drugs,14,29,-0.15365448504983392

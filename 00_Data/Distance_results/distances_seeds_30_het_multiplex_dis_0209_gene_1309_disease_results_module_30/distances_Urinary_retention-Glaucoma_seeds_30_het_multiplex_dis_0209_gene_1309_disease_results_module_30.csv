@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,16,18,-0.4368872549019607
+2,disease_on_drugs,28,28,-0.07142857142857162

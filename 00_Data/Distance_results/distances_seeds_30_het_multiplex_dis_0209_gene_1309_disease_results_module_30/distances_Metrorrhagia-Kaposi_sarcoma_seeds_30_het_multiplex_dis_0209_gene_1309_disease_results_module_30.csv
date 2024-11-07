@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,30,-0.1228070175438597
+1,disease_on_symptoms,17,16,0.09737076648841358
+2,disease_on_drugs,26,28,0.00030525030525030417

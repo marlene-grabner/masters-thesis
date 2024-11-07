@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,28,30,0.12126436781609207
+1,disease_on_symptoms,16,19,0.5593045112781954
+2,disease_on_drugs,23,29,0.317523930342521

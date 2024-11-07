@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Sarcoma nodes,sAB
+0,disease_on_genes,17,25,0.5014005602240896
+1,disease_on_symptoms,28,26,3.0141941391941396
+2,disease_on_drugs,9,21,1.4666666666666668

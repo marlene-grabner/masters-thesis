@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,23,30,0.031323489198796794
+1,disease_on_symptoms,23,16,0.8163670568561874
+2,disease_on_drugs,18,30,0.31805555555555554

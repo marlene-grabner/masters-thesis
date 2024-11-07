@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Pain nodes,sAB
+0,disease_on_genes,29,26,-0.0011574632264288454
+1,disease_on_symptoms,23,21,0.5657820440429133
+2,disease_on_drugs,27,26,0.13241143901521246

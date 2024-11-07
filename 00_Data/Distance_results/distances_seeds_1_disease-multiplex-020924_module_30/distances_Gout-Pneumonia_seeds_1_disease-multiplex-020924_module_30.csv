@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,0.08848484848484861
+1,disease_on_symptoms,18,26,1.0990675990675989
+2,disease_on_drugs,23,28,0.5686274509803921

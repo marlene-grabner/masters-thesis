@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,10,0.26876876876876876
+1,disease_on_symptoms,15,27,2.421164021164021
+2,disease_on_drugs,25,9,0.8035294117647058

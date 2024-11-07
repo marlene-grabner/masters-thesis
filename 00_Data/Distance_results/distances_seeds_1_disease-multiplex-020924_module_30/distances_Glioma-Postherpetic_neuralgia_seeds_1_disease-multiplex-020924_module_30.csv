@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,22,30,0.22983682983682963
+1,disease_on_symptoms,24,15,1.648397435897436
+2,disease_on_drugs,20,29,1.1618402533427161

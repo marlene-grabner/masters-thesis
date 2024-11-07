@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,25,25,0.2599999999999998
+1,disease_on_symptoms,23,23,1.5000000000000002
+2,disease_on_drugs,19,23,0.694616977225673

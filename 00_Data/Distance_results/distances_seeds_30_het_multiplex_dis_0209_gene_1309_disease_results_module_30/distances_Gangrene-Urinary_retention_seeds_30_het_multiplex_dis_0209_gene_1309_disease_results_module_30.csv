@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,22,16,0.8296949760765551
+2,disease_on_drugs,27,28,0.03563011063011068

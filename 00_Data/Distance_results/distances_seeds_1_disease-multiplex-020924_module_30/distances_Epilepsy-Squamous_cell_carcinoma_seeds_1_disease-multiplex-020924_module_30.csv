@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,29,16,0.2972222222222223
+1,disease_on_symptoms,18,26,1.7331002331002328
+2,disease_on_drugs,30,14,1.4833333333333334

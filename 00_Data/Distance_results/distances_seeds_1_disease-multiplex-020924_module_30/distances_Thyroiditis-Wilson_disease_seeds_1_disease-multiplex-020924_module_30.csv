@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,23,0.12050371988260178
+1,disease_on_symptoms,28,19,1.5368141097424413
+2,disease_on_drugs,23,11,0.7429667519181584

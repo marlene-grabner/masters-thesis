@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,25,17,1.0723249299719886
+2,disease_on_drugs,30,24,0.08657407407407391

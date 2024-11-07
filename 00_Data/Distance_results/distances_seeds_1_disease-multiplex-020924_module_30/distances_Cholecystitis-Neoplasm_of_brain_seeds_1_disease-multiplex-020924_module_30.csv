@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,25,22,0.6381237911025146
+1,disease_on_symptoms,19,23,1.4422469216519558
+2,disease_on_drugs,13,20,1.4266899766899765

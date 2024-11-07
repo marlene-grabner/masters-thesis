@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,17,28,0.30982726423902895
+1,disease_on_symptoms,21,19,1.043045112781955
+2,disease_on_drugs,14,26,0.9057692307692309

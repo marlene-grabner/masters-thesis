@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,23,18,0.09956403911865208
+2,disease_on_drugs,26,26,0.07692307692307687

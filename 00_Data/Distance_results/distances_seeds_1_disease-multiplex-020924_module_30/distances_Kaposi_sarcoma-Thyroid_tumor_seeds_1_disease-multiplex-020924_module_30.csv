@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,15,23,-0.026620900076277598
+1,disease_on_symptoms,27,20,0.10514184397163118
+2,disease_on_drugs,13,20,-0.02499999999999991

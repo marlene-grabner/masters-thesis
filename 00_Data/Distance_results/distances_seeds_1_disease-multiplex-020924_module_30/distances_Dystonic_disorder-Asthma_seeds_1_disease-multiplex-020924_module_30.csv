@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Asthma nodes,sAB
+0,disease_on_genes,17,25,0.2671148459383752
+1,disease_on_symptoms,28,19,2.8404855223164294
+2,disease_on_drugs,9,24,0.8068181818181819

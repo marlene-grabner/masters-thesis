@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,16,15,-0.6043010752688172
+2,disease_on_drugs,29,23,-0.3388017529696692

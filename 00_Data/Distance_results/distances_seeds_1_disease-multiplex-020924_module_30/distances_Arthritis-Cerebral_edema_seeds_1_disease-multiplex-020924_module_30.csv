@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,0.5166666666666666
+1,disease_on_symptoms,19,9,0.634294068504595
+2,disease_on_drugs,29,11,0.20282131661442016

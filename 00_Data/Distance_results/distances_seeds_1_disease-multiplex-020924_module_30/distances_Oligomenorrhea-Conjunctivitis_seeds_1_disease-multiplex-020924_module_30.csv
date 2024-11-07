@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,28,27,0.5269360269360268
+1,disease_on_symptoms,12,27,1.3454415954415955
+2,disease_on_drugs,21,26,0.7198971241524432

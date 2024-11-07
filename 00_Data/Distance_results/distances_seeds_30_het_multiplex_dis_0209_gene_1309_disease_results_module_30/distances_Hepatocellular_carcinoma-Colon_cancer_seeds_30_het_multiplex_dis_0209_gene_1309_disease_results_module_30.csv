@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,24,26,-0.21999999999999997
+1,disease_on_symptoms,23,22,-0.004238032498901978
+2,disease_on_drugs,22,26,-0.26500582750582746

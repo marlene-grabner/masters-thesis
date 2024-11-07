@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.1605311355311354
+1,disease_on_symptoms,20,14,0.5579831932773107
+2,disease_on_drugs,27,24,0.35389433551198257

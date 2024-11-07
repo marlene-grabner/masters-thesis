@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.1423913043478262
+1,disease_on_symptoms,15,24,0.8490384615384614
+2,disease_on_drugs,21,18,0.6379731379731379

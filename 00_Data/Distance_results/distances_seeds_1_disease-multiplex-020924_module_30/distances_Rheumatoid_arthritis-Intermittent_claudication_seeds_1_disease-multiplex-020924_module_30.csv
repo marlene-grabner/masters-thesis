@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.27369976359338066
+1,disease_on_symptoms,15,24,1.7669871794871792
+2,disease_on_drugs,25,18,0.5200516795865633

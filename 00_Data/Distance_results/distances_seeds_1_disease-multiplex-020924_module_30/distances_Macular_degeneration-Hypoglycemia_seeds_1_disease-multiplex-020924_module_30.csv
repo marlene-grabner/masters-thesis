@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.3500000000000001
+1,disease_on_symptoms,15,12,0.22407407407407431
+2,disease_on_drugs,21,22,0.9529346622369879

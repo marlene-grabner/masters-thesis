@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,29,30,0.2375706214689266
+1,disease_on_symptoms,16,14,1.4306547619047618
+2,disease_on_drugs,26,24,0.9191666666666665

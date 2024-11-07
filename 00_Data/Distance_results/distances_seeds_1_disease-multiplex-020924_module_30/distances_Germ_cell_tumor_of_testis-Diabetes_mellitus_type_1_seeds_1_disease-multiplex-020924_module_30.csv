@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,27,13,0.5846153846153845
+1,disease_on_symptoms,23,25,3.9960144927536234
+2,disease_on_drugs,20,8,1.1071428571428572

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Periodontitis nodes,sAB
+0,disease_on_genes,26,23,0.03800081905671959
+1,disease_on_symptoms,20,25,0.7600000000000002
+2,disease_on_drugs,27,22,0.40498522641379764

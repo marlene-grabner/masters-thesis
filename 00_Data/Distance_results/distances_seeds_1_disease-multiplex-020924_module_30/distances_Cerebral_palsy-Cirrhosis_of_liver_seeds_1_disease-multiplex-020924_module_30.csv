@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,0.2913255360623781
+1,disease_on_symptoms,16,14,1.3803571428571426
+2,disease_on_drugs,18,26,0.798951048951049

@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,18,30,-0.0625
+1,disease_on_symptoms,21,17,1.267949284977149
+2,disease_on_drugs,17,25,-0.089187675070028

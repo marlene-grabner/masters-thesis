@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.43333333333333335
+1,disease_on_symptoms,24,19,0.43056405548755583
+2,disease_on_drugs,15,25,0.22166666666666668

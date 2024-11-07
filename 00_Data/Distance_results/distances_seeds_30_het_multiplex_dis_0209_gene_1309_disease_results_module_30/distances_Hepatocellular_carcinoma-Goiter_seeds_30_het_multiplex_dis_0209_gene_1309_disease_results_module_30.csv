@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Goiter nodes,sAB
+0,disease_on_genes,24,26,0.15999999999999992
+1,disease_on_symptoms,23,12,1.5412525879917185
+2,disease_on_drugs,22,18,0.2406565656565658

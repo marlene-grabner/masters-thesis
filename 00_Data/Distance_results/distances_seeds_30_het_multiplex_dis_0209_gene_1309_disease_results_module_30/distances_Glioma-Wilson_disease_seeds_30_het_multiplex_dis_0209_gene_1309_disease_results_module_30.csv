@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,22,25,-0.17021276595744683
+1,disease_on_symptoms,21,19,0.2120300751879698
+2,disease_on_drugs,21,22,-0.18453639383871945

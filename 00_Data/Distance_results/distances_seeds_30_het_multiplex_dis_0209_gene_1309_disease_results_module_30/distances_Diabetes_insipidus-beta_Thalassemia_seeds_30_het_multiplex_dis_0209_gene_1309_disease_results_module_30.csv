@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,30,-0.05494505494505486
+1,disease_on_symptoms,20,13,0.2458041958041961
+2,disease_on_drugs,20,24,-0.09280303030303005

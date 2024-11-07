@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,28,22,0.08831168831168812
+1,disease_on_symptoms,14,24,1.7650375939849625
+2,disease_on_drugs,28,13,1.1463414634146343

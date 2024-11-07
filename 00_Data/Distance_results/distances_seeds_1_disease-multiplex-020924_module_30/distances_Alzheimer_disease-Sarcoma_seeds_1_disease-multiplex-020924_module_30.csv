@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Sarcoma nodes,sAB
+0,disease_on_genes,20,25,0.26388888888888906
+1,disease_on_symptoms,23,26,1.1759436215957957
+2,disease_on_drugs,18,21,1.0256410256410255

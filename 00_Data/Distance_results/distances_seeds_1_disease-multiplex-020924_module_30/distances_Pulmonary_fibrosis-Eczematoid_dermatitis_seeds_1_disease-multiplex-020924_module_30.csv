@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,24,28,-0.07715201465201471
+1,disease_on_symptoms,22,24,-0.19581686429512501
+2,disease_on_drugs,24,28,-0.151098901098901

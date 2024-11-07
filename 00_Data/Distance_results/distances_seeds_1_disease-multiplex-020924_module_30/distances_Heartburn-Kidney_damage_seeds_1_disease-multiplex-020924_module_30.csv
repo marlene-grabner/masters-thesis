@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.18219696969696986
+1,disease_on_symptoms,20,26,1.0664715719063547
+2,disease_on_drugs,22,13,0.44210789210789225

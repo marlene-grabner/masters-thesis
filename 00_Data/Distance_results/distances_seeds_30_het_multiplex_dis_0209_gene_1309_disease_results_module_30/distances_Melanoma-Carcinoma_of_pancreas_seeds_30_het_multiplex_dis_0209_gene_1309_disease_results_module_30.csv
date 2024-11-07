@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,30,-0.22816764132553613
+1,disease_on_symptoms,23,18,0.1423058795805352
+2,disease_on_drugs,25,21,-0.37503105590062114

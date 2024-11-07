@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.13604269293924443
+1,disease_on_symptoms,17,19,0.48391812865497097
+2,disease_on_drugs,26,28,0.29197191697191704

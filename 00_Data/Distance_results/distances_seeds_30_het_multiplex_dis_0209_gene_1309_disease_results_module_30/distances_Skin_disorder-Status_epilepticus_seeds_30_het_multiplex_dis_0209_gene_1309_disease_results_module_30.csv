@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,25,30,-0.38181818181818183
+1,disease_on_symptoms,19,18,-0.2714951793899163
+2,disease_on_drugs,23,30,-0.3982362592288763

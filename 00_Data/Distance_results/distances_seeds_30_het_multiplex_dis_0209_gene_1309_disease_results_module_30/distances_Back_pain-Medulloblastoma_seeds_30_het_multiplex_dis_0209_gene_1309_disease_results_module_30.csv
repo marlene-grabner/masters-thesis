@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,15,22,0.31695331695331674
+2,disease_on_drugs,23,26,0.2172206675312267

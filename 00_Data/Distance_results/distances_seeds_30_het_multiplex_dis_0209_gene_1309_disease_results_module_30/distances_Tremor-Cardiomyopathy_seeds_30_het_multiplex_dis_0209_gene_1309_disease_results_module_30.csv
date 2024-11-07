@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,27,25,-0.17461538461538462
+1,disease_on_symptoms,17,21,0.7714875423853753
+2,disease_on_drugs,24,24,0.14583333333333326

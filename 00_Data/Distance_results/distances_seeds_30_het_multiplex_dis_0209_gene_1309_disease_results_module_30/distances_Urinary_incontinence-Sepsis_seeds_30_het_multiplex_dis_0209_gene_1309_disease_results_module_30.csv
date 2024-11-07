@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Sepsis nodes,sAB
+0,disease_on_genes,29,30,0.28841807909604533
+1,disease_on_symptoms,20,15,2.0285714285714285
+2,disease_on_drugs,20,25,0.588888888888889

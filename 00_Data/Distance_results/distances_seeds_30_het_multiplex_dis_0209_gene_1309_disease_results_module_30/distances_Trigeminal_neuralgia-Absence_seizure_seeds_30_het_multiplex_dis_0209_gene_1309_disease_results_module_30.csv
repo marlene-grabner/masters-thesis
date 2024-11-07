@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,15,14,-0.08981937602627243
+2,disease_on_drugs,25,22,-0.36274661508704065

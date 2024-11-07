@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.18240740740740735
+1,disease_on_symptoms,17,20,0.606597774244833
+2,disease_on_drugs,27,21,0.3921957671957672

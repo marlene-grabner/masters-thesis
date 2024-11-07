@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.7894736842105263
+1,disease_on_symptoms,25,14,1.7272161172161173
+2,disease_on_drugs,7,13,0.5785714285714285

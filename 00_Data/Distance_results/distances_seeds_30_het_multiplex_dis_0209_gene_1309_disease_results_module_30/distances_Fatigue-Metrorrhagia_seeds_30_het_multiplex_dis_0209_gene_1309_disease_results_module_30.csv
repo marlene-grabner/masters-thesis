@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.22750362844702465
+1,disease_on_symptoms,16,17,0.3473707664884136
+2,disease_on_drugs,26,26,-0.07692307692307687

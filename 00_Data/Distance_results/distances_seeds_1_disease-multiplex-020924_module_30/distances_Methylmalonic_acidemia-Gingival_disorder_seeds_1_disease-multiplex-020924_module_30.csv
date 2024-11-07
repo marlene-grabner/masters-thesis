@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,25,21,0.5911801242236026
+1,disease_on_symptoms,16,26,2.2266483516483513
+2,disease_on_drugs,17,20,0.9705882352941178

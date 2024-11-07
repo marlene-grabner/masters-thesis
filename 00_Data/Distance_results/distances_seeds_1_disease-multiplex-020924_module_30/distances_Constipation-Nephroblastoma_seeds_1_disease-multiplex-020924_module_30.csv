@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.2687878787878788
+1,disease_on_symptoms,17,25,1.5532773109243694
+2,disease_on_drugs,27,21,1.460648148148148

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,16,9,0.4772222222222222
+1,disease_on_symptoms,26,27,2.5282212546363487
+2,disease_on_drugs,14,9,0.7391304347826086

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,14,29,0.4759136212624586
+1,disease_on_symptoms,25,14,1.537069597069597
+2,disease_on_drugs,10,28,0.5552631578947369

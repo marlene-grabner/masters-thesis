@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,25,17,-0.20145658263305333
+1,disease_on_symptoms,18,27,0.18888888888888888
+2,disease_on_drugs,23,16,-0.13942307692307687

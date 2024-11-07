@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,29,22,-0.4422003284072249
+1,disease_on_symptoms,21,26,-0.37884810225235754
+2,disease_on_drugs,28,12,-0.47857142857142865

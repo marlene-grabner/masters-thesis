@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,18,25,0.597596899224806
+1,disease_on_symptoms,18,20,4.270614035087719
+2,disease_on_drugs,10,14,0.2511904761904762

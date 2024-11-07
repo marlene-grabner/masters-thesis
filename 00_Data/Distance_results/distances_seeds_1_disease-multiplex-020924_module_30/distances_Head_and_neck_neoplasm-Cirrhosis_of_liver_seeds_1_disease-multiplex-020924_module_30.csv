@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,20,14,0.6163865546218488
+2,disease_on_drugs,27,26,0.41473149492017414

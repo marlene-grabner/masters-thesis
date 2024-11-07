@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,14,23,0.2808880308880308
+1,disease_on_symptoms,23,22,1.2653491436100128
+2,disease_on_drugs,14,17,0.9440227703984818

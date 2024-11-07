@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.30219780219780223
+1,disease_on_symptoms,16,22,2.0473983253588512
+2,disease_on_drugs,21,25,0.531511387163561

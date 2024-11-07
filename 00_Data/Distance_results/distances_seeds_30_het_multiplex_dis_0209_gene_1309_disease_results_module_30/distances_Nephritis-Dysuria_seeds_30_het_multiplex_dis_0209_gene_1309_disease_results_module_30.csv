@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,17,12,1.146213657876944
+2,disease_on_drugs,25,21,0.16679089026915106

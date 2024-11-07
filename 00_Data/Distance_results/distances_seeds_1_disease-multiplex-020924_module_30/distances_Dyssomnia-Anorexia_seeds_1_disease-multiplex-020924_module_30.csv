@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Anorexia nodes,sAB
+0,disease_on_genes,18,17,0.08235294117647052
+1,disease_on_symptoms,21,25,0.3479089026915112
+2,disease_on_drugs,17,13,0.30663650075414783

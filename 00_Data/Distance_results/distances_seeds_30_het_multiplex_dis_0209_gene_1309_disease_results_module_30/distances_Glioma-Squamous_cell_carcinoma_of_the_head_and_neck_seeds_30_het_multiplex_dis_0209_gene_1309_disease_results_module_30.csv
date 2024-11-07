@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,22,30,-0.43717948717948707
+1,disease_on_symptoms,21,22,-0.4653427967381457
+2,disease_on_drugs,21,30,-0.47436974789915964

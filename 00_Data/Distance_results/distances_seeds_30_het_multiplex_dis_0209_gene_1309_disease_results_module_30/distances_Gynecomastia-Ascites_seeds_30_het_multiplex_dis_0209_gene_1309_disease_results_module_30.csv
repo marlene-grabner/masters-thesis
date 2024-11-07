@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,15,22,-0.2602375102375103
+2,disease_on_drugs,29,27,-0.03792647327130072

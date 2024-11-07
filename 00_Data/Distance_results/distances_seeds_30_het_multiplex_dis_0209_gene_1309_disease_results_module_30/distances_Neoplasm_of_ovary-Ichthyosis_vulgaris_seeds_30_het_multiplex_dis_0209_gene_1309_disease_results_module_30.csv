@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.08684210526315783
+1,disease_on_symptoms,22,21,0.563223598107319
+2,disease_on_drugs,29,24,-0.019884515289525062

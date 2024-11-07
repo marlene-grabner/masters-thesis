@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,25,27,-0.46153846153846156
+1,disease_on_symptoms,22,20,-0.8313852813852816
+2,disease_on_drugs,25,27,-0.5038461538461539

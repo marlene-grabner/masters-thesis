@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,30,-0.06780635106175736
+1,disease_on_symptoms,20,21,0.5421022067363528
+2,disease_on_drugs,25,29,0.2618135376756068

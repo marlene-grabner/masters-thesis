@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.052727272727272734
+1,disease_on_symptoms,11,20,0.560777126099707
+2,disease_on_drugs,27,22,0.023757988043702216

@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,15,28,0.06040974529346621
+1,disease_on_symptoms,27,25,0.7433333333333334
+2,disease_on_drugs,13,23,0.4903381642512079

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,22,28,0.3549350649350651
+1,disease_on_symptoms,23,19,1.1952707856598015
+2,disease_on_drugs,17,28,1.1677637721755367

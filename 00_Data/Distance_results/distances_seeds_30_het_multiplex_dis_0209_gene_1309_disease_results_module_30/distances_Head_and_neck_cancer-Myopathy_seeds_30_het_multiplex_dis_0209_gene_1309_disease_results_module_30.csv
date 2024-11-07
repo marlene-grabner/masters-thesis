@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Myopathy nodes,sAB
+0,disease_on_genes,27,23,-0.020000000000000018
+1,disease_on_symptoms,22,22,0.47727272727272707
+2,disease_on_drugs,23,21,0.0818746470920384

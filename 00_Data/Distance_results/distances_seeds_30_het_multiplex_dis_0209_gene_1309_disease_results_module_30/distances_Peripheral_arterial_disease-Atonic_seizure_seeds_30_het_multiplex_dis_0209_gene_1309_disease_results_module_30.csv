@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,30,0.1785714285714286
+1,disease_on_symptoms,17,15,0.7299019607843138
+2,disease_on_drugs,24,23,0.46976179463459755

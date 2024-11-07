@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,-0.1071428571428571
+1,disease_on_symptoms,22,25,0.20905222437137327
+2,disease_on_drugs,26,21,0.06948016522484601

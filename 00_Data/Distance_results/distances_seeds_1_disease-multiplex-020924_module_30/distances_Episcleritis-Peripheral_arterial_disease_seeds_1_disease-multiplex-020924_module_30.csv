@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,30,25,0.08727272727272717
+1,disease_on_symptoms,22,14,0.5075757575757576
+2,disease_on_drugs,29,22,0.48242055442866794

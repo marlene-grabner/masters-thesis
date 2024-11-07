@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,24,26,0.03993589743589743
+1,disease_on_symptoms,22,21,1.1635709251988322
+2,disease_on_drugs,24,23,-0.021276595744680882

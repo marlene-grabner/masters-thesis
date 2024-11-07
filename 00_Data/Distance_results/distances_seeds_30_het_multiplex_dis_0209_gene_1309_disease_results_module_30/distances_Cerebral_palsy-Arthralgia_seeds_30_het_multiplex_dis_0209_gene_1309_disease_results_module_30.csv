@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,13,17,0.7045248868778282
+2,disease_on_drugs,21,30,-0.02478991596638669

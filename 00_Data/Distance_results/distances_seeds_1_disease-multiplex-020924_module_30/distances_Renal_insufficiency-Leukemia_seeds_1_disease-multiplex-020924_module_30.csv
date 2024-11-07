@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Leukemia nodes,sAB
+0,disease_on_genes,20,18,0.11315789473684212
+1,disease_on_symptoms,23,27,0.5458615136876004
+2,disease_on_drugs,17,17,0.47058823529411775

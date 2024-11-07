@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,18,23,0.43416401555319917
+1,disease_on_symptoms,18,19,2.410976766239924
+2,disease_on_drugs,10,19,0.6155172413793102

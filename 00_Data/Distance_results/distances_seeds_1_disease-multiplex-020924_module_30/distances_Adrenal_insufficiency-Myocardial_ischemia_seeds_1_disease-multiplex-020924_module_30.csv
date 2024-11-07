@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,17,30,0.3028785982478097
+1,disease_on_symptoms,21,13,1.3471234647705237
+2,disease_on_drugs,14,23,0.7726204465334903

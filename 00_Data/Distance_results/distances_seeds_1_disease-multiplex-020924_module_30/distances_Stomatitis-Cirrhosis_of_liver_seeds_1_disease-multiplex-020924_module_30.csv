@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666664
+1,disease_on_symptoms,23,14,1.055019305019305
+2,disease_on_drugs,30,26,0.6664835164835166

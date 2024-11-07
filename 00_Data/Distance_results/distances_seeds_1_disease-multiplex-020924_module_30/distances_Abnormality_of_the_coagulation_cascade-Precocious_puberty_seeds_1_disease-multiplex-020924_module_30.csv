@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,23,30,-0.0042111019961716956
+1,disease_on_symptoms,23,14,0.3294443511834817
+2,disease_on_drugs,18,24,-0.08730158730158744

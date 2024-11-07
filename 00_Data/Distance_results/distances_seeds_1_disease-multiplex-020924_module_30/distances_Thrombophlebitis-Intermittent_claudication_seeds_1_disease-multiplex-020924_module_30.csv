@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,20,0.20178571428571423
+1,disease_on_symptoms,15,24,1.5131410256410254
+2,disease_on_drugs,21,18,0.04273504273504258

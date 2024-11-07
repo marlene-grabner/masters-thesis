@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.43721535458685756
+1,disease_on_symptoms,21,18,1.3611111111111112
+2,disease_on_drugs,25,19,0.7674162679425838

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,28,0.054533429533429434
+1,disease_on_symptoms,21,23,0.3346508563899866
+2,disease_on_drugs,27,28,0.16328763828763826

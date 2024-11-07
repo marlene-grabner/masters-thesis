@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.09333333333333327
+1,disease_on_symptoms,17,23,1.0695652173913044
+2,disease_on_drugs,26,17,0.5958907713353678

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.0011904761904761862
+1,disease_on_symptoms,17,21,1.2779006339377856
+2,disease_on_drugs,26,26,0.26923076923076916

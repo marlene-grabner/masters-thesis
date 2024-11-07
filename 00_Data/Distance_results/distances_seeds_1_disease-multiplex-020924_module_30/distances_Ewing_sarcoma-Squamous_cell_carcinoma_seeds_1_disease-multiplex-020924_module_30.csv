@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,24,16,0.012499999999999956
+1,disease_on_symptoms,25,26,-0.15852187028657605
+2,disease_on_drugs,17,14,-0.09677419354838712

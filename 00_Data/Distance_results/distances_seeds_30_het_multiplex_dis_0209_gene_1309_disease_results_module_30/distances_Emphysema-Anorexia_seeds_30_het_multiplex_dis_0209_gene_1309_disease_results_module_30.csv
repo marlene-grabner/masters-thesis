@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.15283459964932777
+1,disease_on_symptoms,18,13,0.67535153019024
+2,disease_on_drugs,27,28,0.10937950937950935

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,21,15,0.2873015873015874
+2,disease_on_drugs,27,25,0.28455840455840464

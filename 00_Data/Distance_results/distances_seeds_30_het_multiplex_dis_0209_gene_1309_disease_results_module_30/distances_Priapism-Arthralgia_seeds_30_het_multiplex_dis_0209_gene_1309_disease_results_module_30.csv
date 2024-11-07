@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,12,17,0.12897227856659876
+2,disease_on_drugs,28,30,-0.019211822660098354

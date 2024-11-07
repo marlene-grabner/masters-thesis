@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,26,23,0.14015151515151492
+1,disease_on_symptoms,20,18,1.0089181286549707
+2,disease_on_drugs,25,18,0.44186046511627897

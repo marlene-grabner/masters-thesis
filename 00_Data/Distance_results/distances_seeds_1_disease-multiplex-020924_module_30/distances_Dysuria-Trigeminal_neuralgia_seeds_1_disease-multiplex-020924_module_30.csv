@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,-0.08563434448189433
+1,disease_on_symptoms,16,19,0.674295112781955
+2,disease_on_drugs,23,26,0.20392805951812165

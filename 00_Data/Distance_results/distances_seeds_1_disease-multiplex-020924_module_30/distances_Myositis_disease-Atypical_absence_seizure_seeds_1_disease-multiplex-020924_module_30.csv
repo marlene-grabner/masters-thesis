@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.0680790960451978
+1,disease_on_symptoms,24,15,0.8769230769230771
+2,disease_on_drugs,28,27,0.3282227032227032

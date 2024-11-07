@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,16,18,0.09579248366013071
+2,disease_on_drugs,28,21,-0.1658163265306123

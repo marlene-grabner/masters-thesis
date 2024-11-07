@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,25,0.0768660968660968
+1,disease_on_symptoms,21,20,0.5409988385598143
+2,disease_on_drugs,24,21,0.13472222222222197

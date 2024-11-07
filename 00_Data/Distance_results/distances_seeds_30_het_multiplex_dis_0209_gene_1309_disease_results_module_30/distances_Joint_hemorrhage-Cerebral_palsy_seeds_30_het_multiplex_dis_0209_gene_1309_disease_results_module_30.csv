@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,17,13,1.3025641025641024
+2,disease_on_drugs,26,21,0.18145506975294223

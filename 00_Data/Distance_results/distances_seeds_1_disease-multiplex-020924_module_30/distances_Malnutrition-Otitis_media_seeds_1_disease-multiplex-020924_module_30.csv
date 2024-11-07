@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.14805883771401018
+1,disease_on_symptoms,18,22,1.7709595959595958
+2,disease_on_drugs,23,29,0.48673740053050407

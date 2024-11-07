@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.09285714285714275
+1,disease_on_symptoms,17,17,0.7352941176470589
+2,disease_on_drugs,25,27,0.4223076923076923

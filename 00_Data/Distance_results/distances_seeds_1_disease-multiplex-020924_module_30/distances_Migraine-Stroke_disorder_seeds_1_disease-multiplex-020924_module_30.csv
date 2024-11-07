@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,14,15,0.249589490968801
+2,disease_on_drugs,29,30,0.38983050847457634

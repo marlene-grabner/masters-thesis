@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,20,26,0.38152173913043486
+1,disease_on_symptoms,22,15,1.3648239148239147
+2,disease_on_drugs,15,21,0.661904761904762

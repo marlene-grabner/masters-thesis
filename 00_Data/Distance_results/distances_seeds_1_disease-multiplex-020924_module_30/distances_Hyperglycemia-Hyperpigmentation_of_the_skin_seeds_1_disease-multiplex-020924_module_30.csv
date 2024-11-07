@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,24,-0.03888888888888897
+1,disease_on_symptoms,14,23,1.69674332717811
+2,disease_on_drugs,26,12,0.605263157894737

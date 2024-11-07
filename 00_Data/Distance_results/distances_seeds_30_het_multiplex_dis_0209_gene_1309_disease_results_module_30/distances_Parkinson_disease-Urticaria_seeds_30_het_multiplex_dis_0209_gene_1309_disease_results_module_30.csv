@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Urticaria nodes,sAB
+0,disease_on_genes,23,24,-0.06382978723404253
+1,disease_on_symptoms,23,21,0.677065687935253
+2,disease_on_drugs,22,24,-0.08440382081686404

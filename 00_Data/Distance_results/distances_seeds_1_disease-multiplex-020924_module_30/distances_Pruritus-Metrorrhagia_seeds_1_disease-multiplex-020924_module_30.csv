@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.055384615384615365
+1,disease_on_symptoms,19,17,1.1116271069831445
+2,disease_on_drugs,24,26,0.7615384615384617

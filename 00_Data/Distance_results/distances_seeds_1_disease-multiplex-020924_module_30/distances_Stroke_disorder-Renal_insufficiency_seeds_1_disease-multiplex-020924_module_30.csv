@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,-0.02666666666666684
+1,disease_on_symptoms,15,23,0.4134248665141116
+2,disease_on_drugs,30,17,0.18523153942428028

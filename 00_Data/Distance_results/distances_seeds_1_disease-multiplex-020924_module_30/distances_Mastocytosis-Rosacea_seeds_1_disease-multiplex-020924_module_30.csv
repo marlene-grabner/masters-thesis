@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Rosacea nodes,sAB
+0,disease_on_genes,18,30,0.005555555555555314
+1,disease_on_symptoms,28,17,0.22364612511671345
+2,disease_on_drugs,17,27,-0.013368983957219305

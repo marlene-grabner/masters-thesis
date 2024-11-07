@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,17,17,0.7941176470588234
+2,disease_on_drugs,24,30,0.17731481481481493

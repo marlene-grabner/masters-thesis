@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,28,27,0.07272727272727275
+1,disease_on_symptoms,17,21,0.9039510541058529
+2,disease_on_drugs,25,24,0.06280612244897954

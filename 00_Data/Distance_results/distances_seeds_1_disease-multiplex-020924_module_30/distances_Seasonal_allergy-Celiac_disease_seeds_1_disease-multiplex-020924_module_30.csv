@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,29,17,-0.12778904665314395
+1,disease_on_symptoms,15,22,0.21081081081081066
+2,disease_on_drugs,29,15,-0.05057471264367819

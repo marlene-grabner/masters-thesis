@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,21,16,0.8865427927927931
+2,disease_on_drugs,23,29,-0.130521277822627

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Lymphoma nodes,sAB
+0,disease_on_genes,23,26,0.0
+1,disease_on_symptoms,23,20,0.8103134479271992
+2,disease_on_drugs,22,24,0.3712121212121211

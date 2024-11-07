@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,30,0.0862068965517242
+1,disease_on_symptoms,17,18,0.8565826330532211
+2,disease_on_drugs,25,30,0.2357575757575756

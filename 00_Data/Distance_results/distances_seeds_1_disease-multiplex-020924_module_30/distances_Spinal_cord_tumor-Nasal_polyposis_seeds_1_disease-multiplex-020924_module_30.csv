@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,22,15,0.3481162981162982
+1,disease_on_symptoms,22,25,0.5117988394584139
+2,disease_on_drugs,14,10,0.20952380952380967

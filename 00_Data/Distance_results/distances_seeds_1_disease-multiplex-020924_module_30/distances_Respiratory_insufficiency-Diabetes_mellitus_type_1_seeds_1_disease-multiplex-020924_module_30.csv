@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,25,13,0.2919838056680162
+1,disease_on_symptoms,20,25,4.963888888888889
+2,disease_on_drugs,14,8,0.6201298701298701

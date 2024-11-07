@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,30,26,0.198809523809524
+1,disease_on_symptoms,14,21,1.1380952380952378
+2,disease_on_drugs,29,24,0.6037735849056605

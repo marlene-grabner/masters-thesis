@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,21,12,1.591991341991342
+2,disease_on_drugs,27,22,0.6141345427059712

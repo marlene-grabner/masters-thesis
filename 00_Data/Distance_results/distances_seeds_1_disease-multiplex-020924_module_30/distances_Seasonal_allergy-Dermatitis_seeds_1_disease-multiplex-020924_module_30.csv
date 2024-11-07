@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Dermatitis nodes,sAB
+0,disease_on_genes,29,26,0.13473818646232427
+1,disease_on_symptoms,15,25,0.7349999999999999
+2,disease_on_drugs,29,24,0.22411082194751675

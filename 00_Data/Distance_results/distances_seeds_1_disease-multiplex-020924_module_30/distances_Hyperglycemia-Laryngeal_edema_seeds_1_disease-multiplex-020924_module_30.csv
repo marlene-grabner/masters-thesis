@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,14,20,0.9865546218487395
+2,disease_on_drugs,26,28,0.46494708994709

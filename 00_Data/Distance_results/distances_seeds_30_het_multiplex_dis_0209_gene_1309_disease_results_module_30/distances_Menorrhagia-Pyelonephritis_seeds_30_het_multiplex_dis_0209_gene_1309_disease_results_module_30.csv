@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,27,24,0.11642156862745079
+1,disease_on_symptoms,16,19,0.4952537593984965
+2,disease_on_drugs,23,19,0.06766917293233088

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,27,23,-0.07703703703703724
+1,disease_on_symptoms,21,23,0.7506587615283267
+2,disease_on_drugs,25,22,0.14858800773694392

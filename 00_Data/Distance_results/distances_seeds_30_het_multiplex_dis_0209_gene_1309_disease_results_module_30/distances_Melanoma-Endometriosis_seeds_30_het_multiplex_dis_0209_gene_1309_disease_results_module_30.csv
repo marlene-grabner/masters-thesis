@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Endometriosis nodes,sAB
+0,disease_on_genes,27,30,-0.26325536062378174
+1,disease_on_symptoms,23,16,-0.1726240245261983
+2,disease_on_drugs,25,30,-0.20272727272727264

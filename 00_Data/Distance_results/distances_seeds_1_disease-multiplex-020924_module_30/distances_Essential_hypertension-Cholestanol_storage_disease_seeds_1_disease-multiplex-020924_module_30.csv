@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,28,30,-0.03633004926108385
+1,disease_on_symptoms,14,17,0.5773922472214696
+2,disease_on_drugs,28,25,0.1839083557951482

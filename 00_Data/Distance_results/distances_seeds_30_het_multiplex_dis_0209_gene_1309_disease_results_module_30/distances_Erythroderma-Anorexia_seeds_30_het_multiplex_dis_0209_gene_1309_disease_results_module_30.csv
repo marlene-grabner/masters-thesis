@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.15283459964932777
+1,disease_on_symptoms,20,13,0.7424825174825176
+2,disease_on_drugs,29,28,-0.01607466943220115

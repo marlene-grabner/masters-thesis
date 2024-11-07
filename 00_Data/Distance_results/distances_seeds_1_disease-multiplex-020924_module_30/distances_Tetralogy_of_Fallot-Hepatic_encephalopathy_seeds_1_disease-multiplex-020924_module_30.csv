@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,0.5863247863247862
+1,disease_on_symptoms,14,27,2.850561362756485
+2,disease_on_drugs,11,9,1.25

@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,24,-0.19490740740740742
+1,disease_on_symptoms,17,20,0.018084260731319413
+2,disease_on_drugs,27,22,-0.184102934102934

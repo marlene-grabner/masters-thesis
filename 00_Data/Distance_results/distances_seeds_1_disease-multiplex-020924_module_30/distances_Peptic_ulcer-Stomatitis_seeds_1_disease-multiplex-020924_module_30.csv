@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Stomatitis nodes,sAB
+0,disease_on_genes,28,30,-0.2950738916256157
+1,disease_on_symptoms,14,23,-0.3928571428571428
+2,disease_on_drugs,28,30,-0.15172413793103456

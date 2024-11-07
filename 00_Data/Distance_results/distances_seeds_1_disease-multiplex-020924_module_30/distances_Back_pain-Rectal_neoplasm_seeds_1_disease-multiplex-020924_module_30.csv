@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,16,21,0.8578265765765769
+2,disease_on_drugs,23,29,0.7155172413793105

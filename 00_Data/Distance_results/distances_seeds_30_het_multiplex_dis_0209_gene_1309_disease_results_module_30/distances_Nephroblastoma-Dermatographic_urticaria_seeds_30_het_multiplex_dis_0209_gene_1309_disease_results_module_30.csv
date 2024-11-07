@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,0.2586206896551726
+1,disease_on_symptoms,20,18,0.5457602339181284
+2,disease_on_drugs,24,28,0.2854853479853481

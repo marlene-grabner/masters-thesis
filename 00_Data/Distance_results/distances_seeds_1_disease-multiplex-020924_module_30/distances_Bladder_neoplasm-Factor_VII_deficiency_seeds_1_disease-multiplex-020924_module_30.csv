@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.3321568627450979
+1,disease_on_symptoms,20,23,1.739105156723964
+2,disease_on_drugs,25,21,1.3871635610766047

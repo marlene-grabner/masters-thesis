@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,0.03373015873015861
+1,disease_on_symptoms,18,17,1.085060690943044
+2,disease_on_drugs,25,27,0.23190883190883183

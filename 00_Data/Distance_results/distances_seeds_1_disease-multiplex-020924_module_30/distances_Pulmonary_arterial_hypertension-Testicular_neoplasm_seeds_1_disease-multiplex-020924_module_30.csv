@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,0.18742587601078164
+1,disease_on_symptoms,18,25,2.2223514211886304
+2,disease_on_drugs,26,23,0.8556583168384408

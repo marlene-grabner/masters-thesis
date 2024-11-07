@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.07333333333333347
+1,disease_on_symptoms,19,23,1.3507682249101012
+2,disease_on_drugs,22,17,0.7582613464966403

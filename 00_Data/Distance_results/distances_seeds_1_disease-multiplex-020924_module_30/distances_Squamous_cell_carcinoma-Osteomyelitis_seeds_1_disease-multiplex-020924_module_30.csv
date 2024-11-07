@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,16,25,0.32719512195121947
+1,disease_on_symptoms,26,23,1.9649170705071324
+2,disease_on_drugs,14,23,0.983548766157462

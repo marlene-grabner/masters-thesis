@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,23,30,0.0959803117309268
+1,disease_on_symptoms,16,20,0.9368055555555554
+2,disease_on_drugs,22,28,0.8264285714285713

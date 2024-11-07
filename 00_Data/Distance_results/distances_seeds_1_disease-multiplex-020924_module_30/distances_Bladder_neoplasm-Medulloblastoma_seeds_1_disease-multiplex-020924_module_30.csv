@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,26,26,-0.21153846153846156
+1,disease_on_symptoms,20,19,0.31008771929824586
+2,disease_on_drugs,25,24,-0.2249149659863947

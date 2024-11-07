@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,0.4423076923076923
+1,disease_on_symptoms,17,15,1.589705882352941
+2,disease_on_drugs,20,15,1.219047619047619

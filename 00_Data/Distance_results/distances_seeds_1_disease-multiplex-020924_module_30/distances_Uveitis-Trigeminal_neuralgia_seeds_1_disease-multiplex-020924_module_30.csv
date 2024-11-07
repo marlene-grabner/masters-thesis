@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.24010673234811142
+1,disease_on_symptoms,21,19,1.1466165413533833
+2,disease_on_drugs,27,26,0.3396092028167499

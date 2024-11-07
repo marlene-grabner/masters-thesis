@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,17,17,1.2352941176470589
+2,disease_on_drugs,26,22,0.17438811188811187

@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,24,0.2407407407407407
+1,disease_on_symptoms,7,23,1.465631469979296
+2,disease_on_drugs,22,24,0.18972332015810278

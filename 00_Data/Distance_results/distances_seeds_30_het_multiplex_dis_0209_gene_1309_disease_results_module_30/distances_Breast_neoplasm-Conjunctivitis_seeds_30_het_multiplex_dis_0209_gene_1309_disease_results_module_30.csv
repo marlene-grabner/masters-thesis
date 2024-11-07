@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,20,27,0.6422970843183609
+2,disease_on_drugs,30,28,0.6169950738916254

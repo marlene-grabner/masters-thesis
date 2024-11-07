@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,22,18,0.3388888888888888
+2,disease_on_drugs,27,22,0.026901669758812696

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,30,25,0.13454545454545452
+1,disease_on_symptoms,14,16,1.4964285714285712
+2,disease_on_drugs,27,17,0.36536938007526243

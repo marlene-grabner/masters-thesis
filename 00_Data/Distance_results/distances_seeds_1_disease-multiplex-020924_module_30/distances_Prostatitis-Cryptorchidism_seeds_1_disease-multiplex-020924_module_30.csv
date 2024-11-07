@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.34592074592074606
+1,disease_on_symptoms,20,18,1.666812865497076
+2,disease_on_drugs,29,18,1.0931768158473956

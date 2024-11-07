@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,23,19,0.47346627438160604
+2,disease_on_drugs,26,30,0.15485347985347997

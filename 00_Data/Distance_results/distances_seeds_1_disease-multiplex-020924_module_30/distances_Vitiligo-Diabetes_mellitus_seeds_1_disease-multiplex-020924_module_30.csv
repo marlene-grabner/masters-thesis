@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,24,20,0.2640151515151514
+1,disease_on_symptoms,22,18,1.9724747474747475
+2,disease_on_drugs,11,19,0.8736842105263158

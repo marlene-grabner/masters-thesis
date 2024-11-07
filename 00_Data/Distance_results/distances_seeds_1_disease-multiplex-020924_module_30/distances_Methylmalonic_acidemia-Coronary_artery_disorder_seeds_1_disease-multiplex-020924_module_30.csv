@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.2855023923444977
+1,disease_on_symptoms,16,21,2.0133526383526386
+2,disease_on_drugs,17,17,0.2941176470588236

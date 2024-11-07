@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,17,22,0.07582613464966403
+2,disease_on_drugs,26,28,0.32738095238095233

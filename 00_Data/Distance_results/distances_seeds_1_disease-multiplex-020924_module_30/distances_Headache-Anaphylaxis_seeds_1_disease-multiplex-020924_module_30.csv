@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.10321637426900576
+1,disease_on_symptoms,25,15,0.4849999999999999
+2,disease_on_drugs,26,26,0.1923076923076923

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,29,24,0.15964541314248537
+1,disease_on_symptoms,17,21,2.25844021819254
+2,disease_on_drugs,30,18,1.0347222222222223

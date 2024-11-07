@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333313
+1,disease_on_symptoms,16,14,0.536904761904762
+2,disease_on_drugs,21,30,0.38963585434173664

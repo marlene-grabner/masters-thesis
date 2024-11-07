@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.5447368421052632
+1,disease_on_symptoms,14,14,0.9642857142857144
+2,disease_on_drugs,24,13,0.7088963963963963

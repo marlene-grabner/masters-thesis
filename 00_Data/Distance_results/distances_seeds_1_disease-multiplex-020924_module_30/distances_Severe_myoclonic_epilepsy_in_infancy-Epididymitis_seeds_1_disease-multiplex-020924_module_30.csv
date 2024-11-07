@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.5423631404636664
+1,disease_on_symptoms,16,23,2.5706521739130435
+2,disease_on_drugs,21,27,1.0195105820105819

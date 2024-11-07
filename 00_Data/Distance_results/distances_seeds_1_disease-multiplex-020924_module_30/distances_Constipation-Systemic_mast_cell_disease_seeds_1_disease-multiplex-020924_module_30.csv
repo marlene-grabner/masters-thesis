@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.0163549581141631
+1,disease_on_symptoms,17,16,0.8423573975044563
+2,disease_on_drugs,27,25,0.38532763532763514

@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.08555008210180626
+1,disease_on_symptoms,18,20,0.9102339181286552
+2,disease_on_drugs,25,27,0.2484615384615385

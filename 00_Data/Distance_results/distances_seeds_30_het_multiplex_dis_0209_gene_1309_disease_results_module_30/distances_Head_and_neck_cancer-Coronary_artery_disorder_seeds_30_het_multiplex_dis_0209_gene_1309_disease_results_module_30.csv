@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,0.03826086956521735
+1,disease_on_symptoms,22,19,0.7351207842221963
+2,disease_on_drugs,23,22,0.1776899429073342

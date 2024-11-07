@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,0.13278582930756833
+1,disease_on_symptoms,20,27,1.4603624901497243
+2,disease_on_drugs,19,26,0.5170940170940173

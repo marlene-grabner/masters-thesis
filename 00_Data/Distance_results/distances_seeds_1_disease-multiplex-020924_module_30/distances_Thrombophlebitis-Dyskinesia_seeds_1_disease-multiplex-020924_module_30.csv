@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,28,24,0.25114468864468864
+1,disease_on_symptoms,15,17,2.234436274509804
+2,disease_on_drugs,21,23,1.0681818181818183

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,28,26,-0.05555555555555558
+1,disease_on_symptoms,16,21,0.506354568854569
+2,disease_on_drugs,23,26,0.07021705003071466

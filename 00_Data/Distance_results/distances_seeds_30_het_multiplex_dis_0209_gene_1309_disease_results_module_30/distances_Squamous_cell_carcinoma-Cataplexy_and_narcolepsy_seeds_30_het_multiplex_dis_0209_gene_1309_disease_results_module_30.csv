@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.018181818181818077
+1,disease_on_symptoms,22,19,1.877961255689112
+2,disease_on_drugs,30,18,0.11805555555555558

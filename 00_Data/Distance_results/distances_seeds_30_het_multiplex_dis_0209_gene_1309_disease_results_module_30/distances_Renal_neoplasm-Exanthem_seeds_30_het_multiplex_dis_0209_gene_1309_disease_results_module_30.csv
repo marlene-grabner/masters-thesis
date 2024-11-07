@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,30,-0.06751412429378523
+1,disease_on_symptoms,20,21,0.5158826945412311
+2,disease_on_drugs,28,29,0.2634495722063781

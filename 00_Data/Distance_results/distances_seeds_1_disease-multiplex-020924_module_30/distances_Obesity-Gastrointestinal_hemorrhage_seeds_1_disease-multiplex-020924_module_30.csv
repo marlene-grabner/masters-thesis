@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,27,0.22675106165672188
+1,disease_on_symptoms,20,19,1.1566801619433198
+2,disease_on_drugs,27,27,0.7777777777777777

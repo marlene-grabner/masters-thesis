@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.21424242424242435
+1,disease_on_symptoms,21,23,1.4490400903444383
+2,disease_on_drugs,27,23,0.47800322061191647

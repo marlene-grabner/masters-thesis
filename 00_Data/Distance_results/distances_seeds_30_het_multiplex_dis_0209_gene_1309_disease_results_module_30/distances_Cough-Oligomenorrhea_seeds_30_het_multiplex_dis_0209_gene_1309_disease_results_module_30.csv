@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,29,0.1428571428571428
+1,disease_on_symptoms,22,11,1.5530303030303032
+2,disease_on_drugs,24,24,0.5416666666666665

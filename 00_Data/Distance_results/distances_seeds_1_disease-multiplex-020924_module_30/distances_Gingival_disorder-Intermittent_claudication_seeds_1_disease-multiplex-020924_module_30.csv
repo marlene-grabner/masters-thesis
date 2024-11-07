@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,21,20,0.14625435540069698
+1,disease_on_symptoms,26,24,0.6772435897435898
+2,disease_on_drugs,20,18,0.6257309941520468

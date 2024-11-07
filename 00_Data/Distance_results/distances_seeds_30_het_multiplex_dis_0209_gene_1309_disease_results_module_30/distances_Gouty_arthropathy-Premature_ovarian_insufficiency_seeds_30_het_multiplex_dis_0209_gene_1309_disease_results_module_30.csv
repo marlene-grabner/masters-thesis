@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,28,30,-0.06839080459770108
+1,disease_on_symptoms,18,18,0.38888888888888884
+2,disease_on_drugs,23,22,0.001800614844093218

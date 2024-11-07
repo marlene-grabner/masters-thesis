@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,0.40801790801790805
+1,disease_on_symptoms,23,17,1.4283887468030692
+2,disease_on_drugs,25,18,0.9534883720930232

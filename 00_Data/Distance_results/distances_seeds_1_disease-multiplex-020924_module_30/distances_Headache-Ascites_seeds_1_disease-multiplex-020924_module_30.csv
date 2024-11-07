@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,25,17,0.1745658263305323
+2,disease_on_drugs,26,27,0.22710046766650516

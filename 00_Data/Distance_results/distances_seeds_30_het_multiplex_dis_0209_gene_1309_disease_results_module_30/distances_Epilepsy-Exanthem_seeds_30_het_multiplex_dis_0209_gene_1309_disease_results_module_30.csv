@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.03333333333333344
+1,disease_on_symptoms,21,21,1.0
+2,disease_on_drugs,29,29,0.5689655172413794

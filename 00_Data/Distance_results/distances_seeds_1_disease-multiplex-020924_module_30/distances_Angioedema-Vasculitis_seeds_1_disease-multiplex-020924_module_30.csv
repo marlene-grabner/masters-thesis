@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,24,0.0959249084249083
+1,disease_on_symptoms,17,19,0.5749054007567937
+2,disease_on_drugs,25,20,0.5722222222222222

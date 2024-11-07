@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Asthma nodes,sAB
+0,disease_on_genes,22,25,0.2918955512572532
+1,disease_on_symptoms,23,19,1.9358722894192
+2,disease_on_drugs,17,24,0.41170492587278806

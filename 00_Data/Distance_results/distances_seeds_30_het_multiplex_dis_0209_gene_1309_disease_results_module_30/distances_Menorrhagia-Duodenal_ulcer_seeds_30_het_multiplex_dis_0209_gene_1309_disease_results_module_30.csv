@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,27,28,-0.036363636363636376
+1,disease_on_symptoms,16,17,0.4244095365418894
+2,disease_on_drugs,23,28,0.2279411764705883

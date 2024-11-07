@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,25,22,0.21224371373307527
+1,disease_on_symptoms,25,19,1.501148325358852
+2,disease_on_drugs,21,18,0.1773504273504274

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,23,26,0.36335403726708093
+1,disease_on_symptoms,21,15,1.0611111111111113
+2,disease_on_drugs,19,21,1.0535714285714286

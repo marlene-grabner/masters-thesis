@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,17,20,0.0963036565977744
+2,disease_on_drugs,19,30,0.1278195488721805

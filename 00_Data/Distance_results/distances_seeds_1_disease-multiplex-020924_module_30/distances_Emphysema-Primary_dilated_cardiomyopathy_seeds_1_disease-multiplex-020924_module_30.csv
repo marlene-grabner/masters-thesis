@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.3500000000000001
+1,disease_on_symptoms,14,25,1.108168498168498
+2,disease_on_drugs,29,7,0.28968253968253976

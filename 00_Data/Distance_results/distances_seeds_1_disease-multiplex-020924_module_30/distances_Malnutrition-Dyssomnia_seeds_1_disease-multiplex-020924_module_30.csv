@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,26,18,-0.15209790209790197
+1,disease_on_symptoms,18,21,2.222832722832723
+2,disease_on_drugs,23,17,0.06176470588235272

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.03434065934065944
+1,disease_on_symptoms,25,18,0.7625581395348837
+2,disease_on_drugs,25,27,0.137948717948718

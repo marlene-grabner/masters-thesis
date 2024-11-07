@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.3448275862068966
+1,disease_on_symptoms,14,18,1.3338293650793651
+2,disease_on_drugs,21,23,0.7111801242236027

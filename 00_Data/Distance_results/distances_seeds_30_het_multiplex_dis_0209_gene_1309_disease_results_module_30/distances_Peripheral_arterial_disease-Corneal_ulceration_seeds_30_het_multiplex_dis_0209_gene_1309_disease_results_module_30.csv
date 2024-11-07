@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,-0.054894179894179884
+1,disease_on_symptoms,17,15,0.4278186274509803
+2,disease_on_drugs,24,23,0.04376734505087865

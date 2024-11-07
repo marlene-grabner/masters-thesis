@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.2651098901098903
+1,disease_on_symptoms,14,21,0.8357142857142859
+2,disease_on_drugs,27,26,0.5852416276944579

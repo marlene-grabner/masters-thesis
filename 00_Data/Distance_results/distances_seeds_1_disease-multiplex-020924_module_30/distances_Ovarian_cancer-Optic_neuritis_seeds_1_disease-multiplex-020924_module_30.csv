@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.24074074074074048
+1,disease_on_symptoms,17,16,0.6355280748663101
+2,disease_on_drugs,25,27,0.5014245014245013

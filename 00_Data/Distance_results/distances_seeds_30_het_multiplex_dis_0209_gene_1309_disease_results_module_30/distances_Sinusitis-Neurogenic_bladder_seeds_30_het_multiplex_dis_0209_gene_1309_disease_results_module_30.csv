@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,29,30,0.2542372881355932
+1,disease_on_symptoms,20,18,0.774707602339181
+2,disease_on_drugs,27,21,0.39914021164021163

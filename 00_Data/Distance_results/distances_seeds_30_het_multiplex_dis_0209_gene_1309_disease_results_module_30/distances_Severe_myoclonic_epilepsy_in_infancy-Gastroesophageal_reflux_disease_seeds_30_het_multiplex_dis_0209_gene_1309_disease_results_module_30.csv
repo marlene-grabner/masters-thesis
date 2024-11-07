@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,-0.0013736263736263687
+1,disease_on_symptoms,14,18,0.34424603174603163
+2,disease_on_drugs,21,25,-0.0409937888198757

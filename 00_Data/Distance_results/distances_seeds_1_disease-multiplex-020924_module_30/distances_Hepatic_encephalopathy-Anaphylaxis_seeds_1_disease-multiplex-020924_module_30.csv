@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,9,27,0.24999999999999978
+1,disease_on_symptoms,27,15,2.7793650793650793
+2,disease_on_drugs,9,26,0.8472527472527474

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1607142857142858
+1,disease_on_symptoms,21,12,1.1239177489177488
+2,disease_on_drugs,27,18,0.48703703703703694

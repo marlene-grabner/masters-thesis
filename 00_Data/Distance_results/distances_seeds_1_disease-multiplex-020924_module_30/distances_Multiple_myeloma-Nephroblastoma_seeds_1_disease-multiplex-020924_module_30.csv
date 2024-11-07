@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,26,25,-0.09921568627450983
+1,disease_on_symptoms,21,25,0.28028985507246373
+2,disease_on_drugs,25,21,-0.040000000000000036

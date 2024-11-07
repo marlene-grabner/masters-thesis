@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.1694915254237288
+1,disease_on_symptoms,18,16,0.21691176470588225
+2,disease_on_drugs,29,29,-0.01724137931034475

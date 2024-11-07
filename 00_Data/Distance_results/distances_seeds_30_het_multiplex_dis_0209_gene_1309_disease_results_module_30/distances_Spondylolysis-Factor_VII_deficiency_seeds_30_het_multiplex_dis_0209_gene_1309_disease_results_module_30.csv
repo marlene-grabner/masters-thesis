@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,28,28,0.1785714285714286
+1,disease_on_symptoms,17,19,1.1332129342965258
+2,disease_on_drugs,19,25,0.14574162679425817

@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,15,21,0.35396825396825404
+2,disease_on_drugs,23,26,0.08557436352467396

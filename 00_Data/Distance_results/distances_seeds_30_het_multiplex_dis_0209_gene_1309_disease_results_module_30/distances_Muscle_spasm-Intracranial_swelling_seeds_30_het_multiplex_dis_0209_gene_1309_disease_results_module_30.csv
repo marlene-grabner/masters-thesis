@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,15,11,-0.2044289044289045
+2,disease_on_drugs,29,21,-0.20840722495894903

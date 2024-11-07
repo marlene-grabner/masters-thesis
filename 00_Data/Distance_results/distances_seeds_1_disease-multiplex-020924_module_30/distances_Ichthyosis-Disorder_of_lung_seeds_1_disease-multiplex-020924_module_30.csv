@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,27,27,0.22222222222222232
+1,disease_on_symptoms,17,17,0.7352941176470591
+2,disease_on_drugs,24,20,0.25

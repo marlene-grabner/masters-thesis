@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.19473684210526332
+1,disease_on_symptoms,23,24,1.2551456984273819
+2,disease_on_drugs,20,24,1.0492424242424243

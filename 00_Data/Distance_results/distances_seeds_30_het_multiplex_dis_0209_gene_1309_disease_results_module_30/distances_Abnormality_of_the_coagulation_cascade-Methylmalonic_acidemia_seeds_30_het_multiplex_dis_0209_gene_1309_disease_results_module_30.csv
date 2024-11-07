@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,24,25,-0.12244897959183676
+1,disease_on_symptoms,24,17,1.3003347680535633
+2,disease_on_drugs,23,21,-0.02140974967061915

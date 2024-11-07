@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Erythroderma nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,22,20,0.4035714285714287
+2,disease_on_drugs,27,29,0.023399014778325178

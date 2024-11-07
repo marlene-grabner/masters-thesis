@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.0847457627118644
+1,disease_on_symptoms,14,20,0.8766806722689076
+2,disease_on_drugs,29,28,0.14215495635640818

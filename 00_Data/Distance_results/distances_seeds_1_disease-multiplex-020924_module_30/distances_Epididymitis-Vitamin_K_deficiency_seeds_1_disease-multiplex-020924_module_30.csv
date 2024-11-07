@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.08646232439335888
+1,disease_on_symptoms,23,23,1.0434782608695654
+2,disease_on_drugs,27,20,0.3810480693459417

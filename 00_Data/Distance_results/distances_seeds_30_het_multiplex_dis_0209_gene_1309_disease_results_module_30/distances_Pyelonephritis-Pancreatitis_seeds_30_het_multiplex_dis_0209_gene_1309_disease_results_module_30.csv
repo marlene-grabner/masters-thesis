@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,24,30,-0.07638888888888906
+1,disease_on_symptoms,19,17,0.48245614035087714
+2,disease_on_drugs,19,30,-0.09627640529896175

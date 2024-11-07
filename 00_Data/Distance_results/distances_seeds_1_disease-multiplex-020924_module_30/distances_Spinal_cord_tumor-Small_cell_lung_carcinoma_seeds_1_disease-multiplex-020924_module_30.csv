@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,22,27,0.04499072356215206
+1,disease_on_symptoms,22,24,0.6968050065876152
+2,disease_on_drugs,14,25,0.44824175824175816

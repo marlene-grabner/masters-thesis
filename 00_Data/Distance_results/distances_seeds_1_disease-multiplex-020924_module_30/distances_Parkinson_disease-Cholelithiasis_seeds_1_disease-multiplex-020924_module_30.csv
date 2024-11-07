@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,21,25,0.37097308488612835
+1,disease_on_symptoms,20,19,2.124628879892038
+2,disease_on_drugs,19,18,1.0803303303303302

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,30,0.03411306042884976
+1,disease_on_symptoms,21,18,0.4047619047619049
+2,disease_on_drugs,27,29,0.2516648421820835

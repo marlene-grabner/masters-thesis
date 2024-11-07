@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,7,30,0.4217503217503218
+1,disease_on_symptoms,30,20,0.7483333333333335
+2,disease_on_drugs,6,30,0.8055555555555554

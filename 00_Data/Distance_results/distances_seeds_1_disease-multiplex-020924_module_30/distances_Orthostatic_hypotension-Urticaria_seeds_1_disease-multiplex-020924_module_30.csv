@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.5083333333333333
+1,disease_on_symptoms,12,27,2.4291310541310542
+2,disease_on_drugs,17,9,0.35520361990950233

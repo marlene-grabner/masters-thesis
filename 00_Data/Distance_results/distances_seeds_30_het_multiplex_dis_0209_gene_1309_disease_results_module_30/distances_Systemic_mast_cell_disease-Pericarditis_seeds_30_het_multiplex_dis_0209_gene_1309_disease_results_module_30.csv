@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,26,-0.07272727272727275
+1,disease_on_symptoms,25,21,0.882857142857143
+2,disease_on_drugs,21,26,0.10098589353908483

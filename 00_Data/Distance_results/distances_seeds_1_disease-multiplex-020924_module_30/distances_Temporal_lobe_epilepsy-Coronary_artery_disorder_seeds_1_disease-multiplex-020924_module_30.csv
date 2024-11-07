@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,19,0.26894283121597096
+1,disease_on_symptoms,17,21,2.598481497862303
+2,disease_on_drugs,26,17,0.9110017889087658

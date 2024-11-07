@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.06442577030812324
+1,disease_on_symptoms,18,26,0.9432789432789435
+2,disease_on_drugs,27,12,0.4971509971509971

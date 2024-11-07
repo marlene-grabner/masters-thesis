@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.3439393939393939
+1,disease_on_symptoms,19,20,-0.12614709851551953
+2,disease_on_drugs,29,25,-0.22687100893997447

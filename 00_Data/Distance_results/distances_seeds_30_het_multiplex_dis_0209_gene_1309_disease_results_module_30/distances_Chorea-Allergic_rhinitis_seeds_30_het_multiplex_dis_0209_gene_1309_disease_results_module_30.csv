@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,28,0.01724137931034475
+1,disease_on_symptoms,17,20,1.2196740858505566
+2,disease_on_drugs,24,25,0.14273809523809522

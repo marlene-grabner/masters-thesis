@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.1929824561403508
+1,disease_on_symptoms,19,17,1.149466804265566
+2,disease_on_drugs,29,25,0.8001277139208174

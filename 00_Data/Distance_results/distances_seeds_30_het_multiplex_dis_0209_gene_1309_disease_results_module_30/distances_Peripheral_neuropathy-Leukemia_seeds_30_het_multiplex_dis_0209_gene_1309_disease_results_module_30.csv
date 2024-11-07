@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,21,21,-0.23809523809523814
+2,disease_on_drugs,29,30,-0.05089616208844738

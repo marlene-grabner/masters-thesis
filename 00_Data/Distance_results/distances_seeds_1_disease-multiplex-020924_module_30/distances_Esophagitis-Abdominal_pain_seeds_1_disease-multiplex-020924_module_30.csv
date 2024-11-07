@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,24,30,0.1118676510801202
+1,disease_on_symptoms,23,24,0.9383094357076782
+2,disease_on_drugs,20,24,0.45606060606060606

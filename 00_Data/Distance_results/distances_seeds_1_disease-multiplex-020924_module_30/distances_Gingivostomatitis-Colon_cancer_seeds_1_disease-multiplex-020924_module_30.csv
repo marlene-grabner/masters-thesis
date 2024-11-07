@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.25338827838827815
+1,disease_on_symptoms,23,21,1.382552230378317
+2,disease_on_drugs,29,24,0.9482758620689655

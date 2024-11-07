@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,23,28,0.4480879308245038
+1,disease_on_symptoms,21,17,0.768096712369158
+2,disease_on_drugs,21,18,1.0311355311355312

@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,20,29,0.3222554539057003
+1,disease_on_symptoms,24,16,0.9666666666666663
+2,disease_on_drugs,18,25,0.5633074935400517

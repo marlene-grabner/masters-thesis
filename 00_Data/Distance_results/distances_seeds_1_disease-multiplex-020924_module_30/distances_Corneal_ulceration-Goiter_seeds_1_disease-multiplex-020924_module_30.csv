@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,0.220034595034595
+1,disease_on_symptoms,19,15,0.14293085655314752
+2,disease_on_drugs,26,16,0.33333333333333326

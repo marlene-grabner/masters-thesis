@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.19259259259259265
+1,disease_on_symptoms,15,17,0.7602941176470588
+2,disease_on_drugs,22,23,0.8236714975845412

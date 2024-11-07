@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,21,16,-0.30513996138996125
+2,disease_on_drugs,29,28,-0.22812418978480686

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,21,25,0.15833333333333344
+1,disease_on_symptoms,24,20,0.39128787878787863
+2,disease_on_drugs,20,21,0.6103077816492448

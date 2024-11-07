@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,25,17,-0.054789915966386715
+1,disease_on_symptoms,13,27,0.3027777777777776
+2,disease_on_drugs,16,16,-0.21875

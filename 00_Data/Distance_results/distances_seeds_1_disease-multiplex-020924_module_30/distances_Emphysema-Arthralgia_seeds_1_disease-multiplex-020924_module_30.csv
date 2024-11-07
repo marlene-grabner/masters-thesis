@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,14,19,0.9117680565048984
+2,disease_on_drugs,29,30,0.13559322033898313

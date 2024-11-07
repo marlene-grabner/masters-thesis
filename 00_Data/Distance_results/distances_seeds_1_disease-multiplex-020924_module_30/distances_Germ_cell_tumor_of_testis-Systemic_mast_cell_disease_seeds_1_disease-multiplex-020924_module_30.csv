@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,0.12684729064039413
+1,disease_on_symptoms,23,16,1.1104375696767002
+2,disease_on_drugs,20,25,0.9777777777777779

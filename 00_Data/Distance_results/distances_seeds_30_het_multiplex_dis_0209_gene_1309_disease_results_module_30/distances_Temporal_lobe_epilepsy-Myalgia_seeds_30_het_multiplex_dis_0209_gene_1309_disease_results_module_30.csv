@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,16,-0.12015374331550799
+2,disease_on_drugs,28,29,-0.05331215970961889

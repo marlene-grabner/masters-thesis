@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,14,14,-0.1428571428571428
+2,disease_on_drugs,24,30,0.4273148148148147

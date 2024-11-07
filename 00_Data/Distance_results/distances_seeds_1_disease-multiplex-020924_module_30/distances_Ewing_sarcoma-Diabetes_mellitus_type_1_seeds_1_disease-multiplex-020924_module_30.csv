@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,24,13,0.6869802494802495
+1,disease_on_symptoms,25,25,3.9400000000000004
+2,disease_on_drugs,17,8,1.04

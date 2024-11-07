@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,20,11,0.624706744868035
+2,disease_on_drugs,25,21,0.033871635610766226

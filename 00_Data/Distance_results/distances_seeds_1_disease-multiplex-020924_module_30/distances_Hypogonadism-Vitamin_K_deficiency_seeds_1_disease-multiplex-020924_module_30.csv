@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.08518518518518503
+1,disease_on_symptoms,12,23,1.7042443064182193
+2,disease_on_drugs,30,20,0.3933333333333331

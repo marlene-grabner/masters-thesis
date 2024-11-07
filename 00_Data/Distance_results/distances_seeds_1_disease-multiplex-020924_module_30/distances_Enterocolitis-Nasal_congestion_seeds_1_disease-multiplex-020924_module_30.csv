@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,0.10692007797270975
+1,disease_on_symptoms,21,15,0.9968253968253968
+2,disease_on_drugs,24,23,0.5318956213382671

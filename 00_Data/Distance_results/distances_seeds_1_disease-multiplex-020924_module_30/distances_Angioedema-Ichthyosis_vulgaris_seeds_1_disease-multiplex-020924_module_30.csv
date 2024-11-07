@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,-0.03671236171236192
+1,disease_on_symptoms,17,21,0.08889871738168953
+2,disease_on_drugs,25,27,0.11538461538461542

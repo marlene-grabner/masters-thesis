@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,29,0.5087719298245614
+1,disease_on_symptoms,21,18,1.7008547008547008
+2,disease_on_drugs,21,22,0.6267995570321152

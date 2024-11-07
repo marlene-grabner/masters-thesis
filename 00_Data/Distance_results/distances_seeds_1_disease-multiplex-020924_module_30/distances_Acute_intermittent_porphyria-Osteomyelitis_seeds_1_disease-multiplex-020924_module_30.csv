@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,25,0.4414245014245013
+1,disease_on_symptoms,20,23,2.195121334681496
+2,disease_on_drugs,15,23,0.6933638443935928

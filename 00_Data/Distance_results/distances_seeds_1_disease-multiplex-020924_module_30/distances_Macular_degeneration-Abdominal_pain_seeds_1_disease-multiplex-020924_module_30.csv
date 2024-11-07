@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.2833333333333332
+1,disease_on_symptoms,15,24,0.6355769230769233
+2,disease_on_drugs,21,24,0.6900793650793651

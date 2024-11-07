@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,20,16,0.3138888888888889
+2,disease_on_drugs,27,28,0.2551226551226551

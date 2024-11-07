@@ -1,0 +1,4 @@
+,Layer,Disorder_of_orbital_region nodes,Vasculitis nodes,sAB
+0,disease_on_genes,17,24,0.03225131516021018
+1,disease_on_symptoms,27,19,1.4665649631324689
+2,disease_on_drugs,16,20,0.41527777777777763

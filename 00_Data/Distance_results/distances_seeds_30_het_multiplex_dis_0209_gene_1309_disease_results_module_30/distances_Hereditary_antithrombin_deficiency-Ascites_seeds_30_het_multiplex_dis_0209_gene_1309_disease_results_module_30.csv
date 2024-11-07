@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Ascites nodes,sAB
+0,disease_on_genes,28,30,-0.1028735632183907
+1,disease_on_symptoms,16,22,-0.13307416267942562
+2,disease_on_drugs,23,27,-0.2907568438003223

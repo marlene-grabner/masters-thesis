@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,27,26,-0.1502445842068485
+1,disease_on_symptoms,21,19,0.6232456140350879
+2,disease_on_drugs,25,25,-0.040000000000000036

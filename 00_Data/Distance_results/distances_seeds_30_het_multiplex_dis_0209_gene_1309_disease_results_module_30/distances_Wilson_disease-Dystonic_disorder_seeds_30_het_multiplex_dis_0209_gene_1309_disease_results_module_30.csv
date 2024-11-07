@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,19,17,0.0802373581011353
+2,disease_on_drugs,22,26,-0.06424825174825166

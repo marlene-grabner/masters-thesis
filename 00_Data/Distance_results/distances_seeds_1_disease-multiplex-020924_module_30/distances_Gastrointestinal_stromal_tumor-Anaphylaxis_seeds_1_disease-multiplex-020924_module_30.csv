@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.2757487922705313
+1,disease_on_symptoms,20,15,0.8999999999999999
+2,disease_on_drugs,19,26,0.8726495726495729

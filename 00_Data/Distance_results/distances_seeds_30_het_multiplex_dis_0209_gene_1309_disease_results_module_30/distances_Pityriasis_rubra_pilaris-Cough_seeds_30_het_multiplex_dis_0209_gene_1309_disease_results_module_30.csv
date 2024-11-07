@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cough nodes,sAB
+0,disease_on_genes,27,27,-0.16666666666666685
+1,disease_on_symptoms,21,22,-0.25669485553206495
+2,disease_on_drugs,25,24,-0.14374149659863966

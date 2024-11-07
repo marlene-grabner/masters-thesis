@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,24,26,0.09916666666666663
+1,disease_on_symptoms,18,17,0.11386554621848743
+2,disease_on_drugs,18,25,0.07302325581395341

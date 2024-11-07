@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Goiter nodes,sAB
+0,disease_on_genes,20,26,0.3382943143812709
+1,disease_on_symptoms,23,15,0.8344774980930589
+2,disease_on_drugs,17,16,0.9750445632798572

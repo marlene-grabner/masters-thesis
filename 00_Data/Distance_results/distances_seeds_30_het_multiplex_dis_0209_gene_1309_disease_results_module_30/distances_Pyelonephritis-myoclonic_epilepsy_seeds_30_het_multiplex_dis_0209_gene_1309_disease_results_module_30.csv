@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,24,30,0.0347222222222221
+1,disease_on_symptoms,19,16,1.6050751879699248
+2,disease_on_drugs,19,25,0.3096172248803828

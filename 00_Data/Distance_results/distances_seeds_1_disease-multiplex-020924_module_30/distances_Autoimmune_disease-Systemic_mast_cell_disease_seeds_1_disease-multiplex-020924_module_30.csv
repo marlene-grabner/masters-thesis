@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,22,29,0.28873932017948234
+1,disease_on_symptoms,19,16,1.7805451127819547
+2,disease_on_drugs,19,25,0.29186602870813405

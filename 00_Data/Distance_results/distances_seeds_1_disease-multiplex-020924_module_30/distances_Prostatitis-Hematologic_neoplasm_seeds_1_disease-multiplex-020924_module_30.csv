@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.31794871794871793
+1,disease_on_symptoms,20,24,0.8981060606060605
+2,disease_on_drugs,29,19,1.1102540834845736

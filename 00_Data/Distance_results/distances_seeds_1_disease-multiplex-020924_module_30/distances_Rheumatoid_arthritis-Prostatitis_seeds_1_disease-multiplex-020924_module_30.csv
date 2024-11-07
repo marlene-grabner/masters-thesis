@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,27,30,0.018128654970760216
+1,disease_on_symptoms,15,20,0.9369047619047617
+2,disease_on_drugs,25,29,0.6677394636015328

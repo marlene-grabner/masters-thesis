@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,28,0.2228835978835979
+1,disease_on_symptoms,22,19,1.8937740693196405
+2,disease_on_drugs,24,25,0.6534353741496599

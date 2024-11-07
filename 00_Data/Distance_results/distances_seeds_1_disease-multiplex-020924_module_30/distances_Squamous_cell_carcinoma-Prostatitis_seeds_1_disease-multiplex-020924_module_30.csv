@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Prostatitis nodes,sAB
+0,disease_on_genes,16,30,0.3952898550724637
+1,disease_on_symptoms,26,20,1.70309364548495
+2,disease_on_drugs,14,29,1.0352846832397757

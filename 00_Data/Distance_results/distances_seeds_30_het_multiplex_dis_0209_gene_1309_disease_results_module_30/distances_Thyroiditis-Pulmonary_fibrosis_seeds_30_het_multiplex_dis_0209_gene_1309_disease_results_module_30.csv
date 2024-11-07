@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,25,-0.18181818181818177
+1,disease_on_symptoms,21,22,-0.35696667673411864
+2,disease_on_drugs,29,25,-0.20089399744572156

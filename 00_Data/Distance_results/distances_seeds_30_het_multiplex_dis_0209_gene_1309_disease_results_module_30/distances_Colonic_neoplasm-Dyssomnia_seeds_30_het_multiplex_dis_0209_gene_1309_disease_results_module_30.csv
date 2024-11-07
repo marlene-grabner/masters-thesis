@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.025000000000000133
+1,disease_on_symptoms,19,21,2.162406015037594
+2,disease_on_drugs,29,17,0.2628097715847957

@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,0.1594541910331384
+1,disease_on_symptoms,20,14,1.3212184873949582
+2,disease_on_drugs,15,30,0.7000000000000002

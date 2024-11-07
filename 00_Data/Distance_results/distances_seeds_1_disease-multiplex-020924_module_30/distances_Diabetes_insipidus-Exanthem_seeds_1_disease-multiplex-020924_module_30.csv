@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Exanthem nodes,sAB
+0,disease_on_genes,24,28,0.3253205128205128
+1,disease_on_symptoms,18,26,1.1048951048951048
+2,disease_on_drugs,18,28,0.5908385093167703

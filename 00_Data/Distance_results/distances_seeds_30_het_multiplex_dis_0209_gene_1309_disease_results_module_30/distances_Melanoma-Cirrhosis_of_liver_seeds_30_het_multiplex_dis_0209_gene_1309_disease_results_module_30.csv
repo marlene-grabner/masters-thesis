@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.22904483430799227
+1,disease_on_symptoms,23,19,0.035305655442955164
+2,disease_on_drugs,25,30,-0.11030303030303013

@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.03321018062397352
+1,disease_on_symptoms,17,14,0.6656275413391164
+2,disease_on_drugs,27,28,0.2730399230399232

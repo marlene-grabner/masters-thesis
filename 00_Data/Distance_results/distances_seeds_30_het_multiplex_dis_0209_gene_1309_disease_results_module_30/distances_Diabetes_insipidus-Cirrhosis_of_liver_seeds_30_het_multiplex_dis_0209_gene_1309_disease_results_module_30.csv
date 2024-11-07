@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,20,19,0.3354251012145748
+2,disease_on_drugs,20,30,-0.07666666666666666

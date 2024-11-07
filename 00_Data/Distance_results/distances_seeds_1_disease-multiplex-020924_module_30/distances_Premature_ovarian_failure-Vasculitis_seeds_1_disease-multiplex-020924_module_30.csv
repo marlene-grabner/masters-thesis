@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Vasculitis nodes,sAB
+0,disease_on_genes,28,24,0.24839743589743568
+1,disease_on_symptoms,21,19,1.1521929824561403
+2,disease_on_drugs,21,20,0.5609175377468059

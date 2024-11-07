@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.3500000000000001
+1,disease_on_symptoms,16,24,1.0895833333333336
+2,disease_on_drugs,28,15,0.09756367663344423

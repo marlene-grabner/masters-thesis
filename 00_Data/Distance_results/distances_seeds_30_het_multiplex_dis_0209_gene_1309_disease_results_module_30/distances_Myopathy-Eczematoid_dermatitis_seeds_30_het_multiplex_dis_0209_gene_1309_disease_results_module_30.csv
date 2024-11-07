@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,23,30,0.018867924528301883
+1,disease_on_symptoms,22,25,0.3567117988394586
+2,disease_on_drugs,21,30,0.03683473389355729

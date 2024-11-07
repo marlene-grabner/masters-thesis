@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.2613132209405502
+1,disease_on_symptoms,21,15,0.44999999999999996
+2,disease_on_drugs,19,15,0.4627450980392156

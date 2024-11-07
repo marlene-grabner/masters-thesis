@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.1897274633123689
+1,disease_on_symptoms,19,15,1.3780185758513932
+2,disease_on_drugs,22,26,0.7854020979020979

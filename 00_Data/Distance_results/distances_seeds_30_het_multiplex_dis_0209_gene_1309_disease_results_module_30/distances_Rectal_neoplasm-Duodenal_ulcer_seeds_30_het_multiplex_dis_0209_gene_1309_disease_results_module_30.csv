@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.12011494252873556
+1,disease_on_symptoms,20,17,0.3483704292527823
+2,disease_on_drugs,29,28,-0.05331215970961889

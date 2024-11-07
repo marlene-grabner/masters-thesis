@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,-0.05732946298984021
+1,disease_on_symptoms,22,22,0.5909090909090913
+2,disease_on_drugs,25,27,0.021139601139601227

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.47457627118644075
+1,disease_on_symptoms,25,15,2.4766666666666666
+2,disease_on_drugs,7,29,1.2896825396825398

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,28,22,0.0685064935064934
+1,disease_on_symptoms,19,25,0.8366028708133975
+2,disease_on_drugs,26,18,0.2727272727272727

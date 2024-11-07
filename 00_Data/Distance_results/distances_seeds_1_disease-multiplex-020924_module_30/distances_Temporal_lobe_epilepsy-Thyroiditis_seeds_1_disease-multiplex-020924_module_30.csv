@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Thyroiditis nodes,sAB
+0,disease_on_genes,29,26,0.21492645285748724
+1,disease_on_symptoms,17,28,1.808986928104575
+2,disease_on_drugs,26,23,1.1631117329875091

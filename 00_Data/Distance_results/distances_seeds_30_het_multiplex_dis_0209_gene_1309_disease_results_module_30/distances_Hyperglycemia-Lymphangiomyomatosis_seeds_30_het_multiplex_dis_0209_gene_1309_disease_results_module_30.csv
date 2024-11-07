@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.2144688644688646
+1,disease_on_symptoms,17,17,0.5882352941176472
+2,disease_on_drugs,26,24,0.018782051282051127

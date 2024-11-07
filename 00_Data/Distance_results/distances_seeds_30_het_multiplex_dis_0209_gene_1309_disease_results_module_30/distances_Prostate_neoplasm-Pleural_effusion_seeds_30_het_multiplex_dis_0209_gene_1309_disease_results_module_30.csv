@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,21,30,-0.10224089635854339
+1,disease_on_symptoms,20,18,0.12763157894736832
+2,disease_on_drugs,21,27,0.09821428571428559

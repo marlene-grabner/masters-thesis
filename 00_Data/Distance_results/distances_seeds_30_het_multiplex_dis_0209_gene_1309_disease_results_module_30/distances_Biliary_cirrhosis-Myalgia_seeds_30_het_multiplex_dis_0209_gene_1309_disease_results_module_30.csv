@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,-0.019230769230769162
+1,disease_on_symptoms,22,16,1.2348983253588515
+2,disease_on_drugs,25,29,0.12416347381864634

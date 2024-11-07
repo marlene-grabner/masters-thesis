@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,0.1452380952380954
+1,disease_on_symptoms,14,21,1.1476190476190475
+2,disease_on_drugs,29,25,0.9970370370370372

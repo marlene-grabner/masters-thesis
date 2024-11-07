@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,29,30,0.11892655367231653
+1,disease_on_symptoms,23,18,0.36446918817014273
+2,disease_on_drugs,26,21,0.20984334814122052

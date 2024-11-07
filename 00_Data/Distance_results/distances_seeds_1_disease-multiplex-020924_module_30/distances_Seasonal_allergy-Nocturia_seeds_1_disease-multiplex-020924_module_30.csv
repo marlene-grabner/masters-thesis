@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Nocturia nodes,sAB
+0,disease_on_genes,29,21,0.33579638752052543
+1,disease_on_symptoms,15,24,1.3118589743589744
+2,disease_on_drugs,29,14,0.5965459961049375

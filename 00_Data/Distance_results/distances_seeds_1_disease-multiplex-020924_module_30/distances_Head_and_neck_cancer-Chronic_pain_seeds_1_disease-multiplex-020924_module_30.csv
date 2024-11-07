@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,0.08674463937621835
+1,disease_on_symptoms,22,22,1.3636363636363633
+2,disease_on_drugs,24,28,0.9404761904761905

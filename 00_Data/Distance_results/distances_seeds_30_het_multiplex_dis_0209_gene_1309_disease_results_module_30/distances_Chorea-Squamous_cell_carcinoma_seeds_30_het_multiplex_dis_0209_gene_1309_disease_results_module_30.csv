@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,22,1.1485328397093104
+2,disease_on_drugs,24,30,0.6319444444444442

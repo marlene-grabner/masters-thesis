@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,30,25,-0.054545454545454564
+1,disease_on_symptoms,13,17,0.25324283559577676
+2,disease_on_drugs,22,21,0.02096546863988724

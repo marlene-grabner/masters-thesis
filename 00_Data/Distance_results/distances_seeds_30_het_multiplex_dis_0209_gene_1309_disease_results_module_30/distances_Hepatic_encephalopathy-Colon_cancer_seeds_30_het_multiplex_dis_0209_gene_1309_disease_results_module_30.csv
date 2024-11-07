@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,14,22,0.3676046176046177
+2,disease_on_drugs,29,26,0.01847118398842551

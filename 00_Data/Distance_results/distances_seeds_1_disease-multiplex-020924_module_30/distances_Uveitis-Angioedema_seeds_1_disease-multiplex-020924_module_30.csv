@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,-0.27590311986863725
+1,disease_on_symptoms,21,17,-0.3735072976559046
+2,disease_on_drugs,27,25,-0.2877492877492879

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,23,27,0.15948470209339782
+1,disease_on_symptoms,19,20,1.4342442645074227
+2,disease_on_drugs,19,25,0.4545454545454546

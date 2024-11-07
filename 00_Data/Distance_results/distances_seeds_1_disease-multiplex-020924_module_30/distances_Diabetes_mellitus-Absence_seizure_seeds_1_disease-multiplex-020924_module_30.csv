@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,20,29,0.3222554539057003
+1,disease_on_symptoms,18,16,2.1221405228758172
+2,disease_on_drugs,19,22,0.9005134788189988

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,10,19,-0.037568058076224986
+2,disease_on_drugs,16,24,0.11874999999999991

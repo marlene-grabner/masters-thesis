@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,17,21,0.10393631136665182
+2,disease_on_drugs,28,30,0.050287356321838894

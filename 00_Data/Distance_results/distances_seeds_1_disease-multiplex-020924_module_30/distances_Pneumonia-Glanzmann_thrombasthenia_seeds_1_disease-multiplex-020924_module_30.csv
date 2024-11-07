@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.24212962962962958
+1,disease_on_symptoms,26,21,1.0772153378536355
+2,disease_on_drugs,28,24,0.7996794871794872

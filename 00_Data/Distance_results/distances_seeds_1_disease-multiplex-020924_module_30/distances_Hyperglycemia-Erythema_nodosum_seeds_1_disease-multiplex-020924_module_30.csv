@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.20857963875205243
+1,disease_on_symptoms,14,23,0.8641933859325164
+2,disease_on_drugs,26,28,0.5191798941798942

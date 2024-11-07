@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,15,27,0.08677248677248683
+1,disease_on_symptoms,27,16,0.1552810077519382
+2,disease_on_drugs,13,27,0.3379629629629628

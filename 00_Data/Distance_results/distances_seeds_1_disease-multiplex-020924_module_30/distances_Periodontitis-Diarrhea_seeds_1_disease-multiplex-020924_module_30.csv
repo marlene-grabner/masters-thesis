@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,23,27,-0.09780998389694018
+1,disease_on_symptoms,25,19,0.46956937799043064
+2,disease_on_drugs,22,26,0.058420745920745754

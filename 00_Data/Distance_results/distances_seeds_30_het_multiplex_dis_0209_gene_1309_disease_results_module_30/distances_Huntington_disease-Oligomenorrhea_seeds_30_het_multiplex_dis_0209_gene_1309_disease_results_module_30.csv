@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,17,11,0.04965622612681431
+2,disease_on_drugs,26,24,0.07961538461538464

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.038461538461538325
+1,disease_on_symptoms,17,22,0.6240573152337858
+2,disease_on_drugs,24,25,0.24355442176870756

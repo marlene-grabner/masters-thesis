@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,21,29,0.0844663382594415
+1,disease_on_symptoms,20,16,0.9819444444444447
+2,disease_on_drugs,19,22,0.29268292682926833

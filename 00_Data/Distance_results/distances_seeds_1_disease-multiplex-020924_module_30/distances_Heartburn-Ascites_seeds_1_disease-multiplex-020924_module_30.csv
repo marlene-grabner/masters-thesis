@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Ascites nodes,sAB
+0,disease_on_genes,24,30,-0.030092592592592338
+1,disease_on_symptoms,20,17,0.30822734499205096
+2,disease_on_drugs,22,27,0.3911049268192126

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,18,20,0.2536549707602338
+2,disease_on_drugs,30,29,0.10108123904149635

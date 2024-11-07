@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,-0.13725490196078427
+1,disease_on_symptoms,19,26,0.00047233468286100866
+2,disease_on_drugs,24,21,-0.22083333333333344

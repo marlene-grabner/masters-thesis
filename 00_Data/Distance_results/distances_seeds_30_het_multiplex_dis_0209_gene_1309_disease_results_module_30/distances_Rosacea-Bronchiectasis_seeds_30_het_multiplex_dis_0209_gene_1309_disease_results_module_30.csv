@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,18,19,0.4353959222380275
+2,disease_on_drugs,30,25,0.18303030303030288

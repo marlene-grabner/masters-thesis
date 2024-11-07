@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,24,-0.45833333333333337
+1,disease_on_symptoms,12,21,-0.8571428571428572
+2,disease_on_drugs,27,18,-0.5388888888888888

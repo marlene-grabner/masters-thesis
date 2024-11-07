@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,0.2569444444444442
+1,disease_on_symptoms,14,19,1.9813738892686263
+2,disease_on_drugs,21,19,0.5390977443609022

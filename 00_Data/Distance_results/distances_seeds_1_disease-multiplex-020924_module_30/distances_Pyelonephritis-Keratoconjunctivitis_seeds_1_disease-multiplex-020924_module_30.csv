@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,23,29,0.2809364548494986
+1,disease_on_symptoms,21,25,0.5150724637681161
+2,disease_on_drugs,19,27,0.42028985507246386

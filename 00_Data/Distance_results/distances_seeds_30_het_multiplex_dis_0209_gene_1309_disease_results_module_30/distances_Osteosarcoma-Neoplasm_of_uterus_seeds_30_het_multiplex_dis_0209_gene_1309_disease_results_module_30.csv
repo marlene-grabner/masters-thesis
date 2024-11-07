@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333317
+1,disease_on_symptoms,22,18,-0.13383838383838387
+2,disease_on_drugs,29,26,-0.18236074270557023

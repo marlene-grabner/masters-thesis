@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.07007797270955174
+1,disease_on_symptoms,15,23,0.6833714721586575
+2,disease_on_drugs,29,15,0.3054858934169278

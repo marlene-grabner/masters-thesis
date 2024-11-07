@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,28,21,0.09183673469387754
+1,disease_on_symptoms,23,26,0.7398471094123269
+2,disease_on_drugs,26,20,0.09197324414715724

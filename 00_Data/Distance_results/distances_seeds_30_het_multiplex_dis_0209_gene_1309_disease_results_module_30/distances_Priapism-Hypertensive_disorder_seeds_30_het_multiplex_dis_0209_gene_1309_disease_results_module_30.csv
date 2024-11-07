@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,12,21,0.02272727272727293
+2,disease_on_drugs,28,26,0.11436711436711433

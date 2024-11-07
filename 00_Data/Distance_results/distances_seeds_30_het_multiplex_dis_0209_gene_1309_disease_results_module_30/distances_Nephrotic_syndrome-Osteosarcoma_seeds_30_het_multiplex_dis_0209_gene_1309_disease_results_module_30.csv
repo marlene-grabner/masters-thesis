@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999984
+1,disease_on_symptoms,15,22,0.14889434889434905
+2,disease_on_drugs,28,29,-0.19334975369458118

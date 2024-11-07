@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,0.16798941798941813
+1,disease_on_symptoms,17,21,1.1500810850656051
+2,disease_on_drugs,25,28,0.6612668463611862

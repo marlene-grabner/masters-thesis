@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.14232977850697304
+1,disease_on_symptoms,19,20,1.7426788124156545
+2,disease_on_drugs,30,20,0.7150000000000001

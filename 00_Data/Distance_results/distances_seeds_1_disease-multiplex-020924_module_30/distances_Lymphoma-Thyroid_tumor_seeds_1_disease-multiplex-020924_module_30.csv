@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,-0.0028155074738924757
+1,disease_on_symptoms,21,20,0.43998257839721266
+2,disease_on_drugs,25,20,0.24611111111111117

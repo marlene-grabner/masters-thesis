@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Obesity nodes,sAB
+0,disease_on_genes,24,27,-0.34967320261437906
+1,disease_on_symptoms,23,18,-0.21868740426534683
+2,disease_on_drugs,22,25,-0.3369439071566732

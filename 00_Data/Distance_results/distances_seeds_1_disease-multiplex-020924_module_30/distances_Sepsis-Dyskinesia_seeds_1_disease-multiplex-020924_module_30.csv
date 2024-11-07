@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,22,24,0.16987812911725952
+1,disease_on_symptoms,23,17,1.2714833759590791
+2,disease_on_drugs,17,23,0.7661764705882352

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,-0.020000000000000018
+1,disease_on_symptoms,23,20,0.4873862487360969
+2,disease_on_drugs,26,22,0.17438811188811187

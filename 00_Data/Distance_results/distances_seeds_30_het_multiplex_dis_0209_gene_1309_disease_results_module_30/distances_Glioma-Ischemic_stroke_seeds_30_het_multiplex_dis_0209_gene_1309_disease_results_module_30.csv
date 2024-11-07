@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,22,30,0.05769230769230771
+1,disease_on_symptoms,21,16,0.7620656370656369
+2,disease_on_drugs,21,28,0.625

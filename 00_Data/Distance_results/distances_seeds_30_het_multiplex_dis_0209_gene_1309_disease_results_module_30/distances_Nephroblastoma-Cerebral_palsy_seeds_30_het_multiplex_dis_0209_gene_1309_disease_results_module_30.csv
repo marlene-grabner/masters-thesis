@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,29,30,0.06750438340151965
+1,disease_on_symptoms,20,13,1.40483682983683
+2,disease_on_drugs,24,21,-0.09186507936507926

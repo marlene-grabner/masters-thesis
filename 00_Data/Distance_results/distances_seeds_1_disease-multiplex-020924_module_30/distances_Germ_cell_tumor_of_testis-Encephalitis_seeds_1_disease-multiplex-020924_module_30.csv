@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,28,0.4370129870129871
+1,disease_on_symptoms,23,17,1.0881713554987213
+2,disease_on_drugs,20,18,1.0789473684210527

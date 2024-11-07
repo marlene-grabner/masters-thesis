@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,17,-0.08207934336525313
+1,disease_on_symptoms,21,24,0.8498015873015872
+2,disease_on_drugs,25,16,0.5354573170731707

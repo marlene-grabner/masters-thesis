@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,29,30,-0.11893629456458199
+1,disease_on_symptoms,20,16,-0.16111111111111098
+2,disease_on_drugs,24,29,-0.20991921492084153

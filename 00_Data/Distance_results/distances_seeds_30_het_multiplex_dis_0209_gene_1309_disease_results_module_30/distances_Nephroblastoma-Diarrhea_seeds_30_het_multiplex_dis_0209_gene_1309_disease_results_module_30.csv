@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,29,30,-0.03419053185271759
+1,disease_on_symptoms,20,21,0.577322880371661
+2,disease_on_drugs,24,29,0.030484168293211766

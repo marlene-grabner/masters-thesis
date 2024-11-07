@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.4142424242424243
+1,disease_on_symptoms,14,23,1.671185160315595
+2,disease_on_drugs,29,21,0.47238095238095235

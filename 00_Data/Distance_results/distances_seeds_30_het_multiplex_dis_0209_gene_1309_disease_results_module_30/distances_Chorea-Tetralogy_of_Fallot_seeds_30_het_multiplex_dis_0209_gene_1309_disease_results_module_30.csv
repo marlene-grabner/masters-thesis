@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,30,30,-0.10000000000000009
+1,disease_on_symptoms,17,19,0.36618507051943583
+2,disease_on_drugs,24,20,0.038257575757575824

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,25,21,0.7040993788819874
+2,disease_on_drugs,26,27,0.35847712734505177

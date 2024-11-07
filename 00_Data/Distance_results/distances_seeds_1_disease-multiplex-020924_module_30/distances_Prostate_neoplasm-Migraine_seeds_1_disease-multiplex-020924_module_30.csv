@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Migraine nodes,sAB
+0,disease_on_genes,17,30,0.06178556528994594
+1,disease_on_symptoms,21,14,1.361904761904762
+2,disease_on_drugs,17,29,0.7672634271099743

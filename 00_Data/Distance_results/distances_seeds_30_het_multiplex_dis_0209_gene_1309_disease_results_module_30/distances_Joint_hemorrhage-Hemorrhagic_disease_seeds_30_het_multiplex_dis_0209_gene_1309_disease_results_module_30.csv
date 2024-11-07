@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.2321428571428571
+1,disease_on_symptoms,17,19,-0.2850877192982457
+2,disease_on_drugs,26,24,-0.3061538461538462

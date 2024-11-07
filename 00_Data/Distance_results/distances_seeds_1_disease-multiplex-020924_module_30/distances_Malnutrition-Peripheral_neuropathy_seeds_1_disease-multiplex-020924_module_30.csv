@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,-0.1051282051282052
+1,disease_on_symptoms,18,20,-0.13274853801169573
+2,disease_on_drugs,23,24,0.022163120567376016

@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Cough nodes,sAB
+0,disease_on_genes,23,27,0.040000000000000036
+1,disease_on_symptoms,19,22,0.685289998833003
+2,disease_on_drugs,19,24,0.35546715626274983

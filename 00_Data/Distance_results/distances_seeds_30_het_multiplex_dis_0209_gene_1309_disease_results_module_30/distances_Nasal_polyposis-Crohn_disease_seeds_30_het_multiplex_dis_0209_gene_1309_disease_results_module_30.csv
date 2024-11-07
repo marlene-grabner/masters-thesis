@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,20,22,0.6595238095238094
+2,disease_on_drugs,25,24,0.06078231292517011

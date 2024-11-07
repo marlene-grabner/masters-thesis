@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,28,0.10941558441558441
+1,disease_on_symptoms,18,19,1.5197170855065594
+2,disease_on_drugs,22,25,0.2746228239845261

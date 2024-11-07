@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Prostatitis nodes,sAB
+0,disease_on_genes,26,30,-0.015842490842491008
+1,disease_on_symptoms,21,20,0.5101916376306619
+2,disease_on_drugs,26,29,0.25432843019049933

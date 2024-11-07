@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,13,17,0.1555052790346909
+2,disease_on_drugs,21,29,-0.3601313628899836

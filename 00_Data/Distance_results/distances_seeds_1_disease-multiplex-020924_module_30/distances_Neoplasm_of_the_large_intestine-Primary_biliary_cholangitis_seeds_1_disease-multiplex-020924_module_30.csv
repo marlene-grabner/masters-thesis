@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,20,26,0.17316053511705687
+1,disease_on_symptoms,25,17,0.2783753501400561
+2,disease_on_drugs,19,18,0.6455666192508298

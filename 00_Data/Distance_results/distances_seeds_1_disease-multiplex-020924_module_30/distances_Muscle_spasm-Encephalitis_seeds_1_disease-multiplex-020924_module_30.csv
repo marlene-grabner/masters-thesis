@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Encephalitis nodes,sAB
+0,disease_on_genes,25,28,0.430323450134771
+1,disease_on_symptoms,23,17,1.8414322250639388
+2,disease_on_drugs,19,18,1.0270270270270272

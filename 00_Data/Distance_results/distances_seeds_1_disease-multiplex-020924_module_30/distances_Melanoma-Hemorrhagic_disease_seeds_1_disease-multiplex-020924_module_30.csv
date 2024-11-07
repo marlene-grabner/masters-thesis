@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,24,24,0.27083333333333326
+1,disease_on_symptoms,23,19,1.7639206712433255
+2,disease_on_drugs,22,19,0.4069319640564828

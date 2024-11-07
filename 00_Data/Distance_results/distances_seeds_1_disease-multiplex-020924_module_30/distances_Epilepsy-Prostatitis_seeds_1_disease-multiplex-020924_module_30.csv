@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Prostatitis nodes,sAB
+0,disease_on_genes,29,30,0.3401129943502825
+1,disease_on_symptoms,18,20,1.2179824561403507
+2,disease_on_drugs,30,29,0.9996980323397622

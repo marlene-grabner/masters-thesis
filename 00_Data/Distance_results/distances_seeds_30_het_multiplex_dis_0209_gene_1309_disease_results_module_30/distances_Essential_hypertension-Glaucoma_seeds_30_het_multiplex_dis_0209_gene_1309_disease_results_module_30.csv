@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,-0.13735632183908042
+1,disease_on_symptoms,13,18,-0.07175351530190244
+2,disease_on_drugs,28,28,-0.0714285714285714

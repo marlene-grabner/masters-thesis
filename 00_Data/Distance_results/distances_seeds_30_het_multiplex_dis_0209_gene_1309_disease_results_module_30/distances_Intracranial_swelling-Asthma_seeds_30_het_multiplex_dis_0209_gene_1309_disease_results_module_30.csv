@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.052727272727272734
+1,disease_on_symptoms,11,20,1.8569648093841642
+2,disease_on_drugs,21,22,0.08912211819188576

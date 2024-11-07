@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Lymphoma nodes,sAB
+0,disease_on_genes,14,26,0.5450549450549451
+1,disease_on_symptoms,27,21,1.8551587301587302
+2,disease_on_drugs,8,25,1.2005303030303032

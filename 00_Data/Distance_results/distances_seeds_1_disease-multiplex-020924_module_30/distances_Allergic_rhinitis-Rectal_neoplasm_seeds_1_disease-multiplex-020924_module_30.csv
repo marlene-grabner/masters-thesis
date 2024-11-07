@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,21,30,0.21148459383753515
+1,disease_on_symptoms,22,21,1.0743481324876676
+2,disease_on_drugs,21,29,0.7026600985221674

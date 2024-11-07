@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.25364309370738347
+1,disease_on_symptoms,17,16,0.9223484848484849
+2,disease_on_drugs,26,22,0.6778846153846154

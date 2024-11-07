@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,-0.18867924528301883
+1,disease_on_symptoms,21,16,0.3355855855855854
+2,disease_on_drugs,26,25,0.1752790346907993

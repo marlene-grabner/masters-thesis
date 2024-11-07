@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,23,14,0.4343209669296626
+1,disease_on_symptoms,19,25,3.150526315789474
+2,disease_on_drugs,19,10,1.1568965517241379

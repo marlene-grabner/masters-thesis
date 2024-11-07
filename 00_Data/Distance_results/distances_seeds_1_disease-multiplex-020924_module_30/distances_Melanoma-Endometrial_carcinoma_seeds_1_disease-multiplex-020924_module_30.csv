@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,24,23,0.14754856614246092
+1,disease_on_symptoms,23,21,2.470402785620177
+2,disease_on_drugs,22,21,0.6960132890365449

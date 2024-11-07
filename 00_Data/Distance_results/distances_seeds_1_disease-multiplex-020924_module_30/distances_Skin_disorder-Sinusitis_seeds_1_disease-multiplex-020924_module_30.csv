@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Sinusitis nodes,sAB
+0,disease_on_genes,7,29,0.4006568144499181
+1,disease_on_symptoms,30,21,0.8913165266106444
+2,disease_on_drugs,6,28,0.7748599439775912

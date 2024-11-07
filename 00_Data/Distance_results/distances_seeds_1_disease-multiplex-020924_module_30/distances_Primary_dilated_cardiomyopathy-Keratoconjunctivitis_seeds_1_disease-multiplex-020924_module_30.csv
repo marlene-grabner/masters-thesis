@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.6610169491525424
+1,disease_on_symptoms,25,25,1.46
+2,disease_on_drugs,7,27,1.2619047619047619

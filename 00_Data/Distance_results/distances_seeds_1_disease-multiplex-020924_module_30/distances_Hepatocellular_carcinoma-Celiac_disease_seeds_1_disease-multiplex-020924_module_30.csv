@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,23,17,0.1476982097186701
+1,disease_on_symptoms,19,22,1.1983311938382541
+2,disease_on_drugs,19,15,0.11372549019607847

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,22,30,-0.05512820512820504
+1,disease_on_symptoms,21,19,0.6607142857142856
+2,disease_on_drugs,21,29,0.31960591133004934

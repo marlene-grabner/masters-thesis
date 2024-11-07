@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.0011904761904761862
+1,disease_on_symptoms,21,23,0.963297571993224
+2,disease_on_drugs,29,26,0.250856040511213

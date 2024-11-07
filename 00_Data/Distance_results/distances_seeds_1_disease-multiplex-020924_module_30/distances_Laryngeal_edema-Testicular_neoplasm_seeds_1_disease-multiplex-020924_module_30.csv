@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.05090909090909079
+1,disease_on_symptoms,20,25,0.7444444444444445
+2,disease_on_drugs,28,23,0.31471501644135924

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,26,30,0.1923076923076923
+1,disease_on_symptoms,19,20,0.9299595141700405
+2,disease_on_drugs,24,28,0.42559523809523814

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.5923436586791351
+1,disease_on_symptoms,25,16,2.6511585365853656
+2,disease_on_drugs,7,22,0.997536945812808

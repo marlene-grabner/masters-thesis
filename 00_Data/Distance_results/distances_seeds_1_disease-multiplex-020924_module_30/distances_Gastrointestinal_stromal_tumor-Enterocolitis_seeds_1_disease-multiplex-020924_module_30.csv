@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,23,27,0.2527858293075682
+1,disease_on_symptoms,20,21,0.7605110336817653
+2,disease_on_drugs,19,24,0.700096899224806

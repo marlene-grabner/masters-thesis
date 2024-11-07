@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,26,0.21153846153846145
+1,disease_on_symptoms,20,19,1.4619095816464238
+2,disease_on_drugs,25,23,0.7907608695652173

@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,12,-0.02029914529914545
+1,disease_on_symptoms,15,27,-0.25608465608465614
+2,disease_on_drugs,25,9,-0.3958169934640523

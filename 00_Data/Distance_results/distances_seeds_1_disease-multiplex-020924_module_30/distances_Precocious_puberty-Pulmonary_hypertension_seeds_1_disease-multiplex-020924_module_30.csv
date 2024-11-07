@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.17294745484400642
+1,disease_on_symptoms,14,20,0.8907563025210083
+2,disease_on_drugs,24,28,0.8269230769230769

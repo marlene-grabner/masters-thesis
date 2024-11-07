@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.4734892787524365
+1,disease_on_symptoms,22,20,1.5141774891774893
+2,disease_on_drugs,15,25,0.575

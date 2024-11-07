@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,11,11,0.4545454545454546
+2,disease_on_drugs,21,24,-0.071031746031746

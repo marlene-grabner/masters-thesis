@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Anorexia nodes,sAB
+0,disease_on_genes,23,17,0.2171355498721228
+1,disease_on_symptoms,21,25,0.5611594202898551
+2,disease_on_drugs,19,13,0.6177884615384617

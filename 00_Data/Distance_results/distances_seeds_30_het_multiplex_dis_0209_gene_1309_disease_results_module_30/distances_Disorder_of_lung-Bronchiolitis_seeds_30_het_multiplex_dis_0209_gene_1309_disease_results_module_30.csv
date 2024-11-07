@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,27,28,-0.07272727272727275
+1,disease_on_symptoms,18,25,0.3311886304909559
+2,disease_on_drugs,24,24,-0.18749999999999978

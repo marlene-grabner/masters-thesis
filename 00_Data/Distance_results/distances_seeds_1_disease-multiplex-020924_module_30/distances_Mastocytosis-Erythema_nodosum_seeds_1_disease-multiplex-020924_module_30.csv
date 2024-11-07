@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,18,28,-0.045634920634920695
+1,disease_on_symptoms,28,23,0.3992357812690295
+2,disease_on_drugs,17,28,-0.07668067226890773

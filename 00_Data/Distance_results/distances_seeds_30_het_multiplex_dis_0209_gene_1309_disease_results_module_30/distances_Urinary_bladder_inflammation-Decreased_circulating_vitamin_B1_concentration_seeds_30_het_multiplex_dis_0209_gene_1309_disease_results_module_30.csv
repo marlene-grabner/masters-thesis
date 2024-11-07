@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,16,17,0.02690508021390392
+2,disease_on_drugs,29,25,-0.0606130268199232

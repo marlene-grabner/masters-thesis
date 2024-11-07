@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,28,28,-0.08928571428571452
+1,disease_on_symptoms,15,18,1.2414141414141415
+2,disease_on_drugs,23,26,0.26202989557026846

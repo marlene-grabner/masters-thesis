@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,22,22,0.5131883620255713
+1,disease_on_symptoms,20,19,2.000371120107962
+2,disease_on_drugs,19,19,0.7894736842105263

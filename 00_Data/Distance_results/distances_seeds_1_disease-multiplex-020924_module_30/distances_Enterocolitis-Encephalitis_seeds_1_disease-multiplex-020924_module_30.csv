@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,28,-0.16332371332371332
+1,disease_on_symptoms,21,17,0.09892378003833113
+2,disease_on_drugs,24,18,-0.02083333333333348

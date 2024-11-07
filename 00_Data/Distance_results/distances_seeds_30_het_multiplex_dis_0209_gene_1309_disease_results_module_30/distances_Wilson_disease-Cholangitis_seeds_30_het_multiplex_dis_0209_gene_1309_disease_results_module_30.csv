@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,30,-0.19999999999999996
+1,disease_on_symptoms,19,18,-0.8107712976134029
+2,disease_on_drugs,22,28,-0.25064935064935057

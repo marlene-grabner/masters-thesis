@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,-0.2836257309941521
+1,disease_on_symptoms,18,17,0.006909430438842401
+2,disease_on_drugs,25,29,-0.32669220945083033

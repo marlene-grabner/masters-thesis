@@ -1,0 +1,4 @@
+,Layer,Renovascular_hypertension nodes,Glaucoma nodes,sAB
+0,disease_on_genes,21,30,0.06218487394957983
+1,disease_on_symptoms,22,14,0.8932178932178929
+2,disease_on_drugs,20,30,0.2416666666666667

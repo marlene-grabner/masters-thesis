@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,26,29,-0.4032553653243309
+1,disease_on_symptoms,28,23,-0.5077791986359762
+2,disease_on_drugs,23,27,-0.4387761674718197

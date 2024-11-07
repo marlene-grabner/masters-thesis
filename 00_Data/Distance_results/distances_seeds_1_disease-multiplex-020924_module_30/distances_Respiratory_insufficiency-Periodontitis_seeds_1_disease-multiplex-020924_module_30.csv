@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Periodontitis nodes,sAB
+0,disease_on_genes,25,23,0.3322826086956523
+1,disease_on_symptoms,20,25,1.0238888888888886
+2,disease_on_drugs,14,22,0.13023088023088025

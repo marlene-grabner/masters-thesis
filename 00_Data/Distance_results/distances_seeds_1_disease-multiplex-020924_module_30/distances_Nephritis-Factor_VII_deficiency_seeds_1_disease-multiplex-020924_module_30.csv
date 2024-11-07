@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.1399999999999999
+1,disease_on_symptoms,18,23,2.074790856604218
+2,disease_on_drugs,27,21,0.35978835978835977

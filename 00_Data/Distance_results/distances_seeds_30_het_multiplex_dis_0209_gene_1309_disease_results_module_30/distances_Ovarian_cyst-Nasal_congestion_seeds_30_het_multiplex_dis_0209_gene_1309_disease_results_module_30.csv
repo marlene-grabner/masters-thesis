@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666654
+1,disease_on_symptoms,19,14,-0.08082706766917314
+2,disease_on_drugs,24,25,-0.04010204081632662

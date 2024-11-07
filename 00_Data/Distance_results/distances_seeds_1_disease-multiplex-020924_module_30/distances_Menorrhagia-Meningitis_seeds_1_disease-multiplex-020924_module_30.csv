@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.1996744634675669
+1,disease_on_symptoms,19,20,1.6164979757085018
+2,disease_on_drugs,24,26,0.6391666666666664

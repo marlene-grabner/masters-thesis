@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Purpura nodes,sAB
+0,disease_on_genes,30,27,-0.08869395711500982
+1,disease_on_symptoms,18,17,0.373015873015873
+2,disease_on_drugs,30,24,-0.052314814814814925

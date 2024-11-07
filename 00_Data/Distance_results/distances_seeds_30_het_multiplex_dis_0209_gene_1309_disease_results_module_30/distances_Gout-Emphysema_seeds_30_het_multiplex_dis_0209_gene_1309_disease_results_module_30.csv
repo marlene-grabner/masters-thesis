@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Emphysema nodes,sAB
+0,disease_on_genes,28,30,-0.1385467980295566
+1,disease_on_symptoms,19,18,-0.05097202465623507
+2,disease_on_drugs,22,27,-0.07410843125128852

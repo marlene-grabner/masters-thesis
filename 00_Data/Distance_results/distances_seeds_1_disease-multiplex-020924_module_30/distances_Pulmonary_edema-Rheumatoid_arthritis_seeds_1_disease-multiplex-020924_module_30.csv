@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,27,0.24269005847953218
+1,disease_on_symptoms,14,15,1.899589490968801
+2,disease_on_drugs,27,25,0.6160398860398859

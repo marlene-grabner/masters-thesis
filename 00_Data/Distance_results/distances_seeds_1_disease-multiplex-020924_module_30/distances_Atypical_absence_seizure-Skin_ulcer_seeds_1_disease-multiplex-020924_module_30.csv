@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,29,30,0.23926553672316375
+1,disease_on_symptoms,15,19,2.4898864809081527
+2,disease_on_drugs,27,22,1.3414416271559126

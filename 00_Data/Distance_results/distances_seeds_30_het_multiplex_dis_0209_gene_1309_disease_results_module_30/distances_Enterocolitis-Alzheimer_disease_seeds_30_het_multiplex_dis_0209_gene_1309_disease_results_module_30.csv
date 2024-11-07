@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,23,-0.14
+1,disease_on_symptoms,21,19,0.6296992481203008
+2,disease_on_drugs,25,19,-0.007224880382775023

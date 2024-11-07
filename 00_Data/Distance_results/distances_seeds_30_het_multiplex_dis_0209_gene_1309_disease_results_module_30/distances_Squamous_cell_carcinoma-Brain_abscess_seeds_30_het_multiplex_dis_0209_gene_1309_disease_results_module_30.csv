@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,22,21,0.7482381959126145
+2,disease_on_drugs,30,23,0.10336341263330584

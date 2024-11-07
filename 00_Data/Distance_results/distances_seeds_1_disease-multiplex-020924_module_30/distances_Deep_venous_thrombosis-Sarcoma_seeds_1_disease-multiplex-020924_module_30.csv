@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,25,0.3217654986522911
+1,disease_on_symptoms,14,26,1.693956043956044
+2,disease_on_drugs,24,21,1.088888888888889

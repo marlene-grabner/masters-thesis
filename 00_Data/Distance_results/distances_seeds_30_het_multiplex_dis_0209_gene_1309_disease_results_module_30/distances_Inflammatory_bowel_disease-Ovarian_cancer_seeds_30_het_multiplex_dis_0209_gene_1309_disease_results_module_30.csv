@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,20,17,0.343759936406995
+2,disease_on_drugs,27,17,0.06570608041196269

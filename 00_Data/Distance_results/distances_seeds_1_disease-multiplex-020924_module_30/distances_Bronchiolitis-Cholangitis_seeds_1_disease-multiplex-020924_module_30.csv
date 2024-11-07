@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,23,27,-0.4158132045088566
+1,disease_on_symptoms,25,22,-0.42947775628626683
+2,disease_on_drugs,18,26,-0.46969696969696983

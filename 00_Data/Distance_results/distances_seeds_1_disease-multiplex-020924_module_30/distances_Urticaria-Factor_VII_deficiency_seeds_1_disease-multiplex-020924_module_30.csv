@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,10,25,0.5971428571428572
+1,disease_on_symptoms,27,23,2.5737520128824474
+2,disease_on_drugs,9,21,0.9857142857142855

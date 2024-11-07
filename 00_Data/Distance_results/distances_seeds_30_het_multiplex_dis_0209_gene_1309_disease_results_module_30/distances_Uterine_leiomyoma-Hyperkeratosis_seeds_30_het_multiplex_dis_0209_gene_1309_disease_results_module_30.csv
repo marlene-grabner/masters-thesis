@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.10851648351648346
+1,disease_on_symptoms,20,25,0.06611111111111101
+2,disease_on_drugs,28,25,-0.11066037735849066

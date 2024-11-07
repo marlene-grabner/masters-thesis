@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Orchitis nodes,sAB
+0,disease_on_genes,14,23,0.6399613899613901
+1,disease_on_symptoms,25,16,2.734969512195122
+2,disease_on_drugs,10,17,0.8541394335511983

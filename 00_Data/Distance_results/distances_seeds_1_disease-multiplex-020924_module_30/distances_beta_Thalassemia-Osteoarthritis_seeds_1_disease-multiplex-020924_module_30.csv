@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,22,25,0.42245647969052214
+1,disease_on_symptoms,21,20,1.4353077816492452
+2,disease_on_drugs,6,21,0.462962962962963

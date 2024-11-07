@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.10416666666666663
+1,disease_on_symptoms,12,21,0.8344155844155845
+2,disease_on_drugs,21,17,-0.22784903435058235

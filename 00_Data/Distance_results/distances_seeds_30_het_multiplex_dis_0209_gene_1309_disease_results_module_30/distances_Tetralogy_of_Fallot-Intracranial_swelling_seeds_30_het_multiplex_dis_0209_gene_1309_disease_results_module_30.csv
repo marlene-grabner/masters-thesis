@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,19,11,0.04752791068580553
+2,disease_on_drugs,20,21,-0.2691347270615563

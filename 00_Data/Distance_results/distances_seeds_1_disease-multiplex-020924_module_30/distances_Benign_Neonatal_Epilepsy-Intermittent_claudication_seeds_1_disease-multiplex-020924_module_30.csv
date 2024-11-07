@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,20,0.3739795918367348
+1,disease_on_symptoms,16,24,2.3229166666666665
+2,disease_on_drugs,26,18,0.7752525252525253

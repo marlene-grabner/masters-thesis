@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,16,23,0.399526198439242
+1,disease_on_symptoms,26,25,1.8250075414781297
+2,disease_on_drugs,14,22,0.8484848484848484

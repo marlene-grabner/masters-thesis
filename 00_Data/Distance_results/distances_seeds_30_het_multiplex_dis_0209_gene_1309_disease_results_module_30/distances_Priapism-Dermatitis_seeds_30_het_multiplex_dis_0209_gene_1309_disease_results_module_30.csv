@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,12,14,-0.4194139194139195
+2,disease_on_drugs,28,28,-0.05357142857142838

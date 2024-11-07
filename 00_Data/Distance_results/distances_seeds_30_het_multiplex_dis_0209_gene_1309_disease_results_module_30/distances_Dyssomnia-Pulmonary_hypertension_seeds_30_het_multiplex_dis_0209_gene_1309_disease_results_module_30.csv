@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,18,28,-0.08695652173913049
+1,disease_on_symptoms,21,18,2.4832112332112337
+2,disease_on_drugs,17,27,-0.09566250742721327

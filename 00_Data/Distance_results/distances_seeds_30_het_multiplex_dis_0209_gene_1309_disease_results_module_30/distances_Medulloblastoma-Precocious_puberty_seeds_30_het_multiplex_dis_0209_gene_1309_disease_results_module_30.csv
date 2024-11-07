@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,-0.2807017543859649
+1,disease_on_symptoms,22,16,-0.31818181818181834
+2,disease_on_drugs,26,27,-0.16986507552545294

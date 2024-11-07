@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.034990253411306016
+1,disease_on_symptoms,15,27,0.2756613756613757
+2,disease_on_drugs,29,26,0.2352061731372077

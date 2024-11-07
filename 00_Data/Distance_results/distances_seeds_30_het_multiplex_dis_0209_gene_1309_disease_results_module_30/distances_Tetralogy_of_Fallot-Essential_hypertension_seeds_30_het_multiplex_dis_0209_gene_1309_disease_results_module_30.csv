@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.036206896551724155
+1,disease_on_symptoms,19,13,0.4085273279352226
+2,disease_on_drugs,20,28,-0.12380952380952381

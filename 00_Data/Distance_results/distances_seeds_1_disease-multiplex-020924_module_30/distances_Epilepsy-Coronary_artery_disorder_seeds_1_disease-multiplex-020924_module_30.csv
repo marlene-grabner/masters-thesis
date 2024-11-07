@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,19,0.3070175438596492
+1,disease_on_symptoms,18,21,2.097985347985348
+2,disease_on_drugs,30,17,1.068439716312057

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,14,17,0.31885334779072894
+2,disease_on_drugs,26,24,-0.23801282051282047

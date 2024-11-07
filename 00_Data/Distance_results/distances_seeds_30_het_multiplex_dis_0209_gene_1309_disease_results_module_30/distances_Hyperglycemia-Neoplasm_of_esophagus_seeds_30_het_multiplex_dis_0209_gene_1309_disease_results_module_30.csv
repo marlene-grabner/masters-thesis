@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,30,29,-0.2033995714007404
+1,disease_on_symptoms,17,20,0.620429252782194
+2,disease_on_drugs,26,25,-0.017345399698340813

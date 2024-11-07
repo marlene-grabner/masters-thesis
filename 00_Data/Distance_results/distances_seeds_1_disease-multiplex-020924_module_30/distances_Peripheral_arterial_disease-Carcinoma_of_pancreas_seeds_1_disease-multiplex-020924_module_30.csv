@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,25,23,0.3766666666666667
+1,disease_on_symptoms,14,25,0.7982051282051281
+2,disease_on_drugs,22,21,1.1860465116279069

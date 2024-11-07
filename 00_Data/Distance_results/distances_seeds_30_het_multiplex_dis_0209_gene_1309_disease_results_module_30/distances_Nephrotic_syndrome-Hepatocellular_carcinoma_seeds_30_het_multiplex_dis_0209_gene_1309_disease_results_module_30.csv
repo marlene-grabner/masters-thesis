@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,24,-0.11111111111111116
+1,disease_on_symptoms,15,23,0.47276887871853557
+2,disease_on_drugs,28,22,-0.15259740259740262

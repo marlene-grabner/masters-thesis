@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Emphysema nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,21,18,0.3351648351648351
+2,disease_on_drugs,25,27,-0.0609401709401709

@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,0.3901098901098903
+1,disease_on_symptoms,21,12,0.972943722943723
+2,disease_on_drugs,24,22,0.8722826086956521

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,29,30,0.27118644067796605
+1,disease_on_symptoms,14,19,0.48883572567783107
+2,disease_on_drugs,22,25,0.3548549323017409

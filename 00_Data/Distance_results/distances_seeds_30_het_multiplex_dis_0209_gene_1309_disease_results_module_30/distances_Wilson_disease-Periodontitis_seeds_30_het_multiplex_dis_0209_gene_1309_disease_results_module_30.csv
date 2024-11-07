@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Periodontitis nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,19,21,-0.05939849624060156
+2,disease_on_drugs,22,28,-0.03707792207792204

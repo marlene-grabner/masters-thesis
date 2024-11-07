@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,20,16,-0.00972222222222241
+2,disease_on_drugs,25,24,0.0803571428571428

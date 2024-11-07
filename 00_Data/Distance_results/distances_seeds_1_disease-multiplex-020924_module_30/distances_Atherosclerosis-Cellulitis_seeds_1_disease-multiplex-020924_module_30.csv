@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.4565826330532212
+1,disease_on_symptoms,13,26,1.2564102564102566
+2,disease_on_drugs,29,12,1.1219512195121952

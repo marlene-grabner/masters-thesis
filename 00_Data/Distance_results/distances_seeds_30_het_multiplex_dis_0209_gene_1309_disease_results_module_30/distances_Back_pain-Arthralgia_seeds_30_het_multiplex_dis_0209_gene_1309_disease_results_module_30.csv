@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,15,17,-0.2959558823529411
+2,disease_on_drugs,23,30,-0.39659557013945856

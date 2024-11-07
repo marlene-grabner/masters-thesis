@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Pain nodes,sAB
+0,disease_on_genes,28,26,0.03759666259666239
+1,disease_on_symptoms,14,21,0.6285714285714288
+2,disease_on_drugs,28,26,0.18579568579568573

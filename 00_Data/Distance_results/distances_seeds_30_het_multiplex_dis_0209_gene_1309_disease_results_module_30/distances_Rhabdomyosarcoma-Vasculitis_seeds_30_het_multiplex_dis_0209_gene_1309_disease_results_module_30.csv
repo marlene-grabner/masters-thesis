@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,26,-0.036363636363636376
+1,disease_on_symptoms,19,18,0.9711158526948003
+2,disease_on_drugs,29,26,0.3438630335182058

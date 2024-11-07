@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,28,27,-0.03670033670033679
+1,disease_on_symptoms,17,19,0.4095287237702099
+2,disease_on_drugs,19,24,-0.02950326397388814

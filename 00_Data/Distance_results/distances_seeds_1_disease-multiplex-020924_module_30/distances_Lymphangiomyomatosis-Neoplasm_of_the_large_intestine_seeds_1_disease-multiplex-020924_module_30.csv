@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,26,20,-0.046739130434782505
+1,disease_on_symptoms,19,25,0.4632057416267943
+2,disease_on_drugs,22,19,-0.019926479169098066

@@ -1,0 +1,4 @@
+,Layer,Hemorrhagic_disease nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,24,30,0.29583333333333317
+1,disease_on_symptoms,19,16,0.5484962406015037
+2,disease_on_drugs,19,23,0.9744469870327992

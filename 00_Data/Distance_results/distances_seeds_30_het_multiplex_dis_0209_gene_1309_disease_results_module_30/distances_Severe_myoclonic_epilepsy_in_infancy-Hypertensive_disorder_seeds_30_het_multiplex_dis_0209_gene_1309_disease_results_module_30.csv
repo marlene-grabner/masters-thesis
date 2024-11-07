@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,14,21,1.245238095238095
+2,disease_on_drugs,21,26,0.46253214870236126

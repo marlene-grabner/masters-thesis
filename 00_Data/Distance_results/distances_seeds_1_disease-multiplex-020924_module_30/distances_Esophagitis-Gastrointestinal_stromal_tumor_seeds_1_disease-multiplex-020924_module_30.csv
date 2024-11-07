@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,24,23,0.08695652173913038
+1,disease_on_symptoms,23,20,0.29443882709807867
+2,disease_on_drugs,20,19,0.3339743589743591

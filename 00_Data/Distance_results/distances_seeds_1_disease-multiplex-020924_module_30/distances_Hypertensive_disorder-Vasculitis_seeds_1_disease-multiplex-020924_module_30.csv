@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,-0.14083333333333348
+1,disease_on_symptoms,15,19,0.26150670794633646
+2,disease_on_drugs,26,20,-0.13695652173913053

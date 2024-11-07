@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.30507500487044603
+1,disease_on_symptoms,17,15,1.1542892156862745
+2,disease_on_drugs,30,21,1.1330532212885154

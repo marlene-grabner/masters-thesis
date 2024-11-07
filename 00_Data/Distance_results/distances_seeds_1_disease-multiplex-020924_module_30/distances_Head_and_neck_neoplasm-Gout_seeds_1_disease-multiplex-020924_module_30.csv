@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Gout nodes,sAB
+0,disease_on_genes,30,25,0.08696969696969692
+1,disease_on_symptoms,20,18,0.8649122807017546
+2,disease_on_drugs,27,23,0.6200000000000001

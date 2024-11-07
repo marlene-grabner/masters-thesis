@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,15,17,1.3145833333333332
+2,disease_on_drugs,29,26,0.25682421027248625

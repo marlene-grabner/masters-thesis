@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,20,18,0.10687134502923978
+2,disease_on_drugs,25,26,-0.07773755656108605

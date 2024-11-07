@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Hypertrophic_cardiomyopathy nodes,sAB
+0,disease_on_genes,25,30,-0.05303030303030298
+1,disease_on_symptoms,13,19,0.8223684210526319
+2,disease_on_drugs,21,22,-0.04399476492499743

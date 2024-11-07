@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,17,28,0.060876623376623584
+1,disease_on_symptoms,27,25,0.4534472934472935
+2,disease_on_drugs,14,23,-0.01985059593755234

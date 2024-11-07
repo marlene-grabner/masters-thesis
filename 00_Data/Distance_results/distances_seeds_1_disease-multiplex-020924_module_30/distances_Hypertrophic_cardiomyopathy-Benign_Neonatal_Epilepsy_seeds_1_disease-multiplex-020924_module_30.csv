@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,30,29,0.3903954802259888
+1,disease_on_symptoms,17,16,2.704935383244207
+2,disease_on_drugs,17,26,0.8139534883720929

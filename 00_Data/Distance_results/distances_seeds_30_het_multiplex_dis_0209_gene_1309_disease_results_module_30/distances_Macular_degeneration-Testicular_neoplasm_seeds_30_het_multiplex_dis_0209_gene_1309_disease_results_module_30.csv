@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.017878787878787827
+1,disease_on_symptoms,17,26,0.37509207618646734
+2,disease_on_drugs,17,24,0.2179579148732662

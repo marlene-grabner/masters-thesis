@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Glaucoma nodes,sAB
+0,disease_on_genes,25,30,-0.20030303030303032
+1,disease_on_symptoms,26,18,-0.3449883449883451
+2,disease_on_drugs,24,28,0.0032051282051279717

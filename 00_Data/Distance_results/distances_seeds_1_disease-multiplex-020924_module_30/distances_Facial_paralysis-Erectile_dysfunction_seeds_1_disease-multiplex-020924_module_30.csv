@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,14,30,0.009307359307359153
+1,disease_on_symptoms,23,16,1.4769021739130435
+2,disease_on_drugs,14,30,0.6090909090909091

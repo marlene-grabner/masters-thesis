@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.13587570621468936
+1,disease_on_symptoms,17,18,0.5429971988795519
+2,disease_on_drugs,27,28,0.32718855218855203

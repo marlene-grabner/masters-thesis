@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Orchitis nodes,sAB
+0,disease_on_genes,29,25,0.09259259259259256
+1,disease_on_symptoms,14,19,0.2647527910685805
+2,disease_on_drugs,22,25,0.16336557059961332

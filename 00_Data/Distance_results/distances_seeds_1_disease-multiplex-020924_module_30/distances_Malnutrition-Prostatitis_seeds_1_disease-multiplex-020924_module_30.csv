@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Prostatitis nodes,sAB
+0,disease_on_genes,26,30,0.1448717948717948
+1,disease_on_symptoms,18,20,0.9738304093567252
+2,disease_on_drugs,23,29,0.42705570291777195

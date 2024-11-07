@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.32249417249417256
+1,disease_on_symptoms,12,20,2.1770833333333335
+2,disease_on_drugs,17,19,0.6650326797385622

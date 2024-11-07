@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,22,17,0.29836829836829826
+2,disease_on_drugs,25,30,0.05212121212121201

@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,16,0.322644927536232
+1,disease_on_symptoms,16,21,2.5318130630630633
+2,disease_on_drugs,23,15,1.0926773455377576

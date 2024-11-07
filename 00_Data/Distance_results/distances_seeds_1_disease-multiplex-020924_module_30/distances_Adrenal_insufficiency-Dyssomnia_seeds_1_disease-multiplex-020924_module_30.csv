@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,17,18,0.1983193277310924
+1,disease_on_symptoms,21,21,3.833333333333333
+2,disease_on_drugs,14,17,0.9440227703984818

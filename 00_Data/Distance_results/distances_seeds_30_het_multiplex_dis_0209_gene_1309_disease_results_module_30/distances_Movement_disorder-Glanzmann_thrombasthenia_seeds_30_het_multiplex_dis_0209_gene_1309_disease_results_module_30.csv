@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.09074074074074068
+1,disease_on_symptoms,17,19,0.6893704850361195
+2,disease_on_drugs,26,24,0.08749999999999991

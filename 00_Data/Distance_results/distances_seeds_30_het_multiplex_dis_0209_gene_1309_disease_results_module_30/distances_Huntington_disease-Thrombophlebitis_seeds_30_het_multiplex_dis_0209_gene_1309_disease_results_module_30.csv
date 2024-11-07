@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,18,0.37563025210084033
+2,disease_on_drugs,26,29,0.054834820352061886

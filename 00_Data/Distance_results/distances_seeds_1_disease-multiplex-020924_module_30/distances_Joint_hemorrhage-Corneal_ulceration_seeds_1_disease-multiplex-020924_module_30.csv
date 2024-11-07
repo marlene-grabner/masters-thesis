@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.3631773399014777
+1,disease_on_symptoms,13,19,1.3203441295546559
+2,disease_on_drugs,18,26,0.803030303030303

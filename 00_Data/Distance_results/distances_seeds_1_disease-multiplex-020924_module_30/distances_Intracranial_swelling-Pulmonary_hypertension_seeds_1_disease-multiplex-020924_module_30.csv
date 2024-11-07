@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.17237274220032828
+1,disease_on_symptoms,14,20,0.5756302521008405
+2,disease_on_drugs,24,28,0.28685897435897423

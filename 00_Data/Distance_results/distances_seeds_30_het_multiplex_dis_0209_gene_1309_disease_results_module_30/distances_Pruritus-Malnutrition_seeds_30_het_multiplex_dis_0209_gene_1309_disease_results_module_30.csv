@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Malnutrition nodes,sAB
+0,disease_on_genes,27,30,-0.1413255360623783
+1,disease_on_symptoms,21,14,0.4285714285714284
+2,disease_on_drugs,27,29,0.07247765006385709

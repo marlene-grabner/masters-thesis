@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.49196366177498274
+1,disease_on_symptoms,19,15,1.263467492260062
+2,disease_on_drugs,20,15,0.7654761904761904

@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Vasculitis nodes,sAB
+0,disease_on_genes,28,26,-0.05555555555555558
+1,disease_on_symptoms,13,18,1.200647918389854
+2,disease_on_drugs,28,26,0.12932437932437924

@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.10623781676413269
+1,disease_on_symptoms,16,14,1.317559523809524
+2,disease_on_drugs,30,26,0.14587912087912103

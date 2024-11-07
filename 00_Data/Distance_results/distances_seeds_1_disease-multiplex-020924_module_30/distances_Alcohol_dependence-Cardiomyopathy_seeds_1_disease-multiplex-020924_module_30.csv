@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,12,25,0.3507657657657659
+1,disease_on_symptoms,27,17,1.2183105565458505
+2,disease_on_drugs,9,24,0.6351010101010102

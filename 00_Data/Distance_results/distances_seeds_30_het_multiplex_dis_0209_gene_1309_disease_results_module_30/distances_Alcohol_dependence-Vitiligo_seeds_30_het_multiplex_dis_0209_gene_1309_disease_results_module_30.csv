@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333215
+1,disease_on_symptoms,18,19,-0.25786312628417885
+2,disease_on_drugs,24,25,0.0619727891156463

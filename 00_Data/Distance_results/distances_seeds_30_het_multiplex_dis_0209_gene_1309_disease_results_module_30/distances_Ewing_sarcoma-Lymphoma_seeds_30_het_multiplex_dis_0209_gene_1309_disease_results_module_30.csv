@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,17,20,-0.2664546899841018
+2,disease_on_drugs,24,24,-0.14583333333333326

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.368421052631579
+1,disease_on_symptoms,21,22,-0.46214638075103176
+2,disease_on_drugs,27,26,-0.30298876525291596

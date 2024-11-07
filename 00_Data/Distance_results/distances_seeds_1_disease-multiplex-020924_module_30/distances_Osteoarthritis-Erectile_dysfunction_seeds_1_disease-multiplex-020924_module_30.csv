@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,0.1996969696969697
+1,disease_on_symptoms,20,16,1.1090277777777777
+2,disease_on_drugs,21,30,0.5774509803921568

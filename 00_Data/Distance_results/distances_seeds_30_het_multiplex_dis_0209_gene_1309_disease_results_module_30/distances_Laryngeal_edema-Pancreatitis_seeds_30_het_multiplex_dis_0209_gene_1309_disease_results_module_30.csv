@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,16,17,-0.3892045454545454
+2,disease_on_drugs,28,30,-0.396264367816092

@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,28,27,0.2541967291967291
+1,disease_on_symptoms,24,19,0.8839759281925743
+2,disease_on_drugs,28,27,0.3824675324675326

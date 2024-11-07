@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Stomatitis nodes,sAB
+0,disease_on_genes,29,30,0.3398305084745763
+1,disease_on_symptoms,18,23,2.241192411924119
+2,disease_on_drugs,22,30,0.8423076923076922

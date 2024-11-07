@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,-0.38054187192118216
+1,disease_on_symptoms,22,21,-0.5356136111950064
+2,disease_on_drugs,29,28,-0.3499913577046063

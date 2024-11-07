@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.23411764705882354
+1,disease_on_symptoms,17,23,1.9581202046035806
+2,disease_on_drugs,25,21,0.5193374741200827

@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,24,30,-0.2759259259259259
+1,disease_on_symptoms,21,19,-0.026065162907268125
+2,disease_on_drugs,24,30,-0.35972222222222217

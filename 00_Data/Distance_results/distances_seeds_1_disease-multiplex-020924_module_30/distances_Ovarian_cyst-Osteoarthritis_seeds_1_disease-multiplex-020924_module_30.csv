@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,20,25,0.30499999999999994
+1,disease_on_symptoms,22,20,0.2859307359307359
+2,disease_on_drugs,15,21,0.5388888888888888

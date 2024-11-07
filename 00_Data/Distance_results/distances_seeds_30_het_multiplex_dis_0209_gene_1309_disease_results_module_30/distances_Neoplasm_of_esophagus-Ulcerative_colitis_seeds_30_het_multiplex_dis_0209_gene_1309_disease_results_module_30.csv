@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,-0.10652709359605905
+1,disease_on_symptoms,20,20,0.4999999999999998
+2,disease_on_drugs,25,27,0.09615384615384626

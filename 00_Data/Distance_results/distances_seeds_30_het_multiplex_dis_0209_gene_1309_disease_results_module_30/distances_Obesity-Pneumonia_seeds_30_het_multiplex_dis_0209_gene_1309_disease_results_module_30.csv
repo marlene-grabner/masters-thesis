@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,-0.10818713450292405
+1,disease_on_symptoms,18,23,0.3173677388947804
+2,disease_on_drugs,25,29,0.20140485312899115

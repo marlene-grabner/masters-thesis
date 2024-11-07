@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,25,30,-0.2384848484848484
+1,disease_on_symptoms,21,18,-0.08943833943833934
+2,disease_on_drugs,24,28,0.021062271062270987

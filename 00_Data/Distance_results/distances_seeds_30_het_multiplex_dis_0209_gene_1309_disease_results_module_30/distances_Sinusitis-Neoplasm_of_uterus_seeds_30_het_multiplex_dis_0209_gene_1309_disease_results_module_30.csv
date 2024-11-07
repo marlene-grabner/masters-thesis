@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,29,30,0.13559322033898313
+1,disease_on_symptoms,20,18,0.9165204678362575
+2,disease_on_drugs,27,26,0.6976966080739666

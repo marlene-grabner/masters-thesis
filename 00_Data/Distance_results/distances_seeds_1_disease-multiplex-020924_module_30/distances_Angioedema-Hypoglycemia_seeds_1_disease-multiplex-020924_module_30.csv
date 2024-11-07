@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,29,30,0.1890394088669951
+1,disease_on_symptoms,17,12,1.5444557133198105
+2,disease_on_drugs,25,22,0.574468085106383

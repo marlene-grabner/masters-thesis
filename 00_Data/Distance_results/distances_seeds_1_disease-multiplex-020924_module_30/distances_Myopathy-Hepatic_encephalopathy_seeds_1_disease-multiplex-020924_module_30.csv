@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,18,9,0.6111111111111112
+1,disease_on_symptoms,21,27,2.564484126984127
+2,disease_on_drugs,6,9,0.5000000000000002

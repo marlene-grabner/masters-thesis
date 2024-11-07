@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,11,17,-0.09740259740259738
+2,disease_on_drugs,27,30,-0.17134502923976602

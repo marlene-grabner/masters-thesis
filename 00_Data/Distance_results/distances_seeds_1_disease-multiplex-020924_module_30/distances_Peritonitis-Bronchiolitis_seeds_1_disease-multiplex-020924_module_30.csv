@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,-0.17834290401968822
+1,disease_on_symptoms,17,25,0.12089635854341729
+2,disease_on_drugs,28,18,-0.3146997929606625

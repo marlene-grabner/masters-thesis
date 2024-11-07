@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,25,25,0.020000000000000018
+1,disease_on_symptoms,20,20,0.4750000000000001
+2,disease_on_drugs,22,18,0.18282828282828278

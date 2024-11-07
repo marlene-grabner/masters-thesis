@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,23,30,0.4733388022969647
+1,disease_on_symptoms,16,25,2.2510060975609756
+2,disease_on_drugs,22,7,0.5147783251231528

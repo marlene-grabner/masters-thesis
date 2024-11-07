@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,16,15,-0.22231182795698912
+2,disease_on_drugs,25,24,0.06273809523809537

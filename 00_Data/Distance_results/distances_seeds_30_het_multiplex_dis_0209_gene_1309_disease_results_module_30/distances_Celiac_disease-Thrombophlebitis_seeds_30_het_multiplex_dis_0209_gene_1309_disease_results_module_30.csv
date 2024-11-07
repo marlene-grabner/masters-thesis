@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,18,0.16666666666666652
+2,disease_on_drugs,28,29,-0.03610318900700049

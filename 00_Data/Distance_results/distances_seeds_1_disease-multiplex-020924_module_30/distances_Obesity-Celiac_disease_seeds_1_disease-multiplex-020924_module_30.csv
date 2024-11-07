@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,17,0.4103177943807217
+1,disease_on_symptoms,20,22,2.0285714285714285
+2,disease_on_drugs,27,15,0.7867724867724868

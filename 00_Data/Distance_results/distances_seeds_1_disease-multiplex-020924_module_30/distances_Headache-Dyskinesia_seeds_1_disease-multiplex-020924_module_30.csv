@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,-0.09305555555555567
+1,disease_on_symptoms,25,17,0.04711484593837523
+2,disease_on_drugs,26,23,0.021585557299843128

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,-0.5358058608058608
+1,disease_on_symptoms,20,17,-0.2319157392686806
+2,disease_on_drugs,20,26,-0.4782608695652174

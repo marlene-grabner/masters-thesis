@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,28,0.10714285714285698
+1,disease_on_symptoms,14,17,1.3629709948495528
+2,disease_on_drugs,28,18,0.5512422360248448

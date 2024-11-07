@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.07007797270955174
+1,disease_on_symptoms,17,21,0.42982456140350855
+2,disease_on_drugs,26,27,0.33778154061172927

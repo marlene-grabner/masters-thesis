@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,24,26,0.411602564102564
+1,disease_on_symptoms,22,21,1.9046360616128057
+2,disease_on_drugs,11,24,0.6000000000000001

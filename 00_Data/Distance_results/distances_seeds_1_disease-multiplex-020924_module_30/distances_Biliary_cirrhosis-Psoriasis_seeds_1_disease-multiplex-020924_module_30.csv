@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,0.5383597883597886
+1,disease_on_symptoms,15,21,1.4539682539682541
+2,disease_on_drugs,15,28,0.7115725359911405

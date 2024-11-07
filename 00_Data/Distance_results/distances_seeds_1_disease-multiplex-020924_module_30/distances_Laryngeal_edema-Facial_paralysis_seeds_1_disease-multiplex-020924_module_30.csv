@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,-0.1785714285714286
+1,disease_on_symptoms,20,23,1.1793731041456015
+2,disease_on_drugs,28,14,0.18452380952380953

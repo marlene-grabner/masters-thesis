@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,30,-0.3448686371100165
+1,disease_on_symptoms,15,25,-0.39166666666666683
+2,disease_on_drugs,23,29,-0.37645600276784685

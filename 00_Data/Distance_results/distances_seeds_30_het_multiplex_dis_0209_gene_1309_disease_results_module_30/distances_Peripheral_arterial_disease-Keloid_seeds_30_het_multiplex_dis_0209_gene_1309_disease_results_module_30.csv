@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,-0.061224489795918324
+1,disease_on_symptoms,17,17,0.6176470588235297
+2,disease_on_drugs,24,22,0.3332509881422925

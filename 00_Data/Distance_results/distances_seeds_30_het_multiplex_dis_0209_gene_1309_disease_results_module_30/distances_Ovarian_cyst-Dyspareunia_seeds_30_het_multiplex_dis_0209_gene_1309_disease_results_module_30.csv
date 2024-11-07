@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.11807909604519762
+1,disease_on_symptoms,19,20,-0.18009446693657205
+2,disease_on_drugs,24,28,0.09615384615384626

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,22,30,0.09615384615384626
+1,disease_on_symptoms,21,16,1.4985521235521233
+2,disease_on_drugs,21,25,0.36857142857142855

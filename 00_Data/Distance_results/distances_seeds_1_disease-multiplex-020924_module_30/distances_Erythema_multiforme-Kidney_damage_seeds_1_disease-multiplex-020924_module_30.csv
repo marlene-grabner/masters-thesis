@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.16666666666666674
+1,disease_on_symptoms,16,26,1.3400869963369964
+2,disease_on_drugs,30,13,0.34257602862254033

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,14,23,-0.6567483632701026
+2,disease_on_drugs,24,29,-0.2486038820212535

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,13,0.40405982905982896
+1,disease_on_symptoms,17,26,0.8361306955698202
+2,disease_on_drugs,24,9,0.6111111111111112

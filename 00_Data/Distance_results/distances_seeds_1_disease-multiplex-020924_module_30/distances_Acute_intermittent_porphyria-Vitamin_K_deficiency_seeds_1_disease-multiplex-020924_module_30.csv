@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.17065527065527064
+1,disease_on_symptoms,20,23,2.6612487360970674
+2,disease_on_drugs,15,20,0.40714285714285703

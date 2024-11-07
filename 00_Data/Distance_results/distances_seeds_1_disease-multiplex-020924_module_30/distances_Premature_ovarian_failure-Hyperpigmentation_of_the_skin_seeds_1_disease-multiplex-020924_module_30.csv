@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,28,24,0.07692307692307687
+1,disease_on_symptoms,21,23,2.151844532279315
+2,disease_on_drugs,21,12,0.31601731601731586

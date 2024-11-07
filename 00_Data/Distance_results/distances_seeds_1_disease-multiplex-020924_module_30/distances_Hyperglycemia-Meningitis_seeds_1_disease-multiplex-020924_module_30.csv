@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.28838885641924805
+1,disease_on_symptoms,14,20,1.5350840336134455
+2,disease_on_drugs,26,26,0.6923076923076923

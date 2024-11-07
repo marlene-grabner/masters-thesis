@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.001818181818181941
+1,disease_on_symptoms,21,20,1.3881823461091751
+2,disease_on_drugs,27,22,0.5505909434480865

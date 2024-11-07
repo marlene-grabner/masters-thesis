@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.1605311355311354
+1,disease_on_symptoms,25,21,1.0198343685300209
+2,disease_on_drugs,26,23,0.2460753532182105

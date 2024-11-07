@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.12060755336617413
+1,disease_on_symptoms,14,25,1.0006593406593405
+2,disease_on_drugs,29,23,0.5501672240802677

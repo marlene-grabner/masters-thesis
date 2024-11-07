@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,28,0.3749999999999998
+1,disease_on_symptoms,19,17,1.1260749914000687
+2,disease_on_drugs,26,18,0.8444055944055944

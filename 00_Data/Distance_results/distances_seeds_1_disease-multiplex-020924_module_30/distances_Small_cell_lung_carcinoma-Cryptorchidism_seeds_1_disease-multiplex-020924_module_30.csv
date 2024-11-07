@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,0.07467532467532445
+1,disease_on_symptoms,24,18,1.117063492063492
+2,disease_on_drugs,25,18,0.03302325581395338

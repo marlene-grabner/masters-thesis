@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,0.3957115009746588
+1,disease_on_symptoms,22,16,1.5284090909090908
+2,disease_on_drugs,29,18,1.0201760821716799

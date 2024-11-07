@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.2807992202729045
+1,disease_on_symptoms,19,19,-0.368421052631579
+2,disease_on_drugs,24,30,-0.23009259259259252

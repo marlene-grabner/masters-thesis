@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,15,20,0.3226190476190478
+2,disease_on_drugs,26,28,0.14565527065527073

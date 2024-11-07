@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.13793103448275867
+1,disease_on_symptoms,16,13,0.22131962864721477
+2,disease_on_drugs,23,19,0.04069957502451782

@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,19,0.5975443928971365
+1,disease_on_symptoms,17,21,1.9560666371811881
+2,disease_on_drugs,18,17,0.9714285714285715

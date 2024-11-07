@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1785714285714286
+1,disease_on_symptoms,16,20,0.15763888888888888
+2,disease_on_drugs,29,25,-0.14620689655172425

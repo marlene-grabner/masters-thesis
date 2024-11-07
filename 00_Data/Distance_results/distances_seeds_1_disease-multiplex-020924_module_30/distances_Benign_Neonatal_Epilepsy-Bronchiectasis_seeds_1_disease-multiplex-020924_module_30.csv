@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,29,30,0.30536723163841817
+1,disease_on_symptoms,16,15,1.411760752688172
+2,disease_on_drugs,26,26,0.7500000000000002

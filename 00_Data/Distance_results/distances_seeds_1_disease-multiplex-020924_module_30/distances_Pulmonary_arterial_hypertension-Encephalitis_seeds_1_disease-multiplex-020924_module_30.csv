@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,28,0.375
+1,disease_on_symptoms,18,17,1.2818394024276376
+2,disease_on_drugs,26,18,0.6171328671328673

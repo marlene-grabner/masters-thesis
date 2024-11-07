@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,29,25,0.20436781609195376
+1,disease_on_symptoms,15,23,1.1414187643020592
+2,disease_on_drugs,29,23,0.49697266751239755

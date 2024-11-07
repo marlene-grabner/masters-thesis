@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,23,25,0.26894927536231905
+1,disease_on_symptoms,23,20,0.9299292214357939
+2,disease_on_drugs,18,21,0.4017094017094016

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,28,0.12623857623857648
+1,disease_on_symptoms,19,21,1.1713659147869673
+2,disease_on_drugs,26,28,0.6672771672771673

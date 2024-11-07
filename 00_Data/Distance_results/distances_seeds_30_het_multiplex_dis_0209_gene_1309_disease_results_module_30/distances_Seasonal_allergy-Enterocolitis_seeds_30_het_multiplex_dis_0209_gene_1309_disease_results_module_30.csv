@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,29,27,-0.1964285714285714
+1,disease_on_symptoms,18,21,0.0146520146520146
+2,disease_on_drugs,29,25,-0.26579821200510845

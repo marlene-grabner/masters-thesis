@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.05555555555555558
+1,disease_on_symptoms,15,19,0.522703818369453
+2,disease_on_drugs,29,24,0.32299121665582287

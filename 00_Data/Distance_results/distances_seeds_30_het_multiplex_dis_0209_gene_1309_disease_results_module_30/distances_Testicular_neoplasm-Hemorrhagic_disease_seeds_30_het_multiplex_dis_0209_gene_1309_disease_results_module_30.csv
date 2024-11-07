@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,26,-0.07882352941176474
+1,disease_on_symptoms,26,19,0.20679262258209619
+2,disease_on_drugs,24,24,0.16666666666666652

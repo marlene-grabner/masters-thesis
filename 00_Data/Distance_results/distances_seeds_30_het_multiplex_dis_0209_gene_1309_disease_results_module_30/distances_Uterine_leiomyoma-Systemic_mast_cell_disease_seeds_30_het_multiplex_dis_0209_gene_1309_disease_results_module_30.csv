@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,20,25,0.40388888888888896
+2,disease_on_drugs,28,21,0.0960884353741498

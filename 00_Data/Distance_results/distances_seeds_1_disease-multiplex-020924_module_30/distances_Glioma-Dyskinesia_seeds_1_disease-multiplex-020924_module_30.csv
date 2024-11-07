@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,22,24,0.28252635046113306
+1,disease_on_symptoms,24,17,2.0322513151602104
+2,disease_on_drugs,20,23,1.4401162790697675

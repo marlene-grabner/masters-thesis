@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Diarrhea nodes,sAB
+0,disease_on_genes,14,27,0.26193702413214615
+1,disease_on_symptoms,25,19,2.199569377990431
+2,disease_on_drugs,10,26,0.7918803418803417

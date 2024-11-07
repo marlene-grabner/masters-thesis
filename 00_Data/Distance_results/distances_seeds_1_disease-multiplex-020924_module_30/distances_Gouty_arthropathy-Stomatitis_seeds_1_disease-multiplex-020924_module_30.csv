@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,0.4336363636363638
+1,disease_on_symptoms,13,23,1.6666666666666665
+2,disease_on_drugs,16,30,0.7817934782608695

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Rosacea nodes,sAB
+0,disease_on_genes,29,30,0.15309760374050252
+1,disease_on_symptoms,17,17,1.2058823529411762
+2,disease_on_drugs,30,27,0.7192982456140351

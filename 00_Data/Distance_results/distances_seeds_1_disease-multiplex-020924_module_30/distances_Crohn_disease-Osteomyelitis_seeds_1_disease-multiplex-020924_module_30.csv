@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,25,25,0.1636394557823131
+1,disease_on_symptoms,20,23,1.8584934277047522
+2,disease_on_drugs,21,23,0.3179936006022963

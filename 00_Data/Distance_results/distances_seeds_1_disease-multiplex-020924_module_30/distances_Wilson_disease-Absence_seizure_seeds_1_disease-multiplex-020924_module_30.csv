@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,23,29,0.5126571329719756
+1,disease_on_symptoms,19,16,2.9269736842105267
+2,disease_on_drugs,11,22,1.2424242424242422

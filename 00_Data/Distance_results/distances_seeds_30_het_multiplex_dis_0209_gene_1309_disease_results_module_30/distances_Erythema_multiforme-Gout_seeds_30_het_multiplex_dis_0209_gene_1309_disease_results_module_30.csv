@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,-0.15578817733990147
+1,disease_on_symptoms,18,19,-0.02995100363521419
+2,disease_on_drugs,30,22,-0.19335664335664338

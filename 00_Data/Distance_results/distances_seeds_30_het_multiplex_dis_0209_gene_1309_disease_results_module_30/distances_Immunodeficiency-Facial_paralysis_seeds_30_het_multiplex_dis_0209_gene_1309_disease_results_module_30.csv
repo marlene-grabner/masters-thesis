@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,22,0.02083333333333326
+1,disease_on_symptoms,21,21,1.261904761904762
+2,disease_on_drugs,26,17,0.19651688940334622

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,25,30,-0.0060606060606061
+1,disease_on_symptoms,23,16,0.6487945930880712
+2,disease_on_drugs,19,23,0.14906832298136652

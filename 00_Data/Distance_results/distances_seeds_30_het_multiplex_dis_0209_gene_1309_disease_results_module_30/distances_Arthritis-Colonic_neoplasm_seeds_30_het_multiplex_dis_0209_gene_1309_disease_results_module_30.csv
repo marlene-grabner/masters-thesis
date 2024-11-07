@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,20,19,0.6161605937921726
+2,disease_on_drugs,29,29,0.4137931034482758

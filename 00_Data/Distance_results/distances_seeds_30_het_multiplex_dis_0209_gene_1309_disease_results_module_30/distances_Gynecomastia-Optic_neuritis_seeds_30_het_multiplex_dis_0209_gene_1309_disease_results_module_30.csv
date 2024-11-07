@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.1578947368421053
+1,disease_on_symptoms,15,21,0.3650793650793649
+2,disease_on_drugs,29,27,-0.016101076445903972

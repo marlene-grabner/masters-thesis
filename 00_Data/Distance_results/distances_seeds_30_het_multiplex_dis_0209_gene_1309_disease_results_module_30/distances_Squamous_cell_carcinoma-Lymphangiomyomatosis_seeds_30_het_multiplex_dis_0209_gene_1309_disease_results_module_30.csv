@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.23351648351648346
+1,disease_on_symptoms,22,17,-0.19912930207047852
+2,disease_on_drugs,30,24,-0.18287037037037057

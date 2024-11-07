@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,0.0769230769230771
+1,disease_on_symptoms,18,17,0.4246031746031744
+2,disease_on_drugs,25,24,0.4892857142857141

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,-0.06703296703296724
+1,disease_on_symptoms,18,23,1.449039707788382
+2,disease_on_drugs,23,14,0.3783783783783783

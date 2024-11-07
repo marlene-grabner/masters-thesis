@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,16,18,-0.06209150326797386
+2,disease_on_drugs,29,26,-0.1787074993971547

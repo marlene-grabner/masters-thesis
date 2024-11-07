@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,27,30,-0.3508771929824561
+1,disease_on_symptoms,22,21,-0.4239404006845868
+2,disease_on_drugs,26,29,-0.29040270074752816

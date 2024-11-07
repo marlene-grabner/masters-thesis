@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,29,30,-0.4067796610169492
+1,disease_on_symptoms,23,21,-0.4015622059100319
+2,disease_on_drugs,26,29,-0.5298046780805403

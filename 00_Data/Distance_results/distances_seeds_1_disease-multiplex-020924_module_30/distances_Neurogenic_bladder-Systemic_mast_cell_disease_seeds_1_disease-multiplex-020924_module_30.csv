@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.1878238846678355
+1,disease_on_symptoms,17,16,0.7817513368983957
+2,disease_on_drugs,26,25,0.37254901960784315

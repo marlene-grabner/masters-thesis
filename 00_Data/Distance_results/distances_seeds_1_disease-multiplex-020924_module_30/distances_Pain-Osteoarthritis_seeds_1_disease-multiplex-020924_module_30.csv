@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,-0.09767722473604812
+1,disease_on_symptoms,21,20,0.19895470383275282
+2,disease_on_drugs,26,21,-0.14689034369885423

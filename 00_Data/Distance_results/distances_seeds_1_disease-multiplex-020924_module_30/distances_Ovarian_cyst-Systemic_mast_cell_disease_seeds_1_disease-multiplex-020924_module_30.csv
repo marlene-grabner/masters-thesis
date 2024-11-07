@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,20,29,0.34266361717100646
+1,disease_on_symptoms,22,16,1.0158492822966507
+2,disease_on_drugs,15,25,0.9249999999999998

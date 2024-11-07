@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.461111111111111
+1,disease_on_symptoms,13,27,1.9852564102564103
+2,disease_on_drugs,18,13,1.174731182795699

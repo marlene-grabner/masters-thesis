@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,13,30,0.2101967799642217
+1,disease_on_symptoms,26,22,0.6689976689976689
+2,disease_on_drugs,9,28,0.6022629772629771

@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.40551724137931044
+1,disease_on_symptoms,23,18,2.3918640273359255
+2,disease_on_drugs,21,19,0.5984335839598998

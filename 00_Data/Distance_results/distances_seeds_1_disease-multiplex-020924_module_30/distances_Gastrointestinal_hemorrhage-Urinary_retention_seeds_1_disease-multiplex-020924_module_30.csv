@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.26181353767560656
+1,disease_on_symptoms,19,18,0.6797455350086927
+2,disease_on_drugs,27,19,0.1167048054919908

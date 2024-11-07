@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,27,22,0.42294973544973535
+1,disease_on_symptoms,22,20,1.8074675324675327
+2,disease_on_drugs,26,19,1.4584795321637425

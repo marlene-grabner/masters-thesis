@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.4809113300492611
+1,disease_on_symptoms,9,14,1.1742581090407178
+2,disease_on_drugs,11,28,0.4829337329337331

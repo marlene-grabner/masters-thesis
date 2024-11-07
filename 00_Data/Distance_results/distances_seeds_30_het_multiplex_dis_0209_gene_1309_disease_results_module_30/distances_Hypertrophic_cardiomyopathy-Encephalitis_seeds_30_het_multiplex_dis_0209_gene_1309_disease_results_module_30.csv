@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.18672316384180787
+1,disease_on_symptoms,19,13,0.41611842105263186
+2,disease_on_drugs,22,22,0.11363636363636376

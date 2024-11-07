@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.4185185185185185
+1,disease_on_symptoms,18,23,0.8960174384352539
+2,disease_on_drugs,22,20,0.95

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,0.2050264550264551
+1,disease_on_symptoms,20,15,1.3226190476190474
+2,disease_on_drugs,25,21,0.8478260869565217

@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,22,20,-0.004761904761904745
+1,disease_on_symptoms,17,23,1.2483375959079286
+2,disease_on_drugs,21,18,0.25335775335775335

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.03840579710144931
+1,disease_on_symptoms,16,19,0.7600093984962408
+2,disease_on_drugs,28,21,-0.09778911564625847

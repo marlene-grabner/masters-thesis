@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.18351841028638205
+1,disease_on_symptoms,16,13,1.3790616710875332
+2,disease_on_drugs,23,23,0.5652173913043479

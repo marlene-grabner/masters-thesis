@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,25,30,-0.2545454545454545
+1,disease_on_symptoms,13,14,0.6296296296296298
+2,disease_on_drugs,21,27,-0.3134920634920635

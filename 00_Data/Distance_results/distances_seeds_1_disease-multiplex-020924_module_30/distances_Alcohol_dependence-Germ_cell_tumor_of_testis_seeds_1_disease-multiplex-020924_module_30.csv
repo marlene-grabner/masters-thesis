@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,12,27,0.49679487179487203
+1,disease_on_symptoms,27,23,1.2873107890499194
+2,disease_on_drugs,9,20,0.4061302681992336

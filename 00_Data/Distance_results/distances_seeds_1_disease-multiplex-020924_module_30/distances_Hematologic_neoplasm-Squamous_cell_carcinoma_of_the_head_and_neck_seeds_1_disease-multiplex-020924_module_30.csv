@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,22,21,0.022702104097453102
+1,disease_on_symptoms,24,25,0.7799149659863944
+2,disease_on_drugs,19,21,0.06973684210526332

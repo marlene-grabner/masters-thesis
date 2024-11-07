@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,20,18,0.4739766081871344
+2,disease_on_drugs,20,26,-0.10451505016722407

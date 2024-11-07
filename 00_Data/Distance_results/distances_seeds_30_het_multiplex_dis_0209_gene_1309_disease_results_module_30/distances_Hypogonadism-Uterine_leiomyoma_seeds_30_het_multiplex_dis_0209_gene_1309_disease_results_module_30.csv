@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,20,0.3277821939586645
+2,disease_on_drugs,29,28,0.15781911675741078

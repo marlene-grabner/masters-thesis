@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,14,28,0.6369047619047619
+1,disease_on_symptoms,27,14,2.2327719705768487
+2,disease_on_drugs,8,24,1.09375

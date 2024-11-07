@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,18,12,0.7083333333333333
+1,disease_on_symptoms,18,27,3.6796296296296296
+2,disease_on_drugs,10,9,0.6967836257309941

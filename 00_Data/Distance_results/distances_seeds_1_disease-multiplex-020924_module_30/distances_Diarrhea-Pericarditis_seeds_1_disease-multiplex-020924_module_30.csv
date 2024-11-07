@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,-0.15028490028490027
+1,disease_on_symptoms,19,22,-0.005951686311121529
+2,disease_on_drugs,26,25,-0.058838612368024124

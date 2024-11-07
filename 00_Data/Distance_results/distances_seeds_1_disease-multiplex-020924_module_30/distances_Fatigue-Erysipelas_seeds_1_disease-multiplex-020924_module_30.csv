@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,-0.00010175010174995336
+1,disease_on_symptoms,21,20,1.0254355400696862
+2,disease_on_drugs,26,27,0.20682148040638615

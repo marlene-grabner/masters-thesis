@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,0.06896551724137945
+1,disease_on_symptoms,15,20,0.36785714285714266
+2,disease_on_drugs,29,26,0.21912225705329158

@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,19,-0.28947368421052655
+2,disease_on_drugs,24,30,-0.09120370370370368

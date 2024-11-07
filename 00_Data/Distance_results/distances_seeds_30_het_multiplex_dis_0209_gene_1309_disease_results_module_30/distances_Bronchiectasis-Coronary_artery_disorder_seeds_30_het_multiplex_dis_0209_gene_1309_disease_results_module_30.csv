@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.04060705496308459
+1,disease_on_symptoms,19,19,0.868421052631579
+2,disease_on_drugs,25,22,0.12951644100580273

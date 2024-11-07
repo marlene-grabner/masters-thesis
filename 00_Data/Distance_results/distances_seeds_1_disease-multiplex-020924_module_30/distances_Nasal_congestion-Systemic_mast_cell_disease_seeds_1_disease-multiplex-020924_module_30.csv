@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.16946230274693153
+1,disease_on_symptoms,15,16,0.9904569892473116
+2,disease_on_drugs,23,25,0.6865942028985506

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,18,20,0.10350877192982466
+2,disease_on_drugs,27,27,-0.12962962962962965

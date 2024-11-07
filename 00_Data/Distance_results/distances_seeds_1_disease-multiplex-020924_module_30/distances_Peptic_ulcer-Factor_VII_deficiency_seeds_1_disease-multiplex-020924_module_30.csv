@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,28,25,0.2102156334231804
+1,disease_on_symptoms,14,23,2.617131106261541
+2,disease_on_drugs,28,21,0.6870748299319727

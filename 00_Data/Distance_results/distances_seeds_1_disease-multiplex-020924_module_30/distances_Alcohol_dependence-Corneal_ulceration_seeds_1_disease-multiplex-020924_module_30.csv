@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,12,28,0.5154761904761904
+1,disease_on_symptoms,27,19,1.8748622764641074
+2,disease_on_drugs,9,26,0.46031746031746024

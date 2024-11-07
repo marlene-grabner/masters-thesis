@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Glioma nodes,sAB
+0,disease_on_genes,25,22,0.2176982591876211
+1,disease_on_symptoms,23,24,1.3787966389145854
+2,disease_on_drugs,19,20,1.0519230769230772

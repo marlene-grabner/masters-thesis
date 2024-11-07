@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,12,13,0.10025641025641008
+2,disease_on_drugs,28,19,0.29823228283474656

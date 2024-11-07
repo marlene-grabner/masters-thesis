@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,17,14,0.15519110870154518
+2,disease_on_drugs,24,29,-0.02123996963782271

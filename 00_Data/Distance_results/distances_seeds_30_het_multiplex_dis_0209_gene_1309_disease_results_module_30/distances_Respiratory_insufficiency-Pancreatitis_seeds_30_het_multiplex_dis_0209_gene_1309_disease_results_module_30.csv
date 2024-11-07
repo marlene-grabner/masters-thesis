@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.26315789473684215
+1,disease_on_symptoms,21,17,-0.3308270676691729
+2,disease_on_drugs,25,30,-0.3351515151515152

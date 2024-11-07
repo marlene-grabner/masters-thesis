@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,9,30,0.09914529914529924
+1,disease_on_symptoms,27,24,1.0543300653594772
+2,disease_on_drugs,9,24,0.4734848484848486

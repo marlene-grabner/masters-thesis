@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.29248768472906406
+1,disease_on_symptoms,23,19,1.5239184918818784
+2,disease_on_drugs,23,25,0.34851449275362323

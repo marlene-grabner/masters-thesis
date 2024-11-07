@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,14,20,0.29726890756302504
+2,disease_on_drugs,29,29,0.10344827586206895

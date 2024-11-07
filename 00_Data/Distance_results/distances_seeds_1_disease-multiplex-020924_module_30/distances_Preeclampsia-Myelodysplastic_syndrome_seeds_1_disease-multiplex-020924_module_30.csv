@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,0.26923076923076916
+1,disease_on_symptoms,17,15,1.782107843137255
+2,disease_on_drugs,23,21,0.7250141163184642

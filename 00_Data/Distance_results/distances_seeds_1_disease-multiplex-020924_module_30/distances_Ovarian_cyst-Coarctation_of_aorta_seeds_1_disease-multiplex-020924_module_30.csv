@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,20,27,0.41436170212765955
+1,disease_on_symptoms,22,14,1.9105339105339105
+2,disease_on_drugs,15,13,0.6142857142857141

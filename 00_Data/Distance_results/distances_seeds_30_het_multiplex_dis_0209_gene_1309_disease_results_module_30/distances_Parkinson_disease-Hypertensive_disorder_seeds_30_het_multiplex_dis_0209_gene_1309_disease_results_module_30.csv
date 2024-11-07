@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,23,27,-0.21999999999999997
+1,disease_on_symptoms,23,21,0.7506587615283267
+2,disease_on_drugs,22,26,-0.04385198135198132

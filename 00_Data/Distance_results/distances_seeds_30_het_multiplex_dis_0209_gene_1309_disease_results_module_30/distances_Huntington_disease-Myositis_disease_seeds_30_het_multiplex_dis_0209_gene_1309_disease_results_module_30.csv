@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,17,18,-0.1394491129785247
+2,disease_on_drugs,26,26,-0.26923076923076916

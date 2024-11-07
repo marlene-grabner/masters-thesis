@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.18647798742138355
+1,disease_on_symptoms,19,17,0.6517887856897144
+2,disease_on_drugs,28,22,0.1015584415584414

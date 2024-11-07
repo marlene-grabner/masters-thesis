@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,27,23,0.14296296296296274
+1,disease_on_symptoms,19,22,0.3224997082506711
+2,disease_on_drugs,27,17,0.7754010695187163

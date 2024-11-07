@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,25,22,0.3341005802707928
+1,disease_on_symptoms,18,22,1.5515151515151515
+2,disease_on_drugs,23,14,0.7577220077220077

@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,14,0.006556776556776445
+1,disease_on_symptoms,19,23,0.7019178380734448
+2,disease_on_drugs,24,14,0.06359649122807043

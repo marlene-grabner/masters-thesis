@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.2676739926739926
+1,disease_on_symptoms,15,21,1.304761904761905
+2,disease_on_drugs,26,23,0.5533751962323392

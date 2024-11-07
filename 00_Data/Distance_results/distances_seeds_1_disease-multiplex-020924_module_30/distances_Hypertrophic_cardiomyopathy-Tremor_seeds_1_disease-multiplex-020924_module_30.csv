@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Tremor nodes,sAB
+0,disease_on_genes,30,16,0.3946557971014495
+1,disease_on_symptoms,17,23,1.300447570332481
+2,disease_on_drugs,17,16,0.574810606060606

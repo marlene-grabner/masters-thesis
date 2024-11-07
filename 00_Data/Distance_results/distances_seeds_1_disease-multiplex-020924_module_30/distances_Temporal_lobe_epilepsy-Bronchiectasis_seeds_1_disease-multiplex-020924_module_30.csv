@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,29,30,0.23727839470095446
+1,disease_on_symptoms,17,15,1.2075980392156862
+2,disease_on_drugs,26,26,0.7307692307692308

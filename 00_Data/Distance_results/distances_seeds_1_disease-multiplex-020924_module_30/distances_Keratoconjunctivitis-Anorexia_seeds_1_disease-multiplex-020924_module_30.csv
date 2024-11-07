@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,29,17,0.07800511508951402
+1,disease_on_symptoms,25,25,0.7999999999999998
+2,disease_on_drugs,27,13,0.344871794871795

@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,23,30,-0.09433962264150941
+1,disease_on_symptoms,19,18,0.7811363995574521
+2,disease_on_drugs,19,26,-0.055802968960863675

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,24,0.2009803921568627
+1,disease_on_symptoms,17,23,2.0599104859335036
+2,disease_on_drugs,25,12,0.5675675675675675

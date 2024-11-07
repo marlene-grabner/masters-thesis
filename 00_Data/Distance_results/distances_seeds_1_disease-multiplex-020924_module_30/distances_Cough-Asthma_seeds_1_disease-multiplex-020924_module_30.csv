@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.3654415954415955
+1,disease_on_symptoms,21,19,-0.7175438596491228
+2,disease_on_drugs,27,24,-0.4316448801742919

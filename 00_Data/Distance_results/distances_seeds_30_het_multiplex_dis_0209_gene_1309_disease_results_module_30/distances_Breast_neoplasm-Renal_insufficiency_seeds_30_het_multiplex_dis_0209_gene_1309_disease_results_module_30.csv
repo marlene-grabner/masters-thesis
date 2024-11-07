@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,20,19,0.10482456140350904
+2,disease_on_drugs,30,28,-0.022167487684729092

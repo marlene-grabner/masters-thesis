@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.07605820105820094
+1,disease_on_symptoms,17,19,0.6701926384588921
+2,disease_on_drugs,23,26,0.10188724319159093

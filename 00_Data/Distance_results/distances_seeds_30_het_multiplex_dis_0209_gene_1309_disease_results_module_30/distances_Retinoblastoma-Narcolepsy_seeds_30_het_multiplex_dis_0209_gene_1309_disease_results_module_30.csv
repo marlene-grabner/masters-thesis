@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,21,20,1.8235481997677119
+2,disease_on_drugs,27,21,0.2850529100529102

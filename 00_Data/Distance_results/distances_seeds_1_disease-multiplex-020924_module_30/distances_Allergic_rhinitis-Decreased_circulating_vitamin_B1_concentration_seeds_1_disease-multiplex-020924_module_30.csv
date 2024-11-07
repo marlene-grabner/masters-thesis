@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,21,25,0.4883643892339544
+1,disease_on_symptoms,22,13,3.4253746253746256
+2,disease_on_drugs,21,16,0.5843388030888033

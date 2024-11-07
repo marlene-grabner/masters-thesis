@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,0.07915535444947208
+1,disease_on_symptoms,28,17,0.4985294117647059
+2,disease_on_drugs,23,24,0.8089346284304657

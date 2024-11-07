@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,-0.17307692307692313
+1,disease_on_symptoms,22,12,0.4102049910873442
+2,disease_on_drugs,26,18,-0.09518259518259509

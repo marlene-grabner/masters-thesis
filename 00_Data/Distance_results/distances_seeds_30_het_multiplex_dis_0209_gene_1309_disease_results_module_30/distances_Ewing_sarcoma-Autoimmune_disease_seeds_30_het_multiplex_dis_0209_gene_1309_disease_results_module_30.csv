@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,17,20,0.7274642289348172
+2,disease_on_drugs,24,25,0.08073129251700695

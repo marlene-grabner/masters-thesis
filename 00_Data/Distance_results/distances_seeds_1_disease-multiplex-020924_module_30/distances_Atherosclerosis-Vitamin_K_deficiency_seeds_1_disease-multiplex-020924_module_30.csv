@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.11818181818181817
+1,disease_on_symptoms,13,23,1.3483835005574138
+2,disease_on_drugs,29,20,0.296938775510204

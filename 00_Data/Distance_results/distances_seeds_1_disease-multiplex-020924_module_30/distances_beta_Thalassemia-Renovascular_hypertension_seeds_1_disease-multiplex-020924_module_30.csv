@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,22,21,0.4190828551293668
+1,disease_on_symptoms,21,22,3.8847276754253497
+2,disease_on_drugs,6,20,0.6314102564102566

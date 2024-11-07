@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,23,19,-0.372071483055465
+2,disease_on_drugs,23,28,-0.3097978321763487

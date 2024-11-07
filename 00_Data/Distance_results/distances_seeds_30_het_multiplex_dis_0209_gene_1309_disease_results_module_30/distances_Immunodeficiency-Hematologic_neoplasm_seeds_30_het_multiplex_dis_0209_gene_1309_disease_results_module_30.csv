@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.0535714285714286
+1,disease_on_symptoms,21,18,0.5119047619047621
+2,disease_on_drugs,26,27,0.03870343492985007

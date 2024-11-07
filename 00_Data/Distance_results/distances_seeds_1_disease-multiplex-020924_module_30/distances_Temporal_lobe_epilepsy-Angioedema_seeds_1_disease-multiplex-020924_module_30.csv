@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Angioedema nodes,sAB
+0,disease_on_genes,29,29,0.1754277936219859
+1,disease_on_symptoms,17,17,1.4117647058823533
+2,disease_on_drugs,26,25,1.2160633484162897

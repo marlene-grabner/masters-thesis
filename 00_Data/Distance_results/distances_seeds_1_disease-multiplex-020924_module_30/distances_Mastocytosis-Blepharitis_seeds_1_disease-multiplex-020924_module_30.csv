@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,18,20,0.026169590643274843
+1,disease_on_symptoms,28,27,0.7489778739778739
+2,disease_on_drugs,17,19,-0.0558995528035775

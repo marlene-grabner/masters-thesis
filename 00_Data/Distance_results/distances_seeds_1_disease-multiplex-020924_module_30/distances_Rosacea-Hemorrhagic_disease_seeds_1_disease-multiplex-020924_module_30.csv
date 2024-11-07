@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.22546296296296298
+1,disease_on_symptoms,17,19,0.5534915720674236
+2,disease_on_drugs,27,19,0.5251716247139588

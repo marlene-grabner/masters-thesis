@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,19,24,-0.32846287229702154
+2,disease_on_drugs,28,20,-0.26309523809523816

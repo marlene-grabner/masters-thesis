@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.4666666666666668
+1,disease_on_symptoms,16,26,1.82864010989011
+2,disease_on_drugs,23,28,1.2092924126172209

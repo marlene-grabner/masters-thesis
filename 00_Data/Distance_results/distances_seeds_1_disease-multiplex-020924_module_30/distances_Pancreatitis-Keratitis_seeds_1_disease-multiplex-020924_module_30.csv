@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.3631362889983578
+1,disease_on_symptoms,20,25,0.8127777777777778
+2,disease_on_drugs,30,23,0.34987694831829375

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,24,30,0.20740740740740748
+1,disease_on_symptoms,23,16,1.9426909141583053
+2,disease_on_drugs,22,30,0.7115384615384615

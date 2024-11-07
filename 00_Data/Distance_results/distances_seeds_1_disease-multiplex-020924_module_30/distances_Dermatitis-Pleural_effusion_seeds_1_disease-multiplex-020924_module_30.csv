@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.0015151515151514694
+1,disease_on_symptoms,25,20,0.06277777777777782
+2,disease_on_drugs,24,22,-0.1068840579710143

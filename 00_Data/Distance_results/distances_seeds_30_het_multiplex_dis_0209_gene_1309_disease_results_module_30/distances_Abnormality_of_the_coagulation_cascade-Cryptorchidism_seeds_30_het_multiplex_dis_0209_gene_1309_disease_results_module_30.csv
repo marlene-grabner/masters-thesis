@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,24,23,-0.128122109158187
+1,disease_on_symptoms,24,19,0.29722562219502247
+2,disease_on_drugs,23,21,-0.229201957462827

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.07124542124542121
+1,disease_on_symptoms,21,22,1.742826940501359
+2,disease_on_drugs,29,25,0.401941251596424

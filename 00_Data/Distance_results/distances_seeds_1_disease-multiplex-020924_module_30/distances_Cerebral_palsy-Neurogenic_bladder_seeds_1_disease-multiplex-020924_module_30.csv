@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,-0.43937621832358675
+1,disease_on_symptoms,16,17,-0.7902183600713013
+2,disease_on_drugs,18,26,-0.31818181818181823

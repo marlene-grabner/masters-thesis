@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,18,18,0.38888888888888884
+2,disease_on_drugs,29,27,0.21264367816091956

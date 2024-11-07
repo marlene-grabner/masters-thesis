@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,23,26,-0.020408163265306145
+1,disease_on_symptoms,20,20,1.0
+2,disease_on_drugs,20,23,0.26165318503538937

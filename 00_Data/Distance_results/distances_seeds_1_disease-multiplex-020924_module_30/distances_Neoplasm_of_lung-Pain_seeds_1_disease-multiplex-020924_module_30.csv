@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.19487179487179485
+1,disease_on_symptoms,20,21,0.8081010452961672
+2,disease_on_drugs,30,26,0.839102564102564

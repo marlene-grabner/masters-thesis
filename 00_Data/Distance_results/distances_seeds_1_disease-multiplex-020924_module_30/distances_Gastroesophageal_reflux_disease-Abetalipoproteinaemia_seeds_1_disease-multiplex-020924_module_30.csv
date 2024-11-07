@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,26,17,0.22640218878248985
+1,disease_on_symptoms,17,25,0.9095798319327733
+2,disease_on_drugs,25,13,0.625748987854251

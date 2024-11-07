@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,25,21,0.08455486542443058
+1,disease_on_symptoms,20,22,0.6614718614718613
+2,disease_on_drugs,21,20,0.16768292682926833

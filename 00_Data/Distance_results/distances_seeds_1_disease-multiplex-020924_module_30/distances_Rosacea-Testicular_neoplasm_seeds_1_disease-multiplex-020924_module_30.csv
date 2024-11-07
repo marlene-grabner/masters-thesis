@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.18272727272727263
+1,disease_on_symptoms,17,25,0.9280112044817928
+2,disease_on_drugs,27,23,0.8365217391304347

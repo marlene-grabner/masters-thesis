@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.10198714202220915
+1,disease_on_symptoms,14,13,0.2133699633699635
+2,disease_on_drugs,21,28,-0.08163265306122436

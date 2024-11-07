@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Lymphoma nodes,sAB
+0,disease_on_genes,23,26,0.14175407925407923
+1,disease_on_symptoms,18,21,1.2942612942612945
+2,disease_on_drugs,18,25,0.12279069767441864

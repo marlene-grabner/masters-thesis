@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.4571150097465888
+1,disease_on_symptoms,23,20,-0.3780839231547015
+2,disease_on_drugs,25,30,-0.4618181818181819

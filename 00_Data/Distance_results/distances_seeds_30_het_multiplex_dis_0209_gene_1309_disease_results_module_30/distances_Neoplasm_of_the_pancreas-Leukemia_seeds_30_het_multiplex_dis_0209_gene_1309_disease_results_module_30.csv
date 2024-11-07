@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,20,21,-0.9255226480836237
+2,disease_on_drugs,30,30,-0.3833333333333333

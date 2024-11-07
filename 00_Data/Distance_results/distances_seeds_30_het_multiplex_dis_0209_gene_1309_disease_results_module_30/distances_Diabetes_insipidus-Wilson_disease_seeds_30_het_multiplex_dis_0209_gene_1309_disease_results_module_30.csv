@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,25,0.019984917043740724
+1,disease_on_symptoms,20,19,0.51221322537112
+2,disease_on_drugs,20,22,0.06601731601731609

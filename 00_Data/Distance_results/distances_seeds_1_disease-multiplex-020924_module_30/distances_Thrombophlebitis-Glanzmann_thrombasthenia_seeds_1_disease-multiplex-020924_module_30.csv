@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,28,24,-0.11423992673992678
+1,disease_on_symptoms,15,21,-0.1246031746031746
+2,disease_on_drugs,21,24,0.1180555555555558

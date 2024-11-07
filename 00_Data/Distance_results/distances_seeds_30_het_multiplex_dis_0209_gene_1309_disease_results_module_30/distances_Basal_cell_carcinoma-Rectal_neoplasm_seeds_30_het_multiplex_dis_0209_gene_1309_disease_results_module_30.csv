@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,24,20,-0.634469696969697
+2,disease_on_drugs,27,29,-0.32099525634008386

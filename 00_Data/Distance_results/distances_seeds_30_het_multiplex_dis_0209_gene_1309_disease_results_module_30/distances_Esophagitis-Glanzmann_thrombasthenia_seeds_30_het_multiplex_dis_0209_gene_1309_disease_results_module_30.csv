@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.057407407407407574
+1,disease_on_symptoms,20,19,0.6409919028340081
+2,disease_on_drugs,30,24,0.3560185185185185

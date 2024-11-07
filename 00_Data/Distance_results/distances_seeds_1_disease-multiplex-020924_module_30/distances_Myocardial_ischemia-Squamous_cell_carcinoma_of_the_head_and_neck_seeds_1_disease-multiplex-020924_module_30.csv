@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.17226890756302526
+1,disease_on_symptoms,13,25,0.5443724696356278
+2,disease_on_drugs,23,21,0.5938735177865615

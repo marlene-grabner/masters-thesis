@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.12130541871921174
+1,disease_on_symptoms,10,15,0.41333333333333355
+2,disease_on_drugs,16,23,-0.19533862876254204

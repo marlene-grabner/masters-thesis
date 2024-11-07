@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,20,30,-0.355
+1,disease_on_symptoms,22,16,-0.3591507177033493
+2,disease_on_drugs,15,24,-0.2907051282051283

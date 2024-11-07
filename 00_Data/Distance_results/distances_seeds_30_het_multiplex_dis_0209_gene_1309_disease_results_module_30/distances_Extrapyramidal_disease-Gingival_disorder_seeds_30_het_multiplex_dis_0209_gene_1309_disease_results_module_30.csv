@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,18,19,0.630512091038407
+2,disease_on_drugs,25,24,0.16229591836734691

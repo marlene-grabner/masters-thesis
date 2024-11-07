@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,26,27,-0.16981132075471694
+1,disease_on_symptoms,20,22,0.09491341991342006
+2,disease_on_drugs,23,26,-0.10265510886628904

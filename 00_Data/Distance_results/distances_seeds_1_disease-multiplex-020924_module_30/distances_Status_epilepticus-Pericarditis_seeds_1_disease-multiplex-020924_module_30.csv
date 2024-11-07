@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,25,0.18646232439335897
+1,disease_on_symptoms,17,22,1.1726312902783493
+2,disease_on_drugs,30,25,0.5254545454545454

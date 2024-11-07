@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,30,27,-0.01754385964912286
+1,disease_on_symptoms,17,16,0.4199532085561497
+2,disease_on_drugs,25,23,0.13249999999999984

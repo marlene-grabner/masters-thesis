@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,30,-0.10732600732600739
+1,disease_on_symptoms,18,18,0.16666666666666652
+2,disease_on_drugs,25,21,0.21366459627329193

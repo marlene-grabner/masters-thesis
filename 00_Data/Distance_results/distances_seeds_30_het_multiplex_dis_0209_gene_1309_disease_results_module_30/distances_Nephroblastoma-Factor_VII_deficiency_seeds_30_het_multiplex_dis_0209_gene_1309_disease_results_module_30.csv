@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,29,28,0.19297165327110877
+1,disease_on_symptoms,20,19,1.1809379217273954
+2,disease_on_drugs,24,25,0.36559523809523786

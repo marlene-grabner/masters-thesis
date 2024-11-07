@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,26,0.07582110412299081
+1,disease_on_symptoms,23,20,1.0172649140546008
+2,disease_on_drugs,25,25,0.3799999999999999

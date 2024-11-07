@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.1890804597701149
+1,disease_on_symptoms,19,13,0.11247469635627527
+2,disease_on_drugs,29,28,-0.0015772189093423705

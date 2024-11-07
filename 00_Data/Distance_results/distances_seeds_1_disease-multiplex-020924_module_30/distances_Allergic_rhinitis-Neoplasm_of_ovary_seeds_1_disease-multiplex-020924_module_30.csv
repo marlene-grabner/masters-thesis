@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,21,24,0.3400793650793652
+1,disease_on_symptoms,22,26,1.4825174825174825
+2,disease_on_drugs,21,15,0.7182539682539684

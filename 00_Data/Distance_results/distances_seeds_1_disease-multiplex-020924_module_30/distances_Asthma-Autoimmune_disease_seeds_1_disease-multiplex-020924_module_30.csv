@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,25,22,-0.06835589941972908
+1,disease_on_symptoms,19,19,1.0789473684210527
+2,disease_on_drugs,24,19,0.048296613627091034

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,29,26,0.12622377622377634
+1,disease_on_symptoms,18,21,1.5485347985347986
+2,disease_on_drugs,30,25,1.4524242424242426

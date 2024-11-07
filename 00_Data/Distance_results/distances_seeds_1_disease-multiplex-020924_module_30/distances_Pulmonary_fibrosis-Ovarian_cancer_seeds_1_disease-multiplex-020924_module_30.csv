@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,24,27,0.3124999999999998
+1,disease_on_symptoms,22,17,1.08388180447004
+2,disease_on_drugs,24,25,0.5918367346938775

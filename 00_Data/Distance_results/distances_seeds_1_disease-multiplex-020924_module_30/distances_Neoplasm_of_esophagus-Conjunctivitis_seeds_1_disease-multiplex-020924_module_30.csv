@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,21,27,0.0023148148148146586
+1,disease_on_symptoms,24,27,0.7280773420479303
+2,disease_on_drugs,20,26,0.34958193979933117

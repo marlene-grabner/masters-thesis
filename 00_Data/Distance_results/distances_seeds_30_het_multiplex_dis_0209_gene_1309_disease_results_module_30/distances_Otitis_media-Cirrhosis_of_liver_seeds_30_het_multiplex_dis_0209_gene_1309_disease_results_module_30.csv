@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,0.01665692577440092
+1,disease_on_symptoms,20,19,0.35529689608636983
+2,disease_on_drugs,28,30,0.22212643678160915

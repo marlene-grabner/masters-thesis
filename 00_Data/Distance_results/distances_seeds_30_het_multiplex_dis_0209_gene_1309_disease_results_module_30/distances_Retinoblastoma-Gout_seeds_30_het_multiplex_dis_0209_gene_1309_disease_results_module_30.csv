@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,0.03386699507389168
+1,disease_on_symptoms,21,19,0.712155388471178
+2,disease_on_drugs,27,22,0.26905105476534064

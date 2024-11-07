@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.18545454545454554
+1,disease_on_symptoms,15,21,-0.14285714285714302
+2,disease_on_drugs,23,24,-0.3002621029910578

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Peritonitis nodes,sAB
+0,disease_on_genes,25,30,0.23818181818181827
+1,disease_on_symptoms,13,17,1.5313725490196077
+2,disease_on_drugs,16,28,0.6830357142857144

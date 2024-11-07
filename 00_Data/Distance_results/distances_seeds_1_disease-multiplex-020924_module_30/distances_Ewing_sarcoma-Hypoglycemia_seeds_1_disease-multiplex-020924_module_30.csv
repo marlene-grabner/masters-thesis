@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,24,30,0.6041666666666667
+1,disease_on_symptoms,25,12,1.9328828828828826
+2,disease_on_drugs,17,22,1.1025641025641026

@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,20,0.4458333333333333
+1,disease_on_symptoms,12,24,1.2986111111111112
+2,disease_on_drugs,21,18,1.125152625152625

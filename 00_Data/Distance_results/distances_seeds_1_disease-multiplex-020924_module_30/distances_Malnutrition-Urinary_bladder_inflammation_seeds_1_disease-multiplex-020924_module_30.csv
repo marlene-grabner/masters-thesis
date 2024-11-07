@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,0.15644042232277533
+1,disease_on_symptoms,18,22,1.7641414141414142
+2,disease_on_drugs,23,24,0.49113475177304955

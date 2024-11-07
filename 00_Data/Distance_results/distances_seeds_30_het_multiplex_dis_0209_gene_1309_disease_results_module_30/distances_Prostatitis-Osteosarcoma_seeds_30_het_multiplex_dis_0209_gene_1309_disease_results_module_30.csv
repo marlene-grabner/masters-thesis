@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666652
+1,disease_on_symptoms,22,22,0.5227272727272727
+2,disease_on_drugs,28,29,-0.12286103189007003

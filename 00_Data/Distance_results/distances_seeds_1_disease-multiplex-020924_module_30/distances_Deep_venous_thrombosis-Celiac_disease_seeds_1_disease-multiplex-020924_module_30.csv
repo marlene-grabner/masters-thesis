@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,28,17,0.30109710550887003
+1,disease_on_symptoms,14,22,3.5396825396825395
+2,disease_on_drugs,24,15,1.1205128205128205

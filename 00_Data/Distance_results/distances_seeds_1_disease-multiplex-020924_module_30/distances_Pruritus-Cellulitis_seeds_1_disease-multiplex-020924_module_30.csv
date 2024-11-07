@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,22,-0.12004140786749495
+1,disease_on_symptoms,19,26,0.6575798470535312
+2,disease_on_drugs,24,12,0.16666666666666674

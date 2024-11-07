@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,13,21,0.3902176255117431
+1,disease_on_symptoms,26,25,1.3877677224736047
+2,disease_on_drugs,9,21,0.9444444444444444

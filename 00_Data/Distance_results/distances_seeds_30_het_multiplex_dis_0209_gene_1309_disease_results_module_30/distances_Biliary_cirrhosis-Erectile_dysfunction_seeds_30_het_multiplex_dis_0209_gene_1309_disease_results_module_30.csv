@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,0.016483516483516647
+1,disease_on_symptoms,22,15,0.8754299754299752
+2,disease_on_drugs,25,30,0.27787878787878784

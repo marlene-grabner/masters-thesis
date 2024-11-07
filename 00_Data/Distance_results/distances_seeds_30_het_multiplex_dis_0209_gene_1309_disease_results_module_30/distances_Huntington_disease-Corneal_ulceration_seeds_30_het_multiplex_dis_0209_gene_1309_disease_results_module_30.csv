@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.01662561576354693
+1,disease_on_symptoms,17,15,0.8928921568627453
+2,disease_on_drugs,26,23,0.10111937751689282

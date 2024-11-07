@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,24,28,0.26098901098901095
+1,disease_on_symptoms,26,19,1.203463787674314
+2,disease_on_drugs,15,26,0.46341463414634143

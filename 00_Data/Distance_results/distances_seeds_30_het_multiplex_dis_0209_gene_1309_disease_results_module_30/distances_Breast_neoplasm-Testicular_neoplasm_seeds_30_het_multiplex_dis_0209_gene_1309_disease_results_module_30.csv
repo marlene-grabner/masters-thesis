@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.38363636363636366
+1,disease_on_symptoms,20,26,-0.6377090301003345
+2,disease_on_drugs,30,24,-0.3240740740740742

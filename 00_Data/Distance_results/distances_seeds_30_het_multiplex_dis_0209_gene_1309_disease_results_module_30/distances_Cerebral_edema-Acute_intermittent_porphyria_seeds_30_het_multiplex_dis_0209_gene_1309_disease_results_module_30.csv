@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,10,17,0.7684095860566449
+2,disease_on_drugs,16,24,-0.1729166666666666

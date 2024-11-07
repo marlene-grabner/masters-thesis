@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,0.2523809523809526
+1,disease_on_symptoms,17,19,1.2731338149294804
+2,disease_on_drugs,17,23,0.4782608695652173

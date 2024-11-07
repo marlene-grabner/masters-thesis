@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,22,16,0.40505382775119614
+2,disease_on_drugs,29,28,0.13969190216921623

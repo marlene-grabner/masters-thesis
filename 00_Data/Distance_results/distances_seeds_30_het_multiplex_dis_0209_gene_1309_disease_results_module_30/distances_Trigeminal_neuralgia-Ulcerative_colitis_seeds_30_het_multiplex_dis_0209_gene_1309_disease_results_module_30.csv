@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,15,20,0.29047619047619033
+2,disease_on_drugs,25,27,-0.02384615384615385

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Blepharitis nodes,sAB
+0,disease_on_genes,13,20,0.46567599067599064
+1,disease_on_symptoms,26,27,1.490149438262646
+2,disease_on_drugs,9,19,0.6418128654970761

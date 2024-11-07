@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.05882352941176472
+1,disease_on_symptoms,14,23,0.2835739466174245
+2,disease_on_drugs,25,21,-0.19209109730848883

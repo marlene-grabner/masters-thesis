@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,14,19,0.4489633173843699
+2,disease_on_drugs,27,19,-0.130180523773201

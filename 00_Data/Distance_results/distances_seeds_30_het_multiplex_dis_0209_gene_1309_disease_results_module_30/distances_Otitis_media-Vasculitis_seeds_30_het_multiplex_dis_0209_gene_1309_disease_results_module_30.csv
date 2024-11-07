@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,26,-0.0899686520376175
+1,disease_on_symptoms,20,18,0.6010233918128658
+2,disease_on_drugs,28,26,0.03739316239316226

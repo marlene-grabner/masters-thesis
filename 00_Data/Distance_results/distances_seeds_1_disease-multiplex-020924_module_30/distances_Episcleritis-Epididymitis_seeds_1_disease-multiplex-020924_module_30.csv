@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,-0.01724137931034475
+1,disease_on_symptoms,22,23,0.4254501537110231
+2,disease_on_drugs,29,27,0.216041780696953

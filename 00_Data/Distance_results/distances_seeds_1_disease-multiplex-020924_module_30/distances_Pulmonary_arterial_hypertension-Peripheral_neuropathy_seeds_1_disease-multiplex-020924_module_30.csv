@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,28,30,0.1740968801313627
+1,disease_on_symptoms,18,20,1.5733918128654971
+2,disease_on_drugs,26,24,0.7791025641025642

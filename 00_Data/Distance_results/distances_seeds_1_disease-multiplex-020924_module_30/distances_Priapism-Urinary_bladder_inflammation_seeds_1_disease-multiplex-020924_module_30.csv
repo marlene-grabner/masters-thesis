@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,-0.12969696969696964
+1,disease_on_symptoms,17,22,0.08696695461401327
+2,disease_on_drugs,28,24,0.07463369963369959

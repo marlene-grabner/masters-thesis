@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Uveitis nodes,sAB
+0,disease_on_genes,21,30,-0.016666666666666607
+1,disease_on_symptoms,24,21,0.5751984126984127
+2,disease_on_drugs,20,27,0.3607368006304177

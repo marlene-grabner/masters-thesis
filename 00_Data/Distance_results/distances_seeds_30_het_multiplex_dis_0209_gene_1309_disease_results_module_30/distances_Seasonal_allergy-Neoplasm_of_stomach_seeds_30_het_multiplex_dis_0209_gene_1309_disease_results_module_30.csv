@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,29,25,-0.16814814814814816
+1,disease_on_symptoms,18,23,-0.03181336161187698
+2,disease_on_drugs,29,24,0.059518000433745444

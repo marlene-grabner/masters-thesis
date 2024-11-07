@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.17241379310344818
+1,disease_on_symptoms,18,16,0.7283496732026142
+2,disease_on_drugs,28,23,0.15401595420776992

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.33499025341130606
+1,disease_on_symptoms,17,18,1.221661998132586
+2,disease_on_drugs,27,21,0.8482142857142856

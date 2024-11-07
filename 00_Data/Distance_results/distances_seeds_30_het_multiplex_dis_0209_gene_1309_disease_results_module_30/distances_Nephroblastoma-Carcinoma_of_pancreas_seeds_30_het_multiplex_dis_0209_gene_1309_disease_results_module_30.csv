@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,29,30,-0.22034872394311322
+1,disease_on_symptoms,20,18,-0.23932748538011683
+2,disease_on_drugs,24,21,-0.4220238095238096

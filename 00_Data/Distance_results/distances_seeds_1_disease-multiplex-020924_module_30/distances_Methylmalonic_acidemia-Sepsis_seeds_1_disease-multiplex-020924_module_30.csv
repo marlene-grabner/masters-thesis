@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Sepsis nodes,sAB
+0,disease_on_genes,25,22,0.4472147001934237
+1,disease_on_symptoms,16,23,2.460284280936455
+2,disease_on_drugs,17,17,0.6764705882352939

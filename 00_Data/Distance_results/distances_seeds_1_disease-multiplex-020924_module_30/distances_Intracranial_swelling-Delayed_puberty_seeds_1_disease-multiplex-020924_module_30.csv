@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,22,0.3320728291316526
+1,disease_on_symptoms,14,20,1.4094537815126054
+2,disease_on_drugs,24,19,0.39165136678906554

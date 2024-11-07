@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.1043859649122807
+1,disease_on_symptoms,17,22,0.4316810640340054
+2,disease_on_drugs,26,27,0.03800462291028306

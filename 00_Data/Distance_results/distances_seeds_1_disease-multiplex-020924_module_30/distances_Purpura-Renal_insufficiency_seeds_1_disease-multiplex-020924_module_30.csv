@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,0.009698996655518322
+1,disease_on_symptoms,17,23,0.8342710997442455
+2,disease_on_drugs,20,17,0.09379968203497602

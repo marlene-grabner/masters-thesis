@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,21,23,0.25684586731098347
+1,disease_on_symptoms,20,18,1.4260233918128655
+2,disease_on_drugs,19,18,0.6486486486486487

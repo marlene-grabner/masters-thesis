@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Pain nodes,sAB
+0,disease_on_genes,22,26,0.29865967365967383
+1,disease_on_symptoms,24,21,2.1317460317460317
+2,disease_on_drugs,13,26,0.9807692307692308

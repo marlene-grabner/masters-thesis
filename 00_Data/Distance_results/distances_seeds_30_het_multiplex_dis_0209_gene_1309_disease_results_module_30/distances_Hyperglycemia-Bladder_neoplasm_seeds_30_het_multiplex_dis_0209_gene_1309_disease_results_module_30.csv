@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,-0.1238095238095237
+1,disease_on_symptoms,17,19,0.9224286205710353
+2,disease_on_drugs,26,25,0.15912518853695312

@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,16,19,0.9486842105263158
+2,disease_on_drugs,25,25,0.5599999999999998

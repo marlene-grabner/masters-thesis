@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,-0.059294871794871806
+1,disease_on_symptoms,21,17,1.1079168509509065
+2,disease_on_drugs,26,23,0.24725274725274748

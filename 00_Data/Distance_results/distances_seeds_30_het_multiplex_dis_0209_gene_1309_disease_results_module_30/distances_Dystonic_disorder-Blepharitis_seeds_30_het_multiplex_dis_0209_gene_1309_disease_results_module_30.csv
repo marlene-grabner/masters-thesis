@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,18,1.0801120448179273
+2,disease_on_drugs,26,30,0.3584249084249085

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,28,0.2982132054273614
+1,disease_on_symptoms,21,19,0.5763784461152881
+2,disease_on_drugs,28,26,0.8160866910866909

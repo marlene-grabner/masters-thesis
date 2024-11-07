@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.32606060606060594
+1,disease_on_symptoms,22,26,-0.27112470862470883
+2,disease_on_drugs,29,24,-0.28274777705486875

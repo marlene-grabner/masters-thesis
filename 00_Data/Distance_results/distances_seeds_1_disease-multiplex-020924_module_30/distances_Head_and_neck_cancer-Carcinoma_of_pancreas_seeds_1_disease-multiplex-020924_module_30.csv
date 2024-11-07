@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,23,-0.5385185185185186
+1,disease_on_symptoms,22,25,-0.7951837524177952
+2,disease_on_drugs,24,21,-0.5749999999999998

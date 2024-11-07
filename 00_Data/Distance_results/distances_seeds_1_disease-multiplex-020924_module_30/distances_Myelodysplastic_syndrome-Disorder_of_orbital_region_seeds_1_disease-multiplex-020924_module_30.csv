@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,17,0.02188782489740082
+1,disease_on_symptoms,15,27,0.93015873015873
+2,disease_on_drugs,21,16,0.05526061776061786

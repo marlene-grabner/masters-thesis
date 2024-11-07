@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Myalgia nodes,sAB
+0,disease_on_genes,21,30,-0.004201680672268893
+1,disease_on_symptoms,20,16,0.8354166666666665
+2,disease_on_drugs,21,29,0.5661740558292283

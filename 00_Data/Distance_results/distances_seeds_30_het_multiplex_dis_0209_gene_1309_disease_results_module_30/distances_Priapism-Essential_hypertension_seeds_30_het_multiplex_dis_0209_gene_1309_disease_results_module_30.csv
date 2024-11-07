@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.10344827586206895
+1,disease_on_symptoms,12,13,-0.058205128205128354
+2,disease_on_drugs,28,28,-0.017857142857142794

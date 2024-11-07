@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,24,23,0.34757905138339895
+1,disease_on_symptoms,25,18,1.721188630490956
+2,disease_on_drugs,17,18,0.48571428571428577

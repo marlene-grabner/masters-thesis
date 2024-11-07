@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,20,18,0.5486842105263159
+2,disease_on_drugs,29,29,0.2586206896551724

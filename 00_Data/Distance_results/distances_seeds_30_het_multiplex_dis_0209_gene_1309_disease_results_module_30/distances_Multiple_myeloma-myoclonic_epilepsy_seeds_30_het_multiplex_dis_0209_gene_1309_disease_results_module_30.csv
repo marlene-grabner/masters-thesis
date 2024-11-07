@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,26,30,0.0
+1,disease_on_symptoms,21,16,1.1439832689832692
+2,disease_on_drugs,25,25,0.2999999999999998

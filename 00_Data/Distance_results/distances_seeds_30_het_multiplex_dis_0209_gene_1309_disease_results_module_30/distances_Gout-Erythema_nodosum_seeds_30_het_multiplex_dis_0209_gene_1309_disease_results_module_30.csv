@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,28,30,-0.05233990147783241
+1,disease_on_symptoms,19,22,-0.018876181584782437
+2,disease_on_drugs,22,29,-0.17471879033745163

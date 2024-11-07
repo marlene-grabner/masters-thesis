@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,17,19,-0.5350877192982457
+2,disease_on_drugs,30,30,-0.3833333333333333

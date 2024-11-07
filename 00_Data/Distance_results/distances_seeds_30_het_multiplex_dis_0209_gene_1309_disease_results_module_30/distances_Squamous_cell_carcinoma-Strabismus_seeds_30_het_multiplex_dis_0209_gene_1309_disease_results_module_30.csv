@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.05882352941176472
+1,disease_on_symptoms,22,24,0.6273880105401846
+2,disease_on_drugs,30,16,0.6915760869565217

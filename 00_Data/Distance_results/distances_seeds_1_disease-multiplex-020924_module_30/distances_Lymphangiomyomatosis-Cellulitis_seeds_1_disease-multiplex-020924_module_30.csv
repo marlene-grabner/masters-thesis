@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,22,0.32016210739615003
+1,disease_on_symptoms,19,26,1.193252361673414
+2,disease_on_drugs,22,12,1.298128342245989

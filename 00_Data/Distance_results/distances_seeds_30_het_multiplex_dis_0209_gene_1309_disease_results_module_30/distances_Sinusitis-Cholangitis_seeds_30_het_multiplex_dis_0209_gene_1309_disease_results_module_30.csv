@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,20,18,-0.24722222222222223
+2,disease_on_drugs,27,28,0.0025493025493026344

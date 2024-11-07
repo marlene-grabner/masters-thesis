@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,23,25,0.4197826086956522
+1,disease_on_symptoms,21,13,1.6794871794871795
+2,disease_on_drugs,19,16,0.8098214285714285

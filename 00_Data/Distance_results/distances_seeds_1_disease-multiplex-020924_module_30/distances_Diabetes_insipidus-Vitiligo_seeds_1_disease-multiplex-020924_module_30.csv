@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Vitiligo nodes,sAB
+0,disease_on_genes,24,24,0.27083333333333326
+1,disease_on_symptoms,18,22,2.036363636363636
+2,disease_on_drugs,18,11,0.8620689655172413

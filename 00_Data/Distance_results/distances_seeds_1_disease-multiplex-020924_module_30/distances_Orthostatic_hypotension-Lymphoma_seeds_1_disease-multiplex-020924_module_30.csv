@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.2855311355311354
+1,disease_on_symptoms,12,21,1.3122294372294374
+2,disease_on_drugs,17,25,0.9543977591036414

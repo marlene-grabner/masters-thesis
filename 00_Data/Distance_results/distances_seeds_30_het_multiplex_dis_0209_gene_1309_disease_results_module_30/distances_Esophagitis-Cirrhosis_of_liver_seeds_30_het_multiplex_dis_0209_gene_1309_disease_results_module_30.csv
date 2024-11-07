@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,20,19,-0.2780364372469635
+2,disease_on_drugs,30,30,0.050000000000000044

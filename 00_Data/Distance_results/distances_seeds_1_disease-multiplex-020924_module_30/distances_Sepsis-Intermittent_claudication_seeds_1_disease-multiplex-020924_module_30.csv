@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,22,20,0.19231601731601744
+1,disease_on_symptoms,23,24,0.8486162503854455
+2,disease_on_drugs,17,18,0.6872082166199813

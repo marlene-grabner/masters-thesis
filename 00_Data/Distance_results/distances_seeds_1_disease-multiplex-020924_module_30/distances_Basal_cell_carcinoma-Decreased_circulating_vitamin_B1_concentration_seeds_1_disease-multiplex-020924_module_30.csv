@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,25,0.19371040723981903
+1,disease_on_symptoms,23,13,2.910163507989595
+2,disease_on_drugs,25,16,0.6105182926829269

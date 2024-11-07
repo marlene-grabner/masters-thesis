@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.2633333333333332
+1,disease_on_symptoms,20,26,0.5382107023411371
+2,disease_on_drugs,22,13,0.06483516483516483

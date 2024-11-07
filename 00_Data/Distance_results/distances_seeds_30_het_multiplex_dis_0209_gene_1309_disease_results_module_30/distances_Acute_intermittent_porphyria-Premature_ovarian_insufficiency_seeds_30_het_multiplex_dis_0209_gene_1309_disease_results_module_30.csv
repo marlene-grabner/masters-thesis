@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.12192982456140344
+1,disease_on_symptoms,17,18,0.9464519140989727
+2,disease_on_drugs,24,22,-0.11009552042160742

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,23,29,-0.07692307692307687
+1,disease_on_symptoms,22,20,0.5234848484848484
+2,disease_on_drugs,21,27,-0.1329365079365079

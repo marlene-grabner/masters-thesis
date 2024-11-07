@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Diarrhea nodes,sAB
+0,disease_on_genes,27,30,-0.16081871345029242
+1,disease_on_symptoms,18,21,0.9774114774114775
+2,disease_on_drugs,25,29,0.034738186462324405

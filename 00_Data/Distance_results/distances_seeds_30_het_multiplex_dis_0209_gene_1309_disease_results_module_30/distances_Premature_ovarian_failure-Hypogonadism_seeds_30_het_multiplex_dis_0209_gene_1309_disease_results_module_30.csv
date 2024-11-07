@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,15,17,-0.4177696078431372
+2,disease_on_drugs,26,29,-0.3675428020255608

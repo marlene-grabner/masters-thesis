@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,26,30,0.034157509157509036
+1,disease_on_symptoms,21,20,0.7540940766550523
+2,disease_on_drugs,26,30,0.6948717948717948

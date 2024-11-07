@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,0.22413793103448265
+1,disease_on_symptoms,23,16,0.4119983277591972
+2,disease_on_drugs,27,25,0.25142450142450135

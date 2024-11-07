@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,16,29,0.3284722222222223
+1,disease_on_symptoms,23,16,1.6820652173913042
+2,disease_on_drugs,16,29,1.2181752873563219

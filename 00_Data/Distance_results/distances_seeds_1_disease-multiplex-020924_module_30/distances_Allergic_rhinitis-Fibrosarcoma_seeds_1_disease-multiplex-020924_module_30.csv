@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,21,22,0.3530403704822309
+1,disease_on_symptoms,22,24,1.701581027667984
+2,disease_on_drugs,21,13,0.7394957983193278

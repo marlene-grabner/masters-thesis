@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,26,21,0.23969293118229285
+1,disease_on_symptoms,28,20,1.9333333333333336
+2,disease_on_drugs,23,19,0.9068322981366459

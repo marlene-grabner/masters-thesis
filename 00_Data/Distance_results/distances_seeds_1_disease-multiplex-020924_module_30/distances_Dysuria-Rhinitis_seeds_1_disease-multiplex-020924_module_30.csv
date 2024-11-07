@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,-0.08653808688875886
+1,disease_on_symptoms,16,15,0.21754032258064493
+2,disease_on_drugs,23,22,-0.04396135265700496

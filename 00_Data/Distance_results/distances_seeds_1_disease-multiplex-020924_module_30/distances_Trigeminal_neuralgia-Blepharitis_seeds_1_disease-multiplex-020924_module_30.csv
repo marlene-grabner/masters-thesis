@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,20,0.275595238095238
+1,disease_on_symptoms,19,27,1.4327909144842783
+2,disease_on_drugs,26,19,0.6836932073774178

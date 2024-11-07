@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,24,27,0.034177559912854205
+1,disease_on_symptoms,20,27,0.5353624901497243
+2,disease_on_drugs,22,26,0.18881118881118875

@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.0
+1,disease_on_symptoms,18,20,0.666812865497076
+2,disease_on_drugs,28,28,0.10714285714285698

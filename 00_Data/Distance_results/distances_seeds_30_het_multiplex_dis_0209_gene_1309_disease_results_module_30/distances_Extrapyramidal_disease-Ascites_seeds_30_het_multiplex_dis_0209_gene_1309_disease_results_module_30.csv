@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,22,0.21363636363636385
+2,disease_on_drugs,25,27,0.019544159544159667

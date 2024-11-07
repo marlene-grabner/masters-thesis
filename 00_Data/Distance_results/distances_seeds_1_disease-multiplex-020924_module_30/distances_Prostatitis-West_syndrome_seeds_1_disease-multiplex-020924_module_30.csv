@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.4079096045197741
+1,disease_on_symptoms,20,18,2.1580409356725143
+2,disease_on_drugs,29,22,1.024340770791075

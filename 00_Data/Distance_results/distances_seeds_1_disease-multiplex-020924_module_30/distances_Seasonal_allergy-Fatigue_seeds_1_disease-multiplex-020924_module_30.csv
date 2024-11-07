@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Fatigue nodes,sAB
+0,disease_on_genes,29,26,0.03802748975162773
+1,disease_on_symptoms,15,21,0.42380952380952364
+2,disease_on_drugs,29,26,0.10793344586448028

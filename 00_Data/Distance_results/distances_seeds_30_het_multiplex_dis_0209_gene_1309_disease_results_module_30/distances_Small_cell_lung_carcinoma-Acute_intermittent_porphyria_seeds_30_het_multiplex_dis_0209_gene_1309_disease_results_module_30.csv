@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.1578947368421053
+1,disease_on_symptoms,19,17,0.7573959408324733
+2,disease_on_drugs,30,24,0.01620370370370372

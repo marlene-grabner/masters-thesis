@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,18,20,0.5301169590643275
+1,disease_on_symptoms,28,26,0.9493793243793243
+2,disease_on_drugs,17,13,0.3488687782805431

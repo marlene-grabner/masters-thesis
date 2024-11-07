@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,18,0.6866946778711487
+2,disease_on_drugs,24,30,0.017129629629629495

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,26,30,0.44862637362637336
+1,disease_on_symptoms,23,13,1.5853771832032701
+2,disease_on_drugs,25,18,0.9864341085271318

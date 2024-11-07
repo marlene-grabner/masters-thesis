@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,28,25,0.27812668463611856
+1,disease_on_symptoms,19,13,1.5106275303643724
+2,disease_on_drugs,26,16,0.5715430402930404

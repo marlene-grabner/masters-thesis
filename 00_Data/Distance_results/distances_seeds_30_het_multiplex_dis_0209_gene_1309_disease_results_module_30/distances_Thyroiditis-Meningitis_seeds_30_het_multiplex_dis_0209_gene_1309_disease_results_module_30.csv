@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,21,17,-0.2601356332006488
+2,disease_on_drugs,29,27,0.018153621601897596

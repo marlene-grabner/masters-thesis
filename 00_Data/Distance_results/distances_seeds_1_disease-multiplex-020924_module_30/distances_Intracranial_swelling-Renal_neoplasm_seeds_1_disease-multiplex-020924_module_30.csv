@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.17738927738927734
+1,disease_on_symptoms,14,25,0.32857142857142874
+2,disease_on_drugs,24,18,0.09821428571428559

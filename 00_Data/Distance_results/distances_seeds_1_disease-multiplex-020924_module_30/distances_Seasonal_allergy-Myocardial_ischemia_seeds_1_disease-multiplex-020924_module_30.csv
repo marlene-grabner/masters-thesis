@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,0.21917007597895943
+1,disease_on_symptoms,15,13,1.1252747252747253
+2,disease_on_drugs,29,23,0.5329258447699228

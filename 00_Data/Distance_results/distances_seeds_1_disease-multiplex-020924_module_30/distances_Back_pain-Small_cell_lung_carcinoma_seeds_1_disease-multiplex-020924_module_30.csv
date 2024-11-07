@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.19736842105263142
+1,disease_on_symptoms,16,24,0.5979166666666664
+2,disease_on_drugs,23,25,0.6066666666666667

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.10283251231527091
+1,disease_on_symptoms,18,17,0.5056489262371617
+2,disease_on_drugs,27,25,0.292022792022792

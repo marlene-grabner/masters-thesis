@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,0.20710955710955714
+1,disease_on_symptoms,20,14,1.23109243697479
+2,disease_on_drugs,19,26,0.2252136752136753

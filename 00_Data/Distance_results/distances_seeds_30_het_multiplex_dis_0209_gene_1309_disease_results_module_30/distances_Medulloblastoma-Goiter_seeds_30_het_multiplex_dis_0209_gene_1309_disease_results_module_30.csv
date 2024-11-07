@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.16981132075471694
+1,disease_on_symptoms,22,12,1.0960338680926918
+2,disease_on_drugs,26,18,0.3296425796425797

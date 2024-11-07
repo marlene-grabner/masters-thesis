@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,26,30,0.15915750915750904
+1,disease_on_symptoms,21,20,1.070005807200929
+2,disease_on_drugs,24,30,0.9023148148148148

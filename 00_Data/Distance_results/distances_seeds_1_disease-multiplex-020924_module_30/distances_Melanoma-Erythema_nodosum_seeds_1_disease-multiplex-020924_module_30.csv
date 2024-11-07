@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,24,28,0.3090659340659341
+1,disease_on_symptoms,23,23,1.456521739130435
+2,disease_on_drugs,22,28,0.4821428571428572

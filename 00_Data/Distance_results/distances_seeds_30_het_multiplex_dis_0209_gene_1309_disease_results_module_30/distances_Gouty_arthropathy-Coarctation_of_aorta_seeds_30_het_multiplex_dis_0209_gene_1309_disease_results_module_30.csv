@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,28,27,-0.0003367003367005239
+1,disease_on_symptoms,18,19,0.45444128338865175
+2,disease_on_drugs,23,24,0.12525053962380528

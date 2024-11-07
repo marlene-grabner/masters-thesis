@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,18,19,0.3442389758179232
+2,disease_on_drugs,29,28,0.0522426756546539

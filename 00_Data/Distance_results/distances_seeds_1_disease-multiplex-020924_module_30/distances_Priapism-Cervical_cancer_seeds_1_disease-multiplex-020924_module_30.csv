@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.40428849902534125
+1,disease_on_symptoms,17,23,1.0353580562659848
+2,disease_on_drugs,28,15,0.3743355481727575

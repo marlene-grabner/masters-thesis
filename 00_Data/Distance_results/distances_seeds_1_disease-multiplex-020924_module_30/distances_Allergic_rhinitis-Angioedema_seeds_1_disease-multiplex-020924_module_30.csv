@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,21,29,0.03996598639455784
+1,disease_on_symptoms,22,17,0.9644179350061703
+2,disease_on_drugs,21,25,0.052795031055900665

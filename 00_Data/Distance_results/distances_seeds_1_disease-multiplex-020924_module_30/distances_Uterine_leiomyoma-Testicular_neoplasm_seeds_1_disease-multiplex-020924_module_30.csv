@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,24,25,-0.06295918367346953
+1,disease_on_symptoms,21,25,1.2095238095238097
+2,disease_on_drugs,18,23,-0.09564628254978214

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,0.2059523809523809
+1,disease_on_symptoms,21,17,1.1506707946336432
+2,disease_on_drugs,25,26,1.2345098039215685

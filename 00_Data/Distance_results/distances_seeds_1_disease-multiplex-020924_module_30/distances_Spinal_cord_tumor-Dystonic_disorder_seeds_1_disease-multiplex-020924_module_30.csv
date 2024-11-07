@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,22,17,0.05659536541889465
+1,disease_on_symptoms,22,28,0.8403246753246754
+2,disease_on_drugs,14,9,0.3276397515527949

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,18,14,0.25843253968253976
+2,disease_on_drugs,27,24,0.3963779956427014

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,0.555952380952381
+1,disease_on_symptoms,22,20,1.5141774891774893
+2,disease_on_drugs,15,25,1.4499999999999997

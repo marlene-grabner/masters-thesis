@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,22,0.3627152988855116
+1,disease_on_symptoms,19,26,1.0581646423751687
+2,disease_on_drugs,24,12,1.6180555555555554

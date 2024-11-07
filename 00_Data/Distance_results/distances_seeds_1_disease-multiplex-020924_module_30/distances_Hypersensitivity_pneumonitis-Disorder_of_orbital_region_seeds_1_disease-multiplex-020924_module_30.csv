@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,24,17,-0.3859397417503587
+1,disease_on_symptoms,23,27,-0.20135265700483074
+2,disease_on_drugs,24,16,-0.36250000000000004

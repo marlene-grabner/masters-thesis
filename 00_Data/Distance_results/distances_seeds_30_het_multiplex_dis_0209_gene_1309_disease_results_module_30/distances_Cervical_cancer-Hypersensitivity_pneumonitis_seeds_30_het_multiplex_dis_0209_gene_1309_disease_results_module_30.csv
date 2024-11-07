@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,28,25,-0.05660377358490565
+1,disease_on_symptoms,22,20,0.3540043290043291
+2,disease_on_drugs,15,25,-0.021666666666666723

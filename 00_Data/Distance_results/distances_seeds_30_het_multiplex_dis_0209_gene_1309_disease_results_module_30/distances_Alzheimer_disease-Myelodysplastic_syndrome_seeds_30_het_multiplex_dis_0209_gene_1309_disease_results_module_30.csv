@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,23,26,-0.04081632653061229
+1,disease_on_symptoms,19,17,0.3757309941520468
+2,disease_on_drugs,19,24,0.057986536107711206

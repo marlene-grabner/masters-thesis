@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Back_pain nodes,sAB
+0,disease_on_genes,26,30,0.16666666666666652
+1,disease_on_symptoms,21,16,1.0405807593307594
+2,disease_on_drugs,24,23,0.574468085106383

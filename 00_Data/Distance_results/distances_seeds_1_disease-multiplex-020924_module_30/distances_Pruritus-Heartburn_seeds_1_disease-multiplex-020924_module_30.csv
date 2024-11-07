@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,-0.021309523809523778
+1,disease_on_symptoms,19,20,0.9411268556005399
+2,disease_on_drugs,24,22,0.3033596837944663

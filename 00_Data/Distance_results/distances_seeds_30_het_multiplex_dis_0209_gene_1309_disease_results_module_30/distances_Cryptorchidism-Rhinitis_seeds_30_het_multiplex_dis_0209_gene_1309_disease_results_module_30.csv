@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Rhinitis nodes,sAB
+0,disease_on_genes,23,30,0.03486464315012294
+1,disease_on_symptoms,19,12,0.6980758347481606
+2,disease_on_drugs,21,23,0.29154903067946547

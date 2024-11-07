@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,0.11999999999999988
+1,disease_on_symptoms,23,25,1.6137681159420292
+2,disease_on_drugs,20,23,0.487917087967644

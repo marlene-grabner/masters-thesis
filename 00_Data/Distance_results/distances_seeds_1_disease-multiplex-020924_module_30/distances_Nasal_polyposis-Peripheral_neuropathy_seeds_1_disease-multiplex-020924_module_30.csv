@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,15,30,0.5444444444444443
+1,disease_on_symptoms,25,20,2.022222222222222
+2,disease_on_drugs,10,24,0.6818627450980392

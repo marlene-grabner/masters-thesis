@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,29,18,-0.026412325752017685
+1,disease_on_symptoms,15,21,0.4198412698412697
+2,disease_on_drugs,29,17,0.41626245700679076

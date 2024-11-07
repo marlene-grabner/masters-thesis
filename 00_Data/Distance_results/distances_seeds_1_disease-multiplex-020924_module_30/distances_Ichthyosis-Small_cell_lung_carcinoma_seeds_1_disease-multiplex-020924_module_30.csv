@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,27,27,0.12962962962962954
+1,disease_on_symptoms,17,24,0.785210425633668
+2,disease_on_drugs,24,25,0.4502040816326529

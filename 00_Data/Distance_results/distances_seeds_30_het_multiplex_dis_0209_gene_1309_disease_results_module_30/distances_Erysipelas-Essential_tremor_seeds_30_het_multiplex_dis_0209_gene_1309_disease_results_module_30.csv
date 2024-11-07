@@ -1,0 +1,4 @@
+,Layer,Erysipelas nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.0
+1,disease_on_symptoms,18,23,0.8293566631318487
+2,disease_on_drugs,29,21,0.1057799671592774

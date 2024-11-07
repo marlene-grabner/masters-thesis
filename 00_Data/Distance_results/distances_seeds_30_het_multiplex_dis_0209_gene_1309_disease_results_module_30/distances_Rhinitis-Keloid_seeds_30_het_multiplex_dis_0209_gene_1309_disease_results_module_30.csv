@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.1132075471698113
+1,disease_on_symptoms,12,17,0.8035835023664637
+2,disease_on_drugs,23,22,0.2917654808959156

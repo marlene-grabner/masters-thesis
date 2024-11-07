@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Pneumonia nodes,sAB
+0,disease_on_genes,17,30,0.07807971014492776
+1,disease_on_symptoms,27,26,0.9229828522281351
+2,disease_on_drugs,14,28,0.2500000000000002

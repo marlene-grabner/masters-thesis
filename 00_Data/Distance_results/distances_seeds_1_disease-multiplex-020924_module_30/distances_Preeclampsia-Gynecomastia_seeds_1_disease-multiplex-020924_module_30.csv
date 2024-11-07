@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,0.25
+1,disease_on_symptoms,17,16,1.388926024955437
+2,disease_on_drugs,23,24,0.5753353376503236

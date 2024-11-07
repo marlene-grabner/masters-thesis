@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.4446074834922962
+1,disease_on_symptoms,16,27,1.7781276916451336
+2,disease_on_drugs,23,17,0.8900255754475703

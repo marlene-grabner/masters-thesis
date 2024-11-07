@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,19,14,0.4862724994303942
+2,disease_on_drugs,20,28,0.05773809523809548

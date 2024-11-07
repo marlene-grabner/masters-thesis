@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,28,30,-0.017857142857142794
+1,disease_on_symptoms,20,11,0.3271260997067451
+2,disease_on_drugs,27,21,0.07341269841269837

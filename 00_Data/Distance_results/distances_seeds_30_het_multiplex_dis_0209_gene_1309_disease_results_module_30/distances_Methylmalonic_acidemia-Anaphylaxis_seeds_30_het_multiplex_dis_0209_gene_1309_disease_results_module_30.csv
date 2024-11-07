@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,-0.05698005698005704
+1,disease_on_symptoms,17,14,1.6005014909189486
+2,disease_on_drugs,21,26,0.11606655755591921

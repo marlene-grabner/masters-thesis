@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,-0.07547169811320753
+1,disease_on_symptoms,20,21,0.6349303135888502
+2,disease_on_drugs,23,25,-0.12278985507246376

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,25,30,-0.09090909090909094
+1,disease_on_symptoms,22,20,-0.05281385281385287
+2,disease_on_drugs,25,28,-0.07102425876010776

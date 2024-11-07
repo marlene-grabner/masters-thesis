@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,23,17,0.37781329923273654
+2,disease_on_drugs,29,28,0.19105954541526238

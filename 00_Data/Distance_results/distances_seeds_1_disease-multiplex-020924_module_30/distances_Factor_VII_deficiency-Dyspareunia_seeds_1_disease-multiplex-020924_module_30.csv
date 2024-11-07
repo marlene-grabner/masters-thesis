@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,24,0.47061224489795905
+1,disease_on_symptoms,23,17,1.6331202046035804
+2,disease_on_drugs,21,23,0.841709015622059

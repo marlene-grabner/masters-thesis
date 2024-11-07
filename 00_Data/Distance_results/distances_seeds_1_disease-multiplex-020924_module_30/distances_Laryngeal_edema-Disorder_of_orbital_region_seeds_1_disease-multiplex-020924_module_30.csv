@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,-0.053817271589486904
+1,disease_on_symptoms,20,27,0.6330969267139479
+2,disease_on_drugs,28,16,-0.1387987012987013

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,0.07192982456140373
+1,disease_on_symptoms,14,23,1.5919926137317442
+2,disease_on_drugs,29,20,1.1632653061224492

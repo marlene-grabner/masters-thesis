@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Arthralgia nodes,sAB
+0,disease_on_genes,26,30,0.1964285714285714
+1,disease_on_symptoms,19,19,1.6315789473684212
+2,disease_on_drugs,24,30,0.7199074074074072

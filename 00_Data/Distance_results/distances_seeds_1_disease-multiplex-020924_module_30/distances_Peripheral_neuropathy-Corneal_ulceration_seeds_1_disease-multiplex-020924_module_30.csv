@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.27754515599343166
+1,disease_on_symptoms,20,19,1.5145748987854253
+2,disease_on_drugs,24,26,1.0783333333333336

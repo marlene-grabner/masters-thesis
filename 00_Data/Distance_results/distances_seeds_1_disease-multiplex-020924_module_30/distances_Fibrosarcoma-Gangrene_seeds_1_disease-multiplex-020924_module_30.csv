@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,22,26,0.4412878787878787
+1,disease_on_symptoms,24,19,2.0685434516523866
+2,disease_on_drugs,13,23,0.894927536231884

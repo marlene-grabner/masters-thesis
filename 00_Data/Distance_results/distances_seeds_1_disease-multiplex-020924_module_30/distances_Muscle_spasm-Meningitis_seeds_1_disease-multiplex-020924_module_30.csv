@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Meningitis nodes,sAB
+0,disease_on_genes,25,29,0.3112388250319287
+1,disease_on_symptoms,23,20,1.723887765419616
+2,disease_on_drugs,19,26,1.0222222222222221

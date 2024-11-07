@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,24,28,0.13301282051282026
+1,disease_on_symptoms,19,22,0.8213327109347648
+2,disease_on_drugs,19,15,0.23797729618163044

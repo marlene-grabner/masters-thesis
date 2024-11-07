@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.1132075471698113
+1,disease_on_symptoms,12,17,1.237491548343475
+2,disease_on_drugs,28,22,-0.029870129870129603

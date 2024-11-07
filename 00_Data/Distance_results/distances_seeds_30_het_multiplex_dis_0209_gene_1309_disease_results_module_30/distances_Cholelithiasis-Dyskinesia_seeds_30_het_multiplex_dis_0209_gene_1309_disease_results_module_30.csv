@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,25,30,0.07272727272727275
+1,disease_on_symptoms,20,15,1.092857142857143
+2,disease_on_drugs,18,28,0.157263630089717

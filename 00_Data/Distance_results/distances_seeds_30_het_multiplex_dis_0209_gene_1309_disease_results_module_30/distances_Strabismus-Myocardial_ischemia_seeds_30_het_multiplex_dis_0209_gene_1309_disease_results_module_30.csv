@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,17,30,-0.20314977054651662
+1,disease_on_symptoms,24,19,0.13920338637290897
+2,disease_on_drugs,16,30,0.09302536231884062

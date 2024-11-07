@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Peritonitis nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,17,14,0.02880184331797242
+2,disease_on_drugs,24,24,-0.10416666666666652

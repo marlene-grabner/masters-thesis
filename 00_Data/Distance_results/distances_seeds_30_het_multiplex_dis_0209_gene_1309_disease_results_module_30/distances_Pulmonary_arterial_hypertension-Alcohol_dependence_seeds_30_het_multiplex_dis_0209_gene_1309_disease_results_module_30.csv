@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,28,30,-0.033333333333333215
+1,disease_on_symptoms,17,18,0.026423902894491258
+2,disease_on_drugs,25,24,-0.12129251700680288

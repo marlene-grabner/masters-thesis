@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Anorexia nodes,sAB
+0,disease_on_genes,25,17,0.3937815126050419
+1,disease_on_symptoms,23,25,2.6444927536231884
+2,disease_on_drugs,21,13,1.1198017668605904

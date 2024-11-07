@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Ascites nodes,sAB
+0,disease_on_genes,24,30,0.15277777777777768
+1,disease_on_symptoms,26,17,0.22029885299379126
+2,disease_on_drugs,15,27,0.4444444444444444

@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,0.1454545454545455
+1,disease_on_symptoms,20,19,0.5884952766531715
+2,disease_on_drugs,29,22,0.3852726043395416

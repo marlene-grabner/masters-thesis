@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,30,2.220446049250313e-16
+1,disease_on_symptoms,16,19,0.3772086466165412
+2,disease_on_drugs,28,24,0.32280219780219777

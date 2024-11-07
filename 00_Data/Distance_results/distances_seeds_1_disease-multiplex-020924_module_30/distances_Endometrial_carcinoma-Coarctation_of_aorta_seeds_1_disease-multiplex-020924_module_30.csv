@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,23,27,0.3147826086956522
+1,disease_on_symptoms,21,14,1.4833333333333334
+2,disease_on_drugs,21,13,0.546218487394958

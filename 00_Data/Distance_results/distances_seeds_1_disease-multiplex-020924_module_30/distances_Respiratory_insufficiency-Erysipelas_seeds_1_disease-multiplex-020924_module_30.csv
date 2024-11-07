@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,28,0.3393800539083558
+1,disease_on_symptoms,20,20,1.7750000000000001
+2,disease_on_drugs,14,27,0.18554006968641112

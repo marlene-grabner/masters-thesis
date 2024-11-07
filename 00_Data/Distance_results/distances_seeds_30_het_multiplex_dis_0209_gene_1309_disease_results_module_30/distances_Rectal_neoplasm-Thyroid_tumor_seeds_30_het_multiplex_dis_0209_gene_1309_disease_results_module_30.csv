@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.1298742138364779
+1,disease_on_symptoms,20,20,0.10000000000000009
+2,disease_on_drugs,29,20,-0.049982406755805675

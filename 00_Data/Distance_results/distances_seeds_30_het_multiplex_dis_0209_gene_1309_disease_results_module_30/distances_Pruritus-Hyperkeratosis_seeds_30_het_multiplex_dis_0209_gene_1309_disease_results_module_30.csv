@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,-0.24529645756060847
+1,disease_on_symptoms,21,25,0.09055900621118007
+2,disease_on_drugs,27,25,-0.15407407407407403

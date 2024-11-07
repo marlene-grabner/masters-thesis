@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,-0.3606060606060605
+1,disease_on_symptoms,25,26,-0.5084012066365008
+2,disease_on_drugs,24,28,-0.38782051282051266

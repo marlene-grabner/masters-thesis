@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,23,14,0.2532734597951989
+1,disease_on_symptoms,20,23,0.9840242669362993
+2,disease_on_drugs,19,14,0.7575757575757576

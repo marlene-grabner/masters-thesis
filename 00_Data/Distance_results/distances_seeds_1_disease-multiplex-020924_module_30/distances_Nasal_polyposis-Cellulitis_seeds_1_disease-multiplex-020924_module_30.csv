@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,15,22,0.19285714285714284
+1,disease_on_symptoms,25,26,0.958371040723982
+2,disease_on_drugs,10,12,0.08181818181818179

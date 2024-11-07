@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Gangrene nodes,sAB
+0,disease_on_genes,17,26,0.1846785225718195
+1,disease_on_symptoms,21,19,1.4192355889724313
+2,disease_on_drugs,17,23,0.6694373401534528

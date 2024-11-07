@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,22,0.6541889483065955
+1,disease_on_symptoms,18,19,1.9726568673937095
+2,disease_on_drugs,22,19,0.8517329910141207

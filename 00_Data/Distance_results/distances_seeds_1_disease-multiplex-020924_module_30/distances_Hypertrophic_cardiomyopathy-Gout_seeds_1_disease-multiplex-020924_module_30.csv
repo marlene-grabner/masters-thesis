@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Gout nodes,sAB
+0,disease_on_genes,30,25,0.28848484848484857
+1,disease_on_symptoms,17,18,1.8820728291316529
+2,disease_on_drugs,17,23,0.17500000000000004

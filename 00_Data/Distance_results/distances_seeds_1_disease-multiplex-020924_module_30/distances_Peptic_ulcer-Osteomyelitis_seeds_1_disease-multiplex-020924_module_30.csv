@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,28,25,-0.03506738544474408
+1,disease_on_symptoms,14,23,0.6124307537351017
+2,disease_on_drugs,28,23,0.4663256606990622

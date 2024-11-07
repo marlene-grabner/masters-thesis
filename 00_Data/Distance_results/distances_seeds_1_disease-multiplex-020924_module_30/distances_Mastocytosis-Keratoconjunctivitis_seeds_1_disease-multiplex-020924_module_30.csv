@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,18,29,0.18498817966903092
+1,disease_on_symptoms,28,25,0.27893530997304583
+2,disease_on_drugs,17,27,0.11541889483065937

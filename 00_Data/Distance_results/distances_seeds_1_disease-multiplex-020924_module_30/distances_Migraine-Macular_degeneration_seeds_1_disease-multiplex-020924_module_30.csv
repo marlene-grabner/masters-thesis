@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,14,15,0.4599343185550082
+2,disease_on_drugs,29,21,0.7961904761904763

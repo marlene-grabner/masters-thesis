@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,25,30,-0.2733333333333332
+1,disease_on_symptoms,21,22,0.15647337158965047
+2,disease_on_drugs,24,30,-0.05925925925925912

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.1449999999999998
+1,disease_on_symptoms,15,27,0.5497354497354499
+2,disease_on_drugs,23,19,0.49705786204642033

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.31639833035181875
+1,disease_on_symptoms,16,26,0.9261675824175821
+2,disease_on_drugs,30,9,0.5854700854700854

@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.33836477987421376
+1,disease_on_symptoms,17,22,1.0164541341011928
+2,disease_on_drugs,26,17,0.8419972640218878

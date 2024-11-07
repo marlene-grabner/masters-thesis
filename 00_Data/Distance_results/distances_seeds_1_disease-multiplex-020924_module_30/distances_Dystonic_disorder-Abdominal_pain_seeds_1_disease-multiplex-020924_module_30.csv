@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,17,30,0.2745515227367543
+1,disease_on_symptoms,28,24,2.1215659340659343
+2,disease_on_drugs,9,24,0.6250000000000002

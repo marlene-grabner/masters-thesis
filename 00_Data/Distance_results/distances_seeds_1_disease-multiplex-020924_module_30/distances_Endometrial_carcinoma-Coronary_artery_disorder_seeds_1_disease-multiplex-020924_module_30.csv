@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,23,19,0.2418001525553013
+1,disease_on_symptoms,21,21,2.428571428571429
+2,disease_on_drugs,21,17,0.5075187969924813

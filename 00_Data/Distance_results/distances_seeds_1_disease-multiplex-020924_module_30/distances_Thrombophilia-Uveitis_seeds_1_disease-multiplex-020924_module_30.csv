@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.3332358674463938
+1,disease_on_symptoms,18,21,1.1562881562881562
+2,disease_on_drugs,21,27,0.7046957671957672

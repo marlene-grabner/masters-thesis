@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,18,19,0.8182788051209104
+2,disease_on_drugs,27,27,0.2407407407407407

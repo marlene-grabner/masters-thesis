@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,30,0.08791208791208804
+1,disease_on_symptoms,25,14,0.4082051282051282
+2,disease_on_drugs,25,24,0.10069727891156455

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,17,20,0.2445548489666136
+1,disease_on_symptoms,22,24,1.6802536231884058
+2,disease_on_drugs,15,18,0.5222222222222224

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,7,30,0.09337194337194332
+1,disease_on_symptoms,30,24,0.6925925925925924
+2,disease_on_drugs,6,28,0.6214985994397759

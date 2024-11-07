@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.28148148148148144
+1,disease_on_symptoms,23,24,0.593258556891767
+2,disease_on_drugs,15,24,0.24551282051282053

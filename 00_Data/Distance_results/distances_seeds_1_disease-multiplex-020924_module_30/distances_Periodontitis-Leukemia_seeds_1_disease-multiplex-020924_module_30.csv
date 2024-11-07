@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.2030752916224816
+1,disease_on_symptoms,25,27,0.6409116809116808
+2,disease_on_drugs,22,17,0.689736733854381

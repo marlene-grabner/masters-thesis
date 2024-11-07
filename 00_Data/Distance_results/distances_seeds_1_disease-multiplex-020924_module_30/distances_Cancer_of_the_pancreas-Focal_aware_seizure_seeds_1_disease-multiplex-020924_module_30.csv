@@ -1,0 +1,4 @@
+,Layer,Cancer_of_the_pancreas nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,0.24137931034482762
+1,disease_on_symptoms,16,15,1.5501344086021507
+2,disease_on_drugs,29,29,1.1896551724137931

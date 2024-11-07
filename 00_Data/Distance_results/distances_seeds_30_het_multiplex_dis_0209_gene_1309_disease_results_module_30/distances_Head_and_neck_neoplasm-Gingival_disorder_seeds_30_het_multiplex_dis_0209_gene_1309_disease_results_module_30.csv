@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,22,19,0.3173940949935816
+2,disease_on_drugs,27,24,0.06740196078431371

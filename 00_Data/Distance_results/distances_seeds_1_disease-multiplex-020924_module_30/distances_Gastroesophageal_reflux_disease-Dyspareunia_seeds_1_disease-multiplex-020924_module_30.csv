@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.1399999999999999
+1,disease_on_symptoms,17,17,0.9705882352941178
+2,disease_on_drugs,25,23,0.706449275362319

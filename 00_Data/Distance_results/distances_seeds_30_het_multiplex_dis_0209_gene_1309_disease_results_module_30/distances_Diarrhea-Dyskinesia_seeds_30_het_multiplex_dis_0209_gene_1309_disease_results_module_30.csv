@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,21,15,0.8269841269841272
+2,disease_on_drugs,29,28,0.07107207674358307

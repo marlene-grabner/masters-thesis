@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,28,25,-0.040000000000000036
+1,disease_on_symptoms,20,21,0.46466318234610915
+2,disease_on_drugs,25,24,0.18482993197278907

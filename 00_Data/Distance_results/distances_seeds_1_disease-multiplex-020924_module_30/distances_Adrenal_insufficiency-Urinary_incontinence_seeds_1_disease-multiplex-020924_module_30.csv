@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,17,26,0.17865410922866465
+1,disease_on_symptoms,21,20,0.9194250871080138
+2,disease_on_drugs,14,20,0.5588235294117647

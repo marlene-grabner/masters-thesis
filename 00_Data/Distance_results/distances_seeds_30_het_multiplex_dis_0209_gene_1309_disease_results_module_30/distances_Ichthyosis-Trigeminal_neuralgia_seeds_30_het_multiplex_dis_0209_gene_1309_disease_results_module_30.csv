@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,18,15,0.03080808080808084
+2,disease_on_drugs,25,25,-2.220446049250313e-16

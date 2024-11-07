@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,10,0.30341880341880345
+1,disease_on_symptoms,19,27,2.1421730655140268
+2,disease_on_drugs,24,9,0.7064393939393938

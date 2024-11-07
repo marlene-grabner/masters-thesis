@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,-0.17213130722774217
+1,disease_on_symptoms,16,16,0.21875
+2,disease_on_drugs,27,23,-0.0017391304347826875

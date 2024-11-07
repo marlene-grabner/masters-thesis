@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,21,27,0.29100529100529093
+1,disease_on_symptoms,20,23,1.4293731041456015
+2,disease_on_drugs,19,15,1.035294117647059

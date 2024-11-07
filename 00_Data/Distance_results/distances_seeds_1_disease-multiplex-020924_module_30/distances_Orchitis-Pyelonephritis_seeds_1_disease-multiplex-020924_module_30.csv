@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,23,23,0.23913043478260887
+1,disease_on_symptoms,16,21,1.244650900900901
+2,disease_on_drugs,17,19,0.8856209150326797

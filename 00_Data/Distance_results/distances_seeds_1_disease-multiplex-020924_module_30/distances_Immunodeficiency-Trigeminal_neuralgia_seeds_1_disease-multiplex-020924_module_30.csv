@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,22,28,0.3982467532467533
+1,disease_on_symptoms,19,19,2.1578947368421053
+2,disease_on_drugs,18,26,0.7257187257187256

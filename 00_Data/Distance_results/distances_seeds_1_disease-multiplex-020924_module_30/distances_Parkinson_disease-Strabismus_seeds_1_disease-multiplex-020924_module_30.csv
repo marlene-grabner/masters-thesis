@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Strabismus nodes,sAB
+0,disease_on_genes,21,13,0.06668821374703726
+1,disease_on_symptoms,20,26,1.2321070234113711
+2,disease_on_drugs,19,9,0.5158730158730158

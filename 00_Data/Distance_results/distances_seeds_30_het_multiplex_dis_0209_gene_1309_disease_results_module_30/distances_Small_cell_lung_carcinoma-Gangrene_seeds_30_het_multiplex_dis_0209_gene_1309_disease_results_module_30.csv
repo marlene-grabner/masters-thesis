@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,19,22,0.2973217411599953
+2,disease_on_drugs,30,27,0.2958089668615984

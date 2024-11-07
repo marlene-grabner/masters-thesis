@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,13,21,0.45507433742727876
+2,disease_on_drugs,19,26,0.03277103013945104

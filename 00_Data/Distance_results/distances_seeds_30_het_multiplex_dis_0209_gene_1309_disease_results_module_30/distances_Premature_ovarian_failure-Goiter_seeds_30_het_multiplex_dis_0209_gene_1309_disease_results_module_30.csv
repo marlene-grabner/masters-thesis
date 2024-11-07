@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,15,12,0.9935185185185182
+2,disease_on_drugs,26,18,0.236985236985237

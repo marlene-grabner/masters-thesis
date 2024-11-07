@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Uveitis nodes,sAB
+0,disease_on_genes,24,30,0.32824074074074083
+1,disease_on_symptoms,25,21,0.5701863354037267
+2,disease_on_drugs,17,27,0.36784511784511786

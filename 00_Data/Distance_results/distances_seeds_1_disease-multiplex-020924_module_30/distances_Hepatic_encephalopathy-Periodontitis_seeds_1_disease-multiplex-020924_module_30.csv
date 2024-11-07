@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Periodontitis nodes,sAB
+0,disease_on_genes,9,23,-0.030495169082125573
+1,disease_on_symptoms,27,25,2.2527350427350425
+2,disease_on_drugs,9,22,0.0931085043988269

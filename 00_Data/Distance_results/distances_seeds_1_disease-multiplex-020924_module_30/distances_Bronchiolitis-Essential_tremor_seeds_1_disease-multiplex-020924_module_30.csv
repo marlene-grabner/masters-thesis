@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,23,21,0.2964426877470354
+1,disease_on_symptoms,25,20,1.9494444444444445
+2,disease_on_drugs,18,19,0.7552157420578474

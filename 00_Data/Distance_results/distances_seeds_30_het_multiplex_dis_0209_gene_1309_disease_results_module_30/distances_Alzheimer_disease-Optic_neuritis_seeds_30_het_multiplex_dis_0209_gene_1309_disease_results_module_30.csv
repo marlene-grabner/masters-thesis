@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,-0.36
+1,disease_on_symptoms,19,21,-0.09530075187969933
+2,disease_on_drugs,19,27,-0.4329180439020256

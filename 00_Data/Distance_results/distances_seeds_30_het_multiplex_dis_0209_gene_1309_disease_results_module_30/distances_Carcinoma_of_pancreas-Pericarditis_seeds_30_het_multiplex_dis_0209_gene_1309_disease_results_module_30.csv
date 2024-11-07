@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.1261904761904762
+1,disease_on_symptoms,18,21,0.709096459096459
+2,disease_on_drugs,21,26,0.5776829553425296

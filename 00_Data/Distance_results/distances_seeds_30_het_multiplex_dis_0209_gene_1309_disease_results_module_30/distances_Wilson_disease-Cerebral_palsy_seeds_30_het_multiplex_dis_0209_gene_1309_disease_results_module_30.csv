@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,25,30,0.07272727272727275
+1,disease_on_symptoms,19,13,0.9830465587044535
+2,disease_on_drugs,22,21,-0.16404912916540826

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,24,30,0.2981481481481483
+1,disease_on_symptoms,23,12,1.7356625258799172
+2,disease_on_drugs,22,17,1.0218702865761689

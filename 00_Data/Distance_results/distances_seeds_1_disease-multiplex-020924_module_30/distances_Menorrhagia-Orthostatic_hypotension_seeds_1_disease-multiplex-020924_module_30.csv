@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,26,30,0.30064102564102546
+1,disease_on_symptoms,19,12,1.8670769666100737
+2,disease_on_drugs,24,17,0.4131695361071257

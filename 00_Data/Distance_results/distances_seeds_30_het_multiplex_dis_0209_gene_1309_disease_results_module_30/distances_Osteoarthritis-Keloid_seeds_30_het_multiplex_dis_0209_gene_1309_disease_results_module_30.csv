@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,-0.42621664050235464
+1,disease_on_symptoms,22,17,-0.39027149321266963
+2,disease_on_drugs,25,22,-0.40059961315280446

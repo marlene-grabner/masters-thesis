@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.21052631578947367
+1,disease_on_symptoms,17,21,0.11499336576735963
+2,disease_on_drugs,30,27,-0.1747563352826511

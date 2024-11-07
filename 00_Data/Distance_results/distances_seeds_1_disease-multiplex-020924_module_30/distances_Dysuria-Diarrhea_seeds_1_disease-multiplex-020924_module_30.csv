@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,-0.06857781426746956
+1,disease_on_symptoms,16,19,1.4788063909774438
+2,disease_on_drugs,23,26,0.285560712579346

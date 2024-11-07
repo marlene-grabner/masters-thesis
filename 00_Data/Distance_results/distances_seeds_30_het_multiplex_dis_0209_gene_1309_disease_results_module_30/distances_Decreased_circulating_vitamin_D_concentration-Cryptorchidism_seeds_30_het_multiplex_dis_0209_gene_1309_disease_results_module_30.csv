@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,25,23,-0.12590579710144933
+1,disease_on_symptoms,13,19,0.6644736842105263
+2,disease_on_drugs,21,21,-0.14285714285714302

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,17,-0.16825113883937404
+1,disease_on_symptoms,23,24,0.44748304039469633
+2,disease_on_drugs,25,16,0.5198475609756097

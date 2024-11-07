@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,24,17,0.2726982097186701
+1,disease_on_symptoms,23,21,1.5461603613777526
+2,disease_on_drugs,20,14,0.5338235294117648

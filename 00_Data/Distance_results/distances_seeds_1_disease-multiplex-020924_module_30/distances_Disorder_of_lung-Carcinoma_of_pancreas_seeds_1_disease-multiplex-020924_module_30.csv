@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,23,0.42148148148148135
+1,disease_on_symptoms,17,25,1.131484593837535
+2,disease_on_drugs,20,21,1.0975609756097562

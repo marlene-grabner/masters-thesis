@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,26,25,0.31446455505279025
+1,disease_on_symptoms,17,24,2.033506695361071
+2,disease_on_drugs,20,23,0.9534883720930232

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.0003367003367005239
+1,disease_on_symptoms,23,17,0.7579283887468033
+2,disease_on_drugs,25,25,0.3400000000000001

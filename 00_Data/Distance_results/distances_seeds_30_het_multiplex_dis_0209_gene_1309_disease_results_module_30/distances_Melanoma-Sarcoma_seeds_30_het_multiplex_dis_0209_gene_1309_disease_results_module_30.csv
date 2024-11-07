@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.40448343079922033
+1,disease_on_symptoms,23,23,-0.5
+2,disease_on_drugs,25,24,-0.5936054421768707

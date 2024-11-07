@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,28,30,0.26091954022988517
+1,disease_on_symptoms,23,20,1.3558897876643072
+2,disease_on_drugs,26,30,0.3365384615384617

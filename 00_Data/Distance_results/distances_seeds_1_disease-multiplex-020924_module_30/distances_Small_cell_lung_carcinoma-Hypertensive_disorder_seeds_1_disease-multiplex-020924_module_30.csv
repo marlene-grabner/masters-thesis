@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,27,26,0.2075471698113207
+1,disease_on_symptoms,24,15,1.366025641025641
+2,disease_on_drugs,25,26,0.743921568627451

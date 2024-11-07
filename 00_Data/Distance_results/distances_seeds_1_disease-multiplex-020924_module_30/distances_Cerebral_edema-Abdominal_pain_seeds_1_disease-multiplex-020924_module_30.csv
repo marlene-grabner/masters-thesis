@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.5333333333333334
+1,disease_on_symptoms,9,24,0.6508838383838385
+2,disease_on_drugs,11,24,0.37002164502164514

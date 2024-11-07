@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,21,30,0.10266106442577017
+1,disease_on_symptoms,22,15,0.20032760032760022
+2,disease_on_drugs,21,23,-0.005505364201016327

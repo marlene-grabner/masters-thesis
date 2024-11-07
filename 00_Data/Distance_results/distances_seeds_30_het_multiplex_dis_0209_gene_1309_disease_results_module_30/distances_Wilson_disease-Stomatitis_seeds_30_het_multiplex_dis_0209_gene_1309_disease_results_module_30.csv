@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,-0.09090909090909094
+1,disease_on_symptoms,19,19,0.10526315789473673
+2,disease_on_drugs,22,29,0.002581596902083705

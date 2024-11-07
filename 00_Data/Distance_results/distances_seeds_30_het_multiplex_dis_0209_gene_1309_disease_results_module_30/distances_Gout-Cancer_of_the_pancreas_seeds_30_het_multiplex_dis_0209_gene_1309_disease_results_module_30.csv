@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,30,-0.12130541871921174
+1,disease_on_symptoms,19,23,0.46256946714612646
+2,disease_on_drugs,22,30,-0.127972027972028

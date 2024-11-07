@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,25,25,-0.18000000000000005
+1,disease_on_symptoms,23,17,0.7711636828644501
+2,disease_on_drugs,24,21,0.07916666666666661

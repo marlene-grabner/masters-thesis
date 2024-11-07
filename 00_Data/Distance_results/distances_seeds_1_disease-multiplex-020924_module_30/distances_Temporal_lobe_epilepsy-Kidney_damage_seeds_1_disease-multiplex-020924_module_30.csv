@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,0.25010555946516533
+1,disease_on_symptoms,17,26,1.381800484057666
+2,disease_on_drugs,26,13,0.7884615384615383

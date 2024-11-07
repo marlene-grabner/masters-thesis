@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,18,25,0.31382428940568463
+2,disease_on_drugs,28,29,0.03193328147956098

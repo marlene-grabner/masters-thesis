@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,20,0.07888888888888901
+1,disease_on_symptoms,25,23,1.7503985507246378
+2,disease_on_drugs,21,17,0.2445820433436532

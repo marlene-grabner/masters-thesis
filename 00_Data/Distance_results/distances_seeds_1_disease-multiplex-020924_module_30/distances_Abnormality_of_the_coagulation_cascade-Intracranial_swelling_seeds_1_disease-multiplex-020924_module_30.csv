@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,23,30,0.3520782061799288
+1,disease_on_symptoms,23,14,0.5842706060097365
+2,disease_on_drugs,18,24,0.6061507936507935

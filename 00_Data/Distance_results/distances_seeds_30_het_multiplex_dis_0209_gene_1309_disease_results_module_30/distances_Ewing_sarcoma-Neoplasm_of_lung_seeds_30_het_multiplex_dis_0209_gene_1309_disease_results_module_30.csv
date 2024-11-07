@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,17,19,-0.2535259717922256
+2,disease_on_drugs,24,30,-0.35972222222222217

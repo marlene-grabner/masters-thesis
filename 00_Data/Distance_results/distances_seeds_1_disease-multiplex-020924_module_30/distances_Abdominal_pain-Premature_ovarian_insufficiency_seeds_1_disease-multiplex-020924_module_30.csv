@@ -1,0 +1,4 @@
+,Layer,Abdominal_pain nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.23081761006289314
+1,disease_on_symptoms,24,22,0.970602766798419
+2,disease_on_drugs,24,17,0.16278096604495462

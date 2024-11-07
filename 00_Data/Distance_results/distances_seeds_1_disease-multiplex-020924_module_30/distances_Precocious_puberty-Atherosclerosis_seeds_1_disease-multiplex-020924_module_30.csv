@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.3166666666666669
+1,disease_on_symptoms,14,13,0.4322344322344325
+2,disease_on_drugs,24,29,0.8113207547169812

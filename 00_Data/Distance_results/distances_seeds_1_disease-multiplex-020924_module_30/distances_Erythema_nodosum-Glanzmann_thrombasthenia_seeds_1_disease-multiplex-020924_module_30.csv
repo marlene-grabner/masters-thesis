@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,28,24,0.24977106227106227
+1,disease_on_symptoms,23,21,0.5868153585544893
+2,disease_on_drugs,28,24,0.3587454212454213

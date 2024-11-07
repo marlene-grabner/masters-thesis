@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,0.24401709401709404
+1,disease_on_symptoms,17,27,1.3434343434343434
+2,disease_on_drugs,26,9,0.8939560439560439

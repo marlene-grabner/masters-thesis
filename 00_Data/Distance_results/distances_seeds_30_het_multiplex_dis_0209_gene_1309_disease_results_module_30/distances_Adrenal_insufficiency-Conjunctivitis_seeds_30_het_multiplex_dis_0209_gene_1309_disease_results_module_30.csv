@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,15,27,0.19100529100529062
+2,disease_on_drugs,24,28,0.3239468864468864

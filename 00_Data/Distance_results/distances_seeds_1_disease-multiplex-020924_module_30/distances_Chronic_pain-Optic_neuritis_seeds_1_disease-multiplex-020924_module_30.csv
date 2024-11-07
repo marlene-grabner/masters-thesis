@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.12085769980506811
+1,disease_on_symptoms,22,16,1.2788576555023923
+2,disease_on_drugs,28,27,0.3451058201058199

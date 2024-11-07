@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,22,30,0.38240093240093254
+1,disease_on_symptoms,24,17,0.9633847441415591
+2,disease_on_drugs,20,26,1.0184782608695655

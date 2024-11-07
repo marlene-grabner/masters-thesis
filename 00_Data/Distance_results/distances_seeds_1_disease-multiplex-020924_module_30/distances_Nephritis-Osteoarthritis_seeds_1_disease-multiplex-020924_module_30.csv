@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.12545454545454549
+1,disease_on_symptoms,18,20,0.8190058479532165
+2,disease_on_drugs,27,21,0.19907407407407418

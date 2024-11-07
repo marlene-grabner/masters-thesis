@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,19,20,0.23286099865047216
+2,disease_on_drugs,30,28,0.1364942528735631

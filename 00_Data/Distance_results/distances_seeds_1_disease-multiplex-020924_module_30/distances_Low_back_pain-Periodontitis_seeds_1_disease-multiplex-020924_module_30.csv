@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.20113480995351374
+1,disease_on_symptoms,17,25,1.3885714285714283
+2,disease_on_drugs,26,22,0.5888694638694638

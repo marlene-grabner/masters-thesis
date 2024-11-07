@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,26,25,0.21523378582202124
+1,disease_on_symptoms,28,23,1.0105498721227621
+2,disease_on_drugs,23,19,0.9782608695652173

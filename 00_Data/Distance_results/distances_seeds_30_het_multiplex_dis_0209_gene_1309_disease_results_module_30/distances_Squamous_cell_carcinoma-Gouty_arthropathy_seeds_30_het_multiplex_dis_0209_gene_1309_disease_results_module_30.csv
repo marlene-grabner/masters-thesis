@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.01724137931034475
+1,disease_on_symptoms,22,18,0.4813131313131316
+2,disease_on_drugs,30,23,0.10336341263330584

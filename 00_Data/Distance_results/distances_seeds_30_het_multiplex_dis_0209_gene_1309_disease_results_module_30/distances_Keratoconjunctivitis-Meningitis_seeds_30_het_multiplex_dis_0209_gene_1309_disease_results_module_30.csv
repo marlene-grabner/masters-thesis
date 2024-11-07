@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,-0.13793103448275867
+1,disease_on_symptoms,20,17,0.6956677265500795
+2,disease_on_drugs,27,27,-0.20370370370370372

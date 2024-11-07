@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,19,23,0.3831317423994769
+2,disease_on_drugs,25,29,0.338441890166028

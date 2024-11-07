@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,28,24,0.1714743589743588
+1,disease_on_symptoms,21,19,0.8258771929824562
+2,disease_on_drugs,21,19,0.17211779448621534

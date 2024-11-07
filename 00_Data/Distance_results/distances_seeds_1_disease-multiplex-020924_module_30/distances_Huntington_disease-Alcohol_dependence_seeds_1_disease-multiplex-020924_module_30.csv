@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.3464285714285713
+1,disease_on_symptoms,16,27,0.9302594745908697
+2,disease_on_drugs,27,9,0.6944444444444444

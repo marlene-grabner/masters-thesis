@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,17,26,0.39398084815321477
+1,disease_on_symptoms,21,15,0.7992063492063495
+2,disease_on_drugs,17,15,1.2495098039215686

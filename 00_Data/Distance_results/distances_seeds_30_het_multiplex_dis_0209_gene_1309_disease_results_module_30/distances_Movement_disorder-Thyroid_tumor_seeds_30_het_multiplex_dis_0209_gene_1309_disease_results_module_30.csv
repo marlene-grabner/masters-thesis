@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.016666666666666607
+1,disease_on_symptoms,17,20,0.7370826709062004
+2,disease_on_drugs,26,20,0.116304347826087

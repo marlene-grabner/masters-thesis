@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,27,25,0.13532763532763514
+1,disease_on_symptoms,17,23,0.6206521739130433
+2,disease_on_drugs,24,21,0.06011904761904785

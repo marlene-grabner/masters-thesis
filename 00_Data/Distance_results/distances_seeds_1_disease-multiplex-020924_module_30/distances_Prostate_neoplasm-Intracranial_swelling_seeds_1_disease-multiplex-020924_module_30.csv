@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,17,30,0.26994159365874015
+1,disease_on_symptoms,21,14,1.2190476190476192
+2,disease_on_drugs,17,24,0.5788797226207556

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.11881091617933737
+1,disease_on_symptoms,14,19,0.7714741398951923
+2,disease_on_drugs,24,26,0.5599358974358974

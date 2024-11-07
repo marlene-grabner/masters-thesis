@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,23,30,0.2309269893355208
+1,disease_on_symptoms,19,17,1.6603887168902651
+2,disease_on_drugs,11,25,1.3244444444444445

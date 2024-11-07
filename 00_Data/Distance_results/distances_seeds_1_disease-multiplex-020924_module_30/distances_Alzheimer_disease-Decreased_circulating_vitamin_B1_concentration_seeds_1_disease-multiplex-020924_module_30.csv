@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,20,25,0.1905555555555556
+1,disease_on_symptoms,23,13,1.7797287253808993
+2,disease_on_drugs,18,16,0.5459558823529411

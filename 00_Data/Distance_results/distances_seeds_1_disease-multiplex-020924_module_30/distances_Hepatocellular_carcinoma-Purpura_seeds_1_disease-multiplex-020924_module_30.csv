@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Purpura nodes,sAB
+0,disease_on_genes,23,26,0.20495188041771883
+1,disease_on_symptoms,19,17,2.53078775369797
+2,disease_on_drugs,19,20,0.7435897435897436

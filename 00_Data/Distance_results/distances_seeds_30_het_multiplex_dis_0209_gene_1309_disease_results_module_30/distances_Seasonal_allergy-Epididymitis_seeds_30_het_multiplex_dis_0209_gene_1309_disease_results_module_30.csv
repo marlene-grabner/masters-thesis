@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Epididymitis nodes,sAB
+0,disease_on_genes,29,29,-0.017241379310344862
+1,disease_on_symptoms,18,23,0.2147401908801696
+2,disease_on_drugs,29,26,-0.20347238967928627

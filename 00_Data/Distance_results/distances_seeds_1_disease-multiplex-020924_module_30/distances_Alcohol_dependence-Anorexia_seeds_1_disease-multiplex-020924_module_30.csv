@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Anorexia nodes,sAB
+0,disease_on_genes,12,17,0.3234448951994593
+1,disease_on_symptoms,27,25,1.3814245014245012
+2,disease_on_drugs,9,13,0.9867909867909868

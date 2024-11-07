@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,26,23,0.21768138693604522
+1,disease_on_symptoms,23,16,2.163635730211817
+2,disease_on_drugs,25,22,0.9148936170212767

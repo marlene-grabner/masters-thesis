@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,18,22,-0.19545454545454533
+2,disease_on_drugs,29,29,-0.17241379310344818

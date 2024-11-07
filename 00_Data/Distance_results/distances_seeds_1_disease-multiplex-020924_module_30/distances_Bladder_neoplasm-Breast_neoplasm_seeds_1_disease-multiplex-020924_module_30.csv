@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,20,16,-0.5340277777777779
+2,disease_on_drugs,25,30,0.036363636363636376

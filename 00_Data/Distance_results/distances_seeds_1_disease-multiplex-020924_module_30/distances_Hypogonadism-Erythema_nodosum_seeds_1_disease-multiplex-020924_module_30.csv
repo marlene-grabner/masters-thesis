@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.2979323308270678
+1,disease_on_symptoms,12,23,1.021014492753623
+2,disease_on_drugs,30,28,0.7585796387520525

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.1780701754385965
+1,disease_on_symptoms,19,24,0.8430742554059565
+2,disease_on_drugs,28,25,0.4683018867924529

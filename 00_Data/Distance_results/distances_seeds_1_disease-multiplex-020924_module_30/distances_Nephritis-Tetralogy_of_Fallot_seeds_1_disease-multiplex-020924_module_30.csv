@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,18,14,0.7762896825396826
+2,disease_on_drugs,27,11,0.4600389863547758

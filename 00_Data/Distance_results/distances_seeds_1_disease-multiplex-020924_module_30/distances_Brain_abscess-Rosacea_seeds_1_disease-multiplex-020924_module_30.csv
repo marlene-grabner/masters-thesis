@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.19424951267056545
+1,disease_on_symptoms,21,17,-0.1386554621848739
+2,disease_on_drugs,23,27,-0.11043478260869577

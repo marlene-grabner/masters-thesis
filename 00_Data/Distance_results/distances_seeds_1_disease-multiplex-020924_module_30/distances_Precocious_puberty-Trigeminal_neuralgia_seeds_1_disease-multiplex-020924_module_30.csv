@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.29240558292282426
+1,disease_on_symptoms,14,19,0.8976987924356346
+2,disease_on_drugs,24,26,0.9007692307692308

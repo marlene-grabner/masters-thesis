@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.25
+1,disease_on_symptoms,21,20,0.045993031358884995
+2,disease_on_drugs,28,24,-0.26327838827838834

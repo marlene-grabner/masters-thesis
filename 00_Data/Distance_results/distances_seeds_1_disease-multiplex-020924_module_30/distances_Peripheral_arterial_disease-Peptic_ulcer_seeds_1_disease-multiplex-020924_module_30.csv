@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,25,28,0.17361185983827476
+1,disease_on_symptoms,14,14,1.3571428571428572
+2,disease_on_drugs,22,28,0.6399999999999999

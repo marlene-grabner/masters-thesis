@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,18,16,-0.016339869281045694
+2,disease_on_drugs,25,30,0.32484848484848494

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,24,26,0.06091734352603906
+1,disease_on_symptoms,23,21,1.1359872012045926
+2,disease_on_drugs,20,24,0.1625000000000001

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,22,30,-0.22820512820512817
+1,disease_on_symptoms,21,16,0.36088320463320445
+2,disease_on_drugs,21,28,-0.1964285714285714

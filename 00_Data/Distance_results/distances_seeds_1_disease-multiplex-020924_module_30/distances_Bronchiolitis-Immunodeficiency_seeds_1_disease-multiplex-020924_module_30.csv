@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,23,22,0.3100790513833991
+1,disease_on_symptoms,25,19,2.08933014354067
+2,disease_on_drugs,18,18,0.5277777777777777

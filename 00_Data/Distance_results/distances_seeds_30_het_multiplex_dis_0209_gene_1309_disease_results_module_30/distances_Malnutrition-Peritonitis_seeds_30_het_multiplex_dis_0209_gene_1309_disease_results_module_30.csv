@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,14,14,-2.220446049250313e-16
+2,disease_on_drugs,29,24,-0.22648286705703735

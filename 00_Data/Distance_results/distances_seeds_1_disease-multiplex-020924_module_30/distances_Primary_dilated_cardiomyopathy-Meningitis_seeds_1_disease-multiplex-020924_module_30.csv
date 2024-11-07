@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.744886031560491
+1,disease_on_symptoms,25,20,1.8627777777777776
+2,disease_on_drugs,7,26,1.1103896103896103

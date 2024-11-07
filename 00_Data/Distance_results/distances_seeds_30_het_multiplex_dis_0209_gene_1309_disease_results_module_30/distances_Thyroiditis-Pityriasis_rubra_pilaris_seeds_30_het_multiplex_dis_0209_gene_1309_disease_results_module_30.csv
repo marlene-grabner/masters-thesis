@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.05458089668616006
+1,disease_on_symptoms,21,21,-0.33333333333333326
+2,disease_on_drugs,29,25,-0.10385696040868453

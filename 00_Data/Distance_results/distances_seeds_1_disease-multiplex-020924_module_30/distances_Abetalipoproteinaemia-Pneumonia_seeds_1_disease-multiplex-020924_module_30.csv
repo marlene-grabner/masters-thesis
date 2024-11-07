@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Pneumonia nodes,sAB
+0,disease_on_genes,17,30,0.3415102211097205
+1,disease_on_symptoms,25,26,0.6504223227752637
+2,disease_on_drugs,13,28,0.8639774859287055

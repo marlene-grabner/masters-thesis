@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,28,26,-0.11182336182336172
+1,disease_on_symptoms,17,17,0.08823529411764719
+2,disease_on_drugs,19,24,-0.0711699306405551

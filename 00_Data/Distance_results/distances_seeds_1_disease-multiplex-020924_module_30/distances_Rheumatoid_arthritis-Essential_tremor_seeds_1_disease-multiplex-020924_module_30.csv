@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.29861111111111116
+1,disease_on_symptoms,15,20,2.301190476190476
+2,disease_on_drugs,25,19,0.6582296650717705

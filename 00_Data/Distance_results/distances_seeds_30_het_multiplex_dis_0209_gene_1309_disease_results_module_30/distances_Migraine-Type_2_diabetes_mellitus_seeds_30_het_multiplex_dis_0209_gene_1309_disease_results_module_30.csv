@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,12,16,0.17708333333333348
+2,disease_on_drugs,29,27,-0.10534117861704073

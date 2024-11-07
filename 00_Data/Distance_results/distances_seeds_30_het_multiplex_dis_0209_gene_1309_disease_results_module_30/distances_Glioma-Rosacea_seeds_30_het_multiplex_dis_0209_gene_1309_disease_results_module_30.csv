@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Rosacea nodes,sAB
+0,disease_on_genes,22,30,-0.05512820512820504
+1,disease_on_symptoms,21,18,0.8049450549450547
+2,disease_on_drugs,21,30,0.18739495798319328

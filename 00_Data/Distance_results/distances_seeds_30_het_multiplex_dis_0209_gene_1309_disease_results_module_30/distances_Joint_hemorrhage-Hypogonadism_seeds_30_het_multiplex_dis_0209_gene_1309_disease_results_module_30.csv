@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,17,0.8823529411764706
+2,disease_on_drugs,26,29,0.21952013503737633

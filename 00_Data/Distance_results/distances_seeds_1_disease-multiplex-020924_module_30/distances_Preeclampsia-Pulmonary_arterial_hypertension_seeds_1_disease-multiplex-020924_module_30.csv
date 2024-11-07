@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.07341269841269837
+1,disease_on_symptoms,17,18,1.1473856209150326
+2,disease_on_drugs,23,26,-0.04096989966555187

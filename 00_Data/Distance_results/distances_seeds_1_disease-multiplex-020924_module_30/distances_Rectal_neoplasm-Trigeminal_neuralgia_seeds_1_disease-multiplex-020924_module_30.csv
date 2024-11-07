@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.2395320197044335
+1,disease_on_symptoms,21,19,1.0478070175438594
+2,disease_on_drugs,29,26,0.7462864721485412

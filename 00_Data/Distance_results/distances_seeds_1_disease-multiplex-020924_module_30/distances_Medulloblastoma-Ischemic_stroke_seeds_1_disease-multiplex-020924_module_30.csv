@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.3047619047619048
+1,disease_on_symptoms,19,16,1.1612781954887217
+2,disease_on_drugs,24,23,0.6581675917360468

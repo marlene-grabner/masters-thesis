@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,-0.2160935143288084
+1,disease_on_symptoms,18,21,0.06013431013430992
+2,disease_on_drugs,25,24,0.041156462585034026

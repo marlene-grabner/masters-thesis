@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,29,0.01665692577440092
+1,disease_on_symptoms,15,20,0.43214285714285694
+2,disease_on_drugs,28,24,-0.1568223443223442

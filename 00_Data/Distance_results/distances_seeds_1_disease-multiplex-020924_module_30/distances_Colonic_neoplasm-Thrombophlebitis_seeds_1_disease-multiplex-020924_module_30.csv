@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.20566502463054204
+1,disease_on_symptoms,19,15,1.298968008255934
+2,disease_on_drugs,29,21,0.6399999999999999

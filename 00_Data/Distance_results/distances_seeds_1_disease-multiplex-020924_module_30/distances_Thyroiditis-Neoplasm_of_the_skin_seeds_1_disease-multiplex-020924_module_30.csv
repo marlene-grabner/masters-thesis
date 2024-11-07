@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,26,28,-0.09279609279609269
+1,disease_on_symptoms,28,21,0.3341836734693877
+2,disease_on_drugs,23,24,0.29740980573542997

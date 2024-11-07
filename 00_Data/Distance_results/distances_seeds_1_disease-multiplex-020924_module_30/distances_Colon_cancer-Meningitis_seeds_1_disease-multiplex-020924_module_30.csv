@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.3835905473836507
+1,disease_on_symptoms,21,20,1.3180313588850177
+2,disease_on_drugs,24,26,0.6599999999999999

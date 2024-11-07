@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.09122174122174131
+1,disease_on_symptoms,22,25,0.4341779497098648
+2,disease_on_drugs,24,23,0.33992445266728355

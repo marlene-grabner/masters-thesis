@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Endometriosis nodes,sAB
+0,disease_on_genes,20,30,0.29500000000000015
+1,disease_on_symptoms,24,12,0.5069444444444446
+2,disease_on_drugs,18,27,0.46111111111111125

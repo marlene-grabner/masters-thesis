@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,28,30,-0.12130541871921174
+1,disease_on_symptoms,20,19,-0.2570175438596489
+2,disease_on_drugs,27,25,0.15504273504273502

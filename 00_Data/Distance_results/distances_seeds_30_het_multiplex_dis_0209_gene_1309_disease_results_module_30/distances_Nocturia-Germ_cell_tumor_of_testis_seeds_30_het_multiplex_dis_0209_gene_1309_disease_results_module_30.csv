@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,25,27,-0.2124183006535948
+1,disease_on_symptoms,18,22,0.8616161616161617
+2,disease_on_drugs,24,20,0.08712121212121193

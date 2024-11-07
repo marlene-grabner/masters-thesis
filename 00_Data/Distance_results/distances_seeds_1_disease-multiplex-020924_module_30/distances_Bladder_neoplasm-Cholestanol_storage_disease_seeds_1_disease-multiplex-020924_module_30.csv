@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,30,0.2857142857142858
+1,disease_on_symptoms,20,17,1.1812003179650241
+2,disease_on_drugs,25,25,1.2799999999999998

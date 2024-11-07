@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,18,22,0.6161616161616161
+1,disease_on_symptoms,21,23,0.9788725766986637
+2,disease_on_drugs,6,20,0.5525641025641024

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,19,20,0.38147773279352215
+2,disease_on_drugs,22,30,0.2220279720279721

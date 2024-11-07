@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,21,30,-0.18067226890756294
+1,disease_on_symptoms,20,16,-0.23055555555555562
+2,disease_on_drugs,21,30,0.29159663865546204

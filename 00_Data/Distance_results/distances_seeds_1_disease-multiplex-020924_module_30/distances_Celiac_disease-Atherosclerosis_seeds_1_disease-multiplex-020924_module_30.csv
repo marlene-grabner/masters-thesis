@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,17,30,0.2177722152690864
+1,disease_on_symptoms,22,13,2.5560439560439563
+2,disease_on_drugs,15,29,0.39848484848484866

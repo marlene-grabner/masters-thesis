@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,23,24,0.235777058279371
+1,disease_on_symptoms,19,26,1.5122357174988754
+2,disease_on_drugs,19,15,0.2058823529411764

@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,20,27,0.1294523246650905
+1,disease_on_symptoms,23,21,1.2034161490683228
+2,disease_on_drugs,18,27,0.4444444444444444

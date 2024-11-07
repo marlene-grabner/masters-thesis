@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,27,30,-0.15886939571150105
+1,disease_on_symptoms,22,21,0.7440853719923488
+2,disease_on_drugs,22,29,0.08165836867662413

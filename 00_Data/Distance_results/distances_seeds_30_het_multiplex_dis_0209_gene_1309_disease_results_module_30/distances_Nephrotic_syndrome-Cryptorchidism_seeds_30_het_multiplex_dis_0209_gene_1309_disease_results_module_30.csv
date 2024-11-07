@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.07834290401968835
+1,disease_on_symptoms,15,19,0.8835913312693497
+2,disease_on_drugs,28,21,-0.059523809523809534

@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,22,19,0.6128194655152293
+1,disease_on_symptoms,19,21,2.019611528822055
+2,disease_on_drugs,18,17,0.857936507936508

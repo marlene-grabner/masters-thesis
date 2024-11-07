@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,30,-0.1561403508771929
+1,disease_on_symptoms,22,22,0.6136363636363638
+2,disease_on_drugs,27,30,0.2765107212475635

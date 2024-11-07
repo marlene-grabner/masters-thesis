@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,28,30,-0.08563218390804594
+1,disease_on_symptoms,13,22,0.41508491508491496
+2,disease_on_drugs,28,29,-0.1413231354247686

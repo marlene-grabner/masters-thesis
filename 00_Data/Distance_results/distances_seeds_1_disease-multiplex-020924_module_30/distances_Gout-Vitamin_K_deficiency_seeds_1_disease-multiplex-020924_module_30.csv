@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.039999999999999813
+1,disease_on_symptoms,18,23,1.2442559208200776
+2,disease_on_drugs,23,20,0.15930232558139523

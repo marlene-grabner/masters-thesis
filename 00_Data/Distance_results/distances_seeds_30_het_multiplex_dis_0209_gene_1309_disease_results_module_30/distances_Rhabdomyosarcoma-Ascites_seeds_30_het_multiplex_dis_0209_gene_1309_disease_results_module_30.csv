@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,-0.06751412429378523
+1,disease_on_symptoms,19,22,0.10850157544637651
+2,disease_on_drugs,29,27,0.03350209815727068

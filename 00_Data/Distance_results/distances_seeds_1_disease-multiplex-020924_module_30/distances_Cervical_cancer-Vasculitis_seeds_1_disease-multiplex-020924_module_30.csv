@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.5684912854030502
+1,disease_on_symptoms,23,19,1.3585594420834697
+2,disease_on_drugs,15,20,0.5785714285714285

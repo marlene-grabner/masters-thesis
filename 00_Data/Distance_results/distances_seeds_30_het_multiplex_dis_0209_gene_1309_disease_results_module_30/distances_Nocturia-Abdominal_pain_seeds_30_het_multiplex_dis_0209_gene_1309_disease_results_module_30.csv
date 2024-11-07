@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,-0.20185185185185184
+1,disease_on_symptoms,18,19,0.41591591591591603
+2,disease_on_drugs,24,29,-0.0013554543482976467

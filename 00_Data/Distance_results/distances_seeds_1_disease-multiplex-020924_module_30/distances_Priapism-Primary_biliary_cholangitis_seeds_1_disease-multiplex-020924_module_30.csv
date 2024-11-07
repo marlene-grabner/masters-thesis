@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.1617216117216116
+1,disease_on_symptoms,17,17,0.4999999999999998
+2,disease_on_drugs,28,18,0.19280538302277428

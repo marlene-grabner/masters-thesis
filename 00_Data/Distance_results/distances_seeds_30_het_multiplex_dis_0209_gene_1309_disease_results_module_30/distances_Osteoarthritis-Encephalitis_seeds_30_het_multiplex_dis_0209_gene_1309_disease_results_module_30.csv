@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,29,-0.038461538461538325
+1,disease_on_symptoms,22,13,-0.0071428571428571175
+2,disease_on_drugs,25,22,0.1042359767891683

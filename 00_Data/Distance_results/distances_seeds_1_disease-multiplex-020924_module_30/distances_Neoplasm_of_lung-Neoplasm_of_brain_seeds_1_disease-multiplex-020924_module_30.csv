@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,-0.17400932400932412
+1,disease_on_symptoms,20,23,0.2957280080889788
+2,disease_on_drugs,30,20,-0.14666666666666683

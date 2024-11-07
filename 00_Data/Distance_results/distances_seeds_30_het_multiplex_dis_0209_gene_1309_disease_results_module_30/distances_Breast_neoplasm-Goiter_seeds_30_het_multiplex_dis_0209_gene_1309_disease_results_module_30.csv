@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,20,12,0.9770833333333333
+2,disease_on_drugs,30,18,0.3819444444444444

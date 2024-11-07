@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,22,18,0.23636363636363633
+1,disease_on_symptoms,23,21,2.1428100884622623
+2,disease_on_drugs,17,17,1.0

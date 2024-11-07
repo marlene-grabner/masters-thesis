@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.34219918013021444
+1,disease_on_symptoms,17,15,1.7763480392156863
+2,disease_on_drugs,26,16,1.1236263736263736

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,28,30,0.0862068965517242
+1,disease_on_symptoms,20,16,1.45
+2,disease_on_drugs,25,25,0.3999999999999999

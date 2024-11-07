@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,25,29,0.19925925925925925
+1,disease_on_symptoms,24,14,1.6350250626566414
+2,disease_on_drugs,20,28,1.1458333333333335

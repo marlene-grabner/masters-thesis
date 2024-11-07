@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,29,30,-0.27118644067796616
+1,disease_on_symptoms,19,18,-0.21957483799589084
+2,disease_on_drugs,29,30,-0.1701052016364698

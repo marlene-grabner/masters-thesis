@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,24,0.1958333333333333
+1,disease_on_symptoms,14,20,1.887605042016807
+2,disease_on_drugs,11,22,1.2500000000000002

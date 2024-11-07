@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,18,27,0.374074074074074
+1,disease_on_symptoms,21,19,0.5166040100250626
+2,disease_on_drugs,6,26,0.8766025641025641

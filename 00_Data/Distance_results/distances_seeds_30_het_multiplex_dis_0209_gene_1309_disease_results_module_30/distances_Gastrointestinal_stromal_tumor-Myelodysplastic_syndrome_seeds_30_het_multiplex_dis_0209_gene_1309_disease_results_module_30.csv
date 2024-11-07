@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,19,17,0.365497076023392
+2,disease_on_drugs,28,24,0.26510989010989006

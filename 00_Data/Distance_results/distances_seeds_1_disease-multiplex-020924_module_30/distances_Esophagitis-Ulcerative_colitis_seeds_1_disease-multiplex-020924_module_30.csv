@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,24,27,-0.22051529790660218
+1,disease_on_symptoms,23,20,-0.009630940343781536
+2,disease_on_drugs,20,25,-0.22499999999999987

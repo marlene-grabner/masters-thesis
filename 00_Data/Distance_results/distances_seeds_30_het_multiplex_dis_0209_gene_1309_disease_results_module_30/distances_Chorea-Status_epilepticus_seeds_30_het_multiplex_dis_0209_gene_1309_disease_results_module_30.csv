@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,17,18,-0.08632119514472447
+2,disease_on_drugs,24,30,-0.2328703703703704

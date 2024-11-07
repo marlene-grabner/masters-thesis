@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,23,20,0.32793225480283117
+1,disease_on_symptoms,20,18,2.897953216374269
+2,disease_on_drugs,19,19,1.3157894736842106

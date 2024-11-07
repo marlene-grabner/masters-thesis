@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,-0.12727272727272732
+1,disease_on_symptoms,20,23,0.3741405460060667
+2,disease_on_drugs,29,21,-0.30088669950738933

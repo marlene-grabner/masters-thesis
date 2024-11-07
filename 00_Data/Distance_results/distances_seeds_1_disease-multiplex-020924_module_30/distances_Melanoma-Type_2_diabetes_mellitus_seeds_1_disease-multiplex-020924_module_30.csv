@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,24,16,0.3125
+1,disease_on_symptoms,23,21,3.2236495388669306
+2,disease_on_drugs,22,15,0.945945945945946

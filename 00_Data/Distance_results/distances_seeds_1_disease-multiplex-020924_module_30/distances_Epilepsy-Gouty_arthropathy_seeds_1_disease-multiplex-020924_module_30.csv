@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,29,25,0.30888888888888877
+1,disease_on_symptoms,18,13,2.1102150537634405
+2,disease_on_drugs,30,16,1.0607789855072465

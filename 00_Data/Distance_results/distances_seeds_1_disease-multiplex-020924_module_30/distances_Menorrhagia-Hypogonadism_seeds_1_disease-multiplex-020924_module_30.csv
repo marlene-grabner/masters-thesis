@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,-0.29405594405594404
+1,disease_on_symptoms,19,12,-0.16652518392756077
+2,disease_on_drugs,24,30,0.01805555555555549

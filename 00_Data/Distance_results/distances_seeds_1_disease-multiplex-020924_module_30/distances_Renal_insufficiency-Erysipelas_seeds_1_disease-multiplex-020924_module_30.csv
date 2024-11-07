@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Erysipelas nodes,sAB
+0,disease_on_genes,20,28,0.10595238095238102
+1,disease_on_symptoms,23,20,1.1649140546006065
+2,disease_on_drugs,17,27,0.8235294117647058

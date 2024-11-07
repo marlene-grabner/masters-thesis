@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,14,25,-0.058791208791208804
+1,disease_on_symptoms,27,23,-0.15294685990338142
+2,disease_on_drugs,8,19,-0.24768518518518523

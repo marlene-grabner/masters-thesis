@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,17,18,0.08562091503267966
+1,disease_on_symptoms,22,26,4.423076923076923
+2,disease_on_drugs,15,10,0.10666666666666669

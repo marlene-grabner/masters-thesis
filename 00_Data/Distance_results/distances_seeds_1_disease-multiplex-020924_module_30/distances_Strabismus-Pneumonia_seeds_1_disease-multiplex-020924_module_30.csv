@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Pneumonia nodes,sAB
+0,disease_on_genes,13,30,0.22337507453786531
+1,disease_on_symptoms,26,26,1.596153846153846
+2,disease_on_drugs,9,28,0.9174174174174174

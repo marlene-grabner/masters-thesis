@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,30,0.016483516483516647
+1,disease_on_symptoms,20,18,0.023684210526315752
+2,disease_on_drugs,20,28,0.11309523809523814

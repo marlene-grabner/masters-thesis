@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,-0.055454545454545645
+1,disease_on_symptoms,19,16,1.1235902255639099
+2,disease_on_drugs,24,29,0.320754716981132

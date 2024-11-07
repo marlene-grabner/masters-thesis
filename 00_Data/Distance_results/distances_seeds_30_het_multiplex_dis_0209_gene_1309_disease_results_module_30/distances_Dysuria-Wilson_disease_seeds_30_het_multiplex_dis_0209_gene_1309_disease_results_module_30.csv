@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,12,19,1.69029428409734
+2,disease_on_drugs,21,22,-0.0029195610590957433

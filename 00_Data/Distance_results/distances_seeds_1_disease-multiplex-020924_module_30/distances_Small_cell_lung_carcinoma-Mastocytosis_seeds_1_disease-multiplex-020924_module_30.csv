@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,27,18,0.23888888888888893
+1,disease_on_symptoms,24,28,0.7161172161172162
+2,disease_on_drugs,25,17,0.47641456582633057

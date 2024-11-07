@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,24,27,0.275599128540305
+1,disease_on_symptoms,23,18,1.3814657711794511
+2,disease_on_drugs,24,21,0.7079365079365079

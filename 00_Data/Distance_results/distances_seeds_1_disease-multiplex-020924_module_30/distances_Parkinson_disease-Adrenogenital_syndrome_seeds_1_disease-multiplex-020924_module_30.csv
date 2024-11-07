@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,21,30,0.40756302521008414
+1,disease_on_symptoms,20,7,1.051058201058201
+2,disease_on_drugs,19,22,0.5953436807095345

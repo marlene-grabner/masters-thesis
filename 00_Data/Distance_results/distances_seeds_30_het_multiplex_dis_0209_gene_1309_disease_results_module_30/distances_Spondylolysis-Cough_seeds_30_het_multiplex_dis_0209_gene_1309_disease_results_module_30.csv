@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cough nodes,sAB
+0,disease_on_genes,28,27,0.07272727272727275
+1,disease_on_symptoms,17,22,0.8237008089949267
+2,disease_on_drugs,19,24,0.13086495308037516

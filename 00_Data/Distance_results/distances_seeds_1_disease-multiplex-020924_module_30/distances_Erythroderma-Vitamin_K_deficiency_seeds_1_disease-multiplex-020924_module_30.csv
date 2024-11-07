@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.15909090909090917
+1,disease_on_symptoms,19,23,1.686825760052305
+2,disease_on_drugs,28,20,0.38749999999999996

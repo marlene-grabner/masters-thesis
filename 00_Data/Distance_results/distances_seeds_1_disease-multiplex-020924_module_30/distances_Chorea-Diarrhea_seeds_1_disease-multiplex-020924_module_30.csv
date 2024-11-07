@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Diarrhea nodes,sAB
+0,disease_on_genes,14,27,0.3351077558394633
+1,disease_on_symptoms,27,19,1.5073735062293414
+2,disease_on_drugs,8,26,0.7123868778280544

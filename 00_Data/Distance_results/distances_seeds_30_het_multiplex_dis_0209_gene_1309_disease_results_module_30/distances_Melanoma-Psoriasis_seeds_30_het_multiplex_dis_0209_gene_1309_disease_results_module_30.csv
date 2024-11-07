@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.15886939571150105
+1,disease_on_symptoms,23,17,-0.059718670076726266
+2,disease_on_drugs,25,30,0.050303030303030294

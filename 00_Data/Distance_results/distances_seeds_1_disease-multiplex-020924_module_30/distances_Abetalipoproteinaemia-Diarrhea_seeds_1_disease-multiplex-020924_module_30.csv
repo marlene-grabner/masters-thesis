@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Diarrhea nodes,sAB
+0,disease_on_genes,17,27,0.4461774608833433
+1,disease_on_symptoms,25,19,0.5604784688995215
+2,disease_on_drugs,13,26,0.7115384615384615

@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.19368131868131888
+1,disease_on_symptoms,21,16,1.0643098455598454
+2,disease_on_drugs,26,30,1.1414835164835164

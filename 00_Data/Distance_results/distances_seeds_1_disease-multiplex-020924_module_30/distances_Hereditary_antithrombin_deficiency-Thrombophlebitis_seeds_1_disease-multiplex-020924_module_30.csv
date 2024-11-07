@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,28,28,-0.4107142857142857
+1,disease_on_symptoms,15,15,-0.5000000000000001
+2,disease_on_drugs,20,21,-0.39085365853658527

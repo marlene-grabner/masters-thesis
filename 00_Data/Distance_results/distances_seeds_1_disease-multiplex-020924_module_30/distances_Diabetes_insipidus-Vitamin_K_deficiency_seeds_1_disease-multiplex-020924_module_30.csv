@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,24,25,0.16488095238095246
+1,disease_on_symptoms,18,23,0.9414103923647934
+2,disease_on_drugs,18,20,0.2657894736842106

@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Erysipelas nodes,sAB
+0,disease_on_genes,24,28,0.2703754578754578
+1,disease_on_symptoms,21,20,0.8094076655052267
+2,disease_on_drugs,24,27,0.6997549019607845

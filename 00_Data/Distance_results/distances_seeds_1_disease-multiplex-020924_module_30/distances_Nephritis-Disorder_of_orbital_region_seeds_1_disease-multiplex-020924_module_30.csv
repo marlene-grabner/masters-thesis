@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.07384230287859816
+1,disease_on_symptoms,18,27,0.6166666666666667
+2,disease_on_drugs,27,16,0.42630275624461667

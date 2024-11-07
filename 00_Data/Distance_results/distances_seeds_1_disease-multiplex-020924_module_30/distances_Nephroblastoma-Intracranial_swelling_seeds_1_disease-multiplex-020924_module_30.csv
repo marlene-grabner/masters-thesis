@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,25,30,0.2506060606060607
+1,disease_on_symptoms,25,14,0.31421245421245425
+2,disease_on_drugs,21,24,0.15694444444444433

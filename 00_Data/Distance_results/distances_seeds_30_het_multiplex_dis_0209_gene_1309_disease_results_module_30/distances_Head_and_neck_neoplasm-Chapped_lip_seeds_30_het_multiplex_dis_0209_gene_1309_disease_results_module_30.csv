@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,30,26,-0.213095238095238
+1,disease_on_symptoms,22,20,-0.14642857142857135
+2,disease_on_drugs,27,23,-0.2269565217391304

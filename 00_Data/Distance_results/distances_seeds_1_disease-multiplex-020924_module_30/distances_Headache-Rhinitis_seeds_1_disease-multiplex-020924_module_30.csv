@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,25,15,0.08499999999999996
+2,disease_on_drugs,26,22,0.08493589743589758

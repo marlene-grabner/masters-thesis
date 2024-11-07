@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,23,26,0.26366800900962395
+1,disease_on_symptoms,21,18,1.0470085470085468
+2,disease_on_drugs,19,23,0.4761904761904763

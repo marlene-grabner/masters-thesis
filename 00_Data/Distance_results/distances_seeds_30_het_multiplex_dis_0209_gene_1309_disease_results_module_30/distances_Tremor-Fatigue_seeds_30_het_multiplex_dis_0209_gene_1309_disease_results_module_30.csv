@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Fatigue nodes,sAB
+0,disease_on_genes,27,26,-0.3029753265602322
+1,disease_on_symptoms,17,16,0.7279411764705883
+2,disease_on_drugs,24,26,-0.2347435897435899

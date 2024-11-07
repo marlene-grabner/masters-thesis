@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,25,30,-0.23636363636363633
+1,disease_on_symptoms,19,11,0.13875598086124397
+2,disease_on_drugs,23,21,-0.14205721814417482

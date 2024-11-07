@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.3214285714285714
+1,disease_on_symptoms,19,16,-0.27556390977443623
+2,disease_on_drugs,30,25,-0.23606060606060608

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.014522417153996159
+1,disease_on_symptoms,21,21,0.5714285714285714
+2,disease_on_drugs,23,27,0.23104669887278573

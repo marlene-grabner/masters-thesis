@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Endometriosis nodes,sAB
+0,disease_on_genes,26,30,0.1581818181818182
+1,disease_on_symptoms,19,12,0.7832484436898701
+2,disease_on_drugs,24,27,0.7843137254901962

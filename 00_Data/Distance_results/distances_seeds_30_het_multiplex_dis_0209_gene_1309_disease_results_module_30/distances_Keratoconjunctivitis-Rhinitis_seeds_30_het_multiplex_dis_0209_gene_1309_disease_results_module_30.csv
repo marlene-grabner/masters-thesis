@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,29,30,0.10169491525423724
+1,disease_on_symptoms,20,12,0.18541666666666679
+2,disease_on_drugs,27,23,0.16560386473429967

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,29,28,0.3157894736842106
+1,disease_on_symptoms,15,21,1.7999999999999998
+2,disease_on_drugs,27,21,0.8528439153439153

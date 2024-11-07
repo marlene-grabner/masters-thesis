@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,19,17,0.19229446164430675
+2,disease_on_drugs,28,26,0.08597883597883604

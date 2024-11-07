@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,24,30,-0.07222222222222219
+1,disease_on_symptoms,17,20,-0.034300476947535685
+2,disease_on_drugs,23,22,-0.04299516908212553

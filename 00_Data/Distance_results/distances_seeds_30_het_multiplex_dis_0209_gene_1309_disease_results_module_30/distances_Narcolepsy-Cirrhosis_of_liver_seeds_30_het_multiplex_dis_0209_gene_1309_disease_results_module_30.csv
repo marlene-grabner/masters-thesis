@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,-0.09090909090909094
+1,disease_on_symptoms,20,19,1.2322199730094465
+2,disease_on_drugs,21,30,-0.0008403361344537785

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,30,0.0533882783882782
+1,disease_on_symptoms,17,25,0.42492997198879556
+2,disease_on_drugs,24,29,0.2913820212535241

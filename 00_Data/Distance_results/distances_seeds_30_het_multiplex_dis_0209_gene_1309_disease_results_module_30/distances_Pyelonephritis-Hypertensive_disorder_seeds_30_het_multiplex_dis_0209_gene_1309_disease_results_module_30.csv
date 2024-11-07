@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,24,27,-0.11887254901960798
+1,disease_on_symptoms,19,21,0.4324561403508771
+2,disease_on_drugs,19,26,-0.06426000899685125

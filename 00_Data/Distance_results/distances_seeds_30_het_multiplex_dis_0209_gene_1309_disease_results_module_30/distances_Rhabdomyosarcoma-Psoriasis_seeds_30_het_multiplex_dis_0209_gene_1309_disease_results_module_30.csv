@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Psoriasis nodes,sAB
+0,disease_on_genes,29,30,-0.0847457627118644
+1,disease_on_symptoms,19,17,0.40368077055383567
+2,disease_on_drugs,29,30,0.08384960062341706

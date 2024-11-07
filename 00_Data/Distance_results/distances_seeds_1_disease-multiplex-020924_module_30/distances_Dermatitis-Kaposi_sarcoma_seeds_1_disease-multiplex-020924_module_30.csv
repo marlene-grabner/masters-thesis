@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.15833333333333344
+1,disease_on_symptoms,25,27,1.7317948717948717
+2,disease_on_drugs,24,13,0.6069819819819822

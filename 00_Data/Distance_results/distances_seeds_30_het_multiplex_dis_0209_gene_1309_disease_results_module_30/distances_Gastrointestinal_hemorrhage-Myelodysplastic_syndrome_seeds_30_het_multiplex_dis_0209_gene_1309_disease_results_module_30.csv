@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,-0.09193121693121686
+1,disease_on_symptoms,20,17,-0.031081081081081097
+2,disease_on_drugs,27,24,0.07761437908496727

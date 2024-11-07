@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,29,30,0.20395480225988716
+1,disease_on_symptoms,18,16,1.6574754901960782
+2,disease_on_drugs,30,30,0.9000000000000001

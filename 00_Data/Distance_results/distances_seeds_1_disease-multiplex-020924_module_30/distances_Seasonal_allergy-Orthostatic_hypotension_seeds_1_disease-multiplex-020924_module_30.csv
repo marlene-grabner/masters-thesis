@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,29,30,0.21945256185466588
+1,disease_on_symptoms,15,12,1.2194444444444446
+2,disease_on_drugs,29,17,0.3881294646794249

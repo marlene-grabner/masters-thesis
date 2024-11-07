@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,-0.08684210526315783
+1,disease_on_symptoms,17,25,1.4291316526610645
+2,disease_on_drugs,24,29,0.3012090652786814

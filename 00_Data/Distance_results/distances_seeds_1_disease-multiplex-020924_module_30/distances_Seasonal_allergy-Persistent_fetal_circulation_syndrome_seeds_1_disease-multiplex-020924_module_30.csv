@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,29,25,0.29844189016602796
+1,disease_on_symptoms,15,20,1.4142857142857144
+2,disease_on_drugs,29,18,0.41006358522866226

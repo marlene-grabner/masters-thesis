@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,0.11190476190476195
+1,disease_on_symptoms,14,17,1.4472756844673356
+2,disease_on_drugs,26,25,0.4309803921568627

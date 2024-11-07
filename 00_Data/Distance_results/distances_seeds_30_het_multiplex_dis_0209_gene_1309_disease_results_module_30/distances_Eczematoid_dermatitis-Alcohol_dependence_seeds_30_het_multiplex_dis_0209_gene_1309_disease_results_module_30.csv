@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333215
+1,disease_on_symptoms,25,18,0.34268733850129185
+2,disease_on_drugs,30,24,0.125925925925926

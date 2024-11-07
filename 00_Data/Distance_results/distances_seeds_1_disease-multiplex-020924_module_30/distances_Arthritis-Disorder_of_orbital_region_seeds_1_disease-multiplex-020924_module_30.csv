@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,-0.09637046307884867
+1,disease_on_symptoms,19,27,0.12445969997457418
+2,disease_on_drugs,29,16,-0.06977969348658997

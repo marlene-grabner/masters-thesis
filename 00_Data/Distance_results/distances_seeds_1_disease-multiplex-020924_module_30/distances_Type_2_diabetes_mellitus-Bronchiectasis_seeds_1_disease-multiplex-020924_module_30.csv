@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,16,30,-0.008514492753623149
+1,disease_on_symptoms,21,15,3.2055555555555557
+2,disease_on_drugs,15,26,0.4737335834896812

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Constipation nodes,sAB
+0,disease_on_genes,24,30,0.2217592592592592
+1,disease_on_symptoms,22,17,1.2128410804881393
+2,disease_on_drugs,24,27,0.6873638344226578

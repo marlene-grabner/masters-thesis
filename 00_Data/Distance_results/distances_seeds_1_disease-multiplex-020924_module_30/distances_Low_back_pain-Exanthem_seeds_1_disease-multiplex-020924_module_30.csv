@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.1902298850574713
+1,disease_on_symptoms,17,26,1.167262969588551
+2,disease_on_drugs,26,28,0.31049043549043565

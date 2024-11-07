@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,29,30,0.10254237288135593
+1,disease_on_symptoms,25,16,1.1035975609756097
+2,disease_on_drugs,27,29,0.4404761904761907

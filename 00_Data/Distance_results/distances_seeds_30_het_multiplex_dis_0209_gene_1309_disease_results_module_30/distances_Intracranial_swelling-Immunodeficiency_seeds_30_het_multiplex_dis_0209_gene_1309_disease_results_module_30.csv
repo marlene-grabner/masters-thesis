@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.1607142857142858
+1,disease_on_symptoms,11,21,0.7372835497835499
+2,disease_on_drugs,21,26,0.24733068350089615

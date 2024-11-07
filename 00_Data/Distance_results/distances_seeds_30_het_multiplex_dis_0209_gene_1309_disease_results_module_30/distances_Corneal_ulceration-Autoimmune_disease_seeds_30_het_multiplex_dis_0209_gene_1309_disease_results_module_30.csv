@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,26,-0.054894179894179884
+1,disease_on_symptoms,15,20,0.19404761904761925
+2,disease_on_drugs,23,25,-0.1487681159420291

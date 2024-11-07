@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,0.04131054131054146
+1,disease_on_symptoms,19,22,0.845781304702999
+2,disease_on_drugs,20,25,0.3105555555555557

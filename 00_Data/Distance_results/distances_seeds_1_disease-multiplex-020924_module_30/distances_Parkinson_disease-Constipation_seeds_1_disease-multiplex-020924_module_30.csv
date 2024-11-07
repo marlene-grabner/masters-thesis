@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Constipation nodes,sAB
+0,disease_on_genes,21,30,0.07717086834733888
+1,disease_on_symptoms,20,17,1.344435612082671
+2,disease_on_drugs,19,27,0.7423510466988728

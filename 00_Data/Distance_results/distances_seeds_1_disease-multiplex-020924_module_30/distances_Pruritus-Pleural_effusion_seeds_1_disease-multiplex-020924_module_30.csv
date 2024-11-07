@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,-0.040303030303030285
+1,disease_on_symptoms,19,20,-0.08323211875843461
+2,disease_on_drugs,24,22,0.021739130434782705

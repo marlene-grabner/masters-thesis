@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Anorexia nodes,sAB
+0,disease_on_genes,29,29,0.051724137931034475
+1,disease_on_symptoms,14,13,0.524216524216524
+2,disease_on_drugs,22,28,0.1812987012987013

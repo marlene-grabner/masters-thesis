@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.0904761904761906
+1,disease_on_symptoms,21,17,0.5633937785640573
+2,disease_on_drugs,25,17,0.05803921568627435

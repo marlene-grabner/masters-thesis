@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,18,25,0.11175710594315258
+1,disease_on_symptoms,28,22,0.9303246753246752
+2,disease_on_drugs,17,25,0.2307002801120448

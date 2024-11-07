@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,24,24,0.18749999999999978
+1,disease_on_symptoms,18,17,0.8567226890756303
+2,disease_on_drugs,18,23,0.7640509013785792

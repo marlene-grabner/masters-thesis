@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,28,30,0.26091954022988517
+1,disease_on_symptoms,21,20,1.4178861788617887
+2,disease_on_drugs,21,24,0.6662698412698411

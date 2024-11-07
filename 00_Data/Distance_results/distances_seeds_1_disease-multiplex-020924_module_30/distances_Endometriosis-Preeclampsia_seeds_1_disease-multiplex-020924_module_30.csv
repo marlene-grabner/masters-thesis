@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,26,0.2142857142857142
+1,disease_on_symptoms,12,17,1.1862745098039214
+2,disease_on_drugs,27,23,0.4982608695652173

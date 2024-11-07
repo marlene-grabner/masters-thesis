@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,25,26,0.41098039215686266
+1,disease_on_symptoms,20,15,1.6285714285714286
+2,disease_on_drugs,18,15,0.7590909090909093

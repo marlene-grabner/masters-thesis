@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,-0.052380952380952306
+1,disease_on_symptoms,21,19,0.3465538847117795
+2,disease_on_drugs,26,30,0.11913919413919416

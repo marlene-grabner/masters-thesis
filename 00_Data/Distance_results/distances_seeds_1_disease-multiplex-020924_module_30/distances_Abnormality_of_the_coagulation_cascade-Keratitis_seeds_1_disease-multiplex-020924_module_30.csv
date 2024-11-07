@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Keratitis nodes,sAB
+0,disease_on_genes,23,28,0.40887224454999394
+1,disease_on_symptoms,23,25,0.7351811594202902
+2,disease_on_drugs,18,23,0.8480617414869802

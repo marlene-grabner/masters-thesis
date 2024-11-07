@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,25,24,-0.06164965986394577
+1,disease_on_symptoms,22,19,0.5236608705799977
+2,disease_on_drugs,25,19,-0.1622009569377989

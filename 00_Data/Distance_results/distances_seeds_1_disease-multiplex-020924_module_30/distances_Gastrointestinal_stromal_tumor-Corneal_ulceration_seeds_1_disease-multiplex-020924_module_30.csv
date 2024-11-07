@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,23,28,0.16756485202776772
+1,disease_on_symptoms,20,19,1.4632928475033737
+2,disease_on_drugs,19,26,0.5555555555555556

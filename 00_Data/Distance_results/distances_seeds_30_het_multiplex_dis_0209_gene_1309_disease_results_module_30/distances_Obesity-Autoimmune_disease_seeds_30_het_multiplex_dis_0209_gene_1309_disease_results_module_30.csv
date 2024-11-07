@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,26,-0.20649895178197064
+1,disease_on_symptoms,18,20,0.20716374269005855
+2,disease_on_drugs,25,25,-0.02000000000000024

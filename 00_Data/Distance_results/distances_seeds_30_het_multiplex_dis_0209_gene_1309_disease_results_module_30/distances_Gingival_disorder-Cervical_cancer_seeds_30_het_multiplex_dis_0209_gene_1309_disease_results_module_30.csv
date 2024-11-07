@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,19,22,0.1339129420002334
+2,disease_on_drugs,24,15,-0.018269230769230704

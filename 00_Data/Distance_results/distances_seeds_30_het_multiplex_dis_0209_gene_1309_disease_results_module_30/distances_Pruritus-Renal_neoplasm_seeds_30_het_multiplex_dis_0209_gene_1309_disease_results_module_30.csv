@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,27,29,-0.1078042328042329
+1,disease_on_symptoms,21,20,0.5147212543554005
+2,disease_on_drugs,27,28,0.2353415103415104

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,29,25,0.09203535024940357
+1,disease_on_symptoms,23,20,1.320070778564206
+2,disease_on_drugs,27,21,0.2695105820105821

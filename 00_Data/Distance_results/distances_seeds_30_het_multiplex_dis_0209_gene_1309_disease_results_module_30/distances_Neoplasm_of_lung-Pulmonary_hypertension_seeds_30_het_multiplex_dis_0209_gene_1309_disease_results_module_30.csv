@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.1724137931034483
+1,disease_on_symptoms,19,18,-0.06049470523154721
+2,disease_on_drugs,30,27,0.06900584795321629

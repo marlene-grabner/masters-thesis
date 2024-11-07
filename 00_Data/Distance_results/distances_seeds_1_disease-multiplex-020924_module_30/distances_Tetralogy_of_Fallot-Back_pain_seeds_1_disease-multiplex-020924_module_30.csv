@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,14,16,1.4193452380952383
+2,disease_on_drugs,11,23,0.7647058823529411

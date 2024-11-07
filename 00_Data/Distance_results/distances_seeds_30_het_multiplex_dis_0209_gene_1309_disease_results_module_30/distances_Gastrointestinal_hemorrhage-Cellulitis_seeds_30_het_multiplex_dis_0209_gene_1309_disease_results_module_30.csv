@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Cellulitis nodes,sAB
+0,disease_on_genes,28,30,-0.1385467980295566
+1,disease_on_symptoms,20,20,0.3500000000000001
+2,disease_on_drugs,27,26,-0.01931140138687315

@@ -1,0 +1,4 @@
+,Layer,Hemorrhagic_disease nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.02127659574468077
+1,disease_on_symptoms,19,23,0.7475209763539286
+2,disease_on_drugs,24,21,0.29761904761904767

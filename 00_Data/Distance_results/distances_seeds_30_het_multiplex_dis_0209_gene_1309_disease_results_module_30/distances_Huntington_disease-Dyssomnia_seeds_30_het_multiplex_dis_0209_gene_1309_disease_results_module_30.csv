@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.16666666666666663
+1,disease_on_symptoms,17,21,0.9252543122512162
+2,disease_on_drugs,26,17,-0.17557613385246773

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,24,29,0.16947245716764248
+1,disease_on_symptoms,18,17,1.176050420168067
+2,disease_on_drugs,18,26,0.63986013986014

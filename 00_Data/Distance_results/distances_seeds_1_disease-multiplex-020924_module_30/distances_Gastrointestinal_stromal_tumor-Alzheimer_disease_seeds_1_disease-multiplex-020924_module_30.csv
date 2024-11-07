@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,23,20,0.14537411526794752
+1,disease_on_symptoms,20,23,1.2135490394337713
+2,disease_on_drugs,19,18,1.0

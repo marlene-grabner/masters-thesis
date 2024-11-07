@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.034848484848484795
+1,disease_on_symptoms,18,19,1.1586454875928558
+2,disease_on_drugs,26,18,-0.04351204351204352

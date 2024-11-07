@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,0.16363636363636358
+1,disease_on_symptoms,18,23,0.4463296806881114
+2,disease_on_drugs,28,21,0.13010204081632648

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,13,27,0.4096153846153845
+1,disease_on_symptoms,26,14,1.746703296703297
+2,disease_on_drugs,9,13,0.8535353535353536

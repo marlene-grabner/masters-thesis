@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Cellulitis nodes,sAB
+0,disease_on_genes,12,22,0.37391774891774876
+1,disease_on_symptoms,27,26,2.6973606407568673
+2,disease_on_drugs,9,12,0.9365079365079363

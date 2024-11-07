@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.15857699805068237
+1,disease_on_symptoms,23,16,0.42868589743589736
+2,disease_on_drugs,30,27,0.3541910331384015

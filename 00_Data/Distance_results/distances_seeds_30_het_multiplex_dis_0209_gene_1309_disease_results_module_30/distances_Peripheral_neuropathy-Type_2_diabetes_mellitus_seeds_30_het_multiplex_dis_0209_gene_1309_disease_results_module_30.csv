@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.5
+1,disease_on_symptoms,21,16,-0.8187339124839126
+2,disease_on_drugs,29,27,-0.5154397007845283

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.17268252666119777
+1,disease_on_symptoms,18,19,0.6731073178441598
+2,disease_on_drugs,28,21,0.06802721088435382

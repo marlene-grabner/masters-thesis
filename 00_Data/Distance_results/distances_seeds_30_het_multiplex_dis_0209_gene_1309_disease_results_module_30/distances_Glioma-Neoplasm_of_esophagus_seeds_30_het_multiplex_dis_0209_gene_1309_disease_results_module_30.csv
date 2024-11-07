@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,22,29,-0.3309668695064232
+1,disease_on_symptoms,21,20,-0.049651567944251074
+2,disease_on_drugs,21,25,-0.35403726708074534

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,24,30,-0.1435185185185185
+1,disease_on_symptoms,26,16,0.017284798534798584
+2,disease_on_drugs,15,30,0.022222222222222143

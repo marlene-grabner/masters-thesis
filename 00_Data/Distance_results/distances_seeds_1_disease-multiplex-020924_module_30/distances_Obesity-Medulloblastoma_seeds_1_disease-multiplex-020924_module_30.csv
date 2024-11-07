@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,26,26,0.1923076923076923
+1,disease_on_symptoms,20,19,1.6222672064777326
+2,disease_on_drugs,27,24,0.7264433551198257

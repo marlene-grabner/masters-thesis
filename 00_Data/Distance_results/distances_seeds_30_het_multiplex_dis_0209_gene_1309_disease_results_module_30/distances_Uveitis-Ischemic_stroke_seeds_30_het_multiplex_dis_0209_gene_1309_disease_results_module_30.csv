@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,20,16,0.1972222222222224
+2,disease_on_drugs,23,28,0.1359609061015712

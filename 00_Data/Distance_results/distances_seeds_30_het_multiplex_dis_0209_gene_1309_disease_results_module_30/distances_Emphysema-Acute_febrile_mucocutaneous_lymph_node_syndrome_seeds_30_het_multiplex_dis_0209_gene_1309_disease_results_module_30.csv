@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,18,13,-0.04549214226633591
+2,disease_on_drugs,27,28,-0.017568542568542567

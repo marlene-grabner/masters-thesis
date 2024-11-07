@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,28,30,0.10344827586206895
+1,disease_on_symptoms,25,15,1.0266666666666668
+2,disease_on_drugs,24,23,0.25655257477644167

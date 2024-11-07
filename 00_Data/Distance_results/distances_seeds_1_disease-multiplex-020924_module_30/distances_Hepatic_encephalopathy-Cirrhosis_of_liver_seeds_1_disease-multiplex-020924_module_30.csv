@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,9,30,0.09017094017094007
+1,disease_on_symptoms,27,14,1.6597948122338364
+2,disease_on_drugs,9,26,0.695054945054945

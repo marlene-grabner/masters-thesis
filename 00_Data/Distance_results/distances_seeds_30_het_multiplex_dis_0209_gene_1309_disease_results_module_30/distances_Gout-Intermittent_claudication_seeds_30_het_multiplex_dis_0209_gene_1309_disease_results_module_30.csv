@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,19,14,-0.2807017543859647
+2,disease_on_drugs,22,24,-0.13199934123847168

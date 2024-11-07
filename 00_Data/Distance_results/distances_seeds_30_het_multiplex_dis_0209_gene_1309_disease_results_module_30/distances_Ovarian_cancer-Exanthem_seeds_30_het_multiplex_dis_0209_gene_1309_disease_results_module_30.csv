@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,30,0.05350877192982462
+1,disease_on_symptoms,17,21,0.8937785640572016
+2,disease_on_drugs,17,29,0.5882793897169063

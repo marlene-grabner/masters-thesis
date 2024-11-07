@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,27,27,0.14814814814814814
+1,disease_on_symptoms,18,18,1.25
+2,disease_on_drugs,24,22,0.45627470355731203

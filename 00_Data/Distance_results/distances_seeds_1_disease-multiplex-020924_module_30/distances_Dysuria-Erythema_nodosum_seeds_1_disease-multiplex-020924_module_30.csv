@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.12551853772361943
+1,disease_on_symptoms,16,23,1.3836747491638794
+2,disease_on_drugs,23,28,0.5094233345512118

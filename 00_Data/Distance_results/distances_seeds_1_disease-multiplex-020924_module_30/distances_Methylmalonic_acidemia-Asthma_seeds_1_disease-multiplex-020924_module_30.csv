@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Asthma nodes,sAB
+0,disease_on_genes,25,25,0.3799999999999999
+1,disease_on_symptoms,16,19,2.547932330827068
+2,disease_on_drugs,17,24,0.6118483978957436

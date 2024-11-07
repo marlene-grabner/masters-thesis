@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,30,-0.019230769230769162
+1,disease_on_symptoms,25,18,0.49834625322997406
+2,disease_on_drugs,25,26,-0.07773755656108605

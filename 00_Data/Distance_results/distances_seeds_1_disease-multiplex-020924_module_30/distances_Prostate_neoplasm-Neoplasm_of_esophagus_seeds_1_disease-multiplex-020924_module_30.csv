@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,17,21,-0.11764705882352944
+1,disease_on_symptoms,21,24,0.15615079365079376
+2,disease_on_drugs,17,20,-0.029769475357710906

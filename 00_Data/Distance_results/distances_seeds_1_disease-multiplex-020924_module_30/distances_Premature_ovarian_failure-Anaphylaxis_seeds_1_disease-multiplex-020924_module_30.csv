@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,28,27,0.36262626262626263
+1,disease_on_symptoms,21,15,1.6444444444444444
+2,disease_on_drugs,21,26,0.5734938820045201

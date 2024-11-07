@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,29,28,0.12280701754385959
+1,disease_on_symptoms,14,25,0.5189743589743592
+2,disease_on_drugs,22,24,0.25823451910408424

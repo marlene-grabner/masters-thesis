@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.17719780219780223
+1,disease_on_symptoms,22,17,1.389174550939257
+2,disease_on_drugs,29,18,0.6194668623135242

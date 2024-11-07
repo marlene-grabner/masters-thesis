@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,0.12902930402930401
+1,disease_on_symptoms,28,17,0.4841503267973857
+2,disease_on_drugs,23,26,0.42724046140195204

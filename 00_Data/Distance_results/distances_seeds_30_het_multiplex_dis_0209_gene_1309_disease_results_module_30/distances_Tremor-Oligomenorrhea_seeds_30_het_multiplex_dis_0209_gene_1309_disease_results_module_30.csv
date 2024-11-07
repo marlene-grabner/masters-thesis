@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,29,-0.1071428571428571
+1,disease_on_symptoms,17,11,0.7555385790679909
+2,disease_on_drugs,24,24,0.10416666666666674

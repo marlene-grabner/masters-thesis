@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,27,30,-0.13859649122807005
+1,disease_on_symptoms,17,19,0.5410216718266252
+2,disease_on_drugs,17,24,-0.20319225251076034

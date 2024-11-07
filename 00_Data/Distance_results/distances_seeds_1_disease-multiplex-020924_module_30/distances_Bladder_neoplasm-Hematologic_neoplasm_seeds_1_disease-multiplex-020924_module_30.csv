@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.0
+1,disease_on_symptoms,20,24,0.12537878787878798
+2,disease_on_drugs,25,19,-0.08253588516746402

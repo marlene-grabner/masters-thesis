@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.2319597069597068
+1,disease_on_symptoms,21,16,1.157335907335907
+2,disease_on_drugs,24,23,0.4449583718778909

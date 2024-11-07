@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.1870370370370371
+1,disease_on_symptoms,14,17,0.03483328815397124
+2,disease_on_drugs,24,23,0.041608849830403916

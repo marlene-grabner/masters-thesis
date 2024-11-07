@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,23,-0.021739130434782705
+1,disease_on_symptoms,25,19,0.8884688995215311
+2,disease_on_drugs,24,22,-0.06192358366271411

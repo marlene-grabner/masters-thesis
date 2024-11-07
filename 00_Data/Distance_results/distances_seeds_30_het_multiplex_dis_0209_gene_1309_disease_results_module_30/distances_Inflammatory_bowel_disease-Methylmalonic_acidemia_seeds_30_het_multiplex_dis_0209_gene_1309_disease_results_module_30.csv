@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,30,25,-0.054545454545454564
+1,disease_on_symptoms,20,17,1.152186009538951
+2,disease_on_drugs,27,21,0.08564814814814814

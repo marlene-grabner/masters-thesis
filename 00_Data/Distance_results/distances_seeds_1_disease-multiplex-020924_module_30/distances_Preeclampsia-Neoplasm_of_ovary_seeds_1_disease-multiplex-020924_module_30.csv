@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,0.17500000000000004
+1,disease_on_symptoms,17,26,2.0944438598337367
+2,disease_on_drugs,23,15,0.8993135011441646

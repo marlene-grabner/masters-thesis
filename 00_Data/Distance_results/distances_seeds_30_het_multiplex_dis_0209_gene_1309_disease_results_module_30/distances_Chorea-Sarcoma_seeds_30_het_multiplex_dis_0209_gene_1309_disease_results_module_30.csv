@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,17,23,1.2839514066496163
+2,disease_on_drugs,24,24,0.47916666666666674

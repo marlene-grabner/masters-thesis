@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,26,30,-0.2857142857142857
+1,disease_on_symptoms,21,19,-0.2588972431077694
+2,disease_on_drugs,25,30,-0.2869696969696972

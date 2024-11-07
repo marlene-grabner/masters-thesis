@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,28,27,0.22012987012987018
+1,disease_on_symptoms,14,23,1.681760953500084
+2,disease_on_drugs,28,20,1.5208333333333335

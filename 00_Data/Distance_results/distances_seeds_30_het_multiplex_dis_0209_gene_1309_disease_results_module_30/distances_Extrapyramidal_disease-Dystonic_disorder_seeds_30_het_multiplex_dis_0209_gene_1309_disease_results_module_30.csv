@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.5666666666666667
+1,disease_on_symptoms,18,17,-0.8936974789915966
+2,disease_on_drugs,25,26,-0.6867571644042234

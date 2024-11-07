@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Keloid nodes,sAB
+0,disease_on_genes,26,22,0.12441724941724952
+1,disease_on_symptoms,18,20,1.975146198830409
+2,disease_on_drugs,23,19,0.5238095238095237

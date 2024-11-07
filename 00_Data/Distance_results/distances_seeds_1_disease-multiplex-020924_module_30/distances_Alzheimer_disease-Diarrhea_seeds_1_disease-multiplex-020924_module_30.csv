@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Diarrhea nodes,sAB
+0,disease_on_genes,20,27,0.2015563435776202
+1,disease_on_symptoms,23,19,1.2140677781410045
+2,disease_on_drugs,18,26,0.5034965034965035

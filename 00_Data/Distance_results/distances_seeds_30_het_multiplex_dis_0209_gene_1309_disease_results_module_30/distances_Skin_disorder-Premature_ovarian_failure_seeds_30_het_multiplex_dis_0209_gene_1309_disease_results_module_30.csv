@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,19,15,0.3822497420020641
+2,disease_on_drugs,23,26,-0.2575250836120402

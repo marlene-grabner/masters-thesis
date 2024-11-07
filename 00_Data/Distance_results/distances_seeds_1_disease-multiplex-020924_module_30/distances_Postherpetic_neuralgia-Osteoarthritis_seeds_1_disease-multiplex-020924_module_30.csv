@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.036060606060606126
+1,disease_on_symptoms,15,20,0.16666666666666674
+2,disease_on_drugs,29,21,0.24275862068965526

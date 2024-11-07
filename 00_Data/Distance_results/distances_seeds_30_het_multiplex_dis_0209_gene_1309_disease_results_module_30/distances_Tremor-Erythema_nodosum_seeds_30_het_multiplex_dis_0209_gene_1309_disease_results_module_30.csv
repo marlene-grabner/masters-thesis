@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,17,22,1.4584190319484436
+2,disease_on_drugs,24,29,0.37830730860984585

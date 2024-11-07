@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,0.12810337810337802
+1,disease_on_symptoms,28,20,0.48333333333333317
+2,disease_on_drugs,23,27,0.1182608695652172

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.13920361247947477
+1,disease_on_symptoms,18,18,1.0833333333333333
+2,disease_on_drugs,26,26,-0.09615384615384626

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,29,23,0.30267558528428107
+1,disease_on_symptoms,18,19,2.329895685158843
+2,disease_on_drugs,30,19,1.2078231292517008

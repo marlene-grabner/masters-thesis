@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,23,25,-0.14583333333333337
+1,disease_on_symptoms,23,20,0.48298786653185033
+2,disease_on_drugs,22,21,-0.0936273029296284

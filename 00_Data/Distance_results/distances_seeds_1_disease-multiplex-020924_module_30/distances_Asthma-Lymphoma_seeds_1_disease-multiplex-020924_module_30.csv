@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,25,26,0.1568476621417798
+1,disease_on_symptoms,19,21,1.5015037593984961
+2,disease_on_drugs,24,25,0.6326190476190476

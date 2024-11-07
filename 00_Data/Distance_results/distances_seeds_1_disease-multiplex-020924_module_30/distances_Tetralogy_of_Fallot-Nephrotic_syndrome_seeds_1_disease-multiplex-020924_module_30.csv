@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,30,20,0.3816666666666666
+1,disease_on_symptoms,14,24,0.7084899749373434
+2,disease_on_drugs,11,18,0.27490421455938696

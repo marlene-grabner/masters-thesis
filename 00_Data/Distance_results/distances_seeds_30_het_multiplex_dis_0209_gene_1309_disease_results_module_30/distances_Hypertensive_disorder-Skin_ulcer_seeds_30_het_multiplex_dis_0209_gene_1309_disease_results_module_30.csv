@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,21,20,0.558130081300813
+2,disease_on_drugs,26,24,0.1974358974358974

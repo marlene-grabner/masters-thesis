@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,18,27,0.6037037037037036
+1,disease_on_symptoms,21,27,1.1732804232804233
+2,disease_on_drugs,6,26,0.29487179487179493

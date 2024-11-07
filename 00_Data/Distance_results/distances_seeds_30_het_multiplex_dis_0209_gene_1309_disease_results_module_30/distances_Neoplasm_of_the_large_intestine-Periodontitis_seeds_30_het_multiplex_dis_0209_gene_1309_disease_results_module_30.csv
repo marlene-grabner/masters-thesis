@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,22,21,0.1630172153427969
+2,disease_on_drugs,29,28,-0.07178506611355973

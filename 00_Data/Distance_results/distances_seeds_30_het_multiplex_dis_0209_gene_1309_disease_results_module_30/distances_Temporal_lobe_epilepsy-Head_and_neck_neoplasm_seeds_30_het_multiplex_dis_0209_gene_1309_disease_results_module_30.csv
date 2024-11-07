@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,22,0.2575414781297134
+2,disease_on_drugs,28,27,0.05681818181818188

@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.16208791208791207
+1,disease_on_symptoms,19,22,-0.4763099544871048
+2,disease_on_drugs,25,25,-0.1200000000000001

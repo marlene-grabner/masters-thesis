@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,29,21,0.1827586206896552
+1,disease_on_symptoms,17,24,1.5393053562888572
+2,disease_on_drugs,26,20,1.0862040133779265

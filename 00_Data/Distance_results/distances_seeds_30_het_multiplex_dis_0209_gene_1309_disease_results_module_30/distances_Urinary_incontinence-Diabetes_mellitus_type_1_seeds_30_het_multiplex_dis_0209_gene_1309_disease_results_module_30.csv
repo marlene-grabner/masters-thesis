@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,29,30,0.05084745762711873
+1,disease_on_symptoms,20,18,1.2912280701754386
+2,disease_on_drugs,20,26,0.4839464882943145

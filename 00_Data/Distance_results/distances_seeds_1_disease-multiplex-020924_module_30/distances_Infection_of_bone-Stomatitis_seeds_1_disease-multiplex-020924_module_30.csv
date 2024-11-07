@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Stomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.4813186813186815
+1,disease_on_symptoms,21,23,-0.36796536796536805
+2,disease_on_drugs,24,30,-0.514351851851852

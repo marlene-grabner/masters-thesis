@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,17,28,0.2697478991596638
+1,disease_on_symptoms,21,19,1.418045112781955
+2,disease_on_drugs,14,28,0.9583333333333335

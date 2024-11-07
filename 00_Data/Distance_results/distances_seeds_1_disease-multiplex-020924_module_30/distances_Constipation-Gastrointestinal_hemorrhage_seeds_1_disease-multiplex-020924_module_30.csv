@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,27,0.08664717348927864
+1,disease_on_symptoms,17,19,0.836343309253526
+2,disease_on_drugs,27,27,0.2222222222222221

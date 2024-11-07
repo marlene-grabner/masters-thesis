@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.031289111389236623
+1,disease_on_symptoms,13,27,0.4623931623931621
+2,disease_on_drugs,29,16,0.2930555555555556

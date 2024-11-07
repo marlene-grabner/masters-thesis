@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Rosacea nodes,sAB
+0,disease_on_genes,17,30,0.26101376720901115
+1,disease_on_symptoms,25,17,0.2737254901960784
+2,disease_on_drugs,13,27,0.7615384615384617

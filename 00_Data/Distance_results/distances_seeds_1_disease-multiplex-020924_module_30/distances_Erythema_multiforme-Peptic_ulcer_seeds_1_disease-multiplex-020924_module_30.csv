@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.014696223316913004
+1,disease_on_symptoms,16,14,0.7675595238095241
+2,disease_on_drugs,30,28,0.603448275862069

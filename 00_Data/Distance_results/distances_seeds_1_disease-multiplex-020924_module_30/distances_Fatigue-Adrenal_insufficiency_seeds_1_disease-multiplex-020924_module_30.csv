@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,26,17,0.08876144375460382
+1,disease_on_symptoms,21,21,0.9285714285714284
+2,disease_on_drugs,26,14,0.6615384615384616

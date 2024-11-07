@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.10363636363636353
+1,disease_on_symptoms,14,22,1.1244588744588744
+2,disease_on_drugs,27,24,0.6835511982570806

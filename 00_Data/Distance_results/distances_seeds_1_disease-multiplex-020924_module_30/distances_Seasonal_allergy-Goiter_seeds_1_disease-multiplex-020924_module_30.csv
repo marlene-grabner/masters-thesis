@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.34502049674463486
+1,disease_on_symptoms,15,15,1.3666666666666667
+2,disease_on_drugs,29,16,0.649425287356322

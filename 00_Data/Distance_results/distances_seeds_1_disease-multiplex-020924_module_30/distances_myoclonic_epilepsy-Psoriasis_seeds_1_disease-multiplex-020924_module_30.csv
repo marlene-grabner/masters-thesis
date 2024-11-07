@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.6033661740558292
+1,disease_on_symptoms,16,21,1.6971927284427284
+2,disease_on_drugs,23,28,1.1539702837656802

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.05253411306042888
+1,disease_on_symptoms,21,14,2.064285714285714
+2,disease_on_drugs,29,26,0.6015553412105137

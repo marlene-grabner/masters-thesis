@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,12,13,0.1433333333333331
+2,disease_on_drugs,28,22,0.03922077922077927

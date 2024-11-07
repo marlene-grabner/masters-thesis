@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.5812121212121213
+1,disease_on_symptoms,22,25,1.8772727272727274
+2,disease_on_drugs,15,23,1.4617848970251717

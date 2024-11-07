@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,12,14,0.39102564102564097
+2,disease_on_drugs,29,22,-0.11976765627881236

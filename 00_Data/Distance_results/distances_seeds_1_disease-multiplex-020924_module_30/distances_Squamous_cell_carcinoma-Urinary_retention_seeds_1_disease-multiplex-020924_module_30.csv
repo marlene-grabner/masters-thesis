@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,16,30,0.6079591018444268
+1,disease_on_symptoms,26,18,2.2457264957264957
+2,disease_on_drugs,14,19,0.9513556618819776

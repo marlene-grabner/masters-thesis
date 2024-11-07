@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Fatigue nodes,sAB
+0,disease_on_genes,23,26,0.06091734352603906
+1,disease_on_symptoms,19,21,2.3176691729323307
+2,disease_on_drugs,19,26,0.894871794871795

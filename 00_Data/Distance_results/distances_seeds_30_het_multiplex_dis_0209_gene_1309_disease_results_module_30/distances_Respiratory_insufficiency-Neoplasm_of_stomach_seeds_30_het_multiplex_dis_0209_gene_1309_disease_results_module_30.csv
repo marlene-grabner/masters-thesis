@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,27,25,-0.03923076923076929
+1,disease_on_symptoms,21,23,0.8128176171654435
+2,disease_on_drugs,25,24,0.310187074829932

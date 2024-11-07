@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.08620689655172409
+1,disease_on_symptoms,18,18,0.3055555555555558
+2,disease_on_drugs,26,27,0.055837768101919094

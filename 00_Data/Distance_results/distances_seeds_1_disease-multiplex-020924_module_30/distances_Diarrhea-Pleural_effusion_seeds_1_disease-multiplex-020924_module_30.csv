@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,-0.03908382066276794
+1,disease_on_symptoms,19,20,0.20286774628879867
+2,disease_on_drugs,26,22,0.2724358974358976

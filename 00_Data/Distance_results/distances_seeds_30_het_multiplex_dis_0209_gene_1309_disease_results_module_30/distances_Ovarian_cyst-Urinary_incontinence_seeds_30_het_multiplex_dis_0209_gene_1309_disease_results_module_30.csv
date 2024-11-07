@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,0.05141242937853119
+1,disease_on_symptoms,19,20,0.6852901484480434
+2,disease_on_drugs,24,20,0.44772727272727275

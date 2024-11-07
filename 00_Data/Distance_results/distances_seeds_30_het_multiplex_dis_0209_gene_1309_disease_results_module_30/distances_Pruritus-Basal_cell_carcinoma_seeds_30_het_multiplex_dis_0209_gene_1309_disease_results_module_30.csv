@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,27,30,-0.05360623781676421
+1,disease_on_symptoms,21,24,0.153373015873016
+2,disease_on_drugs,27,27,0.18518518518518512

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.3392270531400965
+1,disease_on_symptoms,25,15,1.535
+2,disease_on_drugs,22,26,0.6225233100233101

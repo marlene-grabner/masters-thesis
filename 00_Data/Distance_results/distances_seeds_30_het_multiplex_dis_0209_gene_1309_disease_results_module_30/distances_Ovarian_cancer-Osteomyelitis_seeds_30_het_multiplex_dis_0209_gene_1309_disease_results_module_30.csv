@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,30,0.17543859649122817
+1,disease_on_symptoms,17,22,1.1761277937748527
+2,disease_on_drugs,17,28,0.4368580765639589

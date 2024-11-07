@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,19,25,0.3416746411483256
+2,disease_on_drugs,29,21,0.08101806239737264

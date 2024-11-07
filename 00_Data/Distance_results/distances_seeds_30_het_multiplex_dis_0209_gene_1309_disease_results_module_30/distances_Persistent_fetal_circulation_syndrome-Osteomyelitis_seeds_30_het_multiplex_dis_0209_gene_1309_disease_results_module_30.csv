@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,24,30,0.22222222222222232
+1,disease_on_symptoms,22,22,0.9772727272727275
+2,disease_on_drugs,21,28,0.3018707482993195

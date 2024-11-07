@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.17307692307692313
+1,disease_on_symptoms,17,15,1.7175245098039216
+2,disease_on_drugs,23,16,0.8244147157190636

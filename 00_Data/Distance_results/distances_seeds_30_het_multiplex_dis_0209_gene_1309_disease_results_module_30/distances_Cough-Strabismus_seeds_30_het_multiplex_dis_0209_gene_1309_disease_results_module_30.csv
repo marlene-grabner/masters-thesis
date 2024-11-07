@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,17,-0.08155080213903743
+1,disease_on_symptoms,22,24,0.6945816864295122
+2,disease_on_drugs,24,16,0.3604166666666666

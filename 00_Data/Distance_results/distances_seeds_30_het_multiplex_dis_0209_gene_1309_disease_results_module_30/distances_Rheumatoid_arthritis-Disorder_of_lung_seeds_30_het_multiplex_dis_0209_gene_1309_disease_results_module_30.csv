@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.2622807017543859
+1,disease_on_symptoms,19,18,-0.1313023549865655
+2,disease_on_drugs,30,24,-0.26435185185185184

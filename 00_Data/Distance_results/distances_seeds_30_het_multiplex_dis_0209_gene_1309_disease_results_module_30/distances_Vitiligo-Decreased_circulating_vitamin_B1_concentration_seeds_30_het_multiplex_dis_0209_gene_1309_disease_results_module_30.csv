@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,17,-0.0031819745442036584
+2,disease_on_drugs,25,25,0.15999999999999992

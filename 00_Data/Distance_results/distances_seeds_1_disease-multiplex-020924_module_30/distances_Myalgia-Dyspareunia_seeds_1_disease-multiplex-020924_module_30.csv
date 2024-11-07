@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.0796296296296295
+1,disease_on_symptoms,16,17,0.7864304812834226
+2,disease_on_drugs,29,23,0.6078595317725755

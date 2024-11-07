@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.10270935960591121
+1,disease_on_symptoms,15,21,0.7150793650793648
+2,disease_on_drugs,23,24,0.9357076780758555

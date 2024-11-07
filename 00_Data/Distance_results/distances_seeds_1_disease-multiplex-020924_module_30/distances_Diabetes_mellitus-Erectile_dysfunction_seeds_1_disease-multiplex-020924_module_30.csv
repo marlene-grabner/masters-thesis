@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,20,30,0.04833333333333312
+1,disease_on_symptoms,18,16,1.4070669934640523
+2,disease_on_drugs,19,30,0.5563372717508055

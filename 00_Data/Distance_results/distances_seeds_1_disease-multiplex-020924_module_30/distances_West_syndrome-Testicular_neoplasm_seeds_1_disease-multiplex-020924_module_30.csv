@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,0.2933333333333332
+1,disease_on_symptoms,18,25,2.119638242894057
+2,disease_on_drugs,22,23,1.2898550724637683

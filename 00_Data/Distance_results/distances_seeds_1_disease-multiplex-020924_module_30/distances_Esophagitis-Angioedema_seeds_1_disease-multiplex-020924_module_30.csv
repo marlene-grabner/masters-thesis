@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,24,29,0.07591949823407607
+1,disease_on_symptoms,23,17,1.021867007672634
+2,disease_on_drugs,20,25,0.2416666666666667

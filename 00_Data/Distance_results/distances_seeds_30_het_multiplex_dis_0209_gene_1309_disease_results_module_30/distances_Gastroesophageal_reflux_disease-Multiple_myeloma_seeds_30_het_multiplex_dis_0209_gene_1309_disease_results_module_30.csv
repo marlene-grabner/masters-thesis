@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,26,26,-0.09615384615384603
+1,disease_on_symptoms,18,21,0.6535409035409037
+2,disease_on_drugs,25,25,0.2799999999999998

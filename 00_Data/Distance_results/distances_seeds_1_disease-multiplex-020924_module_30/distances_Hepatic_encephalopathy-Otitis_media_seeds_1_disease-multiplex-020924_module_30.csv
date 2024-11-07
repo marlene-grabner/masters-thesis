@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,9,29,-0.1534583585400282
+1,disease_on_symptoms,27,22,2.3193156050298906
+2,disease_on_drugs,9,29,0.1588021778584392

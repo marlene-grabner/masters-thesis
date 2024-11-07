@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,13,25,0.29829959514170024
+1,disease_on_symptoms,26,23,2.514760084635861
+2,disease_on_drugs,9,23,0.7759661835748792

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,20,16,-0.005555555555555536
+2,disease_on_drugs,28,25,-0.14536388140161716

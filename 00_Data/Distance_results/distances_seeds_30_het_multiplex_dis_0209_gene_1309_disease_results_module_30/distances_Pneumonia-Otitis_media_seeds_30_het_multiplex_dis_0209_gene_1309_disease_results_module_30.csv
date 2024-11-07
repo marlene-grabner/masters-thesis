@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.3223261250730566
+1,disease_on_symptoms,23,20,-0.17444388270980804
+2,disease_on_drugs,29,28,-0.3694041137326075

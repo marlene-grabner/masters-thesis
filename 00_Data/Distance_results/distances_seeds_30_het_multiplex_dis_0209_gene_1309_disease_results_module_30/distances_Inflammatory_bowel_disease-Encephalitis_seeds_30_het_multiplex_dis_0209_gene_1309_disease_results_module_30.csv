@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.10169491525423724
+1,disease_on_symptoms,20,13,0.20681818181818157
+2,disease_on_drugs,27,22,0.05151858723287295

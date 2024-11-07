@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,26,-0.36363636363636365
+1,disease_on_symptoms,23,20,-0.5626137512639029
+2,disease_on_drugs,26,25,-0.46950226244343896

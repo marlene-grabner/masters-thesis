@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.020000000000000018
+1,disease_on_symptoms,21,26,0.7003740939911152
+2,disease_on_drugs,28,24,0.4097985347985347

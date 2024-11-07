@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,26,0.35595065312046437
+1,disease_on_symptoms,17,20,1.400039745627981
+2,disease_on_drugs,25,20,1.4

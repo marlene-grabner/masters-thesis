@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,30,0.0535714285714286
+1,disease_on_symptoms,19,14,0.525518341307815
+2,disease_on_drugs,25,24,0.3847789115646256

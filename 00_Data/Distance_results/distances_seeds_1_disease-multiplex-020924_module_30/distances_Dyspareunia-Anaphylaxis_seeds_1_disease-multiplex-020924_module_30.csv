@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,24,27,0.10130718954248374
+1,disease_on_symptoms,17,15,0.9352941176470588
+2,disease_on_drugs,23,26,0.6514231110504403

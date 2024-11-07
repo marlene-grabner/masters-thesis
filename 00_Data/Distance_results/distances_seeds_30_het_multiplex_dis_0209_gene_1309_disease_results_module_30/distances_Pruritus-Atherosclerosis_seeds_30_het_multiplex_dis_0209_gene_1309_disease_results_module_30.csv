@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,27,30,-0.0185185185185186
+1,disease_on_symptoms,21,14,0.6714285714285715
+2,disease_on_drugs,27,29,0.17715745301952213

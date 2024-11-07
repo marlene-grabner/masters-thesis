@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,22,30,0.44405594405594395
+1,disease_on_symptoms,23,13,1.1707543664065403
+2,disease_on_drugs,17,23,0.6009590792838875

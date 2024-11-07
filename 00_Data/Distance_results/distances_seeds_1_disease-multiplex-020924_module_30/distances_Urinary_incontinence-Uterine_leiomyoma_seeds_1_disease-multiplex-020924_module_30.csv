@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,26,24,0.3603846153846155
+1,disease_on_symptoms,20,21,1.7515969802555167
+2,disease_on_drugs,20,18,1.1038011695906436

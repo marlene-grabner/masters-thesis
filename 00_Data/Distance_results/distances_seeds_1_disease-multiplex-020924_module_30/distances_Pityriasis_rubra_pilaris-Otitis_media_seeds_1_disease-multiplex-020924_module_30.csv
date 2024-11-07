@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,0.07168784029038111
+1,disease_on_symptoms,23,22,0.9587615283267459
+2,disease_on_drugs,26,29,0.21890523269833606

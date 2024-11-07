@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,29,30,0.5412039742840442
+1,disease_on_symptoms,15,25,2.085
+2,disease_on_drugs,29,7,1.0224411603721948

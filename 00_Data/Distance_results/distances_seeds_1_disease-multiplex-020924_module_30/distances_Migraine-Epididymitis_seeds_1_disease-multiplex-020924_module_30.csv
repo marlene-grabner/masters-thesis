@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.13586596532242345
+1,disease_on_symptoms,14,23,0.7535672318281013
+2,disease_on_drugs,29,27,0.4093915343915342

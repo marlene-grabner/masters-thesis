@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,20,16,0.5930555555555554
+2,disease_on_drugs,25,29,0.4123116219667944

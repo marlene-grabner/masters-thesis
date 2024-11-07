@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,-0.1836363636363637
+1,disease_on_symptoms,22,17,0.2880501851090087
+2,disease_on_drugs,30,25,0.1399999999999999

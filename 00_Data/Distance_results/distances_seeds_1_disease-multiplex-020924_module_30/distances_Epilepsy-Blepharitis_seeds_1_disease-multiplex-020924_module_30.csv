@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.42397959183673484
+1,disease_on_symptoms,18,27,1.4648148148148148
+2,disease_on_drugs,30,19,1.0327425707124953

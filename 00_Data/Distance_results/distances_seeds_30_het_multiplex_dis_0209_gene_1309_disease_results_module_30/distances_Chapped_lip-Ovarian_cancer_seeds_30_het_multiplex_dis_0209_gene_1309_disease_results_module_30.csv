@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,26,27,-0.05660377358490565
+1,disease_on_symptoms,20,17,0.6018680445151035
+2,disease_on_drugs,23,17,0.008631713554987153

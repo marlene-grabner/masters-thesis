@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,12,14,1.0064102564102564
+2,disease_on_drugs,21,24,0.32559523809523805

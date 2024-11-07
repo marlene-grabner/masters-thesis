@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,26,22,0.27840909090909083
+1,disease_on_symptoms,21,22,1.1409946642504782
+2,disease_on_drugs,24,14,0.8665413533834585

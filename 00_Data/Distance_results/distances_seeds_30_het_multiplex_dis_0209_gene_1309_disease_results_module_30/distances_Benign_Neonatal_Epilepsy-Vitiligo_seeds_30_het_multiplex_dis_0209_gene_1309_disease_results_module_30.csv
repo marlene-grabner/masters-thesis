@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,16,19,1.112265037593985
+2,disease_on_drugs,21,25,0.5497722567287786

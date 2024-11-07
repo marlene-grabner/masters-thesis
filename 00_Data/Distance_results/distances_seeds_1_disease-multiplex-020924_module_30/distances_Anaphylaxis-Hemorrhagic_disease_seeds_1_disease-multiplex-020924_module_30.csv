@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,24,0.31576797385620914
+1,disease_on_symptoms,15,19,2.0312693498452012
+2,disease_on_drugs,26,19,0.3229419703103913

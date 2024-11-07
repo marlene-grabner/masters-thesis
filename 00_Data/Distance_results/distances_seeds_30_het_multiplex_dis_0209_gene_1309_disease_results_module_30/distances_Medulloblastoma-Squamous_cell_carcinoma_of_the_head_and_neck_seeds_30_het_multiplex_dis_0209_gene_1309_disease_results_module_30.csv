@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,30,-0.594736842105263
+1,disease_on_symptoms,22,22,-0.7272727272727275
+2,disease_on_drugs,26,30,-0.6269230769230769

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,23,28,0.4591706247716476
+1,disease_on_symptoms,24,17,1.517156862745098
+2,disease_on_drugs,17,18,1.3142857142857145

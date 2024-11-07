@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Pain nodes,sAB
+0,disease_on_genes,27,26,0.037735849056603765
+1,disease_on_symptoms,22,16,1.6392045454545454
+2,disease_on_drugs,23,26,0.4087263668009009

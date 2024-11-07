@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,22,29,0.2713903743315509
+1,disease_on_symptoms,23,14,1.7923451401712271
+2,disease_on_drugs,20,28,0.825

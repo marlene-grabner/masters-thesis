@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,-0.24528301886792447
+1,disease_on_symptoms,21,16,0.17664092664092657
+2,disease_on_drugs,25,25,-0.23999999999999977

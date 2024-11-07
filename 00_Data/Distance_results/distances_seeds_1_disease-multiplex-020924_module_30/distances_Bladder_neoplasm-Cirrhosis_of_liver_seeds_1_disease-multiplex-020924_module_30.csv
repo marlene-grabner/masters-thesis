@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.2154761904761906
+1,disease_on_symptoms,20,14,0.5502100840336135
+2,disease_on_drugs,25,26,0.4121417797888387

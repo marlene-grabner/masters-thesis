@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.16574074074074074
+1,disease_on_symptoms,14,20,1.168487394957983
+2,disease_on_drugs,29,21,0.3123809523809524

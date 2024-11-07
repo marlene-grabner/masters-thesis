@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.13846469622331692
+1,disease_on_symptoms,14,17,0.9367037137435621
+2,disease_on_drugs,29,25,0.7222222222222223

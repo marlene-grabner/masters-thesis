@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Rhinitis nodes,sAB
+0,disease_on_genes,17,30,0.4145598664997914
+1,disease_on_symptoms,25,15,0.5349999999999997
+2,disease_on_drugs,13,22,0.7615384615384617

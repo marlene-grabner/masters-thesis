@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.05660377358490565
+1,disease_on_symptoms,12,17,1.1512846517917514
+2,disease_on_drugs,29,22,0.04556211199213234

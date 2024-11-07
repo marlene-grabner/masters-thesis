@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,26,26,0.11538461538461542
+1,disease_on_symptoms,28,21,0.6539115646258504
+2,disease_on_drugs,23,24,0.40379278445883426

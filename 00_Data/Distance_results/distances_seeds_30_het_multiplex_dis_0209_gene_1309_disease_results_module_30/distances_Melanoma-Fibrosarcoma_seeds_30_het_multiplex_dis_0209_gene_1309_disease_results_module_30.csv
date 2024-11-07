@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.22904483430799227
+1,disease_on_symptoms,23,14,-0.4138408594930334
+2,disease_on_drugs,25,26,-0.2730618401206636

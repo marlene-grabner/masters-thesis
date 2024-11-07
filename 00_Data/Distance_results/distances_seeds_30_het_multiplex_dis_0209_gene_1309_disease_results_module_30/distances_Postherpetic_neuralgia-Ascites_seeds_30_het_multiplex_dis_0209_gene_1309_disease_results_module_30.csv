@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,16,22,-0.12320574162679421
+2,disease_on_drugs,29,27,-0.10627622696588213

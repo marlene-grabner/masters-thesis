@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,25,21,-0.3270807453416149
+1,disease_on_symptoms,22,26,-0.21139277389277378
+2,disease_on_drugs,24,20,-0.10606060606060619

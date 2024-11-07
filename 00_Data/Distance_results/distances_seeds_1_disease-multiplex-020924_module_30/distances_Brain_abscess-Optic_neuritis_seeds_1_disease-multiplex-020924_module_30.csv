@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.05555555555555558
+1,disease_on_symptoms,21,16,0.46175193050193064
+2,disease_on_drugs,23,27,0.1725281803542673

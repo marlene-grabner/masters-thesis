@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,24,24,0.24999999999999978
+1,disease_on_symptoms,22,21,2.00244135709252
+2,disease_on_drugs,24,18,0.6626984126984128

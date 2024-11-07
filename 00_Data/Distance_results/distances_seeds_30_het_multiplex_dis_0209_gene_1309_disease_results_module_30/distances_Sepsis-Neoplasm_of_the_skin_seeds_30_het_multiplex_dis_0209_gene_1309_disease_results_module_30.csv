@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,22,0.6460687960687961
+2,disease_on_drugs,25,29,0.29144316730523623

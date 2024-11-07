@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,22,17,0.9362745098039218
+2,disease_on_drugs,27,29,0.25677339901477825

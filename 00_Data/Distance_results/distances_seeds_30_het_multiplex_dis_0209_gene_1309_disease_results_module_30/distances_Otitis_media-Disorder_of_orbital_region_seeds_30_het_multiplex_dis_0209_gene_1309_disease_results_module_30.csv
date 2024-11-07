@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,30,-0.11865380868887598
+1,disease_on_symptoms,20,18,-0.030555555555555447
+2,disease_on_drugs,28,28,-0.0535714285714286

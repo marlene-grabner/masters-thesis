@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.2407407407407407
+1,disease_on_symptoms,21,15,1.2277777777777779
+2,disease_on_drugs,21,21,0.40476190476190466

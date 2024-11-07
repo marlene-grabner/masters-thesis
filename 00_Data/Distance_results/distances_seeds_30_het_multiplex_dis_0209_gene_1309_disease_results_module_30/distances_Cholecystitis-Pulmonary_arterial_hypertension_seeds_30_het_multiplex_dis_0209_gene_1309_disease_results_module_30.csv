@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,25,28,-0.2264150943396226
+1,disease_on_symptoms,23,17,0.09271099744245515
+2,disease_on_drugs,21,25,-0.29527950310559015

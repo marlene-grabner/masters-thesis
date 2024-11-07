@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,-0.21276595744680848
+1,disease_on_symptoms,17,20,0.7860492845786959
+2,disease_on_drugs,23,19,-0.3575787294322763

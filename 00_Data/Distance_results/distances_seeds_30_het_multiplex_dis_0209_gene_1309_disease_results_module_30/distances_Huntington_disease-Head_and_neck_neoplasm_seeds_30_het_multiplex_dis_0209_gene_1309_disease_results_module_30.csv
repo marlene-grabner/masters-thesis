@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,22,0.6278280542986425
+2,disease_on_drugs,26,27,0.054426705370101525

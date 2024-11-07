@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,22,30,0.4641257757021304
+1,disease_on_symptoms,25,18,1.6680878552971574
+2,disease_on_drugs,18,19,0.9751066856330013

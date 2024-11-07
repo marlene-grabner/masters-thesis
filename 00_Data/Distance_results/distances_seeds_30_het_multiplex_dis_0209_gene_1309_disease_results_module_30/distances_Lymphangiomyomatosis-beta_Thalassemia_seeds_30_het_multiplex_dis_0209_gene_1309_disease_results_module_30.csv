@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,30,0.016483516483516647
+1,disease_on_symptoms,17,13,0.0956259426847661
+2,disease_on_drugs,24,24,-0.02083333333333326

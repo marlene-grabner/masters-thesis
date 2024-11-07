@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,23,25,0.04249999999999998
+1,disease_on_symptoms,23,17,0.6830562659846549
+2,disease_on_drugs,22,25,0.17114119922630566

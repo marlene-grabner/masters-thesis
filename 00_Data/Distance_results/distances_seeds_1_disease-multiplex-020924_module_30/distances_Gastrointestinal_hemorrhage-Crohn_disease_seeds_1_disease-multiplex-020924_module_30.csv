@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,25,0.2350217864923747
+1,disease_on_symptoms,19,20,0.6092442645074223
+2,disease_on_drugs,27,21,0.49404761904761907

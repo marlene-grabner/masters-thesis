@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,-0.08333333333333337
+1,disease_on_symptoms,21,23,0.9254658385093169
+2,disease_on_drugs,25,21,-0.056438923395445206

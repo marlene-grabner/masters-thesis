@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.19761904761904758
+1,disease_on_symptoms,21,16,0.7995495495495497
+2,disease_on_drugs,25,23,0.6438768115942028

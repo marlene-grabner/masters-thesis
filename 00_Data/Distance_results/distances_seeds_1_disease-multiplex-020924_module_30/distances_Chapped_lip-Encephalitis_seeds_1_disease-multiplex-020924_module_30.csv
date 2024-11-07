@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,0.35317460317460325
+1,disease_on_symptoms,21,17,1.4397759103641457
+2,disease_on_drugs,24,18,0.9761904761904763

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,20,16,0.9944444444444447
+2,disease_on_drugs,30,25,0.343030303030303

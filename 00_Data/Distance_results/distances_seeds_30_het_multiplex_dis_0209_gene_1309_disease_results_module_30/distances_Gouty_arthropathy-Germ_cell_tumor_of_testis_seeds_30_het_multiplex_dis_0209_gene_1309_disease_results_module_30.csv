@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,28,27,-0.0373737373737375
+1,disease_on_symptoms,18,22,0.2699494949494947
+2,disease_on_drugs,23,20,0.12272497472194122

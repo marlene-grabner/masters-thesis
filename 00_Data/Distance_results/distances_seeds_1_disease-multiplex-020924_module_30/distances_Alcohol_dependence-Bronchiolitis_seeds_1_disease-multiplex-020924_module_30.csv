@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,12,23,0.4794513457556937
+1,disease_on_symptoms,27,25,2.65065527065527
+2,disease_on_drugs,9,18,0.7314814814814812

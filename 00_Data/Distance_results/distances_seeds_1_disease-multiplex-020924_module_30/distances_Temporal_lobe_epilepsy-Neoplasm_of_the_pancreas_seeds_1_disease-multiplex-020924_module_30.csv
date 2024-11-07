@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,29,30,0.15225014611338406
+1,disease_on_symptoms,17,20,1.707710651828299
+2,disease_on_drugs,26,30,1.1593406593406592

@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.1287878787878789
+1,disease_on_symptoms,14,22,1.1554834054834058
+2,disease_on_drugs,26,25,0.47057315233785824

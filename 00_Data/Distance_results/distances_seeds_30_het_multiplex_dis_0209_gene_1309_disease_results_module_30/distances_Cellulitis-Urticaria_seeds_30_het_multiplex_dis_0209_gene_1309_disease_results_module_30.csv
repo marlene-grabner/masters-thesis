@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,0.0185185185185186
+1,disease_on_symptoms,20,21,0.44152148664343827
+2,disease_on_drugs,26,24,-0.018782051282051127

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,25,25,-0.040000000000000036
+1,disease_on_symptoms,23,17,0.4515345268542199
+2,disease_on_drugs,21,25,0.0021118012422360888

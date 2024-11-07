@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,26,27,0.13134978229317862
+1,disease_on_symptoms,21,24,1.182142857142857
+2,disease_on_drugs,26,25,0.7446757164404223

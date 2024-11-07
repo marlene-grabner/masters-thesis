@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.016666666666666607
+1,disease_on_symptoms,18,20,1.5501461988304093
+2,disease_on_drugs,21,21,0.1428571428571428

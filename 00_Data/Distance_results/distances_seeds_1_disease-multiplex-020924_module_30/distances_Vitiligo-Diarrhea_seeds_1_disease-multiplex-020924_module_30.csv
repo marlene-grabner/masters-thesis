@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Diarrhea nodes,sAB
+0,disease_on_genes,24,27,0.1684368191721135
+1,disease_on_symptoms,22,19,2.452474034309721
+2,disease_on_drugs,11,26,0.8726611226611227

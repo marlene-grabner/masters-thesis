@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,24,28,0.33791208791208804
+1,disease_on_symptoms,26,23,1.0994812640775375
+2,disease_on_drugs,15,28,0.470514950166113

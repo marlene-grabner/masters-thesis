@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,21,20,0.947938443670151
+2,disease_on_drugs,27,25,0.24840455840455822

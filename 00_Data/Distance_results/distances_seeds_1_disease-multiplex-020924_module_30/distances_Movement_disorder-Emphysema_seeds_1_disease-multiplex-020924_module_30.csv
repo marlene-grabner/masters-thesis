@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,22,14,0.7510822510822508
+2,disease_on_drugs,15,29,0.6045454545454545

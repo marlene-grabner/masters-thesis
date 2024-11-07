@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.5210727969348661
+1,disease_on_symptoms,14,18,2.410218253968254
+2,disease_on_drugs,13,19,0.7023026315789473

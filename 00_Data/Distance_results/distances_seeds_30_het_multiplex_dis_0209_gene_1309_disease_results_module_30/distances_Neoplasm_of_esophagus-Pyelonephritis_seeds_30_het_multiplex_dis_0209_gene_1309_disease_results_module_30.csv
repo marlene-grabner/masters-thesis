@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,29,24,-0.1890181088700933
+1,disease_on_symptoms,20,19,0.3350202429149798
+2,disease_on_drugs,25,19,-0.2212918660287082

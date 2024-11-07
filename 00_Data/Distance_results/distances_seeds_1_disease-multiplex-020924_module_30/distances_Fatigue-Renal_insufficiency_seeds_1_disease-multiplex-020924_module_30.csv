@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,-0.14498327759197327
+1,disease_on_symptoms,21,23,0.11307171089779788
+2,disease_on_drugs,26,17,0.3199515942333999

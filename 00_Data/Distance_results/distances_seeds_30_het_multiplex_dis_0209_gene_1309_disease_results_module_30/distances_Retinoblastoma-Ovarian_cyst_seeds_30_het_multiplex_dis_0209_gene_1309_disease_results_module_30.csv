@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333332
+1,disease_on_symptoms,21,19,0.4608395989974938
+2,disease_on_drugs,27,24,-0.006263616557734331

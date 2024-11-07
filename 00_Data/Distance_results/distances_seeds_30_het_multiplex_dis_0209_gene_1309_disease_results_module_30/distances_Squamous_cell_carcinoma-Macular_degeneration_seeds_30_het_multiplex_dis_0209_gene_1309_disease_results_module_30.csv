@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,22,17,0.37854792266556947
+2,disease_on_drugs,30,17,0.2966207759699624

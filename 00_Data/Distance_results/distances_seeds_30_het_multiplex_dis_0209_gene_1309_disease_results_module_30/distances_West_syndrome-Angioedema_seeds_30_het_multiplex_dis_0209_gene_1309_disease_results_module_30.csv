@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,13,18,0.713123793768955
+2,disease_on_drugs,19,26,0.09046333783175897

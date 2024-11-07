@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,14,23,0.6886016451233843
+2,disease_on_drugs,27,24,-0.11111111111111116

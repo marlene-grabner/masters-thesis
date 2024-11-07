@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,30,-0.1416666666666666
+1,disease_on_symptoms,22,18,-0.06691919191919204
+2,disease_on_drugs,26,28,-0.12993487993488007

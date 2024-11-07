@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.06000000000000005
+1,disease_on_symptoms,17,20,1.362678855325914
+2,disease_on_drugs,24,20,0.23446969696969688

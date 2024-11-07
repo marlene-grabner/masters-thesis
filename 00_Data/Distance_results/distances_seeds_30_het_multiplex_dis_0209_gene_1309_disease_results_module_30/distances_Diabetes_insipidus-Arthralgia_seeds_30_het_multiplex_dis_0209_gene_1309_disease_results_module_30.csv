@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Arthralgia nodes,sAB
+0,disease_on_genes,26,30,-0.09065934065934056
+1,disease_on_symptoms,20,17,0.5015103338632751
+2,disease_on_drugs,20,30,-0.06000000000000005

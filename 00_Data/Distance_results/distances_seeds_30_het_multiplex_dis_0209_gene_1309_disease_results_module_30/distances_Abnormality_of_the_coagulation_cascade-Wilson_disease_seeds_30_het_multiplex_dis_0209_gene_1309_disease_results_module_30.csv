@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,24,25,0.061224489795918435
+1,disease_on_symptoms,24,19,0.4526723786209712
+2,disease_on_drugs,23,22,0.13465085638998686

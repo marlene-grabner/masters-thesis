@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,15,0.19259259259259243
+1,disease_on_symptoms,21,27,1.4851190476190477
+2,disease_on_drugs,23,13,0.8973429951690819

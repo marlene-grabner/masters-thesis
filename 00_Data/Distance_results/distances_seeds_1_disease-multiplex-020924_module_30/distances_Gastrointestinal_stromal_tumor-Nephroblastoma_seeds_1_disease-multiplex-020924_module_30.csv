@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,23,25,-0.1270289855072464
+1,disease_on_symptoms,20,25,0.2822222222222224
+2,disease_on_drugs,19,21,-0.025000000000000022

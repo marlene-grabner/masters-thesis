@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,28,26,-0.18660968660968646
+1,disease_on_symptoms,17,22,0.06372549019607843
+2,disease_on_drugs,25,25,-0.28

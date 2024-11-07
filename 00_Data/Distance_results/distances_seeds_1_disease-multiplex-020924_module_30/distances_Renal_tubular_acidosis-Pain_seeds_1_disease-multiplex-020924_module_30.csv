@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Pain nodes,sAB
+0,disease_on_genes,18,26,0.3782051282051282
+1,disease_on_symptoms,18,21,2.8928571428571423
+2,disease_on_drugs,10,26,0.43632478632478633

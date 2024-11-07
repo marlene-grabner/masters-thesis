@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.08939393939393936
+1,disease_on_symptoms,22,21,0.49345615624685424
+2,disease_on_drugs,29,21,-0.15077175697865353

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,22,20,0.07207792207792219
+1,disease_on_symptoms,23,26,0.5228823971059995
+2,disease_on_drugs,17,13,0.08220211161387625

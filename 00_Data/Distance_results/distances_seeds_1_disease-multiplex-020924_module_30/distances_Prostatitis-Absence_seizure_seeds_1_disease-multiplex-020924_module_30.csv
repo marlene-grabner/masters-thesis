@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.4748295343853497
+1,disease_on_symptoms,20,16,2.1847222222222222
+2,disease_on_drugs,29,22,0.9851250845165653

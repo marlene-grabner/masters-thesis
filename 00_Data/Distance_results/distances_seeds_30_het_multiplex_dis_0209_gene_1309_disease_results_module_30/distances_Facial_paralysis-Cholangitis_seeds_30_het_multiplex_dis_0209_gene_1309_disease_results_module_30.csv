@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,22,30,0.17307692307692313
+1,disease_on_symptoms,21,18,0.3794261294261294
+2,disease_on_drugs,17,28,0.25368814192343603

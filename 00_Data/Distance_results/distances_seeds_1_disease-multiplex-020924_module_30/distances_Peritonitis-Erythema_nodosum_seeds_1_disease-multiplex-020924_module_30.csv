@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.03731527093596054
+1,disease_on_symptoms,17,23,0.44405370843989767
+2,disease_on_drugs,28,28,0.2321428571428572

@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,25,21,-0.17391304347826086
+1,disease_on_symptoms,20,23,0.8692366026289182
+2,disease_on_drugs,21,21,-0.11904761904761907

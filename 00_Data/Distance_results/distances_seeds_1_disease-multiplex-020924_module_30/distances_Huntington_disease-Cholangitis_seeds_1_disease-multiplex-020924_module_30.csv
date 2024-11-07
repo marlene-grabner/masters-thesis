@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.22504873294346983
+1,disease_on_symptoms,16,22,0.6257476076555024
+2,disease_on_drugs,27,26,0.7169811320754718

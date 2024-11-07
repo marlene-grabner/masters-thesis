@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,0.1996969696969697
+1,disease_on_symptoms,19,21,1.4729323308270674
+2,disease_on_drugs,24,27,0.1555010893246187

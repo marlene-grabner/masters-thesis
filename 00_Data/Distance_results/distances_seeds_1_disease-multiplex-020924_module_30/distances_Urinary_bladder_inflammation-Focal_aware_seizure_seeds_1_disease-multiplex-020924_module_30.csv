@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,25,29,0.2548148148148148
+1,disease_on_symptoms,22,15,1.4287059787059788
+2,disease_on_drugs,24,29,0.9732704402515724

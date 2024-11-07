@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,18,0.630532212885154
+2,disease_on_drugs,25,30,0.14121212121212112

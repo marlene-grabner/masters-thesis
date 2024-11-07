@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,17,30,0.18904881101376714
+1,disease_on_symptoms,21,15,1.3063492063492064
+2,disease_on_drugs,14,23,0.7350176263219741

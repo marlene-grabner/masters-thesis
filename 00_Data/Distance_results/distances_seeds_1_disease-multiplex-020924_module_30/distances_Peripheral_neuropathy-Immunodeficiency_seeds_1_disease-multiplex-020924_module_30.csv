@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.3074592074592075
+1,disease_on_symptoms,20,19,2.1556005398110663
+2,disease_on_drugs,24,18,1.025793650793651

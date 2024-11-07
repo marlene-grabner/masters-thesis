@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,25,30,-0.14814814814814814
+1,disease_on_symptoms,18,15,0.6161616161616159
+2,disease_on_drugs,24,29,0.22668618520928208

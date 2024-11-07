@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.19103313840155933
+1,disease_on_symptoms,19,17,0.4425524595803232
+2,disease_on_drugs,27,27,0.5185185185185186

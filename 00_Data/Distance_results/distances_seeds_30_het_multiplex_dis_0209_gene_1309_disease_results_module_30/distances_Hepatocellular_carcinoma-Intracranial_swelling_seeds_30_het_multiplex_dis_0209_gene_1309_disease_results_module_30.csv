@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,24,30,-0.18518518518518523
+1,disease_on_symptoms,23,11,0.6412462218088817
+2,disease_on_drugs,22,21,-0.049884224302828795

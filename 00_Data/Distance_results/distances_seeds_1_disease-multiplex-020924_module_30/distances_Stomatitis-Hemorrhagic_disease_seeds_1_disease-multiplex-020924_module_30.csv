@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.3736111111111111
+1,disease_on_symptoms,23,19,1.8032581453634084
+2,disease_on_drugs,30,19,1.0192266380236306

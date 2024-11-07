@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,21,23,-0.13537549407114635
+1,disease_on_symptoms,22,19,1.301085307503793
+2,disease_on_drugs,19,22,-0.19809779437507302

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,20,0.6913967611336034
+2,disease_on_drugs,30,22,0.17307692307692313

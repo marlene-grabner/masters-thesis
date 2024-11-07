@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,24,23,0.21739130434782616
+1,disease_on_symptoms,23,24,0.4719973789700893
+2,disease_on_drugs,20,22,0.6427489177489176

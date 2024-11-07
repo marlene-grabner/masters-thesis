@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,26,28,0.01968864468864484
+1,disease_on_symptoms,19,15,0.944891640866873
+2,disease_on_drugs,24,20,0.22689393939393931

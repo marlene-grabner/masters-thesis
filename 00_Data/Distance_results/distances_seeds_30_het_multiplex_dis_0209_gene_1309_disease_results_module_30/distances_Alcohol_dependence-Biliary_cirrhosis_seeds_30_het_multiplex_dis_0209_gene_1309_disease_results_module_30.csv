@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.1438644688644688
+1,disease_on_symptoms,18,22,0.944949494949495
+2,disease_on_drugs,24,25,0.26687074829931956

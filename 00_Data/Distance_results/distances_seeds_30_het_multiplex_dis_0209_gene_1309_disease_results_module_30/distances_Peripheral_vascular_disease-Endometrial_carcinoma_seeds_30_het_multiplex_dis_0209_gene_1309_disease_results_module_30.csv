@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,25,26,0.11725490196078425
+1,disease_on_symptoms,17,21,0.9753059118384195
+2,disease_on_drugs,25,26,0.27521870286576156

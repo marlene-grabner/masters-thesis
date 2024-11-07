@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,-0.40713944440652516
+1,disease_on_symptoms,21,25,-0.4326293995859213
+2,disease_on_drugs,24,18,-0.455357142857143

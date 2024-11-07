@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,19,18,0.13576734629366172
+2,disease_on_drugs,28,21,-0.12244897959183665

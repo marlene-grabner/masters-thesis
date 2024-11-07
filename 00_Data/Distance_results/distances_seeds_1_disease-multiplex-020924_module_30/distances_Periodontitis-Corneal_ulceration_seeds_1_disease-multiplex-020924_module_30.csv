@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,23,28,0.014964681524783918
+1,disease_on_symptoms,25,19,0.010239234449760826
+2,disease_on_drugs,22,26,0.2651515151515149

@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.30491913746630717
+1,disease_on_symptoms,25,19,0.8312918660287081
+2,disease_on_drugs,24,26,0.579102564102564

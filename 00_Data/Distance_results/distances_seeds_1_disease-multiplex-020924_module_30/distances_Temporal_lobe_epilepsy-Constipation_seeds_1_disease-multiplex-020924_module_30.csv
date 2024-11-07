@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Constipation nodes,sAB
+0,disease_on_genes,29,30,0.13558347944671723
+1,disease_on_symptoms,17,17,0.23529411764705865
+2,disease_on_drugs,26,27,0.18866580659033483

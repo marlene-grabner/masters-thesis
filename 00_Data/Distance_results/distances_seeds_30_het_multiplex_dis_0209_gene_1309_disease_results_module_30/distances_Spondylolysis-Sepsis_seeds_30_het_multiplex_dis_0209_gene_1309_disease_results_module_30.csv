@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Sepsis nodes,sAB
+0,disease_on_genes,28,30,-0.12011494252873556
+1,disease_on_symptoms,17,15,0.7231617647058823
+2,disease_on_drugs,19,25,-0.18971291866028728

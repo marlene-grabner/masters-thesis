@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,26,28,0.128154253154253
+1,disease_on_symptoms,19,23,1.2680069739566309
+2,disease_on_drugs,24,28,0.36515567765567747

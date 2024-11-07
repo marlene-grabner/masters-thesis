@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.509433962264151
+1,disease_on_symptoms,19,14,1.8218842560947826
+2,disease_on_drugs,24,13,1.1413288288288288

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,14,27,0.5311330494257325
+1,disease_on_symptoms,27,22,1.5154091939806225
+2,disease_on_drugs,8,24,1.4270833333333335

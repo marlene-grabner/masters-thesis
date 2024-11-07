@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,29,-0.07407407407407407
+1,disease_on_symptoms,17,17,0.3823529411764708
+2,disease_on_drugs,17,26,0.022019362306640256

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,13,23,1.016815310293571
+2,disease_on_drugs,21,29,0.14055829228243022

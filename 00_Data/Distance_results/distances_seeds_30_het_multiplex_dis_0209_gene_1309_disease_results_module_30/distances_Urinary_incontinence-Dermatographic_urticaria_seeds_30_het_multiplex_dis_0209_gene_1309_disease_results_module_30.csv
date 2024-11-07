@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,0.2586206896551724
+1,disease_on_symptoms,20,18,1.0076023391812865
+2,disease_on_drugs,20,28,0.2761904761904763

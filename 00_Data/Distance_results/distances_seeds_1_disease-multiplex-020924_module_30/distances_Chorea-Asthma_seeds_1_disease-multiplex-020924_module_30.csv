@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Asthma nodes,sAB
+0,disease_on_genes,14,25,0.328901098901099
+1,disease_on_symptoms,27,19,2.477625222476481
+2,disease_on_drugs,8,24,0.5520833333333335

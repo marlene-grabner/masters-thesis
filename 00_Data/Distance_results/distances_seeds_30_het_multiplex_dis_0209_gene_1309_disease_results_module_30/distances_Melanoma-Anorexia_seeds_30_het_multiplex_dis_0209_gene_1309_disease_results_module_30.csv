@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.08933132640029195
+1,disease_on_symptoms,23,13,1.3036046079524342
+2,disease_on_drugs,25,28,0.5089487870619949

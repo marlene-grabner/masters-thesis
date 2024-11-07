@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.22488378452283286
+1,disease_on_symptoms,22,19,0.7606488505076441
+2,disease_on_drugs,29,21,-0.1443021346469624

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.4234365867913501
+1,disease_on_symptoms,13,16,1.4234084880636604
+2,disease_on_drugs,29,24,0.5660377358490567

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,-0.2607407407407407
+1,disease_on_symptoms,19,26,-0.3505173189383717
+2,disease_on_drugs,29,24,-0.30161570158317064

@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.12662337662337653
+1,disease_on_symptoms,16,26,-0.2835393772893773
+2,disease_on_drugs,29,14,0.07535227402909839

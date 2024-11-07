@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,27,21,0.14616402116402116
+1,disease_on_symptoms,21,26,0.8288519990647649
+2,disease_on_drugs,23,20,0.12537917087967632

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,20,18,0.23596491228070193
+2,disease_on_drugs,25,29,0.10260536398467424

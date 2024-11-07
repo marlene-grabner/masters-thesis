@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,15,-0.16309523809523818
+2,disease_on_drugs,30,25,0.07090909090909103

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,25,30,0.16363636363636358
+1,disease_on_symptoms,19,14,1.7236272499430392
+2,disease_on_drugs,25,22,0.33938104448742745

@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,24,30,0.14953703703703702
+1,disease_on_symptoms,17,24,1.2558285509325682
+2,disease_on_drugs,23,24,0.468971631205674

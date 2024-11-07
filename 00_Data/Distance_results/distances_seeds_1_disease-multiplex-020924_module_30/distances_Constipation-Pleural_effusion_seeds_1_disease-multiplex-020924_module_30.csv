@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,17,20,0.4005166931637518
+2,disease_on_drugs,27,22,0.756991685563114

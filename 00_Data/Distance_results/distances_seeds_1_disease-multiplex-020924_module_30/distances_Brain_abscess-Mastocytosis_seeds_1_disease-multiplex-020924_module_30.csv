@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,27,18,0.2759259259259259
+1,disease_on_symptoms,21,28,0.8749999999999998
+2,disease_on_drugs,23,17,0.21074168797953963

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,14,27,0.6043037811330494
+1,disease_on_symptoms,27,27,1.9074074074074074
+2,disease_on_drugs,8,26,0.9578619909502262

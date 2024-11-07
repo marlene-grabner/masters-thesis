@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.08736263736263727
+1,disease_on_symptoms,28,17,0.32205882352941173
+2,disease_on_drugs,23,27,0.1182608695652172

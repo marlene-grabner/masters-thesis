@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Rosacea nodes,sAB
+0,disease_on_genes,12,30,0.2654761904761904
+1,disease_on_symptoms,27,17,0.8827490592196476
+2,disease_on_drugs,9,27,0.5277777777777777

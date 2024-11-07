@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.0909558378705384
+1,disease_on_symptoms,15,18,0.6126262626262626
+2,disease_on_drugs,23,19,0.28026588209654557

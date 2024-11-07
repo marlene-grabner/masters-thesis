@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Ascites nodes,sAB
+0,disease_on_genes,23,30,0.1365873666940114
+1,disease_on_symptoms,20,17,1.15214626391097
+2,disease_on_drugs,19,27,0.6618357487922706

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,30,0.2270955165692008
+1,disease_on_symptoms,21,20,1.1752032520325204
+2,disease_on_drugs,27,30,0.8576998050682259

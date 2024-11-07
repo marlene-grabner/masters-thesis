@@ -1,0 +1,4 @@
+,Layer,Focal_aware_seizure nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,28,0.28007518796992503
+1,disease_on_symptoms,15,20,1.7095238095238097
+2,disease_on_drugs,29,27,0.8928571428571428

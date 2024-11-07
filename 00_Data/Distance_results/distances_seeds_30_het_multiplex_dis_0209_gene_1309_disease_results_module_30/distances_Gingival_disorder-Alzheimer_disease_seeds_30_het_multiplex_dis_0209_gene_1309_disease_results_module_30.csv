@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.018867924528301883
+1,disease_on_symptoms,19,19,0.4473684210526314
+2,disease_on_drugs,24,19,0.01874235006119962

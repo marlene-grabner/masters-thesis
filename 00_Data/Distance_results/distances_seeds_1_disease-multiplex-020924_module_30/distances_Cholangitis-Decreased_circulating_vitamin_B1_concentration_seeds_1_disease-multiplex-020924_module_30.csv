@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,25,0.5166951566951568
+1,disease_on_symptoms,22,13,2.8643356643356643
+2,disease_on_drugs,26,16,1.1383928571428572

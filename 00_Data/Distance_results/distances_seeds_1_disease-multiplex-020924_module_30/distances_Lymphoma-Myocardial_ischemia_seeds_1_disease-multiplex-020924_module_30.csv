@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,0.21291208791208804
+1,disease_on_symptoms,21,13,1.380736910148675
+2,disease_on_drugs,25,23,0.6031159420289856

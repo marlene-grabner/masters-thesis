@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.6268264172998248
+1,disease_on_symptoms,25,16,3.655731707317073
+2,disease_on_drugs,7,24,1.0576036866359446

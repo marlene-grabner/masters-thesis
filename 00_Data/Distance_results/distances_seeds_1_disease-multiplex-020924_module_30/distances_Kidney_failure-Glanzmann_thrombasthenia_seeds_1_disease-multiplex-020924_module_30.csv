@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,20,24,-0.02992424242424252
+1,disease_on_symptoms,23,21,1.01369282891022
+2,disease_on_drugs,18,24,0.21329365079365092

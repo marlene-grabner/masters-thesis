@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,28,18,-0.12655279503105588
+1,disease_on_symptoms,20,21,1.5047038327526132
+2,disease_on_drugs,27,17,-0.01485442661913261

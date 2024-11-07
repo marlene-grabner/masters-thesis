@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Keloid nodes,sAB
+0,disease_on_genes,22,22,0.31818181818181834
+1,disease_on_symptoms,24,20,1.2973484848484849
+2,disease_on_drugs,20,19,0.7955128205128206

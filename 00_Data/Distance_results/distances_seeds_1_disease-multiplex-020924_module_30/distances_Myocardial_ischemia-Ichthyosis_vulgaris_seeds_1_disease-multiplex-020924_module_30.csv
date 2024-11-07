@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.26120857699805056
+1,disease_on_symptoms,13,21,1.3681318681318682
+2,disease_on_drugs,23,27,0.4947826086956524

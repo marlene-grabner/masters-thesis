@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.45055495882563545
+1,disease_on_symptoms,16,21,2.701697232947233
+2,disease_on_drugs,23,17,0.9347826086956523

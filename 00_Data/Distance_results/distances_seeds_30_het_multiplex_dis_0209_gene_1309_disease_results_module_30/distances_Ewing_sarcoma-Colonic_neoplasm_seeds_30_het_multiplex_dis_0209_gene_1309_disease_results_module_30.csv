@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,17,19,-0.1921224630202958
+2,disease_on_drugs,24,29,-0.27235144220342655

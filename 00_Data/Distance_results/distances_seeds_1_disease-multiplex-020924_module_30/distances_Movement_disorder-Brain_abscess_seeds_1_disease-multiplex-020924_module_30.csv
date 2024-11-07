@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,0.24346978557504872
+1,disease_on_symptoms,22,21,1.0636514648142557
+2,disease_on_drugs,15,23,0.6906178489702517

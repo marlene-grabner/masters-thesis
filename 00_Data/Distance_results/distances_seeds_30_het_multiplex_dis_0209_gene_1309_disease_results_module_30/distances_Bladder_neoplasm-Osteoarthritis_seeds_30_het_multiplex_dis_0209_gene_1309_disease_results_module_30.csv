@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,26,-0.3076923076923076
+1,disease_on_symptoms,19,22,-0.20378690629011564
+2,disease_on_drugs,25,25,-0.22000000000000008

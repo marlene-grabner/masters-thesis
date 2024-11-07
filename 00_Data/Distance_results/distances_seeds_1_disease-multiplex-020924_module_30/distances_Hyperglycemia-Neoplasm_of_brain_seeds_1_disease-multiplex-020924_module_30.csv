@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,-0.14708624708624707
+1,disease_on_symptoms,14,23,-0.232751384925298
+2,disease_on_drugs,26,20,-0.006521739130434856

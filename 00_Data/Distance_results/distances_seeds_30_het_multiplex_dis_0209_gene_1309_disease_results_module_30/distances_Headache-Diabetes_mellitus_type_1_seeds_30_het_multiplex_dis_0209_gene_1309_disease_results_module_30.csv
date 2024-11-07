@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,23,18,0.5003534817956874
+2,disease_on_drugs,23,26,-0.08890178144836525

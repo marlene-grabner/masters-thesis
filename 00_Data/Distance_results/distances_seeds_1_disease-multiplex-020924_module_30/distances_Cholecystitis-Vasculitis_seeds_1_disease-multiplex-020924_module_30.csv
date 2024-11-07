@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,24,0.44896258503401354
+1,disease_on_symptoms,19,19,1.1578947368421053
+2,disease_on_drugs,13,20,0.8206293706293706

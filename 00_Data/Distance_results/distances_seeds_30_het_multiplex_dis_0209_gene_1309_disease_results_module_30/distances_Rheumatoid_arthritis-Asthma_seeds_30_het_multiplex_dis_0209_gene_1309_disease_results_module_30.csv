@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.29121212121212114
+1,disease_on_symptoms,19,20,-0.08134278002699058
+2,disease_on_drugs,30,22,-0.03939393939393954

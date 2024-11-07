@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.1428571428571428
+1,disease_on_symptoms,21,21,0.7619047619047619
+2,disease_on_drugs,27,26,0.4321346019459227

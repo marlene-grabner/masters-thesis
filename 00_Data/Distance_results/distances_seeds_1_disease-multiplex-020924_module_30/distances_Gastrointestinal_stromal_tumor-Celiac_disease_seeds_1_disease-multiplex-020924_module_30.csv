@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,23,17,0.13248081841432224
+1,disease_on_symptoms,20,22,0.32380952380952377
+2,disease_on_drugs,19,15,0.40784313725490207

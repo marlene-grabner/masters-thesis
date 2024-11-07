@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,28,27,0.12692400192400188
+1,disease_on_symptoms,18,19,1.2968626521258102
+2,disease_on_drugs,26,27,0.6788824383164007

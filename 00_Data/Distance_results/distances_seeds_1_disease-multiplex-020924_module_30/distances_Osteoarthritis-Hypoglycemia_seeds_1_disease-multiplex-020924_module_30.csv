@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.270909090909091
+1,disease_on_symptoms,20,12,1.0916666666666668
+2,disease_on_drugs,21,22,0.7441860465116279

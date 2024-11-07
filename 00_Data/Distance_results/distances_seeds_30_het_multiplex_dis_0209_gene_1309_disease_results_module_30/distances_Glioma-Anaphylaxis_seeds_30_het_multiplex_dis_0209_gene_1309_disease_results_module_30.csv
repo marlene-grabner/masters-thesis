@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,22,27,0.0835222978080119
+1,disease_on_symptoms,21,14,1.0785714285714283
+2,disease_on_drugs,21,26,0.6155599719429508

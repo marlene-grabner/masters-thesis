@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,0.0014492753623189802
+1,disease_on_symptoms,23,20,1.2693882709807887
+2,disease_on_drugs,20,20,0.12499999999999978

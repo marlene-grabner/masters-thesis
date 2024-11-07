@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,15,14,0.7676518883415437
+2,disease_on_drugs,29,22,0.032331427868953266

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,18,29,0.5524985734083314
+1,disease_on_symptoms,21,17,2.6431519976411617
+2,disease_on_drugs,6,30,1.0555555555555558

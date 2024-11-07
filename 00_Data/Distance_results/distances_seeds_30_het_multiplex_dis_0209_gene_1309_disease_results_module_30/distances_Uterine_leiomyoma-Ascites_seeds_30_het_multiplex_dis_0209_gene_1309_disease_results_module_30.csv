@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,20,22,-0.21612554112554117
+2,disease_on_drugs,28,27,-0.25496632996633006

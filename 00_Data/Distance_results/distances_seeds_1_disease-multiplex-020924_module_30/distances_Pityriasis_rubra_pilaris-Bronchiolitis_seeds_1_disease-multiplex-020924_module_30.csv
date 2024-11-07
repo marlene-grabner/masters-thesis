@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,28,23,0.15473145780051145
+1,disease_on_symptoms,23,25,0.8872463768115944
+2,disease_on_drugs,26,18,0.3327505827505828

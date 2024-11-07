@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.37865353037766836
+1,disease_on_symptoms,17,15,1.8042892156862744
+2,disease_on_drugs,27,21,0.9398148148148147

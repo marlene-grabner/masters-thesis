@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,20,25,0.0905555555555555
+1,disease_on_symptoms,24,14,0.0975877192982455
+2,disease_on_drugs,18,22,0.21111111111111125

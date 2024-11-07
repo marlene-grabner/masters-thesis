@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,0.5000000000000002
+1,disease_on_symptoms,17,9,0.6706887883358472
+2,disease_on_drugs,28,11,0.4650765900765901

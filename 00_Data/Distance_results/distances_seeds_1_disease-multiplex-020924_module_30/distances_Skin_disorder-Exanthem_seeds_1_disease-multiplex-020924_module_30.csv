@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Exanthem nodes,sAB
+0,disease_on_genes,7,28,0.2999999999999998
+1,disease_on_symptoms,30,26,0.8564102564102565
+2,disease_on_drugs,6,28,0.10469187675070013

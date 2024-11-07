@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.22719298245614028
+1,disease_on_symptoms,21,18,0.687728937728938
+2,disease_on_drugs,25,30,-0.24424242424242415

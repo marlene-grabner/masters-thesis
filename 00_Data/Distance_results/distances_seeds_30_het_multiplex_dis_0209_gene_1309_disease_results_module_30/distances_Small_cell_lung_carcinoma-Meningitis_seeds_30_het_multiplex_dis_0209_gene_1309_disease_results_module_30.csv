@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,19,17,0.6920364637082903
+2,disease_on_drugs,30,27,0.27826510721247555

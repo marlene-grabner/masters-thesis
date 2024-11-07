@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,26,-0.2545454545454545
+1,disease_on_symptoms,18,25,-0.23237726098191214
+2,disease_on_drugs,27,24,-0.33033769063180807

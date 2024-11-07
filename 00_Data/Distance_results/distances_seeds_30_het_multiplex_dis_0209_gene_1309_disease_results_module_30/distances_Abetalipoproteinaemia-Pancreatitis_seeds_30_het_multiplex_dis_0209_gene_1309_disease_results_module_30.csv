@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,14,30,-0.2629870129870129
+1,disease_on_symptoms,26,17,-0.2898032200357783
+2,disease_on_drugs,14,30,-0.1917748917748916

@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.41256157635467994
+1,disease_on_symptoms,21,17,0.8395252837977294
+2,disease_on_drugs,29,18,0.5825385179750551

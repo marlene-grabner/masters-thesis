@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,0.17645550527903464
+1,disease_on_symptoms,23,19,1.6139261196469432
+2,disease_on_drugs,25,24,0.71343537414966

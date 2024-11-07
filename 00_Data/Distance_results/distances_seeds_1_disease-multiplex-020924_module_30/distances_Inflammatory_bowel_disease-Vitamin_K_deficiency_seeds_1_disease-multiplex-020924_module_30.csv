@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,17,25,-0.016158536585366035
+1,disease_on_symptoms,27,23,1.500805152979066
+2,disease_on_drugs,14,20,0.0025210084033611135

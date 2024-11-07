@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,22,20,0.2853896103896105
+1,disease_on_symptoms,19,24,2.0249133006935947
+2,disease_on_drugs,18,18,0.4722222222222223

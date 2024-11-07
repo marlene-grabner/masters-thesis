@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,15,0.2243386243386245
+1,disease_on_symptoms,21,27,1.8273809523809526
+2,disease_on_drugs,24,13,0.7359234234234233

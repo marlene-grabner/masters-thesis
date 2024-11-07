@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Melanoma nodes,sAB
+0,disease_on_genes,29,24,0.26415094339622636
+1,disease_on_symptoms,25,23,2.019710144927536
+2,disease_on_drugs,28,22,1.48

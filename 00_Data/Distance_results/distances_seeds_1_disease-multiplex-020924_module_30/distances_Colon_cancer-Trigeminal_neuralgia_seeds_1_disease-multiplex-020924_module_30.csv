@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.31608669108669085
+1,disease_on_symptoms,21,19,1.1501879699248123
+2,disease_on_drugs,24,26,1.0007692307692309

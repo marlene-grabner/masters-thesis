@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Angioedema nodes,sAB
+0,disease_on_genes,20,29,-0.10535714285714293
+1,disease_on_symptoms,24,17,-0.2668878527020564
+2,disease_on_drugs,18,25,-0.13888888888888884

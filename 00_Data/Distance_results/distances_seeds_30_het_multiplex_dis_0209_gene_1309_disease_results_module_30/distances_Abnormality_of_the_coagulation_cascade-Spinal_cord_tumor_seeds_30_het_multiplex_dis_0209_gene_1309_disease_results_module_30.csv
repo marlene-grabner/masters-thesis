@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,24,29,0.037735849056603765
+1,disease_on_symptoms,24,14,0.7543859649122808
+2,disease_on_drugs,23,22,0.021519543258673668

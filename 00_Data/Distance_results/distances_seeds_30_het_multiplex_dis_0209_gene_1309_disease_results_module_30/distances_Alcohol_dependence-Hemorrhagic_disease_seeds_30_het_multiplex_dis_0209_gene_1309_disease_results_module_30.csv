@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,0.1273809523809526
+1,disease_on_symptoms,18,19,0.16461198040145386
+2,disease_on_drugs,24,24,0.12499999999999978

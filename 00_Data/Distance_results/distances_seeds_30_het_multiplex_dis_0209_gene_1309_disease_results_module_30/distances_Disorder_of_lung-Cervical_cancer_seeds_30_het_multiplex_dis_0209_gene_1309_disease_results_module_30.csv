@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,28,0.16363636363636358
+1,disease_on_symptoms,18,22,0.8853535353535356
+2,disease_on_drugs,24,15,0.18365384615384617

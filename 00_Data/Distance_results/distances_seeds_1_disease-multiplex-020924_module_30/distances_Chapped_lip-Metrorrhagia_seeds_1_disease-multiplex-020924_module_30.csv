@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.2075471698113207
+1,disease_on_symptoms,21,17,1.2323455698068702
+2,disease_on_drugs,24,26,0.6815384615384616

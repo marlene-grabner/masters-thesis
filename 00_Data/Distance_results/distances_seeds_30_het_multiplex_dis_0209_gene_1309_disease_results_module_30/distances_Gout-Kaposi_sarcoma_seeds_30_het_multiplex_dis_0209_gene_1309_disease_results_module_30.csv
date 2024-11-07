@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,30,-0.12130541871921174
+1,disease_on_symptoms,19,16,-0.22236842105263133
+2,disease_on_drugs,22,28,-0.28467532467532464

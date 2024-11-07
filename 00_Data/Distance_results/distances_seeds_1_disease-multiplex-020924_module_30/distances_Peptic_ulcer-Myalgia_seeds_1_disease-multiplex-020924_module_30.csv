@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Myalgia nodes,sAB
+0,disease_on_genes,28,30,0.03251231527093612
+1,disease_on_symptoms,14,16,1.1279761904761907
+2,disease_on_drugs,28,29,0.5789473684210527

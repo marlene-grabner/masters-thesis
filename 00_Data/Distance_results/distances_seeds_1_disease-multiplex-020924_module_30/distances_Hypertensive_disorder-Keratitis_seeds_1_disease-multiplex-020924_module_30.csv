@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.2605820105820107
+1,disease_on_symptoms,15,25,1.018333333333333
+2,disease_on_drugs,26,23,0.6286601597160606

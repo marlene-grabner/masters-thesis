@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,16,22,0.11558014354066981
+2,disease_on_drugs,28,28,0.03571428571428559

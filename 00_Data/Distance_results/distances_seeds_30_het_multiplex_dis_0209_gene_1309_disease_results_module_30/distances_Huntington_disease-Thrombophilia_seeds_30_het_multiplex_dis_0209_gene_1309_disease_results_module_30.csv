@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.08771929824561409
+1,disease_on_symptoms,17,18,0.912931839402428
+2,disease_on_drugs,26,22,0.420600233100233

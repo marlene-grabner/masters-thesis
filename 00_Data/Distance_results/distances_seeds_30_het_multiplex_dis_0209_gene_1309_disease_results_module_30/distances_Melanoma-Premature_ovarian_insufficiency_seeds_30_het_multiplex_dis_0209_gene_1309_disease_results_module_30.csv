@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.07027290448343082
+1,disease_on_symptoms,23,18,0.3509779663014021
+2,disease_on_drugs,25,22,-0.02487427466150871

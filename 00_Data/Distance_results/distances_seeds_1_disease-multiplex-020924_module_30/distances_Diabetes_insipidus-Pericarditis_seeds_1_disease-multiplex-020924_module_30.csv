@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Pericarditis nodes,sAB
+0,disease_on_genes,24,25,0.01998299319727881
+1,disease_on_symptoms,18,22,0.41818181818181843
+2,disease_on_drugs,18,25,0.35209302325581393

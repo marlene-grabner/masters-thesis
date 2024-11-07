@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.2962432915921287
+1,disease_on_symptoms,17,26,1.482505524571188
+2,disease_on_drugs,28,9,0.5033247533247531

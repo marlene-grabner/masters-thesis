@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,24,30,0.14520098441345364
+1,disease_on_symptoms,23,22,1.6893061045234958
+2,disease_on_drugs,20,28,0.8113095238095238

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,30,-0.10476190476190461
+1,disease_on_symptoms,17,22,0.0759975318798849
+2,disease_on_drugs,24,30,0.11435185185185182

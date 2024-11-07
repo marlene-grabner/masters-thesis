@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,-0.17302955665024622
+1,disease_on_symptoms,18,14,-0.3918650793650795
+2,disease_on_drugs,25,25,-0.30000000000000016

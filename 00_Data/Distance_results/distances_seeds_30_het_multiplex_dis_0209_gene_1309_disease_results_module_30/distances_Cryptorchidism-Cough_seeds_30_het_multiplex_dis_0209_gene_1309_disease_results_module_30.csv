@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Cough nodes,sAB
+0,disease_on_genes,23,27,-0.021739130434782705
+1,disease_on_symptoms,19,22,1.1769459680242738
+2,disease_on_drugs,21,24,0.5452380952380951

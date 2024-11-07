@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,-0.07692307692307687
+1,disease_on_symptoms,23,25,0.5517391304347825
+2,disease_on_drugs,26,25,0.040663650075414726

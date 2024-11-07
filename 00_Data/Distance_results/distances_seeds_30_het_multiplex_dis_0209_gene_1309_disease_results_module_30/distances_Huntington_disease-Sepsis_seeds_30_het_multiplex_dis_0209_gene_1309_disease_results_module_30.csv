@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,17,15,1.4970588235294118
+2,disease_on_drugs,26,25,0.2748114630467571

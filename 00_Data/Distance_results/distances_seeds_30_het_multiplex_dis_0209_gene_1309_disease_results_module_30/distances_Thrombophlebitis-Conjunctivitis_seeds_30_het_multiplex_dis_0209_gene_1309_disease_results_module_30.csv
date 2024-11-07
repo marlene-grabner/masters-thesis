@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.1694915254237288
+1,disease_on_symptoms,18,27,0.28148148148148144
+2,disease_on_drugs,29,28,0.4037464350531501

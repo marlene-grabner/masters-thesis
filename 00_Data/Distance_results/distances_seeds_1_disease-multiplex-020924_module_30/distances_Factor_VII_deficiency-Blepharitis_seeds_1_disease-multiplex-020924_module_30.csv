@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,20,0.5594444444444444
+1,disease_on_symptoms,23,27,1.6537520128824474
+2,disease_on_drugs,21,19,1.249749373433584

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,20,20,0.3250000000000002
+1,disease_on_symptoms,22,26,0.9108391608391608
+2,disease_on_drugs,15,13,0.8862637362637362

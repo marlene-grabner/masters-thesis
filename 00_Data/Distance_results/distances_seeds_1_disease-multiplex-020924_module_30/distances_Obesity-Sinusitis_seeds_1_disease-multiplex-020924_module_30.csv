@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Sinusitis nodes,sAB
+0,disease_on_genes,26,29,0.056317820110923345
+1,disease_on_symptoms,20,21,0.6789779326364691
+2,disease_on_drugs,27,28,0.43666426166426175

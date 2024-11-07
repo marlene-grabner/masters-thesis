@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.2569444444444442
+1,disease_on_symptoms,21,19,0.9688596491228068
+2,disease_on_drugs,29,20,0.6910274454609429

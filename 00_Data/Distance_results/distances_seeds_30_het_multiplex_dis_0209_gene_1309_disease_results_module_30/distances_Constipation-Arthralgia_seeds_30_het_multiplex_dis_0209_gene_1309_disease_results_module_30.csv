@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,16,17,-0.27133467023172897
+2,disease_on_drugs,28,30,-0.3812807881773398

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,16,0.2734885620915033
+2,disease_on_drugs,30,27,-0.06851851851851842

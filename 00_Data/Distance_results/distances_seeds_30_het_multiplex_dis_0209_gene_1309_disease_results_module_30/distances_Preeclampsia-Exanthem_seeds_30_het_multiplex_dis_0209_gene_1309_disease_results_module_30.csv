@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,30,0.08859649122807034
+1,disease_on_symptoms,18,21,0.7695360195360195
+2,disease_on_drugs,22,29,0.09029442498002327

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,10,16,-0.12307692307692308
+2,disease_on_drugs,16,29,-0.12449712643678179

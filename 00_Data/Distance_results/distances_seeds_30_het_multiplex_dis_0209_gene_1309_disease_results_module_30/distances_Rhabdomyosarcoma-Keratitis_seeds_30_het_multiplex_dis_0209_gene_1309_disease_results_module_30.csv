@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,30,-0.11836158192090385
+1,disease_on_symptoms,19,25,0.3177033492822967
+2,disease_on_drugs,29,29,0.034482758620689724

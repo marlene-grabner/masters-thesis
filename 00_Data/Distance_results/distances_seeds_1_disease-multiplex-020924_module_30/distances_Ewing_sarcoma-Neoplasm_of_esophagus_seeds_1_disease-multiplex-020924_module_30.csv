@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,24,21,-0.21805555555555556
+1,disease_on_symptoms,25,24,-0.12049319727891161
+2,disease_on_drugs,17,20,-0.21418918918918906

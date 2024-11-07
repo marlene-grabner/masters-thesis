@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,-0.05631868131868123
+1,disease_on_symptoms,22,18,0.42500000000000004
+2,disease_on_drugs,25,27,-0.0543589743589743

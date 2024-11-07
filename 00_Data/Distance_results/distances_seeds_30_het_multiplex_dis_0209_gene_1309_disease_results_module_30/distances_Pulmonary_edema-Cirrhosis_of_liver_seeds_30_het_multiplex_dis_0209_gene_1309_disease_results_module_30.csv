@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.4666666666666667
+1,disease_on_symptoms,11,19,-0.9229665071770335
+2,disease_on_drugs,27,30,-0.42046783625731

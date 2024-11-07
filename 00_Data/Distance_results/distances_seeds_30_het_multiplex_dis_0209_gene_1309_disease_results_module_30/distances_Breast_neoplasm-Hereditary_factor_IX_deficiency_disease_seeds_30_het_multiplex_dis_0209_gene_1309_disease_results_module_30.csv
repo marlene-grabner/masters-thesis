@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.19150246305418728
+1,disease_on_symptoms,20,18,0.7948830409356726
+2,disease_on_drugs,30,26,0.15521978021978033

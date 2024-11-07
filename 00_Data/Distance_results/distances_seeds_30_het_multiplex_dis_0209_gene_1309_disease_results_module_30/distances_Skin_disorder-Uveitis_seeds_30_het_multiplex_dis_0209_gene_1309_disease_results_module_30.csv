@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,-0.1636363636363637
+1,disease_on_symptoms,19,20,0.05344129554655863
+2,disease_on_drugs,23,23,-0.26086956521739124

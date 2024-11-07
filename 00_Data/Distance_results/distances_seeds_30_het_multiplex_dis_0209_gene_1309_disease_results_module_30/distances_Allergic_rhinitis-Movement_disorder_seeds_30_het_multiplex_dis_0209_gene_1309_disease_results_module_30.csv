@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,28,30,0.05229885057471262
+1,disease_on_symptoms,20,17,0.551947535771065
+2,disease_on_drugs,25,26,-0.01745098039215698

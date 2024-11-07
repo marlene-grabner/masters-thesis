@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.21052631578947367
+1,disease_on_symptoms,17,21,0.05307386112339674
+2,disease_on_drugs,26,27,-0.20902542600655827

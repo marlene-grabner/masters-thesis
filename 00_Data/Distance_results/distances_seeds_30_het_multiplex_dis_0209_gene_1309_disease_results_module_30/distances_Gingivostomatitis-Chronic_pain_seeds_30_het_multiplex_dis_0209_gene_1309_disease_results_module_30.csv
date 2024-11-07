@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,15,19,-0.004747162022703755
+2,disease_on_drugs,30,28,-0.0684729064039411

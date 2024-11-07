@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.22033898305084754
+1,disease_on_symptoms,13,15,0.9298534798534797
+2,disease_on_drugs,29,29,0.4137931034482758

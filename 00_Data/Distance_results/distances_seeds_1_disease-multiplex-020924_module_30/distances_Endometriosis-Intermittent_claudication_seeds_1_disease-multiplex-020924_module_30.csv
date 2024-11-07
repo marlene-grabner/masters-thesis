@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.405
+1,disease_on_symptoms,12,24,0.7152777777777777
+2,disease_on_drugs,27,18,0.7333333333333334

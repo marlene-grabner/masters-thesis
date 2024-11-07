@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.017641325536062347
+1,disease_on_symptoms,22,14,0.9758297258297257
+2,disease_on_drugs,29,26,0.39967446346756685

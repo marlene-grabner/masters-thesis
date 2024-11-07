@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,22,27,0.24592867450010303
+1,disease_on_symptoms,20,15,2.507142857142857
+2,disease_on_drugs,19,26,0.4504273504273506

@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,20,20,0.04999999999999982
+1,disease_on_symptoms,18,23,1.511164133380464
+2,disease_on_drugs,19,17,0.32499140006879923

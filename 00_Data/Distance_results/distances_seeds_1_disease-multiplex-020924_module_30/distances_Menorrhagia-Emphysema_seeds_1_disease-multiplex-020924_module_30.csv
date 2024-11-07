@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Emphysema nodes,sAB
+0,disease_on_genes,26,30,0.12206959706959686
+1,disease_on_symptoms,19,14,1.4149578491683754
+2,disease_on_drugs,24,29,0.37539308176100605

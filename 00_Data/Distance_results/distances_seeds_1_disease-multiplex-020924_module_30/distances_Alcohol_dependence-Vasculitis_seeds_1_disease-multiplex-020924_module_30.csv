@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Vasculitis nodes,sAB
+0,disease_on_genes,12,24,0.35416666666666674
+1,disease_on_symptoms,27,19,2.0647936265785236
+2,disease_on_drugs,9,20,0.425095785440613

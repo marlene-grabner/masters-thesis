@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,21,25,0.2587991718426501
+1,disease_on_symptoms,22,26,1.2725815850815851
+2,disease_on_drugs,21,21,0.7619047619047619

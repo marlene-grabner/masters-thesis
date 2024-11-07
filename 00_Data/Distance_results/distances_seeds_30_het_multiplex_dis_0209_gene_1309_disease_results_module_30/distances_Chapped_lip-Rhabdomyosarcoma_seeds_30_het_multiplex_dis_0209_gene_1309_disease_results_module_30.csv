@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,29,-0.1454545454545455
+1,disease_on_symptoms,20,19,0.41251686909581675
+2,disease_on_drugs,23,29,-0.13470187982931603

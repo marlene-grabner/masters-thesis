@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,20,16,-0.3305555555555555
+2,disease_on_drugs,28,27,-0.05297017797017789

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,30,-0.0535714285714286
+1,disease_on_symptoms,19,24,0.068109955120359
+2,disease_on_drugs,25,20,0.04166666666666674

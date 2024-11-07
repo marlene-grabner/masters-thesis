@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,19,16,0.7618890977443606
+2,disease_on_drugs,23,21,0.046254470167513606

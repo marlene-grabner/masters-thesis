@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,19,0.4348032242769082
+2,disease_on_drugs,27,29,0.0928434592227696

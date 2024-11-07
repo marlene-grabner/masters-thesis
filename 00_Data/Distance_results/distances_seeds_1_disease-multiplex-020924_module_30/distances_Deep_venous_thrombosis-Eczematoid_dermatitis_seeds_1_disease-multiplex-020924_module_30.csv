@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,28,28,0.3392857142857142
+1,disease_on_symptoms,14,24,1.3342731829573933
+2,disease_on_drugs,24,28,0.7142857142857144

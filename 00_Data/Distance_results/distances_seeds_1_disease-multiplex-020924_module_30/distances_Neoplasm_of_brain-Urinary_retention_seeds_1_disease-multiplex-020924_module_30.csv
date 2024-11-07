@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,22,30,0.4325858870193846
+1,disease_on_symptoms,23,18,1.7550665724048544
+2,disease_on_drugs,20,19,0.7941295546558704

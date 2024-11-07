@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Periodontitis nodes,sAB
+0,disease_on_genes,29,23,0.35785953177257546
+1,disease_on_symptoms,16,25,2.611676829268293
+2,disease_on_drugs,26,22,0.8484848484848484

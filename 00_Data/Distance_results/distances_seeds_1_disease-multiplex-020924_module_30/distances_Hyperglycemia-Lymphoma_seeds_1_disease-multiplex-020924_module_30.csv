@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.18195970695970676
+1,disease_on_symptoms,14,21,1.5142857142857142
+2,disease_on_drugs,26,25,0.7443137254901961

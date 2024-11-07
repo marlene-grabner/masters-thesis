@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,28,0.09087301587301577
+1,disease_on_symptoms,15,19,1.40515995872033
+2,disease_on_drugs,25,26,0.2941025641025641

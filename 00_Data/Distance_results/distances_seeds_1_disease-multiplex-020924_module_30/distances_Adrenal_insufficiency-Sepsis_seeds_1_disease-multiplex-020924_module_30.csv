@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Sepsis nodes,sAB
+0,disease_on_genes,17,22,0.31471959413135897
+1,disease_on_symptoms,21,23,1.531338226990401
+2,disease_on_drugs,14,17,0.4895635673624288

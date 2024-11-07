@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,18,0.6111111111111109
+2,disease_on_drugs,28,26,0.36879324379324396

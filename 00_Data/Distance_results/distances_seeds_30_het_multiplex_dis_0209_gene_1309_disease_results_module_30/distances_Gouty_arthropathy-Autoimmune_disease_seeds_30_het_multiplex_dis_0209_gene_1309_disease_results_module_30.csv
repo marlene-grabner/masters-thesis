@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,26,0.09259259259259256
+1,disease_on_symptoms,18,20,0.19985380116959095
+2,disease_on_drugs,23,25,0.11844202898550704

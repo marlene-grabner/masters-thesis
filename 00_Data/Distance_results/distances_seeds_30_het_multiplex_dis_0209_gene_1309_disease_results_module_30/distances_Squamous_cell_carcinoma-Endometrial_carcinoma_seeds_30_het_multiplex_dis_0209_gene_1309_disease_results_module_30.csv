@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.1607142857142857
+1,disease_on_symptoms,22,21,-0.20857243531662162
+2,disease_on_drugs,30,26,-0.11401098901098916

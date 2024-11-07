@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,26,27,-0.01889480191366988
+1,disease_on_symptoms,21,21,0.7142857142857142
+2,disease_on_drugs,26,27,0.11248185776487674

@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.04970760233918137
+1,disease_on_symptoms,15,17,0.7827205882352941
+2,disease_on_drugs,26,27,0.15126592485083035

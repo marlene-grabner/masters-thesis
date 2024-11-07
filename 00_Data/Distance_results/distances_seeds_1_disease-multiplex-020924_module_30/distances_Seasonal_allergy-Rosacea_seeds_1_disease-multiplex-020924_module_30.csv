@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Rosacea nodes,sAB
+0,disease_on_genes,29,30,0.050526008182349536
+1,disease_on_symptoms,15,17,0.4845588235294116
+2,disease_on_drugs,29,27,0.25061576354679804

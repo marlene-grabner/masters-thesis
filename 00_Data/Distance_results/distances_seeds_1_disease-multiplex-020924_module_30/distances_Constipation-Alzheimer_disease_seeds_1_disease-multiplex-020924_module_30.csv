@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,0.07833333333333337
+1,disease_on_symptoms,17,23,0.9288363171355496
+2,disease_on_drugs,27,18,0.337037037037037

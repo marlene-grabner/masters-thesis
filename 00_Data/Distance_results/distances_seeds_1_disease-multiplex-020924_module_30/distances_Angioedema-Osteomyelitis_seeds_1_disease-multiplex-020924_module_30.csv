@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,29,25,0.22402964959568727
+1,disease_on_symptoms,17,23,1.1870843989769821
+2,disease_on_drugs,25,23,0.7273550724637681

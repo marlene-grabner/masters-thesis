@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,26,29,0.1989510489510491
+1,disease_on_symptoms,20,18,0.7605263157894739
+2,disease_on_drugs,20,29,0.3921534130893738

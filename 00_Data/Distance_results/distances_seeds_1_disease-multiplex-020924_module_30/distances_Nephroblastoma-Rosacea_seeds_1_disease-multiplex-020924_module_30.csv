@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Rosacea nodes,sAB
+0,disease_on_genes,25,30,0.21727272727272728
+1,disease_on_symptoms,25,17,0.6261064425770309
+2,disease_on_drugs,21,27,0.5833333333333333

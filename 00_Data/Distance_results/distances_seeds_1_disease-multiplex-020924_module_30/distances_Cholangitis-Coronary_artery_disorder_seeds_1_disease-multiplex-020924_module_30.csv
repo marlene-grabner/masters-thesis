@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,19,0.37787100601745904
+1,disease_on_symptoms,22,21,2.1199536897211315
+2,disease_on_drugs,26,17,1.0930232558139537

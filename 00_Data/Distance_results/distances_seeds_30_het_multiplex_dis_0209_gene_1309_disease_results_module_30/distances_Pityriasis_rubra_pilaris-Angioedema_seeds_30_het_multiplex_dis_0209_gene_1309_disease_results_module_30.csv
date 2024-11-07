@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,30,-0.08966861598440568
+1,disease_on_symptoms,21,18,-0.3675213675213673
+2,disease_on_drugs,25,26,-0.23381598793363512

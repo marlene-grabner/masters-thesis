@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,26,22,0.1768648018648018
+1,disease_on_symptoms,28,24,1.8365384615384617
+2,disease_on_drugs,23,13,0.5893719806763285

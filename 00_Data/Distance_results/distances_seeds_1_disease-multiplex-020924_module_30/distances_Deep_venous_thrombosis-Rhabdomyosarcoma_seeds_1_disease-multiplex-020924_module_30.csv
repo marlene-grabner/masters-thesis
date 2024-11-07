@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,28,23,0.2809493362562414
+1,disease_on_symptoms,14,24,2.268483709273183
+2,disease_on_drugs,24,17,1.3170731707317072

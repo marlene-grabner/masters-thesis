@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.20780885780885772
+1,disease_on_symptoms,14,19,1.81328320802005
+2,disease_on_drugs,26,19,0.5292397660818715

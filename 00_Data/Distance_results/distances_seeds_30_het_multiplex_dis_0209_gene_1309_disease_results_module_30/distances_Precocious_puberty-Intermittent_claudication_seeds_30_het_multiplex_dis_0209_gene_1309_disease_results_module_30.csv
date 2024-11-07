@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,14,0.033333333333333215
+2,disease_on_drugs,27,24,0.23107298474945526

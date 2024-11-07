@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,24,0.10130718954248374
+1,disease_on_symptoms,15,17,1.3123774509803923
+2,disease_on_drugs,25,23,0.4772826086956523

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,22,28,0.1399999999999999
+1,disease_on_symptoms,21,17,0.49926286303995293
+2,disease_on_drugs,17,28,0.1651960784313724

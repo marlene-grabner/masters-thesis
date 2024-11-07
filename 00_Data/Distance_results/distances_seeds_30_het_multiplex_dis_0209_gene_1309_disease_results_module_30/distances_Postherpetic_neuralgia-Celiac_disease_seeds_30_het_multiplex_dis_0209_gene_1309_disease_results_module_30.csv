@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,16,18,0.02941176470588225
+2,disease_on_drugs,29,28,-0.1404589058854031

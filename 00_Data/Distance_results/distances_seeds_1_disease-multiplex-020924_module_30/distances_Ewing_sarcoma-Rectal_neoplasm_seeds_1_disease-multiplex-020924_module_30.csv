@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,24,30,-0.0439814814814814
+1,disease_on_symptoms,25,21,0.24202898550724639
+2,disease_on_drugs,17,29,0.07421289355322358

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,26,28,0.09094339622641501
+1,disease_on_symptoms,19,23,0.538574697613599
+2,disease_on_drugs,24,26,0.1415384615384616

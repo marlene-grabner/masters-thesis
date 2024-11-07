@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.05494505494505486
+1,disease_on_symptoms,16,25,0.3928048780487807
+2,disease_on_drugs,25,25,-0.019999999999999796

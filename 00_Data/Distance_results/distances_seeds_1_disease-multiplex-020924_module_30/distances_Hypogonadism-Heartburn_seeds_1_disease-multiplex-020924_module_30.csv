@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,24,0.15998427672955984
+1,disease_on_symptoms,12,20,0.7604166666666667
+2,disease_on_drugs,30,22,1.0567599067599067

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,26,27,-0.3399854862119013
+1,disease_on_symptoms,17,22,0.028726175784999253
+2,disease_on_drugs,24,26,-0.38275641025641016

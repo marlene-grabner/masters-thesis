@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.4259259259259258
+1,disease_on_symptoms,21,12,1.9469696969696972
+2,disease_on_drugs,25,21,0.9537888198757762

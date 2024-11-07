@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Keloid nodes,sAB
+0,disease_on_genes,20,22,0.40335497835497836
+1,disease_on_symptoms,22,20,1.4740259740259738
+2,disease_on_drugs,15,19,0.7235294117647058

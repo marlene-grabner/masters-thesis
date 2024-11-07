@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,24,19,0.10416666666666652
+2,disease_on_drugs,27,29,0.2676746943988324

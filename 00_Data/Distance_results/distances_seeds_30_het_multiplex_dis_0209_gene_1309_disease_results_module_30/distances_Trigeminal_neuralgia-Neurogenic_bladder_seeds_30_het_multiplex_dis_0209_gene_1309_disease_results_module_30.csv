@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,15,18,-0.29494949494949485
+2,disease_on_drugs,25,21,-0.20385093167701873

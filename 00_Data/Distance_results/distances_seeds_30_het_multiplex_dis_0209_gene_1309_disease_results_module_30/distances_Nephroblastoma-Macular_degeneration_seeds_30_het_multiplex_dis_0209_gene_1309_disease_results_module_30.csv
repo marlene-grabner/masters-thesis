@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.22032924215858163
+1,disease_on_symptoms,20,17,0.797575516693164
+2,disease_on_drugs,24,17,0.2774091343854612

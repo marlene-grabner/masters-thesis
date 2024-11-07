@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Lymphoma nodes,sAB
+0,disease_on_genes,12,26,0.4391025641025641
+1,disease_on_symptoms,27,21,1.8528439153439151
+2,disease_on_drugs,9,25,0.4077124183006535

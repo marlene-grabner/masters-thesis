@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,22,30,0.2210955710955711
+1,disease_on_symptoms,24,15,2.1820512820512823
+2,disease_on_drugs,13,29,1.125615763546798

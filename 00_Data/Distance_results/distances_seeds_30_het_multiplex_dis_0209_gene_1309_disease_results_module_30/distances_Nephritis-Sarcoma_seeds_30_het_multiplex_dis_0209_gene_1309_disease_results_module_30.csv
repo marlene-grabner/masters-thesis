@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,17,23,0.9765984654731459
+2,disease_on_drugs,25,24,0.3063945578231293

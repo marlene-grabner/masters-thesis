@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,22,29,0.19844489519945907
+1,disease_on_symptoms,21,20,1.1948606271777005
+2,disease_on_drugs,21,28,0.5586734693877551

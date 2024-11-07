@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,28,30,0.12179802955665009
+1,disease_on_symptoms,18,13,1.4971739729804243
+2,disease_on_drugs,26,18,0.5337995337995338

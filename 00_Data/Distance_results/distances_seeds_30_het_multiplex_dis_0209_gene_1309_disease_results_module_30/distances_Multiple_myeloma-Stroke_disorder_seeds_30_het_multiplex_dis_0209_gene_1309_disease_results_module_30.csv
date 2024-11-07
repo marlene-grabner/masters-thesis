@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,21,16,-0.04858429858429858
+2,disease_on_drugs,25,30,0.3084848484848486

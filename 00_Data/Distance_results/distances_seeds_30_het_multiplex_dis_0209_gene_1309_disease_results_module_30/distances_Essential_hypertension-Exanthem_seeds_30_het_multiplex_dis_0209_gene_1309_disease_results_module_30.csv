@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Exanthem nodes,sAB
+0,disease_on_genes,28,30,0.0005747126436781436
+1,disease_on_symptoms,13,21,0.29756517991812115
+2,disease_on_drugs,28,29,-0.01881859821968712

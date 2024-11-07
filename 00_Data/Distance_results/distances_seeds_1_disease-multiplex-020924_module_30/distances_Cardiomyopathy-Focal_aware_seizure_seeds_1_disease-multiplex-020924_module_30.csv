@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,25,29,0.23777777777777764
+1,disease_on_symptoms,17,15,1.5964460784313725
+2,disease_on_drugs,24,29,0.9205974842767297

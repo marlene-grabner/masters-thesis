@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.053732567678424825
+1,disease_on_symptoms,16,19,1.1216165413533836
+2,disease_on_drugs,25,21,0.00625258799171835

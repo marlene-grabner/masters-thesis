@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,18,19,0.5112217480638535
+1,disease_on_symptoms,21,21,2.1666666666666665
+2,disease_on_drugs,6,17,0.7898550724637683

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,19,16,0.5967575187969925
+2,disease_on_drugs,25,27,0.15455840455840453

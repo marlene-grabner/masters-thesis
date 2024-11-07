@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.03831417624521083
+1,disease_on_symptoms,20,21,0.8235481997677119
+2,disease_on_drugs,24,21,-0.04265873015873023

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,24,22,0.21434453227931471
+1,disease_on_symptoms,18,19,1.188122332859175
+2,disease_on_drugs,18,19,0.7574679943100997

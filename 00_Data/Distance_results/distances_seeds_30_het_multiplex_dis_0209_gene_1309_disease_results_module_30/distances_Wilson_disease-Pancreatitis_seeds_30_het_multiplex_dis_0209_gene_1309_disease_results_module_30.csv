@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,25,30,-0.32727272727272727
+1,disease_on_symptoms,19,17,-0.8347953216374271
+2,disease_on_drugs,22,30,-0.4427738927738927

@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,20,21,0.6765969802555167
+2,disease_on_drugs,24,24,-0.14583333333333348

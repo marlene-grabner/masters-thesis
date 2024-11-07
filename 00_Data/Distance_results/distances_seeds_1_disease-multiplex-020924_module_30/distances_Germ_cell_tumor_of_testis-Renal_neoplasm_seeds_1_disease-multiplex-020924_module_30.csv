@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,27,22,-0.09322820037105761
+1,disease_on_symptoms,23,25,0.4960144927536232
+2,disease_on_drugs,20,18,-0.26315789473684215

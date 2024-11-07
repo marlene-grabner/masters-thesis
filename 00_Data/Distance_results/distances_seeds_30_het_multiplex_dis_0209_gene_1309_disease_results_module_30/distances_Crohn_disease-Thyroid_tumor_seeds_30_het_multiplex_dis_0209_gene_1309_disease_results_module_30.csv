@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,0.061224489795918435
+1,disease_on_symptoms,22,20,0.7559523809523809
+2,disease_on_drugs,24,20,0.13787878787878793

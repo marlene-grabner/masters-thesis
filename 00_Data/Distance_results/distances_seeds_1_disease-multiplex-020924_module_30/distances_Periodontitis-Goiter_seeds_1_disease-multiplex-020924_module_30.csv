@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Goiter nodes,sAB
+0,disease_on_genes,23,26,0.5721452460582894
+1,disease_on_symptoms,25,15,0.3683333333333334
+2,disease_on_drugs,22,16,0.7739234449760763

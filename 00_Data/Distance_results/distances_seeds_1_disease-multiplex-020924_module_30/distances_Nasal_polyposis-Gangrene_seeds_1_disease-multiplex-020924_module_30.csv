@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Gangrene nodes,sAB
+0,disease_on_genes,15,26,0.28373983739837416
+1,disease_on_symptoms,25,19,0.794019138755981
+2,disease_on_drugs,10,23,0.09038208168642958

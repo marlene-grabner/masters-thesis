@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.06499999999999995
+1,disease_on_symptoms,16,24,1.4229166666666666
+2,disease_on_drugs,30,18,1.0972222222222223

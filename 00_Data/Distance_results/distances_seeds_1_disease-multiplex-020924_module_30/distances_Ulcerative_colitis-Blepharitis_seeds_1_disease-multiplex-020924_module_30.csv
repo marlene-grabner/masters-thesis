@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,-0.01948384554767535
+1,disease_on_symptoms,20,27,0.7434791174152875
+2,disease_on_drugs,25,19,-0.07535885167464129

@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,16,20,0.8493055555555553
+2,disease_on_drugs,27,27,0.14814814814814814

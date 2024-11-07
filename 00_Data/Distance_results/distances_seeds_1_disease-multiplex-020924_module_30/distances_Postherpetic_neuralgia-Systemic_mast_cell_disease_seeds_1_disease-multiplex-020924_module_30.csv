@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.0005941944282097378
+1,disease_on_symptoms,15,16,0.41948924731182813
+2,disease_on_drugs,29,25,0.20498084291187757

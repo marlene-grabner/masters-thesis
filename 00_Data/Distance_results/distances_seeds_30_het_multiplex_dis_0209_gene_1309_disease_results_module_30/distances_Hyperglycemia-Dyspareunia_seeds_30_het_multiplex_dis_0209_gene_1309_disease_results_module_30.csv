@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.08446327683615817
+1,disease_on_symptoms,17,20,0.36637519872814006
+2,disease_on_drugs,26,28,0.07443019943019946

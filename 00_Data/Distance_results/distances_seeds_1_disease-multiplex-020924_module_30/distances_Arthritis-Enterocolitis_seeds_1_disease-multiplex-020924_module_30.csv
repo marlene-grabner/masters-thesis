@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.12378167641325544
+1,disease_on_symptoms,19,21,-0.16253132832080186
+2,disease_on_drugs,29,24,-0.18576501843417903

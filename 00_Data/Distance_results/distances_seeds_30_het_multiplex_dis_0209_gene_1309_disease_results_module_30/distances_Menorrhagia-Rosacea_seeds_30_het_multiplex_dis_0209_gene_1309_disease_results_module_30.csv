@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.016666666666666607
+1,disease_on_symptoms,16,18,0.559436274509804
+2,disease_on_drugs,23,30,0.20628930817610058

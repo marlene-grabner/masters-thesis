@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,29,30,0.35649717514124313
+1,disease_on_symptoms,18,14,1.617063492063492
+2,disease_on_drugs,22,24,1.0217391304347827

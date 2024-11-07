@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.1243664717348929
+1,disease_on_symptoms,15,21,0.28095238095238084
+2,disease_on_drugs,22,27,0.18367346938775508

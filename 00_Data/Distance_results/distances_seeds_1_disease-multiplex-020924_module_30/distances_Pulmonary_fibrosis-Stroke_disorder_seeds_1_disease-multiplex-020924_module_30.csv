@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,24,30,-0.018981481481481488
+1,disease_on_symptoms,22,15,0.36220311220311197
+2,disease_on_drugs,24,30,0.09259259259259256

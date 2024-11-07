@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.10141242937853101
+1,disease_on_symptoms,18,20,0.07777777777777795
+2,disease_on_drugs,26,28,-0.191239316239316

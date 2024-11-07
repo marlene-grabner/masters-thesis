@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666654
+1,disease_on_symptoms,15,22,0.26482391482391465
+2,disease_on_drugs,23,30,0.06771944216570946

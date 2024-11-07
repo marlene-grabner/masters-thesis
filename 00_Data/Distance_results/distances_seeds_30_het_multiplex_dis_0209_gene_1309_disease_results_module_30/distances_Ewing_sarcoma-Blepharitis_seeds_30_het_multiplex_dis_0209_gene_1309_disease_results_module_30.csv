@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,18,0.37086834733893537
+2,disease_on_drugs,24,30,0.2254629629629632

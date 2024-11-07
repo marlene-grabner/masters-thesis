@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,20,26,0.14891304347826106
+1,disease_on_symptoms,23,19,1.0762231666121824
+2,disease_on_drugs,18,23,0.05143160127253443

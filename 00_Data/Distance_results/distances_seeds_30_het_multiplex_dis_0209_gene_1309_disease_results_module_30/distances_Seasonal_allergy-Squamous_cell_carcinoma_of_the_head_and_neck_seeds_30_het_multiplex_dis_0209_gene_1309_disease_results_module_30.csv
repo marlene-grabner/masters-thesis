@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,29,30,-0.16892655367231624
+1,disease_on_symptoms,18,22,-0.00454545454545463
+2,disease_on_drugs,29,30,-0.05087668030391579

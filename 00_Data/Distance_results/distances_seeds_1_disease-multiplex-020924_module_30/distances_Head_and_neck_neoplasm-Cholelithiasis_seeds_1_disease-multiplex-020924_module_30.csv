@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.5433333333333334
+1,disease_on_symptoms,20,19,1.6105263157894738
+2,disease_on_drugs,27,18,1.6388888888888888

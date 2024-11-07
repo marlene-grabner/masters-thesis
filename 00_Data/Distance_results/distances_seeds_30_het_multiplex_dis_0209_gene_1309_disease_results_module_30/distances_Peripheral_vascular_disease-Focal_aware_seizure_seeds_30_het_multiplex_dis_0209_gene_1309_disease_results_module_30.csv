@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,25,29,0.22074074074074068
+1,disease_on_symptoms,17,16,0.48429144385026746
+2,disease_on_drugs,25,29,0.5204597701149425

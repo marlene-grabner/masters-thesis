@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,14,12,-0.6053113553113552
+2,disease_on_drugs,28,23,0.09012300572402876

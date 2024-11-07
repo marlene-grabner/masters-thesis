@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Exanthem nodes,sAB
+0,disease_on_genes,25,30,-0.034848484848484795
+1,disease_on_symptoms,17,21,1.1538404835618459
+2,disease_on_drugs,21,29,0.2388505747126437

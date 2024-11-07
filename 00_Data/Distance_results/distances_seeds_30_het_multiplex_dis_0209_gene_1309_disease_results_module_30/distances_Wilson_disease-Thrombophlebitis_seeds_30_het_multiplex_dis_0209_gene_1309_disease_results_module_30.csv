@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,19,18,-0.2709815078236133
+2,disease_on_drugs,22,29,-0.1197983895752659

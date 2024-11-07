@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.22037037037037033
+1,disease_on_symptoms,13,19,0.23329959514170007
+2,disease_on_drugs,28,24,-0.19024725274725285

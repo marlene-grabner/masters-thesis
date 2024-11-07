@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,14,18,-0.030753968253968367
+2,disease_on_drugs,26,30,-0.18598901098901122

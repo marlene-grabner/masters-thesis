@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.0185185185185186
+1,disease_on_symptoms,9,14,1.6071428571428572
+2,disease_on_drugs,23,26,0.2595215343662549

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,24,23,0.38153330249768724
+1,disease_on_symptoms,25,16,1.8739329268292682
+2,disease_on_drugs,17,22,1.3333333333333335

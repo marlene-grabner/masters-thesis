@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,16,22,-0.09868421052631571
+1,disease_on_symptoms,26,24,0.8604487179487181
+2,disease_on_drugs,14,19,-0.07496012759170645

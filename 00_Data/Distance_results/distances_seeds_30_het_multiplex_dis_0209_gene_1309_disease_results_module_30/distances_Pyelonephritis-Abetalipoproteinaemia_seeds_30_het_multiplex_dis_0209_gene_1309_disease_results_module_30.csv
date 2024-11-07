@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,24,14,-0.030231829573934776
+1,disease_on_symptoms,19,26,0.5004048582995952
+2,disease_on_drugs,19,14,0.12935748462064245

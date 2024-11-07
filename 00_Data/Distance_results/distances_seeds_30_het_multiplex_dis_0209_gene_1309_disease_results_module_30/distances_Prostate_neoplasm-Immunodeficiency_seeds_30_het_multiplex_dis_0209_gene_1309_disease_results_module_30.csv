@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,21,26,-0.023809523809523725
+1,disease_on_symptoms,20,21,0.3226771196283389
+2,disease_on_drugs,21,26,0.3263580391239964

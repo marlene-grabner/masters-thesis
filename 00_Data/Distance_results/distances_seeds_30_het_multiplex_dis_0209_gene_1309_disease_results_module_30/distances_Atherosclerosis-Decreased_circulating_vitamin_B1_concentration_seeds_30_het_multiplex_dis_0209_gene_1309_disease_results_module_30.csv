@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,14,17,0.36717267552182165
+2,disease_on_drugs,29,25,0.012183908045977132

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,25,30,0.018181818181818077
+1,disease_on_symptoms,23,18,0.5296630140214447
+2,disease_on_drugs,21,26,-0.02016600420855741

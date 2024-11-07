@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,23,27,0.29774557165861504
+1,disease_on_symptoms,21,19,0.5938596491228068
+2,disease_on_drugs,19,27,0.5217391304347827

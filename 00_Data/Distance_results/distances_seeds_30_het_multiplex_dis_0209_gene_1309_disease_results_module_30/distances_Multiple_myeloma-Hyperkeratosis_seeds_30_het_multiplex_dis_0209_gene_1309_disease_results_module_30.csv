@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,0.019230769230769384
+1,disease_on_symptoms,21,25,0.8069151138716357
+2,disease_on_drugs,25,25,0.05999999999999983

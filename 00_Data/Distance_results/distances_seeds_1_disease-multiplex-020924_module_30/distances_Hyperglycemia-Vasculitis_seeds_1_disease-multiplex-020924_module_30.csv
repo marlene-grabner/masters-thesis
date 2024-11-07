@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.19027777777777777
+1,disease_on_symptoms,14,19,1.6131237183868763
+2,disease_on_drugs,26,20,0.38478260869565206

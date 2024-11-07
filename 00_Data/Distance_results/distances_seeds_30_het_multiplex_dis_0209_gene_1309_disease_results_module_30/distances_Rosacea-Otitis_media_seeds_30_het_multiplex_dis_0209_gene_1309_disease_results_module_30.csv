@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.06780635106175736
+1,disease_on_symptoms,18,20,0.38464912280701746
+2,disease_on_drugs,30,28,0.06925287356321852

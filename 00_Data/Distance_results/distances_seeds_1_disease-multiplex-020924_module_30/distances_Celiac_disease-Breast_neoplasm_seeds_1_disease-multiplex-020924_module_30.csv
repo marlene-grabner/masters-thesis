@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,17,30,0.09011264080100134
+1,disease_on_symptoms,22,16,0.8766447368421053
+2,disease_on_drugs,15,30,0.5666666666666669

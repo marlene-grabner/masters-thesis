@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Angioedema nodes,sAB
+0,disease_on_genes,22,29,-0.05785714285714283
+1,disease_on_symptoms,17,17,1.1764705882352942
+2,disease_on_drugs,21,25,0.3633540372670807

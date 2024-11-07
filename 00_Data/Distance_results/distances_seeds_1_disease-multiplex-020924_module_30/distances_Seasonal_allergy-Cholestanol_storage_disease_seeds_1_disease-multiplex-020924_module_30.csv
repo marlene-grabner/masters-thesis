@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,29,30,0.16832261835184092
+1,disease_on_symptoms,15,17,0.7952205882352941
+2,disease_on_drugs,29,25,0.7701660280970626

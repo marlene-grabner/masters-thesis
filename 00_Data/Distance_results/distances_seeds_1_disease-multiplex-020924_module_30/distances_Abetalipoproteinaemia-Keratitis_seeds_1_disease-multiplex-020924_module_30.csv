@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Keratitis nodes,sAB
+0,disease_on_genes,17,28,0.445985060690943
+1,disease_on_symptoms,25,25,1.46
+2,disease_on_drugs,13,23,0.7852099591230026

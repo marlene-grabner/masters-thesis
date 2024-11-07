@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,22,16,1.0604066985645932
+2,disease_on_drugs,30,25,0.4127272727272726

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.6723316912972086
+1,disease_on_symptoms,22,21,1.484470955401188
+2,disease_on_drugs,15,28,1.1200996677740864

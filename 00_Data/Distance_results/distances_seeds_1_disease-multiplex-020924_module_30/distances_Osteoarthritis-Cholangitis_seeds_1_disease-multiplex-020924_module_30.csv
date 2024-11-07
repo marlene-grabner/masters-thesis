@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,27,0.15592592592592602
+1,disease_on_symptoms,20,22,1.0705627705627707
+2,disease_on_drugs,21,26,0.7659574468085106

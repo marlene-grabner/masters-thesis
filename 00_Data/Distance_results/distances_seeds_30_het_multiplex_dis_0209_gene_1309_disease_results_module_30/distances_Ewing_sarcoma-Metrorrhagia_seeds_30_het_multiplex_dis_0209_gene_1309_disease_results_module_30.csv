@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.08771929824561409
+1,disease_on_symptoms,17,17,0.029411764705882693
+2,disease_on_drugs,24,26,-0.07878205128205118

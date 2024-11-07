@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.10098522167487678
+1,disease_on_symptoms,20,21,0.09651567944250883
+2,disease_on_drugs,28,24,0.10027472527472514

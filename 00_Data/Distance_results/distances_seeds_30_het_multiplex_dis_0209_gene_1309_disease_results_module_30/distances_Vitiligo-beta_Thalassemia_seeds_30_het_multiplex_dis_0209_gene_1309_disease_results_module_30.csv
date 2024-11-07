@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,19,13,-0.37626518218623506
+2,disease_on_drugs,25,24,-0.022636054421768748

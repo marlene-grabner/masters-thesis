@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.014874342489772152
+1,disease_on_symptoms,16,16,1.46875
+2,disease_on_drugs,23,29,0.3628762541806019

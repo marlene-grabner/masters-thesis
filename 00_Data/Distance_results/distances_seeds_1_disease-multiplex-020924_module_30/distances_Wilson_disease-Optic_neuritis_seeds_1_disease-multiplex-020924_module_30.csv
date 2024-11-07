@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,0.27426731078904965
+1,disease_on_symptoms,19,16,1.0921522556390977
+2,disease_on_drugs,11,27,0.5155945419103312

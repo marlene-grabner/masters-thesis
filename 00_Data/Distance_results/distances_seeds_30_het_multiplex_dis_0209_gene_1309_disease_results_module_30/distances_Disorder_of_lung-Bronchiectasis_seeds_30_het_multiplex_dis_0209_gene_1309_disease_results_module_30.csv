@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,18,19,0.08704757388967899
+2,disease_on_drugs,24,25,-0.24372448979591843

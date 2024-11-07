@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,17,30,0.3976982097186701
+1,disease_on_symptoms,22,12,2.5931372549019613
+2,disease_on_drugs,15,30,0.7722222222222221

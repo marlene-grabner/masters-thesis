@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,29,25,0.1834993614303959
+1,disease_on_symptoms,17,20,1.503656597774245
+2,disease_on_drugs,26,18,0.35198135198135194

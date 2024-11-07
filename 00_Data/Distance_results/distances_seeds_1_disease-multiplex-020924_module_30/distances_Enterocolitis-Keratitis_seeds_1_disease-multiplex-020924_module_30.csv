@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.00031265031265026444
+1,disease_on_symptoms,21,25,-0.48182194616977214
+2,disease_on_drugs,24,23,-0.17115710761640457

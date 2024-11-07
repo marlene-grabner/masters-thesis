@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,18,0.19663865546218506
+2,disease_on_drugs,26,28,0.03439153439153442

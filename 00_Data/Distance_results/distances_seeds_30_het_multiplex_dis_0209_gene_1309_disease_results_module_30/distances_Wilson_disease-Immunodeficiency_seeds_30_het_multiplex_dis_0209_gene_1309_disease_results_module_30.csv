@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,25,26,0.11764705882352944
+1,disease_on_symptoms,19,21,0.3215538847117796
+2,disease_on_drugs,22,26,0.1440850815850816

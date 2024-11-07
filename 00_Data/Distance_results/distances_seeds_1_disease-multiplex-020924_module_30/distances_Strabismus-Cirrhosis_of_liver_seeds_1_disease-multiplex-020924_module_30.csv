@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,13,30,0.26329755515802034
+1,disease_on_symptoms,26,14,1.2217032967032966
+2,disease_on_drugs,9,26,0.6109279609279608

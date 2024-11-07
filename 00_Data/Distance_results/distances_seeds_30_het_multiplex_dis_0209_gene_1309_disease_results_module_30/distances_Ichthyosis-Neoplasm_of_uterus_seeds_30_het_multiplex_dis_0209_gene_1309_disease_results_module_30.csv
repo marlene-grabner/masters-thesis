@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,28,30,0.0683497536945814
+1,disease_on_symptoms,18,18,0.7777777777777777
+2,disease_on_drugs,25,26,0.2948265460030164

@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.1890394088669951
+1,disease_on_symptoms,19,19,0.8421052631578949
+2,disease_on_drugs,29,26,0.34545454545454546

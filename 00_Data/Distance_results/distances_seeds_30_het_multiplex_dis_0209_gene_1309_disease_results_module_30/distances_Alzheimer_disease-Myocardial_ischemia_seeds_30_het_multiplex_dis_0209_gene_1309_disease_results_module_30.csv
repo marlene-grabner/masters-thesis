@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,23,30,-0.39402515723270437
+1,disease_on_symptoms,19,19,-0.07894736842105265
+2,disease_on_drugs,19,30,-0.4882205513784461

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,25,17,0.4852100840336133
+1,disease_on_symptoms,14,25,1.63
+2,disease_on_drugs,22,13,0.7615384615384617

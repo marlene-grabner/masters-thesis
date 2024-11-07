@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,17,16,0.3077094474153297
+2,disease_on_drugs,26,28,0.1676841676841676

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,21,-0.7089768339768343
+2,disease_on_drugs,25,30,-0.13969696969696965

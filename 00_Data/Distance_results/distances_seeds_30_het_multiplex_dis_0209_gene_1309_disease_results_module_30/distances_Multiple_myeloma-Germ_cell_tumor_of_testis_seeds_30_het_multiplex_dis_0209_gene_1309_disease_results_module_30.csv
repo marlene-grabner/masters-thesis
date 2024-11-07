@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,26,27,-0.2442348008385744
+1,disease_on_symptoms,21,22,0.2159720124836404
+2,disease_on_drugs,25,20,-0.3205555555555556

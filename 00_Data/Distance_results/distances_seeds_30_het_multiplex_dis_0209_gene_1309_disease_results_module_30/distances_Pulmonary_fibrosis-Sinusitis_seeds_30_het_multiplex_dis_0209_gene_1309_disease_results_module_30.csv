@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,25,29,-0.14814814814814814
+1,disease_on_symptoms,22,20,-0.044480519480519565
+2,disease_on_drugs,25,27,-0.21253561253561248

@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,20,23,0.17588473205257849
+2,disease_on_drugs,28,30,0.1543103448275862

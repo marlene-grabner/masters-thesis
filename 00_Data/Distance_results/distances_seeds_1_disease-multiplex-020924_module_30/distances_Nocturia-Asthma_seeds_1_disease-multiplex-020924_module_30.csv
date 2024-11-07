@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Asthma nodes,sAB
+0,disease_on_genes,21,25,0.38476190476190464
+1,disease_on_symptoms,24,19,1.520731334149327
+2,disease_on_drugs,14,24,0.6669799498746869

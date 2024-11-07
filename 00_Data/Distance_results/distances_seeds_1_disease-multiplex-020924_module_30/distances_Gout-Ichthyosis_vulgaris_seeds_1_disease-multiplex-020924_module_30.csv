@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,0.09527065527065504
+1,disease_on_symptoms,18,21,1.0604395604395604
+2,disease_on_drugs,23,27,0.19999999999999996

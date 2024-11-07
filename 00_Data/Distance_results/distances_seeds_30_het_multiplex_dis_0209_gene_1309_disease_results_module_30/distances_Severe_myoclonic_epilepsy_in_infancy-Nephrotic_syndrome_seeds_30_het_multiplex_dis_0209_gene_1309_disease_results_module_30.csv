@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,14,15,0.3825123152709362
+2,disease_on_drugs,21,28,0.1887755102040818

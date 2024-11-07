@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,28,28,0.0714285714285714
+1,disease_on_symptoms,22,18,0.7131313131313131
+2,disease_on_drugs,15,27,0.3206349206349204

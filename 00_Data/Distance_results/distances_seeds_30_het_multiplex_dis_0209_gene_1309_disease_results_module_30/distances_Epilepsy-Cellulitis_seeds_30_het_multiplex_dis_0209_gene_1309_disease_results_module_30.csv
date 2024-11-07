@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,21,20,1.2911149825783972
+2,disease_on_drugs,29,26,0.8155413551965274

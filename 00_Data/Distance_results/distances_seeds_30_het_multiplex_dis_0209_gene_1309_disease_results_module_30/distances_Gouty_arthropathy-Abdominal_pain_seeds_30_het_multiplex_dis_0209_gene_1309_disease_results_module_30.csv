@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.017816091954023117
+1,disease_on_symptoms,18,19,0.1343843843843846
+2,disease_on_drugs,23,29,0.32902779379541003

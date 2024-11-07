@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,28,26,0.003968253968253954
+1,disease_on_symptoms,14,17,1.8471808078069938
+2,disease_on_drugs,28,23,0.3900255754475703

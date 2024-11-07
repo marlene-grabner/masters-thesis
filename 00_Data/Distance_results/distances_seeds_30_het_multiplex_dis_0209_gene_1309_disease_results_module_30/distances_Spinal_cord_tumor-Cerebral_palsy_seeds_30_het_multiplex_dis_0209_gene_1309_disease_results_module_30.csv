@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,29,30,0.11864406779661008
+1,disease_on_symptoms,14,13,0.7136752136752138
+2,disease_on_drugs,22,21,-0.23170240612101067

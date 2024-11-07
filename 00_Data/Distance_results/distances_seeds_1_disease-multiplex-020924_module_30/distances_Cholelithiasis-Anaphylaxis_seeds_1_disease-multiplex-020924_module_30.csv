@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,0.42367521367521355
+1,disease_on_symptoms,19,15,1.8222910216718264
+2,disease_on_drugs,18,26,0.9564879564879567

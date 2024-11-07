@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,-0.017857142857142905
+1,disease_on_symptoms,21,20,-0.046777003484320456
+2,disease_on_drugs,25,27,-0.06330484330484332

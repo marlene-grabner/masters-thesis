@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,28,26,0.3346560846560849
+1,disease_on_symptoms,15,19,1.6952528379772962
+2,disease_on_drugs,21,18,0.7670940170940173

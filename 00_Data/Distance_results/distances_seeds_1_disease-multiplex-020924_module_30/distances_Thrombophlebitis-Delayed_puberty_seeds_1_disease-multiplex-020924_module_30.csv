@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,28,22,0.2874149659863945
+1,disease_on_symptoms,15,20,1.6654761904761903
+2,disease_on_drugs,21,19,0.5473684210526315

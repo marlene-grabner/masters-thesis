@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.286904761904762
+1,disease_on_symptoms,17,15,1.2425245098039217
+2,disease_on_drugs,23,21,0.8862695275738754

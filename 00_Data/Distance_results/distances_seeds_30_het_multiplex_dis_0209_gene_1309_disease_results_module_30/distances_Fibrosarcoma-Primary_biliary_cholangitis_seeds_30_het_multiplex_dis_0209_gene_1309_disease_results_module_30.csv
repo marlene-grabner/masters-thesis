@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.0535714285714286
+1,disease_on_symptoms,14,23,0.2659476246432768
+2,disease_on_drugs,26,26,0.17307692307692313

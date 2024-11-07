@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,22,26,0.13257575757575757
+1,disease_on_symptoms,22,17,1.7480460715754835
+2,disease_on_drugs,14,23,0.6278747691791171

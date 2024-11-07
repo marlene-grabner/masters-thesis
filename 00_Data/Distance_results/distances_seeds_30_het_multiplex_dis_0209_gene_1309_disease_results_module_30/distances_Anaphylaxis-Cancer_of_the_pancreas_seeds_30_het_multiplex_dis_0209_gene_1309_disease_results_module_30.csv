@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,14,23,0.843335571596441
+2,disease_on_drugs,26,30,0.3065934065934066

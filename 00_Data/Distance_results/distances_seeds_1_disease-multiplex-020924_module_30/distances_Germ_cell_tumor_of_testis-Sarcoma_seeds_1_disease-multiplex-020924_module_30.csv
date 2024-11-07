@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,25,-0.42307692307692313
+1,disease_on_symptoms,23,26,-0.6159818442427137
+2,disease_on_drugs,20,21,-0.5365853658536586

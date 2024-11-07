@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,17,-0.16556956115779664
+1,disease_on_symptoms,20,24,0.0746212121212122
+2,disease_on_drugs,27,16,-0.011547157622739057

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,22,30,-0.3086247086247088
+1,disease_on_symptoms,24,20,-0.17765151515151523
+2,disease_on_drugs,20,30,-0.28166666666666673

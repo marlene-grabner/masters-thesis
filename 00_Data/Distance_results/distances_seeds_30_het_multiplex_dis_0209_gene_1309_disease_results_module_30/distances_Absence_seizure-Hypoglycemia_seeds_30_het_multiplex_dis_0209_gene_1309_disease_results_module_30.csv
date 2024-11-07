@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,14,19,0.584073820915926
+2,disease_on_drugs,22,27,0.10324331752903171

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,21,17,0.06958572902845317
+2,disease_on_drugs,29,26,0.3285025319508077

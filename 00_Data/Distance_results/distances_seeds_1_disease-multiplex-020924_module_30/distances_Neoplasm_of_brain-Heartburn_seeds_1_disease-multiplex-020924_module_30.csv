@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Heartburn nodes,sAB
+0,disease_on_genes,22,24,0.09049736495388672
+1,disease_on_symptoms,23,20,1.488751263902932
+2,disease_on_drugs,20,22,1.0939393939393938

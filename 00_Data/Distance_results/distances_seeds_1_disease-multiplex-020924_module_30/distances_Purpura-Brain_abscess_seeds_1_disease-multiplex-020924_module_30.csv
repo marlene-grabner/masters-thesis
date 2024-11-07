@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,26,27,0.03804493898833505
+1,disease_on_symptoms,17,21,1.4000442282176029
+2,disease_on_drugs,20,23,0.12537917087967632

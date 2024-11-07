@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.06892230576441105
+1,disease_on_symptoms,12,19,0.7545274476513866
+2,disease_on_drugs,30,28,0.24133825944170773

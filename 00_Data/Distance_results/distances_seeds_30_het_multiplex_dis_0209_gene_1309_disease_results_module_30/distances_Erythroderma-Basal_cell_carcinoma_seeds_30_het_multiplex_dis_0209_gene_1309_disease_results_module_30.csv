@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.30000000000000004
+1,disease_on_symptoms,20,24,-0.3981060606060607
+2,disease_on_drugs,29,27,-0.3542464878671776

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.18483521068001663
+1,disease_on_symptoms,16,25,0.734420731707317
+2,disease_on_drugs,27,13,0.3865384615384617

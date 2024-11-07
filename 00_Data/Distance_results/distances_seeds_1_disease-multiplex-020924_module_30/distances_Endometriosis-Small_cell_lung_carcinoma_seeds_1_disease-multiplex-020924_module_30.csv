@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,12,24,0.4583333333333335
+2,disease_on_drugs,27,25,0.055384615384615365

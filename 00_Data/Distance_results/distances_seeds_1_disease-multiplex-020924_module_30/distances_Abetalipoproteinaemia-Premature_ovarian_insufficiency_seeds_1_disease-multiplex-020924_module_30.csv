@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,17,23,0.5705882352941178
+1,disease_on_symptoms,25,22,0.8516827852998063
+2,disease_on_drugs,13,17,0.8733031674208145

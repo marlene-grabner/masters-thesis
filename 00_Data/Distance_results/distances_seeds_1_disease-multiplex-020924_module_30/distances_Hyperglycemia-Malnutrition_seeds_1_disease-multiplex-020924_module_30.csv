@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,26,0.0734432234432234
+1,disease_on_symptoms,14,18,2.041170634920635
+2,disease_on_drugs,26,23,0.44897959183673475

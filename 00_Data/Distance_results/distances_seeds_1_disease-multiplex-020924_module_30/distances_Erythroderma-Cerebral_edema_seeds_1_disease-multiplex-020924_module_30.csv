@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,0.5333333333333332
+1,disease_on_symptoms,19,9,0.03654970760233911
+2,disease_on_drugs,28,11,-0.045454545454545414

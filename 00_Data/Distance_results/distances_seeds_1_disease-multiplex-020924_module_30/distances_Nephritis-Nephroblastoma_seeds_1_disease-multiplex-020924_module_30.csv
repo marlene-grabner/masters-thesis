@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.19454545454545458
+1,disease_on_symptoms,18,25,1.5118087855297158
+2,disease_on_drugs,27,21,0.7615740740740742

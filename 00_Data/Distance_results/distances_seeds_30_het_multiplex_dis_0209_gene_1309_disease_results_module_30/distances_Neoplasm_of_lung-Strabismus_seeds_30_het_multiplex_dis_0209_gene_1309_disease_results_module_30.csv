@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.14392991239048814
+1,disease_on_symptoms,19,24,0.346669726642187
+2,disease_on_drugs,30,16,0.48432971014492776

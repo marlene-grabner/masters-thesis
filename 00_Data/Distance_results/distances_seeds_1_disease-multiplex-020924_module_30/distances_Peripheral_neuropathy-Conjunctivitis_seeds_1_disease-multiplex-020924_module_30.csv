@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.19551656920077987
+1,disease_on_symptoms,20,27,1.3965327029156818
+2,disease_on_drugs,24,26,0.8398717948717949

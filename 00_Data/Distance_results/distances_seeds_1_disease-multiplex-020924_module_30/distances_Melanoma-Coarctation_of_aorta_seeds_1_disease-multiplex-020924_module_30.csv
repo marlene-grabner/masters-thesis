@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,24,27,0.41176470588235303
+1,disease_on_symptoms,23,14,1.8869817021990936
+2,disease_on_drugs,22,13,1.2000000000000002

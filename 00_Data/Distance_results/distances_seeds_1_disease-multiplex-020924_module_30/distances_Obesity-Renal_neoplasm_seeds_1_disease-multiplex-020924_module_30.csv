@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.11713286713286708
+1,disease_on_symptoms,20,25,2.011111111111111
+2,disease_on_drugs,27,18,0.5185185185185184

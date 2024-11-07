@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,30,0.22612085769980483
+1,disease_on_symptoms,19,20,0.534885290148448
+2,disease_on_drugs,27,30,1.1578947368421053

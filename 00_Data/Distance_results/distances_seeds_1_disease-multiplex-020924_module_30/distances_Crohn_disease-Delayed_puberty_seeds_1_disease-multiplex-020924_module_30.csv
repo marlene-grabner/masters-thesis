@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,25,22,0.37896825396825395
+1,disease_on_symptoms,20,20,2.2
+2,disease_on_drugs,21,19,0.899749373433584

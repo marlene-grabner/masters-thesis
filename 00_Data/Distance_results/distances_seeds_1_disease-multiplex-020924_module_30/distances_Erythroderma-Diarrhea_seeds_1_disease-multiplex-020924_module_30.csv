@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.10302144249512679
+1,disease_on_symptoms,19,19,1.236842105263158
+2,disease_on_drugs,28,26,0.5178062678062678

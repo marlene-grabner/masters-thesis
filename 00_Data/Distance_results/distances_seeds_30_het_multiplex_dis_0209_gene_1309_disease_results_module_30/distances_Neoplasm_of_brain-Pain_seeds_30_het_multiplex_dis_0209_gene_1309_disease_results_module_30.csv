@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.07023809523809521
+1,disease_on_symptoms,19,16,1.7369830827067672
+2,disease_on_drugs,29,26,0.5602724861345552

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.1266899766899765
+1,disease_on_symptoms,14,18,1.2703373015873014
+2,disease_on_drugs,29,18,0.6808510638297873

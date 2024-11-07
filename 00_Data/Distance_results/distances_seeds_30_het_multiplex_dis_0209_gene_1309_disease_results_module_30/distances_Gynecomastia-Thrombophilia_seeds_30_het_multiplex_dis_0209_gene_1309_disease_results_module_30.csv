@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,15,18,0.3308080808080809
+2,disease_on_drugs,29,22,0.198552461737046

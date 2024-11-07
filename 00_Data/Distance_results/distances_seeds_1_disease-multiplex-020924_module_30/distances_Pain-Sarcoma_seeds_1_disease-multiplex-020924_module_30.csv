@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.19683257918552055
+1,disease_on_symptoms,21,26,1.5082417582417582
+2,disease_on_drugs,26,21,0.8318330605564648

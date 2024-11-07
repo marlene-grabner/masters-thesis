@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,25,26,0.4101960784313725
+1,disease_on_symptoms,13,15,1.7357142857142855
+2,disease_on_drugs,16,15,0.9988575268817204

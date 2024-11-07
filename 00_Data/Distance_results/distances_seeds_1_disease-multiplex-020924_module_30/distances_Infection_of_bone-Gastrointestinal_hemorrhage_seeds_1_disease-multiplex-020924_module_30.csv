@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,27,0.28299199053916024
+1,disease_on_symptoms,21,19,0.7902882205513784
+2,disease_on_drugs,24,27,0.525735294117647

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,19,20,0.10003373819163275
+2,disease_on_drugs,24,29,-0.17347104749512043

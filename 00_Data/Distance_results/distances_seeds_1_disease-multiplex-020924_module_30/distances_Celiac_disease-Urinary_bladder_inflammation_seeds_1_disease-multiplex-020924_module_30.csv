@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,17,25,0.2859383753501399
+1,disease_on_symptoms,22,22,2.1363636363636362
+2,disease_on_drugs,15,24,1.0884615384615386

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.1206896551724137
+1,disease_on_symptoms,20,13,1.6367715617715617
+2,disease_on_drugs,25,19,0.32291866028708127

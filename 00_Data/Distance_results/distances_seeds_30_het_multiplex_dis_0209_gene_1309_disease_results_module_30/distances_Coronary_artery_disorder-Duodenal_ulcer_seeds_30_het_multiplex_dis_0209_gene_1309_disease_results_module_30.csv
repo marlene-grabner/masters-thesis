@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,23,28,-0.29624893435635136
+1,disease_on_symptoms,19,17,-0.06965944272445812
+2,disease_on_drugs,22,28,-0.21590909090909083

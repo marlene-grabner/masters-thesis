@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.06727272727272715
+1,disease_on_symptoms,19,23,1.9820202680614583
+2,disease_on_drugs,30,23,0.22067268252666117

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,26,0.01991614255765195
+1,disease_on_symptoms,18,18,1.0555555555555556
+2,disease_on_drugs,25,26,0.17677224736048247

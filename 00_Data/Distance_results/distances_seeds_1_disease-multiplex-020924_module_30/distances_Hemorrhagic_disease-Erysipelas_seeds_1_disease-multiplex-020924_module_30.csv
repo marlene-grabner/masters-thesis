@@ -1,0 +1,4 @@
+,Layer,Hemorrhagic_disease nodes,Erysipelas nodes,sAB
+0,disease_on_genes,24,28,0.4049908424908424
+1,disease_on_symptoms,19,20,0.891902834008097
+2,disease_on_drugs,19,27,0.7208237986270023

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.1354679802955665
+1,disease_on_symptoms,14,19,0.7018113465481886
+2,disease_on_drugs,27,28,0.45419672919672904

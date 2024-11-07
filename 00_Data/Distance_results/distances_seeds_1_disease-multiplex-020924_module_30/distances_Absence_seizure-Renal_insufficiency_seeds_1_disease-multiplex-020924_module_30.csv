@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,20,0.30847994370161835
+1,disease_on_symptoms,16,23,2.191680602006689
+2,disease_on_drugs,22,17,0.8748114630467569

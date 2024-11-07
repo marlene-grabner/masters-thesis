@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Skin_disorder nodes,sAB
+0,disease_on_genes,30,25,-0.08636363636363642
+1,disease_on_symptoms,19,19,0.5789473684210524
+2,disease_on_drugs,20,23,-0.19719413549039433

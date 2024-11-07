@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,28,30,-0.08682266009852213
+1,disease_on_symptoms,19,22,0.13522581398062794
+2,disease_on_drugs,22,29,-0.21156801278505122

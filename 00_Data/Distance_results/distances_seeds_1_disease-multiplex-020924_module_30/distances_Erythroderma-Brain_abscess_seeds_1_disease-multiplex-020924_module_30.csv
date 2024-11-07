@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.0012670565302146386
+1,disease_on_symptoms,19,21,0.23139097744360915
+2,disease_on_drugs,28,23,0.006820119352088483

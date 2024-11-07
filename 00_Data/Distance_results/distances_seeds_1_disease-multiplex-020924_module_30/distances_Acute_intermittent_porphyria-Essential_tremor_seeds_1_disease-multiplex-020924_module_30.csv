@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.2754629629629628
+1,disease_on_symptoms,20,20,1.275
+2,disease_on_drugs,15,19,0.5325077399380806

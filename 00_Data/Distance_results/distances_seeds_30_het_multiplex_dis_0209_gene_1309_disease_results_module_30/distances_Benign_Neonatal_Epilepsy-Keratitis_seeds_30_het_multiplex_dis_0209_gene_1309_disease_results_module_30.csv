@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,16,25,1.2867378048780487
+2,disease_on_drugs,21,29,0.37789819376026257

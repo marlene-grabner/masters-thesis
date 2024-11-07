@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,15,0.38787878787878793
+1,disease_on_symptoms,25,27,1.6964102564102563
+2,disease_on_drugs,28,13,1.292682926829268

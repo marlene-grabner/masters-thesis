@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.2586206896551724
+1,disease_on_symptoms,16,18,-0.8366013071895424
+2,disease_on_drugs,30,27,-0.24678362573099433

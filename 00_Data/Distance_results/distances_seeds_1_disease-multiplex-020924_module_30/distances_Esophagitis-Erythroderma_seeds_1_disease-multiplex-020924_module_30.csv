@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Erythroderma nodes,sAB
+0,disease_on_genes,24,30,0.189540607054963
+1,disease_on_symptoms,23,19,1.1122915985616215
+2,disease_on_drugs,20,28,0.18333333333333335

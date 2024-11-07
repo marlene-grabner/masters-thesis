@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,12,9,0.15674603174603186
+1,disease_on_symptoms,27,27,2.2037037037037033
+2,disease_on_drugs,9,9,0.7222222222222221

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Sepsis nodes,sAB
+0,disease_on_genes,29,30,0.2375706214689266
+1,disease_on_symptoms,14,15,1.0310344827586206
+2,disease_on_drugs,22,25,0.3961315280464217

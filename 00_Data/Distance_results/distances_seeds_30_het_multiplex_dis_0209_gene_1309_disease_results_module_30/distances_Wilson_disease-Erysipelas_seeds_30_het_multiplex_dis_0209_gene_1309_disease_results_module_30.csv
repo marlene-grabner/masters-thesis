@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,19,18,0.596135609293504
+2,disease_on_drugs,22,29,0.23787571454914236

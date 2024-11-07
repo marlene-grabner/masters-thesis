@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,14,21,0.6357142857142857
+2,disease_on_drugs,26,25,0.07870286576168928

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,20,0.4519005847953217
+2,disease_on_drugs,27,30,0.22319688109161806

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,30,0.0008771929824562541
+1,disease_on_symptoms,16,18,0.31760620915032667
+2,disease_on_drugs,23,28,0.2457983193277311

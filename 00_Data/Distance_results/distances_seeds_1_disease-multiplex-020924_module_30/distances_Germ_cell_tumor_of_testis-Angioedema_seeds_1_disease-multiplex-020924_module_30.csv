@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,29,0.23668831168831184
+1,disease_on_symptoms,23,17,0.9881713554987213
+2,disease_on_drugs,20,25,0.8222222222222222

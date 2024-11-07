@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,0.0
+1,disease_on_symptoms,23,18,0.44441498762813714
+2,disease_on_drugs,26,27,0.0009675858732463016

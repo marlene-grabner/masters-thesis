@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,25,25,0.020408163265306145
+1,disease_on_symptoms,18,20,0.7230994152046781
+2,disease_on_drugs,24,18,0.2936507936507937

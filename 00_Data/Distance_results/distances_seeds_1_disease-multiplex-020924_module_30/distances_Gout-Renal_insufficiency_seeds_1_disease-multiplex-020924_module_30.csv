@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,20,0.07888888888888901
+1,disease_on_symptoms,18,23,0.9468009897490282
+2,disease_on_drugs,23,17,0.6235294117647059

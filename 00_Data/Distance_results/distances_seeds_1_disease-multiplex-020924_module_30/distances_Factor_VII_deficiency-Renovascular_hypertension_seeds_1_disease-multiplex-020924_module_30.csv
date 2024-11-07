@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,25,21,0.15325051759834363
+1,disease_on_symptoms,23,22,2.290250329380764
+2,disease_on_drugs,21,20,0.6566492450638792

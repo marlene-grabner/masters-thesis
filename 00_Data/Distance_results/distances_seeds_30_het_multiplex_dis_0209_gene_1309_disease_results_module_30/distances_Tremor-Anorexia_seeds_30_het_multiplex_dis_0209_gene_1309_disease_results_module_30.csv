@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.23152709359605905
+1,disease_on_symptoms,17,13,0.5734539969834089
+2,disease_on_drugs,24,28,-0.05540293040293043

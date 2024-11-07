@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,23,18,0.26490514905149065
+1,disease_on_symptoms,16,28,1.8486201298701301
+2,disease_on_drugs,17,17,0.6176470588235294

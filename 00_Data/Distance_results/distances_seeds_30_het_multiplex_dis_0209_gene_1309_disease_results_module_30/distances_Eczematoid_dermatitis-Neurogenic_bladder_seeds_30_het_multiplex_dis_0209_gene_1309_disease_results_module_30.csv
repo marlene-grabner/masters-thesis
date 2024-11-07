@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.1166666666666667
+1,disease_on_symptoms,25,18,0.5532816537467702
+2,disease_on_drugs,30,21,0.16708683473389363

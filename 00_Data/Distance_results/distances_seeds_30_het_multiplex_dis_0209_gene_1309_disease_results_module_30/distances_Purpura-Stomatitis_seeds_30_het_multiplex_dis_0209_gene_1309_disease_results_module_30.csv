@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.19395711500974666
+1,disease_on_symptoms,17,19,-0.2821637426900585
+2,disease_on_drugs,24,29,-0.21059694209499025

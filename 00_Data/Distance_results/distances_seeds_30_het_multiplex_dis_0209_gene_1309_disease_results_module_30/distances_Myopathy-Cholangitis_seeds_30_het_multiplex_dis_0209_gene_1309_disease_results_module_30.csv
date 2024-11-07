@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Cholangitis nodes,sAB
+0,disease_on_genes,23,30,-0.037735849056603765
+1,disease_on_symptoms,22,18,-0.06540404040404035
+2,disease_on_drugs,21,28,-0.0714285714285714

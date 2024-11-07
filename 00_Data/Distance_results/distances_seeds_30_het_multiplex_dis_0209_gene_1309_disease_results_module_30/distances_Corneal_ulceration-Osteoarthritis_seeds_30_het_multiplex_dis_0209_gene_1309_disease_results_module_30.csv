@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,28,26,-0.1489112739112739
+1,disease_on_symptoms,15,22,0.34549549549549563
+2,disease_on_drugs,23,25,-0.022934782608695636

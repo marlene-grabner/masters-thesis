@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,21,15,0.5055555555555558
+2,disease_on_drugs,29,21,0.13408866995073887

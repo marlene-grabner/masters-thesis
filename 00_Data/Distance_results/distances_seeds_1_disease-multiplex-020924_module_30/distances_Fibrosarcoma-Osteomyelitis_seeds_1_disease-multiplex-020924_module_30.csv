@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,22,25,0.43758220502901346
+1,disease_on_symptoms,24,23,1.8931544865864938
+2,disease_on_drugs,13,23,1.1231884057971013

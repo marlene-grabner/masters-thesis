@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Endometriosis nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,17,16,0.17942290552584672
+2,disease_on_drugs,26,30,-0.16538461538461546

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,25,-0.14
+1,disease_on_symptoms,19,20,-0.1281713900134953
+2,disease_on_drugs,22,25,-0.17381044487427455

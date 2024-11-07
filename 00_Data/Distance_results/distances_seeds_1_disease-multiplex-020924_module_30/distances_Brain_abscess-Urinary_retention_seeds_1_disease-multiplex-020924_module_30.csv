@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.31736909323116214
+1,disease_on_symptoms,21,18,1.242063492063492
+2,disease_on_drugs,23,19,0.3858559442083469

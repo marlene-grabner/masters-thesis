@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,18,17,0.7117180205415501
+1,disease_on_symptoms,28,28,2.821428571428571
+2,disease_on_drugs,17,9,0.7873303167420815

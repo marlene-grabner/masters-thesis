@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,28,30,0.2585796387520525
+1,disease_on_symptoms,24,15,0.5801282051282048
+2,disease_on_drugs,28,30,0.8608374384236455

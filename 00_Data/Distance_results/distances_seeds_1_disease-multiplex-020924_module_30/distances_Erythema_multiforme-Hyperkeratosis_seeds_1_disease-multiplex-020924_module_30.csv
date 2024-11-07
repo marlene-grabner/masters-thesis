@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.05457875457875461
+1,disease_on_symptoms,16,21,0.6291425353925355
+2,disease_on_drugs,30,23,0.1132075471698113

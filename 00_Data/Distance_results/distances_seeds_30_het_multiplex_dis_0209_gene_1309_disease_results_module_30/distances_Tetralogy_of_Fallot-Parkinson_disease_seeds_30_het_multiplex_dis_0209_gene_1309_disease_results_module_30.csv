@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.14433962264150946
+1,disease_on_symptoms,19,23,0.4880135120409719
+2,disease_on_drugs,20,22,-0.17521645021645016

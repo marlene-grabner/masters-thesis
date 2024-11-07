@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,18,0.19663865546218506
+2,disease_on_drugs,26,29,0.13840125391849534

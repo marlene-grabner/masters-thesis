@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Keratitis nodes,sAB
+0,disease_on_genes,15,28,0.37281284606865994
+1,disease_on_symptoms,25,25,0.7799999999999998
+2,disease_on_drugs,10,23,-0.013702239789196158

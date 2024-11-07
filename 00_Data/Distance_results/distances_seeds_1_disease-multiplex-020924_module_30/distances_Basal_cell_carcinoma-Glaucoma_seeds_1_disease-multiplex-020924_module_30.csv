@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.12838827838827815
+1,disease_on_symptoms,23,14,0.6765150243411115
+2,disease_on_drugs,25,30,0.6030303030303032

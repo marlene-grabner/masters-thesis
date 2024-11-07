@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,23,30,-0.18867924528301883
+1,disease_on_symptoms,22,19,0.362177616991481
+2,disease_on_drugs,21,30,-0.19551820728291314

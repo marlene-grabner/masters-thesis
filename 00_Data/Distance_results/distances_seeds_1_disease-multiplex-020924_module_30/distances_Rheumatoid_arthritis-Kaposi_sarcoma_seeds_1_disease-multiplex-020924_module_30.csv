@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,15,0.09206349206349196
+1,disease_on_symptoms,15,27,2.3047619047619046
+2,disease_on_drugs,25,13,0.874736842105263

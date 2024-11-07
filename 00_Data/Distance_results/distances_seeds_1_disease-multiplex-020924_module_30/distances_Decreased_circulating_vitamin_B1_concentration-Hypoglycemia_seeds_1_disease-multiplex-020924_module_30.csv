@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.15090909090909088
+1,disease_on_symptoms,13,12,1.8028205128205128
+2,disease_on_drugs,16,22,0.544407894736842

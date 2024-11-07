@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,27,30,0.21403508771929824
+1,disease_on_symptoms,17,23,1.078388746803069
+2,disease_on_drugs,25,29,1.040868454661558

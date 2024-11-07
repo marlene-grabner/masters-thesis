@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,12,0.11825236167341435
+1,disease_on_symptoms,28,27,1.0197811447811445
+2,disease_on_drugs,23,9,0.42964975845410613

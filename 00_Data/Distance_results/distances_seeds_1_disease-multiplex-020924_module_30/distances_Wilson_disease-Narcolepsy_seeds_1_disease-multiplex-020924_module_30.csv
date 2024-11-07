@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,23,25,0.3729710144927536
+1,disease_on_symptoms,19,21,2.923997493734336
+2,disease_on_drugs,11,20,0.9750000000000001

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,29,26,-0.4363636363636364
+1,disease_on_symptoms,23,21,-0.6656314699792962
+2,disease_on_drugs,26,26,-0.5576923076923077

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,16,17,0.9484737076648839
+2,disease_on_drugs,23,28,0.29201680672268915

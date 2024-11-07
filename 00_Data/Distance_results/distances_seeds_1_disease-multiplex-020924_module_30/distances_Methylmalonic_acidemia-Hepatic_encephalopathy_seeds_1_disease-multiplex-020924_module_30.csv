@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,25,9,0.27869281045751637
+1,disease_on_symptoms,16,27,2.3452842377260983
+2,disease_on_drugs,17,9,0.5475113122171946

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.0007692307692308553
+1,disease_on_symptoms,16,20,1.5131944444444447
+2,disease_on_drugs,23,22,0.26616161616161627

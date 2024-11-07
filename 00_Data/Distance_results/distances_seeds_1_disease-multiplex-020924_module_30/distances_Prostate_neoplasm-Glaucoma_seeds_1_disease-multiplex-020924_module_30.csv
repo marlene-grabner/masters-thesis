@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Glaucoma nodes,sAB
+0,disease_on_genes,17,30,0.09228201919065504
+1,disease_on_symptoms,21,14,0.24761904761904785
+2,disease_on_drugs,17,30,0.8865665415102211

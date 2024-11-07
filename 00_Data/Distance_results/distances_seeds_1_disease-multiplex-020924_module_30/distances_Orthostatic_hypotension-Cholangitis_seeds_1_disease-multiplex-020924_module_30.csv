@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.41803118908382064
+1,disease_on_symptoms,12,22,1.8500445632798577
+2,disease_on_drugs,17,26,0.43570451436388513

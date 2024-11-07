@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.016363636363636358
+1,disease_on_symptoms,20,18,1.011549707602339
+2,disease_on_drugs,22,21,0.15833585019631546

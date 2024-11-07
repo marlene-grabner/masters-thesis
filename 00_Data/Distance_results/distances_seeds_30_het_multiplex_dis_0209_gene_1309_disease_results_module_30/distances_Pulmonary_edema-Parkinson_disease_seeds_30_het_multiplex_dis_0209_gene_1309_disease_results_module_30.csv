@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.15094339622641506
+1,disease_on_symptoms,11,23,0.43292257614508256
+2,disease_on_drugs,27,22,0.062255205112347944

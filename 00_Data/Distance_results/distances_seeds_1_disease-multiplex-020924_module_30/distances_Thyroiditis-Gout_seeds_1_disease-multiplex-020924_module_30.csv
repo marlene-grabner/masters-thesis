@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Gout nodes,sAB
+0,disease_on_genes,26,25,0.059155354449472064
+1,disease_on_symptoms,28,18,0.8605072463768115
+2,disease_on_drugs,23,23,0.34782608695652173

@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,18,18,0.36111111111111094
+2,disease_on_drugs,26,27,0.03870343492985007

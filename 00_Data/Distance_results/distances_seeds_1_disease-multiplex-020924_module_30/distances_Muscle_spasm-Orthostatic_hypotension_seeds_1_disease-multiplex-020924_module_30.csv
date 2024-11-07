@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,25,30,0.028787878787878807
+1,disease_on_symptoms,23,12,-0.22334368530020687
+2,disease_on_drugs,19,17,0.303921568627451

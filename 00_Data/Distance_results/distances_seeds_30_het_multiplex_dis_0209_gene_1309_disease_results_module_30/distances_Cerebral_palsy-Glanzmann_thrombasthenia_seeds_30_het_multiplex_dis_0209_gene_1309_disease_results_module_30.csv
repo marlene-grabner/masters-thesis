@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.01851851851851849
+1,disease_on_symptoms,13,19,1.242914979757085
+2,disease_on_drugs,21,24,0.05813492063492065

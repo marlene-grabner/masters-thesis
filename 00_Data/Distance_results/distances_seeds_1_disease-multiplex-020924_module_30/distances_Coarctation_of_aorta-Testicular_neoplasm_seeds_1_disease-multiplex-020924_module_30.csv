@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,0.1330769230769231
+1,disease_on_symptoms,14,25,1.9979853479853482
+2,disease_on_drugs,13,23,0.7620772946859904

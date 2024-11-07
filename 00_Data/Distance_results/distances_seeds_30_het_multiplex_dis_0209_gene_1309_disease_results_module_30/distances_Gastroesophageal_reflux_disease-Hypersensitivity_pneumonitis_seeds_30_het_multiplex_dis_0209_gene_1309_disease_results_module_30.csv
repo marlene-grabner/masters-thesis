@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,25,-0.15648567119155343
+1,disease_on_symptoms,18,20,0.5323099415204675
+2,disease_on_drugs,25,25,0.18000000000000016

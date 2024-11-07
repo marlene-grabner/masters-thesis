@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Pneumonia nodes,sAB
+0,disease_on_genes,12,30,0.35357142857142865
+1,disease_on_symptoms,27,26,1.8268961995377089
+2,disease_on_drugs,9,28,0.6186186186186187

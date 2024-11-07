@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Leukemia nodes,sAB
+0,disease_on_genes,14,18,0.2901785714285714
+1,disease_on_symptoms,23,27,1.4119484702093397
+2,disease_on_drugs,14,17,0.6214421252371916

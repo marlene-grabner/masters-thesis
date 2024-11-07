@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.15451559934318548
+1,disease_on_symptoms,14,20,-0.0831932773109243
+2,disease_on_drugs,24,27,0.03799019607843124

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,26,27,0.018505079825834603
+1,disease_on_symptoms,18,18,0.9722222222222223
+2,disease_on_drugs,25,22,0.1920696324951645

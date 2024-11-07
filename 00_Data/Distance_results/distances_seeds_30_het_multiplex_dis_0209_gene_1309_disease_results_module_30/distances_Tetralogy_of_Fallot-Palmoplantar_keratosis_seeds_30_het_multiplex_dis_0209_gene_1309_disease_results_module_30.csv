@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,-0.15714285714285714
+1,disease_on_symptoms,19,20,1.2224696356275304
+2,disease_on_drugs,20,23,-0.1941607684529829

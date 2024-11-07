@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,16,19,-0.4046522556390977
+2,disease_on_drugs,28,30,-0.39971264367816084

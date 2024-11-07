@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,29,25,0.2205363984674329
+1,disease_on_symptoms,17,17,1.7058823529411764
+2,disease_on_drugs,30,24,0.7731481481481484

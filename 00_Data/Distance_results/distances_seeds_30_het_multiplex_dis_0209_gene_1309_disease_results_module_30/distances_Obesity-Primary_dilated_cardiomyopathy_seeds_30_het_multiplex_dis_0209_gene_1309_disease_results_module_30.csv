@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,0.10233918128654973
+1,disease_on_symptoms,18,24,1.2152777777777781
+2,disease_on_drugs,25,15,0.09166666666666656

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.24022988505747112
+1,disease_on_symptoms,22,17,-0.017825311942959
+2,disease_on_drugs,29,28,-0.19366303690260134

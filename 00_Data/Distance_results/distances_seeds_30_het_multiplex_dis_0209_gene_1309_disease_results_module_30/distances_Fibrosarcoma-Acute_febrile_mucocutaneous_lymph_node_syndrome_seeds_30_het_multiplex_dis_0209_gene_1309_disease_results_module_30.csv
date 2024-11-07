@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,14,13,0.07376882376882365
+2,disease_on_drugs,26,28,-0.24313186813186816

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.13725490196078427
+1,disease_on_symptoms,14,23,0.49979016283364075
+2,disease_on_drugs,26,21,0.0037019717870783175

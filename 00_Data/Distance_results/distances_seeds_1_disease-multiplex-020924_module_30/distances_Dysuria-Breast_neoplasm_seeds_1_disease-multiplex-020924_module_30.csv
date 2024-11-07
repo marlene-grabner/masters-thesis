@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.30216247808299235
+1,disease_on_symptoms,16,16,1.21875
+2,disease_on_drugs,23,30,1.3178835110746512

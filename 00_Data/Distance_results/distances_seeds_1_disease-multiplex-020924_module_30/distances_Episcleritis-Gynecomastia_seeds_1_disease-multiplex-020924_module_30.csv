@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,22,16,0.34419856459330145
+2,disease_on_drugs,29,24,0.1909157449577097

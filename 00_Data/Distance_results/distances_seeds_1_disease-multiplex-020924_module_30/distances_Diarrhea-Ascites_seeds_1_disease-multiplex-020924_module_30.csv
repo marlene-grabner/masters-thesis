@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.06530214424951275
+1,disease_on_symptoms,19,17,0.3577571379428963
+2,disease_on_drugs,26,27,0.3969117884212221

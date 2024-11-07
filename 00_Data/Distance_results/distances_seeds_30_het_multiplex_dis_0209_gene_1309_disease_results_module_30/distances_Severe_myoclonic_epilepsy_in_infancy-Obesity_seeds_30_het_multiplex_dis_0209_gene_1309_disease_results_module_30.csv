@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.05555555555555558
+1,disease_on_symptoms,14,18,0.535218253968254
+2,disease_on_drugs,21,25,0.06770186335403738

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,16,25,-0.3113414634146342
+1,disease_on_symptoms,26,25,-0.13695324283559596
+2,disease_on_drugs,14,23,-0.20564042303172736

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,24,30,0.33472222222222214
+1,disease_on_symptoms,18,14,1.3526785714285714
+2,disease_on_drugs,18,11,0.5862068965517242

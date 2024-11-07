@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,26,27,-0.16946191474493366
+1,disease_on_symptoms,21,22,-0.09214235377026059
+2,disease_on_drugs,25,24,-0.08166666666666655

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,23,28,0.010321519912312782
+1,disease_on_symptoms,16,15,1.8339381720430108
+2,disease_on_drugs,22,21,0.16279069767441867

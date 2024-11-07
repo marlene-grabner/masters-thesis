@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,19,0.2680575312154261
+2,disease_on_drugs,30,25,-0.020909090909090766

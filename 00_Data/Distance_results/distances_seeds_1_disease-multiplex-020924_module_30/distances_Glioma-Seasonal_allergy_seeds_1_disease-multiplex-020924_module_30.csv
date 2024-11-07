@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,22,29,0.16320917081566177
+1,disease_on_symptoms,24,15,1.5842948717948717
+2,disease_on_drugs,20,29,0.6108198451794511

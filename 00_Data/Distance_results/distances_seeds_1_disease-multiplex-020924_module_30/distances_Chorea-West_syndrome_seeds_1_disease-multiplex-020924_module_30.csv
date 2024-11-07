@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,West_syndrome nodes,sAB
+0,disease_on_genes,14,29,0.4294019933554818
+1,disease_on_symptoms,27,18,0.5666666666666669
+2,disease_on_drugs,8,22,0.6708333333333334

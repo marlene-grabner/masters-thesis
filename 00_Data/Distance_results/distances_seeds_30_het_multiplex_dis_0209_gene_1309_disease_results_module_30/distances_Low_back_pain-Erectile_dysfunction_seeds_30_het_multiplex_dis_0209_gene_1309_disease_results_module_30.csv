@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,15,-0.24919354838709706
+2,disease_on_drugs,25,30,0.09060606060606058

@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,20,17,0.05238473767885554
+2,disease_on_drugs,24,30,-0.26481481481481484

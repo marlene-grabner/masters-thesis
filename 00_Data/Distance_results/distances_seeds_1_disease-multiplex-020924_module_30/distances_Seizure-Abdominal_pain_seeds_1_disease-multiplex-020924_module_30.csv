@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,0.18700564971751432
+1,disease_on_symptoms,25,24,0.46678571428571414
+2,disease_on_drugs,28,24,0.15064102564102577

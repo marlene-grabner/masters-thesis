@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,19,18,0.35597439544807985
+2,disease_on_drugs,29,27,0.15599343185550096

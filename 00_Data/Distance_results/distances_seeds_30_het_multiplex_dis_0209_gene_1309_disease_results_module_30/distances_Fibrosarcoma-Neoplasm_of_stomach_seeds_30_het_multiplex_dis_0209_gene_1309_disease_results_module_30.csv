@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.14727272727272733
+1,disease_on_symptoms,14,23,0.04561859996642603
+2,disease_on_drugs,26,24,-0.19467948717948724

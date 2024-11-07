@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,18,0.1313131313131315
+1,disease_on_symptoms,17,28,0.5118814192343604
+2,disease_on_drugs,25,17,0.2307002801120448

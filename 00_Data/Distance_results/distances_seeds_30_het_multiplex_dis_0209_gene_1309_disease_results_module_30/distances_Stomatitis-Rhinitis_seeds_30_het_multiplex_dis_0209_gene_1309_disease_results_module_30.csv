@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,12,-0.060837577815506805
+2,disease_on_drugs,29,23,0.09649982700957205

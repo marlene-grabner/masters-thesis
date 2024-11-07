@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,21,17,-0.5062656641604013
+2,disease_on_drugs,29,24,-0.055383864671437966

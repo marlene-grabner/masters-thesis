@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,28,0.42072854550168515
+1,disease_on_symptoms,16,25,1.3581707317073173
+2,disease_on_drugs,24,23,0.9560592044403333

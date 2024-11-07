@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,-0.21159844054580912
+1,disease_on_symptoms,21,19,0.19035087719298227
+2,disease_on_drugs,25,28,-0.17005390835579504

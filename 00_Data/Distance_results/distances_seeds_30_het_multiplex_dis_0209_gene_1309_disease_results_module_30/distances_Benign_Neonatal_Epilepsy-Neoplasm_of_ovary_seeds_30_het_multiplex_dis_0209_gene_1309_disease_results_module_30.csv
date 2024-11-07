@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,16,22,0.9708433014354068
+2,disease_on_drugs,21,29,0.5006568144499179

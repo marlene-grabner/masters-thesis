@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666654
+1,disease_on_symptoms,17,22,-0.6256684491978608
+2,disease_on_drugs,24,29,-0.36018488397310766

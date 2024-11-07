@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,17,17,0.05882352941176472
+1,disease_on_symptoms,21,27,1.265873015873016
+2,disease_on_drugs,17,16,0.5756461675579323

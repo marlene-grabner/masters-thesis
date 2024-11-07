@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,0.23076923076923084
+1,disease_on_symptoms,17,21,1.8278785198289844
+2,disease_on_drugs,23,23,0.34782608695652173

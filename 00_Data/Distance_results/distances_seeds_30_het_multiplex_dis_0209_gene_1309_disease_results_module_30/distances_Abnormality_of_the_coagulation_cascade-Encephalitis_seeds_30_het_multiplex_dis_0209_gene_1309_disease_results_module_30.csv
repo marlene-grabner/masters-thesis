@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Encephalitis nodes,sAB
+0,disease_on_genes,24,29,0.0
+1,disease_on_symptoms,24,13,0.3333333333333335
+2,disease_on_drugs,23,22,0.0018225735617038996

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,21,27,0.20767195767195767
+1,disease_on_symptoms,22,22,1.068181818181818
+2,disease_on_drugs,21,24,0.5932539682539681

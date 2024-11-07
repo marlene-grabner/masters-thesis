@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,23,30,0.09079254079254073
+1,disease_on_symptoms,18,24,0.8998015873015872
+2,disease_on_drugs,18,24,0.7916666666666667

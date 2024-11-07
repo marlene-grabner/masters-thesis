@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,0.015833333333333588
+1,disease_on_symptoms,21,20,0.9278455284552849
+2,disease_on_drugs,25,22,0.7457833655705997

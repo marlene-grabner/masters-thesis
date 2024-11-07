@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,0.03125852328073253
+1,disease_on_symptoms,16,15,0.7315188172043006
+2,disease_on_drugs,23,30,0.5631665299425759

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,-0.016666666666666607
+1,disease_on_symptoms,17,22,0.42509941039352794
+2,disease_on_drugs,19,29,-0.004877495462794812

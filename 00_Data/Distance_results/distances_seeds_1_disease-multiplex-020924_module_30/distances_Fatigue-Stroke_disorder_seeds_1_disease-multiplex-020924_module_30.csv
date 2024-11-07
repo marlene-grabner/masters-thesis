@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,0.06987179487179485
+1,disease_on_symptoms,21,15,0.41269841269841256
+2,disease_on_drugs,26,30,0.2651098901098903

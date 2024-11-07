@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,17,17,0.4411764705882355
+2,disease_on_drugs,26,24,0.5196153846153846

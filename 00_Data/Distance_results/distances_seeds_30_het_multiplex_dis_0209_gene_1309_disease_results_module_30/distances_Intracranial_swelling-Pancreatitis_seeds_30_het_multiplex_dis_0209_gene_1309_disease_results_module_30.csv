@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,11,17,-0.3668831168831168
+2,disease_on_drugs,21,30,-0.3826330532212885

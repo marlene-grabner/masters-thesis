@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,24,23,0.043825161887141695
+1,disease_on_symptoms,21,20,1.4637921022067362
+2,disease_on_drugs,18,20,0.23669590643274852

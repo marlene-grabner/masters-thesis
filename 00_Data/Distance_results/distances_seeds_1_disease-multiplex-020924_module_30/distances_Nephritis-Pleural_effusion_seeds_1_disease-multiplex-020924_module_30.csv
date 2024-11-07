@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,18,20,0.31769005847953213
+2,disease_on_drugs,27,22,0.19312169312169325

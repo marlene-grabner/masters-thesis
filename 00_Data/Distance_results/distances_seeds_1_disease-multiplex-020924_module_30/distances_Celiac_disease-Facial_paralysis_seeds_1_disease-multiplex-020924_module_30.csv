@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,17,14,0.14970181621035517
+1,disease_on_symptoms,22,23,1.7178743961352656
+2,disease_on_drugs,15,14,0.5183908045977013

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.10732600732600739
+1,disease_on_symptoms,18,17,0.11937441643323998
+2,disease_on_drugs,26,24,-0.034294871794871895

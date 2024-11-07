@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Pericarditis nodes,sAB
+0,disease_on_genes,24,26,-0.21999999999999997
+1,disease_on_symptoms,21,21,0.45238095238095255
+2,disease_on_drugs,24,26,-0.3172435897435899

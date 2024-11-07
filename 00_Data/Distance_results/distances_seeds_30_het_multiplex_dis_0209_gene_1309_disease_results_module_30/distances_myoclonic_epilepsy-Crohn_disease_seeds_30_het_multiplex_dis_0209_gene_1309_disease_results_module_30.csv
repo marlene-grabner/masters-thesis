@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,16,22,1.598684210526316
+2,disease_on_drugs,25,24,0.42894557823129253

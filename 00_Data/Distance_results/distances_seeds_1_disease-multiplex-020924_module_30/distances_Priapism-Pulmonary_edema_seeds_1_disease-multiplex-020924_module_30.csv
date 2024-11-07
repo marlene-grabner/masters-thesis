@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,30,30,0.26666666666666683
+1,disease_on_symptoms,17,14,1.263553808620222
+2,disease_on_drugs,28,27,0.5093915343915345

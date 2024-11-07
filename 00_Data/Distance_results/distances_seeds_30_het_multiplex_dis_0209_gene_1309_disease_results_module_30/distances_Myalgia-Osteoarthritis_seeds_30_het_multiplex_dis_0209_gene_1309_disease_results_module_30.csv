@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.19917582417582402
+1,disease_on_symptoms,16,22,0.47532894736842124
+2,disease_on_drugs,29,25,-0.12916985951468707

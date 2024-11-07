@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,18,23,0.5323730411217156
+2,disease_on_drugs,22,30,-0.15244755244755237

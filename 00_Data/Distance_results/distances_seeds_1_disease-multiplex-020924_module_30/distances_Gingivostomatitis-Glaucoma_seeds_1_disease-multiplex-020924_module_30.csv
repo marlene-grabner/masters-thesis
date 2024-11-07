@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,23,14,0.7846231324492194
+2,disease_on_drugs,29,30,0.7624001558542761

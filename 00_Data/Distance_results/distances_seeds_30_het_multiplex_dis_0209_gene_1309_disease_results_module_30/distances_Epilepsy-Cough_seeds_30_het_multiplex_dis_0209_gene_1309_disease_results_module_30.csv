@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.10614035087719298
+1,disease_on_symptoms,21,22,1.4653427967381458
+2,disease_on_drugs,29,24,0.60404467577532

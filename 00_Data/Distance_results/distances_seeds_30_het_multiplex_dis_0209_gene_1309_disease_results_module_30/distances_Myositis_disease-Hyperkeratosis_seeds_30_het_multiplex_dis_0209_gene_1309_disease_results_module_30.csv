@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.1251831501831503
+1,disease_on_symptoms,18,25,0.2147545219638245
+2,disease_on_drugs,26,25,-0.03512820512820514

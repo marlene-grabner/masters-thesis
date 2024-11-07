@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.38991596638655457
+1,disease_on_symptoms,20,26,2.005685618729097
+2,disease_on_drugs,24,12,1.2361111111111112

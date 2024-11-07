@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,24,0.5106122448979591
+1,disease_on_symptoms,19,17,1.1928964568283456
+2,disease_on_drugs,13,23,1.0352099591230026

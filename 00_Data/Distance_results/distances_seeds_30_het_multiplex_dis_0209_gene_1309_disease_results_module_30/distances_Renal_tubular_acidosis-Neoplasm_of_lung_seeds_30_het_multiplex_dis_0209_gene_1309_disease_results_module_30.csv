@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,14,19,0.3317384370015948
+2,disease_on_drugs,27,30,-0.1181286549707603

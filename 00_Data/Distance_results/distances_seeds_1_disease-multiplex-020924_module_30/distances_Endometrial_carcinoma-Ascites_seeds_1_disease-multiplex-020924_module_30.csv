@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Ascites nodes,sAB
+0,disease_on_genes,23,30,0.08572600492206739
+1,disease_on_symptoms,21,17,0.33311219224531907
+2,disease_on_drugs,21,27,0.35218253968253976

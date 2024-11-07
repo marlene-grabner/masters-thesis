@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,27,30,0.1578947368421053
+1,disease_on_symptoms,16,18,1.4319852941176472
+2,disease_on_drugs,23,25,0.44333333333333313

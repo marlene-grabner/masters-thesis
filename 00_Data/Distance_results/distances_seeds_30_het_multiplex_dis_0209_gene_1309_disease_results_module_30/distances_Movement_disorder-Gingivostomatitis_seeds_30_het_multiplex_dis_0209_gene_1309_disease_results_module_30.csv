@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000013
+1,disease_on_symptoms,17,15,-0.1843137254901963
+2,disease_on_drugs,26,30,-0.050000000000000044

@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,26,26,0.3846153846153846
+1,disease_on_symptoms,19,19,1.3684210526315788
+2,disease_on_drugs,23,18,0.6578001649581713

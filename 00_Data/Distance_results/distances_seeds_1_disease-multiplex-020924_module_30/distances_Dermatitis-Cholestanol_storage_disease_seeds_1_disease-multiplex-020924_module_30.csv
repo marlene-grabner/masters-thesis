@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,30,0.10909090909090913
+1,disease_on_symptoms,25,17,0.5840896358543417
+2,disease_on_drugs,24,25,0.49139455782312935

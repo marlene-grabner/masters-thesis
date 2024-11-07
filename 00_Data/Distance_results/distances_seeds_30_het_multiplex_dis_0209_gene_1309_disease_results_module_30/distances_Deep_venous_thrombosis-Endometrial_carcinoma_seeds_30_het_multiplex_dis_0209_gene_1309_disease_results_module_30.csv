@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.0535714285714286
+1,disease_on_symptoms,16,21,0.851793758043758
+2,disease_on_drugs,28,26,0.2583435083435084

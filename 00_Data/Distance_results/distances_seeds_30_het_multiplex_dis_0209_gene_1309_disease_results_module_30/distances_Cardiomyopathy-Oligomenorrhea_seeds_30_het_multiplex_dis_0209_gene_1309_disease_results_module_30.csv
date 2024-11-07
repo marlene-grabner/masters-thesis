@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,25,29,-0.1140740740740741
+1,disease_on_symptoms,21,11,0.19426406926406914
+2,disease_on_drugs,24,24,0.02083333333333326

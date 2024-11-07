@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,14,17,0.3025210084033614
+2,disease_on_drugs,29,27,-0.10807790549169871

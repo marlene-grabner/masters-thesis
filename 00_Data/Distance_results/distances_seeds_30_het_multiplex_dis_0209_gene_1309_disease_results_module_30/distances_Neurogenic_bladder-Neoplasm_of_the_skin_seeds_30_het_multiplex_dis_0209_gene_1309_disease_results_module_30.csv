@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,18,22,0.033080808080808044
+2,disease_on_drugs,21,29,-0.06876847290640398

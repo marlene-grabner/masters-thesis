@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,0.14347290640394106
+1,disease_on_symptoms,18,20,1.0483918128654972
+2,disease_on_drugs,22,28,0.6468181818181817

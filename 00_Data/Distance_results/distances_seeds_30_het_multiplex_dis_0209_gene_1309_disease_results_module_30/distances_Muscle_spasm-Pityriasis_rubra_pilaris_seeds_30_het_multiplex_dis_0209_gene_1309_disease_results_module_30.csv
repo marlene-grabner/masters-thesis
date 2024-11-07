@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.05458089668616006
+1,disease_on_symptoms,15,21,0.8111111111111111
+2,disease_on_drugs,29,25,0.17392081736909315

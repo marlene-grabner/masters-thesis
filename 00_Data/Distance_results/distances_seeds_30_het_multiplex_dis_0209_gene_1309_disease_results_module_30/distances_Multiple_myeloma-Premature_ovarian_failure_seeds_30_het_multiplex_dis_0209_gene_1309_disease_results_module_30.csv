@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,30,-0.017857142857142905
+1,disease_on_symptoms,21,15,0.35396825396825404
+2,disease_on_drugs,25,26,-0.15387631975867277

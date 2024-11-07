@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,22,15,1.2667076167076168
+2,disease_on_drugs,24,30,0.585185185185185

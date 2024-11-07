@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,19,15,0.08658410732714161
+2,disease_on_drugs,22,26,0.05958624708624716

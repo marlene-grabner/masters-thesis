@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,0.0535714285714286
+1,disease_on_symptoms,22,14,0.2525252525252526
+2,disease_on_drugs,26,29,0.17740535326742246

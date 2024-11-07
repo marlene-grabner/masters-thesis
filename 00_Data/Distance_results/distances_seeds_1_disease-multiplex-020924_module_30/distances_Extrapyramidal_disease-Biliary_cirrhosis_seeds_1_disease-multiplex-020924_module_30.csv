@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,14,26,0.6642857142857144
+1,disease_on_symptoms,25,15,2.8899999999999997
+2,disease_on_drugs,10,15,1.0433333333333334

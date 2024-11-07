@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.034482758620689724
+1,disease_on_symptoms,20,22,0.42067099567099575
+2,disease_on_drugs,30,15,0.21111111111111103

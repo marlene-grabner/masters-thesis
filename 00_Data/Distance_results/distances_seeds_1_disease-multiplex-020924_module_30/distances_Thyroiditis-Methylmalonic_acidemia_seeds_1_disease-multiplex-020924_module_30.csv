@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,26,25,0.5089592760180996
+1,disease_on_symptoms,28,16,1.772727272727273
+2,disease_on_drugs,23,17,0.648849104859335

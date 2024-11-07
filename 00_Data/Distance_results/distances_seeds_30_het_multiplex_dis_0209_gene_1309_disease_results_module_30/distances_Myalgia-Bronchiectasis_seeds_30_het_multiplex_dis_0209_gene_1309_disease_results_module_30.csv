@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,16,19,0.23886278195488697
+2,disease_on_drugs,29,25,0.0715708812260536

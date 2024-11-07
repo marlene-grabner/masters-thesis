@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,24,28,0.27335164835164827
+1,disease_on_symptoms,17,19,0.7747678018575852
+2,disease_on_drugs,23,26,0.8543273496689645

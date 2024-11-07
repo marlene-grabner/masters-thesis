@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.18673290473407356
+1,disease_on_symptoms,17,18,0.350373482726424
+2,disease_on_drugs,30,28,-0.0881773399014778

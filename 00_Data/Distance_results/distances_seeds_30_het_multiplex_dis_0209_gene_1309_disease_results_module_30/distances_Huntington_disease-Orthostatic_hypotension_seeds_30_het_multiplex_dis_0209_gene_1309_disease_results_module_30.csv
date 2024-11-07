@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,20,0.30516693163751984
+2,disease_on_drugs,26,28,-0.0717338217338217

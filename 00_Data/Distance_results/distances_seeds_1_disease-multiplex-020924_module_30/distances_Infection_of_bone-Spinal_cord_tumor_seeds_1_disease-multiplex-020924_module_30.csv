@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,26,22,0.46911421911421924
+1,disease_on_symptoms,21,22,1.025269304339072
+2,disease_on_drugs,24,14,0.7777255639097744

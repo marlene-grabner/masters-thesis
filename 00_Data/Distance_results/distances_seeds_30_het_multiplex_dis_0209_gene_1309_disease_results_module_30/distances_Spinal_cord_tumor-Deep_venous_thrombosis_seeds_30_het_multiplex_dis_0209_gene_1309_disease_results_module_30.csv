@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,29,30,0.15254237288135597
+1,disease_on_symptoms,14,16,0.6604166666666669
+2,disease_on_drugs,22,28,0.3012987012987014

@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Ascites nodes,sAB
+0,disease_on_genes,23,30,-0.1516133442712606
+1,disease_on_symptoms,19,22,-0.08469483020189061
+2,disease_on_drugs,21,27,-0.05291005291005302

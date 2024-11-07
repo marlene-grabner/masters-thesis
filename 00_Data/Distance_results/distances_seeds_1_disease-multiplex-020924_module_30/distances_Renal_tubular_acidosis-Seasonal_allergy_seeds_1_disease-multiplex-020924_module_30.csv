@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,18,29,0.4221692345316703
+1,disease_on_symptoms,18,15,3.4075757575757573
+2,disease_on_drugs,10,29,0.14557913351016794

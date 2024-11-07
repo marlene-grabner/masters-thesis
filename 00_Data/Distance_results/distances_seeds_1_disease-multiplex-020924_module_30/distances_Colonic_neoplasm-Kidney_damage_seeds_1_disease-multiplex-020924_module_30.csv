@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.33999999999999986
+1,disease_on_symptoms,19,26,1.3963787674313992
+2,disease_on_drugs,29,13,0.7362637362637363

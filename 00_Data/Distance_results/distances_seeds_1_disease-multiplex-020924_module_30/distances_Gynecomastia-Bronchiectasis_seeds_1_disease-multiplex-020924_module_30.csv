@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,16,15,0.22728494623655915
+2,disease_on_drugs,24,26,0.23903846153846176

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.1890394088669951
+1,disease_on_symptoms,24,15,0.9733974358974358
+2,disease_on_drugs,15,23,0.13096872616323396

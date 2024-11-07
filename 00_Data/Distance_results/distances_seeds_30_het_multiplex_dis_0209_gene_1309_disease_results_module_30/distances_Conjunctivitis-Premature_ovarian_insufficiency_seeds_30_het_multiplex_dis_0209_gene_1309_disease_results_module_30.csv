@@ -1,0 +1,4 @@
+,Layer,Conjunctivitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,30,0.13587570621468936
+1,disease_on_symptoms,27,18,0.798148148148148
+2,disease_on_drugs,28,22,0.5764935064935066

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.5385561936013128
+1,disease_on_symptoms,25,20,1.3738888888888892
+2,disease_on_drugs,7,20,1.0146825396825396

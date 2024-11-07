@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.3445652173913045
+1,disease_on_symptoms,19,27,0.8595643698618525
+2,disease_on_drugs,24,19,0.3218839249286005

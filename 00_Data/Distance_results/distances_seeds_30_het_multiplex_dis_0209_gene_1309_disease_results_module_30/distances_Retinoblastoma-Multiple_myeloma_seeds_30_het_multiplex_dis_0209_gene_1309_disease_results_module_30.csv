@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.375
+1,disease_on_symptoms,21,21,-0.6428571428571428
+2,disease_on_drugs,27,25,-0.36621082621082635

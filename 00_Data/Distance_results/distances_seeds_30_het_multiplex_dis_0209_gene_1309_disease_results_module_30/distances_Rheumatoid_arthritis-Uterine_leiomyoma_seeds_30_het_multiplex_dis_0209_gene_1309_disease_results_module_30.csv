@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,20,0.5122469635627529
+2,disease_on_drugs,30,28,0.22040229885057472

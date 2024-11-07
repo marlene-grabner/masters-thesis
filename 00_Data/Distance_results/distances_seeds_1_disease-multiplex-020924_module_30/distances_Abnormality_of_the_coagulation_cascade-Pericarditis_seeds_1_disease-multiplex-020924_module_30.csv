@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Pericarditis nodes,sAB
+0,disease_on_genes,23,25,0.08061594202898559
+1,disease_on_symptoms,23,22,0.9558629776021084
+2,disease_on_drugs,18,25,0.21772609819121436

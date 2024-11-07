@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,-0.30000000000000004
+1,disease_on_symptoms,19,20,1.3874156545209178
+2,disease_on_drugs,23,21,-0.27300959909655564

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,27,28,-0.05422077922077917
+1,disease_on_symptoms,18,15,0.9156565656565658
+2,disease_on_drugs,24,23,-0.0014454209065681844

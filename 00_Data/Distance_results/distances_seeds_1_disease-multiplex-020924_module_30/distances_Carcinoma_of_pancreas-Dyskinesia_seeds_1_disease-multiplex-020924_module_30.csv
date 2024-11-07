@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,23,24,0.2770390070921984
+1,disease_on_symptoms,25,17,1.5642577030812324
+2,disease_on_drugs,21,23,1.227272727272727

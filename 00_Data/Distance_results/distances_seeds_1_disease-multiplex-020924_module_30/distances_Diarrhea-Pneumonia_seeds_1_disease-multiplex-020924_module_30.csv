@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,-0.14346978557504864
+1,disease_on_symptoms,19,26,-0.09691857849752594
+2,disease_on_drugs,26,28,-0.05626780626780625

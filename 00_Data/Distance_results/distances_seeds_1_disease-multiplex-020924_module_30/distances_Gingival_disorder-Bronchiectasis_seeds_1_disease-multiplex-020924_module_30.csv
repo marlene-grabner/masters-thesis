@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,21,30,0.14719887955182065
+1,disease_on_symptoms,26,15,0.5100687929956222
+2,disease_on_drugs,20,26,0.3093645484949834

@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.1964285714285714
+1,disease_on_symptoms,16,17,0.7083333333333335
+2,disease_on_drugs,25,24,0.4476530612244898

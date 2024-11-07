@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.26666666666666683
+1,disease_on_symptoms,19,21,0.04060150375939853
+2,disease_on_drugs,20,29,-0.16834975369458127

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,14,25,0.5887545787545785
+2,disease_on_drugs,26,30,0.2425824175824174

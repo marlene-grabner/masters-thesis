@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,22,24,0.2220238095238094
+1,disease_on_symptoms,20,17,2.414109697933227
+2,disease_on_drugs,19,23,0.756892230576441

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,21,-0.21325305899773994
+1,disease_on_symptoms,21,25,-0.12124223602484463
+2,disease_on_drugs,25,21,-0.1704347826086957

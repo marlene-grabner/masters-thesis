@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,28,27,0.37944925444925426
+1,disease_on_symptoms,14,16,2.1660714285714286
+2,disease_on_drugs,24,18,0.9523809523809523

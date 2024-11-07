@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,23,17,0.09865728900255744
+1,disease_on_symptoms,19,27,1.588990592423087
+2,disease_on_drugs,11,16,0.6041666666666667

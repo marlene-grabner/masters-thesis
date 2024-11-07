@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Lymphoma nodes,sAB
+0,disease_on_genes,25,26,0.1991025641025641
+1,disease_on_symptoms,20,21,1.5405923344947734
+2,disease_on_drugs,21,25,0.4558592132505175

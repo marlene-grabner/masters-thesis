@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,20,30,0.15833333333333321
+1,disease_on_symptoms,23,20,0.23854903943377148
+2,disease_on_drugs,18,22,0.675

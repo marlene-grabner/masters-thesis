@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,20,0.6625000000000001
+1,disease_on_symptoms,12,27,1.8297720797720798
+2,disease_on_drugs,21,19,0.8509398496240603

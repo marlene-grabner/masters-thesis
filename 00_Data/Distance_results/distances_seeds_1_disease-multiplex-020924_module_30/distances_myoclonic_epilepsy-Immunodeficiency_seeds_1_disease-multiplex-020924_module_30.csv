@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.6100233100233099
+1,disease_on_symptoms,16,19,2.60859962406015
+2,disease_on_drugs,23,18,1.1021267821373868

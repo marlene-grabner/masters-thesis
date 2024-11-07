@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,22,21,-0.3325027685492803
+2,disease_on_drugs,27,29,0.0030788177339899914

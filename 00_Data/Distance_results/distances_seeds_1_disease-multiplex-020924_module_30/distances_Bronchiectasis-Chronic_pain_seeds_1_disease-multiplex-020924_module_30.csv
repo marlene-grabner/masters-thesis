@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,15,22,1.4219082719082716
+2,disease_on_drugs,26,28,0.5362739112739112

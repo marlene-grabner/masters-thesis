@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,0.2545098039215685
+1,disease_on_symptoms,15,20,1.2428571428571429
+2,disease_on_drugs,15,21,0.6555555555555557

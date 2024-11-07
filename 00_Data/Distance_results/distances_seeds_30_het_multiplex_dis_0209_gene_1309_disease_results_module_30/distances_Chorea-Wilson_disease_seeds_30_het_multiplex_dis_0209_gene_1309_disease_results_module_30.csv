@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,0.018181818181818077
+1,disease_on_symptoms,17,19,1.4495184038527689
+2,disease_on_drugs,24,22,0.065629117259552

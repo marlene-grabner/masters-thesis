@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,29,30,0.17179802955665036
+1,disease_on_symptoms,17,21,0.7868937048503613
+2,disease_on_drugs,25,29,0.6692209450830142

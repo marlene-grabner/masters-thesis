@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,29,29,-0.017241379310344862
+1,disease_on_symptoms,14,20,0.7338235294117645
+2,disease_on_drugs,22,27,-0.10255617398474537

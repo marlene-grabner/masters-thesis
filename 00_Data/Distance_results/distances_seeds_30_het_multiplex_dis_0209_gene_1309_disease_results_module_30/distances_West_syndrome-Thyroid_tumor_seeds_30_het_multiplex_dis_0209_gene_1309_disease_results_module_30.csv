@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.18867924528301883
+1,disease_on_symptoms,13,20,1.2322261072261071
+2,disease_on_drugs,19,20,0.6646086369770581

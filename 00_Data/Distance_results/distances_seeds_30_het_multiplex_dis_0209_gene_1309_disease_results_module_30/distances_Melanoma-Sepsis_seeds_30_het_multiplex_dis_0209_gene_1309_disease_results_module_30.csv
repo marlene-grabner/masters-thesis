@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Sepsis nodes,sAB
+0,disease_on_genes,27,30,0.10516569200779724
+1,disease_on_symptoms,23,15,1.3345537757437071
+2,disease_on_drugs,25,25,0.56

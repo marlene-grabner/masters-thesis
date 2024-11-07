@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Encephalitis nodes,sAB
+0,disease_on_genes,10,28,0.41165413533834605
+1,disease_on_symptoms,27,17,1.7574767280649635
+2,disease_on_drugs,9,18,0.5555555555555556

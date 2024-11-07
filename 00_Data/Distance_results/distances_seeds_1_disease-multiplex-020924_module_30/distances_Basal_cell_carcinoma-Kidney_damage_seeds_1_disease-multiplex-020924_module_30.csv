@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.40250836120401345
+1,disease_on_symptoms,23,26,1.7961743225718378
+2,disease_on_drugs,25,13,0.728744939271255

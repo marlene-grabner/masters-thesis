@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.405
+1,disease_on_symptoms,16,24,0.8916666666666666
+2,disease_on_drugs,24,18,0.8978174603174605

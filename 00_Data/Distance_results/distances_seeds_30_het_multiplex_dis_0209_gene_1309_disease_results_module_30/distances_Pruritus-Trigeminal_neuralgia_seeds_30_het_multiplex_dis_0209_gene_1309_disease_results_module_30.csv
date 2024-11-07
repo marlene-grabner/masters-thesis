@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.08869395711500982
+1,disease_on_symptoms,21,15,0.6880952380952383
+2,disease_on_drugs,27,25,0.17131054131054135

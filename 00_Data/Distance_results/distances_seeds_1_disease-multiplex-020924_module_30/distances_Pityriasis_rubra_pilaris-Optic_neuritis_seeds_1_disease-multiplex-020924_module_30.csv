@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,0.03569023569023555
+1,disease_on_symptoms,23,16,-0.10252926421404696
+2,disease_on_drugs,26,27,-0.07549857549857553

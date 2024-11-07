@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,28,0.09259259259259256
+1,disease_on_symptoms,22,25,0.4864023210831723
+2,disease_on_drugs,26,24,0.23794871794871808

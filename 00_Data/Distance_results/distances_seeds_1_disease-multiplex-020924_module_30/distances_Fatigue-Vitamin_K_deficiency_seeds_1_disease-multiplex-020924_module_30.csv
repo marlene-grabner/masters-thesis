@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.01840120663650091
+1,disease_on_symptoms,21,23,1.4421230942970074
+2,disease_on_drugs,26,20,0.21588628762541795

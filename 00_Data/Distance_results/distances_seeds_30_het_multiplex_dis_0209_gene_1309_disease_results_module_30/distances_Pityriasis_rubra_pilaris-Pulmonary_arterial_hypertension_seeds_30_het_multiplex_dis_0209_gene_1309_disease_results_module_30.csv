@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.0370370370370372
+1,disease_on_symptoms,21,17,0.07688338493292046
+2,disease_on_drugs,25,25,-0.02000000000000024

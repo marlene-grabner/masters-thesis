@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,0.4486012608353034
+1,disease_on_symptoms,19,27,0.940800067802356
+2,disease_on_drugs,27,19,0.6864988558352401

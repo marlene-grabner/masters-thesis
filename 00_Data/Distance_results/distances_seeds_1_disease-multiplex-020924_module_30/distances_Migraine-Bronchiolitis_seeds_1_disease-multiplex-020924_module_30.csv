@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.2656822532130161
+1,disease_on_symptoms,14,25,1.5283516483516486
+2,disease_on_drugs,29,18,0.6187943262411346

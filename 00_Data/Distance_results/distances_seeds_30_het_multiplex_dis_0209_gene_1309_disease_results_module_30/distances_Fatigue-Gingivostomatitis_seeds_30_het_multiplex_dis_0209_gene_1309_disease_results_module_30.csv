@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.14578754578754594
+1,disease_on_symptoms,16,15,1.0502688172043009
+2,disease_on_drugs,26,30,0.08049450549450543

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.30714626987918914
+1,disease_on_symptoms,18,25,2.3787080103359175
+2,disease_on_drugs,23,18,0.5264227642276422

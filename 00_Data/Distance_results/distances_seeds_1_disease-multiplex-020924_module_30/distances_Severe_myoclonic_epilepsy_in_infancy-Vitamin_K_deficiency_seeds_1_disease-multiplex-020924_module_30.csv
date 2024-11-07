@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.3378787878787879
+1,disease_on_symptoms,16,23,1.2490245261984394
+2,disease_on_drugs,21,20,0.7560394889663182

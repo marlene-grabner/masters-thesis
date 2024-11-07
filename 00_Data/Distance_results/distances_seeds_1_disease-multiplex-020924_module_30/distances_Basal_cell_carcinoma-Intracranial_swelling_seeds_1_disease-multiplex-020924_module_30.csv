@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.19624542124542121
+1,disease_on_symptoms,23,14,0.7575961054221927
+2,disease_on_drugs,25,24,0.36692176870748283

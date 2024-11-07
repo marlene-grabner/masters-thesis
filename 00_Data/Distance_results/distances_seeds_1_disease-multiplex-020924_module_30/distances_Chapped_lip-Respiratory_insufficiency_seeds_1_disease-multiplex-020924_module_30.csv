@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,26,25,0.41098039215686266
+1,disease_on_symptoms,21,20,2.6071718931475028
+2,disease_on_drugs,24,14,0.7086466165413534

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,23,24,0.02127659574468077
+1,disease_on_symptoms,23,19,0.9591914569031275
+2,disease_on_drugs,22,24,0.4355237154150198

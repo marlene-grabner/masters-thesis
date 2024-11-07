@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.1206896551724137
+1,disease_on_symptoms,16,23,0.19805602006688972
+2,disease_on_drugs,23,27,0.021223832528180386

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,23,19,0.4784788057099272
+2,disease_on_drugs,26,28,0.11212861212861225

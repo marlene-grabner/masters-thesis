@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,0.305952380952381
+1,disease_on_symptoms,17,19,2.276057791537668
+2,disease_on_drugs,17,22,0.758158508158508

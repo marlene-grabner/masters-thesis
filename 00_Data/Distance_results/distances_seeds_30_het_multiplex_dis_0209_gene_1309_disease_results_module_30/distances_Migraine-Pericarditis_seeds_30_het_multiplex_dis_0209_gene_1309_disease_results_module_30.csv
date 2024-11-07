@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.3928571428571429
+1,disease_on_symptoms,12,21,-0.5313852813852813
+2,disease_on_drugs,29,26,-0.5147697130455751

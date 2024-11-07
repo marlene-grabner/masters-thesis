@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,22,14,0.27020202020202033
+2,disease_on_drugs,30,29,0.16890707188778498

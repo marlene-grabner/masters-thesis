@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.2807017543859649
+1,disease_on_symptoms,26,15,1.7409631019387117
+2,disease_on_drugs,28,29,0.8593358395989976

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,28,0.1932525278714028
+1,disease_on_symptoms,15,19,0.8659442724458202
+2,disease_on_drugs,29,26,0.563527851458886

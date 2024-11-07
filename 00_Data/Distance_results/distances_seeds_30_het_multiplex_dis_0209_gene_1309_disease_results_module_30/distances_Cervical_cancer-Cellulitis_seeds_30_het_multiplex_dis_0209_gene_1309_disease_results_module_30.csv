@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Cellulitis nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,22,20,0.3361471861471863
+2,disease_on_drugs,15,26,0.23286429018136334

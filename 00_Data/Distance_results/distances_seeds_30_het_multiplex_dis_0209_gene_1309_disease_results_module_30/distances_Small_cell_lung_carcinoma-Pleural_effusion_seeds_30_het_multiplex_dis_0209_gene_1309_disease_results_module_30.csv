@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,18,0.4086059743954482
+2,disease_on_drugs,30,27,0.20614035087719307

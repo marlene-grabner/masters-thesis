@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,28,25,0.28301886792452824
+1,disease_on_symptoms,17,19,0.47239422084623306
+2,disease_on_drugs,19,22,0.19354650484303892

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.1166666666666667
+1,disease_on_symptoms,17,12,0.5338066260987158
+2,disease_on_drugs,26,23,0.1610129001433349

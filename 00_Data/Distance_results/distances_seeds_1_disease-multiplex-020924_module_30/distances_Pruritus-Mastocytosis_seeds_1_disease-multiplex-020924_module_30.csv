@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,18,0.005245478036175699
+1,disease_on_symptoms,19,28,0.1621540553511438
+2,disease_on_drugs,24,17,0.06312769010043051

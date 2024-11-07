@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Rhinitis nodes,sAB
+0,disease_on_genes,24,30,-0.12962962962962965
+1,disease_on_symptoms,21,12,-0.3766233766233764
+2,disease_on_drugs,24,23,-0.32017036694418755

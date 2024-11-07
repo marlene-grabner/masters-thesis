@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.214102564102564
+1,disease_on_symptoms,14,17,0.31587150989428014
+2,disease_on_drugs,29,18,0.4929078014184398

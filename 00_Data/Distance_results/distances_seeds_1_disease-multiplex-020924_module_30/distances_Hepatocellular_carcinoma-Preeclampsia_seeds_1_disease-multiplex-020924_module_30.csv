@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,23,26,0.11978704525288375
+1,disease_on_symptoms,19,17,2.2301341589267283
+2,disease_on_drugs,19,23,0.9068322981366459

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,27,30,0.15692007797270957
+1,disease_on_symptoms,17,16,0.6856060606060606
+2,disease_on_drugs,24,25,0.041479591836734775

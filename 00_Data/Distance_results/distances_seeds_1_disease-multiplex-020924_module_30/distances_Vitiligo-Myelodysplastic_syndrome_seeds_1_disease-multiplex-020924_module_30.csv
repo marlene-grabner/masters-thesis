@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,24,26,0.4508333333333334
+1,disease_on_symptoms,22,15,1.563841113841114
+2,disease_on_drugs,11,21,0.3348214285714286

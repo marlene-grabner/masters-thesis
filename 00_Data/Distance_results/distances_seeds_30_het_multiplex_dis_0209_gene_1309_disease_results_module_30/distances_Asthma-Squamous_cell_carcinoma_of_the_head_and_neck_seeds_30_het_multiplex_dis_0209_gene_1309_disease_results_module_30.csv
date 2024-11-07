@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,25,30,-0.08969696969696961
+1,disease_on_symptoms,20,22,0.7347402597402599
+2,disease_on_drugs,22,30,0.2734265734265735

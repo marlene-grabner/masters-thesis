@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.08792726278370244
+1,disease_on_symptoms,25,20,1.073888888888889
+2,disease_on_drugs,26,20,1.042725752508361

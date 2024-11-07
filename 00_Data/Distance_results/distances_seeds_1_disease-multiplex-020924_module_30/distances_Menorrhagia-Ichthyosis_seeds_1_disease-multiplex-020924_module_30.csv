@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,26,27,0.07543138203515554
+1,disease_on_symptoms,19,17,0.8504471964224285
+2,disease_on_drugs,24,24,0.2916666666666665

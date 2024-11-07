@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.2234940984940983
+1,disease_on_symptoms,21,19,1.4501879699248121
+2,disease_on_drugs,25,26,0.9799849170437405

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,14,20,0.27857142857142847
+2,disease_on_drugs,24,30,0.3124999999999998

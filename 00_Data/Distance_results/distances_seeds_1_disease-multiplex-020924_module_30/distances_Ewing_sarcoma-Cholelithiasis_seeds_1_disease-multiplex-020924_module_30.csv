@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,24,25,0.7138265306122449
+1,disease_on_symptoms,25,19,1.6241626794258375
+2,disease_on_drugs,17,18,2.057936507936508

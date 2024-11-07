@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Tremor nodes,sAB
+0,disease_on_genes,24,16,0.19610507246376807
+1,disease_on_symptoms,23,23,1.9565217391304346
+2,disease_on_drugs,20,16,0.5548611111111112

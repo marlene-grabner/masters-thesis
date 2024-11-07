@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.35592246249756476
+1,disease_on_symptoms,23,15,0.13951182303585075
+2,disease_on_drugs,27,21,1.126653439153439

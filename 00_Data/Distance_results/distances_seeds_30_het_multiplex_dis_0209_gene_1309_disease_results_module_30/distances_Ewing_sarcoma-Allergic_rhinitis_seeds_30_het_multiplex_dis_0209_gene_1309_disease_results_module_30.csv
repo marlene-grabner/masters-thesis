@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,17,20,0.7085453100158983
+2,disease_on_drugs,24,25,0.2660374149659863

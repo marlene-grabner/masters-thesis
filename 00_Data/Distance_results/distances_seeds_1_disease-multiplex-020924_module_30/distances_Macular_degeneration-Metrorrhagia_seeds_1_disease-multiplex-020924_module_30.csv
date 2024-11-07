@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.3868421052631579
+1,disease_on_symptoms,15,17,0.3528186274509806
+2,disease_on_drugs,21,26,0.8738991504948952

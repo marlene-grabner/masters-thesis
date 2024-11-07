@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,22,30,0.11538461538461542
+1,disease_on_symptoms,21,15,0.5468253968253971
+2,disease_on_drugs,21,21,0.23809523809523814

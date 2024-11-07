@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,25,30,0.0
+1,disease_on_symptoms,19,13,1.4781123481781377
+2,disease_on_drugs,25,21,0.16778467908902694

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,28,26,-0.05560643060643067
+1,disease_on_symptoms,18,17,0.6336601307189542
+2,disease_on_drugs,25,24,0.26355442176870736

@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,0.33226120857699804
+1,disease_on_symptoms,20,14,2.0207983193277315
+2,disease_on_drugs,15,26,0.7612570356472796

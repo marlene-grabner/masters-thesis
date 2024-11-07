@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,24,30,-0.12962962962962965
+1,disease_on_symptoms,24,21,0.26349206349206344
+2,disease_on_drugs,23,29,-0.03185907046476766

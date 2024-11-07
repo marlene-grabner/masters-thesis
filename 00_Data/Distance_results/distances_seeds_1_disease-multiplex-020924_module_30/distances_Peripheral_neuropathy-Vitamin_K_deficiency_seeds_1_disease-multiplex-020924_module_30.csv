@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.08787878787878811
+1,disease_on_symptoms,20,23,0.08159757330637007
+2,disease_on_drugs,24,20,0.3856060606060605

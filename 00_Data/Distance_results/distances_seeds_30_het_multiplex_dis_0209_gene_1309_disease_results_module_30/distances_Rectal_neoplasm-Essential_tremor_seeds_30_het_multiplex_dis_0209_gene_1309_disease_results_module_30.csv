@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.05588235294117638
+1,disease_on_symptoms,20,23,0.6169110212335691
+2,disease_on_drugs,29,21,-0.10525451559934318

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,30,0.08928571428571419
+1,disease_on_symptoms,17,15,0.3111519607843136
+2,disease_on_drugs,24,21,0.0363095238095239

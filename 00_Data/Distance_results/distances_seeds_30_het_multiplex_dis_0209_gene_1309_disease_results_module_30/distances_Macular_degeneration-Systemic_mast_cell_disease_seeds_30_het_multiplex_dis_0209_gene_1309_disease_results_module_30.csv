@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.16977401129943503
+1,disease_on_symptoms,17,25,0.7946218487394958
+2,disease_on_drugs,17,21,0.16194899012236474

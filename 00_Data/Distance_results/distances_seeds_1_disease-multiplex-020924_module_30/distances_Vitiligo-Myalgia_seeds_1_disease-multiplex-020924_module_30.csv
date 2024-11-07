@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Myalgia nodes,sAB
+0,disease_on_genes,24,30,0.20231481481481461
+1,disease_on_symptoms,22,16,2.7843899521531097
+2,disease_on_drugs,11,29,0.5

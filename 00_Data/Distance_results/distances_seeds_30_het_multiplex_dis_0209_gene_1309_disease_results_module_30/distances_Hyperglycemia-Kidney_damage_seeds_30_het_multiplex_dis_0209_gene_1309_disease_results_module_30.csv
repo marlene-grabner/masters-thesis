@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,15,0.5207107843137255
+2,disease_on_drugs,26,21,-0.08448289299353129

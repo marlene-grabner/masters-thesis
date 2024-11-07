@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,-0.01968810916179331
+1,disease_on_symptoms,21,26,-0.1781038110825346
+2,disease_on_drugs,23,28,0.006820119352088483

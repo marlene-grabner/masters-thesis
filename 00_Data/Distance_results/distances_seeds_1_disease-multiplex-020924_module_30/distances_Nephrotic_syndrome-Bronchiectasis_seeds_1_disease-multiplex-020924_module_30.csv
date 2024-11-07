@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,20,30,0.09833333333333316
+1,disease_on_symptoms,24,15,0.04583333333333317
+2,disease_on_drugs,18,26,0.004467754467754714

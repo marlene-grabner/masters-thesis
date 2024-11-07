@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,20,0.35111111111111093
+1,disease_on_symptoms,24,26,1.6237179487179487
+2,disease_on_drugs,20,13,0.9289044289044288

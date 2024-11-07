@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,24,18,0.5863095238095237
+1,disease_on_symptoms,18,18,3.305555555555556
+2,disease_on_drugs,18,10,0.5071428571428571

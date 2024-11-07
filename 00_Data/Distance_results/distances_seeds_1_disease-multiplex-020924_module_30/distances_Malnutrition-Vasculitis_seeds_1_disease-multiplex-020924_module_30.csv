@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.0807051282051281
+1,disease_on_symptoms,18,19,1.5423581476213055
+2,disease_on_drugs,23,20,0.3918604651162789

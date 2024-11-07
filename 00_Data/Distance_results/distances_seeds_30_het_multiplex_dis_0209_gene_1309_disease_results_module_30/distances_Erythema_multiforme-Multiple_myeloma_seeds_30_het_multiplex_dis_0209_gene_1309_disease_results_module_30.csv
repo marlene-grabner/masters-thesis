@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.1785714285714286
+1,disease_on_symptoms,18,21,0.17704517704517708
+2,disease_on_drugs,30,25,-0.29000000000000004

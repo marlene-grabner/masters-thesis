@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,15,18,0.5424242424242423
+2,disease_on_drugs,28,29,-0.03605997753003187

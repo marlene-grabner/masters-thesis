@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,-0.07081280788177335
+1,disease_on_symptoms,22,20,0.4622294372294373
+2,disease_on_drugs,27,28,0.0908249158249157

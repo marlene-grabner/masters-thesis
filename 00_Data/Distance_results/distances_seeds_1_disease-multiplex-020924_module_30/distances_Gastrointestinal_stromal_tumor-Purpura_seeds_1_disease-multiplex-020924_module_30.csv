@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Purpura nodes,sAB
+0,disease_on_genes,23,26,0.3029997952358201
+1,disease_on_symptoms,20,17,1.537678855325914
+2,disease_on_drugs,19,20,1.0

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,29,0.23950134770889475
+1,disease_on_symptoms,16,17,1.5550356506238858
+2,disease_on_drugs,17,25,0.7563025210084036

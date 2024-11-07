@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,0.1079670329670328
+1,disease_on_symptoms,21,23,1.7140504423113119
+2,disease_on_drugs,24,14,0.49013157894736836

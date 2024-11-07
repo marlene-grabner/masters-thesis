@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.13559322033898313
+1,disease_on_symptoms,19,13,0.16282894736842102
+2,disease_on_drugs,30,22,0.20687645687645673

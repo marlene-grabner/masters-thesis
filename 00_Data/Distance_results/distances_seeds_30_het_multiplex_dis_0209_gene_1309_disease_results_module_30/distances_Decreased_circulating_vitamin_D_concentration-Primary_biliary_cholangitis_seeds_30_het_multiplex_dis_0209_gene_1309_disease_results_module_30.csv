@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,25,26,0.07843137254901955
+1,disease_on_symptoms,13,23,0.7995169082125604
+2,disease_on_drugs,21,26,0.36540409944665275

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,13,19,1.086918016194332
+2,disease_on_drugs,22,24,0.5704051383399207

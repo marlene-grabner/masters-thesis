@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,19,17,0.2501719986240112
+2,disease_on_drugs,24,30,0.008333333333333526

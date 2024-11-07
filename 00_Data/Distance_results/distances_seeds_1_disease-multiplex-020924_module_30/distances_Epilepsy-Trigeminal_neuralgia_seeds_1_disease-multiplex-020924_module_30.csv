@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,28,-0.15883458646616544
+1,disease_on_symptoms,18,19,-0.23980559506875299
+2,disease_on_drugs,30,26,-0.2680402930402931

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,0.0
+1,disease_on_symptoms,22,19,0.7408682460030342
+2,disease_on_drugs,26,24,0.4205769230769232

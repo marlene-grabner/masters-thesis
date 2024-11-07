@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,29,0.26176549865229104
+1,disease_on_symptoms,25,17,0.775966386554622
+2,disease_on_drugs,21,25,0.4130434782608696

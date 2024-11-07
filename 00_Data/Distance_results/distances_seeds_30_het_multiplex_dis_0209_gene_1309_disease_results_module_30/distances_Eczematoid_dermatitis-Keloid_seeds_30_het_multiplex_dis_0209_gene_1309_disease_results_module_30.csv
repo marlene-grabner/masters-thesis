@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,25,17,1.156358543417367
+2,disease_on_drugs,30,22,0.08111888111888099

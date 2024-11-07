@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Rhinitis nodes,sAB
+0,disease_on_genes,17,30,0.36887776387150595
+1,disease_on_symptoms,21,15,0.8603174603174599
+2,disease_on_drugs,17,22,1.0693815987933635

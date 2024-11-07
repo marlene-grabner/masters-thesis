@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.08320802005012529
+1,disease_on_symptoms,17,21,2.5241780922895476
+2,disease_on_drugs,17,17,-0.20588235294117652

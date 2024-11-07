@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,24,23,0.17065602836879412
+1,disease_on_symptoms,22,24,0.7597990777338604
+2,disease_on_drugs,24,22,0.28162055335968383

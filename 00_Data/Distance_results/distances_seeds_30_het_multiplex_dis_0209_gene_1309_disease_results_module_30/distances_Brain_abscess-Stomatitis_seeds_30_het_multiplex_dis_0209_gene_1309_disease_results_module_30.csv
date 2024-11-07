@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,21,19,0.712280701754386
+2,disease_on_drugs,23,29,-0.045640641217852496

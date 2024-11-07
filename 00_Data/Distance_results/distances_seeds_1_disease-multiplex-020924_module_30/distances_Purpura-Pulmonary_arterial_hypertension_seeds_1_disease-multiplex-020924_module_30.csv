@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.5385124135124136
+1,disease_on_symptoms,17,18,-0.569421101774043
+2,disease_on_drugs,20,26,-0.6061872909698995

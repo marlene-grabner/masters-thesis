@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,21,27,0.21759259259259278
+1,disease_on_symptoms,24,21,0.83234126984127
+2,disease_on_drugs,20,23,0.7282861476238625

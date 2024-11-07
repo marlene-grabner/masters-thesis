@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.13207547169811318
+1,disease_on_symptoms,18,20,0.5489766081871343
+2,disease_on_drugs,26,20,0.33787625418060196

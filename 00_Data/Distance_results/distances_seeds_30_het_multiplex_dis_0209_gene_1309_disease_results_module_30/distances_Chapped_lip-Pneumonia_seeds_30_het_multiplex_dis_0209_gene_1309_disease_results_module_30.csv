@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,20,23,0.2604398382204247
+2,disease_on_drugs,23,29,0.17100103794256705

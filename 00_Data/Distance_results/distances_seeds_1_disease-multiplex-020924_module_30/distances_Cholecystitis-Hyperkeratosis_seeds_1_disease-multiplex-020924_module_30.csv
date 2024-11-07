@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,25,26,0.6274358974358976
+1,disease_on_symptoms,19,21,1.30125313283208
+2,disease_on_drugs,13,23,0.8782051282051284

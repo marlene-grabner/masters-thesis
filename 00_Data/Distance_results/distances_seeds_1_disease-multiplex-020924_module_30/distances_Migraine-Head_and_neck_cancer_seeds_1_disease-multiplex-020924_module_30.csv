@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,0.12358674463937636
+1,disease_on_symptoms,14,22,0.8113275613275615
+2,disease_on_drugs,29,24,0.9772012578616356

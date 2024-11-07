@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,25,30,-0.1454545454545455
+1,disease_on_symptoms,19,18,-0.3483088351509407
+2,disease_on_drugs,22,26,-0.25335081585081587

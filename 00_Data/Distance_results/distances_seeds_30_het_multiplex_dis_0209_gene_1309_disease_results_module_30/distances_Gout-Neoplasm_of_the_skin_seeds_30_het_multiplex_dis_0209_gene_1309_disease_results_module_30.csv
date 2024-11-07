@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,-0.0862479474548441
+1,disease_on_symptoms,19,22,0.4345606255105612
+2,disease_on_drugs,22,29,-0.02022250906632239

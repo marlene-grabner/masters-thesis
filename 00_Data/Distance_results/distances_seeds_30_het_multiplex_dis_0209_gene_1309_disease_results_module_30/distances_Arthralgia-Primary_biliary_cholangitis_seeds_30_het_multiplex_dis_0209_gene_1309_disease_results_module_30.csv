@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,-0.1785714285714286
+1,disease_on_symptoms,17,23,0.057033248081841625
+2,disease_on_drugs,30,26,-0.1502747252747254

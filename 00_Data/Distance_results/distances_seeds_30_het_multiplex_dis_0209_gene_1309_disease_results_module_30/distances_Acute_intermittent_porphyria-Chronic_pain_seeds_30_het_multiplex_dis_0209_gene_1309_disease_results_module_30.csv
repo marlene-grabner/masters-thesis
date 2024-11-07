@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,-0.22719298245614028
+1,disease_on_symptoms,17,19,-0.2338321293429655
+2,disease_on_drugs,24,28,-0.2744963369963369

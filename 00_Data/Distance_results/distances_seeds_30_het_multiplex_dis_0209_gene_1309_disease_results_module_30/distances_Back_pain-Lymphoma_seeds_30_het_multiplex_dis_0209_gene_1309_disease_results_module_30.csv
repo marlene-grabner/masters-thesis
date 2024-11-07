@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,15,20,-0.042857142857142705
+2,disease_on_drugs,23,24,-0.0023897625655258103

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,29,25,0.11090676883780337
+1,disease_on_symptoms,23,20,0.4956521739130435
+2,disease_on_drugs,27,21,0.37962962962962954

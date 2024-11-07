@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.18842364532019706
+1,disease_on_symptoms,22,15,0.9607289107289105
+2,disease_on_drugs,29,21,0.6337931034482758

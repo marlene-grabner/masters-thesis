@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,23,26,0.20408163265306123
+1,disease_on_symptoms,24,15,1.6368589743589745
+2,disease_on_drugs,22,26,0.893939393939394

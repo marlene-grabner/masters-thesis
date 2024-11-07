@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.10282485875706215
+1,disease_on_symptoms,23,16,0.9641164994425862
+2,disease_on_drugs,29,29,0.7413793103448274

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,17,25,0.16689075630252104
+1,disease_on_symptoms,22,21,2.018826135105205
+2,disease_on_drugs,15,20,0.25595238095238093

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,18,-0.32653706337916866
+2,disease_on_drugs,24,21,-0.0726190476190478

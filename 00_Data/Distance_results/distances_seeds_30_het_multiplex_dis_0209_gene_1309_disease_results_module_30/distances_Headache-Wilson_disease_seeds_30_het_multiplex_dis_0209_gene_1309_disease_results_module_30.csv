@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,0.16363636363636358
+1,disease_on_symptoms,23,19,0.5377029530347608
+2,disease_on_drugs,23,22,0.17909530083443137

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,0.21180063041765163
+1,disease_on_symptoms,22,27,0.660155981584553
+2,disease_on_drugs,24,19,0.3708180334557323

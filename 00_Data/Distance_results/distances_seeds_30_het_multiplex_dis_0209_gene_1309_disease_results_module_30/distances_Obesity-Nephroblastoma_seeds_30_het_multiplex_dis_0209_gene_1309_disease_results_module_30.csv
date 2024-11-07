@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,-0.14422550629447195
+1,disease_on_symptoms,18,20,0.18611111111111112
+2,disease_on_drugs,25,24,-0.20501700680272106

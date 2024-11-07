@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,21,22,0.4185291452733315
+1,disease_on_symptoms,26,21,4.003117449925961
+2,disease_on_drugs,20,6,0.7948717948717949

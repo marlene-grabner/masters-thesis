@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,27,27,0.12962962962962954
+1,disease_on_symptoms,23,18,0.9918993755154943
+2,disease_on_drugs,25,22,0.4688394584139264

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,23,12,1.1576604554865426
+2,disease_on_drugs,29,22,0.8894523326572008

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,14,21,0.3642857142857141
+2,disease_on_drugs,27,27,0.11111111111111116

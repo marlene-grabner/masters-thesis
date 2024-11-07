@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,20,25,0.3151515151515152
+1,disease_on_symptoms,22,20,1.697835497835498
+2,disease_on_drugs,15,21,0.7412698412698413

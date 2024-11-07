@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,14,27,0.45118724996773785
+1,disease_on_symptoms,25,21,2.0238509316770186
+2,disease_on_drugs,10,23,0.9407773386034255

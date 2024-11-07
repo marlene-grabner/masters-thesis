@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Nocturia nodes,sAB
+0,disease_on_genes,26,21,0.33487447511837765
+1,disease_on_symptoms,19,24,1.5966187270501837
+2,disease_on_drugs,24,14,0.7404448621553885

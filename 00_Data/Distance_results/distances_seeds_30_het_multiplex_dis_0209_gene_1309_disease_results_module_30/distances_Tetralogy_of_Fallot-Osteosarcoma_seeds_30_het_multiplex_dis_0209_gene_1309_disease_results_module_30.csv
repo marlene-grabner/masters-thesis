@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666679
+1,disease_on_symptoms,19,22,0.3267592484537287
+2,disease_on_drugs,20,29,-0.16834975369458127

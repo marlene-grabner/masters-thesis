@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,30,23,0.3085999453103636
+1,disease_on_symptoms,16,20,1.8416666666666666
+2,disease_on_drugs,21,19,1.5273809523809525

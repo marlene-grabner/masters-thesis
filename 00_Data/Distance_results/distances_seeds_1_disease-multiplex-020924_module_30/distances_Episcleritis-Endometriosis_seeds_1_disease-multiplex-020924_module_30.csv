@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Endometriosis nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,22,12,0.43894830659536543
+2,disease_on_drugs,29,27,0.4495073891625616

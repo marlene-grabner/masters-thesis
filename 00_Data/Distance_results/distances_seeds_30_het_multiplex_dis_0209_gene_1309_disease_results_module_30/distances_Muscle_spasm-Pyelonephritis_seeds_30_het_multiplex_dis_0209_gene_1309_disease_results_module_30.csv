@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,-0.0023148148148148806
+1,disease_on_symptoms,15,19,1.2902992776057793
+2,disease_on_drugs,29,19,0.197595281306715

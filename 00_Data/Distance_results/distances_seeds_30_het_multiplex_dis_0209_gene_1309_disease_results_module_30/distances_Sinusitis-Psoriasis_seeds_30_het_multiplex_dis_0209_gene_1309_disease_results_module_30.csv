@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,20,17,0.03819554848966611
+2,disease_on_drugs,27,30,0.03294346978557505

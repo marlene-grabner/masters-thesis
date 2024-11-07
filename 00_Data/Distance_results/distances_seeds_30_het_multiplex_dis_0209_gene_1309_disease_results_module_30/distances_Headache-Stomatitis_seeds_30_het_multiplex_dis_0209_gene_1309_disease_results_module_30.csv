@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,23,19,-0.12395118230358482
+2,disease_on_drugs,23,29,-0.31236304924460834

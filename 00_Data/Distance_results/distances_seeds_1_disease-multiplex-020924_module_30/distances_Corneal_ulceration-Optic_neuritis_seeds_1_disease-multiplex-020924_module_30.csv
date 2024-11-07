@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,-0.12762145262145275
+1,disease_on_symptoms,19,16,0.19967105263157903
+2,disease_on_drugs,26,27,-0.30118798043326367

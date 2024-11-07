@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.10406403940886688
+1,disease_on_symptoms,17,20,0.3123211446740861
+2,disease_on_drugs,25,27,0.01658119658119639

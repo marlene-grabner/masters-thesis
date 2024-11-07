@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.20054945054945061
+1,disease_on_symptoms,20,16,1.1555555555555554
+2,disease_on_drugs,29,26,-0.14643115505184467

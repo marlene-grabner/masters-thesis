@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,0.11358198451794532
+1,disease_on_symptoms,21,26,0.4358000155872497
+2,disease_on_drugs,28,13,-0.0019766818547306553

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,25,27,0.30455840455840466
+1,disease_on_symptoms,23,23,1.5
+2,disease_on_drugs,19,15,0.5647058823529412

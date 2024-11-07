@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,-0.30000000000000004
+1,disease_on_symptoms,23,21,0.40866741953698504
+2,disease_on_drugs,22,27,-0.16412423555280709

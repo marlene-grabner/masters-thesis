@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,29,30,-0.2033898305084746
+1,disease_on_symptoms,19,14,-0.11671223513328788
+2,disease_on_drugs,29,25,-0.13509578544061296

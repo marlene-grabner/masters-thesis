@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,25,0.06181917211328991
+1,disease_on_symptoms,19,20,1.0714574898785423
+2,disease_on_drugs,26,21,0.1671927363416723

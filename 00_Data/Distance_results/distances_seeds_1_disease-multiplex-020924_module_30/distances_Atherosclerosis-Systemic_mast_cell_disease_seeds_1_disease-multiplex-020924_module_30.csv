@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.3889538281706604
+1,disease_on_symptoms,13,16,1.222977453580902
+2,disease_on_drugs,29,25,0.6111111111111112

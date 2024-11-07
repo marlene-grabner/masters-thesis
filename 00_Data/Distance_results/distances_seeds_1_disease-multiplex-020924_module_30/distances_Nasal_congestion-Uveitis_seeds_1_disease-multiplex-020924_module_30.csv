@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666385
+1,disease_on_symptoms,15,21,0.29047619047619033
+2,disease_on_drugs,23,27,0.279742351046699

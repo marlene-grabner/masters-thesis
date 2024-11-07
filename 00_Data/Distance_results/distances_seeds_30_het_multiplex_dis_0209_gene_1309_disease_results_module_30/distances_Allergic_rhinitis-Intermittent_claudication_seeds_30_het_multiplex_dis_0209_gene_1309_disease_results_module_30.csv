@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,30,0.24137931034482762
+1,disease_on_symptoms,20,14,0.016176470588235237
+2,disease_on_drugs,25,24,0.1835544217687075

@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,16,16,0.125
+2,disease_on_drugs,28,29,-0.2620127905971825

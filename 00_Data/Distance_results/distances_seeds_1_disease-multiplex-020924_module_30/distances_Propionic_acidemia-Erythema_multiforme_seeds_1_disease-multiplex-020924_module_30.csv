@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,22,30,0.04358974358974366
+1,disease_on_symptoms,17,16,1.4199532085561497
+2,disease_on_drugs,21,30,0.4775910364145659

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.05168517436197151
+1,disease_on_symptoms,17,14,0.38682569802114375
+2,disease_on_drugs,30,30,0.30000000000000004

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_skin nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.05056497175141239
+1,disease_on_symptoms,22,25,0.16214700193423592
+2,disease_on_drugs,29,21,0.12170771756978649

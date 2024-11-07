@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,0.0734432234432234
+1,disease_on_symptoms,14,21,1.6142857142857143
+2,disease_on_drugs,26,26,0.3846153846153848

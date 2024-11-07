@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,18,16,0.3415032679738561
+2,disease_on_drugs,24,27,0.05950435729847503

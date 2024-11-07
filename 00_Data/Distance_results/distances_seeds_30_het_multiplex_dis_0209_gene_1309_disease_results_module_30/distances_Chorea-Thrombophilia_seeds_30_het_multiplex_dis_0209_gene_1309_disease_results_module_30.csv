@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.2456140350877194
+1,disease_on_symptoms,17,18,1.226377217553688
+2,disease_on_drugs,24,22,0.6555500658761528

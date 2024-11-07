@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,19,14,-0.23205741626794252
+2,disease_on_drugs,30,29,-0.05001948178453142

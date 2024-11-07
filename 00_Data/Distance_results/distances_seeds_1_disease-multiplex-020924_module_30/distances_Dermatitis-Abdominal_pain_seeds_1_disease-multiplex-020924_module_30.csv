@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,0.14848484848484866
+1,disease_on_symptoms,25,24,1.1010714285714283
+2,disease_on_drugs,24,24,0.1875

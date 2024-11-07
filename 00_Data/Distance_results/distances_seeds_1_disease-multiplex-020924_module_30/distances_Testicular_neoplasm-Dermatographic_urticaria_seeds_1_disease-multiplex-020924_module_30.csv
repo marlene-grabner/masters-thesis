@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,25,29,0.20074074074074066
+1,disease_on_symptoms,25,14,1.5483516483516486
+2,disease_on_drugs,23,28,1.0153452685421993

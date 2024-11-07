@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,25,28,0.035107816711590356
+1,disease_on_symptoms,23,14,0.31735773040120874
+2,disease_on_drugs,19,28,0.43237082066869315

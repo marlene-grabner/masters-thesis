@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.449343185550082
+1,disease_on_symptoms,20,17,1.3317965023847376
+2,disease_on_drugs,24,18,0.8392857142857144

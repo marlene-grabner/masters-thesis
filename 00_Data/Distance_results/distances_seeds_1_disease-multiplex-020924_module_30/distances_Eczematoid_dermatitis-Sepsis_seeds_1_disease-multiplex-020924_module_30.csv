@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Sepsis nodes,sAB
+0,disease_on_genes,28,22,0.26850649350649336
+1,disease_on_symptoms,24,23,1.596399938328708
+2,disease_on_drugs,28,17,0.5276844070961717

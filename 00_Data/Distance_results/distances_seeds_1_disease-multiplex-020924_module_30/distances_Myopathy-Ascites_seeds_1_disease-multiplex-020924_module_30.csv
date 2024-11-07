@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Ascites nodes,sAB
+0,disease_on_genes,18,30,0.45138888888888884
+1,disease_on_symptoms,21,17,1.1864956508919358
+2,disease_on_drugs,6,27,0.4444444444444444

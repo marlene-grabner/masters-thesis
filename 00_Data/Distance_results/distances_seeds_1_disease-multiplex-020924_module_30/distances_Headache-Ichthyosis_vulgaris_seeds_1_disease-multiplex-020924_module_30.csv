@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.08664717348927864
+1,disease_on_symptoms,25,21,0.756894409937888
+2,disease_on_drugs,26,27,0.28265602322206096

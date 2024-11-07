@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,25,30,0.016363636363636358
+1,disease_on_symptoms,20,18,1.3346491228070174
+2,disease_on_drugs,22,27,0.23917748917748916

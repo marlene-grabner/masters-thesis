@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.15641025641025652
+1,disease_on_symptoms,21,24,0.30853174603174605
+2,disease_on_drugs,27,19,0.11534875836935332

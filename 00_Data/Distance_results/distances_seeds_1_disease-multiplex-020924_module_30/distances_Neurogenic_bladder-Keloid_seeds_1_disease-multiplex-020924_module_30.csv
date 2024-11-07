@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.35967365967365983
+1,disease_on_symptoms,17,20,1.8660572337042924
+2,disease_on_drugs,26,19,0.8888888888888888

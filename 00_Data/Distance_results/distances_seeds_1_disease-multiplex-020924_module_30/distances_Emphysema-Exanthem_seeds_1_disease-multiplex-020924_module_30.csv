@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.03505747126436787
+1,disease_on_symptoms,14,26,0.23021978021978007
+2,disease_on_drugs,29,28,0.17512531328320802

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,27,26,-0.056254367575122366
+1,disease_on_symptoms,17,23,0.2717391304347827
+2,disease_on_drugs,24,26,0.0986538461538462

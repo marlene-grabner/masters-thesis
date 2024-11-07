@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,25,26,0.05882352941176472
+1,disease_on_symptoms,19,23,1.5129672006102215
+2,disease_on_drugs,18,26,0.13655788655788648

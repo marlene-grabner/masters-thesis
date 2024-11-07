@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,24,17,0.25983381157341023
+2,disease_on_drugs,27,17,0.008813626460685287

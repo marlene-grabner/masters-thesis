@@ -1,0 +1,4 @@
+,Layer,Disorder_of_orbital_region nodes,Glaucoma nodes,sAB
+0,disease_on_genes,17,30,-0.05665415102211102
+1,disease_on_symptoms,27,14,0.011227255129694358
+2,disease_on_drugs,16,30,0.2519927536231885

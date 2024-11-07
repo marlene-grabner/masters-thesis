@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,25,30,-0.23636363636363633
+1,disease_on_symptoms,19,16,-0.5951127819548874
+2,disease_on_drugs,22,30,-0.20815850815850812

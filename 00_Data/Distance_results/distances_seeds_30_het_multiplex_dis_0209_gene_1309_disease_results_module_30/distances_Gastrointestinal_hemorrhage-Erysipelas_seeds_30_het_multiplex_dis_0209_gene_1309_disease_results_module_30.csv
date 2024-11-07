@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,30,-0.4316502463054187
+1,disease_on_symptoms,20,18,-0.6824561403508773
+2,disease_on_drugs,27,29,-0.4269978106185003

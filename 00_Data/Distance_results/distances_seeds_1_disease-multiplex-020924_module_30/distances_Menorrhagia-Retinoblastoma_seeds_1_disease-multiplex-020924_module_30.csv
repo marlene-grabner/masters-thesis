@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,26,26,0.1923076923076923
+1,disease_on_symptoms,19,24,1.7128977968176253
+2,disease_on_drugs,24,24,0.6249999999999998

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.0
+1,disease_on_symptoms,17,18,0.37324929971988796
+2,disease_on_drugs,25,27,0.0010256410256410664

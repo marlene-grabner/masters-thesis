@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.3599999999999999
+1,disease_on_symptoms,12,13,1.942820512820513
+2,disease_on_drugs,30,16,1.0037137681159423

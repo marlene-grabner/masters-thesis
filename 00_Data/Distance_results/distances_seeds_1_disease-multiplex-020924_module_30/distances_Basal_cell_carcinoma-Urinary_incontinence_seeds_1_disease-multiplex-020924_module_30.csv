@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,26,0.25
+1,disease_on_symptoms,23,20,1.238751263902932
+2,disease_on_drugs,25,20,1.3777777777777778

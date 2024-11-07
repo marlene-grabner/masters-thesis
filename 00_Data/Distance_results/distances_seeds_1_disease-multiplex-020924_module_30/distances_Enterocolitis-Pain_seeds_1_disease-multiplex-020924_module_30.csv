@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Pain nodes,sAB
+0,disease_on_genes,27,26,0.05622749018975437
+1,disease_on_symptoms,21,21,0.7619047619047619
+2,disease_on_drugs,24,26,0.03993589743589743

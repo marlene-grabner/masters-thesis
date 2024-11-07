@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,21,28,0.2517006802721087
+1,disease_on_symptoms,20,21,1.1757839721254357
+2,disease_on_drugs,19,24,1.0930232558139537

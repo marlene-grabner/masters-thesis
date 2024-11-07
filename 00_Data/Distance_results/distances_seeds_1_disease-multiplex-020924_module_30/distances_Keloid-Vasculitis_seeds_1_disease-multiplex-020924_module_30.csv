@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Vasculitis nodes,sAB
+0,disease_on_genes,22,24,0.25979907773386013
+1,disease_on_symptoms,20,19,1.665654520917679
+2,disease_on_drugs,19,20,0.4884615384615385

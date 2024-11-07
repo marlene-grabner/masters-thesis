@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.1785714285714286
+1,disease_on_symptoms,19,17,0.48933608531131756
+2,disease_on_drugs,24,27,0.354983660130719

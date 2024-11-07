@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,-0.05233990147783241
+1,disease_on_symptoms,19,14,0.3394281157439054
+2,disease_on_drugs,22,25,-0.0439458413926499

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615374
+1,disease_on_symptoms,23,15,1.360793287566743
+2,disease_on_drugs,25,16,0.41463414634146334

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,22,27,0.4819796605510891
+1,disease_on_symptoms,23,20,1.6536653185035388
+2,disease_on_drugs,17,15,0.7224264705882353

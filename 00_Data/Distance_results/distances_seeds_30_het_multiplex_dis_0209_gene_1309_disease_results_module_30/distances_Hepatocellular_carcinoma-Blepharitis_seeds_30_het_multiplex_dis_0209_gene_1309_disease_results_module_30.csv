@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,24,30,-0.01851851851851849
+1,disease_on_symptoms,23,18,0.7636974195828912
+2,disease_on_drugs,22,30,0.22505827505827503

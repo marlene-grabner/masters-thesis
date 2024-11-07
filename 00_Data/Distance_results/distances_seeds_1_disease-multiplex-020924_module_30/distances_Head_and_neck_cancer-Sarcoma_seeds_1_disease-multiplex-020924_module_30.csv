@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,25,-0.19159544159544173
+1,disease_on_symptoms,22,26,-0.23499417249417243
+2,disease_on_drugs,24,21,-0.30833333333333324

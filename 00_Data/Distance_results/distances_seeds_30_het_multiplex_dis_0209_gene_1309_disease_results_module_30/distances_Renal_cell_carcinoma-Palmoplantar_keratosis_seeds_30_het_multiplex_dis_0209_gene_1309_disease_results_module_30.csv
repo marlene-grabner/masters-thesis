@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,27,26,-0.056254367575122366
+1,disease_on_symptoms,22,20,1.259090909090909
+2,disease_on_drugs,22,23,-0.08748353096179184

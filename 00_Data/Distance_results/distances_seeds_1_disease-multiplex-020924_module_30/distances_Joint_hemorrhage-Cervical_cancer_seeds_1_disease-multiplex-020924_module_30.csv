@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.5104288499025342
+1,disease_on_symptoms,13,23,1.550353028613898
+2,disease_on_drugs,18,15,0.9287878787878787

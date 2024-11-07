@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,29,0.43730407523510983
+1,disease_on_symptoms,15,16,1.5561827956989247
+2,disease_on_drugs,21,24,1.1063492063492062

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,25,26,-0.196078431372549
+1,disease_on_symptoms,19,21,0.643734335839599
+2,disease_on_drugs,23,25,-0.2510507246376811

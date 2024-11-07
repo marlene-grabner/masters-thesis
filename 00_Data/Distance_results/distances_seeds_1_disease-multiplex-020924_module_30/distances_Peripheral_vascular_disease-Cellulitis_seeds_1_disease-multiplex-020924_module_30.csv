@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Cellulitis nodes,sAB
+0,disease_on_genes,23,22,0.36090720873329585
+1,disease_on_symptoms,16,26,2.06146978021978
+2,disease_on_drugs,22,12,1.4411764705882355

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,16,17,0.42858734402852017
+2,disease_on_drugs,23,28,0.1270551698940443

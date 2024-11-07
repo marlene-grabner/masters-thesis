@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.46609195402298864
+1,disease_on_symptoms,24,12,1.0
+2,disease_on_drugs,28,21,0.5943877551020409

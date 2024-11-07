@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,23,30,-0.13207547169811318
+1,disease_on_symptoms,23,20,0.04112740141557114
+2,disease_on_drugs,22,28,-0.09045454545454534

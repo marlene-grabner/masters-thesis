@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.0004926108374383453
+1,disease_on_symptoms,17,17,0.11764705882352966
+2,disease_on_drugs,27,18,0.1777777777777778

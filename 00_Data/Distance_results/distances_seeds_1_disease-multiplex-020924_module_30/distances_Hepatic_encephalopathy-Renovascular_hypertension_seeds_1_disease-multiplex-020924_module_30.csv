@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,9,21,0.07460317460317434
+1,disease_on_symptoms,27,22,2.818387961245104
+2,disease_on_drugs,9,20,0.875

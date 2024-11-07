@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.0009259259259257746
+1,disease_on_symptoms,17,20,0.8403020667726553
+2,disease_on_drugs,27,21,0.014880952380952328

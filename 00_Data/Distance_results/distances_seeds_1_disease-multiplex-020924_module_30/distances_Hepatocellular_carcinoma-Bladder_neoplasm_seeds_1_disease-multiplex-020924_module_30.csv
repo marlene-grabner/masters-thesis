@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,23,26,0.0993788819875776
+1,disease_on_symptoms,19,20,0.613731443994602
+2,disease_on_drugs,19,25,0.09090909090909083

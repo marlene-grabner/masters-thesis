@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,29,-0.15820802005012524
+1,disease_on_symptoms,19,11,0.7980861244019142
+2,disease_on_drugs,22,24,0.06274703557312278

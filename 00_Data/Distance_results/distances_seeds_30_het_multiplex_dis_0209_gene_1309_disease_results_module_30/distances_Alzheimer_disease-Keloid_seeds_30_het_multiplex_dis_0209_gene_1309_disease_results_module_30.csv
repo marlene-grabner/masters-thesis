@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Keloid nodes,sAB
+0,disease_on_genes,23,23,-0.15217391304347827
+1,disease_on_symptoms,19,17,0.8038355693154455
+2,disease_on_drugs,19,22,-0.024652818298517953

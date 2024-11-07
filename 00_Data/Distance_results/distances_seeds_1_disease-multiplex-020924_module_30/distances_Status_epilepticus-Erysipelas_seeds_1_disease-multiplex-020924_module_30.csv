@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,28,0.3330092472560713
+1,disease_on_symptoms,17,20,2.0701112877583463
+2,disease_on_drugs,30,27,0.894736842105263

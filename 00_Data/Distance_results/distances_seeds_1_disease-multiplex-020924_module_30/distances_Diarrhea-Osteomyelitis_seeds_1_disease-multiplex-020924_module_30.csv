@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,25,-0.19105413105413105
+1,disease_on_symptoms,19,23,0.6198648795902799
+2,disease_on_drugs,26,23,0.14137260255272666

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,27,25,-0.23230769230769233
+1,disease_on_symptoms,18,21,0.6156898656898657
+2,disease_on_drugs,22,24,-0.2611989459815548

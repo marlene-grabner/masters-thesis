@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,27,0.11890838206627685
+1,disease_on_symptoms,14,19,1.1683185235816813
+2,disease_on_drugs,27,20,0.27838849487785655

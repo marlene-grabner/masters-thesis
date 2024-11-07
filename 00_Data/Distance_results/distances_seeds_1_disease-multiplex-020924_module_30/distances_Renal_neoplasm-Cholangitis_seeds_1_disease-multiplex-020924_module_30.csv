@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Cholangitis nodes,sAB
+0,disease_on_genes,22,27,0.2000446643303786
+1,disease_on_symptoms,25,22,1.292649903288201
+2,disease_on_drugs,18,26,1.4318181818181817

@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.15701754385964906
+1,disease_on_symptoms,24,18,0.0813492063492065
+2,disease_on_drugs,25,25,-0.020000000000000018

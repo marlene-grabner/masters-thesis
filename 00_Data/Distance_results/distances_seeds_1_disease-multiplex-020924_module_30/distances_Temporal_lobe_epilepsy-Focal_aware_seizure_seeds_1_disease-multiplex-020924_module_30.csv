@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.7068965517241379
+1,disease_on_symptoms,17,15,-0.9715686274509805
+2,disease_on_drugs,26,29,-0.7465034965034965

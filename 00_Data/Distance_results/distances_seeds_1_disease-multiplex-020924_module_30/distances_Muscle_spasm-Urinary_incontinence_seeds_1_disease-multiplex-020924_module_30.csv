@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,25,26,0.09871794871794859
+1,disease_on_symptoms,23,20,0.6169110212335691
+2,disease_on_drugs,19,20,0.3076923076923077

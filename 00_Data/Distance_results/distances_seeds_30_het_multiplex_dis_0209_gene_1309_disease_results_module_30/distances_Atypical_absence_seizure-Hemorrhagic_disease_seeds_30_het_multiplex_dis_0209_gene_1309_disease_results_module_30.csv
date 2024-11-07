@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,0.0714285714285714
+1,disease_on_symptoms,13,19,0.7661943319838056
+2,disease_on_drugs,22,24,0.442687747035573

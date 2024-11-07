@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.11333333333333329
+1,disease_on_symptoms,15,23,0.523951182303585
+2,disease_on_drugs,26,17,0.20367252446595807

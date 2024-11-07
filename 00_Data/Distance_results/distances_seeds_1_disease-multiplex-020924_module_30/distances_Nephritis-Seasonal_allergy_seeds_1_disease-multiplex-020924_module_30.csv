@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,0.2530683810637053
+1,disease_on_symptoms,18,15,0.9580808080808079
+2,disease_on_drugs,27,29,0.4258803138113485

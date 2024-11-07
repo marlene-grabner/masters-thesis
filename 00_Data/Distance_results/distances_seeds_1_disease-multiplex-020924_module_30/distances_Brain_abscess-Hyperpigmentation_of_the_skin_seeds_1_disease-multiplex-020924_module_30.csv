@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,24,0.2053376906318083
+1,disease_on_symptoms,21,23,2.1767363071710895
+2,disease_on_drugs,23,12,0.5838509316770184

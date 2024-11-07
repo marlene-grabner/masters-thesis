@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,14,17,0.15783410138248843
+2,disease_on_drugs,24,24,0.06250000000000022

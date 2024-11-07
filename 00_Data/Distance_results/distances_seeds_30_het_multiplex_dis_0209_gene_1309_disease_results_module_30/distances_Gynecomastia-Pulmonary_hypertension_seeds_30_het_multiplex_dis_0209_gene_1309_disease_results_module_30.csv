@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.1724137931034483
+1,disease_on_symptoms,15,18,-0.2247474747474747
+2,disease_on_drugs,29,27,-0.10604816639299375

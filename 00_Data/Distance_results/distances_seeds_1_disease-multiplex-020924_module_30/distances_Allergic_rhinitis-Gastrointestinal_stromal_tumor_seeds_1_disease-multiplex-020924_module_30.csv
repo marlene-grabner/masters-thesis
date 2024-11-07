@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,21,23,0.20840391492565402
+1,disease_on_symptoms,22,20,0.9363636363636365
+2,disease_on_drugs,21,19,0.6571428571428573

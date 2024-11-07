@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,17,19,0.2573959408324733
+2,disease_on_drugs,17,30,0.09541093032957848

@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,16,13,-0.3969661803713527
+2,disease_on_drugs,27,24,-0.11043028322440085

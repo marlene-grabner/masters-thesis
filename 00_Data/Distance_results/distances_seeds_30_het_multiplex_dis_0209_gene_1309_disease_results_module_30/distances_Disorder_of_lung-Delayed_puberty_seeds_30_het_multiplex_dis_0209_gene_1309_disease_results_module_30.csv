@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,18,16,0.8929738562091505
+2,disease_on_drugs,24,29,-0.03224625894599864

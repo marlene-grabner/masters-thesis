@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666654
+1,disease_on_symptoms,19,22,0.12553973625860682
+2,disease_on_drugs,24,29,0.23837020169160694

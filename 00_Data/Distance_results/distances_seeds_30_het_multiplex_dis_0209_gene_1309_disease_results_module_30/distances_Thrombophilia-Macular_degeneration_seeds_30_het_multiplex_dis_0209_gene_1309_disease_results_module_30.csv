@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.28157894736842115
+1,disease_on_symptoms,18,17,0.7633520074696545
+2,disease_on_drugs,22,17,0.38883175647881507

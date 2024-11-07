@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.016270337922402955
+1,disease_on_symptoms,19,24,0.17837107303141542
+2,disease_on_drugs,25,16,0.3335060975609756

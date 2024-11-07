@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,13,20,0.8487762237762237
+2,disease_on_drugs,21,29,-0.07668308702791449

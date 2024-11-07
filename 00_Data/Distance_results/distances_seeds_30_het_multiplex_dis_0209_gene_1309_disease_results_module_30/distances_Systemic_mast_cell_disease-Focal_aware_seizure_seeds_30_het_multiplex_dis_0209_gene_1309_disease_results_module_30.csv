@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,0.13793103448275867
+1,disease_on_symptoms,25,16,0.8665243902439024
+2,disease_on_drugs,21,29,0.4099835796387521

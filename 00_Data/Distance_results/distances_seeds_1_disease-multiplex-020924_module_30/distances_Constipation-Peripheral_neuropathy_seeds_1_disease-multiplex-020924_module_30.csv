@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,20,-0.11096979332273449
+2,disease_on_drugs,27,24,0.2535403050108933

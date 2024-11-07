@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.2402777777777776
+1,disease_on_symptoms,17,19,1.1974544203646371
+2,disease_on_drugs,27,20,0.739992119779354

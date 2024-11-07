@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,-0.08446327683615817
+1,disease_on_symptoms,22,14,0.30555555555555536
+2,disease_on_drugs,27,22,-0.186456400742115

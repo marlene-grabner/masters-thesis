@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,23,18,0.3566336750324024
+1,disease_on_symptoms,24,28,1.1135531135531134
+2,disease_on_drugs,17,17,0.7647058823529411

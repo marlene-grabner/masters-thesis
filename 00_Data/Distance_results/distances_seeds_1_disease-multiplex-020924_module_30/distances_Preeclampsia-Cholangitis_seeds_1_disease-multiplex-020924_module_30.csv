@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,27,0.3221523410202656
+1,disease_on_symptoms,17,22,1.3121486356780474
+2,disease_on_drugs,23,26,0.9170363797692989

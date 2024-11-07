@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,18,30,0.3374999999999999
+1,disease_on_symptoms,18,15,0.7954545454545454
+2,disease_on_drugs,10,30,0.8500000000000001

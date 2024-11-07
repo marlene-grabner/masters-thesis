@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.2099816849816849
+1,disease_on_symptoms,28,16,1.102272727272727
+2,disease_on_drugs,23,23,0.8695652173913042

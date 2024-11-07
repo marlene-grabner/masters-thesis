@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Vitiligo nodes,sAB
+0,disease_on_genes,25,24,0.4671598639455783
+1,disease_on_symptoms,16,22,2.498205741626794
+2,disease_on_drugs,17,11,0.6134453781512605

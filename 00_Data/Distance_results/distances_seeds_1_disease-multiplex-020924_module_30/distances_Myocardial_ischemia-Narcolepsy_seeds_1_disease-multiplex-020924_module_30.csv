@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.3036363636363635
+1,disease_on_symptoms,13,21,1.9927817280758457
+2,disease_on_drugs,23,20,0.32838725985844297

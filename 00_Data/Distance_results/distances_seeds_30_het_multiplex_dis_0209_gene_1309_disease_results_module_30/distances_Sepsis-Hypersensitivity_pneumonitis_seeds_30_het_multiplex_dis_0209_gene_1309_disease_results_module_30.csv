@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,0.1287878787878789
+1,disease_on_symptoms,15,20,0.8964285714285714
+2,disease_on_drugs,25,25,0.30000000000000004

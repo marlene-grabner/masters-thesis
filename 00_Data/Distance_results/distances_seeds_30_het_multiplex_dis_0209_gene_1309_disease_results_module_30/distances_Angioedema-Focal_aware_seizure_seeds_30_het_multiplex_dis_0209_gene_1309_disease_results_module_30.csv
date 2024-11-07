@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,18,16,0.12540849673202614
+2,disease_on_drugs,26,29,-0.0015915119363396624

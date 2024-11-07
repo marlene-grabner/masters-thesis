@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,30,-0.0847555036041302
+1,disease_on_symptoms,20,18,0.34839181286549703
+2,disease_on_drugs,24,28,-0.07989926739926734

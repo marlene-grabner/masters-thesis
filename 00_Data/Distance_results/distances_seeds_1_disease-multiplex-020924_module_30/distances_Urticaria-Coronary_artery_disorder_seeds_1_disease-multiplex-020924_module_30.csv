@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,10,19,0.5943738656987296
+1,disease_on_symptoms,27,21,1.9437830687830686
+2,disease_on_drugs,9,17,0.8076923076923077

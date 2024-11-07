@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.08781676413255368
+1,disease_on_symptoms,21,19,0.29774436090225587
+2,disease_on_drugs,27,30,0.06803118908382078

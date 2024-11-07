@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.14639498432601883
+1,disease_on_symptoms,20,12,1.2208333333333332
+2,disease_on_drugs,24,18,0.16765873015873

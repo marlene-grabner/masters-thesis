@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,17,28,0.10109710550887008
+1,disease_on_symptoms,21,20,1.0383275261324043
+2,disease_on_drugs,14,28,0.5714285714285714

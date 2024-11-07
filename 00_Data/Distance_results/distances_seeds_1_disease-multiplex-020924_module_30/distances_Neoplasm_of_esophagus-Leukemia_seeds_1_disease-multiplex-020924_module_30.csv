@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Leukemia nodes,sAB
+0,disease_on_genes,21,18,-0.02564102564102566
+1,disease_on_symptoms,24,27,0.045070806100218075
+2,disease_on_drugs,20,17,0.021899841017487987

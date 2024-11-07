@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,20,22,0.24123376623376624
+1,disease_on_symptoms,23,19,1.147651738040754
+2,disease_on_drugs,18,19,0.4061166429587484

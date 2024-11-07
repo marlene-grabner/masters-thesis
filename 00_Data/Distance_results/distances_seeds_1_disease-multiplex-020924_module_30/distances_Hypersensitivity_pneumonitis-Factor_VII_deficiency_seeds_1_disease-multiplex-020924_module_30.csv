@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,24,25,0.3481632653061224
+1,disease_on_symptoms,23,23,1.5434782608695654
+2,disease_on_drugs,24,21,1.0412698412698413

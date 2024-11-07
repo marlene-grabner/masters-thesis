@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.19094017094017102
+1,disease_on_symptoms,22,20,0.7715367965367963
+2,disease_on_drugs,20,22,0.018939393939394034

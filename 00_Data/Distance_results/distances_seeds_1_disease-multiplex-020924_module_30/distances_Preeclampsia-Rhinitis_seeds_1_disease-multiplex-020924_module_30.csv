@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.16547619047619055
+1,disease_on_symptoms,17,15,0.9091911764705882
+2,disease_on_drugs,23,22,0.40048309178743957

@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Uveitis nodes,sAB
+0,disease_on_genes,23,30,0.04976689976689963
+1,disease_on_symptoms,18,21,1.0323565323565322
+2,disease_on_drugs,18,27,0.35925925925925917

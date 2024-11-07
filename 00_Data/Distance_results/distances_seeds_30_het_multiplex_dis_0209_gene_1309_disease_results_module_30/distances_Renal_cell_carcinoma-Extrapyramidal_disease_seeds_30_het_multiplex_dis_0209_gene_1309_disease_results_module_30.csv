@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,27,30,-0.08869395711500982
+1,disease_on_symptoms,22,18,1.459090909090909
+2,disease_on_drugs,22,25,0.2826305609284332

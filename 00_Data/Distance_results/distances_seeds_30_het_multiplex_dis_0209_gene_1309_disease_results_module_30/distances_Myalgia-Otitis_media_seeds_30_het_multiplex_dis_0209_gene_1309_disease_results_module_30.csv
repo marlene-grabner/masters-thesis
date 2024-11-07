@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.08503798947983632
+1,disease_on_symptoms,16,20,0.5076388888888888
+2,disease_on_drugs,29,28,-0.018224440411373388

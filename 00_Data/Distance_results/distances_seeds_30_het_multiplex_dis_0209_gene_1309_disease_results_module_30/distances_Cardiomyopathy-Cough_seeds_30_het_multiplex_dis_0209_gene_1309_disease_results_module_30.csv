@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,0.05615384615384622
+1,disease_on_symptoms,21,22,0.1585875364945133
+2,disease_on_drugs,24,24,0.375

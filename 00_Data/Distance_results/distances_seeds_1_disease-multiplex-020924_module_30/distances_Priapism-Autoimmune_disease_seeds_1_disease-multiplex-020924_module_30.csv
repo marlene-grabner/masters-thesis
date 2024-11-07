@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.2026806526806526
+1,disease_on_symptoms,17,19,1.887512899896801
+2,disease_on_drugs,28,19,0.26053831386978077

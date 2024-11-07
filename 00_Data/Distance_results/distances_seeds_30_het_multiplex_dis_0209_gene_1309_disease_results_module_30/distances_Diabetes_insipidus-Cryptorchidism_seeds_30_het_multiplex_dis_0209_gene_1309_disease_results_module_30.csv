@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,26,23,-0.36750051191044986
+1,disease_on_symptoms,20,19,-0.22462887989203772
+2,disease_on_drugs,20,21,-0.5856562137049942

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Dysuria nodes,sAB
+0,disease_on_genes,27,30,-0.24561403508771928
+1,disease_on_symptoms,17,12,0.19489519945909395
+2,disease_on_drugs,24,21,-0.23690476190476173

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,24,30,-0.0337962962962961
+1,disease_on_symptoms,20,17,0.6126788553259142
+2,disease_on_drugs,22,26,0.14393939393939403

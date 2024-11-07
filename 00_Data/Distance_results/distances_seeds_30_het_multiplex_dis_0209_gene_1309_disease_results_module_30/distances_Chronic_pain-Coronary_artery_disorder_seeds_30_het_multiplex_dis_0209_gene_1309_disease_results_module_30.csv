@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.11387749521465684
+1,disease_on_symptoms,19,19,1.394736842105263
+2,disease_on_drugs,28,22,0.0533766233766233

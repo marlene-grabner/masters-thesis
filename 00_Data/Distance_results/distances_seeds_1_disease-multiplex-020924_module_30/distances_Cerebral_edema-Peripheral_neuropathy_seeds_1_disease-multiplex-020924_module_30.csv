@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,9,20,0.6237547892720308
+2,disease_on_drugs,11,24,0.6843073593073594

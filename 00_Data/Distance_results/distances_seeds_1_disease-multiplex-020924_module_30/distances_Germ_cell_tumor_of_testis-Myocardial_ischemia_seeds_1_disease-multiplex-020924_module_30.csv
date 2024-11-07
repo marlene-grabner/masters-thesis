@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.33333333333333326
+1,disease_on_symptoms,23,13,1.8193050910442214
+2,disease_on_drugs,20,23,0.8185035389282105

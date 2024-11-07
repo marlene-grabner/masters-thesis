@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.05239267158873395
+1,disease_on_symptoms,14,25,1.0186080586080586
+2,disease_on_drugs,29,22,0.3631907308377895

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.0009746588693957392
+1,disease_on_symptoms,15,14,1.3818555008210178
+2,disease_on_drugs,29,26,0.22255847600675183

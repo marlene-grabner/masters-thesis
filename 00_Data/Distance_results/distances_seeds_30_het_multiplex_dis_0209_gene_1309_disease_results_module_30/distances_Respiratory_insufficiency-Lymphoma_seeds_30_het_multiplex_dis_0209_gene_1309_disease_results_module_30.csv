@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,0.07547169811320753
+1,disease_on_symptoms,21,20,0.9501742160278748
+2,disease_on_drugs,25,24,0.1864625850340138

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,0.0185185185185186
+1,disease_on_symptoms,20,18,0.8309941520467836
+2,disease_on_drugs,25,24,0.08034013605442158

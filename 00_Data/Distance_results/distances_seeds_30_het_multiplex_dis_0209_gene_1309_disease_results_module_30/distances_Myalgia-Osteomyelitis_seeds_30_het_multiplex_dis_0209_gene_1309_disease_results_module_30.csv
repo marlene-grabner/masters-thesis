@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,16,22,-0.21007775119617222
+2,disease_on_drugs,29,28,-0.14040489153919267

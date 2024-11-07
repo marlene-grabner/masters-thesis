@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,-0.1238095238095237
+1,disease_on_symptoms,16,17,-0.020053475935828846
+2,disease_on_drugs,25,17,-0.19624649859943988

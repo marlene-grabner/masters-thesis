@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,28,25,0.3505660377358488
+1,disease_on_symptoms,21,13,2.277526395173454
+2,disease_on_drugs,21,16,0.6525498712998712

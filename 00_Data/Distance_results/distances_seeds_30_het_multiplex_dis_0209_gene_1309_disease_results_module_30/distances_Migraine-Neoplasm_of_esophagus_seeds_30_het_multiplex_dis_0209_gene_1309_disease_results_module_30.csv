@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,30,29,-0.10198714202220915
+1,disease_on_symptoms,12,20,0.4583333333333335
+2,disease_on_drugs,29,25,0.20881226053639823

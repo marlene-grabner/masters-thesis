@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.13784893267651888
+1,disease_on_symptoms,26,25,-0.2378129713423831
+2,disease_on_drugs,28,23,0.28772378516624064

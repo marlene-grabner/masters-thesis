@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,-0.16276803118908378
+1,disease_on_symptoms,19,22,0.30280662854475415
+2,disease_on_drugs,26,28,-0.018569393569393577

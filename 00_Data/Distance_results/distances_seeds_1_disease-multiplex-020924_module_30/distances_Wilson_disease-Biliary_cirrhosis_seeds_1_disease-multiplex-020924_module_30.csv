@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.48314108251996446
+1,disease_on_symptoms,19,15,1.8718266253869968
+2,disease_on_drugs,11,15,1.2794871794871796

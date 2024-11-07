@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,21,23,0.32006399397703755
+1,disease_on_symptoms,20,21,1.4150406504065043
+2,disease_on_drugs,19,19,0.9473684210526316

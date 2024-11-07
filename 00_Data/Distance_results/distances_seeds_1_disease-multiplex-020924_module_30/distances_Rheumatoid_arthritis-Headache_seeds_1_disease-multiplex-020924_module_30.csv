@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Headache nodes,sAB
+0,disease_on_genes,27,30,0.1207602339181284
+1,disease_on_symptoms,15,25,1.4933333333333332
+2,disease_on_drugs,25,26,0.3921417797888387

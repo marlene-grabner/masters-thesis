@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,27,30,0.05165692007797262
+1,disease_on_symptoms,21,16,0.921935328185328
+2,disease_on_drugs,27,28,0.41813371813371814

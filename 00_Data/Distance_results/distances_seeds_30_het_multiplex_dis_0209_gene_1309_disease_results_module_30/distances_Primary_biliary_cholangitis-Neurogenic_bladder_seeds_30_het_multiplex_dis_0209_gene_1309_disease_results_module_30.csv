@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,0.0535714285714286
+1,disease_on_symptoms,23,18,0.18569577000117832
+2,disease_on_drugs,26,21,0.014846855272387272

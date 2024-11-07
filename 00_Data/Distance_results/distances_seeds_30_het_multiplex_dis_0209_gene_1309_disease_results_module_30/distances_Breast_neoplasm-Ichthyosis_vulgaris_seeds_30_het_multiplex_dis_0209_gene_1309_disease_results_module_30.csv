@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,20,21,0.5576945412311267
+2,disease_on_drugs,30,24,0.1967592592592593

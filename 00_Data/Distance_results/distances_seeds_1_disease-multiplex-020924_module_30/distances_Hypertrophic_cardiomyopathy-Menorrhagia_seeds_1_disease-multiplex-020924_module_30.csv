@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,30,26,0.28397435897435885
+1,disease_on_symptoms,17,19,1.990970072239422
+2,disease_on_drugs,17,24,0.613313008130081

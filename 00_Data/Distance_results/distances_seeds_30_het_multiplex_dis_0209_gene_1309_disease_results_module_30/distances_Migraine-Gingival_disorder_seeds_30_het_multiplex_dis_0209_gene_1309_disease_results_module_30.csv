@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,12,19,0.5850311262026033
+2,disease_on_drugs,29,24,0.08315712426805444

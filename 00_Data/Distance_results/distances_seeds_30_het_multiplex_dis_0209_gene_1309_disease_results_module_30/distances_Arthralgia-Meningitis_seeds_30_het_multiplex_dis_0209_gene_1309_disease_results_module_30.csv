@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.30508474576271183
+1,disease_on_symptoms,17,17,-0.44117647058823506
+2,disease_on_drugs,30,27,-0.3375243664717349

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.26096618357487933
+1,disease_on_symptoms,19,15,1.028173374613003
+2,disease_on_drugs,19,26,0.894871794871795

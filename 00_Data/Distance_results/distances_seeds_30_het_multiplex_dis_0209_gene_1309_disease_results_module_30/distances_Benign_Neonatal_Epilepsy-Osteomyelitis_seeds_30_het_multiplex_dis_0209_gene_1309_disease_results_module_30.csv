@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.3500000000000001
+1,disease_on_symptoms,16,22,1.2603169856459329
+2,disease_on_drugs,21,28,0.4549319727891157

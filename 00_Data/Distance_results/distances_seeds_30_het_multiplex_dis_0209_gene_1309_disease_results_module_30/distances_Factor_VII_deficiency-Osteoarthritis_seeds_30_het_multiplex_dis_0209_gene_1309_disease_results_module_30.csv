@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,28,26,-0.09335571835571843
+1,disease_on_symptoms,19,22,0.6498716302952501
+2,disease_on_drugs,25,25,0.19999999999999996

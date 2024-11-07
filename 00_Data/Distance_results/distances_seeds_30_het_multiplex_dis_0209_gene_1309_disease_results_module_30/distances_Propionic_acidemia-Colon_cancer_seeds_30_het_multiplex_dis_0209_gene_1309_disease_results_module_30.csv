@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,-0.1785714285714286
+1,disease_on_symptoms,16,22,-0.38471889952153093
+2,disease_on_drugs,30,26,-0.036813186813186904

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,-0.11864406779661019
+1,disease_on_symptoms,19,16,0.3051221804511277
+2,disease_on_drugs,29,28,0.17538458214501773

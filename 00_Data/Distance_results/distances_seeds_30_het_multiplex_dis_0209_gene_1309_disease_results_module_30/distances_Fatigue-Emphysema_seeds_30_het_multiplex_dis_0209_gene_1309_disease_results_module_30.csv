@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Emphysema nodes,sAB
+0,disease_on_genes,26,30,-0.20054945054945061
+1,disease_on_symptoms,16,18,1.2181372549019605
+2,disease_on_drugs,26,27,-0.20976455410417683

@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,-0.14224137931034475
+1,disease_on_symptoms,21,20,0.3934668989547039
+2,disease_on_drugs,25,28,-0.0763207547169813

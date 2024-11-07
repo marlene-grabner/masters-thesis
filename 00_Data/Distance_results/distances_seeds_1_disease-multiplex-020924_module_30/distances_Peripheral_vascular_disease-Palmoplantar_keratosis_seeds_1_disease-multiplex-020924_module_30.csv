@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,23,26,0.3797692990239572
+1,disease_on_symptoms,16,19,1.8549342105263158
+2,disease_on_drugs,22,18,0.8972222222222224

@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,20,0.13630952380952377
+1,disease_on_symptoms,17,24,0.41299019607843146
+2,disease_on_drugs,25,18,0.47028423772609806

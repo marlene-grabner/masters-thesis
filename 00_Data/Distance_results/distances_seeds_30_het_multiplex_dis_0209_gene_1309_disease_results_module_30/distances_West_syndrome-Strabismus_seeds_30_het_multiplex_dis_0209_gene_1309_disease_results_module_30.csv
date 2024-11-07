@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.12265331664580725
+1,disease_on_symptoms,13,24,0.27906271656271664
+2,disease_on_drugs,19,16,-0.1472274436090224

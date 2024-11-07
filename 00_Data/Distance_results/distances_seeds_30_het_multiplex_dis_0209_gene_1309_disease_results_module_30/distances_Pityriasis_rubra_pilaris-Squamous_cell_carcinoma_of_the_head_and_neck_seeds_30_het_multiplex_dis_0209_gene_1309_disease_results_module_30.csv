@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,30,-0.14054580896686164
+1,disease_on_symptoms,21,22,0.18305144467935142
+2,disease_on_drugs,25,30,0.0009090909090907484

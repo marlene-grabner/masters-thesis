@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.1636363636363637
+1,disease_on_symptoms,22,13,0.7345654345654344
+2,disease_on_drugs,26,28,0.019637769637769864

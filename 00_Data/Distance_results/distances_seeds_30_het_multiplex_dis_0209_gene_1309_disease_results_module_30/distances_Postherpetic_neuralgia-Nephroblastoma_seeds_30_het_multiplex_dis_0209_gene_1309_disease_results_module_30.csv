@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,29,-0.03419053185271759
+1,disease_on_symptoms,16,20,0.32499999999999996
+2,disease_on_drugs,29,24,0.02137551507265223

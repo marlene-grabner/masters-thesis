@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,-0.12378167641325544
+1,disease_on_symptoms,19,16,0.08289473684210535
+2,disease_on_drugs,24,28,0.04281135531135538

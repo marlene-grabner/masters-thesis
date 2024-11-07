@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,23,30,0.4704675963904841
+1,disease_on_symptoms,24,12,2.1805555555555554
+2,disease_on_drugs,17,22,1.051282051282051

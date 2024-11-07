@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,16,0.7351270053475933
+2,disease_on_drugs,24,21,0.31488095238095215

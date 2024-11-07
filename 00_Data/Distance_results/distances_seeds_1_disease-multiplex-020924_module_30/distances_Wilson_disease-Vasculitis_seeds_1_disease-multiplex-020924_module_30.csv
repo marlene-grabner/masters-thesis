@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,24,0.16834335491828534
+1,disease_on_symptoms,19,19,1.710526315789474
+2,disease_on_drugs,11,20,0.982258064516129

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.16908563134978238
+1,disease_on_symptoms,18,14,1.2018849206349207
+2,disease_on_drugs,23,13,0.25

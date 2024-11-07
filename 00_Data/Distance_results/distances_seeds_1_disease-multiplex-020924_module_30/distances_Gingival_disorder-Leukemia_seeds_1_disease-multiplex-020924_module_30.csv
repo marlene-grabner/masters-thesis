@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Leukemia nodes,sAB
+0,disease_on_genes,21,18,0.10805860805860812
+1,disease_on_symptoms,26,27,0.7005052948449175
+2,disease_on_drugs,20,17,0.37122416534181224

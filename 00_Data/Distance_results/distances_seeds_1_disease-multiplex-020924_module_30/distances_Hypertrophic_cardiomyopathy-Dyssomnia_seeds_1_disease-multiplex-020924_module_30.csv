@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.36250000000000004
+1,disease_on_symptoms,17,21,3.1920978917882947
+2,disease_on_drugs,17,17,0.7647058823529411

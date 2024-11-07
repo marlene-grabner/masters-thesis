@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,0.06920077972709548
+1,disease_on_symptoms,17,14,0.4412442396313363
+2,disease_on_drugs,24,25,0.019846938775510026

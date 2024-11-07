@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.13090909090909097
+1,disease_on_symptoms,20,21,0.5366144018583043
+2,disease_on_drugs,27,24,0.15305010893246185

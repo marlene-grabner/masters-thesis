@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,-0.10909090909090913
+1,disease_on_symptoms,22,25,0.20470019342359747
+2,disease_on_drugs,26,21,-0.16047073493882003

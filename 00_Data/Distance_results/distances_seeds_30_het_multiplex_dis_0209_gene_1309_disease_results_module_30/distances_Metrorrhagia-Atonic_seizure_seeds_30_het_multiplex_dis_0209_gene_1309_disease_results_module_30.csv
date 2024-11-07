@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,29,30,0.12280701754385959
+1,disease_on_symptoms,17,15,0.9596813725490199
+2,disease_on_drugs,26,23,0.14444406525151865

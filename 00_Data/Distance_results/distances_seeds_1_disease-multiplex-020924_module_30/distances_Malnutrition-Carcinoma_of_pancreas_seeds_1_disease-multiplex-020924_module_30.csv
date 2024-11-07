@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,23,0.1656200941915229
+1,disease_on_symptoms,18,25,1.3256847545219637
+2,disease_on_drugs,23,21,0.9318181818181819

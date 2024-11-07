@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,29,30,0.05084745762711873
+1,disease_on_symptoms,14,24,0.17214912280701755
+2,disease_on_drugs,22,20,0.15248917748917723

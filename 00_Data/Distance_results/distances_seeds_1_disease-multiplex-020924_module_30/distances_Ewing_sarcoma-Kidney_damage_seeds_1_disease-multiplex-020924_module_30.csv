@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.40568181818181803
+1,disease_on_symptoms,25,26,1.5085218702865764
+2,disease_on_drugs,17,13,0.6743589743589744

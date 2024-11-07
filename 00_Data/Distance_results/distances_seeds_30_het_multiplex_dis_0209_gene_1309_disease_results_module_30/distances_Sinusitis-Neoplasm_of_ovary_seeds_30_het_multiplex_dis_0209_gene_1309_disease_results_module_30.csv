@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,29,30,0.08502824858757063
+1,disease_on_symptoms,20,22,0.5778138528138528
+2,disease_on_drugs,27,29,0.55277321656632

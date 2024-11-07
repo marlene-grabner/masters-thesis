@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,25,25,0.05999999999999983
+1,disease_on_symptoms,19,23,-0.025498528931023
+2,disease_on_drugs,18,23,0.1970366442794862

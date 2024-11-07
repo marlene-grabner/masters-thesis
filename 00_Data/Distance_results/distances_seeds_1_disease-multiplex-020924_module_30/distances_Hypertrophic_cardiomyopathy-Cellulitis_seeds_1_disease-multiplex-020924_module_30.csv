@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.46246498599439767
+1,disease_on_symptoms,17,26,1.1405871829948437
+2,disease_on_drugs,17,12,1.0

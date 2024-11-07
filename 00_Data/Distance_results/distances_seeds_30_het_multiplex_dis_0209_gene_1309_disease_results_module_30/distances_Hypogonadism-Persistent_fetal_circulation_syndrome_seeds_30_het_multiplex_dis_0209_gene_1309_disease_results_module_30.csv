@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.12962962962962965
+1,disease_on_symptoms,17,22,0.7376936788701496
+2,disease_on_drugs,29,21,-0.039737274220032814

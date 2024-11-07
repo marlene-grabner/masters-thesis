@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,27,27,-0.2407407407407408
+1,disease_on_symptoms,18,18,0.6944444444444444
+2,disease_on_drugs,25,24,-0.20331632653061238

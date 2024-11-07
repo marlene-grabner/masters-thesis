@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,15,29,0.5634273772204808
+1,disease_on_symptoms,27,16,1.7708333333333335
+2,disease_on_drugs,13,22,1.1428571428571428

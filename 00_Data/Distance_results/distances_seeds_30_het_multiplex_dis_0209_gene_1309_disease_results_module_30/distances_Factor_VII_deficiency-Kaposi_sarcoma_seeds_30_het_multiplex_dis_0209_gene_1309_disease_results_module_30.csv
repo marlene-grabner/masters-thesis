@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,30,0.08559113300492616
+1,disease_on_symptoms,19,16,1.1422932330827067
+2,disease_on_drugs,25,28,0.5329919137466308

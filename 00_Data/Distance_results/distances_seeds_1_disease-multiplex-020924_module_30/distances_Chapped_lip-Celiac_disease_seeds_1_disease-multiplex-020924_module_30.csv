@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,17,0.2900136798905608
+1,disease_on_symptoms,21,22,3.206533776301218
+2,disease_on_drugs,24,15,0.47948717948717956

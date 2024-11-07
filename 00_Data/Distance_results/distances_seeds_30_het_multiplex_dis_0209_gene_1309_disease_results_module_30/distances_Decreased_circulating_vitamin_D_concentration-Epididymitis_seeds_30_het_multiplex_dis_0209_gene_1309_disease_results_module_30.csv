@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Epididymitis nodes,sAB
+0,disease_on_genes,25,29,-0.09259259259259256
+1,disease_on_symptoms,13,23,0.7391304347826086
+2,disease_on_drugs,21,26,0.1698230847167017

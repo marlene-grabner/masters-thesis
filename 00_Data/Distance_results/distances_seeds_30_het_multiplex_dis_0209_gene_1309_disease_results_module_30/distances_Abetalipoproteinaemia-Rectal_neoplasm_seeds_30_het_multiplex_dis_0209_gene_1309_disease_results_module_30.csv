@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,14,30,-0.12056277056277065
+1,disease_on_symptoms,26,20,-0.20777591973244158
+2,disease_on_drugs,14,29,0.1106369572688739

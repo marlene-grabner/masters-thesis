@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,29,29,-0.03448275862068961
+1,disease_on_symptoms,18,27,0.2592592592592593
+2,disease_on_drugs,29,28,-0.12377927577564574

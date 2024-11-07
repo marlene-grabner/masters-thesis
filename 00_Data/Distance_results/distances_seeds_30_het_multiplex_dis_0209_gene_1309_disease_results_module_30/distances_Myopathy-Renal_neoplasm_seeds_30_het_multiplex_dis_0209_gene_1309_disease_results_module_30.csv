@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,23,29,-0.13461538461538458
+1,disease_on_symptoms,22,20,0.7853896103896103
+2,disease_on_drugs,21,28,-0.058673469387755084

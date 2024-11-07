@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,22,16,-0.15834330143540654
+2,disease_on_drugs,30,28,-0.2801724137931034

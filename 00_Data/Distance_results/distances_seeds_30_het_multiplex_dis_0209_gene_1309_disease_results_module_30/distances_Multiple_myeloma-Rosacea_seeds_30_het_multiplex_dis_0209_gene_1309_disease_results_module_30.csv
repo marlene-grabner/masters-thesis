@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,-0.1238095238095237
+1,disease_on_symptoms,21,18,0.3928571428571428
+2,disease_on_drugs,25,30,-0.046060606060606135

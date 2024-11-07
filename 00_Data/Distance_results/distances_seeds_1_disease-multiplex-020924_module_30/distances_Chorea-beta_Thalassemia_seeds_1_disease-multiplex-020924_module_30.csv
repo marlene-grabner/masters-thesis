@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,14,22,0.5627705627705628
+1,disease_on_symptoms,27,21,3.16765873015873
+2,disease_on_drugs,8,6,1.342261904761905

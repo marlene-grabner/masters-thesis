@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,30,-0.13793103448275867
+1,disease_on_symptoms,18,17,-0.2176937441643323
+2,disease_on_drugs,23,29,-0.23396955368469619

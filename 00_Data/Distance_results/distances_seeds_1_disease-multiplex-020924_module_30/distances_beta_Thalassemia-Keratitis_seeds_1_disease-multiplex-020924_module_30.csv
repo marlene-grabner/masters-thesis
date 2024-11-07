@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Keratitis nodes,sAB
+0,disease_on_genes,22,28,0.336103896103896
+1,disease_on_symptoms,21,25,2.981946169772257
+2,disease_on_drugs,6,23,0.31984007996002006

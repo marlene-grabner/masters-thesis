@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.18333333333333335
+1,disease_on_symptoms,17,15,0.7602941176470588
+2,disease_on_drugs,25,22,0.6182978723404255

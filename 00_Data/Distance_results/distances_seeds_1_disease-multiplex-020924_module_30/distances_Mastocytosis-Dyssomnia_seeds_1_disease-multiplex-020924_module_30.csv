@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,18,18,0.11111111111111116
+1,disease_on_symptoms,28,21,3.062074829931973
+2,disease_on_drugs,17,17,0.5588235294117647

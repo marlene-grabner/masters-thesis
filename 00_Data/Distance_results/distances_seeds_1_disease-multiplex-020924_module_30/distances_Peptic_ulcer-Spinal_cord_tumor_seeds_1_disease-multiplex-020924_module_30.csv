@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,28,22,0.01376623376623387
+1,disease_on_symptoms,14,22,0.7864357864357865
+2,disease_on_drugs,28,14,0.5357142857142856

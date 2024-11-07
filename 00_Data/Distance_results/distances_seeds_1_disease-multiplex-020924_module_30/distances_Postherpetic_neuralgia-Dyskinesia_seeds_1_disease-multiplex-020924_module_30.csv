@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,-0.03750000000000009
+1,disease_on_symptoms,15,17,-0.3009803921568628
+2,disease_on_drugs,29,23,0.04045092838196296

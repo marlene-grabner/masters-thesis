@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,24,26,0.020000000000000018
+1,disease_on_symptoms,23,20,0.8049292214357939
+2,disease_on_drugs,22,25,0.25624758220502897

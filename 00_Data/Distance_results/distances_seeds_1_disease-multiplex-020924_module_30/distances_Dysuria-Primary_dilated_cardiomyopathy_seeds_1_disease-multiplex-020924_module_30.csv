@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.5902980713033312
+1,disease_on_symptoms,16,25,1.7113719512195122
+2,disease_on_drugs,23,7,0.9068322981366461

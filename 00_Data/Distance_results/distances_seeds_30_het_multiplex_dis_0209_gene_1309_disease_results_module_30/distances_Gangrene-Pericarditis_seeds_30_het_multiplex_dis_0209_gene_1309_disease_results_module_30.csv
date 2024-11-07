@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,-0.24528301886792447
+1,disease_on_symptoms,22,21,-0.18430987617034122
+2,disease_on_drugs,27,26,-0.07629145836693008

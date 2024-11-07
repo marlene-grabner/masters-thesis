@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,0.05687830687830697
+1,disease_on_symptoms,19,20,0.8946018893387317
+2,disease_on_drugs,23,27,0.3582608695652172

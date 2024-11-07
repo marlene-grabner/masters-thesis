@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.020787545787545936
+1,disease_on_symptoms,20,16,0.8777777777777778
+2,disease_on_drugs,30,26,0.1733516483516484

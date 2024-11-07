@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,18,19,-0.4352378694483956
+2,disease_on_drugs,28,30,-0.3499178981937602

@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Orchitis nodes,sAB
+0,disease_on_genes,27,25,0.03917378917378911
+1,disease_on_symptoms,22,19,0.7544054148675456
+2,disease_on_drugs,22,25,0.28135396518375244

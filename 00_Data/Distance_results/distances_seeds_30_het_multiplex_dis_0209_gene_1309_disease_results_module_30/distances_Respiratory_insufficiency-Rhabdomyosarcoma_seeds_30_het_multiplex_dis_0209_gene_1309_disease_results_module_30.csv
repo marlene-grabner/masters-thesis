@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,27,29,-0.1071428571428571
+1,disease_on_symptoms,21,19,0.7310150375939852
+2,disease_on_drugs,25,29,0.19379310344827605

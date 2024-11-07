@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,18,17,0.8476657329598507
+2,disease_on_drugs,22,30,-0.008857808857808847

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,17,13,0.0357466063348415
+2,disease_on_drugs,28,19,-0.2515397536394176

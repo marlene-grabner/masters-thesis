@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.1577972709551656
+1,disease_on_symptoms,20,21,0.8574622531939604
+2,disease_on_drugs,30,24,0.5921296296296295

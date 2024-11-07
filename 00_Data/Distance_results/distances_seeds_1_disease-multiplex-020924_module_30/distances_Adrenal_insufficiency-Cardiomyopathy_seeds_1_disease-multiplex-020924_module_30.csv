@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,17,25,0.09165266106442571
+1,disease_on_symptoms,21,17,0.9889429455992924
+2,disease_on_drugs,14,24,0.5372807017543861

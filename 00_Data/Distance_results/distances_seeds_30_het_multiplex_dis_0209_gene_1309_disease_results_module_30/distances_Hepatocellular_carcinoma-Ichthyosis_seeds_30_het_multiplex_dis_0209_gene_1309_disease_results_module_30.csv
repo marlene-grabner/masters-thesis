@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,24,28,-0.05631868131868123
+1,disease_on_symptoms,23,18,0.8931012136208318
+2,disease_on_drugs,22,25,0.2136943907156672

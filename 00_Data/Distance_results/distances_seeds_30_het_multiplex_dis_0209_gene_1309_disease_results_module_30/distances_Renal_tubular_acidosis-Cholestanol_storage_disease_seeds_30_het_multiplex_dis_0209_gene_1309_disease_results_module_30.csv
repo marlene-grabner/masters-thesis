@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.15283459964932777
+1,disease_on_symptoms,14,18,0.03472222222222232
+2,disease_on_drugs,27,28,-0.03946608946608943

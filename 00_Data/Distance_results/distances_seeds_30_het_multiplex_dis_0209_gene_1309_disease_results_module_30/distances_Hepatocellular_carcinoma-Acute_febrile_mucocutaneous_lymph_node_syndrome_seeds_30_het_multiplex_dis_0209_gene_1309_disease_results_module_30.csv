@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,24,30,-0.2759259259259259
+1,disease_on_symptoms,23,13,0.18896321070234112
+2,disease_on_drugs,22,28,-0.27474025974025984

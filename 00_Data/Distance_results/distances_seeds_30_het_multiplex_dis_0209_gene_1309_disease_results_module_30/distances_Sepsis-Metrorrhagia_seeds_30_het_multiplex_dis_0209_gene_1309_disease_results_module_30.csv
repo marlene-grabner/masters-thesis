@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,0.0008771929824562541
+1,disease_on_symptoms,15,17,0.4492647058823529
+2,disease_on_drugs,25,26,0.09871794871794859

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,29,-0.1071428571428571
+1,disease_on_symptoms,16,11,0.17624158249158262
+2,disease_on_drugs,23,24,0.0877659574468086

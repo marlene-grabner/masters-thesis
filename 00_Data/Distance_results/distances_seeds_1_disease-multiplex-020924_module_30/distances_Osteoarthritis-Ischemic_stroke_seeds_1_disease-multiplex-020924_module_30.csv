@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,25,30,0.23606060606060608
+1,disease_on_symptoms,20,16,1.6333333333333335
+2,disease_on_drugs,21,23,0.48122529644268774

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,17,28,0.3320494864612511
+1,disease_on_symptoms,22,19,2.2772785622593066
+2,disease_on_drugs,15,26,0.7279237023139462

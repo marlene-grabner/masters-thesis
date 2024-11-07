@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,30,0.051683087027914576
+1,disease_on_symptoms,19,25,0.9815789473684209
+2,disease_on_drugs,25,29,0.4795913154533846

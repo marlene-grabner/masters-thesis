@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,25,26,-0.13650075414781282
+1,disease_on_symptoms,13,22,1.1642857142857141
+2,disease_on_drugs,21,25,0.04008281573498951

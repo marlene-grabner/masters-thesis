@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.21818181818181803
+1,disease_on_symptoms,17,26,0.8797485004735348
+2,disease_on_drugs,23,13,0.7424749163879598

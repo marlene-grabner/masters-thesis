@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,24,27,-0.0319989106753813
+1,disease_on_symptoms,22,27,1.0851542637256926
+2,disease_on_drugs,11,26,-0.0654885654885653

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,-0.31038587848932686
+1,disease_on_symptoms,14,17,-1.0448631065329357
+2,disease_on_drugs,24,25,-0.3065476190476192

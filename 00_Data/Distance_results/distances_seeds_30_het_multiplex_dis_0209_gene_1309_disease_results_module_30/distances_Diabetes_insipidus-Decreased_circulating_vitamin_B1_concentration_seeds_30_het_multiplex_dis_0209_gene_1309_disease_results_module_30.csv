@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,30,-0.19780219780219777
+1,disease_on_symptoms,20,17,-0.33871224165341807
+2,disease_on_drugs,20,25,-0.25888888888888895

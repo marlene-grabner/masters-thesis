@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,24,23,-0.276595744680851
+1,disease_on_symptoms,23,23,0.17391304347826098
+2,disease_on_drugs,22,22,-0.2499999999999999

@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,-0.038461538461538436
+1,disease_on_symptoms,21,21,1.0
+2,disease_on_drugs,26,21,0.2234237393811862

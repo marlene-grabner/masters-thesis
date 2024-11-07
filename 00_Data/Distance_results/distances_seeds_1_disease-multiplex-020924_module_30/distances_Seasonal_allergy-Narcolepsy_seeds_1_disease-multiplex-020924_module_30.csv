@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,29,25,-0.18452107279693508
+1,disease_on_symptoms,15,21,-0.6515873015873017
+2,disease_on_drugs,29,20,-0.1442821956368755

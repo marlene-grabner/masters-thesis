@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,29,12,0.3729674796747968
+1,disease_on_symptoms,18,27,1.0574074074074071
+2,disease_on_drugs,30,9,0.7696581196581196

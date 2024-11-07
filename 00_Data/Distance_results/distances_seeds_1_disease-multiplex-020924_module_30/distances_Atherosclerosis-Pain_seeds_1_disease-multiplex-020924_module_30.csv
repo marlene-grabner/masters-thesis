@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.22939560439560447
+1,disease_on_symptoms,13,21,0.4686489980607629
+2,disease_on_drugs,29,26,0.1807692307692308

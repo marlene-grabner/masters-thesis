@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.11388888888888893
+1,disease_on_symptoms,20,20,1.625
+2,disease_on_drugs,29,21,0.3978981937602626

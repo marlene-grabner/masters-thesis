@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,29,22,0.21805273833671412
+1,disease_on_symptoms,20,21,1.072677119628339
+2,disease_on_drugs,24,17,0.3606229076996652

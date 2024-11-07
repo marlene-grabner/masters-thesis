@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,0.05476190476190479
+1,disease_on_symptoms,17,19,0.35973512211902303
+2,disease_on_drugs,27,23,0.37974235104669884

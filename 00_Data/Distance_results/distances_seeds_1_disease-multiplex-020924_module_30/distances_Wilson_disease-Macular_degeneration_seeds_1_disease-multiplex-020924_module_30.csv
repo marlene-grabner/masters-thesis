@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,23,30,0.19539239814055231
+1,disease_on_symptoms,19,15,0.14045407636738916
+2,disease_on_drugs,11,21,0.007440476190476275

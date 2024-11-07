@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,0.1890152126001181
+1,disease_on_symptoms,17,20,0.4784976152623215
+2,disease_on_drugs,18,25,0.019379844961240567

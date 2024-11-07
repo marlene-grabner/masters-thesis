@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.23532950505879136
+1,disease_on_symptoms,14,19,1.785144679881522
+2,disease_on_drugs,29,11,0.9750000000000001

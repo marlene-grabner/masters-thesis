@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Malnutrition nodes,sAB
+0,disease_on_genes,26,30,-0.25137362637362626
+1,disease_on_symptoms,20,14,-0.20630252100840352
+2,disease_on_drugs,20,29,-0.25140745953553845

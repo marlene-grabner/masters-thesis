@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.01599671862182106
+1,disease_on_symptoms,15,19,0.640144478844169
+2,disease_on_drugs,25,22,0.10823984526112174

@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,0.019056261343012748
+1,disease_on_symptoms,21,22,0.43833685694150804
+2,disease_on_drugs,21,29,0.02065681444991796

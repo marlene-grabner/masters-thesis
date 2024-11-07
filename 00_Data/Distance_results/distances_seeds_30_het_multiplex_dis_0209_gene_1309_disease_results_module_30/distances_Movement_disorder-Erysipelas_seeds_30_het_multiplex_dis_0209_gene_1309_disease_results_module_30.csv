@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,18,-0.034313725490195957
+2,disease_on_drugs,26,29,-0.13244514106583072

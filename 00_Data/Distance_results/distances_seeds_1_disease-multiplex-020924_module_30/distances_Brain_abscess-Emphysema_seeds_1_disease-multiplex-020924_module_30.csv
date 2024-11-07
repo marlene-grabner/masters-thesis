@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Emphysema nodes,sAB
+0,disease_on_genes,27,30,0.08469785575048738
+1,disease_on_symptoms,21,14,0.49285714285714266
+2,disease_on_drugs,23,29,0.523411371237458

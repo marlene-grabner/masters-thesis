@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,2.220446049250313e-16
+1,disease_on_symptoms,14,21,0.5476190476190474
+2,disease_on_drugs,29,29,0.5517241379310347

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,20,0.11951510333863258
+2,disease_on_drugs,26,28,0.01388888888888884

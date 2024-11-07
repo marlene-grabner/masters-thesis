@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,23,18,0.00435960881347941
+2,disease_on_drugs,29,28,0.01687408175611438

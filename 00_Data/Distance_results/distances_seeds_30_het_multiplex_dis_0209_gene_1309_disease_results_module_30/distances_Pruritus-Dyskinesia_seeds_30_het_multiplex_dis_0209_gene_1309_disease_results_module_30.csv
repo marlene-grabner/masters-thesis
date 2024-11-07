@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,30,-0.05360623781676421
+1,disease_on_symptoms,21,15,1.6880952380952379
+2,disease_on_drugs,27,28,0.3807960557960557

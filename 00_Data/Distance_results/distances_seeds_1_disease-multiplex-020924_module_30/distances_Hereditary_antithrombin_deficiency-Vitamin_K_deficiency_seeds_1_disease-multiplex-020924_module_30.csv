@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,28,25,0.11260107816711584
+1,disease_on_symptoms,15,23,2.3725400457665904
+2,disease_on_drugs,20,20,0.6749999999999998

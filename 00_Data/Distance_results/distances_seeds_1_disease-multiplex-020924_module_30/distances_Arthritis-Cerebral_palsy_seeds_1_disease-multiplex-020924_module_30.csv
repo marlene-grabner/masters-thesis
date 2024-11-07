@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,0.3606237816764133
+1,disease_on_symptoms,19,16,1.4416353383458647
+2,disease_on_drugs,29,18,0.6078503301540719

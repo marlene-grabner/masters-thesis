@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,26,27,-0.24564586357039175
+1,disease_on_symptoms,20,21,0.14407665505226497
+2,disease_on_drugs,20,25,-0.29222222222222216

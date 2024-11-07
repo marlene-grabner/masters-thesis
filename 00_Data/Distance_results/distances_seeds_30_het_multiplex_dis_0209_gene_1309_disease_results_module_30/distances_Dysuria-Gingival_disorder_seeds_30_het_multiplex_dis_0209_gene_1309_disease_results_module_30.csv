@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,12,19,0.7785795132993778
+2,disease_on_drugs,21,24,0.15059523809523823

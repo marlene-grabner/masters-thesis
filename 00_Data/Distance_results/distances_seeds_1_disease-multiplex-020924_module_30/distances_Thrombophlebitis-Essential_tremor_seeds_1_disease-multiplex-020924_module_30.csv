@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.04591836734693899
+1,disease_on_symptoms,15,20,1.7726190476190478
+2,disease_on_drugs,21,19,0.273684210526316

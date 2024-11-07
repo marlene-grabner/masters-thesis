@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,26,-0.15384615384615385
+1,disease_on_symptoms,17,22,0.4302413273001511
+2,disease_on_drugs,24,25,-0.0013435374149659562

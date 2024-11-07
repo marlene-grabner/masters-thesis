@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,18,27,0.6574074074074074
+1,disease_on_symptoms,18,16,3.8394607843137254
+2,disease_on_drugs,10,18,0.6857142857142855

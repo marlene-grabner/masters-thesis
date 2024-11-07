@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.05555555555555558
+1,disease_on_symptoms,22,21,0.6485704218262356
+2,disease_on_drugs,30,24,0.006944444444444642

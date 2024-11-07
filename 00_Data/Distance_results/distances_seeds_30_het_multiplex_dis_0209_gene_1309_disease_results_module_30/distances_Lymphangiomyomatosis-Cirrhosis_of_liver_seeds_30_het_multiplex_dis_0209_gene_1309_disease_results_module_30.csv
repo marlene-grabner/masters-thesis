@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,-0.14423076923076916
+1,disease_on_symptoms,17,19,0.08746130030959742
+2,disease_on_drugs,24,30,-0.008796296296296191

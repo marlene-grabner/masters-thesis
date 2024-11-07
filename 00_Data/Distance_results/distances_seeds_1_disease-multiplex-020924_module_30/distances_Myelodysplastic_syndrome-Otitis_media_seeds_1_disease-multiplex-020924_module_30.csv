@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.22288401253918488
+1,disease_on_symptoms,15,22,1.1713349713349714
+2,disease_on_drugs,21,29,0.8968472906403941

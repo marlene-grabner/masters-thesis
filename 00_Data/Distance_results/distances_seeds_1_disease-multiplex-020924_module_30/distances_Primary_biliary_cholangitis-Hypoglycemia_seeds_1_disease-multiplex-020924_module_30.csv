@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,0.5521978021978022
+1,disease_on_symptoms,17,12,1.1103786342123056
+2,disease_on_drugs,18,22,0.9333333333333336

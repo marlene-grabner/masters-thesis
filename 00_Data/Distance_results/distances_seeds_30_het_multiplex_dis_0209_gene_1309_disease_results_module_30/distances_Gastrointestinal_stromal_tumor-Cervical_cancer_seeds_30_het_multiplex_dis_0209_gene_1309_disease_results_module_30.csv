@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,-0.017241379310344862
+1,disease_on_symptoms,19,22,0.15830318590267245
+2,disease_on_drugs,28,15,0.2898117386489478

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,21,0.15037593984962405
+2,disease_on_drugs,26,30,0.2312271062271063

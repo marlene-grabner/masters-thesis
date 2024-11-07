@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,20,21,0.15177119628339142
+2,disease_on_drugs,23,29,0.05760581247837626

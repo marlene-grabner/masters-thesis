@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,25,30,-0.20181818181818179
+1,disease_on_symptoms,17,16,-0.6198752228163991
+2,disease_on_drugs,25,30,-0.07515151515151519

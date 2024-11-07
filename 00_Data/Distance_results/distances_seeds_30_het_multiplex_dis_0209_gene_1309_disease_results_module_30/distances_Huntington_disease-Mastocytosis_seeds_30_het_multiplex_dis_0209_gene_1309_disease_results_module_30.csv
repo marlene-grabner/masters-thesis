@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,17,24,1.146550693448111
+2,disease_on_drugs,26,20,0.42483277591973256

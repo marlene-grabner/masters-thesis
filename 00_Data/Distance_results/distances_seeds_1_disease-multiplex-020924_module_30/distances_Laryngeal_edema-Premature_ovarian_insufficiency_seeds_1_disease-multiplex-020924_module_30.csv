@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.24528301886792447
+1,disease_on_symptoms,20,22,0.045887445887445866
+2,disease_on_drugs,28,17,0.21374883286648005

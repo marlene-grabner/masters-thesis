@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.018142235123367323
+1,disease_on_symptoms,18,17,1.2517273576097105
+2,disease_on_drugs,23,26,0.2676609105180534

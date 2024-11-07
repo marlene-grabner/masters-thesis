@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,26,0.418956043956044
+1,disease_on_symptoms,9,20,0.6901340996168581
+2,disease_on_drugs,11,20,0.8255131964809383

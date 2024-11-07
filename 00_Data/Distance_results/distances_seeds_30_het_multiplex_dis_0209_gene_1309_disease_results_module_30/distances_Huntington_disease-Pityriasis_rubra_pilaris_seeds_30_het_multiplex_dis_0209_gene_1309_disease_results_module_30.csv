@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.0370370370370372
+1,disease_on_symptoms,17,21,0.6558307533539731
+2,disease_on_drugs,26,25,-0.09656108597285074

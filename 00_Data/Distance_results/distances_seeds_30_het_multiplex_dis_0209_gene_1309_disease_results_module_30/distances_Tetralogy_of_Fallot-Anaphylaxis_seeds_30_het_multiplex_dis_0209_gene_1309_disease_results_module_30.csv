@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.07183235867446403
+1,disease_on_symptoms,19,14,0.7395192526771472
+2,disease_on_drugs,20,26,0.23904682274247513

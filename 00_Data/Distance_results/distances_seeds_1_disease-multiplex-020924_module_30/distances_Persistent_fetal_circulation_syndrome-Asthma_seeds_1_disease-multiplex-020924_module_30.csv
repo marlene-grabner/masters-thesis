@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Asthma nodes,sAB
+0,disease_on_genes,25,25,-0.06000000000000005
+1,disease_on_symptoms,20,19,0.5927125506072874
+2,disease_on_drugs,18,24,-0.31547619047619047

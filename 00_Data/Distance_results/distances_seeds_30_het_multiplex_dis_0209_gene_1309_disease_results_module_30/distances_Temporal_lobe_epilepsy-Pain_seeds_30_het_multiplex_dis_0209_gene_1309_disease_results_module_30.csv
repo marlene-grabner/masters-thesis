@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.2678571428571429
+1,disease_on_symptoms,17,16,0.09954322638146174
+2,disease_on_drugs,28,26,-0.22115384615384626

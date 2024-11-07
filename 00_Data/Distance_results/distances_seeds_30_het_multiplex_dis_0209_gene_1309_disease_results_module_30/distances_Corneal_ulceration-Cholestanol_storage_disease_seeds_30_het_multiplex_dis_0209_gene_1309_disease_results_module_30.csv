@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,28,29,-0.15790553971134746
+1,disease_on_symptoms,15,18,-0.12474747474747439
+2,disease_on_drugs,23,28,-0.04149920837900378

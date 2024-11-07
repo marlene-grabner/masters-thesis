@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,14,18,0.4955357142857144
+1,disease_on_symptoms,25,27,2.64014245014245
+2,disease_on_drugs,10,17,1.3432461873638344

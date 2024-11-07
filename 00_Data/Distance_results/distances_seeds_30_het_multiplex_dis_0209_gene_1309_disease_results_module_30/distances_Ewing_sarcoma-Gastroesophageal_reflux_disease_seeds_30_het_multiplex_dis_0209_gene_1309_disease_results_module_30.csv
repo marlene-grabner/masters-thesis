@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,-0.10851648351648346
+1,disease_on_symptoms,17,18,0.11451914098972904
+2,disease_on_drugs,24,25,0.3264455782312925

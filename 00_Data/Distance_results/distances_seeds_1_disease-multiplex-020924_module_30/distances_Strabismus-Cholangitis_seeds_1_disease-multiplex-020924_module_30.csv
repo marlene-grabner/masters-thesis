@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Cholangitis nodes,sAB
+0,disease_on_genes,13,27,0.3855413105413106
+1,disease_on_symptoms,26,22,1.847027972027972
+2,disease_on_drugs,9,26,1.0587301587301587

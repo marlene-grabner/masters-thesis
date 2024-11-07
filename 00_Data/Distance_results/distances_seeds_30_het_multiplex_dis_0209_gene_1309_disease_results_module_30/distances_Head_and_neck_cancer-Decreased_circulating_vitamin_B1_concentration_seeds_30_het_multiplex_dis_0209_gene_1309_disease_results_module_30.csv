@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,22,17,0.9115933086521322
+2,disease_on_drugs,23,25,0.3138768115942028

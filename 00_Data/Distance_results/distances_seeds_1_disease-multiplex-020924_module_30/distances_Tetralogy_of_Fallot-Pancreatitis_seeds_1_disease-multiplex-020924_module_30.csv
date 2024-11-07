@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333333
+1,disease_on_symptoms,14,20,1.964075630252101
+2,disease_on_drugs,11,30,0.8780487804878048

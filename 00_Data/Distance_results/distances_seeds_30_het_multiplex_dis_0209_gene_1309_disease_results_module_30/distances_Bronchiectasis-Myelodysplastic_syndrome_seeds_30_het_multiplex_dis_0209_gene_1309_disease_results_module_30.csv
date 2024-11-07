@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.2321428571428572
+1,disease_on_symptoms,19,17,-0.10964912280701733
+2,disease_on_drugs,25,24,0.20397959183673464

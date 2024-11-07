@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,9,24,0.3244949494949496
+1,disease_on_symptoms,27,26,1.9614578293823577
+2,disease_on_drugs,9,15,0.9583333333333333

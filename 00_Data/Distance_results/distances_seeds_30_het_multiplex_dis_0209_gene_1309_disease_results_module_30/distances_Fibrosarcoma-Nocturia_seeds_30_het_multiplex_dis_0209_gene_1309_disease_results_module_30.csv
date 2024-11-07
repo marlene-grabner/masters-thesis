@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.14814814814814814
+1,disease_on_symptoms,14,18,0.0004960317460316332
+2,disease_on_drugs,26,24,-0.17717948717948717

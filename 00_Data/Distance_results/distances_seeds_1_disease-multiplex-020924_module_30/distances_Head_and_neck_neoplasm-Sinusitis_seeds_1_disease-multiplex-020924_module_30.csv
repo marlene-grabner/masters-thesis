@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.4231346191311123
+1,disease_on_symptoms,20,21,0.9058072009291522
+2,disease_on_drugs,27,28,1.0373376623376622

@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.0847457627118644
+1,disease_on_symptoms,14,17,0.2172675521821632
+2,disease_on_drugs,24,27,0.2931644880174291

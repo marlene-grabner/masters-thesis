@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,14,26,-0.079945054945055
+1,disease_on_symptoms,26,25,0.4489291101055808
+2,disease_on_drugs,14,25,0.32018315018315024

@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,29,30,0.10169491525423724
+1,disease_on_symptoms,18,17,0.4360410830999064
+2,disease_on_drugs,28,25,0.16908355795148244

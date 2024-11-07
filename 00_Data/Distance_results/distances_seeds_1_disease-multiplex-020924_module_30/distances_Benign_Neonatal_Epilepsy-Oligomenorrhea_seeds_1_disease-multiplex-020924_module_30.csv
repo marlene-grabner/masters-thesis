@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,28,0.4035087719298245
+1,disease_on_symptoms,16,12,2.2901785714285716
+2,disease_on_drugs,26,21,0.8647416413373861

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,25,13,0.40987854251012146
+1,disease_on_symptoms,13,25,4.715789473684211
+2,disease_on_drugs,16,8,0.6770833333333333

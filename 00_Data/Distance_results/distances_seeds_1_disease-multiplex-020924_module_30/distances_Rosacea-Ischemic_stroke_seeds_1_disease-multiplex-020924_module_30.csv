@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.13333333333333308
+1,disease_on_symptoms,17,16,0.7606951871657754
+2,disease_on_drugs,27,23,0.4730434782608697

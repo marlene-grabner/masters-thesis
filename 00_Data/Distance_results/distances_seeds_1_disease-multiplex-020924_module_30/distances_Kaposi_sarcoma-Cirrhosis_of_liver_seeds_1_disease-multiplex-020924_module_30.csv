@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,15,30,0.18333333333333313
+1,disease_on_symptoms,27,14,1.8725319396051106
+2,disease_on_drugs,13,26,0.6730769230769231

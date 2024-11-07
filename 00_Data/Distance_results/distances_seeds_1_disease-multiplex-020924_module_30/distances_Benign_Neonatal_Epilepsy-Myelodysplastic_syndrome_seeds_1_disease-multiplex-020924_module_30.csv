@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,29,26,0.3272727272727274
+1,disease_on_symptoms,16,15,1.7709005376344087
+2,disease_on_drugs,26,21,0.8434650455927053

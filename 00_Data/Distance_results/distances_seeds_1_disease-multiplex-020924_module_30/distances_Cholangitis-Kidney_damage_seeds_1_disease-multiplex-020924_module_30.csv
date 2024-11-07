@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.14507486209613862
+1,disease_on_symptoms,22,26,0.5585664335664338
+2,disease_on_drugs,26,13,0.16666666666666674

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,23,24,0.12800647548566135
+1,disease_on_symptoms,19,26,1.6578497525865945
+2,disease_on_drugs,11,15,0.1923076923076923

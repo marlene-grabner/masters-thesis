@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,14,20,1.4060924369747902
+2,disease_on_drugs,21,30,0.6991596638655462

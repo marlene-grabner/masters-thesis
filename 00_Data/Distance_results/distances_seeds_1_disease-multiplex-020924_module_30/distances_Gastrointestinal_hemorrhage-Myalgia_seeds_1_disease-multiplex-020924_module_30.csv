@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,0.03576998050682256
+1,disease_on_symptoms,19,16,0.9980263157894738
+2,disease_on_drugs,27,29,0.5892857142857142

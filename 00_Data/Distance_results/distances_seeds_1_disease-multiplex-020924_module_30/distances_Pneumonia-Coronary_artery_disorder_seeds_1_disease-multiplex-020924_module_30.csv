@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.4097386322950234
+1,disease_on_symptoms,26,21,1.9774179720988232
+2,disease_on_drugs,28,17,0.9777777777777779

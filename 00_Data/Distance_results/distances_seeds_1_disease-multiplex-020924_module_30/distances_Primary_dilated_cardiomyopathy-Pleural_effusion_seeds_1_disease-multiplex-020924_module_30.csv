@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.6000000000000001
+1,disease_on_symptoms,25,20,1.3294444444444444
+2,disease_on_drugs,7,22,1.100985221674877

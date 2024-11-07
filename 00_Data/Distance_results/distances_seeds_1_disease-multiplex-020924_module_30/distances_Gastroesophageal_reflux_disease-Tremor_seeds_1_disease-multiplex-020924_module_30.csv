@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Tremor nodes,sAB
+0,disease_on_genes,26,16,0.16815476190476186
+1,disease_on_symptoms,17,23,1.279859335038363
+2,disease_on_drugs,25,16,0.5097256097560976

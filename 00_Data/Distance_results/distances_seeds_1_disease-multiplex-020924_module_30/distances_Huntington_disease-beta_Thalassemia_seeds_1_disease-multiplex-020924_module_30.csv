@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.47284382284382276
+1,disease_on_symptoms,16,21,2.8687660875160876
+2,disease_on_drugs,27,6,1.0757575757575757

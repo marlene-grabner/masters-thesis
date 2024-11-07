@@ -1,0 +1,4 @@
+,Layer,Erysipelas nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,18,0.15993788819875787
+1,disease_on_symptoms,20,27,0.2069345941686367
+2,disease_on_drugs,27,17,0.3663101604278074

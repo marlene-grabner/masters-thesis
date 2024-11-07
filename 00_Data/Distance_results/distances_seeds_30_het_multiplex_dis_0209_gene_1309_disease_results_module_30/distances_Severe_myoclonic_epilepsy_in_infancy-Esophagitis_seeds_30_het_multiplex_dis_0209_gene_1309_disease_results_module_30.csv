@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Esophagitis nodes,sAB
+0,disease_on_genes,30,30,0.19999999999999996
+1,disease_on_symptoms,14,20,0.8972689075630251
+2,disease_on_drugs,21,30,0.5148459383753503

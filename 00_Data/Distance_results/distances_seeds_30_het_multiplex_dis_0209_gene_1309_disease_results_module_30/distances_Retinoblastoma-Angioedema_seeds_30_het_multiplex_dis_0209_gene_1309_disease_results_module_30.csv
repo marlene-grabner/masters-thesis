@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,21,18,0.8009768009768008
+2,disease_on_drugs,27,26,0.5264742245874321

@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,17,-0.11954316959167488
+1,disease_on_symptoms,20,24,0.281439393939394
+2,disease_on_drugs,24,16,0.12291666666666656

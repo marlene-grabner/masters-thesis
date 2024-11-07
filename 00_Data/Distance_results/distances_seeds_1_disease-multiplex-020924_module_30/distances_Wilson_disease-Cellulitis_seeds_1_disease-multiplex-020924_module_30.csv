@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cellulitis nodes,sAB
+0,disease_on_genes,23,22,0.3371917937135329
+1,disease_on_symptoms,19,26,0.8458839406207828
+2,disease_on_drugs,11,12,1.608695652173913

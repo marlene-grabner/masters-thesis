@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,27,30,-0.42105263157894735
+1,disease_on_symptoms,16,17,-0.6941287878787878
+2,disease_on_drugs,23,26,-0.5043171114599687

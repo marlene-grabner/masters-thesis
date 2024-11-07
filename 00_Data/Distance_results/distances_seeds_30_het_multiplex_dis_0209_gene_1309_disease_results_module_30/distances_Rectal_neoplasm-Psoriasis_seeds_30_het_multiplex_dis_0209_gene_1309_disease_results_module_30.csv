@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,20,17,0.15441176470588225
+2,disease_on_drugs,29,30,0.01605299045392572

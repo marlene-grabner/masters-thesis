@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.29633579436696733
+1,disease_on_symptoms,23,19,1.4209436635065926
+2,disease_on_drugs,29,11,1.2232758620689654

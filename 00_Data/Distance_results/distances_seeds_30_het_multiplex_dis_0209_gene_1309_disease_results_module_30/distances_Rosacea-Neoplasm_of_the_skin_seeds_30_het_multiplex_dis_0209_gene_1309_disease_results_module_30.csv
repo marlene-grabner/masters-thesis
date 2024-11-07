@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.30000000000000016
+1,disease_on_symptoms,18,22,-0.22803030303030303
+2,disease_on_drugs,30,29,-0.15086693941164997

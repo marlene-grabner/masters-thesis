@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,30,0.3296703296703296
+1,disease_on_symptoms,20,20,0.9250000000000003
+2,disease_on_drugs,20,30,1.2400000000000002

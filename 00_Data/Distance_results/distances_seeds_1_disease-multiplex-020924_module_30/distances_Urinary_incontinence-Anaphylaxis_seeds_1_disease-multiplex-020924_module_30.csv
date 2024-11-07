@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.11171585228188996
+1,disease_on_symptoms,20,15,0.7249999999999999
+2,disease_on_drugs,20,26,0.2876254180602007

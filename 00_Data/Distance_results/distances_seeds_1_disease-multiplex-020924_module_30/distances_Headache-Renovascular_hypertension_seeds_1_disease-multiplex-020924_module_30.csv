@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.1317927170868345
+1,disease_on_symptoms,25,22,0.8393036750483556
+2,disease_on_drugs,26,20,0.20359531772575257

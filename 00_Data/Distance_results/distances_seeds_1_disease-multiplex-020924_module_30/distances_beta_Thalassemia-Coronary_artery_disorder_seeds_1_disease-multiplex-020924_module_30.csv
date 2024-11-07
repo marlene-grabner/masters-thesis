@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,22,19,0.6128194655152293
+1,disease_on_symptoms,21,21,3.619047619047619
+2,disease_on_drugs,6,17,0.9202898550724639

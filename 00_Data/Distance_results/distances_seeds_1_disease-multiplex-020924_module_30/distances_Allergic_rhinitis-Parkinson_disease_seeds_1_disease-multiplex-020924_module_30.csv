@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,21,21,0.11904761904761907
+1,disease_on_symptoms,22,20,2.31969696969697
+2,disease_on_drugs,21,19,0.6071428571428572

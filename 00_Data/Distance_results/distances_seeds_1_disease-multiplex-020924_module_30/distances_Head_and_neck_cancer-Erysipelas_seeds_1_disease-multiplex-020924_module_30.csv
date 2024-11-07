@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.2730399230399232
+1,disease_on_symptoms,22,20,0.7430735930735928
+2,disease_on_drugs,24,27,0.644607843137255

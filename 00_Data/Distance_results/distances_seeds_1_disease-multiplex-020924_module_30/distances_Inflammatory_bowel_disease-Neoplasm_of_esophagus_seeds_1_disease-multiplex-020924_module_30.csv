@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,17,21,0.045608108108108114
+1,disease_on_symptoms,27,24,0.001497821350762596
+2,disease_on_drugs,14,20,0.17457983193277316

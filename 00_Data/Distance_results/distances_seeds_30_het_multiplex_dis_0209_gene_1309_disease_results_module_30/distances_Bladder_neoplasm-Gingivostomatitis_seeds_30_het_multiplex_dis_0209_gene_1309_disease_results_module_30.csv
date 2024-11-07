@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.3023809523809523
+1,disease_on_symptoms,19,15,-0.43508771929824563
+2,disease_on_drugs,25,30,-0.17727272727272736

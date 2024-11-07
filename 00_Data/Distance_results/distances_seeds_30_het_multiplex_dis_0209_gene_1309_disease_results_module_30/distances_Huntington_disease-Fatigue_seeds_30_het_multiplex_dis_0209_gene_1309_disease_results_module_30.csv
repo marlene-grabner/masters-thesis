@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.20054945054945061
+1,disease_on_symptoms,17,16,0.6129679144385025
+2,disease_on_drugs,26,26,-0.1923076923076923

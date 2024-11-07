@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,30,0.15517241379310343
+1,disease_on_symptoms,16,20,0.5902777777777777
+2,disease_on_drugs,23,30,0.27116488925348636

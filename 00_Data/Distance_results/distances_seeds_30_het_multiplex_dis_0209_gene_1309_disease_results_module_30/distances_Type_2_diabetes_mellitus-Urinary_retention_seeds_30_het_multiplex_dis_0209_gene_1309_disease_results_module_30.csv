@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,16,16,0.65625
+2,disease_on_drugs,27,28,0.001286676286676336

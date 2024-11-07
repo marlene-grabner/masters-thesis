@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.01851851851851849
+1,disease_on_symptoms,13,19,0.7405111336032388
+2,disease_on_drugs,24,24,0.10416666666666674

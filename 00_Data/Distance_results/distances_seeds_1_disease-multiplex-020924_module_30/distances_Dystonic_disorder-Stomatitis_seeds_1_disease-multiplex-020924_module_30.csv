@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Stomatitis nodes,sAB
+0,disease_on_genes,17,30,0.5344806007509386
+1,disease_on_symptoms,28,23,3.237044817927171
+2,disease_on_drugs,9,30,0.7461538461538462

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,13,19,1.055414979757085
+2,disease_on_drugs,21,25,0.10256728778467927

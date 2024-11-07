@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,29,-0.1071428571428571
+1,disease_on_symptoms,21,20,0.6318815331010454
+2,disease_on_drugs,25,28,-0.08084905660377362

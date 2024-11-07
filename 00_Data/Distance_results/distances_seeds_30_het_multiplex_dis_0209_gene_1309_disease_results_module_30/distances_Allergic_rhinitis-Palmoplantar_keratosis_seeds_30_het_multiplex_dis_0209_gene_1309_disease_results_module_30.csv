@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,28,26,-0.11111111111111116
+1,disease_on_symptoms,20,20,1.25
+2,disease_on_drugs,25,23,0.022137681159420053

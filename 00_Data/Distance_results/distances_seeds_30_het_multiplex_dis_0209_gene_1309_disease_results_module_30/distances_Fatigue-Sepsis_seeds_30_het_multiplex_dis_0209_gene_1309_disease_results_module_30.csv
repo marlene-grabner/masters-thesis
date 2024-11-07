@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,30,-0.19935897435897454
+1,disease_on_symptoms,16,15,0.8620967741935486
+2,disease_on_drugs,26,25,0.0210407239819006

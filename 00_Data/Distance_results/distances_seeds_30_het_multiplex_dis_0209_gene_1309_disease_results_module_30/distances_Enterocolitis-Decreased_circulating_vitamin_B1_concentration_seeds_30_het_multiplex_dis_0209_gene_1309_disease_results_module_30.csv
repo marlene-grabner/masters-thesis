@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,21,17,0.16452896948253004
+2,disease_on_drugs,25,25,0.040000000000000036

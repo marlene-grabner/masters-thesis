@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.052727272727272734
+1,disease_on_symptoms,20,26,0.7938127090301004
+2,disease_on_drugs,26,24,0.42205128205128184

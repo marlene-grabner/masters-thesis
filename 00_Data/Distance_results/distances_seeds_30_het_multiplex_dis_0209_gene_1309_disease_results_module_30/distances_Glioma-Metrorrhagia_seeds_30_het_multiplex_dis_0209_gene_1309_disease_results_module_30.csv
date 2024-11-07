@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,22,29,-0.08163265306122447
+1,disease_on_symptoms,21,17,0.8027421494913756
+2,disease_on_drugs,21,26,-0.07838438157587091

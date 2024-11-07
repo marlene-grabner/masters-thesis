@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.5436363636363637
+1,disease_on_symptoms,25,20,2.06
+2,disease_on_drugs,7,21,1.107142857142857

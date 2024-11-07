@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,26,0.19505494505494503
+1,disease_on_symptoms,14,23,1.5018045996306868
+2,disease_on_drugs,27,25,0.7898860398860397

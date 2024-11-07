@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,21,30,-0.012044817927171048
+1,disease_on_symptoms,22,20,1.2446969696969699
+2,disease_on_drugs,21,29,0.3426600985221675

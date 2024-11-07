@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,30,-0.20030303030303032
+1,disease_on_symptoms,26,25,-0.19864253393665154
+2,disease_on_drugs,24,29,0.05199522880069396

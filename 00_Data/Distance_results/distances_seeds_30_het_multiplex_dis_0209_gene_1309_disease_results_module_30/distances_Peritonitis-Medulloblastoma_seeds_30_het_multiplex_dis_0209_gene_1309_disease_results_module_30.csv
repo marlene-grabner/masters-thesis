@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,14,22,0.47943722943722955
+2,disease_on_drugs,24,26,-0.12108974358974356

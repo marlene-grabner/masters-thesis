@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,25,23,-0.14583333333333337
+1,disease_on_symptoms,22,19,0.6154452094760183
+2,disease_on_drugs,25,19,-0.05813397129186604

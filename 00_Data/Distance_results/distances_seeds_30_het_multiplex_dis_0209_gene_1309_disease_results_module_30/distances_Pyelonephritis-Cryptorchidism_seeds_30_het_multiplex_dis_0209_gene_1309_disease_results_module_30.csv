@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,24,23,0.06381051495528833
+1,disease_on_symptoms,19,19,1.1315789473684208
+2,disease_on_drugs,19,21,-0.12756892230576455

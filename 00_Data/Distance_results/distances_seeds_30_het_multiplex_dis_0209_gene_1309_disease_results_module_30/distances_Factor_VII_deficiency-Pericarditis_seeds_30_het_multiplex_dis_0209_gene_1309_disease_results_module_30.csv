@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,26,0.11177248677248675
+1,disease_on_symptoms,19,21,1.3744360902255641
+2,disease_on_drugs,25,26,0.33555052790346895

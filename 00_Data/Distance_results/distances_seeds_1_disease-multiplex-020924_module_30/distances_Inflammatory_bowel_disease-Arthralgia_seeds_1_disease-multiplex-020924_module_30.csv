@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Arthralgia nodes,sAB
+0,disease_on_genes,17,30,0.06793478260869557
+1,disease_on_symptoms,27,19,0.6381049241461141
+2,disease_on_drugs,14,30,0.1461038961038963

@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Keloid nodes,sAB
+0,disease_on_genes,22,22,0.22727272727272707
+1,disease_on_symptoms,19,20,0.8491902834008098
+2,disease_on_drugs,18,19,0.026276276276276267

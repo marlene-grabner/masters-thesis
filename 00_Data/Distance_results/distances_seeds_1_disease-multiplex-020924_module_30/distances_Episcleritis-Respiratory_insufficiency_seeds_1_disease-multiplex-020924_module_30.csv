@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,25,0.3418181818181818
+1,disease_on_symptoms,22,20,2.3301948051948056
+2,disease_on_drugs,29,14,0.2950223393286746

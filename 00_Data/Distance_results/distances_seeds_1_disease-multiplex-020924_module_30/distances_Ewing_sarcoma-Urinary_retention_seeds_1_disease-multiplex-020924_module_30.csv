@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,24,30,0.5108603786342125
+1,disease_on_symptoms,25,18,1.5448320413436691
+2,disease_on_drugs,17,19,1.0599415204678362

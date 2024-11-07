@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.3425925925925928
+1,disease_on_symptoms,22,20,1.6669913419913418
+2,disease_on_drugs,26,19,0.8403508771929826

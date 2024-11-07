@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,23,23,-0.26086956521739135
+1,disease_on_symptoms,24,24,0.0625
+2,disease_on_drugs,22,17,-0.1509324009324009

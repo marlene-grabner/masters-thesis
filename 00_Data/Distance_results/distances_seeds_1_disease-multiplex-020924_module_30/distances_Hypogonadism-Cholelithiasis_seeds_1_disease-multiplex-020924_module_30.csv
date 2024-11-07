@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.3859259259259258
+1,disease_on_symptoms,12,19,0.8368704018109789
+2,disease_on_drugs,30,18,1.476388888888889

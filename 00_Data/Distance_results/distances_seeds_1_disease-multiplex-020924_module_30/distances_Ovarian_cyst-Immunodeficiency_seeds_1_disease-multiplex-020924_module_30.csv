@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,20,22,0.4282467532467533
+1,disease_on_symptoms,22,19,0.5663146224763682
+2,disease_on_drugs,15,18,0.7813131313131314

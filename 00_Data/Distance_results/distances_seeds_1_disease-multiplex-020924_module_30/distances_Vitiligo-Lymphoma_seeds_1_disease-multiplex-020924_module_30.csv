@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Lymphoma nodes,sAB
+0,disease_on_genes,24,26,0.29160256410256413
+1,disease_on_symptoms,22,21,1.532543038356992
+2,disease_on_drugs,11,25,0.3766666666666667

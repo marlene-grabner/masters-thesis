@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,17,23,0.6856138107416878
+1,disease_on_symptoms,28,25,3.9376145552560646
+2,disease_on_drugs,9,18,0.9166666666666665

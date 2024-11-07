@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,16,21,0.24625965250965254
+2,disease_on_drugs,23,30,0.21855345911949664

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.0012725779967162065
+1,disease_on_symptoms,14,14,1.2142857142857144
+2,disease_on_drugs,29,28,0.29761904761904767

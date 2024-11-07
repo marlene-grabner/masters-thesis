@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.16009852216748766
+1,disease_on_symptoms,21,13,0.8401206636500755
+2,disease_on_drugs,23,28,-0.2103885032273778

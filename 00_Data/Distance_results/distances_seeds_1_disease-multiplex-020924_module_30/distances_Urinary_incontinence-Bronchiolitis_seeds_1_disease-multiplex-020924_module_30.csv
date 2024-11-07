@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.5579311992355469
+1,disease_on_symptoms,20,25,1.105
+2,disease_on_drugs,20,18,0.3903508771929822

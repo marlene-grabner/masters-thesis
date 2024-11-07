@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.25454545454545463
+1,disease_on_symptoms,20,26,0.661036789297659
+2,disease_on_drugs,28,21,0.25255102040816313

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.05056497175141239
+1,disease_on_symptoms,16,25,0.32307926829268285
+2,disease_on_drugs,28,21,0.055272108843537504

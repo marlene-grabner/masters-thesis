@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.6539408866995076
+1,disease_on_symptoms,9,25,0.36915032679738546
+2,disease_on_drugs,11,23,0.09521041618228332

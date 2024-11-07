@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,28,30,-0.5006157635467979
+1,disease_on_symptoms,18,25,-0.6657105943152453
+2,disease_on_drugs,25,30,-0.45545454545454556

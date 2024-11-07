@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,17,27,0.3814121608239256
+1,disease_on_symptoms,22,19,1.5154043645699613
+2,disease_on_drugs,15,27,0.7047619047619049

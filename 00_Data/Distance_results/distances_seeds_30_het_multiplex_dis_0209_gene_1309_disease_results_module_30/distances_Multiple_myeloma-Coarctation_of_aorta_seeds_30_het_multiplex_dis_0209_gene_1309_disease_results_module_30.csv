@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,-0.16946191474493366
+1,disease_on_symptoms,21,19,0.5924185463659148
+2,disease_on_drugs,25,24,0.08032312925170082

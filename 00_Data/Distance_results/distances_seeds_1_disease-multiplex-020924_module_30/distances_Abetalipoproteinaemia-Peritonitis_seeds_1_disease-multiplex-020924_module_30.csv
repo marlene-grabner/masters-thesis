@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Peritonitis nodes,sAB
+0,disease_on_genes,17,30,0.5088861076345432
+1,disease_on_symptoms,25,17,1.3913725490196076
+2,disease_on_drugs,13,28,0.7794827124095418

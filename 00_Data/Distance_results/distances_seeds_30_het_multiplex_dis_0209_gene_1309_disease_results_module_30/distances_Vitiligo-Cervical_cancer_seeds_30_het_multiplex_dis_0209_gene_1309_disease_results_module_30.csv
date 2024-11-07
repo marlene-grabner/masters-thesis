@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.10344827586206895
+1,disease_on_symptoms,19,22,0.17114015637764002
+2,disease_on_drugs,25,15,0.21333333333333337

@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,-0.10869963369963376
+1,disease_on_symptoms,22,22,0.29545454545454564
+2,disease_on_drugs,25,27,-0.228148148148148

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.07454545454545458
+1,disease_on_symptoms,17,20,0.9467806041335454
+2,disease_on_drugs,30,22,0.17727272727272725

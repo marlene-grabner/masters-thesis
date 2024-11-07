@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,15,1.0142857142857142
+2,disease_on_drugs,25,28,0.2828975741239892

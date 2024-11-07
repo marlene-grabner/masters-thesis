@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,29,30,0.15225014611338406
+1,disease_on_symptoms,20,14,1.7094537815126052
+2,disease_on_drugs,24,22,0.26128129117259546

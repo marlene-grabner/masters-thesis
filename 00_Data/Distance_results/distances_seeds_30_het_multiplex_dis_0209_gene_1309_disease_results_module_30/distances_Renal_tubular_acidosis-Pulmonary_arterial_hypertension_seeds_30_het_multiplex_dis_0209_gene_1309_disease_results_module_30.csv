@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.10344827586206895
+1,disease_on_symptoms,14,17,0.5341555977229602
+2,disease_on_drugs,27,25,-0.14854700854700864

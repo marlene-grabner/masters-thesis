@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.054521404521404415
+1,disease_on_symptoms,16,25,-0.12582317073170723
+2,disease_on_drugs,27,23,-0.1422544283413849

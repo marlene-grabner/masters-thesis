@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,30,30,0.13333333333333353
+1,disease_on_symptoms,16,14,0.5818452380952379
+2,disease_on_drugs,30,27,0.2787524366471734

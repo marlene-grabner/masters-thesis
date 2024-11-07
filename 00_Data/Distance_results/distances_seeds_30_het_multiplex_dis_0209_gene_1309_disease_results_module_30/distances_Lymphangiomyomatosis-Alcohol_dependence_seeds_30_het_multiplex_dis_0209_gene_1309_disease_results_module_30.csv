@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,30,-0.1775641025641026
+1,disease_on_symptoms,17,18,-0.22903828197945852
+2,disease_on_drugs,24,24,-0.2500000000000001

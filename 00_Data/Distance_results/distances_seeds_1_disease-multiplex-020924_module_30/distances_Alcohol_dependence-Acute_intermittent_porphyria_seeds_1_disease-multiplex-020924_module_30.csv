@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,12,27,0.20334757834757844
+1,disease_on_symptoms,27,20,2.2911544523246654
+2,disease_on_drugs,9,15,0.8055555555555556

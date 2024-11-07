@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Exanthem nodes,sAB
+0,disease_on_genes,18,30,0.06666666666666665
+1,disease_on_symptoms,21,21,2.380952380952381
+2,disease_on_drugs,17,29,0.4412205661874944

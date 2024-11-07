@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Pruritus nodes,sAB
+0,disease_on_genes,26,26,-0.13692307692307693
+1,disease_on_symptoms,28,19,0.007138857782754693
+2,disease_on_drugs,23,24,0.1697502312673449

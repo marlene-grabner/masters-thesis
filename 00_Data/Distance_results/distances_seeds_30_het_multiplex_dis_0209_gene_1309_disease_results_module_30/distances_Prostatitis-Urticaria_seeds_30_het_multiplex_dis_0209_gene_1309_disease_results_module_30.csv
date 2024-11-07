@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.11111111111111116
+1,disease_on_symptoms,22,21,0.3414879693949462
+2,disease_on_drugs,28,24,-0.13576007326007322

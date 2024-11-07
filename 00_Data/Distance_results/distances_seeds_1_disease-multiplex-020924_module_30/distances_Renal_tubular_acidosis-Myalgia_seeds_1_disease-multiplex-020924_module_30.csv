@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Myalgia nodes,sAB
+0,disease_on_genes,18,30,0.3041666666666667
+1,disease_on_symptoms,18,16,2.927696078431372
+2,disease_on_drugs,10,29,0.3935897435897435

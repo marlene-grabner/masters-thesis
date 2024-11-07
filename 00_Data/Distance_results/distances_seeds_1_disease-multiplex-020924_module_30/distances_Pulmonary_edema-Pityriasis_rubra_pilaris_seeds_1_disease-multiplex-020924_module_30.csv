@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,28,0.24137931034482762
+1,disease_on_symptoms,14,23,0.6845308040960214
+2,disease_on_drugs,27,26,0.3584636886523678

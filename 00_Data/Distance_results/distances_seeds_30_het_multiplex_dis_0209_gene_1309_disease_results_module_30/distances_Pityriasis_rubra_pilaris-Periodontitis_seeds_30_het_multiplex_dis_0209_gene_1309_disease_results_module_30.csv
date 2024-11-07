@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Periodontitis nodes,sAB
+0,disease_on_genes,27,30,-0.1598440545808969
+1,disease_on_symptoms,21,21,0.1428571428571428
+2,disease_on_drugs,25,28,-0.25731805929919127

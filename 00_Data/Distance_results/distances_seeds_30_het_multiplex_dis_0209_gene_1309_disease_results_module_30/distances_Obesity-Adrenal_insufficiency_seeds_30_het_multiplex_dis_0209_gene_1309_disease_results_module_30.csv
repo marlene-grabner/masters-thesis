@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.1257309941520468
+1,disease_on_symptoms,18,15,-0.42828282828282815
+2,disease_on_drugs,25,24,-0.021343537414965974

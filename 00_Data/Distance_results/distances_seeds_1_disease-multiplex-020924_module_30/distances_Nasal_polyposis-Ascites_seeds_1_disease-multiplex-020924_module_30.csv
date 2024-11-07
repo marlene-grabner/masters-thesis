@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Ascites nodes,sAB
+0,disease_on_genes,15,30,0.3666666666666667
+1,disease_on_symptoms,25,17,1.1431372549019607
+2,disease_on_drugs,10,27,0.303903903903904

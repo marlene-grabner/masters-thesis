@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Keratitis nodes,sAB
+0,disease_on_genes,22,28,0.09610389610389602
+1,disease_on_symptoms,19,25,0.8920574162679427
+2,disease_on_drugs,18,23,-0.06860492517968653

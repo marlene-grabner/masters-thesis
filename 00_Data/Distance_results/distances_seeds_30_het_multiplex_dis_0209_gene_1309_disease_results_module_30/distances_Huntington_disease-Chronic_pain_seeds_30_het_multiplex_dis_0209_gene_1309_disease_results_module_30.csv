@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,17,19,-0.2681458548331612
+2,disease_on_drugs,26,28,-0.33628408628408624

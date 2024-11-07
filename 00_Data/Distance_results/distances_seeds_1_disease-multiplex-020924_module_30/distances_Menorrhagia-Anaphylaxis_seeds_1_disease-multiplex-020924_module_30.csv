@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.09429930656345742
+1,disease_on_symptoms,19,15,2.156656346749226
+2,disease_on_drugs,24,26,0.3407051282051281

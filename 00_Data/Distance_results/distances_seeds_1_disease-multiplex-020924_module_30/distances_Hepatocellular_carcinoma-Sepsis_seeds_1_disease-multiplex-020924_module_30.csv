@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Sepsis nodes,sAB
+0,disease_on_genes,23,22,0.26510759771629355
+1,disease_on_symptoms,19,23,0.9496567505720823
+2,disease_on_drugs,19,17,1.3022875816993464

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,17,12,0.35023664638269114
+2,disease_on_drugs,30,23,0.04310910582444616

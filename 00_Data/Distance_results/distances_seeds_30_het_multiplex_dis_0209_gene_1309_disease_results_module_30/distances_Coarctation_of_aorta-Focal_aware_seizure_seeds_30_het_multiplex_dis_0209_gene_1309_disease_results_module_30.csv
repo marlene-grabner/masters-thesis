@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,-0.1078042328042329
+1,disease_on_symptoms,19,16,0.08825187969924819
+2,disease_on_drugs,24,29,-0.13376978963348507

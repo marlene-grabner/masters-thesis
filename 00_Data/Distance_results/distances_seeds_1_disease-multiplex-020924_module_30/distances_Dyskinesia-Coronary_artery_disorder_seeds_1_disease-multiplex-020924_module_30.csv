@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,24,19,0.301688086495308
+1,disease_on_symptoms,17,21,2.3322276278932628
+2,disease_on_drugs,23,17,0.8

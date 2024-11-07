@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.24142036124794752
+1,disease_on_symptoms,16,15,-0.0434811827956989
+2,disease_on_drugs,28,23,-0.31600901230057243

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Angioedema nodes,sAB
+0,disease_on_genes,28,30,-0.05233990147783241
+1,disease_on_symptoms,15,18,0.11010101010101003
+2,disease_on_drugs,23,26,-0.021329602074943832

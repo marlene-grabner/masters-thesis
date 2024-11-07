@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.11296296296296293
+1,disease_on_symptoms,17,17,0.9705882352941178
+2,disease_on_drugs,27,23,0.8162640901771336

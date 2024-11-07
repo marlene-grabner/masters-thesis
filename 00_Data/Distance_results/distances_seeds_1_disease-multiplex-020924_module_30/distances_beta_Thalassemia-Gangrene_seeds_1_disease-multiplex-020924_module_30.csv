@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Gangrene nodes,sAB
+0,disease_on_genes,22,26,0.4734848484848484
+1,disease_on_symptoms,21,19,3.0418546365914785
+2,disease_on_drugs,6,23,0.9840079960019992

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,15,-0.10899470899470887
+1,disease_on_symptoms,22,27,-0.18753865182436602
+2,disease_on_drugs,24,13,-0.06869369369369349

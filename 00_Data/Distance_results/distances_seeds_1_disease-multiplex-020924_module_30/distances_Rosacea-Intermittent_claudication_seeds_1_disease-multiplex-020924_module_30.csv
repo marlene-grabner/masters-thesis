@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.15500000000000003
+1,disease_on_symptoms,17,24,1.013420612147298
+2,disease_on_drugs,27,18,0.4444444444444444

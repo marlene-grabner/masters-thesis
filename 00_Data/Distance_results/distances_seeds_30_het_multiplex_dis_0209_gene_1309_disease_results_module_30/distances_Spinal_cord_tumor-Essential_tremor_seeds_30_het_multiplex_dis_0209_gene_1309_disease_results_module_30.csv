@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.06000000000000005
+1,disease_on_symptoms,14,23,1.0934195064629848
+2,disease_on_drugs,22,21,0.14205174670290943

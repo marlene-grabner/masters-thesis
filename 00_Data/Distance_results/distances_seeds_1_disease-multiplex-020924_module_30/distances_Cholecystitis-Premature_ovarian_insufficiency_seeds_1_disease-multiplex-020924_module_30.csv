@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,25,23,0.48
+1,disease_on_symptoms,19,22,0.9604971408565761
+2,disease_on_drugs,13,17,1.039969834087481

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,0.11243386243386255
+1,disease_on_symptoms,21,15,0.8555555555555556
+2,disease_on_drugs,25,21,0.786086956521739

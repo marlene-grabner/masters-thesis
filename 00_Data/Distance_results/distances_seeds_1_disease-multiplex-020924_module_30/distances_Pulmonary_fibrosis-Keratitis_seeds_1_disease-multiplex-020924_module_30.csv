@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Keratitis nodes,sAB
+0,disease_on_genes,24,28,-0.018086080586080522
+1,disease_on_symptoms,22,25,-0.27375241779497084
+2,disease_on_drugs,24,23,-0.17160037002775197

@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,18,26,0.17521367521367504
+1,disease_on_symptoms,26,21,0.49095939521471443
+2,disease_on_drugs,10,23,0.08181818181818179

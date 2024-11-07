@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.07834290401968835
+1,disease_on_symptoms,15,19,0.7012383900928791
+2,disease_on_drugs,23,21,-0.2519292301900997

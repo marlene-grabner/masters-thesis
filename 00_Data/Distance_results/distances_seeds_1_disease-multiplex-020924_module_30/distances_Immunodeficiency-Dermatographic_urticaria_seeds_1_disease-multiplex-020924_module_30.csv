@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,22,29,0.24554367201426008
+1,disease_on_symptoms,19,14,2.0459102301207563
+2,disease_on_drugs,18,28,0.18961352657004849

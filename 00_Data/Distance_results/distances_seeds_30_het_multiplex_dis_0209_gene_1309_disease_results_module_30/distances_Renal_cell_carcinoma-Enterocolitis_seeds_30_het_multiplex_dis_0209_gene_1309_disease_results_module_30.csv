@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111116
+1,disease_on_symptoms,22,21,0.5054364240410751
+2,disease_on_drugs,22,25,0.04858800773694383

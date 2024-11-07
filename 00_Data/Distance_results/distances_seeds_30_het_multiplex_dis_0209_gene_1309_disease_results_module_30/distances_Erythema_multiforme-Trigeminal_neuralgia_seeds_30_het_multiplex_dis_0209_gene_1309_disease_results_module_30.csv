@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,18,15,-0.0828282828282827
+2,disease_on_drugs,30,25,-0.16999999999999993

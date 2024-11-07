@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,19,22,-0.3249795775469717
+2,disease_on_drugs,25,24,0.0619727891156463

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Peritonitis nodes,sAB
+0,disease_on_genes,29,30,0.2725891291642315
+1,disease_on_symptoms,17,17,2.1176470588235294
+2,disease_on_drugs,30,28,0.7401477832512318

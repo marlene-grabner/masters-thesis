@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,20,0.1273809523809526
+1,disease_on_symptoms,15,24,1.5490384615384614
+2,disease_on_drugs,20,18,-0.10979532163742678

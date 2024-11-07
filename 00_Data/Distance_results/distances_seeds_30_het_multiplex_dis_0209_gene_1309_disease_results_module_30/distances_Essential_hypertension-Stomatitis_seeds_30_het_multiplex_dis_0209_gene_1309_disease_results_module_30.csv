@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Stomatitis nodes,sAB
+0,disease_on_genes,28,30,-0.10344827586206895
+1,disease_on_symptoms,13,19,0.679908906882591
+2,disease_on_drugs,28,29,0.10610578169561857

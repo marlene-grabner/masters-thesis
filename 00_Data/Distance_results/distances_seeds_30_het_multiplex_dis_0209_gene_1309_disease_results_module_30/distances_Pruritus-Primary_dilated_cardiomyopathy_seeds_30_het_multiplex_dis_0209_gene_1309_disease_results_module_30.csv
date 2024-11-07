@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,0.3849902534113059
+1,disease_on_symptoms,21,24,0.564484126984127
+2,disease_on_drugs,27,15,0.3878306878306881

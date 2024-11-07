@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.053732567678424825
+1,disease_on_symptoms,12,19,1.9415676287492927
+2,disease_on_drugs,29,22,0.15385088204560815

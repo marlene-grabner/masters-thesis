@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.3371794871794871
+1,disease_on_symptoms,14,24,1.4898182957393487
+2,disease_on_drugs,26,19,0.7169590643274855

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,24,-0.04098583877995643
+1,disease_on_symptoms,21,20,0.4185540069686413
+2,disease_on_drugs,23,22,0.24683794466403164

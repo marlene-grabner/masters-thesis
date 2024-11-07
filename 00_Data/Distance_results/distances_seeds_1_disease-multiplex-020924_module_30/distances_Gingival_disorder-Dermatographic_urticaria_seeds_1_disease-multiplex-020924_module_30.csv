@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,21,29,0.04857142857142871
+1,disease_on_symptoms,26,14,1.0695054945054947
+2,disease_on_drugs,20,28,0.0625

@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,-0.08803418803418817
+1,disease_on_symptoms,20,27,2.217080378250591
+2,disease_on_drugs,29,9,0.17604355716878417

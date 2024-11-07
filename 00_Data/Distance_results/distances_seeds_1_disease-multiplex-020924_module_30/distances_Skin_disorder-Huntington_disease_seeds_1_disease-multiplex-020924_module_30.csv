@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,7,30,0.2285070785070784
+1,disease_on_symptoms,30,16,1.779800724637681
+2,disease_on_drugs,6,27,1.068181818181818

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,-0.08327076650058007
+1,disease_on_symptoms,24,20,0.1261363636363635
+2,disease_on_drugs,24,20,0.06590909090909092

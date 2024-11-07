@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.11833333333333318
+1,disease_on_symptoms,20,27,0.3466706067769896
+2,disease_on_drugs,22,19,-0.052631578947368585

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.34067085953878395
+1,disease_on_symptoms,17,15,0.9493872549019609
+2,disease_on_drugs,24,21,0.5952380952380953

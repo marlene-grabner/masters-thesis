@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,14,25,0.45402930402930397
+1,disease_on_symptoms,27,23,1.55487922705314
+2,disease_on_drugs,8,20,0.9232142857142855

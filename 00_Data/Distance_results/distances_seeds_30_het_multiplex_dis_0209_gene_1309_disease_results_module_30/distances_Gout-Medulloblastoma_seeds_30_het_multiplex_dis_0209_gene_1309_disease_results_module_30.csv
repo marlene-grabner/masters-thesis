@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,28,27,-0.09058441558441555
+1,disease_on_symptoms,19,22,0.6490839071070136
+2,disease_on_drugs,22,26,-0.02957459207459201

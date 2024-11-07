@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,15,0.5279669762641899
+2,disease_on_drugs,29,21,0.07599343185550067

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,23,29,-0.5824587706146926
+1,disease_on_symptoms,21,23,-0.6301054018445321
+2,disease_on_drugs,19,27,-0.6022544283413851

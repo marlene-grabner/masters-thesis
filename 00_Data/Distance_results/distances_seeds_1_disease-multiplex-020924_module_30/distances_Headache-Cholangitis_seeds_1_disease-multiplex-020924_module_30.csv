@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.11978557504873288
+1,disease_on_symptoms,25,22,1.2377562862669245
+2,disease_on_drugs,26,26,0.5384615384615385

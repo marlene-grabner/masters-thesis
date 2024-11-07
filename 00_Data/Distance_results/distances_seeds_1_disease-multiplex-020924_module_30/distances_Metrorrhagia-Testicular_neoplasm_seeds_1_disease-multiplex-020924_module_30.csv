@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,0.05615384615384622
+1,disease_on_symptoms,17,25,1.369187675070028
+2,disease_on_drugs,26,23,0.5098969353627738

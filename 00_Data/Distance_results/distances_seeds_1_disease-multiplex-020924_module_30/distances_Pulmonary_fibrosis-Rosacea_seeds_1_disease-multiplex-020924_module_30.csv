@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Rosacea nodes,sAB
+0,disease_on_genes,24,30,-0.0893518518518518
+1,disease_on_symptoms,22,17,-0.05865213218154408
+2,disease_on_drugs,24,27,-0.05882352941176472

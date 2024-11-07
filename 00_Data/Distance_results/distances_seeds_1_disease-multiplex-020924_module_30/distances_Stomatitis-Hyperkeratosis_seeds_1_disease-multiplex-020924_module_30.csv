@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.19862637362637336
+1,disease_on_symptoms,23,21,1.1699134199134198
+2,disease_on_drugs,30,23,0.560377358490566

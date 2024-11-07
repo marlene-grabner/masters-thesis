@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,9,24,0.1862373737373737
+1,disease_on_symptoms,27,21,1.8115079365079367
+2,disease_on_drugs,9,24,1.1685606060606064

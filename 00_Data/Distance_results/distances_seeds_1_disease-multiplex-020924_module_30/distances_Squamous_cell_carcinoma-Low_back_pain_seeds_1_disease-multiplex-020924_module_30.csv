@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,16,30,0.2496376811594203
+1,disease_on_symptoms,26,17,1.3613595706618962
+2,disease_on_drugs,14,26,0.5653846153846154

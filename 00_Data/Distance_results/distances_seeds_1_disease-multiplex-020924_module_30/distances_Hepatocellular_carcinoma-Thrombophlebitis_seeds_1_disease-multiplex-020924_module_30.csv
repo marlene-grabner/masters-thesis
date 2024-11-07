@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,23,28,0.19531725733771754
+1,disease_on_symptoms,19,15,1.9909184726522187
+2,disease_on_drugs,19,21,0.675

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,25,0.15700808625336915
+1,disease_on_symptoms,14,26,1.6225274725274725
+2,disease_on_drugs,28,21,1.3673469387755102

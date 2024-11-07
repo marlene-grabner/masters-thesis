@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.30207820617992875
+1,disease_on_symptoms,20,20,0.6000000000000001
+2,disease_on_drugs,29,20,0.9201090781140042

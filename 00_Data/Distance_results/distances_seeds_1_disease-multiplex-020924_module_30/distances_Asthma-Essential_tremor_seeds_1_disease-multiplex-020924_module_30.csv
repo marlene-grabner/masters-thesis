@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,25,21,0.11043478260869555
+1,disease_on_symptoms,19,20,2.0510458839406205
+2,disease_on_drugs,24,19,0.35062219502243996

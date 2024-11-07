@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,27,30,-0.017641325536062347
+1,disease_on_symptoms,17,18,0.02777777777777768
+2,disease_on_drugs,24,26,-0.13596153846153824

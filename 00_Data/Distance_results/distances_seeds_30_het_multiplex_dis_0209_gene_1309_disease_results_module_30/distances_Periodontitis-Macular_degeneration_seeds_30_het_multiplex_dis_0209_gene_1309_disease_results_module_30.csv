@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,21,17,0.6523662096417513
+2,disease_on_drugs,28,17,0.15954715219421112

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.05476190476190457
+1,disease_on_symptoms,14,23,1.178277656538526
+2,disease_on_drugs,24,14,0.26864035087719285

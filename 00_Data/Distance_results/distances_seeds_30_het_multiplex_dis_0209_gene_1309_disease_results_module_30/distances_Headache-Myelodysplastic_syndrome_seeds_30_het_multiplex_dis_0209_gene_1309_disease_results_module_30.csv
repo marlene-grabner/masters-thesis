@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.0714285714285714
+1,disease_on_symptoms,23,17,0.1304347826086958
+2,disease_on_drugs,23,24,0.3176456984273821

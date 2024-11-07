@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,25,26,-0.1568627450980392
+1,disease_on_symptoms,22,20,0.33051948051948066
+2,disease_on_drugs,25,24,-0.1629251700680272

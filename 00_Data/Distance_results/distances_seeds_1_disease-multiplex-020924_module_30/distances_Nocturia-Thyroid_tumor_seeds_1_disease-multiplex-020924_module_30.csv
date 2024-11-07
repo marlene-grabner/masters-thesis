@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,21,23,0.26059714503650433
+1,disease_on_symptoms,24,20,1.3079545454545454
+2,disease_on_drugs,14,20,0.7796218487394959

@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,18,20,0.5478070175438594
+2,disease_on_drugs,27,25,0.023333333333333428

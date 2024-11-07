@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,-0.07081280788177335
+1,disease_on_symptoms,20,20,0.6000000000000001
+2,disease_on_drugs,28,27,-0.08863636363636362

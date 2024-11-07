@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,24,0.4607051282051282
+1,disease_on_symptoms,21,19,1.6270676691729322
+2,disease_on_drugs,26,19,0.7866171839856051

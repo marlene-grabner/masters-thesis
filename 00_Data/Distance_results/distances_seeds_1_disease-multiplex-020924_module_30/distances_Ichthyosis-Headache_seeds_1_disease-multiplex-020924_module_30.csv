@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Headache nodes,sAB
+0,disease_on_genes,27,30,0.03304093567251454
+1,disease_on_symptoms,17,25,0.19837535014005603
+2,disease_on_drugs,24,26,0.08076923076923093

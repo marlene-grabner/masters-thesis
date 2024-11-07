@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,0.051683087027914576
+1,disease_on_symptoms,18,14,0.8060515873015874
+2,disease_on_drugs,26,26,0.1153846153846152

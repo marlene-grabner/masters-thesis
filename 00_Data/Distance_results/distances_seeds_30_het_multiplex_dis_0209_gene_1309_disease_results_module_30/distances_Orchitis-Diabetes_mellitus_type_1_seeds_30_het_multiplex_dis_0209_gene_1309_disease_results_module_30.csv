@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,25,30,-0.1636363636363637
+1,disease_on_symptoms,19,18,1.0751541014698907
+2,disease_on_drugs,25,26,-0.04006033182503743

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Sepsis nodes,sAB
+0,disease_on_genes,29,22,0.3177361853832441
+1,disease_on_symptoms,18,23,1.7045775892541535
+2,disease_on_drugs,30,17,0.96706299541093

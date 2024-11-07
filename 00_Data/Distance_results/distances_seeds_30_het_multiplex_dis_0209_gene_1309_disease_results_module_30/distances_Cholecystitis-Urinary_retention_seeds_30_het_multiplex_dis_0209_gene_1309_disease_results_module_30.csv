@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,23,16,0.35190217391304346
+2,disease_on_drugs,21,28,-0.007653061224489832

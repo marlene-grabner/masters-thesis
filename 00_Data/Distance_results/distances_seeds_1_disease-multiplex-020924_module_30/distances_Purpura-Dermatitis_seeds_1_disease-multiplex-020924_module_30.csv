@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Dermatitis nodes,sAB
+0,disease_on_genes,26,26,0.020739064856711842
+1,disease_on_symptoms,17,25,0.6008963585434173
+2,disease_on_drugs,20,24,0.04924242424242431

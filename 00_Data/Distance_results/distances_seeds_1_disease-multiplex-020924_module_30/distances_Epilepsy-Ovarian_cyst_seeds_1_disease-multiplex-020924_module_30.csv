@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,29,20,0.39438775510204094
+1,disease_on_symptoms,18,22,1.037121212121212
+2,disease_on_drugs,30,15,1.0833333333333335

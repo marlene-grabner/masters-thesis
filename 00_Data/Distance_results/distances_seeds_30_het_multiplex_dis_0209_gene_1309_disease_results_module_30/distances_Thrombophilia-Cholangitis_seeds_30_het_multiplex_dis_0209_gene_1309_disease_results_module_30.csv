@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,18,18,0.38888888888888884
+2,disease_on_drugs,22,28,0.07753246753246756

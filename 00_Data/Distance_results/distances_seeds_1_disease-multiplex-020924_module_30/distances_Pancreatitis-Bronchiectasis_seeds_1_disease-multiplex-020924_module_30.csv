@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,20,15,0.45119047619047614
+2,disease_on_drugs,30,26,0.2651098901098903

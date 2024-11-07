@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,28,23,-0.09628851540616246
+1,disease_on_symptoms,19,19,0.2894736842105263
+2,disease_on_drugs,22,19,-0.061792507877231895

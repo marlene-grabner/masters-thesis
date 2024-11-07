@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,-0.05703703703703711
+1,disease_on_symptoms,19,20,1.000978407557355
+2,disease_on_drugs,29,22,0.3812619091523759

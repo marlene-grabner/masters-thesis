@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.016666666666666607
+1,disease_on_symptoms,25,20,0.385
+2,disease_on_drugs,26,19,0.1544534412955465

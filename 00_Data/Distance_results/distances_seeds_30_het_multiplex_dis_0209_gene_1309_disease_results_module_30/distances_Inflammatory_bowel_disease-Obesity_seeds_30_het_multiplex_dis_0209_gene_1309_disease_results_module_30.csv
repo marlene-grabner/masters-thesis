@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.26608187134502925
+1,disease_on_symptoms,20,18,0.13611111111111107
+2,disease_on_drugs,27,25,-0.19544159544159534

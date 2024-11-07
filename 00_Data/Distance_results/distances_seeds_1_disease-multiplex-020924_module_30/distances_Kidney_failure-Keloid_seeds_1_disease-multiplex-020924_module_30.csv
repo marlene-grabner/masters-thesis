@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Keloid nodes,sAB
+0,disease_on_genes,20,22,0.09264069264069263
+1,disease_on_symptoms,23,20,1.0118806875631954
+2,disease_on_drugs,18,19,0.26726726726726713

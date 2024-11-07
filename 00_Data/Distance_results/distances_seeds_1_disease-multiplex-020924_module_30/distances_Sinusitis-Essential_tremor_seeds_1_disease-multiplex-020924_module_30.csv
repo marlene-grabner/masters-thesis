@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,0.36827586206896545
+1,disease_on_symptoms,21,20,1.1966608594657375
+2,disease_on_drugs,28,19,0.771176611742121

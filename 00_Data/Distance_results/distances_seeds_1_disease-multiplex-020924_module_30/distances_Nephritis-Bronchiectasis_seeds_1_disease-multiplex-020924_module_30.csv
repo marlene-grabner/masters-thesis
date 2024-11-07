@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,15,0.47323232323232345
+2,disease_on_drugs,27,26,-0.13105413105413088

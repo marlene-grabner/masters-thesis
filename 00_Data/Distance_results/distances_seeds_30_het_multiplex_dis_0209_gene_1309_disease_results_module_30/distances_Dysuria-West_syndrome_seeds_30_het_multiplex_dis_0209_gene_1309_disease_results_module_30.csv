@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,12,13,0.0002564102564102111
+2,disease_on_drugs,21,19,-0.16716791979949863

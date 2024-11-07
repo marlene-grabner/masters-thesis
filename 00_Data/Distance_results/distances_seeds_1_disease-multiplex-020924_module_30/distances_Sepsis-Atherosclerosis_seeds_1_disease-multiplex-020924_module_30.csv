@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,22,30,0.2325174825174825
+1,disease_on_symptoms,23,13,0.7070791527313267
+2,disease_on_drugs,17,29,0.8107416879795397

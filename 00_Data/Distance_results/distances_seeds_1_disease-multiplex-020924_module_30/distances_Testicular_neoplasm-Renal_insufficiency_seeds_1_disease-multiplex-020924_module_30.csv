@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,20,0.12111111111111117
+1,disease_on_symptoms,25,23,1.9987318840579709
+2,disease_on_drugs,23,17,0.7050511508951407

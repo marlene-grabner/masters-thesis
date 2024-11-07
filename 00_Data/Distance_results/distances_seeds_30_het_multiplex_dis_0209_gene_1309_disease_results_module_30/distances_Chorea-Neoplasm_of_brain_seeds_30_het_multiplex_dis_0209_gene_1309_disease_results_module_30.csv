@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,17,19,1.2521499828001375
+2,disease_on_drugs,24,29,0.6121367382346563

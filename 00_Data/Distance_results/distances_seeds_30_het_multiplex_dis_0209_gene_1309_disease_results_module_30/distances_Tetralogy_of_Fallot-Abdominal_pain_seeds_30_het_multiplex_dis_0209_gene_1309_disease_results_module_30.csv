@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666685
+1,disease_on_symptoms,19,19,-0.10526315789473695
+2,disease_on_drugs,20,29,-0.13070021111893038

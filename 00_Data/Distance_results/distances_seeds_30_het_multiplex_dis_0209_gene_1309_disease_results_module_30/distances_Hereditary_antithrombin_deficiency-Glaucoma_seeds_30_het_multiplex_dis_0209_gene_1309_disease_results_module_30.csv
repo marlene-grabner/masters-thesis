@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,-0.12011494252873556
+1,disease_on_symptoms,16,18,0.07965686274509798
+2,disease_on_drugs,23,28,-0.2507459505541345

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.06808883693746337
+1,disease_on_symptoms,13,18,-0.30569341053212007
+2,disease_on_drugs,19,28,-0.16985282354823217

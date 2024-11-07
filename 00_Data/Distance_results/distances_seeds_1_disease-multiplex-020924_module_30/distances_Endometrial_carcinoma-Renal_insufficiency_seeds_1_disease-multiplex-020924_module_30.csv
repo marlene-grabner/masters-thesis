@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,23,20,0.24989888776541958
+1,disease_on_symptoms,21,23,0.9951063429324298
+2,disease_on_drugs,21,17,0.40999557717823976

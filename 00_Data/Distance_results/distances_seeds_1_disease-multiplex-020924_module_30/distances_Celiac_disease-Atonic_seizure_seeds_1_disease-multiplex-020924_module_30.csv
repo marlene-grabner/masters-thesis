@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,17,29,0.3804568304083251
+1,disease_on_symptoms,22,16,1.6776315789473686
+2,disease_on_drugs,15,24,1.0692307692307694

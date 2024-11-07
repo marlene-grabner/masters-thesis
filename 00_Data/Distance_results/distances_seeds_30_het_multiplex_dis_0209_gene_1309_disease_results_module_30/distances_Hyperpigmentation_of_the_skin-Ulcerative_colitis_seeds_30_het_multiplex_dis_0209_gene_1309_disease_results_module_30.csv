@@ -1,0 +1,4 @@
+,Layer,Hyperpigmentation_of_the_skin nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,17,20,0.7779014308426073
+2,disease_on_drugs,28,27,0.16688311688311686

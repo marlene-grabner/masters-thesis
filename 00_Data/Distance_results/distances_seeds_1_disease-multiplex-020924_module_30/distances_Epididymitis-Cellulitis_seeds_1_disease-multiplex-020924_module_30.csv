@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,29,22,-0.44771756978653543
+1,disease_on_symptoms,23,26,-0.5649443723977885
+2,disease_on_drugs,27,12,-0.4216524216524218

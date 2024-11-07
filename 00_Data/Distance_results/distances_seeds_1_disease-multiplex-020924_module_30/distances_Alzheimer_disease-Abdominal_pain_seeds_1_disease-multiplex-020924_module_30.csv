@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,20,30,0.22166666666666668
+1,disease_on_symptoms,23,24,0.8495027752081408
+2,disease_on_drugs,18,24,0.17261904761904767

@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.19000000000000017
+1,disease_on_symptoms,16,26,0.9814560439560438
+2,disease_on_drugs,29,13,0.40293040293040305

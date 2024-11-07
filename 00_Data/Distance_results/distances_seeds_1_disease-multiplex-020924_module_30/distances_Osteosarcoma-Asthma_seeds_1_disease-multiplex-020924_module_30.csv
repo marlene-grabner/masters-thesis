@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Asthma nodes,sAB
+0,disease_on_genes,25,25,0.24
+1,disease_on_symptoms,24,19,1.553677070583435
+2,disease_on_drugs,23,24,0.8519503546099292

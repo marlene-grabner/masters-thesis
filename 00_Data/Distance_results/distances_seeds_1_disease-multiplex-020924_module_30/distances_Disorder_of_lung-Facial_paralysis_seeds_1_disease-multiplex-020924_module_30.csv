@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,0.1199832236417604
+1,disease_on_symptoms,17,23,0.6559462915601024
+2,disease_on_drugs,20,14,-0.05882352941176472

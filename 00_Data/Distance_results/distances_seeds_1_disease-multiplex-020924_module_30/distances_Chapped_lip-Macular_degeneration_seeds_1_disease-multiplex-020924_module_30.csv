@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.2333333333333334
+1,disease_on_symptoms,21,15,0.3642857142857143
+2,disease_on_drugs,24,21,0.39841269841269855

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,0.05659033489222165
+1,disease_on_symptoms,21,21,1.7619047619047616
+2,disease_on_drugs,27,25,0.6537321937321936

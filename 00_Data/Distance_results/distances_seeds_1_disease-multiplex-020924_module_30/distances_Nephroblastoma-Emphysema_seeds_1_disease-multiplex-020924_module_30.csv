@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Emphysema nodes,sAB
+0,disease_on_genes,25,30,0.08696969696969692
+1,disease_on_symptoms,25,14,0.5697069597069597
+2,disease_on_drugs,21,29,0.52

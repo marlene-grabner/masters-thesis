@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.07161172161172169
+1,disease_on_symptoms,20,17,-0.11641494435612065
+2,disease_on_drugs,30,24,0.08749999999999991

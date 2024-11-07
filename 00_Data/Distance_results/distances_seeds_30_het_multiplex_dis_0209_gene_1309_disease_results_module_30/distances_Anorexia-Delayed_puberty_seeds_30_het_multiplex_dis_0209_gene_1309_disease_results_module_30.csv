@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,29,30,-0.10198714202220915
+1,disease_on_symptoms,13,16,0.27022546419098115
+2,disease_on_drugs,28,29,0.19384668567971652

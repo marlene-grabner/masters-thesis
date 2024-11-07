@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Keloid nodes,sAB
+0,disease_on_genes,26,22,0.46576340326340326
+1,disease_on_symptoms,20,20,1.9500000000000002
+2,disease_on_drugs,20,19,0.8205128205128205

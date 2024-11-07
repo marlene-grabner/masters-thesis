@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.08771929824561409
+1,disease_on_symptoms,17,16,0.8755013368983957
+2,disease_on_drugs,17,28,0.5257469654528477

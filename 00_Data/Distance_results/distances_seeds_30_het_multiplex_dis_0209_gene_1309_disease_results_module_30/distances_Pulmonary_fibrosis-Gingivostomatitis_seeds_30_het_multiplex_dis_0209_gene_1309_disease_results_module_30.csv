@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,25,30,-0.3439393939393939
+1,disease_on_symptoms,22,15,-0.9346027846027847
+2,disease_on_drugs,25,30,-0.2772727272727272

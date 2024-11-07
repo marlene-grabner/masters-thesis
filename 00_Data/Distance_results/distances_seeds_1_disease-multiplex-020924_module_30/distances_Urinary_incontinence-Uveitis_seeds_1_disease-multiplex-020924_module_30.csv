@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.2594322344322346
+1,disease_on_symptoms,20,21,1.3114111498257839
+2,disease_on_drugs,20,27,0.5346729708431834

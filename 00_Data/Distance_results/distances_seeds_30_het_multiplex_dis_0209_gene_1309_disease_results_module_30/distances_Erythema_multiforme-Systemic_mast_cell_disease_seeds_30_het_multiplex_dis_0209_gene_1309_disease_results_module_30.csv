@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.20338983050847448
+1,disease_on_symptoms,18,25,0.6263049095607234
+2,disease_on_drugs,30,21,0.20070028011204455

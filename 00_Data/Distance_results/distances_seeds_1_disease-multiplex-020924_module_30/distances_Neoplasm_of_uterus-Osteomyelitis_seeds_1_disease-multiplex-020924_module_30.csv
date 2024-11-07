@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,28,25,0.32140161725067373
+1,disease_on_symptoms,19,23,0.9820202680614583
+2,disease_on_drugs,28,23,1.1543508707830958

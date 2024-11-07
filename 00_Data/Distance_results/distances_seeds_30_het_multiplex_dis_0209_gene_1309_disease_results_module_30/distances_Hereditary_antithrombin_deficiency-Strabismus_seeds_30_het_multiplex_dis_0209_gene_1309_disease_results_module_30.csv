@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,17,-0.08104575163398697
+1,disease_on_symptoms,16,24,0.04166666666666652
+2,disease_on_drugs,23,16,-0.028602285395763483

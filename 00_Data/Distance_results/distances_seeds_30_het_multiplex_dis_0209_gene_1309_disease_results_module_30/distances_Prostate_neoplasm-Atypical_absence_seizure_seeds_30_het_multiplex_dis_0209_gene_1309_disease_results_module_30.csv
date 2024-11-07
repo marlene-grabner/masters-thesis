@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,21,30,-0.023809523809523725
+1,disease_on_symptoms,20,13,1.649009324009324
+2,disease_on_drugs,21,22,0.5121061109433203

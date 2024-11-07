@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.0011904761904761862
+1,disease_on_symptoms,17,20,0.6850556438791733
+2,disease_on_drugs,26,24,0.1466666666666665

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,18,19,0.38458195037142406
+2,disease_on_drugs,22,30,-0.33065268065268083

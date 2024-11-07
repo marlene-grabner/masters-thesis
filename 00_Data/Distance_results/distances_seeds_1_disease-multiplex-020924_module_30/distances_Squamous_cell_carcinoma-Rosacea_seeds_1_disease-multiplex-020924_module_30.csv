@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Rosacea nodes,sAB
+0,disease_on_genes,16,30,0.21630434782608687
+1,disease_on_symptoms,26,17,1.461906766284331
+2,disease_on_drugs,14,27,0.4390243902439024

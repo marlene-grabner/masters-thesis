@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,19,20,0.3644399460188934
+2,disease_on_drugs,29,28,0.15627430645579476

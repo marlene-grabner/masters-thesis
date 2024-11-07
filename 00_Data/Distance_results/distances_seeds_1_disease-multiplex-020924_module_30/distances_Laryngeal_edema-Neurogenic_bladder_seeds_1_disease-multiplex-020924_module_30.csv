@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,20,17,0.8782193958664548
+2,disease_on_drugs,28,26,0.5945767195767195

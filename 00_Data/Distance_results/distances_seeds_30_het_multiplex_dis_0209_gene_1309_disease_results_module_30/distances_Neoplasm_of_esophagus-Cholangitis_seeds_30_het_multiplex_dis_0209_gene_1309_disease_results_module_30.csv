@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Cholangitis nodes,sAB
+0,disease_on_genes,29,30,-0.16978375219170072
+1,disease_on_symptoms,20,18,0.22514619883040932
+2,disease_on_drugs,25,28,-0.06334231805929935

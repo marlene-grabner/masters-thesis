@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,28,20,0.20416666666666683
+1,disease_on_symptoms,21,25,1.484927536231884
+2,disease_on_drugs,21,19,0.2997493734335839

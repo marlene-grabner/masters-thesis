@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,26,-0.018867924528301883
+1,disease_on_symptoms,17,21,0.26514816452896994
+2,disease_on_drugs,26,26,0.05769230769230771

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.06785714285714295
+1,disease_on_symptoms,19,20,0.20323886639676125
+2,disease_on_drugs,20,24,-0.012878787878787934

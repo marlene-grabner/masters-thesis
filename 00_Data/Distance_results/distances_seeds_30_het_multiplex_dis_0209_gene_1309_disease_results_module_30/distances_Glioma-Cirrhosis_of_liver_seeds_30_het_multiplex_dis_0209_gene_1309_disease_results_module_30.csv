@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,-0.13461538461538458
+1,disease_on_symptoms,21,19,0.24229323308270678
+2,disease_on_drugs,21,30,-0.04005602240896344

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Myalgia nodes,sAB
+0,disease_on_genes,28,30,-0.017857142857142794
+1,disease_on_symptoms,19,16,0.34638157894736876
+2,disease_on_drugs,22,29,-0.1895937058208863

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,29,26,0.07261876054979499
+1,disease_on_symptoms,23,21,0.8677300959909653
+2,disease_on_drugs,27,25,0.5960398860398859

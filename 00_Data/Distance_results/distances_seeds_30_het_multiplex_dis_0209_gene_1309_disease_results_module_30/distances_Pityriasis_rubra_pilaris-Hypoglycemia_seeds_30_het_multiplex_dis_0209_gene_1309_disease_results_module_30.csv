@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,-0.03615984405458095
+1,disease_on_symptoms,21,19,0.9903508771929825
+2,disease_on_drugs,25,27,0.1964672364672364

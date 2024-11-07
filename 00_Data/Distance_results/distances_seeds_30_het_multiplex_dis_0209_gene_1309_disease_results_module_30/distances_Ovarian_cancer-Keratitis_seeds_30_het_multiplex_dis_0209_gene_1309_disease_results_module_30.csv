@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,0.05350877192982462
+1,disease_on_symptoms,17,25,0.7932773109243696
+2,disease_on_drugs,17,29,0.45784460710821073

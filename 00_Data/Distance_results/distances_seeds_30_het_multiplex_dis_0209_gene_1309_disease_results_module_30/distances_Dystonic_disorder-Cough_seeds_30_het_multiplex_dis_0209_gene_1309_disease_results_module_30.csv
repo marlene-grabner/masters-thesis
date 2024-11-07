@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,17,22,1.0982106129164952
+2,disease_on_drugs,26,24,0.34128205128205114

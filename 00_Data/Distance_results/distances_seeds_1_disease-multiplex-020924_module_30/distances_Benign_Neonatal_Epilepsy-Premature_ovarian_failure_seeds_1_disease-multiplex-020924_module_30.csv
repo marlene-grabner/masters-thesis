@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,29,28,0.42105263157894735
+1,disease_on_symptoms,16,21,2.4462274774774775
+2,disease_on_drugs,26,21,0.8034447821681863

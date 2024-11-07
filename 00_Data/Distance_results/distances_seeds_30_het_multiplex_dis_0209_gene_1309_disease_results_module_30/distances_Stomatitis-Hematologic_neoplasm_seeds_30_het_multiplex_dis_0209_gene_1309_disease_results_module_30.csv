@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,18,0.48660502607871026
+2,disease_on_drugs,29,27,-0.10755336617405598

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.23758036236119218
+1,disease_on_symptoms,23,13,-0.4379412857673728
+2,disease_on_drugs,23,28,-0.3259042747533796

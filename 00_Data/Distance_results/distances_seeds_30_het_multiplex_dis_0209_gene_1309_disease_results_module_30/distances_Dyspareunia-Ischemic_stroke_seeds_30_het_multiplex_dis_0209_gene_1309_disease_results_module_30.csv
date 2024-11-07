@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,0.0
+1,disease_on_symptoms,20,16,0.2583333333333335
+2,disease_on_drugs,28,28,0.14285714285714302

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.03333333333333344
+1,disease_on_symptoms,19,17,0.3514791881664947
+2,disease_on_drugs,20,29,-0.210573539760732

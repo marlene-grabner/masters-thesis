@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.17564102564102568
+1,disease_on_symptoms,13,21,0.8327946563240682
+2,disease_on_drugs,28,17,0.2675770308123251

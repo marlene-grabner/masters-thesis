@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,0.10942528735632195
+1,disease_on_symptoms,17,25,2.192717086834734
+2,disease_on_drugs,26,23,1.1413726025527264

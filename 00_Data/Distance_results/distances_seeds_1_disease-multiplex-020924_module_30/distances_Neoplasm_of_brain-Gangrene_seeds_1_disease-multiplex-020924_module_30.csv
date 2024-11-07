@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Gangrene nodes,sAB
+0,disease_on_genes,22,26,0.26893939393939403
+1,disease_on_symptoms,23,19,1.5876103301732591
+2,disease_on_drugs,20,23,0.7422143579373104

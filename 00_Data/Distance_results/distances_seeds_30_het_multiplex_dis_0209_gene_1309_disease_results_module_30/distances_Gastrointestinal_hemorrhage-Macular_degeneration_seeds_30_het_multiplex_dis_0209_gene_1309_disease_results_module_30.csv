@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,28,30,0.22409688013136275
+1,disease_on_symptoms,20,17,0.1509538950715421
+2,disease_on_drugs,27,17,0.06268568033273914

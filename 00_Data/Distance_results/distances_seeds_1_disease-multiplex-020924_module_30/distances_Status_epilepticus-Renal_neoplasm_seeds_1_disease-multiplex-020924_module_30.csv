@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,29,22,0.2220634335238798
+1,disease_on_symptoms,17,25,1.6408963585434173
+2,disease_on_drugs,30,18,1.1875

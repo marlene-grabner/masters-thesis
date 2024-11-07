@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,26,30,-0.033333333333333215
+1,disease_on_symptoms,21,19,0.26083959899749387
+2,disease_on_drugs,25,24,-0.16500000000000004

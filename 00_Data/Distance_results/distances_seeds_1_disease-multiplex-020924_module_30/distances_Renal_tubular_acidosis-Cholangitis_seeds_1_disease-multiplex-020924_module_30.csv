@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,18,27,0.44259259259259265
+1,disease_on_symptoms,18,22,1.959848484848485
+2,disease_on_drugs,10,26,0.5944444444444443

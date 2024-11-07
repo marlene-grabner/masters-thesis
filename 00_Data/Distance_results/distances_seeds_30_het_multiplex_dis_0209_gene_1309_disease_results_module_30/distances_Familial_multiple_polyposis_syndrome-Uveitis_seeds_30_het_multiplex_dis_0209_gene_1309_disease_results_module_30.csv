@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,19,20,0.5365721997300943
+2,disease_on_drugs,25,23,0.2877536231884059

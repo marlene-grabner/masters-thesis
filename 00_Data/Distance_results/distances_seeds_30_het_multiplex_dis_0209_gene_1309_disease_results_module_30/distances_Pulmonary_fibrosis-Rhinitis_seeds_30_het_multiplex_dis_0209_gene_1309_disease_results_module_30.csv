@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,-0.09090909090909094
+1,disease_on_symptoms,22,12,-0.321301247771836
+2,disease_on_drugs,25,23,-0.2105072463768114

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,0.20126612517916875
+1,disease_on_symptoms,21,20,1.246022067363531
+2,disease_on_drugs,23,20,0.6261627906976746

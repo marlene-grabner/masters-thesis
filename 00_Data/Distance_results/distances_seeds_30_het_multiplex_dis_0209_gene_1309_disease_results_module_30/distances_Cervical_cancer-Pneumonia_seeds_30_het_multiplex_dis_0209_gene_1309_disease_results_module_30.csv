@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,0.15517241379310343
+1,disease_on_symptoms,22,23,0.3996047430830041
+2,disease_on_drugs,15,29,0.18709508881922665

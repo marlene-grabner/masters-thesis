@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,21,16,0.1297860360360361
+2,disease_on_drugs,23,27,-0.13590982286634445

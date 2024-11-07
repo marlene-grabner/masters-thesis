@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,16,29,0.5121647509578544
+1,disease_on_symptoms,26,16,1.8459249084249083
+2,disease_on_drugs,14,22,1.1388888888888888

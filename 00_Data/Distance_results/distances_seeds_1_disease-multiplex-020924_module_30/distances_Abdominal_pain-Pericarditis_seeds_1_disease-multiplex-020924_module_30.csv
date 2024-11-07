@@ -1,0 +1,4 @@
+,Layer,Abdominal_pain nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,-0.3787878787878787
+1,disease_on_symptoms,24,22,-0.2823616600790513
+2,disease_on_drugs,24,25,-0.4290136054421767

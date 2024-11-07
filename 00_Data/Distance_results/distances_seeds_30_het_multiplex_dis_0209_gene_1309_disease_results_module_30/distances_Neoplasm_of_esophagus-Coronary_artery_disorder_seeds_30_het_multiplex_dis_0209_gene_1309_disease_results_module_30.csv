@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,23,-0.1928266635912813
+1,disease_on_symptoms,20,19,0.5664642375168691
+2,disease_on_drugs,25,22,-0.048355899419729065

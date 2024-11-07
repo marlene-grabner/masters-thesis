@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,28,20,0.12083333333333335
+1,disease_on_symptoms,23,23,1.065217391304348
+2,disease_on_drugs,26,17,0.48274229190781837

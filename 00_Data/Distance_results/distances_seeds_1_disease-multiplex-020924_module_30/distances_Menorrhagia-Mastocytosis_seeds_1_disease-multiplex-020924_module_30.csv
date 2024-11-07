@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,18,0.34634809634809627
+1,disease_on_symptoms,19,28,0.8346064629659251
+2,disease_on_drugs,24,17,0.33497728359636536

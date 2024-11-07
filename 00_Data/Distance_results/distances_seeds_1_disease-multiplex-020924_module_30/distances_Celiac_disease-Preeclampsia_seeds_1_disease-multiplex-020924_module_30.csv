@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,17,26,0.2667578659370724
+1,disease_on_symptoms,22,17,3.4939668174962297
+2,disease_on_drugs,15,23,0.8133485888634631

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,-0.15886939571150105
+1,disease_on_symptoms,21,23,-0.047148503670242814
+2,disease_on_drugs,27,29,-0.1073253056011676

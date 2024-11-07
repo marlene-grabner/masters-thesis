@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,-0.02499999999999991
+1,disease_on_symptoms,16,24,0.9916666666666667
+2,disease_on_drugs,29,18,0.08037825059101644

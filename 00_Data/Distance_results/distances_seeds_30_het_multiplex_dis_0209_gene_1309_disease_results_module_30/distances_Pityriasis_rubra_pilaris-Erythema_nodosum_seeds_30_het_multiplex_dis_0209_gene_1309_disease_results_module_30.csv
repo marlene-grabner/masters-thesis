@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,30,-0.26510721247563374
+1,disease_on_symptoms,21,22,-0.3909443269908386
+2,disease_on_drugs,25,29,-0.3324648786717752

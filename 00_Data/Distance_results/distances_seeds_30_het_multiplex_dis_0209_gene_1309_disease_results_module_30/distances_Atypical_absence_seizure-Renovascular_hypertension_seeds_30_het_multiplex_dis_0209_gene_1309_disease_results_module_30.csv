@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,13,17,0.8708898944193062
+2,disease_on_drugs,22,29,0.15392771528674154

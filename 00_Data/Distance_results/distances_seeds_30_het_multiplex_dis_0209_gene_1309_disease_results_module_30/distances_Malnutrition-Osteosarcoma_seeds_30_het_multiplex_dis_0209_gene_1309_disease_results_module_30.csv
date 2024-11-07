@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333332
+1,disease_on_symptoms,14,22,-0.25288600288600294
+2,disease_on_drugs,29,29,-0.15517241379310343

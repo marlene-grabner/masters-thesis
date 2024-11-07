@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,18,21,0.27564102564102555
+1,disease_on_symptoms,18,24,3.145833333333333
+2,disease_on_drugs,10,20,0.2583333333333333

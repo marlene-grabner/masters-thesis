@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.3290909090909091
+1,disease_on_symptoms,21,26,-0.05545164055802365
+2,disease_on_drugs,27,24,-0.3175381263616558

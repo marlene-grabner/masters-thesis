@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.03411306042884976
+1,disease_on_symptoms,23,16,0.7961259754738015
+2,disease_on_drugs,25,28,0.5328706199460918

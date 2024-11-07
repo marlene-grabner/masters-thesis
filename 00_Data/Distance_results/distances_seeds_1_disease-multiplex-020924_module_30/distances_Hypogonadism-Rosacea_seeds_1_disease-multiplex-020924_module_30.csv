@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,0.08559322033898309
+1,disease_on_symptoms,12,17,0.8223461798512512
+2,disease_on_drugs,30,27,0.6324561403508773

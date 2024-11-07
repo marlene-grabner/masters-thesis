@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,18,16,0.7587826797385622
+2,disease_on_drugs,22,27,0.3418710918710919

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,16,0.8771724598930479
+2,disease_on_drugs,26,28,0.2946682946682946

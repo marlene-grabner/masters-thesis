@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,30,0.0
+1,disease_on_symptoms,14,23,0.09400705052878955
+2,disease_on_drugs,22,24,-0.24176548089591576

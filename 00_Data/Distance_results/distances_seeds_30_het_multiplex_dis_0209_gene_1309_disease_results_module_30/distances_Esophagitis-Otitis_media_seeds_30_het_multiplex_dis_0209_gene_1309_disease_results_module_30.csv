@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.15255211377362177
+1,disease_on_symptoms,20,20,-0.02499999999999991
+2,disease_on_drugs,30,28,-0.12155172413793114

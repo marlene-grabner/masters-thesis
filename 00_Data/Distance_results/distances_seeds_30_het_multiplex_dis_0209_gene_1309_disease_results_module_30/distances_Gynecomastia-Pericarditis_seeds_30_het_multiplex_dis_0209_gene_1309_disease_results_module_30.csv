@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,15,21,0.25396825396825395
+2,disease_on_drugs,29,26,0.17707981673498918

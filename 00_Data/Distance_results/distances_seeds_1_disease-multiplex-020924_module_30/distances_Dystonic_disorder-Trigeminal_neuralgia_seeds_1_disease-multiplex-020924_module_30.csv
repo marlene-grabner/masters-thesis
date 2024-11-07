@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,17,28,0.09544817927170857
+1,disease_on_symptoms,28,19,0.4950207966725322
+2,disease_on_drugs,9,26,0.23791208791208796

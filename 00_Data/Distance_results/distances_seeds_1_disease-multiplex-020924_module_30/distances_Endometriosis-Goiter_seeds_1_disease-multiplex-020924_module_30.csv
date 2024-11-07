@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.4409340659340659
+1,disease_on_symptoms,12,15,0.8703703703703702
+2,disease_on_drugs,27,16,1.13953488372093

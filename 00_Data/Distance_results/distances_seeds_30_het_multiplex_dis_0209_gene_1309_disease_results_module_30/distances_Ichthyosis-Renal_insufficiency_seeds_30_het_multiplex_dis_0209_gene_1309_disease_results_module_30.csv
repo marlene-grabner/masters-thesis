@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,28,30,-0.15578817733990147
+1,disease_on_symptoms,18,19,0.18282756440651182
+2,disease_on_drugs,25,28,-0.12738544474393532

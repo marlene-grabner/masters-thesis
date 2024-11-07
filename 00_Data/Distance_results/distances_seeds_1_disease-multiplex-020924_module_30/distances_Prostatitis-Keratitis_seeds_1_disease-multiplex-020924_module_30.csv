@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.25968801313628886
+1,disease_on_symptoms,20,25,0.7905555555555557
+2,disease_on_drugs,29,23,0.5349152346903472

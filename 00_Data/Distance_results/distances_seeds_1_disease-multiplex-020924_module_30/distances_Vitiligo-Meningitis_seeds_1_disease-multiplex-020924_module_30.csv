@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Meningitis nodes,sAB
+0,disease_on_genes,24,29,0.11533561049663832
+1,disease_on_symptoms,22,20,1.616125541125541
+2,disease_on_drugs,11,26,0.2432432432432432

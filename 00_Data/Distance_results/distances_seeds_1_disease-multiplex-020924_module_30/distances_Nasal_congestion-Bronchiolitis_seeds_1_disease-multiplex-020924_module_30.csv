@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.24901558654634948
+1,disease_on_symptoms,15,25,0.9466666666666663
+2,disease_on_drugs,23,18,0.5778543655001767

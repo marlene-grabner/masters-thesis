@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,22,25,0.25479690522243703
+1,disease_on_symptoms,19,23,1.68001525553013
+2,disease_on_drugs,18,23,0.34337810769412025

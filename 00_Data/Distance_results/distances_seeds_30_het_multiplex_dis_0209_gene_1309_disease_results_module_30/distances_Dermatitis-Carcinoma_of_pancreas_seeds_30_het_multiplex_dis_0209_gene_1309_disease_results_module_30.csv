@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,14,18,0.2822420634920635
+2,disease_on_drugs,28,21,0.1326530612244896

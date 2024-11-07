@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.37988505747126444
+1,disease_on_symptoms,17,12,1.0086206896551726
+2,disease_on_drugs,26,21,0.6024666822539164

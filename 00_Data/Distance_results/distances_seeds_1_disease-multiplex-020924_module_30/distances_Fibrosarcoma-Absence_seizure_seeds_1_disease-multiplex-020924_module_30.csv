@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,22,29,0.4103970741901777
+1,disease_on_symptoms,24,16,2.8125
+2,disease_on_drugs,13,22,1.5714285714285716

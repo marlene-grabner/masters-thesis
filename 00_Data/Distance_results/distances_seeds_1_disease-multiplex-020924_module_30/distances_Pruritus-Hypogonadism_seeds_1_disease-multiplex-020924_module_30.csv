@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.06962962962962949
+1,disease_on_symptoms,19,12,0.8665817770232032
+2,disease_on_drugs,24,30,0.6685185185185185

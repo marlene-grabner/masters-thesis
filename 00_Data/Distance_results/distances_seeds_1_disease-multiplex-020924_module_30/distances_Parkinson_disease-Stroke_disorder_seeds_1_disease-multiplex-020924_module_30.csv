@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,21,30,0.07717086834733888
+1,disease_on_symptoms,20,15,-0.07380952380952399
+2,disease_on_drugs,19,30,-0.061224489795918324

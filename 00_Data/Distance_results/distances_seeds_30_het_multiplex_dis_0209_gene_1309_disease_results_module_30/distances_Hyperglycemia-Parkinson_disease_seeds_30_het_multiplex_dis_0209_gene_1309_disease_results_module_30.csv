@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.16761006289308167
+1,disease_on_symptoms,17,23,0.8874680306905371
+2,disease_on_drugs,26,22,0.005827505827505908

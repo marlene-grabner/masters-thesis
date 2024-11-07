@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,17,30,0.24184782608695654
+1,disease_on_symptoms,27,13,1.949216524216524
+2,disease_on_drugs,14,23,0.5747439986570422

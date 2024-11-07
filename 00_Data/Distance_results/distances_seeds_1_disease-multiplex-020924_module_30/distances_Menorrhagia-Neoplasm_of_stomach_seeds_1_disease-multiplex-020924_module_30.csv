@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,26,23,0.16679748822605966
+1,disease_on_symptoms,19,24,0.8999133006935947
+2,disease_on_drugs,24,22,0.5216567852437419

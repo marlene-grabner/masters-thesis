@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,21,17,0.09332153914197261
+2,disease_on_drugs,25,30,-0.2278787878787879

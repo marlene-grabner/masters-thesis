@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,-0.12907000407000424
+1,disease_on_symptoms,21,19,0.22161654135338327
+2,disease_on_drugs,26,26,-0.019230769230769162

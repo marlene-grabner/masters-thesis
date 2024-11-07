@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,-0.2501831501831503
+1,disease_on_symptoms,17,19,-0.04411764705882337
+2,disease_on_drugs,24,29,0.030484168293211766

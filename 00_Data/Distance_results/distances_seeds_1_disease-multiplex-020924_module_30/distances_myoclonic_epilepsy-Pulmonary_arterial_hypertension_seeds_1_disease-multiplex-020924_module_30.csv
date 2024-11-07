@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.3108784893267651
+1,disease_on_symptoms,16,18,2.1337826797385624
+2,disease_on_drugs,23,26,0.9767763292608012

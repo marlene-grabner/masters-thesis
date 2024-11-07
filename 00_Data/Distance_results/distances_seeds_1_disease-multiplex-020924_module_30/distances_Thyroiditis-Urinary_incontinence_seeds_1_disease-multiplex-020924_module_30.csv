@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,26,0.3076923076923077
+1,disease_on_symptoms,28,20,0.7291666666666665
+2,disease_on_drugs,23,20,0.5131445904954499

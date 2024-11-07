@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,22,17,0.6206293706293708
+2,disease_on_drugs,25,26,0.058748114630467585

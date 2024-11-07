@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Priapism nodes,sAB
+0,disease_on_genes,24,30,0.28148148148148167
+1,disease_on_symptoms,23,17,2.0777493606138107
+2,disease_on_drugs,22,28,0.7464285714285714

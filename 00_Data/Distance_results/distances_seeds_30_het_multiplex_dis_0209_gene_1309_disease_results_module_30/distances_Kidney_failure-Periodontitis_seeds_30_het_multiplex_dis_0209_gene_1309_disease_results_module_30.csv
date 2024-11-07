@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,20,21,0.3417247386759581
+2,disease_on_drugs,28,28,-0.08928571428571419

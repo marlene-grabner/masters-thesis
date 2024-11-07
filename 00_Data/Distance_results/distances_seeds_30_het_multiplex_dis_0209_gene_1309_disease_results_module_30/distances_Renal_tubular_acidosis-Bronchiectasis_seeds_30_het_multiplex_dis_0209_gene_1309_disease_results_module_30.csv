@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,14,19,-0.20813397129186595
+2,disease_on_drugs,27,25,0.12145299145299138

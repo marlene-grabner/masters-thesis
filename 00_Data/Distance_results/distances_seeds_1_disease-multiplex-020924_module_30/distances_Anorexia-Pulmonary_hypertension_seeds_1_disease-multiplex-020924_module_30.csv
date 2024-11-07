@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,17,28,0.13116246498599438
+1,disease_on_symptoms,25,20,1.6022222222222222
+2,disease_on_drugs,13,28,0.7420262664165105

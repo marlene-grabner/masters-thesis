@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.09433962264150941
+1,disease_on_symptoms,17,17,0.11764705882352944
+2,disease_on_drugs,24,26,-0.022115384615384537

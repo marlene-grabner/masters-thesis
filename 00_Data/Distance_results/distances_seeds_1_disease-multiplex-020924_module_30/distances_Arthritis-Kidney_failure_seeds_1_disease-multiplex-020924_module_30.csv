@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,20,0.039999999999999813
+1,disease_on_symptoms,19,23,0.710035959463877
+2,disease_on_drugs,29,18,0.15631368712806704

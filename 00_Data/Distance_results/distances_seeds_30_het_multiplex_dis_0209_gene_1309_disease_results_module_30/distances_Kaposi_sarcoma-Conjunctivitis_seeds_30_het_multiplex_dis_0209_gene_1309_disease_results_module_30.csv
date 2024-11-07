@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,16,27,-0.0756890611541774
+2,disease_on_drugs,28,28,0.03571428571428581

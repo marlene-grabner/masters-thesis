@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Heartburn nodes,sAB
+0,disease_on_genes,17,24,0.15408297465327592
+1,disease_on_symptoms,21,20,1.7547909407665505
+2,disease_on_drugs,14,22,0.8383838383838385

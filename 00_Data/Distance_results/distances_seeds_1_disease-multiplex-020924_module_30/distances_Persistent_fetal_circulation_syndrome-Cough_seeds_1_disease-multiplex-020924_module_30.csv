@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,-0.09698005698005707
+1,disease_on_symptoms,20,21,0.5861788617886181
+2,disease_on_drugs,18,27,-0.14259259259259272

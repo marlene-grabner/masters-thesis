@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,17,22,-0.044666118195530125
+2,disease_on_drugs,24,23,-0.23367637989515877

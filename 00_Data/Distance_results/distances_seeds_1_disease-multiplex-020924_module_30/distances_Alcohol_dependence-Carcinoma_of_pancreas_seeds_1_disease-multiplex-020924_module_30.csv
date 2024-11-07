@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,12,23,0.27261904761904776
+1,disease_on_symptoms,27,25,0.7868091168091167
+2,disease_on_drugs,9,21,0.3222222222222222

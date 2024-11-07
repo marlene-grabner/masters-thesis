@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,21,27,0.3118386243386244
+1,disease_on_symptoms,20,21,1.9812427409988387
+2,disease_on_drugs,19,24,0.7931201550387594

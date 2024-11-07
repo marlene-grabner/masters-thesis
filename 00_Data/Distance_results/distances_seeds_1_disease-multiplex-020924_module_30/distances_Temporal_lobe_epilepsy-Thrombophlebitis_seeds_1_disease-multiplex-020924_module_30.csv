@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,29,28,0.2803776683087027
+1,disease_on_symptoms,17,15,2.013848039215686
+2,disease_on_drugs,26,21,0.9807692307692308

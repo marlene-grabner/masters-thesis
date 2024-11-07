@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.5333333333333332
+1,disease_on_symptoms,19,22,-0.9280546154743844
+2,disease_on_drugs,30,29,-0.5432690434443794

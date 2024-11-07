@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.457075682937752
+1,disease_on_symptoms,18,20,0.9453216374269005
+2,disease_on_drugs,19,27,0.5732265446224256

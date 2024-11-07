@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,18,16,0.42647058823529393
+2,disease_on_drugs,29,25,0.26227330779054925

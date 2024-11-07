@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,17,25,0.0019607843137257053
+2,disease_on_drugs,30,29,-0.1353302162478084

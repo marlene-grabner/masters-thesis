@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,26,26,-0.09615384615384603
+1,disease_on_symptoms,18,19,0.3245218903113638
+2,disease_on_drugs,25,25,0.3999999999999999

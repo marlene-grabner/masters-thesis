@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Orchitis nodes,sAB
+0,disease_on_genes,28,25,-0.09332884097035032
+1,disease_on_symptoms,19,19,0.4736842105263157
+2,disease_on_drugs,22,25,-0.1741586073500967

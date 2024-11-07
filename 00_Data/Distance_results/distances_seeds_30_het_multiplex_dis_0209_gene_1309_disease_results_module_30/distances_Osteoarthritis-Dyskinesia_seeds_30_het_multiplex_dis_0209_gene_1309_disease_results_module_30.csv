@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,30,-0.14560439560439542
+1,disease_on_symptoms,22,15,0.8013513513513513
+2,disease_on_drugs,25,28,0.22289757412398914

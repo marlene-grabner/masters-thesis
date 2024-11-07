@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,24,20,0.07916666666666661
+1,disease_on_symptoms,18,23,0.497613997879109
+2,disease_on_drugs,18,17,0.5663865546218487

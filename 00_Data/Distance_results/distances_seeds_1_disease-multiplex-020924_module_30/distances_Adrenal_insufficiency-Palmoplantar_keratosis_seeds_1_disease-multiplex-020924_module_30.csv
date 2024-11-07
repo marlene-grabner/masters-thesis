@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,17,26,0.40629274965800266
+1,disease_on_symptoms,21,19,1.6022556390977445
+2,disease_on_drugs,14,18,0.7222222222222223

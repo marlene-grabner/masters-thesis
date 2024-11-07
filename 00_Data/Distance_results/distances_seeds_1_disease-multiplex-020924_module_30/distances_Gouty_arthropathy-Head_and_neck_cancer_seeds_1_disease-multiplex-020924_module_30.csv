@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,25,27,0.26686609686609697
+1,disease_on_symptoms,13,22,1.2240259740259738
+2,disease_on_drugs,16,24,0.5020833333333334

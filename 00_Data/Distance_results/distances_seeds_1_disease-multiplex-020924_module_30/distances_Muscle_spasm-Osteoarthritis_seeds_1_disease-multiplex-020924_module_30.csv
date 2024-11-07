@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,25,25,0.21999999999999997
+1,disease_on_symptoms,23,20,1.4198179979777557
+2,disease_on_drugs,19,21,0.95

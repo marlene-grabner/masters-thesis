@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,30,-0.07554945054945061
+1,disease_on_symptoms,16,18,1.198529411764706
+2,disease_on_drugs,26,29,0.10623342175066286

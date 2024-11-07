@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,17,14,-0.118528056383844
+2,disease_on_drugs,29,25,-0.1510600255427843

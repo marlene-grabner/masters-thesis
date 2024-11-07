@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,22,15,0.8595004095004093
+2,disease_on_drugs,24,25,0.3885034013605442

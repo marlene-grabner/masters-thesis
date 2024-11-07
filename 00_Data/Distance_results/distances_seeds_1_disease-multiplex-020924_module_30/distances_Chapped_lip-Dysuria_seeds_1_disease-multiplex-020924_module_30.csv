@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Dysuria nodes,sAB
+0,disease_on_genes,26,30,0.48213166144200614
+1,disease_on_symptoms,21,16,1.861526705276705
+2,disease_on_drugs,24,23,0.9995374653098983

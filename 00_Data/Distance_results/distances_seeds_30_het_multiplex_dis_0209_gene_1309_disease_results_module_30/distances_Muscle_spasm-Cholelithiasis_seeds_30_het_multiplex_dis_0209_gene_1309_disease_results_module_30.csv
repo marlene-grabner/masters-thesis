@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.0
+1,disease_on_symptoms,15,20,0.6119047619047617
+2,disease_on_drugs,29,18,0.11443303171109487

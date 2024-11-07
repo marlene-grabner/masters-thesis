@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,28,27,0.03635161135161136
+1,disease_on_symptoms,18,14,1.0724206349206349
+2,disease_on_drugs,25,26,0.2156410256410255

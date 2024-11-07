@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,26,30,0.13992673992673965
+1,disease_on_symptoms,19,24,0.8412892696858423
+2,disease_on_drugs,24,28,0.4091117216117215

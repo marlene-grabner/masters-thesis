@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,23,17,0.3613171355498721
+2,disease_on_drugs,23,25,0.059347826086956434

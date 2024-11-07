@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,21,22,0.3271418503976642
+1,disease_on_symptoms,20,19,1.8958839406207826
+2,disease_on_drugs,19,19,0.736842105263158

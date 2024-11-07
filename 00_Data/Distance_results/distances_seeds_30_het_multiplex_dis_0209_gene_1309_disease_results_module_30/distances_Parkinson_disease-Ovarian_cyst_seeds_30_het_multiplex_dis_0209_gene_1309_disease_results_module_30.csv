@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,23,30,-0.07106918238993698
+1,disease_on_symptoms,23,19,0.4880135120409719
+2,disease_on_drugs,22,24,0.06867588932806323

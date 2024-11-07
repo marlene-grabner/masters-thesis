@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,-0.01924420792345316
+1,disease_on_symptoms,21,27,0.8607804232804233
+2,disease_on_drugs,24,26,-0.04096153846153827

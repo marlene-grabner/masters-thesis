@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Keloid nodes,sAB
+0,disease_on_genes,23,22,0.2893280632411068
+1,disease_on_symptoms,21,20,1.4875145180023228
+2,disease_on_drugs,21,19,0.5035714285714286

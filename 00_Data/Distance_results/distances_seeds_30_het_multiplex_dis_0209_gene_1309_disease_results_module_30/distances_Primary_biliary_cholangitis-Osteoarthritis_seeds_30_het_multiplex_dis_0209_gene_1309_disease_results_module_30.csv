@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,26,-0.19230769230769218
+1,disease_on_symptoms,23,22,-0.08381642512077292
+2,disease_on_drugs,26,25,-0.037767722473604826

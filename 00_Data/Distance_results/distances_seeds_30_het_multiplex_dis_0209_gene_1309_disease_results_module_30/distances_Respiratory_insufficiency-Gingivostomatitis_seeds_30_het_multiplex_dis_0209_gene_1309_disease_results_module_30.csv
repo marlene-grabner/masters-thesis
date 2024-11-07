@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.1394736842105263
+1,disease_on_symptoms,21,15,-0.22936507936507922
+2,disease_on_drugs,25,30,-0.08818181818181814

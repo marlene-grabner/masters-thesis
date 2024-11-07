@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.2912337662337663
+1,disease_on_symptoms,23,20,1.722952477249747
+2,disease_on_drugs,20,28,1.0416666666666665

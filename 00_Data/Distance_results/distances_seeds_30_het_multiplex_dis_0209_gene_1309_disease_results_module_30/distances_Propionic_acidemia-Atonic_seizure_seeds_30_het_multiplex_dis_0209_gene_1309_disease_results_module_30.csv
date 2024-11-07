@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,16,15,-0.24442204301075265
+2,disease_on_drugs,30,23,0.11205906480721883

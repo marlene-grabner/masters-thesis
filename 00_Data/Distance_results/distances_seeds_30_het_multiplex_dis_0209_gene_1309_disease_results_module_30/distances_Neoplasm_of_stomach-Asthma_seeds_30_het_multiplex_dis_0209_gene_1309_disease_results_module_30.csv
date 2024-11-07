@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Asthma nodes,sAB
+0,disease_on_genes,25,25,-0.12
+1,disease_on_symptoms,23,20,0.8812184024266934
+2,disease_on_drugs,24,22,0.39122200263504614

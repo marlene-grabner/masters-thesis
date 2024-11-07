@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.1132075471698113
+1,disease_on_symptoms,21,17,0.2259324782544596
+2,disease_on_drugs,27,22,-0.0004294647151787956

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,23,17,0.2161764705882352
+1,disease_on_symptoms,16,21,2.042591698841699
+2,disease_on_drugs,17,14,0.8766603415559773

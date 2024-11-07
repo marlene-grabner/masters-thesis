@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,-0.1785714285714286
+1,disease_on_symptoms,17,21,-0.11727849034350601
+2,disease_on_drugs,24,29,-0.10389557579700726

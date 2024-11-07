@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,20,18,0.33581871345029235
+2,disease_on_drugs,30,26,0.331043956043956

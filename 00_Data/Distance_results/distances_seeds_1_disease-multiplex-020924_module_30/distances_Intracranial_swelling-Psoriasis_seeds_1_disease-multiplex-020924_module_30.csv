@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.20623973727421996
+1,disease_on_symptoms,14,21,-0.19047619047619047
+2,disease_on_drugs,24,28,0.0011446886446886406

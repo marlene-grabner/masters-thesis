@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.01851851851851849
+1,disease_on_symptoms,25,19,0.5518660287081341
+2,disease_on_drugs,30,24,0.18379629629629624

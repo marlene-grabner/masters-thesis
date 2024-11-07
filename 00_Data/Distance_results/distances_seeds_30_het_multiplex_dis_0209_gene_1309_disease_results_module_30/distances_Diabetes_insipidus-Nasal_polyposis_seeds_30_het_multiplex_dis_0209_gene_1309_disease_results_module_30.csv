@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,26,30,0.15934065934065944
+1,disease_on_symptoms,20,20,0.44999999999999973
+2,disease_on_drugs,20,25,0.3077777777777777

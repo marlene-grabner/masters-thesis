@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,29,0.4207393483709274
+1,disease_on_symptoms,14,18,2.2063492063492065
+2,disease_on_drugs,24,22,0.7826086956521738

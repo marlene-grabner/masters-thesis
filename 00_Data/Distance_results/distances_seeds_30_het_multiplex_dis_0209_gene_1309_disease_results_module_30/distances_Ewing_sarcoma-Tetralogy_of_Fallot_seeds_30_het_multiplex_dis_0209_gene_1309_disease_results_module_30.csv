@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,30,30,-0.03333333333333344
+1,disease_on_symptoms,17,19,0.1178190574475404
+2,disease_on_drugs,24,20,-0.010984848484848486

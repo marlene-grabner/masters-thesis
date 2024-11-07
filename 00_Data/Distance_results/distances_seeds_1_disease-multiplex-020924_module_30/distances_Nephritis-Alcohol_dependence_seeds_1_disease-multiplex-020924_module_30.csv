@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.4821428571428572
+1,disease_on_symptoms,18,27,1.0240740740740741
+2,disease_on_drugs,27,9,0.6296296296296295

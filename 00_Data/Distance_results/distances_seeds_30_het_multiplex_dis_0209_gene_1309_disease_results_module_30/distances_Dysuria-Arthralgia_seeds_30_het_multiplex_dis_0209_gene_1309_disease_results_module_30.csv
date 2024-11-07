@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,12,17,1.0082826233941855
+2,disease_on_drugs,21,30,0.0018207282913165201

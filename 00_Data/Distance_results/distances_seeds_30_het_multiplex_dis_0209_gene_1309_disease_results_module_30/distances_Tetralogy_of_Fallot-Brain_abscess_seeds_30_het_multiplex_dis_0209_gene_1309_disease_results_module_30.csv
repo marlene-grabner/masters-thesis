@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.13771929824561413
+1,disease_on_symptoms,19,21,0.034649122807017596
+2,disease_on_drugs,20,23,-0.3493680485338726

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Anorexia nodes,sAB
+0,disease_on_genes,28,17,0.17560690943043888
+1,disease_on_symptoms,19,25,1.748421052631579
+2,disease_on_drugs,26,13,0.9615384615384617

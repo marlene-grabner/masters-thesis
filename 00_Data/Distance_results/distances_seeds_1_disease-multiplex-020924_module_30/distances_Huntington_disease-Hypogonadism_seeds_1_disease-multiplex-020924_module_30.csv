@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.13587570621468936
+1,disease_on_symptoms,16,12,0.6622023809523812
+2,disease_on_drugs,27,30,0.9131578947368422

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,15,16,-0.3451612903225807
+2,disease_on_drugs,28,29,-0.17429349235156844

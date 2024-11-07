@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,17,29,-0.017197283711085642
+1,disease_on_symptoms,21,16,0.4132078507078507
+2,disease_on_drugs,17,25,0.5602240896358543

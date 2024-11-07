@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,20,21,0.3897212543554005
+2,disease_on_drugs,20,30,0.22666666666666657

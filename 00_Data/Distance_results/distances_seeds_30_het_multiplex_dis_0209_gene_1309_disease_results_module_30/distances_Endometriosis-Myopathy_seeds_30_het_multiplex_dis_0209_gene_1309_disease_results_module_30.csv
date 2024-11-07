@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,-0.22421383647798732
+1,disease_on_symptoms,16,22,0.04859449760765533
+2,disease_on_drugs,30,21,-0.27689075630252113

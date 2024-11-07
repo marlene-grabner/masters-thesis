@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.15283459964932777
+1,disease_on_symptoms,19,13,0.5831224696356276
+2,disease_on_drugs,30,28,0.2573070607553365

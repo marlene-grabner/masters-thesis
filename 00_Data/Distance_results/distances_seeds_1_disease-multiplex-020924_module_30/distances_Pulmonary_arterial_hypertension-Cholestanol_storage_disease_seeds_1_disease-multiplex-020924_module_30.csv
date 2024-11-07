@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,28,30,0.1890394088669951
+1,disease_on_symptoms,18,17,0.9423436041083102
+2,disease_on_drugs,26,25,0.6254751131221719

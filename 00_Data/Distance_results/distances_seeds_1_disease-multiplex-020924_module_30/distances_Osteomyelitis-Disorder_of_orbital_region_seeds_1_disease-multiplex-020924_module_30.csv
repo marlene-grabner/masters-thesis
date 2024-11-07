@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,25,17,-0.05859943977591042
+1,disease_on_symptoms,23,27,1.2160386473429952
+2,disease_on_drugs,23,16,0.48376532887402446

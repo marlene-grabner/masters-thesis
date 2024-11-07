@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,24,26,0.6557692307692309
+1,disease_on_symptoms,26,17,1.3830895506682102
+2,disease_on_drugs,15,18,1.3181818181818183

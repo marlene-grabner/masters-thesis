@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,0.34973166368515196
+1,disease_on_symptoms,13,25,3.4222672064777324
+2,disease_on_drugs,23,8,0.48316970546984583

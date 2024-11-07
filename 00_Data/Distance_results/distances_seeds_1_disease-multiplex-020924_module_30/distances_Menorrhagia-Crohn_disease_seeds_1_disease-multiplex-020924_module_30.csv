@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,25,0.2206410256410256
+1,disease_on_symptoms,19,20,1.86970310391363
+2,disease_on_drugs,24,21,0.39821428571428563

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,29,29,0.2068965517241379
+1,disease_on_symptoms,23,20,1.4926188068756319
+2,disease_on_drugs,26,20,0.3802675585284281

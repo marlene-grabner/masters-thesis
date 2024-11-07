@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,24,30,0.0532407407407407
+1,disease_on_symptoms,19,13,0.5201163967611335
+2,disease_on_drugs,19,24,-0.10003569971440229

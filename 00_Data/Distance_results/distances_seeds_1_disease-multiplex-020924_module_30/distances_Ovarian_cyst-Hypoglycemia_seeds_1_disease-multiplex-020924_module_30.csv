@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,20,30,0.345
+1,disease_on_symptoms,22,12,1.476827094474153
+2,disease_on_drugs,15,22,1.3054054054054052

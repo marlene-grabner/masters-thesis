@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,24,30,0.21851851851851856
+1,disease_on_symptoms,23,17,1.0755754475703323
+2,disease_on_drugs,24,26,0.7

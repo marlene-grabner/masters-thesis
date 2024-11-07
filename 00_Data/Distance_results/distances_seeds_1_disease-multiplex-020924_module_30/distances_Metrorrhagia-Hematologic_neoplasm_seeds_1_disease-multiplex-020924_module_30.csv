@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,22,0.18367346938775508
+1,disease_on_symptoms,17,24,0.48406862745098045
+2,disease_on_drugs,26,19,0.5007197480881691

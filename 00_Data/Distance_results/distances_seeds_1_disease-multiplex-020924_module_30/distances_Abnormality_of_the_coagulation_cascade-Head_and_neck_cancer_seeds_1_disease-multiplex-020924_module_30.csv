@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,23,27,0.05626409017713363
+1,disease_on_symptoms,23,22,0.11091348265261303
+2,disease_on_drugs,18,24,0.15674603174603186

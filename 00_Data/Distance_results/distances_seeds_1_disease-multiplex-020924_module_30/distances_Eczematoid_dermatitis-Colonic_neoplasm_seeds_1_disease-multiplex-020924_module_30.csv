@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.25800492610837455
+1,disease_on_symptoms,24,19,0.8527641778865771
+2,disease_on_drugs,28,29,0.6134085213032583

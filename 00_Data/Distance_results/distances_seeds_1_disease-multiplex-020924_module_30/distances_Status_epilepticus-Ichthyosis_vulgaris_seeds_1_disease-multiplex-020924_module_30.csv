@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,0.33857872650976084
+1,disease_on_symptoms,17,21,2.136886333480761
+2,disease_on_drugs,30,27,0.7719298245614035

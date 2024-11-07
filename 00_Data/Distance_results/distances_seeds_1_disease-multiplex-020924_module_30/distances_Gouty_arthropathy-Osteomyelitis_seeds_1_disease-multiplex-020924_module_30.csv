@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,25,25,0.33999999999999986
+1,disease_on_symptoms,13,23,1.4782608695652173
+2,disease_on_drugs,16,23,0.7201435340022297

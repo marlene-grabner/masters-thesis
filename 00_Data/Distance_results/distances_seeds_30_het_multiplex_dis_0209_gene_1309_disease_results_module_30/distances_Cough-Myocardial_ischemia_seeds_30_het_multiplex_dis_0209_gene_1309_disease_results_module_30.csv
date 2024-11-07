@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.0008771929824562541
+1,disease_on_symptoms,22,19,0.27964173182401675
+2,disease_on_drugs,24,30,0.29074074074074074

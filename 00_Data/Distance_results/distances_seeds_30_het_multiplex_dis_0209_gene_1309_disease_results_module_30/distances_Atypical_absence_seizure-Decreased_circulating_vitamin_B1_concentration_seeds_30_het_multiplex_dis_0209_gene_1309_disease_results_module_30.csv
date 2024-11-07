@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,13,17,0.4571644042232279
+2,disease_on_drugs,22,25,0.25862669245647973

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,22,30,-0.038461538461538436
+1,disease_on_symptoms,21,18,0.24481074481074483
+2,disease_on_drugs,17,21,0.003980539584254705

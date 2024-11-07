@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,-0.021481481481481435
+1,disease_on_symptoms,25,25,0.54
+2,disease_on_drugs,27,23,0.0698550724637681

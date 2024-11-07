@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,20,30,0.2650000000000001
+1,disease_on_symptoms,22,20,0.08593073593073597
+2,disease_on_drugs,15,28,0.40456810631229256

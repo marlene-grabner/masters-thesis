@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,18,11,0.5904737025426678
+2,disease_on_drugs,28,24,0.006868131868131844

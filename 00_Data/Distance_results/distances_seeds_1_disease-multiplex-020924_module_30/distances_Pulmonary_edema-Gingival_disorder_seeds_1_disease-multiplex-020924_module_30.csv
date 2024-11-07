@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,21,0.34033613445378164
+1,disease_on_symptoms,14,26,1.1695054945054943
+2,disease_on_drugs,27,20,0.6863672182821117

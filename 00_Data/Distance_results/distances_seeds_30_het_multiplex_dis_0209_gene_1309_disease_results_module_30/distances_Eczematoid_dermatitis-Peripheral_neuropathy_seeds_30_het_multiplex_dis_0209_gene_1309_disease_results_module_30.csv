@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,25,21,0.2993374741200827
+2,disease_on_drugs,30,29,0.27057276446522516

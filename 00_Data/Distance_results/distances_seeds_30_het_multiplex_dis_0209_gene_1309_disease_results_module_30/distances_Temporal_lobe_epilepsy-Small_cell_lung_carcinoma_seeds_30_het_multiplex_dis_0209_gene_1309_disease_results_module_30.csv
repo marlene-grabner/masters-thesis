@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,17,19,-0.5873753009975919
+2,disease_on_drugs,28,30,-0.4152298850574714

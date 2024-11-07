@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,26,25,0.2345098039215685
+1,disease_on_symptoms,21,20,1.388821138211382
+2,disease_on_drugs,25,14,0.4682417582417582

@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,28,30,0.12007389162561588
+1,disease_on_symptoms,19,15,1.655108359133127
+2,disease_on_drugs,25,28,0.5825202156334233

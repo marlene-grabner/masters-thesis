@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,30,-0.034848484848484795
+1,disease_on_symptoms,19,25,0.19808612440191387
+2,disease_on_drugs,25,29,-0.06189016602809705

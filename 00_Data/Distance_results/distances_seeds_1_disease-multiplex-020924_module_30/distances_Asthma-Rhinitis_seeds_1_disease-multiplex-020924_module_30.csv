@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,-0.15939393939393942
+1,disease_on_symptoms,19,15,-0.5783281733746131
+2,disease_on_drugs,24,22,-0.1503623188405796

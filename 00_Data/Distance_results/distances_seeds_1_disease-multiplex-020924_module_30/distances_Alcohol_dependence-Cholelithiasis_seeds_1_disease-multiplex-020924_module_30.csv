@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,12,25,0.6210360360360361
+1,disease_on_symptoms,27,19,2.434358843969828
+2,disease_on_drugs,9,18,1.3796296296296298

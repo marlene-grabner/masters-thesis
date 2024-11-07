@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,20,16,0.34166666666666656
+2,disease_on_drugs,23,29,0.08678353131126748

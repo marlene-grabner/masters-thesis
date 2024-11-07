@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,0.17818181818181822
+1,disease_on_symptoms,7,17,0.39495798319327724
+2,disease_on_drugs,22,24,0.321969696969697

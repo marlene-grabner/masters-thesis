@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666666
+1,disease_on_symptoms,17,19,-0.36076711386308924
+2,disease_on_drugs,28,30,-0.2278735632183907

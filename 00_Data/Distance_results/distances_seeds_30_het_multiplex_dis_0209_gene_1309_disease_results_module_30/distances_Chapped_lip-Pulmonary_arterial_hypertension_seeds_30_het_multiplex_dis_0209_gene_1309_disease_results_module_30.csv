@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.01851851851851849
+1,disease_on_symptoms,20,17,0.6463831478537361
+2,disease_on_drugs,23,25,0.16887681159420276

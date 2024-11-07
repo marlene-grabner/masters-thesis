@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,23,30,0.22660650806672122
+1,disease_on_symptoms,21,20,0.658855981416957
+2,disease_on_drugs,21,30,0.9089635854341738

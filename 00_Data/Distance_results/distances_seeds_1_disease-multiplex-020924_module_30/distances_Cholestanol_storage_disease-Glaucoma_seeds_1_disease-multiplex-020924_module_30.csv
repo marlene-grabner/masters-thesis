@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,14,0.07278395229059376
+2,disease_on_drugs,25,30,0.373939393939394

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,23,26,-0.12910381543921923
+1,disease_on_symptoms,20,19,0.30607287449392695
+2,disease_on_drugs,19,22,-0.016075388026607573

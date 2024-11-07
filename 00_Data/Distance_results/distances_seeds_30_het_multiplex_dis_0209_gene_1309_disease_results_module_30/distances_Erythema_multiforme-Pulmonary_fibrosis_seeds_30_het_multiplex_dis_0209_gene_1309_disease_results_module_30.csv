@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,25,-0.21818181818181814
+1,disease_on_symptoms,18,22,-0.24646464646464672
+2,disease_on_drugs,30,25,-0.20454545454545447

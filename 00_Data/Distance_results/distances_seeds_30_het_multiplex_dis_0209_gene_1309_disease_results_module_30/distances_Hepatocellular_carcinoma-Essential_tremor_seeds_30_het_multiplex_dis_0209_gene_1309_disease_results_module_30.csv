@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,24,21,-0.06666666666666665
+1,disease_on_symptoms,23,23,1.108695652173913
+2,disease_on_drugs,22,21,0.044800161079230794

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.29583333333333317
+1,disease_on_symptoms,16,19,1.4346334586466167
+2,disease_on_drugs,27,20,0.4180851063829787

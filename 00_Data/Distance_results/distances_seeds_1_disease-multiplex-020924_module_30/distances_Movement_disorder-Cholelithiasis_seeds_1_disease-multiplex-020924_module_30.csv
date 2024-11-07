@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.47212121212121216
+1,disease_on_symptoms,22,19,1.3219453845256157
+2,disease_on_drugs,15,18,0.9328282828282828

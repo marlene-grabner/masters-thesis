@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,27,29,-0.08999270206166765
+1,disease_on_symptoms,21,18,0.2927350427350426
+2,disease_on_drugs,25,28,0.07927223719676535

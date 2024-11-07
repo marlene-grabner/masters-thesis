@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,29,24,0.17851333767078725
+1,disease_on_symptoms,17,21,1.8265516733008993
+2,disease_on_drugs,26,18,1.1348096348096346

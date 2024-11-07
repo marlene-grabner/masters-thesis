@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,25,30,0.4539393939393941
+1,disease_on_symptoms,20,14,1.7245798319327732
+2,disease_on_drugs,14,24,1.2086466165413534

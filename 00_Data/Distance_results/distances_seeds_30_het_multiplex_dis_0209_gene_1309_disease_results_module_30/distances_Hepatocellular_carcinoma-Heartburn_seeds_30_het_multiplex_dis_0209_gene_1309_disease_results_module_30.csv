@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,24,26,-0.21999999999999997
+1,disease_on_symptoms,23,16,0.7081939799331103
+2,disease_on_drugs,22,25,-0.019071566731141187

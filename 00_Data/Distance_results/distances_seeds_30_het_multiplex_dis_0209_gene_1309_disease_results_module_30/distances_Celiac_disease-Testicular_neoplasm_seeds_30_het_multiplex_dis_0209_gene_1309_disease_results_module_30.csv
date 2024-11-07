@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.07090909090909081
+1,disease_on_symptoms,18,26,0.8671328671328671
+2,disease_on_drugs,28,24,0.18040293040293043

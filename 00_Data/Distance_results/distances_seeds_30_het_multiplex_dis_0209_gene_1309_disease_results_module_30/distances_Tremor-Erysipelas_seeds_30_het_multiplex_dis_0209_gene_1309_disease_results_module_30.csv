@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,17,18,1.0077030812324932
+2,disease_on_drugs,24,29,0.23712318369117313

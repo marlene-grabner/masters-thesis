@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,18,0.5013888888888889
+1,disease_on_symptoms,22,28,1.6894155844155843
+2,disease_on_drugs,15,17,0.8099264705882354

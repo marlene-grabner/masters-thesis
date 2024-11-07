@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.05084745762711873
+1,disease_on_symptoms,18,9,0.6111111111111112
+2,disease_on_drugs,29,23,0.10379425671779496

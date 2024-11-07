@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.12280701754385959
+1,disease_on_symptoms,11,20,0.8642228739002931
+2,disease_on_drugs,21,27,0.038690476190476275

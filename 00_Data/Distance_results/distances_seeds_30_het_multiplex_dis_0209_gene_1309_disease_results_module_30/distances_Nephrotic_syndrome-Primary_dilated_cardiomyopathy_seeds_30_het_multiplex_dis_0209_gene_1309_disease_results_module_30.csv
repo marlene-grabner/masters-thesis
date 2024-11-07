@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,15,24,0.5964743589743589
+2,disease_on_drugs,28,15,0.10836101882613502

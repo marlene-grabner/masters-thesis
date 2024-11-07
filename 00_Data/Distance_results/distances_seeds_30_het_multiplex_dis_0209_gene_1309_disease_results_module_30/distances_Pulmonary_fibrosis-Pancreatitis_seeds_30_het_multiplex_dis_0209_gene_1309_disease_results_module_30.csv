@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,25,30,-0.2545454545454545
+1,disease_on_symptoms,22,17,-0.3793706293706294
+2,disease_on_drugs,25,30,-0.2333333333333334

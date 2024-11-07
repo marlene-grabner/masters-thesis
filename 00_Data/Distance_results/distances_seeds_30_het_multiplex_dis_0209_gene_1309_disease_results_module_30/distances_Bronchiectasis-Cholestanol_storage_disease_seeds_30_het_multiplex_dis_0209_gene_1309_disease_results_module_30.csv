@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.0002922267679719148
+1,disease_on_symptoms,19,18,0.02698751382961939
+2,disease_on_drugs,25,28,0.39549865229110526

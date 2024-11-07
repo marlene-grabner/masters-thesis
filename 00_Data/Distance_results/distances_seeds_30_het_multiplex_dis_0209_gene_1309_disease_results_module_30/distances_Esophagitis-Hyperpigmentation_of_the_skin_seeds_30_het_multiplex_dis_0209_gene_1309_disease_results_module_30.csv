@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,20,17,0.12046899841017522
+2,disease_on_drugs,30,28,0.23866995073891628

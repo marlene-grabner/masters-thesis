@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,24,25,-0.06081632653061231
+1,disease_on_symptoms,24,26,0.3241025641025641
+2,disease_on_drugs,23,24,0.21037619488128256

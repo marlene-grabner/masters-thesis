@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,10,20,0.7833333333333337
+2,disease_on_drugs,16,26,0.4085393772893773

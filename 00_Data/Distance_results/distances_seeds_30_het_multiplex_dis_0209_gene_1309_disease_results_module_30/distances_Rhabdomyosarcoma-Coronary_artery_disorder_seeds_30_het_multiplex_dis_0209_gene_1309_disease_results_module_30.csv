@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,23,0.01672240802675584
+1,disease_on_symptoms,19,19,1.1578947368421053
+2,disease_on_drugs,29,22,0.234648718421538

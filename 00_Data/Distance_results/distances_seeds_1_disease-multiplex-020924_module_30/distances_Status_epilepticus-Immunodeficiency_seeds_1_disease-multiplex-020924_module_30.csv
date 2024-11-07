@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,29,22,0.44398856721371915
+1,disease_on_symptoms,17,19,2.549793601651187
+2,disease_on_drugs,30,18,1.0555555555555558

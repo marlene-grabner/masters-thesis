@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,16,22,-0.0639952153110046
+2,disease_on_drugs,29,27,0.016876482393723746

@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,19,21,0.24868421052631584
+1,disease_on_symptoms,21,20,1.752409988385598
+2,disease_on_drugs,17,19,-0.02631578947368407

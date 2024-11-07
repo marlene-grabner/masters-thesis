@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.16980323397623232
+1,disease_on_symptoms,26,20,-0.3647993311036788
+2,disease_on_drugs,28,26,-0.12962962962962965

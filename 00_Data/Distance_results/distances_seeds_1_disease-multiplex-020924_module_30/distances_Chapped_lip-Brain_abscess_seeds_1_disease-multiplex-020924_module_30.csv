@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,26,27,0.26554856743535993
+1,disease_on_symptoms,21,21,1.1428571428571428
+2,disease_on_drugs,24,23,0.8057354301572617

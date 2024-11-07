@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,23,25,0.3306159420289856
+1,disease_on_symptoms,21,26,1.1880796508456086
+2,disease_on_drugs,19,21,1.0499999999999998

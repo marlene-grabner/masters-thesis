@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.3014821536600121
+1,disease_on_symptoms,13,18,1.470292252550317
+2,disease_on_drugs,18,19,0.5674490279753437

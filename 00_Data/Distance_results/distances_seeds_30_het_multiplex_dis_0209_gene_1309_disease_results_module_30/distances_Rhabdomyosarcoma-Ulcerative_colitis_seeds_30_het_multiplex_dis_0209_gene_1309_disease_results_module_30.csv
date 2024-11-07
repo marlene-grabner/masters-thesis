@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,0.0535714285714286
+1,disease_on_symptoms,19,20,0.8477732793522268
+2,disease_on_drugs,29,27,0.25307881773399

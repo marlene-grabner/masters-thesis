@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.18181818181818188
+1,disease_on_symptoms,14,20,0.4840336134453782
+2,disease_on_drugs,26,18,0.060800310800310786

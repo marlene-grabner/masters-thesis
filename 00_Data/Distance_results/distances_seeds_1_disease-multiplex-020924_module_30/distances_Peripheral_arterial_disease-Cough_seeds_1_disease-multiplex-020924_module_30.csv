@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,0.1722507122507122
+1,disease_on_symptoms,14,21,1.845238095238095
+2,disease_on_drugs,22,27,0.33030990173847297

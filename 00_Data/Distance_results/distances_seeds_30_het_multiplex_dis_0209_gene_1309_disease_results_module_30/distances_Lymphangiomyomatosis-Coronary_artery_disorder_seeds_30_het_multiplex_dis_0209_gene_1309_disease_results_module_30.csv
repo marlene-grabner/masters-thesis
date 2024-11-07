@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,26,23,-0.020561736400245723
+1,disease_on_symptoms,17,19,0.8535431716546267
+2,disease_on_drugs,24,22,0.2849967061923584

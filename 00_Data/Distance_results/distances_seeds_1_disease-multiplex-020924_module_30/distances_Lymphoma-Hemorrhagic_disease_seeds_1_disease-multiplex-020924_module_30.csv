@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,24,0.03993589743589743
+1,disease_on_symptoms,21,19,0.019924812030075234
+2,disease_on_drugs,25,19,0.03655502392344512

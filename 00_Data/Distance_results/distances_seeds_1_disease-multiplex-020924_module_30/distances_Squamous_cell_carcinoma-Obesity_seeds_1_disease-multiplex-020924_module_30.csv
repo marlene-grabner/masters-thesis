@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Obesity nodes,sAB
+0,disease_on_genes,16,26,0.3319597069597071
+1,disease_on_symptoms,26,20,2.5715719063545155
+2,disease_on_drugs,14,27,0.8410117434507676

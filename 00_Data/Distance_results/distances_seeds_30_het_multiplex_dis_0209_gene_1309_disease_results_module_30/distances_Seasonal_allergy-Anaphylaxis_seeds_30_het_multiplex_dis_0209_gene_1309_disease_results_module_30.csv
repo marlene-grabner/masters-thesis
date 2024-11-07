@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,29,27,-0.1970899470899472
+1,disease_on_symptoms,18,14,0.013392857142857206
+2,disease_on_drugs,29,26,-0.12759826380516037

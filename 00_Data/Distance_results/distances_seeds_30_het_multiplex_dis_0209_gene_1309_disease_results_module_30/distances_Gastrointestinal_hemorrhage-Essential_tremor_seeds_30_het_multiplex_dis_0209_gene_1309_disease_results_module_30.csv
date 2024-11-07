@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.0025510204081633514
+1,disease_on_symptoms,20,23,0.44888776541961617
+2,disease_on_drugs,27,21,0.10317460317460303

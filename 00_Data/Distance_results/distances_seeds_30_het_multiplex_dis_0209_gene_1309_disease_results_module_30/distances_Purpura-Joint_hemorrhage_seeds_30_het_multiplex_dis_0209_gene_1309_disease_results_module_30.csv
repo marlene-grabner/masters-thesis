@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,27,30,-0.12378167641325544
+1,disease_on_symptoms,17,17,0.20588235294117663
+2,disease_on_drugs,24,26,-0.12365384615384634

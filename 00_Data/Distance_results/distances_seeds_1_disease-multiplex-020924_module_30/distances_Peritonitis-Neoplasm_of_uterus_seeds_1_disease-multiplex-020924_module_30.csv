@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.24236453201970454
+1,disease_on_symptoms,17,19,0.6930684554523563
+2,disease_on_drugs,28,28,0.9999999999999998

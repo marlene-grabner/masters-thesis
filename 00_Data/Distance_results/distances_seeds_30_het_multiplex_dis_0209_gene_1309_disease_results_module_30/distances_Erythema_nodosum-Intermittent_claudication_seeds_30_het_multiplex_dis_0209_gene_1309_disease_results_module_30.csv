@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,22,14,-0.13383838383838365
+2,disease_on_drugs,29,24,0.009989698546952974

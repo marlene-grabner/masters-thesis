@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,0.04816053511705687
+1,disease_on_symptoms,21,23,1.132552230378317
+2,disease_on_drugs,25,17,0.3549579831932772

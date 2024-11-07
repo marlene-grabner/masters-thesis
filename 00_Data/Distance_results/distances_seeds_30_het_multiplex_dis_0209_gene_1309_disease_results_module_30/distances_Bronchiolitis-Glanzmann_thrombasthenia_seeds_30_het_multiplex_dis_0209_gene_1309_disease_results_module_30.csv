@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,28,24,0.0
+1,disease_on_symptoms,25,19,0.9064114832535886
+2,disease_on_drugs,24,24,0.14583333333333348

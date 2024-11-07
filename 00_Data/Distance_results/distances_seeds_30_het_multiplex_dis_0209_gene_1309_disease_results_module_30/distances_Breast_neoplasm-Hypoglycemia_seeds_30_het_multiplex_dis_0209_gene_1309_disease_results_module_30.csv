@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,20,19,0.8153508771929823
+2,disease_on_drugs,30,27,0.4483430799220274

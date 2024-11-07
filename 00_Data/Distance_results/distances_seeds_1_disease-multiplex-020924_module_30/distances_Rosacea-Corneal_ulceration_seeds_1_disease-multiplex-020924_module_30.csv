@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.18854679802955687
+1,disease_on_symptoms,17,19,-0.2622979016167868
+2,disease_on_drugs,27,26,-0.24528301886792447

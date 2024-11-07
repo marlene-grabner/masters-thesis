@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,22,29,0.22682709447415328
+1,disease_on_symptoms,24,25,1.1497959183673472
+2,disease_on_drugs,13,27,0.4833333333333334

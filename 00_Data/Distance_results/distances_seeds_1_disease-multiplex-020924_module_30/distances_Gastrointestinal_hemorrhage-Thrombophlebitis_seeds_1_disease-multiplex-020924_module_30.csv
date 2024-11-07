@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,28,0.3272486772486771
+1,disease_on_symptoms,19,15,0.1968008255933953
+2,disease_on_drugs,27,21,0.8958333333333333

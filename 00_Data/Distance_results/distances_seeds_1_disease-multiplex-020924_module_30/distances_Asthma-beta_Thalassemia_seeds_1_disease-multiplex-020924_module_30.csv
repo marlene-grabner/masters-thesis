@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,22,0.5288394584139262
+1,disease_on_symptoms,19,21,3.9431704260651625
+2,disease_on_drugs,24,6,0.6583333333333334

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.31666666666666665
+1,disease_on_symptoms,14,17,0.7910002710761725
+2,disease_on_drugs,24,26,0.5007051282051282

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,25,0.019871794871795023
+1,disease_on_symptoms,18,20,0.09619883040935684
+2,disease_on_drugs,23,21,0.1341991341991342

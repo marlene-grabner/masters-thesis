@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.12543859649122813
+1,disease_on_symptoms,19,18,0.6847241978820926
+2,disease_on_drugs,20,22,-0.19686147186147185

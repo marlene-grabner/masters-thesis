@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,17,19,0.23383212934296527
+2,disease_on_drugs,25,30,-0.031515151515151496

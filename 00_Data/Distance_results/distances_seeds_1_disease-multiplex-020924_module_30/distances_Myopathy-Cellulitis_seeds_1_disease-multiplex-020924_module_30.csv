@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,18,22,0.3137973137973138
+1,disease_on_symptoms,21,26,0.01932818954095561
+2,disease_on_drugs,6,12,1.0555555555555558

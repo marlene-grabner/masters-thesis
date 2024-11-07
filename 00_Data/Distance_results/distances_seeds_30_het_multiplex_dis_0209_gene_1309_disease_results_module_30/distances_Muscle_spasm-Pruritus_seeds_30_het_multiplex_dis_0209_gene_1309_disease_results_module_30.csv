@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,27,-0.05360623781676421
+1,disease_on_symptoms,15,21,1.2436507936507937
+2,disease_on_drugs,29,27,0.27013774858602435

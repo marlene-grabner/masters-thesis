@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,24,0.13929738562091498
+1,disease_on_symptoms,15,17,2.303186274509804
+2,disease_on_drugs,25,23,1.0633333333333335

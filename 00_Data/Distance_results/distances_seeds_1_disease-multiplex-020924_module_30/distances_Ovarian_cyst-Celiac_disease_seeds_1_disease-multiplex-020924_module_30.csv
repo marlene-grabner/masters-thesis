@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,20,17,0.32563593004769475
+1,disease_on_symptoms,22,22,2.9090909090909087
+2,disease_on_drugs,15,15,0.6666666666666667

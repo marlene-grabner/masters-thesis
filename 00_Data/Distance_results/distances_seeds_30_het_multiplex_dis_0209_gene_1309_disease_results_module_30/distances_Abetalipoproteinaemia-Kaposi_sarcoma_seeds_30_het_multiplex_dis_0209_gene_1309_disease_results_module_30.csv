@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,14,30,-0.01298701298701288
+1,disease_on_symptoms,26,16,-0.014194139194139144
+2,disease_on_drugs,14,28,0.3452380952380951

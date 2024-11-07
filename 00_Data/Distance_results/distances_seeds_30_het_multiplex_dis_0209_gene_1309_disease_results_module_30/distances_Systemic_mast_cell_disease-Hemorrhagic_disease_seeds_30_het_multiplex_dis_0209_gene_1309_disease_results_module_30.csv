@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,26,0.07272727272727275
+1,disease_on_symptoms,25,19,0.8488516746411481
+2,disease_on_drugs,21,24,0.1706349206349207

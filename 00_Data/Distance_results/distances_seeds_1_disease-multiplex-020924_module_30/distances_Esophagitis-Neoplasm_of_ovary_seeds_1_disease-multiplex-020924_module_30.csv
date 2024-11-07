@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,24,24,0.3208834412580943
+1,disease_on_symptoms,23,26,1.7183809978841034
+2,disease_on_drugs,20,15,1.0035714285714286

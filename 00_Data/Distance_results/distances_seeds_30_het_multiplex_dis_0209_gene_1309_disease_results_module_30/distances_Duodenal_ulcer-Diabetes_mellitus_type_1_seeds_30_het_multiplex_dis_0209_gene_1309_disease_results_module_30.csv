@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,28,30,-0.24137931034482762
+1,disease_on_symptoms,17,18,0.9787114845938372
+2,disease_on_drugs,28,26,-0.20192307692307687

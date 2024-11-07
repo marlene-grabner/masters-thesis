@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,0.3076923076923077
+1,disease_on_symptoms,21,15,1.4380952380952383
+2,disease_on_drugs,23,21,0.5422077922077921

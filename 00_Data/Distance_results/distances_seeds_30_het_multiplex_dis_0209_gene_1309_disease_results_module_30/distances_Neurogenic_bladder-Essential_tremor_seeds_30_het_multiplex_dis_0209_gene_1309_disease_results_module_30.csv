@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.0980392156862746
+1,disease_on_symptoms,18,23,0.2514433839990575
+2,disease_on_drugs,21,21,-0.16666666666666674

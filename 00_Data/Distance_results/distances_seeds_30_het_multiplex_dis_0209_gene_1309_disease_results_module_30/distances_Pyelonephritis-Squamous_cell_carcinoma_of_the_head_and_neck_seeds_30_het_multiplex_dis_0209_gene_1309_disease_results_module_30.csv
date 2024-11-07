@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,24,30,-0.2763888888888889
+1,disease_on_symptoms,19,22,0.1478293849924146
+2,disease_on_drugs,19,30,-0.27824919441460794

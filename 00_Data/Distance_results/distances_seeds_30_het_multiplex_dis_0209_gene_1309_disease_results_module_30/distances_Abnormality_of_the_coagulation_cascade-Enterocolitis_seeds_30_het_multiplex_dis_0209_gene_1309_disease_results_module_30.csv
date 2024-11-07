@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,24,27,0.0
+1,disease_on_symptoms,24,21,0.9650793650793652
+2,disease_on_drugs,23,25,0.18518115942028968

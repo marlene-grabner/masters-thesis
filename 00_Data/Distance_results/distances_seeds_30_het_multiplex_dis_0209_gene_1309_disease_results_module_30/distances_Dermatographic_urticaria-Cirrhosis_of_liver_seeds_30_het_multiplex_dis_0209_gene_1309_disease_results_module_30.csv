@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,-0.13559322033898302
+1,disease_on_symptoms,18,19,-0.32938201359254005
+2,disease_on_drugs,28,30,-0.08760262725779944

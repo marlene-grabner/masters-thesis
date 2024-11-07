@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,29,28,-0.01754385964912286
+1,disease_on_symptoms,19,25,0.8549760765550238
+2,disease_on_drugs,29,24,0.2942962481023641

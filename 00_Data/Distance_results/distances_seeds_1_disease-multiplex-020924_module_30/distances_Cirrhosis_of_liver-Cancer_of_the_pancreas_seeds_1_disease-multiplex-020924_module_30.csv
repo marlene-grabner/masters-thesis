@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.2714689265536723
+1,disease_on_symptoms,14,16,1.138690476190476
+2,disease_on_drugs,26,29,0.5271642150952496

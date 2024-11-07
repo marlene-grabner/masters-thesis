@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.30974025974025987
+1,disease_on_symptoms,17,20,1.0263910969793324
+2,disease_on_drugs,25,27,0.8461538461538463

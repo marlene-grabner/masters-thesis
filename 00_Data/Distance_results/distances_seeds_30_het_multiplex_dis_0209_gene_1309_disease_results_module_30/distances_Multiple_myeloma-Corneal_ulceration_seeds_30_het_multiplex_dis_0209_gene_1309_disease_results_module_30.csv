@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,-0.11044973544973535
+1,disease_on_symptoms,21,15,0.4095238095238094
+2,disease_on_drugs,25,23,-0.06626811594202908

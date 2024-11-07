@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.0847457627118644
+1,disease_on_symptoms,18,20,0.5960526315789474
+2,disease_on_drugs,29,27,0.10351669403393537

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,0.12481684981684982
+1,disease_on_symptoms,23,16,1.7533793199554069
+2,disease_on_drugs,25,30,0.5318181818181817

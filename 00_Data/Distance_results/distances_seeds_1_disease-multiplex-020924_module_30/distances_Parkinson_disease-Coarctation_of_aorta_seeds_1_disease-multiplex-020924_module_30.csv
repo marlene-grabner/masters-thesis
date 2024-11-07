@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,21,27,0.37202380952380953
+1,disease_on_symptoms,20,14,1.9193277310924368
+2,disease_on_drugs,19,13,0.34375

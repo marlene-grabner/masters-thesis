@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,18,20,1.1992690058479532
+2,disease_on_drugs,22,28,-0.03590909090909089

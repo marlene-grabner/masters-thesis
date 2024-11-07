@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,28,27,0.16329966329966328
+1,disease_on_symptoms,17,14,1.717199783139062
+2,disease_on_drugs,19,26,0.16219073324336475

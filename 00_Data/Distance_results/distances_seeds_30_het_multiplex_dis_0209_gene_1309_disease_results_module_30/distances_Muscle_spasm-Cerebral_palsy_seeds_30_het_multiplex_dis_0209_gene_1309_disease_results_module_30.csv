@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,-0.30000000000000004
+1,disease_on_symptoms,15,13,-0.4117216117216116
+2,disease_on_drugs,29,21,-0.44840722495894914

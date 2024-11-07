@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,12,18,-0.04444444444444429
+2,disease_on_drugs,29,30,-0.27150789012273524

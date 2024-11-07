@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,25,29,-0.022798742138364636
+1,disease_on_symptoms,20,14,0.021428571428571352
+2,disease_on_drugs,21,28,0.05442176870748283

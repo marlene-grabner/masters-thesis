@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,27,26,0.39621297640165554
+1,disease_on_symptoms,21,21,1.0714285714285712
+2,disease_on_drugs,24,24,0.6874999999999998

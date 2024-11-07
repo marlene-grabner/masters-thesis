@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,15,19,-0.48018575851393197
+2,disease_on_drugs,28,30,-0.24220032840722494

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,14,13,1.4353886853886855
+2,disease_on_drugs,27,18,0.5907407407407406

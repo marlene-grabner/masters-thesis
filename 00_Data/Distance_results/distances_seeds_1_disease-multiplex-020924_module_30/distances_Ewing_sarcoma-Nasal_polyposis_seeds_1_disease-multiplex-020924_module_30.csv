@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,24,15,0.5451923076923078
+1,disease_on_symptoms,25,25,1.62
+2,disease_on_drugs,17,10,0.6407407407407406

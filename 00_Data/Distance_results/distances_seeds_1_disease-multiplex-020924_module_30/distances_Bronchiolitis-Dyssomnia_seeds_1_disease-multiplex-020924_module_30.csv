@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,23,18,0.22216330858960753
+1,disease_on_symptoms,25,21,3.760952380952381
+2,disease_on_drugs,18,17,0.5998599439775909

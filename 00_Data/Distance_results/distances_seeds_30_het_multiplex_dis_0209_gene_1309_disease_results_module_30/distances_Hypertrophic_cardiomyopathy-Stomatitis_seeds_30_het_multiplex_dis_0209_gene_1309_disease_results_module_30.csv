@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,19,-0.02631578947368407
+2,disease_on_drugs,22,29,0.08814309422828703

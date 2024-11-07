@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,-0.39583333333333337
+1,disease_on_symptoms,15,24,-0.8016025641025639
+2,disease_on_drugs,21,19,-0.2516917293233083

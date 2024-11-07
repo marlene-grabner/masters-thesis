@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,-0.13793103448275867
+1,disease_on_symptoms,20,26,-0.23779264214046836
+2,disease_on_drugs,28,28,-0.23214285714285732

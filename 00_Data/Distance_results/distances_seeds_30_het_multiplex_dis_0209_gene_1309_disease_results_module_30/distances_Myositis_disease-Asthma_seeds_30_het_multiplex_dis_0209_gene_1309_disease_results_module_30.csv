@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.12757575757575756
+1,disease_on_symptoms,18,20,-0.19459064327485387
+2,disease_on_drugs,26,22,-0.1445221445221445

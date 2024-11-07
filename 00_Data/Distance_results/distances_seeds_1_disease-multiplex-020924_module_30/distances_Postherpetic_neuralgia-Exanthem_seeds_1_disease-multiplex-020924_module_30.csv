@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.0005747126436781436
+1,disease_on_symptoms,15,26,0.1726704190118824
+2,disease_on_drugs,29,28,0.10525235502549468

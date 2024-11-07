@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,24,30,-0.09490740740740755
+1,disease_on_symptoms,22,19,0.4452386509511028
+2,disease_on_drugs,24,30,-0.01851851851851849

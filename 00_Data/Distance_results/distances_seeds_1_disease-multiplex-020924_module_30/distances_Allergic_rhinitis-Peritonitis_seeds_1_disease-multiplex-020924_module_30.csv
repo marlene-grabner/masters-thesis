@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,21,30,0.11148459383753506
+1,disease_on_symptoms,22,17,1.221582339229398
+2,disease_on_drugs,21,28,0.2908163265306123

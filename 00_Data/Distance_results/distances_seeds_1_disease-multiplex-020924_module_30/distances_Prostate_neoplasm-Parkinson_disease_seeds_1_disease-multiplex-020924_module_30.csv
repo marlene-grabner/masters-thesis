@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,17,21,0.2795960489458942
+1,disease_on_symptoms,21,20,2.047444831591173
+2,disease_on_drugs,17,19,1.2467320261437906

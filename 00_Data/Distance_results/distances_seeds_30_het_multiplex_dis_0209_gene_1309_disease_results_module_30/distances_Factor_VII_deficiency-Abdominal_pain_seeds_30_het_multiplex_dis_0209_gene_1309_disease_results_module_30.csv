@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.0344417077175696
+1,disease_on_symptoms,19,19,1.342105263157895
+2,disease_on_drugs,25,29,0.48214559386973166

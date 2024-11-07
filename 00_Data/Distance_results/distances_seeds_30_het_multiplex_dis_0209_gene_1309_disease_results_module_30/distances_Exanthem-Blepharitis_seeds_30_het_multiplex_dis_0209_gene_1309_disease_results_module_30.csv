@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,21,18,-0.5787545787545787
+2,disease_on_drugs,29,30,-0.35425676992012445

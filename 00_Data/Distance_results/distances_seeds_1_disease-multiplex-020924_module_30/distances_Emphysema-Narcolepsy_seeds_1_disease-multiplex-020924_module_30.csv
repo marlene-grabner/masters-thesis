@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.05060606060606054
+1,disease_on_symptoms,14,21,1.5595238095238093
+2,disease_on_drugs,29,20,0.036224489795918524

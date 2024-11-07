@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,24,29,0.5123481891129908
+1,disease_on_symptoms,22,16,2.1420454545454546
+2,disease_on_drugs,24,22,0.5217391304347827

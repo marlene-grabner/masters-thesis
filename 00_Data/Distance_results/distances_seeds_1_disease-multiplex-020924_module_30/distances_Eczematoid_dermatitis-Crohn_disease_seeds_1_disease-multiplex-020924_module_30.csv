@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,28,25,-0.07875457875457881
+1,disease_on_symptoms,24,20,-0.04621212121212137
+2,disease_on_drugs,28,21,-0.10374149659863963

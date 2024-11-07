@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,16,11,0.36142676767676774
+2,disease_on_drugs,29,24,0.24162329212752098

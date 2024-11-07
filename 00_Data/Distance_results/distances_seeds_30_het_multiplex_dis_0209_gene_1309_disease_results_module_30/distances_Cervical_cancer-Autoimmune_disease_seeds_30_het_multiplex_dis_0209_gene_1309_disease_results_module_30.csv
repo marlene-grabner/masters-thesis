@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,26,0.16666666666666674
+1,disease_on_symptoms,22,20,0.8849567099567102
+2,disease_on_drugs,15,25,0.27333333333333343

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,26,30,-0.16227106227106225
+1,disease_on_symptoms,21,15,0.11825396825396806
+2,disease_on_drugs,26,29,-0.14661200868097424

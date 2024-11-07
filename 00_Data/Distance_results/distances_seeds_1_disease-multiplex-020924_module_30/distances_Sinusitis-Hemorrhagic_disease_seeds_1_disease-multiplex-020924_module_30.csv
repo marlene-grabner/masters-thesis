@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,24,0.26706517024506615
+1,disease_on_symptoms,21,19,1.2211152882205512
+2,disease_on_drugs,28,19,1.053931370980643

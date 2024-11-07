@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,28,0.6356902356902354
+1,disease_on_symptoms,19,12,1.3637521222410867
+2,disease_on_drugs,27,21,0.9494047619047621

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,17,21,1.3064278342916114
+2,disease_on_drugs,26,24,0.42211538461538467

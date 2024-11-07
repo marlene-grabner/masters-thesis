@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,25,0.24629380053908356
+1,disease_on_symptoms,18,26,1.8325563325563328
+2,disease_on_drugs,26,21,0.8318330605564648

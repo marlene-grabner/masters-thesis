@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,25,0.3957343550446999
+1,disease_on_symptoms,16,13,2.1390086206896552
+2,disease_on_drugs,23,16,0.8188057413600891

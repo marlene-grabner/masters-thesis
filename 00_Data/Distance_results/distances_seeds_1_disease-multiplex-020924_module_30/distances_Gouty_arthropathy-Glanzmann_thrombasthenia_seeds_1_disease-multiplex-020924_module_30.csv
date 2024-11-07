@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,0.16447278911564633
+1,disease_on_symptoms,13,21,0.920168067226891
+2,disease_on_drugs,16,24,0.6895833333333334

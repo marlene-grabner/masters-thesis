@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.022727272727272707
+1,disease_on_symptoms,19,22,0.6846773252421521
+2,disease_on_drugs,28,25,0.0743396226415094

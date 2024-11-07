@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,17,30,0.12100542344597409
+1,disease_on_symptoms,25,20,0.2827777777777778
+2,disease_on_drugs,13,22,0.732967032967033

@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.12731481481481466
+1,disease_on_symptoms,18,20,1.8980994152046782
+2,disease_on_drugs,21,19,0.126065162907268

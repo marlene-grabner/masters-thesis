@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,23,24,0.1910075547332717
+1,disease_on_symptoms,19,21,1.2248120300751877
+2,disease_on_drugs,19,24,0.5702519379844964

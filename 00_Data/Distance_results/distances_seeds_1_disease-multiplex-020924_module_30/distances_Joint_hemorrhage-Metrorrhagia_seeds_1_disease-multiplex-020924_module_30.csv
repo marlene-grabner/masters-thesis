@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.16052631578947363
+1,disease_on_symptoms,13,17,-0.16817496229260942
+2,disease_on_drugs,18,26,0.28729603729603737

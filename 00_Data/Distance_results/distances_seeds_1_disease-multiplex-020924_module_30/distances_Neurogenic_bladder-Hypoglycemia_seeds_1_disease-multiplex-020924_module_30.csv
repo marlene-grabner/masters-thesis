@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,17,12,1.5089587559161597
+2,disease_on_drugs,26,22,0.7083333333333333

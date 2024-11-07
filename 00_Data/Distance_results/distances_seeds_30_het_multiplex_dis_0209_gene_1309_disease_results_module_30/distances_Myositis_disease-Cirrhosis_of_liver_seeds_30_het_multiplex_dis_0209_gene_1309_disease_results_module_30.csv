@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,18,19,-0.029832464042990336
+2,disease_on_drugs,26,30,-0.1051282051282052

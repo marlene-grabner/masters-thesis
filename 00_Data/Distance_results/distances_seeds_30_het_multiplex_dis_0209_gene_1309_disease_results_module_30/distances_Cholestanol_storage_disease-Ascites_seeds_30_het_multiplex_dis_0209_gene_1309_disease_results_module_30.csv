@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,-0.13560296123124882
+1,disease_on_symptoms,18,22,-0.11414141414141388
+2,disease_on_drugs,28,27,-0.20074555074555067

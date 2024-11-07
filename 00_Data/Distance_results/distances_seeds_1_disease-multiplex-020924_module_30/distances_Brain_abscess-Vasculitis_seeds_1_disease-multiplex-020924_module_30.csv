@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.08156318082788672
+1,disease_on_symptoms,21,19,0.6998120300751878
+2,disease_on_drugs,23,20,0.19165824064711834

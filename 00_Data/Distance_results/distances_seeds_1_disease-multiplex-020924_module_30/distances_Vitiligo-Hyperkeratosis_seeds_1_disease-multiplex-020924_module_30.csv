@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,24,26,0.07160256410256416
+1,disease_on_symptoms,22,21,0.32213329306352545
+2,disease_on_drugs,11,23,-0.11764705882352944

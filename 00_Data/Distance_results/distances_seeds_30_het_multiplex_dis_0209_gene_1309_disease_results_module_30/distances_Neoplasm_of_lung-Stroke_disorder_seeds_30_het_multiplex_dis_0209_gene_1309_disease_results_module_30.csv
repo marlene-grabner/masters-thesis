@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,19,16,-0.2394736842105265
+2,disease_on_drugs,30,30,0.08333333333333326

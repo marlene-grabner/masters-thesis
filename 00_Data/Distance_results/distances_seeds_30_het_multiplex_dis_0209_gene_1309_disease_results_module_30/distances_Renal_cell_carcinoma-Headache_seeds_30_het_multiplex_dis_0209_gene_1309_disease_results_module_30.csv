@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Headache nodes,sAB
+0,disease_on_genes,27,30,-0.0009746588693957392
+1,disease_on_symptoms,22,23,0.5395256916996047
+2,disease_on_drugs,22,23,0.2255599472990777

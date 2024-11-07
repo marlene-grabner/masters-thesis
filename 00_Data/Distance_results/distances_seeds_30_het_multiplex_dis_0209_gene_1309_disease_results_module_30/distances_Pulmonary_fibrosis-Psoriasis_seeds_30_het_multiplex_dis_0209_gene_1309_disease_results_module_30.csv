@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,25,30,-0.32727272727272727
+1,disease_on_symptoms,22,17,-0.7089332236391059
+2,disease_on_drugs,25,30,-0.4242424242424242

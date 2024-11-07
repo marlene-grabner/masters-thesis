@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,29,25,-0.05555555555555558
+1,disease_on_symptoms,14,19,0.056618819776714346
+2,disease_on_drugs,22,22,-0.15909090909090917

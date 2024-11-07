@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,14,26,-0.1857142857142856
+1,disease_on_symptoms,26,22,-0.21008158508158492
+2,disease_on_drugs,14,26,0.023901098901099038

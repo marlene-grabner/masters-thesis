@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,19,19,0.3421052631578947
+2,disease_on_drugs,20,29,0.21166432090077425

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,17,30,0.22010869565217384
+1,disease_on_symptoms,27,21,1.2037037037037037
+2,disease_on_drugs,14,29,0.5111983045022339

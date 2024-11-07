@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,25,30,0.034242424242424185
+1,disease_on_symptoms,25,20,0.8138888888888891
+2,disease_on_drugs,23,22,0.2676328502415459

@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,21,20,0.2196864111498258
+2,disease_on_drugs,25,26,-0.15696832579185527

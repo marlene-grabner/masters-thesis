@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,29,0.38076923076923075
+1,disease_on_symptoms,17,16,0.6707887700534758
+2,disease_on_drugs,18,29,0.8373685497676695

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.3900837716734853
+1,disease_on_symptoms,23,16,2.2173216276477143
+2,disease_on_drugs,29,22,0.9874915483434752

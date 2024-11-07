@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,29,28,0.22805937256935427
+1,disease_on_symptoms,17,19,1.8635190918472655
+2,disease_on_drugs,26,26,0.9615384615384617

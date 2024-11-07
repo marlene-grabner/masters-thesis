@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,0.17436647173489273
+1,disease_on_symptoms,19,15,0.367389060887513
+2,disease_on_drugs,27,30,0.8421052631578947

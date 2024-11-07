@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,28,0.5011494252873565
+1,disease_on_symptoms,14,23,1.8669632365284539
+2,disease_on_drugs,11,26,0.5831600831600834

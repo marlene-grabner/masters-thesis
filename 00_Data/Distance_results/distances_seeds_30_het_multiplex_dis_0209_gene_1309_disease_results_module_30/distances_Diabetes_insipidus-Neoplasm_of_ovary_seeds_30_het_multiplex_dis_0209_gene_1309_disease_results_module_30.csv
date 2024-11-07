@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,30,-0.0537545787545789
+1,disease_on_symptoms,20,22,0.3313852813852818
+2,disease_on_drugs,20,29,0.16766361717100642

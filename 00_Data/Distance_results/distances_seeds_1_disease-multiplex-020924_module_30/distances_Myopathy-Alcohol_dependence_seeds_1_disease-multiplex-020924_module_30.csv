@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,18,12,0.6472222222222224
+1,disease_on_symptoms,21,27,1.2635582010582012
+2,disease_on_drugs,6,9,0.588888888888889

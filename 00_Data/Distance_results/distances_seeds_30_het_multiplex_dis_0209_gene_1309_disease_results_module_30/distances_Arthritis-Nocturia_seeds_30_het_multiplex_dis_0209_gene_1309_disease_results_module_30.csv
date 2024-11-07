@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.03703703703703709
+1,disease_on_symptoms,20,18,0.8059941520467835
+2,disease_on_drugs,29,24,0.2078182606809802

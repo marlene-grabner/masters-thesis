@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,16,21,0.5115830115830118
+2,disease_on_drugs,29,28,0.00020525451559927355

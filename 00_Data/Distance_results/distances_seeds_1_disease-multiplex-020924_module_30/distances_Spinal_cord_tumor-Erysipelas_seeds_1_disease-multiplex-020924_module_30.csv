@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Erysipelas nodes,sAB
+0,disease_on_genes,22,28,0.32519480519480526
+1,disease_on_symptoms,22,20,0.7896103896103899
+2,disease_on_drugs,14,27,0.6001742160278745

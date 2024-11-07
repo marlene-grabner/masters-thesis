@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,0.21993589743589737
+1,disease_on_symptoms,21,17,1.9312251216275982
+2,disease_on_drugs,24,23,1.3191489361702127

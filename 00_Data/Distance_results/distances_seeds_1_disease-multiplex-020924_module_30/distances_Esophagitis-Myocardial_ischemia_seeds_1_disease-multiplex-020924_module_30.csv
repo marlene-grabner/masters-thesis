@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,24,30,0.25840853158326493
+1,disease_on_symptoms,23,13,1.3724451876625787
+2,disease_on_drugs,20,23,0.6307128412537917

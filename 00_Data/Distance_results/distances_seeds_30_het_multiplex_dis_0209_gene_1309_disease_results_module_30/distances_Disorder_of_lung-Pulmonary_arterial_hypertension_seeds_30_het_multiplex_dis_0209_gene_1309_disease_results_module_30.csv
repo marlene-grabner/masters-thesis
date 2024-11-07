@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.036363636363636376
+1,disease_on_symptoms,18,17,0.17007469654528484
+2,disease_on_drugs,24,25,-0.24331632653061241

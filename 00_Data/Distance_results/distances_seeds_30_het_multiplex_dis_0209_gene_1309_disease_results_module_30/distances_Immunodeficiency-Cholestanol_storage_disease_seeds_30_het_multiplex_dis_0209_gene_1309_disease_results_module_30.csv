@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,29,-0.01724137931034475
+1,disease_on_symptoms,21,18,0.4777167277167278
+2,disease_on_drugs,26,28,0.16636141636141621

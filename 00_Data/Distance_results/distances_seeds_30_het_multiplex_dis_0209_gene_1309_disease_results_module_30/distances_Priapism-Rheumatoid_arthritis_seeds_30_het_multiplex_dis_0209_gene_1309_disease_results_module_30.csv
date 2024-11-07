@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,12,19,-0.4930673457838146
+2,disease_on_drugs,28,30,-0.14105090311986868

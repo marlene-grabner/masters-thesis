@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.01851851851851849
+1,disease_on_symptoms,22,22,0.659090909090909
+2,disease_on_drugs,30,21,0.07703081232492992

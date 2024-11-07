@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,25,25,-0.020000000000000018
+1,disease_on_symptoms,19,17,0.9251805985552115
+2,disease_on_drugs,25,25,0.15999999999999992

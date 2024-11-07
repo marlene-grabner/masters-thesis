@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,26,30,0.2678571428571428
+1,disease_on_symptoms,17,13,1.6395173453996983
+2,disease_on_drugs,24,22,0.7660573122529644

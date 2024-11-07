@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,17,30,0.2903985507246378
+1,disease_on_symptoms,27,12,0.9633190883190883
+2,disease_on_drugs,14,17,0.5155191108701545

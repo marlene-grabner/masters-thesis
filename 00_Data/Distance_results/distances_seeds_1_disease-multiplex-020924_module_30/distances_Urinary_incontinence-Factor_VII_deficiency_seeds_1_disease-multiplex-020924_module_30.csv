@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.45244343891402705
+1,disease_on_symptoms,20,23,2.170500505561173
+2,disease_on_drugs,20,21,0.8792102206736352

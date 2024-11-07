@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,29,0.29824561403508776
+1,disease_on_symptoms,18,13,0.3270609318996418
+2,disease_on_drugs,23,22,0.11341677646025472

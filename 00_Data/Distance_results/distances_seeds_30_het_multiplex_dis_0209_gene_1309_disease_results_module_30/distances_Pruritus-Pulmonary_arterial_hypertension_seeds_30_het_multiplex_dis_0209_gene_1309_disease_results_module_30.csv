@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.03670033670033679
+1,disease_on_symptoms,21,17,0.5342768686421939
+2,disease_on_drugs,27,25,-0.040997150997150955

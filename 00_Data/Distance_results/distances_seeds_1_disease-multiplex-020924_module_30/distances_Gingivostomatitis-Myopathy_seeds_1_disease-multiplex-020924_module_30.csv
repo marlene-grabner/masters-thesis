@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,18,0.3222222222222222
+1,disease_on_symptoms,23,21,-0.021127423301336323
+2,disease_on_drugs,29,6,0.43875205254515603

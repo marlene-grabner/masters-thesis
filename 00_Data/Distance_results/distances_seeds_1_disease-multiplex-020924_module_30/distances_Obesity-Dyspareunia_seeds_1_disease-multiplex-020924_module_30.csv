@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.020769230769230873
+1,disease_on_symptoms,20,17,0.6596184419713831
+2,disease_on_drugs,27,23,0.277745571658615

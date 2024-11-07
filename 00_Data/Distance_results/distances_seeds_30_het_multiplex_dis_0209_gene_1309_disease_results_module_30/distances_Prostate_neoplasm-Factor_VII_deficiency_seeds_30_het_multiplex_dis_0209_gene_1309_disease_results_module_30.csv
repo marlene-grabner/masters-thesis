@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,21,28,0.019557823129251695
+1,disease_on_symptoms,20,19,0.6873481781376518
+2,disease_on_drugs,21,25,0.414120082815735

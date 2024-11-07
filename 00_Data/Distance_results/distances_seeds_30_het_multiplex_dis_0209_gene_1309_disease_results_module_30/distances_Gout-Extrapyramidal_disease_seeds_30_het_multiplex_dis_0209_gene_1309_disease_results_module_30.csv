@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,19,18,0.5188477951635848
+2,disease_on_drugs,22,25,-0.08777562862669241

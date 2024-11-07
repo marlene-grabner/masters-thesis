@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,23,-0.01722723543888449
+1,disease_on_symptoms,19,16,1.5353853383458647
+2,disease_on_drugs,29,22,0.22278566599053407

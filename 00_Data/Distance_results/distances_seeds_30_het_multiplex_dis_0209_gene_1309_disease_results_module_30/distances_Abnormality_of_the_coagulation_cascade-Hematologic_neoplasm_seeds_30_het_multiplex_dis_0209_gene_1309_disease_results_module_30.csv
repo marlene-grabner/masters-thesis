@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,24,30,-0.2777777777777778
+1,disease_on_symptoms,24,18,-0.3928571428571428
+2,disease_on_drugs,23,27,-0.32231884057970994

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Ascites nodes,sAB
+0,disease_on_genes,17,30,0.3241551939924907
+1,disease_on_symptoms,22,17,1.958521870286576
+2,disease_on_drugs,15,27,0.5063492063492063

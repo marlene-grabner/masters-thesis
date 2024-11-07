@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.0351851851851851
+1,disease_on_symptoms,19,19,0.6052631578947367
+2,disease_on_drugs,22,24,0.014575098814229248

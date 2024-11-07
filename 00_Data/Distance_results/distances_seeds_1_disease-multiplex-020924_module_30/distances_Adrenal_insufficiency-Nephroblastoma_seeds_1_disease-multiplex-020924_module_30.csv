@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,17,25,0.23831932773109243
+1,disease_on_symptoms,21,25,1.6363975155279507
+2,disease_on_drugs,14,21,0.8857142857142857

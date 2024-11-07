@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,24,15,0.06634615384615383
+1,disease_on_symptoms,22,27,1.5786951144094004
+2,disease_on_drugs,24,13,0.29729729729729737

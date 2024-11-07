@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,29,30,0.017504383401519386
+1,disease_on_symptoms,17,15,1.3438725490196077
+2,disease_on_drugs,30,23,0.46882690730106624

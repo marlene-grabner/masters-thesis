@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Heartburn nodes,sAB
+0,disease_on_genes,28,26,-0.05555555555555558
+1,disease_on_symptoms,20,16,0.9083333333333334
+2,disease_on_drugs,25,25,0.32000000000000006

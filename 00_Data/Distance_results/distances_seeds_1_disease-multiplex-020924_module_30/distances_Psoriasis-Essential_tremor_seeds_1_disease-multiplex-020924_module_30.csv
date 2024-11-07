@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.3316326530612246
+1,disease_on_symptoms,21,20,1.5857433217189314
+2,disease_on_drugs,28,19,0.7039273716205408

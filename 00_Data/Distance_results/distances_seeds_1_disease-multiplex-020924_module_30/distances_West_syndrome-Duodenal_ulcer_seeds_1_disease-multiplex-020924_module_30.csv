@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,29,28,0.28007518796992503
+1,disease_on_symptoms,18,17,1.71391223155929
+2,disease_on_drugs,22,28,1.1

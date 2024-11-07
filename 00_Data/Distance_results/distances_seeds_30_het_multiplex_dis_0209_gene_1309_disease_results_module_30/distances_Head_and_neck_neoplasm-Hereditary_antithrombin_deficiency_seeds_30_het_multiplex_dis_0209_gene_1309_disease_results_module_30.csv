@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.17298850574712654
+1,disease_on_symptoms,22,16,0.8717105263157894
+2,disease_on_drugs,27,23,0.33739130434782627

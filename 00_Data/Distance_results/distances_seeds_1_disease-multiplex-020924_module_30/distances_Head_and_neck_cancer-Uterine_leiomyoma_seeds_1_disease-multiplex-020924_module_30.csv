@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,27,24,-0.025871459694989163
+1,disease_on_symptoms,22,21,1.0933504480016107
+2,disease_on_drugs,24,18,-0.021825396825396748

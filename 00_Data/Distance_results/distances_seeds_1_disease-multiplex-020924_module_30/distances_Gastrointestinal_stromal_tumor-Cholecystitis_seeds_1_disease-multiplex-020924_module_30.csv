@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,23,25,0.4963043478260869
+1,disease_on_symptoms,20,19,1.024696356275304
+2,disease_on_drugs,19,13,1.2740384615384617

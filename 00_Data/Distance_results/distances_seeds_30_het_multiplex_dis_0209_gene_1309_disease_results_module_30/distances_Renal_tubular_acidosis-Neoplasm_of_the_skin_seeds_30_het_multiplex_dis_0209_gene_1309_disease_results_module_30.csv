@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,14,22,0.44696969696969724
+2,disease_on_drugs,27,29,-0.0622605363984674

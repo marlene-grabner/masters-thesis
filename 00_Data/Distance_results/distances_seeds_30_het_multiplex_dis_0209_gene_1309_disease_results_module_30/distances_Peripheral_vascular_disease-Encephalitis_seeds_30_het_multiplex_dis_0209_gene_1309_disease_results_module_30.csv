@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,25,29,0.29481481481481486
+1,disease_on_symptoms,17,13,0.8392156862745099
+2,disease_on_drugs,25,22,0.3157253384912957

@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.07105263157894748
+1,disease_on_symptoms,20,20,0.47499999999999987
+2,disease_on_drugs,29,27,0.0923645320197044

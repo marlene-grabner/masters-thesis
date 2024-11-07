@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,11,20,0.4390029325513194
+2,disease_on_drugs,27,27,0.14814814814814814

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,29,30,0.23813559322033884
+1,disease_on_symptoms,16,23,2.4815705128205128
+2,disease_on_drugs,26,30,0.7928571428571427

@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,12,23,0.3583333333333334
+1,disease_on_symptoms,27,22,0.4360612932041503
+2,disease_on_drugs,9,17,0.10834590246354936

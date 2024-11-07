@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Gout nodes,sAB
+0,disease_on_genes,26,25,-0.2941628959276019
+1,disease_on_symptoms,19,18,-0.3793266951161688
+2,disease_on_drugs,24,23,-0.27615248226950373

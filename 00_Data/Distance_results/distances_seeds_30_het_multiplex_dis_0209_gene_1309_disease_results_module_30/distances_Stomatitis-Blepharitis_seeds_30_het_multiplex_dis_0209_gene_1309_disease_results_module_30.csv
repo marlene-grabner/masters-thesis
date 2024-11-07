@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,19,18,0.6780464675201516
+2,disease_on_drugs,29,30,0.06742645626339372

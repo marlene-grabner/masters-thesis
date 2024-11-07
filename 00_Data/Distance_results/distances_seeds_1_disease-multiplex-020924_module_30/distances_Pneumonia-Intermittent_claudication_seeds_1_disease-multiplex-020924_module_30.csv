@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.2516666666666667
+1,disease_on_symptoms,26,24,0.5026282051282052
+2,disease_on_drugs,28,18,0.7367149758454106

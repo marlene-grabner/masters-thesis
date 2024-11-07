@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,15,0.6751225490196078
+2,disease_on_drugs,28,29,0.15725736755682296

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,25,30,-0.020000000000000018
+1,disease_on_symptoms,17,22,0.5164884135472372
+2,disease_on_drugs,25,29,0.09197956577266919

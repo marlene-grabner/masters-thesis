@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.16575757575757555
+1,disease_on_symptoms,16,25,1.3241768292682927
+2,disease_on_drugs,23,21,1.0

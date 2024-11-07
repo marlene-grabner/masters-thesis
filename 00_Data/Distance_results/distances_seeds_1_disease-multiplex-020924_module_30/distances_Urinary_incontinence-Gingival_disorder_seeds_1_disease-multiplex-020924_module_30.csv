@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,0.36842412906242705
+1,disease_on_symptoms,20,26,1.1567725752508362
+2,disease_on_drugs,20,20,0.8

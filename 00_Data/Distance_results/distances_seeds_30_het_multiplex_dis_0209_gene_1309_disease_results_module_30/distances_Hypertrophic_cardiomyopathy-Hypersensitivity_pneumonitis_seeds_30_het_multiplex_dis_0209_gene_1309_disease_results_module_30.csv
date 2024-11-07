@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,0.09242424242424252
+1,disease_on_symptoms,19,20,0.9467273954116062
+2,disease_on_drugs,22,25,0.11825918762088983

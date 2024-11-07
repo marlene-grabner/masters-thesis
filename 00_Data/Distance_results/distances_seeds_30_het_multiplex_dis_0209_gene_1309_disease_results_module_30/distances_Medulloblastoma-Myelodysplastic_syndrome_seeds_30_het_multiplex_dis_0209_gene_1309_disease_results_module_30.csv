@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,-0.037735849056603765
+1,disease_on_symptoms,22,17,-0.1002331002331005
+2,disease_on_drugs,26,24,-0.04192307692307695

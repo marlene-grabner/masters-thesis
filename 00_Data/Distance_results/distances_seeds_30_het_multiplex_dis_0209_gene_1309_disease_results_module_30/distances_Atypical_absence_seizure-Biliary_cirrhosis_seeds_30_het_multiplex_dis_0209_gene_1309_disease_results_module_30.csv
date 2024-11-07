@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.21291208791208804
+1,disease_on_symptoms,13,22,2.1716283716283717
+2,disease_on_drugs,22,25,0.750541586073501

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,24,24,0.24999999999999978
+1,disease_on_symptoms,18,23,0.8523329798515376
+2,disease_on_drugs,18,24,0.6904761904761905

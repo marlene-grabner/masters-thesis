@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,28,27,0.23602693602693603
+1,disease_on_symptoms,21,23,0.7714097496706191
+2,disease_on_drugs,21,15,0.30793650793650795

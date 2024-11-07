@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,20,20,0.1499999999999999
+2,disease_on_drugs,29,23,-0.3290854572713644

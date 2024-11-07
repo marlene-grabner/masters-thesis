@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,16,30,0.22789855072463783
+1,disease_on_symptoms,26,16,2.380151098901099
+2,disease_on_drugs,14,30,0.9727272727272729

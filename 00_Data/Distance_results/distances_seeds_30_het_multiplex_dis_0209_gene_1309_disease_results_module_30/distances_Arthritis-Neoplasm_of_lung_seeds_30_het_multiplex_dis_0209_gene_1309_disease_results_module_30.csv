@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,20,19,0.6188596491228071
+2,disease_on_drugs,29,30,0.40588349892850184

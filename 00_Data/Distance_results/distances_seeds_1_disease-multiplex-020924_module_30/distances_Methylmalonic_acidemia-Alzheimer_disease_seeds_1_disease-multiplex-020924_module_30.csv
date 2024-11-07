@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,25,20,0.2994444444444444
+1,disease_on_symptoms,16,23,1.4090022296544034
+2,disease_on_drugs,17,18,0.4563025210084035

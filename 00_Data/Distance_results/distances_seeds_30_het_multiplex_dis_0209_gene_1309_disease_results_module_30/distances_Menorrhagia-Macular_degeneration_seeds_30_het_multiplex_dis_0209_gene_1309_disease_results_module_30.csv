@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.2289473684210528
+1,disease_on_symptoms,16,17,0.5206662210338682
+2,disease_on_drugs,23,17,0.3397058823529411

@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,23,20,0.2318756319514661
+1,disease_on_symptoms,23,24,1.8074506629663891
+2,disease_on_drugs,18,18,0.6388888888888888

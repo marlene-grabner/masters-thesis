@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,19,14,-0.14752791068580517
+2,disease_on_drugs,28,24,0.010760073260073222

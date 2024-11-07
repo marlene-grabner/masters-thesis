@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,0.0023809523809525945
+1,disease_on_symptoms,19,14,0.7541581225791754
+2,disease_on_drugs,22,24,0.06027667984189722

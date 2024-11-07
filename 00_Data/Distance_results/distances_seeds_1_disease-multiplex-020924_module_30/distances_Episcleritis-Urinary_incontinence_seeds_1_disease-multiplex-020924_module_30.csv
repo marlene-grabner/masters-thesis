@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,26,0.2582417582417582
+1,disease_on_symptoms,22,20,1.4897186147186146
+2,disease_on_drugs,29,20,0.6893033075299084

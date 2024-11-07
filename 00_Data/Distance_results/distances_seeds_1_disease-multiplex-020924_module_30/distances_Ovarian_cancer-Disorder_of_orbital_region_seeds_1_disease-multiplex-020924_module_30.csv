@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,17,0.018716577540107027
+1,disease_on_symptoms,17,27,0.9275103980986334
+2,disease_on_drugs,25,16,0.4253048780487805

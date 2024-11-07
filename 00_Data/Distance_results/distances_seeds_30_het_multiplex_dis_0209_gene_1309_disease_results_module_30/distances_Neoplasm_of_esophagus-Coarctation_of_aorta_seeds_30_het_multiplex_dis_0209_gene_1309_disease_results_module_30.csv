@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,29,27,-0.19647418354314905
+1,disease_on_symptoms,20,19,0.07456140350877205
+2,disease_on_drugs,25,24,-0.08375850340136037

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,14,17,0.02880184331797242
+2,disease_on_drugs,24,30,-0.3115740740740739

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,14,18,0.6116071428571428
+2,disease_on_drugs,26,27,0.15118529269472658

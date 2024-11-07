@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,22,25,-0.13506769825918763
+2,disease_on_drugs,15,26,-0.3143527204502814

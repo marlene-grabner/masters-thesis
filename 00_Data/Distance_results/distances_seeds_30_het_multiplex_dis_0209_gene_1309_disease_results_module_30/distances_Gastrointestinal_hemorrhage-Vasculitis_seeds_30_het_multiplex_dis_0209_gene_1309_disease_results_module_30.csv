@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Vasculitis nodes,sAB
+0,disease_on_genes,28,26,-0.5919312169312169
+1,disease_on_symptoms,20,18,-0.3345029239766082
+2,disease_on_drugs,27,26,-0.5849862925334625

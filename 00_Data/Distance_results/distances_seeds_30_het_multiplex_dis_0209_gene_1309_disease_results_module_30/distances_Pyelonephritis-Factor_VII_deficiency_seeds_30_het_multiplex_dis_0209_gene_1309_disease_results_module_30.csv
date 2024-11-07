@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,24,28,0.2305402930402929
+1,disease_on_symptoms,19,19,1.0
+2,disease_on_drugs,19,25,0.15052631578947362

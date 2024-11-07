@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,14,29,0.4061461794019934
+1,disease_on_symptoms,25,25,2.38
+2,disease_on_drugs,10,27,0.9454954954954955

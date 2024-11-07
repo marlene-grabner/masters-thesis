@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.058441558441558294
+1,disease_on_symptoms,14,26,-0.32609890109890105
+2,disease_on_drugs,29,14,0.04688395005155255

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,20,30,0.2783333333333333
+1,disease_on_symptoms,25,14,1.2456776556776556
+2,disease_on_drugs,19,26,0.5503598740440845

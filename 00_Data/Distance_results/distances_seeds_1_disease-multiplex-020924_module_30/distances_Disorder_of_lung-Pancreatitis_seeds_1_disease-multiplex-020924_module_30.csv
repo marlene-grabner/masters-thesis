@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,0.16042884990253437
+1,disease_on_symptoms,17,20,0.8075914149443562
+2,disease_on_drugs,20,30,0.17999999999999994

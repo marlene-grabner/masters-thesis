@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,18,20,1.2769005847953219
+2,disease_on_drugs,17,28,0.2503501400560222

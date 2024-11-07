@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.3666666666666667
+1,disease_on_symptoms,25,18,-0.5268217054263564
+2,disease_on_drugs,30,30,-0.4

@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,0.2686239427456083
+1,disease_on_symptoms,16,26,1.8119276556776556
+2,disease_on_drugs,23,15,1.1098398169336385

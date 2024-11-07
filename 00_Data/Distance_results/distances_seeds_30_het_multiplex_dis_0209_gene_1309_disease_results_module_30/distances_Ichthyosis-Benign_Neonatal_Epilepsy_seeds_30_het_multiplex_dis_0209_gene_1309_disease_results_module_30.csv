@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,28,30,0.0683497536945814
+1,disease_on_symptoms,18,16,0.5810866013071894
+2,disease_on_drugs,25,21,0.1749896480331261

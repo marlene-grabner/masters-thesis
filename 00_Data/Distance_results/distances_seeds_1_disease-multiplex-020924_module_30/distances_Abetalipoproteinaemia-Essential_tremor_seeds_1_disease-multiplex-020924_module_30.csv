@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,17,21,0.18111455108359142
+1,disease_on_symptoms,25,20,0.11833333333333318
+2,disease_on_drugs,13,19,0.18522267206477738

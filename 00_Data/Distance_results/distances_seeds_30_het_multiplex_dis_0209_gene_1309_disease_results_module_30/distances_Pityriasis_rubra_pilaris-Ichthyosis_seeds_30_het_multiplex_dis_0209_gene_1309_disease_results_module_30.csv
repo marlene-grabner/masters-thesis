@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,27,28,-0.2912578162578163
+1,disease_on_symptoms,21,18,-0.6773504273504274
+2,disease_on_drugs,25,25,-0.30000000000000004

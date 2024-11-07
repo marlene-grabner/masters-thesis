@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.11367521367521372
+1,disease_on_symptoms,17,23,1.6069053708439895
+2,disease_on_drugs,24,20,0.24545454545454537

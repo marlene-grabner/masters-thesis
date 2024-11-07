@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,15,18,-0.22272727272727266
+2,disease_on_drugs,28,30,-0.11978653530377681

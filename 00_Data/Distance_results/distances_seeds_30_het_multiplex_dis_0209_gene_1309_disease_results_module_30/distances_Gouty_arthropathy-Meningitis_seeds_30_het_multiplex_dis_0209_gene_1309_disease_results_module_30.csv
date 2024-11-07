@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,0.12280701754385959
+1,disease_on_symptoms,18,17,0.8033146591970124
+2,disease_on_drugs,23,27,0.1529790660225443

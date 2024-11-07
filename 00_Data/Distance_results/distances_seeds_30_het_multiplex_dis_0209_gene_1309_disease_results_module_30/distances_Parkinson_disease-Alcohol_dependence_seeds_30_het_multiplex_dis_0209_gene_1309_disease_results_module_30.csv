@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,23,30,-0.2786163522012577
+1,disease_on_symptoms,23,18,0.3256156474608223
+2,disease_on_drugs,22,24,-0.30270092226613976

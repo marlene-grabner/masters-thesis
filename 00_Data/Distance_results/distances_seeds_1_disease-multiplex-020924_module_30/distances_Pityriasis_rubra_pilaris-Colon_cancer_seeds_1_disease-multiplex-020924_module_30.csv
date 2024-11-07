@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,28,26,0.2585470085470085
+1,disease_on_symptoms,23,21,0.8687182382834557
+2,disease_on_drugs,26,24,0.34153846153846157

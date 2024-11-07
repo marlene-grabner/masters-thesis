@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,22,22,0.3963807510319137
+1,disease_on_symptoms,21,20,3.3127468060394887
+2,disease_on_drugs,6,19,1.460701754385965

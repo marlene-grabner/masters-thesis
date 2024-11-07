@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,19,21,0.6353383458646618
+2,disease_on_drugs,28,28,0.3035714285714286

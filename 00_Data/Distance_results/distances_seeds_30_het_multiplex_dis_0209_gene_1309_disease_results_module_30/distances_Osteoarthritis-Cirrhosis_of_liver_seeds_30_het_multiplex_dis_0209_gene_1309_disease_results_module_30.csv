@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,-0.43131868131868123
+1,disease_on_symptoms,22,19,-0.618421052631579
+2,disease_on_drugs,25,30,-0.5103030303030301

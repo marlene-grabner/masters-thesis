@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,-0.2749019607843137
+1,disease_on_symptoms,21,26,0.050931338165380646
+2,disease_on_drugs,25,24,-0.204965986394558

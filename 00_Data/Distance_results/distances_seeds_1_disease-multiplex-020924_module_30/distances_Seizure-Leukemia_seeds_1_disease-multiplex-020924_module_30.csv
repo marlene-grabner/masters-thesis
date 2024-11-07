@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,18,0.25531914893617014
+1,disease_on_symptoms,25,27,1.5632193732193733
+2,disease_on_drugs,28,17,1.4228758169934639

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,25,-0.036363636363636376
+1,disease_on_symptoms,12,22,0.6836007130124779
+2,disease_on_drugs,29,25,-0.020817369093231175

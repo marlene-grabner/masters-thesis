@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,19,0.283310647307925
+1,disease_on_symptoms,22,21,2.026930433907178
+2,disease_on_drugs,29,17,0.9047976011994003

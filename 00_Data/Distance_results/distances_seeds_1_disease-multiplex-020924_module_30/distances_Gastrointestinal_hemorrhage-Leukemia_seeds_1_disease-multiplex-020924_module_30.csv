@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.3185185185185184
+1,disease_on_symptoms,19,27,0.5937791338249003
+2,disease_on_drugs,27,17,1.048128342245989

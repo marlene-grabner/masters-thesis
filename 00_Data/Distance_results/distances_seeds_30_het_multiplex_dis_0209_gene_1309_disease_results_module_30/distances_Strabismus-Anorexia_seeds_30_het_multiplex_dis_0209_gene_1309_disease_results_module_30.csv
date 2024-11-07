@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Anorexia nodes,sAB
+0,disease_on_genes,17,29,-0.18476056089602277
+1,disease_on_symptoms,24,13,0.32895876645876654
+2,disease_on_drugs,16,28,-0.00040584415584410394

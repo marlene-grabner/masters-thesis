@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,17,18,-0.3149859943977591
+2,disease_on_drugs,28,30,-0.1721264367816091

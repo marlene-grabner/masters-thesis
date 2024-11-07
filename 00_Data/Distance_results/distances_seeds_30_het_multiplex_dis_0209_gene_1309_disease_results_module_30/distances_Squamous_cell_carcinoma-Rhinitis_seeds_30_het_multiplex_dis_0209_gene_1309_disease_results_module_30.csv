@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,22,12,0.29634581105169344
+2,disease_on_drugs,30,23,0.5270713699753897

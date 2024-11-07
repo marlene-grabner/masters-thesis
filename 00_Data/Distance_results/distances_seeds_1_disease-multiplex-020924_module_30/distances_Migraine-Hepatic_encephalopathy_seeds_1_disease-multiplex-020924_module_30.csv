@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,0.022222222222222143
+1,disease_on_symptoms,14,27,0.8017808749516064
+2,disease_on_drugs,29,9,0.9210526315789473

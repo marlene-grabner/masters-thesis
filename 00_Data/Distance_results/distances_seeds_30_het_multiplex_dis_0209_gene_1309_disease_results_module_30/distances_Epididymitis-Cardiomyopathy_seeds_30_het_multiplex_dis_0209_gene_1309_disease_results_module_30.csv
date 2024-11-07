@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,29,25,-0.002962962962963056
+1,disease_on_symptoms,23,21,0.2402126858648599
+2,disease_on_drugs,26,24,0.181282051282051

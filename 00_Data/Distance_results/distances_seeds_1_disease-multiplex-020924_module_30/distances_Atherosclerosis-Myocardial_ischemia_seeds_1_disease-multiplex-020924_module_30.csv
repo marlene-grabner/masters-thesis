@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,13,13,0.5384615384615383
+2,disease_on_drugs,29,23,-0.10367892976588611

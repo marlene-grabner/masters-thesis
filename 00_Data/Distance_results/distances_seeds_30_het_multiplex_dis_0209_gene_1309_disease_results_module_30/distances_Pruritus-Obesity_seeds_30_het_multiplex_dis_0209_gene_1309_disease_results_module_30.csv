@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Obesity nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111105
+1,disease_on_symptoms,21,18,0.9774114774114773
+2,disease_on_drugs,27,25,0.018233618233618243

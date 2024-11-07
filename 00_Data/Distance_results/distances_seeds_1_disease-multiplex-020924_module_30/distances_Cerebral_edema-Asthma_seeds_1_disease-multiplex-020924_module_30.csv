@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.32545454545454544
+1,disease_on_symptoms,9,19,1.6530910609857976
+2,disease_on_drugs,11,24,0.2557359307359308

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,29,30,0.2022209234365866
+1,disease_on_symptoms,15,12,1.4648148148148143
+2,disease_on_drugs,29,22,0.7082488167680867

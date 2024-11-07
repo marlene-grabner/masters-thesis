@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Pruritus nodes,sAB
+0,disease_on_genes,29,26,0.08814814814814809
+1,disease_on_symptoms,25,19,1.8825837320574164
+2,disease_on_drugs,28,24,0.5961538461538463

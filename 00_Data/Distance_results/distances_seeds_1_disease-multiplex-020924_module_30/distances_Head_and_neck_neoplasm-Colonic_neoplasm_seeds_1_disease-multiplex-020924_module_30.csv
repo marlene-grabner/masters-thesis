@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.5333333333333332
+1,disease_on_symptoms,20,19,-0.719433198380567
+2,disease_on_drugs,27,29,-0.5714285714285714

@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.14025764895330106
+1,disease_on_symptoms,19,19,0.3421052631578947
+2,disease_on_drugs,24,22,-0.15159749670619238

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,0.26666666666666683
+1,disease_on_symptoms,12,15,0.40740740740740744
+2,disease_on_drugs,27,30,0.7543859649122806

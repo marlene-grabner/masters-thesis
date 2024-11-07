@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Fatigue nodes,sAB
+0,disease_on_genes,27,26,0.11353007579422658
+1,disease_on_symptoms,15,21,1.4515873015873015
+2,disease_on_drugs,25,26,0.33369532428355964

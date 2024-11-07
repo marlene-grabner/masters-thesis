@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.2993468795355587
+1,disease_on_symptoms,20,17,1.1051271860095393
+2,disease_on_drugs,20,26,1.005016722408027

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,27,27,-0.18518518518518523
+1,disease_on_symptoms,22,17,1.1131907308377893
+2,disease_on_drugs,26,24,0.018910256410256343

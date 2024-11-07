@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,-0.2367231638418078
+1,disease_on_symptoms,14,18,-0.4007936507936507
+2,disease_on_drugs,29,22,-0.3529411764705882

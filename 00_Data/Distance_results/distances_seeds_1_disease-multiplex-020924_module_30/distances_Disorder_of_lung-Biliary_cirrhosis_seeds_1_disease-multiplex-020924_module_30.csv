@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.47204751921733035
+1,disease_on_symptoms,17,15,0.7477941176470588
+2,disease_on_drugs,20,15,0.7619047619047619

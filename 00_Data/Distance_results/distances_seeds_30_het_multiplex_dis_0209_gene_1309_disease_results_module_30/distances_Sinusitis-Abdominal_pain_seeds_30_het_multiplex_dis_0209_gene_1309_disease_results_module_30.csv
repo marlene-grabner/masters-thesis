@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,-0.08446327683615817
+1,disease_on_symptoms,20,19,0.2250000000000001
+2,disease_on_drugs,27,29,0.07124612297026078

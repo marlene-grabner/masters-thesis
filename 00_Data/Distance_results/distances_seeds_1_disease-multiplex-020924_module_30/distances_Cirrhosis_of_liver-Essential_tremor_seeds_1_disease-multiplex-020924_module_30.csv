@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.17941176470588238
+1,disease_on_symptoms,14,20,1.217857142857143
+2,disease_on_drugs,26,19,0.1544534412955465

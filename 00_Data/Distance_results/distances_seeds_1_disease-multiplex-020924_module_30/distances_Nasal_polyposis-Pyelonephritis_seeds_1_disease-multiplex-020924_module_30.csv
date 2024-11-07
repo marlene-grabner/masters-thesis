@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,15,23,0.19092295957284522
+1,disease_on_symptoms,25,21,0.7420289855072464
+2,disease_on_drugs,10,19,-0.06551724137931036

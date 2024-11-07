@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,17,12,0.686020960108181
+2,disease_on_drugs,30,18,0.1819444444444447

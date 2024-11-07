@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,22,26,-0.08333333333333337
+1,disease_on_symptoms,21,17,0.24237063246351176
+2,disease_on_drugs,21,24,0.18551587301587302

@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,30,0.03389830508474567
+1,disease_on_symptoms,18,21,0.4517704517704515
+2,disease_on_drugs,28,30,0.3267651888341543

@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,15,0.6710784313725491
+2,disease_on_drugs,30,23,0.4240087503418104

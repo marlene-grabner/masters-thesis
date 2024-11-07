@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,13,14,0.3502238502238504
+2,disease_on_drugs,28,22,0.13435064935064944

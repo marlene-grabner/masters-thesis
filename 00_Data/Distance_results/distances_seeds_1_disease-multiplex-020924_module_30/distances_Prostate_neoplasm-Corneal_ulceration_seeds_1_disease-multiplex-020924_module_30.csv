@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,17,28,0.2200513538748834
+1,disease_on_symptoms,21,19,1.3981829573934839
+2,disease_on_drugs,17,26,0.6388508891928864

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.20566502463054204
+1,disease_on_symptoms,12,15,0.11481481481481515
+2,disease_on_drugs,27,21,0.5

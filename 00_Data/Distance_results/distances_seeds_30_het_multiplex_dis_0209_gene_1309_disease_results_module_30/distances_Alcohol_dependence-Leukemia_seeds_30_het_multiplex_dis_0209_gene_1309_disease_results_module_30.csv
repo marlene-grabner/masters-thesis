@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333332
+1,disease_on_symptoms,18,21,-0.09096459096459109
+2,disease_on_drugs,24,30,-0.0370370370370372

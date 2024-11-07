@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,20,-0.16166666666666674
+1,disease_on_symptoms,20,25,0.3177777777777777
+2,disease_on_drugs,27,19,-0.22654462242562945

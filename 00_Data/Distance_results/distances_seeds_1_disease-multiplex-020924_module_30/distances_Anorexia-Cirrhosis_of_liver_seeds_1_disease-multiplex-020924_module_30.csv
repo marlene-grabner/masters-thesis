@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,17,30,0.26994159365874015
+1,disease_on_symptoms,25,14,1.542087912087912
+2,disease_on_drugs,13,26,0.7628205128205128

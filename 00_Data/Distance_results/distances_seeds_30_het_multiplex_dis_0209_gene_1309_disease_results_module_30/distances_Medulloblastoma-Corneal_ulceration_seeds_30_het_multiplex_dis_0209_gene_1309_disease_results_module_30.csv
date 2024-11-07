@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,27,28,-0.017857142857142794
+1,disease_on_symptoms,22,15,0.49352989352989374
+2,disease_on_drugs,26,23,-0.023684390144017353

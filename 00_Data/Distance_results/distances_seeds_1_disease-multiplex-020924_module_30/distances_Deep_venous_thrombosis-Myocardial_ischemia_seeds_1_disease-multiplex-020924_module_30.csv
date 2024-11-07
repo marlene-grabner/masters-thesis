@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,28,30,0.08559113300492616
+1,disease_on_symptoms,14,13,1.4064916564916565
+2,disease_on_drugs,24,23,-0.08649398704902855

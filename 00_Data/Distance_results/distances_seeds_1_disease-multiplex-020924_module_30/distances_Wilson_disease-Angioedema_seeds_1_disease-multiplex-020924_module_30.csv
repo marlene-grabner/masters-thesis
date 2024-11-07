@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Angioedema nodes,sAB
+0,disease_on_genes,23,29,0.3636432834003167
+1,disease_on_symptoms,19,17,1.1538527691778464
+2,disease_on_drugs,11,25,0.9444444444444444

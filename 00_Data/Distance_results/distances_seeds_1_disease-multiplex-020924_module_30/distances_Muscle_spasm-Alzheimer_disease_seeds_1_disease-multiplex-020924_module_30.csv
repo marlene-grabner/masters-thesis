@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,25,20,-0.14722222222222225
+1,disease_on_symptoms,23,23,-0.021739130434782483
+2,disease_on_drugs,19,18,0.16216216216216206

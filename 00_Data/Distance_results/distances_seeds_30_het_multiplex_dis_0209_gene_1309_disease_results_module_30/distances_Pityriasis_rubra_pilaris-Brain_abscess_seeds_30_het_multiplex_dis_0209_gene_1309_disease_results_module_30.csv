@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111127
+1,disease_on_symptoms,21,21,0.38095238095238093
+2,disease_on_drugs,25,23,-0.21572463768115946

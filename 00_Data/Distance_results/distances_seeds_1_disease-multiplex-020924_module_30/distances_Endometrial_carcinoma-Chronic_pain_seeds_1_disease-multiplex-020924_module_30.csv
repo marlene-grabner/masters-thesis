@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,23,30,0.19893355209187868
+1,disease_on_symptoms,21,22,1.0890717809322457
+2,disease_on_drugs,21,28,0.7882653061224489

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,18,15,0.46111111111111125
+2,disease_on_drugs,26,25,-0.015912518853695268

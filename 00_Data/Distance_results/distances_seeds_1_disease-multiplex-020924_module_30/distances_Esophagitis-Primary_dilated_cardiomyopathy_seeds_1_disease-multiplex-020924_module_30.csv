@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,24,30,0.6546349466776047
+1,disease_on_symptoms,23,25,2.106376811594203
+2,disease_on_drugs,20,7,0.8294973544973543

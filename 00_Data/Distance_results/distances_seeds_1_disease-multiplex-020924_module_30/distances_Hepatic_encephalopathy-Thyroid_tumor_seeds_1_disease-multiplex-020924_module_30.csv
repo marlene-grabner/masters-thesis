@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,9,23,0.3757548309178744
+1,disease_on_symptoms,27,20,2.0330378250591012
+2,disease_on_drugs,9,20,0.9405172413793104

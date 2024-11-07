@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Esophagitis nodes,sAB
+0,disease_on_genes,30,24,0.14520098441345364
+1,disease_on_symptoms,18,23,1.0180570283963712
+2,disease_on_drugs,27,20,0.3292159180457055

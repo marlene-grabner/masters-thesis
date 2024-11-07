@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.17742374727668841
+1,disease_on_symptoms,20,19,2.1778340080971663
+2,disease_on_drugs,15,20,0.75

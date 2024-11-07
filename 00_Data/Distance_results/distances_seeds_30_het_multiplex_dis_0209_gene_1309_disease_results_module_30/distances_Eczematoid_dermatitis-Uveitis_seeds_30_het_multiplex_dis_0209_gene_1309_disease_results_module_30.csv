@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,25,20,-0.4177777777777778
+2,disease_on_drugs,30,23,-0.41259228876127985

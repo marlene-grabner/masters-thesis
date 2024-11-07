@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,-0.13735632183908042
+1,disease_on_symptoms,25,19,0.0009090909090909705
+2,disease_on_drugs,24,29,-0.04695293862502714

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,16,29,0.2972222222222223
+1,disease_on_symptoms,26,15,1.7756722951844903
+2,disease_on_drugs,14,29,1.441860465116279

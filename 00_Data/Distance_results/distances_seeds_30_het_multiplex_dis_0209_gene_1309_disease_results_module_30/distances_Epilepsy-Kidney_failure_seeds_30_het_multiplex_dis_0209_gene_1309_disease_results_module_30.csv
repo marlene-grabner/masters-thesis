@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,30,-0.3500000000000001
+1,disease_on_symptoms,21,20,-0.5363240418118467
+2,disease_on_drugs,29,28,-0.4048159191081151

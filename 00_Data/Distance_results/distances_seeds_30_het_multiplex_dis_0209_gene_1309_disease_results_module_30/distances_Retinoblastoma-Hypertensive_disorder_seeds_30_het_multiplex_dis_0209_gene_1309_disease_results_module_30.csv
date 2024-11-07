@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,21,21,0.9523809523809526
+2,disease_on_drugs,27,26,0.4150809009299574

@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.11945812807881784
+1,disease_on_symptoms,17,25,-0.18733893557422965
+2,disease_on_drugs,27,23,0.2192270531400966

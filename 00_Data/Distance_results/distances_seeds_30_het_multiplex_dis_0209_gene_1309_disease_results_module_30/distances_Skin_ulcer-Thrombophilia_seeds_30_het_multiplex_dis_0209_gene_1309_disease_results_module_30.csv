@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.1578947368421053
+1,disease_on_symptoms,20,18,0.4023391812865498
+2,disease_on_drugs,24,22,0.4137022397891963

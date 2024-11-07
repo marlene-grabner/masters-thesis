@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.32834757834757844
+1,disease_on_symptoms,20,26,1.395903010033445
+2,disease_on_drugs,20,28,0.4821428571428572

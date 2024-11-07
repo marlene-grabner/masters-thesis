@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,18,0.26475155279503104
+1,disease_on_symptoms,20,27,1.5941686367218284
+2,disease_on_drugs,28,17,0.8450980392156862

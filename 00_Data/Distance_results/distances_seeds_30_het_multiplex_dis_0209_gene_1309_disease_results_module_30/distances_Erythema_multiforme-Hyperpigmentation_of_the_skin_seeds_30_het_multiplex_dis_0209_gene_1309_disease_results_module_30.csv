@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,17,0.1671335200746964
+2,disease_on_drugs,30,28,0.0817733990147782

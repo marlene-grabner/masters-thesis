@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.05084745762711873
+1,disease_on_symptoms,17,18,0.8587301587301588
+2,disease_on_drugs,26,28,0.24114774114774118

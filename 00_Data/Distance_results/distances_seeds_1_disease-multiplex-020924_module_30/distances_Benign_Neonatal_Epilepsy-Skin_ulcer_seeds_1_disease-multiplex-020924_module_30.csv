@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,29,30,0.2562146892655366
+1,disease_on_symptoms,16,19,2.5213815789473686
+2,disease_on_drugs,26,22,1.0757575757575757

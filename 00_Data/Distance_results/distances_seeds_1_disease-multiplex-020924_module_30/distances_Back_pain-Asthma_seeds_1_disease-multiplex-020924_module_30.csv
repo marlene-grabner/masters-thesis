@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.005757575757575628
+1,disease_on_symptoms,16,19,1.8827537593984962
+2,disease_on_drugs,23,24,0.08599290780141855

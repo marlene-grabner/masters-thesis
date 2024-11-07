@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.16181818181818186
+1,disease_on_symptoms,13,26,1.448717948717949
+2,disease_on_drugs,21,24,0.32619047619047636

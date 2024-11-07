@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,18,15,-0.042424242424242475
+2,disease_on_drugs,27,25,-0.23324786324786317

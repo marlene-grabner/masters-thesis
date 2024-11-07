@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,23,25,0.16568840579710153
+1,disease_on_symptoms,19,20,1.8695006747638327
+2,disease_on_drugs,19,21,0.8

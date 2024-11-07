@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.2975757575757576
+1,disease_on_symptoms,24,17,1.3571855571496894
+2,disease_on_drugs,20,26,1.5

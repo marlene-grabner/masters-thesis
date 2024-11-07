@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.07280219780219777
+1,disease_on_symptoms,20,25,0.7855555555555558
+2,disease_on_drugs,26,25,0.09911010558069377

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,20,16,-0.15833333333333344
+2,disease_on_drugs,30,29,-0.05320475355542564

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,11,14,-0.19883116883116903
+2,disease_on_drugs,27,28,0.3093795093795093

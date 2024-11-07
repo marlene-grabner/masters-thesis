@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Back_pain nodes,sAB
+0,disease_on_genes,17,30,0.1819983312473925
+1,disease_on_symptoms,21,16,0.9022281209781209
+2,disease_on_drugs,17,23,0.8911764705882352

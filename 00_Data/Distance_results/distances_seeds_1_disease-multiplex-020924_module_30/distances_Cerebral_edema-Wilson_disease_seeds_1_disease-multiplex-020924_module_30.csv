@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.6837571780147662
+1,disease_on_symptoms,9,19,1.1982038429406852
+2,disease_on_drugs,11,11,1.0

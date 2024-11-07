@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.16428571428571437
+1,disease_on_symptoms,17,20,1.0287758346581874
+2,disease_on_drugs,26,27,0.7351233671988391

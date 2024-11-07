@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.37200467562828754
+1,disease_on_symptoms,19,16,1.7773496240601505
+2,disease_on_drugs,29,22,0.673766058147397

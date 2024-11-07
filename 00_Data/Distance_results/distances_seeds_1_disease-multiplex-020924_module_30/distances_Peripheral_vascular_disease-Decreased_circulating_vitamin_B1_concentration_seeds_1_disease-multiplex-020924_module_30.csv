@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,23,25,0.33373188405797105
+1,disease_on_symptoms,16,13,3.110162466843501
+2,disease_on_drugs,22,16,0.675986842105263

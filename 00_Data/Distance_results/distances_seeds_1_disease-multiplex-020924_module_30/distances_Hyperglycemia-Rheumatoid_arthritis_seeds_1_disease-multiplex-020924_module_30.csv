@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,27,0.08830409356725144
+1,disease_on_symptoms,14,15,0.5042692939244664
+2,disease_on_drugs,26,25,0.41137254901960785

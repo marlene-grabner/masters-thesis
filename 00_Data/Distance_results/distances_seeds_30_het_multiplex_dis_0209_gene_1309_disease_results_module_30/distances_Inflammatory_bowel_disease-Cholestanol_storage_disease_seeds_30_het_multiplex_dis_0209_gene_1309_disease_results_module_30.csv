@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.11893629456458199
+1,disease_on_symptoms,20,18,0.4182748538011696
+2,disease_on_drugs,27,28,0.11070226070226075

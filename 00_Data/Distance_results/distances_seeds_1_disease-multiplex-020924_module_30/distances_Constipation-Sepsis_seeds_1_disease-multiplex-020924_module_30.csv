@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.17738927738927734
+1,disease_on_symptoms,17,23,1.45383631713555
+2,disease_on_drugs,27,17,0.8544761338878988

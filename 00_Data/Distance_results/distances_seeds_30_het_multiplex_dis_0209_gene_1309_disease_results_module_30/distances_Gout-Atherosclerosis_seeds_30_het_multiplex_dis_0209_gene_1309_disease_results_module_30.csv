@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,28,30,-0.1385467980295566
+1,disease_on_symptoms,19,14,-0.038277511961722244
+2,disease_on_drugs,22,29,-0.1770852541643615

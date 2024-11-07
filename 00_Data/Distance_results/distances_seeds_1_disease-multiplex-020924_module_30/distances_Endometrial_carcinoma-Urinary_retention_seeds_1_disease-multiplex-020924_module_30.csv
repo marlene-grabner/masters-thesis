@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,23,30,0.3802998500749626
+1,disease_on_symptoms,21,18,1.3922466422466422
+2,disease_on_drugs,21,19,0.8996240601503758

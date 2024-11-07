@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,28,-0.08390804597701151
+1,disease_on_symptoms,14,21,-0.11904761904761907
+2,disease_on_drugs,26,21,0.058763931104356626

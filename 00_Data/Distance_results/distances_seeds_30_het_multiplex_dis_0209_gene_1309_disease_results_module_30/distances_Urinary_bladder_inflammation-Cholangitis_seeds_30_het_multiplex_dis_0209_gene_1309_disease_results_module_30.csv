@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,16,18,-0.43729575163398704
+2,disease_on_drugs,29,28,-0.2133782732693803

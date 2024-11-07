@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,19,18,0.14252410305041896
+2,disease_on_drugs,24,22,0.26605731225296436

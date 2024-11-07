@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.3416666666666668
+1,disease_on_symptoms,17,27,1.5088136264606855
+2,disease_on_drugs,26,19,0.9251461988304093

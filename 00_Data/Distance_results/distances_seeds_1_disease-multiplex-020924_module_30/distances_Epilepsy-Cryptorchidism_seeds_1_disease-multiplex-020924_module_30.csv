@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,29,23,0.32397504456327963
+1,disease_on_symptoms,18,18,1.8611111111111112
+2,disease_on_drugs,30,18,1.4208333333333334

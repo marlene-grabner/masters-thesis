@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.25
+1,disease_on_symptoms,17,27,1.0315904139433552
+2,disease_on_drugs,25,17,1.0108123249299719

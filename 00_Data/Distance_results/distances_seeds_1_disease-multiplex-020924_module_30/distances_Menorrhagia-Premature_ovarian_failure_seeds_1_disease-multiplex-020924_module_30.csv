@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,28,-0.2799145299145299
+1,disease_on_symptoms,19,21,0.33508771929824577
+2,disease_on_drugs,24,21,-0.20178571428571423

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,22,25,0.09213250517598337
+1,disease_on_symptoms,26,22,1.2204254079254078
+2,disease_on_drugs,12,25,0.5205405405405406

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,26,27,-0.16985163683276894
+1,disease_on_symptoms,19,15,-0.19236326109391144
+2,disease_on_drugs,24,25,-0.1836904761904764

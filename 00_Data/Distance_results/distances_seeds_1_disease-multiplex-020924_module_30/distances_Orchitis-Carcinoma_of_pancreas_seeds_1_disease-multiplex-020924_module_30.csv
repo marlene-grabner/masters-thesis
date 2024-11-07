@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,23,23,0.326086956521739
+1,disease_on_symptoms,16,25,1.0076524390243904
+2,disease_on_drugs,17,21,0.12538699690402466

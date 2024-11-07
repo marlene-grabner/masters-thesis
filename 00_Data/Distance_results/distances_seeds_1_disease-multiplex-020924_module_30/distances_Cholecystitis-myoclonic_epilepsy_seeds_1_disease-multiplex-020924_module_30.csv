@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,25,30,0.6012121212121213
+1,disease_on_symptoms,19,16,2.331907894736842
+2,disease_on_drugs,13,23,1.2018766257896691

@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.28007518796992503
+1,disease_on_symptoms,12,20,0.9416666666666669
+2,disease_on_drugs,30,27,0.7026315789473685

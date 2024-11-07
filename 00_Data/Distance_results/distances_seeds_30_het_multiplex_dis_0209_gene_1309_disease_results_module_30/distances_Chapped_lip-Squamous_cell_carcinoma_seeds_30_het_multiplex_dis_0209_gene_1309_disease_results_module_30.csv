@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,26,30,-0.3571428571428571
+1,disease_on_symptoms,20,22,-0.42781385281385287
+2,disease_on_drugs,23,30,-0.4077112387202625

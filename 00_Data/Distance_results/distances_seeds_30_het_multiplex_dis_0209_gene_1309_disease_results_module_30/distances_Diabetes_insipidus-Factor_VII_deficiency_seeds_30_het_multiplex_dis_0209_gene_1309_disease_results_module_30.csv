@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,28,0.14809727309727294
+1,disease_on_symptoms,20,19,1.2841430499325237
+2,disease_on_drugs,20,25,0.1566666666666665

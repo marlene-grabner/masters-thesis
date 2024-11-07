@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,20,27,0.06552403467297085
+1,disease_on_symptoms,23,27,1.1814170692431563
+2,disease_on_drugs,17,26,0.5990213616752602

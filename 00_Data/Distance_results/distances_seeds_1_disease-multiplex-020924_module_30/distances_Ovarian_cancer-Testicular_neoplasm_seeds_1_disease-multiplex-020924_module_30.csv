@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.23230769230769233
+1,disease_on_symptoms,17,25,-0.4221288515406161
+2,disease_on_drugs,25,23,-0.2726449275362318

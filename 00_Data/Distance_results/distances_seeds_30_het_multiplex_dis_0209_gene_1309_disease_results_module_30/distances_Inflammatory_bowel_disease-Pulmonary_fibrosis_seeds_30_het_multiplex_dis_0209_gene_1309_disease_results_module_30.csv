@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,25,-0.2909090909090909
+1,disease_on_symptoms,20,22,-0.5778138528138528
+2,disease_on_drugs,27,25,-0.2723646723646723

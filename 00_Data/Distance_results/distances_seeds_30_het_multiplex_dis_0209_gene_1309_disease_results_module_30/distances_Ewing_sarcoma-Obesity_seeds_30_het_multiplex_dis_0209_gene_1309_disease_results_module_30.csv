@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.14327485380116967
+1,disease_on_symptoms,17,18,0.40102707749766564
+2,disease_on_drugs,24,25,0.020323129251700767

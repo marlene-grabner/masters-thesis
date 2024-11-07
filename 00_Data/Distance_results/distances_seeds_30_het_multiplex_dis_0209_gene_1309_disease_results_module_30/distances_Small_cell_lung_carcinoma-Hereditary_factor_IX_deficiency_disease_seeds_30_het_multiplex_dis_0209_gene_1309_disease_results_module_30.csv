@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.20874384236453203
+1,disease_on_symptoms,19,18,0.6796269954164691
+2,disease_on_drugs,30,26,0.10760073260073266

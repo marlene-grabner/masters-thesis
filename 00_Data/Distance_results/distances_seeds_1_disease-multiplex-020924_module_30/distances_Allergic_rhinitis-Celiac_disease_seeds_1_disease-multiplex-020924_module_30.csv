@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,21,17,0.10157747309450071
+1,disease_on_symptoms,22,22,1.6136363636363633
+2,disease_on_drugs,21,15,0.2404761904761905

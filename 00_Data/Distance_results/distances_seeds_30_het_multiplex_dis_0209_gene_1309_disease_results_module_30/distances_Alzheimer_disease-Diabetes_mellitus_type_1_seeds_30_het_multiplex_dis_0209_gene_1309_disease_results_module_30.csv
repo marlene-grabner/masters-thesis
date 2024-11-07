@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,23,30,-0.24528301886792447
+1,disease_on_symptoms,19,18,0.6917970602181125
+2,disease_on_drugs,19,26,-0.2587944219523167

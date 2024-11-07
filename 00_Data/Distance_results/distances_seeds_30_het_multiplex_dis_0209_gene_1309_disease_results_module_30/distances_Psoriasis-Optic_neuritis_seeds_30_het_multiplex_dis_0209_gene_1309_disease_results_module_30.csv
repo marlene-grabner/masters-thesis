@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.19298245614035092
+1,disease_on_symptoms,17,21,-0.14352056612118536
+2,disease_on_drugs,30,27,-0.2808966861598441

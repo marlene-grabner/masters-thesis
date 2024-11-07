@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,17,26,0.2949331789961065
+1,disease_on_symptoms,22,20,1.244047619047619
+2,disease_on_drugs,15,20,1.0523809523809526

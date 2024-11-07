@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,27,27,0.3148148148148149
+1,disease_on_symptoms,19,17,1.8069315445476437
+2,disease_on_drugs,20,20,0.5750000000000002

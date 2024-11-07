@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Obesity nodes,sAB
+0,disease_on_genes,30,26,0.1069597069597068
+1,disease_on_symptoms,16,20,0.6034722222222224
+2,disease_on_drugs,27,27,0.574074074074074

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,28,27,-0.10876623376623373
+1,disease_on_symptoms,19,21,-0.17951127819548862
+2,disease_on_drugs,22,25,-0.12522243713733072

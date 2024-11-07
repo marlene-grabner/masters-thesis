@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,28,28,-0.1785714285714286
+1,disease_on_symptoms,16,18,-0.049428104575163445
+2,disease_on_drugs,23,26,-0.09422565012627127

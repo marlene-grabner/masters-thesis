@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.11111111111111116
+1,disease_on_symptoms,19,21,0.25419799498746887
+2,disease_on_drugs,30,24,-0.05787037037037046

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.10558608058608066
+1,disease_on_symptoms,21,16,1.4720077220077221
+2,disease_on_drugs,26,23,0.3643778581666781

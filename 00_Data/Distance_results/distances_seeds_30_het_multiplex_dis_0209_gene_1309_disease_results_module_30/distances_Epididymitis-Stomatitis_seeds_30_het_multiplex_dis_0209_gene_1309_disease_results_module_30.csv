@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,23,19,-0.06287457774871963
+2,disease_on_drugs,26,29,-0.25237521099590077

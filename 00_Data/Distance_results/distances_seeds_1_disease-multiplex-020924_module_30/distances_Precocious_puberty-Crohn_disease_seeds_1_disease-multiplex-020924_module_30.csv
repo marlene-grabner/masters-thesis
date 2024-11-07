@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.3138888888888889
+1,disease_on_symptoms,14,20,1.4289915966386553
+2,disease_on_drugs,24,21,0.9746031746031745

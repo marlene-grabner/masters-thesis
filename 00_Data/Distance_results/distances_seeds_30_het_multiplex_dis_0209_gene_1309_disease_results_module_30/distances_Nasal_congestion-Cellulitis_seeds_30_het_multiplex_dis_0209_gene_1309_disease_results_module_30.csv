@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,14,20,-0.015966386554622014
+2,disease_on_drugs,25,26,0.05832579185520359

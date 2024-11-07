@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,26,0.05454545454545445
+1,disease_on_symptoms,11,19,1.0437001594896331
+2,disease_on_drugs,24,24,0.3125

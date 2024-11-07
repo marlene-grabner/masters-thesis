@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,17,16,1.0866198752228167
+2,disease_on_drugs,26,28,0.239112739112739

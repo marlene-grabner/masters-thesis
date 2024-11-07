@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.17999999999999994
+1,disease_on_symptoms,14,26,-0.01318681318681314
+2,disease_on_drugs,27,13,-0.12934472934472918

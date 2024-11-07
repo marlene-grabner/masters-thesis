@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,25,30,-0.05484848484848481
+1,disease_on_symptoms,17,13,0.15716440422322808
+2,disease_on_drugs,25,28,0.001657681940700595

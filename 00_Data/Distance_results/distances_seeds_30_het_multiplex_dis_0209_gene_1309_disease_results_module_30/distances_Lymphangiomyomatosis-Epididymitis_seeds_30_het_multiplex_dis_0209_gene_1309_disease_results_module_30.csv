@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,26,29,0.12622377622377634
+1,disease_on_symptoms,17,23,0.695012787723785
+2,disease_on_drugs,24,26,0.2387820512820511

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,-0.12192982456140344
+1,disease_on_symptoms,16,21,0.08289092664092657
+2,disease_on_drugs,30,25,-0.015454545454545388

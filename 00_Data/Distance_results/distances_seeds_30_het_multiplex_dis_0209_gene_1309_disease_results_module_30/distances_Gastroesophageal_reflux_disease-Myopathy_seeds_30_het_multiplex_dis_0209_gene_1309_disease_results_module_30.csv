@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Myopathy nodes,sAB
+0,disease_on_genes,26,23,-0.20290423861852425
+1,disease_on_symptoms,18,22,0.0707070707070705
+2,disease_on_drugs,25,21,-0.2987577639751553

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,22,17,-0.1764020293432058
+2,disease_on_drugs,26,25,-0.13809954751131204

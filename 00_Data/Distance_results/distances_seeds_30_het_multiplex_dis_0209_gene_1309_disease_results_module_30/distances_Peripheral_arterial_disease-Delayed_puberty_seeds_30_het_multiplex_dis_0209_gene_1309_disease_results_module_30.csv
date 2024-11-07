@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,17,16,0.14505347593582885
+2,disease_on_drugs,24,29,-0.17611418347430052

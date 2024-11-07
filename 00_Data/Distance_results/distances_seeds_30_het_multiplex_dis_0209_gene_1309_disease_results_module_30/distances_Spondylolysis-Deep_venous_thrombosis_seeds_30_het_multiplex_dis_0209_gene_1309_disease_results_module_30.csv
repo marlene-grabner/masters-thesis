@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,28,30,0.17241379310344818
+1,disease_on_symptoms,17,16,0.8504344919786093
+2,disease_on_drugs,19,28,0.2600383938569828

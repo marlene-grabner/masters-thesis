@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,27,30,0.2621832358674463
+1,disease_on_symptoms,22,17,0.9591046208693268
+2,disease_on_drugs,24,25,1.2056802721088435

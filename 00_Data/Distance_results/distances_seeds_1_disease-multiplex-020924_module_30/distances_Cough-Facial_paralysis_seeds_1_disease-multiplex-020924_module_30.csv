@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,-0.12391921538262984
+1,disease_on_symptoms,21,23,0.044137022397891856
+2,disease_on_drugs,27,14,-0.15898825654923232

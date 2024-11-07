@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Meningitis nodes,sAB
+0,disease_on_genes,20,29,0.07276565798733303
+1,disease_on_symptoms,23,20,0.9473458038422646
+2,disease_on_drugs,18,26,0.45707070707070696

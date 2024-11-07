@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,19,13,0.37006578947368407
+2,disease_on_drugs,25,22,0.3170019342359769

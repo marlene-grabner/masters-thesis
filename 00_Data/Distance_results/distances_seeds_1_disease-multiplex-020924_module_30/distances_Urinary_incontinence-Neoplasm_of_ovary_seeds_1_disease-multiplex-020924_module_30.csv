@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,0.3603846153846155
+1,disease_on_symptoms,20,26,1.6885451505016724
+2,disease_on_drugs,20,15,1.342857142857143

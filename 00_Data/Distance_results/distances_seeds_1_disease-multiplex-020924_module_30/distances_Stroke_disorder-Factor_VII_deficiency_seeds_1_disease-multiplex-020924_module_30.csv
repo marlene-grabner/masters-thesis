@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.003939393939393909
+1,disease_on_symptoms,15,23,0.918001525553013
+2,disease_on_drugs,30,21,0.6778711484593838

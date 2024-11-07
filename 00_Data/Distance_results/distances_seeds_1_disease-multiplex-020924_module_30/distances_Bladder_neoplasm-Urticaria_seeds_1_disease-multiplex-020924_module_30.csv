@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,10,0.41666666666666674
+1,disease_on_symptoms,20,27,1.7647557131599685
+2,disease_on_drugs,25,9,0.8235294117647058

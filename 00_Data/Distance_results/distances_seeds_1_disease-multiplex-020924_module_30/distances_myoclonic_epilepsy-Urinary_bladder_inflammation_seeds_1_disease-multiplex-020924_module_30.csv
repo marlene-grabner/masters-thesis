@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.4884848484848485
+1,disease_on_symptoms,16,22,1.5393241626794256
+2,disease_on_drugs,23,24,1.0429386370644464

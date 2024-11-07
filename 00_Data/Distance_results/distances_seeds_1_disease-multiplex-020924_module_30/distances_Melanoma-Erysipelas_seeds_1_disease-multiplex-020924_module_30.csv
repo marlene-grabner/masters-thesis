@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,24,28,0.36813186813186816
+1,disease_on_symptoms,23,20,1.8130434782608695
+2,disease_on_drugs,22,27,0.8367346938775511

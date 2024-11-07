@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Uveitis nodes,sAB
+0,disease_on_genes,29,30,0.27117669978570036
+1,disease_on_symptoms,17,21,1.463954002653693
+2,disease_on_drugs,30,27,0.6832358674463936

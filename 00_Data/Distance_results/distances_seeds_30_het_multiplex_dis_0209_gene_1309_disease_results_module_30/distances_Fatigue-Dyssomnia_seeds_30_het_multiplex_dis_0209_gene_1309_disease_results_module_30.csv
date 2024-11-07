@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,26,18,-0.23951048951048948
+1,disease_on_symptoms,16,21,2.461872586872587
+2,disease_on_drugs,26,17,-0.23326844154477544

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.2806042884990254
+1,disease_on_symptoms,14,18,1.308531746031746
+2,disease_on_drugs,29,21,0.6523809523809523

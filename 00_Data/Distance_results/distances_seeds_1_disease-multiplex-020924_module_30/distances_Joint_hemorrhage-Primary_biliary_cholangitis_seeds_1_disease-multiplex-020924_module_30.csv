@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.4664835164835164
+1,disease_on_symptoms,13,17,1.3533936651583711
+2,disease_on_drugs,18,18,0.8611111111111112

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,17,0.32705538355693164
+2,disease_on_drugs,30,27,0.13742690058479523

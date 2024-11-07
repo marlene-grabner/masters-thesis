@@ -1,0 +1,4 @@
+,Layer,Ischemic_stroke nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.061764705882352944
+1,disease_on_symptoms,16,20,1.1583333333333334
+2,disease_on_drugs,23,19,-0.065653263593767

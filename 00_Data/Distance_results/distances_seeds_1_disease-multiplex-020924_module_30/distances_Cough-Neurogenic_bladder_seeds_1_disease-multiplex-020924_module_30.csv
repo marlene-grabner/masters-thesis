@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,-0.06413255360623782
+1,disease_on_symptoms,21,17,0.852425180598555
+2,disease_on_drugs,27,26,0.34032145352900045

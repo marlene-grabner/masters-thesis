@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,21,14,1.5952380952380953
+2,disease_on_drugs,25,22,0.29172147001934245

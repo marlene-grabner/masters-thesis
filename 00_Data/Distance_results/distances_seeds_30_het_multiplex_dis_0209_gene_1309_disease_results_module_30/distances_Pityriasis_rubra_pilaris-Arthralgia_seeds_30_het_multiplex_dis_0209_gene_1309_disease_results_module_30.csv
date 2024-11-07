@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Arthralgia nodes,sAB
+0,disease_on_genes,27,30,-0.24756335282651087
+1,disease_on_symptoms,21,17,-0.17698658410732726
+2,disease_on_drugs,25,30,-0.3081818181818182

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.03421052631578947
+1,disease_on_symptoms,17,18,0.01965452847805782
+2,disease_on_drugs,26,24,-0.15250000000000008

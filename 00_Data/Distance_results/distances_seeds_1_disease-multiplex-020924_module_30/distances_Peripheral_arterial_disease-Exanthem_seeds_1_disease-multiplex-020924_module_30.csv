@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Exanthem nodes,sAB
+0,disease_on_genes,25,28,0.3562264150943395
+1,disease_on_symptoms,14,26,1.0230769230769232
+2,disease_on_drugs,22,28,0.7021428571428572

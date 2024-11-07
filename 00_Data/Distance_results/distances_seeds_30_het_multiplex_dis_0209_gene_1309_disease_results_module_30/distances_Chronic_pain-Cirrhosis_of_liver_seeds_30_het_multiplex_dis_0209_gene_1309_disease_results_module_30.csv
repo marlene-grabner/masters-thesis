@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,19,19,-0.23684210526315796
+2,disease_on_drugs,28,30,-0.22307060755336627

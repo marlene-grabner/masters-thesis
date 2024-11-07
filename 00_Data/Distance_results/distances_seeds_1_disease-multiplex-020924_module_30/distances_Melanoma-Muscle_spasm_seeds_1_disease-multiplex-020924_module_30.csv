@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,24,25,0.2673469387755101
+1,disease_on_symptoms,23,23,1.9347826086956523
+2,disease_on_drugs,22,19,1.3902439024390243

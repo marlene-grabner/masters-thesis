@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,18,24,0.17162698412698418
+1,disease_on_symptoms,28,22,1.2985064935064936
+2,disease_on_drugs,17,11,0.2626050420168067

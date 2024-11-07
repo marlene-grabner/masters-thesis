@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,25,0.4052706552706551
+1,disease_on_symptoms,20,26,2.2273411371237457
+2,disease_on_drugs,15,21,1.0277777777777777

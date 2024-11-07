@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,23,25,0.31061594202898557
+1,disease_on_symptoms,21,24,0.8430555555555554
+2,disease_on_drugs,19,23,1.0952380952380953

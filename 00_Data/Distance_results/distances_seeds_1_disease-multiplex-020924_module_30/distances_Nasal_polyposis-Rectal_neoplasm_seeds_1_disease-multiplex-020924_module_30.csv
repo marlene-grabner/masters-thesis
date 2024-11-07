@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,15,30,0.21111111111111125
+1,disease_on_symptoms,25,21,1.0246376811594202
+2,disease_on_drugs,10,29,0.22449160035366944

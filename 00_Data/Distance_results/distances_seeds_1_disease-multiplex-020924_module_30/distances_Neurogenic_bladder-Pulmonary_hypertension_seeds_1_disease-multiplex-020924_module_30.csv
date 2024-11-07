@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.141912972085386
+1,disease_on_symptoms,17,20,1.4809220985691574
+2,disease_on_drugs,26,28,0.6666666666666667

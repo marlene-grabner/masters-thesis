@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,18,30,-0.1875
+1,disease_on_symptoms,21,22,0.18486358602637654
+2,disease_on_drugs,17,28,0.005018674136321177

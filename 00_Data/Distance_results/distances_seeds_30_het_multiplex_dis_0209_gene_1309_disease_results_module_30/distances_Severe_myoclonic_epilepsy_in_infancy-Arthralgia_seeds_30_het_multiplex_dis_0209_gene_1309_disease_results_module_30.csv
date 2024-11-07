@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,14,17,0.8862157766332341
+2,disease_on_drugs,21,30,0.2511204481792717

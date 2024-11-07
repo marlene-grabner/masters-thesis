@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.25
+1,disease_on_symptoms,13,18,1.675834022608216
+2,disease_on_drugs,22,26,0.4622668997668995

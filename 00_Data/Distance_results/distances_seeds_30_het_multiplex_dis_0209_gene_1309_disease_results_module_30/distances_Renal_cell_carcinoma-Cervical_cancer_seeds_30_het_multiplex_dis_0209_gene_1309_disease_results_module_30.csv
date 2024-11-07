@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,28,-0.0185185185185186
+1,disease_on_symptoms,22,22,0.3181818181818181
+2,disease_on_drugs,22,15,-0.2040131040131039

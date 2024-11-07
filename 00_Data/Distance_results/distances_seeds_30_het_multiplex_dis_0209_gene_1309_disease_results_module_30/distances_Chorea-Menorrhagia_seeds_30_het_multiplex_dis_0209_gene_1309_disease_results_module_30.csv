@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.21052631578947367
+1,disease_on_symptoms,17,16,1.6356394830659537
+2,disease_on_drugs,24,23,0.6626773049645389

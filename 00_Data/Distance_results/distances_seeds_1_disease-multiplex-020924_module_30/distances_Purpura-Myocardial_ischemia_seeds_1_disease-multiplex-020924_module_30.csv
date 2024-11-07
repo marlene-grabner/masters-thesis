@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,0.1923076923076923
+1,disease_on_symptoms,17,13,1.7518853695324283
+2,disease_on_drugs,20,23,0.0045500505561173465

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,14,0.2675521821631879
+2,disease_on_drugs,25,29,-0.010779054916985942

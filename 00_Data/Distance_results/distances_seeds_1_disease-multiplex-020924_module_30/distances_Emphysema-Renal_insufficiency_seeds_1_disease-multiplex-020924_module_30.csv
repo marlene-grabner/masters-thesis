@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.1333333333333333
+1,disease_on_symptoms,14,23,1.0713026691287562
+2,disease_on_drugs,29,17,0.4539641943734014

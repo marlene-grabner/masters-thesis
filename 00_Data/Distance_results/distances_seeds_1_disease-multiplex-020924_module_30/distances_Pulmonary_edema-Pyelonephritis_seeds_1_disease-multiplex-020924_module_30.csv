@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,23,0.25553732567678433
+1,disease_on_symptoms,14,21,0.6261904761904762
+2,disease_on_drugs,27,19,0.680354267310789

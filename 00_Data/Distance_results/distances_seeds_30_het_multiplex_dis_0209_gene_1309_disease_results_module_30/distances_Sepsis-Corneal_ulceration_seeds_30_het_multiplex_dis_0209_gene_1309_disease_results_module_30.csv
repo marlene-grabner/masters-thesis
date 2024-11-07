@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.13797208538587857
+1,disease_on_symptoms,15,15,0.2666666666666666
+2,disease_on_drugs,25,23,-0.10543478260869565

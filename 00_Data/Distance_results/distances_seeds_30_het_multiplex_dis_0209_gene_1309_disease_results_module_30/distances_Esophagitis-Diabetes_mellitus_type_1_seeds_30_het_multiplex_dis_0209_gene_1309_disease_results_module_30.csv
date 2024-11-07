@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,20,18,0.22938596491228092
+2,disease_on_drugs,30,26,0.0016483516483518645

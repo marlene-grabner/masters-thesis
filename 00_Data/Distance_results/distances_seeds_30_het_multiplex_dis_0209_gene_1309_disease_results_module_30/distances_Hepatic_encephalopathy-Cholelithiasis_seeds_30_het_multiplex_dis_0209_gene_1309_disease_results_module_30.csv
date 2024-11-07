@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,14,20,1.0869747899159663
+2,disease_on_drugs,29,18,0.06784462378739708

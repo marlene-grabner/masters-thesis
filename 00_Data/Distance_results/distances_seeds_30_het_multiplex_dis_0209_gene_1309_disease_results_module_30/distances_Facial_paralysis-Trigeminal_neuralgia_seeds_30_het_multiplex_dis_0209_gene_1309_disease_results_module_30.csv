@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,22,30,0.0
+1,disease_on_symptoms,21,15,0.23968253968253972
+2,disease_on_drugs,17,25,0.17971988795518223

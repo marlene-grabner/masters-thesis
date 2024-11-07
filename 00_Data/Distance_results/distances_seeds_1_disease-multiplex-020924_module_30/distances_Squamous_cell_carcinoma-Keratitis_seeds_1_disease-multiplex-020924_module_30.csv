@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,16,28,0.13474025974025983
+1,disease_on_symptoms,26,25,1.4465761689291101
+2,disease_on_drugs,14,23,0.3131609870740306

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,0.3846153846153846
+1,disease_on_symptoms,19,15,1.3625386996904023
+2,disease_on_drugs,24,15,0.9894230769230772

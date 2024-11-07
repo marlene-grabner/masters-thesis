@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,23,25,0.1447826086956523
+1,disease_on_symptoms,25,19,0.12507177033492822
+2,disease_on_drugs,22,18,0.12904040404040407

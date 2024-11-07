@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,20,22,0.7455627705627708
+2,disease_on_drugs,29,27,0.10805509943440983

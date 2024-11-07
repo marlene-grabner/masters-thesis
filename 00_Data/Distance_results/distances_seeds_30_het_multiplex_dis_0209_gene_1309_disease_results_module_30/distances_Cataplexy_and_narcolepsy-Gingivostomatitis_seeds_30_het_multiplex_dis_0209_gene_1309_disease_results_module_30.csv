@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,25,30,-0.1621212121212121
+1,disease_on_symptoms,19,15,1.2676986584107326
+2,disease_on_drugs,18,30,-0.056944444444444686

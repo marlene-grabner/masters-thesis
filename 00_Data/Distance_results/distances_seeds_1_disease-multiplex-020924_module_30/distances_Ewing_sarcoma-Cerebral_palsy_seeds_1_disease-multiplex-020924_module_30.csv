@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,24,27,0.4168028322440087
+1,disease_on_symptoms,25,16,1.463109756097561
+2,disease_on_drugs,17,18,1.0285714285714285

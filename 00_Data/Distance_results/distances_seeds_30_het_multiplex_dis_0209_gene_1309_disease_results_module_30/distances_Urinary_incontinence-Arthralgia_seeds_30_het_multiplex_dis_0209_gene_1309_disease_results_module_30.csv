@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Arthralgia nodes,sAB
+0,disease_on_genes,29,30,0.0
+1,disease_on_symptoms,20,17,0.8055643879173291
+2,disease_on_drugs,20,30,0.09000000000000008

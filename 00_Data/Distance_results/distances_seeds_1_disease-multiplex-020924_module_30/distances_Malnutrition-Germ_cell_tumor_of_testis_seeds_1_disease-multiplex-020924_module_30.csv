@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,26,27,0.18795355587808427
+1,disease_on_symptoms,18,23,2.19188170142571
+2,disease_on_drugs,23,20,1.0697674418604652

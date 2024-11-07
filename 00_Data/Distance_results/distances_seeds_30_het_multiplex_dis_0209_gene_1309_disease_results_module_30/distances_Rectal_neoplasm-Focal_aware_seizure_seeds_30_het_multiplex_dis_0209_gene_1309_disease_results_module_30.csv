@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.15225988700564963
+1,disease_on_symptoms,20,16,-0.10416666666666674
+2,disease_on_drugs,29,29,-0.15517241379310343

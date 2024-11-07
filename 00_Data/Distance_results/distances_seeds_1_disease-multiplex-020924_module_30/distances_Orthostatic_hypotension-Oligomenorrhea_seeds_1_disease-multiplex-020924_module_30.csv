@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.5350574712643679
+1,disease_on_symptoms,12,12,1.625
+2,disease_on_drugs,17,21,0.7412649270234408

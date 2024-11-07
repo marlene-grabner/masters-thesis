@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,0.052910052910052796
+1,disease_on_symptoms,19,17,0.912796697626419
+2,disease_on_drugs,24,27,0.3544389978213507

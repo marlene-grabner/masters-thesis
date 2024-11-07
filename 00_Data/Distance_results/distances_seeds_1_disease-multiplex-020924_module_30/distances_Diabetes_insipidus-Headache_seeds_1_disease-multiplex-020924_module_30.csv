@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Headache nodes,sAB
+0,disease_on_genes,24,30,0.18472222222222223
+1,disease_on_symptoms,18,25,0.4169767441860466
+2,disease_on_drugs,18,26,0.23076923076923084

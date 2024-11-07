@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,24,28,0.25274725274725296
+1,disease_on_symptoms,23,25,1.3230434782608695
+2,disease_on_drugs,22,23,0.46811594202898577

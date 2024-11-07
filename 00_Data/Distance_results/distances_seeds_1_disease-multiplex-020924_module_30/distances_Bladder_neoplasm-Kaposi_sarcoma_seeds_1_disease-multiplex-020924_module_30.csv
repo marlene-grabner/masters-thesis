@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.006504065040650486
+1,disease_on_symptoms,20,27,0.43812056737588656
+2,disease_on_drugs,25,13,0.026315789473684292

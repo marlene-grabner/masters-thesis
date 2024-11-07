@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,24,25,0.2661054421768705
+1,disease_on_symptoms,18,23,0.8258218451749735
+2,disease_on_drugs,18,23,0.9809119830328739

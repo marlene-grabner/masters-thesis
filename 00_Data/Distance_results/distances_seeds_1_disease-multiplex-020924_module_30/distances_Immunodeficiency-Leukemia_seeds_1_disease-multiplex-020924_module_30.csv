@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Leukemia nodes,sAB
+0,disease_on_genes,22,18,-0.09318181818181837
+1,disease_on_symptoms,19,27,-0.16136960759386376
+2,disease_on_drugs,18,17,-0.0874416433239964

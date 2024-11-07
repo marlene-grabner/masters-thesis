@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.33841807909604504
+1,disease_on_symptoms,18,16,-0.531454248366013
+2,disease_on_drugs,24,29,-0.4714270223378877

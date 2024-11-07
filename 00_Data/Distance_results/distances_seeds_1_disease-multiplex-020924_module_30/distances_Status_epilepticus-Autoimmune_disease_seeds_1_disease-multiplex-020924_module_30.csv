@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,22,0.30361423566291723
+1,disease_on_symptoms,17,19,2.0541795665634677
+2,disease_on_drugs,30,19,0.9532760472610098

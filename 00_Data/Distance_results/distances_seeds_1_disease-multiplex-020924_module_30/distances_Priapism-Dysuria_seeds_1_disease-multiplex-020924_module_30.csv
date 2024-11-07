@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,0.03154100915643876
+1,disease_on_symptoms,17,16,0.36034982174688057
+2,disease_on_drugs,28,23,0.10116002922908307

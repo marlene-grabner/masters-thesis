@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,20,16,0.23750000000000004
+1,disease_on_symptoms,22,21,2.8846018322762506
+2,disease_on_drugs,15,15,0.9333333333333331

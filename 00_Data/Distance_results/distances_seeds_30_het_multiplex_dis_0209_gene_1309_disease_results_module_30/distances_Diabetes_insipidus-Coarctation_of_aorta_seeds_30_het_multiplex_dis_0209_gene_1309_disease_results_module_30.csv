@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,-0.26416438208891035
+1,disease_on_symptoms,20,19,0.41302294197031064
+2,disease_on_drugs,20,24,-0.2632575757575757

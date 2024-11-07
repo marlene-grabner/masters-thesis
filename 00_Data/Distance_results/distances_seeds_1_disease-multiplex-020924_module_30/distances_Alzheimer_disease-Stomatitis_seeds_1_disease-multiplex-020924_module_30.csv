@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Stomatitis nodes,sAB
+0,disease_on_genes,20,30,0.22499999999999987
+1,disease_on_symptoms,23,23,1.0434782608695652
+2,disease_on_drugs,18,30,0.5041666666666667

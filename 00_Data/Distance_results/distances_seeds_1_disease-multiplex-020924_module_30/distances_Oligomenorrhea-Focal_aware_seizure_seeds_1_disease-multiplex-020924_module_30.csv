@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.2807017543859649
+1,disease_on_symptoms,12,15,2.0611111111111113
+2,disease_on_drugs,21,29,0.9885714285714287

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Encephalitis nodes,sAB
+0,disease_on_genes,23,29,0.15384615384615374
+1,disease_on_symptoms,22,13,0.06753246753246733
+2,disease_on_drugs,21,22,-0.09702506795530041

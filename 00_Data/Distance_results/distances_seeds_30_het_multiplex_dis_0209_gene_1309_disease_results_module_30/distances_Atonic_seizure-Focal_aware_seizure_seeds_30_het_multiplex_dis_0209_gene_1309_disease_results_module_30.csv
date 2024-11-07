@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.44067796610169496
+1,disease_on_symptoms,15,16,-0.6103494623655915
+2,disease_on_drugs,23,29,-0.5987487025717911

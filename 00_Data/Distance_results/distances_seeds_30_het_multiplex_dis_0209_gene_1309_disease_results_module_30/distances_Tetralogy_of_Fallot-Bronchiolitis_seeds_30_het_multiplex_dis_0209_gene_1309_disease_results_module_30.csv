@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.0017241379310344307
+1,disease_on_symptoms,19,25,0.5726794258373205
+2,disease_on_drugs,20,24,-0.005303030303030143

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Orchitis nodes,sAB
+0,disease_on_genes,27,25,-0.13390313390313402
+1,disease_on_symptoms,21,19,0.6240601503759398
+2,disease_on_drugs,27,25,-0.07868945868945865

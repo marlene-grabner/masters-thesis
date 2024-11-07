@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.19761904761904758
+1,disease_on_symptoms,17,21,0.4756744803184434
+2,disease_on_drugs,17,26,-0.10604545932863307

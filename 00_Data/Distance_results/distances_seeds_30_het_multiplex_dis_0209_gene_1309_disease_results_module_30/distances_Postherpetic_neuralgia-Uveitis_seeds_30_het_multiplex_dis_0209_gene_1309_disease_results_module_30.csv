@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,16,20,-0.48333333333333317
+2,disease_on_drugs,29,23,-0.11555760581247831

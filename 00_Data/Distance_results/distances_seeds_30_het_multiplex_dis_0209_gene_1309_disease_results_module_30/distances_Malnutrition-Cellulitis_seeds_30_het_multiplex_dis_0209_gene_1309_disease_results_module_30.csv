@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,14,20,0.4525210084033615
+2,disease_on_drugs,29,26,0.052845430431637475

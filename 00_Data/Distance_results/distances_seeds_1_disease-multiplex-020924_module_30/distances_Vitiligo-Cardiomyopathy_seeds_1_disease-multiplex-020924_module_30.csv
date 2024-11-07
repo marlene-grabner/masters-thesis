@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,24,25,0.4247108843537417
+1,disease_on_symptoms,22,17,2.01758535582065
+2,disease_on_drugs,11,24,0.7583333333333335

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,26,25,0.1552941176470588
+1,disease_on_symptoms,21,13,0.715686274509804
+2,disease_on_drugs,25,16,0.07509146341463402

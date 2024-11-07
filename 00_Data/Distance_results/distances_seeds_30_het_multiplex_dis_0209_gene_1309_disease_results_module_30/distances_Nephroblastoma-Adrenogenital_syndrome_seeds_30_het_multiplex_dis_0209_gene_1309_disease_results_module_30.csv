@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.06750438340151965
+1,disease_on_symptoms,20,9,-0.32155172413793087
+2,disease_on_drugs,24,23,-0.04268809744064139

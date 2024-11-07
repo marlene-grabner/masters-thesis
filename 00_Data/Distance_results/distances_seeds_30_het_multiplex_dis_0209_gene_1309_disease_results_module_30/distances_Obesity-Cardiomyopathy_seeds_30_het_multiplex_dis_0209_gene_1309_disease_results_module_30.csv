@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,27,25,-0.4224786324786325
+1,disease_on_symptoms,18,21,-0.3778998778998779
+2,disease_on_drugs,25,24,-0.32619047619047625

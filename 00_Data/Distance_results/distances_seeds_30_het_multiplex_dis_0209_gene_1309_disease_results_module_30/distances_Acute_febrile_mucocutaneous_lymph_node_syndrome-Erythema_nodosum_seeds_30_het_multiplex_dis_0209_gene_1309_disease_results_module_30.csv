@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,13,22,-0.13811188811188835
+2,disease_on_drugs,28,29,-0.0883782732693803

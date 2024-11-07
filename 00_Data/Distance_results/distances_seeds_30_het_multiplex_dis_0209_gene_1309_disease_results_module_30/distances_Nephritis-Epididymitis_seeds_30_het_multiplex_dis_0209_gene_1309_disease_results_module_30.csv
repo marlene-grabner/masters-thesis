@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,-0.13559322033898302
+1,disease_on_symptoms,17,23,0.024424552429667568
+2,disease_on_drugs,25,26,-0.07969834087481176

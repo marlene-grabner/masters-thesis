@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.16545454545454552
+1,disease_on_symptoms,20,23,0.5556370070778565
+2,disease_on_drugs,29,24,-0.006194426371719741

@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,0.00034940600978328185
+1,disease_on_symptoms,19,21,0.5507518796992481
+2,disease_on_drugs,24,26,0.2027564102564101

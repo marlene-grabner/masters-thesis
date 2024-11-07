@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,26,27,0.37770789657582093
+1,disease_on_symptoms,20,17,1.4292130365659776
+2,disease_on_drugs,25,20,0.9555555555555555

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,26,27,0.018505079825834603
+1,disease_on_symptoms,22,17,1.5374331550802138
+2,disease_on_drugs,25,24,0.08277210884353736

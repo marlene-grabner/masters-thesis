@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,22,22,0.40909090909090895
+1,disease_on_symptoms,24,19,1.512826397388821
+2,disease_on_drugs,20,19,0.6153508771929825

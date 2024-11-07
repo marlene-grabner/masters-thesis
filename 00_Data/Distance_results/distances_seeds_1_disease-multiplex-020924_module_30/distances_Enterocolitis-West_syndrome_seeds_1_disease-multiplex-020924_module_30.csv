@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,29,0.6243386243386242
+1,disease_on_symptoms,21,18,1.4993894993894994
+2,disease_on_drugs,24,22,0.8922101449275361

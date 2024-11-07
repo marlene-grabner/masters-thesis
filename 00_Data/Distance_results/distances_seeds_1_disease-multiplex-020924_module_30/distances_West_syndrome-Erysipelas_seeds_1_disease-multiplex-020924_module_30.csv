@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,28,0.6660401002506267
+1,disease_on_symptoms,18,20,2.046198830409357
+2,disease_on_drugs,22,27,0.8367346938775511

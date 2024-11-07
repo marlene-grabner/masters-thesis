@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,22,0.27030812324929987
+1,disease_on_symptoms,19,20,1.156241565452092
+2,disease_on_drugs,29,19,0.5206442831215972

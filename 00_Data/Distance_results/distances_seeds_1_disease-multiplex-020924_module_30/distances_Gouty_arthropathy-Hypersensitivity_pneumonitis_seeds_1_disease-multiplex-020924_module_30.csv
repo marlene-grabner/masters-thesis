@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,24,0.04244897959183658
+1,disease_on_symptoms,13,23,0.8719806763285025
+2,disease_on_drugs,16,24,-0.18125000000000002

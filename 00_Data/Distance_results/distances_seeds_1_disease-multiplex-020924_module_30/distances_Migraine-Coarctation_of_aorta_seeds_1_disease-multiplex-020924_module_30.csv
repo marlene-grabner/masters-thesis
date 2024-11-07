@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.22982456140350882
+1,disease_on_symptoms,14,14,1.1785714285714288
+2,disease_on_drugs,29,13,0.8333333333333333

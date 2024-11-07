@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,-0.020000000000000018
+1,disease_on_symptoms,21,17,0.719666814094059
+2,disease_on_drugs,29,25,0.46362707535121306

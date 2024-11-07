@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,13,21,0.9583063994828702
+2,disease_on_drugs,21,30,0.059523809523809534

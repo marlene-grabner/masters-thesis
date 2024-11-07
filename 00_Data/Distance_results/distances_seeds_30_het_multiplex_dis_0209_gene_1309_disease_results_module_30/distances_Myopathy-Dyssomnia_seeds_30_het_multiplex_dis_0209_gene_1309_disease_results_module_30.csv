@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,23,18,-0.2195121951219512
+1,disease_on_symptoms,22,21,1.5854726668680157
+2,disease_on_drugs,21,17,-0.3832375055285273

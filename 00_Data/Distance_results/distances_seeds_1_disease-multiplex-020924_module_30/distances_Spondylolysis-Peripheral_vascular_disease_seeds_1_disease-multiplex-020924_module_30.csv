@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,27,23,0.41549114331723036
+1,disease_on_symptoms,19,16,1.6346334586466165
+2,disease_on_drugs,20,22,0.736904761904762

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,27,-0.5370370370370371
+1,disease_on_symptoms,19,16,-0.7448308270676692
+2,disease_on_drugs,20,18,-0.5776315789473683

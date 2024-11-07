@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Malnutrition nodes,sAB
+0,disease_on_genes,21,26,0.2321540248369518
+1,disease_on_symptoms,24,18,1.6676587301587302
+2,disease_on_drugs,14,23,0.6766409266409266

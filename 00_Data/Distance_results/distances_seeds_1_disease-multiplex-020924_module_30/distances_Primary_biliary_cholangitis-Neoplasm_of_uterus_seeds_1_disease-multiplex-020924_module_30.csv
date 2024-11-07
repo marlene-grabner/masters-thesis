@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,26,28,0.5389702889702888
+1,disease_on_symptoms,17,19,1.1881664946680428
+2,disease_on_drugs,18,28,0.9893892339544512

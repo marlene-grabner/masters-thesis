@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Constipation nodes,sAB
+0,disease_on_genes,28,30,-0.08932676518883409
+1,disease_on_symptoms,14,17,0.7589455136893468
+2,disease_on_drugs,28,27,0.03602693602693585

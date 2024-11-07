@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.01724137931034475
+1,disease_on_symptoms,14,17,0.8624966115478452
+2,disease_on_drugs,21,25,0.15813664596273314

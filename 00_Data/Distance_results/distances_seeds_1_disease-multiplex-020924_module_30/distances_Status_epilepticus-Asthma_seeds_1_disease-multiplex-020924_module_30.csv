@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,0.2590549169859515
+1,disease_on_symptoms,17,19,2.0249398004815964
+2,disease_on_drugs,30,24,0.6435185185185186

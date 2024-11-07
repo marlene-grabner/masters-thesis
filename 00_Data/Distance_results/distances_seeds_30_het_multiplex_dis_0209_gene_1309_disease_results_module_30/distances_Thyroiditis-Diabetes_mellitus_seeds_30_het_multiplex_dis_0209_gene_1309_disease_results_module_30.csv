@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,21,-0.05882352941176472
+1,disease_on_symptoms,21,22,0.10656397865700207
+2,disease_on_drugs,29,19,0.08465668481548705

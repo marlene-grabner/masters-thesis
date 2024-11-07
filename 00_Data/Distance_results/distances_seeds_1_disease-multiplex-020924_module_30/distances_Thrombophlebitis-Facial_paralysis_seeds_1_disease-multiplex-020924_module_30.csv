@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,14,0.3095238095238093
+1,disease_on_symptoms,15,23,2.1447749809305874
+2,disease_on_drugs,21,14,0.8285714285714285

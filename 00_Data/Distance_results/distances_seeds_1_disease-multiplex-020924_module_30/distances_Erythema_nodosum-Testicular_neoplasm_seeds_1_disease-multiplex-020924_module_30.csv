@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,0.28176549865229106
+1,disease_on_symptoms,23,25,0.996014492753623
+2,disease_on_drugs,28,23,0.31121361588113494

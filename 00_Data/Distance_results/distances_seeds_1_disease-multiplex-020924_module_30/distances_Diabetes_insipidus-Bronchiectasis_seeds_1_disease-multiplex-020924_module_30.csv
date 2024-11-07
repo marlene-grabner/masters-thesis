@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,24,30,0.2217592592592592
+1,disease_on_symptoms,18,15,0.3318181818181818
+2,disease_on_drugs,18,26,-0.15209790209790197

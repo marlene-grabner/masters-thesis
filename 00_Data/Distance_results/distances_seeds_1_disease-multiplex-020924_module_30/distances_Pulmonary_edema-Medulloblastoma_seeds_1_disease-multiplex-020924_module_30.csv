@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,26,0.25
+1,disease_on_symptoms,14,19,0.7201526543631807
+2,disease_on_drugs,27,24,0.5499727668845316

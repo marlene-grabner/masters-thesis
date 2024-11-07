@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.0
+1,disease_on_symptoms,20,19,0.614136302294197
+2,disease_on_drugs,25,25,0.10000000000000009

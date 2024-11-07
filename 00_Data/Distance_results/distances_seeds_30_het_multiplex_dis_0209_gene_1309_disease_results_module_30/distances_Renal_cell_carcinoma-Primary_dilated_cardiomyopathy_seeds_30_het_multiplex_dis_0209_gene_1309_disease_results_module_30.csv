@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,0.24463937621832343
+1,disease_on_symptoms,22,24,1.2234025032938078
+2,disease_on_drugs,22,15,0.3347256347256349

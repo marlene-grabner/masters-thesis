@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,22,0.5055361305361303
+1,disease_on_symptoms,20,21,3.309088269454123
+2,disease_on_drugs,20,6,1.1794871794871797

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Myalgia nodes,sAB
+0,disease_on_genes,24,30,-0.0893518518518518
+1,disease_on_symptoms,22,16,1.313098086124402
+2,disease_on_drugs,24,29,0.05660377358490565

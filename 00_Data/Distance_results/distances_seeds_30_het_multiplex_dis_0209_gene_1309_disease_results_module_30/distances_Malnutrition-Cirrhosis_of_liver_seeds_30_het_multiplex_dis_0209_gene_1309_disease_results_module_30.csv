@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,14,19,-0.26019594440647076
+2,disease_on_drugs,29,30,-0.20401324761348139

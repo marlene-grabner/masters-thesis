@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.2456140350877194
+1,disease_on_symptoms,17,16,0.8468694295900177
+2,disease_on_drugs,24,23,0.5554078014184398

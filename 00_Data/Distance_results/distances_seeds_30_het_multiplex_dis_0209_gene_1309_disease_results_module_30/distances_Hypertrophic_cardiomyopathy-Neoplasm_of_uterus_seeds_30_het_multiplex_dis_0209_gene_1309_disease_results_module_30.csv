@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,19,18,0.5727437964280069
+2,disease_on_drugs,22,26,0.11407342657342667

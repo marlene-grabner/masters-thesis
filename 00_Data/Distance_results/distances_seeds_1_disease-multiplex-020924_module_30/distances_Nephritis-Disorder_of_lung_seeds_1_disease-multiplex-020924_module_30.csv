@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,0.2270955165692008
+1,disease_on_symptoms,18,17,1.682119514472456
+2,disease_on_drugs,27,20,0.20527974783293934

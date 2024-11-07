@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.2992673992673991
+1,disease_on_symptoms,15,15,0.8999999999999999
+2,disease_on_drugs,29,16,0.9605363984674331

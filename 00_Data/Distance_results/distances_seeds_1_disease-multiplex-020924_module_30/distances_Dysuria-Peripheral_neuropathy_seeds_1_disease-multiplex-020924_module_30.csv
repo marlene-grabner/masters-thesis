@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.06958893434638602
+1,disease_on_symptoms,16,20,1.5673611111111112
+2,disease_on_drugs,23,24,0.46850909651557204

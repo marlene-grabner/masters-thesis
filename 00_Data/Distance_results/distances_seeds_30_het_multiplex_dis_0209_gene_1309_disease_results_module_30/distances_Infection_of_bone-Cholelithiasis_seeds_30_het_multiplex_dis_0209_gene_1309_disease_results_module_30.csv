@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.1272727272727272
+1,disease_on_symptoms,18,20,0.5739766081871345
+2,disease_on_drugs,28,18,0.251984126984127

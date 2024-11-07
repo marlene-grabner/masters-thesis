@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,-0.3269476372924649
+1,disease_on_symptoms,25,22,-0.4282011605415861
+2,disease_on_drugs,24,29,-0.4518813706354371

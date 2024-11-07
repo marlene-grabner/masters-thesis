@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Meningitis nodes,sAB
+0,disease_on_genes,22,29,-0.165360501567398
+1,disease_on_symptoms,23,20,0.09901415571284122
+2,disease_on_drugs,17,26,-0.19835841313269498

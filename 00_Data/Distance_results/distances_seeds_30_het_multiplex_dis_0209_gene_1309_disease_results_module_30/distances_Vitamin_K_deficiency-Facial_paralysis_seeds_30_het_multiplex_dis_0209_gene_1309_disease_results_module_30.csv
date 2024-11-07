@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,22,0.23404255319148937
+1,disease_on_symptoms,21,21,1.4285714285714284
+2,disease_on_drugs,21,17,0.41500810850656045

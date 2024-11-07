@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,-0.02322367073919862
+1,disease_on_symptoms,23,20,0.5317745197168857
+2,disease_on_drugs,25,20,0.10833333333333339

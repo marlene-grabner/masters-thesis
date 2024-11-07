@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,28,29,0.01754385964912286
+1,disease_on_symptoms,17,18,0.515126050420168
+2,disease_on_drugs,19,29,-0.0012855414398065257

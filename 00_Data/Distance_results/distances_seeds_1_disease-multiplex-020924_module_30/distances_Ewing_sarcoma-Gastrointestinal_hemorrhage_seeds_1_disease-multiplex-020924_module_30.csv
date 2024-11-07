@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,24,27,0.37105119825708055
+1,disease_on_symptoms,25,19,1.0559808612440191
+2,disease_on_drugs,17,27,1.25

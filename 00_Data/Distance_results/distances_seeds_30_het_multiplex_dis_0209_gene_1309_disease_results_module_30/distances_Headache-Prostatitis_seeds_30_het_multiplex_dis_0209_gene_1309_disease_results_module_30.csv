@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,23,22,0.38296003513394816
+2,disease_on_drugs,23,28,-0.16729082937522843

@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Myalgia nodes,sAB
+0,disease_on_genes,20,30,0.08499999999999974
+1,disease_on_symptoms,23,16,0.9138099219620959
+2,disease_on_drugs,18,29,0.042553191489361764

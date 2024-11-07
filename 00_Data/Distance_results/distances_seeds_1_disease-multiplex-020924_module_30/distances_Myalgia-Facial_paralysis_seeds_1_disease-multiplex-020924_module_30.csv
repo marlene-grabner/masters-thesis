@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.06688311688311677
+1,disease_on_symptoms,16,23,1.2549470457079153
+2,disease_on_drugs,29,14,0.4883720930232558

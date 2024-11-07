@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.11892655367231653
+1,disease_on_symptoms,22,17,0.8254147812971344
+2,disease_on_drugs,27,27,0.2592592592592591

@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,19,14,0.11933242196400062
+2,disease_on_drugs,29,25,0.026462324393358827

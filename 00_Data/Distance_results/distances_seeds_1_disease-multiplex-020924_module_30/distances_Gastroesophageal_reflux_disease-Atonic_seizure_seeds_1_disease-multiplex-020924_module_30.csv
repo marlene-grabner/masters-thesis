@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,29,0.16457680250783713
+1,disease_on_symptoms,17,16,1.1178698752228167
+2,disease_on_drugs,25,24,0.30653061224489786

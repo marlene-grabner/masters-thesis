@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,28,25,0.3562264150943395
+1,disease_on_symptoms,21,19,0.8521929824561405
+2,disease_on_drugs,21,18,1.1810134310134308

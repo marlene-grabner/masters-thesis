@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,30,-0.06808883693746337
+1,disease_on_symptoms,18,14,0.19097222222222232
+2,disease_on_drugs,28,24,0.17010073260073266

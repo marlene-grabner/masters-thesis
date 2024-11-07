@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Sinusitis nodes,sAB
+0,disease_on_genes,23,29,0.20496482527966786
+1,disease_on_symptoms,20,21,0.61068524970964
+2,disease_on_drugs,19,28,1.2017477203647415

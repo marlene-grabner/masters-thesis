@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Urticaria nodes,sAB
+0,disease_on_genes,17,10,0.4226579520697167
+1,disease_on_symptoms,21,27,2.0419973544973544
+2,disease_on_drugs,14,9,0.4782608695652173

@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.1785714285714286
+1,disease_on_symptoms,18,18,0.22222222222222232
+2,disease_on_drugs,28,26,-0.05784493284493286

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Leukemia nodes,sAB
+0,disease_on_genes,24,18,0.20535714285714302
+1,disease_on_symptoms,20,27,1.01172182821119
+2,disease_on_drugs,22,17,0.8633964075140548

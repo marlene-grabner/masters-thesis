@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,-0.35851648351648346
+1,disease_on_symptoms,12,18,-0.11111111111111094
+2,disease_on_drugs,29,25,-0.3911877394636015

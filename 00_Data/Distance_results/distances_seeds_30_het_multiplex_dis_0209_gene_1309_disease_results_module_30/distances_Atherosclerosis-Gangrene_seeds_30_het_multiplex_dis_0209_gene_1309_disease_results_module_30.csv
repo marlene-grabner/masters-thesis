@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,14,22,0.3737373737373737
+2,disease_on_drugs,29,27,0.05017332603539493

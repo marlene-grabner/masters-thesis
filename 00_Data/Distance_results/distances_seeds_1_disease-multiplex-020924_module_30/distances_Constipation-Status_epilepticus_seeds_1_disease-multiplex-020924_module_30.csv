@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,29,-9.74089226590813e-06
+1,disease_on_symptoms,17,17,0.5882352941176467
+2,disease_on_drugs,27,30,0.12183235867446385

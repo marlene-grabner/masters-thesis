@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,29,27,-0.0185185185185186
+1,disease_on_symptoms,17,14,1.083423692057468
+2,disease_on_drugs,26,26,0.32692307692307687

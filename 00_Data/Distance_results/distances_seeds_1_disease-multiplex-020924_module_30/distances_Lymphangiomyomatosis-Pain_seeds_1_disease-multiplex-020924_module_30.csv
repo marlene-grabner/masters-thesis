@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Pain nodes,sAB
+0,disease_on_genes,26,26,0.11538461538461542
+1,disease_on_symptoms,19,21,0.9796992481203008
+2,disease_on_drugs,22,26,0.3046328671328671

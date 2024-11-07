@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000155
+1,disease_on_symptoms,19,21,0.1790726817042605
+2,disease_on_drugs,29,29,0.3448275862068966

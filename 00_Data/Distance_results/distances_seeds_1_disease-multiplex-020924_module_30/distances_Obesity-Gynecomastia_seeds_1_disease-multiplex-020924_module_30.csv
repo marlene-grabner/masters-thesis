@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,0.23076923076923084
+1,disease_on_symptoms,20,16,0.8152777777777778
+2,disease_on_drugs,27,24,0.4494825708061001

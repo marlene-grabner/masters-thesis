@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,29,24,0.6415094339622642
+1,disease_on_symptoms,18,23,1.7825497820195597
+2,disease_on_drugs,22,24,0.8043478260869565

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,27,25,-0.07621082621082631
+1,disease_on_symptoms,23,22,0.5310715854194115
+2,disease_on_drugs,25,25,0.19999999999999996

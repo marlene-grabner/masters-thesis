@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,20,15,0.727380952380952
+2,disease_on_drugs,29,23,0.7322396494060663

@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,25,30,-0.1454545454545455
+1,disease_on_symptoms,20,15,1.225
+2,disease_on_drugs,25,28,0.1662938005390835

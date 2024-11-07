@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,23,24,0.02127659574468077
+1,disease_on_symptoms,20,19,0.5089406207827258
+2,disease_on_drugs,20,24,0.5034090909090909

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,24,23,0.23707180500658742
+1,disease_on_symptoms,22,18,1.5989898989898992
+2,disease_on_drugs,24,18,0.4285714285714286

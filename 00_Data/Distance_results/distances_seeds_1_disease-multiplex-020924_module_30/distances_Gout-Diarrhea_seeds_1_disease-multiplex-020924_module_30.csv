@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Diarrhea nodes,sAB
+0,disease_on_genes,25,27,-0.07566951566951574
+1,disease_on_symptoms,18,19,0.7323376007586535
+2,disease_on_drugs,23,26,0.14403453689167978

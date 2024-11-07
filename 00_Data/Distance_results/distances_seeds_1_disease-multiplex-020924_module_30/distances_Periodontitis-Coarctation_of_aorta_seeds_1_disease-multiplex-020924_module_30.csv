@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,23,27,0.43478260869565233
+1,disease_on_symptoms,25,14,1.8272161172161172
+2,disease_on_drugs,22,13,0.9889610389610386

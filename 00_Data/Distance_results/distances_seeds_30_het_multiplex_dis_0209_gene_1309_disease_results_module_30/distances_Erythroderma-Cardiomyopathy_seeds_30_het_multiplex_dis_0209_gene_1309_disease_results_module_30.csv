@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.0945454545454546
+1,disease_on_symptoms,20,21,0.41954123112659714
+2,disease_on_drugs,29,24,0.08224896985469532

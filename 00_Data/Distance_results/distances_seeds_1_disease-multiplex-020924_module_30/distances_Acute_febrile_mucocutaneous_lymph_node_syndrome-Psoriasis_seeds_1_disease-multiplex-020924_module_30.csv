@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.10279146141215101
+1,disease_on_symptoms,18,21,0.9142246642246641
+2,disease_on_drugs,25,28,0.24504043126684638

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.1063829787234043
+1,disease_on_symptoms,17,23,1.1708439897698208
+2,disease_on_drugs,24,21,0.22678571428571437

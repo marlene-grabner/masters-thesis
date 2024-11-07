@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,29,27,-0.21626984126984128
+1,disease_on_symptoms,19,22,-0.12874897887734837
+2,disease_on_drugs,29,20,-0.14998240675580576

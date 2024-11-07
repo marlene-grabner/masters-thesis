@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,30,0.2807017543859649
+1,disease_on_symptoms,21,22,0.8661028893587033
+2,disease_on_drugs,23,28,0.1639112166605774

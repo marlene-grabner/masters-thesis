@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,15,30,0.43218390804597706
+1,disease_on_symptoms,25,18,1.8239018087855297
+2,disease_on_drugs,10,19,0.1313974591651541

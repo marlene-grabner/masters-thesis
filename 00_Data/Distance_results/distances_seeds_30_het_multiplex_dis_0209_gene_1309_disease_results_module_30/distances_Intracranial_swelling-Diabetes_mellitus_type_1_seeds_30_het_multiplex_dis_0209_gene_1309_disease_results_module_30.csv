@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,11,18,-0.005224660397074032
+2,disease_on_drugs,21,26,-0.16101628867586304

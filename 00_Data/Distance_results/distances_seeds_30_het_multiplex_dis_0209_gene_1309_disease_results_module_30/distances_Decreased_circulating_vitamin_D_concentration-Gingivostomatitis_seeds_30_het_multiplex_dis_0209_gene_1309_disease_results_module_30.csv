@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,25,30,-0.08939393939393936
+1,disease_on_symptoms,13,15,0.861904761904762
+2,disease_on_drugs,21,30,0.30154061624649864

@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,18,18,0.44444444444444464
+2,disease_on_drugs,29,29,0.2413793103448274

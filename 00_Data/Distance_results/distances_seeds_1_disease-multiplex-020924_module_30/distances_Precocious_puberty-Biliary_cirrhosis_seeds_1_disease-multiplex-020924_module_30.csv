@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.6095238095238096
+1,disease_on_symptoms,14,15,1.0349753694581278
+2,disease_on_drugs,24,15,1.3435897435897435

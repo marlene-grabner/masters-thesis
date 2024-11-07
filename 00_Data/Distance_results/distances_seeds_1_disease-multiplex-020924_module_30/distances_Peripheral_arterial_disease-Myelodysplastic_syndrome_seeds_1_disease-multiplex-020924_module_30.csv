@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,0.371764705882353
+1,disease_on_symptoms,14,15,0.8235632183908046
+2,disease_on_drugs,22,21,1.091362126245847

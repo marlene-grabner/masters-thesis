@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,29,23,0.2696632453004266
+1,disease_on_symptoms,15,20,1.167857142857143
+2,disease_on_drugs,29,20,0.5087790288529204

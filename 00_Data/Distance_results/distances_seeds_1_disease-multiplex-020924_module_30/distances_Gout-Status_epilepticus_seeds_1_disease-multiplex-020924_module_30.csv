@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,25,29,0.1634993614303959
+1,disease_on_symptoms,18,17,1.6837535014005605
+2,disease_on_drugs,23,30,0.4528301886792452

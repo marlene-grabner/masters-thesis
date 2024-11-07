@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,14,21,0.32857142857142874
+2,disease_on_drugs,29,30,0.016315994545100354

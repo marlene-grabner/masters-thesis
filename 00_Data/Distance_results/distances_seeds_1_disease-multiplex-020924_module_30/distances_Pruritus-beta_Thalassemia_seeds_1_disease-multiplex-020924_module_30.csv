@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,22,0.42500967117988364
+1,disease_on_symptoms,19,21,3.106328320802005
+2,disease_on_drugs,24,6,0.8666666666666667

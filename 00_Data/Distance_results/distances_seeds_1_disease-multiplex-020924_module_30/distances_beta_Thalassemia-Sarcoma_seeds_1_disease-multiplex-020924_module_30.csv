@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,22,25,0.4850096711798837
+1,disease_on_symptoms,21,26,3.094361312446418
+2,disease_on_drugs,6,21,0.6851851851851853

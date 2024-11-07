@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,20,14,0.36722689075630255
+2,disease_on_drugs,20,24,-0.08143939393939381

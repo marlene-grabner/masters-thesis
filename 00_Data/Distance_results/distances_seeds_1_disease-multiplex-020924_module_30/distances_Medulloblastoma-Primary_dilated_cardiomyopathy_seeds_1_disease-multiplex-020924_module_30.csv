@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.6071428571428572
+1,disease_on_symptoms,19,25,2.228421052631579
+2,disease_on_drugs,24,7,1.2303187403993858

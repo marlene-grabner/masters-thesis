@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,30,-0.26140350877192975
+1,disease_on_symptoms,21,22,0.1592419208698277
+2,disease_on_drugs,25,30,-0.20818181818181813

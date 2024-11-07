@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,25,30,-0.14727272727272733
+1,disease_on_symptoms,23,17,0.7917519181585679
+2,disease_on_drugs,24,25,0.08365646258503401

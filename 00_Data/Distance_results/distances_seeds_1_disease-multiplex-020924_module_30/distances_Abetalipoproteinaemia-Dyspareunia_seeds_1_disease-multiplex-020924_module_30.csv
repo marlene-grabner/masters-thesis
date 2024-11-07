@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,17,24,0.4340028694404592
+1,disease_on_symptoms,25,17,0.8143417366946779
+2,disease_on_drugs,13,23,1.118543292456336

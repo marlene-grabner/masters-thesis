@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,24,0.2969279987665743
+1,disease_on_symptoms,21,19,0.8224310776942356
+2,disease_on_drugs,21,20,0.8297909407665505

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.033333333333333215
+1,disease_on_symptoms,22,21,0.9050135910601029
+2,disease_on_drugs,29,26,0.17707981673498918

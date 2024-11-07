@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,30,0.1744639376218322
+1,disease_on_symptoms,21,13,1.7230122818358113
+2,disease_on_drugs,27,21,0.0896164021164021

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,25,25,-0.06000000000000005
+1,disease_on_symptoms,17,19,-0.24002407980736162
+2,disease_on_drugs,25,22,-0.004874274661508693

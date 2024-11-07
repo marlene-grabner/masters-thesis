@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.19780219780219777
+1,disease_on_symptoms,12,17,0.013353617308992538
+2,disease_on_drugs,29,24,-0.08272337887659953

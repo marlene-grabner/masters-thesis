@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Lymphoma nodes,sAB
+0,disease_on_genes,26,26,-0.15384615384615397
+1,disease_on_symptoms,21,21,0.16666666666666674
+2,disease_on_drugs,24,25,-0.14204081632653065

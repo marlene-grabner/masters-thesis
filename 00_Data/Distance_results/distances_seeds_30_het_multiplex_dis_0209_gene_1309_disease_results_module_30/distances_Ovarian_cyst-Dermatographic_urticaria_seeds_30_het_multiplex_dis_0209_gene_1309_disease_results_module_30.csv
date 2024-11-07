@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.017514124293785516
+1,disease_on_symptoms,19,18,-0.16437490121700638
+2,disease_on_drugs,24,28,0.22939560439560425

@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.4385964912280702
+1,disease_on_symptoms,19,22,-0.49148091959388496
+2,disease_on_drugs,30,26,-0.5352564102564101

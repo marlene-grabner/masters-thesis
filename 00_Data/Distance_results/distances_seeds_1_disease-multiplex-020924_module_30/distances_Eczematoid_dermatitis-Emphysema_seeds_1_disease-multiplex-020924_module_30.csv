@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Emphysema nodes,sAB
+0,disease_on_genes,28,30,0.06892446633825933
+1,disease_on_symptoms,24,14,-0.05294486215538852
+2,disease_on_drugs,28,29,0.2449874686716793

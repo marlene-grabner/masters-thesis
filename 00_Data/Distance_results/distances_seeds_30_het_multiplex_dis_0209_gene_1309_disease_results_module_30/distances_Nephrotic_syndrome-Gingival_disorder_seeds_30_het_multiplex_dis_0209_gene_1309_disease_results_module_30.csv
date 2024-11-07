@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,15,19,0.19164086687306514
+2,disease_on_drugs,28,24,-0.08310439560439575

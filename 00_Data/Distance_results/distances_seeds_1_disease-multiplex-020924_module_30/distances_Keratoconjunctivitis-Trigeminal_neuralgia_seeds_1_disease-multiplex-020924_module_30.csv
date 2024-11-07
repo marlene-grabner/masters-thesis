@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,28,0.1920426065162908
+1,disease_on_symptoms,25,19,1.06311004784689
+2,disease_on_drugs,27,26,0.7008950169327528

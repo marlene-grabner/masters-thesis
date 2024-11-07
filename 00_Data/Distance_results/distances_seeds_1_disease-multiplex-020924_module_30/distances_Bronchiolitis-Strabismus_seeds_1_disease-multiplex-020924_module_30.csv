@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,23,13,0.41843180973615746
+1,disease_on_symptoms,25,26,2.5093363499245855
+2,disease_on_drugs,18,9,0.8240740740740742

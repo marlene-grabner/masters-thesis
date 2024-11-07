@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,28,30,0.08616584564860408
+1,disease_on_symptoms,19,18,0.893590959380433
+2,disease_on_drugs,25,28,0.4177628032345013

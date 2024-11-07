@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.44833333333333325
+1,disease_on_symptoms,12,24,1.0347222222222223
+2,disease_on_drugs,17,18,0.5737628384687208

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,0.07237854737854721
+1,disease_on_symptoms,20,16,0.5868055555555554
+2,disease_on_drugs,28,27,0.32659932659932633

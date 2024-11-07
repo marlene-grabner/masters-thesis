@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,12,29,0.3729674796747968
+1,disease_on_symptoms,27,14,1.8026842173183635
+2,disease_on_drugs,9,28,0.5105105105105106

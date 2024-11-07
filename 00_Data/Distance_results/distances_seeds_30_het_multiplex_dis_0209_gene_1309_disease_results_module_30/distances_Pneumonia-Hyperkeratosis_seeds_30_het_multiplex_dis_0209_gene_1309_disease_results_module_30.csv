@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.0013736263736263687
+1,disease_on_symptoms,23,25,0.7636956521739131
+2,disease_on_drugs,29,25,0.22140485312899116

@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,12,25,0.5469819819819821
+1,disease_on_symptoms,27,23,1.6907890499194846
+2,disease_on_drugs,9,21,1.1746031746031746

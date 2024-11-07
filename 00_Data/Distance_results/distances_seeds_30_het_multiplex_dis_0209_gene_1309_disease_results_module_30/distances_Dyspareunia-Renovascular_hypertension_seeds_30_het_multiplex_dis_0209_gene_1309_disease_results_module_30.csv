@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,20,17,0.26780604133545305
+2,disease_on_drugs,28,29,-0.2795674531155474

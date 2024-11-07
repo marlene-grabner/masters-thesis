@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,28,30,0.13788998357963855
+1,disease_on_symptoms,19,16,1.1353853383458647
+2,disease_on_drugs,26,30,0.8071428571428572

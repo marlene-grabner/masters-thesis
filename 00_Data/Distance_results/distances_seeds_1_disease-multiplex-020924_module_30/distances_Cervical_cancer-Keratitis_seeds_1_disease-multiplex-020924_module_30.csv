@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.20031265031265044
+1,disease_on_symptoms,23,25,0.7098188405797101
+2,disease_on_drugs,15,23,0.024256292906178478

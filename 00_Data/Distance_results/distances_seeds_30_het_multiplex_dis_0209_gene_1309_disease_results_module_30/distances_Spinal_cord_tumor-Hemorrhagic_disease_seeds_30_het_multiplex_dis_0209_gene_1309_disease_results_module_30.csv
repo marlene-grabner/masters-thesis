@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,26,0.07272727272727275
+1,disease_on_symptoms,14,19,0.5861244019138756
+2,disease_on_drugs,22,24,0.0662055335968379

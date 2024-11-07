@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,0.20838206627680322
+1,disease_on_symptoms,21,14,0.7142857142857142
+2,disease_on_drugs,23,24,0.8482886216466234

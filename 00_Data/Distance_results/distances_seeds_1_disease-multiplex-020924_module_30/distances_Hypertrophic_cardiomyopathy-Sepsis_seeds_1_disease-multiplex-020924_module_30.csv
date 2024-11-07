@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.4299533799533799
+1,disease_on_symptoms,17,23,0.9200127877237851
+2,disease_on_drugs,17,17,0.7058823529411764

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,12,0.4320175438596492
+1,disease_on_symptoms,21,27,2.6564153439153437
+2,disease_on_drugs,24,9,0.6767676767676767

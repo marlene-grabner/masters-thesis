@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.5249999999999999
+1,disease_on_symptoms,16,27,1.4586294142980192
+2,disease_on_drugs,30,9,1.076923076923077

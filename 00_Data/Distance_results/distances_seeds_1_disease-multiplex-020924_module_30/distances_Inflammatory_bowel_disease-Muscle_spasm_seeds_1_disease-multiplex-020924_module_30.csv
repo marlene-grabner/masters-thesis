@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,17,25,0.4228658536585366
+1,disease_on_symptoms,27,23,1.932979066022544
+2,disease_on_drugs,14,19,0.9036796536796539

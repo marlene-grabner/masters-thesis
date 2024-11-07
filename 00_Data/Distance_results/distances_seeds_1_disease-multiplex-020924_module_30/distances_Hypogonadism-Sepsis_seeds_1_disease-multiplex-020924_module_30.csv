@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.39616755793226366
+1,disease_on_symptoms,12,23,1.7557971014492755
+2,disease_on_drugs,30,17,1.0308927826449725

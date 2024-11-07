@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Vitiligo nodes,sAB
+0,disease_on_genes,29,24,-0.015113315983517728
+1,disease_on_symptoms,15,22,1.5566339066339063
+2,disease_on_drugs,29,11,0.1827586206896552

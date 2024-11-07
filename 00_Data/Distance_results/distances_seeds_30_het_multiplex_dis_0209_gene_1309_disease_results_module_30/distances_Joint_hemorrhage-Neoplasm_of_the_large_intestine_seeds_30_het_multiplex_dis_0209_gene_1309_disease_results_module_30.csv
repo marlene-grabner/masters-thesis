@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,22,0.4096736596736599
+2,disease_on_drugs,26,29,0.18033518205931998

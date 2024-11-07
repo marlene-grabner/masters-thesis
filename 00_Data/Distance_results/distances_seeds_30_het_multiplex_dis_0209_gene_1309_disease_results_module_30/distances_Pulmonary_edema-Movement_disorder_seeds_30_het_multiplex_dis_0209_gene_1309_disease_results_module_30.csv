@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,11,17,0.1420932009167304
+2,disease_on_drugs,27,26,-0.09800838574423487

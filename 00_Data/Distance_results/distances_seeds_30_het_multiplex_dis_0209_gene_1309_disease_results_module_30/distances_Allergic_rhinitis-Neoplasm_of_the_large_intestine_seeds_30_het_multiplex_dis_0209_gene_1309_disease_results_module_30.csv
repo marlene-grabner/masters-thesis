@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,20,22,0.3985930735930736
+2,disease_on_drugs,25,29,0.08733077905491693

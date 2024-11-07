@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.09433962264150941
+1,disease_on_symptoms,10,23,0.4370223978919632
+2,disease_on_drugs,16,22,-0.07999401913875603

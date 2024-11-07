@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.21150097465886952
+1,disease_on_symptoms,17,14,0.16881268636486846
+2,disease_on_drugs,30,26,-0.16245421245421254

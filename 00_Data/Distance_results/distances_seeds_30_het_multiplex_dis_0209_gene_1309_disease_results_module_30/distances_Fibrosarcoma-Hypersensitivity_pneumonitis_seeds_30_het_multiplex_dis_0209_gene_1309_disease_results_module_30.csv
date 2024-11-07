@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.018181818181818188
+1,disease_on_symptoms,14,20,0.30021008403361327
+2,disease_on_drugs,26,25,0.040663650075414726

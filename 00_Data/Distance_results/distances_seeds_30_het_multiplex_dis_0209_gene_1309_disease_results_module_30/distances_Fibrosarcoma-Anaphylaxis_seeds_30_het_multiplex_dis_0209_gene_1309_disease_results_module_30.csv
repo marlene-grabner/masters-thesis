@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.03411306042884976
+1,disease_on_symptoms,14,14,0.9642857142857144
+2,disease_on_drugs,26,26,0.23076923076923062

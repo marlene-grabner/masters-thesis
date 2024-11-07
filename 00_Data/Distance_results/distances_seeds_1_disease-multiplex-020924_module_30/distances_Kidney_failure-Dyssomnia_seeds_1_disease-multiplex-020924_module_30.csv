@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,20,18,0.11052631578947358
+1,disease_on_symptoms,23,21,1.9303594955768868
+2,disease_on_drugs,18,17,0.6863678804855273

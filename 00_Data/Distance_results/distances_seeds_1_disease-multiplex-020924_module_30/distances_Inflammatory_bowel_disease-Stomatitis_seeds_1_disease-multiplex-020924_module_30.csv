@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Stomatitis nodes,sAB
+0,disease_on_genes,17,30,0.039673913043478226
+1,disease_on_symptoms,27,23,1.17037037037037
+2,disease_on_drugs,14,30,0.22792207792207786

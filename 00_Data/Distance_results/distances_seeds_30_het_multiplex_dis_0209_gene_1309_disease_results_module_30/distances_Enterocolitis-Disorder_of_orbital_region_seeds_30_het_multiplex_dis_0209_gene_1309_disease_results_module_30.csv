@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,30,-0.15701754385964906
+1,disease_on_symptoms,21,18,0.2347374847374848
+2,disease_on_drugs,25,28,-0.1339353099730458

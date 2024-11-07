@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,24,27,-0.11764705882352944
+1,disease_on_symptoms,23,24,0.6834335491828554
+2,disease_on_drugs,22,25,-0.06000000000000005

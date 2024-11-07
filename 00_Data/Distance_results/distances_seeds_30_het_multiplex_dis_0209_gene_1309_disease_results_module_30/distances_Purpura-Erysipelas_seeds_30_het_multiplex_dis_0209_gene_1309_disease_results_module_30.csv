@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,17,18,0.397619047619048
+2,disease_on_drugs,24,29,0.03468607677293423

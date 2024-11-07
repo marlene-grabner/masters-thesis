@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,23,15,1.5924485125858125
+2,disease_on_drugs,25,28,0.6191239892183289

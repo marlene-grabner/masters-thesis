@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.03360607831677398
+1,disease_on_symptoms,13,20,0.5011072261072265
+2,disease_on_drugs,24,28,0.12660256410256432

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,16,23,-0.27884615384615385
+1,disease_on_symptoms,26,24,0.013782051282051011
+2,disease_on_drugs,14,22,-0.18939393939393934

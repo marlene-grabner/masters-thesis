@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.25
+1,disease_on_symptoms,14,21,-0.26428571428571423
+2,disease_on_drugs,24,26,-0.4172435897435899

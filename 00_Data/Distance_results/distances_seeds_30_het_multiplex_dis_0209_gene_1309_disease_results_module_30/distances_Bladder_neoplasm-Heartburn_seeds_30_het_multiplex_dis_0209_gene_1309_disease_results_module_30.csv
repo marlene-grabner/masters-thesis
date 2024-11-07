@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,26,-0.09615384615384615
+1,disease_on_symptoms,19,16,0.35300751879699255
+2,disease_on_drugs,25,25,0.2999999999999998

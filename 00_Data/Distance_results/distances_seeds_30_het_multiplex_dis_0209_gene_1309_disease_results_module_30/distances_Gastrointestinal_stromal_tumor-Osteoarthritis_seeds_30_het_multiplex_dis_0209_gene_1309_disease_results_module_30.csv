@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.038461538461538325
+1,disease_on_symptoms,19,22,0.46373555840821545
+2,disease_on_drugs,28,25,0.09385444743935323

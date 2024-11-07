@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,29,30,-0.05084745762711862
+1,disease_on_symptoms,23,19,-0.402473575242454
+2,disease_on_drugs,26,25,0.019517345399698183

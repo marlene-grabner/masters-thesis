@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,16,15,0.345766129032258
+2,disease_on_drugs,28,23,-0.28318718791864583

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,17,25,0.4137815126050419
+1,disease_on_symptoms,21,20,1.3382984901277586
+2,disease_on_drugs,17,14,0.9953239360260233

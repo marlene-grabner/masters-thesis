@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,12,0.35307017543859653
+1,disease_on_symptoms,20,27,0.8230693459416865
+2,disease_on_drugs,25,9,0.3300653594771241

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,29,-0.1428571428571429
+1,disease_on_symptoms,23,16,-0.07545986622073575
+2,disease_on_drugs,20,29,-0.09887403237156922

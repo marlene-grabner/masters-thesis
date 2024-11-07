@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,29,30,0.13470679914280148
+1,disease_on_symptoms,15,20,0.6321428571428571
+2,disease_on_drugs,29,30,0.4237190726670561

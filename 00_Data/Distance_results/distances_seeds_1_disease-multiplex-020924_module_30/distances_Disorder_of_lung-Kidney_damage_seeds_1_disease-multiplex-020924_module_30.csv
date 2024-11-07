@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.13680063041765167
+1,disease_on_symptoms,17,26,1.2518415237293485
+2,disease_on_drugs,20,13,0.019813519813519864

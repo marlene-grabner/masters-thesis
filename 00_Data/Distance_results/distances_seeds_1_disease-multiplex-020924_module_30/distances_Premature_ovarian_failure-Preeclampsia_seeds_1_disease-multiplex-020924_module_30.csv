@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,28,26,0.2407407407407407
+1,disease_on_symptoms,21,17,1.0722394220846234
+2,disease_on_drugs,21,23,0.38518727649162443

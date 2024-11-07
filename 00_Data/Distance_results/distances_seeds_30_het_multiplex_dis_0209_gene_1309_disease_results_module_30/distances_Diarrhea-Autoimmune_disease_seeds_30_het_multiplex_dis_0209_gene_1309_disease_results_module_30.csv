@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.3214285714285714
+1,disease_on_symptoms,21,20,-0.17633565621370484
+2,disease_on_drugs,29,25,-0.3326692209450832

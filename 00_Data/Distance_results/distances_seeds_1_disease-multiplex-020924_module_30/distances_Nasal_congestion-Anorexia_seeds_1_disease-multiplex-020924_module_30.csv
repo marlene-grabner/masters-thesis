@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.2791614518147685
+1,disease_on_symptoms,15,25,0.6216666666666666
+2,disease_on_drugs,23,13,0.5786882199925678

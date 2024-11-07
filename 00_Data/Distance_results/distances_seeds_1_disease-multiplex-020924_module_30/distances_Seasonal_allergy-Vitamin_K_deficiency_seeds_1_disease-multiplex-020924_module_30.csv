@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.07177522349936138
+1,disease_on_symptoms,15,23,1.4778032036613271
+2,disease_on_drugs,29,20,0.34092188599577744

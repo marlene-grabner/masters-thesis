@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,-0.03575757575757588
+1,disease_on_symptoms,19,15,-0.31517027863777103
+2,disease_on_drugs,24,22,0.0

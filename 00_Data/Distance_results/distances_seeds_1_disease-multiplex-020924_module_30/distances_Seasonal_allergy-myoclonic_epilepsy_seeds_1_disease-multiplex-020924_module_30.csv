@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,29,30,0.3383791155269822
+1,disease_on_symptoms,15,16,1.7235887096774194
+2,disease_on_drugs,29,23,0.7444643063083842

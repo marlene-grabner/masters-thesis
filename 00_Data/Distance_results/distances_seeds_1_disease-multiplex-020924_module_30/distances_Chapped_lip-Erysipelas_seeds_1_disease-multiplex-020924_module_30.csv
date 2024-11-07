@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,0.05687830687830697
+1,disease_on_symptoms,21,20,0.5858304297328687
+2,disease_on_drugs,24,27,0.23529411764705888

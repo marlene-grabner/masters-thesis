@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,30,-0.020000000000000018
+1,disease_on_symptoms,20,18,1.176754385964912
+2,disease_on_drugs,22,29,0.2338650193619769

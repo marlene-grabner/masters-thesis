@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.1452380952380954
+1,disease_on_symptoms,18,23,0.341522328266761
+2,disease_on_drugs,24,26,0.24282051282051276

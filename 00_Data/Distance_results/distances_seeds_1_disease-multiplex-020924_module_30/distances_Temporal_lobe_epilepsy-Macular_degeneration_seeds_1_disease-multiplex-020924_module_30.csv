@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.27117669978570036
+1,disease_on_symptoms,17,15,0.9575980392156862
+2,disease_on_drugs,26,21,0.7867469410022601

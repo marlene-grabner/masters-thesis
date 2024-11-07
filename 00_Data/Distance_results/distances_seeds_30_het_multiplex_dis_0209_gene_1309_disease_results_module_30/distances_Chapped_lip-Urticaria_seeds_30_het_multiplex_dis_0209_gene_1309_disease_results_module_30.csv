@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,24,-0.14
+1,disease_on_symptoms,20,21,0.6860336817653891
+2,disease_on_drugs,23,24,-0.19112318840579712

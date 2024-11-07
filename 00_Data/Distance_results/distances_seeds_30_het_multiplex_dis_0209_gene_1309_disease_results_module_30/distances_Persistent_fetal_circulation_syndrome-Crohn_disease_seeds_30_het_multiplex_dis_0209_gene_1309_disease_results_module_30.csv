@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,24,26,0.1399999999999999
+1,disease_on_symptoms,22,22,1.0
+2,disease_on_drugs,21,24,0.03928571428571437

@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,18,0.476388888888889
+1,disease_on_symptoms,17,21,0.6694677871148458
+2,disease_on_drugs,27,6,1.0269360269360268

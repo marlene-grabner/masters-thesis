@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.011660408844389014
+1,disease_on_symptoms,22,24,0.7617753623188404
+2,disease_on_drugs,27,16,0.6344476744186047

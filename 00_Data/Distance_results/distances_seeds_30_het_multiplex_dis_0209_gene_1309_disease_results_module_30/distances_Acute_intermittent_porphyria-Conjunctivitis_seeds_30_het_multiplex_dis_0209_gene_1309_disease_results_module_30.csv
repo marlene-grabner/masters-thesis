@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.08928571428571419
+1,disease_on_symptoms,17,27,1.1628540305010893
+2,disease_on_drugs,24,28,0.346382783882784

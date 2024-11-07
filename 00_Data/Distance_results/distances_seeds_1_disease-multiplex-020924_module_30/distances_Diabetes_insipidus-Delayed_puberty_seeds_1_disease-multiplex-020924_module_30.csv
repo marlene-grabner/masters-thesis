@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,24,22,0.3109126984126984
+1,disease_on_symptoms,18,20,1.2618421052631579
+2,disease_on_drugs,18,19,1.0825035561877665

@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666679
+1,disease_on_symptoms,15,25,-0.44833333333333325
+2,disease_on_drugs,29,26,-0.30919942126838684

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,24,-0.42407407407407405
+1,disease_on_symptoms,22,23,-0.6456521739130434
+2,disease_on_drugs,27,22,-0.45361781076066787

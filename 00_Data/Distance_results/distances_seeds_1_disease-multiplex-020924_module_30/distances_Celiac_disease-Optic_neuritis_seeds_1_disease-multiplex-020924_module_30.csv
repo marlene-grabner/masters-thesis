@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,17,27,0.040503069914834766
+1,disease_on_symptoms,22,16,1.1891447368421053
+2,disease_on_drugs,15,27,-0.11798941798941809

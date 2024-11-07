@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Malnutrition nodes,sAB
+0,disease_on_genes,22,26,0.2304778554778555
+1,disease_on_symptoms,24,18,2.209325396825397
+2,disease_on_drugs,20,23,1.0912790697674422

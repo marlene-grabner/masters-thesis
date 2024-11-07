@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,20,0.21734693877551026
+1,disease_on_symptoms,18,23,2.0863673854129843
+2,disease_on_drugs,22,17,0.7722473604826545

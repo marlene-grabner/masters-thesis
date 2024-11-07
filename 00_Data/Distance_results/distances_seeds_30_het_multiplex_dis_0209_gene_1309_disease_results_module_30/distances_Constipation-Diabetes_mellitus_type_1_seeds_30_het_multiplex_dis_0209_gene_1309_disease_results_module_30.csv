@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,18,0.9087009803921566
+2,disease_on_drugs,28,26,0.0011192511192512633

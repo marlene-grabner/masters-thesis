@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,0.2321428571428572
+1,disease_on_symptoms,21,12,1.2954545454545454
+2,disease_on_drugs,25,22,1.1302127659574466

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,21,-0.1694677871148459
+1,disease_on_symptoms,18,26,0.056915306915306996
+2,disease_on_drugs,27,20,0.1414499605988968

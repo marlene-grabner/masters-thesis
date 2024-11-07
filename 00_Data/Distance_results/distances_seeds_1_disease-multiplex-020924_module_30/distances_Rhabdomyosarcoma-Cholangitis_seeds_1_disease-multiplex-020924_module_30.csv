@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,23,27,0.27375201288244755
+1,disease_on_symptoms,24,22,1.2765151515151516
+2,disease_on_drugs,17,26,1.7906976744186047

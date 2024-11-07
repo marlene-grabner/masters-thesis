@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Cough nodes,sAB
+0,disease_on_genes,23,27,0.15626409017713372
+1,disease_on_symptoms,23,21,2.516469038208169
+2,disease_on_drugs,18,27,0.6740740740740738

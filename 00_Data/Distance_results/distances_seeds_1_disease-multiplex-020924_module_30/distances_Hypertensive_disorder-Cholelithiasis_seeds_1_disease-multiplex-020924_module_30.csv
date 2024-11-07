@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,26,25,0.35215686274509794
+1,disease_on_symptoms,15,19,1.5556243550051598
+2,disease_on_drugs,26,18,0.9949494949494953

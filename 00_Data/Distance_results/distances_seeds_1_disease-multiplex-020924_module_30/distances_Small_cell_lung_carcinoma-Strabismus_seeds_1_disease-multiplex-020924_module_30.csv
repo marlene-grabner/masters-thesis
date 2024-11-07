@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,13,0.13461538461538458
+1,disease_on_symptoms,24,26,0.3555128205128204
+2,disease_on_drugs,25,9,0.9726797385620916

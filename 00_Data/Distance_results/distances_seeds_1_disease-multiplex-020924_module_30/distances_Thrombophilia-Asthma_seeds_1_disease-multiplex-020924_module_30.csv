@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.24994301994301993
+1,disease_on_symptoms,18,19,2.758732416627154
+2,disease_on_drugs,21,24,0.5773809523809523

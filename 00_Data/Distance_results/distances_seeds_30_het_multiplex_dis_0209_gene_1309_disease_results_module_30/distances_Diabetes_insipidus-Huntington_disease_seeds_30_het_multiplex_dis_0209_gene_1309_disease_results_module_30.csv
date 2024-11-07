@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,26,30,-0.05494505494505486
+1,disease_on_symptoms,20,17,0.03489666136724989
+2,disease_on_drugs,20,26,0.06939799331103669

@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,15,-0.08787878787878789
+2,disease_on_drugs,29,25,-0.05550446998722869

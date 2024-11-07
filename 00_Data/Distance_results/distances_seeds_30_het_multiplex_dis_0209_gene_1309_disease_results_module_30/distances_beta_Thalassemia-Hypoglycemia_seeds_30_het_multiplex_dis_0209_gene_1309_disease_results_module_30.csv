@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,13,19,-0.13448886639676116
+2,disease_on_drugs,24,27,-0.08319716775599129

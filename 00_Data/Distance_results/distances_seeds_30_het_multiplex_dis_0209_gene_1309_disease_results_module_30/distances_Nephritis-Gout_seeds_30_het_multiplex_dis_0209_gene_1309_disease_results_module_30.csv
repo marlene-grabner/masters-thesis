@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,-0.1385467980295566
+1,disease_on_symptoms,17,19,0.3434812521499828
+2,disease_on_drugs,25,22,-0.2554352030947775

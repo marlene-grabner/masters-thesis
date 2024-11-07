@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,14,21,0.29047619047619033
+2,disease_on_drugs,24,29,0.265438625027109

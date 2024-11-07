@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,29,22,0.3361904761904764
+1,disease_on_symptoms,18,20,1.612719298245614
+2,disease_on_drugs,30,19,1.1551915503043322

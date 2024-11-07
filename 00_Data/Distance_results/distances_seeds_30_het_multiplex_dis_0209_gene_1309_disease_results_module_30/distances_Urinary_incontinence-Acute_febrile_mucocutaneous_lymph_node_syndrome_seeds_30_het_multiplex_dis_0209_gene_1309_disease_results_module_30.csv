@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.22062146892655377
+1,disease_on_symptoms,20,13,0.9724941724941727
+2,disease_on_drugs,20,28,0.3773809523809526

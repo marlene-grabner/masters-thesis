@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,24,26,0.12070512820512813
+1,disease_on_symptoms,22,24,0.7942193675889326
+2,disease_on_drugs,24,24,0.22916666666666674

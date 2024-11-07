@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,18,29,0.38878698948398127
+1,disease_on_symptoms,18,23,1.661099328384588
+2,disease_on_drugs,10,27,0.23458458458458464

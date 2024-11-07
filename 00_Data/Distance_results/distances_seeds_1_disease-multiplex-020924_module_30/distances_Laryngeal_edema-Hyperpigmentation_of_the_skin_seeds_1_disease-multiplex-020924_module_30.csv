@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,24,0.21296296296296302
+1,disease_on_symptoms,20,23,1.612133468149646
+2,disease_on_drugs,28,12,0.4714285714285713

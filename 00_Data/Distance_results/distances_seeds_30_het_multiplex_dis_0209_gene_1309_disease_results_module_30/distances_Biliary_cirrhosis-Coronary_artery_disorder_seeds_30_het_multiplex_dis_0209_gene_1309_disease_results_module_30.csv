@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,26,23,0.12229540645689707
+1,disease_on_symptoms,22,19,1.2977593651534602
+2,disease_on_drugs,25,22,0.34483558994197283

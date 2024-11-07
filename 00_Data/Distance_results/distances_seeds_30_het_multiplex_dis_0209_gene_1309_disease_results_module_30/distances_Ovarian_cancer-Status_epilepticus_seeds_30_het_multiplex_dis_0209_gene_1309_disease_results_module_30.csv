@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,17,18,0.43216619981325843
+2,disease_on_drugs,17,30,0.21846057571964939

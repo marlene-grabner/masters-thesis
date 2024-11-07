@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,29,30,-0.11864406779661019
+1,disease_on_symptoms,14,20,-0.013235294117647012
+2,disease_on_drugs,22,28,-0.05227272727272725

@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,18,30,-0.02083333333333337
+1,disease_on_symptoms,21,19,2.163721804511278
+2,disease_on_drugs,17,30,-0.030371297455152213

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.15877192982456156
+1,disease_on_symptoms,19,20,0.6345479082321188
+2,disease_on_drugs,22,27,0.16048237476808902

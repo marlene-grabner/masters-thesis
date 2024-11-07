@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000155
+1,disease_on_symptoms,22,21,0.4170441961139637
+2,disease_on_drugs,29,29,0.17241379310344818

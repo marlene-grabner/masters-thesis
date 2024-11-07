@@ -1,0 +1,4 @@
+,Layer,Renovascular_hypertension nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,17,16,1.0555926916221035
+2,disease_on_drugs,29,29,0.051724137931034475

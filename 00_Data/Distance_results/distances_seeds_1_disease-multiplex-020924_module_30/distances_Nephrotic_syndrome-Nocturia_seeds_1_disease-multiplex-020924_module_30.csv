@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Nocturia nodes,sAB
+0,disease_on_genes,20,21,0.2511904761904762
+1,disease_on_symptoms,24,24,1.3541666666666665
+2,disease_on_drugs,18,14,0.753968253968254

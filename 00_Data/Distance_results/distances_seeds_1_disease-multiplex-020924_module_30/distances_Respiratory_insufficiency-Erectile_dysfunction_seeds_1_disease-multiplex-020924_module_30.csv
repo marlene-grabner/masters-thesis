@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,0.2887878787878788
+1,disease_on_symptoms,20,16,2.05625
+2,disease_on_drugs,14,30,0.34285714285714297

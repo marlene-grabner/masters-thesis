@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.033615819209039444
+1,disease_on_symptoms,22,27,0.3638253281110422
+2,disease_on_drugs,27,28,0.10834535834535841

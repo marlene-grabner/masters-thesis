@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.019653092006033157
+1,disease_on_symptoms,19,23,-0.09327666993570882
+2,disease_on_drugs,24,21,-0.15734126984126984

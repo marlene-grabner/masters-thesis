@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.002201257861635275
+1,disease_on_symptoms,17,17,1.2352941176470589
+2,disease_on_drugs,26,22,0.03977272727272729

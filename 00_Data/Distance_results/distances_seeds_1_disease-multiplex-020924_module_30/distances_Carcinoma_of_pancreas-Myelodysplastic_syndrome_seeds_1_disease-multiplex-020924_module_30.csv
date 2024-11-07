@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,23,26,0.1428571428571428
+1,disease_on_symptoms,25,15,0.5616666666666665
+2,disease_on_drugs,21,21,0.23809523809523814

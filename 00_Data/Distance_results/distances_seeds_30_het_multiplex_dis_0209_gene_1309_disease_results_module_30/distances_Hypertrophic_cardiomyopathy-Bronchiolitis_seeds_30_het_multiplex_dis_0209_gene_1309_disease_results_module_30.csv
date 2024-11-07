@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.06954022988505759
+1,disease_on_symptoms,19,25,0.2891866028708132
+2,disease_on_drugs,22,24,-0.1548089591567854

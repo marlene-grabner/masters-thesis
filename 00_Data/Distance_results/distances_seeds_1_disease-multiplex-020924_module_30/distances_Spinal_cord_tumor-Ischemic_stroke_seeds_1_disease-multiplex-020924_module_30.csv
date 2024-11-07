@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,22,30,0.36270396270396277
+1,disease_on_symptoms,22,16,1.173444976076555
+2,disease_on_drugs,14,23,0.8329276481450396

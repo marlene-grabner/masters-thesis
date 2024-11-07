@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,29,26,-0.14451410658307207
+1,disease_on_symptoms,20,16,0.32499999999999996
+2,disease_on_drugs,24,25,-0.08297619047619054

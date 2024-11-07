@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,17,14,0.5885741393331527
+1,disease_on_symptoms,21,25,2.38824016563147
+2,disease_on_drugs,17,10,1.2245098039215687

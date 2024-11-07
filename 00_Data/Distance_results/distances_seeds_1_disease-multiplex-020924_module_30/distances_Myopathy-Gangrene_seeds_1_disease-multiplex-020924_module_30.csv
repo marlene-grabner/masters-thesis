@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Gangrene nodes,sAB
+0,disease_on_genes,18,26,0.38888888888888884
+1,disease_on_symptoms,21,19,1.0442355889724313
+2,disease_on_drugs,6,23,0.2598700649675163

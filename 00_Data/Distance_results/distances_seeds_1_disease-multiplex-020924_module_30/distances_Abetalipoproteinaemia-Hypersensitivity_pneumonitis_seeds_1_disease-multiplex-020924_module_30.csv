@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,17,24,0.3120516499282642
+1,disease_on_symptoms,25,23,1.4708695652173913
+2,disease_on_drugs,13,24,0.7723492723492724

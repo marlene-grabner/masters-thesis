@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,21,16,0.8634572072072069
+2,disease_on_drugs,26,28,0.0025946275946275854

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,19,18,0.5086533902323378
+2,disease_on_drugs,29,29,0.22413793103448287

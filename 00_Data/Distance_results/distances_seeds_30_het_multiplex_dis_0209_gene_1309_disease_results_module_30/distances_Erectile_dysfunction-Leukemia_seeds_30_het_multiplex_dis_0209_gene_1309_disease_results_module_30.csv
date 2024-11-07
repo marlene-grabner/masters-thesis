@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,15,21,-0.08412698412698405
+2,disease_on_drugs,30,30,0.1333333333333333

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,17,20,1.129054054054054
+2,disease_on_drugs,26,28,0.3158831908831907

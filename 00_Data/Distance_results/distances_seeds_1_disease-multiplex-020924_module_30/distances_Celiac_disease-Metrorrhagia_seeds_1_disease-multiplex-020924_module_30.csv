@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,17,27,0.39572192513368987
+1,disease_on_symptoms,22,17,2.716440422322776
+2,disease_on_drugs,15,26,0.708692933083177

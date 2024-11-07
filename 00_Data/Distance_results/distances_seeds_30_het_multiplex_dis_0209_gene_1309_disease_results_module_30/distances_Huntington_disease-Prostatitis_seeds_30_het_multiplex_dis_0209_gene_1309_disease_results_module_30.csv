@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,22,0.7414644179350063
+2,disease_on_drugs,26,28,0.01755189255189249

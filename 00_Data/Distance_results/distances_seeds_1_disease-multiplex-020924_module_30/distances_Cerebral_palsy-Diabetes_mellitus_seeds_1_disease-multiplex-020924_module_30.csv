@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,20,0.20238376674546887
+1,disease_on_symptoms,16,18,1.9015522875816995
+2,disease_on_drugs,18,19,1.162873399715505

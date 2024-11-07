@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.055485893416928
+1,disease_on_symptoms,21,20,0.8069396051103368
+2,disease_on_drugs,26,28,0.5010683760683761

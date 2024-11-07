@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,20,18,-0.10350877192982466
+2,disease_on_drugs,28,30,-0.2774220032840722

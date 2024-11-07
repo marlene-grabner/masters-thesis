@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,18,30,-0.25
+1,disease_on_symptoms,21,17,2.1419725785050865
+2,disease_on_drugs,17,25,-0.24885154061624637

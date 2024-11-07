@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,19,25,0.17540669856459346
+2,disease_on_drugs,25,21,0.3309730848861283

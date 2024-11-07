@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,27,26,-0.3965892597968069
+1,disease_on_symptoms,24,21,-0.6892857142857144
+2,disease_on_drugs,25,24,-0.38653061224489804

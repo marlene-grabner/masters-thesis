@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,12,25,0.18265765765765773
+1,disease_on_symptoms,27,23,0.9733977455716585
+2,disease_on_drugs,9,20,0.2526819923371646

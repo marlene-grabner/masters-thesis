@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,22,15,0.9261670761670762
+2,disease_on_drugs,29,25,0.3495530012771393

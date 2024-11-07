@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.13735632183908042
+1,disease_on_symptoms,18,19,-0.05764975501817604
+2,disease_on_drugs,23,29,-0.023094222119709462

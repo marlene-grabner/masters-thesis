@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,20,18,-0.3001461988304095
+2,disease_on_drugs,30,24,-0.0981481481481481

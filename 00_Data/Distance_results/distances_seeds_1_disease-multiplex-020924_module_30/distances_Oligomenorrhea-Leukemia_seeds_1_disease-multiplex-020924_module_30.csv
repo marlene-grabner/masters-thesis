@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,18,0.5217391304347827
+1,disease_on_symptoms,12,27,1.70014245014245
+2,disease_on_drugs,21,17,0.9192835028748343

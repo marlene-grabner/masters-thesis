@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.17748538011695925
+1,disease_on_symptoms,20,18,-0.07178362573099406
+2,disease_on_drugs,30,25,-0.07272727272727275

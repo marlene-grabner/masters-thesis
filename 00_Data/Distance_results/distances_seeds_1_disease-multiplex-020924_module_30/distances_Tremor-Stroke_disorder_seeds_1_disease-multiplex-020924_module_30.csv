@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,16,30,0.19393115942028993
+1,disease_on_symptoms,23,15,0.9923722349351638
+2,disease_on_drugs,16,30,0.5339673913043479

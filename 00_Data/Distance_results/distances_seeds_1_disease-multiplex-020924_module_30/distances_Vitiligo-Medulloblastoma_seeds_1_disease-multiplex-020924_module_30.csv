@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,24,26,0.2908333333333335
+1,disease_on_symptoms,22,19,2.0230773719220445
+2,disease_on_drugs,11,24,0.4077380952380951

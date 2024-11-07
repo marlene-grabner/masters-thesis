@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,-0.03333333333333344
+1,disease_on_symptoms,14,15,0.6766830870279148
+2,disease_on_drugs,26,26,0.11538461538461542

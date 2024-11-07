@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,18,0.5347222222222221
+1,disease_on_symptoms,9,21,0.4492063492063494
+2,disease_on_drugs,11,6,0.37611408199643503

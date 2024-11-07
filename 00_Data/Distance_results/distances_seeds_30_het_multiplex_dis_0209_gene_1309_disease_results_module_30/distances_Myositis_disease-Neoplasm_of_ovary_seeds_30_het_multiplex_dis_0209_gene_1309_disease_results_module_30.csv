@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,18,22,-0.0063131313131312705
+2,disease_on_drugs,26,29,-0.32200385821075495

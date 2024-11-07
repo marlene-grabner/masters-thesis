@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,22,27,-0.16601388029959463
+1,disease_on_symptoms,20,27,0.30397951142631996
+2,disease_on_drugs,19,26,-0.12735042735042723

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,28,0.2542087542087541
+1,disease_on_symptoms,22,26,0.9476981351981351
+2,disease_on_drugs,24,28,0.3635531135531136

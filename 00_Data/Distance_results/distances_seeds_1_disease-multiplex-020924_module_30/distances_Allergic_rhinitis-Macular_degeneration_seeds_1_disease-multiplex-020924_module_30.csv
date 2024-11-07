@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,21,30,0.3516806722689074
+1,disease_on_symptoms,22,15,0.8426699426699424
+2,disease_on_drugs,21,21,0.9285714285714286

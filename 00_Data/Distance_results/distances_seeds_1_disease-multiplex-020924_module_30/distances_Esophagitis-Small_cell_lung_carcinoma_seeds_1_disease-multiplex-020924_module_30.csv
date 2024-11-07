@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,24,27,0.13652173913043475
+1,disease_on_symptoms,23,24,1.406837804502004
+2,disease_on_drugs,20,25,0.7372222222222222

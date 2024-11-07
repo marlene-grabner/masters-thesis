@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,26,21,0.11184265010351968
+1,disease_on_symptoms,19,20,1.8648448043184884
+2,disease_on_drugs,24,19,0.6511627906976745

@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.15270935960591125
+1,disease_on_symptoms,17,21,0.8719593100398058
+2,disease_on_drugs,25,24,0.7371428571428571

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,27,0.03912003440305334
+1,disease_on_symptoms,23,19,1.7968835131306529
+2,disease_on_drugs,25,26,0.5886123680241329

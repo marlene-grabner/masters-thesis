@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.5453379953379953
+1,disease_on_symptoms,17,25,2.1296918767507003
+2,disease_on_drugs,17,18,0.8285714285714285

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Emphysema nodes,sAB
+0,disease_on_genes,16,30,0.3365942028985507
+1,disease_on_symptoms,26,14,1.4167582417582416
+2,disease_on_drugs,14,29,0.7209302325581395

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,27,30,-0.0019493177387914784
+1,disease_on_symptoms,21,17,0.31062951496388
+2,disease_on_drugs,25,29,0.2652362707535121

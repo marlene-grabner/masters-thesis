@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,0.02261904761904754
+1,disease_on_symptoms,23,19,0.5876103301732594
+2,disease_on_drugs,29,23,0.48422903932649075

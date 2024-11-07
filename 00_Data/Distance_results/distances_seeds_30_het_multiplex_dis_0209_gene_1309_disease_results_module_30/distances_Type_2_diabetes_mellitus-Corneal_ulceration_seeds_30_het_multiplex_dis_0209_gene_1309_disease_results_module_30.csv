@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.24199507389162556
+1,disease_on_symptoms,16,15,0.41418010752688184
+2,disease_on_drugs,27,23,-0.20895330112721422

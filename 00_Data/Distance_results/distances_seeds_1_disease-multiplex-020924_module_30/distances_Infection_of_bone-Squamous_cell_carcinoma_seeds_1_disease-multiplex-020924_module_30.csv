@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,26,16,0.31272893772893795
+1,disease_on_symptoms,21,26,1.9170368638453743
+2,disease_on_drugs,24,14,1.0164473684210527

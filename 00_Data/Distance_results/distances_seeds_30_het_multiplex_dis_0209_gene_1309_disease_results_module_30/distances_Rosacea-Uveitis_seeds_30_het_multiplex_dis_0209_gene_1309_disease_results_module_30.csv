@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,18,20,-0.2640350877192983
+2,disease_on_drugs,30,23,-0.2506426032266884

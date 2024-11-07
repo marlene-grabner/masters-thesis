@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.2840670859538783
+1,disease_on_symptoms,20,15,1.275
+2,disease_on_drugs,25,26,0.8634992458521871

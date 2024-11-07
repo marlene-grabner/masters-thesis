@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Myalgia nodes,sAB
+0,disease_on_genes,25,30,-0.038181818181818206
+1,disease_on_symptoms,20,16,1.6243055555555554
+2,disease_on_drugs,22,29,0.16557563464257186

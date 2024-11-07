@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.22612085769980483
+1,disease_on_symptoms,16,21,0.7261100386100385
+2,disease_on_drugs,24,27,0.741421568627451

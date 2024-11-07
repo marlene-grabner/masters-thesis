@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.0028712059064808226
+1,disease_on_symptoms,20,19,0.7235155195681511
+2,disease_on_drugs,30,22,0.18601398601398578

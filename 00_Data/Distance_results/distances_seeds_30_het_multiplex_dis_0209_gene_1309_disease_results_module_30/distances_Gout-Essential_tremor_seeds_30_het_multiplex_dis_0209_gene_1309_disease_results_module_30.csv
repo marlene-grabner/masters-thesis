@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,-0.03826530612244894
+1,disease_on_symptoms,19,23,0.5971450365043043
+2,disease_on_drugs,22,21,-0.04505184737742862

@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,0.14575517075517075
+1,disease_on_symptoms,19,16,0.7778665413533836
+2,disease_on_drugs,26,27,0.47203408052464657

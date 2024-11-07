@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,25,25,-0.08000000000000007
+1,disease_on_symptoms,22,17,0.23676813382695738
+2,disease_on_drugs,25,25,-0.08000000000000007

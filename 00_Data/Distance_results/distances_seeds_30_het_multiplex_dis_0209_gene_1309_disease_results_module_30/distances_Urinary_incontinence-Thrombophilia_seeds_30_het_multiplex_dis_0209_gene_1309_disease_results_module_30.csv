@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,29,27,0.3214285714285714
+1,disease_on_symptoms,20,18,1.3628654970760232
+2,disease_on_drugs,20,22,0.7080086580086582

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,-0.1463704630788487
+1,disease_on_symptoms,15,27,0.8301587301587299
+2,disease_on_drugs,23,16,0.4798634336677814

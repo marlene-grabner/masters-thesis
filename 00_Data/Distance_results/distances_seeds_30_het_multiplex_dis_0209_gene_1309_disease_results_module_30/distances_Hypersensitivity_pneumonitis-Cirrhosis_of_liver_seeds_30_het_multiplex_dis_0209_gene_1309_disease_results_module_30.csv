@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,-0.3090909090909091
+1,disease_on_symptoms,20,19,-0.3306005398110661
+2,disease_on_drugs,25,30,-0.2739393939393938

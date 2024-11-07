@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,0.2969696969696969
+1,disease_on_symptoms,25,20,1.7488888888888892
+2,disease_on_drugs,24,24,0.6458333333333335

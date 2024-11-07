@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.10098039215686283
+1,disease_on_symptoms,20,23,0.7227249747219413
+2,disease_on_drugs,30,21,0.2515406162464986

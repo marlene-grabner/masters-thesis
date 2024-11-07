@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,15,0.0506707946336431
+2,disease_on_drugs,30,24,0.17083333333333317

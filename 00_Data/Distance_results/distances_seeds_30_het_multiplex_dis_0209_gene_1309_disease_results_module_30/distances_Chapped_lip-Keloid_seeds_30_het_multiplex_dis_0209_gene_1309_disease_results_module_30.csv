@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,-0.1428571428571429
+1,disease_on_symptoms,20,17,0.5430445151033387
+2,disease_on_drugs,23,22,-0.1985726833552922

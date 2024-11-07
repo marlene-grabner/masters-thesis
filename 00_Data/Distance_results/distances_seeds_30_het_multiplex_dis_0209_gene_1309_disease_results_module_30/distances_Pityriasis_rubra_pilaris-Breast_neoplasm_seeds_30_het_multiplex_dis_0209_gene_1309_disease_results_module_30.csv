@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.07212475633528281
+1,disease_on_symptoms,21,20,0.4148373983739839
+2,disease_on_drugs,25,30,0.3236363636363635

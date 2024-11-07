@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,16,20,0.35833333333333317
+1,disease_on_symptoms,26,26,2.5384615384615383
+2,disease_on_drugs,14,13,0.7706552706552707

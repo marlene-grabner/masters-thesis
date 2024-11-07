@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Pain nodes,sAB
+0,disease_on_genes,12,26,0.1567139001349529
+1,disease_on_symptoms,27,21,0.3141534391534391
+2,disease_on_drugs,9,26,-0.016056166056166

@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,29,26,-0.01829033035929606
+1,disease_on_symptoms,20,25,0.5327777777777776
+2,disease_on_drugs,24,25,0.05988095238095248

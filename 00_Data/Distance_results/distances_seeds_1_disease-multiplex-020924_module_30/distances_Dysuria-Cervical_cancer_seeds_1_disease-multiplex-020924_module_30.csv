@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.5233534026637474
+1,disease_on_symptoms,16,23,1.6083124303232998
+2,disease_on_drugs,23,15,0.7256292906178492

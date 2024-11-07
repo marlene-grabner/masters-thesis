@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,21,16,0.7200772200772201
+2,disease_on_drugs,27,29,0.09279784710819183

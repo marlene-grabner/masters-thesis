@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,17,27,0.5044068132303425
+1,disease_on_symptoms,28,20,2.882142857142857
+2,disease_on_drugs,9,25,0.6764705882352942

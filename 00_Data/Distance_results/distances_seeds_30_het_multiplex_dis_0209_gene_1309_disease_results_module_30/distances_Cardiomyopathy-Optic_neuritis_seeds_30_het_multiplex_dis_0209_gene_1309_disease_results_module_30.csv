@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,-0.15538461538461545
+1,disease_on_symptoms,21,21,0.38095238095238115
+2,disease_on_drugs,24,27,0.11492374727668841

@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,15,0.18535353535353538
+2,disease_on_drugs,21,21,-0.023809523809523947

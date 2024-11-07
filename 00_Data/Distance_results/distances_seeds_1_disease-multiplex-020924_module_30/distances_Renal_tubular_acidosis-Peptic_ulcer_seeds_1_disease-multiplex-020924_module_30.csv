@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,18,28,0.30952380952380953
+1,disease_on_symptoms,18,14,3.4925595238095237
+2,disease_on_drugs,10,28,0.43947368421052624

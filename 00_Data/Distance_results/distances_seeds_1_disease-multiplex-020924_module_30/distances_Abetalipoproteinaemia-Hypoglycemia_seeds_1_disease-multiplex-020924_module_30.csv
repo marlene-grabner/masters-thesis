@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,17,30,0.3110137672090114
+1,disease_on_symptoms,25,12,0.6874774774774779
+2,disease_on_drugs,13,22,0.5901098901098902

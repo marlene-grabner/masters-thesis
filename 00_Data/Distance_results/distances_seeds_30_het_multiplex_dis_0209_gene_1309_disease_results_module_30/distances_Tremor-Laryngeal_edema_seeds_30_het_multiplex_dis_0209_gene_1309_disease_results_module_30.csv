@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,27,30,-0.06929824561403508
+1,disease_on_symptoms,17,16,1.1758578431372548
+2,disease_on_drugs,24,28,0.27564102564102577

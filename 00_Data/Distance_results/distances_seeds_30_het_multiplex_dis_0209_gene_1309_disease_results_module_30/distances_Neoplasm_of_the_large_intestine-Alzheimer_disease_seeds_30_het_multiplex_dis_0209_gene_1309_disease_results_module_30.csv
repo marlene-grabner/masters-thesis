@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.2075471698113207
+1,disease_on_symptoms,22,19,0.27065585249153945
+2,disease_on_drugs,29,19,-0.15778130671506352

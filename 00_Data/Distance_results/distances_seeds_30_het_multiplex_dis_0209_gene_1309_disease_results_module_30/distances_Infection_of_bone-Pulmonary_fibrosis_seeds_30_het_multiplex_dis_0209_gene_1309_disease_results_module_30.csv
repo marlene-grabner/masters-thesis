@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,25,-0.10909090909090913
+1,disease_on_symptoms,18,22,-0.06035353535353538
+2,disease_on_drugs,28,25,-0.1347035040431266

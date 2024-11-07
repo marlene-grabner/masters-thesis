@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.396060606060606
+1,disease_on_symptoms,15,23,0.7115942028985507
+2,disease_on_drugs,21,23,1.1372576698663655

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,27,25,0.2099430199430199
+1,disease_on_symptoms,17,22,1.0575551899081308
+2,disease_on_drugs,20,24,0.28030303030303005

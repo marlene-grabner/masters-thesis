@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,25,29,0.2548148148148148
+1,disease_on_symptoms,18,15,1.1636363636363638
+2,disease_on_drugs,23,27,0.7229629629629628

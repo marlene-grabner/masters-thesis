@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,0.41588693957114997
+1,disease_on_symptoms,16,23,1.7900641025641026
+2,disease_on_drugs,18,30,0.6499999999999999

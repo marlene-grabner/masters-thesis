@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,28,0.07204184704184691
+1,disease_on_symptoms,15,23,0.7482074752097638
+2,disease_on_drugs,25,28,-0.01898921832884093

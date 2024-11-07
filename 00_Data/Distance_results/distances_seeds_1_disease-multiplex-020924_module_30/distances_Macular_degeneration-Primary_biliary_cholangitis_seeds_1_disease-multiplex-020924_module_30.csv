@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.3748168498168498
+1,disease_on_symptoms,15,17,0.5973039215686278
+2,disease_on_drugs,21,18,0.8351648351648351

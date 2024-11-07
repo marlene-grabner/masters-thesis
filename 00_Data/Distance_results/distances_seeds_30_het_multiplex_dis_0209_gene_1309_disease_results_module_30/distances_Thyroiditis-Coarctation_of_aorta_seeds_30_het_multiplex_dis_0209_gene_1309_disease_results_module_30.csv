@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.08869395711500982
+1,disease_on_symptoms,21,19,0.0424185463659148
+2,disease_on_drugs,29,24,0.05978909130340471

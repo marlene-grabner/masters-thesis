@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,30,0.018181818181818077
+1,disease_on_symptoms,19,13,1.3934716599190284
+2,disease_on_drugs,18,24,-0.11408730158730163

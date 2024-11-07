@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.035964912280701755
+1,disease_on_symptoms,20,18,0.2834795321637429
+2,disease_on_drugs,30,22,0.1744755244755245

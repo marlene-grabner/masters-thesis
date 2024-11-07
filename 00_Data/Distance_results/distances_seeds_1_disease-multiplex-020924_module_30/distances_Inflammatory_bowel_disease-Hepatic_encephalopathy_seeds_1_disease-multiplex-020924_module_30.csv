@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,17,9,-0.10027777777777769
+1,disease_on_symptoms,27,27,1.759259259259259
+2,disease_on_drugs,14,9,0.18167701863354058

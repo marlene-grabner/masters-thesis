@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,27,30,-0.07309941520467844
+1,disease_on_symptoms,18,14,0.32093253968253976
+2,disease_on_drugs,25,22,-0.1725338491295938

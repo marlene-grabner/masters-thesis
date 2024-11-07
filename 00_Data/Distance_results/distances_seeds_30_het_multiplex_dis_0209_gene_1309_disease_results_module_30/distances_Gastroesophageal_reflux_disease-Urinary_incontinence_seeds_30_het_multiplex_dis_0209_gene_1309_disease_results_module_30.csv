@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,29,-0.18286713286713285
+1,disease_on_symptoms,18,20,-0.008479532163742753
+2,disease_on_drugs,25,20,-0.12222222222222201

@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Gangrene nodes,sAB
+0,disease_on_genes,21,27,-0.04166666666666663
+1,disease_on_symptoms,22,22,0.2272727272727273
+2,disease_on_drugs,19,27,0.06487837952368847

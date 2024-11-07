@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,25,26,0.2917647058823529
+1,disease_on_symptoms,16,15,1.5825268817204303
+2,disease_on_drugs,17,26,0.6682626538987688

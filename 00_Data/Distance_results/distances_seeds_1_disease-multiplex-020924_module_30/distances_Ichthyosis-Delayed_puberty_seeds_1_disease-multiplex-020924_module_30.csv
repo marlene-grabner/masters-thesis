@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,27,22,0.2748015873015872
+1,disease_on_symptoms,17,20,1.8028219395866456
+2,disease_on_drugs,24,19,0.7613219094247243

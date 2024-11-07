@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,28,0.12824675324675328
+1,disease_on_symptoms,24,19,0.9997450020399836
+2,disease_on_drugs,25,26,0.6854751131221719

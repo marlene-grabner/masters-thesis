@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.05084745762711873
+1,disease_on_symptoms,15,25,0.9983333333333335
+2,disease_on_drugs,29,21,0.3382594417077174

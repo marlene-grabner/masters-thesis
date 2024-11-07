@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.0847457627118644
+1,disease_on_symptoms,21,27,-0.3131613756613756
+2,disease_on_drugs,29,28,0.07071558205859496

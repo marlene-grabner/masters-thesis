@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,-0.04096989966555198
+1,disease_on_symptoms,19,16,0.9296052631578946
+2,disease_on_drugs,22,29,0.4895506792058517

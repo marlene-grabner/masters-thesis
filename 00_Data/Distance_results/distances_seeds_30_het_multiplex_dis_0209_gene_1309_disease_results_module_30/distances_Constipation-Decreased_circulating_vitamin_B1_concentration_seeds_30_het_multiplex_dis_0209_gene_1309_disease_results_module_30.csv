@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,16,17,0.2447081105169342
+2,disease_on_drugs,28,25,-0.17053908355795144

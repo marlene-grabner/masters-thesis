@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Esophagitis nodes,sAB
+0,disease_on_genes,25,30,-0.07121212121212117
+1,disease_on_symptoms,13,20,0.7628787878787882
+2,disease_on_drugs,21,30,0.03585434173669455

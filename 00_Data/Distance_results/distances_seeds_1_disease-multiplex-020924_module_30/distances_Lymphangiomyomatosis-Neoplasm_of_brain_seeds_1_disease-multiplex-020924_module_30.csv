@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,26,22,0.018939393939394034
+1,disease_on_symptoms,19,23,0.9873597036068431
+2,disease_on_drugs,22,20,0.07445887445887456

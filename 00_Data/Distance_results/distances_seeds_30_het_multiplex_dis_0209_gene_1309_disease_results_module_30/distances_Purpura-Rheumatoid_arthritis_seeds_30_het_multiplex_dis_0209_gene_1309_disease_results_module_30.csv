@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,27,30,-0.17553606237816766
+1,disease_on_symptoms,17,19,0.2192982456140351
+2,disease_on_drugs,24,30,-0.11157407407407405

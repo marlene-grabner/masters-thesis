@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,20,26,0.27934782608695663
+1,disease_on_symptoms,24,15,0.7560897435897438
+2,disease_on_drugs,18,15,0.6732323232323234

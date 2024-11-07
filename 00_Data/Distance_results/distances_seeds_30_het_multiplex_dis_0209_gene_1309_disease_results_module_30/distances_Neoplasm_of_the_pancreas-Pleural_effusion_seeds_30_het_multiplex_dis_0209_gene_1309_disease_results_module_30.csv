@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,18,0.03289473684210531
+2,disease_on_drugs,30,27,-0.023684210526315974

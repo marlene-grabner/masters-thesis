@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,14,15,0.8089490968801316
+2,disease_on_drugs,21,26,0.3745616086041619

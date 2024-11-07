@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.12066276803118914
+1,disease_on_symptoms,22,24,1.152420948616601
+2,disease_on_drugs,26,24,0.4583333333333335

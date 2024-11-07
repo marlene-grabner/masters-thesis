@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.5192307692307694
+1,disease_on_symptoms,15,15,0.5666666666666664
+2,disease_on_drugs,15,16,1.0301075268817204

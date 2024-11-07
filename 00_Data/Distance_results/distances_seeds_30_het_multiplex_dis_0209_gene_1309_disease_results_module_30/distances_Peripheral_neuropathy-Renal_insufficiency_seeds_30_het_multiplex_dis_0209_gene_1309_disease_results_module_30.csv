@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,21,19,-0.23446115288220537
+2,disease_on_drugs,29,28,-0.3518710569527267

@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,13,16,1.1217672413793105
+2,disease_on_drugs,21,28,0.34268707482993177

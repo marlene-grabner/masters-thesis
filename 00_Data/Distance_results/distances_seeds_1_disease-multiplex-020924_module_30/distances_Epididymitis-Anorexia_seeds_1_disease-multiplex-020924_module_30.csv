@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,29,17,0.19119851838786484
+1,disease_on_symptoms,23,25,0.32565217391304335
+2,disease_on_drugs,27,13,0.6745014245014245

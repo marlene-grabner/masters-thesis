@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,28,0.375
+1,disease_on_symptoms,15,25,1.81
+2,disease_on_drugs,20,23,0.7004802831142569

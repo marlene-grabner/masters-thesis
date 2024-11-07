@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Dermatitis nodes,sAB
+0,disease_on_genes,17,26,0.09663865546218475
+1,disease_on_symptoms,21,25,0.6343271221532092
+2,disease_on_drugs,17,24,0.7043878527020564

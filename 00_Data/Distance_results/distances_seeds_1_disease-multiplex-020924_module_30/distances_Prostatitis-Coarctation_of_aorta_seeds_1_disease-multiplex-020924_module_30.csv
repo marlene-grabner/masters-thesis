@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.5649122807017544
+1,disease_on_symptoms,20,14,2.079621848739496
+2,disease_on_drugs,29,13,1.2036124794745486

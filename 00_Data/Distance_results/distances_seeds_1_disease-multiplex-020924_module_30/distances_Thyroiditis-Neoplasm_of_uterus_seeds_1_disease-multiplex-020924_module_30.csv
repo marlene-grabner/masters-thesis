@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,26,28,0.018315018315018472
+1,disease_on_symptoms,28,19,0.6219204927211646
+2,disease_on_drugs,23,28,0.5878547071002314

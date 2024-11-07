@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,-0.06173913043478274
+1,disease_on_symptoms,21,19,1.0323308270676694
+2,disease_on_drugs,25,21,0.23060041407867482

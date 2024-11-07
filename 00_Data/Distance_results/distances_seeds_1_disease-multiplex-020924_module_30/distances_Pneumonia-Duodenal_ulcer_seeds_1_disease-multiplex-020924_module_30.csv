@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.2759441707717569
+1,disease_on_symptoms,26,17,-0.2840418815111019
+2,disease_on_drugs,28,28,-0.2678571428571429

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.34987694831829375
+1,disease_on_symptoms,20,21,0.7521486643437862
+2,disease_on_drugs,28,21,0.4056122448979591

@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,29,30,0.18644067796610164
+1,disease_on_symptoms,17,14,1.807129303334237
+2,disease_on_drugs,27,22,0.42788428502714226

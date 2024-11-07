@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.13206203300542918
+1,disease_on_symptoms,22,19,0.9184268876181585
+2,disease_on_drugs,25,24,0.2868537414965986

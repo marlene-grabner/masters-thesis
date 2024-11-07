@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Leukemia nodes,sAB
+0,disease_on_genes,20,18,0.24078947368421066
+1,disease_on_symptoms,24,27,1.5916394335511983
+2,disease_on_drugs,18,17,0.9435107376283844

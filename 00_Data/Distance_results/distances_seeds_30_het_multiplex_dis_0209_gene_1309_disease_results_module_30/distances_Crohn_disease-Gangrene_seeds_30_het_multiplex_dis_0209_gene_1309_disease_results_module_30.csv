@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,-0.07547169811320753
+1,disease_on_symptoms,22,22,0.8409090909090913
+2,disease_on_drugs,24,27,0.02478213507625271

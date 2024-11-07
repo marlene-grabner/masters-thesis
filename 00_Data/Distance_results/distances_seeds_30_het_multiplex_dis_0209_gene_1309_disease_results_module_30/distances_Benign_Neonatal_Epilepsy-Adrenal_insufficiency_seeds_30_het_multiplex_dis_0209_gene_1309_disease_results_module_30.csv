@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,16,15,0.2363575268817204
+2,disease_on_drugs,21,24,0.27321428571428563

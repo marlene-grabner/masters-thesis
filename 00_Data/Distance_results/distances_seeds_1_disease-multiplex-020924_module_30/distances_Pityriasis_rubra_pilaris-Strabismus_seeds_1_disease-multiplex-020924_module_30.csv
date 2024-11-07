@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,13,0.42120075046904315
+1,disease_on_symptoms,23,26,0.7002081769162516
+2,disease_on_drugs,26,9,0.36312576312576295

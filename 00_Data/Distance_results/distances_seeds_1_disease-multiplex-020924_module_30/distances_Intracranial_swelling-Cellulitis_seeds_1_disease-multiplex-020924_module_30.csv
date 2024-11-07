@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.3810924369747897
+1,disease_on_symptoms,14,26,1.176648351648352
+2,disease_on_drugs,24,12,0.9791666666666665

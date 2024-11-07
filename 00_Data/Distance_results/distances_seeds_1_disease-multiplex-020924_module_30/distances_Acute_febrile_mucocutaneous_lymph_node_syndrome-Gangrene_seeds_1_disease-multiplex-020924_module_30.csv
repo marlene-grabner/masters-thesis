@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,0.05476190476190479
+1,disease_on_symptoms,18,19,1.4298640746009168
+2,disease_on_drugs,25,23,0.104927536231884

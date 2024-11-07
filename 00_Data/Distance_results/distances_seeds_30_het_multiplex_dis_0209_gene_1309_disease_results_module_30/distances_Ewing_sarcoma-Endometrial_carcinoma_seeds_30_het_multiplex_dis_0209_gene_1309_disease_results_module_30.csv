@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,17,21,0.1270086982161287
+2,disease_on_drugs,24,26,-0.10032051282051269

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,27,-0.07240259740259736
+1,disease_on_symptoms,19,22,0.07203290932430861
+2,disease_on_drugs,22,27,-0.250223321651893

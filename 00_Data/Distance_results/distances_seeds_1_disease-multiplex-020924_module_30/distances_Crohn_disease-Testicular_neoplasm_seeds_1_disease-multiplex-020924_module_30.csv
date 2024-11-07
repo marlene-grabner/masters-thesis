@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,0.24486394557823132
+1,disease_on_symptoms,20,25,1.3166666666666669
+2,disease_on_drugs,21,23,0.840720873329569

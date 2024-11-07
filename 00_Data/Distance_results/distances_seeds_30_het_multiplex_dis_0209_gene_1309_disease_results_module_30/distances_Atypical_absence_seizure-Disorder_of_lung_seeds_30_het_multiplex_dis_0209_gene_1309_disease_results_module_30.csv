@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,0.14035087719298245
+1,disease_on_symptoms,13,18,2.0306727322856357
+2,disease_on_drugs,22,24,0.5432312252964426

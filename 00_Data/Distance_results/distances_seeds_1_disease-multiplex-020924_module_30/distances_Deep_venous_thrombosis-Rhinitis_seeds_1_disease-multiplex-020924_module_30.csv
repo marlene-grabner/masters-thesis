@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,28,30,0.27754515599343166
+1,disease_on_symptoms,14,15,1.9061576354679801
+2,disease_on_drugs,24,22,0.673913043478261

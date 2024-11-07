@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,26,16,0.02678571428571419
+1,disease_on_symptoms,17,21,3.463364293085655
+2,disease_on_drugs,25,15,0.98

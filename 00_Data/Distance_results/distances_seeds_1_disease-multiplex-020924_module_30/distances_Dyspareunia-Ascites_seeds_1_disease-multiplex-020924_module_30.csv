@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Ascites nodes,sAB
+0,disease_on_genes,24,30,0.07407407407407418
+1,disease_on_symptoms,17,17,-0.05882352941176472
+2,disease_on_drugs,23,27,0.29922705314009646

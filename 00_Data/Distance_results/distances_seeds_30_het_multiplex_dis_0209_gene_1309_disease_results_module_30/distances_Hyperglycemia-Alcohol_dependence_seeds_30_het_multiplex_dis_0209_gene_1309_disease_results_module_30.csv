@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,17,18,-0.6853408029878617
+2,disease_on_drugs,26,24,-0.4187179487179489

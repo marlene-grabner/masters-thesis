@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,26,23,-0.2233124018838304
+1,disease_on_symptoms,18,23,0.4861847531518795
+2,disease_on_drugs,25,22,-0.1454545454545455

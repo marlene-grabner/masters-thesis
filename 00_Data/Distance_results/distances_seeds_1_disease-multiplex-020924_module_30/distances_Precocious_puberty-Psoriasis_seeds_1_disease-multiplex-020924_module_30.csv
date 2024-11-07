@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.3792282430213465
+1,disease_on_symptoms,14,21,0.7809523809523808
+2,disease_on_drugs,24,28,0.8104395604395607

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,26,0.09950226244343896
+1,disease_on_symptoms,19,20,0.8706140350877192
+2,disease_on_drugs,24,20,0.34090909090909083

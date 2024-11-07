@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.020909090909090766
+1,disease_on_symptoms,17,20,0.014626391096979496
+2,disease_on_drugs,27,21,0.10416666666666674

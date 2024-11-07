@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,0.026282853566958586
+1,disease_on_symptoms,20,24,0.5132575757575757
+2,disease_on_drugs,30,16,0.5546195652173913

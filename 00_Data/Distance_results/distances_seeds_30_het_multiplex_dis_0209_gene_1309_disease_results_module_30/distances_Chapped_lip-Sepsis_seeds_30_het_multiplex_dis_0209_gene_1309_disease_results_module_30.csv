@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,30,-0.1773809523809523
+1,disease_on_symptoms,20,15,0.33214285714285685
+2,disease_on_drugs,23,25,-0.041123188405797206

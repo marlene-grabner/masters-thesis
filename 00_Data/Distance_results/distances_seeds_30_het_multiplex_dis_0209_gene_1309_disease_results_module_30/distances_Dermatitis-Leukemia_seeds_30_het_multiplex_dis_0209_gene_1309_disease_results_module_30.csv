@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,14,21,0.3071428571428574
+2,disease_on_drugs,28,30,-0.051313628899835706

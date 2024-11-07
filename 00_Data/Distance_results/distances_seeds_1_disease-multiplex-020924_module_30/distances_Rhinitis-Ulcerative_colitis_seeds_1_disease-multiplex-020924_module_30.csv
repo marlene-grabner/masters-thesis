@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.26471734892787535
+1,disease_on_symptoms,15,20,0.8607142857142853
+2,disease_on_drugs,22,25,0.38297872340425543

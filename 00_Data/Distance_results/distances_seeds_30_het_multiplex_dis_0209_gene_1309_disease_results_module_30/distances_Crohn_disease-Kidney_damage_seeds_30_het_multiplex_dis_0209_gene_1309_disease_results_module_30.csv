@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,30,0.0
+1,disease_on_symptoms,22,15,0.5869369369369368
+2,disease_on_drugs,24,21,-0.0623015873015873

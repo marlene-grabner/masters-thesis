@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.44405594405594395
+1,disease_on_symptoms,12,23,0.9296066252587991
+2,disease_on_drugs,27,17,1.2593582887700536

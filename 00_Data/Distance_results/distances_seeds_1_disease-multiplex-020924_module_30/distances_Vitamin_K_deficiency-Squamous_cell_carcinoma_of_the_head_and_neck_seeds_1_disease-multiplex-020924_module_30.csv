@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,25,21,0.09358178053830235
+1,disease_on_symptoms,23,25,1.6021014492753622
+2,disease_on_drugs,20,21,0.4621951219512195

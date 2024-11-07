@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Psoriasis nodes,sAB
+0,disease_on_genes,25,28,0.20843665768194075
+1,disease_on_symptoms,24,21,0.7970238095238096
+2,disease_on_drugs,23,28,0.5525210084033614

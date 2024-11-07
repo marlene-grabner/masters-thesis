@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,26,-0.05842490842490844
+1,disease_on_symptoms,20,20,0.19999999999999996
+2,disease_on_drugs,29,20,0.16959887403237173

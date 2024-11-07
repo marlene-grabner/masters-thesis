@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.3396226415094339
+1,disease_on_symptoms,12,22,1.3471479500891266
+2,disease_on_drugs,22,17,0.9886877828054299

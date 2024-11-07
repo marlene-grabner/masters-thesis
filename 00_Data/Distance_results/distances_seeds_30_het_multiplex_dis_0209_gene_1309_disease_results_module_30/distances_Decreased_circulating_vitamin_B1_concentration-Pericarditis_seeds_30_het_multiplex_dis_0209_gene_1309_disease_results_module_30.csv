@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,17,21,0.059265811587793094
+2,disease_on_drugs,25,26,0.020648567119155414

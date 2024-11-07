@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.5916666666666668
+1,disease_on_symptoms,17,15,1.0621323529411764
+2,disease_on_drugs,17,15,0.9020833333333333

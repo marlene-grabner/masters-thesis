@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,12,18,0.25555555555555554
+2,disease_on_drugs,21,30,-0.17464985994397764

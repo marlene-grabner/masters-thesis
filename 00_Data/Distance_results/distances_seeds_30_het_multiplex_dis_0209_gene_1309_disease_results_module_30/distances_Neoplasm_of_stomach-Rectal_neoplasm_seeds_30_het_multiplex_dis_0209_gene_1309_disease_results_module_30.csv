@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.41848484848484846
+1,disease_on_symptoms,23,20,-0.7304095045500505
+2,disease_on_drugs,24,29,-0.3900590978095858

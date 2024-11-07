@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,17,16,0.27384135472370774
+2,disease_on_drugs,27,28,0.2005651755651756

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Strabismus nodes,sAB
+0,disease_on_genes,25,17,-0.2892997198879552
+1,disease_on_symptoms,21,24,0.38630952380952377
+2,disease_on_drugs,24,16,0.08541666666666647

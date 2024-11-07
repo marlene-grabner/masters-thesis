@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,0.0680790960451978
+1,disease_on_symptoms,20,19,0.4051619433198379
+2,disease_on_drugs,27,30,0.3662768031189083

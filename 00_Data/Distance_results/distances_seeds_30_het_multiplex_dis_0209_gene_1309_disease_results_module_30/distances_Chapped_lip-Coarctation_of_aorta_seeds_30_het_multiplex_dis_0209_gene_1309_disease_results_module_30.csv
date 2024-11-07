@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,-0.03738644304682048
+1,disease_on_symptoms,20,19,0.9226383265856952
+2,disease_on_drugs,23,24,0.12802574776441555

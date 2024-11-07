@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,22,0.04326923076923084
+1,disease_on_symptoms,17,21,0.8537520271266403
+2,disease_on_drugs,24,17,0.38501315160210425

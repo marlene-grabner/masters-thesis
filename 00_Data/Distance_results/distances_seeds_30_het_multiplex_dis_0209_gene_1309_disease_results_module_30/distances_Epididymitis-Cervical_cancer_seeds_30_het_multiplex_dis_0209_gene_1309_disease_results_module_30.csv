@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,29,28,0.10526315789473695
+1,disease_on_symptoms,23,22,0.5967061923583663
+2,disease_on_drugs,26,15,0.0813633520950594

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Pericarditis nodes,sAB
+0,disease_on_genes,24,25,0.01828231292517013
+1,disease_on_symptoms,20,22,0.76461038961039
+2,disease_on_drugs,22,25,0.4466344294003868

@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,14,20,0.7075630252100842
+2,disease_on_drugs,21,28,0.09693877551020402

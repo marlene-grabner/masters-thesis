@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.1595238095238095
+1,disease_on_symptoms,19,20,-0.17931848852901489
+2,disease_on_drugs,25,29,-0.04916985951468722

@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,28,17,0.4601307189542483
+1,disease_on_symptoms,21,28,2.8528911564625847
+2,disease_on_drugs,21,9,0.8857142857142857

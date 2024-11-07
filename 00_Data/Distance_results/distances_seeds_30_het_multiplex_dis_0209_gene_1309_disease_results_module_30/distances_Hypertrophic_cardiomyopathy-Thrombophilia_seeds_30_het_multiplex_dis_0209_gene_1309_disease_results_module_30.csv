@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.10614035087719298
+1,disease_on_symptoms,19,18,1.1147858384700489
+2,disease_on_drugs,22,22,-0.06818181818181812

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,27,30,0.06715399610136452
+1,disease_on_symptoms,19,12,0.16079513299377468
+2,disease_on_drugs,20,17,0.0807233704292527

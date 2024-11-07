@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,29,0.6944444444444444
+1,disease_on_symptoms,17,18,1.5685340802987864
+2,disease_on_drugs,24,22,0.7391304347826086

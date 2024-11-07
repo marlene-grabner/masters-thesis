@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.12575757575757573
+1,disease_on_symptoms,17,19,1.032077743378053
+2,disease_on_drugs,26,18,-0.1886169386169385

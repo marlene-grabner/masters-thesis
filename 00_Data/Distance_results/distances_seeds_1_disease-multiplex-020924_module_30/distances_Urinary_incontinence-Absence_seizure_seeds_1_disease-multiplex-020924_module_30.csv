@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.21366047745358085
+1,disease_on_symptoms,20,16,1.5347222222222223
+2,disease_on_drugs,20,22,0.7857142857142858

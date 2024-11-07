@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333317
+1,disease_on_symptoms,17,22,-0.2497943233237352
+2,disease_on_drugs,24,30,-0.3208333333333334

@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.016666666666666607
+1,disease_on_symptoms,19,27,0.9913975760657681
+2,disease_on_drugs,27,28,0.38107263107263134

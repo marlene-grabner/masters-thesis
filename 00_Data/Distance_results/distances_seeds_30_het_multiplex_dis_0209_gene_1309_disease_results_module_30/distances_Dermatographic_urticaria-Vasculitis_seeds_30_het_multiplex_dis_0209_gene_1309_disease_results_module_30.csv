@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,26,-0.36363636363636365
+1,disease_on_symptoms,18,18,-0.4722222222222223
+2,disease_on_drugs,28,26,-0.2966015466015467

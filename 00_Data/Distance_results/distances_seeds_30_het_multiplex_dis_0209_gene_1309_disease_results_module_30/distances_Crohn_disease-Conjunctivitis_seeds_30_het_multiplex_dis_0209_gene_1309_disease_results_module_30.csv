@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,29,0.05454545454545445
+1,disease_on_symptoms,22,27,0.8471277399848829
+2,disease_on_drugs,24,28,0.25503663003663

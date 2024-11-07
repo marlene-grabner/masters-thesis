@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,17,-0.25315689782174045
+1,disease_on_symptoms,20,27,-0.02647754137115843
+2,disease_on_drugs,27,16,-0.3088393626184326

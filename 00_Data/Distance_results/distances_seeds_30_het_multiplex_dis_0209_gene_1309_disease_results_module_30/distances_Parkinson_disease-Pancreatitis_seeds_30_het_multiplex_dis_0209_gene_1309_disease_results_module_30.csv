@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,23,30,-0.26415094339622647
+1,disease_on_symptoms,23,17,0.02717391304347827
+2,disease_on_drugs,22,30,-0.23648018648018643

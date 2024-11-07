@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,21,25,0.12770186335403722
+1,disease_on_symptoms,26,19,0.4113810166441745
+2,disease_on_drugs,20,18,0.5774853801169593

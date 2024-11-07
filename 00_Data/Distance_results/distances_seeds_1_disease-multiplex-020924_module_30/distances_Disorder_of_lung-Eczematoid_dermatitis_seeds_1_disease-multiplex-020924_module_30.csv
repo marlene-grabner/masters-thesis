@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,27,28,0.14544252044252048
+1,disease_on_symptoms,17,24,0.39484696317551427
+2,disease_on_drugs,20,28,0.17261904761904767

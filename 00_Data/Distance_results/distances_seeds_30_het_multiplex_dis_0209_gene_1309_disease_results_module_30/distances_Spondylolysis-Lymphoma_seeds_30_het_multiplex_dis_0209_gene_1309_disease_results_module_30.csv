@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,28,26,0.0
+1,disease_on_symptoms,17,20,0.6429252782193959
+2,disease_on_drugs,19,24,-0.10169318645450853

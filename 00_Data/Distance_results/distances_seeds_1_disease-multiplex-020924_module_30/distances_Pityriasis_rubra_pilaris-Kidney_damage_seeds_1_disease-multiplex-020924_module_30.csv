@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,28,20,0.25416666666666665
+1,disease_on_symptoms,23,26,0.8862364343730804
+2,disease_on_drugs,26,13,0.28205128205128194

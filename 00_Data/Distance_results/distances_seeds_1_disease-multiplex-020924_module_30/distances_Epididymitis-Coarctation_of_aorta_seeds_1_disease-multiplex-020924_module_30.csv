@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,29,27,0.5541871921182266
+1,disease_on_symptoms,23,14,1.8047255329864025
+2,disease_on_drugs,27,13,1.2129629629629628

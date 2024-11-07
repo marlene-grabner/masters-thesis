@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.12007389162561588
+1,disease_on_symptoms,16,19,0.2708646616541355
+2,disease_on_drugs,25,25,0.09999999999999987

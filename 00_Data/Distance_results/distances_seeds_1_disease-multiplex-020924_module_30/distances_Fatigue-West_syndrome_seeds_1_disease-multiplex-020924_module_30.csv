@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,29,0.197902097902098
+1,disease_on_symptoms,21,18,0.711843711843712
+2,disease_on_drugs,26,22,0.024038461538461675

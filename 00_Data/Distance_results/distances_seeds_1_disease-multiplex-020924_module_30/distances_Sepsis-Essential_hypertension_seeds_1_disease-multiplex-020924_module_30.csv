@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,22,28,0.15279220779220792
+1,disease_on_symptoms,23,14,0.9765821722343464
+2,disease_on_drugs,17,28,0.7054621848739495

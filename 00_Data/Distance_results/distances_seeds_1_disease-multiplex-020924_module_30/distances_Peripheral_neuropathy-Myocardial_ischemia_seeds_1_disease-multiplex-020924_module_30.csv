@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333215
+1,disease_on_symptoms,20,13,-0.243123543123543
+2,disease_on_drugs,24,23,0.1909882824545175

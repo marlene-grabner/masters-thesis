@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,22,19,0.3728264674991246
+2,disease_on_drugs,30,24,0.0717592592592593

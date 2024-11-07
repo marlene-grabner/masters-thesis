@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,-0.10086342229199363
+1,disease_on_symptoms,18,17,0.7447712418300654
+2,disease_on_drugs,25,22,0.3028046421663444

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.49091544374563245
+1,disease_on_symptoms,15,27,1.2185185185185183
+2,disease_on_drugs,15,26,0.6753595997498436

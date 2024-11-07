@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,22,16,1.4863935406698565
+2,disease_on_drugs,30,21,0.7366946778711485

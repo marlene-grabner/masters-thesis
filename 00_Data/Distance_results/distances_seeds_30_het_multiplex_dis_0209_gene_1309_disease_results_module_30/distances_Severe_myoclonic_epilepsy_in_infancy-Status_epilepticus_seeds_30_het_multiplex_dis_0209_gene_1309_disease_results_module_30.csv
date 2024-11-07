@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,14,18,-0.28075396825396837
+2,disease_on_drugs,21,30,-0.31750700280112043

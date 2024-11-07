@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,17,19,0.33975563909774453
+1,disease_on_symptoms,27,21,2.3465608465608465
+2,disease_on_drugs,14,17,0.8029953917050692

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,22,0.31646825396825395
+1,disease_on_symptoms,17,26,0.7390823950331473
+2,disease_on_drugs,24,12,0.8333333333333333

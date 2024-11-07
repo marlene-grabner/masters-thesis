@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,20,17,0.7054054054054053
+2,disease_on_drugs,20,30,0.06666666666666665

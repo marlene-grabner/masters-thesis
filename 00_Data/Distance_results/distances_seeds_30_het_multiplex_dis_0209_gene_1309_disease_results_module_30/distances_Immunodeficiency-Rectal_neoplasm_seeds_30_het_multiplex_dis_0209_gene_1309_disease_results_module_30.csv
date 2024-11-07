@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.019047619047619202
+1,disease_on_symptoms,21,20,0.3665795586527296
+2,disease_on_drugs,26,29,0.23477212442729667

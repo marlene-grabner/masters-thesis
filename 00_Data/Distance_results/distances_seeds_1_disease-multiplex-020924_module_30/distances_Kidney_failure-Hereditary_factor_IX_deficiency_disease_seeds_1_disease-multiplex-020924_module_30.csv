@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,20,25,0.2155555555555555
+1,disease_on_symptoms,23,22,2.3781949934123845
+2,disease_on_drugs,18,21,0.5061050061050061

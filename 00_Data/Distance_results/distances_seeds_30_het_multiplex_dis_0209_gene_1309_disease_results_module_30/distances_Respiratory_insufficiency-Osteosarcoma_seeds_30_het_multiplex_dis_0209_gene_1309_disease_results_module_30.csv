@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.050877192982456076
+1,disease_on_symptoms,21,22,0.7422228933856845
+2,disease_on_drugs,25,29,0.24934865900383163

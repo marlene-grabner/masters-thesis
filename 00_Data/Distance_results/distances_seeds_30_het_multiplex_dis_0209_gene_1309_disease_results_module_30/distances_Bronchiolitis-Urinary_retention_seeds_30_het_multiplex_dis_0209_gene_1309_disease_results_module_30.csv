@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,28,30,-0.10344827586206895
+1,disease_on_symptoms,25,16,0.6089329268292683
+2,disease_on_drugs,24,28,-0.06364468864468864

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.07692307692307687
+1,disease_on_symptoms,20,21,1.0013356562137048
+2,disease_on_drugs,26,17,0.13077449226560023

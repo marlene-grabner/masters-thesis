@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.38187038556193587
+1,disease_on_symptoms,20,19,1.0561403508771927
+2,disease_on_drugs,28,11,0.7669413919413919

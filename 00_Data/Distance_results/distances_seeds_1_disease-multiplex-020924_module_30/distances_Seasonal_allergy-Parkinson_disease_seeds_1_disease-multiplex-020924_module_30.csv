@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,29,21,0.30722495894909674
+1,disease_on_symptoms,15,20,1.3928571428571428
+2,disease_on_drugs,29,19,0.774425287356322

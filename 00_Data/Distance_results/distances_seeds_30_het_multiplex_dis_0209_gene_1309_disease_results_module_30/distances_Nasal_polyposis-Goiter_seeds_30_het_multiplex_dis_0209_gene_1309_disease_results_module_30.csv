@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.25
+1,disease_on_symptoms,20,12,0.7145833333333333
+2,disease_on_drugs,25,18,0.37599483204134376

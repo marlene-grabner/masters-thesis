@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,24,28,0.48511904761904767
+1,disease_on_symptoms,22,15,1.6278050778050774
+2,disease_on_drugs,11,21,0.96875

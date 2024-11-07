@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,25,0.23090909090909095
+1,disease_on_symptoms,18,24,1.7242063492063493
+2,disease_on_drugs,27,20,0.992513790386131

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Vitiligo nodes,sAB
+0,disease_on_genes,21,24,0.23591269841269846
+1,disease_on_symptoms,20,22,2.3554112554112554
+2,disease_on_drugs,19,11,0.8999999999999999

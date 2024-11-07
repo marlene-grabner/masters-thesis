@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,22,15,0.5877559377559378
+2,disease_on_drugs,29,21,0.6899835796387521

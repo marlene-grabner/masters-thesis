@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.3324561403508771
+1,disease_on_symptoms,16,21,-0.3797860360360361
+2,disease_on_drugs,30,26,-0.28351648351648373

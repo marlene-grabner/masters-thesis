@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,20,19,0.005465587044534592
+2,disease_on_drugs,28,28,-0.2857142857142858

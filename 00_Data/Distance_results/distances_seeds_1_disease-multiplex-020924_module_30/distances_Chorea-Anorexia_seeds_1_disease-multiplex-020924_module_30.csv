@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Anorexia nodes,sAB
+0,disease_on_genes,14,17,0.3627676877202495
+1,disease_on_symptoms,27,25,0.9205982905982908
+2,disease_on_drugs,8,13,0.47046703296703307

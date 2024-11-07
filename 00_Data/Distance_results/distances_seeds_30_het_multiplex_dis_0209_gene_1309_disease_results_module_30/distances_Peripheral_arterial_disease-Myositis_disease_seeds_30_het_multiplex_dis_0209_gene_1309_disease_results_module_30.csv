@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,26,30,-0.052380952380952306
+1,disease_on_symptoms,17,18,0.05887021475256771
+2,disease_on_drugs,24,26,-0.07596153846153841

@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,24,25,-0.04081632653061229
+1,disease_on_symptoms,24,21,0.48730158730158735
+2,disease_on_drugs,23,21,-0.019245247506117114

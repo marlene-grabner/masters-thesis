@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,23,27,0.020000000000000018
+1,disease_on_symptoms,23,20,1.0033367037411525
+2,disease_on_drugs,22,27,0.2402597402597404

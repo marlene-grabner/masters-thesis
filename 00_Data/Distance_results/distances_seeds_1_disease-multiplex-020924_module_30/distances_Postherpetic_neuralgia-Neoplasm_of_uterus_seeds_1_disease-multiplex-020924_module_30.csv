@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.11880131362889967
+1,disease_on_symptoms,15,19,0.8267285861713107
+2,disease_on_drugs,29,28,0.8596383199377753

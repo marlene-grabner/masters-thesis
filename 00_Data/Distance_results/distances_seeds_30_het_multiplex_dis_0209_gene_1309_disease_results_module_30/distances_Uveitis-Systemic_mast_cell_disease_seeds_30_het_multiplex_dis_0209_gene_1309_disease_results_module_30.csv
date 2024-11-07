@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.1694915254237288
+1,disease_on_symptoms,20,25,0.8511111111111109
+2,disease_on_drugs,23,21,0.14318652362130613

@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,26,-0.05882352941176472
+1,disease_on_symptoms,20,18,1.1931286549707605
+2,disease_on_drugs,25,26,0.15755656108597282

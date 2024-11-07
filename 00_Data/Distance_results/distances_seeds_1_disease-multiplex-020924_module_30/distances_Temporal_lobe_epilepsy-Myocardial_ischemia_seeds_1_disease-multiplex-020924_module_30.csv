@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,0.23699590882524846
+1,disease_on_symptoms,17,13,0.26561085972850673
+2,disease_on_drugs,26,23,0.34412326803631155

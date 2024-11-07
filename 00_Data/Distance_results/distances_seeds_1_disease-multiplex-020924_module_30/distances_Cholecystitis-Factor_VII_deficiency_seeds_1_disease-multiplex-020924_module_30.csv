@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.74
+1,disease_on_symptoms,19,23,2.468126838836221
+2,disease_on_drugs,13,21,1.502154708037061

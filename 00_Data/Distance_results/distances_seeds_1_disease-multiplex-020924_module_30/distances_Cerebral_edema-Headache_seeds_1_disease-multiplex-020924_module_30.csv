@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.19999999999999996
+1,disease_on_symptoms,9,25,0.4397385620915033
+2,disease_on_drugs,11,26,0.475855225855226

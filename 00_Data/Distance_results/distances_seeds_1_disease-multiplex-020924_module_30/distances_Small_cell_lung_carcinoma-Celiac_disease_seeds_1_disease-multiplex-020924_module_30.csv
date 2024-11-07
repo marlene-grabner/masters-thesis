@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,27,17,0.213903743315508
+1,disease_on_symptoms,24,22,1.835144927536232
+2,disease_on_drugs,25,15,0.3316666666666668

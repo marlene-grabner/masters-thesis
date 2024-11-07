@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,24,27,-0.2549019607843137
+1,disease_on_symptoms,21,20,-0.24018583042973285
+2,disease_on_drugs,24,27,-0.3002450980392155

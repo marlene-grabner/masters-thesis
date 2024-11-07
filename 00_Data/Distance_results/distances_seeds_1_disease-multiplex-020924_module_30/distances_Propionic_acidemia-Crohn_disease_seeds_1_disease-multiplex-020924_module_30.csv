@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,22,25,0.3278985507246379
+1,disease_on_symptoms,17,20,1.7934022257551667
+2,disease_on_drugs,21,21,0.4761904761904763

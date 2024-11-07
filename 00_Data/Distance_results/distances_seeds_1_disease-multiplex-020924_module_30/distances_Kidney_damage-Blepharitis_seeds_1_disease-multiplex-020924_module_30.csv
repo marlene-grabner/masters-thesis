@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Blepharitis nodes,sAB
+0,disease_on_genes,20,20,0.2250000000000001
+1,disease_on_symptoms,26,27,1.5648954469709189
+2,disease_on_drugs,13,19,0.34881072874493935

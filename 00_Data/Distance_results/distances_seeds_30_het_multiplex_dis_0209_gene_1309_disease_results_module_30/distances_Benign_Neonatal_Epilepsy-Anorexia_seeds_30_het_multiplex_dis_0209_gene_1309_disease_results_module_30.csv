@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.06808883693746337
+1,disease_on_symptoms,16,13,0.14630305039787794
+2,disease_on_drugs,21,28,-0.05782312925170063

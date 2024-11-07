@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,28,29,0.31547619047619047
+1,disease_on_symptoms,14,25,1.6206227106227105
+2,disease_on_drugs,24,27,0.6960784313725492

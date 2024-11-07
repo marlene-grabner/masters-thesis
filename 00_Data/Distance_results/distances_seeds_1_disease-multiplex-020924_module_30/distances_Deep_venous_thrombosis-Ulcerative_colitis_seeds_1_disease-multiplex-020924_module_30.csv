@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,28,27,0.32692400192400184
+1,disease_on_symptoms,14,20,2.0123949579831932
+2,disease_on_drugs,24,25,0.7346938775510203

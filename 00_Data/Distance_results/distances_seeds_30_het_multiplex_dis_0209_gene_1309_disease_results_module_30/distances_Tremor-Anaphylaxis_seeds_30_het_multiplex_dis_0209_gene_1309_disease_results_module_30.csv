@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,-0.0185185185185186
+1,disease_on_symptoms,17,14,2.4923420981295745
+2,disease_on_drugs,24,26,0.28064102564102544

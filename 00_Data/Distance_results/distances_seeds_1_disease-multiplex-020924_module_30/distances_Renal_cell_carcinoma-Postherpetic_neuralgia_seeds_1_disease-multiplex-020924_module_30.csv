@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,25,30,0.1415151515151516
+1,disease_on_symptoms,24,15,1.601923076923077
+2,disease_on_drugs,20,29,1.2072484166080226

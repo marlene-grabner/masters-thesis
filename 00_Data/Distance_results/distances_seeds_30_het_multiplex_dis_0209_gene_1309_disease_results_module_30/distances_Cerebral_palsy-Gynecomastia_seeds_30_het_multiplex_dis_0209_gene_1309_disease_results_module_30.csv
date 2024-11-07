@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,13,15,0.7216117216117215
+2,disease_on_drugs,21,29,0.10331691297208545

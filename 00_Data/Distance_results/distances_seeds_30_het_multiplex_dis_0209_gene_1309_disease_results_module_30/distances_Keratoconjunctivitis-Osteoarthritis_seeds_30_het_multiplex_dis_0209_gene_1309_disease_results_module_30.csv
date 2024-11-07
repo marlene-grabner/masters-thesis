@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,29,26,-0.14755244755244745
+1,disease_on_symptoms,20,22,0.8773809523809526
+2,disease_on_drugs,27,25,-0.09068376068376072

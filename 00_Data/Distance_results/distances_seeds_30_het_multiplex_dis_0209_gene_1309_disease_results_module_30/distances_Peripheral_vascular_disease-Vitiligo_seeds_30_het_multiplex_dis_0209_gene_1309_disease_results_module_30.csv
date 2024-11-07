@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Vitiligo nodes,sAB
+0,disease_on_genes,25,30,0.12545454545454549
+1,disease_on_symptoms,17,19,0.3857069143446852
+2,disease_on_drugs,25,25,0.23999999999999977

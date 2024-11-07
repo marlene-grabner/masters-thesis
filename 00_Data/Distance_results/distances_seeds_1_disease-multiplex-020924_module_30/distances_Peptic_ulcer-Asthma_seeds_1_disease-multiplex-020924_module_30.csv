@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Asthma nodes,sAB
+0,disease_on_genes,28,25,-0.03280323450134781
+1,disease_on_symptoms,14,19,0.9986899065846433
+2,disease_on_drugs,28,24,0.3621794871794872

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,26,28,0.07671957671957674
+1,disease_on_symptoms,19,21,0.8796992481203008
+2,disease_on_drugs,22,24,0.1472332015810276

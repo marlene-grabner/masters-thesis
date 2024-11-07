@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,24,26,0.28422974540986945
+1,disease_on_symptoms,23,21,2.1511387163561078
+2,disease_on_drugs,20,23,0.7656976744186048

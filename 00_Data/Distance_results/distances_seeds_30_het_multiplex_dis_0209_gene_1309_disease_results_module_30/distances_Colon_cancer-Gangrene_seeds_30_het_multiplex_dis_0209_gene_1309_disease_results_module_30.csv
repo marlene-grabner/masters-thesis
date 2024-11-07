@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,-0.15094339622641506
+1,disease_on_symptoms,22,22,0.13636363636363646
+2,disease_on_drugs,26,27,0.0946083964951887

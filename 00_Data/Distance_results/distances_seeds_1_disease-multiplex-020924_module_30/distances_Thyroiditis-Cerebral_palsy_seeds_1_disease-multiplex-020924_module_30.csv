@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,26,27,0.3032306617212279
+1,disease_on_symptoms,28,16,1.4261363636363638
+2,disease_on_drugs,23,18,1.0026511134676563

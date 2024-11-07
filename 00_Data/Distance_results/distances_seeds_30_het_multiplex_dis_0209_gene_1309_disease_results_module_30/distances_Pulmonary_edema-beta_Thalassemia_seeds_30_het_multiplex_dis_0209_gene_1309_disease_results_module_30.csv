@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,11,13,0.1768648018648018
+2,disease_on_drugs,27,24,0.06821895424836599

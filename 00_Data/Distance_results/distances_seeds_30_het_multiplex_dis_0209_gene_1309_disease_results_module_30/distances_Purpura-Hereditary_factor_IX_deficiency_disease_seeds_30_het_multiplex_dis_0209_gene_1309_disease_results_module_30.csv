@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,27,28,-0.23572631072631067
+1,disease_on_symptoms,17,18,0.7063492063492061
+2,disease_on_drugs,24,26,-0.16442307692307678

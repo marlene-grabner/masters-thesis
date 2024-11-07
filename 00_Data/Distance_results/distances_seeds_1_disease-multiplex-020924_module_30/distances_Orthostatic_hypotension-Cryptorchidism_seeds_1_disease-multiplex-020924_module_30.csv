@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.3959207459207459
+1,disease_on_symptoms,12,18,1.8527777777777779
+2,disease_on_drugs,17,18,0.9991596638655462

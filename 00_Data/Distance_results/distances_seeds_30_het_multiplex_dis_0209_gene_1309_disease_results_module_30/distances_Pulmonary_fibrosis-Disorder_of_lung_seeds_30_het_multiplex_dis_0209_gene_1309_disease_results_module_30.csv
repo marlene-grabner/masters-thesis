@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,25,27,-0.15384615384615385
+1,disease_on_symptoms,22,18,-0.3214646464646467
+2,disease_on_drugs,25,24,-0.20331632653061238

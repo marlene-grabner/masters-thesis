@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,27,28,0.01750841750841725
+1,disease_on_symptoms,21,18,0.2927350427350426
+2,disease_on_drugs,25,23,0.03427536231884054

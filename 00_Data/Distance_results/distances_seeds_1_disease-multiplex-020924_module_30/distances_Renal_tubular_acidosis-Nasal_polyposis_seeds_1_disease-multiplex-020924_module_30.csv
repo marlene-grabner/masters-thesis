@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,18,15,0.6409090909090909
+1,disease_on_symptoms,18,25,1.484108527131783
+2,disease_on_drugs,10,10,0.0

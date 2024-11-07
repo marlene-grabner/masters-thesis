@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.2424876847290638
+1,disease_on_symptoms,19,19,1.1842105263157894
+2,disease_on_drugs,20,25,0.18166666666666642

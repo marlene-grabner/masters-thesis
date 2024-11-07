@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.10909090909090913
+1,disease_on_symptoms,18,20,1.3162280701754385
+2,disease_on_drugs,27,21,-0.1339285714285714

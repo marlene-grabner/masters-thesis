@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,9,17,0.3132227249874311
+2,disease_on_drugs,11,25,1.0289898989898991

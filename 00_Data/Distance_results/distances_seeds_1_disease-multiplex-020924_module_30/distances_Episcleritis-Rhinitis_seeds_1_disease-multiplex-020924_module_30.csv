@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,22,15,1.267936117936118
+2,disease_on_drugs,29,22,0.34516565246788367

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.185808039376538
+1,disease_on_symptoms,16,19,2.0340695488721803
+2,disease_on_drugs,21,22,0.3963555824020939

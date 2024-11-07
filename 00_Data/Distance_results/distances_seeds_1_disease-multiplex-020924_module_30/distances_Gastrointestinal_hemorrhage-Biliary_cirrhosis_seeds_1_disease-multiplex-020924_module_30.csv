@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.604472396925227
+1,disease_on_symptoms,19,15,0.9399380804953559
+2,disease_on_drugs,27,15,0.5523809523809524

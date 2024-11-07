@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,30,0.034990253411306016
+1,disease_on_symptoms,19,21,0.5067042606516292
+2,disease_on_drugs,24,29,0.44625623509000234

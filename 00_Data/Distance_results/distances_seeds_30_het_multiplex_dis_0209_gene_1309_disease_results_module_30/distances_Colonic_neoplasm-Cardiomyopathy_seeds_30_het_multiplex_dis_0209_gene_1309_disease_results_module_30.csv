@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.2748484848484848
+1,disease_on_symptoms,19,21,-0.02092731829573924
+2,disease_on_drugs,29,24,-0.10057471264367823

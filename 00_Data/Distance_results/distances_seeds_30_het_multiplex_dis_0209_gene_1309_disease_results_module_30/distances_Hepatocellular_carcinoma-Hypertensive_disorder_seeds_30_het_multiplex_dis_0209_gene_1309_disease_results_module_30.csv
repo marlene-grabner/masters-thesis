@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,24,27,-0.196078431372549
+1,disease_on_symptoms,23,21,0.7210144927536231
+2,disease_on_drugs,22,26,-0.0021853146853145766

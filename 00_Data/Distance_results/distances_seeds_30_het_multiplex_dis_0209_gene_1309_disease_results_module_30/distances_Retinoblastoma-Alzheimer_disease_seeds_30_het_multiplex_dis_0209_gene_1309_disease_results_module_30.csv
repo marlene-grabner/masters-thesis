@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.018867924528301883
+1,disease_on_symptoms,21,19,0.7463659147869675
+2,disease_on_drugs,27,19,0.36820917026866695

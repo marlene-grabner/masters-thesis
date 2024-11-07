@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,30,0.1071428571428572
+1,disease_on_symptoms,17,15,1.569485294117647
+2,disease_on_drugs,24,28,0.46771978021978033

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,25,0.12303030303030305
+1,disease_on_symptoms,16,13,0.5592672413793103
+2,disease_on_drugs,30,16,-0.03125

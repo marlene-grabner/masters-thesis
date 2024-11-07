@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.33838130997079685
+1,disease_on_symptoms,16,28,1.7236201298701301
+2,disease_on_drugs,23,9,0.5597826086956523

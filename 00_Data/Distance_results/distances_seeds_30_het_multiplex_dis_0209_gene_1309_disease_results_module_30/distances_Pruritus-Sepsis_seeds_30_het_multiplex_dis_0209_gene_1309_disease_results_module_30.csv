@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Sepsis nodes,sAB
+0,disease_on_genes,27,30,-0.2807992202729045
+1,disease_on_symptoms,21,15,-0.24523809523809548
+2,disease_on_drugs,27,25,-0.15484330484330489

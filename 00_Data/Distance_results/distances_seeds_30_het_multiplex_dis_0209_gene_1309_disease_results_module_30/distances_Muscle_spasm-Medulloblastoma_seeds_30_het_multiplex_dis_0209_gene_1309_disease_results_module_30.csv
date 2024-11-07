@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.1578947368421053
+1,disease_on_symptoms,15,22,0.3773136773136774
+2,disease_on_drugs,29,26,0.039691343139619084

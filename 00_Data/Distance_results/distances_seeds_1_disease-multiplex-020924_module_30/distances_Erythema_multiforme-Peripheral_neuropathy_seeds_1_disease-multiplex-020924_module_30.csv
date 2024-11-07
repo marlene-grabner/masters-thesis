@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,0.09999999999999987
+1,disease_on_symptoms,16,20,1.1715277777777777
+2,disease_on_drugs,30,24,0.7546296296296298

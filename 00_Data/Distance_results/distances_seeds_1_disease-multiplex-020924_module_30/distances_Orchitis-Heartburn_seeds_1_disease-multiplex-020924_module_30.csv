@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Heartburn nodes,sAB
+0,disease_on_genes,23,24,0.1724290780141846
+1,disease_on_symptoms,16,20,1.3854166666666665
+2,disease_on_drugs,17,22,0.6620389414507062

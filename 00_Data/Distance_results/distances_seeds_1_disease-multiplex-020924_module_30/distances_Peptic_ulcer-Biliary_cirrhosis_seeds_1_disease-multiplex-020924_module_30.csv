@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,28,26,0.17063492063492047
+1,disease_on_symptoms,14,15,0.4450738916256154
+2,disease_on_drugs,28,15,0.23565891472868228

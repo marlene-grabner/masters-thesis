@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,20,15,0.9321428571428569
+2,disease_on_drugs,29,28,0.3871640307665716

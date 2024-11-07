@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,25,26,-0.09766214177978882
+1,disease_on_symptoms,20,22,0.01201298701298703
+2,disease_on_drugs,25,25,0.020000000000000018

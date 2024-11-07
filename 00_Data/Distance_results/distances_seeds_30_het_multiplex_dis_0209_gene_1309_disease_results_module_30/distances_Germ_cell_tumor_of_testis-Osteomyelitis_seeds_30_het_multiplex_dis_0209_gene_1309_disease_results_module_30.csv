@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,30,-0.07309941520467844
+1,disease_on_symptoms,22,22,0.3863636363636367
+2,disease_on_drugs,20,28,0.2857142857142856

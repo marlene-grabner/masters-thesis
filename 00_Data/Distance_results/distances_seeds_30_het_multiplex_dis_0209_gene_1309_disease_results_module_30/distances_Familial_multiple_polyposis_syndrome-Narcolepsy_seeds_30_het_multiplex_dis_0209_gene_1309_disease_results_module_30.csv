@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.0
+1,disease_on_symptoms,19,20,0.9474696356275305
+2,disease_on_drugs,25,21,0.06596273291925492

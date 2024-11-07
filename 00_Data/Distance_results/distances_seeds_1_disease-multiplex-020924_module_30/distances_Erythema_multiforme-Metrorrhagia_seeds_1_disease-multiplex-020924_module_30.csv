@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.14210526315789496
+1,disease_on_symptoms,16,17,1.0001671122994655
+2,disease_on_drugs,30,26,0.6579670329670331

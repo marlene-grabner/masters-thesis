@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,24,19,0.2635392829900838
+1,disease_on_symptoms,23,21,1.957415772633164
+2,disease_on_drugs,20,17,0.839864864864865

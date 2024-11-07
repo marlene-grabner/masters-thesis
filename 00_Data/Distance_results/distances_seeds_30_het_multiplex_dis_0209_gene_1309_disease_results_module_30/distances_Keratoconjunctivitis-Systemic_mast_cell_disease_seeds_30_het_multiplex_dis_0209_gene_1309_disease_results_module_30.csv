@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,0.2068965517241379
+1,disease_on_symptoms,20,25,1.1261111111111113
+2,disease_on_drugs,27,21,0.1706349206349207

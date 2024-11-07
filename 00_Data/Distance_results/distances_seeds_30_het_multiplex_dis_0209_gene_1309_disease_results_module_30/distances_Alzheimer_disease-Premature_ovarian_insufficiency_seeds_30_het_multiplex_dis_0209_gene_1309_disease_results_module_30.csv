@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,23,30,-0.16761006289308167
+1,disease_on_symptoms,19,18,0.3757309941520468
+2,disease_on_drugs,19,22,-0.2602404014470766

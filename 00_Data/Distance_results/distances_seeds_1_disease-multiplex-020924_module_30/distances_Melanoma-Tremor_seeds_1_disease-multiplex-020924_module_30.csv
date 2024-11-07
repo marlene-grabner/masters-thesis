@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Tremor nodes,sAB
+0,disease_on_genes,24,16,0.3812500000000001
+1,disease_on_symptoms,23,23,2.4782608695652173
+2,disease_on_drugs,22,16,1.3634868421052633

@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,-0.10613207547169812
+1,disease_on_symptoms,12,26,0.894399460188934
+2,disease_on_drugs,30,15,0.31666666666666665

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,22,27,0.20932110217824484
+1,disease_on_symptoms,24,19,1.0850418196654426
+2,disease_on_drugs,20,20,0.5999999999999999

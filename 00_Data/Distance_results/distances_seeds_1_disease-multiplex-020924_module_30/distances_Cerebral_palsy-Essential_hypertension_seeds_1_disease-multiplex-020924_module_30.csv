@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.1800986050986051
+1,disease_on_symptoms,16,14,0.6303571428571426
+2,disease_on_drugs,18,28,0.4642857142857144

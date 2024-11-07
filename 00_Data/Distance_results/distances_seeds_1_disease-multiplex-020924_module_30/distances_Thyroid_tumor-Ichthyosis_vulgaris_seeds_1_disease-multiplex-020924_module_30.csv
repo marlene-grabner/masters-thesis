@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,23,27,0.19774557165861517
+1,disease_on_symptoms,20,21,1.270993031358885
+2,disease_on_drugs,20,27,0.6132978723404257

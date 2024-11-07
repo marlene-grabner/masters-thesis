@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,21,0.23238095238095235
+1,disease_on_symptoms,18,22,2.0868686868686868
+2,disease_on_drugs,22,20,0.8273809523809523

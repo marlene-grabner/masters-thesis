@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,23,30,-0.49056603773584906
+1,disease_on_symptoms,23,15,-0.2794050343249428
+2,disease_on_drugs,22,28,-0.48331168831168825

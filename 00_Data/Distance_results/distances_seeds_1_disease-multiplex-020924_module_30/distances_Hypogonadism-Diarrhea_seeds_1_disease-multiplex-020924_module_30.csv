@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.08597883597883604
+1,disease_on_symptoms,12,19,0.572863610639502
+2,disease_on_drugs,30,26,0.5712454212454212

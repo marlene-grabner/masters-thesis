@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,22,-0.43861594118333547
+2,disease_on_drugs,25,28,0.14920485175202147

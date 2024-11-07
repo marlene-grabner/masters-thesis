@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.4234365867913501
+1,disease_on_symptoms,12,23,0.40041407867494816
+2,disease_on_drugs,27,27,1.2777777777777777

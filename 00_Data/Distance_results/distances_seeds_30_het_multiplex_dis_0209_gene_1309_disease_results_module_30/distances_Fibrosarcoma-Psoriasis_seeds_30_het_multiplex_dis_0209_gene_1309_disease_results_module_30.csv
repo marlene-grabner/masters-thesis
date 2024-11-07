@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,14,17,0.019043101111412053
+2,disease_on_drugs,26,30,0.009249084249084216

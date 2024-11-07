@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.09203296703296693
+1,disease_on_symptoms,18,22,-0.04444444444444451
+2,disease_on_drugs,26,25,-0.11695324283559594

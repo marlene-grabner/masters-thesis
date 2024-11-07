@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,23,30,0.3049494120864096
+1,disease_on_symptoms,19,20,1.9470647773279355
+2,disease_on_drugs,19,30,1.1224489795918369

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,14,15,0.45385878489326803
+2,disease_on_drugs,24,23,0.46806583410422453

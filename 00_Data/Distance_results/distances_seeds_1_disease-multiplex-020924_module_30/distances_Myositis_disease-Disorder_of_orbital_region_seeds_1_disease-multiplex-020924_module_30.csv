@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,-0.006654151022110977
+1,disease_on_symptoms,24,27,0.5718954248366013
+2,disease_on_drugs,28,16,0.4618506493506491

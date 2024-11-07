@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,28,-0.05626780626780625
+1,disease_on_symptoms,17,22,0.29679144385026746
+2,disease_on_drugs,24,15,-0.027884615384615508

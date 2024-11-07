@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.22090395480226
+1,disease_on_symptoms,16,12,0.7604166666666667
+2,disease_on_drugs,30,30,0.7

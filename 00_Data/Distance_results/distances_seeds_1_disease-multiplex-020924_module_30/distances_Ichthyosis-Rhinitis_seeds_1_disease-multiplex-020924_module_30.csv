@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.21111111111111103
+1,disease_on_symptoms,17,15,0.29522058823529407
+2,disease_on_drugs,24,22,0.36956521739130443

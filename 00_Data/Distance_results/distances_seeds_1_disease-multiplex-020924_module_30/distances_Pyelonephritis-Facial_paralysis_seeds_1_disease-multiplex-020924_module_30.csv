@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,23,14,0.10756253147557482
+1,disease_on_symptoms,21,23,1.6880764163372861
+2,disease_on_drugs,19,14,0.5454545454545454

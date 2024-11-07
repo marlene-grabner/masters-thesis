@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.1763157894736842
+1,disease_on_symptoms,17,18,0.6196545284780577
+2,disease_on_drugs,26,22,0.24431818181818166

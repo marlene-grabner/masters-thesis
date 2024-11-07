@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.23666666666666658
+1,disease_on_symptoms,16,26,0.8609203296703298
+2,disease_on_drugs,23,13,0.47435897435897445

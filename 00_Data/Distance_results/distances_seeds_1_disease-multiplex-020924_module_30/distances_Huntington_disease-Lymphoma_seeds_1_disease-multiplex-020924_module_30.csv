@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.1605311355311354
+1,disease_on_symptoms,16,21,1.2426399613899615
+2,disease_on_drugs,27,25,0.9407692307692308

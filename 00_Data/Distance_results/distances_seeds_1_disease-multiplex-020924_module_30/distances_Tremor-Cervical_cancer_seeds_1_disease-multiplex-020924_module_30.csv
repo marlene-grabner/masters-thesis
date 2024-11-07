@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,16,27,0.422615202411714
+1,disease_on_symptoms,23,23,2.0869565217391304
+2,disease_on_drugs,16,15,0.833266129032258

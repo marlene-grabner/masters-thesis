@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.4406432748538014
+1,disease_on_symptoms,14,15,-0.8652709359605913
+2,disease_on_drugs,29,26,-0.3839160839160838

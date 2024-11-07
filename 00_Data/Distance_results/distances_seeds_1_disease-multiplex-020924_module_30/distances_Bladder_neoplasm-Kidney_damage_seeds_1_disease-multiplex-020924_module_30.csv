@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.334782608695652
+1,disease_on_symptoms,20,26,1.2925585284280934
+2,disease_on_drugs,25,13,0.6761133603238867

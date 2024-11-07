@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,16,16,1.25
+2,disease_on_drugs,23,29,0.2791777188328912

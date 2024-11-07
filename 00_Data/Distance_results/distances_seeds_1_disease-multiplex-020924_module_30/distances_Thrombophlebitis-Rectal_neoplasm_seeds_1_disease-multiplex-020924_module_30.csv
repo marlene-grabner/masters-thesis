@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.20566502463054204
+1,disease_on_symptoms,15,21,1.1333333333333333
+2,disease_on_drugs,21,29,0.5655172413793106

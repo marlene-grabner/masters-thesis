@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,27,24,0.3935185185185186
+1,disease_on_symptoms,16,21,2.2537805662805663
+2,disease_on_drugs,18,18,0.44444444444444464

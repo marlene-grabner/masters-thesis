@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,25,29,-0.20242656449552998
+1,disease_on_symptoms,19,13,0.46141194331983804
+2,disease_on_drugs,22,28,-0.06779220779220796

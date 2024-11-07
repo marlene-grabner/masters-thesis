@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.10051626729008367
+1,disease_on_symptoms,25,22,0.8547775628626693
+2,disease_on_drugs,26,29,0.4199541837472871

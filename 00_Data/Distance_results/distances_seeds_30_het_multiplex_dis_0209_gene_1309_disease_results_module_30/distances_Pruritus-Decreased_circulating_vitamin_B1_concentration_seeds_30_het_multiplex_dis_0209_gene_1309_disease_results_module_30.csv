@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,-0.05360623781676421
+1,disease_on_symptoms,21,17,0.5931003980539584
+2,disease_on_drugs,27,25,0.19054131054131052

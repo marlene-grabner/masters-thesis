@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,0.19999999999999996
+1,disease_on_symptoms,19,12,0.3967176004527446
+2,disease_on_drugs,25,23,0.10282608695652184

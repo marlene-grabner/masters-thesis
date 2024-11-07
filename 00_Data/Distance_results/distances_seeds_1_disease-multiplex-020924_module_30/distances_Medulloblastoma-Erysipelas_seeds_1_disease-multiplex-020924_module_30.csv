@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,0.37169312169312185
+1,disease_on_symptoms,19,20,0.6914979757085022
+2,disease_on_drugs,24,27,0.5281862745098038

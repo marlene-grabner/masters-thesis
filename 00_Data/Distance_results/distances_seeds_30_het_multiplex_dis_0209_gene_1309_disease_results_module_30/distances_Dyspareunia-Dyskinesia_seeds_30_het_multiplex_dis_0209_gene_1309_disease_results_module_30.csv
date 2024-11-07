@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,20,15,0.47857142857142865
+2,disease_on_drugs,28,28,0.25

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,23,0.156986601039103
+1,disease_on_symptoms,17,16,1.9416778074866312
+2,disease_on_drugs,17,22,0.07692307692307687

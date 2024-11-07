@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,28,30,-0.12130541871921174
+1,disease_on_symptoms,18,11,0.499564611633577
+2,disease_on_drugs,25,21,-0.2504761904761905

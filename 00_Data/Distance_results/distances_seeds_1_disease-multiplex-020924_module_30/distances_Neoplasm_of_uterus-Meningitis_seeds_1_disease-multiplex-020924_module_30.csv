@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,0.31544378186846433
+1,disease_on_symptoms,19,20,0.9990890688259109
+2,disease_on_drugs,28,26,0.648809523809524

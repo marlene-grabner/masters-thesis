@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,28,28,0.08928571428571419
+1,disease_on_symptoms,19,20,1.1889338731443997
+2,disease_on_drugs,26,28,0.5740740740740742

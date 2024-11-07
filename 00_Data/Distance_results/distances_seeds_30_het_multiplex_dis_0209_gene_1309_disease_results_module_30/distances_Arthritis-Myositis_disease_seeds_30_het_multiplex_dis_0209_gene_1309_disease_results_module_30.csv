@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,20,18,0.10277777777777786
+2,disease_on_drugs,29,26,-0.24739570774053532

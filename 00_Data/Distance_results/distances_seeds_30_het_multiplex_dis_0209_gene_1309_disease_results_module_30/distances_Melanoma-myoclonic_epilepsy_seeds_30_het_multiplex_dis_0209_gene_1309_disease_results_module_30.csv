@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,27,30,-0.0009746588693957392
+1,disease_on_symptoms,23,16,1.2512541806020068
+2,disease_on_drugs,25,25,0.43999999999999995

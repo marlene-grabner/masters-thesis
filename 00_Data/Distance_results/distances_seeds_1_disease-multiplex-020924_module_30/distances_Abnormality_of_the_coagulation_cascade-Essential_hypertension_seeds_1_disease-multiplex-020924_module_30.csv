@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,23,28,-0.001141761052247059
+1,disease_on_symptoms,23,14,1.6093671311062616
+2,disease_on_drugs,18,28,0.6792615596963423

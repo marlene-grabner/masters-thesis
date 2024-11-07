@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,25,23,0.6777756286266923
+1,disease_on_symptoms,19,18,1.7886834202623678
+2,disease_on_drugs,13,18,1.5744416873449132

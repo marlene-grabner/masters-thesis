@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,18,28,0.3969116632160108
+1,disease_on_symptoms,28,19,1.1173612222044471
+2,disease_on_drugs,17,26,0.7591550036830472

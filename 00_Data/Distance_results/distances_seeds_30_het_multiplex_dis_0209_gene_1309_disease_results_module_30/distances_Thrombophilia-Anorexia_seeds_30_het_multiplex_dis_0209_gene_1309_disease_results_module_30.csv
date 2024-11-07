@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.08866995073891615
+1,disease_on_symptoms,18,13,0.9611938240970499
+2,disease_on_drugs,22,28,0.3803896103896105

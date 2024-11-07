@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.08379953379953387
+1,disease_on_symptoms,14,23,1.499748195400369
+2,disease_on_drugs,29,17,0.7020460358056266

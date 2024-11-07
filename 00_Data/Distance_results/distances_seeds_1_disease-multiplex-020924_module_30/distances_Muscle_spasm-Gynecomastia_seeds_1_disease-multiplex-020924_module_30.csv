@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,25,30,0.42727272727272725
+1,disease_on_symptoms,23,16,1.4188266443701227
+2,disease_on_drugs,19,24,0.9840116279069768

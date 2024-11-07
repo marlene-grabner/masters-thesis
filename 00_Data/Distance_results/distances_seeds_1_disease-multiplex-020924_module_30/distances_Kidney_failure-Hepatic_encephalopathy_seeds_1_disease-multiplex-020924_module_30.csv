@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,20,9,0.07049808429118776
+1,disease_on_symptoms,23,27,2.5819323671497583
+2,disease_on_drugs,18,9,0.8148148148148147

@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Uveitis nodes,sAB
+0,disease_on_genes,18,30,-0.04166666666666663
+1,disease_on_symptoms,21,20,1.7010452961672475
+2,disease_on_drugs,17,23,-0.025383631713555177

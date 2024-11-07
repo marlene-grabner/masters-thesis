@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.27117669978570036
+1,disease_on_symptoms,16,23,0.4512611482720179
+2,disease_on_drugs,27,27,0.7407407407407405

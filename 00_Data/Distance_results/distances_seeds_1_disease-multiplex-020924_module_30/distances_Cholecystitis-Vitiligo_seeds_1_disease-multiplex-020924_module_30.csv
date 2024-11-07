@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,25,24,0.5059353741496599
+1,disease_on_symptoms,19,22,2.2104971408565763
+2,disease_on_drugs,13,11,1.0865384615384617

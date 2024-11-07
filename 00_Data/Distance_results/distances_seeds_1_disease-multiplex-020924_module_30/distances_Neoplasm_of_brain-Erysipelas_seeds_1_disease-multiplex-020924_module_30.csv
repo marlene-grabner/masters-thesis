@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Erysipelas nodes,sAB
+0,disease_on_genes,22,28,0.3615584415584414
+1,disease_on_symptoms,23,20,1.2346814964610717
+2,disease_on_drugs,20,27,0.8648936170212767

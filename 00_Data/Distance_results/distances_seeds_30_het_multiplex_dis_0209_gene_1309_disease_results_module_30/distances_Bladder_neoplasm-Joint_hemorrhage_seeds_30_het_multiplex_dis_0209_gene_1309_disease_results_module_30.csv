@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,26,30,0.0535714285714286
+1,disease_on_symptoms,19,17,0.7704678362573099
+2,disease_on_drugs,25,26,0.4724736048265459

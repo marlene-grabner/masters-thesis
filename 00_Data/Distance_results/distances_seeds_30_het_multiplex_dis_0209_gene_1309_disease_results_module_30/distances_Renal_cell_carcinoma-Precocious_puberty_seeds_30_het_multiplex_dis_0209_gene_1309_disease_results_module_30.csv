@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,22,16,0.14593301435406714
+2,disease_on_drugs,22,27,-0.03789596646739479

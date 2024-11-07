@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,20,27,0.35328999211977963
+1,disease_on_symptoms,22,17,1.6589537913067325
+2,disease_on_drugs,15,20,0.9285714285714284

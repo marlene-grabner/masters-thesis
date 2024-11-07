@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,29,30,0.2881258523280732
+1,disease_on_symptoms,17,15,1.2167892156862745
+2,disease_on_drugs,30,26,0.6401098901098903

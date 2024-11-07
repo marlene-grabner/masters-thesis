@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.017241379310344862
+1,disease_on_symptoms,12,13,1.5217948717948717
+2,disease_on_drugs,21,28,0.1411564625850339

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,22,20,0.8805194805194807
+2,disease_on_drugs,30,18,0.45138888888888884

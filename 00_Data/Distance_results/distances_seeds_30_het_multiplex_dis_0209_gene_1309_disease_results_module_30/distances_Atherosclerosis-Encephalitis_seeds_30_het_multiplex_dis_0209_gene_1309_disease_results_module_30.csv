@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.05084745762711873
+1,disease_on_symptoms,14,13,0.4814814814814814
+2,disease_on_drugs,29,22,0.36168479931157416

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,-0.029090909090909278
+1,disease_on_symptoms,17,20,0.8079491255961846
+2,disease_on_drugs,28,21,0.31122448979591844

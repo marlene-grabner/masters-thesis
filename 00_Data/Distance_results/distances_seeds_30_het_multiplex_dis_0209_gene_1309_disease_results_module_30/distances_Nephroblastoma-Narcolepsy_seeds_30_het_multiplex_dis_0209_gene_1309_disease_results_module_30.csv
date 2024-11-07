@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,29,25,0.01979565772669223
+1,disease_on_symptoms,20,20,1.4249999999999998
+2,disease_on_drugs,24,21,-0.039484126984126844

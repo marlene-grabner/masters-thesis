@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.4137931034482758
+1,disease_on_symptoms,13,12,1.2146153846153847
+2,disease_on_drugs,29,21,0.7685714285714287

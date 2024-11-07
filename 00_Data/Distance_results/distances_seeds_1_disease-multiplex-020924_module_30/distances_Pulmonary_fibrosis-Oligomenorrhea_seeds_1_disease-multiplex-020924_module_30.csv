@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,24,28,0.5176282051282051
+1,disease_on_symptoms,22,12,1.6310160427807485
+2,disease_on_drugs,24,21,0.7285714285714286

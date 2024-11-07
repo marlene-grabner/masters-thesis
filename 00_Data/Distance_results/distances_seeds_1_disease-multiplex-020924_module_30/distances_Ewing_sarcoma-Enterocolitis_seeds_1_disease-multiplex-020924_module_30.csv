@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,24,27,0.44839324618736365
+1,disease_on_symptoms,25,21,1.2451345755693584
+2,disease_on_drugs,17,24,0.9303861788617884

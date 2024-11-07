@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,0.15740740740740744
+1,disease_on_symptoms,19,15,0.897626418988648
+2,disease_on_drugs,26,29,0.6353146853146854

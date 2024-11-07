@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,0.03682342502218283
+1,disease_on_symptoms,21,20,0.5108304297328687
+2,disease_on_drugs,24,20,0.20227272727272738

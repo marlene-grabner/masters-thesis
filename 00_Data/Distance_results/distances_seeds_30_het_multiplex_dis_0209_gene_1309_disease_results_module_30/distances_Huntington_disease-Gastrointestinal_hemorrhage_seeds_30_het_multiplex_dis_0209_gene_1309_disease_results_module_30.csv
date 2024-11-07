@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.05233990147783241
+1,disease_on_symptoms,17,20,0.17003179650238498
+2,disease_on_drugs,26,27,0.05652314142880166

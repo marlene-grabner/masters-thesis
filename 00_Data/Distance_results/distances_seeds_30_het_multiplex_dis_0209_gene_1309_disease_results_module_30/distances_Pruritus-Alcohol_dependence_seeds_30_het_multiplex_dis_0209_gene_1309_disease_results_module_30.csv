@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,30,0.01832358674463941
+1,disease_on_symptoms,21,18,0.8321123321123318
+2,disease_on_drugs,27,24,0.17592592592592582

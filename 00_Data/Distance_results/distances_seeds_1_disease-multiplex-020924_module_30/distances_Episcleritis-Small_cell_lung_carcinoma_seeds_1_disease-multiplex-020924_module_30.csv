@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,22,24,0.8717061923583664
+2,disease_on_drugs,29,25,0.15008939974457203

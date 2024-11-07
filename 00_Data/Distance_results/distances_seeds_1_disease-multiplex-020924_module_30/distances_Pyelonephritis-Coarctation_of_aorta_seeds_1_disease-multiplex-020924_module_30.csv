@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,23,27,0.5547826086956524
+1,disease_on_symptoms,21,14,1.8976190476190475
+2,disease_on_drugs,19,13,1.34375

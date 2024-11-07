@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.20945419103313823
+1,disease_on_symptoms,17,16,1.1444407308377897
+2,disease_on_drugs,27,27,0.962962962962963

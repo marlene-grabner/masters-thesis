@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.286904761904762
+1,disease_on_symptoms,14,15,0.5830049261083743
+2,disease_on_drugs,29,15,0.6151515151515152

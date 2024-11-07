@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.18622448979591844
+1,disease_on_symptoms,18,20,1.5457602339181284
+2,disease_on_drugs,26,19,0.22112010796221315

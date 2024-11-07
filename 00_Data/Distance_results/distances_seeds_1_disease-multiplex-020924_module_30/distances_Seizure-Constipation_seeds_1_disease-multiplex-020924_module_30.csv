@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Constipation nodes,sAB
+0,disease_on_genes,29,30,0.20367231638418093
+1,disease_on_symptoms,25,17,0.32375350140056014
+2,disease_on_drugs,28,27,0.2905723905723905

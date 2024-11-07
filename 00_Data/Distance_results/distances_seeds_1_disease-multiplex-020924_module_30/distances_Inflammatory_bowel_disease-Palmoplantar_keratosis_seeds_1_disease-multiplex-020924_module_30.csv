@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,17,26,0.4613095238095237
+1,disease_on_symptoms,27,19,1.1484024069836427
+2,disease_on_drugs,14,18,0.3740079365079365

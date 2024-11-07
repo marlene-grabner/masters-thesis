@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,24,14,0.575031328320802
+1,disease_on_symptoms,18,25,1.8993023255813952
+2,disease_on_drugs,18,10,0.8785714285714286

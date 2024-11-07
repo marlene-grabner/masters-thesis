@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.038181818181818206
+1,disease_on_symptoms,18,23,1.2181866383881232
+2,disease_on_drugs,25,24,0.410595238095238

@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,22,17,0.9103935280405868
+2,disease_on_drugs,28,24,0.07577838827838823

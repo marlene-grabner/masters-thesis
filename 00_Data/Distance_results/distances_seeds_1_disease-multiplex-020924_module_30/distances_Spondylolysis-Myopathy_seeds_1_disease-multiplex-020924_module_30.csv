@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Myopathy nodes,sAB
+0,disease_on_genes,27,18,0.32592592592592595
+1,disease_on_symptoms,19,21,1.0902882205513786
+2,disease_on_drugs,20,6,0.5006410256410256

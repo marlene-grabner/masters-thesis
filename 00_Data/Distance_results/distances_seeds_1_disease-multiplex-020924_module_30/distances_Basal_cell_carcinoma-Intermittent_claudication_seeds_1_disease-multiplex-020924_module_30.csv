@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.2970735785953176
+1,disease_on_symptoms,23,24,1.95777443724946
+2,disease_on_drugs,25,18,0.772609819121447

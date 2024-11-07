@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.2550000000000001
+1,disease_on_symptoms,17,27,0.28421469597940185
+2,disease_on_drugs,27,19,0.3048563437579457

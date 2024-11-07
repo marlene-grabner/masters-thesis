@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.6955776349113579
+1,disease_on_symptoms,16,17,-0.4275289661319073
+2,disease_on_drugs,23,26,-0.5523513753327418

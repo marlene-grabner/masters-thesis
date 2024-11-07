@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,21,22,0.7524665257223395
+2,disease_on_drugs,23,29,0.07703840387498584

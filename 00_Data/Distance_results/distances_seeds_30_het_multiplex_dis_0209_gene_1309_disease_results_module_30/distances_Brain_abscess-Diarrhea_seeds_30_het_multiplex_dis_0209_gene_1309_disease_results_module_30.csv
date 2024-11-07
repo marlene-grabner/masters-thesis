@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Diarrhea nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,21,21,0.4285714285714286
+2,disease_on_drugs,23,29,-0.1517414369738208

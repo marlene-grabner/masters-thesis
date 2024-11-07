@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,24,27,0.002178649237472685
+1,disease_on_symptoms,17,21,0.423264042459089
+2,disease_on_drugs,23,27,0.4147826086956523

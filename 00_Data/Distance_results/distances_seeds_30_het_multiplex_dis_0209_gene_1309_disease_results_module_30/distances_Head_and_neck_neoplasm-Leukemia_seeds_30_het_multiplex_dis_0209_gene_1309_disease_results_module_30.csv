@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.43333333333333324
+1,disease_on_symptoms,22,21,-0.9111295681063123
+2,disease_on_drugs,27,30,-0.4692982456140352

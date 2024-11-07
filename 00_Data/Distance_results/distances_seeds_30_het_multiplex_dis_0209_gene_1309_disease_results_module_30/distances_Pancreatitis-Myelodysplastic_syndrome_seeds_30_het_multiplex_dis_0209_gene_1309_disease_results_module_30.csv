@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,17,17,-0.08823529411764697
+2,disease_on_drugs,30,24,0.14907407407407414

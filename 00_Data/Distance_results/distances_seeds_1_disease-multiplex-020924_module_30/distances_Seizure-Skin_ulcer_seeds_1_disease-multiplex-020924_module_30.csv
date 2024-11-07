@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,29,30,0.3070621468926553
+1,disease_on_symptoms,25,19,1.9471770334928231
+2,disease_on_drugs,28,22,0.9090909090909092

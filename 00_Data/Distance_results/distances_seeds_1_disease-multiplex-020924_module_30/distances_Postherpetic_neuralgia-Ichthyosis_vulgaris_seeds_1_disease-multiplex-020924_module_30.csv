@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.08664717348927864
+1,disease_on_symptoms,15,21,0.4198412698412697
+2,disease_on_drugs,29,27,0.25061576354679804

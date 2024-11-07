@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,-0.07512229210342425
+1,disease_on_symptoms,21,20,0.6836236933797908
+2,disease_on_drugs,27,24,0.13671023965141615

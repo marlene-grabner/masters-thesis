@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,16,15,1.358266129032258
+2,disease_on_drugs,23,28,0.4723389355742298

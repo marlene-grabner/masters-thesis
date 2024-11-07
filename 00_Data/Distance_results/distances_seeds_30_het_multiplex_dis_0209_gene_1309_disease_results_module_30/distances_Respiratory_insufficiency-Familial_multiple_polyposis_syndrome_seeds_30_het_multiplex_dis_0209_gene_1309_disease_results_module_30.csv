@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,21,19,0.319172932330827
+2,disease_on_drugs,25,25,0.20000000000000018

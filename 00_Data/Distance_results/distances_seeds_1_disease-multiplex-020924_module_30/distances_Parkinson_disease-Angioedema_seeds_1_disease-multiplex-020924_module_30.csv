@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Angioedema nodes,sAB
+0,disease_on_genes,21,29,0.3460884353741496
+1,disease_on_symptoms,20,17,1.1926073131955484
+2,disease_on_drugs,19,25,0.8863636363636365

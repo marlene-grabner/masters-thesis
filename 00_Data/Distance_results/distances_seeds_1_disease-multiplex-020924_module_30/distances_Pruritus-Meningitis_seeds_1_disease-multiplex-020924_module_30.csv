@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,-0.0006130268199233679
+1,disease_on_symptoms,19,20,0.4808704453441297
+2,disease_on_drugs,24,26,0.1399999999999999

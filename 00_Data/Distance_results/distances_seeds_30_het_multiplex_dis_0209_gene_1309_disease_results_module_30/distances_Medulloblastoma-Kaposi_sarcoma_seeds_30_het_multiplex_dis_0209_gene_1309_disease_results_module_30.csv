@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,22,16,0.06997607655502369
+2,disease_on_drugs,26,28,0.05799755799755779

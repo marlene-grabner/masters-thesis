@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,24,30,0.35370370370370385
+1,disease_on_symptoms,23,14,1.206479771697163
+2,disease_on_drugs,22,24,0.4139492753623186

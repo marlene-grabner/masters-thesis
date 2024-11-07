@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,28,24,0.13301282051282026
+1,disease_on_symptoms,16,19,0.7390037593984964
+2,disease_on_drugs,23,19,-0.16732047510079573

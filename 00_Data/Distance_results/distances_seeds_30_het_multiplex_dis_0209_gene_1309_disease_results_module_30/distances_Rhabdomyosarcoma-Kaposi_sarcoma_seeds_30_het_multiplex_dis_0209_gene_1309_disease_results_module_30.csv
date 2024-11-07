@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,30,-0.13559322033898302
+1,disease_on_symptoms,19,16,0.24530075187969924
+2,disease_on_drugs,29,28,0.08672543427534363

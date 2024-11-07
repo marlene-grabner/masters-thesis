@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,28,25,0.055860805860805884
+1,disease_on_symptoms,19,20,1.1517543859649124
+2,disease_on_drugs,26,21,-0.0263424518743669

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.20504926108374377
+1,disease_on_symptoms,13,19,0.6428390688259109
+2,disease_on_drugs,29,26,0.25349650349650354

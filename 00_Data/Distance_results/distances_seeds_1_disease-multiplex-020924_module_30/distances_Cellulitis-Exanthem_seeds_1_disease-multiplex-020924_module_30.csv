@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,22,28,0.3197278911564625
+1,disease_on_symptoms,26,26,1.0384615384615388
+2,disease_on_drugs,12,28,0.6571428571428573

@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.10682261208577004
+1,disease_on_symptoms,20,16,0.44513888888888875
+2,disease_on_drugs,29,27,0.5713373471994161

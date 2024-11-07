@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Peritonitis nodes,sAB
+0,disease_on_genes,23,30,-0.07547169811320753
+1,disease_on_symptoms,23,14,0.5218650327345977
+2,disease_on_drugs,22,24,-0.019186429512516368

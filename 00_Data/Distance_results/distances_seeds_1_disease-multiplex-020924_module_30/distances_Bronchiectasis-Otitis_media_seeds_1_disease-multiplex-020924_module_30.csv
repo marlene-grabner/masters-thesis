@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.16831287745957524
+1,disease_on_symptoms,15,22,0.11908271908271906
+2,disease_on_drugs,26,29,0.20072341451651798

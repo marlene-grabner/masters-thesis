@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,23,0.2559462915601023
+2,disease_on_drugs,25,30,0.30181818181818176

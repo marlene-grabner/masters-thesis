@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,25,24,0.6713265306122449
+1,disease_on_symptoms,19,21,1.522681704260652
+2,disease_on_drugs,13,18,1.3531155224703613

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Propionic_acidemia nodes,sAB
+0,disease_on_genes,30,22,-0.028205128205128105
+1,disease_on_symptoms,14,17,0.7053402005963676
+2,disease_on_drugs,26,21,0.31155015197568403

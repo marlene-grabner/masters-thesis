@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Glaucoma nodes,sAB
+0,disease_on_genes,25,30,-0.293030303030303
+1,disease_on_symptoms,21,18,-0.30311355311355315
+2,disease_on_drugs,24,28,-0.18910256410256432

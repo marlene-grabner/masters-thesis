@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,14,21,0.2952380952380955
+2,disease_on_drugs,29,29,-0.0862068965517242

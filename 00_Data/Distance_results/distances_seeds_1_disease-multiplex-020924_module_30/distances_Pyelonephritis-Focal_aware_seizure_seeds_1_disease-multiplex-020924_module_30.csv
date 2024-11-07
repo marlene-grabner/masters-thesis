@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,0.3193979933110369
+1,disease_on_symptoms,21,15,1.9777777777777779
+2,disease_on_drugs,19,29,1.0625

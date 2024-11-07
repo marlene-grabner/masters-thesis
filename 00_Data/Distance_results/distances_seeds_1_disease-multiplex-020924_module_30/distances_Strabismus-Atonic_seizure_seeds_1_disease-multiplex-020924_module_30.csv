@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,13,29,0.17689781482884936
+1,disease_on_symptoms,26,16,0.7907509157509156
+2,disease_on_drugs,9,24,0.18686868686868685

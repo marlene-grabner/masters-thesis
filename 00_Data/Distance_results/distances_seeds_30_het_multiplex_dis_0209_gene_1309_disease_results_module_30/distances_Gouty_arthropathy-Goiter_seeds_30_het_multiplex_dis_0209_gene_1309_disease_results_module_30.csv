@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,0.3148148148148149
+1,disease_on_symptoms,18,12,0.880555555555556
+2,disease_on_drugs,23,18,0.22908566042182166

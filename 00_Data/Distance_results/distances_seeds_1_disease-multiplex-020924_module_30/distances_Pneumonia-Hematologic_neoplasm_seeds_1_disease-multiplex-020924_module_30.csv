@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.31282051282051304
+1,disease_on_symptoms,26,24,0.7042948717948718
+2,disease_on_drugs,28,19,0.8309070548712207

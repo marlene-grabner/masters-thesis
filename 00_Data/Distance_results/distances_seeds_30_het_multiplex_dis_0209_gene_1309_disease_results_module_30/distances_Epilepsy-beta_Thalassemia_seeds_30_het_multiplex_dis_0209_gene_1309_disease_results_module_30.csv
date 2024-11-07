@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,21,13,-0.009696186166774368
+2,disease_on_drugs,29,24,0.02424907829104317

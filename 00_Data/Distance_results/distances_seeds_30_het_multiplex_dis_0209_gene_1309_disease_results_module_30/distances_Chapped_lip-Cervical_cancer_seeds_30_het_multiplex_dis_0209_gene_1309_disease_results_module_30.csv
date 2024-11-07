@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,28,0.03703703703703698
+1,disease_on_symptoms,20,22,0.7420995670995674
+2,disease_on_drugs,23,15,-0.06414950419527088

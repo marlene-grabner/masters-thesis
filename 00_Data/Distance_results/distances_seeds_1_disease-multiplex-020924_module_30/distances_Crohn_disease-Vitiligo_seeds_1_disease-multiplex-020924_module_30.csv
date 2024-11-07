@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Vitiligo nodes,sAB
+0,disease_on_genes,25,24,0.08333333333333348
+1,disease_on_symptoms,20,22,1.4554112554112555
+2,disease_on_drugs,21,11,0.13988095238095233

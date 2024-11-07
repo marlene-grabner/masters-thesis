@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.2511904761904762
+1,disease_on_symptoms,20,16,0.7749999999999999
+2,disease_on_drugs,25,23,0.6838768115942029

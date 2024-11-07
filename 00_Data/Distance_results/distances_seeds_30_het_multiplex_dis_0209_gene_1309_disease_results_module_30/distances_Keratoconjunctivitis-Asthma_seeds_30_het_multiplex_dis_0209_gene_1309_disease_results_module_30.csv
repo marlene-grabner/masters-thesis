@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,-0.03851851851851851
+1,disease_on_symptoms,20,20,1.125
+2,disease_on_drugs,27,22,0.10198928056070922

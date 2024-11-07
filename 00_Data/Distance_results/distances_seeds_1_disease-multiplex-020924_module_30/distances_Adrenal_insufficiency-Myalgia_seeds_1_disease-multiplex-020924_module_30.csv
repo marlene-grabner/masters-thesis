@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Myalgia nodes,sAB
+0,disease_on_genes,17,30,0.16777221526908637
+1,disease_on_symptoms,21,16,1.1836389961389961
+2,disease_on_drugs,14,29,0.7906976744186047

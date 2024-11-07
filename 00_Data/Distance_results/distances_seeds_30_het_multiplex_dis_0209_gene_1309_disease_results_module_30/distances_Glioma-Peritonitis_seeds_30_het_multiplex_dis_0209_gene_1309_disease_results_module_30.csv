@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Peritonitis nodes,sAB
+0,disease_on_genes,22,30,-0.05769230769230771
+1,disease_on_symptoms,21,14,0.7928571428571427
+2,disease_on_drugs,21,24,-0.08670634920634934

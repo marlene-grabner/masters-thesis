@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,21,0.9046144773698952
+2,disease_on_drugs,24,29,0.44232541747993936

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Goiter nodes,sAB
+0,disease_on_genes,22,26,0.45600498791988153
+1,disease_on_symptoms,26,15,1.0734834271419635
+2,disease_on_drugs,12,16,1.5

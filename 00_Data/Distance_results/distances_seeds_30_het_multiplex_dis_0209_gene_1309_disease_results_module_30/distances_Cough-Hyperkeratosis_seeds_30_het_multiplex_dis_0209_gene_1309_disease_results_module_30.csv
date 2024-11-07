@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,-0.00036284470246727984
+1,disease_on_symptoms,22,25,1.0377369439071569
+2,disease_on_drugs,24,25,0.20401360544217684

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,14,17,0.5828815397126592
+1,disease_on_symptoms,25,21,3.3903105590062106
+2,disease_on_drugs,10,14,0.8666666666666667

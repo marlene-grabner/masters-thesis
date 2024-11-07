@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.07272727272727275
+1,disease_on_symptoms,21,20,1.577322880371661
+2,disease_on_drugs,29,21,-0.040394088669950534

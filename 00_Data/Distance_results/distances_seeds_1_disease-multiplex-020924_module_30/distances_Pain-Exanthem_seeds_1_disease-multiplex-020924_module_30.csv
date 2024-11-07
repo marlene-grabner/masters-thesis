@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.054131054131054235
+1,disease_on_symptoms,21,26,0.6935936404021512
+2,disease_on_drugs,26,28,0.16661579161579154

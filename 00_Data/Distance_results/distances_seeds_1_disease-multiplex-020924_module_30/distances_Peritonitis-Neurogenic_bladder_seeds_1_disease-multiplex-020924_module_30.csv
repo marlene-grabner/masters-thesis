@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,17,17,0.5
+2,disease_on_drugs,28,26,0.3161375661375663

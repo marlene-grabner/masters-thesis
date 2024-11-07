@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,27,-0.18945868945868938
+1,disease_on_symptoms,25,22,-0.17288201160541572
+2,disease_on_drugs,24,26,-0.0016666666666664831

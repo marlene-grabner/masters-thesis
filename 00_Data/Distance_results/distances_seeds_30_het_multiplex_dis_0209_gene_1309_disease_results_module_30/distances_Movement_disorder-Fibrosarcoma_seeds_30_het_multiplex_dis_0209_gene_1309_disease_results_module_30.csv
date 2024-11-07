@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,14,-0.25704798048251565
+2,disease_on_drugs,26,26,-0.1153846153846152

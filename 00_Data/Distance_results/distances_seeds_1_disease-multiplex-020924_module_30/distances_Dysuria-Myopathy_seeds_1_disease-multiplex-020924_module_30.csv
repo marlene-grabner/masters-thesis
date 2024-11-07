@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,18,0.4611559468492703
+1,disease_on_symptoms,16,21,1.2637146074646073
+2,disease_on_drugs,23,6,0.5702148925537232

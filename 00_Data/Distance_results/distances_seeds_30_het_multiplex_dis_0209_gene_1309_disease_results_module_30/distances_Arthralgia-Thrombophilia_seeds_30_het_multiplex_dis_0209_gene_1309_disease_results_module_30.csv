@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,17,18,1.0297385620915034
+2,disease_on_drugs,30,22,0.30489510489510496

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.13587570621468936
+1,disease_on_symptoms,14,15,0.950410509031199
+2,disease_on_drugs,24,29,0.7716194968553458

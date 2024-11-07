@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,-0.2264150943396226
+1,disease_on_symptoms,12,22,0.17691622103386817
+2,disease_on_drugs,29,21,-0.4146798029556651

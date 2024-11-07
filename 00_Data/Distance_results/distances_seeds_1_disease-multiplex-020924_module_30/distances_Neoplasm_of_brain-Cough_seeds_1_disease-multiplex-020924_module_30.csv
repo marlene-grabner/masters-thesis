@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Cough nodes,sAB
+0,disease_on_genes,22,27,0.16283584140727014
+1,disease_on_symptoms,23,21,1.8771409749670618
+2,disease_on_drugs,20,27,0.8065799842395587

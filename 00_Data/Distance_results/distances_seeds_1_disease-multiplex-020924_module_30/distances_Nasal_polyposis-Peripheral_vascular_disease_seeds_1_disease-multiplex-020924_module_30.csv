@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,15,23,0.3625476735316553
+1,disease_on_symptoms,25,16,1.7763719512195124
+2,disease_on_drugs,10,22,0.6187499999999999

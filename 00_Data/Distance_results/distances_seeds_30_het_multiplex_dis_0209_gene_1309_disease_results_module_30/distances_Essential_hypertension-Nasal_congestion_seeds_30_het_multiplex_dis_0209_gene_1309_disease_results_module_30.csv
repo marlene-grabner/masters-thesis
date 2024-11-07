@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,-0.06896551724137934
+1,disease_on_symptoms,13,14,0.5979853479853476
+2,disease_on_drugs,28,25,-0.09733153638814018

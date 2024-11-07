@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,-0.15094339622641506
+1,disease_on_symptoms,21,20,0.26260162601626025
+2,disease_on_drugs,23,24,-0.045405488744989286

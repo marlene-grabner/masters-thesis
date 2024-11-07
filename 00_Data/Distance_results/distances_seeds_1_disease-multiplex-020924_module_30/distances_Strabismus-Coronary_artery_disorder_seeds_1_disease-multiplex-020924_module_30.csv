@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,13,19,0.4207995951417005
+1,disease_on_symptoms,26,21,2.0502493959940766
+2,disease_on_drugs,9,17,0.25213675213675213

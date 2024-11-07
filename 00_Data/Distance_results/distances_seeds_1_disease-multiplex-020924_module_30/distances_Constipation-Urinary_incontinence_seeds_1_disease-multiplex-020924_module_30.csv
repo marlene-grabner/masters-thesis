@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,26,0.2415750915750916
+1,disease_on_symptoms,17,20,0.9032193958664547
+2,disease_on_drugs,27,20,0.6410559495665877

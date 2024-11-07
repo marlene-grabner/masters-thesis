@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,0.007483601669648232
+1,disease_on_symptoms,16,25,3.0714939024390246
+2,disease_on_drugs,27,8,1.0285714285714285

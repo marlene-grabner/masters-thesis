@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,17,16,-0.42318404634581097
+2,disease_on_drugs,28,27,-0.4344276094276095

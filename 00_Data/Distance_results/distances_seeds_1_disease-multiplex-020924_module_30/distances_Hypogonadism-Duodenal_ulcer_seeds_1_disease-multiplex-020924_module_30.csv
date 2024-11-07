@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.26253132832080217
+1,disease_on_symptoms,12,17,1.2503380662609873
+2,disease_on_drugs,30,28,1.138505747126437

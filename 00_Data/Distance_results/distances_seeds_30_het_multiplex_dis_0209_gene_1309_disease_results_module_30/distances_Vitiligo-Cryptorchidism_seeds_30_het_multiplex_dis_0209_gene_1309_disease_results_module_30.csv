@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.01599671862182106
+1,disease_on_symptoms,19,19,0.9210526315789471
+2,disease_on_drugs,25,21,0.09842650103519657

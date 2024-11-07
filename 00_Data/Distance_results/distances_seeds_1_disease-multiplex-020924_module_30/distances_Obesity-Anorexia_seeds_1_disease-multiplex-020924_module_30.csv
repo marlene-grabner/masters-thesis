@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,17,0.07242449752709668
+1,disease_on_symptoms,20,25,1.0355555555555553
+2,disease_on_drugs,27,13,1.0495014245014245

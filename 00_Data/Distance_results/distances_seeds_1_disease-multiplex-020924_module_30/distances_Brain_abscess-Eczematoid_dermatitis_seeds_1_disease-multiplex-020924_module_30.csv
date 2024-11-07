@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,27,28,0.19897787397787403
+1,disease_on_symptoms,21,24,0.7115079365079364
+2,disease_on_drugs,23,28,0.16718426501035188

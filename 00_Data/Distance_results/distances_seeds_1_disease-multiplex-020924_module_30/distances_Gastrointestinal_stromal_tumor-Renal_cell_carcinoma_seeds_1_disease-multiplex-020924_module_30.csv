@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,23,25,-0.16869565217391314
+1,disease_on_symptoms,20,24,0.07651515151515142
+2,disease_on_drugs,19,20,0.02564102564102555

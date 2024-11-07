@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,0.03389830508474567
+1,disease_on_symptoms,13,16,-0.0818965517241379
+2,disease_on_drugs,22,28,0.06564935064935074

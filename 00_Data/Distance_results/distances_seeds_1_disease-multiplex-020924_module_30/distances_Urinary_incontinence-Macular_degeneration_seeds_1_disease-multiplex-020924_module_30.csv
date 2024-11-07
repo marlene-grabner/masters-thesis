@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.3487179487179488
+1,disease_on_symptoms,20,15,0.48690476190476195
+2,disease_on_drugs,20,21,1.4152148664343787

@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.35593220338983056
+1,disease_on_symptoms,15,16,-0.06411290322580654
+2,disease_on_drugs,28,29,-0.24441491660184944

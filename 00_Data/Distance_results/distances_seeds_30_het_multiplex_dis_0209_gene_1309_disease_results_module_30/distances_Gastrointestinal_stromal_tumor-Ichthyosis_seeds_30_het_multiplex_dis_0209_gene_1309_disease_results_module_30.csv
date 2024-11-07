@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.05233990147783241
+1,disease_on_symptoms,19,18,0.27315473368104914
+2,disease_on_drugs,28,25,0.1327223719676549

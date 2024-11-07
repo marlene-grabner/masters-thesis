@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,28,29,0.26253132832080217
+1,disease_on_symptoms,15,14,2.0323481116584565
+2,disease_on_drugs,21,28,0.653061224489796

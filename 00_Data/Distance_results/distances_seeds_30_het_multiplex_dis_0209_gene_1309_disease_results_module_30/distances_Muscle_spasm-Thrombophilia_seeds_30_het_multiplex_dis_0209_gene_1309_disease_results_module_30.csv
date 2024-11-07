@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,15,18,0.9550505050505049
+2,disease_on_drugs,29,22,0.18604401008052118

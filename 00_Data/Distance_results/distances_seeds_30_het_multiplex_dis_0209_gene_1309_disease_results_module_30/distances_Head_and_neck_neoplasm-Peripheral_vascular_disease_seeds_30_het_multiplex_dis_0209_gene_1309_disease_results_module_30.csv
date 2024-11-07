@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,-0.14575757575757575
+1,disease_on_symptoms,22,17,0.2251131221719458
+2,disease_on_drugs,27,25,0.07461538461538453

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Nocturia nodes,sAB
+0,disease_on_genes,21,21,0.32539682539682535
+1,disease_on_symptoms,22,24,2.0521245059288535
+2,disease_on_drugs,21,14,0.55

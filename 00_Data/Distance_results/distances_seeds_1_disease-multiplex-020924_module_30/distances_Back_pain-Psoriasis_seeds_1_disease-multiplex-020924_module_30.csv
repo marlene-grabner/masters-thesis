@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.018883415435139606
+1,disease_on_symptoms,16,21,0.18536840411840405
+2,disease_on_drugs,23,28,0.3172268907563027

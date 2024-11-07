@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,14,17,-0.8586337760910815
+2,disease_on_drugs,27,25,-0.28239316239316237

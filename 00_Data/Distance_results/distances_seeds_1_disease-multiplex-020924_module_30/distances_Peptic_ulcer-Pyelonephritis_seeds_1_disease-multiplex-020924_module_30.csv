@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,28,23,0.043326026062598944
+1,disease_on_symptoms,14,21,0.8976190476190478
+2,disease_on_drugs,28,19,0.574468085106383

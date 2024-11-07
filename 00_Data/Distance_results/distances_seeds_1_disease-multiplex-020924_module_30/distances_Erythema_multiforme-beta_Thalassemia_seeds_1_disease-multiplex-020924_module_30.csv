@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.533100233100233
+1,disease_on_symptoms,16,21,2.8164012226512227
+2,disease_on_drugs,30,6,0.38888888888888906

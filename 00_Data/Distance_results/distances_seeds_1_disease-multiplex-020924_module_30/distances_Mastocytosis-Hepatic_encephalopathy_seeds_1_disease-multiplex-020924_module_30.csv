@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,18,9,-0.0092592592592593
+1,disease_on_symptoms,28,27,2.0573953823953826
+2,disease_on_drugs,17,9,0.13348416289592757

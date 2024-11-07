@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.2229064039408868
+1,disease_on_symptoms,13,20,1.2205128205128204
+2,disease_on_drugs,23,27,0.6147826086956523

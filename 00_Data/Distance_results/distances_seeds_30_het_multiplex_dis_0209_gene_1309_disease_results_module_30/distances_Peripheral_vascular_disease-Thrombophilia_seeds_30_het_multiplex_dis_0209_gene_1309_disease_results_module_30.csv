@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,25,27,-0.11615384615384616
+1,disease_on_symptoms,17,18,0.4860410830999067
+2,disease_on_drugs,25,22,0.020754352030947665

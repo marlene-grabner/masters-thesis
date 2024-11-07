@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.03808525506638705
+1,disease_on_symptoms,21,19,0.8031328320802005
+2,disease_on_drugs,26,24,0.36044871794871813

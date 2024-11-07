@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.6222527472527475
+1,disease_on_symptoms,21,25,0.4821532091097309
+2,disease_on_drugs,24,7,1.15639400921659

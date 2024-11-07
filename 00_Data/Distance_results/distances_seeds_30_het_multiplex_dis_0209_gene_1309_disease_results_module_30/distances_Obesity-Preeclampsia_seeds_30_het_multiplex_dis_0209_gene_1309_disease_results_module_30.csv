@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,27,-0.2592592592592593
+1,disease_on_symptoms,18,18,0.36111111111111116
+2,disease_on_drugs,25,22,-0.27601547388781433

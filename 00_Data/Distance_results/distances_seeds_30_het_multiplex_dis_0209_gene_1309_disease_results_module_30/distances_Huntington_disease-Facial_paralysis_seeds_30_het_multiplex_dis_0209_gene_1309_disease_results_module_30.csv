@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.05769230769230771
+1,disease_on_symptoms,17,21,0.18966533982013867
+2,disease_on_drugs,26,17,0.24302851731032304

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,20,0.0364069952305246
+2,disease_on_drugs,26,23,-0.21983141082519952

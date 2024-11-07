@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Esophagitis nodes,sAB
+0,disease_on_genes,29,24,0.24498327759197336
+1,disease_on_symptoms,25,23,1.582210144927536
+2,disease_on_drugs,28,20,1.0583333333333336

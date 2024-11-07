@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Leukemia nodes,sAB
+0,disease_on_genes,24,18,0.23809523809523814
+1,disease_on_symptoms,17,27,0.8497722321251735
+2,disease_on_drugs,23,17,0.34654731457800514

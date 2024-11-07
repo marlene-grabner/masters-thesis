@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.3688127090301003
+1,disease_on_symptoms,21,27,1.0866402116402116
+2,disease_on_drugs,24,19,0.48225214198286404

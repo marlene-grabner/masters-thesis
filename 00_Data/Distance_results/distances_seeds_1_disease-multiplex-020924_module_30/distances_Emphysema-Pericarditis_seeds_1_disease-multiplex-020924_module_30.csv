@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,-0.034848484848484795
+1,disease_on_symptoms,14,22,0.6475468975468976
+2,disease_on_drugs,29,25,0.1837037037037037

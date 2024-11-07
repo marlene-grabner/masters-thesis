@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,27,22,0.017857142857143016
+1,disease_on_symptoms,14,20,0.8443277310924369
+2,disease_on_drugs,13,19,0.009868421052631415

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.3666666666666667
+1,disease_on_symptoms,18,21,-0.6523199023199024
+2,disease_on_drugs,30,29,-0.39044418468731723

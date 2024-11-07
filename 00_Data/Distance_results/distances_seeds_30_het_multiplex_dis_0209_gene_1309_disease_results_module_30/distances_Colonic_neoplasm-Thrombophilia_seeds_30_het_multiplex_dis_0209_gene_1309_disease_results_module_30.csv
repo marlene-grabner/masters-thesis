@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.0008771929824562541
+1,disease_on_symptoms,19,18,0.5699778726094515
+2,disease_on_drugs,29,22,0.28712582211568005

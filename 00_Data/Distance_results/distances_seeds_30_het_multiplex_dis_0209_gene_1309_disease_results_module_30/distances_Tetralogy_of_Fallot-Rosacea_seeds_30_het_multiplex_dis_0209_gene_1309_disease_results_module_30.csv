@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.20000000000000018
+1,disease_on_symptoms,19,18,0.08262209577999058
+2,disease_on_drugs,20,30,-0.3383333333333334

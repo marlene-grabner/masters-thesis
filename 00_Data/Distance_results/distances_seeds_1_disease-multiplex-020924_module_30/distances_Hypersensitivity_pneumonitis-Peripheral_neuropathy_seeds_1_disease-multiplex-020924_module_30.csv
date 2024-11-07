@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,24,30,0.11851851851851847
+1,disease_on_symptoms,23,20,1.4911021233569262
+2,disease_on_drugs,24,24,0.7916666666666667

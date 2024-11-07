@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,18,30,0.2055555555555555
+1,disease_on_symptoms,28,14,0.49404761904761907
+2,disease_on_drugs,17,24,0.13985533237685321

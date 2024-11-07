@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.05476190476190479
+1,disease_on_symptoms,20,15,0.2523809523809524
+2,disease_on_drugs,27,21,0.19940476190476186

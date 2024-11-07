@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Dermatitis nodes,sAB
+0,disease_on_genes,26,26,0.23567119155354455
+1,disease_on_symptoms,23,25,1.3545652173913043
+2,disease_on_drugs,25,24,0.6318027210884356

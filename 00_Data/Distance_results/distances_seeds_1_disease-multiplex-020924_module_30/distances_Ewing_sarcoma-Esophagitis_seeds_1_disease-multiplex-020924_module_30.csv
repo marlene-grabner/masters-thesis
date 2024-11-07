@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Esophagitis nodes,sAB
+0,disease_on_genes,24,24,0.4259366327474561
+1,disease_on_symptoms,25,23,1.1505434782608694
+2,disease_on_drugs,17,20,1.029054054054054

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,25,30,0.34696969696969693
+1,disease_on_symptoms,19,17,0.8255073959408326
+2,disease_on_drugs,25,17,0.07327731092436962

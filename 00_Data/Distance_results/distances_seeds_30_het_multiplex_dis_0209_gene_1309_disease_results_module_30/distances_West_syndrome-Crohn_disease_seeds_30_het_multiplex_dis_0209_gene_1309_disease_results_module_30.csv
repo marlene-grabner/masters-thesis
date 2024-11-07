@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.1964285714285714
+1,disease_on_symptoms,13,22,1.526923076923077
+2,disease_on_drugs,19,24,0.4577213382292942

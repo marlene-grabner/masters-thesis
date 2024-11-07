@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,17,17,0.5588235294117649
+2,disease_on_drugs,25,26,0.1171644042232276

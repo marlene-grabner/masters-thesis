@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.3534113060428852
+1,disease_on_symptoms,20,18,1.6902046783625728
+2,disease_on_drugs,29,21,1.2378981937602624

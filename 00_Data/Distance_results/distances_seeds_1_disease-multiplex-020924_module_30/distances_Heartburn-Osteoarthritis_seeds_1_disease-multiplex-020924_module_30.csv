@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,24,25,0.12073129251700698
+1,disease_on_symptoms,20,20,1.05
+2,disease_on_drugs,22,21,0.6516913319238902

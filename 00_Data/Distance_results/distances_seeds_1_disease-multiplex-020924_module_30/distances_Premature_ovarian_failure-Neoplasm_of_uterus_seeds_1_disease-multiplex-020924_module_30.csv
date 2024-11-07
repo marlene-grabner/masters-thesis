@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,28,28,0.08928571428571441
+1,disease_on_symptoms,21,19,0.5811403508771931
+2,disease_on_drugs,21,28,0.05697278911564596

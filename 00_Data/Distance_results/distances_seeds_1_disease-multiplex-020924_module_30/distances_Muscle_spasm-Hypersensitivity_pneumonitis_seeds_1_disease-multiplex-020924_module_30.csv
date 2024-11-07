@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,24,0.2673469387755101
+1,disease_on_symptoms,23,23,1.5434782608695654
+2,disease_on_drugs,19,24,0.9534883720930232

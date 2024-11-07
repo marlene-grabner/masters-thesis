@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,10,0.6571571571571571
+1,disease_on_symptoms,18,27,2.014814814814815
+2,disease_on_drugs,21,9,1.0190476190476192

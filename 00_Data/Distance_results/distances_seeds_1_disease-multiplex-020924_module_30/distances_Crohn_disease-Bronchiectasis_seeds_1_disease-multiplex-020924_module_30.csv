@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,25,30,0.21944444444444433
+1,disease_on_symptoms,20,15,0.8261904761904759
+2,disease_on_drugs,21,26,0.3820045203023925

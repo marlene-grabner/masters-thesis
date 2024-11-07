@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,17,23,0.2056159420289856
+1,disease_on_symptoms,27,21,1.819775132275132
+2,disease_on_drugs,14,21,0.607142857142857

@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.051139684395090534
+1,disease_on_symptoms,15,13,-0.25567765567765566
+2,disease_on_drugs,24,28,0.3019688644688645

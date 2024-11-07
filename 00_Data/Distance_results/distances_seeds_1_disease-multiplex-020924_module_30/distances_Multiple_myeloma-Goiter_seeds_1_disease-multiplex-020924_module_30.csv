@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.17307692307692313
+1,disease_on_symptoms,21,15,0.16666666666666674
+2,disease_on_drugs,25,16,0.2526829268292683

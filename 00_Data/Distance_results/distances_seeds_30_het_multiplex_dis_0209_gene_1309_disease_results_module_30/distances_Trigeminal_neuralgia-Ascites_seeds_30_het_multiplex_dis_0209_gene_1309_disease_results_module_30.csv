@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,15,22,-0.2584357084357085
+2,disease_on_drugs,25,27,-0.11430199430199428

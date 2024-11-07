@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,20,22,-0.056926406926406825
+2,disease_on_drugs,25,30,-0.07000000000000006

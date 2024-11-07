@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,27,25,-0.2308831908831911
+1,disease_on_symptoms,19,22,0.20332010736375317
+2,disease_on_drugs,27,21,-0.06547619047619035

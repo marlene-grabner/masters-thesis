@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.1043859649122807
+1,disease_on_symptoms,15,21,0.21111111111111103
+2,disease_on_drugs,30,23,-0.09757998359310904

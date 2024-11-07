@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,17,18,0.9757703081232494
+2,disease_on_drugs,26,29,0.07489751627682661

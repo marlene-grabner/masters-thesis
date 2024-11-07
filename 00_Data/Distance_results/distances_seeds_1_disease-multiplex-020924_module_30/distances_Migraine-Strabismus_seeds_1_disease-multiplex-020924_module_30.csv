@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,-0.0556946929039952
+1,disease_on_symptoms,14,26,0.10027472527472536
+2,disease_on_drugs,29,9,-0.1871345029239766

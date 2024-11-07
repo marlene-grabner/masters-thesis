@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.011663539712320148
+1,disease_on_symptoms,21,27,-0.23511904761904767
+2,disease_on_drugs,25,13,0.03894736842105262

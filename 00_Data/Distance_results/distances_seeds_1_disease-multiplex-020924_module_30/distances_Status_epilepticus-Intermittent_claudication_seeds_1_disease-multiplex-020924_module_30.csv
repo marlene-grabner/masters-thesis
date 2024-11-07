@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,20,0.31592188599577753
+1,disease_on_symptoms,17,24,2.131067670970827
+2,disease_on_drugs,30,18,0.5138888888888888

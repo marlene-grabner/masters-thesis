@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,30,0.12085769980506811
+1,disease_on_symptoms,21,13,1.259426847662142
+2,disease_on_drugs,25,21,0.008654244306418146

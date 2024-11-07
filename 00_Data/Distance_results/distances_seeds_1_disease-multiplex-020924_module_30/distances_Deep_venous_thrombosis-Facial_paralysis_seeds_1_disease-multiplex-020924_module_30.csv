@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,14,0.23214285714285698
+1,disease_on_symptoms,14,23,2.3201695484304183
+2,disease_on_drugs,24,14,0.7894736842105263

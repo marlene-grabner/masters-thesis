@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.31000000000000005
+1,disease_on_symptoms,17,23,0.9342710997442452
+2,disease_on_drugs,28,17,0.876704014939309

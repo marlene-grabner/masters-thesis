@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,28,25,0.10981132075471689
+1,disease_on_symptoms,21,23,0.5085638998682476
+2,disease_on_drugs,21,23,0.38617541878411443

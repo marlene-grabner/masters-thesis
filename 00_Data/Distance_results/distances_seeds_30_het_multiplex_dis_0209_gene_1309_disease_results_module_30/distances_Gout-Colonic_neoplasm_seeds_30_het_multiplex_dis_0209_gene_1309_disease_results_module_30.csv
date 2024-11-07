@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.15521346469622344
+1,disease_on_symptoms,19,19,0.18421052631578938
+2,disease_on_drugs,22,29,-0.0029811297559776406

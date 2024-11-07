@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,-0.2962962962962964
+1,disease_on_symptoms,21,19,0.2757518796992482
+2,disease_on_drugs,25,24,-0.20171768707483007

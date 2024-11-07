@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,17,29,-0.05882352941176472
+1,disease_on_symptoms,24,25,0.7548809523809523
+2,disease_on_drugs,16,21,0.25237290862290873

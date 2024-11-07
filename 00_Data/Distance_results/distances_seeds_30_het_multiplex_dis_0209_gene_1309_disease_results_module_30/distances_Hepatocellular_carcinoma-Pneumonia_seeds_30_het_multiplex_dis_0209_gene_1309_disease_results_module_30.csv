@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Pneumonia nodes,sAB
+0,disease_on_genes,24,30,-0.03703703703703709
+1,disease_on_symptoms,23,23,0.5869565217391304
+2,disease_on_drugs,22,29,0.43459954514721244

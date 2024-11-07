@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,19,0.34969065175014835
+1,disease_on_symptoms,20,21,2.65362950058072
+2,disease_on_drugs,15,17,0.8125

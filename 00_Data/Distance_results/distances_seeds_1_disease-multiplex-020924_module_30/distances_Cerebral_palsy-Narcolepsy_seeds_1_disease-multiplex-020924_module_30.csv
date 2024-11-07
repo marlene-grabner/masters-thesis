@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,27,25,0.33031339031339035
+1,disease_on_symptoms,16,21,1.0916184041184043
+2,disease_on_drugs,18,20,0.711842105263158

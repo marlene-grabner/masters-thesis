@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.036363636363636376
+1,disease_on_symptoms,19,20,0.5892712550607286
+2,disease_on_drugs,30,18,0.20138888888888906

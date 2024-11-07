@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,25,29,0.07535121328224781
+1,disease_on_symptoms,17,20,1.3643481717011128
+2,disease_on_drugs,21,24,0.3319444444444444

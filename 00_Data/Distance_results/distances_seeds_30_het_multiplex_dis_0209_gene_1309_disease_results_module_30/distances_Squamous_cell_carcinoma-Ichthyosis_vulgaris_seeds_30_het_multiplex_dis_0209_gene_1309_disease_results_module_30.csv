@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.24561403508771928
+1,disease_on_symptoms,22,21,0.16628913721936955
+2,disease_on_drugs,30,24,-0.13657407407407407

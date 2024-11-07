@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,25,25,0.7200000000000002
+2,disease_on_drugs,30,21,0.024229691876750614

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,26,28,-0.12962962962962965
+1,disease_on_symptoms,21,17,0.3714433141677722
+2,disease_on_drugs,25,28,-0.12726415094339627

@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,25,0.3084848484848486
+1,disease_on_symptoms,26,22,1.9077797202797202
+2,disease_on_drugs,28,21,0.935374149659864

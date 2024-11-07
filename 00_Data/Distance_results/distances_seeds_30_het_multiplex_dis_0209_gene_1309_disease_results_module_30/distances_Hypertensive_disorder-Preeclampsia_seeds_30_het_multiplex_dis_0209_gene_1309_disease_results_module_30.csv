@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,27,-0.33333333333333337
+1,disease_on_symptoms,21,18,-0.21581196581196593
+2,disease_on_drugs,26,22,-0.5059731934731936

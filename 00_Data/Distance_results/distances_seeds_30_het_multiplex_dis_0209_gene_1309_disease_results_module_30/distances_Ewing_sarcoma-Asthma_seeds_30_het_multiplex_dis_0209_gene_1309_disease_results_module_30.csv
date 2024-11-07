@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.038181818181818206
+1,disease_on_symptoms,17,20,1.453139904610493
+2,disease_on_drugs,24,22,0.30788866930171266

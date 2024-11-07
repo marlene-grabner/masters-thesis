@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,-0.6500000000000001
+1,disease_on_symptoms,23,26,-0.8521773257798103
+2,disease_on_drugs,29,28,-0.64821536600121

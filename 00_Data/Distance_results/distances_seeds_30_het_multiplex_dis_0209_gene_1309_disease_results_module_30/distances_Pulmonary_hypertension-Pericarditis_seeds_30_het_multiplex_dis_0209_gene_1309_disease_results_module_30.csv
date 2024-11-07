@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,26,-0.07407407407407407
+1,disease_on_symptoms,18,21,0.704822954822955
+2,disease_on_drugs,27,26,0.03551846476374765

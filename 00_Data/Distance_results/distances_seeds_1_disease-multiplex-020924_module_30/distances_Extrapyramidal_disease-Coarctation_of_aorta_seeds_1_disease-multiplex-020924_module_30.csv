@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,14,27,0.7203832752613242
+1,disease_on_symptoms,25,14,2.7815750915750916
+2,disease_on_drugs,10,13,0.8630434782608696

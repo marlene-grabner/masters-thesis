@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,-0.12068965517241392
+1,disease_on_symptoms,23,20,0.07879170879676445
+2,disease_on_drugs,27,26,-0.16911250873515038

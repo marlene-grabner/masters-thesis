@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.05555555555555558
+1,disease_on_symptoms,17,19,1.2089783281733746
+2,disease_on_drugs,30,24,0.20231481481481484

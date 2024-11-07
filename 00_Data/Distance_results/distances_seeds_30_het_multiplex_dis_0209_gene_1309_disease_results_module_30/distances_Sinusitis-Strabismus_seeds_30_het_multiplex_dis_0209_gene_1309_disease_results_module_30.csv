@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,17,0.04987212276214836
+1,disease_on_symptoms,20,24,1.249621212121212
+2,disease_on_drugs,27,16,0.4906061584840655

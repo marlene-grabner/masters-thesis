@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,-0.03935185185185197
+1,disease_on_symptoms,18,19,0.8818555397502763
+2,disease_on_drugs,30,19,0.027873254564983796

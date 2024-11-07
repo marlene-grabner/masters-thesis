@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,18,21,0.16514041514041522
+2,disease_on_drugs,26,28,-0.24547212047212041

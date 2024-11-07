@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,-0.0576923076923076
+1,disease_on_symptoms,21,25,0.774824016563147
+2,disease_on_drugs,26,25,0.0787481146304676

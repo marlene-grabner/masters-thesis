@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,-0.10000000000000009
+1,disease_on_symptoms,25,15,-0.3316666666666668
+2,disease_on_drugs,26,26,-0.15384615384615385

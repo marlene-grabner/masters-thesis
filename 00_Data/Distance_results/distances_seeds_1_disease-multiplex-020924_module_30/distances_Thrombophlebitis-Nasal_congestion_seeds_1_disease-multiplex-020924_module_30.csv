@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,0.3108374384236452
+1,disease_on_symptoms,15,15,1.3666666666666667
+2,disease_on_drugs,21,23,0.6373517786561265

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,29,30,-0.11864406779661019
+1,disease_on_symptoms,23,14,0.49009568574785956
+2,disease_on_drugs,26,29,-0.1451651796479383

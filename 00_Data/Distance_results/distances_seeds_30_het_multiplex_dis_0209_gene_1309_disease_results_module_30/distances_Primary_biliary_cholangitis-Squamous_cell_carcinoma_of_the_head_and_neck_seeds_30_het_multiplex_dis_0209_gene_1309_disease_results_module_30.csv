@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,30,-0.10476190476190461
+1,disease_on_symptoms,23,22,0.0949714536671058
+2,disease_on_drugs,26,30,0.2068681318681318

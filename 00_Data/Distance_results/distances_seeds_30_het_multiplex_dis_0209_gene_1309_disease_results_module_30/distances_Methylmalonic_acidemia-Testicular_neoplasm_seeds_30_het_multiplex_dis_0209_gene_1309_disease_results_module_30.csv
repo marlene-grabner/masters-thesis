@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,-0.040000000000000036
+1,disease_on_symptoms,17,26,1.1637377670209408
+2,disease_on_drugs,21,24,0.3944444444444444

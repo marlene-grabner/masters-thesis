@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.19153846153846144
+1,disease_on_symptoms,24,19,1.653967768257854
+2,disease_on_drugs,25,24,0.7758843537414968

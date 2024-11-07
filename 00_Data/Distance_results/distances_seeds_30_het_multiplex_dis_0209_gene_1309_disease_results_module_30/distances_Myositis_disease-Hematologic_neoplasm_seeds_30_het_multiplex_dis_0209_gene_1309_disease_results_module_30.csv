@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,18,0.4166666666666665
+2,disease_on_drugs,26,27,-0.05890179003386553

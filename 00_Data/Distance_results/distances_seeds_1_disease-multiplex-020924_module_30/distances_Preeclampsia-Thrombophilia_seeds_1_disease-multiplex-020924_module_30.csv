@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.1890286512928021
+1,disease_on_symptoms,17,18,2.1132586367880486
+2,disease_on_drugs,23,21,0.24882364012798797

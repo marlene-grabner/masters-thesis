@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.3555555555555556
+1,disease_on_symptoms,20,27,1.5482269503546098
+2,disease_on_drugs,24,13,1.201576576576577

@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.4606481481481479
+1,disease_on_symptoms,12,19,0.8589417091114888
+2,disease_on_drugs,22,19,0.9435173299101414

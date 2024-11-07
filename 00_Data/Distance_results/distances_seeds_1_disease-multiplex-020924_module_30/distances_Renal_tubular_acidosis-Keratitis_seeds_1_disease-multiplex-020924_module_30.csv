@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Keratitis nodes,sAB
+0,disease_on_genes,18,28,0.4461697722567288
+1,disease_on_symptoms,18,25,2.925503875968992
+2,disease_on_drugs,10,23,-0.051581027667984225

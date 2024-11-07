@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.12192982456140344
+1,disease_on_symptoms,20,21,-0.29677700348432046
+2,disease_on_drugs,30,25,-0.16727272727272724

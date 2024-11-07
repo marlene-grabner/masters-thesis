@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,0.10243197278911542
+1,disease_on_symptoms,14,21,0.9500000000000002
+2,disease_on_drugs,22,24,0.2653985507246379

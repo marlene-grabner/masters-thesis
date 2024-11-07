@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,28,0.26346037507562015
+1,disease_on_symptoms,17,26,1.8348416289592762
+2,disease_on_drugs,26,28,0.9443935693935692

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,0.13774557165861512
+1,disease_on_symptoms,25,16,0.10100609756097567
+2,disease_on_drugs,22,27,0.11927094069951205

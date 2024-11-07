@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Headache nodes,sAB
+0,disease_on_genes,25,30,-0.13484848484848488
+1,disease_on_symptoms,23,25,-0.12405797101449267
+2,disease_on_drugs,19,26,0.24743589743589745

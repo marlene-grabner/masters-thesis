@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.12412587412587395
+1,disease_on_symptoms,19,18,1.6798640746009168
+2,disease_on_drugs,30,18,0.8125

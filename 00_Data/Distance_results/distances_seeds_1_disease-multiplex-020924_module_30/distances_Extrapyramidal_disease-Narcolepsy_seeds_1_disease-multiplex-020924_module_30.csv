@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,14,25,0.23761904761904762
+1,disease_on_symptoms,25,21,1.053871635610766
+2,disease_on_drugs,10,20,0.6249999999999998

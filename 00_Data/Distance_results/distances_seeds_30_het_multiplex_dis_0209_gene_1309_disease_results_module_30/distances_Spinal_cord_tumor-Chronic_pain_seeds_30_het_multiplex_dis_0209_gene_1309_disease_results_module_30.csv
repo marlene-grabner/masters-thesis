@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,29,30,0.10197740112994347
+1,disease_on_symptoms,14,19,0.21610845295055814
+2,disease_on_drugs,22,28,0.017012987012986924

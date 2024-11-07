@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Glaucoma nodes,sAB
+0,disease_on_genes,16,30,-0.08025362318840568
+1,disease_on_symptoms,21,14,2.2904761904761903
+2,disease_on_drugs,15,30,0.7222222222222223

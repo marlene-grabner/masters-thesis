@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,17,14,0.18195988072648417
+1,disease_on_symptoms,21,23,2.0105872388481085
+2,disease_on_drugs,14,14,0.5714285714285714

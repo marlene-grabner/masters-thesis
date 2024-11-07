@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,26,9,0.15079365079365092
+1,disease_on_symptoms,21,27,1.9573412698412698
+2,disease_on_drugs,24,9,0.7272727272727273

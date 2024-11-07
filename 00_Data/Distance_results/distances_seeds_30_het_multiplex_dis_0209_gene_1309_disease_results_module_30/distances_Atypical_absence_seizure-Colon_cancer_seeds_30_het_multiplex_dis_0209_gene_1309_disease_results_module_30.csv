@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,13,22,0.6125374625374627
+2,disease_on_drugs,22,26,0.295600233100233

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Urticaria nodes,sAB
+0,disease_on_genes,29,10,0.7179487179487178
+1,disease_on_symptoms,18,27,2.748148148148148
+2,disease_on_drugs,22,9,1.129032258064516

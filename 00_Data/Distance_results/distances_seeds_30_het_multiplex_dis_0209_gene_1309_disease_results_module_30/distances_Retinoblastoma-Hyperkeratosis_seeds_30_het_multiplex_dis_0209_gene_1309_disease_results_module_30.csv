@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.03708791208791207
+1,disease_on_symptoms,21,25,0.9590890269151138
+2,disease_on_drugs,27,25,0.22840455840455842

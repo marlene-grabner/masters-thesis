@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,18,15,0.046969696969697106
+2,disease_on_drugs,27,23,-0.03536231884057961

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,29,30,-0.4067796610169492
+1,disease_on_symptoms,23,22,-0.6699604743083003
+2,disease_on_drugs,26,28,-0.6120777370777373

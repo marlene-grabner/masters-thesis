@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,26,24,0.14224358974358986
+1,disease_on_symptoms,28,21,0.8137755102040818
+2,disease_on_drugs,23,24,0.831541011409189

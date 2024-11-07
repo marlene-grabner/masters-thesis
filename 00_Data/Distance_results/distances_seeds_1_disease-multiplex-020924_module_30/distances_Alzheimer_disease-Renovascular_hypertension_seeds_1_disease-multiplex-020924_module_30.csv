@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,20,21,0.049332171893147425
+1,disease_on_symptoms,23,22,2.0926657883179622
+2,disease_on_drugs,18,20,0.11184210526315796

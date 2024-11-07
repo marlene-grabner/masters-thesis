@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,21,24,0.19980158730158726
+1,disease_on_symptoms,22,19,1.029816781421403
+2,disease_on_drugs,21,20,0.5144599303135886

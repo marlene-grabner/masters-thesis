@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,26,30,0.1607142857142858
+1,disease_on_symptoms,19,13,1.0258097165991904
+2,disease_on_drugs,25,21,0.30952380952380953

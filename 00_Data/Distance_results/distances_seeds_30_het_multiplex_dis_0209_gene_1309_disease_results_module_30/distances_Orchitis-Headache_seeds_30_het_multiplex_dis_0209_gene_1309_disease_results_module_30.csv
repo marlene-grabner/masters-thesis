@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Headache nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,19,23,0.040209218698921356
+2,disease_on_drugs,25,23,-0.2323188405797103

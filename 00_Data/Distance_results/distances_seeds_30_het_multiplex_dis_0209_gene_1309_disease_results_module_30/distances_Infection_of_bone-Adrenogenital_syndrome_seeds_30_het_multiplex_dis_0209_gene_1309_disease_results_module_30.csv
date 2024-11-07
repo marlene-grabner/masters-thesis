@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,18,9,0.2592592592592591
+2,disease_on_drugs,28,23,0.1864115211301911

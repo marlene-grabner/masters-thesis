@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.07167832167832167
+1,disease_on_symptoms,23,12,1.6576604554865426
+2,disease_on_drugs,25,30,0.18333333333333335

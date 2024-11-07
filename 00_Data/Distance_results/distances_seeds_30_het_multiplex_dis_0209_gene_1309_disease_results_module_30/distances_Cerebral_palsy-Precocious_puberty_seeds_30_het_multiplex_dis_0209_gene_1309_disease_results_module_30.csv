@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,13,16,0.44164456233421756
+2,disease_on_drugs,21,27,0.0896164021164021

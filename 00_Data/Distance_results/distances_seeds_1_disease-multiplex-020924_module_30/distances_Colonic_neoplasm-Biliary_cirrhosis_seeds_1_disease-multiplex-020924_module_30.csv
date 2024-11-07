@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.5714285714285714
+1,disease_on_symptoms,19,15,1.1009287925696591
+2,disease_on_drugs,29,15,1.2060606060606063

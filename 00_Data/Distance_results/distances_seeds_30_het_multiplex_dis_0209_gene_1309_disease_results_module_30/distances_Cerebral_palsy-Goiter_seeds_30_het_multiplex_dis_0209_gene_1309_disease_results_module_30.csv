@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3035714285714286
+1,disease_on_symptoms,13,12,1.8375641025641025
+2,disease_on_drugs,21,18,0.4142246642246643

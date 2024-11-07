@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.3991166608277863
+1,disease_on_symptoms,21,18,1.1083638583638584
+2,disease_on_drugs,24,19,0.9675642594859242

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,24,14,0.7182017543859649
+2,disease_on_drugs,15,24,-0.07403846153846172

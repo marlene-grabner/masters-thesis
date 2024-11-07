@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,23,29,-0.05769230769230771
+1,disease_on_symptoms,23,20,0.3591506572295249
+2,disease_on_drugs,22,20,-0.10259740259740258

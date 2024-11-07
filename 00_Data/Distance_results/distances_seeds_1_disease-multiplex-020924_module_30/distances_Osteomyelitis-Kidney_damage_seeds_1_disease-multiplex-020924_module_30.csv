@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,20,0.12888888888888883
+1,disease_on_symptoms,23,26,0.578339362500853
+2,disease_on_drugs,23,13,0.12532515793385368

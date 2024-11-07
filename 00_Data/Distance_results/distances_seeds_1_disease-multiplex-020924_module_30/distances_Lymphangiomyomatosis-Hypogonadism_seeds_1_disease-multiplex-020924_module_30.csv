@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.16363636363636358
+1,disease_on_symptoms,19,12,0.798670062252405
+2,disease_on_drugs,22,30,0.29277389277389276

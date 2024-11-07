@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,25,0.21065527065527045
+1,disease_on_symptoms,19,23,0.7125967091642149
+2,disease_on_drugs,27,23,0.4365217391304348

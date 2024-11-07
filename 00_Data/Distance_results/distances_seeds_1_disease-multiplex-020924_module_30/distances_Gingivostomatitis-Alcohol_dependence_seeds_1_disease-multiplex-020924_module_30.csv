@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.2488095238095238
+1,disease_on_symptoms,23,27,2.3725281803542675
+2,disease_on_drugs,29,9,0.4687436983262754

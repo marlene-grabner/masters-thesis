@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,23,30,0.4783018867924529
+1,disease_on_symptoms,16,23,1.766826923076923
+2,disease_on_drugs,17,30,0.6922403003754694

@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,25,30,0.01969696969696977
+1,disease_on_symptoms,20,22,0.8826839826839827
+2,disease_on_drugs,18,29,0.4093706692752914

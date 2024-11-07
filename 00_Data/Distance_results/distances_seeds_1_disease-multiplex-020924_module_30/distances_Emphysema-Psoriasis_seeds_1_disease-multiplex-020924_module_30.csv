@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.13727422003284073
+1,disease_on_symptoms,14,21,0.35952380952380936
+2,disease_on_drugs,29,28,0.4204260651629075

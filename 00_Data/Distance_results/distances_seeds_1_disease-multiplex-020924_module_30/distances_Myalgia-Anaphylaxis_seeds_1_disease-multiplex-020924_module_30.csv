@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.10497076023391805
+1,disease_on_symptoms,16,15,2.0649193548387093
+2,disease_on_drugs,29,26,0.41608391608391626

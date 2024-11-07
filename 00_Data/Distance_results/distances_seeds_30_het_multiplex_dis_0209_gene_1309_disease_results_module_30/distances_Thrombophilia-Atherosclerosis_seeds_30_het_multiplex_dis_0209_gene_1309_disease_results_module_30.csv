@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,18,14,0.2881944444444444
+2,disease_on_drugs,22,29,0.05419816829553148

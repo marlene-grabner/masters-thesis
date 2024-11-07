@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,17,11,-0.5202444614209321
+2,disease_on_drugs,26,21,-0.46175278622087135

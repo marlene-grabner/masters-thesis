@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,25,22,-0.10728778467908895
+1,disease_on_symptoms,25,20,1.5194444444444446
+2,disease_on_drugs,23,19,0.09436635065925691

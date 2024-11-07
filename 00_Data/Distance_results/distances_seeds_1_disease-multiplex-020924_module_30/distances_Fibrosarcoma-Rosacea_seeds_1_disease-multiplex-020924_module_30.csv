@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Rosacea nodes,sAB
+0,disease_on_genes,22,30,0.32237762237762224
+1,disease_on_symptoms,24,17,1.6226685796269726
+2,disease_on_drugs,13,27,0.75

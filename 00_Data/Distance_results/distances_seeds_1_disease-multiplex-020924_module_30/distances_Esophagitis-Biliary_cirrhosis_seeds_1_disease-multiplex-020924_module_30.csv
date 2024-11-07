@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,24,26,0.4871339840283939
+1,disease_on_symptoms,23,15,0.6130434782608694
+2,disease_on_drugs,20,15,0.3083333333333331

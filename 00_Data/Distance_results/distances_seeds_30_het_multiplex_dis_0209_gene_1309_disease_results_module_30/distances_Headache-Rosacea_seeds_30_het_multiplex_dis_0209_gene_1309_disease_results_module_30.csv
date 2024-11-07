@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,23,18,-0.05452456698480024
+2,disease_on_drugs,23,30,-0.12143833743505605

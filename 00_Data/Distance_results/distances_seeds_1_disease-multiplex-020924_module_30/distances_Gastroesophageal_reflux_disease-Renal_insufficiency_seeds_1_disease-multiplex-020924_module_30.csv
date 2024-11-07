@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,0.19782608695652182
+1,disease_on_symptoms,17,23,1.129859335038363
+2,disease_on_drugs,25,17,0.8749579831932774

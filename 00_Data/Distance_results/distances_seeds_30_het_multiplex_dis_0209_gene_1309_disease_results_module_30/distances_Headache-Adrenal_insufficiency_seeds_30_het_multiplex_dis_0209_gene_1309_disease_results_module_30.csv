@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,23,15,-0.13623188405797082
+2,disease_on_drugs,23,24,0.19042938637064433

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,28,30,0.0005747126436781436
+1,disease_on_symptoms,18,19,-0.16220167535956986
+2,disease_on_drugs,23,28,0.15865911582024128

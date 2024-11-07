@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.5979020979020977
+1,disease_on_symptoms,9,25,1.0209150326797385
+2,disease_on_drugs,11,18,0.7476489028213167

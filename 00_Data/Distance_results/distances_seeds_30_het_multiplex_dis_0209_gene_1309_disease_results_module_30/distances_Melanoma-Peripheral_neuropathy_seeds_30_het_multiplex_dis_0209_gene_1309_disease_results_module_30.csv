@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,27,30,-0.2992202729044835
+1,disease_on_symptoms,23,21,0.12234142668925285
+2,disease_on_drugs,25,29,-0.07361430395913149

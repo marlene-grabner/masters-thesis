@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,29,25,-0.6302426564495531
+1,disease_on_symptoms,21,23,-0.7371070958027481
+2,disease_on_drugs,28,23,-0.7441085129704055

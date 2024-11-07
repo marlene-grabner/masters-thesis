@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.330860805860806
+1,disease_on_symptoms,20,14,0.7888655462184875
+2,disease_on_drugs,20,24,0.865530303030303

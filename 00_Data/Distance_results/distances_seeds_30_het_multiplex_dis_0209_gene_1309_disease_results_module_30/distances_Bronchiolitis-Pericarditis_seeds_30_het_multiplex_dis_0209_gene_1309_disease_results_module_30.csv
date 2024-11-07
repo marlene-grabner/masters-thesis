@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,26,0.05555555555555558
+1,disease_on_symptoms,25,21,0.3898136645962733
+2,disease_on_drugs,24,26,-0.039743589743589824

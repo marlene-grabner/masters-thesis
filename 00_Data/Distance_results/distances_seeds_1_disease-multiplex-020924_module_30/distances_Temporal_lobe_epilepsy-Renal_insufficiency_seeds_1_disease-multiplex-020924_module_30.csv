@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,20,0.11847290640394093
+1,disease_on_symptoms,17,23,1.5063299232736573
+2,disease_on_drugs,26,17,0.8042986425339365

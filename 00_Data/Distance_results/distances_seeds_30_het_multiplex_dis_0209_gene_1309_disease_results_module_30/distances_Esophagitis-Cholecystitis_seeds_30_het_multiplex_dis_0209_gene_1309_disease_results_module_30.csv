@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,0.1287878787878789
+1,disease_on_symptoms,20,23,0.21716380182002037
+2,disease_on_drugs,30,21,0.04565826330532219

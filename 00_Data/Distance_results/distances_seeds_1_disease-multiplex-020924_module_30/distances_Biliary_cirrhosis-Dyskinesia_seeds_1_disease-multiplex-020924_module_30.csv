@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,0.4791666666666665
+1,disease_on_symptoms,15,17,1.8323529411764705
+2,disease_on_drugs,15,23,0.9070175438596491

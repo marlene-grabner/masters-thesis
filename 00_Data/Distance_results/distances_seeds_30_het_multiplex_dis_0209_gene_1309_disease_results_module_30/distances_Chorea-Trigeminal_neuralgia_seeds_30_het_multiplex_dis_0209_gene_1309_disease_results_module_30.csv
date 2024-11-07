@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,17,15,-0.16151960784313735
+2,disease_on_drugs,24,25,-0.24542517006802722

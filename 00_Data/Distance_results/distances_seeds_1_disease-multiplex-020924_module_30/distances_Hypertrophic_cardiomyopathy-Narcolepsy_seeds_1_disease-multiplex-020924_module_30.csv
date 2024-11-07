@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.5248484848484849
+1,disease_on_symptoms,17,21,2.4627745835176174
+2,disease_on_drugs,17,20,0.5155405405405407

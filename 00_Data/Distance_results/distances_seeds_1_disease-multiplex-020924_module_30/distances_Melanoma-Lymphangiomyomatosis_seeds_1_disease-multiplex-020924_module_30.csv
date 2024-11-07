@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,24,26,-0.040000000000000036
+1,disease_on_symptoms,23,19,0.3879808216192655
+2,disease_on_drugs,22,22,-2.220446049250313e-16

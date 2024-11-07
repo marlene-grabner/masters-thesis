@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,-0.44067796610169496
+1,disease_on_symptoms,17,20,-0.6634340222575515
+2,disease_on_drugs,24,20,-0.7094696969696969

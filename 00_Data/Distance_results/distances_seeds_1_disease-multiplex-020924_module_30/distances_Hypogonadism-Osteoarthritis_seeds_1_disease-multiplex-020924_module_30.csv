@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.1651851851851851
+1,disease_on_symptoms,12,20,0.15416666666666679
+2,disease_on_drugs,30,21,0.4931372549019608

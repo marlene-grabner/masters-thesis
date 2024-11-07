@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.27982456140350875
+1,disease_on_symptoms,17,18,0.807703081232493
+2,disease_on_drugs,24,30,-0.08240740740740726

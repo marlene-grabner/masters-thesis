@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,-0.035067212156633776
+1,disease_on_symptoms,22,15,0.6733415233415232
+2,disease_on_drugs,29,29,0.10344827586206895

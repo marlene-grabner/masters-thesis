@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,24,30,0.474537037037037
+1,disease_on_symptoms,25,13,1.2959514170040487
+2,disease_on_drugs,17,23,0.7597826086956523

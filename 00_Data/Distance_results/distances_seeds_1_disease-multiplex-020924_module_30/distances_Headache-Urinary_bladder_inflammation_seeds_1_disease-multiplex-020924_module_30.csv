@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.08696969696969692
+1,disease_on_symptoms,25,22,0.7952998065764025
+2,disease_on_drugs,26,24,0.3374358974358973

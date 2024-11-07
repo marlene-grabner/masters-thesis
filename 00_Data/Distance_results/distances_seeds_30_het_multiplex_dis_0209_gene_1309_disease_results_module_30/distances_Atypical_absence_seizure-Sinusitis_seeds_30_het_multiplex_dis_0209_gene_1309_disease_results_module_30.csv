@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,13,20,1.7914335664335663
+2,disease_on_drugs,22,27,0.735295128152271

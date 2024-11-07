@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.464408233276158
+1,disease_on_symptoms,12,18,-0.37222222222222223
+2,disease_on_drugs,30,18,-0.475

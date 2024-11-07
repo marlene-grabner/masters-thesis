@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,23,27,0.2580032206119165
+1,disease_on_symptoms,19,21,1.8045739348370928
+2,disease_on_drugs,19,24,0.7698643410852712

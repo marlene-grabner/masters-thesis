@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,22,30,-0.09615384615384615
+1,disease_on_symptoms,21,16,0.5770994208494207
+2,disease_on_drugs,21,28,0.22704081632653073

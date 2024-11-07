@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.5928571428571427
+1,disease_on_symptoms,13,15,1.4197802197802196
+2,disease_on_drugs,18,15,1.062121212121212

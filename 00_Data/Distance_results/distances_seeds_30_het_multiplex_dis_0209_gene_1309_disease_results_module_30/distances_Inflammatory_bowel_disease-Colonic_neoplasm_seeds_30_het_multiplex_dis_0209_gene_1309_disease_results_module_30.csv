@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,20,19,-0.6389676113360323
+2,disease_on_drugs,27,29,-0.17861704068600626

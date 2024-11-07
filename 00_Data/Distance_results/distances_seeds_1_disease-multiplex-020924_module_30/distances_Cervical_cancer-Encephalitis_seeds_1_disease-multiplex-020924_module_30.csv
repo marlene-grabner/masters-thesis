@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,28,0.3821308321308321
+1,disease_on_symptoms,23,17,1.054475703324808
+2,disease_on_drugs,15,18,0.7393939393939395

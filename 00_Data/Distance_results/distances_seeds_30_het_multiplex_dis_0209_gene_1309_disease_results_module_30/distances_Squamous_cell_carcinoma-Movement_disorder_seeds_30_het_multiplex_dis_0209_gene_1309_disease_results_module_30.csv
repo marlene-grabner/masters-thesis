@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,22,17,0.3747771836007132
+2,disease_on_drugs,30,26,0.1964285714285714

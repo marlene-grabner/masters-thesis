@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,16,20,-0.11319444444444438
+2,disease_on_drugs,23,24,-0.14804964539007082

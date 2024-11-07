@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,30,-0.1599415204678365
+1,disease_on_symptoms,18,21,0.4426129426129424
+2,disease_on_drugs,25,29,0.05070242656449553

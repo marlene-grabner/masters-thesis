@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333348
+1,disease_on_symptoms,16,15,0.9565188172043009
+2,disease_on_drugs,28,30,0.2049261083743843

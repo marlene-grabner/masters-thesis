@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,30,0.05350877192982462
+1,disease_on_symptoms,16,21,0.522964929214929
+2,disease_on_drugs,23,29,0.3309018567639259

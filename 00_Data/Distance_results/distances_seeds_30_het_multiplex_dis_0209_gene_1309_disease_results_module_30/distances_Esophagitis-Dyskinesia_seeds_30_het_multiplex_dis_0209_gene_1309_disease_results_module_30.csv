@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,20,15,0.9178571428571429
+2,disease_on_drugs,30,28,0.3821428571428571

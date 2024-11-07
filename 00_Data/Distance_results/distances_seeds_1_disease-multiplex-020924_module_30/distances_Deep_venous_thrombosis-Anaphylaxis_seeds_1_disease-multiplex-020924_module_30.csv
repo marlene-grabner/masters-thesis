@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,28,27,0.30840548340548324
+1,disease_on_symptoms,14,15,2.688916256157636
+2,disease_on_drugs,24,26,0.5415384615384617

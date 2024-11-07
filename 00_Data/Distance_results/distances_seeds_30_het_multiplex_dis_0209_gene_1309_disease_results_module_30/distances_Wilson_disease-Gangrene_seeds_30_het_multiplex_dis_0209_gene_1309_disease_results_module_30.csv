@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,25,27,0.25
+1,disease_on_symptoms,19,22,0.7286439491189172
+2,disease_on_drugs,22,27,0.2033944891087749

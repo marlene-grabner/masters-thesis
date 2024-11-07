@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,23,22,0.15197628458498014
+1,disease_on_symptoms,19,24,0.5709914320685434
+2,disease_on_drugs,19,13,0.0625

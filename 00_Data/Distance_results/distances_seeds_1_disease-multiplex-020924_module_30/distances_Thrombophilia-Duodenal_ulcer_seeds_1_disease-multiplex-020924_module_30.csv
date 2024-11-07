@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,27,28,0.4184944684944685
+1,disease_on_symptoms,18,17,1.9678804855275445
+2,disease_on_drugs,21,28,1.3197278911564625

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,28,30,0.3120279146141214
+1,disease_on_symptoms,14,20,1.541806722689076
+2,disease_on_drugs,24,29,1.2108002602472352

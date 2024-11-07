@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Stomatitis nodes,sAB
+0,disease_on_genes,21,30,-0.20028011204481788
+1,disease_on_symptoms,20,19,0.14753711201079622
+2,disease_on_drugs,21,29,0.11720853858784896

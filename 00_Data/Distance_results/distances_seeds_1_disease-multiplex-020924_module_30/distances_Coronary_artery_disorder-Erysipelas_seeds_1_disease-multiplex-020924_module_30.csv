@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Erysipelas nodes,sAB
+0,disease_on_genes,19,28,0.5549912014077747
+1,disease_on_symptoms,21,20,1.2664343786295005
+2,disease_on_drugs,17,27,0.9318181818181819

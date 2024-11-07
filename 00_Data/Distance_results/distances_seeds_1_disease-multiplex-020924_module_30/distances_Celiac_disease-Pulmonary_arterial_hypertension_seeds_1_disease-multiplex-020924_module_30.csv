@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,17,28,0.34554154995331454
+1,disease_on_symptoms,22,18,1.3444444444444443
+2,disease_on_drugs,15,26,0.5571919949968731

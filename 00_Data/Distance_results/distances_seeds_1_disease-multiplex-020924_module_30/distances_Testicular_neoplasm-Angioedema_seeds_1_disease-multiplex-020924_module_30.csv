@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,29,0.07421832884097035
+1,disease_on_symptoms,25,17,0.5302521008403365
+2,disease_on_drugs,23,25,0.5815217391304348

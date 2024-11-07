@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,15,28,0.2100221483942415
+1,disease_on_symptoms,25,17,0.7397759103641457
+2,disease_on_drugs,10,18,-0.028571428571428692

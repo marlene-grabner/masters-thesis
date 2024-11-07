@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,0.0
+1,disease_on_symptoms,17,21,0.3092289547397906
+2,disease_on_drugs,25,24,-0.08008503401360545

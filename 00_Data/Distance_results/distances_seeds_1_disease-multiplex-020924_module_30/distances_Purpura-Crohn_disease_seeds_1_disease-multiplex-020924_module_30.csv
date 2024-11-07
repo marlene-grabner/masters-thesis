@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,25,0.4606410256410256
+1,disease_on_symptoms,17,20,2.066057233704292
+2,disease_on_drugs,20,21,0.46457607433217185

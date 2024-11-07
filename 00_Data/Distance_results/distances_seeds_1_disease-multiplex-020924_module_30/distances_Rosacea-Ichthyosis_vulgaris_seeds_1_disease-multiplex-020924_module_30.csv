@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.2624756335282651
+1,disease_on_symptoms,17,21,-0.2702344095532949
+2,disease_on_drugs,27,27,-0.2962962962962963

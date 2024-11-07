@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,24,0.28651360544217663
+1,disease_on_symptoms,24,19,1.5060689514483885
+2,disease_on_drugs,20,20,0.8499999999999999

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.2171596921596921
+1,disease_on_symptoms,19,18,1.4319977872609453
+2,disease_on_drugs,20,26,0.4775083612040134

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,16,25,0.9635060975609757
+2,disease_on_drugs,30,26,0.46291208791208804

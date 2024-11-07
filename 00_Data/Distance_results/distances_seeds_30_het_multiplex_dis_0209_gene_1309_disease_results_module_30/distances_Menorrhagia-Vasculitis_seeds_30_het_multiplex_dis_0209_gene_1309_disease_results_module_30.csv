@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,26,-0.037735849056603765
+1,disease_on_symptoms,16,18,1.0823120915032678
+2,disease_on_drugs,23,26,0.14992150706436425

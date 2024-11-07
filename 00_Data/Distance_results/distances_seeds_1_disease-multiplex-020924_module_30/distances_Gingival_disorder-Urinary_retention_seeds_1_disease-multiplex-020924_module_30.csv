@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,21,30,0.3940886699507389
+1,disease_on_symptoms,26,18,2.4205516705516708
+2,disease_on_drugs,20,19,0.664642375168691

@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.17719780219780223
+1,disease_on_symptoms,16,21,1.267656048906049
+2,disease_on_drugs,30,23,0.679245283018868

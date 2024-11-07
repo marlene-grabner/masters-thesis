@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,13,14,1.002849002849003
+2,disease_on_drugs,19,29,0.23525408348457355

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,24,26,0.23583333333333356
+1,disease_on_symptoms,20,15,1.170238095238095
+2,disease_on_drugs,22,21,0.9058441558441559

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,-0.26790275497172045
+1,disease_on_symptoms,23,20,-0.3850606673407482
+2,disease_on_drugs,25,24,-0.3482823129251701

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,23,16,-0.1312709030100334
+2,disease_on_drugs,21,30,-0.1621848739495797

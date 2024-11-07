@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.06751412429378523
+1,disease_on_symptoms,18,17,0.17156862745098045
+2,disease_on_drugs,30,27,-0.05243664717348939

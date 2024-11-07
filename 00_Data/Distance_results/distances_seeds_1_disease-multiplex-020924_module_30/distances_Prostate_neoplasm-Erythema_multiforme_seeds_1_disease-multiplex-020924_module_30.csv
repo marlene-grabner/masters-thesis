@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,17,30,0.2958281184814353
+1,disease_on_symptoms,21,16,1.2282416344916345
+2,disease_on_drugs,17,30,0.7709637046307884

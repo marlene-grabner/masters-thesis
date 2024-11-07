@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,20,30,-0.08499999999999996
+1,disease_on_symptoms,24,20,0.3064393939393939
+2,disease_on_drugs,18,28,-0.10550379572118707

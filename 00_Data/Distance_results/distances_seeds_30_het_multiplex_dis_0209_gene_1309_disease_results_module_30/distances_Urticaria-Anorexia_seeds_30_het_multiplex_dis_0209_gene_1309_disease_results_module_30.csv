@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Anorexia nodes,sAB
+0,disease_on_genes,24,29,-0.1870527000650617
+1,disease_on_symptoms,21,13,0.9367593191122605
+2,disease_on_drugs,24,28,-0.11790293040293043

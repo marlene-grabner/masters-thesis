@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,-0.022962962962963074
+1,disease_on_symptoms,19,15,2.004437564499484
+2,disease_on_drugs,24,29,0.5283018867924529

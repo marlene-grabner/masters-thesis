@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,14,15,0.6206075533661741
+1,disease_on_symptoms,25,25,2.66
+2,disease_on_drugs,10,10,0.7000000000000002

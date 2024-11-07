@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,26,25,0.4309653092006034
+1,disease_on_symptoms,23,19,1.6991391522283972
+2,disease_on_drugs,25,18,1.5768733850129202

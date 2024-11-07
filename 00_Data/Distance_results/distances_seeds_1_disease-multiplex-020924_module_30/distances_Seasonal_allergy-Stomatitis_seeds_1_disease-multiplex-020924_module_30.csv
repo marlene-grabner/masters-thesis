@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,29,30,0.15222092343658677
+1,disease_on_symptoms,15,23,0.926315789473684
+2,disease_on_drugs,29,30,0.475978959672706

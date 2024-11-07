@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,15,22,0.16674856674856664
+1,disease_on_symptoms,27,19,1.318459191456903
+2,disease_on_drugs,13,19,0.5049342105263159

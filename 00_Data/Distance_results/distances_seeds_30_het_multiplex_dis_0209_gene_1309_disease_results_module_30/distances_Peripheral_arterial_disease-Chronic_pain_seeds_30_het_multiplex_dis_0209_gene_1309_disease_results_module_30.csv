@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,26,30,-0.03452380952380951
+1,disease_on_symptoms,17,19,0.7563639490884073
+2,disease_on_drugs,24,28,0.10370879120879128

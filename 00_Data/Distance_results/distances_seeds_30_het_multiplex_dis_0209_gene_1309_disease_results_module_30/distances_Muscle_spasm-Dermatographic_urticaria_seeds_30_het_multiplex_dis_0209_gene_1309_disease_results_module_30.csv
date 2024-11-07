@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.13559322033898313
+1,disease_on_symptoms,15,18,0.6747474747474747
+2,disease_on_drugs,29,28,0.0882594417077176

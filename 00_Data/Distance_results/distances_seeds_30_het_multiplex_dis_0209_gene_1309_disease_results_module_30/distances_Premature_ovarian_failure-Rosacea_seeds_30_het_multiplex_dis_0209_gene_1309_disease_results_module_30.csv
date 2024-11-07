@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,15,18,-0.07424242424242422
+2,disease_on_drugs,26,30,-0.2542124542124542

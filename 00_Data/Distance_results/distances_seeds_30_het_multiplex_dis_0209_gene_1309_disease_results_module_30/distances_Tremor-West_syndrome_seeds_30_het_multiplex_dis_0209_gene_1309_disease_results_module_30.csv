@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.26315789473684215
+1,disease_on_symptoms,17,13,-0.6368024132730017
+2,disease_on_drugs,24,19,-0.5422786617707058

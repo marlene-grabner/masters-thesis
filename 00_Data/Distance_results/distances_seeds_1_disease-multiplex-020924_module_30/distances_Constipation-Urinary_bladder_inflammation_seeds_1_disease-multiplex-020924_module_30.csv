@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.10515151515151522
+1,disease_on_symptoms,17,22,0.29209515974221834
+2,disease_on_drugs,27,24,0.44716775599128544

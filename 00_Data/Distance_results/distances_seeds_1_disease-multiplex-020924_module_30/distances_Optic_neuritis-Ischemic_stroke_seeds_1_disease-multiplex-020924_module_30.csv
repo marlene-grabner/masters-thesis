@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.40243664717348926
+1,disease_on_symptoms,16,16,0.90625
+2,disease_on_drugs,27,23,0.6760064412238325

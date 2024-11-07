@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,17,18,0.2268907563025211
+1,disease_on_symptoms,22,21,3.648394241417497
+2,disease_on_drugs,15,17,0.9096813725490196

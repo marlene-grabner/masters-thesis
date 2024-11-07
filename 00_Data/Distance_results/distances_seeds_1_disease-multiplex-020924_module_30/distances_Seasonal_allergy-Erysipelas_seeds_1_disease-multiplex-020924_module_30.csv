@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,28,0.053214933886440274
+1,disease_on_symptoms,15,20,0.41428571428571415
+2,disease_on_drugs,29,27,0.30418719211822665

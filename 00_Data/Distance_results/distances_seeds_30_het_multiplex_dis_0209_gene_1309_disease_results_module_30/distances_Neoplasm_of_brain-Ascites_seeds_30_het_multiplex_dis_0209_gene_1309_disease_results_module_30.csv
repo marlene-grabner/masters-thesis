@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000155
+1,disease_on_symptoms,19,22,0.11941300035009927
+2,disease_on_drugs,29,27,0.17451195037401934

@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,22,25,0.25352030947775606
+1,disease_on_symptoms,19,25,1.7684210526315791
+2,disease_on_drugs,18,23,0.3677683515965593

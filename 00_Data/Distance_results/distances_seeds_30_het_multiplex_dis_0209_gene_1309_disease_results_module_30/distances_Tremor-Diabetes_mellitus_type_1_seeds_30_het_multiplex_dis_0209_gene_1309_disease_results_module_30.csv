@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,17,18,1.41484593837535
+2,disease_on_drugs,24,26,0.22141025641025647

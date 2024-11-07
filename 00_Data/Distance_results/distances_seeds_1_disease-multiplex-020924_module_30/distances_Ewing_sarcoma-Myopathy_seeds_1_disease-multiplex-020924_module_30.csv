@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Myopathy nodes,sAB
+0,disease_on_genes,24,18,0.7311507936507935
+1,disease_on_symptoms,25,21,1.4873706004140788
+2,disease_on_drugs,17,6,0.1811594202898552

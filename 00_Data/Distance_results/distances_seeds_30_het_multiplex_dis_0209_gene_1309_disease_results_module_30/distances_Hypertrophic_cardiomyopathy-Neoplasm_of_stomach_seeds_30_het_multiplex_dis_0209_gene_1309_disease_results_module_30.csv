@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,0.036060606060606126
+1,disease_on_symptoms,19,23,0.8987141767462137
+2,disease_on_drugs,22,24,0.18667654808959155

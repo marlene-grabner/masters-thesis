@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,17,25,0.6880112044817928
+2,disease_on_drugs,24,24,0.3958333333333335

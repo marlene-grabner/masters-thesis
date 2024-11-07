@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,15,21,0.8444444444444446
+2,disease_on_drugs,22,29,0.9655172413793105

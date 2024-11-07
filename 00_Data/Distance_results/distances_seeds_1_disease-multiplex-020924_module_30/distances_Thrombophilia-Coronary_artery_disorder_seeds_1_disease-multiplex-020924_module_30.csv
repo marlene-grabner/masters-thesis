@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,19,0.06386134418171041
+1,disease_on_symptoms,18,21,1.788156288156288
+2,disease_on_drugs,21,17,0.057644110275689275

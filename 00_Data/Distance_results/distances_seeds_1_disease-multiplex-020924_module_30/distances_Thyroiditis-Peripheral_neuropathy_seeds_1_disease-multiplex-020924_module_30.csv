@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,0.17783882783882787
+1,disease_on_symptoms,28,20,1.55
+2,disease_on_drugs,23,24,1.1068069688559974

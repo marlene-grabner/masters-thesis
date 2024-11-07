@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,27,26,0.24563242487770776
+1,disease_on_symptoms,17,15,2.0748774509803924
+2,disease_on_drugs,20,26,0.6304347826086956

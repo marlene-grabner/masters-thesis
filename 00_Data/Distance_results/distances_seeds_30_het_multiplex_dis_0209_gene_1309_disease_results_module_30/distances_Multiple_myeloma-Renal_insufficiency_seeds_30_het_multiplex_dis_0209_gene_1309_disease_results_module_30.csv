@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,21,19,0.647681704260652
+2,disease_on_drugs,25,28,0.02469002695417788

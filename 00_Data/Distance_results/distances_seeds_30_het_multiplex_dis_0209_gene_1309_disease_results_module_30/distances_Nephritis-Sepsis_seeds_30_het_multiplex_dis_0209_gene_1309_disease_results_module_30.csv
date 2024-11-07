@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,17,15,0.24154411764705896
+2,disease_on_drugs,25,25,0.040000000000000036

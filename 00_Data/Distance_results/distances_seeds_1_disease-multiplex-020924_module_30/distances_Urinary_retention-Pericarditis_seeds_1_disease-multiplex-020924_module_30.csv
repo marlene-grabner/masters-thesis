@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.29244031830238737
+1,disease_on_symptoms,18,22,1.3292929292929294
+2,disease_on_drugs,19,25,0.44650717703349274

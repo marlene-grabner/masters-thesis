@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.22969696969696973
+1,disease_on_symptoms,20,13,2.8938811188811187
+2,disease_on_drugs,30,16,0.6508152173913044

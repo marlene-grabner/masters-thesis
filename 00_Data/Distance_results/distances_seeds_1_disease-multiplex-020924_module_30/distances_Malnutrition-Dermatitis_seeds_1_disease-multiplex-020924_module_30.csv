@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Dermatitis nodes,sAB
+0,disease_on_genes,26,26,0.13800904977375583
+1,disease_on_symptoms,18,25,1.847080103359173
+2,disease_on_drugs,23,24,0.3625886524822697

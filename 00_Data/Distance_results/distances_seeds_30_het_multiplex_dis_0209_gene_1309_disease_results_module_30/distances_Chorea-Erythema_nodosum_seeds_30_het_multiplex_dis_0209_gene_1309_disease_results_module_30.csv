@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,22,0.941073632250103
+2,disease_on_drugs,24,29,0.4628198872261984

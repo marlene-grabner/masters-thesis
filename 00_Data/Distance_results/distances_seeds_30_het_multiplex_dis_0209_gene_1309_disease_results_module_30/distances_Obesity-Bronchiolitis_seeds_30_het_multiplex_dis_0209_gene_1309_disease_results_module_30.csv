@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,27,28,-0.23737373737373735
+1,disease_on_symptoms,18,25,0.13157622739018104
+2,disease_on_drugs,25,24,-0.20544217687074817

@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,19,0.21372549019607834
+2,disease_on_drugs,21,29,0.02151067323481115

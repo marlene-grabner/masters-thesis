@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.39622641509433965
+1,disease_on_symptoms,19,19,0.05263157894736814
+2,disease_on_drugs,30,19,-0.3749552452559971

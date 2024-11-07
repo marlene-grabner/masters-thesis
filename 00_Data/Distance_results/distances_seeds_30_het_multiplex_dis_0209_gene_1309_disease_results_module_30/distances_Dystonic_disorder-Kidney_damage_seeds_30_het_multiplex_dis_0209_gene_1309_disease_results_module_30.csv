@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,15,0.5997549019607844
+2,disease_on_drugs,26,21,0.12828306445327708

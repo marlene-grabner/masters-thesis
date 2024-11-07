@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,30,-0.1964285714285714
+1,disease_on_symptoms,22,21,0.12304943118896605
+2,disease_on_drugs,26,29,-0.09344104171690404

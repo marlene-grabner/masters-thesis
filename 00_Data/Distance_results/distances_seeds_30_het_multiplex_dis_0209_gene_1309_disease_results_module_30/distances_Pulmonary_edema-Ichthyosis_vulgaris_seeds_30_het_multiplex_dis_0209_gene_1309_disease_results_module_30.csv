@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.21052631578947367
+1,disease_on_symptoms,11,21,0.917478354978355
+2,disease_on_drugs,27,24,0.39174836601307184

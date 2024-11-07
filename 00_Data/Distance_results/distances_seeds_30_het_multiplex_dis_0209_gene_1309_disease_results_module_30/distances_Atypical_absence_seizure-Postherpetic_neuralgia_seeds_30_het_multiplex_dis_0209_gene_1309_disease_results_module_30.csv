@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,13,16,-0.30503978779840857
+2,disease_on_drugs,22,29,-0.16216423873624697

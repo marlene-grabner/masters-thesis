@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.13207547169811318
+1,disease_on_symptoms,19,17,0.20442036463708302
+2,disease_on_drugs,25,22,-0.06017408123791079

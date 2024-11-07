@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,30,-0.29824561403508776
+1,disease_on_symptoms,17,18,0.29089635854341744
+2,disease_on_drugs,24,29,-0.25933908045977017

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.01851851851851838
+1,disease_on_symptoms,21,14,1.6404761904761906
+2,disease_on_drugs,23,26,0.07185516347007037

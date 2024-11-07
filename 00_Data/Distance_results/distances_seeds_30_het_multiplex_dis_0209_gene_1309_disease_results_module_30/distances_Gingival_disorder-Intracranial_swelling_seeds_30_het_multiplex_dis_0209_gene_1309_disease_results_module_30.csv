@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,19,11,0.14226475279106854
+2,disease_on_drugs,24,21,0.06646825396825395

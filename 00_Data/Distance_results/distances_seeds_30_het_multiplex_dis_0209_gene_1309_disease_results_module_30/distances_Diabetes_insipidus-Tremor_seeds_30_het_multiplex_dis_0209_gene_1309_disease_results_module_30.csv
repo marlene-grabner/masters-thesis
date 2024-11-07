@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Tremor nodes,sAB
+0,disease_on_genes,26,27,-0.15130624092888234
+1,disease_on_symptoms,20,17,0.7272655007949123
+2,disease_on_drugs,20,24,-0.06439393939393923

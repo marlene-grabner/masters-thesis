@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Angioedema nodes,sAB
+0,disease_on_genes,24,29,-0.05792124542124555
+1,disease_on_symptoms,22,17,0.10952283011106556
+2,disease_on_drugs,24,25,-0.020408163265306145

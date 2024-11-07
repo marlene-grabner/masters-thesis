@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.14393939393939392
+1,disease_on_symptoms,16,19,1.4284304511278196
+2,disease_on_drugs,30,18,-0.16111111111111132

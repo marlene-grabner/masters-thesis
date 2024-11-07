@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.1636851520572451
+1,disease_on_symptoms,14,26,1.2752747252747252
+2,disease_on_drugs,27,9,0.4907407407407407

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,0.1486792452830188
+1,disease_on_symptoms,23,25,1.1155797101449274
+2,disease_on_drugs,26,23,0.713978568015835

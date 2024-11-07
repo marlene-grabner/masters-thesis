@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,26,25,-0.13764705882352946
+1,disease_on_symptoms,20,17,0.4349364069952304
+2,disease_on_drugs,23,25,-0.0011231884057971708

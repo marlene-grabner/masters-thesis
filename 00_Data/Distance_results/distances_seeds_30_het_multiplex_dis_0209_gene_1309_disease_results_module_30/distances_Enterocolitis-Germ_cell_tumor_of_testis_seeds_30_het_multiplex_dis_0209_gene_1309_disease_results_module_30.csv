@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,27,27,-0.09259259259259267
+1,disease_on_symptoms,21,22,0.3516309272123226
+2,disease_on_drugs,25,20,-0.02055555555555566

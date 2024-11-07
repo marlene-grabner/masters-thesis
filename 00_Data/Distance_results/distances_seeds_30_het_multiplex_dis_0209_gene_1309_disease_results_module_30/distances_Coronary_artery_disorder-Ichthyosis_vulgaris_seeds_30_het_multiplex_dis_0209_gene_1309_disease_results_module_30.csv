@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,23,27,0.03826086956521735
+1,disease_on_symptoms,19,21,1.4016290726817042
+2,disease_on_drugs,22,24,0.2378952569169961

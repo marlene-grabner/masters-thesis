@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,-0.10818713450292405
+1,disease_on_symptoms,22,17,0.9141299876593991
+2,disease_on_drugs,20,29,0.09350809289232931

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,25,-0.09544159544159547
+1,disease_on_symptoms,21,20,0.31594076655052294
+2,disease_on_drugs,27,25,0.03823361823361826

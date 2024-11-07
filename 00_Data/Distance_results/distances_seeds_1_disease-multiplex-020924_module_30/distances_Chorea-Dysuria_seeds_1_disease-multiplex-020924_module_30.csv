@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Dysuria nodes,sAB
+0,disease_on_genes,14,30,0.16396494443807996
+1,disease_on_symptoms,27,16,0.507671188630491
+2,disease_on_drugs,8,23,0.14156732117812054

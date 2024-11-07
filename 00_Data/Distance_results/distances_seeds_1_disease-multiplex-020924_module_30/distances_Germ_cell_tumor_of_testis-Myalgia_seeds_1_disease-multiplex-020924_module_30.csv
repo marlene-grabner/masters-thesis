@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,0.1780701754385965
+1,disease_on_symptoms,23,16,2.055950390189521
+2,disease_on_drugs,20,29,0.9795918367346939

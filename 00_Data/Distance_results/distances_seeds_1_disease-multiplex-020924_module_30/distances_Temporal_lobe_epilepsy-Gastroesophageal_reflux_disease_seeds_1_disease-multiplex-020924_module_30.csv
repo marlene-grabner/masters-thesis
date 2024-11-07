@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,29,26,0.14639498432601883
+1,disease_on_symptoms,17,17,1.2647058823529411
+2,disease_on_drugs,26,25,0.6666515837104072

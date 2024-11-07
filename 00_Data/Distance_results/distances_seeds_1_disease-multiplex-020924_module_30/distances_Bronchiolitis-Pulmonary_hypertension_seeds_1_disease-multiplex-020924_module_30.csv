@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,23,28,0.13687431494336866
+1,disease_on_symptoms,25,20,0.4688888888888889
+2,disease_on_drugs,18,28,0.5471014492753621

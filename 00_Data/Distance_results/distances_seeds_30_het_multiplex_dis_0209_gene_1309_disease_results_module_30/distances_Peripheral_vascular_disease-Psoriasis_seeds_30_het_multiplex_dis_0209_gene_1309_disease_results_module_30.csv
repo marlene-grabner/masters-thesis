@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Psoriasis nodes,sAB
+0,disease_on_genes,25,30,-0.020000000000000018
+1,disease_on_symptoms,17,17,-0.02941176470588225
+2,disease_on_drugs,25,30,-0.038787878787878816

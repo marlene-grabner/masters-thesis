@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.15094339622641506
+1,disease_on_symptoms,16,19,0.008270676691729317
+2,disease_on_drugs,27,19,-0.07865073311297555

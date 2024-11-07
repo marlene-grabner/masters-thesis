@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,13,16,0.37922745358090193
+2,disease_on_drugs,29,30,0.9152542372881356

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,25,30,-0.11272727272727279
+1,disease_on_symptoms,21,18,0.11141636141636124
+2,disease_on_drugs,24,26,0.04051282051282046

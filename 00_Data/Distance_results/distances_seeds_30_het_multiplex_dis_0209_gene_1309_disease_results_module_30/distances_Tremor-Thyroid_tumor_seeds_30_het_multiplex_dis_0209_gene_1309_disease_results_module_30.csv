@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.020000000000000018
+1,disease_on_symptoms,17,20,1.6130763116057234
+2,disease_on_drugs,24,20,0.6833333333333333

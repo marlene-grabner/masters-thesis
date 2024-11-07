@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,20,17,0.47122416534181255
+2,disease_on_drugs,25,17,0.2447058823529411

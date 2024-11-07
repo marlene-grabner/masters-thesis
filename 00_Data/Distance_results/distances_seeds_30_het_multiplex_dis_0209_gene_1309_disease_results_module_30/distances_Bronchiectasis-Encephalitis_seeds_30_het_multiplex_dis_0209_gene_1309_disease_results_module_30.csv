@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,19,13,0.00493421052631593
+2,disease_on_drugs,25,22,-0.1698065764023211

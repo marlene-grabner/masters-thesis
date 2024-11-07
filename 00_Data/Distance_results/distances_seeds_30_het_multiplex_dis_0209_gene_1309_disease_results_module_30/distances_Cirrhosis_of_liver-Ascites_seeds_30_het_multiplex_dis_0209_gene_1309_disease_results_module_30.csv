@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,19,22,-0.36454078655619115
+2,disease_on_drugs,30,27,-0.3376218323586745

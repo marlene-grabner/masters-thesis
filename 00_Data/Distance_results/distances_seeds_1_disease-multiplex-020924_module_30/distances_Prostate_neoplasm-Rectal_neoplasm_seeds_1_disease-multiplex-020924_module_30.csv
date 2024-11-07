@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,17,30,-0.20275344180225285
+1,disease_on_symptoms,21,21,0.2142857142857144
+2,disease_on_drugs,17,29,-0.006349766293324066

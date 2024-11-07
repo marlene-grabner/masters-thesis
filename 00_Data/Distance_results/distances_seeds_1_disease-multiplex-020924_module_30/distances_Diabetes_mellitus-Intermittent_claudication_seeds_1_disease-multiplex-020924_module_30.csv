@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,20,20,-0.02499999999999991
+1,disease_on_symptoms,18,24,1.643849206349206
+2,disease_on_drugs,19,18,0.26797850482061025

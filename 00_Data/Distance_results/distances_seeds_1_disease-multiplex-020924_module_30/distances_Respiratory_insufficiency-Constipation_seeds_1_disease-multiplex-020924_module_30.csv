@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Constipation nodes,sAB
+0,disease_on_genes,25,30,0.37969696969696964
+1,disease_on_symptoms,20,17,1.6748410174880761
+2,disease_on_drugs,14,27,0.7767776487288682

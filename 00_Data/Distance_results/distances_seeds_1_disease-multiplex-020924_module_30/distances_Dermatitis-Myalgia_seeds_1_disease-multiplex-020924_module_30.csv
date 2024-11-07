@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,0.022727272727272707
+1,disease_on_symptoms,25,16,1.0109146341463413
+2,disease_on_drugs,24,29,0.18474842767295607

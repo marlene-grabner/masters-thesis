@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,28,27,0.16363636363636358
+1,disease_on_symptoms,22,21,1.0050840632235984
+2,disease_on_drugs,15,24,0.15801282051282062

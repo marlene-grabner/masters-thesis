@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.05487012987012996
+1,disease_on_symptoms,17,20,0.49364069952305245
+2,disease_on_drugs,26,28,0.5541310541310542

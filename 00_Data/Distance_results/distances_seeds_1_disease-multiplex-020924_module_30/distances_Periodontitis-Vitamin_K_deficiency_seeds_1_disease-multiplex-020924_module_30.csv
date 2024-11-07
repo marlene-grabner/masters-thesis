@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.14728260869565224
+1,disease_on_symptoms,25,23,1.9029347826086958
+2,disease_on_drugs,22,20,0.4770562770562772

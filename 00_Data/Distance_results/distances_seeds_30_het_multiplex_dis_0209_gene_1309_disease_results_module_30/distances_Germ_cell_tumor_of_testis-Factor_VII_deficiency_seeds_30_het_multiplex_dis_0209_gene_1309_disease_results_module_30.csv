@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,28,0.14476911976911966
+1,disease_on_symptoms,22,19,1.4713793908274009
+2,disease_on_drugs,20,25,0.6372222222222221

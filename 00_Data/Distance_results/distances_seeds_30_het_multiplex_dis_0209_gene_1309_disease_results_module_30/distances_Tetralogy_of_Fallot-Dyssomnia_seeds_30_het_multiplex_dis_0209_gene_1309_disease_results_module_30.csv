@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.23750000000000004
+1,disease_on_symptoms,19,21,2.0834586466165415
+2,disease_on_drugs,20,17,-0.401470588235294

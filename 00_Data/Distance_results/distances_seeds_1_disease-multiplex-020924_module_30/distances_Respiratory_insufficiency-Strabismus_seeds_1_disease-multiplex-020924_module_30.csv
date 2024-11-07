@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Strabismus nodes,sAB
+0,disease_on_genes,25,13,0.4235627530364372
+1,disease_on_symptoms,20,26,2.0701505016722406
+2,disease_on_drugs,14,9,0.5764320220841961

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,25,30,-0.013939393939393918
+1,disease_on_symptoms,19,23,-0.46251498310994876
+2,disease_on_drugs,13,29,-0.18542377163066825

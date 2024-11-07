@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,28,-0.4181818181818182
+1,disease_on_symptoms,17,12,-0.6272819472616631
+2,disease_on_drugs,26,21,-0.5354220247837269

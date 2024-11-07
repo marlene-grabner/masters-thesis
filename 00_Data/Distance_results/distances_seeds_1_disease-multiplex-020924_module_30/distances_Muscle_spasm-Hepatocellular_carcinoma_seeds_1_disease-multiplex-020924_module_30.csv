@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,25,23,0.23152173913043494
+1,disease_on_symptoms,23,19,2.540754059060695
+2,disease_on_drugs,19,19,0.868421052631579

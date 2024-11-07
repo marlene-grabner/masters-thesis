@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,-0.06969696969696959
+1,disease_on_symptoms,16,22,0.7014055023923444
+2,disease_on_drugs,30,25,-0.07454545454545458

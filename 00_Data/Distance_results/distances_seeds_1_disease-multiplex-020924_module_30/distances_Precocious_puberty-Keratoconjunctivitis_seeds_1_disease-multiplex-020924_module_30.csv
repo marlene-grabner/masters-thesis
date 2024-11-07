@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.18700564971751432
+1,disease_on_symptoms,14,25,0.7332600732600734
+2,disease_on_drugs,24,27,0.26470588235294135

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,27,25,-0.09472934472934491
+1,disease_on_symptoms,21,19,0.4429824561403508
+2,disease_on_drugs,25,22,0.07895551257253386

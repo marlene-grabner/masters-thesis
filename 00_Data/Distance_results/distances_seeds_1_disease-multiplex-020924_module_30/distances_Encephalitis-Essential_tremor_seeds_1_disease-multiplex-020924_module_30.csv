@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.5153061224489797
+1,disease_on_symptoms,17,20,1.78922893481717
+2,disease_on_drugs,18,19,0.8115220483641539

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.1785714285714286
+1,disease_on_symptoms,20,13,1.4337412587412586
+2,disease_on_drugs,23,19,0.5458755584613708

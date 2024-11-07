@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,0.0847457627118644
+1,disease_on_symptoms,23,20,0.1746208291203235
+2,disease_on_drugs,23,20,-0.04681496461071788

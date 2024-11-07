@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,26,26,0.34615384615384626
+1,disease_on_symptoms,20,21,0.7521777003484318
+2,disease_on_drugs,20,24,1.227272727272727

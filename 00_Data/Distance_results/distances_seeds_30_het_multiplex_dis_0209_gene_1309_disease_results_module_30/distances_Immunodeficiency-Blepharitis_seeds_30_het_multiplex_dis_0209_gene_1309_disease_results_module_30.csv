@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,21,18,-0.12271062271062272
+2,disease_on_drugs,26,30,-0.10586080586080593

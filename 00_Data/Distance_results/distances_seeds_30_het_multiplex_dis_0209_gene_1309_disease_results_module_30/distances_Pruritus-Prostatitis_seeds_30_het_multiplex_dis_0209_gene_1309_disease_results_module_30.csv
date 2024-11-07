@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Prostatitis nodes,sAB
+0,disease_on_genes,27,30,-0.28167641325536075
+1,disease_on_symptoms,21,22,0.132739353669586
+2,disease_on_drugs,27,28,-0.19972342472342475

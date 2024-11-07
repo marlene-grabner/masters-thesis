@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,15,18,0.5257575757575754
+2,disease_on_drugs,28,29,0.0901283380865956

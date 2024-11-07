@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.10164835164835173
+1,disease_on_symptoms,28,16,0.5482954545454546
+2,disease_on_drugs,23,30,0.7141099261689909

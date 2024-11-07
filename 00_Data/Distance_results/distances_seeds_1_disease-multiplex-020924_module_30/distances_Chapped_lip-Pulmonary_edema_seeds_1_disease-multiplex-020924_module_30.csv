@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,26,30,0.3035714285714286
+1,disease_on_symptoms,21,14,1.3023809523809524
+2,disease_on_drugs,24,27,0.6492374727668844

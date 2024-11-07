@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.7587412587412585
+1,disease_on_symptoms,25,19,2.205693779904306
+2,disease_on_drugs,7,18,0.9007936507936507

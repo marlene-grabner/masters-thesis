@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.0008771929824562541
+1,disease_on_symptoms,21,20,0.4873693379790942
+2,disease_on_drugs,25,29,0.08860791826309078

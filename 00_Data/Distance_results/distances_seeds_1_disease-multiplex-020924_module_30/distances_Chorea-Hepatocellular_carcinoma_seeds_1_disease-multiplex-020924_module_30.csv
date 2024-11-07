@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,14,23,0.6505371831458788
+1,disease_on_symptoms,27,19,2.6984490211034835
+2,disease_on_drugs,8,19,0.900462962962963

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,29,28,0.06859821968714885
+1,disease_on_symptoms,17,14,1.583423692057468
+2,disease_on_drugs,26,28,0.7400284900284901

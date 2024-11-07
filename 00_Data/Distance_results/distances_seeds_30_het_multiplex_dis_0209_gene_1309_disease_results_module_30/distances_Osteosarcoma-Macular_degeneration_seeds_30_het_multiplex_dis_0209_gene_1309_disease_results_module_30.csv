@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,22,17,-0.014808720691073418
+2,disease_on_drugs,29,17,0.06980333362730384

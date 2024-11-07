@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Pain nodes,sAB
+0,disease_on_genes,28,26,-0.054894179894179884
+1,disease_on_symptoms,20,16,0.33819444444444446
+2,disease_on_drugs,27,26,0.019150137074665174

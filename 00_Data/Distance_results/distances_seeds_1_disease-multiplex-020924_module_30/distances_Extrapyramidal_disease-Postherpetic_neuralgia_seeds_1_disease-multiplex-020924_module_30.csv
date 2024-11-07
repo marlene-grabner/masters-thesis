@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,14,30,0.243073593073593
+1,disease_on_symptoms,25,15,0.6566666666666665
+2,disease_on_drugs,10,29,0.26609195402298824

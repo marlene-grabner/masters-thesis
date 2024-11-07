@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,17,0.728888146167558
+2,disease_on_drugs,21,29,0.022725779967159188

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,0.18728260869565228
+1,disease_on_symptoms,18,20,1.6846491228070173
+2,disease_on_drugs,23,20,0.8122093023255814

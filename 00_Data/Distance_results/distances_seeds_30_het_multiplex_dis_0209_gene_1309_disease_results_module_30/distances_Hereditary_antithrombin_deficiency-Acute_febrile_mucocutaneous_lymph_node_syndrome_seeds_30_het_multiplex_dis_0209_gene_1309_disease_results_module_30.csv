@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.22471264367816102
+1,disease_on_symptoms,16,13,0.30487400530503983
+2,disease_on_drugs,23,28,0.13790951163073917

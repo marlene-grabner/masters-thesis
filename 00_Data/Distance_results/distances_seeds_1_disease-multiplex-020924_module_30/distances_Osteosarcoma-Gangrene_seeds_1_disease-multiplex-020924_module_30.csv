@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,25,26,0.1956862745098038
+1,disease_on_symptoms,24,19,1.3413147694818441
+2,disease_on_drugs,23,23,0.9130434782608694

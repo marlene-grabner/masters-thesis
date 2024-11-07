@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,24,30,0.07175925925925908
+1,disease_on_symptoms,19,24,0.4238321093431252
+2,disease_on_drugs,19,15,-0.1581011351909185

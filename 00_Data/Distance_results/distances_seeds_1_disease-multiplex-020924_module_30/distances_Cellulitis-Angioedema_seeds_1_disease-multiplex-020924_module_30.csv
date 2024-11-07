@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,22,29,0.34268707482993177
+1,disease_on_symptoms,26,17,0.87724928969799
+2,disease_on_drugs,12,25,1.054054054054054

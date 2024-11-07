@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,29,25,-0.2609450830140485
+1,disease_on_symptoms,20,21,-0.16948315911730538
+2,disease_on_drugs,24,24,-0.35416666666666674

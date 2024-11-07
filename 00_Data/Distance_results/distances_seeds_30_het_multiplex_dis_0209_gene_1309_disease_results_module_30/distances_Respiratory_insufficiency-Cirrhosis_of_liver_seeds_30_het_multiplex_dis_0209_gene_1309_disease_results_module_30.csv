@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,21,19,0.07443609022556408
+2,disease_on_drugs,25,30,-0.21393939393939387

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,-0.019590643274854047
+1,disease_on_symptoms,22,17,0.3960304401480874
+2,disease_on_drugs,20,17,0.018084260731319413

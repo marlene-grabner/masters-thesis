@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Strabismus nodes,sAB
+0,disease_on_genes,21,17,-0.056317263747604374
+1,disease_on_symptoms,20,24,0.8268939393939396
+2,disease_on_drugs,21,16,0.5258606821106822

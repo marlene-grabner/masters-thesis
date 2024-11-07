@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,0.607906976744186
+1,disease_on_symptoms,19,27,1.3203237562505294
+2,disease_on_drugs,13,17,1.139969834087481

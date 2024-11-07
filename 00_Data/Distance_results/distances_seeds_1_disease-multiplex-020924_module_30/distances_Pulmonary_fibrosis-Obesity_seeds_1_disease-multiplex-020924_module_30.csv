@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Obesity nodes,sAB
+0,disease_on_genes,24,26,0.1399358974358973
+1,disease_on_symptoms,22,20,0.9474025974025975
+2,disease_on_drugs,24,27,0.39433551198257066

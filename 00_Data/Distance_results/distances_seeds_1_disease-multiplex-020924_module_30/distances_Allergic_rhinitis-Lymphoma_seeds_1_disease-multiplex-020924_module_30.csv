@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,21,26,0.19100226015119626
+1,disease_on_symptoms,22,21,1.0499848988221079
+2,disease_on_drugs,21,25,0.5127950310559006

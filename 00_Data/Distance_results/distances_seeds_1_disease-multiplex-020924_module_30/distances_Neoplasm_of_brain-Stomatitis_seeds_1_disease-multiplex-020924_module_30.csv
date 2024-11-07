@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Stomatitis nodes,sAB
+0,disease_on_genes,22,30,0.10034965034965038
+1,disease_on_symptoms,23,23,0.8043478260869563
+2,disease_on_drugs,20,30,0.5700000000000001

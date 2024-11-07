@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,0.2050264550264551
+1,disease_on_symptoms,17,15,1.9550245098039216
+2,disease_on_drugs,23,21,0.25098814229249

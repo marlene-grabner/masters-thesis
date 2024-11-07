@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,-0.03421052631578947
+1,disease_on_symptoms,22,25,0.3809477756286268
+2,disease_on_drugs,27,29,0.24660189746396655

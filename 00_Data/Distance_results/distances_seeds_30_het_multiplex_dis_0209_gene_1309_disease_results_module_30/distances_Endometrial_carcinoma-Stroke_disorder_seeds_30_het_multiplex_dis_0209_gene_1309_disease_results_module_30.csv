@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,-0.0535714285714286
+1,disease_on_symptoms,21,16,0.39993564993565034
+2,disease_on_drugs,26,30,0.22765567765567774

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.22940170940170945
+1,disease_on_symptoms,18,26,0.5691530691530691
+2,disease_on_drugs,25,24,0.06156462585034017

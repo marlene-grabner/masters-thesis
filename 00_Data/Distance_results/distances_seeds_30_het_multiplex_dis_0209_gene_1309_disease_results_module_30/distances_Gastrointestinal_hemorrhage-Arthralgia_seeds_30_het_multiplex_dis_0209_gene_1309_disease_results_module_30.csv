@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Arthralgia nodes,sAB
+0,disease_on_genes,28,30,-0.3109605911330049
+1,disease_on_symptoms,20,17,-0.1741653418124005
+2,disease_on_drugs,27,30,-0.2488304093567253

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.2620857699805068
+1,disease_on_symptoms,17,21,1.1353383458646618
+2,disease_on_drugs,26,27,0.39368650217706835

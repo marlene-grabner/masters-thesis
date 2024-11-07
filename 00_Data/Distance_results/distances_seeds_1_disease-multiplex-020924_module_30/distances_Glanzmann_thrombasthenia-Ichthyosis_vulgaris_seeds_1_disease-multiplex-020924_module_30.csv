@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,24,27,0.09899237472766886
+1,disease_on_symptoms,21,21,0.8809523809523812
+2,disease_on_drugs,24,27,0.28799019607843146

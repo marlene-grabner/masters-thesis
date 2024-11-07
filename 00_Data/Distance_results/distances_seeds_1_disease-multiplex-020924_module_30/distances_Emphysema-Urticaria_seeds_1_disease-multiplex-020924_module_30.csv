@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.1333333333333333
+1,disease_on_symptoms,14,27,0.21599561233707565
+2,disease_on_drugs,29,9,0.1578947368421053

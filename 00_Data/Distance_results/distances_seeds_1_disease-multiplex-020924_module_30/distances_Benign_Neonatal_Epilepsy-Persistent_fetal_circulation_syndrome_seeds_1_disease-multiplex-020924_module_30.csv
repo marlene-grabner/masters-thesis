@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,29,25,0.16370370370370368
+1,disease_on_symptoms,16,20,1.91875
+2,disease_on_drugs,26,18,0.3484848484848484

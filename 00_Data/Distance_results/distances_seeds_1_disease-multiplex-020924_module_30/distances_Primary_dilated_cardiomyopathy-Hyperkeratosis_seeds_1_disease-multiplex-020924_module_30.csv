@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.570054945054945
+1,disease_on_symptoms,25,21,1.8154865424430642
+2,disease_on_drugs,7,23,0.9619047619047618

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,27,29,0.19761448640758994
+1,disease_on_symptoms,21,16,2.2798423423423424
+2,disease_on_drugs,27,22,0.677248677248677

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,14,12,0.4249084249084252
+2,disease_on_drugs,29,23,-0.11901741436973845

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,16,21,0.2533783783783783
+1,disease_on_symptoms,26,20,2.0139632107023413
+2,disease_on_drugs,14,19,0.9736842105263159

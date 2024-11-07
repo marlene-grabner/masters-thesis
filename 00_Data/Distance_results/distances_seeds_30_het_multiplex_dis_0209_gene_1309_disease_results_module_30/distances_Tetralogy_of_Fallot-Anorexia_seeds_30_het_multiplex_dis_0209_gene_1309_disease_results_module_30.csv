@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.13503798947983658
+1,disease_on_symptoms,19,13,0.08641194331983804
+2,disease_on_drugs,20,28,-0.025595238095238004

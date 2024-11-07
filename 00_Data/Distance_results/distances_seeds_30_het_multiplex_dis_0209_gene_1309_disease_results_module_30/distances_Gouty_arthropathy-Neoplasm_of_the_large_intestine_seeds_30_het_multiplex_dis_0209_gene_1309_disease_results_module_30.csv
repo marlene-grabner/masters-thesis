@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,28,30,-0.06896551724137934
+1,disease_on_symptoms,18,22,-0.0732323232323231
+2,disease_on_drugs,23,29,-0.05558759081997455

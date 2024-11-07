@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.12007389162561588
+1,disease_on_symptoms,20,19,1.3347840755735492
+2,disease_on_drugs,28,25,0.4565094339622642

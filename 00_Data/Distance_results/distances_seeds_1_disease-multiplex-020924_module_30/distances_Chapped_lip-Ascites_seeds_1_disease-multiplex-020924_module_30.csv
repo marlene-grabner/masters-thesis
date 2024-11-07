@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.2678571428571428
+1,disease_on_symptoms,21,17,0.6363703376087277
+2,disease_on_drugs,24,27,0.4934640522875817

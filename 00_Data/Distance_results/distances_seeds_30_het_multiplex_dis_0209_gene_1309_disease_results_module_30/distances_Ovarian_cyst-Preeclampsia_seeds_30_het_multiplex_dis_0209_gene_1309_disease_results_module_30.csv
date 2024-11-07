@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,-0.10350877192982444
+1,disease_on_symptoms,19,18,0.009048522206416942
+2,disease_on_drugs,24,22,-0.12895256916996045

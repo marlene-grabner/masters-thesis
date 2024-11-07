@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,22,23,0.01868686868686864
+1,disease_on_symptoms,22,24,0.7430006587615283
+2,disease_on_drugs,14,22,0.45346320346320357

@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.3429458740017748
+1,disease_on_symptoms,15,21,1.6396825396825399
+2,disease_on_drugs,26,21,0.8221884498480243

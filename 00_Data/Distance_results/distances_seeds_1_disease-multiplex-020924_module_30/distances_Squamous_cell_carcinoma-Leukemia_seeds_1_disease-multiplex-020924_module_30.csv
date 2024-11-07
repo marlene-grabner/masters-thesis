@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,16,18,-0.125
+1,disease_on_symptoms,26,27,0.9261946997796056
+2,disease_on_drugs,14,17,-0.055977229601518186

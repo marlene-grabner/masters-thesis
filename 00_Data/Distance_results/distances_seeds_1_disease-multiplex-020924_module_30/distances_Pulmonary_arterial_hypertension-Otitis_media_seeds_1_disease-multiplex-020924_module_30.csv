@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,0.1415499956788524
+1,disease_on_symptoms,18,22,0.6126262626262626
+2,disease_on_drugs,26,29,0.4563178201109235

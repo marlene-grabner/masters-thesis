@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,19,17,-0.1370829033367733
+2,disease_on_drugs,20,28,-0.07916666666666683

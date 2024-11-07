@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,30,-0.06751412429378523
+1,disease_on_symptoms,20,25,0.23611111111111116
+2,disease_on_drugs,27,29,0.12358602444809352

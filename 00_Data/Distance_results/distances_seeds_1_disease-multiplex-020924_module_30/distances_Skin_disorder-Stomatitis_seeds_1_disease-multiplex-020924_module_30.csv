@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Stomatitis nodes,sAB
+0,disease_on_genes,7,30,0.24922779922779936
+1,disease_on_symptoms,30,23,0.669182389937107
+2,disease_on_drugs,6,30,0.7333333333333334

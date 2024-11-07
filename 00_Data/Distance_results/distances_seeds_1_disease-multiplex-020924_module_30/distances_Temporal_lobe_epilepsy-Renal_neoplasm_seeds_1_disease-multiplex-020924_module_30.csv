@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,29,22,0.18284774724936992
+1,disease_on_symptoms,17,25,1.7165266106442576
+2,disease_on_drugs,26,18,0.9807692307692308

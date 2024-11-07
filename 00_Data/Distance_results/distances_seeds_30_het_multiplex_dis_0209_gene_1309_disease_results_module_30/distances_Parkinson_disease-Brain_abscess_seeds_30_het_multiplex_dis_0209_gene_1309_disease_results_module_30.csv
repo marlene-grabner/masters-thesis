@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,23,27,-0.09999999999999998
+1,disease_on_symptoms,23,21,0.8036890645586299
+2,disease_on_drugs,22,23,-0.12951251646903827

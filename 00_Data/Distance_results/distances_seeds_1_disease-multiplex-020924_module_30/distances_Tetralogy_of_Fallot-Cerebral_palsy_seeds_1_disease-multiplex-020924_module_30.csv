@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,0.6079922027290448
+1,disease_on_symptoms,14,16,2.225595238095238
+2,disease_on_drugs,11,18,0.9310344827586208

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,19,18,-0.31978030662241186
+2,disease_on_drugs,24,28,-0.13598901098901095

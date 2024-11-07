@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,18,-0.18330172277540702
+2,disease_on_drugs,28,30,-0.03522167487684724

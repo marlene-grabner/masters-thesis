@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,29,30,0.35563997662185853
+1,disease_on_symptoms,23,13,0.9413786696395392
+2,disease_on_drugs,27,29,0.677248677248677

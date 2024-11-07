@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Myopathy nodes,sAB
+0,disease_on_genes,26,18,0.44483294483294467
+1,disease_on_symptoms,19,21,1.0231829573934839
+2,disease_on_drugs,24,6,0.7791666666666666

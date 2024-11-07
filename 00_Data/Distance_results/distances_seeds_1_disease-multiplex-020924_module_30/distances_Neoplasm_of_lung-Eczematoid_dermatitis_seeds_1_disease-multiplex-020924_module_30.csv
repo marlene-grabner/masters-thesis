@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,28,0.206855500821018
+1,disease_on_symptoms,20,24,0.8242424242424242
+2,disease_on_drugs,30,28,0.5338259441707718

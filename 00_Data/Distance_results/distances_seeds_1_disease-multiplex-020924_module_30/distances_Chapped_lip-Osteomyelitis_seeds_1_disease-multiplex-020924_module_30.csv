@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,0.15568627450980377
+1,disease_on_symptoms,21,23,1.4273950686994166
+2,disease_on_drugs,24,23,0.7650323774283072

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,26,25,0.2548416289592763
+1,disease_on_symptoms,28,13,1.0213414634146343
+2,disease_on_drugs,23,16,0.3829083054626532

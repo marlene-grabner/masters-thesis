@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,27,24,0.42224945533769076
+1,disease_on_symptoms,19,22,1.499328976543354
+2,disease_on_drugs,20,11,0.6524193548387098

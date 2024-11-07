@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,18,0.20578898225957065
+2,disease_on_drugs,24,30,0.10509259259259252

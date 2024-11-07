@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.4812121212121212
+1,disease_on_symptoms,22,13,1.7377122877122875
+2,disease_on_drugs,15,16,0.9070564516129029

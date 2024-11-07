@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.1025715955581531
+1,disease_on_symptoms,22,20,0.47543290043290054
+2,disease_on_drugs,29,26,-0.03166144200626975

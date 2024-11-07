@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,-0.1064814814814814
+1,disease_on_symptoms,19,26,0.28825910931174104
+2,disease_on_drugs,29,15,-0.15909090909090906

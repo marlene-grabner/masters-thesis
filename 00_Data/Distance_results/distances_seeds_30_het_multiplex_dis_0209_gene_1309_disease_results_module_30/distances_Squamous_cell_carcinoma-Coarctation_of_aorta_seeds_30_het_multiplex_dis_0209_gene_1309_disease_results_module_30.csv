@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.1413255360623783
+1,disease_on_symptoms,22,19,0.3169856459330145
+2,disease_on_drugs,30,24,0.0810185185185186

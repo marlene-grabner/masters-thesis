@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,27,27,-0.2037037037037036
+1,disease_on_symptoms,23,22,0.039152393500219596
+2,disease_on_drugs,25,20,-0.20500000000000007

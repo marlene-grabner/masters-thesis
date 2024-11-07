@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,26,25,-0.019230769230769162
+1,disease_on_symptoms,18,20,0.052046783625730786
+2,disease_on_drugs,25,18,0.031136950904392835

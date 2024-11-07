@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,28,30,-0.2586617405582924
+1,disease_on_symptoms,14,15,-0.3329228243021347
+2,disease_on_drugs,24,30,-0.20370370370370372

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,-0.018981481481481488
+1,disease_on_symptoms,17,19,0.8648090815273477
+2,disease_on_drugs,26,19,-0.07280701754385976

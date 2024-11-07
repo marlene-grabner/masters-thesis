@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,23,30,-0.018867924528301883
+1,disease_on_symptoms,23,20,0.9463599595551062
+2,disease_on_drugs,22,24,0.3277338603425559

@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,19,15,0.5460268317853458
+2,disease_on_drugs,29,26,0.6524475524475526

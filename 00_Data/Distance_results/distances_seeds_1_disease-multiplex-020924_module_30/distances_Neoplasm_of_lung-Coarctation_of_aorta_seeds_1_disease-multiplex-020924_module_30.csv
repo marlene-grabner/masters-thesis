@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.2289473684210528
+1,disease_on_symptoms,20,14,1.4031512605042018
+2,disease_on_drugs,30,13,0.8437984496124031

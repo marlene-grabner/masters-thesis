@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,23,15,0.23653699466056444
+1,disease_on_symptoms,21,27,2.428571428571429
+2,disease_on_drugs,21,13,0.6638655462184875

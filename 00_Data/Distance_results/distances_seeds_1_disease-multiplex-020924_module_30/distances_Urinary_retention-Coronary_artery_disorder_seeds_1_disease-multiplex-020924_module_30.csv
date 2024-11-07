@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.3739840606012783
+1,disease_on_symptoms,18,21,1.6321733821733821
+2,disease_on_drugs,19,17,0.2543859649122806

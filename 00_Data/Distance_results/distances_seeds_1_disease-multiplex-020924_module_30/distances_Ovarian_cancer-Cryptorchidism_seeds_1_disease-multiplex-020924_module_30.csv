@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,0.17671614100185518
+1,disease_on_symptoms,17,18,1.3318394024276379
+2,disease_on_drugs,25,18,0.09302325581395343

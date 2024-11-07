@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,17,16,-0.5442847593582887
+2,disease_on_drugs,24,28,-0.1581959706959708

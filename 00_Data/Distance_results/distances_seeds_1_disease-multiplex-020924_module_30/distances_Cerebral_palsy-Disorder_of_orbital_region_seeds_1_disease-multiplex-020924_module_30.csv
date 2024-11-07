@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,17,0.029659338482867836
+1,disease_on_symptoms,16,27,1.488533591731266
+2,disease_on_drugs,18,16,0.9669117647058822

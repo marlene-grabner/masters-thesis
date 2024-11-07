@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.33399470899470907
+1,disease_on_symptoms,24,15,0.42115384615384643
+2,disease_on_drugs,28,21,0.34183673469387754

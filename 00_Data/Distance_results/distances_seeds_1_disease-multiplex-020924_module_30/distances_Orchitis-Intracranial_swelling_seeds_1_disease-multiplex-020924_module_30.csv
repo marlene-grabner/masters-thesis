@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,23,30,0.22861635220125787
+1,disease_on_symptoms,16,14,0.9723214285714288
+2,disease_on_drugs,17,24,0.09107484457197512

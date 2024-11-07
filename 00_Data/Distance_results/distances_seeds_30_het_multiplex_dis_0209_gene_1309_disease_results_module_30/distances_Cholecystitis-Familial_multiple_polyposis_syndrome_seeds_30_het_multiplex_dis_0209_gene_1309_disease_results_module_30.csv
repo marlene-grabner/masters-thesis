@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,23,19,0.4124441538629182
+2,disease_on_drugs,21,25,0.06906832298136645

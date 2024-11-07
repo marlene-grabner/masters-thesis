@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,28,30,-0.05057471264367808
+1,disease_on_symptoms,17,19,0.30572755417956654
+2,disease_on_drugs,19,24,-0.07359241126071003

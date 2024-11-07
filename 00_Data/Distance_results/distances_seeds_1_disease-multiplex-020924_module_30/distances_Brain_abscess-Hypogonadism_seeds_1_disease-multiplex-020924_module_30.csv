@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,27,30,0.17592592592592604
+1,disease_on_symptoms,21,12,1.3127705627705626
+2,disease_on_drugs,23,30,0.626483456385015

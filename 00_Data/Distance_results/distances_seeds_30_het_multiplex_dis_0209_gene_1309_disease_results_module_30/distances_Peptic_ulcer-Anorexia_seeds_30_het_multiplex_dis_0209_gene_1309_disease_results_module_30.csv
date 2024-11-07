@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.15283459964932777
+1,disease_on_symptoms,20,13,0.5030885780885783
+2,disease_on_drugs,30,28,0.18834154351395727

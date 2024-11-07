@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,17,0.5595786963434022
+2,disease_on_drugs,30,25,0.04363636363636347

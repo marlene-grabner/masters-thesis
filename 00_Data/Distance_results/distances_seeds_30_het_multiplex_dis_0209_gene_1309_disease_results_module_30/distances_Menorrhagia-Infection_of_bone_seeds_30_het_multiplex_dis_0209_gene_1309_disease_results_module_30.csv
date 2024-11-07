@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,16,18,0.7081290849673201
+2,disease_on_drugs,23,28,0.31897759103641454

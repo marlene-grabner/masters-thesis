@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,25,22,0.5666252587991718
+1,disease_on_symptoms,20,20,2.8
+2,disease_on_drugs,14,19,1.022043745727956

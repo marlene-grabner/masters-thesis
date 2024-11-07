@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,24,20,0.29507575757575744
+1,disease_on_symptoms,17,27,1.9446425034660328
+2,disease_on_drugs,23,19,0.8997493734335837

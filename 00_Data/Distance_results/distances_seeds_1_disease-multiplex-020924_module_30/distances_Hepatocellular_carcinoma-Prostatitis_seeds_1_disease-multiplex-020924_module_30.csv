@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Prostatitis nodes,sAB
+0,disease_on_genes,23,30,0.34268526114301334
+1,disease_on_symptoms,19,20,1.895782726045884
+2,disease_on_drugs,19,29,1.069683908045977

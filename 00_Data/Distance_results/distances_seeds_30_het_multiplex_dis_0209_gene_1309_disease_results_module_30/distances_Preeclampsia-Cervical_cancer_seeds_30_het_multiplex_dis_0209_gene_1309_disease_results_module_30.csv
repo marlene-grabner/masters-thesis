@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,28,0.16363636363636358
+1,disease_on_symptoms,18,22,1.052020202020202
+2,disease_on_drugs,22,15,0.20999180999180989

@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333333
+1,disease_on_symptoms,16,20,1.9472222222222224
+2,disease_on_drugs,21,30,1.4817927170868346

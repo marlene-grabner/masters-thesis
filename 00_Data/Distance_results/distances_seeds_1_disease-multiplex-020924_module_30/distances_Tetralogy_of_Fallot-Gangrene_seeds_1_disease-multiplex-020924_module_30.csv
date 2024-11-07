@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,0.2702380952380954
+1,disease_on_symptoms,14,19,1.4215083162451583
+2,disease_on_drugs,11,23,0.1841432225063937

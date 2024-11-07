@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,24,19,0.18923398612811093
+2,disease_on_drugs,27,30,0.06978557504873284

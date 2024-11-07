@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.15254237288135597
+1,disease_on_symptoms,17,18,-0.16984126984126968
+2,disease_on_drugs,30,28,-0.06806239737274233

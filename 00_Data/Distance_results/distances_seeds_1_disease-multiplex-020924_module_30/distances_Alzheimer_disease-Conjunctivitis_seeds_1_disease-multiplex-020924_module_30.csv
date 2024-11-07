@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,20,27,0.27563041765169416
+1,disease_on_symptoms,23,27,1.1109822866344605
+2,disease_on_drugs,18,26,0.5069930069930071

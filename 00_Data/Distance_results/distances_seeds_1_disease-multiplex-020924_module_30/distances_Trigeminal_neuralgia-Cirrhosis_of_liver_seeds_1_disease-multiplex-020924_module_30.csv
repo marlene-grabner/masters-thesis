@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,0.2573481116584564
+1,disease_on_symptoms,19,14,1.1065732513100937
+2,disease_on_drugs,26,26,0.7115384615384615

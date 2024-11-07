@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.25
+1,disease_on_symptoms,17,21,-0.4644699985257259
+2,disease_on_drugs,24,25,-0.22579931972789102

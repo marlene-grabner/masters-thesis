@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.33000000000000007
+1,disease_on_symptoms,19,26,0.9074898785425103
+2,disease_on_drugs,28,13,0.31988742964352723

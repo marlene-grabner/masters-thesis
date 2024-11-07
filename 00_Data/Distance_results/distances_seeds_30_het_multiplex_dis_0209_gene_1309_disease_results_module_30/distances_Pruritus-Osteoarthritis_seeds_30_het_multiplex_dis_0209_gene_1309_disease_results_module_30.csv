@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,26,-0.13245175509326446
+1,disease_on_symptoms,21,22,0.46096345514950143
+2,disease_on_drugs,27,25,-0.057920227920227774

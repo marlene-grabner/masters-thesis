@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Keloid nodes,sAB
+0,disease_on_genes,24,22,-0.37154150197628455
+1,disease_on_symptoms,23,20,0.6271486349848334
+2,disease_on_drugs,24,19,-0.39534883720930236

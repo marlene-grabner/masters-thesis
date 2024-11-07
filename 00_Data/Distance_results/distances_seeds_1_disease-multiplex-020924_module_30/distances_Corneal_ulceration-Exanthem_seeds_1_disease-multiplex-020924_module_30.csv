@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Exanthem nodes,sAB
+0,disease_on_genes,28,28,-0.2321428571428571
+1,disease_on_symptoms,19,26,-0.14183535762483124
+2,disease_on_drugs,26,28,-0.36970899470899465

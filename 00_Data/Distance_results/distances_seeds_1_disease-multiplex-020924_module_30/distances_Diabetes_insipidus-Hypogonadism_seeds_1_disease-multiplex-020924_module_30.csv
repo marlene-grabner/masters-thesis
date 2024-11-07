@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,24,30,0.16784591194968534
+1,disease_on_symptoms,18,12,0.46666666666666656
+2,disease_on_drugs,18,30,0.9416666666666667

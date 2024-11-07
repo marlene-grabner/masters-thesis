@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,0.37231162196679435
+1,disease_on_symptoms,23,22,1.8215634606938953
+2,disease_on_drugs,21,29,0.9006568144499179

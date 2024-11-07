@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,29,27,0.19704433497536944
+1,disease_on_symptoms,20,22,0.9050865800865799
+2,disease_on_drugs,24,27,0.2735566448801743

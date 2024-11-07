@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,24,15,0.013461538461538414
+1,disease_on_symptoms,26,27,0.754958877600387
+2,disease_on_drugs,15,13,0.1071428571428572

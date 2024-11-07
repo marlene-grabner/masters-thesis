@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,15,0.3108250276854927
+1,disease_on_symptoms,17,27,1.1876114081996434
+2,disease_on_drugs,25,13,0.7105263157894737

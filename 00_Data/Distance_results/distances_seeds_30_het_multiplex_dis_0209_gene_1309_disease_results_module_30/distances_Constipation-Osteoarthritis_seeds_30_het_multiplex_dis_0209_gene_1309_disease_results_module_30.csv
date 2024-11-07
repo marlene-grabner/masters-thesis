@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.16227106227106225
+1,disease_on_symptoms,16,22,0.45230263157894735
+2,disease_on_drugs,28,25,-0.07393530997304576

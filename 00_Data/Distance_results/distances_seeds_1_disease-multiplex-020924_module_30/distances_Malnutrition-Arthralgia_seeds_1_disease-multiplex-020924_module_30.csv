@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Arthralgia nodes,sAB
+0,disease_on_genes,26,30,-0.2706043956043954
+1,disease_on_symptoms,18,19,-0.1354512407143984
+2,disease_on_drugs,23,30,-0.26415094339622647

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,25,26,-0.27413273001508287
+1,disease_on_symptoms,19,18,0.13391022601548896
+2,disease_on_drugs,23,25,-0.04021739130434776

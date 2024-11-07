@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,27,30,-0.1579922027290449
+1,disease_on_symptoms,21,16,0.14659749034749026
+2,disease_on_drugs,27,28,-0.1263468013468012

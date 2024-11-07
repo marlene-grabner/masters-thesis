@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,-0.1568627450980392
+1,disease_on_symptoms,19,26,-0.4866621682411155
+2,disease_on_drugs,22,21,-0.29968287526427073

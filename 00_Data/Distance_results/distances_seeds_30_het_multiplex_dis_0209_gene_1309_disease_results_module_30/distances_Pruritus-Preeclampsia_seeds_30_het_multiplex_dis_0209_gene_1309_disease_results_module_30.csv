@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,27,0.01851851851851838
+1,disease_on_symptoms,21,18,1.1761294261294262
+2,disease_on_drugs,27,22,0.14113928399642672

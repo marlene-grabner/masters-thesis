@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,0.21153846153846145
+1,disease_on_symptoms,17,22,1.4026463732346084
+2,disease_on_drugs,25,25,0.8400000000000001

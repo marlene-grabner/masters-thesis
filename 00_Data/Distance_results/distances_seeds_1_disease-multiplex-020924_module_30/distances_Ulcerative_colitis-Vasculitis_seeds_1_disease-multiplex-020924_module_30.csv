@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.1186002178649237
+1,disease_on_symptoms,20,19,1.2034750337381919
+2,disease_on_drugs,25,20,0.34999999999999987

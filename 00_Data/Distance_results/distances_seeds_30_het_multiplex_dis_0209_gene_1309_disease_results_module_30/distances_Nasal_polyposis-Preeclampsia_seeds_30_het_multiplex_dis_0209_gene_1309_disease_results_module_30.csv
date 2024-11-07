@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,20,18,0.8032163742690059
+2,disease_on_drugs,25,22,-0.004526112185686548

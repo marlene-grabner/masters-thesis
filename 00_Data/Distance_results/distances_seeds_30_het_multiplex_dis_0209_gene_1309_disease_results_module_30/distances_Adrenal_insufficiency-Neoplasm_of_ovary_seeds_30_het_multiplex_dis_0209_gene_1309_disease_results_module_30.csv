@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,15,22,0.17559377559377554
+2,disease_on_drugs,24,29,0.14206517024506615

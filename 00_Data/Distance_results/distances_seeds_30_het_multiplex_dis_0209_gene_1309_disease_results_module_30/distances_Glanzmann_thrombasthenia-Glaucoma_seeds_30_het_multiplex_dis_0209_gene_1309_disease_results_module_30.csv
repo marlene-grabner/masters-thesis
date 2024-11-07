@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Glaucoma nodes,sAB
+0,disease_on_genes,24,30,0.020370370370370372
+1,disease_on_symptoms,19,18,0.4894499762920814
+2,disease_on_drugs,24,28,0.2548076923076923

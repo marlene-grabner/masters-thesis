@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,-0.2909090909090909
+1,disease_on_symptoms,20,19,-0.12682186234817827
+2,disease_on_drugs,25,29,-0.21665389527458467

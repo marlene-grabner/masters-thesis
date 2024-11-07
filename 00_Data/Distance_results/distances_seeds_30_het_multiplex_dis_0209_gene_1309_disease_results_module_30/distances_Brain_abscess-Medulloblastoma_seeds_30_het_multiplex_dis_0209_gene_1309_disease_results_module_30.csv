@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,27,27,-0.16666666666666663
+1,disease_on_symptoms,21,22,0.5384073291050036
+2,disease_on_drugs,23,26,-0.049416422087229295

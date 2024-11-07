@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,29,14,0.036745331653110114
+1,disease_on_symptoms,17,23,1.0853580562659846
+2,disease_on_drugs,30,14,0.4545454545454546

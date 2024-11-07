@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,29,-0.1078042328042329
+1,disease_on_symptoms,17,20,0.3472972972972974
+2,disease_on_drugs,24,28,0.014423076923076872

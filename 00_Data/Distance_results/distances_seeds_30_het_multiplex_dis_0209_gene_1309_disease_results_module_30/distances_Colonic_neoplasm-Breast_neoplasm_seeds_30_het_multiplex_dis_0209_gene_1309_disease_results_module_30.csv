@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.5166666666666666
+1,disease_on_symptoms,19,20,-0.7966599190283399
+2,disease_on_drugs,29,30,-0.47486849795441255

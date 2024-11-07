@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,14,12,0.32234432234432253
+2,disease_on_drugs,26,21,0.009780999142701363

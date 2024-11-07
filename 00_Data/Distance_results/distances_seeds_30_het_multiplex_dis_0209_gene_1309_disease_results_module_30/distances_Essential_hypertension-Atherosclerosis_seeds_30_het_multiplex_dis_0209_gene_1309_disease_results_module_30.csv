@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,28,30,-0.43103448275862066
+1,disease_on_symptoms,13,14,-0.8133903133903135
+2,disease_on_drugs,28,29,-0.4749589490968801

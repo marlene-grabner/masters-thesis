@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,15,27,0.8624338624338623
+2,disease_on_drugs,29,28,0.7715625270071731

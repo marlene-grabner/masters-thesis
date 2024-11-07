@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.09278752436647153
+1,disease_on_symptoms,17,20,0.8910572337042924
+2,disease_on_drugs,26,25,0.33333333333333326

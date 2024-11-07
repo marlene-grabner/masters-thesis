@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,22,-0.16506410256410253
+1,disease_on_symptoms,18,21,0.18284493284493286
+2,disease_on_drugs,25,17,-0.20504201680672263

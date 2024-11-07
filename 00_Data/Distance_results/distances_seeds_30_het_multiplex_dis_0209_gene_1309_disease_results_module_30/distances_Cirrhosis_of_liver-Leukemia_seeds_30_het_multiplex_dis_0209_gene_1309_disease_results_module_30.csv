@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,19,21,-0.3969924812030077
+2,disease_on_drugs,30,30,-0.1499999999999999

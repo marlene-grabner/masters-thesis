@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,28,0.18518518518518512
+1,disease_on_symptoms,17,22,0.7176059234882763
+2,disease_on_drugs,24,15,0.26378205128205123

@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,21,0.3320105820105821
+1,disease_on_symptoms,20,22,2.8269480519480523
+2,disease_on_drugs,15,20,0.675

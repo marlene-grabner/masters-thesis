@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.05555555555555558
+1,disease_on_symptoms,19,26,1.2236617183985605
+2,disease_on_drugs,23,28,0.23491353062964304

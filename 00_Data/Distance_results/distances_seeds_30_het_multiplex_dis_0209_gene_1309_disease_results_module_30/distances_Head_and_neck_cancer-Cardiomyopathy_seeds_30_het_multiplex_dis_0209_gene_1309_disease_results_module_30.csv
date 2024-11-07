@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,27,25,-0.07846153846153847
+1,disease_on_symptoms,22,21,0.4355431390315112
+2,disease_on_drugs,23,24,0.10630588960838727

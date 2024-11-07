@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,-0.18854679802955687
+1,disease_on_symptoms,18,15,-0.31161616161616146
+2,disease_on_drugs,26,23,-0.14301071599208248

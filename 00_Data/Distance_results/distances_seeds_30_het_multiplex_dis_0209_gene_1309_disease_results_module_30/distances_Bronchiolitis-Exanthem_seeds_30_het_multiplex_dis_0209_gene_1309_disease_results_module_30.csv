@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,28,30,-0.1028735632183907
+1,disease_on_symptoms,25,21,-0.33792960662525884
+2,disease_on_drugs,24,29,-0.06907395358924306

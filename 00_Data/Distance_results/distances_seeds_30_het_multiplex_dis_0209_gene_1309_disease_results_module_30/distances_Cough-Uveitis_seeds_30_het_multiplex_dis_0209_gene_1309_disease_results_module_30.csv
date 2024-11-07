@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.08771929824561409
+1,disease_on_symptoms,22,20,0.614069264069264
+2,disease_on_drugs,24,23,0.061902559358618436

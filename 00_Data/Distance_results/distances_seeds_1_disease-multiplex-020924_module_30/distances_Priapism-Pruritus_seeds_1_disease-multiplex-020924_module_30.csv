@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,26,-0.05696969696969689
+1,disease_on_symptoms,17,19,0.23254213966288262
+2,disease_on_drugs,28,24,-0.015109890109890056

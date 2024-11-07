@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,0.55
+1,disease_on_symptoms,22,15,1.4187141687141684
+2,disease_on_drugs,15,30,0.6777777777777776

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Myopathy nodes,sAB
+0,disease_on_genes,26,18,0.5707070707070707
+1,disease_on_symptoms,20,21,1.3382984901277586
+2,disease_on_drugs,25,6,0.12365591397849474

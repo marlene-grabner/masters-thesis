@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,28,30,0.06896551724137923
+1,disease_on_symptoms,17,14,0.5224993223095691
+2,disease_on_drugs,19,22,-0.0991364219862294

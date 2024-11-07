@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,28,23,0.29586834733893563
+1,disease_on_symptoms,19,22,0.8706383475318007
+2,disease_on_drugs,26,17,0.5629274965800273

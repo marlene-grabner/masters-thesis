@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,29,28,-0.19298245614035092
+1,disease_on_symptoms,20,17,-0.06108903020667733
+2,disease_on_drugs,27,28,-0.31085858585858595

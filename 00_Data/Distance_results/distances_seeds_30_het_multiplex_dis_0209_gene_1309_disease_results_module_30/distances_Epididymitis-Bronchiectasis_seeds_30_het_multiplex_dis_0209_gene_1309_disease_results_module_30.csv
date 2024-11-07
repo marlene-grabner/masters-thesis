@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,29,30,-0.2542372881355932
+1,disease_on_symptoms,23,19,-0.5728996404053615
+2,disease_on_drugs,26,25,-0.49028657616892923

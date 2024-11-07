@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,27,24,0.19199346405228757
+1,disease_on_symptoms,15,26,2.359974984365228
+2,disease_on_drugs,25,15,0.6799999999999999

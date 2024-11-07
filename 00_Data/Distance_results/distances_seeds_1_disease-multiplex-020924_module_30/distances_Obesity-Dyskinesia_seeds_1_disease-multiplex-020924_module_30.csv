@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,0.07993589743589746
+1,disease_on_symptoms,20,17,1.644515103338633
+2,disease_on_drugs,27,23,0.6029629629629627

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,27,25,-0.5385185185185186
+1,disease_on_symptoms,23,23,-0.6304347826086956
+2,disease_on_drugs,25,24,-0.5702210884353741

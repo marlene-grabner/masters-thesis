@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,-0.19833333333333336
+1,disease_on_symptoms,16,27,-0.015207795004306579
+2,disease_on_drugs,30,19,-0.2975295381310421

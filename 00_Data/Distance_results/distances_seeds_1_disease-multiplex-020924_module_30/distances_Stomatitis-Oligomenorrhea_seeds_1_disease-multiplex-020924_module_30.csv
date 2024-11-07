@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.6568965517241379
+1,disease_on_symptoms,23,12,1.2642857142857142
+2,disease_on_drugs,30,21,1.0638655462184876

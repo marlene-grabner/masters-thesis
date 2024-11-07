@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,28,0.4137196765498654
+1,disease_on_symptoms,24,20,1.3356060606060605
+2,disease_on_drugs,20,27,0.8085106382978724

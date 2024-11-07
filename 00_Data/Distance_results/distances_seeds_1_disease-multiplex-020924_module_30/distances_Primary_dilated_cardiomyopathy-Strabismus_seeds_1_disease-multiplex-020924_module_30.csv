@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.6985688729874775
+1,disease_on_symptoms,25,26,3.3520814479638004
+2,disease_on_drugs,7,9,0.998015873015873

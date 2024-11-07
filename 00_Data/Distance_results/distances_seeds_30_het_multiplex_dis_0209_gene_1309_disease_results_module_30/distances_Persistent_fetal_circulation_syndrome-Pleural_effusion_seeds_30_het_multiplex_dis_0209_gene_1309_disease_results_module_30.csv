@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,24,30,0.14814814814814814
+1,disease_on_symptoms,22,18,0.8386363636363638
+2,disease_on_drugs,21,27,0.19345238095238115

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.4343116701607266
+1,disease_on_symptoms,17,15,2.1019607843137256
+2,disease_on_drugs,20,21,0.8310104529616724

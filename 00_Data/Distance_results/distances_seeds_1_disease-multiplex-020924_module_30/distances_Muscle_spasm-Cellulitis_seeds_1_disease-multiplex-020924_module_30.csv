@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cellulitis nodes,sAB
+0,disease_on_genes,25,22,0.27474120082815756
+1,disease_on_symptoms,23,26,1.6852774554637913
+2,disease_on_drugs,19,12,1.161290322580645

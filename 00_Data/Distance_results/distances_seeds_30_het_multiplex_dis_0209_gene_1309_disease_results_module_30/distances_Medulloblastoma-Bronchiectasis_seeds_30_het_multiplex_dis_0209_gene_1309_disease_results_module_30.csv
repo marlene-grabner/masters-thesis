@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,22,19,-0.1127902905823317
+2,disease_on_drugs,26,25,0.25405731523378594

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,23,26,0.48431847655450144
+1,disease_on_symptoms,19,17,1.799277605779154
+2,disease_on_drugs,11,18,1.2126436781609198

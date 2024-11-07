@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.1353107344632768
+1,disease_on_symptoms,19,11,0.2647527910685805
+2,disease_on_drugs,30,24,0.0064814814814815325

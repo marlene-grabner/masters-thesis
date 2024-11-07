@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,18,26,0.26767676767676774
+1,disease_on_symptoms,28,17,1.6739729225023343
+2,disease_on_drugs,17,23,0.7194373401534528

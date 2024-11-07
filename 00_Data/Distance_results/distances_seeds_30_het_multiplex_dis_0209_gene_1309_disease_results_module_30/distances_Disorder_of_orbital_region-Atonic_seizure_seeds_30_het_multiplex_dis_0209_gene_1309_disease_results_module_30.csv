@@ -1,0 +1,4 @@
+,Layer,Disorder_of_orbital_region nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,15,0.09747474747474771
+2,disease_on_drugs,28,23,-0.0197600779442213

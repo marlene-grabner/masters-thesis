@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,28,-0.051724137931034475
+1,disease_on_symptoms,18,20,0.22997076023391827
+2,disease_on_drugs,30,25,-0.1172727272727272

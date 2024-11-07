@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.3928571428571428
+1,disease_on_symptoms,17,7,0.8483893557422968
+2,disease_on_drugs,25,22,0.8861895551257253

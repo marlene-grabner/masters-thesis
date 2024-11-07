@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,-0.12763347763347777
+1,disease_on_symptoms,17,25,-0.282577030812325
+2,disease_on_drugs,24,23,-0.19287696577243274

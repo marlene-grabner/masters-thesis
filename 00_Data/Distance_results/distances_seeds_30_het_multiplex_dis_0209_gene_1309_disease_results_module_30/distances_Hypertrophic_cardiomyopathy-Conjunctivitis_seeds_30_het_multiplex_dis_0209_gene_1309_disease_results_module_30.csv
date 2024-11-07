@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.11892655367231653
+1,disease_on_symptoms,19,27,0.7042122213746929
+2,disease_on_drugs,22,28,0.32558441558441564

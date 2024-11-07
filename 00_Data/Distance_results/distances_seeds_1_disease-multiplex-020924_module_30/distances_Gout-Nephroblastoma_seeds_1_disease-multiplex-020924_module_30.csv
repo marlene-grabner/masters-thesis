@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,25,25,0.039999999999999813
+1,disease_on_symptoms,18,25,1.5537984496124033
+2,disease_on_drugs,23,21,0.6363636363636365

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,30,26,0.286904761904762
+1,disease_on_symptoms,16,21,1.5000402187902186
+2,disease_on_drugs,27,24,1.1372549019607843

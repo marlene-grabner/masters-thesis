@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,27,25,0.19148148148148136
+1,disease_on_symptoms,22,22,0.8636363636363633
+2,disease_on_drugs,24,21,1.0456349206349207

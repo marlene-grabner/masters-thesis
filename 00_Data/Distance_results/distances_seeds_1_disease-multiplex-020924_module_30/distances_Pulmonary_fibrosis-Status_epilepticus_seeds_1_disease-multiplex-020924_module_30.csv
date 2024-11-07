@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,24,29,0.28268000433745377
+1,disease_on_symptoms,22,17,2.084635952283011
+2,disease_on_drugs,24,30,0.7222222222222223

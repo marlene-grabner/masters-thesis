@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.3290909090909091
+1,disease_on_symptoms,20,23,-0.5118048533872597
+2,disease_on_drugs,30,24,-0.07268518518518519

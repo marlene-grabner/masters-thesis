@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,-0.10169491525423724
+1,disease_on_symptoms,20,16,0.6055555555555554
+2,disease_on_drugs,27,28,0.08979076479076475

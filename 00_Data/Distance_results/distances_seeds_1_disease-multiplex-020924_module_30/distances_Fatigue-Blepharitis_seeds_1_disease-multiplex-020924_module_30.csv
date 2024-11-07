@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.1756688963210702
+1,disease_on_symptoms,21,27,1.6997354497354495
+2,disease_on_drugs,26,19,0.308906882591093

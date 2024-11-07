@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.45819209039548037
+1,disease_on_symptoms,22,12,0.9233511586452763
+2,disease_on_drugs,15,30,0.8166666666666667

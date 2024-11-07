@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.07260049220672671
+1,disease_on_symptoms,18,19,0.7227358937885255
+2,disease_on_drugs,27,22,0.33426097711812

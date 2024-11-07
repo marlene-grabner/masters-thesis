@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,20,30,0.17833333333333345
+1,disease_on_symptoms,22,20,0.9514069264069263
+2,disease_on_drugs,15,30,0.9888888888888889

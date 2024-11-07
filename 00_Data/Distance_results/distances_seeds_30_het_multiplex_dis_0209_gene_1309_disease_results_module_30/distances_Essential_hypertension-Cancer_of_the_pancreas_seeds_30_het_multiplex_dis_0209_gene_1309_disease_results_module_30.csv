@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,30,-0.03448275862068961
+1,disease_on_symptoms,13,23,0.4841137123745818
+2,disease_on_drugs,28,30,0.08596059113300503

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,27,27,0.18518518518518512
+1,disease_on_symptoms,19,18,0.6264422317053897
+2,disease_on_drugs,27,21,0.5565476190476191

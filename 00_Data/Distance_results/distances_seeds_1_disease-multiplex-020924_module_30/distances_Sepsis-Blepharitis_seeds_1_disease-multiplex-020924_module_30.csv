@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,22,20,0.21850649350649354
+1,disease_on_symptoms,23,27,1.8050563607085346
+2,disease_on_drugs,17,19,0.36076711386308924

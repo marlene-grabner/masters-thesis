@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.6333333333333333
+1,disease_on_symptoms,14,27,2.648664343786295
+2,disease_on_drugs,11,13,1.0833333333333335

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.0862479474548441
+1,disease_on_symptoms,18,15,0.26414141414141445
+2,disease_on_drugs,26,23,-0.19440652515186674

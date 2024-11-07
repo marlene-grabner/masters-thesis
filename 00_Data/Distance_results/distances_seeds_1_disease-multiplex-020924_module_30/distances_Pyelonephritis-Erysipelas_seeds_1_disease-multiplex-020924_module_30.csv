@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,23,28,-0.12053952015588842
+1,disease_on_symptoms,21,20,0.24552845528455292
+2,disease_on_drugs,19,27,-0.10869565217391308

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,24,29,0.07190635451505023
+1,disease_on_symptoms,23,25,1.093876811594203
+2,disease_on_drugs,20,27,0.148758865248227

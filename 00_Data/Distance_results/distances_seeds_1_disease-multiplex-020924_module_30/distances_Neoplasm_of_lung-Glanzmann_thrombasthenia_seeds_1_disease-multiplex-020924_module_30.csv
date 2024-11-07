@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.18472222222222223
+1,disease_on_symptoms,20,21,0.7087979094076657
+2,disease_on_drugs,30,24,0.45324074074074083

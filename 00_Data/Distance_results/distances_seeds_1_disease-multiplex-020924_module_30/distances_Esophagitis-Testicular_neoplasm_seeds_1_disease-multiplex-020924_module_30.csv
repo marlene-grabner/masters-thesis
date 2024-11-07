@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,24,25,0.10402173913043478
+1,disease_on_symptoms,23,25,1.208876811594203
+2,disease_on_drugs,20,23,1.0478008088978767

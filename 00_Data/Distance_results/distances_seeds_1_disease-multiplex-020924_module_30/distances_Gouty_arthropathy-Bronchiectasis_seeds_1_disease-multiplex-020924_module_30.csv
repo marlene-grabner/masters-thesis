@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,25,30,0.24878787878787878
+1,disease_on_symptoms,13,15,1.9119047619047618
+2,disease_on_drugs,16,26,0.6445741758241759

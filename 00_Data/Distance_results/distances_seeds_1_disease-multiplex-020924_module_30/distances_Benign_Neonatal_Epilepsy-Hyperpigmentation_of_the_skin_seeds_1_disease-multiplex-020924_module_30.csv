@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,29,24,0.4103773584905661
+1,disease_on_symptoms,16,23,3.6666318283166106
+2,disease_on_drugs,26,12,1.1842105263157894

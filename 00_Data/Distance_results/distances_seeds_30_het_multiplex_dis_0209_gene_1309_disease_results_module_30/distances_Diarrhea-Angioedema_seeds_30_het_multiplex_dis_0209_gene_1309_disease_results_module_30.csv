@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,21,18,0.07570207570207588
+2,disease_on_drugs,29,26,-0.1479864962623585

@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,20,0.13722222222222236
+1,disease_on_symptoms,25,27,0.6705413105413105
+2,disease_on_drugs,21,19,0.3223684210526314

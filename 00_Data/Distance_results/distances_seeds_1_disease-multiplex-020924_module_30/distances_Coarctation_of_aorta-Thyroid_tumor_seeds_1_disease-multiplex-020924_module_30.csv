@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.45478260869565235
+1,disease_on_symptoms,14,20,1.6590336134453785
+2,disease_on_drugs,13,20,0.9446969696969698

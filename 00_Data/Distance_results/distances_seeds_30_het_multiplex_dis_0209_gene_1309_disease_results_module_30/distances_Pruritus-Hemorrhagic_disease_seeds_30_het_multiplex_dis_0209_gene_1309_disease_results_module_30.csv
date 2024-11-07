@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,26,0.03808525506638705
+1,disease_on_symptoms,21,19,0.5780075187969924
+2,disease_on_drugs,27,24,0.1072984749455339

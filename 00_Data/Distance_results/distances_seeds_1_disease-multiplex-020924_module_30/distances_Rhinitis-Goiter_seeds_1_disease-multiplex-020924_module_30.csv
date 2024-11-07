@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.4278388278388279
+1,disease_on_symptoms,15,15,0.7000000000000002
+2,disease_on_drugs,22,16,0.5526315789473684

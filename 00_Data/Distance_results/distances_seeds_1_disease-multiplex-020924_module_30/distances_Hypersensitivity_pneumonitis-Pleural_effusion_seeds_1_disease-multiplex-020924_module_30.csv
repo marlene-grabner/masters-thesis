@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,24,30,0.057407407407407574
+1,disease_on_symptoms,23,20,0.16726491405460053
+2,disease_on_drugs,24,22,0.13043478260869557

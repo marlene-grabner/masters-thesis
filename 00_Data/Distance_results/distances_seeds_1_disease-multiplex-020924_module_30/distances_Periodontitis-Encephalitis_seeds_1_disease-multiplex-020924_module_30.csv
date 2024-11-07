@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,23,28,-0.08132383388137865
+1,disease_on_symptoms,25,17,0.2569187675070028
+2,disease_on_drugs,22,18,-0.2931818181818183

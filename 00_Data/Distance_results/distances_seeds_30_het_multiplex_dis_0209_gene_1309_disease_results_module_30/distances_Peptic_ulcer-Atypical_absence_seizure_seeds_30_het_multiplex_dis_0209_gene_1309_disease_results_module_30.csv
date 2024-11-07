@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,20,13,1.1884032634032635
+2,disease_on_drugs,30,22,0.6292540792540793

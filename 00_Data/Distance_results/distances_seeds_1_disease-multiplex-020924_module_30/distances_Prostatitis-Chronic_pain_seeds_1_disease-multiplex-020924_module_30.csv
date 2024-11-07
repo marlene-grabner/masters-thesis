@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333215
+1,disease_on_symptoms,20,22,1.4925324675324674
+2,disease_on_drugs,29,28,0.544151326592343

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,15,0.7051470588235293
+2,disease_on_drugs,24,30,0.22638888888888875

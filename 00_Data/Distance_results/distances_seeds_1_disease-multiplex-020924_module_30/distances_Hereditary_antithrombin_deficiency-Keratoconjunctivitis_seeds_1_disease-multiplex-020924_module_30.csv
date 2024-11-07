@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,28,29,0.20895989974937335
+1,disease_on_symptoms,15,25,2.16
+2,disease_on_drugs,20,27,0.3402482269503546

@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,0.07017543859649122
+1,disease_on_symptoms,18,17,0.9717553688141924
+2,disease_on_drugs,22,25,0.25862669245647973

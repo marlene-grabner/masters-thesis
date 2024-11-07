@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,-0.15714285714285714
+1,disease_on_symptoms,16,19,0.3912593984962407
+2,disease_on_drugs,29,23,-0.214046822742475

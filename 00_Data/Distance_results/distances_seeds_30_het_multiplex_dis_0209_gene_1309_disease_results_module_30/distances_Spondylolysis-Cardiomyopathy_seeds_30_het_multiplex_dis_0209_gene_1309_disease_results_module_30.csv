@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,28,25,-0.040000000000000036
+1,disease_on_symptoms,17,21,0.18480023588382744
+2,disease_on_drugs,19,24,0.13086495308037516

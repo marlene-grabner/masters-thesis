@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.10225988700564992
+1,disease_on_symptoms,19,13,-0.09868421052631593
+2,disease_on_drugs,24,22,-0.06472332015810278

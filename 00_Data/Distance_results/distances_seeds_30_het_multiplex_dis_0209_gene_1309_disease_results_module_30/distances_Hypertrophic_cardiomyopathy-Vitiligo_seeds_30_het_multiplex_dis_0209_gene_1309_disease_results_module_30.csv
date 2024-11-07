@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,19,19,0.26315789473684204
+2,disease_on_drugs,22,25,0.2697485493230174

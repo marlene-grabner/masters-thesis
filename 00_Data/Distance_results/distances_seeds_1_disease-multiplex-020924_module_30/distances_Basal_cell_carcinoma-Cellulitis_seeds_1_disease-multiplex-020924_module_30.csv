@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,22,0.4498675083781465
+1,disease_on_symptoms,23,26,1.323254385366187
+2,disease_on_drugs,25,12,1.4324324324324325

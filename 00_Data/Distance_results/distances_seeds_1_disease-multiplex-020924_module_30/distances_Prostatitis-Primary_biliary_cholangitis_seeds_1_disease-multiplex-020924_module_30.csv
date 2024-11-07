@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.23553113553113536
+1,disease_on_symptoms,20,17,-0.11609697933227325
+2,disease_on_drugs,29,18,0.011616532159452353

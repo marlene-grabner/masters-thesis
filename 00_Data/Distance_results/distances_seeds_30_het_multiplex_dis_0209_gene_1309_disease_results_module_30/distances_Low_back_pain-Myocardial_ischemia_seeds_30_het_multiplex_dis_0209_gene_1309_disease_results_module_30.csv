@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,16,19,-0.6915413533834587
+2,disease_on_drugs,25,30,-0.2896969696969698

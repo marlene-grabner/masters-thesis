@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,22,27,0.3325946540232254
+1,disease_on_symptoms,22,17,1.4765528589058001
+2,disease_on_drugs,14,20,0.8634453781512605

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,22,0.3376623376623378
+1,disease_on_symptoms,23,19,1.4985834150593875
+2,disease_on_drugs,20,19,0.6403508771929827

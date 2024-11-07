@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,24,29,0.3164850357839948
+1,disease_on_symptoms,25,17,2.1599439775910367
+2,disease_on_drugs,17,30,1.5744680851063828

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,16,14,0.23244047619047614
+2,disease_on_drugs,28,29,-0.19305807622504534

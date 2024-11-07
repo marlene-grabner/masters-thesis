@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,20,23,-0.042062689585439905
+2,disease_on_drugs,28,29,0.05259917033964223

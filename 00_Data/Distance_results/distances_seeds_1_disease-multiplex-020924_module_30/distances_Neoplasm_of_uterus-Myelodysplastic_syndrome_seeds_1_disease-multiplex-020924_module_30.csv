@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.07671957671957674
+1,disease_on_symptoms,19,15,0.832610939112487
+2,disease_on_drugs,28,21,0.11479591836734682

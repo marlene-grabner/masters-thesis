@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,20,28,0.13928571428571423
+1,disease_on_symptoms,22,15,1.645004095004095
+2,disease_on_drugs,15,21,0.7611111111111111

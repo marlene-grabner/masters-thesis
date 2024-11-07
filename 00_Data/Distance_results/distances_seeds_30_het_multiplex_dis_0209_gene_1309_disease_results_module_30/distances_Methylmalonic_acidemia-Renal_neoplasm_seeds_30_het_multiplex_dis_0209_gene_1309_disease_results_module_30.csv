@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,25,29,-0.07407407407407407
+1,disease_on_symptoms,17,20,1.49137519872814
+2,disease_on_drugs,21,28,0.20323129251700678

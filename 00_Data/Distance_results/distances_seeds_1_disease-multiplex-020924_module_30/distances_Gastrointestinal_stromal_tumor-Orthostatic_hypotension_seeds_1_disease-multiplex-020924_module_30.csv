@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,23,30,0.40293956795187325
+1,disease_on_symptoms,20,12,1.3208333333333333
+2,disease_on_drugs,19,17,1.2205882352941178

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Tremor nodes,sAB
+0,disease_on_genes,29,16,0.044564176245210696
+1,disease_on_symptoms,17,23,1.0063299232736573
+2,disease_on_drugs,26,16,0.3542811355311355

@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,21,28,0.5613233665559247
+1,disease_on_symptoms,24,19,1.7361536107711137
+2,disease_on_drugs,14,26,0.9178571428571427

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,16,18,0.5561683006535949
+2,disease_on_drugs,28,22,0.2522077922077921

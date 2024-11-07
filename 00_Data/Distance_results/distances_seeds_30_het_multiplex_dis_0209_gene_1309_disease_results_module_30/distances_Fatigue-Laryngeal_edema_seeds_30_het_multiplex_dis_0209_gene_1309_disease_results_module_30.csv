@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,26,30,-0.16364468864468884
+1,disease_on_symptoms,16,16,0.78125
+2,disease_on_drugs,26,28,-0.07585470085470081

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,0.28909090909090907
+1,disease_on_symptoms,24,13,1.6431479556479556
+2,disease_on_drugs,23,23,0.7608695652173914

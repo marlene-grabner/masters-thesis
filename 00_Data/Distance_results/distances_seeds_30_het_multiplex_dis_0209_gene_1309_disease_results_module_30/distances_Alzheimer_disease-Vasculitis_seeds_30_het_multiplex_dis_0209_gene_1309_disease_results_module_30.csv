@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,26,0.12244897959183665
+1,disease_on_symptoms,19,18,1.106962225383278
+2,disease_on_drugs,19,26,0.08052181736392283

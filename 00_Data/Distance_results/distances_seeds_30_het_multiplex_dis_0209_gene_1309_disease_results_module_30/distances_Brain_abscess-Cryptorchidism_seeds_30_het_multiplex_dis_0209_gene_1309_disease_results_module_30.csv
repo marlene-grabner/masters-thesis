@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,-0.12173913043478268
+1,disease_on_symptoms,21,19,0.9728070175438597
+2,disease_on_drugs,23,21,-0.13730472426124618

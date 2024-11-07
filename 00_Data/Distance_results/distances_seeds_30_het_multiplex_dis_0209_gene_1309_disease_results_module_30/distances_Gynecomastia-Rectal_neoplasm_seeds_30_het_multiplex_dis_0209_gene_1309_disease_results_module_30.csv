@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,15,20,0.005952380952380709
+2,disease_on_drugs,29,29,-0.08620689655172398

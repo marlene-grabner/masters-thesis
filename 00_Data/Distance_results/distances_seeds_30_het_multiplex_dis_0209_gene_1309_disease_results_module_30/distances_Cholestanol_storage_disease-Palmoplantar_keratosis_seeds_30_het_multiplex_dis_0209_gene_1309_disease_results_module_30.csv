@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,29,26,-0.10815047021943569
+1,disease_on_symptoms,18,20,0.9538011695906436
+2,disease_on_drugs,28,23,0.2351418828400924

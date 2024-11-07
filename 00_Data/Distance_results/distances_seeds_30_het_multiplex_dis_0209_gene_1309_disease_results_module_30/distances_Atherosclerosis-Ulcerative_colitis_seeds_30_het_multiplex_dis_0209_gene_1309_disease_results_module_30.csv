@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,14,20,0.2294117647058822
+2,disease_on_drugs,29,27,-0.1237684729064038

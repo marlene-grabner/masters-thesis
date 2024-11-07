@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,28,27,0.14511784511784498
+1,disease_on_symptoms,23,17,0.28420716112531963
+2,disease_on_drugs,26,20,-0.06020066889632092

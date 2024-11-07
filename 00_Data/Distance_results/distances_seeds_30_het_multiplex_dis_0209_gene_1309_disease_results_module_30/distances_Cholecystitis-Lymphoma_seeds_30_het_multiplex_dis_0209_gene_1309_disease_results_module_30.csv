@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,25,26,-0.0980392156862745
+1,disease_on_symptoms,23,20,0.3421638018200204
+2,disease_on_drugs,21,24,-0.1690476190476191

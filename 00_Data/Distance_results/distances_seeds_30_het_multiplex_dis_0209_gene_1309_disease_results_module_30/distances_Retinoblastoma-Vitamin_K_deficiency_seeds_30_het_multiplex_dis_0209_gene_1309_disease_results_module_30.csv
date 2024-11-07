@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,21,21,0.7857142857142856
+2,disease_on_drugs,27,21,-0.01256613756613767

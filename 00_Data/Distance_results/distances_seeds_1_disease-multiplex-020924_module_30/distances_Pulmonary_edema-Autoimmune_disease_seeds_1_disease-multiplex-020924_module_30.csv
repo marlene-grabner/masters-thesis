@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.3321678321678323
+1,disease_on_symptoms,14,19,1.035144679881522
+2,disease_on_drugs,27,19,0.414908043054496

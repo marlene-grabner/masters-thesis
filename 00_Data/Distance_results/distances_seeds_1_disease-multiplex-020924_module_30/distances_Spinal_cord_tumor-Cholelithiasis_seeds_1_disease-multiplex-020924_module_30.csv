@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,22,25,0.5455899419729207
+1,disease_on_symptoms,22,19,1.4067569144590966
+2,disease_on_drugs,14,18,1.1150793650793651

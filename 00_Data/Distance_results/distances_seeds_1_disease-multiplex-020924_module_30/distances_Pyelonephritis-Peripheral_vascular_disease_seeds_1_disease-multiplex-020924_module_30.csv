@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,23,23,0.13043478260869557
+1,disease_on_symptoms,21,16,1.236204954954955
+2,disease_on_drugs,19,22,0.975609756097561

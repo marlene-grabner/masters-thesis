@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,14,0.3965026201868307
+2,disease_on_drugs,22,24,-0.09230895915678539

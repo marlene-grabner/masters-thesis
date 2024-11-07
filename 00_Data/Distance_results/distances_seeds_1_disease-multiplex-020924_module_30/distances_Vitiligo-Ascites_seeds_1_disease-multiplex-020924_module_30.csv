@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Ascites nodes,sAB
+0,disease_on_genes,24,30,0.2708333333333335
+1,disease_on_symptoms,22,17,1.4346290963938024
+2,disease_on_drugs,11,27,0.4970760233918128

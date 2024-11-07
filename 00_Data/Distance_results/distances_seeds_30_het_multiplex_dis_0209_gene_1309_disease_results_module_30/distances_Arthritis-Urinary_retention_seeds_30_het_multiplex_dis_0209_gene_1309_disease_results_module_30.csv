@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,20,16,0.8979166666666665
+2,disease_on_drugs,29,28,0.3157354593380002

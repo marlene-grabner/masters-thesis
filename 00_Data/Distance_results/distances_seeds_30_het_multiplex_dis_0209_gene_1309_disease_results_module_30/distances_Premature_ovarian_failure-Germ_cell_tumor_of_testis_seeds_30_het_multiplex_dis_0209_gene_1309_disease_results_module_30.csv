@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,0.014619883040935644
+1,disease_on_symptoms,15,22,0.010114660114660001
+2,disease_on_drugs,26,20,0.07399665551839463

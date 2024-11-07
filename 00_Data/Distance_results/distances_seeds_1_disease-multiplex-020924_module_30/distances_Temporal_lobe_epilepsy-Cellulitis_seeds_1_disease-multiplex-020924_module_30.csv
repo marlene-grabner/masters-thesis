@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,29,22,0.37228243021346463
+1,disease_on_symptoms,17,26,2.5557718615174156
+2,disease_on_drugs,26,12,1.507085020242915

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Gout nodes,sAB
+0,disease_on_genes,26,28,-0.03637566137566128
+1,disease_on_symptoms,20,19,0.9199392712550609
+2,disease_on_drugs,23,22,0.020114185331576717

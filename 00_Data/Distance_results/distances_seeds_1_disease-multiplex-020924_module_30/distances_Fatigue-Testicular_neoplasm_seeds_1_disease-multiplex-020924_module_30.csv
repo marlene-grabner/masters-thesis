@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,0.03918552036199108
+1,disease_on_symptoms,21,25,1.648447204968944
+2,disease_on_drugs,26,23,0.9792846904648145

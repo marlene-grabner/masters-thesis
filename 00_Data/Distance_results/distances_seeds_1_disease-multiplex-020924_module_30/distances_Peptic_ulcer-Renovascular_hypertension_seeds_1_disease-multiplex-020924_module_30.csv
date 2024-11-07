@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,21,0.15136054421768708
+1,disease_on_symptoms,14,22,1.4606782106782108
+2,disease_on_drugs,28,20,0.6458333333333333

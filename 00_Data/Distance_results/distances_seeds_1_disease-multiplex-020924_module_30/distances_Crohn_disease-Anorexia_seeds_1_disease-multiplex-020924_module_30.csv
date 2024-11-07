@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,25,17,0.18214968914395047
+1,disease_on_symptoms,20,25,0.4966666666666668
+2,disease_on_drugs,21,13,0.4727429433311785

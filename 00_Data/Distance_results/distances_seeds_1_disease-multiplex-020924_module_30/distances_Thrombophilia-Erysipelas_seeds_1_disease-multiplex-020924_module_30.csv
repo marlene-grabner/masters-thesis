@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.4912217412217412
+1,disease_on_symptoms,18,20,1.2362573099415202
+2,disease_on_drugs,21,27,0.9940476190476188

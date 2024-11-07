@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,20,24,0.3500000000000001
+1,disease_on_symptoms,24,26,0.8053205128205128
+2,disease_on_drugs,18,15,0.43686868686868685

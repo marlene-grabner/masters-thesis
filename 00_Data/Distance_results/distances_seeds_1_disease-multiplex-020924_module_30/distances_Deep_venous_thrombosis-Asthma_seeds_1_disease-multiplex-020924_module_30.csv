@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Asthma nodes,sAB
+0,disease_on_genes,28,25,0.18855795148247978
+1,disease_on_symptoms,14,19,2.7670881749829115
+2,disease_on_drugs,24,24,0.47916666666666674

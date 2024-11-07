@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,-0.019187675070028165
+1,disease_on_symptoms,16,22,0.8860645933014353
+2,disease_on_drugs,29,20,-0.04336734693877542

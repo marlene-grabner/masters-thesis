@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,13,29,0.14241505620815964
+1,disease_on_symptoms,26,16,0.9365842490842491
+2,disease_on_drugs,9,22,0.04121863799283143

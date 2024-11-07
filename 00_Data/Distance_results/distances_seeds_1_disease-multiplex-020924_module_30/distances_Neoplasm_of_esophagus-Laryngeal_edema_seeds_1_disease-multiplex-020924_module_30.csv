@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,21,30,0.05882352941176472
+1,disease_on_symptoms,24,20,0.5640151515151517
+2,disease_on_drugs,20,28,0.3172619047619045

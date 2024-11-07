@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.038181818181818206
+1,disease_on_symptoms,20,20,0.6750000000000003
+2,disease_on_drugs,30,22,0.29265734265734267

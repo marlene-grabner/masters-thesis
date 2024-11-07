@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,0.17014728807181623
+1,disease_on_symptoms,19,21,0.5962406015037596
+2,disease_on_drugs,27,25,0.9984615384615383

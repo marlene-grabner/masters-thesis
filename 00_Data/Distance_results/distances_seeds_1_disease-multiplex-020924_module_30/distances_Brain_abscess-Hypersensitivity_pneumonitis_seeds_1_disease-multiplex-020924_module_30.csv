@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,24,0.14161220043572986
+1,disease_on_symptoms,21,23,0.4978825522303785
+2,disease_on_drugs,23,24,0.18871415356151688

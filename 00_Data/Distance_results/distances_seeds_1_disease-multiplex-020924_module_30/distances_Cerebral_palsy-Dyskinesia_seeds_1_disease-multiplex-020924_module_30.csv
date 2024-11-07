@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,24,-0.20819716775599117
+1,disease_on_symptoms,16,17,-0.3392379679144386
+2,disease_on_drugs,18,23,-0.2682926829268293

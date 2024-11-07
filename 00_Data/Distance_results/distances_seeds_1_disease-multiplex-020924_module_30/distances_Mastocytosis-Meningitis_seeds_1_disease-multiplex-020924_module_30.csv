@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Meningitis nodes,sAB
+0,disease_on_genes,18,29,0.02688106301459192
+1,disease_on_symptoms,28,20,0.4529761904761902
+2,disease_on_drugs,17,26,0.0109439124487003

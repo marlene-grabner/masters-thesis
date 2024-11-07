@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,30,-0.1964285714285714
+1,disease_on_symptoms,21,15,-0.2126984126984126
+2,disease_on_drugs,25,25,-0.16000000000000014

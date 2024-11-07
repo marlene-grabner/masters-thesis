@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.0680790960451978
+1,disease_on_symptoms,17,20,1.4873211446740862
+2,disease_on_drugs,26,27,0.4897865935601786

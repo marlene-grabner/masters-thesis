@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Otitis_media nodes,sAB
+0,disease_on_genes,23,29,0.20894360512051646
+1,disease_on_symptoms,19,22,1.4857042828801492
+2,disease_on_drugs,11,29,1.2232758620689654

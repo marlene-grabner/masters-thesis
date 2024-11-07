@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,19,16,-0.5058270676691732
+2,disease_on_drugs,30,28,-0.3486042692939245

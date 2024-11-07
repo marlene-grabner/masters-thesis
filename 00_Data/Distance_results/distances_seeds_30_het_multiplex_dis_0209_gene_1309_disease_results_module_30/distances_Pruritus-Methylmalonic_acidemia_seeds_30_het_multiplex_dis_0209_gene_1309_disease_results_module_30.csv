@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,27,25,0.019943019943019946
+1,disease_on_symptoms,21,17,0.675143741707209
+2,disease_on_drugs,27,21,0.21759259259259256

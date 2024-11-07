@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.3228260869565218
+1,disease_on_symptoms,17,27,2.051594375123787
+2,disease_on_drugs,23,19,0.7589626239511822

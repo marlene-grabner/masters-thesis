@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,19,15,0.44778121775025825
+2,disease_on_drugs,30,23,0.027782335247470646

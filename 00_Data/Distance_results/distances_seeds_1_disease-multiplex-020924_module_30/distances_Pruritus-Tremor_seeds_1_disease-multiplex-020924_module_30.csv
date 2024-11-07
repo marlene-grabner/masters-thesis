@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Tremor nodes,sAB
+0,disease_on_genes,26,16,0.21210365853658542
+1,disease_on_symptoms,19,23,1.0913697286694997
+2,disease_on_drugs,24,16,0.59375

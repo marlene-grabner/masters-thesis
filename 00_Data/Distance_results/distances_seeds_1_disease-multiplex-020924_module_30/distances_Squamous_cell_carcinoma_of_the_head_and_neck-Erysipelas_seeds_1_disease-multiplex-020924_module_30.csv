@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma_of_the_head_and_neck nodes,Erysipelas nodes,sAB
+0,disease_on_genes,21,28,0.1445578231292517
+1,disease_on_symptoms,25,20,0.891111111111111
+2,disease_on_drugs,21,27,0.6041666666666667

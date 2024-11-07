@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,18,21,-0.0567765567765568
+2,disease_on_drugs,29,30,-0.05148061562439121

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,25,29,-0.04444444444444451
+1,disease_on_symptoms,23,15,0.670327993897788
+2,disease_on_drugs,19,27,0.18035426731078896

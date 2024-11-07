@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,23,24,0.1688251618871417
+1,disease_on_symptoms,25,17,0.9810084033613444
+2,disease_on_drugs,22,23,0.5999341238471674

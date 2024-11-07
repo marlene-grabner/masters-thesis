@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,25,-0.2293447293447295
+1,disease_on_symptoms,21,20,-0.02784552845528454
+2,disease_on_drugs,25,25,-0.22000000000000008

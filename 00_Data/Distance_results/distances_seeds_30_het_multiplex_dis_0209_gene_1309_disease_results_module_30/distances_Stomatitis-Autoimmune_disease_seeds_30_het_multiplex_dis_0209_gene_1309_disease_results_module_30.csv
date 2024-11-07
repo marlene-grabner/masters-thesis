@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.25
+1,disease_on_symptoms,19,20,-0.13066801619433188
+2,disease_on_drugs,29,25,-0.1781353767560665

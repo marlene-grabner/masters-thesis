@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,22,0.32167832167832167
+1,disease_on_symptoms,14,22,0.5840548340548339
+2,disease_on_drugs,27,14,0.6119176667957156

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,25,0.20498084291187757
+1,disease_on_symptoms,17,26,2.0562190887088287
+2,disease_on_drugs,26,21,1.129705400981997

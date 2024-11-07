@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,28,20,0.2696428571428571
+1,disease_on_symptoms,18,25,0.9065374677002587
+2,disease_on_drugs,26,19,0.6836932073774178

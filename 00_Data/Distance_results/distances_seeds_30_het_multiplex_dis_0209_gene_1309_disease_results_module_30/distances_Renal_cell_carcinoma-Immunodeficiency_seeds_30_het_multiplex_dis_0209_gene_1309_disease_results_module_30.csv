@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,26,0.07582110412299081
+1,disease_on_symptoms,22,21,0.8066545857243532
+2,disease_on_drugs,22,26,0.40166083916083917

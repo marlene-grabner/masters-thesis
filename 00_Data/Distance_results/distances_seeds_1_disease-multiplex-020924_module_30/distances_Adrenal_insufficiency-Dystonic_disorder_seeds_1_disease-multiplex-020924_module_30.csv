@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,17,17,0.6176470588235294
+1,disease_on_symptoms,21,28,4.114795918367347
+2,disease_on_drugs,14,9,0.8695652173913044

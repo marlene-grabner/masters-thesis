@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,21,20,0.046864111498257754
+1,disease_on_symptoms,26,23,0.6701931608763909
+2,disease_on_drugs,20,17,0.850556438791733

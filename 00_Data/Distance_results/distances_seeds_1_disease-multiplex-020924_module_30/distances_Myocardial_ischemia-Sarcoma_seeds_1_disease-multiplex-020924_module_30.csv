@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.3272727272727274
+1,disease_on_symptoms,13,26,1.0576923076923075
+2,disease_on_drugs,23,21,0.8666007905138342

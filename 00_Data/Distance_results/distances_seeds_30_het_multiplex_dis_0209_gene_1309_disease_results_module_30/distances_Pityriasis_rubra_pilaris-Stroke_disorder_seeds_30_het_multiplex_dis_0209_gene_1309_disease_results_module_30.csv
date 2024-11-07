@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.12475633528265129
+1,disease_on_symptoms,21,16,-0.27252252252252274
+2,disease_on_drugs,25,30,0.03575757575757588

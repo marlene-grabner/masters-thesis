@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,15,16,1.1470430107526883
+2,disease_on_drugs,30,25,0.4354545454545453

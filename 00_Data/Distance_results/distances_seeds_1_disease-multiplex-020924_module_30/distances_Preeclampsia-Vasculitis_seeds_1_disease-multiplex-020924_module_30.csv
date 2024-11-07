@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.09916666666666663
+1,disease_on_symptoms,17,19,1.4523563811489506
+2,disease_on_drugs,23,20,0.13756319514661275

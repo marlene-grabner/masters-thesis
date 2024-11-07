@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,30,-0.01724137931034475
+1,disease_on_symptoms,20,18,0.4692982456140351
+2,disease_on_drugs,25,30,0.21212121212121215

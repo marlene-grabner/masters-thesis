@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,19,16,1.1614661654135339
+2,disease_on_drugs,18,25,0.2843152454780362

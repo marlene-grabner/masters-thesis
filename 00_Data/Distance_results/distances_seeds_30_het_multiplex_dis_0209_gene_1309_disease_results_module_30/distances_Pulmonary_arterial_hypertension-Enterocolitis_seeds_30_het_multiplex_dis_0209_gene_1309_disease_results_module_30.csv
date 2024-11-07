@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,28,27,-0.036363636363636376
+1,disease_on_symptoms,17,21,0.7372843874391861
+2,disease_on_drugs,25,25,-0.020000000000000018

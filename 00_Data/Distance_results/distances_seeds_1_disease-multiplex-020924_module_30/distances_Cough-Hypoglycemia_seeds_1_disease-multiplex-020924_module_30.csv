@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,0.15692007797270957
+1,disease_on_symptoms,21,12,0.4015151515151518
+2,disease_on_drugs,27,22,0.2894935752078607

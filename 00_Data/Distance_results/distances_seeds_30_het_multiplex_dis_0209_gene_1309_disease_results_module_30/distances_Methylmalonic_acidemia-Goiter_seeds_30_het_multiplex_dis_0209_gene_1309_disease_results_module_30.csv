@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Goiter nodes,sAB
+0,disease_on_genes,25,26,0.03921568627450989
+1,disease_on_symptoms,17,12,1.6160412440838408
+2,disease_on_drugs,21,18,0.18162393162393187

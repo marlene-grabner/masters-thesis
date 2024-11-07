@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666652
+1,disease_on_symptoms,18,18,-0.08333333333333326
+2,disease_on_drugs,24,29,-0.05307959227933212

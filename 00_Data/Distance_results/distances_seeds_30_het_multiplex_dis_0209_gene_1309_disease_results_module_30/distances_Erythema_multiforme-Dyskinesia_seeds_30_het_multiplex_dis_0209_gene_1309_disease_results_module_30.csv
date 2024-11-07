@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,18,15,0.7808080808080806
+2,disease_on_drugs,30,28,0.2080049261083743

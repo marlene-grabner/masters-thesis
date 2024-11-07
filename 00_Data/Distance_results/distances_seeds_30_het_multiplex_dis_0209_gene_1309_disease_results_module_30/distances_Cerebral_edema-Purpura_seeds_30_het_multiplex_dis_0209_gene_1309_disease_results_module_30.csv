@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Purpura nodes,sAB
+0,disease_on_genes,30,27,0.297270955165692
+1,disease_on_symptoms,10,17,1.059259259259259
+2,disease_on_drugs,16,24,0.3687499999999999

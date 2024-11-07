@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,0.17255813953488364
+1,disease_on_symptoms,23,27,1.2145571658615135
+2,disease_on_drugs,23,17,0.7932864450127879

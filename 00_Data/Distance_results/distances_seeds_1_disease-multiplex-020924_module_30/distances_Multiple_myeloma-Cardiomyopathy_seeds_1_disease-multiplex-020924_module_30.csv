@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,0.0776470588235294
+1,disease_on_symptoms,21,17,0.9726522187822497
+2,disease_on_drugs,25,24,0.5918027210884356

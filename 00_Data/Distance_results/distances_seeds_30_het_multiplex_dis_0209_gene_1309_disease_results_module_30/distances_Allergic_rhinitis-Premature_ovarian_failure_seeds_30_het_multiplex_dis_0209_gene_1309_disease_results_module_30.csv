@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,28,30,0.15517241379310343
+1,disease_on_symptoms,20,15,0.8083333333333331
+2,disease_on_drugs,25,26,0.17749622926093522

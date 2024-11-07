@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,18,24,0.22817460317460325
+1,disease_on_symptoms,28,21,0.8477891156462585
+2,disease_on_drugs,17,18,0.5705415499533146

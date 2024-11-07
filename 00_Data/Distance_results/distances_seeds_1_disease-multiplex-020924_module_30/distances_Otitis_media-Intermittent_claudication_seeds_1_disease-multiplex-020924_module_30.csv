@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,20,0.1449155524278678
+1,disease_on_symptoms,22,24,0.08539196310935449
+2,disease_on_drugs,29,18,0.6243987935110458

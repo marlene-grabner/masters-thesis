@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,27,27,0.12962962962962954
+1,disease_on_symptoms,17,21,0.4495798319327733
+2,disease_on_drugs,20,27,0.1063829787234043

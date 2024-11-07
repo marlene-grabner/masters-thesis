@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,20,20,0.125
+1,disease_on_symptoms,22,25,1.6354545454545453
+2,disease_on_drugs,15,19,0.34736842105263155

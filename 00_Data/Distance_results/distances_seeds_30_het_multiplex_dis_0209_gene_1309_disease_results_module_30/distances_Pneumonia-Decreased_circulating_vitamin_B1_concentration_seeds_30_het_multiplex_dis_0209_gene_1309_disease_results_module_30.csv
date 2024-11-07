@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,23,17,0.5395780051150898
+2,disease_on_drugs,29,25,0.2739974457215837

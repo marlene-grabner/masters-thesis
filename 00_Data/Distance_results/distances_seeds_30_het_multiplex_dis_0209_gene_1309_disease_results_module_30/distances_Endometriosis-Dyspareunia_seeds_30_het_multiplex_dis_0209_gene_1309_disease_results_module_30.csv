@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.08446327683615817
+1,disease_on_symptoms,16,20,0.0673611111111112
+2,disease_on_drugs,30,28,0.16982758620689653

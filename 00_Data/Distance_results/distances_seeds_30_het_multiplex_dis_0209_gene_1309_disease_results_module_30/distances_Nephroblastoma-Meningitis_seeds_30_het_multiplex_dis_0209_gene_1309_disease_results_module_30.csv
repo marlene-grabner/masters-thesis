@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,0.06896551724137945
+1,disease_on_symptoms,20,17,0.5956677265500794
+2,disease_on_drugs,24,27,0.15590958605664484

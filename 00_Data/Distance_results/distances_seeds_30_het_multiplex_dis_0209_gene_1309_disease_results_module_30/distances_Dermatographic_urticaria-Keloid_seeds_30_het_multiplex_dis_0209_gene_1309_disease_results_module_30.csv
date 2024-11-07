@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Keloid nodes,sAB
+0,disease_on_genes,29,23,-0.019230769230769273
+1,disease_on_symptoms,18,17,0.7503267973856209
+2,disease_on_drugs,28,22,0.2501298701298702

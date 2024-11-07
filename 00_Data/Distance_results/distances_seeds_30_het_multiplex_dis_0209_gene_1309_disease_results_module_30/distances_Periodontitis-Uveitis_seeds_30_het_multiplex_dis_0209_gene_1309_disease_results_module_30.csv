@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,21,20,0.2655052264808362
+2,disease_on_drugs,28,23,-0.1581567409572524

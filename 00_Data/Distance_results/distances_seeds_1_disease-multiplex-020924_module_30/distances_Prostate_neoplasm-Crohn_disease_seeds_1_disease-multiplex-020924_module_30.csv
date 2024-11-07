@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,17,25,0.35288139646102357
+1,disease_on_symptoms,21,20,1.8059814169570267
+2,disease_on_drugs,17,21,0.8935574229691876

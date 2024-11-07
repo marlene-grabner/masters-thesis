@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,20,28,0.1869047619047619
+1,disease_on_symptoms,22,19,0.5605379857626327
+2,disease_on_drugs,15,28,0.18446843853820605

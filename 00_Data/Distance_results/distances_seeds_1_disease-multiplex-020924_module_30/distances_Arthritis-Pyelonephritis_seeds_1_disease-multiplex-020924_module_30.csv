@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,23,0.010254306808859859
+1,disease_on_symptoms,19,21,0.6517543859649122
+2,disease_on_drugs,29,19,0.09410919540229878

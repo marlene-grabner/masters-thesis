@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.0013736263736263687
+1,disease_on_symptoms,17,25,0.45086834733893566
+2,disease_on_drugs,24,25,0.244404761904762

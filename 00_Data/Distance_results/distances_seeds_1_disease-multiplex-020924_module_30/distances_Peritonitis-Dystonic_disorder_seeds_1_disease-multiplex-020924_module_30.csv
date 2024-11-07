@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.6121401752190236
+1,disease_on_symptoms,17,28,2.835737628384687
+2,disease_on_drugs,28,9,0.9372586872586874

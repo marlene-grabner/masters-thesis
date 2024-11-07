@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,14,21,0.6523809523809525
+2,disease_on_drugs,27,25,0.047606837606837704

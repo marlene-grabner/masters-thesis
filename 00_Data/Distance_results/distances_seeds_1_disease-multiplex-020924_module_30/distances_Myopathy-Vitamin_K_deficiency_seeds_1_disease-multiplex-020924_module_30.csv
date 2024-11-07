@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,18,25,0.3935400516795864
+1,disease_on_symptoms,21,23,2.080651232825146
+2,disease_on_drugs,6,20,0.514102564102564

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.13878862455564667
+1,disease_on_symptoms,20,19,0.6157557354925776
+2,disease_on_drugs,30,11,0.17845528455284554

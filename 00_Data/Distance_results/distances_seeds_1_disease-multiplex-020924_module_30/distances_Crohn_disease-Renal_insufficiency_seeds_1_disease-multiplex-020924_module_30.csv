@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,20,0.26287878787878793
+1,disease_on_symptoms,20,23,1.8428210313447928
+2,disease_on_drugs,21,17,0.7759103641456582

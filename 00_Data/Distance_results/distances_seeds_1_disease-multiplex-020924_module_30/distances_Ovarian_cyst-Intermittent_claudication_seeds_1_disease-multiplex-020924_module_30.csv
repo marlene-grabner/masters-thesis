@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,20,20,0.3250000000000002
+1,disease_on_symptoms,22,24,0.8887516469038208
+2,disease_on_drugs,15,18,0.9101010101010099

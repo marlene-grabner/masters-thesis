@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,27,23,0.28956521739130414
+1,disease_on_symptoms,17,16,1.6734068627450982
+2,disease_on_drugs,25,22,1.0851063829787235

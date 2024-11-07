@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.2910256410256411
+1,disease_on_symptoms,22,21,0.9498892580287932
+2,disease_on_drugs,27,17,0.8008021390374331

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,23,29,0.08862876254180607
+1,disease_on_symptoms,21,16,1.2500804375804377
+2,disease_on_drugs,21,29,0.33133004926108356

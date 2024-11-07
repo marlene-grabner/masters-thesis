@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,29,0.1957671957671956
+1,disease_on_symptoms,21,16,0.8369530244530243
+2,disease_on_drugs,24,29,0.4713592496204728

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,13,24,0.07999826749826733
+1,disease_on_symptoms,26,17,1.0652688624644848
+2,disease_on_drugs,9,23,0.5694444444444444

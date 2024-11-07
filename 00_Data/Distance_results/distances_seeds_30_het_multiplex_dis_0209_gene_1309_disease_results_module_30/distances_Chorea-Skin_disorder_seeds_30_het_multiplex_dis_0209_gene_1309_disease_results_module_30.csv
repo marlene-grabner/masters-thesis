@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Skin_disorder nodes,sAB
+0,disease_on_genes,30,25,-0.1454545454545455
+1,disease_on_symptoms,17,19,0.8018575851393188
+2,disease_on_drugs,24,23,0.06554502004316998

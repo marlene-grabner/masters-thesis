@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,18,25,0.2675710594315246
+1,disease_on_symptoms,28,23,1.8135580319084157
+2,disease_on_drugs,17,20,0.3236089030206677

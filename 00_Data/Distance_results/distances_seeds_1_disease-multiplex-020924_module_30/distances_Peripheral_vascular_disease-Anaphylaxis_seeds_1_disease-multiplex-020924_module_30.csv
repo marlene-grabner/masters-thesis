@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.09400966183574888
+1,disease_on_symptoms,16,15,2.384475806451613
+2,disease_on_drugs,22,26,0.6698717948717949

@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,29,30,0.33810637054354187
+1,disease_on_symptoms,20,12,1.6791666666666667
+2,disease_on_drugs,26,22,0.9583333333333333

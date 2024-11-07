@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.22582101806239718
+1,disease_on_symptoms,20,17,1.0905802861685214
+2,disease_on_drugs,29,25,0.7988505747126438

@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.10727272727272719
+1,disease_on_symptoms,15,26,0.45028142589118225
+2,disease_on_drugs,23,24,0.31675917360468686

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.22286535303776667
+1,disease_on_symptoms,12,14,1.0434981684981688
+2,disease_on_drugs,17,28,0.29042950513538757

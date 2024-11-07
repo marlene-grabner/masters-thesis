@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,18,25,0.16803617571059437
+1,disease_on_symptoms,28,21,1.7457482993197275
+2,disease_on_drugs,17,20,0.1053656597774244

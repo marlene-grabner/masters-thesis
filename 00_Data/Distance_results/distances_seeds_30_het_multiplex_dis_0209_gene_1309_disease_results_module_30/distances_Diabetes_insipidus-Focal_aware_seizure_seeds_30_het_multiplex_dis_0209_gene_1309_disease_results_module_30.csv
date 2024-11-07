@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,-0.1101398601398601
+1,disease_on_symptoms,20,16,0.18194444444444446
+2,disease_on_drugs,20,29,-0.11171710063335683

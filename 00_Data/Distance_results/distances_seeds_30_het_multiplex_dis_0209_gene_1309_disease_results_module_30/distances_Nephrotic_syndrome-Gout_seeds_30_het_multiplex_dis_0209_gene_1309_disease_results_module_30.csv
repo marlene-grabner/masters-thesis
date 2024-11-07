@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,-0.27647783251231517
+1,disease_on_symptoms,15,19,-0.2061919504643963
+2,disease_on_drugs,28,22,-0.4289610389610389

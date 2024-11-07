@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,18,16,-0.255718954248366
+2,disease_on_drugs,23,25,-0.18739130434782592

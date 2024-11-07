@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,22,17,0.0731523378582204
+1,disease_on_symptoms,17,25,0.2905322128851542
+2,disease_on_drugs,21,13,-0.10989010989010994

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.2624947851481019
+1,disease_on_symptoms,14,28,2.4821428571428577
+2,disease_on_drugs,26,9,0.7714285714285714

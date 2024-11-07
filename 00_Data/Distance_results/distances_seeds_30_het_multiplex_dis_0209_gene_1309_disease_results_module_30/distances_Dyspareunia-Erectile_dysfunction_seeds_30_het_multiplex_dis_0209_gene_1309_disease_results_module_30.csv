@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,29,30,-0.10169491525423724
+1,disease_on_symptoms,20,15,0.17857142857142883
+2,disease_on_drugs,28,30,0.013505747126436818

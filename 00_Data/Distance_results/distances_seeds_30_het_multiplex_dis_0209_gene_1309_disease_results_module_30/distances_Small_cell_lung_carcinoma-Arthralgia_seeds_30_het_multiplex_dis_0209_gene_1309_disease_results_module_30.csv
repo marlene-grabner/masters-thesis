@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,19,17,0.5057619539043687
+2,disease_on_drugs,30,30,0.25

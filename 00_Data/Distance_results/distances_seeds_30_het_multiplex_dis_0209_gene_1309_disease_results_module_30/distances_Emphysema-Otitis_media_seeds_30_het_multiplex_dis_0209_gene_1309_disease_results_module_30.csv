@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.06750438340151965
+1,disease_on_symptoms,18,20,0.7837719298245613
+2,disease_on_drugs,27,28,0.2921717171717171

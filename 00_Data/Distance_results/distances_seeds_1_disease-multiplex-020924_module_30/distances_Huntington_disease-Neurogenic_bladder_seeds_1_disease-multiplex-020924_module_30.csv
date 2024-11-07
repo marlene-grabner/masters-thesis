@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333332
+1,disease_on_symptoms,16,17,-0.8479835115864528
+2,disease_on_drugs,27,26,-0.18867924528301883

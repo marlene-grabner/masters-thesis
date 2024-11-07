@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Vitiligo nodes,sAB
+0,disease_on_genes,29,24,0.3384976144003471
+1,disease_on_symptoms,17,22,2.9844028520499104
+2,disease_on_drugs,30,11,1.0

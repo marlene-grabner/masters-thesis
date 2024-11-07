@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,10,0.43243243243243246
+1,disease_on_symptoms,17,27,1.6438403644285997
+2,disease_on_drugs,25,9,1.1470588235294117

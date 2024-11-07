@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.06839080459770108
+1,disease_on_symptoms,21,25,1.0047204968944101
+2,disease_on_drugs,29,24,0.21882454998915635

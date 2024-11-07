@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,14,0.418831168831169
+1,disease_on_symptoms,19,25,2.2175119617224883
+2,disease_on_drugs,29,10,0.6418656056587091

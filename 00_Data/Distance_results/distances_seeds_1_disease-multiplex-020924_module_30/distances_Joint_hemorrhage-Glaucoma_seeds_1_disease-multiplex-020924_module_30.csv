@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,13,14,0.3758648758648757
+2,disease_on_drugs,18,30,0.42500000000000004

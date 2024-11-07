@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.0535714285714286
+1,disease_on_symptoms,14,21,0.8095238095238098
+2,disease_on_drugs,27,26,0.267214965328173

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,-0.15701754385964906
+1,disease_on_symptoms,21,19,0.682017543859649
+2,disease_on_drugs,23,28,-0.21388990378760186

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666687
+1,disease_on_symptoms,19,18,0.1134028765607713
+2,disease_on_drugs,20,24,-0.14924242424242418

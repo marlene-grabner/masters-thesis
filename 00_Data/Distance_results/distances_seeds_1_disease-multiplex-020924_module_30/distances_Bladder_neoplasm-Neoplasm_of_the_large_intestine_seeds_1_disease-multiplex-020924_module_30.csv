@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,26,20,-0.1119565217391304
+1,disease_on_symptoms,20,25,0.21500000000000008
+2,disease_on_drugs,25,19,-0.098086124401914

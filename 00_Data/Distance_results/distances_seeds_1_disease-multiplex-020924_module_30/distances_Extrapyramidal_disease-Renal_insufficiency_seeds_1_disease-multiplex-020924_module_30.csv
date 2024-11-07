@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,14,20,0.373109243697479
+1,disease_on_symptoms,25,23,3.059565217391304
+2,disease_on_drugs,10,17,0.8476034858387798

@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,15,0.7866873065015478
+2,disease_on_drugs,25,28,0.4093126684636119

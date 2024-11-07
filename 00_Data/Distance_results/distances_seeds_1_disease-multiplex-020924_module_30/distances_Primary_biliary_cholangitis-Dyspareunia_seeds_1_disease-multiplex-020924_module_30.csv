@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.12076923076923074
+1,disease_on_symptoms,17,17,0.9705882352941175
+2,disease_on_drugs,18,23,0.6461647225167904

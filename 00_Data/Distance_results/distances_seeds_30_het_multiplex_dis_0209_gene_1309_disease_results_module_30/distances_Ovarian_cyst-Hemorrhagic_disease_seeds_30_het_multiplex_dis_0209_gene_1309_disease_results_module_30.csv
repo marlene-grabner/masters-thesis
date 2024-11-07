@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.05119047619047612
+1,disease_on_symptoms,19,19,0.2105263157894739
+2,disease_on_drugs,24,24,0.0

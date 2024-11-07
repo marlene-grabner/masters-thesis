@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,23,0.3018867924528301
+1,disease_on_symptoms,14,16,1.0985119047619045
+2,disease_on_drugs,27,17,0.5177757971875618

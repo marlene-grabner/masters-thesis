@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.3222871615039937
+1,disease_on_symptoms,20,21,1.4399535423925667
+2,disease_on_drugs,24,28,0.8663003663003661

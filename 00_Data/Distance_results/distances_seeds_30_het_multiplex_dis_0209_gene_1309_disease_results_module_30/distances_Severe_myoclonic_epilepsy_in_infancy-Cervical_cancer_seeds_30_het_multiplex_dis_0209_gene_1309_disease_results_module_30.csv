@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.22413793103448265
+1,disease_on_symptoms,14,22,1.0393217893217892
+2,disease_on_drugs,21,15,0.1341269841269841

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,20,19,0.6420040485829959
+2,disease_on_drugs,29,29,0.017241379310344973

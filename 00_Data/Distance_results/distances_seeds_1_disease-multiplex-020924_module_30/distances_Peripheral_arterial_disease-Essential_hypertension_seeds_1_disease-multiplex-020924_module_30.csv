@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,25,28,-0.055835579514824873
+1,disease_on_symptoms,14,14,-0.392857142857143
+2,disease_on_drugs,22,28,-0.03571428571428559

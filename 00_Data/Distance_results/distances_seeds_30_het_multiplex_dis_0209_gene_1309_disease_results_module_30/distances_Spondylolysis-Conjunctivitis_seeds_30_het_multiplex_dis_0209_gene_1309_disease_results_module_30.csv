@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,28,29,0.08771929824561409
+1,disease_on_symptoms,17,27,0.5866508219449398
+2,disease_on_drugs,19,28,0.011558150695888614

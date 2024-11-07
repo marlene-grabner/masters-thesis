@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.03411306042884976
+1,disease_on_symptoms,12,19,0.17940011318619176
+2,disease_on_drugs,23,24,0.06280835646006766

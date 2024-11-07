@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,0.040000000000000036
+1,disease_on_symptoms,19,21,1.32531328320802
+2,disease_on_drugs,24,20,0.0015151515151514694

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,27,0.05657689619953765
+1,disease_on_symptoms,21,19,0.7676691729323308
+2,disease_on_drugs,26,27,0.3388969521044993

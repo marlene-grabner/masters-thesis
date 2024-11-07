@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Fatigue nodes,sAB
+0,disease_on_genes,29,26,0.03426573426573443
+1,disease_on_symptoms,15,21,0.6293650793650793
+2,disease_on_drugs,27,26,0.1131806697844433

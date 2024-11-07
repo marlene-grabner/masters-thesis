@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,0.2732492997198879
+1,disease_on_symptoms,20,14,1.5796218487394957
+2,disease_on_drugs,19,26,0.5281376518218623

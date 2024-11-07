@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Pneumonia nodes,sAB
+0,disease_on_genes,20,30,0.2316666666666667
+1,disease_on_symptoms,18,26,2.1495726495726495
+2,disease_on_drugs,19,28,1.1438969764837625

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,28,27,-0.018193843193843318
+1,disease_on_symptoms,15,14,1.4542692939244661
+2,disease_on_drugs,23,26,0.1792198484745069

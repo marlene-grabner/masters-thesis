@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.06499999999999995
+1,disease_on_symptoms,19,24,0.6889279885760913
+2,disease_on_drugs,24,18,0.603174603174603

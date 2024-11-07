@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,25,9,0.2998692810457517
+1,disease_on_symptoms,17,27,2.121509209744504
+2,disease_on_drugs,24,9,1.1401515151515151

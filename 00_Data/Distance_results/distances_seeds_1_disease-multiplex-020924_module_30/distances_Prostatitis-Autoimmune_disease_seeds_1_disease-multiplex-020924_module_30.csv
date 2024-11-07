@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.07319347319347314
+1,disease_on_symptoms,20,19,1.4362685560053983
+2,disease_on_drugs,29,19,0.668368118572293

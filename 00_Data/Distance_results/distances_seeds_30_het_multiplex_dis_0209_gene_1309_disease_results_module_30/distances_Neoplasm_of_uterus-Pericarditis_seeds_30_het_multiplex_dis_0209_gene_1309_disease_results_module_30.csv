@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,18,21,0.4355921855921854
+2,disease_on_drugs,26,26,0.3269230769230771

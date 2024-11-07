@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.03446327683615835
+1,disease_on_symptoms,14,14,1.2142857142857144
+2,disease_on_drugs,29,28,0.42105263157894735

@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,17,0.18180615574565673
+1,disease_on_symptoms,16,21,0.6929295366795365
+2,disease_on_drugs,23,14,0.19447708578143352

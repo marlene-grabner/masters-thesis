@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,-0.24571150097465888
+1,disease_on_symptoms,18,16,-0.3905228758169935
+2,disease_on_drugs,21,23,-0.36184829663090556

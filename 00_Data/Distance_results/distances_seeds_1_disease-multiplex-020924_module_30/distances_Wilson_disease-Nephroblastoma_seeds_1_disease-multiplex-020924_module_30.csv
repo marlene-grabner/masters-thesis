@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,23,25,-0.043695652173913135
+1,disease_on_symptoms,19,25,-0.032344497607655454
+2,disease_on_drugs,11,21,-0.03125

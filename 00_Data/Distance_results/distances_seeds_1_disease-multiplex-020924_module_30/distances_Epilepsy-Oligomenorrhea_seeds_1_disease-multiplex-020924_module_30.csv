@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,28,0.4385964912280702
+1,disease_on_symptoms,18,12,1.4
+2,disease_on_drugs,30,21,1.0687675070028009

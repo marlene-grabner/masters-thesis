@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,18,0.6736111111111112
+1,disease_on_symptoms,25,26,2.802684766214178
+2,disease_on_drugs,7,10,1.122689075630252

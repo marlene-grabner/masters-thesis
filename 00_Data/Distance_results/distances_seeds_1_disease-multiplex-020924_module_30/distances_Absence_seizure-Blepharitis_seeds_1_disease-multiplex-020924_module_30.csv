@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.4947044334975368
+1,disease_on_symptoms,16,27,1.7936584840654608
+2,disease_on_drugs,22,19,0.8741976893453143

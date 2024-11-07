@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Leukemia nodes,sAB
+0,disease_on_genes,18,18,0.19444444444444464
+1,disease_on_symptoms,28,27,0.7829846079846079
+2,disease_on_drugs,17,17,0.47058823529411775

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.1298742138364779
+1,disease_on_symptoms,22,19,0.48684210526315796
+2,disease_on_drugs,27,19,0.03890160183066382

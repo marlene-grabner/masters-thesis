@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.09972882770129332
+1,disease_on_symptoms,25,27,0.9800854700854704
+2,disease_on_drugs,26,16,0.44207875457875456

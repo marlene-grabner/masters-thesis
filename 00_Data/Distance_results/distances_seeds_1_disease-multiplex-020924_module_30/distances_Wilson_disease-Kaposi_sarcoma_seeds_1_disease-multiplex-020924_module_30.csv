@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,23,15,-0.043783371472158716
+1,disease_on_symptoms,19,27,-0.29023646071701004
+2,disease_on_drugs,11,13,-0.16666666666666663

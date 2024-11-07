@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.39130036630036624
+1,disease_on_symptoms,21,15,0.6658730158730157
+2,disease_on_drugs,24,21,1.1136904761904765

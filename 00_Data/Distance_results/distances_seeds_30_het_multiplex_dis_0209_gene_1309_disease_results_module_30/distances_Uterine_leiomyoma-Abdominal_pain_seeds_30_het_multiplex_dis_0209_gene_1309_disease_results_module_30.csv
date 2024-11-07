@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,20,19,-0.23269230769230775
+2,disease_on_drugs,28,29,-0.0887023593466425

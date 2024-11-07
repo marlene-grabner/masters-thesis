@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,18,22,1.1022727272727273
+2,disease_on_drugs,25,29,0.21568326947637306

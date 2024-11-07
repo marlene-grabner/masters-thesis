@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,-0.13725490196078427
+1,disease_on_symptoms,18,19,0.9023628892049944
+2,disease_on_drugs,22,24,-0.15340909090909083

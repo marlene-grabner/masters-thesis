@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,30,-0.3666666666666667
+1,disease_on_symptoms,20,18,-0.7644736842105264
+2,disease_on_drugs,27,28,-0.39708994708994694

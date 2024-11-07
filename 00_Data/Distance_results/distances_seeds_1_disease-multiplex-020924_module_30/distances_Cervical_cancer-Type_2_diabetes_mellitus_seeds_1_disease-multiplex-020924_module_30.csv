@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,27,16,0.39863264427217904
+1,disease_on_symptoms,23,21,2.0971673254281953
+2,disease_on_drugs,15,15,0.6666666666666667

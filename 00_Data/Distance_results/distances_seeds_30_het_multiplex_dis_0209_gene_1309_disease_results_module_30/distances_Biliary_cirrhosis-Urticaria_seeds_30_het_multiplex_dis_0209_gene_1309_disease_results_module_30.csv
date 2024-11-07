@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,24,-0.13923076923076916
+1,disease_on_symptoms,22,21,0.27383469243934355
+2,disease_on_drugs,25,24,0.02154761904761915

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,17,21,0.1855373728438745
+1,disease_on_symptoms,22,26,2.1730769230769234
+2,disease_on_drugs,15,20,0.3952380952380954

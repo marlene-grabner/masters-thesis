@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Glaucoma nodes,sAB
+0,disease_on_genes,14,30,-0.02965367965367971
+1,disease_on_symptoms,26,18,-0.37296037296037277
+2,disease_on_drugs,14,28,0.0535714285714286

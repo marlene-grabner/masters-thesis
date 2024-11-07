@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,15,0.06580841638981183
+1,disease_on_symptoms,14,27,2.256678281068525
+2,disease_on_drugs,28,13,0.6716027874564461

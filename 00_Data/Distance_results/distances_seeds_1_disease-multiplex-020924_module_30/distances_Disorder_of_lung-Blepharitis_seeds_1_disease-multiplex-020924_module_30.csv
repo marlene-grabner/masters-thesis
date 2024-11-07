@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,0.3607368006304177
+1,disease_on_symptoms,17,27,1.8430382253911666
+2,disease_on_drugs,20,19,0.30634278002699045

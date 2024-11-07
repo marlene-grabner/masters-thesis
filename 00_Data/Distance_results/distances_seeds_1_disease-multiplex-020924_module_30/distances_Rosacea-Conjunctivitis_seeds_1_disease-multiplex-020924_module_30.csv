@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,-0.3141325536062377
+1,disease_on_symptoms,17,27,-0.6601802337096453
+2,disease_on_drugs,27,26,-0.3969521044992742

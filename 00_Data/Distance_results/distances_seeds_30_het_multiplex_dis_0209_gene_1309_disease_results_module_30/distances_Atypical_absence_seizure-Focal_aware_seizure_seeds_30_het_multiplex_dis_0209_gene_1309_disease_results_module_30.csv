@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.4576271186440678
+1,disease_on_symptoms,13,16,-0.3934018567639257
+2,disease_on_drugs,22,29,-0.5465455774786404

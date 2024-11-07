@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,21,30,-0.33459383753501404
+1,disease_on_symptoms,20,16,-0.51875
+2,disease_on_drugs,21,28,-0.3154761904761906

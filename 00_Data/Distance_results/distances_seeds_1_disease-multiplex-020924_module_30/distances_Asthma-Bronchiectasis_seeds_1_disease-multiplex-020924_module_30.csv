@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,25,30,-0.10939393939393938
+1,disease_on_symptoms,19,15,-0.21558307533539733
+2,disease_on_drugs,24,26,-0.2601282051282051

@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,0.08665845648604265
+1,disease_on_symptoms,19,14,0.15743905217589438
+2,disease_on_drugs,26,30,0.376007326007326

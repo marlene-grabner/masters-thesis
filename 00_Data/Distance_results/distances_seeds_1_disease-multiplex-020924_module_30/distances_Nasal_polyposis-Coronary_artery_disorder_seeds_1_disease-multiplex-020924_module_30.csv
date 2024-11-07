@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,15,19,0.3521155830753355
+1,disease_on_symptoms,25,21,2.1022774327122153
+2,disease_on_drugs,10,17,0.6037037037037036

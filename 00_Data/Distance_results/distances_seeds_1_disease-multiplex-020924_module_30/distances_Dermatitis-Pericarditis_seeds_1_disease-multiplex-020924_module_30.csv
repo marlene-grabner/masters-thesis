@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,-0.040000000000000036
+1,disease_on_symptoms,25,22,0.4228626692456481
+2,disease_on_drugs,24,25,0.1424149659863947

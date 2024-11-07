@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,22,25,0.3753771760154738
+1,disease_on_symptoms,22,20,1.518181818181818
+2,disease_on_drugs,14,18,0.6220238095238095

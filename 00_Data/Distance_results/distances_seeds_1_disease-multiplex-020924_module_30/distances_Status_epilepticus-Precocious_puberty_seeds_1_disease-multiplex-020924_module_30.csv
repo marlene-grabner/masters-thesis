@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,29,30,0.18671342294954218
+1,disease_on_symptoms,17,14,1.737056112767688
+2,disease_on_drugs,30,24,0.9444444444444444

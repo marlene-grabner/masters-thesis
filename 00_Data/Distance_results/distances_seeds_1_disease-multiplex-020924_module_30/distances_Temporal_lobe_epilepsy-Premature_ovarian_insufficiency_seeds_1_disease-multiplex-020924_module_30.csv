@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,23,0.4442970822281167
+1,disease_on_symptoms,17,22,1.8814616755793228
+2,disease_on_drugs,26,17,0.6832316110701884

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,14,17,-0.058484684196259185
+2,disease_on_drugs,24,30,-0.20972222222222237

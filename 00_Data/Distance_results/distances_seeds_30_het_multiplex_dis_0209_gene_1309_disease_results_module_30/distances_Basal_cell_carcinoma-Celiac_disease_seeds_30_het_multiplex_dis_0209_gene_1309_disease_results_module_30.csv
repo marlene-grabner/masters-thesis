@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,24,18,0.2470238095238093
+2,disease_on_drugs,27,28,-0.03446368446368453

@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.005217391304347618
+1,disease_on_symptoms,24,20,1.1393939393939396
+2,disease_on_drugs,25,20,0.35944444444444446

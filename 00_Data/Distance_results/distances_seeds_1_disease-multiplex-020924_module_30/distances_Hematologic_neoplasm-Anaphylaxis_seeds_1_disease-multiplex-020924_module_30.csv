@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,22,27,0.39342403628117917
+1,disease_on_symptoms,24,15,1.6214743589743588
+2,disease_on_drugs,19,26,0.7007197480881693

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,24,25,0.18406462585034
+1,disease_on_symptoms,22,25,1.0939071566731142
+2,disease_on_drugs,24,23,0.4458834412580943

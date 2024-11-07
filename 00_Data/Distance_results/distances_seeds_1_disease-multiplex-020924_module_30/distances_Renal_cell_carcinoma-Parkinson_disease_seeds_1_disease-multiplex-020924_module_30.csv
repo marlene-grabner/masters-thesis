@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,25,21,0.24227743271221525
+1,disease_on_symptoms,24,20,1.7856060606060604
+2,disease_on_drugs,20,19,1.3846153846153846

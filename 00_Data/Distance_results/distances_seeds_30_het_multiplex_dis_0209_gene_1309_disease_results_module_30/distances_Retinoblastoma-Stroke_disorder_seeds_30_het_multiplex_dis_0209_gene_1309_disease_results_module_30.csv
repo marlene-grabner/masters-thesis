@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,21,16,0.27574002574002576
+2,disease_on_drugs,27,30,0.5621832358674463

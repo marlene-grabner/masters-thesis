@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,-0.13319088319088335
+1,disease_on_symptoms,25,20,0.4572222222222222
+2,disease_on_drugs,24,25,-0.16411564625850328

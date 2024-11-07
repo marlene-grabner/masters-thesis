@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.31630434782608696
+1,disease_on_symptoms,19,24,1.676076091391269
+2,disease_on_drugs,24,18,0.9156746031746028

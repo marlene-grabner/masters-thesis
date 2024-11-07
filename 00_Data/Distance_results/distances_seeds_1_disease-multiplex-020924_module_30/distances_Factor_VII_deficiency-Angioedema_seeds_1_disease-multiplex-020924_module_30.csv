@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,29,0.26176549865229104
+1,disease_on_symptoms,23,17,0.6566496163682864
+2,disease_on_drugs,21,25,1.1697722567287785

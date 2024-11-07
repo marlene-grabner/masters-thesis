@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Myopathy nodes,sAB
+0,disease_on_genes,23,18,0.4334275951455169
+1,disease_on_symptoms,21,21,0.6904761904761905
+2,disease_on_drugs,19,6,0.8333333333333335

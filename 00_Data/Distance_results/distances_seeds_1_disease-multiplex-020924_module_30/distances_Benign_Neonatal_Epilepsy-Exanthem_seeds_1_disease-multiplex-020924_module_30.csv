@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,28,0.42105263157894735
+1,disease_on_symptoms,16,26,2.415636446886447
+2,disease_on_drugs,26,28,0.871031746031746

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.18673290473407356
+1,disease_on_symptoms,11,13,0.19930069930069916
+2,disease_on_drugs,27,28,0.000288600288600227

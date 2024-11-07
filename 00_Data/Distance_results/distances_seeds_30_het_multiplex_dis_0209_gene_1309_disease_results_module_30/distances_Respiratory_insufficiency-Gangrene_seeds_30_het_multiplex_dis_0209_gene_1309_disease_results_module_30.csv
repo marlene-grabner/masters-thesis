@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,27,-0.07407407407407407
+1,disease_on_symptoms,21,22,0.6063877982482633
+2,disease_on_drugs,25,27,-0.0419373219373218

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.11111111111111116
+1,disease_on_symptoms,11,19,-0.11419457735247218
+2,disease_on_drugs,27,24,0.13684640522875813

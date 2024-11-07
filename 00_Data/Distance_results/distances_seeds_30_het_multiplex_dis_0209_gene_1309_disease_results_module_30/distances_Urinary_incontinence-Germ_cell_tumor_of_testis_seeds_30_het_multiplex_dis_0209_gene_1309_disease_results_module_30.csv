@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,29,27,-0.001984126984126977
+1,disease_on_symptoms,20,22,1.0370129870129872
+2,disease_on_drugs,20,20,0.32499999999999996

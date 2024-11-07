@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,26,-0.11285814116002801
+1,disease_on_symptoms,17,18,0.6515873015873017
+2,disease_on_drugs,24,26,-0.0028846153846153744

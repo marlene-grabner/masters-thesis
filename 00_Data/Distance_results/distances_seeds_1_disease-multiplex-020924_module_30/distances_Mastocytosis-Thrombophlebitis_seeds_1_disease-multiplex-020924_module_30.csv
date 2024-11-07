@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,18,28,0.32781228433402343
+1,disease_on_symptoms,28,15,1.1794296788482836
+2,disease_on_drugs,17,21,0.651702786377709

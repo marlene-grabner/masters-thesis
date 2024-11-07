@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,0.05730258560447221
+1,disease_on_symptoms,17,16,1.0241198752228167
+2,disease_on_drugs,25,27,0.5968091168091165

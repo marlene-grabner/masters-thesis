@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,20,19,-0.6448380566801619
+2,disease_on_drugs,30,25,-0.2981818181818182

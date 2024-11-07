@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,28,25,0.12867924528301877
+1,disease_on_symptoms,21,22,0.5995419309372798
+2,disease_on_drugs,21,24,0.4912698412698413

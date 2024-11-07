@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,0.24463937621832343
+1,disease_on_symptoms,23,24,1.0848943879124269
+2,disease_on_drugs,25,15,0.18666666666666654

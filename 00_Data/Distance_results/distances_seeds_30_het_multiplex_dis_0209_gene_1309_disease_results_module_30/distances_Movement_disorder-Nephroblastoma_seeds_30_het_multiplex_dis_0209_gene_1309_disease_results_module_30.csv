@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,29,-0.016958893434638744
+1,disease_on_symptoms,17,20,0.4708664546899839
+2,disease_on_drugs,26,24,-0.015833333333333588

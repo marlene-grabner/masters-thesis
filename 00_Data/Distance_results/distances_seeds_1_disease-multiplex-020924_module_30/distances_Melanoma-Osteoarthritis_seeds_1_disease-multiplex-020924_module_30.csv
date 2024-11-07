@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,24,25,0.24530612244897965
+1,disease_on_symptoms,23,20,2.2711830131445905
+2,disease_on_drugs,22,21,0.8604651162790697

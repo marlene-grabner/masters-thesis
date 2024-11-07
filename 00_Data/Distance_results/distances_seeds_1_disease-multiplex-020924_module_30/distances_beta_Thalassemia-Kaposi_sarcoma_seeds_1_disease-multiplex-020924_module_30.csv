@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,22,15,0.3786650286650288
+1,disease_on_symptoms,21,27,3.1607142857142856
+2,disease_on_drugs,6,13,0.4649122807017545

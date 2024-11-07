@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,26,-0.07692307692307687
+1,disease_on_symptoms,25,18,0.8465374677002586
+2,disease_on_drugs,25,26,-0.038521870286576165

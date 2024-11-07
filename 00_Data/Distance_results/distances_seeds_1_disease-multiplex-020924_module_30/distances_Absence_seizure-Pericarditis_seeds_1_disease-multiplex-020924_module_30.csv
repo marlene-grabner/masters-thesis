@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,25,0.33716475095785436
+1,disease_on_symptoms,16,22,1.334629186602871
+2,disease_on_drugs,22,25,0.6608510638297873

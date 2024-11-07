@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.13333333333333308
+1,disease_on_symptoms,19,25,0.7839234449760764
+2,disease_on_drugs,28,26,0.49928774928774944

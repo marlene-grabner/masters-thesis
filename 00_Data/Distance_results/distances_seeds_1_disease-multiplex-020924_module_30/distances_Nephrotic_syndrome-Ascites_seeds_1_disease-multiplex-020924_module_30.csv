@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Ascites nodes,sAB
+0,disease_on_genes,20,30,-0.22499999999999987
+1,disease_on_symptoms,24,17,-0.36875298900047815
+2,disease_on_drugs,18,27,-0.37222222222222223

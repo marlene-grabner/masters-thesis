@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,25,26,-0.3529411764705882
+1,disease_on_symptoms,22,20,-0.33257575757575775
+2,disease_on_drugs,25,25,-0.44000000000000017

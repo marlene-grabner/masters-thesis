@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.157471264367816
+1,disease_on_symptoms,14,26,1.2802197802197803
+2,disease_on_drugs,26,28,0.35251322751322767

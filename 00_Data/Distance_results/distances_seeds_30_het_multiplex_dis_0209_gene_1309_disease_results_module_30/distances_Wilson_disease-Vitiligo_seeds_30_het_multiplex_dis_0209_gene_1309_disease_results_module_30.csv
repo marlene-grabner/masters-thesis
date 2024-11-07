@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Vitiligo nodes,sAB
+0,disease_on_genes,25,30,0.0
+1,disease_on_symptoms,19,19,-0.07894736842105265
+2,disease_on_drugs,22,25,-0.022321083172146983

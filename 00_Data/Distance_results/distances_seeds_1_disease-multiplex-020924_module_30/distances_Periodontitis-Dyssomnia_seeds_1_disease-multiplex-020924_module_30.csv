@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,23,18,0.10551431601272543
+1,disease_on_symptoms,25,21,3.25399585921325
+2,disease_on_drugs,22,17,0.8435828877005347

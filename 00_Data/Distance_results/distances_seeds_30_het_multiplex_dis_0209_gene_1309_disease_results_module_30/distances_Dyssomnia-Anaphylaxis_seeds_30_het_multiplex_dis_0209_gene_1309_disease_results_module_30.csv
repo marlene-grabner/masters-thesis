@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,18,27,0.1148148148148147
+1,disease_on_symptoms,21,14,3.55
+2,disease_on_drugs,17,26,0.4867673366305376

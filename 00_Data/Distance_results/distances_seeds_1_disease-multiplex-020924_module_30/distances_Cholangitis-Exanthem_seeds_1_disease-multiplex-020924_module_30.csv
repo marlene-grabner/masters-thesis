@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,28,0.08956228956228962
+1,disease_on_symptoms,22,26,1.3454254079254078
+2,disease_on_drugs,26,28,0.5191798941798942

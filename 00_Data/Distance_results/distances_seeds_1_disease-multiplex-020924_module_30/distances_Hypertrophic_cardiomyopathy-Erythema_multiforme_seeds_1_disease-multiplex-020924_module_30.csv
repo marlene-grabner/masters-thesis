@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,30,30,0.43333333333333335
+1,disease_on_symptoms,17,16,1.7844808377896615
+2,disease_on_drugs,17,30,0.8723404255319149

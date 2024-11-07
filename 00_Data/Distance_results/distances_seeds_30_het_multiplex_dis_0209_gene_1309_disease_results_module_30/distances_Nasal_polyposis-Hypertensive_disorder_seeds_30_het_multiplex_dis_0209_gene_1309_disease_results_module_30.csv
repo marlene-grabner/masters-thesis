@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,20,21,0.16910569105691042
+2,disease_on_drugs,25,26,-1.5082956259293567e-05

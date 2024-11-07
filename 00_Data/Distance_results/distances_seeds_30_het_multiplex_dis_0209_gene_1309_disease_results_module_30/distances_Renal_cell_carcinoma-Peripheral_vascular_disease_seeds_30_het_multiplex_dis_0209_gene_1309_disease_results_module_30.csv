@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,27,25,-0.07698005698005705
+1,disease_on_symptoms,22,17,0.43548608254490606
+2,disease_on_drugs,22,25,0.2136943907156672

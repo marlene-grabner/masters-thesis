@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,15,23,0.7781083142639207
+2,disease_on_drugs,23,30,0.3007383100902379

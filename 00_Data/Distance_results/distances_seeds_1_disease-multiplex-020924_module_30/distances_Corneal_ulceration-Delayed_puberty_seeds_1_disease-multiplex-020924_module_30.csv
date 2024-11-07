@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,28,22,0.24404761904761907
+1,disease_on_symptoms,19,20,1.8229082321187584
+2,disease_on_drugs,26,19,0.8807017543859648

@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,16,18,0.2175245098039218
+2,disease_on_drugs,28,30,-0.2749589490968801

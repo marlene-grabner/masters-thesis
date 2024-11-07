@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,14,20,0.5657563025210084
+1,disease_on_symptoms,25,22,2.309922630560928
+2,disease_on_drugs,10,15,0.77

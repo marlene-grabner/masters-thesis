@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.5090045248868778
+1,disease_on_symptoms,17,23,2.5492966751918162
+2,disease_on_drugs,18,21,1.119047619047619

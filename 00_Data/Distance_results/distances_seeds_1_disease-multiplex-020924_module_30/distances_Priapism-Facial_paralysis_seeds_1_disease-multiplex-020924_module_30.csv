@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.015367965367965253
+1,disease_on_symptoms,17,23,0.9103580562659848
+2,disease_on_drugs,28,14,0.25595238095238093

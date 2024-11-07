@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,22,28,-0.04662337662337657
+1,disease_on_symptoms,19,17,0.15385276917784663
+2,disease_on_drugs,19,18,0.29800853485064027

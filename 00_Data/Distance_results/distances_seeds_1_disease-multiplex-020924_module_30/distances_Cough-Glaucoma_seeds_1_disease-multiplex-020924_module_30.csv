@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,-0.015009746588693806
+1,disease_on_symptoms,21,14,-0.01904761904761898
+2,disease_on_drugs,27,30,0.42085769980506815

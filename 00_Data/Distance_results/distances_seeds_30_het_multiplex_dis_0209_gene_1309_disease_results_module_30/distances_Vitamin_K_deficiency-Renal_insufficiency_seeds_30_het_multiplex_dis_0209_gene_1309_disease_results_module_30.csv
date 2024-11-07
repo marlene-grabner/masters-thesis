@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,21,19,1.0726817042606518
+2,disease_on_drugs,21,28,0.04421768707482987

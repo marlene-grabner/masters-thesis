@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,27,26,0.0
+1,disease_on_symptoms,21,20,1.4191056910569104
+2,disease_on_drugs,26,23,0.3618694969626648

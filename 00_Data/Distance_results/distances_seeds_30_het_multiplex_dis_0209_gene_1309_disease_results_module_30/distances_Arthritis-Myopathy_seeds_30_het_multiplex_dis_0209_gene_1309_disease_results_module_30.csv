@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,0.05660377358490565
+1,disease_on_symptoms,20,22,0.3520562770562772
+2,disease_on_drugs,29,21,0.08807881773399018

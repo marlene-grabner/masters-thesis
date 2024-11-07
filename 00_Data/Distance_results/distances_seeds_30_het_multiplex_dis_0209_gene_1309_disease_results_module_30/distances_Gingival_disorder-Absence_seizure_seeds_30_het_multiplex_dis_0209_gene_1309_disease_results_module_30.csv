@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,19,14,1.4102301207564365
+2,disease_on_drugs,24,22,0.4587450592885376

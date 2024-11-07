@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,24,0.10076923076923094
+1,disease_on_symptoms,20,23,0.7329625884732054
+2,disease_on_drugs,27,24,0.4139433551198255

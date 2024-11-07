@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,0.3534113060428852
+1,disease_on_symptoms,18,20,2.2428362573099414
+2,disease_on_drugs,21,30,1.0112044817927168

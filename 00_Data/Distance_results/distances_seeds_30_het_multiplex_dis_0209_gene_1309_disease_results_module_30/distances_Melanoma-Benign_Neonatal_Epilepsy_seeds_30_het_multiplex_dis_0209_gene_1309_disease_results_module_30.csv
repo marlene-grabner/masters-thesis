@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,27,30,0.10428849902534099
+1,disease_on_symptoms,23,16,1.5901964882943143
+2,disease_on_drugs,25,21,0.8289026915113873

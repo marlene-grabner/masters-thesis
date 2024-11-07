@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,26,30,-0.0714285714285714
+1,disease_on_symptoms,17,19,-0.0857413140694876
+2,disease_on_drugs,24,30,0.09953703703703698

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,23,14,0.45891388282692613
+1,disease_on_symptoms,21,23,1.4802842085450783
+2,disease_on_drugs,21,14,0.9000000000000001

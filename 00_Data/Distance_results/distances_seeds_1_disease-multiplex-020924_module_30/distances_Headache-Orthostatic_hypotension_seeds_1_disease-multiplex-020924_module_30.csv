@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666683
+1,disease_on_symptoms,25,12,-0.18031531531531542
+2,disease_on_drugs,26,17,-0.09515416184362835

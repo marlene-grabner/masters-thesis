@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,16,17,0.26559714795008915
+2,disease_on_drugs,27,30,0.48996101364522393

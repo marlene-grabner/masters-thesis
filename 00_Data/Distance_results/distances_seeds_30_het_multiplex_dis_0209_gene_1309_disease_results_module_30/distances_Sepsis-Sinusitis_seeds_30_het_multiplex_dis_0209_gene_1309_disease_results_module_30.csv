@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,-0.23700564971751403
+1,disease_on_symptoms,15,20,-0.38928571428571423
+2,disease_on_drugs,25,27,-0.28945868945868947

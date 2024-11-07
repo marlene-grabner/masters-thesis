@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,18,17,0.7314192343604109
+2,disease_on_drugs,24,28,0.08585164835164827

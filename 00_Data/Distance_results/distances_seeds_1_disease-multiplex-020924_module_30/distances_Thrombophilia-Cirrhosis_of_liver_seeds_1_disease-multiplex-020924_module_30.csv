@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,0.1577972709551656
+1,disease_on_symptoms,18,14,0.8754960317460316
+2,disease_on_drugs,21,26,0.31612890655443837

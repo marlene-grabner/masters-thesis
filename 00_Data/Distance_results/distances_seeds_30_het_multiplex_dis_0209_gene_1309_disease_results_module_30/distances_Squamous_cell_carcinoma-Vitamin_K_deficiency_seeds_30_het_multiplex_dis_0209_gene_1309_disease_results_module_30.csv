@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,22,21,0.8639635558240206
+2,disease_on_drugs,30,21,-0.06022408963585435

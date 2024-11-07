@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,23,30,-0.018867924528301883
+1,disease_on_symptoms,17,17,1.2647058823529413
+2,disease_on_drugs,22,29,0.10134304505501257

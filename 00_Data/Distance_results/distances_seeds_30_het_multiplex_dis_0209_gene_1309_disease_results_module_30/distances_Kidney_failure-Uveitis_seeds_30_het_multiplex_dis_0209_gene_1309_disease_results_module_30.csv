@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,20,20,0.22499999999999987
+2,disease_on_drugs,28,23,-0.17776458409450724

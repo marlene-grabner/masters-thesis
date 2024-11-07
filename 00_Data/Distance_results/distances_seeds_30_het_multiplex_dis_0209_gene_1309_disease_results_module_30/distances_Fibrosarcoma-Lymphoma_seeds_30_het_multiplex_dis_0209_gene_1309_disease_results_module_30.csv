@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,14,20,-0.18361344537815127
+2,disease_on_drugs,26,24,-0.23717948717948723

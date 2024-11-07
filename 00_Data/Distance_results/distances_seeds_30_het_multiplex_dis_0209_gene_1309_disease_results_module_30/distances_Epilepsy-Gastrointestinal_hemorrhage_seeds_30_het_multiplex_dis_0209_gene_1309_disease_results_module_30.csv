@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.13797208538587857
+1,disease_on_symptoms,21,20,-0.1991289198606272
+2,disease_on_drugs,29,27,0.07053913519430743

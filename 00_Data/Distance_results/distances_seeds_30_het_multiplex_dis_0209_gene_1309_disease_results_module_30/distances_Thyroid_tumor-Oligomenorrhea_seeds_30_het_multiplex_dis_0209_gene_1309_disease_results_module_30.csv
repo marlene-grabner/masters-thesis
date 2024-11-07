@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,23,29,0.1923076923076923
+1,disease_on_symptoms,20,11,1.2349706744868034
+2,disease_on_drugs,20,24,0.4636363636363636

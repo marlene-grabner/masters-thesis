@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,26,0.07692307692307687
+1,disease_on_symptoms,16,21,0.6965894465894467
+2,disease_on_drugs,25,26,0.3536349924585218

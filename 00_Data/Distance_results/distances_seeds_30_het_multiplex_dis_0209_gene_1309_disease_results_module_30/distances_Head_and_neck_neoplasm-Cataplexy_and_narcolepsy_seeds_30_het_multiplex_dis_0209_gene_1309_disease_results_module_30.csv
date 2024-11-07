@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.01969696969696977
+1,disease_on_symptoms,22,19,1.6761874197689344
+2,disease_on_drugs,27,18,0.08333333333333348

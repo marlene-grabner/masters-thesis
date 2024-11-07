@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,26,27,-0.15203193033381712
+1,disease_on_symptoms,16,21,0.40653153153153143
+2,disease_on_drugs,26,26,-0.11538461538461564

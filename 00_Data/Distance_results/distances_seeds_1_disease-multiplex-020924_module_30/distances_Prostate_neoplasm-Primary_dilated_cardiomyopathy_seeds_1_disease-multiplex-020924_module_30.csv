@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,17,30,0.6057571964956194
+1,disease_on_symptoms,21,25,1.982153209109731
+2,disease_on_drugs,17,7,1.2864145658263304

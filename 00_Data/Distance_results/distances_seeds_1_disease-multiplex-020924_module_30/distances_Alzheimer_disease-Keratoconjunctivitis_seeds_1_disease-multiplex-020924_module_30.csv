@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,20,29,0.24030612244897975
+1,disease_on_symptoms,23,25,1.1491304347826086
+2,disease_on_drugs,18,27,0.588888888888889

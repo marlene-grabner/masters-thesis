@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,24,28,0.042353479853479925
+1,disease_on_symptoms,22,21,0.5101932950770158
+2,disease_on_drugs,24,24,0.14583333333333326

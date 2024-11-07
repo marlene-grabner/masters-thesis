@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,22,13,0.49155844155844175
+2,disease_on_drugs,29,22,0.05032577294240581

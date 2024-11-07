@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,23,15,0.380701754385965
+1,disease_on_symptoms,16,27,2.514292635658915
+2,disease_on_drugs,17,13,0.607843137254902

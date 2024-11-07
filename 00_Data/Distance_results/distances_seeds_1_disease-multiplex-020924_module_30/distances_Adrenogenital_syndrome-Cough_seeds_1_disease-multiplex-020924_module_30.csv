@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.297270955165692
+1,disease_on_symptoms,7,21,1.8452380952380953
+2,disease_on_drugs,22,27,0.4592523878238164

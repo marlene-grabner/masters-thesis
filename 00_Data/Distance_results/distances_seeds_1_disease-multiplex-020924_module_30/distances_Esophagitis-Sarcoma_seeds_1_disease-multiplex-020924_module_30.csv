@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,24,25,0.2690217391304348
+1,disease_on_symptoms,23,26,1.288632175278138
+2,disease_on_drugs,20,21,0.9750000000000001

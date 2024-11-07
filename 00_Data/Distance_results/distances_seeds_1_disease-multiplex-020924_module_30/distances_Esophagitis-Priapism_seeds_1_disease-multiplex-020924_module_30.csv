@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Priapism nodes,sAB
+0,disease_on_genes,24,30,0.28167897183483714
+1,disease_on_symptoms,23,17,1.1527493606138108
+2,disease_on_drugs,20,28,0.42142857142857126

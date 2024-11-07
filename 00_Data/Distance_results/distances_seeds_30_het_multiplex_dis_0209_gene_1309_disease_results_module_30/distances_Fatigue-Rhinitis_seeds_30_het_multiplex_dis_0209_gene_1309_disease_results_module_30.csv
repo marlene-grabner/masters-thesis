@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.0494505494505495
+1,disease_on_symptoms,16,12,0.39880952380952395
+2,disease_on_drugs,26,23,-0.019128387140809666

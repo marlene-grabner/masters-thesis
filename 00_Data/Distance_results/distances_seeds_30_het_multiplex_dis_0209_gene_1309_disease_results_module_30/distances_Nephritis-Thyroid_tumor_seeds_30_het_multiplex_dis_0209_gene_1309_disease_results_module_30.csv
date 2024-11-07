@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.13207547169811318
+1,disease_on_symptoms,17,20,0.7116454689984102
+2,disease_on_drugs,25,20,0.46166666666666667

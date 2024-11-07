@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.05882352941176472
+1,disease_on_symptoms,25,23,1.0217753623188406
+2,disease_on_drugs,30,21,0.0858543417366946

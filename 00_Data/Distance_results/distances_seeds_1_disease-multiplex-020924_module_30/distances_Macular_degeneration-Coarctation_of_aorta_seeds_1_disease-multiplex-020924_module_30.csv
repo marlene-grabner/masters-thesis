@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.4921052631578948
+1,disease_on_symptoms,15,14,0.7468801313628899
+2,disease_on_drugs,21,13,0.8291316526610646

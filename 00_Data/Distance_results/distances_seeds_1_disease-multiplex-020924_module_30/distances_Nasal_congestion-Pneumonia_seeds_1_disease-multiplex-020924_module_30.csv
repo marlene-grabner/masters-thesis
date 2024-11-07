@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,15,26,0.46976235146966827
+2,disease_on_drugs,23,28,0.9390451832907074

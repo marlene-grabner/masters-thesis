@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Sinusitis nodes,sAB
+0,disease_on_genes,26,29,0.4199541837472871
+1,disease_on_symptoms,21,21,0.8095238095238093
+2,disease_on_drugs,24,28,1.1002747252747251

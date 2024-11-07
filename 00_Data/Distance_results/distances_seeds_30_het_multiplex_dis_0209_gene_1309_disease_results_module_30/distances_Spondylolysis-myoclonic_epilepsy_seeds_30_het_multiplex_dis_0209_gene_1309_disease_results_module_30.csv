@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,28,30,0.0
+1,disease_on_symptoms,17,16,0.16198752228163982
+2,disease_on_drugs,19,25,-0.0815311004784689

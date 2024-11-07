@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,20,23,0.03157229524772509
+2,disease_on_drugs,27,26,-0.17163898295973778

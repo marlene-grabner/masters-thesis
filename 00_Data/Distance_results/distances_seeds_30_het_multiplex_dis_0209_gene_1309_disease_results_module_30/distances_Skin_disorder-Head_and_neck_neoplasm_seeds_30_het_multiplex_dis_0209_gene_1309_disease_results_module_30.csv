@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.07121212121212117
+1,disease_on_symptoms,19,22,0.8000641848523746
+2,disease_on_drugs,23,27,0.09478260869565225

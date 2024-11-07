@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Ascites nodes,sAB
+0,disease_on_genes,21,30,0.11344537815126055
+1,disease_on_symptoms,20,17,0.8507949125596181
+2,disease_on_drugs,19,27,0.57487922705314

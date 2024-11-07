@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Constipation nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,14,17,1.0250745459474113
+2,disease_on_drugs,26,27,0.4154437456324247

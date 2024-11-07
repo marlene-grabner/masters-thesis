@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,25,27,-0.17307692307692313
+1,disease_on_symptoms,19,18,0.036075549233443915
+2,disease_on_drugs,22,22,-0.36363636363636365

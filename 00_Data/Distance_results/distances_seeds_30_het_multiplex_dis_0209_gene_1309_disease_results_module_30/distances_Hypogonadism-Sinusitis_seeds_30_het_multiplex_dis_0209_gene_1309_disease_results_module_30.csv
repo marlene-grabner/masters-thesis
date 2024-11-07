@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.10169491525423724
+1,disease_on_symptoms,17,20,0.7480524642289348
+2,disease_on_drugs,29,27,0.7338076993249407

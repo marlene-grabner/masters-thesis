@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.12265331664580725
+1,disease_on_symptoms,20,24,1.1814393939393937
+2,disease_on_drugs,29,16,0.24413314176245215

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Epididymitis nodes,sAB
+0,disease_on_genes,29,29,0.4137931034482758
+1,disease_on_symptoms,17,23,1.8324168797953964
+2,disease_on_drugs,26,27,1.0192038918454012

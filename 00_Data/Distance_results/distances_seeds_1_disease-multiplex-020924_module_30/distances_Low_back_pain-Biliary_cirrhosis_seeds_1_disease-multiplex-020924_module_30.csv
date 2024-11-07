@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.2511904761904762
+1,disease_on_symptoms,17,15,0.7
+2,disease_on_drugs,26,15,0.6279862414008757

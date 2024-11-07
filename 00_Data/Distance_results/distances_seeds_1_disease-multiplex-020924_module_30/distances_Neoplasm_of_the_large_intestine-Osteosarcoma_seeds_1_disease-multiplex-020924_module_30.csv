@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,20,25,-0.1561111111111111
+1,disease_on_symptoms,25,24,0.4492687074829931
+2,disease_on_drugs,19,23,-0.14786967418546382

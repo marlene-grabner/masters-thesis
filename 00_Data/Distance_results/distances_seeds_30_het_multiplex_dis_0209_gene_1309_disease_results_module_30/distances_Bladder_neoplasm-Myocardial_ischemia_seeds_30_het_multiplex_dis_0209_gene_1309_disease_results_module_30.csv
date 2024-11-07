@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,-0.3023809523809523
+1,disease_on_symptoms,19,19,-0.26315789473684204
+2,disease_on_drugs,25,30,-0.14242424242424234

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,13,20,0.4852564102564103
+2,disease_on_drugs,19,21,0.048308270676691745

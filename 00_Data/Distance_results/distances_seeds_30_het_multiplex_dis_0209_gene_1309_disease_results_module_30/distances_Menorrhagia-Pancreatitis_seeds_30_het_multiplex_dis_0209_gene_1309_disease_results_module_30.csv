@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,16,17,0.36647727272727293
+2,disease_on_drugs,23,30,0.16855345911949682

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Keloid nodes,sAB
+0,disease_on_genes,27,22,0.09929224214938492
+1,disease_on_symptoms,21,20,1.855691056910569
+2,disease_on_drugs,27,19,0.18035426731078896

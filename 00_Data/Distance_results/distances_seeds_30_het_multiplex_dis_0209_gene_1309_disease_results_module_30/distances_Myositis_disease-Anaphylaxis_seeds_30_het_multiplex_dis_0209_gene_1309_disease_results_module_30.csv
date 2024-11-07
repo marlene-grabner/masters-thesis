@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.017641325536062347
+1,disease_on_symptoms,18,14,0.3536706349206349
+2,disease_on_drugs,26,26,-0.03846153846153855

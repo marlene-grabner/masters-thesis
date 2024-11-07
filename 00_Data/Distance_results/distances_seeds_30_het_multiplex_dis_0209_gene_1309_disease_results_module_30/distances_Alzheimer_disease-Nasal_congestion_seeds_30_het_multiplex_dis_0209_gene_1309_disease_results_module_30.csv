@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,23,30,-0.24528301886792447
+1,disease_on_symptoms,19,14,0.1903053087263613
+2,disease_on_drugs,19,25,-0.3908612440191388

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.1694915254237288
+1,disease_on_symptoms,10,13,0.23478260869565215
+2,disease_on_drugs,16,22,0.2202452153110046

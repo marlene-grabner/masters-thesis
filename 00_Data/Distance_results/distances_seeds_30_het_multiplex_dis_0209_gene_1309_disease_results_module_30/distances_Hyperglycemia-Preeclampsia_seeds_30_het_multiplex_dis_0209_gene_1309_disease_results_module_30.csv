@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,-0.12192982456140344
+1,disease_on_symptoms,17,18,0.2249766573295986
+2,disease_on_drugs,26,22,-0.20629370629370625

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.17543859649122806
+1,disease_on_symptoms,17,21,0.7084623323013417
+2,disease_on_drugs,26,26,-0.038461538461538325

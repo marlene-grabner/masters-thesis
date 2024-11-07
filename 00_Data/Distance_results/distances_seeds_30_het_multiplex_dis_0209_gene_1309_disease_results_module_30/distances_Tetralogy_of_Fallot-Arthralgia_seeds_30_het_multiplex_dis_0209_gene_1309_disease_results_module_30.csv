@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.13333333333333341
+1,disease_on_symptoms,19,17,0.3171654626762983
+2,disease_on_drugs,20,30,-0.11499999999999999

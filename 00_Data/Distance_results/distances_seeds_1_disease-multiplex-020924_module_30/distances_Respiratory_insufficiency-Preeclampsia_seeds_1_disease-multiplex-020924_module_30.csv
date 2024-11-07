@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,25,26,0.41098039215686266
+1,disease_on_symptoms,20,17,2.7630763116057233
+2,disease_on_drugs,14,23,0.546793688098036

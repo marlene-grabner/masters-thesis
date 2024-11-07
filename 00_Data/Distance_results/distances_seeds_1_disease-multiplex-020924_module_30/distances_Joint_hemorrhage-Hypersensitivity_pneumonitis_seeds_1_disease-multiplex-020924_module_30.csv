@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,24,0.3574074074074074
+1,disease_on_symptoms,13,23,0.9489037532515794
+2,disease_on_drugs,18,24,0.7023809523809523

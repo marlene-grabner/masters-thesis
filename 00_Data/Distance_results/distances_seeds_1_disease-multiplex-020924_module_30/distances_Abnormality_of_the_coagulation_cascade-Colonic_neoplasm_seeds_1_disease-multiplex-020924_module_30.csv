@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,23,30,0.12346185397867115
+1,disease_on_symptoms,23,19,0.9083578511496131
+2,disease_on_drugs,18,29,0.3356973995271868

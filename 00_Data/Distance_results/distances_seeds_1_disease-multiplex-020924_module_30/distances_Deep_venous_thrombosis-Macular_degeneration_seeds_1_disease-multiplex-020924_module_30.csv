@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,28,30,0.24133825944170773
+1,disease_on_symptoms,14,15,0.7739737274220038
+2,disease_on_drugs,24,21,0.6206349206349207

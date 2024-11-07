@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,29,-0.07341269841269848
+1,disease_on_symptoms,22,11,1.553030303030303
+2,disease_on_drugs,20,24,0.3181818181818181

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,23,29,0.24498327759197336
+1,disease_on_symptoms,19,15,2.883075335397317
+2,disease_on_drugs,19,27,1.4194847020933974

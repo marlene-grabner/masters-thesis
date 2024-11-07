@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,17,18,-0.1158730158730159
+2,disease_on_drugs,30,26,-0.2665750915750916

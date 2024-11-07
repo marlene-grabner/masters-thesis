@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,-0.13793103448275867
+1,disease_on_symptoms,17,18,-0.16895424836601292
+2,disease_on_drugs,28,23,-0.028665814151747737

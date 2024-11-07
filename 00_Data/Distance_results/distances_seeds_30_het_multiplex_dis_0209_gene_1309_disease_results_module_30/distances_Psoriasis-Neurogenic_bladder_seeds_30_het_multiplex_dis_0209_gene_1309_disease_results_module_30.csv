@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,17,18,0.3738562091503268
+2,disease_on_drugs,30,21,0.2621848739495798

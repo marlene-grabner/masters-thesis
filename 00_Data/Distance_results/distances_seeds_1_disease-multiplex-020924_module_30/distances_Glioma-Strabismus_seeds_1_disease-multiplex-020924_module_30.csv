@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Strabismus nodes,sAB
+0,disease_on_genes,22,13,0.2618881118881118
+1,disease_on_symptoms,24,26,1.8830128205128205
+2,disease_on_drugs,20,9,1.2987547892720306

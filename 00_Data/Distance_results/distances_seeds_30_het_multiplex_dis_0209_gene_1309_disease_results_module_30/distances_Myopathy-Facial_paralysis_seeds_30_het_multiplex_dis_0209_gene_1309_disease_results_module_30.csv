@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,23,22,-0.11111111111111116
+1,disease_on_symptoms,22,21,-0.09503674619953695
+2,disease_on_drugs,21,17,-0.014816452896948329

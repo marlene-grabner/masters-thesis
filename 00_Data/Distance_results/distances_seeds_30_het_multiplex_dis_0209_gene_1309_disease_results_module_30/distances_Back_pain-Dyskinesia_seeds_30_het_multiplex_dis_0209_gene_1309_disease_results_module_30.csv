@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,15,15,0.6666666666666667
+2,disease_on_drugs,23,28,-0.05664657167214693

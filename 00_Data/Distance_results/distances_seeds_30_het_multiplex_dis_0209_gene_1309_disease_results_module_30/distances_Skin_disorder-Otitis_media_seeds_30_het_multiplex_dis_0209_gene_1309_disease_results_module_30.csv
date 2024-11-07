@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,-0.10983397190293731
+1,disease_on_symptoms,19,20,0.17715924426450735
+2,disease_on_drugs,23,28,-0.07257033248081823

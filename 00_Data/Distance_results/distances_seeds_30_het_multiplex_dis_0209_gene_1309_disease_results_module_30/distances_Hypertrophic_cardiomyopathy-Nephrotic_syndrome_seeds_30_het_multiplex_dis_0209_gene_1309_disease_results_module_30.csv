@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,19,15,0.12972136222910224
+2,disease_on_drugs,22,28,-0.13441558441558432

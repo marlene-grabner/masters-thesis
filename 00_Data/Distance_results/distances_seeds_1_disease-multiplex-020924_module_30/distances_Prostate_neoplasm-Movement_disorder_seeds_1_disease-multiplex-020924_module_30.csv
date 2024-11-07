@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,17,30,0.4234876929495204
+1,disease_on_symptoms,21,22,1.8355230041276553
+2,disease_on_drugs,17,15,1.1849264705882354

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Pericarditis nodes,sAB
+0,disease_on_genes,20,25,0.26388888888888906
+1,disease_on_symptoms,24,22,0.8190876152832676
+2,disease_on_drugs,18,25,0.32948320413436694

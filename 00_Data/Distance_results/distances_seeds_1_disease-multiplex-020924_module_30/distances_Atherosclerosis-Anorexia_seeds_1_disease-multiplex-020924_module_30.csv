@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.3504380475594493
+1,disease_on_symptoms,13,25,1.3435627530364371
+2,disease_on_drugs,29,13,0.7948717948717949

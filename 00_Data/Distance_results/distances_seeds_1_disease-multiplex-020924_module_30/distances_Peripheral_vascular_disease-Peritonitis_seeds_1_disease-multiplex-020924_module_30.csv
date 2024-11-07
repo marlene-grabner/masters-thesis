@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Peritonitis nodes,sAB
+0,disease_on_genes,23,30,0.2412633305988514
+1,disease_on_symptoms,16,17,1.6065619429590017
+2,disease_on_drugs,22,28,1.0242857142857145

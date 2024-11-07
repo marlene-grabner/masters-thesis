@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Dysuria nodes,sAB
+0,disease_on_genes,26,30,0.2992645285748734
+1,disease_on_symptoms,23,16,1.4488921404682271
+2,disease_on_drugs,25,23,1.2074275362318838

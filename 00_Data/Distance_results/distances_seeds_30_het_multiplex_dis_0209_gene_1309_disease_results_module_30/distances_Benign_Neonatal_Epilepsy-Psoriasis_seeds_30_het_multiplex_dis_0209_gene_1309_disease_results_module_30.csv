@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,16,17,1.132631461675579
+2,disease_on_drugs,21,30,0.4092436974789915

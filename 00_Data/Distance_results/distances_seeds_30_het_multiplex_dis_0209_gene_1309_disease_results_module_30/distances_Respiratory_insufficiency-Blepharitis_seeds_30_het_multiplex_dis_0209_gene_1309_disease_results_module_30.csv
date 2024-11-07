@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,21,18,0.6684981684981686
+2,disease_on_drugs,25,30,0.028484848484848557

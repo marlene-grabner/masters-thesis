@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.22252747252747263
+1,disease_on_symptoms,20,21,0.8241869918699187
+2,disease_on_drugs,20,29,1.0267417311752287

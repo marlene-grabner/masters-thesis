@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,27,24,0.38589324618736365
+1,disease_on_symptoms,17,26,1.4186572661264867
+2,disease_on_drugs,20,15,1.0285714285714285

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,20,24,0.22234848484848513
+2,disease_on_drugs,20,27,0.016351457840819705

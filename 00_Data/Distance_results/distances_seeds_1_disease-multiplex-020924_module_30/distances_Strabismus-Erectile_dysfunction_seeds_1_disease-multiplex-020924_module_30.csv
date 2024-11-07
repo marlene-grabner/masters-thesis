@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,13,30,0.35632081097197377
+1,disease_on_symptoms,26,16,0.9708104395604393
+2,disease_on_drugs,9,30,0.7149572649572649

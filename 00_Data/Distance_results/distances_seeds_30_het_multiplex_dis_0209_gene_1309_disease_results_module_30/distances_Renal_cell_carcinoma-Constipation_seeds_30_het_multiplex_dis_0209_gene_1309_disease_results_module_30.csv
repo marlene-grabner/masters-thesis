@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Constipation nodes,sAB
+0,disease_on_genes,27,30,-0.10536062378167643
+1,disease_on_symptoms,22,16,1.2166566985645932
+2,disease_on_drugs,22,28,0.10740259740259739

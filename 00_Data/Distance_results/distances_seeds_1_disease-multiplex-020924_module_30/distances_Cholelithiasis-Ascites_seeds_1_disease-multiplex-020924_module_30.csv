@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Ascites nodes,sAB
+0,disease_on_genes,25,30,0.23272727272727267
+1,disease_on_symptoms,19,17,1.0258857929136567
+2,disease_on_drugs,18,27,0.6277777777777775

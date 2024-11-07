@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,12,20,0.5395833333333333
+1,disease_on_symptoms,27,24,1.542619825708061
+2,disease_on_drugs,9,18,0.6296296296296295

@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.12920426579163236
+1,disease_on_symptoms,23,19,1.1143619919363625
+2,disease_on_drugs,24,22,0.15546772068511205

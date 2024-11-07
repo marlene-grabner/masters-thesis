@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,19,-0.06544952807550797
+1,disease_on_symptoms,20,21,0.061556329849012936
+2,disease_on_drugs,28,17,-0.15555555555555556

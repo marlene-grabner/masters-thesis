@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.0357142857142857
+1,disease_on_symptoms,16,21,0.43223133848133877
+2,disease_on_drugs,29,26,0.19652761032071364

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,0.12696969696969695
+1,disease_on_symptoms,21,17,1.1043785935426802
+2,disease_on_drugs,29,25,0.7056449553001276

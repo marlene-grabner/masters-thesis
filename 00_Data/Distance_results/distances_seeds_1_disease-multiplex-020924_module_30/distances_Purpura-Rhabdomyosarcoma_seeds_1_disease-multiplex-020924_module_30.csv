@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,0.46360316701931614
+1,disease_on_symptoms,17,24,2.137673362027738
+2,disease_on_drugs,20,17,1.189189189189189

@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.15867446393762186
+1,disease_on_symptoms,18,24,1.7013888888888888
+2,disease_on_drugs,21,24,0.3107142857142855

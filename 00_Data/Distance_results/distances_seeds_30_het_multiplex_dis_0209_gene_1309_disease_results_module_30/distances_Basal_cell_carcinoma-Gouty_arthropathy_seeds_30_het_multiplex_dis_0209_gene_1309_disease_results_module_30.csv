@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.15517241379310343
+1,disease_on_symptoms,24,18,0.5049603174603172
+2,disease_on_drugs,27,23,0.04853462157809996

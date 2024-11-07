@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.10515151515151522
+1,disease_on_symptoms,19,16,1.3575187969924811
+2,disease_on_drugs,24,23,0.7428307123034228

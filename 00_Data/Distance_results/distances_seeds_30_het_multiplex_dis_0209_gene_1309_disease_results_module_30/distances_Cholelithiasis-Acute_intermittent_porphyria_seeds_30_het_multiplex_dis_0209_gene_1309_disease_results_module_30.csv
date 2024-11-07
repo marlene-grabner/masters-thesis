@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,25,27,0.019230769230769162
+1,disease_on_symptoms,20,17,1.0363275039745625
+2,disease_on_drugs,18,24,-0.08432539682539697

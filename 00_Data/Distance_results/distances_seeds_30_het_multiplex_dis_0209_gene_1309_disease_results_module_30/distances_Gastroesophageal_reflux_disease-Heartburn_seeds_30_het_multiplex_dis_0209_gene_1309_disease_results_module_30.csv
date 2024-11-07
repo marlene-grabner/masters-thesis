@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,26,-0.75
+1,disease_on_symptoms,18,16,-1.2287581699346406
+2,disease_on_drugs,25,25,-0.8399999999999999

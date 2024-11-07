@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.5108187134502926
+1,disease_on_symptoms,18,19,-0.9166271534692588
+2,disease_on_drugs,25,30,-0.5151515151515151

@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,27,27,0.35185185185185186
+1,disease_on_symptoms,18,23,2.351773300341699
+2,disease_on_drugs,21,20,0.8304297328687571

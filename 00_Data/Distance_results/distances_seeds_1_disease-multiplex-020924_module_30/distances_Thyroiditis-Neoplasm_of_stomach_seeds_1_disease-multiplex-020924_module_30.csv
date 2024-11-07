@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,26,23,0.08634222919937207
+1,disease_on_symptoms,28,24,0.9887820512820511
+2,disease_on_drugs,23,22,0.4666447079490559

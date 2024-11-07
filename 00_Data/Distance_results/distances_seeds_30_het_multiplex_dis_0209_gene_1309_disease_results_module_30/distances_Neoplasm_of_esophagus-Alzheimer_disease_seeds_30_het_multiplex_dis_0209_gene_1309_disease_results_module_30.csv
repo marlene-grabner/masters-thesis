@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,29,23,-0.286472148541114
+1,disease_on_symptoms,20,19,0.35863697705802977
+2,disease_on_drugs,25,19,-0.23086124401913866

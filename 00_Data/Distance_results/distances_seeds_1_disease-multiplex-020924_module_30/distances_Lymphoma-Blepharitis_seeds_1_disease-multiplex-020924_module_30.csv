@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.08620401337792627
+1,disease_on_symptoms,21,27,0.39914021164021163
+2,disease_on_drugs,25,19,0.1800956937799041

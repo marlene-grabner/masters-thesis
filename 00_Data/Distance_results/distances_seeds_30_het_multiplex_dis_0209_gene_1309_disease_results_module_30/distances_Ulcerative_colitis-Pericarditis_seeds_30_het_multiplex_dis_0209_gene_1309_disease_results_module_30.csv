@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,-0.09433962264150941
+1,disease_on_symptoms,20,21,0.5867595818815334
+2,disease_on_drugs,27,26,-0.22968069666182878

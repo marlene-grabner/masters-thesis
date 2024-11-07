@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,18,17,0.7359010270774977
+2,disease_on_drugs,22,29,0.00408752842829907

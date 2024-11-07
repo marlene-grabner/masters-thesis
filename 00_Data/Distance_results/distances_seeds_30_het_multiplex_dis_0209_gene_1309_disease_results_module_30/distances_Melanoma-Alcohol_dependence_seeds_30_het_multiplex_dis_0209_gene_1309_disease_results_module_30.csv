@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,30,-0.12202729044834304
+1,disease_on_symptoms,23,18,0.4099210557322963
+2,disease_on_drugs,25,24,-0.06129251700680283

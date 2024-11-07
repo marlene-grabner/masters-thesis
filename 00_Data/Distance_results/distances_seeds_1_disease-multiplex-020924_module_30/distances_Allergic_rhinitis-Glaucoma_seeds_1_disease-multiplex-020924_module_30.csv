@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,21,30,0.28207282913165255
+1,disease_on_symptoms,22,14,1.2593795093795097
+2,disease_on_drugs,21,30,0.5100840336134453

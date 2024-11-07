@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.05947497949138647
+1,disease_on_symptoms,21,19,0.3516290726817044
+2,disease_on_drugs,29,22,0.0848853648042287

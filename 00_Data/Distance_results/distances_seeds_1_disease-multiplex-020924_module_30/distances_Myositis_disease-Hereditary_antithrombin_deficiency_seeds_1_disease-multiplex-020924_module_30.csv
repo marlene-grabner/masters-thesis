@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.20439244663382583
+1,disease_on_symptoms,24,15,1.8871794871794871
+2,disease_on_drugs,28,20,0.8857142857142857

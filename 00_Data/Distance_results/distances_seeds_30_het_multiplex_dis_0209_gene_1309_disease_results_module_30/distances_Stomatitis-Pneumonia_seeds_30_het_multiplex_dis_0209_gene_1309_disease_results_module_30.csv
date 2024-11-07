@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,19,23,-0.6218807889288438
+2,disease_on_drugs,29,29,-0.2068965517241379

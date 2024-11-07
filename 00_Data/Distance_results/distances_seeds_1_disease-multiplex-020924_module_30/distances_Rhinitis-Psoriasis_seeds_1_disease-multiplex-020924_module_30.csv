@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.2941707717569786
+1,disease_on_symptoms,15,21,1.292857142857143
+2,disease_on_drugs,22,28,0.5842857142857145

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,29,0.21818181818181825
+1,disease_on_symptoms,17,18,0.5450046685340804
+2,disease_on_drugs,23,22,0.1560386473429951

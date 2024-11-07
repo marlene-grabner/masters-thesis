@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,-0.13461538461538458
+1,disease_on_symptoms,21,17,-0.5588972431077694
+2,disease_on_drugs,25,24,-0.022142857142857242

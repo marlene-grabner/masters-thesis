@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.05084745762711873
+1,disease_on_symptoms,15,20,0.3297619047619045
+2,disease_on_drugs,26,27,0.29965596946729023

@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,28,30,0.1890394088669951
+1,disease_on_symptoms,19,22,1.1005368187653168
+2,disease_on_drugs,25,28,0.4356199460916441

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.1454545454545455
+1,disease_on_symptoms,17,18,0.9251633986928107
+2,disease_on_drugs,24,27,0.1576797385620914

@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,18,0.33333333333333326
+2,disease_on_drugs,27,29,-0.00041050903119876914

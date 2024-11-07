@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.15283459964932777
+1,disease_on_symptoms,13,18,-0.26599117728149957
+2,disease_on_drugs,24,28,-0.06707875457875456

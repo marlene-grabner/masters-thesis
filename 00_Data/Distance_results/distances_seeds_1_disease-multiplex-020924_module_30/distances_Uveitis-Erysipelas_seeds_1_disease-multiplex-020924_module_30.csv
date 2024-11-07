@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,-0.32824302134646965
+1,disease_on_symptoms,21,20,-0.1940766550522648
+2,disease_on_drugs,27,27,-0.2592592592592593

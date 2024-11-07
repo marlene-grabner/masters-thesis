@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,28,30,0.1840237348858038
+1,disease_on_symptoms,18,18,2.0
+2,disease_on_drugs,26,19,0.3018218623481781

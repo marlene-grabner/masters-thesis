@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111127
+1,disease_on_symptoms,21,21,0.11904761904761907
+2,disease_on_drugs,25,25,-0.15999999999999992

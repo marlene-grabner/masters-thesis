@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,28,28,0.2857142857142856
+1,disease_on_symptoms,21,19,1.048997493734336
+2,disease_on_drugs,28,26,0.5932030932030932

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,18,0.11041819515774032
+1,disease_on_symptoms,23,27,0.27194847020933977
+2,disease_on_drugs,27,17,0.7156367597544067

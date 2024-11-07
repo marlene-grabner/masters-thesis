@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000266
+1,disease_on_symptoms,18,15,0.4762626262626264
+2,disease_on_drugs,25,23,0.12576086956521726

@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.18867924528301883
+1,disease_on_symptoms,13,17,0.7289592760180996
+2,disease_on_drugs,24,22,-0.4258069828722003

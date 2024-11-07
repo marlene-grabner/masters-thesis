@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,14,30,-0.013419913419913554
+1,disease_on_symptoms,23,20,1.2648382204246713
+2,disease_on_drugs,14,22,0.4722222222222223

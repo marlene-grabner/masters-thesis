@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,-4.105090311989912e-05
+1,disease_on_symptoms,19,19,0.8684210526315792
+2,disease_on_drugs,29,25,0.6264623243933589

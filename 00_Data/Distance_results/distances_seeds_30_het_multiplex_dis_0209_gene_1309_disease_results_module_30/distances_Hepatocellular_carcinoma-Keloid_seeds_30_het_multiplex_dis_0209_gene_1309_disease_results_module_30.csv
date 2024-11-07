@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Keloid nodes,sAB
+0,disease_on_genes,24,23,-0.276595744680851
+1,disease_on_symptoms,23,17,0.13523017902813317
+2,disease_on_drugs,22,22,-0.20454545454545447

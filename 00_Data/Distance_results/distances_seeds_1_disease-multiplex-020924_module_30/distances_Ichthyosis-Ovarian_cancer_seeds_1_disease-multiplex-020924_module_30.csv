@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,27,27,0.20370370370370372
+1,disease_on_symptoms,17,17,1.3823529411764706
+2,disease_on_drugs,24,25,0.7959183673469388

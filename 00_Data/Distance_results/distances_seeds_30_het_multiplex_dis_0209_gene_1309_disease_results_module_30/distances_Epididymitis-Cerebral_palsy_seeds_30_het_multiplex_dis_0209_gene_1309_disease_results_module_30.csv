@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,29,30,0.22033898305084754
+1,disease_on_symptoms,23,13,1.2028056484578227
+2,disease_on_drugs,26,21,0.11967110903281108

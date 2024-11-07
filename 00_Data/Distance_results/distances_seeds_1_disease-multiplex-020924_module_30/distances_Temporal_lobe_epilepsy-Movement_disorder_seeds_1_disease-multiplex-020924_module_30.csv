@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,29,30,0.06806935515293189
+1,disease_on_symptoms,17,22,0.19672974084738803
+2,disease_on_drugs,26,15,-0.1436210131332083

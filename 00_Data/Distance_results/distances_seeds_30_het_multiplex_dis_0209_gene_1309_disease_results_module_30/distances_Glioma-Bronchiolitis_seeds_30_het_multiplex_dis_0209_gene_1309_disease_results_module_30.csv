@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,22,28,0.040000000000000036
+1,disease_on_symptoms,21,25,0.7935403726708077
+2,disease_on_drugs,21,24,0.2952380952380953

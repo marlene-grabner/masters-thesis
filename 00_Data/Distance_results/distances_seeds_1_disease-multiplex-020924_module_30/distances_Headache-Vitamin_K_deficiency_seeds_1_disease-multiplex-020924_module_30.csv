@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.13484848484848488
+1,disease_on_symptoms,25,23,0.07793478260869557
+2,disease_on_drugs,26,20,0.03946488294314365

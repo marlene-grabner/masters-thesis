@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,-0.24
+1,disease_on_symptoms,17,21,0.401371074745688
+2,disease_on_drugs,22,27,-0.28425410568267706

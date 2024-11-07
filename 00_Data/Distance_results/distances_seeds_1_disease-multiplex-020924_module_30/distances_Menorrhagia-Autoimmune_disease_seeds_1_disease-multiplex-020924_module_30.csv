@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,22,0.16389860139860124
+1,disease_on_symptoms,19,19,1.8421052631578947
+2,disease_on_drugs,24,19,0.48773459812321507

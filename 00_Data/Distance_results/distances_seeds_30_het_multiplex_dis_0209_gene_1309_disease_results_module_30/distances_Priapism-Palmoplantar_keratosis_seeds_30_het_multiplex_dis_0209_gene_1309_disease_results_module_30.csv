@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,12,20,0.9645833333333331
+2,disease_on_drugs,28,23,0.29396541225185713

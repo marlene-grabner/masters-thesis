@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,15,-0.26388028895768834
+2,disease_on_drugs,25,25,-0.06000000000000005

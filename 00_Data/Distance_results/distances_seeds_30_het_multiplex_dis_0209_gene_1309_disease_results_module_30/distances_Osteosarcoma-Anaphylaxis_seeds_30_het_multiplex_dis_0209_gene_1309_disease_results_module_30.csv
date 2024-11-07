@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.07095516569200777
+1,disease_on_symptoms,22,14,1.1677489177489178
+2,disease_on_drugs,29,26,0.38337352302869565

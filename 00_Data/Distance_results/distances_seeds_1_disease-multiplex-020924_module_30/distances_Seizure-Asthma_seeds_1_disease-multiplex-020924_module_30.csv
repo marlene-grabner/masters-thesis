@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,0.1651851851851851
+1,disease_on_symptoms,25,19,1.6876076555023922
+2,disease_on_drugs,28,24,0.5929487179487181

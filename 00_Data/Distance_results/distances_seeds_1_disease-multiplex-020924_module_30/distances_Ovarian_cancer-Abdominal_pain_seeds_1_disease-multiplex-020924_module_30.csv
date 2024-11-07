@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.1596491228070176
+1,disease_on_symptoms,17,24,0.8835186513629842
+2,disease_on_drugs,25,24,0.9379251700680273

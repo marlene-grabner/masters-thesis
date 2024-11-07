@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,24,27,0.39174836601307184
+1,disease_on_symptoms,25,15,1.625
+2,disease_on_drugs,17,26,1.031305903398927

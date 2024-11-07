@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,23,21,0.11495388669301732
+2,disease_on_drugs,20,29,-0.1773399014778324

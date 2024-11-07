@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,28,24,0.15636446886446898
+1,disease_on_symptoms,14,19,1.387673729778993
+2,disease_on_drugs,28,19,0.6249800031994881

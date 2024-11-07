@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.2666666666666666
+1,disease_on_symptoms,21,15,-0.42380952380952386
+2,disease_on_drugs,25,30,-0.1990909090909092

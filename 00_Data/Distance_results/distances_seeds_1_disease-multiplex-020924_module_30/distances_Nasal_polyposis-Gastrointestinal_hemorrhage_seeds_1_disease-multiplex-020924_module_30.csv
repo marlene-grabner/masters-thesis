@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,15,27,0.4296296296296296
+1,disease_on_symptoms,25,19,0.5559808612440191
+2,disease_on_drugs,10,27,0.35945945945945934

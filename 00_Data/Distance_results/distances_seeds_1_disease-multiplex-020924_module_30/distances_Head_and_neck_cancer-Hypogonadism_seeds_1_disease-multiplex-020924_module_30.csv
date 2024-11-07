@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,27,30,0.052910052910052796
+1,disease_on_symptoms,22,12,1.0650623885918005
+2,disease_on_drugs,24,30,0.23796296296296293

@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,0.20151515151515165
+1,disease_on_symptoms,26,14,0.8582417582417583
+2,disease_on_drugs,21,26,0.47013093289689034

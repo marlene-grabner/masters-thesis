@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,30,0.0011904761904761862
+1,disease_on_symptoms,17,25,0.4263305322128852
+2,disease_on_drugs,24,29,0.23084743005855568

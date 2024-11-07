@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.41666666666666674
+1,disease_on_symptoms,22,19,1.8713677208542419
+2,disease_on_drugs,15,22,0.8901719901719902

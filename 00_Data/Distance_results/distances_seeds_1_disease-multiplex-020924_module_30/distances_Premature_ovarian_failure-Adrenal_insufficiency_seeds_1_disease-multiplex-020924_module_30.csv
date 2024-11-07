@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,28,17,0.07450980392156858
+1,disease_on_symptoms,21,21,0.9047619047619047
+2,disease_on_drugs,21,14,0.2666666666666666

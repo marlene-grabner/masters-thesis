@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.5797270955165692
+1,disease_on_symptoms,22,21,1.6893436021343
+2,disease_on_drugs,15,24,0.8535256410256411

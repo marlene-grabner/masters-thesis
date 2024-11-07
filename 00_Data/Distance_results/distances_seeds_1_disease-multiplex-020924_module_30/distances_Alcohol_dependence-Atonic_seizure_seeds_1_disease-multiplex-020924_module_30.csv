@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,12,29,0.35572610036445185
+1,disease_on_symptoms,27,16,1.6112187769164512
+2,disease_on_drugs,9,24,0.707070707070707

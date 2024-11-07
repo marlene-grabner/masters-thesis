@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333333
+1,disease_on_symptoms,17,20,1.125476947535771
+2,disease_on_drugs,17,22,0.6666666666666667

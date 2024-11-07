@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,21,30,-0.011624649859943936
+1,disease_on_symptoms,26,19,1.6979307242465138
+2,disease_on_drugs,20,22,1.0043290043290045

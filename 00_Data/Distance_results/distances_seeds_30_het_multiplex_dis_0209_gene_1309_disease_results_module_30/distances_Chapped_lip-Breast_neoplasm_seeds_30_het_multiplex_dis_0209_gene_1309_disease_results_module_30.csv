@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.1785714285714286
+1,disease_on_symptoms,20,20,0.17500000000000004
+2,disease_on_drugs,23,30,-0.1624282198523379

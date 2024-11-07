@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Asthma nodes,sAB
+0,disease_on_genes,23,25,0.2897826086956523
+1,disease_on_symptoms,21,19,1.5741228070175437
+2,disease_on_drugs,19,24,0.4467054263565893

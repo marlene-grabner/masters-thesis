@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.10112994350282478
+1,disease_on_symptoms,22,11,0.909090909090909
+2,disease_on_drugs,29,24,0.31709499024072874

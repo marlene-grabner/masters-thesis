@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,21,15,0.9325396825396828
+2,disease_on_drugs,27,29,0.5004333150884877

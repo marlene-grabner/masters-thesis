@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,29,30,-0.033333333333333215
+1,disease_on_symptoms,18,22,-0.03106060606060601
+2,disease_on_drugs,30,15,-0.31666666666666665

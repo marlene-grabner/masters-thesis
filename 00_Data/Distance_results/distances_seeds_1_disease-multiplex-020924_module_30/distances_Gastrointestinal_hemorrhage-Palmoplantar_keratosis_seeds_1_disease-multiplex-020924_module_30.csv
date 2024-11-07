@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,27,26,0.43466107617050986
+1,disease_on_symptoms,19,19,0.7894736842105261
+2,disease_on_drugs,27,18,1.0166666666666666

@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,24,27,0.15168845315904123
+1,disease_on_symptoms,21,16,1.0975305662805661
+2,disease_on_drugs,18,27,0.5574074074074074

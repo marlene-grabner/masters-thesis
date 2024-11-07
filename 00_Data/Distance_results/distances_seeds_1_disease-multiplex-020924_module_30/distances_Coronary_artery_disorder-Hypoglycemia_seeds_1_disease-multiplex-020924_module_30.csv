@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,19,30,0.157357679914071
+1,disease_on_symptoms,21,12,2.226190476190476
+2,disease_on_drugs,17,22,0.17948717948717952

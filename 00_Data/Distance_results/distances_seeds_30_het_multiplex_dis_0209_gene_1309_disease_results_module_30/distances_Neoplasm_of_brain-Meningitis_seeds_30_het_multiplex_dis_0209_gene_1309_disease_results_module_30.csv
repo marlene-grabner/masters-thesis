@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.1528248587570622
+1,disease_on_symptoms,19,17,1.0005159958720333
+2,disease_on_drugs,29,27,0.5323161831782521

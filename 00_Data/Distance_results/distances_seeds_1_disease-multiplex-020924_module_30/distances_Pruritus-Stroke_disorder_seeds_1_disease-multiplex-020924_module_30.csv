@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,0.05060606060606054
+1,disease_on_symptoms,19,15,0.47110423116615063
+2,disease_on_drugs,24,30,0.7407407407407407

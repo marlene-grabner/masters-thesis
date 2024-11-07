@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,20,21,0.19451219512195128
+1,disease_on_symptoms,23,20,0.3315722952477249
+2,disease_on_drugs,18,19,-0.02631578947368407

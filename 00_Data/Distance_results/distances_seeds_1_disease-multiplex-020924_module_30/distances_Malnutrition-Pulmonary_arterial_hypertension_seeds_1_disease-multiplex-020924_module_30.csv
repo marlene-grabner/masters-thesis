@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.05479242979242982
+1,disease_on_symptoms,18,18,1.5
+2,disease_on_drugs,23,26,0.3072998430141287

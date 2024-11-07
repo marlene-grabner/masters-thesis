@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,27,0.20679460302101815
+1,disease_on_symptoms,28,19,0.4791433370660694
+2,disease_on_drugs,23,27,0.4782608695652173

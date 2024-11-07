@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,18,25,0.5033074935400517
+1,disease_on_symptoms,21,22,0.5818232155441458
+2,disease_on_drugs,6,24,0.9833333333333334

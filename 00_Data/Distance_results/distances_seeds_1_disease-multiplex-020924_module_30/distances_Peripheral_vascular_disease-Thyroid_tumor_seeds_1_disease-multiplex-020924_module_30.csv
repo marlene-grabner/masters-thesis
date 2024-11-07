@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,23,23,0.15217391304347827
+1,disease_on_symptoms,16,20,1.8006944444444446
+2,disease_on_drugs,22,20,0.9273809523809524

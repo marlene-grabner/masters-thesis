@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,16,20,0.006250000000000089
+1,disease_on_symptoms,23,23,1.4130434782608694
+2,disease_on_drugs,16,17,0.5498551693404634

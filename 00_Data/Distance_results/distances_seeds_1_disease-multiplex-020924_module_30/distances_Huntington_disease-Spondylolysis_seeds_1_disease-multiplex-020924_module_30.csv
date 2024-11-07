@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,27,-0.4767056530214425
+1,disease_on_symptoms,16,19,-0.8796522556390978
+2,disease_on_drugs,27,20,-0.47180851063829776

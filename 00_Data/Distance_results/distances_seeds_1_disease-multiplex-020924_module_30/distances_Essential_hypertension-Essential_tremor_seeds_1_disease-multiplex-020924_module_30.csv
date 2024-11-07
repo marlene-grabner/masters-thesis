@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,-0.0535714285714286
+1,disease_on_symptoms,14,20,0.7031512605042018
+2,disease_on_drugs,28,19,-0.08330667093265076

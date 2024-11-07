@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,25,30,-0.14727272727272733
+1,disease_on_symptoms,23,14,0.6739969783448045
+2,disease_on_drugs,24,29,0.06602418130557353

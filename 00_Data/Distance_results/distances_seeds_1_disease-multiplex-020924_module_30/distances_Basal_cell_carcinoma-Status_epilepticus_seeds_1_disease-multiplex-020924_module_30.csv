@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,29,0.2180733060043405
+1,disease_on_symptoms,23,17,1.8842710997442453
+2,disease_on_drugs,25,30,1.0545454545454547

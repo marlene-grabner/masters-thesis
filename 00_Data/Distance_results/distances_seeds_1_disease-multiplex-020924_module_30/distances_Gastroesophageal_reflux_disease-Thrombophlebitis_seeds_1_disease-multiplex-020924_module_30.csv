@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,0.35317460317460325
+1,disease_on_symptoms,17,15,1.3686274509803922
+2,disease_on_drugs,25,21,0.9582608695652173

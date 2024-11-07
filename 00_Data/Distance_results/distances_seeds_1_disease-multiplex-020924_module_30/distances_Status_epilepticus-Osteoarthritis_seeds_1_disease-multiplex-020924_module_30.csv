@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,29,25,0.2960919540229885
+1,disease_on_symptoms,17,20,1.8620031796502385
+2,disease_on_drugs,30,21,0.7058823529411764

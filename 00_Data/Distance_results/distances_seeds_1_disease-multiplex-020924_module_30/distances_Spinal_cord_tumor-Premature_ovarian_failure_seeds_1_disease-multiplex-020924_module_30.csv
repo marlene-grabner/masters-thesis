@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,22,28,0.3009090909090908
+1,disease_on_symptoms,22,21,1.3220577871740664
+2,disease_on_drugs,14,21,0.730952380952381

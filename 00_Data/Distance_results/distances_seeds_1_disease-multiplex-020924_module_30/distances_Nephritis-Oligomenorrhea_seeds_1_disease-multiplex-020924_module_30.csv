@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.27586206896551735
+1,disease_on_symptoms,18,12,1.077777777777778
+2,disease_on_drugs,27,21,0.7526455026455028

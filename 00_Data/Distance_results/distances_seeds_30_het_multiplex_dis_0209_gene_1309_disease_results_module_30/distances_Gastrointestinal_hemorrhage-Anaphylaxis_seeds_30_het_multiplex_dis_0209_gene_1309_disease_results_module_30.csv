@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,28,27,-1.2025012025018711e-05
+1,disease_on_symptoms,20,14,1.1865546218487393
+2,disease_on_drugs,27,26,0.1896871472343169

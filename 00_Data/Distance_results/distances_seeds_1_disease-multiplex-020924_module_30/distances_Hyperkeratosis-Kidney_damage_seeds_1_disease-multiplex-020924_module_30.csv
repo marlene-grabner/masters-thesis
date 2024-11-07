@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.35903010033444804
+1,disease_on_symptoms,21,26,1.3056075130543214
+2,disease_on_drugs,23,13,0.5021367521367521

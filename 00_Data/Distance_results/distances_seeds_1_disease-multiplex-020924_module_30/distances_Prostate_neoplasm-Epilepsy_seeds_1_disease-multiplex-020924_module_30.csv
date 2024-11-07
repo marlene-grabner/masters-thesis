@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Epilepsy nodes,sAB
+0,disease_on_genes,17,29,0.36061381074168786
+1,disease_on_symptoms,21,18,1.7188644688644688
+2,disease_on_drugs,17,30,1.2649353358364621

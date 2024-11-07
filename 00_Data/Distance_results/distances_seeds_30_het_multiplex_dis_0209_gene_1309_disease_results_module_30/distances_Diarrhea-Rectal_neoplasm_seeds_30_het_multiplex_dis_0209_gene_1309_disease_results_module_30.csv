@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,21,20,0.04195702671312418
+2,disease_on_drugs,29,29,-0.1206896551724137

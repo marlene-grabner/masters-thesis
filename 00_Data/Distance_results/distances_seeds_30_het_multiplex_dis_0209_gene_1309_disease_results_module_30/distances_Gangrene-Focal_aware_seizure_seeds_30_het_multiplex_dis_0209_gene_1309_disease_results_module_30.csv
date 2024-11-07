@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,0.0714285714285714
+1,disease_on_symptoms,22,16,0.3872607655502396
+2,disease_on_drugs,27,29,0.14130633096150347

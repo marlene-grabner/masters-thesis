@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.1298742138364779
+1,disease_on_symptoms,19,19,0.5526315789473686
+2,disease_on_drugs,29,19,-0.0018905021173623027

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,17,24,0.33497728359636536
+1,disease_on_symptoms,22,19,2.442233632862645
+2,disease_on_drugs,15,20,0.5452380952380951

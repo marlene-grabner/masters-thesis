@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,0.36452991452991435
+1,disease_on_symptoms,13,27,2.590811965811966
+2,disease_on_drugs,18,9,1.0277777777777777

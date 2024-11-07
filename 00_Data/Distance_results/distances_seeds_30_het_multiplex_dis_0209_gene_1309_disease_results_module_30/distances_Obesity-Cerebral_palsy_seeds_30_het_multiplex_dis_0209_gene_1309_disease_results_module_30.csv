@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,30,-0.19590643274853803
+1,disease_on_symptoms,18,13,0.02550317066446106
+2,disease_on_drugs,25,21,-0.420910973084886

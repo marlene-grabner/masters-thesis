@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,26,22,0.48887460057672816
+1,disease_on_symptoms,17,20,1.910930047694754
+2,disease_on_drugs,18,19,1.1590801327643434

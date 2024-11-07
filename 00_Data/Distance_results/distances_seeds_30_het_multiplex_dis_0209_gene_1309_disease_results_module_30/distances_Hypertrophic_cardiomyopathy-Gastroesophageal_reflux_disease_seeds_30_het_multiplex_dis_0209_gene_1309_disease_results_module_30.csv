@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1430402930402931
+1,disease_on_symptoms,19,18,-0.021850798166587637
+2,disease_on_drugs,22,25,-0.2847195357833654

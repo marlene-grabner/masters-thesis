@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.04382284382284385
+1,disease_on_symptoms,14,18,0.2524801587301586
+2,disease_on_drugs,24,18,-0.16666666666666663

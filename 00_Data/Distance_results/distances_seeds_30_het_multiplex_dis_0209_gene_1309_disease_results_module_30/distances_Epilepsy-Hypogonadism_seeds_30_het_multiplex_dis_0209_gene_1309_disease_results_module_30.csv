@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,21,17,-0.48385670057496677
+2,disease_on_drugs,29,29,-0.051724137931034475

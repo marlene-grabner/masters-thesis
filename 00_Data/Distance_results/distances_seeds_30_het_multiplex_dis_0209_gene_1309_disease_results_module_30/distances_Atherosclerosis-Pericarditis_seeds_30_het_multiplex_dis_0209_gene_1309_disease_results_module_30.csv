@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,14,21,0.7428571428571429
+2,disease_on_drugs,29,26,0.04698577284784178

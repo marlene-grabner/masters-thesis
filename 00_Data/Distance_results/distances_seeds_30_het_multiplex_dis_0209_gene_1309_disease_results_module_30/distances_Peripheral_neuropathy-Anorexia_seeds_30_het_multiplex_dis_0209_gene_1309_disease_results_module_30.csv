@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.3731735827001753
+1,disease_on_symptoms,21,13,-0.15847877612583483
+2,disease_on_drugs,29,28,-0.2628986258750322

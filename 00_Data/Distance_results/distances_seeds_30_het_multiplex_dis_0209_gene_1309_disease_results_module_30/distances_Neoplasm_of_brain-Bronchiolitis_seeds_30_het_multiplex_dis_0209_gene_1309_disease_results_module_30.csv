@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.016666666666666607
+1,disease_on_symptoms,19,25,0.6934928229665074
+2,disease_on_drugs,29,24,0.4026241596183042

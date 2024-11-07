@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,25,30,-0.33333333333333337
+1,disease_on_symptoms,18,21,0.08485958485958478
+2,disease_on_drugs,24,29,-0.1318043808284537

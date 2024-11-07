@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,30,-0.1954212454212455
+1,disease_on_symptoms,18,18,-0.08333333333333326
+2,disease_on_drugs,25,24,-0.1629251700680272

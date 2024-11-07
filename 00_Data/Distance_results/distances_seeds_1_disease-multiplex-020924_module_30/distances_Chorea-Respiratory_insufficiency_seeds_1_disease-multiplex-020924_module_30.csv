@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,14,25,0.667875457875458
+1,disease_on_symptoms,27,20,2.825827423167849
+2,disease_on_drugs,8,14,0.7849025974025974

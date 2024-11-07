@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,19,13,0.6609311740890687
+2,disease_on_drugs,20,22,0.2068181818181818

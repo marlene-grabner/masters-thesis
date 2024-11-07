@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,25,0.389788838612368
+1,disease_on_symptoms,17,13,1.7892911010558068
+2,disease_on_drugs,18,16,1.1145833333333335

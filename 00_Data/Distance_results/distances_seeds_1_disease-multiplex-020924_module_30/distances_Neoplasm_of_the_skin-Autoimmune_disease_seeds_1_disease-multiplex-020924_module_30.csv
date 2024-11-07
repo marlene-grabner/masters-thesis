@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_skin nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,22,0.07766233766233754
+1,disease_on_symptoms,21,19,0.5323308270676694
+2,disease_on_drugs,24,19,0.3457772337821299

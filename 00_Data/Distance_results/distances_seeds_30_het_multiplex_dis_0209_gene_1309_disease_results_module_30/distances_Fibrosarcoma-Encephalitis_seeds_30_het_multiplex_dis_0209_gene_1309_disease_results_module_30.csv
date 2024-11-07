@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.13559322033898313
+1,disease_on_symptoms,14,13,0.33730158730158744
+2,disease_on_drugs,26,22,0.19085081585081576

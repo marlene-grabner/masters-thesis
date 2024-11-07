@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,15,0.37323232323232336
+2,disease_on_drugs,28,28,-0.08928571428571419

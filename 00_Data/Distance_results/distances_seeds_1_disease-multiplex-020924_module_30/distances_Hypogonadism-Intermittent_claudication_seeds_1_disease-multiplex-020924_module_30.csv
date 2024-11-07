@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.2515306122448979
+1,disease_on_symptoms,12,24,0.9375
+2,disease_on_drugs,30,18,0.8930555555555557

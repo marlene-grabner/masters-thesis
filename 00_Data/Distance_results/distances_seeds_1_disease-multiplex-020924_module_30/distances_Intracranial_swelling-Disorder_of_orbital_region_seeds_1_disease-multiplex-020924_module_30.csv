@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,-0.04920734251147274
+1,disease_on_symptoms,14,27,0.10878823073945032
+2,disease_on_drugs,24,16,-0.15833333333333344

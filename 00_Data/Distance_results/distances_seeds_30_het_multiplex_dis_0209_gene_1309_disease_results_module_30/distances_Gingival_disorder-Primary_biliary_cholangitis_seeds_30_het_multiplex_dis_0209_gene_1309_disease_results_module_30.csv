@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,19,23,-0.41435109512912716
+2,disease_on_drugs,24,26,-0.10134615384615375

@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,24,30,-0.07407407407407407
+1,disease_on_symptoms,22,15,0.4510237510237509
+2,disease_on_drugs,21,25,-0.1520910973084888

@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.33460520960520945
+1,disease_on_symptoms,17,19,0.7714998280013758
+2,disease_on_drugs,18,26,0.745920745920746

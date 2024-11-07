@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.07692307692307687
+1,disease_on_symptoms,18,21,0.9007936507936507
+2,disease_on_drugs,26,17,0.4017941702620227

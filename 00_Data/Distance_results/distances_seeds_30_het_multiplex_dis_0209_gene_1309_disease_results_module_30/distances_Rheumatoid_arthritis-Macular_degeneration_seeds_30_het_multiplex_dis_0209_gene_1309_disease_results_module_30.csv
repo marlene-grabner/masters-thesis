@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,17,-0.2578259373925009
+2,disease_on_drugs,30,17,-0.12430120984564041

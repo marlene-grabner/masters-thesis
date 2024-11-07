@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,26,28,0.2592083842083841
+1,disease_on_symptoms,23,14,1.737325835151922
+2,disease_on_drugs,25,24,0.9183673469387754

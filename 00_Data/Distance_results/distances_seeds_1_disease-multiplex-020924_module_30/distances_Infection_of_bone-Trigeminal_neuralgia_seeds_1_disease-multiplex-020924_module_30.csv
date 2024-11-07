@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.2968559218559217
+1,disease_on_symptoms,21,19,0.744235588972431
+2,disease_on_drugs,24,26,0.5582692307692307

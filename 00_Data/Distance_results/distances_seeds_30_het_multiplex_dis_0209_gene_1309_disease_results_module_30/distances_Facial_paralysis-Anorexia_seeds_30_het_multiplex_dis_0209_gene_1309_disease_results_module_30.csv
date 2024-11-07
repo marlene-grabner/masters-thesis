@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Anorexia nodes,sAB
+0,disease_on_genes,22,29,-0.1348884381338742
+1,disease_on_symptoms,21,13,0.6020254255548374
+2,disease_on_drugs,17,28,-0.025676937441643233

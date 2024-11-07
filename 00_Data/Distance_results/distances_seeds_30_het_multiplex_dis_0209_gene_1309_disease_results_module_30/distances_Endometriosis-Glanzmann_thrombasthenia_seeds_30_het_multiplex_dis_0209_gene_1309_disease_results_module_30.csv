@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.09074074074074068
+1,disease_on_symptoms,16,19,0.6156484962406015
+2,disease_on_drugs,30,24,-0.03842592592592586

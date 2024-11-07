@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,27,29,-0.1970899470899472
+1,disease_on_symptoms,19,20,0.20468960863697716
+2,disease_on_drugs,24,28,-0.06433150183150182

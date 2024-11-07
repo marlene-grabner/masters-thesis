@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,22,18,0.581060606060606
+2,disease_on_drugs,25,26,0.07680241327300164

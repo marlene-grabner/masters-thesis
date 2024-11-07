@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,24,30,0.2337962962962965
+1,disease_on_symptoms,22,16,1.6001794258373203
+2,disease_on_drugs,11,24,0.7946428571428572

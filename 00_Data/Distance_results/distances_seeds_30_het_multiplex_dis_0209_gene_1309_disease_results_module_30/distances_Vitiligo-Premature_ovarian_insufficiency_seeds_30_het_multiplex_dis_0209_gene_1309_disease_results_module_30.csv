@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,19,18,0.4696143511932984
+2,disease_on_drugs,25,22,0.12661508704061908

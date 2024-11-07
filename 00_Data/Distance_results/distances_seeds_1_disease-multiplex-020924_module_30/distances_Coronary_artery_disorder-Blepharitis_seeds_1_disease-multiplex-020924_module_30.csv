@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Blepharitis nodes,sAB
+0,disease_on_genes,19,20,0.5640688259109312
+1,disease_on_symptoms,21,27,1.4854497354497356
+2,disease_on_drugs,17,19,0.8084795321637426

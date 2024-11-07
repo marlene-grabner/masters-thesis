@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,24,12,0.32638888888888884
+1,disease_on_symptoms,22,27,0.8511818868961725
+2,disease_on_drugs,24,9,0.2828282828282829

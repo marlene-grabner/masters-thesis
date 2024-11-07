@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,0.017150155081189444
+1,disease_on_symptoms,21,20,0.6075203252032519
+2,disease_on_drugs,25,24,0.07947278911564615

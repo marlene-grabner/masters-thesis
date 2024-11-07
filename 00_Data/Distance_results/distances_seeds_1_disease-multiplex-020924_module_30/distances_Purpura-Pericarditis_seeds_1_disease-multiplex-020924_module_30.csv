@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,0.07956259426847656
+1,disease_on_symptoms,17,22,1.8392979569450159
+2,disease_on_drugs,20,25,0.2911111111111111

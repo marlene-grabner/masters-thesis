@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.3542794640415641
+1,disease_on_symptoms,17,20,1.4227742448330685
+2,disease_on_drugs,17,20,0.38040540540540557

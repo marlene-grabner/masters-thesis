@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.2264150943396226
+1,disease_on_symptoms,19,20,-0.2332995951417005
+2,disease_on_drugs,25,20,-0.23833333333333329

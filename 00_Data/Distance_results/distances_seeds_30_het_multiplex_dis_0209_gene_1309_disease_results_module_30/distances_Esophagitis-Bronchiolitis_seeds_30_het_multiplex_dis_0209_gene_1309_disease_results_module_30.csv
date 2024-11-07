@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.08563218390804594
+1,disease_on_symptoms,20,25,0.17944444444444452
+2,disease_on_drugs,30,24,0.011111111111111072

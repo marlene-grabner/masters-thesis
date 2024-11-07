@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Encephalitis nodes,sAB
+0,disease_on_genes,9,28,0.010832260832260854
+1,disease_on_symptoms,27,17,2.152257872846108
+2,disease_on_drugs,9,18,0.33333333333333326

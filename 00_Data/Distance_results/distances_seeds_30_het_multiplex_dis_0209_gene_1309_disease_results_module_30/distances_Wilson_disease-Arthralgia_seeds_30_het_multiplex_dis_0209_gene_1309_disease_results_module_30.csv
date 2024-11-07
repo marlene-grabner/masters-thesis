@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Arthralgia nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,19,17,1.0671654626762983
+2,disease_on_drugs,22,30,0.2559440559440558

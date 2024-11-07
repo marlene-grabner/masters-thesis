@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,17,0.09335038363171355
+1,disease_on_symptoms,23,24,1.4895736971939564
+2,disease_on_drugs,26,16,0.3712225274725274

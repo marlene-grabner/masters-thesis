@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,29,-0.20370370370370372
+1,disease_on_symptoms,21,17,0.21251658558160136
+2,disease_on_drugs,25,26,-0.1765761689291101

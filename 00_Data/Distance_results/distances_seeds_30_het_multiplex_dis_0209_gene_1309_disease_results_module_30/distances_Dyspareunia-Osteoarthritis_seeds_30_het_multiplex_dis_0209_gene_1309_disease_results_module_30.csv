@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,29,26,-0.16573426573426564
+1,disease_on_symptoms,20,22,0.18095238095238098
+2,disease_on_drugs,28,25,-0.11066037735849066

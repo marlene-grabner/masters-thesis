@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,28,30,0.2586206896551724
+1,disease_on_symptoms,12,12,1.875
+2,disease_on_drugs,21,22,1.1611295681063123

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,22,28,0.17999999999999994
+1,disease_on_symptoms,21,16,0.9259169884169882
+2,disease_on_drugs,21,23,0.44141727837379996

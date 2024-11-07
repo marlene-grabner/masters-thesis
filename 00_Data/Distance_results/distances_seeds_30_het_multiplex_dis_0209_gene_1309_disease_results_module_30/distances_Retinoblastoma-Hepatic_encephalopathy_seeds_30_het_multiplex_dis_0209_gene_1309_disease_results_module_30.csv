@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,21,14,0.7095238095238097
+2,disease_on_drugs,27,29,0.4857918263090677

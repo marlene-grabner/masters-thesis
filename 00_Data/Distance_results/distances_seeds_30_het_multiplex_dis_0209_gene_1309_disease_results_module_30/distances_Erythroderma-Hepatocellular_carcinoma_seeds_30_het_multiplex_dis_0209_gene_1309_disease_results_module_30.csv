@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,24,-0.07407407407407407
+1,disease_on_symptoms,20,23,0.9014408493427708
+2,disease_on_drugs,29,22,-0.024156371012354683

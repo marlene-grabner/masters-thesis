@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,-0.2614219114219115
+1,disease_on_symptoms,18,19,0.18662083135767338
+2,disease_on_drugs,25,19,-0.08904306220095681

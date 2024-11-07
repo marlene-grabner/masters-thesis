@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,29,28,-0.1578947368421053
+1,disease_on_symptoms,19,22,0.28089625393861595
+2,disease_on_drugs,29,15,-0.2619644723093

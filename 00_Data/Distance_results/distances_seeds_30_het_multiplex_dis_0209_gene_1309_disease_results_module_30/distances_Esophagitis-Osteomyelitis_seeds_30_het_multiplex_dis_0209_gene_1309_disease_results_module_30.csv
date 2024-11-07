@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,22,-0.19599567099567095
+2,disease_on_drugs,30,28,-0.034113300492610854

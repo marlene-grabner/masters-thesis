@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,-0.3615353037766831
+1,disease_on_symptoms,16,23,-0.5506201226309921
+2,disease_on_drugs,30,28,-0.397167487684729

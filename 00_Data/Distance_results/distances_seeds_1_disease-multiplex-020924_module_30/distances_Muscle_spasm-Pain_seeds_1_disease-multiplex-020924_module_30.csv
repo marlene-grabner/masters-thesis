@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Pain nodes,sAB
+0,disease_on_genes,25,26,0.23408748114630473
+1,disease_on_symptoms,23,21,0.9936476566911352
+2,disease_on_drugs,19,26,0.6918803418803419

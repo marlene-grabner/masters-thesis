@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.022727272727272707
+1,disease_on_symptoms,19,27,0.554877531994237
+2,disease_on_drugs,22,17,0.20838475250239963

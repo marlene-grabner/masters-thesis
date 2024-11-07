@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,16,22,0.1877990430622014
+2,disease_on_drugs,27,29,0.5170589308520341

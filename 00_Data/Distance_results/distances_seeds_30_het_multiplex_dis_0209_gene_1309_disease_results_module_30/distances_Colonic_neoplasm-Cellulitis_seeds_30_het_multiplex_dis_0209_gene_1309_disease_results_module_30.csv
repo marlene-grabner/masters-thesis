@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,20,0.3578272604588395
+2,disease_on_drugs,29,26,0.32087050880154333

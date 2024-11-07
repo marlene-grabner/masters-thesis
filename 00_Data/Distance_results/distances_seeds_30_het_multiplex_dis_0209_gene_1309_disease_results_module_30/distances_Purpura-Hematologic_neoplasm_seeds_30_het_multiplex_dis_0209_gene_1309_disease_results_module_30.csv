@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.10623781676413269
+1,disease_on_symptoms,17,18,0.42619047619047645
+2,disease_on_drugs,24,27,-0.02083333333333326

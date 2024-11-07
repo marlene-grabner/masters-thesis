@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,0.020408163265306145
+1,disease_on_symptoms,17,21,0.8599439775910365
+2,disease_on_drugs,24,17,0.13399689143950244

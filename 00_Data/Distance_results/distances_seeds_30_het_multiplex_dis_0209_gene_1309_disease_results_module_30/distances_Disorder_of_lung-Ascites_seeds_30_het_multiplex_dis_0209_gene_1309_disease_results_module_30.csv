@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.12368421052631584
+1,disease_on_symptoms,18,22,0.8830808080808081
+2,disease_on_drugs,24,27,0.08346949891067545

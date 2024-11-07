@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,17,0.1398296692414338
+1,disease_on_symptoms,19,21,1.564097744360902
+2,disease_on_drugs,20,14,0.710294117647059

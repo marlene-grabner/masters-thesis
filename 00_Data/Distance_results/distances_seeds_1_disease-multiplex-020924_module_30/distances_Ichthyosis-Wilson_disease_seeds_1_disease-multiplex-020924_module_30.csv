@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,27,23,0.19574879227053144
+1,disease_on_symptoms,17,19,1.4937220502235982
+2,disease_on_drugs,24,11,0.5142857142857142

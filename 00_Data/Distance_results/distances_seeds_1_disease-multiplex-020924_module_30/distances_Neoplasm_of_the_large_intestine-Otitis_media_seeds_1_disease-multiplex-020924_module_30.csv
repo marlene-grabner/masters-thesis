@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Otitis_media nodes,sAB
+0,disease_on_genes,20,29,0.15409922589725555
+1,disease_on_symptoms,25,22,0.9986073500967119
+2,disease_on_drugs,19,29,0.8956442831215972

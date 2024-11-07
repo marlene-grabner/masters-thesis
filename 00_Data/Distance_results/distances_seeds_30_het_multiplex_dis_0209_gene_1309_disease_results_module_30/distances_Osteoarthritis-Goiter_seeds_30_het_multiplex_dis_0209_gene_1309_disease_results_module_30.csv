@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.1346153846153848
+1,disease_on_symptoms,22,12,1.1053921568627452
+2,disease_on_drugs,25,18,0.3392506459948321

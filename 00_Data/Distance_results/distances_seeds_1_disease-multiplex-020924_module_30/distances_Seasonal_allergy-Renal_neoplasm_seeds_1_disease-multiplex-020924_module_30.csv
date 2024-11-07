@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,29,22,0.17033929559284533
+1,disease_on_symptoms,15,25,1.4749999999999996
+2,disease_on_drugs,29,18,0.3444607483492297

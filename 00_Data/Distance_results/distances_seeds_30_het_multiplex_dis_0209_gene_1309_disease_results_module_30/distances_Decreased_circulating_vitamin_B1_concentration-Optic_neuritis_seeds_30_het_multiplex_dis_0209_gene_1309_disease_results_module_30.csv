@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,17,21,0.6382131800088455
+2,disease_on_drugs,25,27,0.05450142450142437

@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,21,30,0.14425770308123242
+1,disease_on_symptoms,26,17,0.9251289066610546
+2,disease_on_drugs,20,25,0.9466666666666668

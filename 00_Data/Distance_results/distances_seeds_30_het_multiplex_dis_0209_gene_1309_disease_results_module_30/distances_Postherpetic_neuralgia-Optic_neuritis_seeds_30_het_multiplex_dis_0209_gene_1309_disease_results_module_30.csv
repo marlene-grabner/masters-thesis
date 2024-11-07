@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.29824561403508776
+1,disease_on_symptoms,16,21,-0.42471042471042475
+2,disease_on_drugs,29,27,-0.4058794015690568

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Pericarditis nodes,sAB
+0,disease_on_genes,21,25,0.19565217391304346
+1,disease_on_symptoms,24,22,1.257493412384717
+2,disease_on_drugs,20,25,0.5772222222222223

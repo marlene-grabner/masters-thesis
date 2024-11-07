@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,0.17148148148148135
+1,disease_on_symptoms,24,21,1.713888888888889
+2,disease_on_drugs,20,27,1.1757289204097714

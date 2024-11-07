@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.056363636363636394
+1,disease_on_symptoms,12,20,-0.3479166666666669
+2,disease_on_drugs,28,22,0.010129870129870211

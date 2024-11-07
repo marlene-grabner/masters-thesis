@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,26,27,-0.0010885341074020616
+1,disease_on_symptoms,19,24,0.5903202774377807
+2,disease_on_drugs,24,25,0.28651360544217663

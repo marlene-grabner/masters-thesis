@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Heartburn nodes,sAB
+0,disease_on_genes,20,24,0.22992424242424248
+1,disease_on_symptoms,22,20,0.8371212121212119
+2,disease_on_drugs,15,22,1.1205159705159708

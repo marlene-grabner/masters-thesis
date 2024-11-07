@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Propionic_acidemia nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,16,-0.37282754010695185
+2,disease_on_drugs,24,30,-0.0004629629629628873

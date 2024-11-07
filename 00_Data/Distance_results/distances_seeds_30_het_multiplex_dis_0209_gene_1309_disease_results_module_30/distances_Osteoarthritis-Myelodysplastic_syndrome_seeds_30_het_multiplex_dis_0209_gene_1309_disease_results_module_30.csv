@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,-0.0576923076923076
+1,disease_on_symptoms,22,17,0.1217948717948718
+2,disease_on_drugs,25,24,-0.04173469387755113

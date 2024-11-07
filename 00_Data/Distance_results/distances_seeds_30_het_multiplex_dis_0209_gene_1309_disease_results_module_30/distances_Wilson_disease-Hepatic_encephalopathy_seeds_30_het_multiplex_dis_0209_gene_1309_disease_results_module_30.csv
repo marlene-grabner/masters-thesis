@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,25,30,-0.07272727272727275
+1,disease_on_symptoms,19,14,0.6237183868762817
+2,disease_on_drugs,22,29,-0.06097486016350118

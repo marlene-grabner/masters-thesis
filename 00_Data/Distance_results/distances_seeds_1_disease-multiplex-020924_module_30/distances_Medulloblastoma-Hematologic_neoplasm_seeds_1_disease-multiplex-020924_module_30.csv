@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,-0.02083333333333337
+1,disease_on_symptoms,19,24,0.3223939208486333
+2,disease_on_drugs,24,19,-0.05632904936760519

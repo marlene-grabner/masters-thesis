@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.10168517436197155
+1,disease_on_symptoms,17,18,1.0591503267973856
+2,disease_on_drugs,30,25,0.3418181818181818

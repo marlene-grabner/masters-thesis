@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,0.05555555555555558
+1,disease_on_symptoms,16,21,1.0484636422136424
+2,disease_on_drugs,21,24,0.09265873015873005

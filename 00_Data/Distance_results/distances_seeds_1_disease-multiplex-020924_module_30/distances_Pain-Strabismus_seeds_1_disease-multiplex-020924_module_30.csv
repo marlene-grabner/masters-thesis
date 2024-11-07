@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,13,0.2564102564102566
+1,disease_on_symptoms,21,26,0.8232990413841479
+2,disease_on_drugs,26,9,0.2680708180708178

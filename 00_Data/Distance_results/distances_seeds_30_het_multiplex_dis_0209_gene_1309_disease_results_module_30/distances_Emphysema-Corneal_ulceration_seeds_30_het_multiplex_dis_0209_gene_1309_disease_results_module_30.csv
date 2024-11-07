@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.1385467980295566
+1,disease_on_symptoms,18,15,0.312121212121212
+2,disease_on_drugs,27,23,-0.005990338164251208

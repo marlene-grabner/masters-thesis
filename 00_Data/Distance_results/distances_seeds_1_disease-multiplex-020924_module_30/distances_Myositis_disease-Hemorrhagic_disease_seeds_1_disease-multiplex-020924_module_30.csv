@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.2773148148148148
+1,disease_on_symptoms,24,19,1.2617299061607508
+2,disease_on_drugs,28,19,1.0820468725004

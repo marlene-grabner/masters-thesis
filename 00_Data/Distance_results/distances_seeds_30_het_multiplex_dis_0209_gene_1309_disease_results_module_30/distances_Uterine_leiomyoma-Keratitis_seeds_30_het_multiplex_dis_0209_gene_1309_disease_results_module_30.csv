@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,25,0.06388888888888866
+2,disease_on_drugs,28,29,0.1212189957652754

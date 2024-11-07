@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,17,24,0.38375777140124345
+1,disease_on_symptoms,22,17,3.2156862745098036
+2,disease_on_drugs,15,23,0.9403508771929825

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.10136452241715421
+1,disease_on_symptoms,22,22,1.2272727272727275
+2,disease_on_drugs,29,26,0.6047021943573667

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Pain nodes,sAB
+0,disease_on_genes,29,26,0.12611526404629858
+1,disease_on_symptoms,17,21,1.3286156567890313
+2,disease_on_drugs,30,26,0.37362637362637363

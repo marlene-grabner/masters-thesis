@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.2833333333333332
+1,disease_on_symptoms,17,14,1.0702764976958523
+2,disease_on_drugs,26,26,0.5576923076923077

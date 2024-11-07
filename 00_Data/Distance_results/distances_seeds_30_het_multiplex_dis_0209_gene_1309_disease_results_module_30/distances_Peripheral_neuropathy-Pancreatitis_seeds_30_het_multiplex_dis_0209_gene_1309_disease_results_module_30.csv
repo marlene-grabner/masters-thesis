@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,21,17,-0.9423558897243105
+2,disease_on_drugs,29,30,-0.4737775180206507

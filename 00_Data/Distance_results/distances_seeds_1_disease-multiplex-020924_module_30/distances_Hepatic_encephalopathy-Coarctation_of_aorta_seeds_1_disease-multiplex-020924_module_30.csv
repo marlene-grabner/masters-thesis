@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,9,27,0.6111111111111112
+1,disease_on_symptoms,27,14,2.4890631049167635
+2,disease_on_drugs,9,13,1.272727272727273

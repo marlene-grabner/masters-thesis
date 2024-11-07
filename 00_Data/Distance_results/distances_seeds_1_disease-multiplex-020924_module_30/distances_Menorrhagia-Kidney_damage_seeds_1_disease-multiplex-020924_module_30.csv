@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.14665551839464896
+1,disease_on_symptoms,19,26,1.3338056680161945
+2,disease_on_drugs,24,13,0.6246968121968124

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Emphysema nodes,sAB
+0,disease_on_genes,27,30,-0.19395711500974666
+1,disease_on_symptoms,23,18,0.4763167196889362
+2,disease_on_drugs,25,27,0.018290598290598314

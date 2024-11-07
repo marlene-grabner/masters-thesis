@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,25,30,-0.05303030303030298
+1,disease_on_symptoms,19,18,-0.2161767030188082
+2,disease_on_drugs,22,21,-0.18619752340682583

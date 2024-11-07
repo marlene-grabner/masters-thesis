@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,30,0.22807017543859653
+1,disease_on_symptoms,18,18,0.75
+2,disease_on_drugs,22,30,0.3177156177156175

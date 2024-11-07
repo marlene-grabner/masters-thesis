@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,-0.15886939571150105
+1,disease_on_symptoms,19,17,0.5582215342277266
+2,disease_on_drugs,24,25,-0.1629421768707482

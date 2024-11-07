@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,18,25,0.27571059431524536
+2,disease_on_drugs,24,29,0.10859900238559961

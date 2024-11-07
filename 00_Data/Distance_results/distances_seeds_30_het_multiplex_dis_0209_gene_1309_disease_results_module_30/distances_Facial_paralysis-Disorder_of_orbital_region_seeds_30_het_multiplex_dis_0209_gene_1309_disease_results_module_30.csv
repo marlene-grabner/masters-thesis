@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,22,30,-0.17051282051282046
+1,disease_on_symptoms,21,18,0.264041514041514
+2,disease_on_drugs,17,28,-0.261391223155929

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.020000000000000018
+1,disease_on_symptoms,21,17,1.401371074745688
+2,disease_on_drugs,25,22,0.11897485493230175

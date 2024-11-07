@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,29,30,-0.15254237288135597
+1,disease_on_symptoms,19,16,0.10958646616541357
+2,disease_on_drugs,29,29,-0.10344827586206895

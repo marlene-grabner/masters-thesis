@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.04081632653061229
+1,disease_on_symptoms,16,23,0.39959587513935313
+2,disease_on_drugs,23,21,-0.1289290419725202

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.20001202501202509
+1,disease_on_symptoms,21,20,-0.2967479674796749
+2,disease_on_drugs,27,28,-0.1824915824915827

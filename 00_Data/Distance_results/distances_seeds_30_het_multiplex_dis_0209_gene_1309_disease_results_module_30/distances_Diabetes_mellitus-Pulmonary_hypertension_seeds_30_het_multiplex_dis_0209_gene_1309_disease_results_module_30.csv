@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,21,28,-0.10204081632653061
+1,disease_on_symptoms,22,18,0.6494949494949498
+2,disease_on_drugs,19,27,-0.1436562420544114

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,22,27,0.4136904761904763
+1,disease_on_symptoms,26,23,0.8702818920210225
+2,disease_on_drugs,12,20,1.65625

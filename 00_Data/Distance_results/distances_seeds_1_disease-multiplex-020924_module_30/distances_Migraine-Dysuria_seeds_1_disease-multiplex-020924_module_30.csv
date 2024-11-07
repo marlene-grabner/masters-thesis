@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,-0.12100136372491721
+1,disease_on_symptoms,14,16,1.0610119047619049
+2,disease_on_drugs,29,23,0.285953177257525

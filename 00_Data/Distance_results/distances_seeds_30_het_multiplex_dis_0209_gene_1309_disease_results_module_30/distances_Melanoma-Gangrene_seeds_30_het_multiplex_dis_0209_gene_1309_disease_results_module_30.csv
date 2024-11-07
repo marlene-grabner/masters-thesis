@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,27,0.07407407407407396
+1,disease_on_symptoms,23,22,1.3734958278436538
+2,disease_on_drugs,25,27,0.5980626780626781

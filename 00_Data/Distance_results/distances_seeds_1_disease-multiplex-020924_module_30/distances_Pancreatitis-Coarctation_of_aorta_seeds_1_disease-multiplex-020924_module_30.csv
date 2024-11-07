@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.37192982456140355
+1,disease_on_symptoms,20,14,2.2855042016806726
+2,disease_on_drugs,30,13,0.6744186046511629

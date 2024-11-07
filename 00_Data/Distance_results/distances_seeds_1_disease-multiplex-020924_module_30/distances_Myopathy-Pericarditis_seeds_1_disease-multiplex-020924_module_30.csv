@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Pericarditis nodes,sAB
+0,disease_on_genes,18,25,0.42377260981912146
+1,disease_on_symptoms,21,22,0.6299204671297696
+2,disease_on_drugs,6,25,0.426236559139785

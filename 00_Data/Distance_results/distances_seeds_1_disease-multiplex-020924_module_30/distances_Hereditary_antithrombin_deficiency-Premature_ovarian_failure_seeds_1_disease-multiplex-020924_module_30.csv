@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,28,28,0.2142857142857142
+1,disease_on_symptoms,15,21,2.094444444444444
+2,disease_on_drugs,20,21,0.7566492450638791

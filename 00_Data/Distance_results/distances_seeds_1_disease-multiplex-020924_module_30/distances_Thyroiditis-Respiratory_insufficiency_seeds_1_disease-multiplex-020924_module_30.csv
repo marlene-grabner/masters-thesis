@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,26,25,0.2948416289592761
+1,disease_on_symptoms,28,20,1.0875
+2,disease_on_drugs,23,14,0.19544233674668465

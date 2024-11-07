@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,21,30,0.14019607843137272
+1,disease_on_symptoms,24,17,0.37144308943089444
+2,disease_on_drugs,20,26,0.4490802675585286

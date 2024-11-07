@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,24,30,-0.35185185185185186
+1,disease_on_symptoms,23,21,-0.5159984942593638
+2,disease_on_drugs,22,29,-0.3865634027905833

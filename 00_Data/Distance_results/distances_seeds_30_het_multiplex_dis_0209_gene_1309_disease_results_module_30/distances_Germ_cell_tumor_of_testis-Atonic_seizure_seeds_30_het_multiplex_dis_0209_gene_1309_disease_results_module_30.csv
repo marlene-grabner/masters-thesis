@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,30,-0.03801169590643272
+1,disease_on_symptoms,22,15,0.7758804258804259
+2,disease_on_drugs,20,23,-0.0011375126390293921

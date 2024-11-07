@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,22,27,0.3998015873015872
+1,disease_on_symptoms,26,15,1.7450281425891183
+2,disease_on_drugs,12,26,0.7246963562753037

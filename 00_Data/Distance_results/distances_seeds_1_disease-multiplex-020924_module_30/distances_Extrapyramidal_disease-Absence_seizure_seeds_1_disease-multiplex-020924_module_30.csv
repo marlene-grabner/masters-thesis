@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,14,29,0.4009336693779355
+1,disease_on_symptoms,25,16,1.9994512195121952
+2,disease_on_drugs,10,22,0.60625

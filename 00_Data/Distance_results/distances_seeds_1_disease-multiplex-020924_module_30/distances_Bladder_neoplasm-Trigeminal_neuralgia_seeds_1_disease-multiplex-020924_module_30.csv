@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.1871693121693121
+1,disease_on_symptoms,20,19,1.2824224021592445
+2,disease_on_drugs,25,26,1.0592006033182506

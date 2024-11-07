@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,25,12,0.46590090090090097
+1,disease_on_symptoms,18,27,-0.0037037037037037646
+2,disease_on_drugs,23,9,0.04513888888888884

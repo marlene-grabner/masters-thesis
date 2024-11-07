@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,24,27,0.3159041394335511
+1,disease_on_symptoms,23,19,1.1473793178598668
+2,disease_on_drugs,22,27,0.8979591836734695

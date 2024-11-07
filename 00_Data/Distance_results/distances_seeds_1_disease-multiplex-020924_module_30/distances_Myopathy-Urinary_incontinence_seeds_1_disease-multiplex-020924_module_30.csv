@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,18,26,0.7088189588189588
+1,disease_on_symptoms,21,20,1.3346399535423923
+2,disease_on_drugs,6,20,0.9102564102564106

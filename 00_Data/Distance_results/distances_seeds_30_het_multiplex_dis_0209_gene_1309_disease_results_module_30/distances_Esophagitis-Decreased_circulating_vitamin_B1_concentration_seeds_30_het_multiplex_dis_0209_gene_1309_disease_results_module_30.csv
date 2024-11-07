@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,20,17,0.37007154213036575
+2,disease_on_drugs,30,25,0.08909090909090911

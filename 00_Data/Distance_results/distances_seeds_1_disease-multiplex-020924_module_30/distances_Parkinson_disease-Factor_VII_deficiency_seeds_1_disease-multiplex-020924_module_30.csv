@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,21,25,0.4161904761904762
+1,disease_on_symptoms,20,23,2.604802831142568
+2,disease_on_drugs,19,21,1.2023809523809523

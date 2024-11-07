@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,28,0.3928571428571428
+1,disease_on_symptoms,14,17,1.7535239902412578
+2,disease_on_drugs,24,18,1.1428571428571428

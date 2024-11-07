@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Psoriasis nodes,sAB
+0,disease_on_genes,21,30,-0.14145658263305316
+1,disease_on_symptoms,20,17,0.3814387917329096
+2,disease_on_drugs,21,30,0.1347338935574227

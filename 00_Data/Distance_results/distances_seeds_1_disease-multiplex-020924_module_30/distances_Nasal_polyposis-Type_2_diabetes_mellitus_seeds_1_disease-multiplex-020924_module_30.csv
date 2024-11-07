@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,15,16,0.19852150537634428
+1,disease_on_symptoms,25,21,0.9376811594202898
+2,disease_on_drugs,10,15,0.1399999999999999

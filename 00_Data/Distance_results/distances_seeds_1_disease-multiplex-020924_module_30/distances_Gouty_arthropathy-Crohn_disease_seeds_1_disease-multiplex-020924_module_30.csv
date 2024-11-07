@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,25,25,0.18445578231292514
+1,disease_on_symptoms,13,20,2.4045454545454543
+2,disease_on_drugs,16,21,-0.024814993564993726

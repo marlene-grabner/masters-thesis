@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,19,21,-0.09893483709273199
+1,disease_on_symptoms,21,22,1.6062116178395247
+2,disease_on_drugs,17,20,-0.20608108108108103

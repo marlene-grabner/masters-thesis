@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,25,25,0.45999999999999974
+1,disease_on_symptoms,23,13,2.8521924934968412
+2,disease_on_drugs,23,16,0.865976867335563

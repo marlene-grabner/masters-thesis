@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.07510885341074025
+1,disease_on_symptoms,21,22,0.6713983690727878
+2,disease_on_drugs,25,25,0.1200000000000001

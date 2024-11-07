@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,17,26,0.09568031148058509
+1,disease_on_symptoms,21,21,1.2619047619047619
+2,disease_on_drugs,17,23,0.6661764705882354

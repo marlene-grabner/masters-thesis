@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,23,18,0.16357370095440094
+2,disease_on_drugs,29,27,0.19293924466338264

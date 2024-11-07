@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.040000000000000036
+1,disease_on_symptoms,21,20,0.7510162601626016
+2,disease_on_drugs,23,20,0.1762133468149647

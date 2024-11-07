@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.27078754578754594
+1,disease_on_symptoms,17,16,0.22704991087344029
+2,disease_on_drugs,26,26,-0.42307692307692313

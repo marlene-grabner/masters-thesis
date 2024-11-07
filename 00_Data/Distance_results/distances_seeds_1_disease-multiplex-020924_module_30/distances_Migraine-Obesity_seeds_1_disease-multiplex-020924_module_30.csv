@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Obesity nodes,sAB
+0,disease_on_genes,30,26,-0.0882783882783883
+1,disease_on_symptoms,14,20,0.0831932773109243
+2,disease_on_drugs,29,27,-0.0727513227513229

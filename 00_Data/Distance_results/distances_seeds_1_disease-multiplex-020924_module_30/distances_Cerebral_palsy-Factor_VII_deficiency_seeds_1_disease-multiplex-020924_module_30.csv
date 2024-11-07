@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.31108262108262097
+1,disease_on_symptoms,16,23,2.509685061315496
+2,disease_on_drugs,18,21,1.4395604395604396

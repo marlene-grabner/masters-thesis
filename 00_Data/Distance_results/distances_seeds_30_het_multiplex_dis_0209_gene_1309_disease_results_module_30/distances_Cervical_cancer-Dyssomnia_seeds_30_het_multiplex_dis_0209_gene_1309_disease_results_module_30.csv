@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,28,18,-0.10869565217391308
+1,disease_on_symptoms,22,21,2.262005436424041
+2,disease_on_drugs,15,17,-0.005637254901960986

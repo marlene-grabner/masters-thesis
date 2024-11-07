@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,25,23,0.31206521739130433
+1,disease_on_symptoms,16,16,2.21875
+2,disease_on_drugs,17,22,0.7911010558069382

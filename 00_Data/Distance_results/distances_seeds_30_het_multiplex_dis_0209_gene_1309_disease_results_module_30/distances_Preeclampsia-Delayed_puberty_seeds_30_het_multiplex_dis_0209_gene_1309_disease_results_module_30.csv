@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,18,16,0.7361111111111112
+2,disease_on_drugs,22,29,-0.07434384412072048

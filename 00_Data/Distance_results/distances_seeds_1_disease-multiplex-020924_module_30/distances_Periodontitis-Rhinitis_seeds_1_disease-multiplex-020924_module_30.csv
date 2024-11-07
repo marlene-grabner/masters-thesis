@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,23,30,0.20773858353841934
+1,disease_on_symptoms,25,15,0.10999999999999988
+2,disease_on_drugs,22,22,0.22727272727272707

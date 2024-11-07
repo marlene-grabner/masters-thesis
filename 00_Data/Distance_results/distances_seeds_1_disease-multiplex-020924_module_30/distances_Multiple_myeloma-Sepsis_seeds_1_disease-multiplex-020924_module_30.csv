@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,22,0.32386363636363624
+1,disease_on_symptoms,21,23,1.322463768115942
+2,disease_on_drugs,25,17,0.7345098039215685

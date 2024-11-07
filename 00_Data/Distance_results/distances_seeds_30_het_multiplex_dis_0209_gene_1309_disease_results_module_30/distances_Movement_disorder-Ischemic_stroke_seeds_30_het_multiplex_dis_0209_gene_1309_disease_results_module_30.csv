@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,16,0.06795900178253111
+2,disease_on_drugs,26,28,0.03373015873015883

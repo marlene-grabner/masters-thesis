@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,26,23,0.07763975155279512
+1,disease_on_symptoms,17,21,0.6212590299277609
+2,disease_on_drugs,25,19,0.38909090909090915

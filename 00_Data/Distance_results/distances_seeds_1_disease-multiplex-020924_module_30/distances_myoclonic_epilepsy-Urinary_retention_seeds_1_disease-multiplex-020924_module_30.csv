@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.24797338173018768
+1,disease_on_symptoms,16,18,2.035743464052288
+2,disease_on_drugs,23,19,0.5225019069412664

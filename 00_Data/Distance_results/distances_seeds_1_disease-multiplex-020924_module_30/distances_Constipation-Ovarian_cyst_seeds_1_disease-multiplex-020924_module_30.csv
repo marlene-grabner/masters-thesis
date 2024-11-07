@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,20,0.2483333333333333
+1,disease_on_symptoms,17,22,0.7909296585767174
+2,disease_on_drugs,27,15,1.214814814814815

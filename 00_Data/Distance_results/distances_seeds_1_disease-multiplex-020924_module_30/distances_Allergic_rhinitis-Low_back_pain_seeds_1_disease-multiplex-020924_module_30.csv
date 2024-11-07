@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,21,30,0.3712885154061625
+1,disease_on_symptoms,22,17,1.572261072261072
+2,disease_on_drugs,21,26,0.40337853635725995

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.2941176470588236
+1,disease_on_symptoms,22,20,1.5706709956709957
+2,disease_on_drugs,29,19,0.6791439806412585

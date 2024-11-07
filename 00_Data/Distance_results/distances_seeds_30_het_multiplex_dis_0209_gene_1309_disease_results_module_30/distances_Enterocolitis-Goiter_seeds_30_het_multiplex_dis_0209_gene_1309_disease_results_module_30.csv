@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.13207547169811318
+1,disease_on_symptoms,21,12,0.8057359307359309
+2,disease_on_drugs,25,18,0.3490180878552971

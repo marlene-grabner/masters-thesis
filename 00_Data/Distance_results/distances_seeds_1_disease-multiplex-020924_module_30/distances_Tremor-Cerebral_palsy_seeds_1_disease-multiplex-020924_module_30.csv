@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,16,27,-0.28840977605512486
+1,disease_on_symptoms,23,16,-0.5454988851727983
+2,disease_on_drugs,16,18,-0.3253676470588235

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,23,26,0.4192546583850931
+1,disease_on_symptoms,24,15,1.9685897435897437
+2,disease_on_drugs,17,26,0.8837209302325582

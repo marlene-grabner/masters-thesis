@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,29,25,-0.5402043422733077
+1,disease_on_symptoms,23,22,-0.6402064119455425
+2,disease_on_drugs,27,24,-0.6301742919389979

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Urticaria nodes,sAB
+0,disease_on_genes,21,24,-0.15714285714285703
+1,disease_on_symptoms,20,21,0.32383855981416954
+2,disease_on_drugs,21,24,0.0037698412698410344

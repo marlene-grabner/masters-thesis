@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,28,17,-0.09145658263305334
+1,disease_on_symptoms,14,27,1.5556523422377082
+2,disease_on_drugs,28,16,0.5284090909090908

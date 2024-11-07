@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,20,18,0.12850877192982457
+2,disease_on_drugs,27,30,0.16101364522417172

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,19,0.09004127966976272
+2,disease_on_drugs,24,25,-0.10253401360544201

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,27,28,0.16459836459836485
+1,disease_on_symptoms,21,19,1.5561403508771932
+2,disease_on_drugs,27,28,0.8723785473785473

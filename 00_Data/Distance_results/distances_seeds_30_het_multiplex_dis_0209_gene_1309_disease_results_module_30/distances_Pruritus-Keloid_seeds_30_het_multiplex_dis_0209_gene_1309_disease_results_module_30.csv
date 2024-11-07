@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.11851851851851858
+1,disease_on_symptoms,21,17,0.7773109243697478
+2,disease_on_drugs,27,22,0.0868721225864082

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,29,30,0.05140268848626506
+1,disease_on_symptoms,17,15,1.1471813725490194
+2,disease_on_drugs,26,23,0.6937239778854685

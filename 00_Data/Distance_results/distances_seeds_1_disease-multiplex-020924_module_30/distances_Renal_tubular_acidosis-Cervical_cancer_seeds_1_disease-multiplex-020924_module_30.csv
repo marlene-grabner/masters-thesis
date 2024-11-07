@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,18,27,0.8092592592592593
+1,disease_on_symptoms,18,23,2.4659773771650757
+2,disease_on_drugs,10,15,0.13000000000000012

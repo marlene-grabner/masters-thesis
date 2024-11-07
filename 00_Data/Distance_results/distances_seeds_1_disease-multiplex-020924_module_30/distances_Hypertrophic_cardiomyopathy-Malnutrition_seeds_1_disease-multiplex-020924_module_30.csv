@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,26,0.12463369963369964
+1,disease_on_symptoms,17,18,2.4265172735760974
+2,disease_on_drugs,17,23,0.30000000000000004

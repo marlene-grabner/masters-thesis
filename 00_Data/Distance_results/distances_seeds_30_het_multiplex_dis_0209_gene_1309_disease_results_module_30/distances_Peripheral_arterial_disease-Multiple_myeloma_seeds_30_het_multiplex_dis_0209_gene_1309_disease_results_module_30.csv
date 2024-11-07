@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,26,26,-0.07692307692307687
+1,disease_on_symptoms,17,21,0.16091699837829854
+2,disease_on_drugs,24,25,0.18066326530612242

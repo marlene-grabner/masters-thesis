@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,21,22,0.9289741266485452
+2,disease_on_drugs,27,28,0.27401394901394904

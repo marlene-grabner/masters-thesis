@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,29,-0.09125781625781637
+1,disease_on_symptoms,20,17,1.0635532591414947
+2,disease_on_drugs,15,25,-0.125

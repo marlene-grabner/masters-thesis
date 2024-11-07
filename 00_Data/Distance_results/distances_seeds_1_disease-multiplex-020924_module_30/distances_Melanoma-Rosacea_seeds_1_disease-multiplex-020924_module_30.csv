@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Rosacea nodes,sAB
+0,disease_on_genes,24,30,0.22777777777777763
+1,disease_on_symptoms,23,17,1.5101023017902815
+2,disease_on_drugs,22,27,0.7755102040816326

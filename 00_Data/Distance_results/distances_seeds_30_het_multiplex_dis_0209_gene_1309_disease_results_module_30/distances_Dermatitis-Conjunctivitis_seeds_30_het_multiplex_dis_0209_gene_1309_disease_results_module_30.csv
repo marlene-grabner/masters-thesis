@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,14,27,-0.3283326880887856
+2,disease_on_drugs,28,28,-0.05357142857142838

@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.2264150943396226
+1,disease_on_symptoms,22,21,0.020764119601328845
+2,disease_on_drugs,24,27,-0.15713507625272338

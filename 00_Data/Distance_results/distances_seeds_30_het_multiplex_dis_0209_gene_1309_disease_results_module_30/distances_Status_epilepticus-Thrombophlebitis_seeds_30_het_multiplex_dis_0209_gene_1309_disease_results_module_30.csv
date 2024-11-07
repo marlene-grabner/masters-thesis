@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,18,-0.08333333333333348
+2,disease_on_drugs,30,29,0.03270017533606051

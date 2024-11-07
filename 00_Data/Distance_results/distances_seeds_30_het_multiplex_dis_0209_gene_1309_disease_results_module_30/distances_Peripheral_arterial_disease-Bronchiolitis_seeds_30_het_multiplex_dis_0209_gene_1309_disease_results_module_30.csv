@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,28,0.03703703703703698
+1,disease_on_symptoms,17,25,0.3672829131652662
+2,disease_on_drugs,24,24,-0.02083333333333326

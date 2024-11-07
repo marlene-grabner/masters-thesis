@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,28,30,0.17241379310344818
+1,disease_on_symptoms,20,13,1.5563519813519813
+2,disease_on_drugs,25,21,-0.004389233954451344

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Urticaria nodes,sAB
+0,disease_on_genes,15,10,0.6466666666666667
+1,disease_on_symptoms,25,27,1.8797720797720796
+2,disease_on_drugs,10,9,0.16315789473684195

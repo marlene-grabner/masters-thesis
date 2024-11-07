@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,20,26,0.19239130434782625
+1,disease_on_symptoms,25,15,0.365
+2,disease_on_drugs,19,15,0.7336429308565533

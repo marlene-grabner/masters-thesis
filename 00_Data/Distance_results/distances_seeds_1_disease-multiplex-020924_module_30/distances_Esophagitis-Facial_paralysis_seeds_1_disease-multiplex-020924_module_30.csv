@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,24,14,-0.19502266241396682
+1,disease_on_symptoms,23,23,-0.10869565217391308
+2,disease_on_drugs,20,14,-0.1720588235294117

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,14,-0.006912442396313168
+2,disease_on_drugs,26,30,0.4391941391941394

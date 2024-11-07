@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,0.19649122807017538
+1,disease_on_symptoms,17,14,0.6970723773380318
+2,disease_on_drugs,25,30,0.8030303030303032

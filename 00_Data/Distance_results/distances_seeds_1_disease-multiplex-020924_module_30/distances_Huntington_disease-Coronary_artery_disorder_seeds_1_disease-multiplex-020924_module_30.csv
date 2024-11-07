@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.36518080916577156
+1,disease_on_symptoms,16,21,2.0547377734877736
+2,disease_on_drugs,27,17,0.7045454545454546

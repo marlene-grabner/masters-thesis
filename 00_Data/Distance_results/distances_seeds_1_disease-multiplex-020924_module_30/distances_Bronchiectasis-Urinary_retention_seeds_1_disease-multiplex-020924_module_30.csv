@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.35235934664246815
+1,disease_on_symptoms,15,18,0.6853535353535354
+2,disease_on_drugs,26,19,0.08259109311740898

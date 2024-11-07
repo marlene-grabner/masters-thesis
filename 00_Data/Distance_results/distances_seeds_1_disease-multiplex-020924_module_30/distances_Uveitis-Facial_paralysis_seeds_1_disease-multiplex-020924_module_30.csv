@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,-0.17251082251082273
+1,disease_on_symptoms,21,23,-0.03811405985319016
+2,disease_on_drugs,27,14,0.07904245709123758

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,20,16,1.58125
+2,disease_on_drugs,23,21,0.47906079427818526

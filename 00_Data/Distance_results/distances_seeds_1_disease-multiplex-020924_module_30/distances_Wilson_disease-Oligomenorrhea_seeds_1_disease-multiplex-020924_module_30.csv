@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,23,28,0.4795396419437339
+1,disease_on_symptoms,19,12,2.4426994906621395
+2,disease_on_drugs,11,21,0.8660714285714286

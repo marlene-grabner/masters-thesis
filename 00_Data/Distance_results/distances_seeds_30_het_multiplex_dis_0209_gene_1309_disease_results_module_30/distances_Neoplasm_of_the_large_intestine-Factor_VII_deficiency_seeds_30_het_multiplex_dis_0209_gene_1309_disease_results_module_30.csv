@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.03386699507389168
+1,disease_on_symptoms,22,19,0.775148792157778
+2,disease_on_drugs,29,25,0.4080715197956575

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.2806042884990254
+1,disease_on_symptoms,16,23,1.0153637123745818
+2,disease_on_drugs,27,15,0.3952380952380954

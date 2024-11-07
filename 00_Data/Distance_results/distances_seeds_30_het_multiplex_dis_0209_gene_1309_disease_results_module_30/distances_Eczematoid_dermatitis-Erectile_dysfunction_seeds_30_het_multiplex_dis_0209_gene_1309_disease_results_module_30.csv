@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,25,15,0.7350000000000001
+2,disease_on_drugs,30,30,0.3833333333333331

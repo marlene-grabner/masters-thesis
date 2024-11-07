@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,20,18,-0.18552631578947376
+2,disease_on_drugs,27,29,-0.0856367451195037

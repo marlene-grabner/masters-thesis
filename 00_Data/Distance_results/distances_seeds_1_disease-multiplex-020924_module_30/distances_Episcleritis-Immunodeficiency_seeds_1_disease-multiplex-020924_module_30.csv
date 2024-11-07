@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.1625874125874125
+1,disease_on_symptoms,22,19,0.8068911191504262
+2,disease_on_drugs,29,18,0.056228091627944954

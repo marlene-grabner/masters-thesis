@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.15234102026554863
+1,disease_on_symptoms,21,15,0.96984126984127
+2,disease_on_drugs,23,21,0.4345002823263695

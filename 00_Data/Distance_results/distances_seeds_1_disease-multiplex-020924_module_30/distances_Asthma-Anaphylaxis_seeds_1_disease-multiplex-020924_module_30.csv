@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,-0.28709401709401716
+1,disease_on_symptoms,19,15,-0.3959752321981427
+2,disease_on_drugs,24,26,-0.22012820512820508

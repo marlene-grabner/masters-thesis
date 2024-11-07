@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,0.22803776683087018
+1,disease_on_symptoms,19,16,1.1519736842105261
+2,disease_on_drugs,26,25,0.6670437405731524

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.2142857142857142
+1,disease_on_symptoms,13,21,1.4662788192199954
+2,disease_on_drugs,19,26,0.5793522267206479

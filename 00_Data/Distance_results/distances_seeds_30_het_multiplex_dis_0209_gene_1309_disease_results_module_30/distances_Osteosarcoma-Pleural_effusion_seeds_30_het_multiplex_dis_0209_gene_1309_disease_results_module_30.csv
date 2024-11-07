@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333215
+1,disease_on_symptoms,22,18,0.4772727272727273
+2,disease_on_drugs,29,27,0.08641215106732347

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Malnutrition nodes,sAB
+0,disease_on_genes,28,26,0.1467236467236468
+1,disease_on_symptoms,23,18,0.9394956993048191
+2,disease_on_drugs,26,23,0.18602825745682905

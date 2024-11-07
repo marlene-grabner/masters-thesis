@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.15253263198909006
+1,disease_on_symptoms,18,16,0.9370915032679739
+2,disease_on_drugs,25,24,0.42938775510204086

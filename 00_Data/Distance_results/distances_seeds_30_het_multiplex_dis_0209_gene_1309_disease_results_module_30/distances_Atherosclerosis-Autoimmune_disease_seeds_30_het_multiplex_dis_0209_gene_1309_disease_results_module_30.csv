@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,14,20,0.351470588235294
+2,disease_on_drugs,29,25,-0.0018901660280969956

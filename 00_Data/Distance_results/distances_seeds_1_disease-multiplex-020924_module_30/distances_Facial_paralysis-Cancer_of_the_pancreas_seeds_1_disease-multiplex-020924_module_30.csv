@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,14,29,0.19352159468438535
+1,disease_on_symptoms,23,16,1.0209726867335562
+2,disease_on_drugs,14,29,0.9827586206896552

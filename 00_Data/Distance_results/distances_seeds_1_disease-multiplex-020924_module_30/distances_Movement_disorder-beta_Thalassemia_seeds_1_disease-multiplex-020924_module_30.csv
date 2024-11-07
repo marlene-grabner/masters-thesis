@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.7061771561771562
+1,disease_on_symptoms,22,21,2.7436071680257728
+2,disease_on_drugs,15,6,1.2571428571428571

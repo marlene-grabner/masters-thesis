@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,24,28,0.03456959706959695
+1,disease_on_symptoms,20,19,0.6644736842105263
+2,disease_on_drugs,22,26,0.5205419580419579

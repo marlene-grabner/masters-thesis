@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,17,16,0.48340017825311943
+2,disease_on_drugs,30,29,0.06718293395675046

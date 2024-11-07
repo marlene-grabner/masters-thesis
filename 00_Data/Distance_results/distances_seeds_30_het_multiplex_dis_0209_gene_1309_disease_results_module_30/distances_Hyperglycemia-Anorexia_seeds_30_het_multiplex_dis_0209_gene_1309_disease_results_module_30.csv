@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.15255211377362177
+1,disease_on_symptoms,17,13,0.8224736048265457
+2,disease_on_drugs,26,28,0.12800162800162806

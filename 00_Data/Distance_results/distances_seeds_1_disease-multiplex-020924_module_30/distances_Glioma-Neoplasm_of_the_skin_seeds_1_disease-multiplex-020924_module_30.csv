@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,22,28,0.005844155844155985
+1,disease_on_symptoms,24,21,0.2886904761904763
+2,disease_on_drugs,20,24,-0.13863636363636356

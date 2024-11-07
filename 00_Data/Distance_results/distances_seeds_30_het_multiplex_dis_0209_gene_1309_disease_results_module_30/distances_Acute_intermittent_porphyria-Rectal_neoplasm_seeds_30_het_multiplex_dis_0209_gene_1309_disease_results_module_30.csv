@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.22719298245614028
+1,disease_on_symptoms,17,20,0.4167329093799683
+2,disease_on_drugs,24,29,-0.13376978963348507

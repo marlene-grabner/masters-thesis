@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,29,0.3271642150952494
+1,disease_on_symptoms,21,16,1.5188223938223935
+2,disease_on_drugs,25,24,1.3681632653061224

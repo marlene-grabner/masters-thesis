@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.08920145190562612
+1,disease_on_symptoms,17,18,0.303968253968254
+2,disease_on_drugs,26,19,0.3642150247413405

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,30,-0.10406403940886688
+1,disease_on_symptoms,20,17,0.5921303656597772
+2,disease_on_drugs,27,29,0.03851943076080988

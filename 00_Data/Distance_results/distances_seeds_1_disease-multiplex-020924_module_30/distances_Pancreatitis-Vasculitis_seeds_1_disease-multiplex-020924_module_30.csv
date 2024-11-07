@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.1717592592592594
+1,disease_on_symptoms,20,19,1.254757085020243
+2,disease_on_drugs,30,20,0.47

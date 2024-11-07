@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,16,19,-0.4091635338345865
+2,disease_on_drugs,30,28,-0.296305418719212

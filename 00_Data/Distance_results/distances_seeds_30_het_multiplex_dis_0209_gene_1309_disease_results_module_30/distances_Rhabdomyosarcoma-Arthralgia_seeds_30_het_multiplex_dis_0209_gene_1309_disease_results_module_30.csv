@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Arthralgia nodes,sAB
+0,disease_on_genes,29,30,-0.016949152542372836
+1,disease_on_symptoms,19,17,1.1928964568283456
+2,disease_on_drugs,29,30,0.38921683226183523

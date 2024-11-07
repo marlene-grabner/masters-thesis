@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.20467596390483989
+1,disease_on_symptoms,24,19,1.3044930640554875
+2,disease_on_drugs,15,21,0.0174603174603174

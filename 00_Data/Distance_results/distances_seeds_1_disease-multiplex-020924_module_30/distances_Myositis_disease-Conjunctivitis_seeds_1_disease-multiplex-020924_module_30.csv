@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.017446393762183154
+1,disease_on_symptoms,24,27,0.48910675381263613
+2,disease_on_drugs,28,26,0.16854904354904354

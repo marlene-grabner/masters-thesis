@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cholangitis nodes,sAB
+0,disease_on_genes,28,27,0.10774410774410792
+1,disease_on_symptoms,23,22,1.2032059727711903
+2,disease_on_drugs,26,26,0.5576923076923079

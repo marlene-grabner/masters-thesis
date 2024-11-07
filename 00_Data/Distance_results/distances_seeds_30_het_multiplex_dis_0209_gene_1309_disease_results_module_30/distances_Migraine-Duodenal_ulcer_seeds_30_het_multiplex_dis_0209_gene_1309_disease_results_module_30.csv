@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.15517241379310343
+1,disease_on_symptoms,12,17,1.033637592968222
+2,disease_on_drugs,29,28,-0.10624621899576536

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.4217348927875244
+1,disease_on_symptoms,13,20,1.4125291375291376
+2,disease_on_drugs,18,25,0.5910852713178294

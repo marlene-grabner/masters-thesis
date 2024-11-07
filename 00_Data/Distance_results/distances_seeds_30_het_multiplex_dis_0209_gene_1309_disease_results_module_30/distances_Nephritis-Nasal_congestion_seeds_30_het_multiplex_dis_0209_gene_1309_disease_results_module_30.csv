@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,14,-0.2266874491732176
+2,disease_on_drugs,25,25,-0.1200000000000001

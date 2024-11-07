@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,28,0.4107142857142856
+1,disease_on_symptoms,19,12,1.2168930390492358
+2,disease_on_drugs,26,21,0.8029576806172549

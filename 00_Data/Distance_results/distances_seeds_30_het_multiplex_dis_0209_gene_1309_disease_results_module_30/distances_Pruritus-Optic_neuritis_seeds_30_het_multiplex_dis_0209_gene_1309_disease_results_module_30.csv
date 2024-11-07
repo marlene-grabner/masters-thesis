@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.09259259259259267
+1,disease_on_symptoms,21,21,0.38095238095238093
+2,disease_on_drugs,27,27,-0.0185185185185186

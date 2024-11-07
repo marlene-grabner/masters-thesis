@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.10344827586206895
+1,disease_on_symptoms,23,22,0.44356609574000894
+2,disease_on_drugs,23,15,0.2745232646834479

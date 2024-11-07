@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,30,-0.1785714285714286
+1,disease_on_symptoms,21,20,0.0004065040650407248
+2,disease_on_drugs,25,30,-0.05818181818181822

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.5345238095238094
+1,disease_on_symptoms,21,20,-0.4894018583042974
+2,disease_on_drugs,26,29,-0.7096334699782976

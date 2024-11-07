@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.07106227106227103
+1,disease_on_symptoms,21,26,0.4753916296469487
+2,disease_on_drugs,26,28,0.4615384615384617

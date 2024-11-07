@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,24,27,0.5870098039215685
+1,disease_on_symptoms,22,14,1.9307359307359309
+2,disease_on_drugs,24,13,0.6486486486486487

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,23,17,0.017135549872122846
+1,disease_on_symptoms,25,27,0.8531623931623931
+2,disease_on_drugs,22,16,0.4482655502392343

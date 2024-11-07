@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.34775828460038993
+1,disease_on_symptoms,14,19,1.7022100706311232
+2,disease_on_drugs,11,26,0.9267151767151769

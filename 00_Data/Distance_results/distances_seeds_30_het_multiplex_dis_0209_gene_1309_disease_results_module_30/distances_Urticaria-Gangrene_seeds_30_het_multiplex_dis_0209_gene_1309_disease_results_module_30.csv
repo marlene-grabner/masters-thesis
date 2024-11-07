@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Gangrene nodes,sAB
+0,disease_on_genes,24,27,-0.05882352941176472
+1,disease_on_symptoms,21,22,0.6971962146380752
+2,disease_on_drugs,24,27,-0.01811002178649246

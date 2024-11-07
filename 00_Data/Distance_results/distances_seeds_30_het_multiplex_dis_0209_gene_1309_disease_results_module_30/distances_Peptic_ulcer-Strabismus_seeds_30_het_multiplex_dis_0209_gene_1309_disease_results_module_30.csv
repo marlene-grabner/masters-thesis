@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.10137672090112637
+1,disease_on_symptoms,20,24,0.33598484848484844
+2,disease_on_drugs,30,16,0.3321557971014495

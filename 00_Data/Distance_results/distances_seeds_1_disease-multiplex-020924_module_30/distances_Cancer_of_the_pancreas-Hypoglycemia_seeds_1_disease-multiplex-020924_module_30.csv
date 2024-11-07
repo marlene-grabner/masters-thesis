@@ -1,0 +1,4 @@
+,Layer,Cancer_of_the_pancreas nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,29,30,0.3389830508474576
+1,disease_on_symptoms,16,12,1.3720238095238098
+2,disease_on_drugs,29,22,0.9827586206896552

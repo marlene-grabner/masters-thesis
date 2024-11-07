@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,21,20,0.4367595818815335
+2,disease_on_drugs,25,28,-0.04008086253369281

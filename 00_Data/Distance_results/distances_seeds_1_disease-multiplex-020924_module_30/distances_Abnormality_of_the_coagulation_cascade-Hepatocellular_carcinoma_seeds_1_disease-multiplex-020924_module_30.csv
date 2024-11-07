@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,23,23,0.3695652173913042
+1,disease_on_symptoms,23,19,1.6101122371145256
+2,disease_on_drugs,18,19,0.5375375375375375

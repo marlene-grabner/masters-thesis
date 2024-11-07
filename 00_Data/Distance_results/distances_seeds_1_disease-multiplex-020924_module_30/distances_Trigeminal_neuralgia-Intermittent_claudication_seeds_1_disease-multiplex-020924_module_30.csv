@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,20,0.22559523809523818
+1,disease_on_symptoms,19,24,1.2250356997144025
+2,disease_on_drugs,26,18,0.6878399378399378

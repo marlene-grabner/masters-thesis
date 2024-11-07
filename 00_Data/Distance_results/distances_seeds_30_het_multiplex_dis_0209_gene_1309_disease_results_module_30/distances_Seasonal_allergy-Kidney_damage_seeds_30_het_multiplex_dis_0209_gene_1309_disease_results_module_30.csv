@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,30,-0.016949152542372836
+1,disease_on_symptoms,18,15,0.36969696969696986
+2,disease_on_drugs,29,21,-0.061247947454843965

@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,0.23031914893617023
+1,disease_on_symptoms,17,27,1.3550703109526638
+2,disease_on_drugs,26,19,0.6422402159244265

@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,-0.339622641509434
+1,disease_on_symptoms,16,25,-0.3856402439024391
+2,disease_on_drugs,30,21,-0.3529411764705882

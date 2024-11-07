@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,0.3993939393939394
+1,disease_on_symptoms,14,26,1.0384615384615383
+2,disease_on_drugs,22,28,0.8999999999999999

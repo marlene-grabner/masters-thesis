@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,-0.3125942684766214
+1,disease_on_symptoms,19,22,-0.1426654218695298
+2,disease_on_drugs,24,25,-0.2653231292517009

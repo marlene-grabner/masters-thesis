@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,28,28,0.3571428571428572
+1,disease_on_symptoms,15,26,1.312507817385866
+2,disease_on_drugs,21,28,0.8596938775510206

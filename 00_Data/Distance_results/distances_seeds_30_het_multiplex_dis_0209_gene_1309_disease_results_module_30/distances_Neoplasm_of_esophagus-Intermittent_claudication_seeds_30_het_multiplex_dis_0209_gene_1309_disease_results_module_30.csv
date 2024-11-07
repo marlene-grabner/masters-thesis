@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,30,0.01665692577440092
+1,disease_on_symptoms,20,14,0.16176470588235303
+2,disease_on_drugs,25,24,0.30314625850340127

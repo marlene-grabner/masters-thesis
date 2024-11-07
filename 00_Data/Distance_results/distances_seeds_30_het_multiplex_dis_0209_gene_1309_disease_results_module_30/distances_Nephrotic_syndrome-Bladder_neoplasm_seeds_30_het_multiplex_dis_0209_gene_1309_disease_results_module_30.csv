@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,15,19,0.37275541795665634
+2,disease_on_drugs,28,25,-0.012803234501347793

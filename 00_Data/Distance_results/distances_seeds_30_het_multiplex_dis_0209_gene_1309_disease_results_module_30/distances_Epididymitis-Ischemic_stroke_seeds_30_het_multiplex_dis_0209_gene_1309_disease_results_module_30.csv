@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,0.0847457627118644
+1,disease_on_symptoms,23,16,0.3897714604236342
+2,disease_on_drugs,26,28,0.2979751729751732

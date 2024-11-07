@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,23,25,0.27061594202898553
+1,disease_on_symptoms,21,23,0.5128929041972519
+2,disease_on_drugs,21,23,1.066911349520045

@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.48888888888888893
+1,disease_on_symptoms,14,27,1.8111046586656343
+2,disease_on_drugs,13,17,1.0450980392156861

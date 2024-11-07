@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,18,17,0.08571428571428585
+2,disease_on_drugs,29,30,-0.10031170855250338

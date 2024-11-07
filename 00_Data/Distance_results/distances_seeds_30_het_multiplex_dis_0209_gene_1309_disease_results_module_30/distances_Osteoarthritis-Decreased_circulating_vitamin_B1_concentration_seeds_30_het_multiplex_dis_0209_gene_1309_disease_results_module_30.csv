@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,30,-0.12774725274725263
+1,disease_on_symptoms,22,17,0.4815233785822022
+2,disease_on_drugs,25,25,0.040000000000000036

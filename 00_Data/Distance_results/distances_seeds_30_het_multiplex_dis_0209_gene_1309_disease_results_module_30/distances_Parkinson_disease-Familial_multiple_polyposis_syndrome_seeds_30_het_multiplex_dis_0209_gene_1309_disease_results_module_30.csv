@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,23,30,-0.037735849056603765
+1,disease_on_symptoms,23,19,0.7975373215647816
+2,disease_on_drugs,22,25,0.17241779497098642

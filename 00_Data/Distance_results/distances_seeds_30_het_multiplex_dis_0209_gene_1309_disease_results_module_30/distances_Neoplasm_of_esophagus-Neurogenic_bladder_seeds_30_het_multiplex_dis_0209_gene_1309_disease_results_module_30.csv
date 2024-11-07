@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,29,30,0.03360607831677398
+1,disease_on_symptoms,20,18,0.32602339181286566
+2,disease_on_drugs,25,21,0.06832298136645942

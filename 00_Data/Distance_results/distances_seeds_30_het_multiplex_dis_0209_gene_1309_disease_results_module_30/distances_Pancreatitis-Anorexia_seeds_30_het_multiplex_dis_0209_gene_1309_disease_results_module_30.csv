@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.4579193454120397
+1,disease_on_symptoms,17,13,-0.3794871794871797
+2,disease_on_drugs,30,28,-0.48062397372742194

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,17,27,0.16101421188630494
+1,disease_on_symptoms,27,17,0.9332045949693009
+2,disease_on_drugs,14,24,0.3063909774436091

@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.3124947851481019
+1,disease_on_symptoms,15,25,1.4633333333333334
+2,disease_on_drugs,26,13,0.6153846153846154

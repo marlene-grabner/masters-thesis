@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Purpura nodes,sAB
+0,disease_on_genes,30,27,0.016569200779727122
+1,disease_on_symptoms,22,17,0.8513986013986017
+2,disease_on_drugs,30,24,0.2939814814814814

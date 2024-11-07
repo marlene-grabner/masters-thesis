@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.46666666666666656
+1,disease_on_symptoms,16,19,-0.70625
+2,disease_on_drugs,29,29,-0.4482758620689655

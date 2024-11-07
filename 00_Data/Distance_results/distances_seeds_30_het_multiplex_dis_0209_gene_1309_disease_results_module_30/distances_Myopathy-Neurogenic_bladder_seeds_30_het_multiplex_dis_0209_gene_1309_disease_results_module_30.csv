@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,23,30,0.0
+1,disease_on_symptoms,22,18,0.17626262626262612
+2,disease_on_drugs,21,21,-0.33333333333333326

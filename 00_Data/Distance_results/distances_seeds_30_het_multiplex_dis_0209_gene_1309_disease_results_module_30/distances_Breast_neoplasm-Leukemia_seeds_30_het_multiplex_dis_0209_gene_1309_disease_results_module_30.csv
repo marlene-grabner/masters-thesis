@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.41666666666666663
+1,disease_on_symptoms,20,21,-1.046254355400697
+2,disease_on_drugs,30,30,-0.3666666666666668

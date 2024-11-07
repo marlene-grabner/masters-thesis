@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,23,17,-0.3019181585677748
+2,disease_on_drugs,23,29,0.16442740168377368

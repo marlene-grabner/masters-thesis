@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000013
+1,disease_on_symptoms,14,15,0.14507389162561557
+2,disease_on_drugs,29,22,0.03921568627450989

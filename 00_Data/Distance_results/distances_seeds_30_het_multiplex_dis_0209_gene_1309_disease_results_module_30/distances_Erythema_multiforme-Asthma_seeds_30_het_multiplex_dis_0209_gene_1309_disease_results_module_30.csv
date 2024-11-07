@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.1836363636363637
+1,disease_on_symptoms,18,20,0.35365497076023367
+2,disease_on_drugs,30,22,0.00419580419580412

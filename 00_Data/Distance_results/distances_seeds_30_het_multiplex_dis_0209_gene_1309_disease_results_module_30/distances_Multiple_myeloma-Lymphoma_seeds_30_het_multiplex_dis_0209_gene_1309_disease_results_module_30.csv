@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,26,26,-0.40384615384615385
+1,disease_on_symptoms,21,20,-0.8343786295005808
+2,disease_on_drugs,25,24,-0.4090476190476192

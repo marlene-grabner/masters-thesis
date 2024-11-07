@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,25,26,0.5078280542986424
+1,disease_on_symptoms,16,21,2.0455276705276706
+2,disease_on_drugs,17,23,0.6955882352941178

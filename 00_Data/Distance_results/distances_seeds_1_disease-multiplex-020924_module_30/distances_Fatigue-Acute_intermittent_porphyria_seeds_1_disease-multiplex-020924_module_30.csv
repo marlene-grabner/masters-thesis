@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,26,27,-0.01889480191366988
+1,disease_on_symptoms,21,20,1.6321428571428571
+2,disease_on_drugs,26,15,0.05909943714821786

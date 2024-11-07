@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,18,27,0.4259259259259258
+1,disease_on_symptoms,21,21,0.9285714285714284
+2,disease_on_drugs,6,24,0.3125

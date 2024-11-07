@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,22,25,0.27896825396825387
+1,disease_on_symptoms,26,20,1.6339464882943142
+2,disease_on_drugs,12,21,0.6190476190476191

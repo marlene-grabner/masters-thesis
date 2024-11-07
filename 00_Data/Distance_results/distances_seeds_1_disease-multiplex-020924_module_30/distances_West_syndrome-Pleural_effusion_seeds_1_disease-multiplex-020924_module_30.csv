@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,29,30,0.6443502824858758
+1,disease_on_symptoms,18,20,1.6817251461988305
+2,disease_on_drugs,22,22,0.8636363636363635

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,16,23,0.07960562987736908
+1,disease_on_symptoms,23,19,2.7780865206494494
+2,disease_on_drugs,16,11,1.3391203703703702

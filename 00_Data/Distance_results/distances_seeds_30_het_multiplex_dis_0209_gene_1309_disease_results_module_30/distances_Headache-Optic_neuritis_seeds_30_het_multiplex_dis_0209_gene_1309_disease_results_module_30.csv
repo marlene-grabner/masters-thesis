@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,23,21,0.15965556182947505
+2,disease_on_drugs,23,27,-0.23268921095008066

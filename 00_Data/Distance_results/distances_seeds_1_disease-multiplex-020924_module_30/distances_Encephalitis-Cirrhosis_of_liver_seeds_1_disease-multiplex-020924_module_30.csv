@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,0.4476190476190476
+1,disease_on_symptoms,17,14,0.8710355109785852
+2,disease_on_drugs,18,26,0.6171328671328673

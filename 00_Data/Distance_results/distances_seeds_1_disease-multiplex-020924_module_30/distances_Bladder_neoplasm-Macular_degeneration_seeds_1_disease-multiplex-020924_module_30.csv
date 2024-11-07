@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.161904761904762
+1,disease_on_symptoms,20,15,-0.2488095238095238
+2,disease_on_drugs,25,21,0.10662525879917184

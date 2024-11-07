@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,0.42307692307692313
+1,disease_on_symptoms,20,15,1.605952380952381
+2,disease_on_drugs,20,21,1.2944250871080138

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.057651991614255715
+1,disease_on_symptoms,17,19,0.21594427244582048
+2,disease_on_drugs,24,23,0.12719703977798336

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,21,-0.19047619047619035
+1,disease_on_symptoms,23,25,-0.3906521739130433
+2,disease_on_drugs,20,21,-0.29268292682926833

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.019047619047619202
+1,disease_on_symptoms,22,12,0.9757130124777182
+2,disease_on_drugs,29,18,0.21364229232901288

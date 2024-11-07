@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Erysipelas nodes,sAB
+0,disease_on_genes,20,28,0.27261904761904754
+1,disease_on_symptoms,23,20,1.1275025278058646
+2,disease_on_drugs,18,27,0.5111111111111111

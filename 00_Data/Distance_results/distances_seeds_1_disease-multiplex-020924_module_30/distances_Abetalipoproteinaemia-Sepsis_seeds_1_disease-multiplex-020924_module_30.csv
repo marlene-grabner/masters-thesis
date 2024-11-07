@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Sepsis nodes,sAB
+0,disease_on_genes,17,22,0.3441313588372412
+1,disease_on_symptoms,25,23,1.6782971014492751
+2,disease_on_drugs,13,17,0.93604826546003

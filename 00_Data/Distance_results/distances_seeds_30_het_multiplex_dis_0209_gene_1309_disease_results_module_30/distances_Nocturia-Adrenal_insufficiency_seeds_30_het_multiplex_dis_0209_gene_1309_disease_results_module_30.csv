@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,25,30,0.03703703703703698
+1,disease_on_symptoms,18,15,0.2737373737373736
+2,disease_on_drugs,24,24,0.20833333333333326

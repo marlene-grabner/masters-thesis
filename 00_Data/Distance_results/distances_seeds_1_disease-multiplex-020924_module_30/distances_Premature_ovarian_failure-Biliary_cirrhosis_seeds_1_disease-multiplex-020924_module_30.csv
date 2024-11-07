@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,28,26,0.4259259259259258
+1,disease_on_symptoms,21,15,1.0055555555555555
+2,disease_on_drugs,21,15,1.0523809523809522

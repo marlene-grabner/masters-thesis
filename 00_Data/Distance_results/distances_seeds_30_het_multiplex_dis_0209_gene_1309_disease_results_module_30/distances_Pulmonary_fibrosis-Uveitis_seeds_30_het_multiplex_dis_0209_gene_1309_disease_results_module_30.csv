@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,22,20,-0.16948051948051956
+2,disease_on_drugs,25,23,-0.3572463768115942

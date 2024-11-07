@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,24,30,0.006944444444444642
+1,disease_on_symptoms,20,17,0.5514705882352942
+2,disease_on_drugs,22,25,0.24025145067698284

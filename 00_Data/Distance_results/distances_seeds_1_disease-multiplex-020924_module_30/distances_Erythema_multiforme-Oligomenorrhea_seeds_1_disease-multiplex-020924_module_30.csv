@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.5183908045977013
+1,disease_on_symptoms,16,12,1.4866071428571428
+2,disease_on_drugs,30,21,0.7717086834733893

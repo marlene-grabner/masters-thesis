@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,19,21,0.09417293233082713
+2,disease_on_drugs,25,27,-0.1554985754985755

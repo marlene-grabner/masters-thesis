@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,0.1470184853905785
+1,disease_on_symptoms,14,25,0.9943223443223443
+2,disease_on_drugs,29,8,0.5675675675675675

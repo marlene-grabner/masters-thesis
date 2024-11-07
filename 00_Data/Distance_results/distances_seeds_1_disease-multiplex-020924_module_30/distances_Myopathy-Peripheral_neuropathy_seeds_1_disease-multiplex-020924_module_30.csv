@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,18,30,0.40555555555555545
+1,disease_on_symptoms,21,20,1.1681765389082464
+2,disease_on_drugs,6,24,0.925

@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.45757575757575775
+1,disease_on_symptoms,16,22,0.9974581339712922
+2,disease_on_drugs,23,25,0.706449275362319

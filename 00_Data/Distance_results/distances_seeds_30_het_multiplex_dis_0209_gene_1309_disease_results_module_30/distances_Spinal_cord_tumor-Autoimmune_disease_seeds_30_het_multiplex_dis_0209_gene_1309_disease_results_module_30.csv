@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,26,0.09090909090909083
+1,disease_on_symptoms,14,20,0.7926470588235295
+2,disease_on_drugs,22,25,0.09570599613152808

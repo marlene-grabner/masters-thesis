@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,-0.12606060606060598
+1,disease_on_symptoms,14,20,0.13613445378151257
+2,disease_on_drugs,29,21,-0.040000000000000036

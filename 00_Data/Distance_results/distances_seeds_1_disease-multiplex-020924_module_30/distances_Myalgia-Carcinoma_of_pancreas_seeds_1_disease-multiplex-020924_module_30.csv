@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.1198113207547169
+1,disease_on_symptoms,16,25,0.900182926829268
+2,disease_on_drugs,29,21,0.76

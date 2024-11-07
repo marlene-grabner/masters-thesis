@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Purpura nodes,sAB
+0,disease_on_genes,30,27,0.3323586744639375
+1,disease_on_symptoms,14,17,1.8444700460829493
+2,disease_on_drugs,21,24,0.674404761904762

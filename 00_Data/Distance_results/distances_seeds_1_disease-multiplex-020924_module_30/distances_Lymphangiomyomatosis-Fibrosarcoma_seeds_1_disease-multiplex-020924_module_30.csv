@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,26,22,-0.14204545454545459
+1,disease_on_symptoms,19,24,0.5042839657282743
+2,disease_on_drugs,22,13,0.11493506493506489

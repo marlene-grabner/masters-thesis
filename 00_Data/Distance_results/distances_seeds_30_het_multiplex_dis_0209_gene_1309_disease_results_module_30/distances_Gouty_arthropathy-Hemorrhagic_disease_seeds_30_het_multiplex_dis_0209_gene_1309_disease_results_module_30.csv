@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,28,26,0.03703703703703698
+1,disease_on_symptoms,18,19,0.34704441283388676
+2,disease_on_drugs,23,24,-0.06313598519888997

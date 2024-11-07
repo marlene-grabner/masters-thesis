@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,0.11713422949542163
+1,disease_on_symptoms,16,16,1.3125
+2,disease_on_drugs,23,23,0.5217391304347825

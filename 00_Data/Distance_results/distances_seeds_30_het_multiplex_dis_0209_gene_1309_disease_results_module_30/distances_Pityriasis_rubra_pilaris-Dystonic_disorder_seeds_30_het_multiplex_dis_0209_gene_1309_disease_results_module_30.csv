@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.05458089668616006
+1,disease_on_symptoms,21,17,1.0583075335397316
+2,disease_on_drugs,25,26,0.1779487179487178

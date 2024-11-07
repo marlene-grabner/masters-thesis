@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,18,0.8345004668534082
+2,disease_on_drugs,30,21,0.4345938375350138

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,17,30,0.3925949103045472
+1,disease_on_symptoms,22,14,2.8095238095238093
+2,disease_on_drugs,15,26,0.5815822388993119

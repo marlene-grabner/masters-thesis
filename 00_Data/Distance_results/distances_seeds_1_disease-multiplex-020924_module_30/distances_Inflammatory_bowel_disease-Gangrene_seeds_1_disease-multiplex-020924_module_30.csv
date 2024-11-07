@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,17,26,0.008928571428571397
+1,disease_on_symptoms,27,19,1.1163657937113314
+2,disease_on_drugs,14,23,0.13173577304012096

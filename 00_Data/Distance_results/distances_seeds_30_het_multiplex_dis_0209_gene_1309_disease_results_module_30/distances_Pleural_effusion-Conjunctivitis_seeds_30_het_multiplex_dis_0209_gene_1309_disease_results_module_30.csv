@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,18,27,0.2425925925925927
+2,disease_on_drugs,27,28,0.19891774891774894

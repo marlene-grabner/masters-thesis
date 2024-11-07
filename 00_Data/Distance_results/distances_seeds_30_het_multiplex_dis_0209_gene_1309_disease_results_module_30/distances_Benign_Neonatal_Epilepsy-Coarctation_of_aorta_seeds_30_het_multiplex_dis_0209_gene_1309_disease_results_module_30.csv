@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.0185185185185186
+1,disease_on_symptoms,16,19,0.7070018796992481
+2,disease_on_drugs,21,24,0.13710317460317456

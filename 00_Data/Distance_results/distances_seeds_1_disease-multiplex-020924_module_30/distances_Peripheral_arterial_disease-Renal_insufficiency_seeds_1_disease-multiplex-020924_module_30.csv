@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,20,0.07666666666666666
+1,disease_on_symptoms,14,23,0.4844300822561691
+2,disease_on_drugs,22,17,0.1568627450980391

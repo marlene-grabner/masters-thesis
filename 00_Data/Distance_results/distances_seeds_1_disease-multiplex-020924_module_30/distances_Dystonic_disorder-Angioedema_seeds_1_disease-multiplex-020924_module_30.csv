@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Angioedema nodes,sAB
+0,disease_on_genes,17,29,0.5311624649859945
+1,disease_on_symptoms,28,17,2.3854108309990663
+2,disease_on_drugs,9,25,0.8823529411764706

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,19,14,-0.009398496240601517
+2,disease_on_drugs,20,24,-0.21553030303030307

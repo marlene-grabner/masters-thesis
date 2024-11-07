@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,-0.0011019728000858375
+1,disease_on_symptoms,22,15,0.6828419328419328
+2,disease_on_drugs,24,16,0.15833333333333344

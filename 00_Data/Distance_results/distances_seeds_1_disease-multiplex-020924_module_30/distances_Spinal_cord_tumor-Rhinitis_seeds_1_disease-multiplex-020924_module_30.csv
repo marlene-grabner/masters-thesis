@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Rhinitis nodes,sAB
+0,disease_on_genes,22,30,0.31270396270396295
+1,disease_on_symptoms,22,15,0.6235872235872235
+2,disease_on_drugs,14,22,0.753968253968254

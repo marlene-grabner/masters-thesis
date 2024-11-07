@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,29,0.08461047254150689
+1,disease_on_symptoms,16,16,0.8125
+2,disease_on_drugs,18,24,0.2142857142857142

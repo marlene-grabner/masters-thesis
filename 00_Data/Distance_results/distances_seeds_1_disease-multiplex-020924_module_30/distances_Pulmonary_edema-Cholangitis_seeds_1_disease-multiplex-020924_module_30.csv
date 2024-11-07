@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.3118908382066279
+1,disease_on_symptoms,14,22,1.0007215007215007
+2,disease_on_drugs,27,26,0.8308874912648496

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,29,0.27089421390999413
+1,disease_on_symptoms,12,17,1.3049357674104123
+2,disease_on_drugs,27,30,0.8596491228070176

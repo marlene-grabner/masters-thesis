@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,17,20,0.5094594594594597
+2,disease_on_drugs,26,28,0.18625356125356118

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,25,20,0.616111111111111
+1,disease_on_symptoms,19,24,0.8033710730314156
+2,disease_on_drugs,13,18,1.0439757375241245

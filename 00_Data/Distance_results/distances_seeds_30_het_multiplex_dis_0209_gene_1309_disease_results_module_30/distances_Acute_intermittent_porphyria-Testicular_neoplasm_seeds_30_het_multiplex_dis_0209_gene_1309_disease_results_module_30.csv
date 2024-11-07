@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,0.01846153846153853
+1,disease_on_symptoms,17,26,1.2861727875407767
+2,disease_on_drugs,24,24,0.3125

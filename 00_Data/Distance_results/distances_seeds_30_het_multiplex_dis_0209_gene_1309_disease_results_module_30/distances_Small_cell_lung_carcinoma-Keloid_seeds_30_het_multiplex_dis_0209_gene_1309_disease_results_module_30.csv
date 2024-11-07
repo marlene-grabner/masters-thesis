@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.24528301886792447
+1,disease_on_symptoms,19,17,0.5319057447540421
+2,disease_on_drugs,30,22,-0.2599067599067598

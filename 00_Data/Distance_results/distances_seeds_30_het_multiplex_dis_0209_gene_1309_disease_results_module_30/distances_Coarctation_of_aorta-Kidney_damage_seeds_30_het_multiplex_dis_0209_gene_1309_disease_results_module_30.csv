@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,30,-0.05360623781676421
+1,disease_on_symptoms,19,15,0.22456140350877196
+2,disease_on_drugs,24,21,0.030753968253968145

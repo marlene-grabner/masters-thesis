@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Diarrhea nodes,sAB
+0,disease_on_genes,29,27,0.19312169312169325
+1,disease_on_symptoms,25,19,0.9268421052631579
+2,disease_on_drugs,28,26,0.554843304843305

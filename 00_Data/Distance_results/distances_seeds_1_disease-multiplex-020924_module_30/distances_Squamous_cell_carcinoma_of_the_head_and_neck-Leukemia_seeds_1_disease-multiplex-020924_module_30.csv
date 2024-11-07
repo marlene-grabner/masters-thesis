@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma_of_the_head_and_neck nodes,Leukemia nodes,sAB
+0,disease_on_genes,21,18,-0.12637362637362626
+1,disease_on_symptoms,25,27,0.4955270655270656
+2,disease_on_drugs,21,17,-0.0619195046439629

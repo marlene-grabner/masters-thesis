@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,28,27,0.05420875420875415
+1,disease_on_symptoms,20,19,0.8739203778677462
+2,disease_on_drugs,25,24,0.3476700680272109

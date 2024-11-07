@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,24,25,0.3877040816326529
+1,disease_on_symptoms,25,21,2.3486542443064184
+2,disease_on_drugs,17,20,0.9750000000000001

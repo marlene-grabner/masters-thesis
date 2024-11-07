@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.21666666666666656
+1,disease_on_symptoms,14,23,0.9622293100553971
+2,disease_on_drugs,24,17,0.7991391678622668

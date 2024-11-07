@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,-0.43771929824561395
+1,disease_on_symptoms,22,22,-0.5454545454545454
+2,disease_on_drugs,23,29,-0.448362357282897

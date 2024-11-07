@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.2587962962962962
+1,disease_on_symptoms,17,19,1.516081871345029
+2,disease_on_drugs,26,20,0.35886287625418056

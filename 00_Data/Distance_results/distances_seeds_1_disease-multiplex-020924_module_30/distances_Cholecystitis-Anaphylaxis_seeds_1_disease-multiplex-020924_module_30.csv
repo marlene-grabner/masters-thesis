@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,0.5782905982905981
+1,disease_on_symptoms,19,15,1.5808049535603717
+2,disease_on_drugs,13,26,0.9230769230769231

@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,22,21,-1.0945837108627807
+2,disease_on_drugs,28,29,-0.4044702272923688

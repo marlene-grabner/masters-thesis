@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,18,20,0.5770467836257309
+1,disease_on_symptoms,21,18,2.8940781440781445
+2,disease_on_drugs,6,19,0.9670175438596493

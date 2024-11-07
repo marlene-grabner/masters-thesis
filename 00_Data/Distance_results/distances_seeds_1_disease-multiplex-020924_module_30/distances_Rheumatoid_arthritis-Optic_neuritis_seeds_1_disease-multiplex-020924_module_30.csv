@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.20370370370370372
+1,disease_on_symptoms,15,16,0.8774865591397849
+2,disease_on_drugs,25,27,0.15450142450142423

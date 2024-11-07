@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,27,26,0.3396226415094339
+1,disease_on_symptoms,17,15,1.523406862745098
+2,disease_on_drugs,25,26,0.9019607843137254

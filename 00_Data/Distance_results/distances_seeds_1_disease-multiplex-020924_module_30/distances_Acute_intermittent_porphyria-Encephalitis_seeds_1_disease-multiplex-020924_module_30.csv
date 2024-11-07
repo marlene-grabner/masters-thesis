@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,28,0.4908850408850409
+1,disease_on_symptoms,20,17,2.3067965023847377
+2,disease_on_drugs,15,18,0.6363636363636365

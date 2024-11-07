@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,13,17,0.8417797888386125
+2,disease_on_drugs,21,25,-0.18004140786749478

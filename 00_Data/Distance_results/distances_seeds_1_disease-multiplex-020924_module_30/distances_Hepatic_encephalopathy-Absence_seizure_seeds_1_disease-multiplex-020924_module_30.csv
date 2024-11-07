@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,9,29,0.27576124218592457
+1,disease_on_symptoms,27,16,0.5938307493540051
+2,disease_on_drugs,9,22,0.967741935483871

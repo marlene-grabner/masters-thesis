@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.2958281184814353
+1,disease_on_symptoms,17,27,1.7791146761734997
+2,disease_on_drugs,17,16,0.6647727272727273

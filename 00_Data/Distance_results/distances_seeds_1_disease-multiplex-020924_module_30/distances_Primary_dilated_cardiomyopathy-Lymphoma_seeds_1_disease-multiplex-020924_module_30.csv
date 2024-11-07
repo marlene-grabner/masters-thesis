@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.6236263736263736
+1,disease_on_symptoms,25,21,2.4283229813664597
+2,disease_on_drugs,7,25,1.3885714285714286

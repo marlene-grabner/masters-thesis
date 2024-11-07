@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.1454545454545455
+1,disease_on_symptoms,15,21,0.7650793650793652
+2,disease_on_drugs,24,21,0.17956349206349187

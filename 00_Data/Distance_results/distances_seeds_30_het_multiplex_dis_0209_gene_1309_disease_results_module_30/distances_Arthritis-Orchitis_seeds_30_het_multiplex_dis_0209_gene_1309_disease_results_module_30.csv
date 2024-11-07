@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,-0.5818181818181818
+1,disease_on_symptoms,20,19,-0.6672402159244266
+2,disease_on_drugs,29,25,-0.7062068965517241

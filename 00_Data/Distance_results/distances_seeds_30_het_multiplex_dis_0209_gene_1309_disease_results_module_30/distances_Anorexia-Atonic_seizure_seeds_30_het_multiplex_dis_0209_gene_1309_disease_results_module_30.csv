@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,29,30,-0.15283459964932777
+1,disease_on_symptoms,13,15,0.13479853479853476
+2,disease_on_drugs,28,23,-0.21933990987699425

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,17,30,0.24866499791405938
+1,disease_on_symptoms,21,14,1.511904761904762
+2,disease_on_drugs,17,26,0.7126433757760706

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,23,30,0.23541153951326232
+1,disease_on_symptoms,21,17,0.9401444788441693
+2,disease_on_drugs,19,26,0.288888888888889

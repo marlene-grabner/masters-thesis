@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.10169491525423724
+1,disease_on_symptoms,21,18,0.6642246642246641
+2,disease_on_drugs,27,28,0.6016113516113517

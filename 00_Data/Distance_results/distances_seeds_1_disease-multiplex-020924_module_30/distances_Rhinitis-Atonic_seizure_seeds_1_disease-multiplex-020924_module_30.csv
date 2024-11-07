@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.3059224624975647
+1,disease_on_symptoms,15,16,1.3153225806451614
+2,disease_on_drugs,22,24,0.6304347826086956

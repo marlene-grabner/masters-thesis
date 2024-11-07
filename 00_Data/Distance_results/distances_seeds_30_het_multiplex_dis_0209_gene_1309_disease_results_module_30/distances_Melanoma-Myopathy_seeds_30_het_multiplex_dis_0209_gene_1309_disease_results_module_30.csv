@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Myopathy nodes,sAB
+0,disease_on_genes,27,23,-0.19851851851851865
+1,disease_on_symptoms,23,22,0.8649099692577953
+2,disease_on_drugs,25,21,-0.039627329192546634

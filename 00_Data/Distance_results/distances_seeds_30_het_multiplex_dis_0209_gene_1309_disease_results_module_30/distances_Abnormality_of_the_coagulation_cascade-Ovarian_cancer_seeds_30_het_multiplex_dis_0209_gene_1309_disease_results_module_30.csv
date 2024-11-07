@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,24,27,0.05882352941176472
+1,disease_on_symptoms,24,17,0.7687709230033479
+2,disease_on_drugs,23,17,0.6249360613810744

@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Keloid nodes,sAB
+0,disease_on_genes,25,22,0.17369439071566717
+1,disease_on_symptoms,23,20,2.3571789686552074
+2,disease_on_drugs,20,19,0.3602564102564103

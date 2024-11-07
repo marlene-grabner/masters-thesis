@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.3342105263157895
+1,disease_on_symptoms,15,14,1.5974548440065681
+2,disease_on_drugs,29,13,0.8160919540229885

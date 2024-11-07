@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Prostatitis nodes,sAB
+0,disease_on_genes,28,30,0.13793103448275867
+1,disease_on_symptoms,18,22,0.3358585858585861
+2,disease_on_drugs,23,28,0.18351905979783223

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,26,23,0.11845607808340741
+1,disease_on_symptoms,21,21,1.0000000000000002
+2,disease_on_drugs,25,19,0.7781818181818181

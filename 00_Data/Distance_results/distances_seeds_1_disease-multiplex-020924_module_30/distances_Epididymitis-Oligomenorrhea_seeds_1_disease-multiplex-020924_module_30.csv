@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,28,0.5792498487598308
+1,disease_on_symptoms,23,12,0.9027950310559008
+2,disease_on_drugs,27,21,1.0582010582010581

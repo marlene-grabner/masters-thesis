@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,29,30,0.15338008961620875
+1,disease_on_symptoms,17,20,1.7559220985691573
+2,disease_on_drugs,30,30,0.5166666666666666

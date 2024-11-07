@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.27696377696377694
+1,disease_on_symptoms,19,25,1.1193301435406697
+2,disease_on_drugs,24,23,0.5735237434474252

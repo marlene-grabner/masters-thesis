@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,23,30,-0.3207547169811321
+1,disease_on_symptoms,19,15,-0.1710010319917441
+2,disease_on_drugs,19,25,-0.578133971291866

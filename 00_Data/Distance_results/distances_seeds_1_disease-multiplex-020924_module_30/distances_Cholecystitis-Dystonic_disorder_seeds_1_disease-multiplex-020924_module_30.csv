@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,25,17,0.4814005602240896
+1,disease_on_symptoms,19,28,3.532534794432891
+2,disease_on_drugs,13,9,0.9615384615384617

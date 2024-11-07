@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.410691823899371
+1,disease_on_symptoms,18,19,-0.054449186028133534
+2,disease_on_drugs,24,19,-0.574765401876785

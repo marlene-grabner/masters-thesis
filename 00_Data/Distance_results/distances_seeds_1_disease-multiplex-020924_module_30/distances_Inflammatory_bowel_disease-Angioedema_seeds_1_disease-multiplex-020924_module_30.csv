@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Angioedema nodes,sAB
+0,disease_on_genes,17,29,0.010551948051948035
+1,disease_on_symptoms,27,17,0.6337393543275898
+2,disease_on_drugs,14,25,0.0924908424908426

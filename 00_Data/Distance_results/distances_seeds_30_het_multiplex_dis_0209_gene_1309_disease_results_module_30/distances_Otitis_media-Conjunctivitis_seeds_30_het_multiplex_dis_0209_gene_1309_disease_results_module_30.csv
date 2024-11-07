@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,29,29,-0.34482758620689646
+1,disease_on_symptoms,20,27,-0.23642631993695806
+2,disease_on_drugs,28,28,-0.4285714285714286

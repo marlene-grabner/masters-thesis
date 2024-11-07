@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,24,17,0.8983440937350551
+2,disease_on_drugs,20,24,0.2571969696969698

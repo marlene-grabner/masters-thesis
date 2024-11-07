@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,26,14,0.4950549450549451
+1,disease_on_symptoms,23,25,2.3512318840579707
+2,disease_on_drugs,25,10,1.3785714285714283

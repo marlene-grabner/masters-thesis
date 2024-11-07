@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,21,18,0.10439560439560447
+2,disease_on_drugs,27,29,0.1643632548804963

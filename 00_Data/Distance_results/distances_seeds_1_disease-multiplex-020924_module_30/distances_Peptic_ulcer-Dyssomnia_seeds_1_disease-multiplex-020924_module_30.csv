@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,28,18,-0.1288819875776398
+1,disease_on_symptoms,14,21,1.6880952380952383
+2,disease_on_drugs,28,17,0.045098039215686114

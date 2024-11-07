@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,-0.18181818181818177
+1,disease_on_symptoms,13,15,0.47142857142857153
+2,disease_on_drugs,21,30,-0.057282913165266125

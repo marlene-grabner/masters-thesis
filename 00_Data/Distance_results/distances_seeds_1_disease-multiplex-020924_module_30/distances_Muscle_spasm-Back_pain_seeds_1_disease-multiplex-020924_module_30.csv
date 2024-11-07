@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Back_pain nodes,sAB
+0,disease_on_genes,25,30,0.07121212121212128
+1,disease_on_symptoms,23,16,0.7433458751393531
+2,disease_on_drugs,19,23,0.38095238095238093

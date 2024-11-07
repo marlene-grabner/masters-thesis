@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,-0.07512229210342425
+1,disease_on_symptoms,20,14,1.383613445378151
+2,disease_on_drugs,24,26,0.11897435897435904

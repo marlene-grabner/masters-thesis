@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.09999999999999987
+1,disease_on_symptoms,23,16,1.0721153846153846
+2,disease_on_drugs,30,29,0.42542372881355917

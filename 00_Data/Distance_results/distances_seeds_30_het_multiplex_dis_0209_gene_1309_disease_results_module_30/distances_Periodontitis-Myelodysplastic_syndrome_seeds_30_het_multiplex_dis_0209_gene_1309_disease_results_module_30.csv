@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,21,17,0.13533834586466176
+2,disease_on_drugs,28,24,-0.05494505494505475

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,25,30,0.2572727272727273
+1,disease_on_symptoms,19,16,1.0220864661654137
+2,disease_on_drugs,13,29,0.5329670329670331

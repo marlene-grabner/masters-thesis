@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Purpura nodes,sAB
+0,disease_on_genes,30,27,0.10428849902534099
+1,disease_on_symptoms,20,17,0.7547297297297297
+2,disease_on_drugs,27,24,-0.009940087145969612

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,30,-0.07636363636363641
+1,disease_on_symptoms,21,13,0.06453350570997651
+2,disease_on_drugs,24,24,-0.0625

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,14,22,0.27489177489177496
+2,disease_on_drugs,24,29,-0.17150563869008884

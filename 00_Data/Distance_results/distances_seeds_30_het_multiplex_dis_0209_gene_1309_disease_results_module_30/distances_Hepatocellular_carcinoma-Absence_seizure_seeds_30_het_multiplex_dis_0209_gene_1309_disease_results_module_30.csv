@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,24,30,0.0185185185185186
+1,disease_on_symptoms,23,14,1.3545408762800066
+2,disease_on_drugs,22,22,0.02272727272727293

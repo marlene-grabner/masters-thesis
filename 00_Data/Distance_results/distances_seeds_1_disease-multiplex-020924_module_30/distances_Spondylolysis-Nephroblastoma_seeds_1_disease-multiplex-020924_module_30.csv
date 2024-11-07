@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,25,0.2313105413105414
+1,disease_on_symptoms,19,25,1.0932535885167467
+2,disease_on_drugs,20,21,0.804268292682927

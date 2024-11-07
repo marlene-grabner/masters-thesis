@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.05660377358490565
+1,disease_on_symptoms,13,17,1.8084464555052793
+2,disease_on_drugs,21,22,0.06586630423839734

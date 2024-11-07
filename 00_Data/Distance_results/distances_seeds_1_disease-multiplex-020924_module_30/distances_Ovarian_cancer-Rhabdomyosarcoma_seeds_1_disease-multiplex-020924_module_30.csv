@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,27,23,-0.0721739130434782
+1,disease_on_symptoms,17,24,0.10252271640363464
+2,disease_on_drugs,25,17,0.023809523809523725

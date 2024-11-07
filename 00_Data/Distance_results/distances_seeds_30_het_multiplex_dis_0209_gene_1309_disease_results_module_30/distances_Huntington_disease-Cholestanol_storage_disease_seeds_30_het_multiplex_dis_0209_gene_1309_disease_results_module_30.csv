@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.30537697253068374
+1,disease_on_symptoms,17,18,-0.1664332399626518
+2,disease_on_drugs,26,28,-0.24104599104599111

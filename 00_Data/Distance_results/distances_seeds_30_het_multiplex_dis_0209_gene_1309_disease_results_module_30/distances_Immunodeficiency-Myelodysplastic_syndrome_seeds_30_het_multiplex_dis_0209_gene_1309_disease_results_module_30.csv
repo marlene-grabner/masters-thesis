@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,-0.05769230769230771
+1,disease_on_symptoms,21,17,0.4636591478696741
+2,disease_on_drugs,26,24,-0.14038461538461533

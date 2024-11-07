@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.375
+1,disease_on_symptoms,14,15,0.791543513957307
+2,disease_on_drugs,27,21,0.5998677248677249

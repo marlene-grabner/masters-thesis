@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.4949685534591197
+1,disease_on_symptoms,16,25,1.5472865853658537
+2,disease_on_drugs,23,21,1.2075098814229253

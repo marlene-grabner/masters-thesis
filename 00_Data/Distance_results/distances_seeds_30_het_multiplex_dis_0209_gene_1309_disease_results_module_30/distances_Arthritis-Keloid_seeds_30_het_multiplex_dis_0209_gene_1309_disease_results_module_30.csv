@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.037735849056603765
+1,disease_on_symptoms,20,17,1.1998012718600952
+2,disease_on_drugs,29,22,0.26361485032884646

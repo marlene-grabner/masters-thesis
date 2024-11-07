@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.2762640901771338
+1,disease_on_symptoms,21,20,0.4928281068524971
+2,disease_on_drugs,24,20,0.6359848484848485

@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Thyroiditis nodes,sAB
+0,disease_on_genes,29,26,0.2321678321678322
+1,disease_on_symptoms,25,28,1.758396226415094
+2,disease_on_drugs,28,23,1.1155157715260016

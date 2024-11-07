@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,28,30,0.0683497536945814
+1,disease_on_symptoms,15,18,-0.24343434343434334
+2,disease_on_drugs,23,21,-0.07199322416713727

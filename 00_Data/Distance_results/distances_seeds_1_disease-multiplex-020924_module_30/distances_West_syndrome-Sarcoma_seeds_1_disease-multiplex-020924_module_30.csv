@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,25,0.4259259259259258
+1,disease_on_symptoms,18,26,1.9386169386169385
+2,disease_on_drugs,22,21,1.255813953488372

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,-0.5762809273329438
+1,disease_on_symptoms,20,19,-0.6703778677462889
+2,disease_on_drugs,25,29,-0.5913154533844188

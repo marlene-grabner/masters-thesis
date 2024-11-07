@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,24,25,-0.02083333333333348
+1,disease_on_symptoms,19,21,0.8003132832080198
+2,disease_on_drugs,19,21,-0.1585213032581454

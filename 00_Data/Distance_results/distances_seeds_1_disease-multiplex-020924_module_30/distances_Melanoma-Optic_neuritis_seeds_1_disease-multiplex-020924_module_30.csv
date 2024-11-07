@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,24,27,0.061002178649237404
+1,disease_on_symptoms,23,16,0.31608835005574143
+2,disease_on_drugs,22,27,0.22826908541194246

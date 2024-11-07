@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.06751412429378523
+1,disease_on_symptoms,20,19,0.007388663967611286
+2,disease_on_drugs,30,29,0.017182933956750412

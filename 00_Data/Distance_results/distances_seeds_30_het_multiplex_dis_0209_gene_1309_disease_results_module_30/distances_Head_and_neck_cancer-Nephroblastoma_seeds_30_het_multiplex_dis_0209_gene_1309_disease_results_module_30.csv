@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,-0.12438423645320185
+1,disease_on_symptoms,22,20,-0.1771645021645023
+2,disease_on_drugs,23,24,-0.23278985507246386

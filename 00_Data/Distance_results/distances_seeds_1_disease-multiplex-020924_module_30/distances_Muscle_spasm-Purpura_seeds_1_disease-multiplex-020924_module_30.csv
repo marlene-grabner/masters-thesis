@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Purpura nodes,sAB
+0,disease_on_genes,25,26,0.2736802413273003
+1,disease_on_symptoms,23,17,2.8223145780051153
+2,disease_on_drugs,19,20,0.7435897435897436

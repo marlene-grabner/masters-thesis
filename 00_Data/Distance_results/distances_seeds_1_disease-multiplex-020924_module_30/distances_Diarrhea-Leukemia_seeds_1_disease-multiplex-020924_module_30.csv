@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.1074074074074074
+1,disease_on_symptoms,19,27,1.707051445037715
+2,disease_on_drugs,26,17,0.7762548668841418

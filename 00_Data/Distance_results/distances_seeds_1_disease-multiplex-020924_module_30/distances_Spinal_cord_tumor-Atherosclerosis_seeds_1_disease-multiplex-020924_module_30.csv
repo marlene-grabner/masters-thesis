@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,22,30,0.39860139860139854
+1,disease_on_symptoms,22,13,0.43136863136863157
+2,disease_on_drugs,14,29,0.404485049833887

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.06910331384015578
+1,disease_on_symptoms,19,18,0.8374031926663505
+2,disease_on_drugs,27,25,0.6330769230769231

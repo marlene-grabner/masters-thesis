@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,0.3842424242424243
+1,disease_on_symptoms,20,15,-0.053571428571428825
+2,disease_on_drugs,14,22,0.08730158730158721

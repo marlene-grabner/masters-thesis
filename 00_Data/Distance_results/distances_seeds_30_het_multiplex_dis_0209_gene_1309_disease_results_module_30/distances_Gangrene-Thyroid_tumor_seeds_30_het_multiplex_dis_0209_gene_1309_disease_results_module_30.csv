@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.10000000000000009
+1,disease_on_symptoms,22,20,1.145562770562771
+2,disease_on_drugs,27,20,0.39856185973207237

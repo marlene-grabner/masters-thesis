@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.3666666666666665
+1,disease_on_symptoms,12,21,1.1715367965367964
+2,disease_on_drugs,17,27,0.54297880768469

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,-0.7356576428766749
+1,disease_on_symptoms,23,25,-0.7121014492753626
+2,disease_on_drugs,29,22,-0.7669647796422643

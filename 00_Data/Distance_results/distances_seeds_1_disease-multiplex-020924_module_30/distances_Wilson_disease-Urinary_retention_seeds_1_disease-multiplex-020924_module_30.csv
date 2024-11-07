@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,23,30,0.3568215892053974
+1,disease_on_symptoms,19,18,1.7316658764027186
+2,disease_on_drugs,11,19,1.2210526315789472

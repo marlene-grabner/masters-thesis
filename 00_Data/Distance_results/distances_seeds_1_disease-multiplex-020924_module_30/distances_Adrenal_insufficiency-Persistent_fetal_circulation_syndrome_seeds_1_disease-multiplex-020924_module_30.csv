@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,17,25,0.3059383753501399
+1,disease_on_symptoms,21,20,2.189547038327526
+2,disease_on_drugs,14,18,0.7291666666666665

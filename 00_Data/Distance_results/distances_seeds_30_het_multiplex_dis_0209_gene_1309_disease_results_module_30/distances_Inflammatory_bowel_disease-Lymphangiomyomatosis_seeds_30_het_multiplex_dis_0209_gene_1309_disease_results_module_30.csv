@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.05494505494505486
+1,disease_on_symptoms,20,17,0.23088235294117654
+2,disease_on_drugs,27,24,0.012118736383442297

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,25,30,-0.13121212121212122
+1,disease_on_symptoms,18,17,-0.12380952380952359
+2,disease_on_drugs,23,26,-0.07339089481946615

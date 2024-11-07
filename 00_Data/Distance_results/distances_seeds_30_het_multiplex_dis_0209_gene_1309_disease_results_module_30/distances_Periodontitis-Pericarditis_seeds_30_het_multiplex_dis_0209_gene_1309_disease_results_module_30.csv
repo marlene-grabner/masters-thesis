@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,21,21,0.7142857142857144
+2,disease_on_drugs,28,26,-0.07453194953194964

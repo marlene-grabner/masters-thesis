@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,22,25,0.3795551257253382
+1,disease_on_symptoms,23,23,2.3043478260869565
+2,disease_on_drugs,17,21,1.314610054548135

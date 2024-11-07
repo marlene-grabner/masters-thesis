@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,20,0.2055555555555557
+1,disease_on_symptoms,26,23,2.122704934816736
+2,disease_on_drugs,21,17,0.6393188854489165

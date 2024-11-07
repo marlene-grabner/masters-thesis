@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.10614035087719298
+1,disease_on_symptoms,25,17,0.7291876750700279
+2,disease_on_drugs,26,26,0.5

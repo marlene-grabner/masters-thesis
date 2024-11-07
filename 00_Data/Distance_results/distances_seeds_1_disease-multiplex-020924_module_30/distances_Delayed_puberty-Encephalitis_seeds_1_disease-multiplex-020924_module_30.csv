@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Encephalitis nodes,sAB
+0,disease_on_genes,22,28,0.5731292517006803
+1,disease_on_symptoms,20,17,1.6851748807631162
+2,disease_on_drugs,19,18,1.1365576102418204

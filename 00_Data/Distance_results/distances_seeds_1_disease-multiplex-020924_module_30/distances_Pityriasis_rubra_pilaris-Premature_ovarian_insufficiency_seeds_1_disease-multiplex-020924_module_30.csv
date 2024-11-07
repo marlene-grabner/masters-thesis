@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,28,23,0.37254901960784315
+1,disease_on_symptoms,23,22,0.7324989020641193
+2,disease_on_drugs,26,17,0.33841944649058187

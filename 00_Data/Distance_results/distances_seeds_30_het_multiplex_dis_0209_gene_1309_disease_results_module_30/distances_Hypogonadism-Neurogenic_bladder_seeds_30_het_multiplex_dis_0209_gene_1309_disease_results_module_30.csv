@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,17,18,-0.4521942110177404
+2,disease_on_drugs,29,21,-0.214975369458128

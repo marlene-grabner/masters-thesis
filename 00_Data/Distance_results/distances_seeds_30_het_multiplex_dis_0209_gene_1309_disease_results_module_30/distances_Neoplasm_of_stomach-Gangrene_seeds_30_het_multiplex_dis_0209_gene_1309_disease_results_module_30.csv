@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Gangrene nodes,sAB
+0,disease_on_genes,25,27,-0.058461538461538454
+1,disease_on_symptoms,23,22,1.173495827843654
+2,disease_on_drugs,24,27,0.457380174291939

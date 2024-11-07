@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Rhinitis nodes,sAB
+0,disease_on_genes,13,30,0.32957662492546214
+1,disease_on_symptoms,26,15,1.3282363977485927
+2,disease_on_drugs,9,22,0.7186379928315412

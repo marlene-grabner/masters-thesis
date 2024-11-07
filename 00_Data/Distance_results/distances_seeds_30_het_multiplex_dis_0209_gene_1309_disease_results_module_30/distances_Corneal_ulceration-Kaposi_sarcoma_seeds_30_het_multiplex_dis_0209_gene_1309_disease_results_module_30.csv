@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,30,-0.035098522167487656
+1,disease_on_symptoms,15,16,0.21962365591397837
+2,disease_on_drugs,23,28,-0.037997807818779705

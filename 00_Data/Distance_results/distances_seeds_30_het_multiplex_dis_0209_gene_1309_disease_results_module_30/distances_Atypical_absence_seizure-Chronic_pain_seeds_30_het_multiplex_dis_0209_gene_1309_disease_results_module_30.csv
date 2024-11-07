@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,13,19,-0.01670040485829971
+2,disease_on_drugs,22,28,-0.16389610389610398

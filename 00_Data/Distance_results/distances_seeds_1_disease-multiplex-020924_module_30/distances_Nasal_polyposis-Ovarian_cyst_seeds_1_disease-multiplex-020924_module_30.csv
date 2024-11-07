@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,15,20,0.4916666666666667
+1,disease_on_symptoms,25,22,1.3188588007736943
+2,disease_on_drugs,10,15,0.72

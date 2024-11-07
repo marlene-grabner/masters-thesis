@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,28,26,0.0
+1,disease_on_symptoms,13,23,0.810200668896321
+2,disease_on_drugs,28,26,0.09086284086284091

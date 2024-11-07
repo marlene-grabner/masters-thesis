@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,26,18,-0.13636363636363635
+1,disease_on_symptoms,17,21,1.905720182809966
+2,disease_on_drugs,25,17,-0.13204481792717104

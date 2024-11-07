@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,18,17,0.2295051353874884
+2,disease_on_drugs,26,27,-0.056334999731226354

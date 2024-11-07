@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,25,22,0.3428046421663442
+1,disease_on_symptoms,18,23,1.9468009897490282
+2,disease_on_drugs,23,20,0.8802325581395349

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,0.018924466338259283
+1,disease_on_symptoms,20,14,0.516806722689076
+2,disease_on_drugs,28,30,0.39770114942528756

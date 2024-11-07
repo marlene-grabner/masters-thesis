@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Malnutrition nodes,sAB
+0,disease_on_genes,26,30,-0.2321428571428571
+1,disease_on_symptoms,19,14,0.012531328320801949
+2,disease_on_drugs,25,29,-0.08492975734355035

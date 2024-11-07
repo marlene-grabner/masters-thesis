@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,17,15,0.15551470588235272
+2,disease_on_drugs,17,30,-0.03919482686691689

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.1579922027290449
+1,disease_on_symptoms,15,14,-0.23538587848932702
+2,disease_on_drugs,30,26,0.23159340659340644

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,20,23,0.3802578361981799
+2,disease_on_drugs,23,24,-0.04085723095898852

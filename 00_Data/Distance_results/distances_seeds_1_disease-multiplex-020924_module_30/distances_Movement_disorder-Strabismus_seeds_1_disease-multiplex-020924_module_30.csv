@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.29314251639833033
+1,disease_on_symptoms,22,26,0.6311188811188813
+2,disease_on_drugs,15,9,0.46944444444444455

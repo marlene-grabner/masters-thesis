@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Arthralgia nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,16,17,0.6576426024955437
+2,disease_on_drugs,23,30,-0.1250615258408534

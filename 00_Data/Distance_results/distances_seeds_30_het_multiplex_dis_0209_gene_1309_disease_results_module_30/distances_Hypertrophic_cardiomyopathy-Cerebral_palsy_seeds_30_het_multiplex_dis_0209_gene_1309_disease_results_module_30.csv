@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,13,0.029099190283401022
+2,disease_on_drugs,22,21,-0.34798147588845274

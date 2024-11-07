@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.2310185185185185
+1,disease_on_symptoms,17,17,1.8235294117647056
+2,disease_on_drugs,28,23,0.9250700280112045

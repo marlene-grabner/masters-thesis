@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.0862479474548441
+1,disease_on_symptoms,20,15,-0.23452380952380958
+2,disease_on_drugs,30,23,-0.022887612797374945

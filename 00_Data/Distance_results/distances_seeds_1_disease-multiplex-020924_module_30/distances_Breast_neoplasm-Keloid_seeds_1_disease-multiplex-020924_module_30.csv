@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.20454545454545459
+1,disease_on_symptoms,16,20,1.3020833333333335
+2,disease_on_drugs,30,19,0.8979591836734695

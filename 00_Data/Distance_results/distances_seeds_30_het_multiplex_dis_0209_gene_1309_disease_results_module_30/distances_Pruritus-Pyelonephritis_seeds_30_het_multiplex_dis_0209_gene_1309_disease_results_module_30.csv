@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,27,24,0.058687363834422746
+1,disease_on_symptoms,21,19,0.587218045112782
+2,disease_on_drugs,27,19,0.11471311128061679

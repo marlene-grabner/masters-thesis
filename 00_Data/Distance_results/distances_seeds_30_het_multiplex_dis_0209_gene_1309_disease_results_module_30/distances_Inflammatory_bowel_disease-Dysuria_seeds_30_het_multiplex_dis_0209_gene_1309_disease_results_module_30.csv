@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,20,12,1.3895833333333334
+2,disease_on_drugs,27,21,0.19874338624338628

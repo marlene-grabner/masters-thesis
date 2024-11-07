@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,0.16363636363636358
+1,disease_on_symptoms,19,15,1.764499484004128
+2,disease_on_drugs,24,29,1.2433176100628929

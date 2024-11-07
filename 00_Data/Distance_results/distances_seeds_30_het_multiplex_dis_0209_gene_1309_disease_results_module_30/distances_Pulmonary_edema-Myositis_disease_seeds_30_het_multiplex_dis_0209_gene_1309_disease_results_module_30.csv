@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,11,18,-0.20262974573319426
+2,disease_on_drugs,27,26,0.05220932107724541

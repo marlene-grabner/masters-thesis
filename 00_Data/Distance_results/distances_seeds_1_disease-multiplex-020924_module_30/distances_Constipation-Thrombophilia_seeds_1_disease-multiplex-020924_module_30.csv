@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.403411306042885
+1,disease_on_symptoms,17,18,1.9678804855275445
+2,disease_on_drugs,27,21,0.9130291005291007

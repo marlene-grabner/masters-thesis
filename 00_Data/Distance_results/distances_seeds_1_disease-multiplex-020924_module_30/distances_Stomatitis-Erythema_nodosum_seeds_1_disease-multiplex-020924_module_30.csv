@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.12179802955665009
+1,disease_on_symptoms,23,23,1.2826086956521738
+2,disease_on_drugs,30,28,0.36490147783251237

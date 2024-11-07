@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,0.27089421390999413
+1,disease_on_symptoms,23,17,0.5221227621483375
+2,disease_on_drugs,27,27,0.5925925925925926

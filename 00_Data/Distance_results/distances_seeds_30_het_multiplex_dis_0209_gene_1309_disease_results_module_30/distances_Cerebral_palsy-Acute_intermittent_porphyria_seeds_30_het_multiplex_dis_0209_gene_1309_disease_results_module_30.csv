@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,13,17,0.6339366515837104
+2,disease_on_drugs,21,24,-0.22797619047619055

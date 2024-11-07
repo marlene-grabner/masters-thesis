@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.051026272577996634
+1,disease_on_symptoms,17,14,0.9616427216047709
+2,disease_on_drugs,17,28,-0.14682539682539675

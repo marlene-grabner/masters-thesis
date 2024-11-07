@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,30,-0.12068965517241381
+1,disease_on_symptoms,25,18,-0.035736434108527115
+2,disease_on_drugs,24,29,-0.15202775970505322

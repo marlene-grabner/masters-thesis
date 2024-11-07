@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Keratitis nodes,sAB
+0,disease_on_genes,23,28,0.27801120448179284
+1,disease_on_symptoms,25,25,0.7600000000000002
+2,disease_on_drugs,21,23,0.48023715415019774

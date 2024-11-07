@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,16,27,0.16354435831179992
+1,disease_on_symptoms,26,20,2.463963210702341
+2,disease_on_drugs,14,25,0.41025641025641035

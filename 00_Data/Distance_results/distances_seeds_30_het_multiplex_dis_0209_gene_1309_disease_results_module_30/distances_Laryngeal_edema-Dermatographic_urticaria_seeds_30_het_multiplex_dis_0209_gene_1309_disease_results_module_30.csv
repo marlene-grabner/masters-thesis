@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.1353107344632768
+1,disease_on_symptoms,16,18,-0.34048202614379086
+2,disease_on_drugs,28,28,0.017857142857142794

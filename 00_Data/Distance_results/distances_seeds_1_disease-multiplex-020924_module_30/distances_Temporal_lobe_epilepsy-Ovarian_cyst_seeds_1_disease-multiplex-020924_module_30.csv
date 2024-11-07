@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,29,20,0.3567382125263898
+1,disease_on_symptoms,17,22,1.861065405183052
+2,disease_on_drugs,26,15,0.9051594746716698

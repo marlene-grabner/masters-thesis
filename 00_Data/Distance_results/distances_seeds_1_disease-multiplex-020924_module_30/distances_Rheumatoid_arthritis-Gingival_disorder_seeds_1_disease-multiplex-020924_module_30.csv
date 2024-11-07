@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,27,21,0.10218253968253976
+1,disease_on_symptoms,15,26,0.8515322076297687
+2,disease_on_drugs,25,20,0.4244444444444444

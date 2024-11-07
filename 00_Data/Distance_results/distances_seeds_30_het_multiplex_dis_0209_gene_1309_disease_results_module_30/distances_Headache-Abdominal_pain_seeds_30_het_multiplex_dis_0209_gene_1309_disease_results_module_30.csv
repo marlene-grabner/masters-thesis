@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.46666666666666656
+1,disease_on_symptoms,23,19,-1.012422360248447
+2,disease_on_drugs,23,29,-0.5530792296159613

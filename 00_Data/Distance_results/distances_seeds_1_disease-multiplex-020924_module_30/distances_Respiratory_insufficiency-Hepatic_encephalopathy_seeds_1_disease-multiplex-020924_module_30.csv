@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,25,9,0.5057516339869281
+1,disease_on_symptoms,20,27,2.876654846335697
+2,disease_on_drugs,14,9,0.4580745341614907

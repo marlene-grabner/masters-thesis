@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,18,19,-0.6230045835308995
+2,disease_on_drugs,26,29,-0.6072703158910057

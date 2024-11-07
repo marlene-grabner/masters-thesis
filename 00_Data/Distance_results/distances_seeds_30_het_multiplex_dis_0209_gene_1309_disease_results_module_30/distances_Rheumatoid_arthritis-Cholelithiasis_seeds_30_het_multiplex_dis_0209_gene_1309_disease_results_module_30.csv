@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.056060606060606144
+1,disease_on_symptoms,19,20,0.6641700404858302
+2,disease_on_drugs,30,18,0.28888888888888875

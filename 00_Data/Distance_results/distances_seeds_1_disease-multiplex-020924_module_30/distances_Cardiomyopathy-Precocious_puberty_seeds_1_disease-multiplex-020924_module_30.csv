@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,25,30,0.10848484848484863
+1,disease_on_symptoms,17,14,0.3120086744375168
+2,disease_on_drugs,24,24,0.3333333333333335

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,22,26,0.3162878787878787
+1,disease_on_symptoms,24,17,2.9748923959827835
+2,disease_on_drugs,13,23,1.0338164251207727

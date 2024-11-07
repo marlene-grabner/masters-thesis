@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Lymphoma nodes,sAB
+0,disease_on_genes,24,26,-0.14423076923076916
+1,disease_on_symptoms,26,21,0.2914425999532382
+2,disease_on_drugs,15,25,-0.16500000000000004

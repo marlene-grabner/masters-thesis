@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,29,28,-0.08771929824561409
+1,disease_on_symptoms,11,18,0.46595262974573304
+2,disease_on_drugs,24,27,0.15277777777777768

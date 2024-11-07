@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.10925925925925917
+1,disease_on_symptoms,18,22,0.9719696969696969
+2,disease_on_drugs,30,21,-0.15434173669467777

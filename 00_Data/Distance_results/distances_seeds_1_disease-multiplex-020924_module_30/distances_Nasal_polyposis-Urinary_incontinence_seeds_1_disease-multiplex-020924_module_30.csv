@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,15,26,0.588148843026892
+1,disease_on_symptoms,25,20,1.0250000000000001
+2,disease_on_drugs,10,20,0.3666666666666665

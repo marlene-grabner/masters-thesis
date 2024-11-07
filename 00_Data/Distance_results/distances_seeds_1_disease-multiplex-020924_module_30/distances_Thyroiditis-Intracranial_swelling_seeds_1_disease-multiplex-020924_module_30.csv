@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.2456959706959705
+1,disease_on_symptoms,28,14,0.42261904761904767
+2,disease_on_drugs,23,24,0.21274668516805417

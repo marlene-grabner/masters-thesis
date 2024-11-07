@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Urticaria nodes,sAB
+0,disease_on_genes,22,10,0.41761363636363624
+1,disease_on_symptoms,23,27,2.3050563607085346
+2,disease_on_drugs,17,9,0.40271493212669673

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,29,30,-0.44067796610169496
+1,disease_on_symptoms,20,23,-0.8290950455005054
+2,disease_on_drugs,27,29,-0.4644681627440248

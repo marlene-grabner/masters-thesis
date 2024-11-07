@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Nocturia nodes,sAB
+0,disease_on_genes,25,21,0.0797619047619047
+1,disease_on_symptoms,23,24,0.42223635522664194
+2,disease_on_drugs,19,14,0.3170995670995671

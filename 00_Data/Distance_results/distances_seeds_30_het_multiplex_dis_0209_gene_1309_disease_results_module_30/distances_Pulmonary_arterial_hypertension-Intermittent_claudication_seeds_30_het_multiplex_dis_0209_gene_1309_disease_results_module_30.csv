@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,30,0.06896551724137923
+1,disease_on_symptoms,17,14,0.08254269449715368
+2,disease_on_drugs,25,24,0.08151360544217678

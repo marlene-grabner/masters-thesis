@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.24570296203587838
+1,disease_on_symptoms,18,24,0.4553571428571428
+2,disease_on_drugs,30,16,-0.006974637681159468

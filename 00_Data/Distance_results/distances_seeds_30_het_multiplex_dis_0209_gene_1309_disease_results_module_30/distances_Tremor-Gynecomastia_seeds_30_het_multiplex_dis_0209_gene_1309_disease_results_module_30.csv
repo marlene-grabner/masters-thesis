@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,17,15,0.9571078431372548
+2,disease_on_drugs,24,29,0.23061700281934505

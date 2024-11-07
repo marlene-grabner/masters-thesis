@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,17,25,0.3775910364145658
+1,disease_on_symptoms,28,23,2.279244306418219
+2,disease_on_drugs,9,20,0.9155172413793102

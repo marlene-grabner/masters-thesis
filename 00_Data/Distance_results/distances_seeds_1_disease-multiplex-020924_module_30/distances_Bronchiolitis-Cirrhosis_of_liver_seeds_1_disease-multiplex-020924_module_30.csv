@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,23,30,0.24461307082307893
+1,disease_on_symptoms,25,14,1.2856776556776557
+2,disease_on_drugs,18,26,0.6474358974358974

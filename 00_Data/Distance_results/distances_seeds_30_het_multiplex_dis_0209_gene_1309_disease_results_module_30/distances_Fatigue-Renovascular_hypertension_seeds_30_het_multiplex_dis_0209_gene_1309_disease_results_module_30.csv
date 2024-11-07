@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,26,30,-0.3434065934065934
+1,disease_on_symptoms,16,17,0.1824866310160429
+2,disease_on_drugs,26,29,-0.5081866409452618

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333333
+1,disease_on_symptoms,20,24,0.9799242424242425
+2,disease_on_drugs,28,15,0.33925802879291256

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Keloid nodes,sAB
+0,disease_on_genes,29,22,0.25102956543118826
+1,disease_on_symptoms,17,20,2.148251192368839
+2,disease_on_drugs,26,19,1.1363247863247863

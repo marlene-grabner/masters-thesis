@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,18,0.8366946778711486
+2,disease_on_drugs,24,26,0.25724358974358985

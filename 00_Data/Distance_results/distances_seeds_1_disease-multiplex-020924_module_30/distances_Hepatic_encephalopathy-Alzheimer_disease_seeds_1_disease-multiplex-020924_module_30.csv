@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,9,20,-0.06139846743295019
+1,disease_on_symptoms,27,23,1.0080193236714974
+2,disease_on_drugs,9,18,0.9259259259259258

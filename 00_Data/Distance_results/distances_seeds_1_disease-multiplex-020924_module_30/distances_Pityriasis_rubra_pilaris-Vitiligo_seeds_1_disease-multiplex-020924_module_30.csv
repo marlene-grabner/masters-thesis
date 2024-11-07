@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Vitiligo nodes,sAB
+0,disease_on_genes,28,24,0.02083333333333348
+1,disease_on_symptoms,23,22,0.9158322353974528
+2,disease_on_drugs,26,11,-0.09251559251559238

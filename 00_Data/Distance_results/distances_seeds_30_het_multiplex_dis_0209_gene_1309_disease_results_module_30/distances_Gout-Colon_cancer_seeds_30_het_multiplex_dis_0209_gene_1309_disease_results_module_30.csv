@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,28,26,-0.07341269841269837
+1,disease_on_symptoms,19,22,0.4101703816081226
+2,disease_on_drugs,22,26,-0.06803613053613033

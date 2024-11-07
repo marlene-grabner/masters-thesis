@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.4297619047619048
+1,disease_on_symptoms,15,15,0.7000000000000002
+2,disease_on_drugs,21,15,0.8539682539682538

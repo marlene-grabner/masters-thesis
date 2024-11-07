@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,28,0.08928571428571419
+1,disease_on_symptoms,18,25,1.4939793281653744
+2,disease_on_drugs,26,23,0.34412326803631155

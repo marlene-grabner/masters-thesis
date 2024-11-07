@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,22,20,-0.24956709956709955
+2,disease_on_drugs,29,28,-0.24504148301788942

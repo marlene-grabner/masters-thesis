@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.05350877192982462
+1,disease_on_symptoms,20,22,0.5669913419913422
+2,disease_on_drugs,30,27,0.349317738791423

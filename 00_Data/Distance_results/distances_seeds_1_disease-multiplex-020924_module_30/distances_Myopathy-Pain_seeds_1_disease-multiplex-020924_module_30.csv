@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Pain nodes,sAB
+0,disease_on_genes,18,26,0.41860916860916864
+1,disease_on_symptoms,21,21,0.7857142857142858
+2,disease_on_drugs,6,26,0.3766025641025641

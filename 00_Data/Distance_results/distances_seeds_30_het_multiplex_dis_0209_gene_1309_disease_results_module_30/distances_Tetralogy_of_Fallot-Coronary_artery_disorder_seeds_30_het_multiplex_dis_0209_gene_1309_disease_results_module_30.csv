@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.07920426579163253
+1,disease_on_symptoms,19,19,0.6578947368421049
+2,disease_on_drugs,20,22,-0.14924242424242418

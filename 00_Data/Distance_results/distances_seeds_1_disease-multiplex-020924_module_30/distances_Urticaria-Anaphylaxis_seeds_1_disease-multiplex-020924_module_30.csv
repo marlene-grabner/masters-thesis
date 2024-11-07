@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,10,27,0.29579579579579574
+1,disease_on_symptoms,27,15,2.1735449735449732
+2,disease_on_drugs,9,26,0.27582417582417595

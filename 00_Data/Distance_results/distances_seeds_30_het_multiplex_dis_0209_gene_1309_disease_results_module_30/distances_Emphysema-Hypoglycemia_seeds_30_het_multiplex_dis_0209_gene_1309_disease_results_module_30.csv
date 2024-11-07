@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,19,0.5998103366524421
+2,disease_on_drugs,27,27,0.05555555555555558

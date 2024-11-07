@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,28,29,-0.1406641604010025
+1,disease_on_symptoms,19,20,0.6635290148448041
+2,disease_on_drugs,22,28,0.060324675324675336

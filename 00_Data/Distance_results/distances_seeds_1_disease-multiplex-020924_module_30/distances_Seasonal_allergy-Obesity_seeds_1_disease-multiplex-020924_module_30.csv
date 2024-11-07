@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Obesity nodes,sAB
+0,disease_on_genes,29,26,-0.03365083192669416
+1,disease_on_symptoms,15,20,0.11428571428571432
+2,disease_on_drugs,29,27,0.12429301222404665

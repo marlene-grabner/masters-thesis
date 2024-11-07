@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.07222222222222219
+1,disease_on_symptoms,17,21,0.9934394810555804
+2,disease_on_drugs,26,24,-0.09955128205128183

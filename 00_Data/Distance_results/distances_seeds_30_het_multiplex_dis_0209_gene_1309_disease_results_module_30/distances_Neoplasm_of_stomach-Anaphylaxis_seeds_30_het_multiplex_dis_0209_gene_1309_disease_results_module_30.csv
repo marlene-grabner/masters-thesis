@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,0.03840455840455825
+1,disease_on_symptoms,23,14,1.0977421520899782
+2,disease_on_drugs,24,26,0.5414743589743591

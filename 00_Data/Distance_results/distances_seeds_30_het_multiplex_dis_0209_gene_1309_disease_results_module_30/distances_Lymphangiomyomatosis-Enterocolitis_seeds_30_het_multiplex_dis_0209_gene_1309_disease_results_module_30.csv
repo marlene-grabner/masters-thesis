@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,-0.11357039187227858
+1,disease_on_symptoms,17,21,0.5855816010614774
+2,disease_on_drugs,24,25,-0.06134353741496601

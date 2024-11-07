@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,-0.16373590982286623
+1,disease_on_symptoms,25,27,-0.053532763532763594
+2,disease_on_drugs,22,26,-0.2108100233100233

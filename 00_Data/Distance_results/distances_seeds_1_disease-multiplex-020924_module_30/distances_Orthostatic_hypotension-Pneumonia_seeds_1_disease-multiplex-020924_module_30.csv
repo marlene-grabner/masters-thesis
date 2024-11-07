@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.46666666666666656
+1,disease_on_symptoms,12,26,1.2073211875843457
+2,disease_on_drugs,17,28,0.5261437908496733

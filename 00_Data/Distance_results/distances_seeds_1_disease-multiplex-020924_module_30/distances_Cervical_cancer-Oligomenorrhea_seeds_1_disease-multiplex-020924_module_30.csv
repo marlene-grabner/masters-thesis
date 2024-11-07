@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,28,0.6360269360269359
+1,disease_on_symptoms,23,12,1.731366459627329
+2,disease_on_drugs,15,21,0.6174603174603175

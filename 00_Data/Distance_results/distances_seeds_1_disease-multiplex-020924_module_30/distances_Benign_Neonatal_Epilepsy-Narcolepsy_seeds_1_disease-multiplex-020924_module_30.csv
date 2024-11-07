@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,29,25,0.2548148148148148
+1,disease_on_symptoms,16,21,2.2107062419562418
+2,disease_on_drugs,26,20,0.7141304347826087

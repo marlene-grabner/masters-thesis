@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,21,0.022486772486772333
+1,disease_on_symptoms,21,25,1.1768944099378882
+2,disease_on_drugs,27,21,0.35416666666666674

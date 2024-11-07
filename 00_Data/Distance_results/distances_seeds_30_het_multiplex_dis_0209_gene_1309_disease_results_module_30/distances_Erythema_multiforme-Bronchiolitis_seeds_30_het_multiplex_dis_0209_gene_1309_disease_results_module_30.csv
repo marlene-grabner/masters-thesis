@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,18,25,0.5695607235142117
+2,disease_on_drugs,30,24,-0.012962962962963065

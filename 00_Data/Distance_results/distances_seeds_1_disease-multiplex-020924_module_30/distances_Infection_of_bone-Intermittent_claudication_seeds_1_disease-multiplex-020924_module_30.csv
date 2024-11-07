@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.3647993311036788
+1,disease_on_symptoms,21,24,0.603373015873016
+2,disease_on_drugs,24,18,0.8263888888888888

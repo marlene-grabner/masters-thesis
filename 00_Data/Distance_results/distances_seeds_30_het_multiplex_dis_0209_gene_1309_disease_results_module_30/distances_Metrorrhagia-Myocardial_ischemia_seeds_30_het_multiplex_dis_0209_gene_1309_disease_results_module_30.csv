@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,-0.2973684210526315
+1,disease_on_symptoms,17,19,-0.39525283797729593
+2,disease_on_drugs,26,30,-0.2393772893772892

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,22,26,0.44667832167832167
+1,disease_on_symptoms,22,17,1.1100370218017277
+2,disease_on_drugs,14,18,0.8824404761904763

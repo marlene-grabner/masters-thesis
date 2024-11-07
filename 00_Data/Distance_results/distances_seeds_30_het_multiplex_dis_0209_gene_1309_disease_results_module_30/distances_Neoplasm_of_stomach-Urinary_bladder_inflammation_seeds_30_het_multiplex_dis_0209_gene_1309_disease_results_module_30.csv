@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,25,30,-0.23818181818181816
+1,disease_on_symptoms,23,16,0.2776964882943145
+2,disease_on_drugs,24,29,-0.07255747126436773

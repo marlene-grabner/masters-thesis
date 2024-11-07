@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.38586744639376214
+1,disease_on_symptoms,17,14,0.6640688533477905
+2,disease_on_drugs,17,26,0.31166473745133105

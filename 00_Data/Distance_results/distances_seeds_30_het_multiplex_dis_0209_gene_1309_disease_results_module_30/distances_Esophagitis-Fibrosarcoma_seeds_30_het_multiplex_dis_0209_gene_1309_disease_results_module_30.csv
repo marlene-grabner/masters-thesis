@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,20,14,0.132563025210084
+2,disease_on_drugs,30,26,0.08543956043956036

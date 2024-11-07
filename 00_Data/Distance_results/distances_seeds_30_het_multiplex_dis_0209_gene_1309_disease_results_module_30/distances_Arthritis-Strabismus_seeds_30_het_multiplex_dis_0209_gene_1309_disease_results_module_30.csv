@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.016270337922402955
+1,disease_on_symptoms,20,24,0.7587121212121213
+2,disease_on_drugs,29,16,0.37976532567049803

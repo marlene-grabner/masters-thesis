@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.1785714285714286
+1,disease_on_symptoms,18,27,0.8314814814814815
+2,disease_on_drugs,22,28,0.6646753246753248

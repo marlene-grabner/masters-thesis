@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,25,0.27905491698595153
+1,disease_on_symptoms,23,26,1.1120571974609241
+2,disease_on_drugs,27,21,1.1296296296296293

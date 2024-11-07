@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,0.10526315789473695
+1,disease_on_symptoms,23,18,0.32487922705314
+2,disease_on_drugs,23,24,-0.04538621646623486

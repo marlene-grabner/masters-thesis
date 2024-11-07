@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,29,0.4703583453583453
+1,disease_on_symptoms,16,17,1.2463235294117647
+2,disease_on_drugs,18,25,0.7906976744186047

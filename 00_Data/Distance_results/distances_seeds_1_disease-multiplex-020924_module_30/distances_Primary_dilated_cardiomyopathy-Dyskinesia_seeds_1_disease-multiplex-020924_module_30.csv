@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.5532407407407407
+1,disease_on_symptoms,25,17,1.909019607843137
+2,disease_on_drugs,7,23,0.7952380952380953

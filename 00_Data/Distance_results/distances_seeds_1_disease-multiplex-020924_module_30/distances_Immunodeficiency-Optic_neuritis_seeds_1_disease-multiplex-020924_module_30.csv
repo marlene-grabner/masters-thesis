@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,22,27,0.22131175702604255
+1,disease_on_symptoms,19,16,0.31395676691729335
+2,disease_on_drugs,18,27,-0.08703703703703713

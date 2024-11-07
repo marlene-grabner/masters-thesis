@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.036363636363636376
+1,disease_on_symptoms,15,19,-0.48152734778121764
+2,disease_on_drugs,26,22,-0.2453379953379955

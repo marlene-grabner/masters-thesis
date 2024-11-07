@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.11639549436795993
+1,disease_on_symptoms,14,27,1.3553039101819588
+2,disease_on_drugs,27,16,0.24930017226528833

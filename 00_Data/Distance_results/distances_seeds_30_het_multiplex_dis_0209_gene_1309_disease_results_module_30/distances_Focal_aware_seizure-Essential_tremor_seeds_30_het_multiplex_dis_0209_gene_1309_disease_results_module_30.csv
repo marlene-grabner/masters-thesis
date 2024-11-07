@@ -1,0 +1,4 @@
+,Layer,Focal_aware_seizure nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.31999999999999995
+1,disease_on_symptoms,16,23,0.18805741360089168
+2,disease_on_drugs,29,21,-0.4052545155993432

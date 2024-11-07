@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.33954802259887007
+1,disease_on_symptoms,22,18,0.05505050505050524
+2,disease_on_drugs,15,22,-0.04594594594594614

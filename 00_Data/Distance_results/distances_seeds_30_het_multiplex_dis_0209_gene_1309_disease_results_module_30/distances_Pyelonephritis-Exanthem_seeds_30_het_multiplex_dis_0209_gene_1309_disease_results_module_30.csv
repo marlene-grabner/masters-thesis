@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Exanthem nodes,sAB
+0,disease_on_genes,24,30,-0.018981481481481488
+1,disease_on_symptoms,19,21,0.33959899749373434
+2,disease_on_drugs,19,29,0.1968768905021172

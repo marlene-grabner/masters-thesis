@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Uveitis nodes,sAB
+0,disease_on_genes,17,30,0.20611180642469762
+1,disease_on_symptoms,21,21,1.6428571428571428
+2,disease_on_drugs,17,27,0.4681124975242623

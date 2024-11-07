@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,25,23,-0.33333333333333337
+1,disease_on_symptoms,19,19,0.5
+2,disease_on_drugs,23,19,-0.37724746649231766

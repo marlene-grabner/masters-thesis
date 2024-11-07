@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666685
+1,disease_on_symptoms,19,20,0.048751686909581426
+2,disease_on_drugs,20,29,-0.14794159042927513

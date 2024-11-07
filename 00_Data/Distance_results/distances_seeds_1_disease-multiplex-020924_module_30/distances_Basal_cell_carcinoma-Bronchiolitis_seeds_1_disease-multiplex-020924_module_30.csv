@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.34678520237526445
+1,disease_on_symptoms,23,25,1.5828985507246378
+2,disease_on_drugs,25,18,1.0562015503875966

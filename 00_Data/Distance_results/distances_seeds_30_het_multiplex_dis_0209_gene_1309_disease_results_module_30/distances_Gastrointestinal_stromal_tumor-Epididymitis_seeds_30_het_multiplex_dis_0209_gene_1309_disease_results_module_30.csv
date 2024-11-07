@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.0847457627118644
+1,disease_on_symptoms,19,23,0.25542116159965134
+2,disease_on_drugs,28,26,0.2761497761497762

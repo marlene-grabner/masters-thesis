@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.6103988603988604
+1,disease_on_symptoms,17,12,1.4264705882352942
+2,disease_on_drugs,18,21,0.9157509157509156

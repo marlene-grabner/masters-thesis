@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,16,16,0.875
+2,disease_on_drugs,23,23,0.673913043478261

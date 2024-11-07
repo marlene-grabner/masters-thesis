@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Uveitis nodes,sAB
+0,disease_on_genes,24,30,0.03194444444444433
+1,disease_on_symptoms,22,21,1.1388553307157956
+2,disease_on_drugs,11,27,-0.0185185185185186

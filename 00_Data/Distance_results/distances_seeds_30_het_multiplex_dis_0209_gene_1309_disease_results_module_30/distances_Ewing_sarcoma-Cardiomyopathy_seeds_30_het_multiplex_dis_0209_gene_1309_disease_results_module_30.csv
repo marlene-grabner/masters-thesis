@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.11272727272727279
+1,disease_on_symptoms,17,21,0.43402624207577767
+2,disease_on_drugs,24,24,0.10416666666666674

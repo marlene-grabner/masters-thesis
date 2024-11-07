@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,29,-0.2172413793103447
+1,disease_on_symptoms,21,13,0.3079077784960136
+2,disease_on_drugs,26,28,0.053927553927553884

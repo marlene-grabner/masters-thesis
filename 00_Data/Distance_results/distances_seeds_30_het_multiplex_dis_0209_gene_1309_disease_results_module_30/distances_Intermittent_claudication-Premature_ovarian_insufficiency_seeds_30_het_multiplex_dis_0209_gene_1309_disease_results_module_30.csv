@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,14,18,0.42013888888888884
+2,disease_on_drugs,24,22,0.32649868247694336

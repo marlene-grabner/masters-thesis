@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,27,30,0.3157894736842106
+1,disease_on_symptoms,16,16,1.625
+2,disease_on_drugs,23,21,0.5205627705627704

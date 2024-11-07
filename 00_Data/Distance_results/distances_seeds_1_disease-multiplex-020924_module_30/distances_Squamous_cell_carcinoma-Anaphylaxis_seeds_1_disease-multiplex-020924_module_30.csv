@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,16,27,0.44735142118863047
+1,disease_on_symptoms,26,15,2.3163227016885557
+2,disease_on_drugs,14,26,0.9365384615384618

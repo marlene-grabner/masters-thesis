@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,17,17,0.2352941176470591
+2,disease_on_drugs,30,17,-0.07252816020025032

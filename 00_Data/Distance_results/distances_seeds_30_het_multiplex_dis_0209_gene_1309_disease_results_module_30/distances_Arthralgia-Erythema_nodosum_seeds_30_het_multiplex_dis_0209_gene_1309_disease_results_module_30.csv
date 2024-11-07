@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,17,22,-0.3258946935417524
+2,disease_on_drugs,30,29,-0.28816481589713616

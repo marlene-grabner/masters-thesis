@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.12183235867446385
+1,disease_on_symptoms,22,20,0.5329004329004328
+2,disease_on_drugs,22,23,0.22507685551163825

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Pericarditis nodes,sAB
+0,disease_on_genes,25,26,-0.13725490196078427
+1,disease_on_symptoms,19,21,0.6520676691729326
+2,disease_on_drugs,23,26,-0.21788615111596488

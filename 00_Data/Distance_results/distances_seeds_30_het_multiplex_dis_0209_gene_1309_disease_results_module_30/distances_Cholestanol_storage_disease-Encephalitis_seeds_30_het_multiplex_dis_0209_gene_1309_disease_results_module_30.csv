@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,29,29,-0.03448275862068961
+1,disease_on_symptoms,18,13,0.0044802867383513245
+2,disease_on_drugs,28,22,-0.0007792207792207684

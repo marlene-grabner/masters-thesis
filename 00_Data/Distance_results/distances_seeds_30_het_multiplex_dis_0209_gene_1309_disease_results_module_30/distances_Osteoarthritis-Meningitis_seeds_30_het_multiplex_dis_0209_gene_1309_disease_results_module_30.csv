@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,-0.002097902097901949
+1,disease_on_symptoms,22,17,0.7484917043740573
+2,disease_on_drugs,25,27,0.07883190883190894

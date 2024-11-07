@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,14,0.6127705627705629
+1,disease_on_symptoms,17,25,2.074453781512605
+2,disease_on_drugs,17,10,0.7277777777777776

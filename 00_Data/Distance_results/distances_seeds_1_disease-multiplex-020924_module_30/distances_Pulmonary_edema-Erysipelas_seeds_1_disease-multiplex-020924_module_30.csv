@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.2573891625615765
+1,disease_on_symptoms,14,20,0.5155462184873951
+2,disease_on_drugs,27,27,0.537037037037037

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,26,29,-0.18496503496503502
+1,disease_on_symptoms,16,20,0.9666666666666666
+2,disease_on_drugs,26,27,-0.26322367360103205

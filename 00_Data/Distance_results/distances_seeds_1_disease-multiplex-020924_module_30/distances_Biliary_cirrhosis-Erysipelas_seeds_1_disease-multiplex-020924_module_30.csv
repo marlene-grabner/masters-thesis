@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,0.35317460317460325
+1,disease_on_symptoms,15,20,0.9428571428571431
+2,disease_on_drugs,15,27,0.6238095238095238

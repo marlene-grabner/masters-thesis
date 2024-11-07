@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,16,17,0.03225267379679142
+2,disease_on_drugs,29,30,-0.08505747126436791

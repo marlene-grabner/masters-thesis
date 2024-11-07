@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,22,18,0.2694444444444446
+2,disease_on_drugs,27,30,0.03771929824561404

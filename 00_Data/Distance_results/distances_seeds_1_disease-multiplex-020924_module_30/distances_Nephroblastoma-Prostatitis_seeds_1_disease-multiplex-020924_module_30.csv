@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Prostatitis nodes,sAB
+0,disease_on_genes,25,30,0.20060606060606068
+1,disease_on_symptoms,25,20,1.1683333333333332
+2,disease_on_drugs,21,29,1.0255172413793106

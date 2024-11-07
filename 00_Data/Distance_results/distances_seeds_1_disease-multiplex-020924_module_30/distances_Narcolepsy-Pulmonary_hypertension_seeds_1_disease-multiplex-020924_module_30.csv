@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,25,28,0.07308625336927221
+1,disease_on_symptoms,21,20,2.0412311265969807
+2,disease_on_drugs,20,28,0.12083333333333335

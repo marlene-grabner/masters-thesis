@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.27083333333333326
+1,disease_on_symptoms,17,27,0.5864032481679542
+2,disease_on_drugs,27,17,0.40166369578134287

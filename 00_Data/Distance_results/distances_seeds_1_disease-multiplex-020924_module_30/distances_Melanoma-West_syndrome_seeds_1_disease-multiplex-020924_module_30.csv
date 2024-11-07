@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,West_syndrome nodes,sAB
+0,disease_on_genes,24,29,0.39622641509433953
+1,disease_on_symptoms,23,18,2.0566749145752325
+2,disease_on_drugs,22,22,1.4318181818181817

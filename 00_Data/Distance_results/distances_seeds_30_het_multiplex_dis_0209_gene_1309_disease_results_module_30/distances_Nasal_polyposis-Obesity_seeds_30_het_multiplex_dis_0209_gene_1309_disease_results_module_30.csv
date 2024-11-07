@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.1257309941520468
+1,disease_on_symptoms,20,18,0.5005847953216374
+2,disease_on_drugs,25,25,0.019999999999999796

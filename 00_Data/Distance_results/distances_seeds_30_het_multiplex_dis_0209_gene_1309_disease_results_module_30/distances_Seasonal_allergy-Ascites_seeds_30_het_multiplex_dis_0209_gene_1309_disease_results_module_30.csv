@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,0.03418079096045212
+1,disease_on_symptoms,18,22,0.7636363636363637
+2,disease_on_drugs,29,27,0.10369914249224599

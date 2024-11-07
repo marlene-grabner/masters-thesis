@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,20,30,-0.08499999999999996
+1,disease_on_symptoms,23,13,-0.3206986250464512
+2,disease_on_drugs,18,29,-0.14893617021276595

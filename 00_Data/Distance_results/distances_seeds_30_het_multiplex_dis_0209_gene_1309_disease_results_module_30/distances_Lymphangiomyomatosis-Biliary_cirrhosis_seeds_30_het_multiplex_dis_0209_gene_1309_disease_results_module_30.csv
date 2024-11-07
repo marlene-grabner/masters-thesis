@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,0.09615384615384603
+1,disease_on_symptoms,17,22,0.8119429590017826
+2,disease_on_drugs,24,25,0.18396258503401364

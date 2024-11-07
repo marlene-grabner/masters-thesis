@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,19,19,-0.39473684210526305
+2,disease_on_drugs,29,30,-0.2872978764854862

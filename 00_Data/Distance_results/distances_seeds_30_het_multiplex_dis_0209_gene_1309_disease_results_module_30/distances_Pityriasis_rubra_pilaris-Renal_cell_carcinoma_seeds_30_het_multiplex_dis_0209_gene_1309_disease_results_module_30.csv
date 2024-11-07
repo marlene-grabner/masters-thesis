@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,27,27,-0.09259259259259267
+1,disease_on_symptoms,21,22,0.7618040873854826
+2,disease_on_drugs,25,22,0.04220502901353962

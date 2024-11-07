@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.1929824561403508
+1,disease_on_symptoms,17,17,0.5588235294117649
+2,disease_on_drugs,25,27,0.48290598290598297

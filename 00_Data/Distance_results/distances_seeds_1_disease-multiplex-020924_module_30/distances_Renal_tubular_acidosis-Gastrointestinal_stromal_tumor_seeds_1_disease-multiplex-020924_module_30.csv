@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,18,23,0.5152880876634851
+1,disease_on_symptoms,18,20,3.0587719298245615
+2,disease_on_drugs,10,19,0.443103448275862

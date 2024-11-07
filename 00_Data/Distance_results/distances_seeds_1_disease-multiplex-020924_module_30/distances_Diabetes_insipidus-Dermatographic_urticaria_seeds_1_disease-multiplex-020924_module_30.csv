@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,24,29,0.14897798742138346
+1,disease_on_symptoms,18,14,0.5714285714285714
+2,disease_on_drugs,18,28,0.4782608695652173

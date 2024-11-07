@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,-0.09259259259259267
+1,disease_on_symptoms,21,14,-0.09285714285714275
+2,disease_on_drugs,25,26,0.036033182503770744

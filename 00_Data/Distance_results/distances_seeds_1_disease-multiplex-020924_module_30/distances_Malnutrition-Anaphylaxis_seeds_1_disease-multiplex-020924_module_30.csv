@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.2833413965489435
+1,disease_on_symptoms,18,15,1.8111111111111113
+2,disease_on_drugs,23,26,0.5533751962323392

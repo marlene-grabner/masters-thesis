@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,21,27,-0.10482804232804233
+1,disease_on_symptoms,22,27,0.4882154882154883
+2,disease_on_drugs,21,26,-0.1174888940846388

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,-0.17842493847415897
+1,disease_on_symptoms,18,25,-0.2254005167958656
+2,disease_on_drugs,27,22,-0.2628152271009415

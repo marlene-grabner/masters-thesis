@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,20,0.09833333333333316
+1,disease_on_symptoms,14,25,0.4215018315018315
+2,disease_on_drugs,29,19,0.5723684210526314

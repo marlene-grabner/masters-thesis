@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,16,9,0.7537500000000001
+2,disease_on_drugs,28,23,0.4430641821946171

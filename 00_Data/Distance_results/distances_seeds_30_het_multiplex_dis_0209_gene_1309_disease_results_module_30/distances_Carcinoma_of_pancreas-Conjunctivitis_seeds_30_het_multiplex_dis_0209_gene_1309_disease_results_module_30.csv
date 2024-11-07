@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.03418079096045212
+1,disease_on_symptoms,18,27,0.5314814814814817
+2,disease_on_drugs,21,28,0.4234693877551021

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.21565934065934056
+1,disease_on_symptoms,22,25,-0.007717601547388986
+2,disease_on_drugs,30,25,-0.08000000000000007

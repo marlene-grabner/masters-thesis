@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.18012820512820515
+1,disease_on_symptoms,19,22,0.37772785622593075
+2,disease_on_drugs,29,25,-0.0033716475095784126

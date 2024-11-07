@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,-0.05867446393762199
+1,disease_on_symptoms,22,16,-0.12470095693779903
+2,disease_on_drugs,15,18,-0.2515151515151516

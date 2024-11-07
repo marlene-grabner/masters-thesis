@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.3666666666666667
+1,disease_on_symptoms,14,26,0.886813186813187
+2,disease_on_drugs,11,13,0.3076923076923077

@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,26,0.33667711598746064
+1,disease_on_symptoms,16,19,1.2389567669172934
+2,disease_on_drugs,23,24,0.9148743447425223

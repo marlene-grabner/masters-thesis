@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Purpura nodes,sAB
+0,disease_on_genes,30,27,-0.0185185185185186
+1,disease_on_symptoms,20,17,0.7385135135135137
+2,disease_on_drugs,29,24,-0.02191769681197142

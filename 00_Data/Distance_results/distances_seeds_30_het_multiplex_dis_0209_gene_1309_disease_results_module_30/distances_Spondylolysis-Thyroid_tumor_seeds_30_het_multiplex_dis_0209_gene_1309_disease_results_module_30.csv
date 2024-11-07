@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,28,23,0.07843137254901955
+1,disease_on_symptoms,17,20,0.6408982511923687
+2,disease_on_drugs,19,20,0.20172064777327936

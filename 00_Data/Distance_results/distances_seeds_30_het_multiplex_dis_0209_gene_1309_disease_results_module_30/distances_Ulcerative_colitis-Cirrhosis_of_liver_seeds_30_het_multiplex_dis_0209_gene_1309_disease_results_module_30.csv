@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,20,19,-0.05303643724696361
+2,disease_on_drugs,27,30,-0.06666666666666665

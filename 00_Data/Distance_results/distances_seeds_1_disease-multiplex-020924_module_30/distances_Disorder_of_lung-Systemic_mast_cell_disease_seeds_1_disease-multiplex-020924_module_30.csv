@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,0.14404305783616134
+1,disease_on_symptoms,17,16,0.35840017825311943
+2,disease_on_drugs,20,25,-0.022222222222222254

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Heartburn nodes,sAB
+0,disease_on_genes,20,24,0.02992424242424252
+1,disease_on_symptoms,25,20,0.44833333333333325
+2,disease_on_drugs,19,22,0.8026899288131637

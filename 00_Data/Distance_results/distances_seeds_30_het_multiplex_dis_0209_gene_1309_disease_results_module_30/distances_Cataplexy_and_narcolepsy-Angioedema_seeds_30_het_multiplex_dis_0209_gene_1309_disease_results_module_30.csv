@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,19,18,1.240477319424688
+2,disease_on_drugs,18,26,-0.23407148407148404

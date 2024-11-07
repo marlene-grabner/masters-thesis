@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,17,30,0.1376720901126407
+1,disease_on_symptoms,28,22,1.953961038961039
+2,disease_on_drugs,9,28,0.8199806949806951

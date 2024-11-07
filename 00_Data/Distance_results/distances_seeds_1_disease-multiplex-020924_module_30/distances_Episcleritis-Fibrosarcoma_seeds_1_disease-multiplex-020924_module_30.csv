@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,22,0.33391608391608396
+1,disease_on_symptoms,22,24,1.3191699604743081
+2,disease_on_drugs,29,13,0.5566502463054186

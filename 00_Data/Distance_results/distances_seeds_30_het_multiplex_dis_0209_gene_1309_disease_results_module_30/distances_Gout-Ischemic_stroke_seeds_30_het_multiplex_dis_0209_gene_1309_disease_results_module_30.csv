@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,-0.08682266009852213
+1,disease_on_symptoms,19,16,0.09191729323308295
+2,disease_on_drugs,22,28,0.01746753246753263

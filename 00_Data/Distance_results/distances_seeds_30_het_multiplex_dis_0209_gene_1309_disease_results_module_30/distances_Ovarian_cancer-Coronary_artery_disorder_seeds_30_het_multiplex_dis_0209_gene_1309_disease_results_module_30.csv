@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.04173913043478272
+1,disease_on_symptoms,17,19,1.1345889232886135
+2,disease_on_drugs,17,22,0.3155765802824626

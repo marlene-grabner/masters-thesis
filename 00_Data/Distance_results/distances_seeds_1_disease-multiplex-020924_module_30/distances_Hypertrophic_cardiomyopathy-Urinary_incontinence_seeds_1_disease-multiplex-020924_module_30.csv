@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,26,0.4213369963369964
+1,disease_on_symptoms,17,20,1.7092607313195551
+2,disease_on_drugs,17,20,0.7297297297297298

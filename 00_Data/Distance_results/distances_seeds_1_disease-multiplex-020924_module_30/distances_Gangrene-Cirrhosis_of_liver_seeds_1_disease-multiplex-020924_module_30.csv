@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.19761904761904758
+1,disease_on_symptoms,19,14,0.4702096149464572
+2,disease_on_drugs,23,26,0.24474438604873394

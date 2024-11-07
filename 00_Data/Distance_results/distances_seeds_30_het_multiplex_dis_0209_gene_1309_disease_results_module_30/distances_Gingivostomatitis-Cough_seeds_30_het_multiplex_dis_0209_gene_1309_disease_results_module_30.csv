@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.08684210526315783
+1,disease_on_symptoms,15,22,-0.10536445536445527
+2,disease_on_drugs,30,24,0.23703703703703716

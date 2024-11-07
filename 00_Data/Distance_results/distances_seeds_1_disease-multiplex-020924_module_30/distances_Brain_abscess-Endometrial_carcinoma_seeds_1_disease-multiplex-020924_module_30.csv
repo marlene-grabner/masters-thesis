@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,27,23,0.26070853462157806
+1,disease_on_symptoms,21,21,0.9047619047619047
+2,disease_on_drugs,23,21,0.7072275550536422

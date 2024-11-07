@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,-0.09696969696969693
+1,disease_on_symptoms,23,24,0.7408071230342279
+2,disease_on_drugs,20,24,0.02196969696969675

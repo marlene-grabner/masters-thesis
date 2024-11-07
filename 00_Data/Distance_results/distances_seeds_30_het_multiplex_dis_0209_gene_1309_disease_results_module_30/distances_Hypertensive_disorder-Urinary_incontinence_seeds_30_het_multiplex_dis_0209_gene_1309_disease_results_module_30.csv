@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,29,-0.0357142857142857
+1,disease_on_symptoms,21,20,1.0276422764227644
+2,disease_on_drugs,26,20,0.30250836120401337

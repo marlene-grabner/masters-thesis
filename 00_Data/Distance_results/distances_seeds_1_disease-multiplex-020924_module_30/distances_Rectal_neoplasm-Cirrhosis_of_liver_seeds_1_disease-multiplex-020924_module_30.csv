@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,21,14,0.611904761904762
+2,disease_on_drugs,29,26,0.3644682903303593

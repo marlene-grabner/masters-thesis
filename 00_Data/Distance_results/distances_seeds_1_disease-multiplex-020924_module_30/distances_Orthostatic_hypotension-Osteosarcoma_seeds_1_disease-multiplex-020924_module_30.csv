@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,25,0.3815151515151516
+1,disease_on_symptoms,12,24,1.6180555555555554
+2,disease_on_drugs,17,23,1.0955882352941178

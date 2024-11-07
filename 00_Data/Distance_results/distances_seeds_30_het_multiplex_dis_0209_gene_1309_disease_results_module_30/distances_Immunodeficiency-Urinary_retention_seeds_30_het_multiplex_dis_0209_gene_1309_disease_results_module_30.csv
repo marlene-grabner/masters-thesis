@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.1428571428571428
+1,disease_on_symptoms,21,16,0.8731097168597168
+2,disease_on_drugs,26,28,0.2582926332926332

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,0.03389830508474567
+1,disease_on_symptoms,20,19,0.6879892037786774
+2,disease_on_drugs,20,30,0.27333333333333343

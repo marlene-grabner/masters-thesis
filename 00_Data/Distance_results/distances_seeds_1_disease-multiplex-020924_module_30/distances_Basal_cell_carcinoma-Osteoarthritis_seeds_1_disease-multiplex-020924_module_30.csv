@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,0.1960633484162897
+1,disease_on_symptoms,23,20,1.6230535894843277
+2,disease_on_drugs,25,21,0.5869565217391304

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,22,0.1792472233648703
+2,disease_on_drugs,17,27,-0.04253317488611619

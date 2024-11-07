@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,-0.053996101364522264
+1,disease_on_symptoms,19,15,0.2544891640866873
+2,disease_on_drugs,26,22,0.35576923076923084

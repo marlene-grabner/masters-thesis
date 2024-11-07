@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,29,30,0.05141242937853119
+1,disease_on_symptoms,23,18,0.4857429009072698
+2,disease_on_drugs,26,24,0.06128205128205111

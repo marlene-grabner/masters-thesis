@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.3630769230769231
+1,disease_on_symptoms,17,23,1.7316496163682866
+2,disease_on_drugs,25,21,1.2349896480331262

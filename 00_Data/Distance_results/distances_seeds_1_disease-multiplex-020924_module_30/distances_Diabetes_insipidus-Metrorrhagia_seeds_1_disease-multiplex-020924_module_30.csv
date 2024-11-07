@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,24,27,0.1752450980392155
+1,disease_on_symptoms,18,17,0.1953781512605044
+2,disease_on_drugs,18,26,0.5069930069930071

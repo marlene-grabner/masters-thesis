@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,21,15,0.9095238095238096
+2,disease_on_drugs,25,23,0.3763043478260868

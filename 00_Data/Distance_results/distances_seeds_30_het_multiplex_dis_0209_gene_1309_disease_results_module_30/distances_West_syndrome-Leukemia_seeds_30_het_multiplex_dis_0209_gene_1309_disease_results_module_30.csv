@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,13,21,1.3248222365869422
+2,disease_on_drugs,19,30,0.8930361618331544

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,-0.12947914154810725
+1,disease_on_symptoms,16,20,0.8444444444444446
+2,disease_on_drugs,26,28,-0.03881766381766383

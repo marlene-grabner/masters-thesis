@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,14,0.7976890756302519
+2,disease_on_drugs,28,22,0.1586363636363637

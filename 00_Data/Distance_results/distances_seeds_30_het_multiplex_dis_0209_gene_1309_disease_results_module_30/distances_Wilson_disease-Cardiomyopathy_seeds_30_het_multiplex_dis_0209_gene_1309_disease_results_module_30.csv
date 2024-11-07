@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,25,25,-0.14
+1,disease_on_symptoms,19,21,-0.574874686716792
+2,disease_on_drugs,22,24,-0.19795783926218702

@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,22,22,0.3181818181818181
+2,disease_on_drugs,28,27,0.07165704665704675

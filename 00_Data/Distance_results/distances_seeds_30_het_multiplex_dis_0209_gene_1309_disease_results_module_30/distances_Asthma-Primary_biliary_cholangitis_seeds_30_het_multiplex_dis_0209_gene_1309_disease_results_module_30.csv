@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,25,26,-0.13764705882352946
+1,disease_on_symptoms,20,23,-0.07884226491405455
+2,disease_on_drugs,22,26,0.05259324009324007

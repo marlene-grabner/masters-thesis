@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,16,28,0.05681818181818188
+1,disease_on_symptoms,26,23,2.0483243464609924
+2,disease_on_drugs,14,26,0.41153846153846163

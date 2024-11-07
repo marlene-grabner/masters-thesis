@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.08587570621468932
+1,disease_on_symptoms,15,14,0.2917898193760262
+2,disease_on_drugs,27,30,0.4734892787524365

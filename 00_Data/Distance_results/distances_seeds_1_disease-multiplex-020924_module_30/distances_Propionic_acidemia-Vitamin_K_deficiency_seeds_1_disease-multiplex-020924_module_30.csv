@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,22,25,0.09148936170212751
+1,disease_on_symptoms,17,23,0.14072890025575457
+2,disease_on_drugs,21,20,0.14686411149825784

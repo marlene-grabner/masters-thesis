@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,25,29,0.3716475095785441
+1,disease_on_symptoms,26,16,1.9665750915750917
+2,disease_on_drugs,21,24,1.4444444444444446

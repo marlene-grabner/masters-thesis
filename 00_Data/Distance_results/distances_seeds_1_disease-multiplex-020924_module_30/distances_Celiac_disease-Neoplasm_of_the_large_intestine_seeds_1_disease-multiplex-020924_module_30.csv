@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,17,20,-0.08382352941176485
+1,disease_on_symptoms,22,25,-0.2025531914893618
+2,disease_on_drugs,15,19,-0.2330237358101136

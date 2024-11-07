@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,29,26,0.18557993730407518
+1,disease_on_symptoms,15,15,0.6999999999999997
+2,disease_on_drugs,29,21,0.3713300492610836

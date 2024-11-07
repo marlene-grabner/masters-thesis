@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,17,0.23051731330830205
+1,disease_on_symptoms,12,25,-0.08842342342342335
+2,disease_on_drugs,17,13,0.2987933634992459

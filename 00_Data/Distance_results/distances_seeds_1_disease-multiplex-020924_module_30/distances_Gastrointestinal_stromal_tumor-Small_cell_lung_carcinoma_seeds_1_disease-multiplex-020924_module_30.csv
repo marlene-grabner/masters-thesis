@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,23,27,-0.1286956521739131
+1,disease_on_symptoms,20,24,0.5689393939393941
+2,disease_on_drugs,19,25,0.12181818181818183

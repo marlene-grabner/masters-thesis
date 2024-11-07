@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,30,0.01662561576354693
+1,disease_on_symptoms,15,18,-0.16515151515151527
+2,disease_on_drugs,23,29,-0.016376427171029828

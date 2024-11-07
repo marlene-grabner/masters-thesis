@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,29,24,0.08197787898503561
+1,disease_on_symptoms,15,23,0.37139588100686516
+2,disease_on_drugs,29,24,0.17143786597267408

@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,25,30,-0.003939393939393909
+1,disease_on_symptoms,23,16,0.7260312151616499
+2,disease_on_drugs,21,23,0.38815170336909444

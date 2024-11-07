@@ -1,0 +1,4 @@
+,Layer,Gout nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.08559113300492616
+1,disease_on_symptoms,19,13,0.5983046558704452
+2,disease_on_drugs,22,19,0.05438207492122782

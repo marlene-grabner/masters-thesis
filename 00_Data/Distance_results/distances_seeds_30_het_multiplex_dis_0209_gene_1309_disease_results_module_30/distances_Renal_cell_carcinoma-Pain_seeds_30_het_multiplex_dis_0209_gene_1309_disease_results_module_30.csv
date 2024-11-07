@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Pain nodes,sAB
+0,disease_on_genes,27,26,-0.11285814116002801
+1,disease_on_symptoms,22,16,1.858104066985646
+2,disease_on_drugs,22,26,0.27505827505827507

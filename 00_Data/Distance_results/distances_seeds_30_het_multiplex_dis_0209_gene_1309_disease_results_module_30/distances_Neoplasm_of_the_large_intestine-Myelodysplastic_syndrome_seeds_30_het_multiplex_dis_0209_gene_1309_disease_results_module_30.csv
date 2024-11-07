@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,22,17,0.10198135198135194
+2,disease_on_drugs,29,24,-0.024154196486662505

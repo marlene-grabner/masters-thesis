@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,26,25,0.15832579185520368
+1,disease_on_symptoms,20,21,1.4833042973286876
+2,disease_on_drugs,20,20,0.15000000000000013

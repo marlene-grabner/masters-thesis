@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,26,30,0.1261904761904762
+1,disease_on_symptoms,21,15,0.8444444444444446
+2,disease_on_drugs,25,29,0.8501660280970627

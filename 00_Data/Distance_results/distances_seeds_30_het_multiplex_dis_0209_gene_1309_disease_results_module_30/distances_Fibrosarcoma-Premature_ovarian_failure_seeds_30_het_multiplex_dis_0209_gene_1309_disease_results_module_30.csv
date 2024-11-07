@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,14,15,0.06756978653530332
+2,disease_on_drugs,26,26,-0.09615384615384626

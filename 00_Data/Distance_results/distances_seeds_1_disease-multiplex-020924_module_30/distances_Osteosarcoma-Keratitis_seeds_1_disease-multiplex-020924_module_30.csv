@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,28,0.1518328840970351
+1,disease_on_symptoms,24,25,0.6162074829931972
+2,disease_on_drugs,23,23,0.32608695652173925

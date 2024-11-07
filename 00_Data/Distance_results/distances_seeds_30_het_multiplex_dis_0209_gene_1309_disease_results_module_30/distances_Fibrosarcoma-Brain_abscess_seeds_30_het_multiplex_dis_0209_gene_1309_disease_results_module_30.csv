@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,14,21,0.22619047619047628
+2,disease_on_drugs,26,23,-0.3304211316633676

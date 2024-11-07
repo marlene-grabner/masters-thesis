@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,23,27,0.3513043478260869
+1,disease_on_symptoms,20,14,1.8399159663865547
+2,disease_on_drugs,19,13,1.28125

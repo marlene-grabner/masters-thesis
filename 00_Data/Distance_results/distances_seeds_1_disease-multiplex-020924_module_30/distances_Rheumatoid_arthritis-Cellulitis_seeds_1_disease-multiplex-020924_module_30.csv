@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,22,0.25396825396825395
+1,disease_on_symptoms,15,26,1.534459036898061
+2,disease_on_drugs,25,12,0.98

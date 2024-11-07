@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.45608327911515945
+1,disease_on_symptoms,21,18,1.8446275946275947
+2,disease_on_drugs,24,19,0.6884944920440637

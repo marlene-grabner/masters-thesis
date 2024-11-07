@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615397
+1,disease_on_symptoms,19,21,1.6065162907268171
+2,disease_on_drugs,24,23,0.5323581560283686

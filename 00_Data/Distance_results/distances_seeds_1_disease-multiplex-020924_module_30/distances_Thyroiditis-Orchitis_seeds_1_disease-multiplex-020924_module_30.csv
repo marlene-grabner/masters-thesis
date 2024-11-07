@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Orchitis nodes,sAB
+0,disease_on_genes,26,23,0.392464678178964
+1,disease_on_symptoms,28,16,1.5596590909090908
+2,disease_on_drugs,23,17,0.5694373401534527

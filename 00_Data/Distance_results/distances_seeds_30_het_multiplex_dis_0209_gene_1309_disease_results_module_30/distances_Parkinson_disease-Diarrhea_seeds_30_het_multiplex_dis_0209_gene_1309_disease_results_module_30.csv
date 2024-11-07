@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Diarrhea nodes,sAB
+0,disease_on_genes,23,30,-0.13207547169811318
+1,disease_on_symptoms,23,21,0.9205721814417469
+2,disease_on_drugs,22,29,0.04244268240211446

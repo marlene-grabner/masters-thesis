@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,24,30,0.0532407407407407
+1,disease_on_symptoms,19,17,0.4007567939456482
+2,disease_on_drugs,19,30,0.06494808449695655

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666681
+1,disease_on_symptoms,19,21,0.33665413533834565
+2,disease_on_drugs,22,29,-0.15661687872641195

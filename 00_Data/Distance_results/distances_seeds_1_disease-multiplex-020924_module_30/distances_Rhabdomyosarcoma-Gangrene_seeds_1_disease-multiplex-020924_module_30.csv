@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,23,26,0.398846495119787
+1,disease_on_symptoms,24,19,1.7245512035903712
+2,disease_on_drugs,17,23,1.0532608695652175

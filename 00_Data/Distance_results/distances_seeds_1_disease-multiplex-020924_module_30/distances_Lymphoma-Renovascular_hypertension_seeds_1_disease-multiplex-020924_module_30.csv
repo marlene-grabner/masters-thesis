@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,26,21,0.06080975761826801
+1,disease_on_symptoms,21,22,1.8575958924796132
+2,disease_on_drugs,25,20,0.546111111111111

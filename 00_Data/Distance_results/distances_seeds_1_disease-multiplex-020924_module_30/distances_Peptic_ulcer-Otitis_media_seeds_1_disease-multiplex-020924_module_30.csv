@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,-0.017911157203353012
+1,disease_on_symptoms,14,22,0.36976911976911975
+2,disease_on_drugs,28,29,0.35178463399879

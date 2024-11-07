@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.1383333333333332
+1,disease_on_symptoms,20,27,0.849862096138692
+2,disease_on_drugs,30,19,0.4613139992839239

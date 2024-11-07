@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,15,0.0728682170542636
+1,disease_on_symptoms,23,27,1.307246376811594
+2,disease_on_drugs,26,13,0.42307692307692313

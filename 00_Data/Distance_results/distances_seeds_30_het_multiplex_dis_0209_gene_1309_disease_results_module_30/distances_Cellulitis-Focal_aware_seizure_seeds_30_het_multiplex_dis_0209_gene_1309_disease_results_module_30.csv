@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,20,16,0.8097222222222222
+2,disease_on_drugs,26,29,0.7609959006510731

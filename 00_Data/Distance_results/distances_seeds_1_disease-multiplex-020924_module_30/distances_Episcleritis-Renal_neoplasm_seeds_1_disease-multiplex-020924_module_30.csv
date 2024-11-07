@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.0017482517482516613
+1,disease_on_symptoms,22,25,0.6770793036750484
+2,disease_on_drugs,29,18,0.1052824651504034

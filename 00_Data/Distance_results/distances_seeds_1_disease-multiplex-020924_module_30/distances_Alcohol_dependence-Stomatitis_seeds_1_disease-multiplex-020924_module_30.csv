@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Stomatitis nodes,sAB
+0,disease_on_genes,12,30,0.4083333333333332
+1,disease_on_symptoms,27,23,1.9829629629629628
+2,disease_on_drugs,9,30,0.5581196581196579

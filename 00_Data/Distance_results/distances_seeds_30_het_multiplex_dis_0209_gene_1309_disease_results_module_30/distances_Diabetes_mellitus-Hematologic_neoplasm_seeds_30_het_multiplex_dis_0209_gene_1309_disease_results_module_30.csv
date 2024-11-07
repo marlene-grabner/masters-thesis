@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,21,30,-0.039215686274509776
+1,disease_on_symptoms,22,18,0.7106060606060605
+2,disease_on_drugs,19,27,0.07131960335621668

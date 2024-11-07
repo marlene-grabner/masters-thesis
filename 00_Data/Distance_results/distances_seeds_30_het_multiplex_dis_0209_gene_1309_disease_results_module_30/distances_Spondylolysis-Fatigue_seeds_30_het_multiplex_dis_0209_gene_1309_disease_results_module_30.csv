@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Fatigue nodes,sAB
+0,disease_on_genes,28,26,-0.11324786324786329
+1,disease_on_symptoms,17,16,0.6771390374331552
+2,disease_on_drugs,19,26,-0.19763832658569513

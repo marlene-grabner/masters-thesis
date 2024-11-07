@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,28,26,-0.07478632478632474
+1,disease_on_symptoms,16,25,0.6565243902439024
+2,disease_on_drugs,23,25,-0.05010869565217391

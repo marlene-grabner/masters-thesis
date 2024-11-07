@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Heartburn nodes,sAB
+0,disease_on_genes,25,26,-0.27450980392156865
+1,disease_on_symptoms,13,16,0.8017241379310347
+2,disease_on_drugs,21,25,-0.2860041407867496

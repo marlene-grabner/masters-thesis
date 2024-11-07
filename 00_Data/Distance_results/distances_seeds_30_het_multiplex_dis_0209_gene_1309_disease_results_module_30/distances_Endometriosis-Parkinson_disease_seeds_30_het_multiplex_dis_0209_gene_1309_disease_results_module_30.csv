@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.18647798742138355
+1,disease_on_symptoms,16,23,0.43662904124860646
+2,disease_on_drugs,30,22,-0.09545454545454546

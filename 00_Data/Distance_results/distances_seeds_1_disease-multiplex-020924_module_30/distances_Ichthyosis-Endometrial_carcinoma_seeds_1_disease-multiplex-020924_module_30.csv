@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,27,23,0.13922705314009653
+1,disease_on_symptoms,17,21,0.9910069290874246
+2,disease_on_drugs,24,21,0.5507936507936508

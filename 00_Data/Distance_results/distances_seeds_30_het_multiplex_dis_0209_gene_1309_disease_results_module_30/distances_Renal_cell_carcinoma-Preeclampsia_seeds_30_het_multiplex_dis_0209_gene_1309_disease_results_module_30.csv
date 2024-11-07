@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,27,-0.03703703703703709
+1,disease_on_symptoms,22,18,0.8452020202020205
+2,disease_on_drugs,22,22,-0.09090909090909083

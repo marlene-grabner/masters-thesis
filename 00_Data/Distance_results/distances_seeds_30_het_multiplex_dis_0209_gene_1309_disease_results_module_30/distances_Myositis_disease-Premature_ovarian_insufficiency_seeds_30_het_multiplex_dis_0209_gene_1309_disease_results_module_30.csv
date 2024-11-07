@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666681
+1,disease_on_symptoms,18,18,0.33333333333333304
+2,disease_on_drugs,26,22,-0.04982517482517479

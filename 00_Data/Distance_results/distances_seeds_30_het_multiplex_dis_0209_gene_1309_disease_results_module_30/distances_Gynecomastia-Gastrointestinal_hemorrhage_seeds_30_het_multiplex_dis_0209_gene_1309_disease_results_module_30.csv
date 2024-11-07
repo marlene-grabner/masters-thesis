@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.06958128078817727
+1,disease_on_symptoms,15,20,-0.0976190476190475
+2,disease_on_drugs,29,27,0.10625342090859324

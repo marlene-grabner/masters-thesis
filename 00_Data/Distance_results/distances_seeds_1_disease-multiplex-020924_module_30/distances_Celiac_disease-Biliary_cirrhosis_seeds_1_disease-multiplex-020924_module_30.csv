@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,17,26,0.2667578659370724
+1,disease_on_symptoms,22,15,0.5378378378378379
+2,disease_on_drugs,15,15,1.0

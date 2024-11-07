@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,26,30,-0.0535714285714286
+1,disease_on_symptoms,22,17,0.5569381598793364
+2,disease_on_drugs,24,28,-0.047161172161172216

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,22,13,1.3233266733266735
+2,disease_on_drugs,29,23,0.425498789067005

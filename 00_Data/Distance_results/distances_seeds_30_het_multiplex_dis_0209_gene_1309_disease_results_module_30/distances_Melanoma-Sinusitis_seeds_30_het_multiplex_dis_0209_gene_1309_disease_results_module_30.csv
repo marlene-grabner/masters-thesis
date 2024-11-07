@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.07076719576719559
+1,disease_on_symptoms,23,20,0.8579625884732054
+2,disease_on_drugs,25,27,0.7113105413105414

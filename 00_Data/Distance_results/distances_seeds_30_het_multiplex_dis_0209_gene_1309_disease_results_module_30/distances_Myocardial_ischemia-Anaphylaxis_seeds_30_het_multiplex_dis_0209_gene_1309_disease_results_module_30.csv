@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.22816764132553613
+1,disease_on_symptoms,19,14,0.3455798587377532
+2,disease_on_drugs,30,26,0.06968864468864466

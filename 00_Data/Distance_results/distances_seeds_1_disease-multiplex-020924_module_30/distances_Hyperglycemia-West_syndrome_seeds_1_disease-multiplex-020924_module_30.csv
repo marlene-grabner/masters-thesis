@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.4079096045197741
+1,disease_on_symptoms,14,18,1.5411706349206349
+2,disease_on_drugs,26,22,0.5833333333333333

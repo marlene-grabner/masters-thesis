@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,28,29,0.38626739261947973
+1,disease_on_symptoms,21,16,2.2105855855855854
+2,disease_on_drugs,21,24,0.819047619047619

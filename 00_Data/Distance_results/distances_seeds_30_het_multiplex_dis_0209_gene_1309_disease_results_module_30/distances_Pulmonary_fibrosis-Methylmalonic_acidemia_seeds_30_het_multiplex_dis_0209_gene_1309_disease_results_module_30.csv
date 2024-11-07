@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,25,25,-0.12
+1,disease_on_symptoms,22,17,1.4456670780200191
+2,disease_on_drugs,25,21,0.08115942028985512

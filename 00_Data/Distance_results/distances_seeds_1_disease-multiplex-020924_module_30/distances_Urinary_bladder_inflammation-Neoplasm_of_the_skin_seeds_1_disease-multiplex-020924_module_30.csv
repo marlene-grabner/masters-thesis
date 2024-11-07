@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,25,28,0.20819407008086244
+1,disease_on_symptoms,22,21,0.9710812443370582
+2,disease_on_drugs,24,24,1.2291666666666665

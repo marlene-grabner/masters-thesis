@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,25,0.27314814814814814
+1,disease_on_symptoms,17,20,1.1447535771065185
+2,disease_on_drugs,20,21,0.41579558652729376

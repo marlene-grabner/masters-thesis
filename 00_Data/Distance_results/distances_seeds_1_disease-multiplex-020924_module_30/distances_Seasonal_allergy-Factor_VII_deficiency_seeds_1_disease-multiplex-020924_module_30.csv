@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.3895530012771391
+1,disease_on_symptoms,15,23,1.5109839816933637
+2,disease_on_drugs,29,21,0.9351395730706074

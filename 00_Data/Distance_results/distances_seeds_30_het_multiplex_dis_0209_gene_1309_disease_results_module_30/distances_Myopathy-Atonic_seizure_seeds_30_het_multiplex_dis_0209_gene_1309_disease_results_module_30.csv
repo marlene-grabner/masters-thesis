@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,23,30,-0.07547169811320753
+1,disease_on_symptoms,22,15,0.043079443079443
+2,disease_on_drugs,21,23,-0.2580463015245622

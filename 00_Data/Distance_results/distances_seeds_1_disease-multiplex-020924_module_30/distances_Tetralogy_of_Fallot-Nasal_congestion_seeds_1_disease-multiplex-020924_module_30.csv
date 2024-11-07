@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,14,15,0.35533661740558253
+2,disease_on_drugs,11,23,0.2723785166240409

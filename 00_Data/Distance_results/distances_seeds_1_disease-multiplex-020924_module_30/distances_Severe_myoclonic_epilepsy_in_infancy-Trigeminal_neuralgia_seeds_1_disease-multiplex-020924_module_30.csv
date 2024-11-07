@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.015968801313628767
+1,disease_on_symptoms,16,19,0.1501879699248121
+2,disease_on_drugs,21,26,-0.08812641259449794

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.08840155945419115
+1,disease_on_symptoms,15,20,0.727380952380952
+2,disease_on_drugs,23,25,0.4157608695652173

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Nocturia nodes,sAB
+0,disease_on_genes,27,25,-0.13616557734204804
+1,disease_on_symptoms,21,18,0.8962148962148959
+2,disease_on_drugs,27,24,0.156318082788671

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,23,28,0.6427962489343564
+1,disease_on_symptoms,19,12,2.3314940577249574
+2,disease_on_drugs,19,21,1.2035714285714285

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,20,0.9584260731319554
+2,disease_on_drugs,26,26,0.46153846153846145

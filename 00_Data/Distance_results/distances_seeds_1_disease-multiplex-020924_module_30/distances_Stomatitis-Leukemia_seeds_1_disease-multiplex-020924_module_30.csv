@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.2833333333333332
+1,disease_on_symptoms,23,27,1.3962962962962964
+2,disease_on_drugs,30,17,0.8968710888610765

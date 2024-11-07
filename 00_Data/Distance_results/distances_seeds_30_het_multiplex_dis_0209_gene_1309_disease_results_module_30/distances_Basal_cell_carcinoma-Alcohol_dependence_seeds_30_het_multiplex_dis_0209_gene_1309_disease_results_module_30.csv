@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,24,18,0.0882936507936507
+2,disease_on_drugs,27,24,-0.039760348583878

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,25,30,0.036969696969696875
+1,disease_on_symptoms,18,20,0.7912280701754386
+2,disease_on_drugs,23,24,0.2562056737588654

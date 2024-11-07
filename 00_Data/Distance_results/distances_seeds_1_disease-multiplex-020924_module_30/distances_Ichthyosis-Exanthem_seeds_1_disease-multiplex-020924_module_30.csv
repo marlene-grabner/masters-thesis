@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,28,-0.25555555555555554
+1,disease_on_symptoms,17,26,-0.23766179101336404
+2,disease_on_drugs,24,28,-0.24862637362637352

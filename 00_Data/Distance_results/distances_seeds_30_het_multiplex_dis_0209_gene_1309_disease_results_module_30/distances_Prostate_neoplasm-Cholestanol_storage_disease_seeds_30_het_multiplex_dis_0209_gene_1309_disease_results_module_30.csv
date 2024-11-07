@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,21,29,-0.24105090311986865
+1,disease_on_symptoms,20,18,-0.0711988304093567
+2,disease_on_drugs,21,28,0.09013605442176886

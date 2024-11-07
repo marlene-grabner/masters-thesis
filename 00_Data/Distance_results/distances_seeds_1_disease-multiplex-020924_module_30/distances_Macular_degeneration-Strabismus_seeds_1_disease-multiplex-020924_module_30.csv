@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.5191115086463924
+1,disease_on_symptoms,15,26,0.9176672920575357
+2,disease_on_drugs,21,9,0.9206349206349205

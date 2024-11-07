@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.05303030303030298
+1,disease_on_symptoms,20,19,0.001315789473684159
+2,disease_on_drugs,30,22,0.09055944055944054

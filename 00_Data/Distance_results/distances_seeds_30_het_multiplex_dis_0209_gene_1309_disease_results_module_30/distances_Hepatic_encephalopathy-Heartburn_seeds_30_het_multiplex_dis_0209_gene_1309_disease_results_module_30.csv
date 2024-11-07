@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,14,16,0.026190476190476097
+2,disease_on_drugs,29,25,-0.015504469987228653

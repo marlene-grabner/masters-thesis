@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,22,0.3268065268065268
+1,disease_on_symptoms,17,22,1.9343205813794049
+2,disease_on_drugs,17,14,0.7960829493087558

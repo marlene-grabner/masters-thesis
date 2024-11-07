@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,0.056060606060606144
+1,disease_on_symptoms,19,19,0.2105263157894739
+2,disease_on_drugs,22,22,-2.220446049250313e-16

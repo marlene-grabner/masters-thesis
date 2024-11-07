@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,27,28,0.2538600288600288
+1,disease_on_symptoms,15,24,1.3134615384615385
+2,disease_on_drugs,25,28,0.41598382749326146

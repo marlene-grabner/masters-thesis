@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,14,14,0.07142857142857117
+2,disease_on_drugs,28,29,0.016895687494598466

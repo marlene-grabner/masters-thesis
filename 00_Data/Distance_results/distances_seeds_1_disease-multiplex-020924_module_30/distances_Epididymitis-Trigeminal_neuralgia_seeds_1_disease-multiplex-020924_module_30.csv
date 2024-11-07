@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,28,0.2976082447498054
+1,disease_on_symptoms,23,19,0.5565544295521414
+2,disease_on_drugs,27,26,0.6607133258076654

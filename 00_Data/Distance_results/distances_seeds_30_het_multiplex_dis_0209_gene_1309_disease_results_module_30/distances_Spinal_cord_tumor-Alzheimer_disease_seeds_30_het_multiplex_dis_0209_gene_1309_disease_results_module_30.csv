@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,29,23,0.0
+1,disease_on_symptoms,14,19,0.4186602870813396
+2,disease_on_drugs,22,19,-0.009686077722021347

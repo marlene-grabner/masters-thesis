@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,23,28,0.014964681524783918
+1,disease_on_symptoms,25,23,0.6601811594202898
+2,disease_on_drugs,22,28,0.25396103896103894

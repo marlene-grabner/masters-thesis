@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.3023809523809523
+1,disease_on_symptoms,16,21,-0.15584781209781218
+2,disease_on_drugs,30,25,-0.3081818181818182

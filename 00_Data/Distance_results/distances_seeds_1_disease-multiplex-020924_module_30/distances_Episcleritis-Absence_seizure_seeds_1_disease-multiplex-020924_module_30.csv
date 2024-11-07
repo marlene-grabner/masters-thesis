@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.4736995908825248
+1,disease_on_symptoms,22,16,1.9363038277511961
+2,disease_on_drugs,29,22,0.9137931034482758

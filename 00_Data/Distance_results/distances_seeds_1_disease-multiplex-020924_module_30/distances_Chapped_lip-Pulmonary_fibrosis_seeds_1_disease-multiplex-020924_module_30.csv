@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,26,24,0.13916666666666644
+1,disease_on_symptoms,21,22,1.422707137823417
+2,disease_on_drugs,24,24,0.04166666666666674

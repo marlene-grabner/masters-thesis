@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.10416666666666663
+1,disease_on_symptoms,13,21,0.8752424046541694
+2,disease_on_drugs,19,17,-0.2817337461300311

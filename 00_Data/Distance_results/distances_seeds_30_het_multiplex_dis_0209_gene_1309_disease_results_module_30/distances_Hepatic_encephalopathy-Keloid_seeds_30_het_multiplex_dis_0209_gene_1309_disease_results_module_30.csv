@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.1132075471698113
+1,disease_on_symptoms,14,17,1.3487394957983194
+2,disease_on_drugs,29,22,0.033053660335607526

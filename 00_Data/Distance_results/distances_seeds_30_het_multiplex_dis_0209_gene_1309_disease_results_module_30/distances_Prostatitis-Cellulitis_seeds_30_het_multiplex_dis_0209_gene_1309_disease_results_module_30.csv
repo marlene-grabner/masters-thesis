@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,22,20,-0.15303030303030307
+2,disease_on_drugs,28,26,-0.24241961741961748

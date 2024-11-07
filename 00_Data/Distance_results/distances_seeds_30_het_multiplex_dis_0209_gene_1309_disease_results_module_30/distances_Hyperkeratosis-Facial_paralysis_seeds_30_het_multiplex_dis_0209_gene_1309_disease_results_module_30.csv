@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,22,-0.06089743589743579
+1,disease_on_symptoms,25,21,0.8969772256728779
+2,disease_on_drugs,25,17,0.19591036414565832

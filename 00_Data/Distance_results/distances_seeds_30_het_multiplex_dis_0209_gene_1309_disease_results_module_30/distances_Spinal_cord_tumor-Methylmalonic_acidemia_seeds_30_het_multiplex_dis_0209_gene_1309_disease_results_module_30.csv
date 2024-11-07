@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,29,25,0.16666666666666674
+1,disease_on_symptoms,14,17,0.8159392789373814
+2,disease_on_drugs,22,21,0.2107117688513036

@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,18,26,0.3100233100233101
+1,disease_on_symptoms,18,18,2.3055555555555554
+2,disease_on_drugs,10,23,0.5893939393939394

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,26,-0.3846153846153846
+1,disease_on_symptoms,16,21,-0.07673745173745172
+2,disease_on_drugs,26,26,-0.5192307692307694

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,29,30,0.06779661016949157
+1,disease_on_symptoms,23,20,0.47692113245702705
+2,disease_on_drugs,26,28,0.1855413105413104

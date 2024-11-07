@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,25,30,-0.21666666666666656
+1,disease_on_symptoms,19,21,0.1514411027568925
+2,disease_on_drugs,25,29,-0.24707535121328217

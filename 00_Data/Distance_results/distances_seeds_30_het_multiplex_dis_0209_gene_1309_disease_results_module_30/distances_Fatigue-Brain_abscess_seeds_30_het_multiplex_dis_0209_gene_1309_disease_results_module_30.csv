@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,26,27,-0.3029753265602322
+1,disease_on_symptoms,16,21,0.9515765765765769
+2,disease_on_drugs,26,23,-0.43128455395536136

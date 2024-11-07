@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,25,13,0.36461538461538456
+1,disease_on_symptoms,19,26,1.6892262708052181
+2,disease_on_drugs,13,9,1.133255633255633

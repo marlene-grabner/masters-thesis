@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,0.322316384180791
+1,disease_on_symptoms,25,14,1.4995238095238093
+2,disease_on_drugs,28,26,0.6474358974358976

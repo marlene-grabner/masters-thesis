@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.15504926108374373
+1,disease_on_symptoms,13,14,1.6271876271876273
+2,disease_on_drugs,18,28,0.5548654244306419

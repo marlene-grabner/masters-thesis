@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,27,27,0.11111111111111094
+1,disease_on_symptoms,19,15,1.4144478844169246
+2,disease_on_drugs,20,25,0.3994444444444445

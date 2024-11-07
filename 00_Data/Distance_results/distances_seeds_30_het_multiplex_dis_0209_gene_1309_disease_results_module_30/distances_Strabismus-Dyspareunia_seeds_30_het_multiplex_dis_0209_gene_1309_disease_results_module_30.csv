@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,17,29,-0.1457800511508952
+1,disease_on_symptoms,24,20,0.5973484848484851
+2,disease_on_drugs,16,28,0.1960227272727273

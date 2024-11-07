@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.22062146892655377
+1,disease_on_symptoms,14,15,1.1289819376026275
+2,disease_on_drugs,29,29,0.7241379310344827

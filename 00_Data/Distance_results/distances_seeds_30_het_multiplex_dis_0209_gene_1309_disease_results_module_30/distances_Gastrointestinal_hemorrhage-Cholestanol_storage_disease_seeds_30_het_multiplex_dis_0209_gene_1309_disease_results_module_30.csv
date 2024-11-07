@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,28,29,-0.19299325900959308
+1,disease_on_symptoms,20,18,0.048538011695906436
+2,disease_on_drugs,27,28,-0.03643578643578649

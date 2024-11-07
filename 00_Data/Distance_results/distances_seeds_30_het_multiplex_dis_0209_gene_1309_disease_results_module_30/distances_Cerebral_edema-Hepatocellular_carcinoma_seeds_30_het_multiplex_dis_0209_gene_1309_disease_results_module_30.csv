@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,24,-0.11111111111111116
+1,disease_on_symptoms,10,23,0.6194993412384717
+2,disease_on_drugs,16,22,-0.07999401913875603

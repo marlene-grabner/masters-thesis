@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,20,19,0.04996626180836694
+2,disease_on_drugs,27,28,-0.12696007696007694

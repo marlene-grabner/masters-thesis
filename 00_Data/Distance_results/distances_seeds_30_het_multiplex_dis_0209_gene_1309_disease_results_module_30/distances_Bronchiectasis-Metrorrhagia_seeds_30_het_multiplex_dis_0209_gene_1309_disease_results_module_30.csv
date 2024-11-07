@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.03508771929824561
+1,disease_on_symptoms,19,17,0.16322669418644642
+2,disease_on_drugs,25,26,0.019894419306183853

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,27,29,0.23209724502827944
+1,disease_on_symptoms,17,17,2.4705882352941178
+2,disease_on_drugs,20,30,0.7

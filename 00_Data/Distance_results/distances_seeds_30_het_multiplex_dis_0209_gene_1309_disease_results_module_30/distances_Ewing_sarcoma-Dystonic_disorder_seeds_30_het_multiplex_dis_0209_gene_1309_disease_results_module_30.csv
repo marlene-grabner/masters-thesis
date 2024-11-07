@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,17,0.4411764705882355
+2,disease_on_drugs,24,26,0.3204487179487181

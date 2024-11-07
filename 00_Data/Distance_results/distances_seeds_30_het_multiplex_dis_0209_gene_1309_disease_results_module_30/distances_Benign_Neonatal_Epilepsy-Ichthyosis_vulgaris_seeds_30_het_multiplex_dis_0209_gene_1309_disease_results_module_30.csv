@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.26315789473684204
+1,disease_on_symptoms,16,21,1.5536116473616473
+2,disease_on_drugs,21,24,0.5121031746031746

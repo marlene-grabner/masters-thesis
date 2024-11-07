@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,17,26,0.20793433652530768
+1,disease_on_symptoms,21,19,1.2784461152882205
+2,disease_on_drugs,17,18,0.4276844070961716

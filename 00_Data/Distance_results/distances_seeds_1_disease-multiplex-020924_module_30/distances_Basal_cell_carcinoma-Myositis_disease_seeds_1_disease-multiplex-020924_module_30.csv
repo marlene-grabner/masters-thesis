@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,26,30,0.08910256410256401
+1,disease_on_symptoms,23,24,1.0220474868948504
+2,disease_on_drugs,25,28,0.7220350404312668

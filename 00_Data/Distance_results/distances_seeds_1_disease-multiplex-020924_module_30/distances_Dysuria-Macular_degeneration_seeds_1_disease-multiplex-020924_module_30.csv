@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.3532924215858173
+1,disease_on_symptoms,16,15,0.7282930107526884
+2,disease_on_drugs,23,21,0.9771786184829665

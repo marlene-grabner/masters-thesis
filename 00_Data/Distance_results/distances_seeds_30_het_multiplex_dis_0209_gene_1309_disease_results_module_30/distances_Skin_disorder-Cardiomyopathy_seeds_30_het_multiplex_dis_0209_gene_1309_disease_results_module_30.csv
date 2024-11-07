@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,25,25,-0.3400000000000001
+1,disease_on_symptoms,19,21,0.008020050125313372
+2,disease_on_drugs,23,24,-0.2123805118717237

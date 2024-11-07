@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,25,25,0.2999999999999998
+1,disease_on_symptoms,24,23,1.2579594511255012
+2,disease_on_drugs,23,23,1.1521739130434783

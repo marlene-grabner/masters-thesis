@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.22033898305084743
+1,disease_on_symptoms,20,19,-0.07081646423751686
+2,disease_on_drugs,27,29,-0.14043970078452828

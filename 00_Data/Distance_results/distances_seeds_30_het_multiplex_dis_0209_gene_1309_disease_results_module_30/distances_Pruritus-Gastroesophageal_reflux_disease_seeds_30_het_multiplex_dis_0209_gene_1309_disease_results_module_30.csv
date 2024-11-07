@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,27,26,-0.15095683491909906
+1,disease_on_symptoms,21,18,0.5180097680097677
+2,disease_on_drugs,27,25,0.05669515669515679

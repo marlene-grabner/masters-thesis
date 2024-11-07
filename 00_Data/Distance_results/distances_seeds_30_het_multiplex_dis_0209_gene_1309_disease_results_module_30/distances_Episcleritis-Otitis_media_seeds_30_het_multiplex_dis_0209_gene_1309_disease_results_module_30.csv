@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.051139684395090534
+1,disease_on_symptoms,18,20,0.5483918128654972
+2,disease_on_drugs,28,28,0.08928571428571441

@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.38596491228070173
+1,disease_on_symptoms,21,16,-0.9752252252252254
+2,disease_on_drugs,26,30,-0.3918498168498169

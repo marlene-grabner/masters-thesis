@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,25,27,0.2092307692307691
+1,disease_on_symptoms,25,17,1.4244257703081233
+2,disease_on_drugs,21,26,0.5572831423895255

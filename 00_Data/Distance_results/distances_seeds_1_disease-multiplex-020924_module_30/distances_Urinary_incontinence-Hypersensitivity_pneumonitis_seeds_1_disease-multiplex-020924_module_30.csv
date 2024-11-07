@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,24,0.3253846153846154
+1,disease_on_symptoms,20,23,0.920753286147624
+2,disease_on_drugs,20,24,0.6818181818181819

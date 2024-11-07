@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,12,28,0.28333333333333344
+1,disease_on_symptoms,27,12,2.0462962962962963
+2,disease_on_drugs,9,21,0.8507936507936507

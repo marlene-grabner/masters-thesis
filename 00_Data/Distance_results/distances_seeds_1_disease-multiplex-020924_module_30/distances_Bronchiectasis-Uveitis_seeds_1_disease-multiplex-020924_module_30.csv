@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,15,21,0.09047619047619038
+2,disease_on_drugs,26,27,-0.13245175509326446

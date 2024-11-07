@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.5587962962962962
+1,disease_on_symptoms,13,17,2.2259426847662143
+2,disease_on_drugs,18,23,1.2337398373983737

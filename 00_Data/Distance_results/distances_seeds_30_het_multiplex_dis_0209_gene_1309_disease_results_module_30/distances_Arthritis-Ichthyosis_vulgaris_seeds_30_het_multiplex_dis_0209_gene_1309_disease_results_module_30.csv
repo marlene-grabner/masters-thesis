@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,20,21,0.5064750290360047
+2,disease_on_drugs,29,24,-0.01663142485361102

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,24,27,0.11873638344226567
+1,disease_on_symptoms,23,23,1.3260869565217392
+2,disease_on_drugs,22,15,0.016216216216216273

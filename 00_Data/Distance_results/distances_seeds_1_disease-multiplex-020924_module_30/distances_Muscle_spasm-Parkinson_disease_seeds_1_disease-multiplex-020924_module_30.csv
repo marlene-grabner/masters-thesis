@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,25,21,-0.2759834368530021
+1,disease_on_symptoms,23,20,0.0512133468149647
+2,disease_on_drugs,19,19,-0.10526315789473684

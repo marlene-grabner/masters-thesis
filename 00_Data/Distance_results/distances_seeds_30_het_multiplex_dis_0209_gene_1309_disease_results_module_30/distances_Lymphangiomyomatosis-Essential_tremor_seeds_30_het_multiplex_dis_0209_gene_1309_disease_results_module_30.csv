@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,-0.189443535188216
+1,disease_on_symptoms,17,23,0.6384910485933504
+2,disease_on_drugs,24,21,-0.04265873015873023

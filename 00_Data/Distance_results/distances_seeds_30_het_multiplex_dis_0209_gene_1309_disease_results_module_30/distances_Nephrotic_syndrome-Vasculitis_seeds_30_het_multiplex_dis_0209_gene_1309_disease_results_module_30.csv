@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,15,18,0.6459595959595958
+2,disease_on_drugs,28,26,0.11080586080586063

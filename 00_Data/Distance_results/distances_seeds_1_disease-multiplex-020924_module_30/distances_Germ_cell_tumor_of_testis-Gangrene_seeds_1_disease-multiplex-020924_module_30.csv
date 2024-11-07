@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.28301886792452824
+1,disease_on_symptoms,23,19,1.45096436744034
+2,disease_on_drugs,20,23,1.071284125379171

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,17,30,-0.22903629536921155
+1,disease_on_symptoms,24,17,0.21553682448589195
+2,disease_on_drugs,16,25,-0.03234756097560987

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,28,0.29421182266009827
+1,disease_on_symptoms,19,14,1.3388585099111416
+2,disease_on_drugs,28,24,0.8653846153846154

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,24,26,-0.36250000000000004
+1,disease_on_symptoms,25,20,-0.5805555555555554
+2,disease_on_drugs,17,25,-0.47619047619047616

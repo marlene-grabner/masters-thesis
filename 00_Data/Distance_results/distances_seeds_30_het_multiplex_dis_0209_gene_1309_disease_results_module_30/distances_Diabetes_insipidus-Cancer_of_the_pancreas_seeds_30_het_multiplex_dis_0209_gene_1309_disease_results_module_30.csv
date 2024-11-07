@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,20,23,0.2456521739130435
+2,disease_on_drugs,20,30,0.16999999999999993

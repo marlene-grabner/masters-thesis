@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,-0.061574074074074225
+1,disease_on_symptoms,17,17,0.47058823529411753
+2,disease_on_drugs,26,23,0.22448979591836737

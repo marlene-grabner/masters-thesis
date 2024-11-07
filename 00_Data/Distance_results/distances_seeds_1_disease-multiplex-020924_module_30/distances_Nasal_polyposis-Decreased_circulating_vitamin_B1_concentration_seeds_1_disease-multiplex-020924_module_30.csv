@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,15,25,0.6016666666666666
+1,disease_on_symptoms,25,13,2.8040485829959514
+2,disease_on_drugs,10,16,0.33509615384615365

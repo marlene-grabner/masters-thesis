@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,17,0.43249054007567933
+2,disease_on_drugs,24,25,0.18229591836734693

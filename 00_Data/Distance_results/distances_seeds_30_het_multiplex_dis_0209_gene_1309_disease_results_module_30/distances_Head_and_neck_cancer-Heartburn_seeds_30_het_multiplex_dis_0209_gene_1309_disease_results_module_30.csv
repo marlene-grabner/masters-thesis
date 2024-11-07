@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,0.018867924528301883
+1,disease_on_symptoms,22,16,0.36124401913875603
+2,disease_on_drugs,23,25,0.27054347826086955

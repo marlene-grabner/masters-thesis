@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,27,29,0.036193212917351
+1,disease_on_symptoms,17,15,0.32647058823529407
+2,disease_on_drugs,24,29,0.1525699414443722

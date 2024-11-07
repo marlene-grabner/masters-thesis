@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.06587561374795414
+1,disease_on_symptoms,20,23,0.634934277047523
+2,disease_on_drugs,20,21,-0.12514518002322883

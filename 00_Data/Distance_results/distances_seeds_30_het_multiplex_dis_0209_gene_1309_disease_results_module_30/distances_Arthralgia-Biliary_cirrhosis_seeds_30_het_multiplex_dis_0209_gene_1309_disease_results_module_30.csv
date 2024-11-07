@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.019230769230769162
+1,disease_on_symptoms,17,22,1.174688057040998
+2,disease_on_drugs,30,25,0.11727272727272742

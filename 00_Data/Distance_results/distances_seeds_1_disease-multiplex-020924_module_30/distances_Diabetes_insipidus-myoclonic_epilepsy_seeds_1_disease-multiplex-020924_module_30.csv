@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,24,30,0.4087962962962963
+1,disease_on_symptoms,18,16,1.395220588235294
+2,disease_on_drugs,18,23,0.8128313891834571

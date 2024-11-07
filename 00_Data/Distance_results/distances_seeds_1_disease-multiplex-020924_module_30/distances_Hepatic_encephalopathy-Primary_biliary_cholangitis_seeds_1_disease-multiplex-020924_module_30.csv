@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,9,26,0.3601343101343102
+1,disease_on_symptoms,27,17,1.9062685680332738
+2,disease_on_drugs,9,18,0.462962962962963

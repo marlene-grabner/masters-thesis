@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.22348111658456493
+1,disease_on_symptoms,15,21,0.45952380952380945
+2,disease_on_drugs,26,28,0.44434269434269447

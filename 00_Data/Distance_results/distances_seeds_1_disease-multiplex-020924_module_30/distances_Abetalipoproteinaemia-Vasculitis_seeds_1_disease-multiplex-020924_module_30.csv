@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,17,24,0.4131695361071257
+1,disease_on_symptoms,25,19,1.6705263157894736
+2,disease_on_drugs,13,20,0.5175990675990674

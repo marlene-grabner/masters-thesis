@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,28,26,0.05881155881155875
+1,disease_on_symptoms,14,21,1.4214285714285713
+2,disease_on_drugs,28,24,1.2692307692307692

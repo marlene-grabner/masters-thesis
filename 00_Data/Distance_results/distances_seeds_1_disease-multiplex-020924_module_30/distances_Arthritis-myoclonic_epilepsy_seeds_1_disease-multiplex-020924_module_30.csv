@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.41666666666666674
+1,disease_on_symptoms,19,16,1.7228853383458647
+2,disease_on_drugs,29,23,0.8061353938415408

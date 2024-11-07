@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,19,19,0.605263157894737
+2,disease_on_drugs,22,29,0.2872641219497203

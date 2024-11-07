@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.27202982202982207
+1,disease_on_symptoms,19,20,1.2771929824561403
+2,disease_on_drugs,20,27,0.5707446808510639

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.2892307692307693
+1,disease_on_symptoms,22,26,-0.2124125874125875
+2,disease_on_drugs,26,24,-0.32025641025641016

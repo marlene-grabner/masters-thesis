@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,19,16,0.31390977443609014
+2,disease_on_drugs,24,25,0.26311224489795904

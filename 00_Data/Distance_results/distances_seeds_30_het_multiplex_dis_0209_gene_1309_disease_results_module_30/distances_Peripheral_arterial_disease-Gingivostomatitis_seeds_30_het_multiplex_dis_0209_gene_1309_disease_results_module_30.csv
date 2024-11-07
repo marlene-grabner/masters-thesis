@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.03452380952380951
+1,disease_on_symptoms,17,15,-0.040931372549019684
+2,disease_on_drugs,24,30,0.003240740740740655

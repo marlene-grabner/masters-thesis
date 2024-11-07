@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,0.43333333333333335
+1,disease_on_symptoms,13,16,0.5402851458885942
+2,disease_on_drugs,18,24,0.44940476190476186

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.2962962962962963
+1,disease_on_symptoms,20,21,1.5119628339140534
+2,disease_on_drugs,20,21,0.48583042973286883

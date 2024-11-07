@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,27,0.07407407407407396
+1,disease_on_symptoms,21,17,1.4917440660474717
+2,disease_on_drugs,27,26,0.7358221792184056

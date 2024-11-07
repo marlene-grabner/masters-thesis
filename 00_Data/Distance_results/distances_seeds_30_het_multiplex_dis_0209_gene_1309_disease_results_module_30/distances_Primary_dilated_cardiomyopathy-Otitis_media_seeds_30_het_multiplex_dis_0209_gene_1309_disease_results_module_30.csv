@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.40648743424897726
+1,disease_on_symptoms,24,20,0.7731060606060605
+2,disease_on_drugs,15,28,0.43934108527131777

@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,20,22,0.2914343786295004
+1,disease_on_symptoms,18,20,2.2940058479532164
+2,disease_on_drugs,19,19,1.3157894736842106

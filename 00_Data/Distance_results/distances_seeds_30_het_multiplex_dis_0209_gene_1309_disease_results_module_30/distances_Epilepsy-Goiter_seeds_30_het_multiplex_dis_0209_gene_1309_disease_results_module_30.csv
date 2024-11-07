@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.0011904761904761862
+1,disease_on_symptoms,21,12,1.6953463203463206
+2,disease_on_drugs,29,18,0.5195850656232168

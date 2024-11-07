@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,29,0.4908005787316132
+1,disease_on_symptoms,17,16,1.6954099821746882
+2,disease_on_drugs,18,24,0.6666666666666667

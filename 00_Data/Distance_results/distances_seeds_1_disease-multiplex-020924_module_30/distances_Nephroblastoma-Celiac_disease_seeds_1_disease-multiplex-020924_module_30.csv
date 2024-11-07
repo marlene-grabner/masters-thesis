@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,25,17,0.33355742296918756
+1,disease_on_symptoms,25,22,2.0727659574468085
+2,disease_on_drugs,21,15,0.4388888888888891

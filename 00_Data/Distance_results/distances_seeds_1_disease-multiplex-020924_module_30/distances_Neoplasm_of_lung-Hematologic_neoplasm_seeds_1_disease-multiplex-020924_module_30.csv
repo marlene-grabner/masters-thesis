@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.02179487179487194
+1,disease_on_symptoms,20,24,0.2617424242424242
+2,disease_on_drugs,30,19,-0.06070533476548512

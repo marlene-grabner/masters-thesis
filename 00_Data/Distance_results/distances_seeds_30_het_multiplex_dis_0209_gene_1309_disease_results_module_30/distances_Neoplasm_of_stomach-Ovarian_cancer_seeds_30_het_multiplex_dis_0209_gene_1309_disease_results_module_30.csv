@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,25,27,-0.4046153846153846
+1,disease_on_symptoms,23,17,-0.24942455242966743
+2,disease_on_drugs,24,17,-0.4160987565758011

@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.1272727272727272
+1,disease_on_symptoms,19,20,1.0486842105263157
+2,disease_on_drugs,25,21,0.025962732919254883

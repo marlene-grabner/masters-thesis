@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,18,24,0.32638888888888884
+2,disease_on_drugs,28,27,0.01780904280904272

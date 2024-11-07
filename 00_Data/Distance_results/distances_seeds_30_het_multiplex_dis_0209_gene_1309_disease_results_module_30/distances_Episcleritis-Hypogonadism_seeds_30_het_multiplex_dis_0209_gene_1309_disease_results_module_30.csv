@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,17,-0.03076563958916889
+2,disease_on_drugs,28,29,-0.0003889032927146818

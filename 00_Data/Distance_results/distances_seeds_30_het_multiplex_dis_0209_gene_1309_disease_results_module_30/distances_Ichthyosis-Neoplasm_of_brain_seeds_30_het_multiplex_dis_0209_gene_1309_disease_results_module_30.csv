@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,28,30,0.017200328407224852
+1,disease_on_symptoms,18,19,0.809427848901533
+2,disease_on_drugs,25,29,0.38699872286079184

@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,24,22,0.2873015873015874
+1,disease_on_symptoms,23,20,1.69866026289181
+2,disease_on_drugs,24,19,0.9008567931456546

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,23,20,0.2783872598584429
+1,disease_on_symptoms,25,24,0.18151360544217665
+2,disease_on_drugs,22,18,0.6707070707070706

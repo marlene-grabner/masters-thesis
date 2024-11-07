@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Peritonitis nodes,sAB
+0,disease_on_genes,14,30,0.5915584415584416
+1,disease_on_symptoms,25,17,2.1808963585434173
+2,disease_on_drugs,10,28,0.9142857142857141

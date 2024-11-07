@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,21,23,0.8717767739506868
+2,disease_on_drugs,27,23,0.7258293075684379

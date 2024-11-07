@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,25,27,-0.31000000000000005
+1,disease_on_symptoms,25,24,-0.450374149659864
+2,disease_on_drugs,21,25,-0.3860869565217392

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.4642857142857144
+1,disease_on_symptoms,14,17,0.8641230685822716
+2,disease_on_drugs,27,18,0.6296296296296295

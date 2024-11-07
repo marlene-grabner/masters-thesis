@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,22,27,0.26487665773380065
+1,disease_on_symptoms,24,18,2.2251984126984126
+2,disease_on_drugs,20,21,1.0493321718931474

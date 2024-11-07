@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,0.08771929824561409
+1,disease_on_symptoms,18,11,0.6604841518634621
+2,disease_on_drugs,22,21,-0.048827141850397826

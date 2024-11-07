@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,25,23,0.3772826086956522
+1,disease_on_symptoms,16,21,1.826093951093951
+2,disease_on_drugs,17,21,1.2412649270234408

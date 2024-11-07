@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.12083333333333335
+1,disease_on_symptoms,14,21,2.723809523809524
+2,disease_on_drugs,26,17,0.3071135430916552

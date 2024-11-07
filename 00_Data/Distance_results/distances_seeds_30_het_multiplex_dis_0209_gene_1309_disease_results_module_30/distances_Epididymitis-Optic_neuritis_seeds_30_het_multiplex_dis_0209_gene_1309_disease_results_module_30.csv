@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,29,27,-0.0535714285714286
+1,disease_on_symptoms,23,21,0.2683512140033881
+2,disease_on_drugs,26,27,-0.020346180723539442

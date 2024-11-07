@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Sarcoma nodes,sAB
+0,disease_on_genes,21,30,-0.18067226890756294
+1,disease_on_symptoms,20,23,-0.4464863498483317
+2,disease_on_drugs,21,24,-0.3253968253968256

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.23545454545454536
+1,disease_on_symptoms,17,21,1.6671089488426953
+2,disease_on_drugs,27,20,0.3367021276595745

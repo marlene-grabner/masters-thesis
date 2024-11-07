@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,12,16,0.20386904761904767
+2,disease_on_drugs,29,28,-0.19333895082533925

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.19349816849816825
+1,disease_on_symptoms,17,21,2.1218487394957983
+2,disease_on_drugs,20,27,0.34318360914105583

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,0.17543859649122817
+1,disease_on_symptoms,21,20,0.7272357723577239
+2,disease_on_drugs,23,26,-0.005067913453006723

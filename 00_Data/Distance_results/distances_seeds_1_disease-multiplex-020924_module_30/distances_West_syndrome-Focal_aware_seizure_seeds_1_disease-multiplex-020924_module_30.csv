@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.5862068965517242
+1,disease_on_symptoms,18,15,-0.8707070707070708
+2,disease_on_drugs,22,29,-0.6666666666666667

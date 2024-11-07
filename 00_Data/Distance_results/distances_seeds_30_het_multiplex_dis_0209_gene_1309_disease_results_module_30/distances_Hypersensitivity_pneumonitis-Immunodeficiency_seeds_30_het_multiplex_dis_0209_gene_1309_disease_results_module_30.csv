@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,25,26,-0.07843137254901966
+1,disease_on_symptoms,20,21,-0.22122531939605117
+2,disease_on_drugs,25,26,0.0006938159879334993

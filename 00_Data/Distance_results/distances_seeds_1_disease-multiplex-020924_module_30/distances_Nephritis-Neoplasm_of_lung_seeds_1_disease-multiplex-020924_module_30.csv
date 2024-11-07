@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,20,0.7676900584795323
+2,disease_on_drugs,27,30,0.5574074074074076

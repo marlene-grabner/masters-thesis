@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,18,-0.2966650861387705
+2,disease_on_drugs,24,21,-0.0017857142857145014

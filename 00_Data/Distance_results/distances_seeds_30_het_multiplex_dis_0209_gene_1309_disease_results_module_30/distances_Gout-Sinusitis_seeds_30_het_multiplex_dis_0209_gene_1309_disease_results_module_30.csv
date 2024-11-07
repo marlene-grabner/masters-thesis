@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Sinusitis nodes,sAB
+0,disease_on_genes,28,29,-0.052944862155388406
+1,disease_on_symptoms,19,20,0.3801956815114711
+2,disease_on_drugs,22,27,-0.010994296708582318

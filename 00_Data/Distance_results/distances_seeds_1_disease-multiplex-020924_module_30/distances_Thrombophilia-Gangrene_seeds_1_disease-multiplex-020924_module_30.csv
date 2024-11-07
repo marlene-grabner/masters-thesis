@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.207896575821104
+1,disease_on_symptoms,18,19,1.9756598703967125
+2,disease_on_drugs,21,23,0.15791454921889714

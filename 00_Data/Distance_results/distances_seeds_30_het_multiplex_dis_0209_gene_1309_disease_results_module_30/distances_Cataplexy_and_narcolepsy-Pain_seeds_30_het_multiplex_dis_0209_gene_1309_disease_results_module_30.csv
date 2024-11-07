@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Pain nodes,sAB
+0,disease_on_genes,25,26,-0.196078431372549
+1,disease_on_symptoms,19,16,1.9302161654135337
+2,disease_on_drugs,18,26,-0.12393162393162394

@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,25,27,0.36378917378917364
+1,disease_on_symptoms,23,27,1.6796779388083736
+2,disease_on_drugs,21,26,1.190515158600265

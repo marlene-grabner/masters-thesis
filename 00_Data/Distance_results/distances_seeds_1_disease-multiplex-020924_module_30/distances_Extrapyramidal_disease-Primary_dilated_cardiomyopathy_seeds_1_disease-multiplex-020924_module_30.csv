@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,14,30,0.7824675324675325
+1,disease_on_symptoms,25,25,4.319999999999999
+2,disease_on_drugs,10,7,0.584453781512605

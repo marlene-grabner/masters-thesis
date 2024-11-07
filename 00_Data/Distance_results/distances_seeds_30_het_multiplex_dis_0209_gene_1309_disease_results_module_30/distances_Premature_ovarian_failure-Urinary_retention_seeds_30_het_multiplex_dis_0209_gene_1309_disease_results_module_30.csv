@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,15,16,0.9928091397849463
+2,disease_on_drugs,26,28,0.10729548229548236

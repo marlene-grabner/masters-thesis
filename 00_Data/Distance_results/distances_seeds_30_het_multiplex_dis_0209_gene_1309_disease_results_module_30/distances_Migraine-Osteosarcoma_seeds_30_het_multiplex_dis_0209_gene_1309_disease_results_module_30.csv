@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,12,22,0.3400178253119428
+2,disease_on_drugs,29,29,-0.0862068965517242

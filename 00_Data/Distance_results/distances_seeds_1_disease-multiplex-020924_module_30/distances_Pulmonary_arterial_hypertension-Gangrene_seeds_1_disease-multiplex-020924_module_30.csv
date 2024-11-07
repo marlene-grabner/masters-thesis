@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,26,-0.03637566137566128
+1,disease_on_symptoms,18,19,0.2677019124387545
+2,disease_on_drugs,26,23,0.020254590130366568

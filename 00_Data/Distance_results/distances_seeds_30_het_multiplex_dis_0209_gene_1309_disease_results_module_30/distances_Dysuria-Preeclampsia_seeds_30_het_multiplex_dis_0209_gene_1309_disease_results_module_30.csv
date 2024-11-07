@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.21052631578947367
+1,disease_on_symptoms,12,18,1.4444444444444446
+2,disease_on_drugs,21,22,0.11230242625591469

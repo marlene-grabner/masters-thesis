@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Exanthem nodes,sAB
+0,disease_on_genes,24,28,0.08814102564102577
+1,disease_on_symptoms,20,26,0.6459030100334449
+2,disease_on_drugs,22,28,0.15941558441558423

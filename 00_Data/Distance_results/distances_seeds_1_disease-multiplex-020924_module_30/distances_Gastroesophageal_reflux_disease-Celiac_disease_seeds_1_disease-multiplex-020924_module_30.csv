@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,17,0.2435020519835842
+1,disease_on_symptoms,17,22,1.0429864253393664
+2,disease_on_drugs,25,15,0.6216666666666668

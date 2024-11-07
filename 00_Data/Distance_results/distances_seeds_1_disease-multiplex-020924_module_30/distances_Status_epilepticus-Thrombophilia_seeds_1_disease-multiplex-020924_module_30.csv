@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,29,27,0.35709724502827944
+1,disease_on_symptoms,17,18,2.1393090569561157
+2,disease_on_drugs,30,21,0.8347338935574229

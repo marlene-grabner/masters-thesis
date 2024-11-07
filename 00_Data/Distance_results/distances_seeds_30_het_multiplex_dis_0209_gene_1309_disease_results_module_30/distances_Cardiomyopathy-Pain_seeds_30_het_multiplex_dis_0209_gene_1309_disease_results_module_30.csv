@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Pain nodes,sAB
+0,disease_on_genes,25,26,-0.09882352941176475
+1,disease_on_symptoms,21,16,0.6648568211068211
+2,disease_on_drugs,24,26,0.060512820512820475

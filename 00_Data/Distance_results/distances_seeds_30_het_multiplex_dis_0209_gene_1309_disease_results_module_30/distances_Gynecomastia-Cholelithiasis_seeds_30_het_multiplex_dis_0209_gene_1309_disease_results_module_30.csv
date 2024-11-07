@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,-0.07272727272727275
+1,disease_on_symptoms,15,20,0.23095238095238102
+2,disease_on_drugs,29,18,0.08105078666340604

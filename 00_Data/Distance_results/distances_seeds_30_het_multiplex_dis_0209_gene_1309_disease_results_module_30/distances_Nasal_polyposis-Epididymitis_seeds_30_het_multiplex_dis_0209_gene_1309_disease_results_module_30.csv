@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,20,23,0.013549039433771393
+2,disease_on_drugs,25,26,-0.1746003016591252

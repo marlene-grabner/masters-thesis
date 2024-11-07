@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,26,29,-0.1101398601398601
+1,disease_on_symptoms,17,20,0.7052066772655006
+2,disease_on_drugs,24,27,0.10253267973856217

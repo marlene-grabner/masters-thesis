@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,23,21,0.3954921889704499
+2,disease_on_drugs,29,24,0.07608165256994126

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.13763197586727016
+1,disease_on_symptoms,21,26,1.241777725820279
+2,disease_on_drugs,23,21,0.4772727272727273

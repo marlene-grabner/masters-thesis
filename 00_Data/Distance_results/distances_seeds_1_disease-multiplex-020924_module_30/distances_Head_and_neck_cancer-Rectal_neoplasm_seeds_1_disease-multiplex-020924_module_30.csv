@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.5097465886939572
+1,disease_on_symptoms,22,21,-0.8363284002818886
+2,disease_on_drugs,24,29,-0.49124376490999777

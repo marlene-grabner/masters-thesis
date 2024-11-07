@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,20,14,-0.09705882352941164
+2,disease_on_drugs,28,24,0.017628205128205066

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,20,27,0.10817572892040972
+1,disease_on_symptoms,24,21,1.0045634920634918
+2,disease_on_drugs,18,27,0.15000000000000013

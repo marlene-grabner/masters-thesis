@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.06818181818181834
+1,disease_on_symptoms,7,18,1.5558730158730159
+2,disease_on_drugs,22,18,-0.11136363636363633

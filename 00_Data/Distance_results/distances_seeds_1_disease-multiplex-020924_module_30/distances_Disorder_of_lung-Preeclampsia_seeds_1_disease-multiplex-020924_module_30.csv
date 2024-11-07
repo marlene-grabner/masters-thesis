@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,26,0.3022361984626134
+1,disease_on_symptoms,17,17,2.588235294117647
+2,disease_on_drugs,20,23,0.4898887765419615

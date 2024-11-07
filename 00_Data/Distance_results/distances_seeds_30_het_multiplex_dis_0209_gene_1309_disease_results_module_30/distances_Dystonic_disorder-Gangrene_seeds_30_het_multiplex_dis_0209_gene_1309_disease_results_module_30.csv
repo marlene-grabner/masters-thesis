@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,17,22,0.06441107911696164
+2,disease_on_drugs,26,27,0.15121217008009435

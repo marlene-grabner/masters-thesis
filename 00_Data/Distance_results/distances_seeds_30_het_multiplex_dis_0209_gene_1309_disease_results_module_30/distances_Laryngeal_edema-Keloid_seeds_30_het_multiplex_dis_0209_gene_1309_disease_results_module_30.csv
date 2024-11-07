@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.3751572327044025
+1,disease_on_symptoms,16,17,0.18031417112299475
+2,disease_on_drugs,28,22,-0.4077272727272727

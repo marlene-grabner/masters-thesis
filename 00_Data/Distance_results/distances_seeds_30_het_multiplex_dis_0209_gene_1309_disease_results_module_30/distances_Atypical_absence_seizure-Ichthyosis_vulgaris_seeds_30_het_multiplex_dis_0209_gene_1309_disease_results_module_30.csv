@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.2807017543859649
+1,disease_on_symptoms,13,21,1.6353156647274296
+2,disease_on_drugs,22,24,0.8258399209486165

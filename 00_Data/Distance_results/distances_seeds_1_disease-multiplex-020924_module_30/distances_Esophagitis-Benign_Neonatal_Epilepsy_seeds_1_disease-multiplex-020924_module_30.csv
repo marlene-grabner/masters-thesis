@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,24,29,0.2065217391304348
+1,disease_on_symptoms,23,16,1.856152452619844
+2,disease_on_drugs,20,26,1.1271739130434781

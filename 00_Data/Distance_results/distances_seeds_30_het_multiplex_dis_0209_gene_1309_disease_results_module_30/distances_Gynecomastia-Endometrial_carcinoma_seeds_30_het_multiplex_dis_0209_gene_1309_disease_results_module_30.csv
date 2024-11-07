@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,15,21,0.24603174603174605
+2,disease_on_drugs,29,26,0.0540028936580661

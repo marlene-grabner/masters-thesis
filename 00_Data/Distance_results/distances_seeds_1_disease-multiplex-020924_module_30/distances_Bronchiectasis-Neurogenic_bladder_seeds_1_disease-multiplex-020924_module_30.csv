@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.13333333333333353
+1,disease_on_symptoms,15,17,0.7792892156862745
+2,disease_on_drugs,26,26,0.4423076923076925

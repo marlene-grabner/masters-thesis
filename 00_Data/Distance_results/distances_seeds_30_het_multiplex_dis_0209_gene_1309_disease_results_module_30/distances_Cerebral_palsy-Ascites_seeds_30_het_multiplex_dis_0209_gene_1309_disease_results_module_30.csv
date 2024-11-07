@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,13,22,0.64000999000999
+2,disease_on_drugs,21,27,-0.0886243386243386

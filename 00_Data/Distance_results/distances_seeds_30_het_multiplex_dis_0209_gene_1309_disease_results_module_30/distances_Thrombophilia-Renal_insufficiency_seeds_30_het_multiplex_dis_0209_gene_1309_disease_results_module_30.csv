@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,18,19,0.4305753121542597
+2,disease_on_drugs,22,28,0.24896103896103883

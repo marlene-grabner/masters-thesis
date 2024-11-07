@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,27,30,0.1409356725146198
+1,disease_on_symptoms,17,20,0.6656597774244832
+2,disease_on_drugs,24,24,0.4583333333333335

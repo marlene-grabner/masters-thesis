@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.035531135531135405
+1,disease_on_symptoms,20,20,0.75
+2,disease_on_drugs,27,22,0.33030990173847297

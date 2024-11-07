@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.04820767582310537
+1,disease_on_symptoms,16,16,1.34375
+2,disease_on_drugs,23,30,0.39995898277276454

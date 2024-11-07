@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,0.17787878787878797
+1,disease_on_symptoms,18,21,0.9212454212454213
+2,disease_on_drugs,23,27,0.30148148148148146

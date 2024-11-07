@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.1257309941520468
+1,disease_on_symptoms,11,22,0.916666666666667
+2,disease_on_drugs,21,20,0.050377468060395

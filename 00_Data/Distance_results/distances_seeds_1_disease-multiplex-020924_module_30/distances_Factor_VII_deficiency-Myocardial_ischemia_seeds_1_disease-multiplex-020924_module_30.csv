@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,0.21272727272727265
+1,disease_on_symptoms,23,13,2.085005574136009
+2,disease_on_drugs,21,23,0.3189817428947863

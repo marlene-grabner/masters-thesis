@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.0
+1,disease_on_symptoms,17,21,0.5410585286746281
+2,disease_on_drugs,25,17,0.04829131652661056

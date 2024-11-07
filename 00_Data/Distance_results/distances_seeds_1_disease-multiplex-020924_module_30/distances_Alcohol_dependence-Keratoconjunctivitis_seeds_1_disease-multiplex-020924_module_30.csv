@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,12,29,0.3729674796747968
+1,disease_on_symptoms,27,25,1.5268091168091167
+2,disease_on_drugs,9,27,0.3333333333333335

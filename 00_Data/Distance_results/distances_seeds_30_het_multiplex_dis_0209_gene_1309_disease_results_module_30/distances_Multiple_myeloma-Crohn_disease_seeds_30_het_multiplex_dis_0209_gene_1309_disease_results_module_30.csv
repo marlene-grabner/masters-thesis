@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,26,-0.09615384615384615
+1,disease_on_symptoms,21,22,0.722314507198228
+2,disease_on_drugs,25,24,-0.06125850340136041

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,22,25,0.12730566534914356
+1,disease_on_symptoms,23,20,2.1309908998988876
+2,disease_on_drugs,17,21,0.44618900191655597

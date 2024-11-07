@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Vasculitis nodes,sAB
+0,disease_on_genes,22,24,0.3998015873015872
+1,disease_on_symptoms,20,19,1.4086032388663967
+2,disease_on_drugs,19,20,0.7435222672064778

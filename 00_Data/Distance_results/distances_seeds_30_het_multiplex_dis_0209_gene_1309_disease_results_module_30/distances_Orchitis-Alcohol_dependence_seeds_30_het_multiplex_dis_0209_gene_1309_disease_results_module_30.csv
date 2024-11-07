@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,25,30,0.05757575757575761
+1,disease_on_symptoms,19,18,0.43701596333175297
+2,disease_on_drugs,25,24,0.12319727891156451

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,16,28,0.4159902597402598
+1,disease_on_symptoms,23,15,2.1344774980930588
+2,disease_on_drugs,16,21,0.8336148648648649

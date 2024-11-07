@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,26,-0.19905956112852652
+1,disease_on_symptoms,13,20,0.4500582750582751
+2,disease_on_drugs,28,25,0.03838274932614549

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,0.27972709551656916
+1,disease_on_symptoms,22,12,1.3297682709447414
+2,disease_on_drugs,24,22,0.9800724637681162

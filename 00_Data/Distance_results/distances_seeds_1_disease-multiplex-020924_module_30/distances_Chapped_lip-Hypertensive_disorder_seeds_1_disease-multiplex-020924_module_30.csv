@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,26,26,0.3076923076923077
+1,disease_on_symptoms,21,15,1.7309523809523808
+2,disease_on_drugs,24,26,0.8400000000000001

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.3224358974358974
+1,disease_on_symptoms,16,17,0.967190285204991
+2,disease_on_drugs,30,18,0.5833333333333335

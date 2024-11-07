@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,14,19,0.3405673274094325
+1,disease_on_symptoms,23,21,1.9445699228307927
+2,disease_on_drugs,14,17,0.7741935483870968

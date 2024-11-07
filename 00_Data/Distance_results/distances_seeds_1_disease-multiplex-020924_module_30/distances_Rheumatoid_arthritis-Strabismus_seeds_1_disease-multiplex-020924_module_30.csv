@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,13,0.2290598290598289
+1,disease_on_symptoms,15,26,0.41766729205753594
+2,disease_on_drugs,25,9,0.5420915032679738

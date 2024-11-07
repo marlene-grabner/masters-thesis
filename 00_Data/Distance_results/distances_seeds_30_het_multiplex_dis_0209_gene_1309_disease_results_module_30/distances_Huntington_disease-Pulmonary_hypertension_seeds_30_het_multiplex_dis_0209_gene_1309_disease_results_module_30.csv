@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.22413793103448276
+1,disease_on_symptoms,17,18,0.2621381886087768
+2,disease_on_drugs,26,27,-0.170940170940171

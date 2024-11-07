@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,29,21,0.17960591133004944
+1,disease_on_symptoms,15,26,1.0791744840525326
+2,disease_on_drugs,29,20,0.2480647431386349

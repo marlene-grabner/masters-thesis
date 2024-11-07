@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,16,21,0.6716537966537965
+2,disease_on_drugs,25,29,0.05621966794380562

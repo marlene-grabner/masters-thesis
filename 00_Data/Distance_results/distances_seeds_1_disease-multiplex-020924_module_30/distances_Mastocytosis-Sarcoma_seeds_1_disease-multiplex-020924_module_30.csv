@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,18,25,0.1582687338501294
+1,disease_on_symptoms,28,26,0.30123117623117635
+2,disease_on_drugs,17,21,0.5201238390092879

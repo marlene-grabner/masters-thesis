@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,23,24,0.3834219858156027
+1,disease_on_symptoms,16,21,1.206684362934363
+2,disease_on_drugs,17,24,0.8126195600191295

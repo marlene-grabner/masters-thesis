@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,24,27,0.37322984749455346
+1,disease_on_symptoms,25,21,1.2751552795031054
+2,disease_on_drugs,17,23,0.9945652173913042

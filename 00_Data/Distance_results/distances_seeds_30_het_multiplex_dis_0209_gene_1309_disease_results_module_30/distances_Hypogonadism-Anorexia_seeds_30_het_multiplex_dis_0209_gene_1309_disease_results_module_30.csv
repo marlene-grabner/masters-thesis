@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.13588544710695494
+1,disease_on_symptoms,17,13,-0.19517345399698338
+2,disease_on_drugs,29,28,0.17630282603059366

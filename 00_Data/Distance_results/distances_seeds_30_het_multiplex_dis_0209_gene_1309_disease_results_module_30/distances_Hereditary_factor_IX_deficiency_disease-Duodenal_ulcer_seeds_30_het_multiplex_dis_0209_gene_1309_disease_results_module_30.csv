@@ -1,0 +1,4 @@
+,Layer,Hereditary_factor_IX_deficiency_disease nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,28,28,-0.2321428571428572
+1,disease_on_symptoms,18,17,0.966013071895425
+2,disease_on_drugs,26,28,0.02029914529914545

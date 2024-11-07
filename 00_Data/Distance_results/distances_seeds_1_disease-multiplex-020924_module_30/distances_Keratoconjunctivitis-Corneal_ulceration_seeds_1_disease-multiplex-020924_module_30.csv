@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,29,28,0.06986215538847129
+1,disease_on_symptoms,25,19,0.6647846889952151
+2,disease_on_drugs,27,26,0.07861635220125796

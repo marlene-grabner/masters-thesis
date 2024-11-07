@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.4187878787878787
+1,disease_on_symptoms,14,23,2.3941581332885686
+2,disease_on_drugs,26,21,0.718338399189463

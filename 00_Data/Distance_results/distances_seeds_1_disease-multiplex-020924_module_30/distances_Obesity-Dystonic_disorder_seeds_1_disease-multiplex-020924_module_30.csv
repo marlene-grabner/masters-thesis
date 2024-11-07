@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,26,17,0.3747500789224456
+1,disease_on_symptoms,20,28,2.6654761904761903
+2,disease_on_drugs,27,9,0.9074074074074072

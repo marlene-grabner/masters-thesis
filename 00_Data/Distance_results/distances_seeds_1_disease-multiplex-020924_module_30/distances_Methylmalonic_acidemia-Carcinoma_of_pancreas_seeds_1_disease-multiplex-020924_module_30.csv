@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,25,23,0.4424999999999999
+1,disease_on_symptoms,16,25,1.7218292682926828
+2,disease_on_drugs,17,21,0.9179566563467494

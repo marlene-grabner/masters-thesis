@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.4099616858237549
+1,disease_on_symptoms,21,18,1.5057997557997558
+2,disease_on_drugs,24,19,0.31882394940840464

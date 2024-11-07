@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,0.5953846153846154
+1,disease_on_symptoms,19,14,2.14086352244247
+2,disease_on_drugs,13,13,1.4615384615384617

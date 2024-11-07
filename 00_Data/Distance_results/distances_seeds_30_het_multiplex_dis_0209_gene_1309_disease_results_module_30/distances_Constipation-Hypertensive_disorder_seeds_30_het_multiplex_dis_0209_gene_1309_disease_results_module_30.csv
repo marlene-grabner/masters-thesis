@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.15701754385964906
+1,disease_on_symptoms,16,21,0.7992680180180178
+2,disease_on_drugs,28,26,0.0032560032560031704

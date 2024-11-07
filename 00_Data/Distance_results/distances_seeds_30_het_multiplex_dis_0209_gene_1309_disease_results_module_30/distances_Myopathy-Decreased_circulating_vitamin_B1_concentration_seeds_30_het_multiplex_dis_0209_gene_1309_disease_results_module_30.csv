@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,23,30,-0.13207547169811318
+1,disease_on_symptoms,22,17,0.5671877142465376
+2,disease_on_drugs,21,25,-0.21006211180124224

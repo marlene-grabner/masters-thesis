@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.10137672090112637
+1,disease_on_symptoms,12,24,0.6736111111111112
+2,disease_on_drugs,21,16,-0.1478844916344917

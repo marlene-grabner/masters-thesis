@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,12,20,-0.1479166666666667
+2,disease_on_drugs,28,27,-0.0384559884559883

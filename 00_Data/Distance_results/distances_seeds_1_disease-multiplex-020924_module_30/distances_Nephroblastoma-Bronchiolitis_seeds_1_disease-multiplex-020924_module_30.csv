@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,25,23,0.29326086956521724
+1,disease_on_symptoms,25,25,1.28
+2,disease_on_drugs,21,18,1.1217948717948718

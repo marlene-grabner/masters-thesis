@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,24,30,0.05509259259259247
+1,disease_on_symptoms,18,15,0.34696969696969693
+2,disease_on_drugs,18,29,0.1316947909024213

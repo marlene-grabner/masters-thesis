@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.4095238095238095
+1,disease_on_symptoms,21,20,-0.801190476190476
+2,disease_on_drugs,29,25,-0.4278160919540229

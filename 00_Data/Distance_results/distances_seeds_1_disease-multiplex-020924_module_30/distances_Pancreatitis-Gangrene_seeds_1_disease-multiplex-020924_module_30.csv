@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,0.02261904761904754
+1,disease_on_symptoms,20,19,0.872165991902834
+2,disease_on_drugs,30,23,0.544298605414274

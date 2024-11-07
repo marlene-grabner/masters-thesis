@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,14,22,0.6504329004329004
+2,disease_on_drugs,29,28,-0.03453677296689994

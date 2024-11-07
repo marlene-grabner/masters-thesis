@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Stomatitis nodes,sAB
+0,disease_on_genes,29,30,0.13559322033898313
+1,disease_on_symptoms,20,19,1.0199730094466937
+2,disease_on_drugs,20,29,0.37952146375791695

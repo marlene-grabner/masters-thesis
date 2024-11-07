@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,22,25,0.5335976789168277
+1,disease_on_symptoms,23,13,3.2519509476031216
+2,disease_on_drugs,17,16,0.7527295008912656

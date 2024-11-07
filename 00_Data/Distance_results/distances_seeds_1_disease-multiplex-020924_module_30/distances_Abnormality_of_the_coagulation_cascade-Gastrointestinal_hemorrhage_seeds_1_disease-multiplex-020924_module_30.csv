@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,23,27,0.07774557165861506
+1,disease_on_symptoms,23,19,0.2767789037811921
+2,disease_on_drugs,18,27,0.46666666666666656

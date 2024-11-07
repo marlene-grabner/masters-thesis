@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,12,19,0.08588002263723804
+2,disease_on_drugs,29,30,-0.016988116111435803

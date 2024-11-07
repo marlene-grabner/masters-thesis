@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.10576923076923084
+1,disease_on_symptoms,16,25,1.0033231707317072
+2,disease_on_drugs,21,25,0.2202070393374742

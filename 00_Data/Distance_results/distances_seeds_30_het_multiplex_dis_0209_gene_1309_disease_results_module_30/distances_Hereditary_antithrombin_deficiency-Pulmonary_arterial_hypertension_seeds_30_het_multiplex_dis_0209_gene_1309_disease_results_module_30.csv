@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,28,28,-0.1428571428571429
+1,disease_on_symptoms,16,17,0.3875891265597149
+2,disease_on_drugs,23,25,-0.3184420289855072

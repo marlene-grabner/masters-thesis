@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666674
+1,disease_on_symptoms,22,18,0.03535353535353547
+2,disease_on_drugs,29,28,-0.03605997753003187

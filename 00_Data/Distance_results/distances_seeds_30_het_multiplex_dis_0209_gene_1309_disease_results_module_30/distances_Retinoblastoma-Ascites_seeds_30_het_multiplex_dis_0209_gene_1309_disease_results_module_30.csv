@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,21,22,0.4696718010671499
+2,disease_on_drugs,27,27,0.20370370370370394

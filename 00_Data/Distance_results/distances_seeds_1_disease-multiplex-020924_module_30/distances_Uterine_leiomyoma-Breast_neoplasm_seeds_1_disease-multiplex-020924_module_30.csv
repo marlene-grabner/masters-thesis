@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,24,30,0.04166666666666674
+1,disease_on_symptoms,21,16,1.2309765122265122
+2,disease_on_drugs,18,30,-0.06944444444444431

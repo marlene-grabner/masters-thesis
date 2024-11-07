@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,27,28,-0.1451298701298701
+1,disease_on_symptoms,21,20,0.09065040650406497
+2,disease_on_drugs,23,27,-0.1485024154589374

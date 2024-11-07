@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.19160256410256404
+1,disease_on_symptoms,23,22,0.7114844093104962
+2,disease_on_drugs,25,11,0.25

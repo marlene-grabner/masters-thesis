@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,0.2548717948717949
+1,disease_on_symptoms,21,17,0.7282913165266107
+2,disease_on_drugs,24,24,0.8333333333333335

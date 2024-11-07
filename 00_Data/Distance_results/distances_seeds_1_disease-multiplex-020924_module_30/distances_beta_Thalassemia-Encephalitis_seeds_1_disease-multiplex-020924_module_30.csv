@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Encephalitis nodes,sAB
+0,disease_on_genes,22,28,0.47610389610389614
+1,disease_on_symptoms,21,17,2.4585729028453485
+2,disease_on_drugs,6,18,0.916666666666667

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,-0.4203030303030303
+1,disease_on_symptoms,21,19,-1.0025062656641603
+2,disease_on_drugs,24,27,-0.2903050108932461

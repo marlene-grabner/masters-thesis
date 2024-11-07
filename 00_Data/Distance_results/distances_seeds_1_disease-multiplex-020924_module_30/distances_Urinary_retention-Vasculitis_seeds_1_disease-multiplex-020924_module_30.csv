@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.2780172413793103
+1,disease_on_symptoms,18,19,1.4365022917654497
+2,disease_on_drugs,19,20,0.23002699055330633

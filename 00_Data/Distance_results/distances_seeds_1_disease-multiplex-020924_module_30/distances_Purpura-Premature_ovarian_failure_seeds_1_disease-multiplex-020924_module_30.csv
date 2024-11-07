@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,28,0.25712250712250717
+1,disease_on_symptoms,17,21,2.062951496388029
+2,disease_on_drugs,20,21,0.537746806039489

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,17,28,0.180859010270775
+1,disease_on_symptoms,22,21,1.3870431893687707
+2,disease_on_drugs,15,24,0.19743589743589762

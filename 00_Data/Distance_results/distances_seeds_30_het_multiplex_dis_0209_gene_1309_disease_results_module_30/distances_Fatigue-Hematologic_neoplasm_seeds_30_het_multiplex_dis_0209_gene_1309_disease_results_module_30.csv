@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.271978021978022
+1,disease_on_symptoms,16,18,0.5465686274509807
+2,disease_on_drugs,26,27,-0.26427189163038234

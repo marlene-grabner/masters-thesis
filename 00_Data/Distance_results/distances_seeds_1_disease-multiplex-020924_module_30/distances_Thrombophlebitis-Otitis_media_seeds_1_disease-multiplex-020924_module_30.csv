@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,0.3693068879094288
+1,disease_on_symptoms,15,22,1.4785421785421788
+2,disease_on_drugs,21,29,1.0482758620689656

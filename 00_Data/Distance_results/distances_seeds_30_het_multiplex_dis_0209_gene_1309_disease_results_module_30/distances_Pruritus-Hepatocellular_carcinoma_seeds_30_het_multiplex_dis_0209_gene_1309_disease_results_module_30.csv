@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,27,24,-0.057734204793028376
+1,disease_on_symptoms,21,23,0.37577639751552794
+2,disease_on_drugs,27,22,0.2478183192468908

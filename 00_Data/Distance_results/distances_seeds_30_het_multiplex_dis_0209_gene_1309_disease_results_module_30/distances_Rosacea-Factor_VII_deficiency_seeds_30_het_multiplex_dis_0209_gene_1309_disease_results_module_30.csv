@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.051683087027914576
+1,disease_on_symptoms,18,19,1.1068041725936464
+2,disease_on_drugs,30,25,0.47939393939393926

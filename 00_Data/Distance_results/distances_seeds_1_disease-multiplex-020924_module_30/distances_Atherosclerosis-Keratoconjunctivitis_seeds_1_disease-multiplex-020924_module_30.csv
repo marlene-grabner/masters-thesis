@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.27118644067796605
+1,disease_on_symptoms,13,25,0.5182995951417007
+2,disease_on_drugs,29,27,0.5119047619047621

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,24,-0.15128225981348953
+1,disease_on_symptoms,17,17,-0.2941176470588236
+2,disease_on_drugs,30,23,-0.15094339622641506

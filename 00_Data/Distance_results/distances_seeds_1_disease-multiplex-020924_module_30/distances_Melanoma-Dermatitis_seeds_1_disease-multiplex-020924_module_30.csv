@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Dermatitis nodes,sAB
+0,disease_on_genes,24,26,0.12244897959183665
+1,disease_on_symptoms,23,25,2.064710144927536
+2,disease_on_drugs,22,24,0.8713768115942031

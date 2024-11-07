@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.30536723163841817
+1,disease_on_symptoms,16,14,2.0130952380952385
+2,disease_on_drugs,21,28,0.6054421768707483

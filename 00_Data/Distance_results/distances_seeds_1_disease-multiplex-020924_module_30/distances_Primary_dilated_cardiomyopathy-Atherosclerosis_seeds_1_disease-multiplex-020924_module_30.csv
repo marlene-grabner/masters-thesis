@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.5666666666666667
+1,disease_on_symptoms,25,13,1.7446153846153845
+2,disease_on_drugs,7,29,0.4841269841269842

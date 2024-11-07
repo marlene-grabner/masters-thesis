@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,17,17,1.323529411764706
+2,disease_on_drugs,17,27,0.7954545454545454

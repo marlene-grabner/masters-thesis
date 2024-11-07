@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Purpura nodes,sAB
+0,disease_on_genes,27,27,-0.03703703703703698
+1,disease_on_symptoms,21,17,0.49248120300751874
+2,disease_on_drugs,27,24,0.032543572984749636

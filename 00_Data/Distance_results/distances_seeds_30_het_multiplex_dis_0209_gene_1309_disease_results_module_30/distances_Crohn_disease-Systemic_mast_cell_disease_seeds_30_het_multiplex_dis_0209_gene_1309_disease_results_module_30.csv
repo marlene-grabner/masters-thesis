@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,0.09090909090909083
+1,disease_on_symptoms,22,25,0.9368085106382977
+2,disease_on_drugs,24,21,0.09007936507936498

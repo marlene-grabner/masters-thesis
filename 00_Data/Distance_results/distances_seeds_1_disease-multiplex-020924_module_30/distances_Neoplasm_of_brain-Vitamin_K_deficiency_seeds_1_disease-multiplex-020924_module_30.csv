@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,22,25,0.04748549323017426
+1,disease_on_symptoms,23,23,1.5652173913043477
+2,disease_on_drugs,20,20,0.22499999999999987

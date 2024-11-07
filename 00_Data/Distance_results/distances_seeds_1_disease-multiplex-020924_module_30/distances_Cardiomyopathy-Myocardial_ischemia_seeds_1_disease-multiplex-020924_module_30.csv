@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,-0.2581818181818182
+1,disease_on_symptoms,17,13,0.14404223227752655
+2,disease_on_drugs,24,23,-0.25582022818378036

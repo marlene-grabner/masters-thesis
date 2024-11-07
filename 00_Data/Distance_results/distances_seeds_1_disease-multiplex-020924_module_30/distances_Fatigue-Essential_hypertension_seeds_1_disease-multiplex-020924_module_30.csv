@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.01907814407814401
+1,disease_on_symptoms,21,14,0.6428571428571428
+2,disease_on_drugs,26,28,0.24063899063899075

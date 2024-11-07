@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,16,20,0.9645833333333336
+2,disease_on_drugs,27,30,0.9473684210526316

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,19,0.226923076923077
+2,disease_on_drugs,26,29,0.06914637087050868

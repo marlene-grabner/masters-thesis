@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,26,24,0.020000000000000018
+1,disease_on_symptoms,23,19,0.8525661981039554
+2,disease_on_drugs,26,24,0.2236538461538462

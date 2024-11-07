@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,0.5011904761904762
+1,disease_on_symptoms,16,21,1.7353603603603607
+2,disease_on_drugs,21,25,1.3471635610766046

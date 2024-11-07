@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,26,0.05800139762403922
+1,disease_on_symptoms,19,17,1.2023563811489506
+2,disease_on_drugs,20,23,0.06953993933265923

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,-0.2692307692307693
+1,disease_on_symptoms,23,21,0.062205910031996936
+2,disease_on_drugs,25,23,-0.29166666666666663

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.01684981684981679
+1,disease_on_symptoms,19,25,0.5335885167464114
+2,disease_on_drugs,24,25,0.1215306122448978

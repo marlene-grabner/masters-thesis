@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.2154761904761906
+1,disease_on_symptoms,15,15,0.9666666666666666
+2,disease_on_drugs,29,21,0.8113300492610835

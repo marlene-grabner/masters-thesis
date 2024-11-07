@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,13,-0.49386545354287303
+2,disease_on_drugs,30,19,-0.31852846401718593

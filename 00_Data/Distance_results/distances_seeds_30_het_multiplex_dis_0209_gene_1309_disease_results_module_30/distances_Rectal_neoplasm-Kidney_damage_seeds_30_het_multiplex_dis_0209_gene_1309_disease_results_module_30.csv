@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,20,15,0.2773809523809525
+2,disease_on_drugs,29,21,-0.05573070607553343

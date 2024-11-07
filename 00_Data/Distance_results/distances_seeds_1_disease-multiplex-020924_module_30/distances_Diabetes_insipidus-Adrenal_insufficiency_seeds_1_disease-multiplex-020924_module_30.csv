@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,24,17,0.1886358201817313
+1,disease_on_symptoms,18,21,0.9606227106227105
+2,disease_on_drugs,18,14,0.53125

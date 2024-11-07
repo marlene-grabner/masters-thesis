@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,27,23,0.1014814814814815
+1,disease_on_symptoms,17,23,1.0521739130434782
+2,disease_on_drugs,24,22,0.46269762845849804

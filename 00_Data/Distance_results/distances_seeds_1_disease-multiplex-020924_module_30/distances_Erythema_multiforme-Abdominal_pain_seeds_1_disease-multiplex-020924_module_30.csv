@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,16,24,0.78125
+2,disease_on_drugs,30,24,0.21759259259259278

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,22,30,-0.05069930069930084
+1,disease_on_symptoms,24,19,0.9816401468788247
+2,disease_on_drugs,13,29,0.19047619047619047

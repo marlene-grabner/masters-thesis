@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,21,30,0.09383753501400571
+1,disease_on_symptoms,22,22,2.5681818181818183
+2,disease_on_drugs,21,28,0.20663265306122436

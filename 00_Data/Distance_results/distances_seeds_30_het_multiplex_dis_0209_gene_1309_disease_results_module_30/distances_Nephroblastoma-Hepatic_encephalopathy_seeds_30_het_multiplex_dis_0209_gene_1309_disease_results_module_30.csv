@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,29,30,-0.06808883693746337
+1,disease_on_symptoms,20,14,0.45315126050420185
+2,disease_on_drugs,24,29,0.05423172847538482

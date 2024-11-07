@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,17,19,-0.1984864121087031
+2,disease_on_drugs,28,30,-0.31235632183908046

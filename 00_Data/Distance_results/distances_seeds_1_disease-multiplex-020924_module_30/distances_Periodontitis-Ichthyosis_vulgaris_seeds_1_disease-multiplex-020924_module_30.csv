@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,23,27,0.03774557165861503
+1,disease_on_symptoms,25,21,0.36993788819875784
+2,disease_on_drugs,22,27,0.15630797773654903

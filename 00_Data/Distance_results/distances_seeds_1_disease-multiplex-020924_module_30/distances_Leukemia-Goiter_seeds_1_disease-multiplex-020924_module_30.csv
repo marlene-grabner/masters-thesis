@@ -1,0 +1,4 @@
+,Layer,Leukemia nodes,Goiter nodes,sAB
+0,disease_on_genes,18,26,0.15034965034965042
+1,disease_on_symptoms,27,15,0.34391534391534395
+2,disease_on_drugs,17,16,0.6087344028520498

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,21,27,0.041005291005290934
+1,disease_on_symptoms,20,14,1.432142857142857
+2,disease_on_drugs,21,26,0.6393694957524745

@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,21,30,-0.11764705882352944
+1,disease_on_symptoms,22,19,0.7490955770801726
+2,disease_on_drugs,19,30,-0.07579663444325102

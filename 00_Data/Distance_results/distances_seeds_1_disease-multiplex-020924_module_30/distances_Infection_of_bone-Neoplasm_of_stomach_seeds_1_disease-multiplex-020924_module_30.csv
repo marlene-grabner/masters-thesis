@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,26,23,0.2676609105180534
+1,disease_on_symptoms,21,24,1.0117063492063492
+2,disease_on_drugs,24,22,0.9147727272727273

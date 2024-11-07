@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,24,27,0.1590413943355118
+1,disease_on_symptoms,23,21,2.0818746470920386
+2,disease_on_drugs,22,27,0.5714285714285714

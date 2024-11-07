@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,-0.0344827586206895
+1,disease_on_symptoms,17,18,-0.03216619981325852
+2,disease_on_drugs,25,19,-0.1671291866028709

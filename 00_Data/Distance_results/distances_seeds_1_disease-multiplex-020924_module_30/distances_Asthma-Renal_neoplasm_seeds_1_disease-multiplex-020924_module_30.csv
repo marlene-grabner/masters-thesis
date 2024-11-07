@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,25,22,0.2067891682785299
+1,disease_on_symptoms,19,25,2.2385167464114835
+2,disease_on_drugs,24,18,0.8154761904761907

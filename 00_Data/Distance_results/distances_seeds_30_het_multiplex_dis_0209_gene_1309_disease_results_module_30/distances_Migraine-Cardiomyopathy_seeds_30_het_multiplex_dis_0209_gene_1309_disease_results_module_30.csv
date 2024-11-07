@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.18545454545454554
+1,disease_on_symptoms,12,21,-0.07467532467532467
+2,disease_on_drugs,29,24,-0.20890262415961836

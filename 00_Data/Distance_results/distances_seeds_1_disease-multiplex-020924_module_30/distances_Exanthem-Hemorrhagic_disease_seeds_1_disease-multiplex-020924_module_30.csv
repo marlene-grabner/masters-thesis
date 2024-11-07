@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,28,24,0.3060897435897434
+1,disease_on_symptoms,26,19,1.140620782726046
+2,disease_on_drugs,28,19,0.49390097584386483

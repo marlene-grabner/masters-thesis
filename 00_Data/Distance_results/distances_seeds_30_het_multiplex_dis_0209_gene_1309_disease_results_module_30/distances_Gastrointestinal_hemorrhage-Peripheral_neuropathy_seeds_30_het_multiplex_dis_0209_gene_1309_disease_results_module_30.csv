@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,28,30,-0.20751231527093594
+1,disease_on_symptoms,20,21,-0.21713124274099882
+2,disease_on_drugs,27,29,0.01696770662287883

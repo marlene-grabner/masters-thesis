@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,21,30,-0.2230158730158731
+1,disease_on_symptoms,24,12,-0.24305555555555536
+2,disease_on_drugs,14,17,-0.13655462184873945

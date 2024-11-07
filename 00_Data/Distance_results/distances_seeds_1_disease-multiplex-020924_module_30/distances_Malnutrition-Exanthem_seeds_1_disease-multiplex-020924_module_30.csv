@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.12820512820512842
+1,disease_on_symptoms,18,26,1.450854700854701
+2,disease_on_drugs,23,28,0.35469187675070035

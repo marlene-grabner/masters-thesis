@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,30,0.050824175824175866
+1,disease_on_symptoms,22,14,0.7063492063492063
+2,disease_on_drugs,25,22,0.08150870406189559

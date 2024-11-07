@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,18,25,0.21609819121447016
+2,disease_on_drugs,30,21,0.2203081232492996

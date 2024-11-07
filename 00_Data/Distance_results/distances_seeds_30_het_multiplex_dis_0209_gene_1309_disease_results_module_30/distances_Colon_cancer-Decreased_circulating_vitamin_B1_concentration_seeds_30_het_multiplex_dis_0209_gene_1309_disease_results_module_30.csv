@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,30,-0.017857142857142905
+1,disease_on_symptoms,22,17,0.4220828191416428
+2,disease_on_drugs,26,25,0.039125188536953015

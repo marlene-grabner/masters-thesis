@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,0.09166666666666679
+1,disease_on_symptoms,26,19,0.24460188933873162
+2,disease_on_drugs,28,23,0.5076726342710995

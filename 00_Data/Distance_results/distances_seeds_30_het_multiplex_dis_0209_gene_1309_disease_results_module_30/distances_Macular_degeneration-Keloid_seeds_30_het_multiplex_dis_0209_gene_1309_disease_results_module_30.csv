@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.3229559748427673
+1,disease_on_symptoms,17,17,0.9705882352941178
+2,disease_on_drugs,17,22,0.28044014808720696

@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,0.0847457627118644
+1,disease_on_symptoms,25,16,0.8040243902439024
+2,disease_on_drugs,21,28,0.22363945578231292

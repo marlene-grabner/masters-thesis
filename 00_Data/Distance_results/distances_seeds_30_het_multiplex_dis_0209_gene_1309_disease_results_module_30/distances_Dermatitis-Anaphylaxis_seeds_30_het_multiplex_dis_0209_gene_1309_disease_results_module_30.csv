@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.10623781676413269
+1,disease_on_symptoms,14,14,0.1428571428571428
+2,disease_on_drugs,28,26,0.05606430606430601

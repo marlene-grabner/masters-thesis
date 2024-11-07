@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,22,14,0.8650793650793651
+2,disease_on_drugs,27,29,0.1471674876847291

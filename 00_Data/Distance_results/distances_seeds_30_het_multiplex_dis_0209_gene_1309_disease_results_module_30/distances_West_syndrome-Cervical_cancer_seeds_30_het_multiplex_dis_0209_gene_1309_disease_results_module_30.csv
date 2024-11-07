@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.13793103448275867
+1,disease_on_symptoms,13,22,0.9964035964035967
+2,disease_on_drugs,19,15,0.2163054695562434

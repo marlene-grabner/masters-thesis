@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.3036363636363635
+1,disease_on_symptoms,18,7,0.28476190476190455
+2,disease_on_drugs,23,22,0.3080808080808082

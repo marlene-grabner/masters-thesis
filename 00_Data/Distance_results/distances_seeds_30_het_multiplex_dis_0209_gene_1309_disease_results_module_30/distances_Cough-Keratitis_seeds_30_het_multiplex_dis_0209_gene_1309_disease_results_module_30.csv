@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,-0.12192982456140344
+1,disease_on_symptoms,22,25,0.11305609284332707
+2,disease_on_drugs,24,29,0.014259379744090195

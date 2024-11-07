@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.21818181818181825
+1,disease_on_symptoms,20,21,1.019279907084785
+2,disease_on_drugs,23,21,0.0252211556559383

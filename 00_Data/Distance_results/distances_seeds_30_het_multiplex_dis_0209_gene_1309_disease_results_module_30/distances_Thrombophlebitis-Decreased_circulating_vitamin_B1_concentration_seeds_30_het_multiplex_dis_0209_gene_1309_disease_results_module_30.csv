@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,18,17,0.7201680672268909
+2,disease_on_drugs,29,25,0.2222733077905492

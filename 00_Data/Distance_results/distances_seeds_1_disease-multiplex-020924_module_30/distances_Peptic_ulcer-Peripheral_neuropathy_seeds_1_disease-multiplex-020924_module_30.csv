@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,28,30,0.08481116584564874
+1,disease_on_symptoms,14,20,1.142436974789916
+2,disease_on_drugs,28,24,0.6314102564102566

@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,27,21,0.17063492063492047
+1,disease_on_symptoms,15,20,2.326190476190476
+2,disease_on_drugs,25,19,0.9118181818181819

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,17,28,0.37212885154061603
+1,disease_on_symptoms,22,17,2.199849170437406
+2,disease_on_drugs,15,18,0.5727272727272728

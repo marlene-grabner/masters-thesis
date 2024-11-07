@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.4022110972048394
+1,disease_on_symptoms,17,25,2.062072829131653
+2,disease_on_drugs,17,13,0.894871794871795

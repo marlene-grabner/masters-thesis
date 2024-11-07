@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.019287749287749456
+1,disease_on_symptoms,21,26,0.6851765256020572
+2,disease_on_drugs,27,24,0.5092592592592593

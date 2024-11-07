@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,22,28,0.12214285714285711
+1,disease_on_symptoms,21,19,1.2922932330827068
+2,disease_on_drugs,21,25,0.7163975155279503

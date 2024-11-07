@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.22000273448181562
+1,disease_on_symptoms,17,21,0.7355889724310778
+2,disease_on_drugs,26,21,0.45353051204115036

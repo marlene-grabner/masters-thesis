@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,21,21,0.14285714285714302
+2,disease_on_drugs,27,30,-0.20808966861598455

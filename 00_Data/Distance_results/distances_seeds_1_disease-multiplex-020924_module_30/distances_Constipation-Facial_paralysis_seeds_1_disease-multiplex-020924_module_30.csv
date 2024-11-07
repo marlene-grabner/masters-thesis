@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,-0.013419913419913554
+1,disease_on_symptoms,17,23,1.2103580562659846
+2,disease_on_drugs,27,14,0.24977416440831068

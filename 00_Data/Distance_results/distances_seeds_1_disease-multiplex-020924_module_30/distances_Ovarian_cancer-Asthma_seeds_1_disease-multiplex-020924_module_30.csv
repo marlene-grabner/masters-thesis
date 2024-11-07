@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.26846153846153853
+1,disease_on_symptoms,17,19,1.5968352253181974
+2,disease_on_drugs,25,24,0.9787414965986394

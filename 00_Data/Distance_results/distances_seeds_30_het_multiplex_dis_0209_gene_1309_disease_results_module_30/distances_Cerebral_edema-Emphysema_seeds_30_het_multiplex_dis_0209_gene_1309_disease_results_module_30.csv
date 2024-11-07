@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,10,18,0.39523809523809517
+2,disease_on_drugs,16,27,0.07453165374676995

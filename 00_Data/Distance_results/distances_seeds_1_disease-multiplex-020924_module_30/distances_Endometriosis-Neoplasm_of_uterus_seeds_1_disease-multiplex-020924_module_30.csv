@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.03201970443349755
+1,disease_on_symptoms,12,19,0.1873231465761176
+2,disease_on_drugs,27,28,0.1457792207792208

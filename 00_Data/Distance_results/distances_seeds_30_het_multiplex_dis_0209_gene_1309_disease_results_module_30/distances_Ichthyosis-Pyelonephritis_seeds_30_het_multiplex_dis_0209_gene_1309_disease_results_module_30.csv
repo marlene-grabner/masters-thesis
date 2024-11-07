@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,28,24,0.07669413919413914
+1,disease_on_symptoms,18,19,1.1003240082187449
+2,disease_on_drugs,25,19,0.05961722488038279

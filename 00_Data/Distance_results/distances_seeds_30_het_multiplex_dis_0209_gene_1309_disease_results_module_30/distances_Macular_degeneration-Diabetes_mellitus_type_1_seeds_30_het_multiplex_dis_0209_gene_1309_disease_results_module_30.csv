@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,0.19999999999999996
+1,disease_on_symptoms,17,18,0.7736694677871148
+2,disease_on_drugs,17,26,0.0598758286856782

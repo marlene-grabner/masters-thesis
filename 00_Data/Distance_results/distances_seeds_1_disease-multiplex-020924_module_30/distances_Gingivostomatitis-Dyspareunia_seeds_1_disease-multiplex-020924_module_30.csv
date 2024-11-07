@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.15555555555555567
+1,disease_on_symptoms,23,17,1.029859335038363
+2,disease_on_drugs,29,23,0.5561353938415408

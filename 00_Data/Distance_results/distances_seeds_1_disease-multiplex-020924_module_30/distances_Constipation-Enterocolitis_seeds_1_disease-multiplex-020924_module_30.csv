@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.1577972709551656
+1,disease_on_symptoms,17,21,0.4363850803479288
+2,disease_on_drugs,27,24,0.41162854030501084

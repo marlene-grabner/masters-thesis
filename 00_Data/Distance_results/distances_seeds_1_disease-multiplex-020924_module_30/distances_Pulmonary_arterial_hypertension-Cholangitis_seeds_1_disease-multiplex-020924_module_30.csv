@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Cholangitis nodes,sAB
+0,disease_on_genes,28,27,0.27170514670514656
+1,disease_on_symptoms,18,22,1.1626262626262625
+2,disease_on_drugs,26,26,0.8653846153846154

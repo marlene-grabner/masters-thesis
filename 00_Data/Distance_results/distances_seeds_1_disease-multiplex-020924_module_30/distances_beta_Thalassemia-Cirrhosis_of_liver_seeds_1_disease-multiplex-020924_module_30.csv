@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,0.35745920745920734
+1,disease_on_symptoms,21,14,2.816666666666667
+2,disease_on_drugs,6,26,1.001602564102564

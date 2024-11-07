@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.06750438340151965
+1,disease_on_symptoms,18,20,0.6200292397660818
+2,disease_on_drugs,26,28,0.11146723646723644

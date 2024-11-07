@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Purpura nodes,sAB
+0,disease_on_genes,30,26,0.19706959706959704
+1,disease_on_symptoms,14,17,2.0895906749796693
+2,disease_on_drugs,26,20,0.28260869565217384

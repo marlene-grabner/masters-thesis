@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,21,19,0.14035087719298245
+2,disease_on_drugs,26,25,0.194102564102564

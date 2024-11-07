@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,15,0.6207107843137254
+2,disease_on_drugs,26,29,0.07113576079093309

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,-0.6037735849056604
+1,disease_on_symptoms,20,25,-0.5633333333333334
+2,disease_on_drugs,30,21,-0.6274509803921569

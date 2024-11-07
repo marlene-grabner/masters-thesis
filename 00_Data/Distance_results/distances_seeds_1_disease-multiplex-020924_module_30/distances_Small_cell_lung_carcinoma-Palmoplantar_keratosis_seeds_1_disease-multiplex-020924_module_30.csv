@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,27,26,0.07547169811320753
+1,disease_on_symptoms,24,19,0.5909322725418198
+2,disease_on_drugs,25,18,0.16803617571059437

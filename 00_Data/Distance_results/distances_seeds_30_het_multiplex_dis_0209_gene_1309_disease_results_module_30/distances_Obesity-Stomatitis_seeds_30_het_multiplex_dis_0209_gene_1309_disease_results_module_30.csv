@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.26608187134502925
+1,disease_on_symptoms,18,19,0.6495179389916235
+2,disease_on_drugs,25,29,0.022605363984674387

@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.017231638418079065
+1,disease_on_symptoms,25,18,0.34658914728682166
+2,disease_on_drugs,21,28,0.13690476190476208

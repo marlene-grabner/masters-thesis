@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Gangrene nodes,sAB
+0,disease_on_genes,23,26,0.3265306122448979
+1,disease_on_symptoms,25,19,1.2322009569377994
+2,disease_on_drugs,21,23,0.8646245059288538

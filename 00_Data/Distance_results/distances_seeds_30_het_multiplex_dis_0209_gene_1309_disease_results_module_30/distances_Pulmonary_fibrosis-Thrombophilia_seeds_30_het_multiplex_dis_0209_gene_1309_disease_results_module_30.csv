@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,25,27,0.03846153846153855
+1,disease_on_symptoms,22,18,0.45353535353535346
+2,disease_on_drugs,25,22,0.19352030947775622

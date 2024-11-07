@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,26,-0.09615384615384615
+1,disease_on_symptoms,22,21,0.7416943521594686
+2,disease_on_drugs,24,26,-0.05474358974358995

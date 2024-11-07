@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,25,30,0.49969696969696975
+1,disease_on_symptoms,16,15,1.721236559139785
+2,disease_on_drugs,17,21,0.8151997641161728

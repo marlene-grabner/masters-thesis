@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,24,0.15672657952069713
+1,disease_on_symptoms,22,17,1.6008844097079389
+2,disease_on_drugs,24,23,1.4051418439716312

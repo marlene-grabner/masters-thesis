@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,23,27,-0.1286956521739131
+1,disease_on_symptoms,20,23,-0.0003033367037410528
+2,disease_on_drugs,19,20,0.02564102564102555

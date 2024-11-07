@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.13101851851851842
+1,disease_on_symptoms,14,19,1.1001367053998634
+2,disease_on_drugs,29,20,0.439795918367347

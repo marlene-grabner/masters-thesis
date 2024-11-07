@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,26,20,0.1761111111111111
+1,disease_on_symptoms,19,22,0.9353775236316957
+2,disease_on_drugs,24,15,0.7974358974358973

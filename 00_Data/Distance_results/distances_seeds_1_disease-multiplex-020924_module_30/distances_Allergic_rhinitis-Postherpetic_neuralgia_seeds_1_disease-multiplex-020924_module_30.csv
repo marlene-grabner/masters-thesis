@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,21,30,0.11638655462184877
+1,disease_on_symptoms,22,15,1.5273546273546272
+2,disease_on_drugs,21,29,0.03990147783251219

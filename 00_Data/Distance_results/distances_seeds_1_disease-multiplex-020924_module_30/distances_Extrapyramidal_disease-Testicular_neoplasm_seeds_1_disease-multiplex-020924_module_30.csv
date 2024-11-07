@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,14,25,0.4883882783882785
+1,disease_on_symptoms,25,25,2.38
+2,disease_on_drugs,10,23,1.4519762845849802

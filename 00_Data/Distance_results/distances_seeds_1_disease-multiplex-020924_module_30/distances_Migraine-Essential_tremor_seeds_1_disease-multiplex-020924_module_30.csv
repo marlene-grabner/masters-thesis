@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.05294117647058816
+1,disease_on_symptoms,14,20,0.7787815126050419
+2,disease_on_drugs,29,19,0.03618421052631593

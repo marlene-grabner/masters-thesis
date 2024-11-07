@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,25,0.2383333333333335
+1,disease_on_symptoms,19,20,1.532995951417004
+2,disease_on_drugs,22,21,0.46665156548877484

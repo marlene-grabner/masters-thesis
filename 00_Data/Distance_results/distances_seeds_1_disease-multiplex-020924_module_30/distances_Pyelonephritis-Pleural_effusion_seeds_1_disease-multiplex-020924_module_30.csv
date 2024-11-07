@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,23,30,0.1445310363686081
+1,disease_on_symptoms,21,20,0.17052845528455274
+2,disease_on_drugs,19,22,0.07317073170731714

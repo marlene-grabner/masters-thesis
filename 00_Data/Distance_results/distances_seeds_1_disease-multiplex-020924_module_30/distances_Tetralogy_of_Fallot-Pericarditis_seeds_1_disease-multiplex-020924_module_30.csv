@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.3303030303030303
+1,disease_on_symptoms,14,22,1.3618326118326118
+2,disease_on_drugs,11,25,0.7855555555555556

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Anorexia nodes,sAB
+0,disease_on_genes,28,29,-0.28071255725520705
+1,disease_on_symptoms,20,13,-0.12948717948717925
+2,disease_on_drugs,27,28,-0.1098124098124098

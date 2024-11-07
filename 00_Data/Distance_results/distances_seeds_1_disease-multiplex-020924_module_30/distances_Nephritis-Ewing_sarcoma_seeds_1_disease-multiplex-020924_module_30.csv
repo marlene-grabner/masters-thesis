@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Ewing_sarcoma nodes,sAB
+0,disease_on_genes,30,24,0.34490740740740744
+1,disease_on_symptoms,18,25,1.4983204134366928
+2,disease_on_drugs,27,17,0.8846801346801347

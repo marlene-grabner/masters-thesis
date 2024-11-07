@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,23,9,-0.09299516908212557
+1,disease_on_symptoms,21,27,2.326388888888889
+2,disease_on_drugs,19,9,0.0714285714285714

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,17,20,0.6885135135135136
+2,disease_on_drugs,26,28,0.36747049247049235

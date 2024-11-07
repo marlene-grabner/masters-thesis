@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,0.24137931034482762
+1,disease_on_symptoms,20,17,1.2801271860095391
+2,disease_on_drugs,20,27,0.41505122143420037

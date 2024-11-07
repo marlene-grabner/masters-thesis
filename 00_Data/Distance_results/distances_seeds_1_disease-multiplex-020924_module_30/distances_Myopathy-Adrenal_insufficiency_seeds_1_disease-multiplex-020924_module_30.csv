@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,18,17,0.48720821661998137
+1,disease_on_symptoms,21,21,0.6904761904761907
+2,disease_on_drugs,6,14,0.43333333333333357

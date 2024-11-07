@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,15,23,0.45964912280701764
+1,disease_on_symptoms,27,22,2.183982683982684
+2,disease_on_drugs,13,17,0.5784313725490196

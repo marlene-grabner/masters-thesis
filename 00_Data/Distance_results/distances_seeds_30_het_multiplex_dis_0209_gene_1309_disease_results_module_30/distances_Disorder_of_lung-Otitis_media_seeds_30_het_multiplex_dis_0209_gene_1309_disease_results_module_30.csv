@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,0.08990147783251246
+1,disease_on_symptoms,18,20,1.2589181286549707
+2,disease_on_drugs,24,28,0.2548076923076923

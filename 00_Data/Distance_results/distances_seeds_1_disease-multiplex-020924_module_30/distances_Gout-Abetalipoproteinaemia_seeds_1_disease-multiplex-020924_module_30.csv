@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,25,17,0.4105882352941177
+1,disease_on_symptoms,18,25,0.9561240310077519
+2,disease_on_drugs,23,13,0.5170940170940173

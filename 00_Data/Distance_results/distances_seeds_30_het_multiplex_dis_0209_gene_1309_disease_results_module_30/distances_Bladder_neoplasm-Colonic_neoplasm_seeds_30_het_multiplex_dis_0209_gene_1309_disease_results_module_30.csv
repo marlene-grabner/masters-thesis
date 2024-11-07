@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.4809523809523809
+1,disease_on_symptoms,19,19,-0.9210526315789473
+2,disease_on_drugs,25,29,-0.48020434227330766

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Priapism nodes,sAB
+0,disease_on_genes,21,30,-0.21988795518207271
+1,disease_on_symptoms,20,12,0.002083333333333215
+2,disease_on_drugs,21,28,-0.011904761904761862

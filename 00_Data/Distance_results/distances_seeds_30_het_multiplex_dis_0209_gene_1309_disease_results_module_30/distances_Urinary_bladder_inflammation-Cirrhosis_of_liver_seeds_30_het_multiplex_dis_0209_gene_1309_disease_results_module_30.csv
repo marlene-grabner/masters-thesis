@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,16,19,-0.08895676691729326
+2,disease_on_drugs,29,30,-0.28788233002142993

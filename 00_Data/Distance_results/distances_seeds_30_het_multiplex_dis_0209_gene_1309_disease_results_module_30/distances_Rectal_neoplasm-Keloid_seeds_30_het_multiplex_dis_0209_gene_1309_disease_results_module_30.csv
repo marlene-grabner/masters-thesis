@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.18647798742138355
+1,disease_on_symptoms,20,17,0.16872019077901457
+2,disease_on_drugs,29,22,-0.010894953592722079

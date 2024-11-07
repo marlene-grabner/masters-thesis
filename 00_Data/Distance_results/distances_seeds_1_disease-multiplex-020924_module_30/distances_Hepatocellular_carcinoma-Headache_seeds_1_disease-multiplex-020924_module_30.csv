@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Headache nodes,sAB
+0,disease_on_genes,23,30,0.10966639321848493
+1,disease_on_symptoms,19,25,1.6296172248803829
+2,disease_on_drugs,19,26,0.9141025641025642

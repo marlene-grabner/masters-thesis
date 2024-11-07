@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Emphysema nodes,sAB
+0,disease_on_genes,27,30,-0.42115009746588694
+1,disease_on_symptoms,17,14,-0.43175657359718067
+2,disease_on_drugs,20,29,-0.4897959183673469

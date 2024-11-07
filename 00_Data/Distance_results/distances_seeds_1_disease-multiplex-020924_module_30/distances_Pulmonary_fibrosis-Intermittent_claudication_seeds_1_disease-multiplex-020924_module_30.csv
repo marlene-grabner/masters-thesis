@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,20,-0.027651515151515094
+1,disease_on_symptoms,22,24,0.6891469038208169
+2,disease_on_drugs,24,18,0.03174603174603163

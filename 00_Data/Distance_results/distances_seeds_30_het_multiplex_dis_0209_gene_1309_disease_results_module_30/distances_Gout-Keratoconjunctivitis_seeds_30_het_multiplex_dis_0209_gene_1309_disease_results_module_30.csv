@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,28,29,-0.19329573934837085
+1,disease_on_symptoms,19,20,0.45840080971659924
+2,disease_on_drugs,22,27,-0.3632240775097917

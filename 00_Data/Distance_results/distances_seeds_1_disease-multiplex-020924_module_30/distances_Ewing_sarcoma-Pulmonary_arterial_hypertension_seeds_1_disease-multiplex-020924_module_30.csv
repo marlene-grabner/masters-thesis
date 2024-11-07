@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,24,28,0.38118131868131866
+1,disease_on_symptoms,25,18,1.8665374677002586
+2,disease_on_drugs,17,26,0.8412343470483006

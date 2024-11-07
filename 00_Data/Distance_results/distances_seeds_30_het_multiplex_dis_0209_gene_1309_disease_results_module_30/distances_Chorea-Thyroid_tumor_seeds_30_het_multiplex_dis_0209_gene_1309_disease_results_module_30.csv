@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.018867924528301883
+1,disease_on_symptoms,17,20,1.3507551669316373
+2,disease_on_drugs,24,20,0.3518939393939393

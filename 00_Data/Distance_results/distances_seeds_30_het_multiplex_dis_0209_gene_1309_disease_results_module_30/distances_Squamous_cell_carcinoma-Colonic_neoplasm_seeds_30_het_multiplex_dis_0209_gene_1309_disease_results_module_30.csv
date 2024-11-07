@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.46666666666666656
+1,disease_on_symptoms,22,19,-0.8332069086241102
+2,disease_on_drugs,30,29,-0.44097019286966677

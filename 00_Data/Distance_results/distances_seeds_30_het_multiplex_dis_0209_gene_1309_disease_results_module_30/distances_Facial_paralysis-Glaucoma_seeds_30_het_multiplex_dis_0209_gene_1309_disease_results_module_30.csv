@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,22,30,-0.30512820512820504
+1,disease_on_symptoms,21,18,0.10164835164835173
+2,disease_on_drugs,17,28,-0.05702614379084969

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.12280701754385959
+1,disease_on_symptoms,18,18,0.8888888888888888
+2,disease_on_drugs,30,22,0.6318181818181818

@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,19,0.7894736842105263
+2,disease_on_drugs,29,27,0.37525086663017704

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Angioedema nodes,sAB
+0,disease_on_genes,24,29,0.4196428571428572
+1,disease_on_symptoms,25,17,1.0492997198879555
+2,disease_on_drugs,17,25,0.6428571428571428

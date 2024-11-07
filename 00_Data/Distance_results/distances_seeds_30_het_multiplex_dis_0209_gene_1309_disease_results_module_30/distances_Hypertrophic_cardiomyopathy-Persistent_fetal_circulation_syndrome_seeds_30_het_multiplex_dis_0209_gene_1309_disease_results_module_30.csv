@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.0537037037037037
+1,disease_on_symptoms,19,22,0.6524681993231414
+2,disease_on_drugs,22,21,-0.23004127655290452

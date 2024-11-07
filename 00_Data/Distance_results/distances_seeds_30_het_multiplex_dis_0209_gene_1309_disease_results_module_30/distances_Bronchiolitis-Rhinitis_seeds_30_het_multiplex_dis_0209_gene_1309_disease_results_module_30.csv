@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,28,30,-0.1724137931034483
+1,disease_on_symptoms,25,12,-0.4706306306306307
+2,disease_on_drugs,24,23,-0.2124576009867407

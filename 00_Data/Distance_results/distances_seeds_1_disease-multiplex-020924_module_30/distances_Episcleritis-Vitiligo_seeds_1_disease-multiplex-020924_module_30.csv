@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,24,-0.06249999999999978
+1,disease_on_symptoms,22,22,-0.18181818181818188
+2,disease_on_drugs,29,11,-0.0862068965517242

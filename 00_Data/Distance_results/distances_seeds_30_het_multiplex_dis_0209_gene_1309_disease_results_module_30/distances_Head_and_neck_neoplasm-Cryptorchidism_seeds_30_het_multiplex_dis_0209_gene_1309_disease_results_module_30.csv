@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.03840579710144931
+1,disease_on_symptoms,22,19,0.5150834403080873
+2,disease_on_drugs,27,21,0.07440476190476186

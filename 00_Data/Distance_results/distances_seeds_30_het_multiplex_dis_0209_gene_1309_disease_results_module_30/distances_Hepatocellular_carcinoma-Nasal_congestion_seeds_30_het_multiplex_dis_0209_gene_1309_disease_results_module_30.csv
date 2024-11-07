@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,24,30,-0.16666666666666663
+1,disease_on_symptoms,23,14,0.2512590229981533
+2,disease_on_drugs,22,25,-0.12034816247582225

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,15,24,0.3682692307692308
+2,disease_on_drugs,29,27,0.19870917715745295

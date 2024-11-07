@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.1549707602339181
+1,disease_on_symptoms,19,15,1.068421052631579
+2,disease_on_drugs,29,26,0.1643597781528816

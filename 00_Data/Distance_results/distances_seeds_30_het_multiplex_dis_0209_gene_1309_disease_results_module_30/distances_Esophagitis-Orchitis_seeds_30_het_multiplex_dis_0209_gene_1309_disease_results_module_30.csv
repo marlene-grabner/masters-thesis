@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,0.037878787878787845
+1,disease_on_symptoms,20,19,0.46352901484480435
+2,disease_on_drugs,30,25,0.07090909090909103

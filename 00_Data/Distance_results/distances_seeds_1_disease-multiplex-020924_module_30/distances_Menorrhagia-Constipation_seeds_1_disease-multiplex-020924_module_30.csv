@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Constipation nodes,sAB
+0,disease_on_genes,26,30,0.08635531135531127
+1,disease_on_symptoms,19,17,0.9942380460956313
+2,disease_on_drugs,24,27,0.5684912854030502

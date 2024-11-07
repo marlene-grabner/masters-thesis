@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,29,18,-0.03851797505502563
+1,disease_on_symptoms,17,21,1.0403951054105853
+2,disease_on_drugs,30,17,0.08197747183979964

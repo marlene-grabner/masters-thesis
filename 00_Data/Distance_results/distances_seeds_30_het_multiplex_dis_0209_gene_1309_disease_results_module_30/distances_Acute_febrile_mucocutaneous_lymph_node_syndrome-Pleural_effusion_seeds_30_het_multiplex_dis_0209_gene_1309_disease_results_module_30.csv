@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,13,18,0.10235732009925558
+2,disease_on_drugs,28,27,-0.07413419913419905

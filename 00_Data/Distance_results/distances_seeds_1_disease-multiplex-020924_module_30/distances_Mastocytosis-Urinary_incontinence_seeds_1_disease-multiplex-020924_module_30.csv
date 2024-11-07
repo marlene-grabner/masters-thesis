@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,18,26,0.40578865578865586
+1,disease_on_symptoms,28,20,0.9404761904761907
+2,disease_on_drugs,17,20,0.37360890302066774

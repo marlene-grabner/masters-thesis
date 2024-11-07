@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,0.05814102564102552
+1,disease_on_symptoms,19,20,1.2818825910931173
+2,disease_on_drugs,24,22,0.7390480895915679

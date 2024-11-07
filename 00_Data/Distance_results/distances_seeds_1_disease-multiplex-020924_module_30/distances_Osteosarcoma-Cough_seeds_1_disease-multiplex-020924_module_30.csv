@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,0.21148148148148138
+1,disease_on_symptoms,24,21,1.6319444444444444
+2,disease_on_drugs,23,27,0.8829629629629627

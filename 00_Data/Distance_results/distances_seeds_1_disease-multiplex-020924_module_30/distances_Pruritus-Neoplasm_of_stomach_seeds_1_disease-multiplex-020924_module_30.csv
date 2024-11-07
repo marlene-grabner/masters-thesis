@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,26,23,0.18999999999999995
+1,disease_on_symptoms,19,24,0.8197419420644634
+2,disease_on_drugs,24,22,0.9337944664031621

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,0.3500000000000001
+1,disease_on_symptoms,17,13,0.40150829562594303
+2,disease_on_drugs,17,24,0.07212458153993317

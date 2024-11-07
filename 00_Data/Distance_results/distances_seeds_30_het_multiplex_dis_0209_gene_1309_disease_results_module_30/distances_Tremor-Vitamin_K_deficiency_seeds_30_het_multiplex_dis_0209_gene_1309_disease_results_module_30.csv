@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.11538461538461542
+1,disease_on_symptoms,17,21,1.4519386702049237
+2,disease_on_drugs,24,21,0.37261904761904785

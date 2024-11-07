@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Peritonitis nodes,sAB
+0,disease_on_genes,20,30,0.1200000000000001
+1,disease_on_symptoms,23,17,0.7527493606138109
+2,disease_on_drugs,18,28,0.37491373360938596

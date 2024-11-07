@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,22,27,-0.0667216381502096
+1,disease_on_symptoms,19,20,1.1029352226720648
+2,disease_on_drugs,19,25,0.04186602870813405

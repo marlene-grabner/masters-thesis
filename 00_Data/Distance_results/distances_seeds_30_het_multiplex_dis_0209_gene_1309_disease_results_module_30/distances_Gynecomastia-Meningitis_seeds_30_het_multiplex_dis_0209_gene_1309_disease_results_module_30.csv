@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.10169491525423724
+1,disease_on_symptoms,15,17,0.5361519607843137
+2,disease_on_drugs,29,27,0.39130633096150347

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.23058608058608066
+1,disease_on_symptoms,24,14,0.3923872180451127
+2,disease_on_drugs,24,24,0.20833333333333326

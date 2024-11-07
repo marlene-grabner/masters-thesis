@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,20,27,0.3394602048857369
+1,disease_on_symptoms,24,23,1.1003507554733272
+2,disease_on_drugs,18,15,0.32777777777777795

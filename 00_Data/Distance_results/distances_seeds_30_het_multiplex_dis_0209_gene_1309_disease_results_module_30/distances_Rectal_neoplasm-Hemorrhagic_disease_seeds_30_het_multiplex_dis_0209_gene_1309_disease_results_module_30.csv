@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.016666666666666607
+1,disease_on_symptoms,20,19,0.23093792172739547
+2,disease_on_drugs,29,24,0.21096291476903062

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,12,15,0.30740740740740735
+2,disease_on_drugs,27,29,0.6970443349753694

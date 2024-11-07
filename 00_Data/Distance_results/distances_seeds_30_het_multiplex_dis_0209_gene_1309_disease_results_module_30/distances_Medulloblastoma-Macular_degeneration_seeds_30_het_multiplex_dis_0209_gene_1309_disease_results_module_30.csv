@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.035964912280701755
+1,disease_on_symptoms,22,17,0.45255724667489394
+2,disease_on_drugs,26,17,0.013364200778701374

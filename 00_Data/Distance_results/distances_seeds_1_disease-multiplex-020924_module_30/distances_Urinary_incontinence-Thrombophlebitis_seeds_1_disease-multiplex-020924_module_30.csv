@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,0.403744403744404
+1,disease_on_symptoms,20,15,1.8869047619047619
+2,disease_on_drugs,20,21,0.9024390243902438

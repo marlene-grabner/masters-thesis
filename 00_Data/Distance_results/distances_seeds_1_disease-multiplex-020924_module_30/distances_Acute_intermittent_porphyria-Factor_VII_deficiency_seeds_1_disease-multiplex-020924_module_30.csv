@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.46065527065527045
+1,disease_on_symptoms,20,23,3.1577098078867545
+2,disease_on_drugs,15,21,0.9246031746031746

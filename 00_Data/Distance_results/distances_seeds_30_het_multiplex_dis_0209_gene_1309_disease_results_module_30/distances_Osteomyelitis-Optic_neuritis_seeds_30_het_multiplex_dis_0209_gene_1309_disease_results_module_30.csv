@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,22,21,0.23376623376623384
+2,disease_on_drugs,28,27,0.11004088504088494

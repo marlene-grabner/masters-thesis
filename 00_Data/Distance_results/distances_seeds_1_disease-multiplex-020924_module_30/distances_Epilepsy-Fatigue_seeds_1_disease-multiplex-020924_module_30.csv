@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Fatigue nodes,sAB
+0,disease_on_genes,29,26,-0.020279720279720248
+1,disease_on_symptoms,18,21,-0.07234432234432253
+2,disease_on_drugs,30,26,-0.12655677655677655

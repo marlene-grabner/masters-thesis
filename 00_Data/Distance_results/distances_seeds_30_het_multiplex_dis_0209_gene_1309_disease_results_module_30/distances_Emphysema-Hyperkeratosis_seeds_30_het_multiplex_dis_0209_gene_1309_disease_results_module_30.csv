@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.07280219780219777
+1,disease_on_symptoms,18,25,0.7489922480620157
+2,disease_on_drugs,27,25,0.0375213675213677

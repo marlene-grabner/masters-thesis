@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Uveitis nodes,sAB
+0,disease_on_genes,17,30,0.029528985507246475
+1,disease_on_symptoms,27,21,0.3941798941798942
+2,disease_on_drugs,14,27,0.01893792747451295

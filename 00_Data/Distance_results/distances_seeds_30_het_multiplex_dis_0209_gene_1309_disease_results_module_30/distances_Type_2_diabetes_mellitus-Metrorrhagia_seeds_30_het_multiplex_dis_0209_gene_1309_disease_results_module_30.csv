@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.24561403508771928
+1,disease_on_symptoms,16,17,0.27824197860962596
+2,disease_on_drugs,27,26,-0.11539805407729942

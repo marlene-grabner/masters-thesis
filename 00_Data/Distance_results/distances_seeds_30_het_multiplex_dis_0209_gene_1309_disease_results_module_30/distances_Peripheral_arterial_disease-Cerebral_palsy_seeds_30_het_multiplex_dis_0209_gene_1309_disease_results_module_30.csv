@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,26,30,0.1071428571428572
+1,disease_on_symptoms,17,13,1.3574660633484164
+2,disease_on_drugs,24,21,0.0886904761904761

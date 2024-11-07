@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.15847953216374266
+1,disease_on_symptoms,20,15,1.8714285714285714
+2,disease_on_drugs,24,26,0.499871794871795

@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,26,26,0.3846153846153846
+1,disease_on_symptoms,15,21,1.4968253968253968
+2,disease_on_drugs,26,24,0.9199999999999999

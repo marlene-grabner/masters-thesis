@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.2807992202729045
+1,disease_on_symptoms,22,15,-0.1710892710892713
+2,disease_on_drugs,22,30,-0.11468531468531473

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,25,24,-0.2036734693877551
+1,disease_on_symptoms,23,22,0.4911725955204216
+2,disease_on_drugs,24,21,-0.0732142857142859

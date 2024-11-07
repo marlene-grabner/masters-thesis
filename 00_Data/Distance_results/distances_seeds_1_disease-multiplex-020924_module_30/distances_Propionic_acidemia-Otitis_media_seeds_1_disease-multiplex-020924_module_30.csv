@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,22,29,0.10987153482082479
+1,disease_on_symptoms,17,22,2.0406554230083644
+2,disease_on_drugs,21,29,0.6568472906403942

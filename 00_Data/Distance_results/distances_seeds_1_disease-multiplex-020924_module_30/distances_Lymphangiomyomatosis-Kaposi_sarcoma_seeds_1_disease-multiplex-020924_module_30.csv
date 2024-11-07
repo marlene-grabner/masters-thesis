@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.10406504065040645
+1,disease_on_symptoms,19,27,0.46147978642257814
+2,disease_on_drugs,22,13,0.2577922077922077

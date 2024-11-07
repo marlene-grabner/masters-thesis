@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,18,0.029990516832621994
+2,disease_on_drugs,25,29,-0.03443167305236261

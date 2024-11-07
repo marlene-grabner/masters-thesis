@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.13502824858757045
+1,disease_on_symptoms,22,15,0.24123669123669123
+2,disease_on_drugs,15,27,-0.2322751322751323

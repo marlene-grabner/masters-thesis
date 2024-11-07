@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.07017543859649122
+1,disease_on_symptoms,16,19,0.29600563909774436
+2,disease_on_drugs,23,25,0.2549999999999999

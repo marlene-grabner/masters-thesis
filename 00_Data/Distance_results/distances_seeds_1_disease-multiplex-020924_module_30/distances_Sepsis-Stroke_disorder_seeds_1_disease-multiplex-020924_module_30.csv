@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,22,30,0.2735431235431234
+1,disease_on_symptoms,23,15,0.8356216628527839
+2,disease_on_drugs,17,30,0.9198998748435545

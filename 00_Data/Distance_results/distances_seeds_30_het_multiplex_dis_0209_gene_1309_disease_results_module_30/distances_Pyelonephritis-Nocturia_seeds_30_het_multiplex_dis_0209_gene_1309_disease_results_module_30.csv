@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Nocturia nodes,sAB
+0,disease_on_genes,24,25,-0.02083333333333348
+1,disease_on_symptoms,19,18,1.0560297139244508
+2,disease_on_drugs,19,24,0.022541819665442775

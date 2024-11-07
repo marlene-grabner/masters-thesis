@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,18,18,0.4722222222222223
+2,disease_on_drugs,24,30,0.2833333333333332

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.18518518518518512
+1,disease_on_symptoms,17,16,0.05442290552584672
+2,disease_on_drugs,20,27,0.09062253743104787

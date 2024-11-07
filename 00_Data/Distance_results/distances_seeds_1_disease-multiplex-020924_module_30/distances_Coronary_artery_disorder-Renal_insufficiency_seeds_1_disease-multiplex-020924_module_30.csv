@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,19,20,0.08009446693657218
+1,disease_on_symptoms,21,23,1.3684829663090534
+2,disease_on_drugs,17,17,0.32352941176470584

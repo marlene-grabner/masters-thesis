@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,20,13,0.09959207459207464
+2,disease_on_drugs,25,24,-0.18671768707482994

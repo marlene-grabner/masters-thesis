@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,21,30,0.15266106442577043
+1,disease_on_symptoms,20,21,1.317479674796748
+2,disease_on_drugs,19,29,0.6530172413793105

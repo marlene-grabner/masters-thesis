@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,23,21,0.27056277056277045
+1,disease_on_symptoms,25,22,1.6163249516441005
+2,disease_on_drugs,21,20,0.7042682926829269

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,29,30,-0.10169491525423724
+1,disease_on_symptoms,19,15,0.47100103199174415
+2,disease_on_drugs,29,23,-0.07951793334102186

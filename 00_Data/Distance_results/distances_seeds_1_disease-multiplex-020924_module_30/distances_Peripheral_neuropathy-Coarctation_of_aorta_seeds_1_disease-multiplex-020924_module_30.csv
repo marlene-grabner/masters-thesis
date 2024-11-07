@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.3894736842105264
+1,disease_on_symptoms,20,14,1.5457983193277314
+2,disease_on_drugs,24,13,1.0934684684684686

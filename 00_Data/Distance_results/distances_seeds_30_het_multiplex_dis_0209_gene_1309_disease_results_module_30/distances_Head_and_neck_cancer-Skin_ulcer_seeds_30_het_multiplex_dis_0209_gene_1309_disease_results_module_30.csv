@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,27,30,0.14035087719298245
+1,disease_on_symptoms,22,20,0.5835497835497836
+2,disease_on_drugs,23,24,0.1488590810977488

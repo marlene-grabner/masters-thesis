@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,17,23,0.18777870680044595
+1,disease_on_symptoms,27,19,2.4641918806678533
+2,disease_on_drugs,14,11,0.3642857142857143

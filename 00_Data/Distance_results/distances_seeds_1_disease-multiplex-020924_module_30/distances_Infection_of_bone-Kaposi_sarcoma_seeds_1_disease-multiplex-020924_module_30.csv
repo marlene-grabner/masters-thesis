@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.21194496560350218
+1,disease_on_symptoms,21,27,1.7797619047619047
+2,disease_on_drugs,24,13,1.0185810810810811

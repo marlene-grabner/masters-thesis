@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.14814814814814814
+1,disease_on_symptoms,17,18,0.049393090569561204
+2,disease_on_drugs,24,24,-0.20833333333333348

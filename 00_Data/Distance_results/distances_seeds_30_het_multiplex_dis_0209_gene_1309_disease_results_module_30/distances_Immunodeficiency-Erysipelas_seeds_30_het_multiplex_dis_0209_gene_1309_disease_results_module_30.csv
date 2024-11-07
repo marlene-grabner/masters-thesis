@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,30,-0.1785714285714286
+1,disease_on_symptoms,21,18,0.10164835164835173
+2,disease_on_drugs,26,29,-0.25237521099590077

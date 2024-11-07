@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,0.03159340659340648
+1,disease_on_symptoms,19,13,0.9092864372469636
+2,disease_on_drugs,24,29,0.26218553459119476

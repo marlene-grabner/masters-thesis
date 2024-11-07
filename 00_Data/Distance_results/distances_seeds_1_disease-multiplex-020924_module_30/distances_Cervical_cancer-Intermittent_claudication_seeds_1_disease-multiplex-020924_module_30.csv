@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.566055949566588
+1,disease_on_symptoms,23,24,1.3583294788775824
+2,disease_on_drugs,15,18,0.6282828282828283

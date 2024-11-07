@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.12909090909090915
+1,disease_on_symptoms,20,23,0.19807886754297255
+2,disease_on_drugs,25,24,0.061207482993197004

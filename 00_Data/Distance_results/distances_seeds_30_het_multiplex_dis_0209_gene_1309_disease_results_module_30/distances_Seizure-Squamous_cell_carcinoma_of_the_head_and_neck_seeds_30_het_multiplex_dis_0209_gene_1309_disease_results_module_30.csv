@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,21,22,0.2284556528742574
+2,disease_on_drugs,29,30,0.10137346580946827

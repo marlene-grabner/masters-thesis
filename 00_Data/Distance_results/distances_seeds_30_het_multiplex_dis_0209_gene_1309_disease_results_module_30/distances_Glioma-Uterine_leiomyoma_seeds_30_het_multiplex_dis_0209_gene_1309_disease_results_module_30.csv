@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,22,30,0.0
+1,disease_on_symptoms,21,20,0.5314459930313591
+2,disease_on_drugs,21,28,0.31377551020408156

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,26,30,0.21785714285714275
+1,disease_on_symptoms,21,15,0.9055555555555554
+2,disease_on_drugs,25,23,0.9382608695652173

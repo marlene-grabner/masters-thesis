@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,26,22,0.16098646034816233
+1,disease_on_symptoms,19,24,1.741738066095471
+2,disease_on_drugs,24,13,0.945945945945946

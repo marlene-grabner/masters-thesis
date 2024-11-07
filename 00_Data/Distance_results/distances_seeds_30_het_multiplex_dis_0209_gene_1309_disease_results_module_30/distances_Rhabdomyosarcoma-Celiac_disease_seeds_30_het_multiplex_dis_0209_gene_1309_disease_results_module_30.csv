@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,19,18,0.3712660028449499
+2,disease_on_drugs,29,28,0.08609886785930354

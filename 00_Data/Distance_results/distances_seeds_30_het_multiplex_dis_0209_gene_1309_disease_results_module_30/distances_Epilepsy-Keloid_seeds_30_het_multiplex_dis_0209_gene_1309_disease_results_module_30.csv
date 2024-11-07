@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.09213836477987414
+1,disease_on_symptoms,21,17,1.5254312251216275
+2,disease_on_drugs,29,22,0.40086975228963073

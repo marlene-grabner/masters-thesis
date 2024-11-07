@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Obesity nodes,sAB
+0,disease_on_genes,25,26,0.1364555052790346
+1,disease_on_symptoms,24,20,1.512878787878788
+2,disease_on_drugs,20,27,0.9629629629629628

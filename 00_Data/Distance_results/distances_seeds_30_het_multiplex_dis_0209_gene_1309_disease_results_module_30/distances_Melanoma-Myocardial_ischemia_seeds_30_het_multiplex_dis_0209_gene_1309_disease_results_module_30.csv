@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.2807992202729045
+1,disease_on_symptoms,23,19,0.14432821183393285
+2,disease_on_drugs,25,30,-0.022424242424242458

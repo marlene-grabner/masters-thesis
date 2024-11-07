@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.16481481481481475
+1,disease_on_symptoms,16,22,0.36199162679425845
+2,disease_on_drugs,30,21,-0.09061624649859956

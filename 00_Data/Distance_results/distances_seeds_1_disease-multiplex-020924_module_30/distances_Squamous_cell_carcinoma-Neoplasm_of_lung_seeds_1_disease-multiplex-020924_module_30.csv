@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,16,30,-0.1199275362318839
+1,disease_on_symptoms,26,20,0.029180602006688927
+2,disease_on_drugs,14,30,0.028787878787878807

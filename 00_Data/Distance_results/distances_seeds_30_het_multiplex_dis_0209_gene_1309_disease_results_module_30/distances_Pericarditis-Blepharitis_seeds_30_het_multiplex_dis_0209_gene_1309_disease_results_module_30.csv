@@ -1,0 +1,4 @@
+,Layer,Pericarditis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,21,18,0.3351648351648351
+2,disease_on_drugs,26,30,-0.0028388278388278287

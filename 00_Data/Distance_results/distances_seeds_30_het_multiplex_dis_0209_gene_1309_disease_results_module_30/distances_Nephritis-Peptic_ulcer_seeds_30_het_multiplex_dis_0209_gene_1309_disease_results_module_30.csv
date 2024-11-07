@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,20,0.6467806041335453
+2,disease_on_drugs,25,30,0.2775757575757576

@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,-0.016937838965373375
+1,disease_on_symptoms,17,27,1.0879382055852642
+2,disease_on_drugs,26,16,0.6041666666666667

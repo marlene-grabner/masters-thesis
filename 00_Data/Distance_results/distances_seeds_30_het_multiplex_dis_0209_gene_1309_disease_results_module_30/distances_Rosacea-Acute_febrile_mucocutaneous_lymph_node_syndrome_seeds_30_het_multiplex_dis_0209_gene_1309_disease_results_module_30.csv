@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.13333333333333341
+1,disease_on_symptoms,18,13,0.22601323407775054
+2,disease_on_drugs,30,28,-0.1536535303776685

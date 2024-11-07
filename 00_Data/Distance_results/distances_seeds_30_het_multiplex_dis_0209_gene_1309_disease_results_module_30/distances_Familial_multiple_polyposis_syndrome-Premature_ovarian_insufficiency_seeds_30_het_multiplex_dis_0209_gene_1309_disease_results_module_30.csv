@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,18,0.2733127864706808
+2,disease_on_drugs,25,22,0.08150870406189559

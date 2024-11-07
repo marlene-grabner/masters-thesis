@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,29,30,0.11864406779661008
+1,disease_on_symptoms,23,20,0.3623862487360969
+2,disease_on_drugs,26,23,-0.023991536413896508

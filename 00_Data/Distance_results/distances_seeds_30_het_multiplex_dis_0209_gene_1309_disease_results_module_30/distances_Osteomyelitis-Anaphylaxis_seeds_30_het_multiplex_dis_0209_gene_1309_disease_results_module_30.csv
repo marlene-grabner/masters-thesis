@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.06920077972709548
+1,disease_on_symptoms,22,14,0.44805194805194803
+2,disease_on_drugs,28,26,0.0937627187627188

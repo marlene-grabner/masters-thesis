@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,0.04755944931163958
+1,disease_on_symptoms,9,24,0.7897727272727271
+2,disease_on_drugs,23,16,0.48644788182831666

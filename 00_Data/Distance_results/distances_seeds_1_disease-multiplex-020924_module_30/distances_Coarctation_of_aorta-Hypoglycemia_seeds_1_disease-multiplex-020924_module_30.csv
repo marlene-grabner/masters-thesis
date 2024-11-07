@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,0.3157894736842106
+1,disease_on_symptoms,14,12,2.078754578754579
+2,disease_on_drugs,13,22,0.5142857142857142

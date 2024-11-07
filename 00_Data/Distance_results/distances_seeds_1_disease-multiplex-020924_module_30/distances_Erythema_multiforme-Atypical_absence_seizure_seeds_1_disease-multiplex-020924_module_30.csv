@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.23785310734463283
+1,disease_on_symptoms,16,15,1.6894489247311828
+2,disease_on_drugs,30,27,0.9454191033138399

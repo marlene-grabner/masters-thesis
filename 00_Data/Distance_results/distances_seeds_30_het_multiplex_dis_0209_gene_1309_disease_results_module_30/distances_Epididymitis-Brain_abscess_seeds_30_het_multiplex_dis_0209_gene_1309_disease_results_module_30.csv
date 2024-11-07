@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,29,27,-0.125
+1,disease_on_symptoms,23,21,0.11791831357048732
+2,disease_on_drugs,26,23,-0.12869428707938035

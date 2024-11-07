@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,29,9,0.17866505343819306
+1,disease_on_symptoms,17,27,0.5172311348781935
+2,disease_on_drugs,30,9,1.0256410256410255

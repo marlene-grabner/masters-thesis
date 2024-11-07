@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,24,0.1371187363834423
+1,disease_on_symptoms,21,17,2.259545923632611
+2,disease_on_drugs,27,23,0.6829629629629628

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.020901856763925863
+1,disease_on_symptoms,19,18,1.3589773984510827
+2,disease_on_drugs,24,19,0.2931456548347613

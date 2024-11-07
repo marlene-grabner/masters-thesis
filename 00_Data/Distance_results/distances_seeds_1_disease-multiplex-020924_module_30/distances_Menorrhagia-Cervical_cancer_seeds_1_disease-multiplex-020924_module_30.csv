@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,27,0.33888351341181533
+1,disease_on_symptoms,19,23,1.1593113217827178
+2,disease_on_drugs,24,15,0.4714743589743591

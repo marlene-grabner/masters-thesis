@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,-0.19298245614035092
+1,disease_on_symptoms,17,15,0.570955882352941
+2,disease_on_drugs,24,30,-0.009722222222222188

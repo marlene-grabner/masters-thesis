@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,24,28,0.11688588478869799
+1,disease_on_symptoms,23,20,1.3479271991911022
+2,disease_on_drugs,20,27,0.23031914893617023

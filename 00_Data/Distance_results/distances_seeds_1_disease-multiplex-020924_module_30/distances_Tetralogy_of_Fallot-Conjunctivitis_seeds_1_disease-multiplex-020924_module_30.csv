@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.35165692007797267
+1,disease_on_symptoms,14,27,1.7647438379145695
+2,disease_on_drugs,11,26,0.9074844074844077

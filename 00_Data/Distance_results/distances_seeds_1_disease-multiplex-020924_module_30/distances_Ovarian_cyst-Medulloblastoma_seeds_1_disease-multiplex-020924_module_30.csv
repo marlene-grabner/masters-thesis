@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,20,26,0.31630434782608696
+1,disease_on_symptoms,22,19,1.200460963939783
+2,disease_on_drugs,15,24,0.6227564102564103

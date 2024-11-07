@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.4166666666666665
+1,disease_on_symptoms,15,26,0.4608192620387741
+2,disease_on_drugs,21,28,1.2210884353741496

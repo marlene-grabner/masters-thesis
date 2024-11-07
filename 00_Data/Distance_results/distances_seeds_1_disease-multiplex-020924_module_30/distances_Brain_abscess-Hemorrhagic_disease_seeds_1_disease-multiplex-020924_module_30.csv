@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,24,0.29724945533769054
+1,disease_on_symptoms,21,19,1.348496240601504
+2,disease_on_drugs,23,19,0.6452544404489484

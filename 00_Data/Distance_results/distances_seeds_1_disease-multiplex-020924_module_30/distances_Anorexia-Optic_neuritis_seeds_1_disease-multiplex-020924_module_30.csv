@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,17,27,0.1862249950485242
+1,disease_on_symptoms,25,16,1.508810975609756
+2,disease_on_drugs,13,27,0.7995014245014245

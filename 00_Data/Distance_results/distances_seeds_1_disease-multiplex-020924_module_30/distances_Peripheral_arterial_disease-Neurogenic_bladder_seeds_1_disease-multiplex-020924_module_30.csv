@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.3721212121212121
+1,disease_on_symptoms,14,17,1.288899430740038
+2,disease_on_drugs,22,26,0.6458333333333333

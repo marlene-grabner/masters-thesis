@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,10,22,0.33806818181818166
+1,disease_on_symptoms,27,19,2.229129587253157
+2,disease_on_drugs,9,18,0.15740740740740744

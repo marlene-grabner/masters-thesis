@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,0.19921023965141615
+1,disease_on_symptoms,22,21,1.1836303231652068
+2,disease_on_drugs,26,24,1.0358333333333336

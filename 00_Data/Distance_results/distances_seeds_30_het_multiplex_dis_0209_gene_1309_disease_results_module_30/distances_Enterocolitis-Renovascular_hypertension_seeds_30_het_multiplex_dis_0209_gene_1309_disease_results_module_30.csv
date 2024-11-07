@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,21,17,0.4957983193277311
+2,disease_on_drugs,25,29,-0.2555810983397191

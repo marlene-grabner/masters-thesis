@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,-0.3141327300150829
+1,disease_on_symptoms,20,21,-0.2920441347270615
+2,disease_on_drugs,20,24,-0.26515151515151536

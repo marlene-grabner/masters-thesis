@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,24,30,0.14768518518518503
+1,disease_on_symptoms,17,16,2.0262923351158646
+2,disease_on_drugs,23,23,0.7826086956521741

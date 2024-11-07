@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,14,21,-0.2880952380952382
+2,disease_on_drugs,24,29,-0.39954727824766856

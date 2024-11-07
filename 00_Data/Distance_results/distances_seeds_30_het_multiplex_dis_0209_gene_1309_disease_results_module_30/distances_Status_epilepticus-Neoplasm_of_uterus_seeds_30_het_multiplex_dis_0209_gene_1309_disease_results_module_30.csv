@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,18,18,0.05555555555555536
+2,disease_on_drugs,30,26,0.10384615384615392

@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,22,30,0.25256410256410255
+1,disease_on_symptoms,24,16,0.9020833333333336
+2,disease_on_drugs,19,30,0.5590225563909772

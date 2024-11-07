@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,29,14,0.27262573032420656
+1,disease_on_symptoms,17,25,1.8993837535014002
+2,disease_on_drugs,26,10,0.6807692307692306

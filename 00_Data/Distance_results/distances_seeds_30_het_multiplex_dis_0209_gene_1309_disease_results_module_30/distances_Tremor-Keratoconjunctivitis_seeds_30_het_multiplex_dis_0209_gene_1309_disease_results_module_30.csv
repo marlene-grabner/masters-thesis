@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,-0.1428571428571429
+1,disease_on_symptoms,17,20,1.3657790143084259
+2,disease_on_drugs,24,27,0.16748366013071903

@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.27463054187192126
+1,disease_on_symptoms,16,25,0.4938414634146344
+2,disease_on_drugs,24,23,0.7233464384828863

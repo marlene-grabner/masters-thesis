@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.11804987336840034
+1,disease_on_symptoms,25,16,0.8103048780487805
+2,disease_on_drugs,26,25,0.4121417797888387

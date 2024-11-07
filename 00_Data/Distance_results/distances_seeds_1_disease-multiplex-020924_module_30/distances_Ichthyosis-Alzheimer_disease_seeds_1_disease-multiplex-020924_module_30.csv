@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,20,0.19604018912529542
+1,disease_on_symptoms,17,23,1.015601023017903
+2,disease_on_drugs,24,18,0.30952380952380953

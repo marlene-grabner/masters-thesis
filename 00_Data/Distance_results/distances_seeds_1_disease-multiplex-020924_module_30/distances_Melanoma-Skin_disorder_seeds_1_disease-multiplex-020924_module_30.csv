@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Skin_disorder nodes,sAB
+0,disease_on_genes,24,7,0.23732718894009208
+1,disease_on_symptoms,23,30,2.902980585179108
+2,disease_on_drugs,22,6,0.7738095238095237

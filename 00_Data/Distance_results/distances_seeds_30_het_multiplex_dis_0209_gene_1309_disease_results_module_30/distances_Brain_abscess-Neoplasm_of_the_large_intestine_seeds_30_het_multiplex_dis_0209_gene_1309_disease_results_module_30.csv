@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,21,22,0.5611346018322765
+2,disease_on_drugs,23,29,-0.19020297543535913

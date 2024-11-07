@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,0.3109195402298852
+1,disease_on_symptoms,26,16,1.3873626373626375
+2,disease_on_drugs,28,23,0.6598922177566677

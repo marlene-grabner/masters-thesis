@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pruritus nodes,sAB
+0,disease_on_genes,26,26,0.019562594268476508
+1,disease_on_symptoms,19,19,1.131578947368421
+2,disease_on_drugs,24,24,0.3749999999999998

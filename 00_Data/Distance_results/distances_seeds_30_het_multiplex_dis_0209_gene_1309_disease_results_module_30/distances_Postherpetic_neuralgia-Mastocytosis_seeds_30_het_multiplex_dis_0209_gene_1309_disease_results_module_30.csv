@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,24,0.5708333333333333
+2,disease_on_drugs,29,20,0.2719739619985926

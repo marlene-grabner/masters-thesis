@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,18,0.592670401493931
+2,disease_on_drugs,26,26,0.15384615384615374

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Tremor nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,20,17,1.3779411764705882
+2,disease_on_drugs,27,24,0.41040305010893263

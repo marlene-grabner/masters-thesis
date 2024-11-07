@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.18961412151067303
+1,disease_on_symptoms,18,19,0.9682709024814287
+2,disease_on_drugs,25,26,0.13647058823529412

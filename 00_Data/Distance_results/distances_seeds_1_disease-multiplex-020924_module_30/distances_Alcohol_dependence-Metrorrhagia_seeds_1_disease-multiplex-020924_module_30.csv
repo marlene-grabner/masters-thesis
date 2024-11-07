@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,12,27,0.21474358974358987
+1,disease_on_symptoms,27,17,1.80119825708061
+2,disease_on_drugs,9,26,0.6504273504273506

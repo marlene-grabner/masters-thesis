@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,27,18,0.1777777777777778
+1,disease_on_symptoms,18,21,2.59004884004884
+2,disease_on_drugs,22,17,0.09159467982997382

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,17,18,0.23608776844070967
+2,disease_on_drugs,25,23,-0.0015579710144928427

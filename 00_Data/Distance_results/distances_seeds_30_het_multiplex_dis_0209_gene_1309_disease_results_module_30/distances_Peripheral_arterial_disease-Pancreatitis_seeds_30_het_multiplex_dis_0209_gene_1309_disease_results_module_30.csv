@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,17,17,0.02941176470588247
+2,disease_on_drugs,24,30,-0.13564814814814818

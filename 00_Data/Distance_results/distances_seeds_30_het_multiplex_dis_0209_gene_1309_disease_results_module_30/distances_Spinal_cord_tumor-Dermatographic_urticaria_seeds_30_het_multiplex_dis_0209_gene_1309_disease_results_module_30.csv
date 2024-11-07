@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,0.13793103448275867
+1,disease_on_symptoms,14,18,0.44444444444444464
+2,disease_on_drugs,22,28,0.32558441558441564

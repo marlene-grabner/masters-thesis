@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,27,-0.07407407407407407
+1,disease_on_symptoms,18,22,0.3792929292929297
+2,disease_on_drugs,25,27,0.1357549857549858

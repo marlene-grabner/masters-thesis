@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,17,24,0.2517635102821614
+1,disease_on_symptoms,25,17,1.714733893557423
+2,disease_on_drugs,13,23,0.9615384615384617

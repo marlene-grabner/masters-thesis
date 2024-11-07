@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,30,0.067251461988304
+1,disease_on_symptoms,22,14,0.49494949494949503
+2,disease_on_drugs,20,24,0.3882575757575757

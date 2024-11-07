@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,29,0.18066071859175303
+1,disease_on_symptoms,24,17,2.0192790530846483
+2,disease_on_drugs,24,30,1.4444444444444446

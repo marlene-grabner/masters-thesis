@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,17,23,0.5893861892583123
+2,disease_on_drugs,29,26,0.41637328189052325

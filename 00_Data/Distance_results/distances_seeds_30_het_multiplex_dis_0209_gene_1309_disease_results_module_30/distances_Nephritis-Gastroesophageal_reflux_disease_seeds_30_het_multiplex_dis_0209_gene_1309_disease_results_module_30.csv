@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,-0.0013736263736263687
+1,disease_on_symptoms,17,18,0.2884687208216621
+2,disease_on_drugs,25,25,0.1399999999999999

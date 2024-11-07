@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,-0.12757575757575756
+1,disease_on_symptoms,20,19,1.737145748987854
+2,disease_on_drugs,22,27,0.13524702810417089

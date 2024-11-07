@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.06363636363636349
+1,disease_on_symptoms,19,23,1.2845701209545601
+2,disease_on_drugs,29,20,0.041133004926108274

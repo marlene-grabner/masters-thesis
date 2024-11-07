@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Keloid nodes,sAB
+0,disease_on_genes,25,22,0.21624758220502893
+1,disease_on_symptoms,23,20,2.0674924165824065
+2,disease_on_drugs,19,19,1.0

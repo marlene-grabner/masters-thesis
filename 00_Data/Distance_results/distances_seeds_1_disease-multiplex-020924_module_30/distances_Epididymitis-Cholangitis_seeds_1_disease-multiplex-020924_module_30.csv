@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,29,27,-0.6448868819558475
+1,disease_on_symptoms,23,22,-0.9750548967940271
+2,disease_on_drugs,27,26,-0.56533892382949

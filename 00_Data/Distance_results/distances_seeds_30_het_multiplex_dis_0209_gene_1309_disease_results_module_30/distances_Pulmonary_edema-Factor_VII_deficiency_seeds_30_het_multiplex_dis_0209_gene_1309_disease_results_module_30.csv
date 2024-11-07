@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.17179802955665036
+1,disease_on_symptoms,11,19,0.8103668261562997
+2,disease_on_drugs,27,25,0.3652136752136752

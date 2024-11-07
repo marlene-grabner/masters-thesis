@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,24,20,-0.011742424242424221
+1,disease_on_symptoms,21,23,0.5156691134952005
+2,disease_on_drugs,24,17,0.524240793878527

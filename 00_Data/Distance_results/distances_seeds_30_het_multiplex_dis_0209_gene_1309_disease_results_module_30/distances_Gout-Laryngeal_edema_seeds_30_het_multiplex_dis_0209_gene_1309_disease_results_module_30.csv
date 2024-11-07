@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,28,30,-0.2069376026272579
+1,disease_on_symptoms,19,16,-0.1054041353383457
+2,disease_on_drugs,22,28,-0.28681818181818164

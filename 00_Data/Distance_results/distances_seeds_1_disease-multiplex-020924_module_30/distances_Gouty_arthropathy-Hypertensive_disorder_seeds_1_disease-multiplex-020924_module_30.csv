@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,25,26,0.19450980392156847
+1,disease_on_symptoms,13,15,2.1119047619047615
+2,disease_on_drugs,16,26,0.7068452380952381

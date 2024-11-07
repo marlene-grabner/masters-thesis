@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,22,26,0.6287878787878787
+1,disease_on_symptoms,24,15,0.9820512820512819
+2,disease_on_drugs,13,15,1.3619047619047617

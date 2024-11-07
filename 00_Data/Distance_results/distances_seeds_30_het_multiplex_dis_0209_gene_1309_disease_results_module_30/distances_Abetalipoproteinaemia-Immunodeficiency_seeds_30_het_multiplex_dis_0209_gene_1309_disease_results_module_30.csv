@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,14,26,0.03928571428571437
+1,disease_on_symptoms,26,21,0.9904917777258202
+2,disease_on_drugs,14,26,0.673901098901099

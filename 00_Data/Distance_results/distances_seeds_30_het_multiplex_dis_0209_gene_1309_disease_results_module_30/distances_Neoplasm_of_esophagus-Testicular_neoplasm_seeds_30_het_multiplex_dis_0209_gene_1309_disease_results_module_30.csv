@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,-0.29650063856960407
+1,disease_on_symptoms,20,26,0.002508361204013543
+2,disease_on_drugs,25,24,-0.2874149659863947

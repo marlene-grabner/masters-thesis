@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.14507486209613862
+1,disease_on_symptoms,21,26,0.6009469254150108
+2,disease_on_drugs,23,13,0.09392419175027888

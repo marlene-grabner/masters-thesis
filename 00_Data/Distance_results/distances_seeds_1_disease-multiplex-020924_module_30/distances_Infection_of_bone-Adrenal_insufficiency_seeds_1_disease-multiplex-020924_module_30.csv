@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,26,17,0.15852888561506884
+1,disease_on_symptoms,21,21,-0.07142857142857117
+2,disease_on_drugs,24,14,0.22697368421052633

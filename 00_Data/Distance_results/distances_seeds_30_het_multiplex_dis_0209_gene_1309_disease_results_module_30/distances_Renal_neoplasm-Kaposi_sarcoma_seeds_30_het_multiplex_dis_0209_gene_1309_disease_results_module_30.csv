@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,30,-0.13559322033898302
+1,disease_on_symptoms,20,16,-0.0888888888888888
+2,disease_on_drugs,28,28,0.0

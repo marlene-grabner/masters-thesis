@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,29,26,0.4716783216783218
+1,disease_on_symptoms,18,17,1.6828197945845007
+2,disease_on_drugs,22,18,0.8833333333333333

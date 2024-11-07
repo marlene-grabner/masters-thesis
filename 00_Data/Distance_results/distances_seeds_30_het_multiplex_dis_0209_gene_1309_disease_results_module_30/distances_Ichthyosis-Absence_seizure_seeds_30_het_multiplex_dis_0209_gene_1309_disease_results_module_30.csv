@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,28,30,0.13731527093596063
+1,disease_on_symptoms,18,14,0.9250992063492065
+2,disease_on_drugs,25,22,0.2078916827852999

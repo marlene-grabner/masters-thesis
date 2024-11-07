@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,0.42166666666666663
+1,disease_on_symptoms,17,23,1.1700127877237851
+2,disease_on_drugs,17,18,0.3999999999999999

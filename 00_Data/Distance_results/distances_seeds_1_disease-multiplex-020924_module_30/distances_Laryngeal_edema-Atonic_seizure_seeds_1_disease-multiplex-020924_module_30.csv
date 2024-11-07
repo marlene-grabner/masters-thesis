@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.3725891291642316
+1,disease_on_symptoms,20,16,1.5861111111111112
+2,disease_on_drugs,28,24,0.9464285714285714

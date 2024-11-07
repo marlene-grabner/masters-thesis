@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,25,9,0.10339869281045755
+1,disease_on_symptoms,18,27,1.8111111111111113
+2,disease_on_drugs,23,9,0.625

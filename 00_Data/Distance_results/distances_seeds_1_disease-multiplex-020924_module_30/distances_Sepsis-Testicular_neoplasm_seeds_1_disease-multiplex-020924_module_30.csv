@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,22,25,0.18678916827852987
+1,disease_on_symptoms,23,25,1.6182971014492753
+2,disease_on_drugs,17,23,1.04769820971867

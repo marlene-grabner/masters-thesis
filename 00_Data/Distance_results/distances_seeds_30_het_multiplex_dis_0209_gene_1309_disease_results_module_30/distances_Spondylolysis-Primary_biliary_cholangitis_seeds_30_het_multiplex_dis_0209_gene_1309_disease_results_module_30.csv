@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,28,26,0.09259259259259256
+1,disease_on_symptoms,17,23,0.40115089514066504
+2,disease_on_drugs,19,26,0.22159244264507438

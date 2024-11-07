@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,29,-0.11111111111111116
+1,disease_on_symptoms,17,20,0.7177265500794914
+2,disease_on_drugs,21,28,0.0960884353741498

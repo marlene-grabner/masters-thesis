@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,0.07829520697167758
+1,disease_on_symptoms,22,21,0.463228631833283
+2,disease_on_drugs,24,24,0.75

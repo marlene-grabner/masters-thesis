@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.019047619047619202
+1,disease_on_symptoms,22,21,0.5349843954495119
+2,disease_on_drugs,29,26,0.12380033759344111

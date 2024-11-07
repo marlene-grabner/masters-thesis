@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,-0.30188679245283023
+1,disease_on_symptoms,22,20,-0.6521645021645022
+2,disease_on_drugs,23,24,-0.36177921677459157

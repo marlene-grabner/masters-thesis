@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,0.14624542124542117
+1,disease_on_symptoms,23,20,1.4835187057633976
+2,disease_on_drugs,25,24,0.9991496598639458

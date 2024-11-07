@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,20,19,0.20931174089068838
+2,disease_on_drugs,23,28,-0.15990744123736444

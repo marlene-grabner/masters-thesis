@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Sarcoma nodes,sAB
+0,disease_on_genes,20,25,-0.002777777777777768
+1,disease_on_symptoms,25,26,0.568129713423831
+2,disease_on_drugs,19,21,-0.10263157894736863

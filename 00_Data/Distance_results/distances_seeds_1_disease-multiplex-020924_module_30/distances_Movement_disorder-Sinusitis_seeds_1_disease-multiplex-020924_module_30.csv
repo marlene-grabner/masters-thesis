@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.6098577829729201
+1,disease_on_symptoms,22,21,1.227549582200745
+2,disease_on_drugs,15,28,1.00921926910299

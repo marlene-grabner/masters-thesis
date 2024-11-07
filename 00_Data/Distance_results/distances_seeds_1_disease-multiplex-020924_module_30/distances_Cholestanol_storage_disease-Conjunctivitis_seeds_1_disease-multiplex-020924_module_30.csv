@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.3323586744639375
+1,disease_on_symptoms,17,27,0.8465042582689644
+2,disease_on_drugs,25,26,0.8023227752639517

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.08788998357963851
+1,disease_on_symptoms,23,20,0.6253791708796763
+2,disease_on_drugs,29,28,0.720205686630369

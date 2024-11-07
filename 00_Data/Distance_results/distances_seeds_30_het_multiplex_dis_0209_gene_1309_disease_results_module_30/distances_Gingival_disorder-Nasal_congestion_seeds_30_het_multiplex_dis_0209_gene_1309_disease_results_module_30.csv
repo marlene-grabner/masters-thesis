@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,19,14,-0.18609022556390986
+2,disease_on_drugs,24,25,-0.1842346938775512

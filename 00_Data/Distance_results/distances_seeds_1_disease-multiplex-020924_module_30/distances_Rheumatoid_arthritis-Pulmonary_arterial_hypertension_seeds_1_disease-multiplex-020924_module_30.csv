@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.14476911976911966
+1,disease_on_symptoms,15,18,2.094444444444444
+2,disease_on_drugs,25,26,0.5097888386123681

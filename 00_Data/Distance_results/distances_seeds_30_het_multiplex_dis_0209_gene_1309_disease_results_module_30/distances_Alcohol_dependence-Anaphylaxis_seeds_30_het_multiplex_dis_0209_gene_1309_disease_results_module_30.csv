@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.01832358674463941
+1,disease_on_symptoms,18,14,1.4231150793650793
+2,disease_on_drugs,24,26,0.23897435897435892

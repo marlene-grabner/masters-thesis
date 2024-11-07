@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.02005494505494476
+1,disease_on_symptoms,16,21,0.9931628056628057
+2,disease_on_drugs,29,23,0.13461538461538458

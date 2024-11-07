@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.3899747986969082
+1,disease_on_symptoms,16,20,2.1006944444444446
+2,disease_on_drugs,23,19,0.5496894409937887

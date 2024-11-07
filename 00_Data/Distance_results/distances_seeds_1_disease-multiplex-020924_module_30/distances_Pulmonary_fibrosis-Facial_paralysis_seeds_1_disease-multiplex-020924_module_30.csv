@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,24,14,0.06375313283208017
+1,disease_on_symptoms,22,23,1.1335309617918314
+2,disease_on_drugs,24,14,0.23684210526315796

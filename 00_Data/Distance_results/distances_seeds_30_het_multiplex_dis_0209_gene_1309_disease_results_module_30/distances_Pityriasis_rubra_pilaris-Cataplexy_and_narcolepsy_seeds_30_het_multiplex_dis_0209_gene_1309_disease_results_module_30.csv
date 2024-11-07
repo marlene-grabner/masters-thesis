@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,27,25,-0.15242165242165262
+1,disease_on_symptoms,21,19,0.9745614035087717
+2,disease_on_drugs,25,18,-0.18405684754521956

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,27,29,0.1785714285714286
+1,disease_on_symptoms,22,18,0.6648989898989897
+2,disease_on_drugs,23,28,0.492175130921934

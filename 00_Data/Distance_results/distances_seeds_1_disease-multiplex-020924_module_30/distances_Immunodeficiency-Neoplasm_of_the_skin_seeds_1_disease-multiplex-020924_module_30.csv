@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,22,28,0.18038961038961054
+1,disease_on_symptoms,19,21,0.761278195488722
+2,disease_on_drugs,18,24,0.3055555555555556

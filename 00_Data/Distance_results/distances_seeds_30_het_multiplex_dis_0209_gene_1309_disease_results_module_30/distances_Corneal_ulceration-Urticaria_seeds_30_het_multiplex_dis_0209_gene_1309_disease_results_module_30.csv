@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Urticaria nodes,sAB
+0,disease_on_genes,28,24,0.07829670329670346
+1,disease_on_symptoms,15,21,0.39761904761904754
+2,disease_on_drugs,23,24,-0.10694187480727724

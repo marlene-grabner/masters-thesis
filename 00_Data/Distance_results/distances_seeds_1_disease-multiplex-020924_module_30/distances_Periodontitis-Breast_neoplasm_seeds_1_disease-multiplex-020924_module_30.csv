@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,23,30,0.19893355209187868
+1,disease_on_symptoms,25,16,0.8982621951219514
+2,disease_on_drugs,22,30,0.97027972027972

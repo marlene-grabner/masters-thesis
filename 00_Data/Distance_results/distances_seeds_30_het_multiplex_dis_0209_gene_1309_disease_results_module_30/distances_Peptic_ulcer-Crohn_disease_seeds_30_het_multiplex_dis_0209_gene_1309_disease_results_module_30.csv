@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1607142857142857
+1,disease_on_symptoms,20,22,-0.2773809523809523
+2,disease_on_drugs,30,24,0.07314814814814818

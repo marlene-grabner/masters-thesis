@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,28,-0.0006265664160398643
+1,disease_on_symptoms,14,25,-0.3326739926739928
+2,disease_on_drugs,28,23,0.09164535379369165

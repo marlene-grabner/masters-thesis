@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,28,30,0.39991789819376033
+1,disease_on_symptoms,15,17,1.8355392156862744
+2,disease_on_drugs,21,26,1.0638297872340425

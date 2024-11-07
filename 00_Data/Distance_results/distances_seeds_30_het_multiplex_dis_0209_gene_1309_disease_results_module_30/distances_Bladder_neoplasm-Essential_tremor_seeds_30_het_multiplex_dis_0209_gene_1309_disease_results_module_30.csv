@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,-0.021276595744680882
+1,disease_on_symptoms,19,23,1.2237114525444044
+2,disease_on_drugs,25,21,0.40269151138716364

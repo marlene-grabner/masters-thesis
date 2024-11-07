@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,14,28,0.4702380952380951
+1,disease_on_symptoms,25,19,2.3311483253588516
+2,disease_on_drugs,10,26,0.95

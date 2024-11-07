@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,0.07792207792207795
+1,disease_on_symptoms,11,26,0.13277263277263263
+2,disease_on_drugs,27,14,0.20141308555942694

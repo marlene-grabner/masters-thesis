@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,21,0.24628339140534283
+2,disease_on_drugs,24,29,0.15121448709607455

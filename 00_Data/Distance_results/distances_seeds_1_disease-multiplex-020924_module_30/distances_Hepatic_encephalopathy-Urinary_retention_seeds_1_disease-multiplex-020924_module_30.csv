@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,9,30,0.21551724137931028
+1,disease_on_symptoms,27,18,2.15
+2,disease_on_drugs,9,19,0.599624060150376

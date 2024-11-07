@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.3214285714285714
+1,disease_on_symptoms,22,20,-0.6694805194805196
+2,disease_on_drugs,30,24,-0.2870370370370372

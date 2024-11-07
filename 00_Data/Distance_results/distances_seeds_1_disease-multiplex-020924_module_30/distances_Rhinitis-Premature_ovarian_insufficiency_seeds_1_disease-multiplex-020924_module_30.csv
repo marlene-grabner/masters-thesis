@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.310691823899371
+1,disease_on_symptoms,15,22,0.8742014742014739
+2,disease_on_drugs,22,17,0.7579185520361991

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666666
+1,disease_on_symptoms,18,19,-0.2956377430061641
+2,disease_on_drugs,27,29,-0.09065407772304346

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,25,25,0.3599999999999999
+1,disease_on_symptoms,16,24,1.8791666666666664
+2,disease_on_drugs,17,23,0.8955882352941178

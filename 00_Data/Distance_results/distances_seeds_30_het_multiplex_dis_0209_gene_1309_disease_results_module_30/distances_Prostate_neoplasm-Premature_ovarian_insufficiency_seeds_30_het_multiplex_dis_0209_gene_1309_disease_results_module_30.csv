@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,21,30,-0.13851540616246505
+1,disease_on_symptoms,20,18,0.1217836257309941
+2,disease_on_drugs,21,22,-0.16072687002919572

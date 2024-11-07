@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,20,14,1.897689075630252
+2,disease_on_drugs,25,22,0.5483172147001936

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,27,0.07582110412299081
+1,disease_on_symptoms,19,23,0.8735970360684318
+2,disease_on_drugs,24,15,-0.14391025641025634

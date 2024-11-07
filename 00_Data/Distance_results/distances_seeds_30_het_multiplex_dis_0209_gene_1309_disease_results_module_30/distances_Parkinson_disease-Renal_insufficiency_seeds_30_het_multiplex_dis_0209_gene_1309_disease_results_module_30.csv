@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,23,30,-0.16981132075471694
+1,disease_on_symptoms,23,19,0.7724746649231777
+2,disease_on_drugs,22,28,-0.10831168831168814

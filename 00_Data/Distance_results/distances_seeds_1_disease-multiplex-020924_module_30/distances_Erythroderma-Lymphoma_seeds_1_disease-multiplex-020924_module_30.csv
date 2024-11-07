@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.16291208791208778
+1,disease_on_symptoms,19,21,0.5278195488721802
+2,disease_on_drugs,28,25,0.22415094339622632

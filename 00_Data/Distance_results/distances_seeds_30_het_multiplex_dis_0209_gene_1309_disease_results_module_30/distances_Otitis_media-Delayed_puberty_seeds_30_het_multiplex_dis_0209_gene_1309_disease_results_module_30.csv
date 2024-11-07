@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,29,30,0.08445353594389249
+1,disease_on_symptoms,20,16,0.5944444444444446
+2,disease_on_drugs,28,29,0.33325771324863895

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,26,-0.09615384615384615
+1,disease_on_symptoms,16,22,1.4671052631578947
+2,disease_on_drugs,26,24,-0.07474358974358997

@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.2549999999999999
+1,disease_on_symptoms,23,24,0.3009751773049645
+2,disease_on_drugs,30,18,0.5388888888888888

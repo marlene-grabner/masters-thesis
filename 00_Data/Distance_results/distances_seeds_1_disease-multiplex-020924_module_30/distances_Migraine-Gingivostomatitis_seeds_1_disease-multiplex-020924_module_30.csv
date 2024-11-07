@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,14,23,1.0626154104414973
+2,disease_on_drugs,29,29,0.3448275862068966

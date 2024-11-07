@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Sarcoma nodes,sAB
+0,disease_on_genes,22,25,0.035299806576402304
+1,disease_on_symptoms,25,26,0.43205128205128207
+2,disease_on_drugs,18,21,-0.15384615384615385

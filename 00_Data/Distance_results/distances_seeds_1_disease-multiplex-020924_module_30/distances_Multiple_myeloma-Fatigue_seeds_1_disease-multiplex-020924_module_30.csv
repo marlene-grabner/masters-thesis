@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Fatigue nodes,sAB
+0,disease_on_genes,26,26,0.09615384615384626
+1,disease_on_symptoms,21,21,1.476190476190476
+2,disease_on_drugs,25,26,0.8038914027149322

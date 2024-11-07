@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,14,0.3060515873015872
+2,disease_on_drugs,28,25,-0.17078167115902976

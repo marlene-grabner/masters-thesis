@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,16,19,0.9441729323308268
+2,disease_on_drugs,25,25,0.33999999999999986

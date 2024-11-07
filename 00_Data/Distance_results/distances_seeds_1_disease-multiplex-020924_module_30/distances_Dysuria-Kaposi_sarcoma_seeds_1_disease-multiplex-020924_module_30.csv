@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.3063740856844306
+1,disease_on_symptoms,16,27,2.0942344961240313
+2,disease_on_drugs,23,13,1.1449275362318838

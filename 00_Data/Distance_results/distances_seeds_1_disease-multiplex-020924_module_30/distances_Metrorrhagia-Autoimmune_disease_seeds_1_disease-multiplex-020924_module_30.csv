@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,22,0.2152133580705009
+1,disease_on_symptoms,17,19,0.6832645338837287
+2,disease_on_drugs,26,19,0.6241115609536663

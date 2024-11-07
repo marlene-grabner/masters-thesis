@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,23,26,0.20408163265306123
+1,disease_on_symptoms,16,20,0.9520833333333334
+2,disease_on_drugs,17,25,0.34593837535013994

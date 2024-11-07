@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,21,15,-0.10555555555555562
+2,disease_on_drugs,23,25,-0.4207246376811594

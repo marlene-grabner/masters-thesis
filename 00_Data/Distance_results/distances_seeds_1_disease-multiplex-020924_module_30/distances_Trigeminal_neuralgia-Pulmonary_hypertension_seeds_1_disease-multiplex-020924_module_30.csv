@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,28,28,0.1607142857142856
+1,disease_on_symptoms,19,20,1.1869095816464237
+2,disease_on_drugs,26,28,0.6844729344729346

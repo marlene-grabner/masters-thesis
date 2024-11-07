@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,26,30,0.161904761904762
+1,disease_on_symptoms,21,24,0.980952380952381
+2,disease_on_drugs,24,28,0.5837912087912087

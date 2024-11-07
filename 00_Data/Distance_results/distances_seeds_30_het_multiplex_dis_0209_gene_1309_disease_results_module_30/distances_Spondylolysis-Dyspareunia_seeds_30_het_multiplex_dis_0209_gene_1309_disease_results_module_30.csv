@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,28,29,-0.14035087719298245
+1,disease_on_symptoms,17,20,0.32265500794912594
+2,disease_on_drugs,19,28,-0.15523516237402024

@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.15509031198686363
+1,disease_on_symptoms,25,24,0.6561734693877552
+2,disease_on_drugs,23,24,0.31864785692260256

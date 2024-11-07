@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,27,25,0.28905982905982897
+1,disease_on_symptoms,17,20,0.5866057233704294
+2,disease_on_drugs,24,14,0.31390977443609014

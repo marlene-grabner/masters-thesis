@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Uveitis nodes,sAB
+0,disease_on_genes,9,30,-0.34572649572649583
+1,disease_on_symptoms,27,21,-0.2956349206349206
+2,disease_on_drugs,9,27,-0.07407407407407418

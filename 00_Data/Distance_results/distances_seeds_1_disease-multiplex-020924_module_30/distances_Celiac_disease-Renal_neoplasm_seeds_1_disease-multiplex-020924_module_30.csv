@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,17,22,0.160873440285205
+1,disease_on_symptoms,22,25,3.1765957446808506
+2,disease_on_drugs,15,18,0.3909090909090911

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,0.21140350877192993
+1,disease_on_symptoms,21,25,0.7811594202898553
+2,disease_on_drugs,23,29,0.017356706262253496

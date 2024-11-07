@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,27,30,0.05253411306042888
+1,disease_on_symptoms,17,17,0.6176470588235294
+2,disease_on_drugs,24,26,0.22249999999999992

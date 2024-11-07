@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,20,17,0.8252384737678855
+2,disease_on_drugs,28,29,0.10827715841327468

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,23,23,-0.17391304347826086
+1,disease_on_symptoms,21,25,0.32202898550724646
+2,disease_on_drugs,19,18,-0.35360360360360377

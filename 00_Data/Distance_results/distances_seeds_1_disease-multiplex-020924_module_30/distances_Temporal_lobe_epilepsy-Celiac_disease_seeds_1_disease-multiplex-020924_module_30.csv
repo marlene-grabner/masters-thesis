@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,29,17,0.27176117823441204
+1,disease_on_symptoms,17,22,2.9374057315233784
+2,disease_on_drugs,26,15,0.9962163852407755

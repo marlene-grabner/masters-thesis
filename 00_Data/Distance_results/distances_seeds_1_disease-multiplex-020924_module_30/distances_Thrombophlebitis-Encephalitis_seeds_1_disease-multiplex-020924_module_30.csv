@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,28,0.5
+1,disease_on_symptoms,15,17,1.348406862745098
+2,disease_on_drugs,21,18,1.3076923076923075

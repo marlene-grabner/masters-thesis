@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,29,26,0.4353146853146854
+1,disease_on_symptoms,18,21,1.2045177045177045
+2,disease_on_drugs,22,24,1.2391304347826089

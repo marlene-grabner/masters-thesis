@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,23,0.5532130161334428
+1,disease_on_symptoms,22,16,1.9427332535885167
+2,disease_on_drugs,15,22,0.8729729729729729

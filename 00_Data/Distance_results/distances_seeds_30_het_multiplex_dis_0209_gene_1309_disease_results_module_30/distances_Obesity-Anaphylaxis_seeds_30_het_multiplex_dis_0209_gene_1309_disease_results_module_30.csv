@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,-0.07407407407407396
+1,disease_on_symptoms,18,14,1.9995039682539684
+2,disease_on_drugs,25,26,0.2344645550527904

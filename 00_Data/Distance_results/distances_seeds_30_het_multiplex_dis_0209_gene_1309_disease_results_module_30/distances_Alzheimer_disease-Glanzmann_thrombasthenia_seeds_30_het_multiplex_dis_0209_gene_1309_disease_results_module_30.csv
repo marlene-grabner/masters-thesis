@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,23,24,-0.08510638297872342
+1,disease_on_symptoms,19,19,0.6052631578947367
+2,disease_on_drugs,19,24,0.0739749082007346

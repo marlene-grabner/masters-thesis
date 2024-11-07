@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,23,26,-0.12244897959183676
+1,disease_on_symptoms,23,22,0.465810276679842
+2,disease_on_drugs,22,26,-0.09833916083916083

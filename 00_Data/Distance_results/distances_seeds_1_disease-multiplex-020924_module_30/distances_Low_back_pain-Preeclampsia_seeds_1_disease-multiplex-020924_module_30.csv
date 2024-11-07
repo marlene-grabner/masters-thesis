@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,26,0.2511904761904762
+1,disease_on_symptoms,17,17,1.4705882352941178
+2,disease_on_drugs,26,23,0.39466589311309797

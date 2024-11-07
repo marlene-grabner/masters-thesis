@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.1060428849902535
+1,disease_on_symptoms,14,21,0.9904761904761903
+2,disease_on_drugs,29,24,0.4319968553459117

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,24,0.5718367346938775
+1,disease_on_symptoms,19,23,0.7859322218589955
+2,disease_on_drugs,13,24,0.9074844074844077

@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.3971674876847291
+1,disease_on_symptoms,18,22,1.3292929292929294
+2,disease_on_drugs,19,29,0.5151618269812461

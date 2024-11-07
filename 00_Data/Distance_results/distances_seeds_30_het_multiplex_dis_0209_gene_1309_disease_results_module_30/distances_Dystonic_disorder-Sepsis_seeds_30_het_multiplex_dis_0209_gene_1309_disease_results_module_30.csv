@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,15,1.2580882352941178
+2,disease_on_drugs,26,25,0.45128205128205123

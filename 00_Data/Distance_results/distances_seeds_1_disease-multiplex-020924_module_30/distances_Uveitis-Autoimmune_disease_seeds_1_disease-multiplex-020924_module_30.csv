@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,-0.0883449883449885
+1,disease_on_symptoms,21,19,0.5216165413533833
+2,disease_on_drugs,27,19,-0.0013560471226374826

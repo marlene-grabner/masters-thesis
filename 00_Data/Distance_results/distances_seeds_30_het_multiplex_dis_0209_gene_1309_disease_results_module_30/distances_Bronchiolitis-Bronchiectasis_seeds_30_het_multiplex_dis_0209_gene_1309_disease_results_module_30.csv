@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,28,30,-0.2586206896551724
+1,disease_on_symptoms,25,19,-0.5254066985645935
+2,disease_on_drugs,24,25,-0.3682993197278911

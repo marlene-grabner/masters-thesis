@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.01754385964912286
+1,disease_on_symptoms,23,20,0.19089989888776526
+2,disease_on_drugs,23,27,-0.19565217391304346

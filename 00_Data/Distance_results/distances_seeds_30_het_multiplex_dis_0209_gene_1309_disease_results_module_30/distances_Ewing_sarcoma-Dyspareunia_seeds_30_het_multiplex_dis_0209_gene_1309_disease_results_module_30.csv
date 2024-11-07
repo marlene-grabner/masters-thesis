@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,17,20,0.2781399046104931
+2,disease_on_drugs,24,28,0.1362179487179489

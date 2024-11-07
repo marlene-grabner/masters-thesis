@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,-0.06929824561403508
+1,disease_on_symptoms,17,22,0.07668312080076767
+2,disease_on_drugs,26,27,-0.11295221200881578

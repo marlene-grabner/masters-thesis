@@ -1,0 +1,4 @@
+,Layer,Disorder_of_orbital_region nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.019047619047619202
+1,disease_on_symptoms,18,21,0.15781440781440792
+2,disease_on_drugs,28,26,-0.15059015059015057

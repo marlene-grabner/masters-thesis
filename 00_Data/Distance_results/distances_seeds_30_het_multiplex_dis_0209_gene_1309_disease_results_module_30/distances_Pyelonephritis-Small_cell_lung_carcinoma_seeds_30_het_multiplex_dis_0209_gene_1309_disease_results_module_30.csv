@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,24,30,-0.1875000000000001
+1,disease_on_symptoms,19,19,0.26315789473684204
+2,disease_on_drugs,19,30,-0.25035803795202294

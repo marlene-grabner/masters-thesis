@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,23,27,-0.09929146537842182
+1,disease_on_symptoms,21,21,0.09523809523809534
+2,disease_on_drugs,19,23,-0.15424430641821962

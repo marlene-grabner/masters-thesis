@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,25,29,0.18074074074074065
+1,disease_on_symptoms,18,15,1.2757575757575759
+2,disease_on_drugs,23,29,0.46153846153846145

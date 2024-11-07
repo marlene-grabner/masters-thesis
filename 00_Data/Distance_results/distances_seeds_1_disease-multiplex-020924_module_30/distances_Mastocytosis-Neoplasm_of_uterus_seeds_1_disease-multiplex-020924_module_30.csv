@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,18,28,0.3138371290545203
+1,disease_on_symptoms,28,19,0.3514037753959365
+2,disease_on_drugs,17,28,0.43443043884220334

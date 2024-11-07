@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,16,22,-0.4982057416267942
+2,disease_on_drugs,28,29,-0.1422521821795868

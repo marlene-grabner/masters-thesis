@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,27,28,-0.03603896103896098
+1,disease_on_symptoms,22,15,0.6513923013923015
+2,disease_on_drugs,24,23,0.16921060746222638

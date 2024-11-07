@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,16,21,0.7382963320463318
+2,disease_on_drugs,21,27,0.08201058201058209

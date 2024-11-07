@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,25,21,0.15846790890269147
+1,disease_on_symptoms,16,22,1.5998803827751198
+2,disease_on_drugs,17,20,0.49423688394276644

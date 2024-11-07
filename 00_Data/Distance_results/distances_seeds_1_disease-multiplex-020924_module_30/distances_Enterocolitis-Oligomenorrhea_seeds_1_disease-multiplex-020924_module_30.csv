@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,28,0.45420875420875406
+1,disease_on_symptoms,21,12,1.4902597402597402
+2,disease_on_drugs,24,21,0.7966269841269842

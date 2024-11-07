@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.03486464315012294
+1,disease_on_symptoms,24,19,0.7670083639330887
+2,disease_on_drugs,20,22,0.12218614718614718

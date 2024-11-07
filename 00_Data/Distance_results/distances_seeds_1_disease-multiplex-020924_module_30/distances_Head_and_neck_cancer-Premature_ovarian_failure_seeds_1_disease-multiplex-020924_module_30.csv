@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,27,28,0.1087542087542086
+1,disease_on_symptoms,22,21,0.6249119097956304
+2,disease_on_drugs,24,21,0.11071428571428554

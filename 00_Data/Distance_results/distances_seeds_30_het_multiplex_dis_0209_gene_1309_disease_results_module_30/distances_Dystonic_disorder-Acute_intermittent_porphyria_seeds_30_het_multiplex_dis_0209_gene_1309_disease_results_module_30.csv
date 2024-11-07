@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.29824561403508776
+1,disease_on_symptoms,17,17,0.02941176470588247
+2,disease_on_drugs,26,24,-0.37955128205128197

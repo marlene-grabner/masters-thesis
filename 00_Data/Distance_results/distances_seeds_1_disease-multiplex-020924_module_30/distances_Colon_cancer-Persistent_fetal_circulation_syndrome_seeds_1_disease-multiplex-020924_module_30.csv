@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,26,25,0.35253393665158383
+1,disease_on_symptoms,21,20,1.827177700348432
+2,disease_on_drugs,24,18,1.1785714285714284

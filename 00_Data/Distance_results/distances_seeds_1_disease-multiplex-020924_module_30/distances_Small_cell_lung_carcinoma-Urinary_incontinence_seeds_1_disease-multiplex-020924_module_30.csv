@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,26,0.24274310595065307
+1,disease_on_symptoms,24,20,0.6666666666666665
+2,disease_on_drugs,25,20,0.8288888888888888

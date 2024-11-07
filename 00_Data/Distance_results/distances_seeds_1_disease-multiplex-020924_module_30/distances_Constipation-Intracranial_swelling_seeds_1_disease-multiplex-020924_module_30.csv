@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,17,14,0.6448902141501762
+2,disease_on_drugs,27,24,0.8626089324618735

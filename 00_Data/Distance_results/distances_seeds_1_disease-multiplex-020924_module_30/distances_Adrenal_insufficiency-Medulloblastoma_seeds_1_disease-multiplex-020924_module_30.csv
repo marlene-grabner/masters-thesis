@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,17,26,0.33652530779753764
+1,disease_on_symptoms,21,19,1.3719924812030078
+2,disease_on_drugs,14,24,0.7423245614035086

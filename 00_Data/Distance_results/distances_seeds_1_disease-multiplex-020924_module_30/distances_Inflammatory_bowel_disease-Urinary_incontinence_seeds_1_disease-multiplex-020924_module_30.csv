@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,17,26,0.32669413919413914
+1,disease_on_symptoms,27,20,1.112391646966115
+2,disease_on_drugs,14,20,0.5819327731092439

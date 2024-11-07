@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111116
+1,disease_on_symptoms,17,21,0.48245614035087714
+2,disease_on_drugs,24,26,-0.04673076923076924

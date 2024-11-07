@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,25,30,0.16515151515151527
+1,disease_on_symptoms,22,17,0.14777869189633908
+2,disease_on_drugs,25,17,0.02184873949579824

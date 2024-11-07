@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,21,18,0.36172161172161177
+2,disease_on_drugs,28,27,-0.018290043290043245

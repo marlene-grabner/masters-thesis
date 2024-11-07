@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,17,22,0.9378513643219526
+2,disease_on_drugs,27,28,0.5275974025974026

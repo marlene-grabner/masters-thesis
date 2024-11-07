@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,18,24,0.3561507936507935
+1,disease_on_symptoms,28,17,1.547829131652661
+2,disease_on_drugs,17,23,0.7911764705882354

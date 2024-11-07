@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Keloid nodes,sAB
+0,disease_on_genes,27,22,0.1994434137291281
+1,disease_on_symptoms,17,20,1.1196343402225757
+2,disease_on_drugs,25,19,1.0454545454545454

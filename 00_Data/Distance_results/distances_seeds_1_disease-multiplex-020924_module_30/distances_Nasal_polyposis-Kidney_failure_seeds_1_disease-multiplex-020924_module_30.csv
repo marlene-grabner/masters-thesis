@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,15,20,0.4380952380952381
+1,disease_on_symptoms,25,23,1.358876811594203
+2,disease_on_drugs,10,18,0.43174603174603154

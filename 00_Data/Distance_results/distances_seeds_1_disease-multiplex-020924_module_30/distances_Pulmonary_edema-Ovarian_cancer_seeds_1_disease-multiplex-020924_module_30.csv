@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.26315789473684204
+1,disease_on_symptoms,14,17,0.9931553266467876
+2,disease_on_drugs,27,25,0.8283475783475782

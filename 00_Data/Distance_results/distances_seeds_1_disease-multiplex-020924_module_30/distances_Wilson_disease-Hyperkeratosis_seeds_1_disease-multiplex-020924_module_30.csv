@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,23,26,0.19860419084021563
+1,disease_on_symptoms,19,21,1.6025689223057646
+2,disease_on_drugs,11,23,0.2058823529411764

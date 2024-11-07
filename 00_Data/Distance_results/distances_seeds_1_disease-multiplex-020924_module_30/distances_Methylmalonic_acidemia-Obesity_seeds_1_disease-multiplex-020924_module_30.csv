@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Obesity nodes,sAB
+0,disease_on_genes,25,26,0.2529260935143287
+1,disease_on_symptoms,16,20,1.9472222222222224
+2,disease_on_drugs,17,27,0.6835511982570806

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333348
+1,disease_on_symptoms,18,19,0.025644065117749193
+2,disease_on_drugs,26,29,0.004328430190499333

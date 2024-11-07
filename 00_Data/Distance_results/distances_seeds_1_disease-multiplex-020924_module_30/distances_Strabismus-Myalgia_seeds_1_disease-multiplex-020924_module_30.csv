@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Myalgia nodes,sAB
+0,disease_on_genes,13,30,0.06717352415026823
+1,disease_on_symptoms,26,16,0.4722985347985347
+2,disease_on_drugs,9,29,0.2865497076023391

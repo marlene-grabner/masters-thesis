@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,19,16,0.43209586466165417
+2,disease_on_drugs,30,28,0.2394909688013136

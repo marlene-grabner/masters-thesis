@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,21,22,0.7411406423034332
+2,disease_on_drugs,29,27,0.41317733990147776

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,25,30,0.5830303030303032
+1,disease_on_symptoms,19,14,0.9622920938710413
+2,disease_on_drugs,13,24,1.2318087318087318

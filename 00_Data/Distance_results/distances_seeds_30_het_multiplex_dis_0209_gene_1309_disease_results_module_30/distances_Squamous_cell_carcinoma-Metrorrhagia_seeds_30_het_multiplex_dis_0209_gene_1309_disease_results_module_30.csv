@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.26315789473684215
+1,disease_on_symptoms,22,17,-0.3137597696421226
+2,disease_on_drugs,30,26,-0.11675824175824179

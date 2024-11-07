@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.2129629629629628
+1,disease_on_symptoms,19,25,0.415980861244019
+2,disease_on_drugs,27,27,0.37037037037037046

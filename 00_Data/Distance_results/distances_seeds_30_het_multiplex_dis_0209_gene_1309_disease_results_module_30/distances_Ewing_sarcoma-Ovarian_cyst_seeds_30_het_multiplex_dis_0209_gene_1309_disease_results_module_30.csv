@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333332
+1,disease_on_symptoms,17,19,0.17337461300309598
+2,disease_on_drugs,24,24,-0.2499999999999999

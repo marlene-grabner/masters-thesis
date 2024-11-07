@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,0.1206896551724137
+1,disease_on_symptoms,20,25,0.4427777777777777
+2,disease_on_drugs,27,21,0.1521164021164021

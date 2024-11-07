@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,27,0.0185185185185186
+1,disease_on_symptoms,22,27,0.6904418332989759
+2,disease_on_drugs,26,26,0.28846153846153855

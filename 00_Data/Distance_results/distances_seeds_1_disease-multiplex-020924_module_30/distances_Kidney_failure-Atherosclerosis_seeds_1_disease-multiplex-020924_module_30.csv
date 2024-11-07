@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,20,30,0.020000000000000018
+1,disease_on_symptoms,23,13,0.35321441843180956
+2,disease_on_drugs,18,29,0.14420803782505898

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.28928571428571415
+1,disease_on_symptoms,15,15,1.1333333333333333
+2,disease_on_drugs,23,21,1.0431959345002824

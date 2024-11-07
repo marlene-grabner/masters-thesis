@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.017231638418079065
+1,disease_on_symptoms,17,15,0.2938725490196079
+2,disease_on_drugs,27,27,0.2222222222222221

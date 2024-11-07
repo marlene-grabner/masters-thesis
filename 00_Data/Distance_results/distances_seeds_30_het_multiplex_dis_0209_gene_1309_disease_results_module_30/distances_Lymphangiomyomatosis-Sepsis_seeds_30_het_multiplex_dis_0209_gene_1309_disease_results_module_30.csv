@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,30,0.1069597069597068
+1,disease_on_symptoms,17,15,1.1183823529411765
+2,disease_on_drugs,24,25,0.488860544217687

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,15,17,0.31691176470588234
+2,disease_on_drugs,25,30,-0.0060606060606061

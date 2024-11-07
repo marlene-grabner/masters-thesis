@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,20,0.31500000000000017
+1,disease_on_symptoms,14,25,1.3793772893772895
+2,disease_on_drugs,27,19,0.6059835579286379

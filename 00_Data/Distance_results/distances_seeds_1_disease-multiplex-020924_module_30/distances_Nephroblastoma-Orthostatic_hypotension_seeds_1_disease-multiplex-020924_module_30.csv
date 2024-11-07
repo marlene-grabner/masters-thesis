@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,25,30,0.4142424242424243
+1,disease_on_symptoms,25,12,1.4872522522522522
+2,disease_on_drugs,21,17,1.0495356037151704

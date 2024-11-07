@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,-0.44166666666666676
+1,disease_on_symptoms,21,27,-0.529431216931217
+2,disease_on_drugs,27,19,-0.5276718365963218

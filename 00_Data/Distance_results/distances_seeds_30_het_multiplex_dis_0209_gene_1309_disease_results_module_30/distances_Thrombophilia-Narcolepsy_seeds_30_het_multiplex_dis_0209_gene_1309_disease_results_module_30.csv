@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,27,25,0.05769230769230771
+1,disease_on_symptoms,18,20,1.7431286549707603
+2,disease_on_drugs,22,21,0.20922681969193602

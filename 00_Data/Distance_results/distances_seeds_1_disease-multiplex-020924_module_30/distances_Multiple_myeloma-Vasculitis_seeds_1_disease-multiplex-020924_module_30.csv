@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.3591666666666664
+1,disease_on_symptoms,21,19,1.2188596491228068
+2,disease_on_drugs,25,20,0.7322222222222221

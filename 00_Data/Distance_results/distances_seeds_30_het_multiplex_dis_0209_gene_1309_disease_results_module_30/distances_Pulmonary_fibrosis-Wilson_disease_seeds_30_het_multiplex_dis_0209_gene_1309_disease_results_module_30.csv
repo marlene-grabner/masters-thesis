@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,25,25,-0.06000000000000005
+1,disease_on_symptoms,22,19,-0.2292274477768701
+2,disease_on_drugs,25,22,-0.002321083172146965

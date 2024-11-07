@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,0.028787878787878807
+1,disease_on_symptoms,23,14,1.4422108443847574
+2,disease_on_drugs,20,26,0.3220735785953175

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Exanthem nodes,sAB
+0,disease_on_genes,25,28,0.371698113207547
+1,disease_on_symptoms,23,26,1.7465019452597095
+2,disease_on_drugs,19,28,0.9395896656534954

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.12007389162561588
+1,disease_on_symptoms,13,15,0.9388278388278386
+2,disease_on_drugs,19,23,0.2643020594965675

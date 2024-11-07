@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.1578947368421053
+1,disease_on_symptoms,18,16,0.7479575163398695
+2,disease_on_drugs,23,29,0.6387094914081421

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,0.31956863012763614
+1,disease_on_symptoms,21,24,1.9265873015873016
+2,disease_on_drugs,26,17,1.0545617173524153

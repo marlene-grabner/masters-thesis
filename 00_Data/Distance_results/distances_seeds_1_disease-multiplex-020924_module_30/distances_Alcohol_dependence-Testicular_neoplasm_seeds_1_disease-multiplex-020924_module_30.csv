@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,12,25,0.40481981981981985
+1,disease_on_symptoms,27,25,2.362962962962963
+2,disease_on_drugs,9,23,0.37666062801932365

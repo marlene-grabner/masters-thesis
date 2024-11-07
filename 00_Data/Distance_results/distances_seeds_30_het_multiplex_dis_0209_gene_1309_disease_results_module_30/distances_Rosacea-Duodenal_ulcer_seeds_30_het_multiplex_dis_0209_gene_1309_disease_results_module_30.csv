@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.25804597701149423
+1,disease_on_symptoms,18,17,0.6858543417366947
+2,disease_on_drugs,30,28,-0.18936781609195408

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,21,29,-0.09553366174055844
+1,disease_on_symptoms,22,21,0.07268700291956098
+2,disease_on_drugs,21,28,-0.053571428571428825

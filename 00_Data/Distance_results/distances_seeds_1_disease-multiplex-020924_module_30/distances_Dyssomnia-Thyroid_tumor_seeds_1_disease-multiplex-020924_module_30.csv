@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,18,23,0.10551431601272543
+1,disease_on_symptoms,21,20,3.2181475029035997
+2,disease_on_drugs,17,20,1.4543322734499204

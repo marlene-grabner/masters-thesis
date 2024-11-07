@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,20,18,0.27149122807017534
+2,disease_on_drugs,30,29,0.16742645626339359

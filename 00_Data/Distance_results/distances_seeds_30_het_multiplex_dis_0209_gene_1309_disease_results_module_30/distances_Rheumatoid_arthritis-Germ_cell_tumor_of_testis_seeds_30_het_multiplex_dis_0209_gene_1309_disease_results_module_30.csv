@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.26520467836257333
+1,disease_on_symptoms,19,22,0.1485295833819582
+2,disease_on_drugs,30,20,-0.10166666666666657

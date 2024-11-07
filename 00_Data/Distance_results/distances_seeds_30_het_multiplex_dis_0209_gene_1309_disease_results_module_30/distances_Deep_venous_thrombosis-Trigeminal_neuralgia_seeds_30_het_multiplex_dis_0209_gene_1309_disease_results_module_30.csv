@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,16,15,0.28837365591397823
+2,disease_on_drugs,28,25,0.03498652291105131

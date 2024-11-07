@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,26,30,-0.07023809523809521
+1,disease_on_symptoms,23,19,-0.19505284951509227
+2,disease_on_drugs,26,28,0.10673585673585673

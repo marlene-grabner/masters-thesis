@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,22,0.36931818181818166
+1,disease_on_symptoms,17,19,1.9092707258341932
+2,disease_on_drugs,25,18,0.7894315245478036

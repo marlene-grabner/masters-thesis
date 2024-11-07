@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,17,23,-0.3019181585677748
+2,disease_on_drugs,24,23,-0.2989323157570152

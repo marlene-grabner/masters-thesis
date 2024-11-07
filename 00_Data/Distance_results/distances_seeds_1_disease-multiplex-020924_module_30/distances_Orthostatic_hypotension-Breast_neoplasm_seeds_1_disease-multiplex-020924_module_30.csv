@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.40000000000000013
+1,disease_on_symptoms,12,16,0.9270833333333335
+2,disease_on_drugs,17,30,1.1833541927409263

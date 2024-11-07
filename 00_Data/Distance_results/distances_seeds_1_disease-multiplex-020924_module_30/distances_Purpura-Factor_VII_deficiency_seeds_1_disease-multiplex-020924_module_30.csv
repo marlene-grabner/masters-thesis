@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.09799396681749606
+1,disease_on_symptoms,17,23,1.6625319693094627
+2,disease_on_drugs,20,21,0.5133565621370499

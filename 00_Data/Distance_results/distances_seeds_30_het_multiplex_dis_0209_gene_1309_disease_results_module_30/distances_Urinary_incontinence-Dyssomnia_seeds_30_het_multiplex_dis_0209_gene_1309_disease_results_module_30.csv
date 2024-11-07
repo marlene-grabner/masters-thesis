@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,29,18,-0.04255319148936165
+1,disease_on_symptoms,20,21,1.1937282229965156
+2,disease_on_drugs,20,17,-0.24133545310015903

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,22,21,0.5849944629014396
+2,disease_on_drugs,27,29,0.21674876847290636

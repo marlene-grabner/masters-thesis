@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,25,26,0.018431372549019498
+1,disease_on_symptoms,18,21,0.6666666666666667
+2,disease_on_drugs,23,25,0.4808333333333332

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Pneumonia nodes,sAB
+0,disease_on_genes,22,30,0.4421911421911422
+1,disease_on_symptoms,22,26,0.7108100233100232
+2,disease_on_drugs,14,28,0.8452380952380951

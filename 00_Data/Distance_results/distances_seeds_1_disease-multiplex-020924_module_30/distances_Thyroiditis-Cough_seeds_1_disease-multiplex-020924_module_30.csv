@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cough nodes,sAB
+0,disease_on_genes,26,27,0.09323764984142358
+1,disease_on_symptoms,28,21,0.8069727891156462
+2,disease_on_drugs,23,27,0.3012238325281804

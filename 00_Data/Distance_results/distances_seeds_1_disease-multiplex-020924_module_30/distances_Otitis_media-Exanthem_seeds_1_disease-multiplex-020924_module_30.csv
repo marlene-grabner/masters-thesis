@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,28,0.07168784029038111
+1,disease_on_symptoms,22,26,1.4079254079254078
+2,disease_on_drugs,29,28,0.14094503500129618

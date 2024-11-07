@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,17,26,0.10416666666666674
+1,disease_on_symptoms,27,17,0.40111903347197453
+2,disease_on_drugs,14,25,0.22633699633699655

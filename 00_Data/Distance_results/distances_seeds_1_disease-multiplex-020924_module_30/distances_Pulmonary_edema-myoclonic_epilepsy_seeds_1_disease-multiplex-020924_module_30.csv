@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.3333333333333335
+1,disease_on_symptoms,14,16,1.6235119047619049
+2,disease_on_drugs,27,23,0.6777455716586152

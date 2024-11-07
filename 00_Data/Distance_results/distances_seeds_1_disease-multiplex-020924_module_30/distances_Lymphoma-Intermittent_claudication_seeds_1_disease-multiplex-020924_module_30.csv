@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.1448996655518393
+1,disease_on_symptoms,21,24,1.8398809523809525
+2,disease_on_drugs,25,18,0.7791214470284238

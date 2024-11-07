@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,24,-0.23769230769230776
+1,disease_on_symptoms,16,21,0.8820785070785073
+2,disease_on_drugs,26,24,-0.3372435897435899

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,24,25,0.3660204081632652
+1,disease_on_symptoms,26,23,1.9796942188246534
+2,disease_on_drugs,15,21,1.0357142857142858

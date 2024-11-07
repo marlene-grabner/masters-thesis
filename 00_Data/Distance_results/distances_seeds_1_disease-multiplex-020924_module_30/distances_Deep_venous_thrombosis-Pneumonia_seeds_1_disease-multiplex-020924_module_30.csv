@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,0.37984400656814454
+1,disease_on_symptoms,14,26,1.4170329670329673
+2,disease_on_drugs,24,28,1.4038461538461537

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.1764132553606239
+1,disease_on_symptoms,12,22,0.3159536541889483
+2,disease_on_drugs,29,22,-0.07520437642141498

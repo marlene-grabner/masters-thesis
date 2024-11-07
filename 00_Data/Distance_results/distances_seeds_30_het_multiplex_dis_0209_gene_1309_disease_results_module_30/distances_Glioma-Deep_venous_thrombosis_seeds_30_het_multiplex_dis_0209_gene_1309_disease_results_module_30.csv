@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,22,30,0.019230769230769162
+1,disease_on_symptoms,21,16,0.7308156370656369
+2,disease_on_drugs,21,28,0.6326530612244898

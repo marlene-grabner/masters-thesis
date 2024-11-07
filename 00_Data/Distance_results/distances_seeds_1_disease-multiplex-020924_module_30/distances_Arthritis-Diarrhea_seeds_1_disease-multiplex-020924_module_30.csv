@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.04775828460038989
+1,disease_on_symptoms,19,19,0.5263157894736841
+2,disease_on_drugs,29,26,0.21995418374728715

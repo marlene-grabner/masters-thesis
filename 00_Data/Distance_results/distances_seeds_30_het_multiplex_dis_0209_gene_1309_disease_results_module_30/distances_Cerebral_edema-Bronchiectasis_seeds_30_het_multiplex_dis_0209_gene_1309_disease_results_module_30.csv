@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,10,19,0.18747731397459155
+2,disease_on_drugs,16,25,0.4417378048780487

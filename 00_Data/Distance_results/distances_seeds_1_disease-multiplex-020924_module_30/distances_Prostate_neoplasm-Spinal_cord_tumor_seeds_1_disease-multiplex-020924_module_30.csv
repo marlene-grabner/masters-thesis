@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,17,22,0.2873645961881255
+1,disease_on_symptoms,21,22,1.4903855834088393
+2,disease_on_drugs,17,14,0.608227161832475

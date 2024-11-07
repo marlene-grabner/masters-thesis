@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Erysipelas nodes,sAB
+0,disease_on_genes,22,28,0.013376623376623265
+1,disease_on_symptoms,19,20,1.0484480431848855
+2,disease_on_drugs,19,27,0.017162471395881118

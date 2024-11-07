@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Sarcoma nodes,sAB
+0,disease_on_genes,21,25,-0.23913043478260865
+1,disease_on_symptoms,24,26,0.061217948717948945
+2,disease_on_drugs,20,21,-0.19573170731707312

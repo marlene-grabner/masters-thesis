@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.001818181818181941
+1,disease_on_symptoms,19,26,0.3494826810616285
+2,disease_on_drugs,25,24,0.2660544217687075

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,17,12,0.8127112914131169
+2,disease_on_drugs,24,23,0.12530835646006766

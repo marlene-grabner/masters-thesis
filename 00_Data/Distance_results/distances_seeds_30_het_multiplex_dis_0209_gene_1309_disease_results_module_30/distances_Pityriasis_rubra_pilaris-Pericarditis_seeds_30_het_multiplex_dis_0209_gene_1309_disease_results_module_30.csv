@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,-0.13137665967854661
+1,disease_on_symptoms,21,21,0.09523809523809534
+2,disease_on_drugs,25,26,-0.19346907993966833

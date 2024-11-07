@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,14,20,0.7472689075630252
+2,disease_on_drugs,29,28,0.08764367816091956

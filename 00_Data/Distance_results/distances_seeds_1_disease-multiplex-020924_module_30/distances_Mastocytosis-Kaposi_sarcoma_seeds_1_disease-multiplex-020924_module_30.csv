@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,18,15,0.05707070707070705
+1,disease_on_symptoms,28,27,0.6200216450216451
+2,disease_on_drugs,17,13,0.7411764705882353

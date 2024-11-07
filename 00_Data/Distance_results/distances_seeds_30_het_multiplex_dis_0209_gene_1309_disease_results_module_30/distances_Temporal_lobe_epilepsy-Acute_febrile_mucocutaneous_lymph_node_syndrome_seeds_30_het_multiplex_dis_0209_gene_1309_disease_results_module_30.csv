@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,13,-0.22322775263951722
+2,disease_on_drugs,28,28,-0.2857142857142858

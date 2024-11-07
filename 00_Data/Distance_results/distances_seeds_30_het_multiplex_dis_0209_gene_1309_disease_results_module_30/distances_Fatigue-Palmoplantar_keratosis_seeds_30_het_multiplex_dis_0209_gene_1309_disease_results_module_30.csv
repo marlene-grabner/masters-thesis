@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,26,26,-0.05769230769230771
+1,disease_on_symptoms,16,20,1.6416666666666666
+2,disease_on_drugs,26,23,0.024349873728755522

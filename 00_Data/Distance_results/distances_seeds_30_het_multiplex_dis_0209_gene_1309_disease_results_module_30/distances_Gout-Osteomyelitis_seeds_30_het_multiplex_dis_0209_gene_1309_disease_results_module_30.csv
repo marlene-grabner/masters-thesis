@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,19,22,0.16793091375889846
+2,disease_on_drugs,22,28,-0.031103896103896078

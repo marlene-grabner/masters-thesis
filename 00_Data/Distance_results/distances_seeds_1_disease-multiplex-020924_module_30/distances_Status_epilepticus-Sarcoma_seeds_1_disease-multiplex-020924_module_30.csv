@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,25,0.22349936143039595
+1,disease_on_symptoms,17,26,2.0719509628538355
+2,disease_on_drugs,30,21,1.4313725490196076

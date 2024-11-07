@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.16995073891625623
+1,disease_on_symptoms,14,21,0.6928571428571431
+2,disease_on_drugs,27,24,0.3159041394335511

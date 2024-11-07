@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.1636851520572451
+1,disease_on_symptoms,19,26,0.6710976158344581
+2,disease_on_drugs,30,9,0.2008547008547008

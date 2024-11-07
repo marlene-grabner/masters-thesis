@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.4231346191311123
+1,disease_on_symptoms,15,16,1.3643817204301074
+2,disease_on_drugs,21,22,1.1389811738648947

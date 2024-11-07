@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,20,19,0.2283738191632927
+2,disease_on_drugs,27,30,0.4031189083820661

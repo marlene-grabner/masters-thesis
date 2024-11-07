@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,25,27,0.2691737891737891
+1,disease_on_symptoms,20,27,0.8646178092986605
+2,disease_on_drugs,21,26,0.2168576104746318

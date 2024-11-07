@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,17,-0.4038724613280017
+1,disease_on_symptoms,28,27,-0.43813131313131326
+2,disease_on_drugs,23,16,0.04396599777034549

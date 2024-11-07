@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,20,0.33219395866454704
+2,disease_on_drugs,24,28,0.29418498168498153

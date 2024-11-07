@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,14,27,-0.23083623693379773
+1,disease_on_symptoms,26,22,0.04560023310023298
+2,disease_on_drugs,14,26,-0.012637362637362592

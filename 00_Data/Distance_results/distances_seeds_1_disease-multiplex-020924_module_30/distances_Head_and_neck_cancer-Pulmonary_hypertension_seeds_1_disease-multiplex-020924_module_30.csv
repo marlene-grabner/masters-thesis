@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.2363516113516113
+1,disease_on_symptoms,22,20,1.462121212121212
+2,disease_on_drugs,24,28,0.746794871794872

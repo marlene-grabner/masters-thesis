@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,30,0.10197740112994347
+1,disease_on_symptoms,20,25,1.1333333333333333
+2,disease_on_drugs,20,29,0.5002111189303307

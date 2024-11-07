@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,16,16,0.09375
+2,disease_on_drugs,21,27,0.18154761904761907

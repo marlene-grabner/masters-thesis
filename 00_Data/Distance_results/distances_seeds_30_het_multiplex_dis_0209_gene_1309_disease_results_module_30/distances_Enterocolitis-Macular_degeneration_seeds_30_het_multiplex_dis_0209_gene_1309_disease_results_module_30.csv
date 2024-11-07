@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.19385964912280707
+1,disease_on_symptoms,21,17,0.028306059265811756
+2,disease_on_drugs,25,17,0.005658263305321931

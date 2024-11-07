@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Prostatitis nodes,sAB
+0,disease_on_genes,28,30,0.0022988505747125743
+1,disease_on_symptoms,21,20,0.3197154471544714
+2,disease_on_drugs,21,29,0.1778981937602626

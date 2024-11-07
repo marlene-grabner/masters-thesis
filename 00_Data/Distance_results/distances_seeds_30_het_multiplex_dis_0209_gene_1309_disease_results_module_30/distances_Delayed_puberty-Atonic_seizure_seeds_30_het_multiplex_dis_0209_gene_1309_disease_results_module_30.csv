@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,16,15,0.3029569892473116
+2,disease_on_drugs,29,23,-0.17169299965401907

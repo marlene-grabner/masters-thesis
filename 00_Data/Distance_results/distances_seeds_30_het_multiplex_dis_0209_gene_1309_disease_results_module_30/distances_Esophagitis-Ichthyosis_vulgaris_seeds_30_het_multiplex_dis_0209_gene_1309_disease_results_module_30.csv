@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.018421052631579116
+1,disease_on_symptoms,20,21,0.3820847851335658
+2,disease_on_drugs,30,24,0.11527777777777759

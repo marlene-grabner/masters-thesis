@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,17,-0.13072337042925275
+2,disease_on_drugs,30,30,0.10000000000000009

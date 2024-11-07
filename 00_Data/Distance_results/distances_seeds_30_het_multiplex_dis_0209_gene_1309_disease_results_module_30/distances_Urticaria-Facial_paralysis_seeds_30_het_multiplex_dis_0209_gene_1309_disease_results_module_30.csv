@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,24,22,-0.021739130434782594
+1,disease_on_symptoms,21,21,0.7142857142857144
+2,disease_on_drugs,24,17,0.18277737924438053

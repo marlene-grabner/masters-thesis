@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,10,30,0.3833333333333333
+1,disease_on_symptoms,27,14,1.0382952639050202
+2,disease_on_drugs,9,26,0.5521978021978022

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,0.09999999999999987
+1,disease_on_symptoms,18,17,0.6795985060690941
+2,disease_on_drugs,27,27,0.22222222222222232

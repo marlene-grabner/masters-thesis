@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,25,17,0.006498599439775932
+2,disease_on_drugs,30,28,0.030049261083743728

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,25,25,0.33999999999999986
+1,disease_on_symptoms,16,17,1.8803475935828875
+2,disease_on_drugs,17,24,0.8801410808225729

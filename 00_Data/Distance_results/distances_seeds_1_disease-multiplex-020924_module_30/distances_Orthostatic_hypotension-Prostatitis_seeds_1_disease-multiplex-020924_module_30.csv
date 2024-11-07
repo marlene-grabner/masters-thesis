@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,12,20,1.2958333333333334
+2,disease_on_drugs,17,29,0.1534967810212542

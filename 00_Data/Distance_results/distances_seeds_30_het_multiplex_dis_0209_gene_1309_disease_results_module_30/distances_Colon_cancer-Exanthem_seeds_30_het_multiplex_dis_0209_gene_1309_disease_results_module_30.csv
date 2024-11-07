@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,30,0.0011904761904761862
+1,disease_on_symptoms,22,21,0.2769807711668175
+2,disease_on_drugs,26,29,0.21376898963105861

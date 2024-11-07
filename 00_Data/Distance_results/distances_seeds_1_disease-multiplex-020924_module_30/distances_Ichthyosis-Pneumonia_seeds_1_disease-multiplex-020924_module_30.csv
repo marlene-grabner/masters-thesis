@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,0.08654970760233915
+1,disease_on_symptoms,17,26,0.11609491739450717
+2,disease_on_drugs,24,28,0.42307692307692313

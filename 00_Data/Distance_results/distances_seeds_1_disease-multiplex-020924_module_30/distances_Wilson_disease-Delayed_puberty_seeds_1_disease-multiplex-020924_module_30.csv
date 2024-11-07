@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,23,22,0.29931300583474507
+1,disease_on_symptoms,19,20,2.8465249662618084
+2,disease_on_drugs,11,19,0.7807017543859647

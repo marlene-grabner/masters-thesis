@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,25,29,0.31333333333333324
+1,disease_on_symptoms,19,15,2.159236326109391
+2,disease_on_drugs,13,29,1.3186813186813189

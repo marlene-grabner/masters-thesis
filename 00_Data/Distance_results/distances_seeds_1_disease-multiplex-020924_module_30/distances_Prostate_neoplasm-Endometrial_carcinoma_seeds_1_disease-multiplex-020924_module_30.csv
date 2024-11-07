@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,17,23,-0.10786445012787715
+1,disease_on_symptoms,21,21,0.6904761904761902
+2,disease_on_drugs,17,21,0.053958425475453264

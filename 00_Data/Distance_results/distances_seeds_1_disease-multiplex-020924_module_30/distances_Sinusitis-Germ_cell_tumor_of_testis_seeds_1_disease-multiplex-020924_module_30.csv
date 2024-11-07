@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,29,27,0.2875615763546797
+1,disease_on_symptoms,21,23,0.9526162243553546
+2,disease_on_drugs,28,20,1.1964285714285714

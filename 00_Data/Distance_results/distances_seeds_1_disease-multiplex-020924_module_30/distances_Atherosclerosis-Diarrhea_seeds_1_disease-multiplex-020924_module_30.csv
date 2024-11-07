@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.22319688109161806
+1,disease_on_symptoms,13,19,1.0589574898785425
+2,disease_on_drugs,29,26,0.6171328671328673

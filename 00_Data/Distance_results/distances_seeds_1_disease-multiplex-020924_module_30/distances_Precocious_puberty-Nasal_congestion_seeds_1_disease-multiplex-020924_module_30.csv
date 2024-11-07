@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,0.23333333333333317
+1,disease_on_symptoms,14,15,0.6706075533661742
+2,disease_on_drugs,24,23,0.9782608695652173

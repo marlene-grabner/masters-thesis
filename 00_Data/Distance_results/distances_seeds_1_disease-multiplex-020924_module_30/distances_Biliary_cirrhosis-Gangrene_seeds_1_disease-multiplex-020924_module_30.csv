@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,26,0.48076923076923084
+1,disease_on_symptoms,15,19,0.7835913312693497
+2,disease_on_drugs,15,23,0.8589626239511825

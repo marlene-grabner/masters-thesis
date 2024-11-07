@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,29,26,-0.2727272727272727
+1,disease_on_symptoms,19,16,0.37030075187969924
+2,disease_on_drugs,29,25,-0.14768837803320545

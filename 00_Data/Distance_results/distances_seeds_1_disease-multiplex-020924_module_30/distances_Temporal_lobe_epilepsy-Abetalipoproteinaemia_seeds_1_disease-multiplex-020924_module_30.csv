@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,29,17,0.23595555163594661
+1,disease_on_symptoms,17,25,-0.15204481792717106
+2,disease_on_drugs,26,13,0.14743589743589736

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.40618546658873944
+1,disease_on_symptoms,21,15,0.4396825396825399
+2,disease_on_drugs,28,21,1.2287414965986394

@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.18095238095238098
+1,disease_on_symptoms,18,12,1.3638888888888887
+2,disease_on_drugs,24,18,0.373015873015873

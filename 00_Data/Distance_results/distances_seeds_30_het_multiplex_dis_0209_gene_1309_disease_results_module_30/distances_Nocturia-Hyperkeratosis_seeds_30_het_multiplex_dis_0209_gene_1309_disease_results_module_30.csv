@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,25,26,-0.07923076923076922
+1,disease_on_symptoms,18,25,1.1340051679586562
+2,disease_on_drugs,24,25,0.1427891156462584

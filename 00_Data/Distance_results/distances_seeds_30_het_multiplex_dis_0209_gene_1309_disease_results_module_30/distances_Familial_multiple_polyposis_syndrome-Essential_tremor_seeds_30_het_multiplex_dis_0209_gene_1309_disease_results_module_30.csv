@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.05882352941176472
+1,disease_on_symptoms,19,23,0.9517816279830009
+2,disease_on_drugs,25,21,0.19225672877846778

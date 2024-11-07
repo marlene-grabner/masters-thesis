@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,28,30,-0.2068965517241379
+1,disease_on_symptoms,18,15,0.4752525252525255
+2,disease_on_drugs,27,28,0.03567821067821053

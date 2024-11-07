@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.15253263198909006
+1,disease_on_symptoms,17,20,0.29248807631160556
+2,disease_on_drugs,26,28,0.21759259259259256

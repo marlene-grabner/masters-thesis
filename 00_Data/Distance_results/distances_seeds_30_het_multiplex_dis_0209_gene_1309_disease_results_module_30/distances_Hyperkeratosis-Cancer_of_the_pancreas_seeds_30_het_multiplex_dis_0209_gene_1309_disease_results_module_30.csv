@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,25,23,0.4756521739130435
+2,disease_on_drugs,25,30,0.001818181818181941

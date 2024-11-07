@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Tremor nodes,sAB
+0,disease_on_genes,27,16,-0.12131244616709713
+1,disease_on_symptoms,19,23,0.032472485561730435
+2,disease_on_drugs,20,16,-0.22291666666666654

@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.3220338983050848
+1,disease_on_symptoms,19,18,1.4306938517464833
+2,disease_on_drugs,29,22,1.176470588235294

@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.24
+1,disease_on_symptoms,19,21,0.18038847117794488
+2,disease_on_drugs,30,24,0.0

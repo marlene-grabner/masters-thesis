@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Peritonitis nodes,sAB
+0,disease_on_genes,29,30,0.2547632963179427
+1,disease_on_symptoms,15,17,0.883455882352941
+2,disease_on_drugs,29,28,0.5084478437472992

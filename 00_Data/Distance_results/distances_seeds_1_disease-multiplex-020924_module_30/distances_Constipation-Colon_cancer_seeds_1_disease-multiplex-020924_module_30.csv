@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.2855311355311354
+1,disease_on_symptoms,17,21,1.2872622733303847
+2,disease_on_drugs,27,24,1.1187363834422657

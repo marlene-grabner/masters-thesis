@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,27,30,-0.07124756335282667
+1,disease_on_symptoms,21,19,0.7456140350877192
+2,disease_on_drugs,25,29,0.2588505747126437

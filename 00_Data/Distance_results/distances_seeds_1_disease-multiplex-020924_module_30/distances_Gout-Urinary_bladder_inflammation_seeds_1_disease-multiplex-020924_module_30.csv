@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,25,25,0.1399999999999999
+1,disease_on_symptoms,18,22,1.16969696969697
+2,disease_on_drugs,23,24,0.3209219858156027

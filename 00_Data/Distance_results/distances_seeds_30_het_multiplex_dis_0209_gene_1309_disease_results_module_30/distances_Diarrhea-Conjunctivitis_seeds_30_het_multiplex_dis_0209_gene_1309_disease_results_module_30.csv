@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.3389830508474576
+1,disease_on_symptoms,21,27,-0.3012566137566137
+2,disease_on_drugs,29,28,-0.29891539192809613

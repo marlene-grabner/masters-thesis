@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,17,-0.05461477520301039
+1,disease_on_symptoms,17,24,1.3755081300813008
+2,disease_on_drugs,24,16,0.48124999999999996

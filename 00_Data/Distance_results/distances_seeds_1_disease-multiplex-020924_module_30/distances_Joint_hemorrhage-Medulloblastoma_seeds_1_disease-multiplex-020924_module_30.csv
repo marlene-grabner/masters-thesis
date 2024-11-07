@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,26,0.43214285714285716
+1,disease_on_symptoms,13,19,1.4453441295546559
+2,disease_on_drugs,18,24,1.1101190476190477

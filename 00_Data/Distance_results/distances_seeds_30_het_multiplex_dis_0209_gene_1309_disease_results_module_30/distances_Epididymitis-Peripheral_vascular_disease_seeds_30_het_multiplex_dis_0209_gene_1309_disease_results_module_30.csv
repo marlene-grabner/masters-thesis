@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,29,25,0.09111111111111114
+1,disease_on_symptoms,23,17,0.44501278772378505
+2,disease_on_drugs,26,25,0.13834087481146295

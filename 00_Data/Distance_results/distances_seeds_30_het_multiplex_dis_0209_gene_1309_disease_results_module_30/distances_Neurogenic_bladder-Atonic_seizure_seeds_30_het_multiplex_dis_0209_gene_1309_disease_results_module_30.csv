@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,18,15,-0.1525252525252523
+2,disease_on_drugs,21,23,-0.23207227555053667

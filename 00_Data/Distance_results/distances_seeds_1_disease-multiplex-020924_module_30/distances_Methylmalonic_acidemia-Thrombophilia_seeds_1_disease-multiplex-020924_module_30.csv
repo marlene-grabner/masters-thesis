@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,25,27,0.47686609686609693
+1,disease_on_symptoms,16,18,2.6462418300653594
+2,disease_on_drugs,17,21,0.9492849771487539

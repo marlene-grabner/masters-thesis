@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,23,30,-0.13207547169811318
+1,disease_on_symptoms,23,16,0.1425585284280937
+2,disease_on_drugs,22,25,-0.14800773694390712

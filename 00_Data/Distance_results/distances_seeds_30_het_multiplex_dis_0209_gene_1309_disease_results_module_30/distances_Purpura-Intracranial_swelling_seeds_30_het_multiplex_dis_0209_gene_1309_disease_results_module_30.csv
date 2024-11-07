@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,0.2270955165692008
+1,disease_on_symptoms,17,11,1.0616883116883118
+2,disease_on_drugs,24,21,0.33313492063492056

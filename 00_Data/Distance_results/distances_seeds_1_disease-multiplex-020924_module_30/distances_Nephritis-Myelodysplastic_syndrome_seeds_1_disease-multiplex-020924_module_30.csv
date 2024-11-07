@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.1785714285714286
+1,disease_on_symptoms,18,15,0.8792929292929292
+2,disease_on_drugs,27,21,0.5651455026455028

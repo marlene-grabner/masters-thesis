@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.07124542124542121
+1,disease_on_symptoms,23,21,0.9994353472614343
+2,disease_on_drugs,25,27,0.25071225071225056

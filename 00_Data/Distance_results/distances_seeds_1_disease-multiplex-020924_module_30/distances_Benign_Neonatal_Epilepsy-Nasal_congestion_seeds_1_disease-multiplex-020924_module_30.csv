@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,29,30,0.03474576271186436
+1,disease_on_symptoms,16,15,1.590255376344086
+2,disease_on_drugs,26,23,0.6109139307897071

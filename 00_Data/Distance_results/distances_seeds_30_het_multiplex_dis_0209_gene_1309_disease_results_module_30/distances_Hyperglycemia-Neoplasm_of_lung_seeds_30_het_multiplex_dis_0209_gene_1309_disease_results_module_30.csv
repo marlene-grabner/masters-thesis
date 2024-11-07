@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,19,0.6402648778809772
+2,disease_on_drugs,26,30,0.08342490842490857

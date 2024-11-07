@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,23,26,-0.06787932564330079
+1,disease_on_symptoms,20,19,0.4889338731443995
+2,disease_on_drugs,19,24,-0.09060077519379861

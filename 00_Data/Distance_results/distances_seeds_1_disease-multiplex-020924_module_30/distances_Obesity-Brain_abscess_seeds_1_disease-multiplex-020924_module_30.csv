@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,26,27,0.24631779820459054
+1,disease_on_symptoms,20,21,1.4362369337979095
+2,disease_on_drugs,27,23,0.45252818035426734

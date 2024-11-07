@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.14891304347826106
+1,disease_on_symptoms,19,27,0.5083057886261546
+2,disease_on_drugs,18,19,0.0006717243559348773

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,28,0.1902298850574713
+1,disease_on_symptoms,19,20,0.8941632928475034
+2,disease_on_drugs,22,25,0.12208897485493231

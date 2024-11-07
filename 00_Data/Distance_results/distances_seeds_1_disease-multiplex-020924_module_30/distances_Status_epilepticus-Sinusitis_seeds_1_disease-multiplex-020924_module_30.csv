@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Sinusitis nodes,sAB
+0,disease_on_genes,29,29,0.3620689655172413
+1,disease_on_symptoms,17,21,2.237136960047177
+2,disease_on_drugs,30,28,0.9291871921182266

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Erysipelas nodes,sAB
+0,disease_on_genes,20,28,0.38928571428571423
+1,disease_on_symptoms,22,20,0.719264069264069
+2,disease_on_drugs,15,27,0.7571428571428571

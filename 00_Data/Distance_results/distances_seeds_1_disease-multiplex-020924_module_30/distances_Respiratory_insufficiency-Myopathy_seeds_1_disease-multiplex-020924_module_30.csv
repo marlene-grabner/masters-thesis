@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Myopathy nodes,sAB
+0,disease_on_genes,25,18,0.47679586563307486
+1,disease_on_symptoms,20,21,1.5334204413472705
+2,disease_on_drugs,14,6,0.4761904761904763

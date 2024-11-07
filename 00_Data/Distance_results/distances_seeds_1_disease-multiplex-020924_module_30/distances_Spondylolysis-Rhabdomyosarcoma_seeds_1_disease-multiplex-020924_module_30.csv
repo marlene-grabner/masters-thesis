@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,27,23,0.2337520128824475
+1,disease_on_symptoms,19,24,1.6921154630762953
+2,disease_on_drugs,20,17,0.9479729729729731

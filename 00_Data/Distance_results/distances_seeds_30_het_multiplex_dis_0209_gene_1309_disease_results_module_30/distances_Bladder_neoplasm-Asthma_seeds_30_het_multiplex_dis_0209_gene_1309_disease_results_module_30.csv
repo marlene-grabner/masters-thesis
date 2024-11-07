@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,-0.05921568627450979
+1,disease_on_symptoms,19,20,0.9463225371120108
+2,disease_on_drugs,25,22,0.33897485493230173

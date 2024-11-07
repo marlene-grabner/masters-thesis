@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Goiter nodes,sAB
+0,disease_on_genes,25,26,0.058431372549019533
+1,disease_on_symptoms,23,12,0.9549171842650104
+2,disease_on_drugs,24,18,0.3402777777777777

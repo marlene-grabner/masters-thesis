@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,25,21,0.39478260869565207
+1,disease_on_symptoms,19,20,1.79193657219973
+2,disease_on_drugs,18,19,0.8377983246404299

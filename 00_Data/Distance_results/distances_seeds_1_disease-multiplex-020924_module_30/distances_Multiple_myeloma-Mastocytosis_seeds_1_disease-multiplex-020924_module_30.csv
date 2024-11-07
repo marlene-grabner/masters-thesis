@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,18,0.1313131313131315
+1,disease_on_symptoms,21,28,1.0348639455782311
+2,disease_on_drugs,25,17,0.4487955182072829

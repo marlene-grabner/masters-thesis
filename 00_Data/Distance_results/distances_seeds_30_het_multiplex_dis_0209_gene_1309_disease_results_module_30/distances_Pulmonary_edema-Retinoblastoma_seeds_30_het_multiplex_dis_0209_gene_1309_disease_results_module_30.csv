@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,11,21,0.07372835497835495
+2,disease_on_drugs,27,27,0.2962962962962965

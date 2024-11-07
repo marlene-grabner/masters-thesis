@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,26,24,0.11076923076923073
+1,disease_on_symptoms,21,23,2.248164878599661
+2,disease_on_drugs,24,12,0.16666666666666674

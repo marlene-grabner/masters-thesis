@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666652
+1,disease_on_symptoms,14,22,-0.2561327561327562
+2,disease_on_drugs,26,30,-0.203846153846154

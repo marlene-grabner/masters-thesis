@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Anorexia nodes,sAB
+0,disease_on_genes,28,29,-0.21053711865871583
+1,disease_on_symptoms,19,13,0.08147773279352233
+2,disease_on_drugs,22,28,-0.11324675324675337

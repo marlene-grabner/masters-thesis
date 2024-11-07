@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.014942528735632399
+1,disease_on_symptoms,21,23,1.5741577263316393
+2,disease_on_drugs,28,20,0.4172619047619046

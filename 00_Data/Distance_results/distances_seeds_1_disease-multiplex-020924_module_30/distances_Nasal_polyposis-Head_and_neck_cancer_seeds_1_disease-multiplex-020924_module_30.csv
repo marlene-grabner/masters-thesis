@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,15,27,0.3052910052910054
+1,disease_on_symptoms,25,22,1.0848162475822052
+2,disease_on_drugs,10,24,0.38774509803921564

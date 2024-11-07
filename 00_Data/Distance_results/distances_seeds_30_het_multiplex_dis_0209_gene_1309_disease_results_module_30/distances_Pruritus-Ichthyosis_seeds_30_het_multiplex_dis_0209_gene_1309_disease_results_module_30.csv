@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,27,28,-0.20001202501202509
+1,disease_on_symptoms,21,18,-0.08028083028083022
+2,disease_on_drugs,27,25,-0.05715099715099714

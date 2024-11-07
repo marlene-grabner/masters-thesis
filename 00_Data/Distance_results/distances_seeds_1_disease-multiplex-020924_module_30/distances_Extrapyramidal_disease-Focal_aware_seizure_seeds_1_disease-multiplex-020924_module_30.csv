@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,14,29,0.1503322259136215
+1,disease_on_symptoms,25,15,1.8816666666666668
+2,disease_on_drugs,10,29,0.5910256410256409

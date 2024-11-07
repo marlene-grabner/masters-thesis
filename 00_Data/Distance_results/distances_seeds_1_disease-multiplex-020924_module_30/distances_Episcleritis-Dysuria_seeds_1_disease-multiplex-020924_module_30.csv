@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,0.2852133255406193
+1,disease_on_symptoms,22,16,1.6024222488038276
+2,disease_on_drugs,29,23,0.6228232037827242

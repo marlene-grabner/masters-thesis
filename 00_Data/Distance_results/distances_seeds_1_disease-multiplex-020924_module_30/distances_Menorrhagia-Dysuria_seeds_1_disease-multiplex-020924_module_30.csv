@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Dysuria nodes,sAB
+0,disease_on_genes,26,30,0.2062575355678804
+1,disease_on_symptoms,19,16,1.4389567669172931
+2,disease_on_drugs,24,23,0.6382786000616714

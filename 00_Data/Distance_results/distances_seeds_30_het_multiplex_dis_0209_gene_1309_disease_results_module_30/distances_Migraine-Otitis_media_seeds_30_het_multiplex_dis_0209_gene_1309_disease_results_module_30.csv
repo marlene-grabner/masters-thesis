@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.051139684395090534
+1,disease_on_symptoms,12,20,0.6083333333333334
+2,disease_on_drugs,29,28,0.05164851784633995

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,27,30,-0.07027290448343082
+1,disease_on_symptoms,21,20,0.930574912891986
+2,disease_on_drugs,27,28,0.11066618566618569

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,22,30,0.11538461538461542
+1,disease_on_symptoms,21,19,0.3343984962406017
+2,disease_on_drugs,21,25,0.19987577639751564

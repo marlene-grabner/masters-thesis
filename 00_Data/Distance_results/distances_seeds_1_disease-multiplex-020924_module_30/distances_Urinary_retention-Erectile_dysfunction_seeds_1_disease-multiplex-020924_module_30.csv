@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.28218390804597693
+1,disease_on_symptoms,18,16,1.612949346405229
+2,disease_on_drugs,19,30,0.5037056928034371

@@ -1,0 +1,4 @@
+,Layer,Hyperpigmentation_of_the_skin nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.05660377358490565
+1,disease_on_symptoms,17,17,0.9705882352941178
+2,disease_on_drugs,28,22,-0.0012987012987013546

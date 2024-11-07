@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.3095327492699209
+1,disease_on_symptoms,17,24,0.3668998087039692
+2,disease_on_drugs,26,16,-0.08115842490842495

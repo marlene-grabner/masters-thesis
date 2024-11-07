@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.49381912817176343
+1,disease_on_symptoms,15,18,1.6671717171717173
+2,disease_on_drugs,21,19,0.7996240601503759

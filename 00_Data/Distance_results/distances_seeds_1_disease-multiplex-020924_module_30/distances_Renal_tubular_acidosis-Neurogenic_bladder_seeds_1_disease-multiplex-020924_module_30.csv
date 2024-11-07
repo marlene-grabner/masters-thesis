@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,18,30,0.575
+1,disease_on_symptoms,18,17,3.395658263305322
+2,disease_on_drugs,10,26,0.8444444444444446

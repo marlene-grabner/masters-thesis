@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.05924369747899161
+1,disease_on_symptoms,15,22,0.6622440622440622
+2,disease_on_drugs,23,20,0.45791203235591493

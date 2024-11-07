@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.3581277213352685
+1,disease_on_symptoms,21,14,1.9357142857142857
+2,disease_on_drugs,24,13,0.8918918918918919

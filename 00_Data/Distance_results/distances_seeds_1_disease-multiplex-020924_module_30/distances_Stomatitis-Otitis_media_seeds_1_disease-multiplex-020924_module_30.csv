@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.576884862653419
+1,disease_on_symptoms,23,22,-0.35959595959595947
+2,disease_on_drugs,30,29,-0.5585037989479835

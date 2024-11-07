@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,0.25010555946516533
+1,disease_on_symptoms,16,26,1.823717948717949
+2,disease_on_drugs,24,13,0.7266112266112266

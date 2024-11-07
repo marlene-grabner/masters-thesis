@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Constipation nodes,sAB
+0,disease_on_genes,25,30,0.2887878787878788
+1,disease_on_symptoms,14,17,1.2243833017077796
+2,disease_on_drugs,22,27,0.7161753590325017

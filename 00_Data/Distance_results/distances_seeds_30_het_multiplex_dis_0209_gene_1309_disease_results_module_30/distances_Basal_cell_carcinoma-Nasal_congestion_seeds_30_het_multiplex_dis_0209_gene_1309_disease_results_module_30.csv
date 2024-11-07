@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,24,14,-0.42402882205513803
+2,disease_on_drugs,27,25,-0.1763817663817664

@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.022222222222222143
+1,disease_on_symptoms,19,27,0.11022120518688028
+2,disease_on_drugs,29,13,0.09523809523809534

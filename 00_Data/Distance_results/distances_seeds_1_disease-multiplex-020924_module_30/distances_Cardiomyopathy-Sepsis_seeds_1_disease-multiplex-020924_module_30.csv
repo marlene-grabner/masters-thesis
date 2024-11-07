@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Sepsis nodes,sAB
+0,disease_on_genes,25,22,0.39955512572533824
+1,disease_on_symptoms,17,23,1.0876598465473144
+2,disease_on_drugs,24,17,0.7775585844093733

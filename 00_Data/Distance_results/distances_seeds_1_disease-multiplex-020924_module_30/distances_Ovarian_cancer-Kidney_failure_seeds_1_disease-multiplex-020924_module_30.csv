@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,27,20,0.24042553191489358
+1,disease_on_symptoms,17,23,1.4718670076726341
+2,disease_on_drugs,25,18,0.9586563307493541

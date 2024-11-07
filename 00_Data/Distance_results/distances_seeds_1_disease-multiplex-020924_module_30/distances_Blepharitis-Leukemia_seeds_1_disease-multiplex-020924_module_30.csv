@@ -1,0 +1,4 @@
+,Layer,Blepharitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,20,18,0.053947368421052744
+1,disease_on_symptoms,27,27,-0.29629629629629617
+2,disease_on_drugs,19,17,-0.08531131750945997

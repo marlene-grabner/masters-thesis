@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,17,21,0.2846085802742149
+1,disease_on_symptoms,21,26,0.8916686150728705
+2,disease_on_drugs,17,20,1.0763116057233704

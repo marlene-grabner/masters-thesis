@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,0.25696969696969685
+1,disease_on_symptoms,14,15,1.1844827586206894
+2,disease_on_drugs,22,22,0.4318181818181819

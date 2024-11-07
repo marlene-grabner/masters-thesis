@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.14363636363636356
+1,disease_on_symptoms,13,20,0.7568764568764572
+2,disease_on_drugs,23,21,0.25296442687747045

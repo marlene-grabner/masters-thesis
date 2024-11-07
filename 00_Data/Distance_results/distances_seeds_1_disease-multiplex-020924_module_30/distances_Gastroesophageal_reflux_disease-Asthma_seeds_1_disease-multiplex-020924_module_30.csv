@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,0.0388235294117647
+1,disease_on_symptoms,17,19,1.0510835913312695
+2,disease_on_drugs,25,24,0.3873129251700682

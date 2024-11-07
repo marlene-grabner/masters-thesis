@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,0.5105263157894737
+1,disease_on_symptoms,14,23,2.591992613731744
+2,disease_on_drugs,11,20,1.225806451612903

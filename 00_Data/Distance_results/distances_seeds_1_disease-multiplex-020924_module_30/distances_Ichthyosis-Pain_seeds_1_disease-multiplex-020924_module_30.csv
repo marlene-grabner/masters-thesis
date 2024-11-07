@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Pain nodes,sAB
+0,disease_on_genes,27,26,-0.28269633930011295
+1,disease_on_symptoms,17,21,-0.7596196373286155
+2,disease_on_drugs,24,26,-0.3192307692307692

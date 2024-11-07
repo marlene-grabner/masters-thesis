@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.2548148148148148
+1,disease_on_symptoms,12,23,0.88064182194617
+2,disease_on_drugs,30,23,1.1096663932184851

@@ -1,0 +1,4 @@
+,Layer,Ischemic_stroke nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3706959706959705
+1,disease_on_symptoms,16,15,1.163978494623656
+2,disease_on_drugs,23,16,0.7079152731326646

@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.32878787878787885
+1,disease_on_symptoms,15,26,1.0279862414008754
+2,disease_on_drugs,30,21,1.2745098039215685

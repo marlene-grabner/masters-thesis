@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,24,13,0.2359667359667359
+1,disease_on_symptoms,23,26,0.6443075557982392
+2,disease_on_drugs,24,9,0.2777777777777777

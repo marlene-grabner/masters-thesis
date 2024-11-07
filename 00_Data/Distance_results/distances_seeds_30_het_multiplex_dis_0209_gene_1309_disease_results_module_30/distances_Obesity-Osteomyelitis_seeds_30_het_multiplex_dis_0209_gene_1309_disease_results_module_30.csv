@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,30,-0.020467836257309857
+1,disease_on_symptoms,18,22,0.3770202020202018
+2,disease_on_drugs,25,28,0.22580862533692714

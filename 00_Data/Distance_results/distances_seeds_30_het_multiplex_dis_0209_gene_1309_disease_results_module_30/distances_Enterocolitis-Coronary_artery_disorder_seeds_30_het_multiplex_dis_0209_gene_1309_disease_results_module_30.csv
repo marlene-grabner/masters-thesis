@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.06173913043478274
+1,disease_on_symptoms,21,19,0.9849624060150375
+2,disease_on_drugs,25,22,0.10951644100580271

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.2622807017543859
+1,disease_on_symptoms,18,19,-0.400861387703493
+2,disease_on_drugs,24,30,-0.28101851851851845

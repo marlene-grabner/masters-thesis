@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,29,0.5178115307425653
+1,disease_on_symptoms,18,16,2.102124183006536
+2,disease_on_drugs,21,24,0.8634920634920635

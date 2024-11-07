@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.36734892787524354
+1,disease_on_symptoms,12,21,1.3317099567099568
+2,disease_on_drugs,17,27,0.49331550802139046

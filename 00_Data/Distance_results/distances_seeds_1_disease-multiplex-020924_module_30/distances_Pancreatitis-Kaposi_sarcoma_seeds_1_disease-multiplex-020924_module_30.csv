@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.3111111111111111
+1,disease_on_symptoms,20,27,2.1615248226950357
+2,disease_on_drugs,30,13,1.0697674418604652

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,22,21,-0.1395600523507502
+1,disease_on_symptoms,23,25,0.028731884057971113
+2,disease_on_drugs,20,21,-0.14756097560975612

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,30,25,-0.23636363636363633
+1,disease_on_symptoms,18,17,-0.00042016806722688926
+2,disease_on_drugs,25,21,-0.26318840579710145

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,30,-0.13859649122807005
+1,disease_on_symptoms,22,18,0.19267676767676778
+2,disease_on_drugs,23,24,-0.04263028060437879

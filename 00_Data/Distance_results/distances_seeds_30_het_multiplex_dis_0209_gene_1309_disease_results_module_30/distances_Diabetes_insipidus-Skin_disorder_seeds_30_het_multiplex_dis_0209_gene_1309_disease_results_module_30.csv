@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Skin_disorder nodes,sAB
+0,disease_on_genes,26,25,-0.15648567119155343
+1,disease_on_symptoms,20,19,0.6188259109311742
+2,disease_on_drugs,20,23,-0.1291708796764406

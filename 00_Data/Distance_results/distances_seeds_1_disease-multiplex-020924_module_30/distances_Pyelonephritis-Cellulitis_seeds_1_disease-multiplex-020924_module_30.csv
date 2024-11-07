@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,23,22,-0.07387539996235648
+1,disease_on_symptoms,21,26,0.9904528096017455
+2,disease_on_drugs,19,12,-0.25806451612903225

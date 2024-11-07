@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,25,24,0.1389795918367347
+1,disease_on_symptoms,24,23,1.8908032685784766
+2,disease_on_drugs,20,12,0.375

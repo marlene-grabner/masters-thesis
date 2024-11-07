@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,30,0.03434065934065944
+1,disease_on_symptoms,22,15,0.5222768222768224
+2,disease_on_drugs,25,25,0.1399999999999999

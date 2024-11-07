@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,19,16,0.27011278195488697
+2,disease_on_drugs,25,28,0.2664555256064691

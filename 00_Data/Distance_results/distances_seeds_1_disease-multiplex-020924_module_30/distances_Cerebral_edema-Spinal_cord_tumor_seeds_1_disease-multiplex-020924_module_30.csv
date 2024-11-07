@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,22,0.6293706293706294
+1,disease_on_symptoms,9,22,0.39165852069077856
+2,disease_on_drugs,11,14,0.7674025974025973

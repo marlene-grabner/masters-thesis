@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,0.16944847605224966
+1,disease_on_symptoms,20,20,0.7250000000000001
+2,disease_on_drugs,20,27,0.2606382978723405

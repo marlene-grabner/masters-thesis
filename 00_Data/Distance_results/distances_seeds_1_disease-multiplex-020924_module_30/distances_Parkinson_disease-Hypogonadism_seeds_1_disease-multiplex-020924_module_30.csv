@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,21,30,0.11619047619047618
+1,disease_on_symptoms,20,12,0.9229166666666666
+2,disease_on_drugs,19,30,0.47312925170068043

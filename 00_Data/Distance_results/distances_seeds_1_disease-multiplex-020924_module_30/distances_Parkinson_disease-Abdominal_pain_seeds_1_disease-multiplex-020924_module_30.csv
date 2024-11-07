@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,21,30,0.19775910364145655
+1,disease_on_symptoms,20,24,1.2306818181818184
+2,disease_on_drugs,19,24,0.37693798449612426

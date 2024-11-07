@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,25,25,0.2999999999999998
+1,disease_on_symptoms,25,23,1.482427536231884
+2,disease_on_drugs,23,23,1.1956521739130435

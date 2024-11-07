@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,19,18,-0.19112533586217806
+2,disease_on_drugs,30,26,-0.32591575091575087

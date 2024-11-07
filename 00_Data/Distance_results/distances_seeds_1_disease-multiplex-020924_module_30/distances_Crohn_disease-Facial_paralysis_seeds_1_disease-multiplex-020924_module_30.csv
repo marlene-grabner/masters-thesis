@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,14,0.01660401002506262
+1,disease_on_symptoms,20,23,1.0875126390293224
+2,disease_on_drugs,21,14,0.18095238095238098

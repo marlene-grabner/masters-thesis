@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Pneumonia nodes,sAB
+0,disease_on_genes,29,30,0.2375608805766607
+1,disease_on_symptoms,17,26,1.7234820582973798
+2,disease_on_drugs,26,28,1.2770655270655271

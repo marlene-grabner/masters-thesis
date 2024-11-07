@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.18867924528301883
+1,disease_on_symptoms,18,23,0.3161305526098741
+2,disease_on_drugs,30,22,0.01993006993006996

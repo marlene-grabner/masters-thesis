@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.051139684395090534
+1,disease_on_symptoms,18,20,0.2983918128654972
+2,disease_on_drugs,30,28,-0.10603448275862082

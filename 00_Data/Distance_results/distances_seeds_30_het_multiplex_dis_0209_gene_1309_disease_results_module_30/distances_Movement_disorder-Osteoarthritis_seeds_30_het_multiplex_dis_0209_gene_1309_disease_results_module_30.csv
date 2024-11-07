@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.19798534798534806
+1,disease_on_symptoms,17,22,-0.12405731523378583
+2,disease_on_drugs,26,25,-0.2907843137254902

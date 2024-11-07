@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.2657894736842106
+1,disease_on_symptoms,23,17,0.888235294117647
+2,disease_on_drugs,30,26,0.8972527472527472

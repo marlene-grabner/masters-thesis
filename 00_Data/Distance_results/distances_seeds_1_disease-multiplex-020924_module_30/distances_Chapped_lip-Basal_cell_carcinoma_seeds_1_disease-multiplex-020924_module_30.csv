@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,26,26,-0.2499999999999999
+1,disease_on_symptoms,21,23,-0.022209674383587563
+2,disease_on_drugs,24,25,-0.326530612244898

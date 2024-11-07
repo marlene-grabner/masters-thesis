@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.0
+1,disease_on_symptoms,20,23,1.121562184024267
+2,disease_on_drugs,27,21,0.1957671957671956

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,0.20335086693941173
+1,disease_on_symptoms,14,15,1.4123152709359608
+2,disease_on_drugs,26,29,0.27366771159874625

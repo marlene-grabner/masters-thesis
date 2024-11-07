@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.0008771929824562541
+1,disease_on_symptoms,22,22,0.7045454545454546
+2,disease_on_drugs,29,27,0.3365033752964788

@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,17,30,0.23904881101376718
+1,disease_on_symptoms,21,12,1.6634199134199137
+2,disease_on_drugs,14,22,0.9166666666666667

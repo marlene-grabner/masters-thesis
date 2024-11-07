@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,22,17,0.18558892088303858
+2,disease_on_drugs,26,30,0.0504578754578755

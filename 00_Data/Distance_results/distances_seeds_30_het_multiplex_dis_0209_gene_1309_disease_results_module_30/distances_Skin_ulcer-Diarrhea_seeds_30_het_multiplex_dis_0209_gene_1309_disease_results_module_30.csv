@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,20,21,0.6498838559814173
+2,disease_on_drugs,24,29,-0.07682715246150518

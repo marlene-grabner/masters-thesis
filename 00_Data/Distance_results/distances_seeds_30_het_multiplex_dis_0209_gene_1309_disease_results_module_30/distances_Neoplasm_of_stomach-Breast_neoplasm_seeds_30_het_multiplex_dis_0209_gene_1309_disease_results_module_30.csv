@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.6018181818181818
+1,disease_on_symptoms,23,20,-0.8199443882709807
+2,disease_on_drugs,24,30,-0.5763888888888891

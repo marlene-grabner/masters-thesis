@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.0008771929824562541
+1,disease_on_symptoms,17,18,0.4434640522875819
+2,disease_on_drugs,26,22,-0.11174242424242409

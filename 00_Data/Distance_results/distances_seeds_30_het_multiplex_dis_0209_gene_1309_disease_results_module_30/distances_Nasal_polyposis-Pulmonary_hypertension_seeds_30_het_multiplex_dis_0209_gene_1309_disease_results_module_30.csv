@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.15517241379310343
+1,disease_on_symptoms,20,18,-0.16461988304093556
+2,disease_on_drugs,25,27,-0.09478632478632487

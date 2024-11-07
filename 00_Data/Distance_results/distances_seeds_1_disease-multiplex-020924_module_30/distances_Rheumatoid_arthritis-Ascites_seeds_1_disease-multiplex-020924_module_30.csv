@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.11988304093567259
+1,disease_on_symptoms,15,17,1.5973039215686273
+2,disease_on_drugs,25,27,0.3667521367521367

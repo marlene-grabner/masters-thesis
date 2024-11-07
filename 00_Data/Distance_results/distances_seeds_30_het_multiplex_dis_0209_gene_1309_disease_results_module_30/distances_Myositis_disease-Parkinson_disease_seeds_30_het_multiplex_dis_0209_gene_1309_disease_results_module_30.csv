@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.14874213836477979
+1,disease_on_symptoms,18,23,0.37507364204076854
+2,disease_on_drugs,26,22,-0.0005827505827504798

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,20,21,0.14509291521486634
+1,disease_on_symptoms,22,25,1.156305609284333
+2,disease_on_drugs,15,21,0.23333333333333317

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,-0.06900656814449924
+1,disease_on_symptoms,19,18,-0.026197249881460216
+2,disease_on_drugs,22,28,-0.04681818181818165

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Headache nodes,sAB
+0,disease_on_genes,26,30,-0.46584249084249085
+1,disease_on_symptoms,21,25,-0.4045962732919256
+2,disease_on_drugs,26,26,-0.4423076923076923

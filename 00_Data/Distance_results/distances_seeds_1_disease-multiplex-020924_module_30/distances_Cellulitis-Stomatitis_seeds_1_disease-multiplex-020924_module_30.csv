@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,22,30,-0.2796918767507003
+1,disease_on_symptoms,26,23,0.35164835164835173
+2,disease_on_drugs,12,30,-0.05238095238095242

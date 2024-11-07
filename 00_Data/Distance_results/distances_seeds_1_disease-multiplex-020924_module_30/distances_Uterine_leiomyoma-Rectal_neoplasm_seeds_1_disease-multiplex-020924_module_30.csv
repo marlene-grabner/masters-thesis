@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,24,30,-0.1620370370370371
+1,disease_on_symptoms,21,21,0.2142857142857142
+2,disease_on_drugs,18,29,-0.21119670661123335

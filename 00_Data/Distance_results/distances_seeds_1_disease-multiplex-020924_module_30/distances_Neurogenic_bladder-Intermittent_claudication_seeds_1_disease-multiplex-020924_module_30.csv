@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.3516666666666668
+1,disease_on_symptoms,17,24,1.2530188904830224
+2,disease_on_drugs,26,18,0.9343434343434343

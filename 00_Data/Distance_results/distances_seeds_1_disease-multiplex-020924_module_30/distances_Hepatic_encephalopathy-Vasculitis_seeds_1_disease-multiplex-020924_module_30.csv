@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Vasculitis nodes,sAB
+0,disease_on_genes,9,24,0.1862373737373737
+1,disease_on_symptoms,27,19,2.4689804220696665
+2,disease_on_drugs,9,20,1.0879310344827584

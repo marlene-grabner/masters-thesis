@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.1238095238095237
+1,disease_on_symptoms,18,21,-0.055860805860805884
+2,disease_on_drugs,30,26,-0.25283882783882783

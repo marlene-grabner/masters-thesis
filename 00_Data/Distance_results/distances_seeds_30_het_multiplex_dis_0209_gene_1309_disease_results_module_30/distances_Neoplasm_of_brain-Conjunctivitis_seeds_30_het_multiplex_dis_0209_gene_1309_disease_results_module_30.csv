@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.00028248587570622874
+1,disease_on_symptoms,19,27,0.37926942961267884
+2,disease_on_drugs,29,28,0.43732175265750595

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,17,12,0.7539722785665992
+2,disease_on_drugs,30,18,0.14444444444444438

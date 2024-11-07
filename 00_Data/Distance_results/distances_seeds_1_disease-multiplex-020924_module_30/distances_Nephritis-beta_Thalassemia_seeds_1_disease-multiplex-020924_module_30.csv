@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.5664335664335662
+1,disease_on_symptoms,18,21,2.762210012210012
+2,disease_on_drugs,27,6,0.9225589225589226

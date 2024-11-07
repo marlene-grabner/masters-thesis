@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.14052403467297103
+1,disease_on_symptoms,21,24,1.0509920634920635
+2,disease_on_drugs,24,18,0.43948412698412676

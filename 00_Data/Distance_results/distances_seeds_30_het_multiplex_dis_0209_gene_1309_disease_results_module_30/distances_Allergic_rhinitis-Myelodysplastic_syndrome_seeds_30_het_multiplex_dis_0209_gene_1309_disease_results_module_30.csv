@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.05555555555555558
+1,disease_on_symptoms,20,17,0.6155405405405403
+2,disease_on_drugs,25,24,0.22479591836734691

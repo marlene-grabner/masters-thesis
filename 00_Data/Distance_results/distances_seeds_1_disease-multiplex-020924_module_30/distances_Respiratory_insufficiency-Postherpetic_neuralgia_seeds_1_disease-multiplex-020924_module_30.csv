@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,25,30,0.34333333333333327
+1,disease_on_symptoms,20,15,1.541666666666667
+2,disease_on_drugs,14,29,0.45701111238400727

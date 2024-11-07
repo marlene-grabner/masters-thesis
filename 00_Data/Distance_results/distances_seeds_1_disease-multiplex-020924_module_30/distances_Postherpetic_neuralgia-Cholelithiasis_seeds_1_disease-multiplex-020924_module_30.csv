@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.3251515151515152
+1,disease_on_symptoms,15,19,0.8654282765737875
+2,disease_on_drugs,29,18,0.6783850982310262

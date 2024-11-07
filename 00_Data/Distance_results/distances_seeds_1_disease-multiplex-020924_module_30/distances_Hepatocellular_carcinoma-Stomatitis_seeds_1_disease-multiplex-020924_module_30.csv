@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,23,30,0.35935192780967995
+1,disease_on_symptoms,19,23,1.9962406015037593
+2,disease_on_drugs,19,30,0.9204081632653058

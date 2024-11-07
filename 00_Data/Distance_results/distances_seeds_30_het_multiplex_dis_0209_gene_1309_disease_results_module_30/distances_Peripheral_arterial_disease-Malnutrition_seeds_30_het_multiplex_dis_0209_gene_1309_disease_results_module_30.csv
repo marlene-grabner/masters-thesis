@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Malnutrition nodes,sAB
+0,disease_on_genes,26,30,-0.0714285714285714
+1,disease_on_symptoms,17,14,0.3347790729194904
+2,disease_on_drugs,24,29,-0.045665256994144476

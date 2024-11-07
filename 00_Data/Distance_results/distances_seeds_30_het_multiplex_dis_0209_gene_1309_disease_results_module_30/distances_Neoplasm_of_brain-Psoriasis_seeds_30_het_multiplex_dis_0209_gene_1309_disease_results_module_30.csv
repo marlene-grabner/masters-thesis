@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,17,-0.05830753353973184
+2,disease_on_drugs,29,30,0.08472628092733303

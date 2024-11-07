@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,0.12280701754385959
+1,disease_on_symptoms,18,21,0.8504273504273505
+2,disease_on_drugs,28,23,-0.016060772134940837

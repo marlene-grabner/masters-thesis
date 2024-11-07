@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Emphysema nodes,sAB
+0,disease_on_genes,20,30,0.1383333333333332
+1,disease_on_symptoms,24,14,0.6652568922305764
+2,disease_on_drugs,18,29,0.3291962174940899

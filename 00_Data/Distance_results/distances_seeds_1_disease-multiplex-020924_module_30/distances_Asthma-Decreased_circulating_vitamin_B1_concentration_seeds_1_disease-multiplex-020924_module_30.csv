@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,25,25,0.23999999999999977
+1,disease_on_symptoms,19,13,3.3181933198380564
+2,disease_on_drugs,24,16,0.21458333333333357

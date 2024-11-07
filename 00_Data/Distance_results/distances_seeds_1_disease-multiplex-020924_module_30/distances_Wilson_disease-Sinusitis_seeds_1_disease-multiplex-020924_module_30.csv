@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Sinusitis nodes,sAB
+0,disease_on_genes,23,29,0.39727251758736015
+1,disease_on_symptoms,19,21,1.0513784461152882
+2,disease_on_drugs,11,28,1.407967032967033

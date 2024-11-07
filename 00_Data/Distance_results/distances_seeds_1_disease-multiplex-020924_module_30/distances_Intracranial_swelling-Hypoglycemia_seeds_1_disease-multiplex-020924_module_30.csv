@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.26666666666666683
+1,disease_on_symptoms,14,12,1.1144688644688645
+2,disease_on_drugs,24,22,0.67481884057971

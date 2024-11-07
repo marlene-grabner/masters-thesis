@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,16,17,0.5510806595365421
+2,disease_on_drugs,30,26,0.19175824175824174

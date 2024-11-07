@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,16,30,0.6358695652173914
+1,disease_on_symptoms,26,25,3.2936349924585215
+2,disease_on_drugs,14,7,1.4047619047619049

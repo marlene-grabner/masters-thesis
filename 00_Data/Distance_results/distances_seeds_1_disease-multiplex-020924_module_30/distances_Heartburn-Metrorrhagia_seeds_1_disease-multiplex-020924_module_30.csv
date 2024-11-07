@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,24,27,0.13112745098039236
+1,disease_on_symptoms,20,17,1.057829888712242
+2,disease_on_drugs,22,26,0.9179778554778555

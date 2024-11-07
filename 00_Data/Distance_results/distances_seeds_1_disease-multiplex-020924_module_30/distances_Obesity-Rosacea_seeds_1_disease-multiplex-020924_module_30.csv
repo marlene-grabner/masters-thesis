@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.09148351648351638
+1,disease_on_symptoms,20,17,0.7065182829888714
+2,disease_on_drugs,27,27,0.5185185185185184

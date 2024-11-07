@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.18969622331691305
+1,disease_on_symptoms,16,18,-0.0512663398692812
+2,disease_on_drugs,30,25,-0.055454545454545645

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.3666666666666667
+1,disease_on_symptoms,13,23,1.6648086213303603
+2,disease_on_drugs,22,24,0.9390645586297759

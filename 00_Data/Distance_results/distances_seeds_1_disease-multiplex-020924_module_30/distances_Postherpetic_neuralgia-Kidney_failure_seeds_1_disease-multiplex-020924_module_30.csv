@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,20,0.08333333333333326
+1,disease_on_symptoms,15,23,0.7691838291380622
+2,disease_on_drugs,29,18,0.3822858074508846

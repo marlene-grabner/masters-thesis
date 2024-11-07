@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,10,15,0.2466666666666666
+2,disease_on_drugs,16,29,0.2728208812260535

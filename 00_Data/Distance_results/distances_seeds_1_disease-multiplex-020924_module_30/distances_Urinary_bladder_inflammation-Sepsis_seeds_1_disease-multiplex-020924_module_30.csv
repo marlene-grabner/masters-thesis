@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Sepsis nodes,sAB
+0,disease_on_genes,25,22,-0.15235976789168304
+1,disease_on_symptoms,22,23,0.7588274044795784
+2,disease_on_drugs,24,17,-0.09337637494021989

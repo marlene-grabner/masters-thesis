@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,-0.0357142857142857
+1,disease_on_symptoms,20,16,1.0819444444444446
+2,disease_on_drugs,27,29,0.4495073891625616

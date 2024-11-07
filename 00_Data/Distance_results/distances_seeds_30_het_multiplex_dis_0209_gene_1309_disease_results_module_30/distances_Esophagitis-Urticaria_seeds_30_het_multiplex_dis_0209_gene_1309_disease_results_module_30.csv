@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.18333333333333324
+1,disease_on_symptoms,20,21,-0.44079558652729367
+2,disease_on_drugs,30,24,-0.2041666666666666

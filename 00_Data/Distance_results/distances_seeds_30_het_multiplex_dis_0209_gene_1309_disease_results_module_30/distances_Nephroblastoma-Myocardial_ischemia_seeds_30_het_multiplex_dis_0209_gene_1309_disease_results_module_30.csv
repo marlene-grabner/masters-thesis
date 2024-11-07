@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,-0.2033995714007404
+1,disease_on_symptoms,20,19,-0.1807354925775979
+2,disease_on_drugs,24,30,-0.2162037037037038

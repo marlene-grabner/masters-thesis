@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,25,28,0.09623989218328832
+1,disease_on_symptoms,20,19,0.7689608636977057
+2,disease_on_drugs,21,26,0.4275777414075288

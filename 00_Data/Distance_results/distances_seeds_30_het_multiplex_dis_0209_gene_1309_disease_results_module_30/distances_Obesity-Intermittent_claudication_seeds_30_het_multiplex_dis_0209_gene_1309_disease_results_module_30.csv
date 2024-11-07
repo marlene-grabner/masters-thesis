@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,30,-0.05555555555555558
+1,disease_on_symptoms,18,14,0.5173611111111112
+2,disease_on_drugs,25,24,0.060289115646258384

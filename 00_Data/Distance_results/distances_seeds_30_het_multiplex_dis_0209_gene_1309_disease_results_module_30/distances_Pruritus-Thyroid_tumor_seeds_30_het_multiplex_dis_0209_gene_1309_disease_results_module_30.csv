@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.058518518518518636
+1,disease_on_symptoms,21,20,0.5135017421602786
+2,disease_on_drugs,27,20,0.24135145784081957

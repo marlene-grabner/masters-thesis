@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,19,11,0.48086124401913866
+2,disease_on_drugs,22,21,-0.0012584314909898087

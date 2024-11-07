@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.4355444305381726
+1,disease_on_symptoms,14,28,2.517857142857143
+2,disease_on_drugs,27,9,0.6851851851851851

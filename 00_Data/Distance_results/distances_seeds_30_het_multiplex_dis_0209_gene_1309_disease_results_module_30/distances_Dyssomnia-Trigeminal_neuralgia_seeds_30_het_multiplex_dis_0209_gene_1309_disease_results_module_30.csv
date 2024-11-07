@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,18,30,-0.08333333333333337
+1,disease_on_symptoms,21,15,1.557142857142857
+2,disease_on_drugs,17,25,-0.24885154061624637

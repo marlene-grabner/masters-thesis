@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,26,-0.5363756613756614
+1,disease_on_symptoms,20,21,-0.7827526132404179
+2,disease_on_drugs,27,26,-0.6426786002257702

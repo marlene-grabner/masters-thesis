@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.0
+1,disease_on_symptoms,20,22,0.4181818181818182
+2,disease_on_drugs,28,25,0.07737196765498644

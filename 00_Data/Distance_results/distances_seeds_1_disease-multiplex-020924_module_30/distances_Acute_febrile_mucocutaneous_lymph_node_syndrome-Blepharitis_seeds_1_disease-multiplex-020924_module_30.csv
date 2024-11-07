@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.09833333333333316
+1,disease_on_symptoms,18,27,0.7759259259259257
+2,disease_on_drugs,25,19,0.11191387559808597

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.08620689655172409
+1,disease_on_symptoms,23,25,0.12376811594202897
+2,disease_on_drugs,23,24,-0.2346592661116249

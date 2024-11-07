@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,20,25,0.473888888888889
+1,disease_on_symptoms,22,13,1.813036963036963
+2,disease_on_drugs,15,16,0.9715725806451614

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.033615819209039444
+1,disease_on_symptoms,17,25,0.6895798319327733
+2,disease_on_drugs,26,21,0.17995479697607353

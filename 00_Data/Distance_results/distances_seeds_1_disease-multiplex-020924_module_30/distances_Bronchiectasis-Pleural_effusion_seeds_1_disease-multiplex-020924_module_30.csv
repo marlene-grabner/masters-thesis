@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,15,20,0.12976190476190452
+2,disease_on_drugs,26,22,0.08653846153846168

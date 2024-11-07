@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,19,0.027738264580369876
+2,disease_on_drugs,29,25,0.2222733077905492

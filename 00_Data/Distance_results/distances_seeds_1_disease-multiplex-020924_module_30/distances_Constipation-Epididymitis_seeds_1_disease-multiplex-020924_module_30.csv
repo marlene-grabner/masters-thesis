@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.13558347944671723
+1,disease_on_symptoms,17,23,0.08535805626598458
+2,disease_on_drugs,27,27,0.7592592592592593

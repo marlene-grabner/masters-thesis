@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,26,-0.05769230769230771
+1,disease_on_symptoms,17,16,0.3079322638146169
+2,disease_on_drugs,24,25,0.16107142857142853

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,21,22,-0.19206181415483736
+2,disease_on_drugs,29,27,0.17886790731618318

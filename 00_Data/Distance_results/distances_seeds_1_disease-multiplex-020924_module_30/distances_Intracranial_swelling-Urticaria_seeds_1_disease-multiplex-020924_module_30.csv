@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.30833333333333335
+1,disease_on_symptoms,14,27,0.2325461349851592
+2,disease_on_drugs,24,9,0.19128787878787867

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,20,27,0.15348699763593365
+1,disease_on_symptoms,24,15,1.7125
+2,disease_on_drugs,18,25,0.4457622739018088

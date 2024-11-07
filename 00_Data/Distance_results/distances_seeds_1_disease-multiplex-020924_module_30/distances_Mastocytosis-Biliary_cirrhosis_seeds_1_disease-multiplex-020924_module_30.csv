@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,18,26,0.49494949494949503
+1,disease_on_symptoms,28,15,0.6414451827242522
+2,disease_on_drugs,17,15,0.9057598039215686

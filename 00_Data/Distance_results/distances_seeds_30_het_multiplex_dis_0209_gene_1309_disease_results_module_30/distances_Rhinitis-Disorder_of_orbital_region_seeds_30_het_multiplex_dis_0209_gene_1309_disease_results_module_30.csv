@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,12,18,0.06111111111111134
+2,disease_on_drugs,23,28,0.19166362197052744

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.1208791208791209
+1,disease_on_symptoms,19,7,0.28600347021399664
+2,disease_on_drugs,24,22,0.10367259552042163

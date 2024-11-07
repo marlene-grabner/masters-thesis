@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,17,18,1.1138655462184874
+2,disease_on_drugs,21,27,0.16666666666666674

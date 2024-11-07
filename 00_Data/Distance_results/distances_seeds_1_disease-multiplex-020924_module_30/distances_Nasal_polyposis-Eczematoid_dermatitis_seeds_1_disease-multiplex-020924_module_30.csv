@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,15,28,0.41392580287929115
+1,disease_on_symptoms,25,24,1.0593537414965986
+2,disease_on_drugs,10,28,0.048496240601503704

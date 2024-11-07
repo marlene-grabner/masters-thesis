@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,10,25,0.5114285714285713
+1,disease_on_symptoms,27,23,1.6841867954911431
+2,disease_on_drugs,9,23,0.6127717391304348

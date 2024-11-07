@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,23,14,-0.11679536679536662
+1,disease_on_symptoms,23,26,0.006177052760903745
+2,disease_on_drugs,22,14,-0.05339105339105332

@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,-0.22943469785575044
+1,disease_on_symptoms,20,19,-0.2573886639676113
+2,disease_on_drugs,29,26,-0.1809862551241862

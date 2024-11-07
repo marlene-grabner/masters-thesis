@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,18,25,0.34178294573643386
+1,disease_on_symptoms,18,25,3.3282945736434106
+2,disease_on_drugs,10,23,0.727733860342556

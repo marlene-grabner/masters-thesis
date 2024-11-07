@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Uveitis nodes,sAB
+0,disease_on_genes,20,30,0.2683333333333333
+1,disease_on_symptoms,22,21,1.11771368166717
+2,disease_on_drugs,15,27,0.6433862433862434

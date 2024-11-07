@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,26,24,0.12076923076923074
+1,disease_on_symptoms,22,19,0.807387093009686
+2,disease_on_drugs,25,24,0.43056122448979584

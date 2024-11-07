@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.21780147662018057
+1,disease_on_symptoms,22,21,1.5563022249068759
+2,disease_on_drugs,29,21,0.3423645320197046

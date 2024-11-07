@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.3137254901960784
+1,disease_on_symptoms,13,20,1.0277972027972029
+2,disease_on_drugs,29,19,0.09868421052631593

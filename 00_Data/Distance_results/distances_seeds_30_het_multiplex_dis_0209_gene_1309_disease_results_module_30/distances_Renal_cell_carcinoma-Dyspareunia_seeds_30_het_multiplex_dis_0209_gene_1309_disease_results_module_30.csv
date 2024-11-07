@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,29,0.01719576719576721
+1,disease_on_symptoms,22,20,0.6971861471861471
+2,disease_on_drugs,22,28,0.20954545454545448

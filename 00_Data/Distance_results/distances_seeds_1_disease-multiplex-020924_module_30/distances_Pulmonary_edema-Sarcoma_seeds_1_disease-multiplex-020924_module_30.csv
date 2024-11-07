@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.290909090909091
+1,disease_on_symptoms,14,26,0.9618131868131867
+2,disease_on_drugs,27,21,0.6087962962962961

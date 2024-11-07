@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.23333333333333317
+1,disease_on_symptoms,17,13,1.0518853695324282
+2,disease_on_drugs,28,23,0.36965655827548427

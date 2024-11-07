@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,27,25,-0.09615384615384615
+1,disease_on_symptoms,21,20,1.1690766550522649
+2,disease_on_drugs,25,21,-0.2114285714285713

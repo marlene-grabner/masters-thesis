@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.17893772893772886
+1,disease_on_symptoms,17,21,0.0917735515258733
+2,disease_on_drugs,28,26,-0.05428367928367939

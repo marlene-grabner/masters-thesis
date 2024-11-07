@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,21,17,0.7033023735810113
+2,disease_on_drugs,29,26,1.0018808777429467

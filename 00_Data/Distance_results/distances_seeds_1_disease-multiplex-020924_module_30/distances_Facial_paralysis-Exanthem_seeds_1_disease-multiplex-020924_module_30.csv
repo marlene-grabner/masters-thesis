@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Exanthem nodes,sAB
+0,disease_on_genes,14,28,0.13095238095238093
+1,disease_on_symptoms,23,26,1.2105658316838441
+2,disease_on_drugs,14,28,0.125

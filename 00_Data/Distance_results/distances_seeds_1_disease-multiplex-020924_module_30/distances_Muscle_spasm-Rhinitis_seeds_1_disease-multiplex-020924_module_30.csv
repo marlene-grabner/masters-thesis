@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,0.17878787878787894
+1,disease_on_symptoms,23,15,0.28787185354691047
+2,disease_on_drugs,19,22,0.7073170731707317

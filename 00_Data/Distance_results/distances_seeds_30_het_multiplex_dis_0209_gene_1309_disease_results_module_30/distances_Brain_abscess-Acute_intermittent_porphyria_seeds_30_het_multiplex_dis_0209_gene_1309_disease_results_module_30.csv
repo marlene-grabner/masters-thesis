@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,27,27,-0.20370370370370372
+1,disease_on_symptoms,21,17,1.1506707946336432
+2,disease_on_drugs,23,24,-0.17262180080172662

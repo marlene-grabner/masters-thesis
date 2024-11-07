@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.3914431673052361
+1,disease_on_symptoms,18,15,0.3186868686868687
+2,disease_on_drugs,19,26,0.19370220422852014

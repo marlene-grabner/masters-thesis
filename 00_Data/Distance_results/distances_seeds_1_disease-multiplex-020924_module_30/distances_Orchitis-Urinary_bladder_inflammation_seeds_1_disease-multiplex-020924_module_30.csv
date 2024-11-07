@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,23,25,0.2941666666666667
+1,disease_on_symptoms,16,22,1.7301136363636362
+2,disease_on_drugs,17,24,0.8822333811573411

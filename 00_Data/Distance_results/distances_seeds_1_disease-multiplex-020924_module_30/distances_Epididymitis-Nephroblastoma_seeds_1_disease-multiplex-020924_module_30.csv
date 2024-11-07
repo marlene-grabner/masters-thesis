@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,29,25,0.25609195402298846
+1,disease_on_symptoms,23,25,0.7639855072463768
+2,disease_on_drugs,27,21,1.0879629629629628

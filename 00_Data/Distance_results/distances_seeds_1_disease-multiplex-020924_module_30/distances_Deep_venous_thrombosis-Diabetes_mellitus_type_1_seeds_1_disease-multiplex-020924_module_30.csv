@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,28,13,0.4277338515143394
+1,disease_on_symptoms,14,25,3.9631868131868138
+2,disease_on_drugs,24,8,0.84375

@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,0.31144927536231903
+1,disease_on_symptoms,19,20,0.9201417004048582
+2,disease_on_drugs,18,20,1.815643274853801

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,28,0.24137931034482762
+1,disease_on_symptoms,10,20,0.8083333333333331
+2,disease_on_drugs,16,25,0.17783536585365844

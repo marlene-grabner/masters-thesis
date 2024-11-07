@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,19,-0.14525283797729593
+2,disease_on_drugs,17,30,-0.07713808927826449

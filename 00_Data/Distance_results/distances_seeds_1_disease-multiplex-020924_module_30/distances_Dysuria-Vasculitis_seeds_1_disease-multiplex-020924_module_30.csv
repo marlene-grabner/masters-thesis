@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.10863966601604846
+1,disease_on_symptoms,16,19,1.3382048872180452
+2,disease_on_drugs,23,20,0.5329120323559151

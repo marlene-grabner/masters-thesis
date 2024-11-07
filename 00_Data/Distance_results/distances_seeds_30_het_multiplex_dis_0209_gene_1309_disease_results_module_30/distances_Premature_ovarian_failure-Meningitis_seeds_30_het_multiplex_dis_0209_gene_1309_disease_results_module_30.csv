@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,15,17,0.4903186274509803
+2,disease_on_drugs,26,27,0.09315701768531959

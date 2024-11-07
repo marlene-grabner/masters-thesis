@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,28,0.1785714285714286
+1,disease_on_symptoms,18,21,1.9655067155067156
+2,disease_on_drugs,26,28,0.6117216117216118

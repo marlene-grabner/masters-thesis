@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,11,17,0.4341100076394193
+2,disease_on_drugs,24,29,-0.05050422901756679

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,15,21,-0.18968253968253967
+2,disease_on_drugs,25,29,-0.29859514687100897

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,14,0.5664136622390892
+2,disease_on_drugs,24,27,-0.029003267973856106

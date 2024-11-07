@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.5461038961038962
+1,disease_on_symptoms,14,20,1.7634453781512607
+2,disease_on_drugs,13,27,1.1

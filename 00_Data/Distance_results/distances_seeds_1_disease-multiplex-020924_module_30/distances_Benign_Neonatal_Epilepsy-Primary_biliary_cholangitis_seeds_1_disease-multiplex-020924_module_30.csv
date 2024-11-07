@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,29,26,0.3444055944055944
+1,disease_on_symptoms,16,17,2.0088569518716577
+2,disease_on_drugs,26,18,0.8333333333333335

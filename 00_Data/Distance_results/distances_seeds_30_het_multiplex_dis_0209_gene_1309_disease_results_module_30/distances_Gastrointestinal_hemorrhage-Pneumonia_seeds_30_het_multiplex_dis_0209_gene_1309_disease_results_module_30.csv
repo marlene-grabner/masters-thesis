@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,-0.035098522167487656
+1,disease_on_symptoms,20,23,0.3912537917087968
+2,disease_on_drugs,27,29,0.1949233716475094

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,18,20,1.085526315789474
+2,disease_on_drugs,25,30,0.519090909090909

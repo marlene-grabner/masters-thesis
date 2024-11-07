@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,18,23,0.40903735124307783
+1,disease_on_symptoms,21,21,0.7857142857142856
+2,disease_on_drugs,6,21,0.5396825396825395

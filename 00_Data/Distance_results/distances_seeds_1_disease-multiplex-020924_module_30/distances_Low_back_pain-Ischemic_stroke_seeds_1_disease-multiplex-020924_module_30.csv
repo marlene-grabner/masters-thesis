@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,17,16,1.5833333333333335
+2,disease_on_drugs,26,23,0.45189748140058716

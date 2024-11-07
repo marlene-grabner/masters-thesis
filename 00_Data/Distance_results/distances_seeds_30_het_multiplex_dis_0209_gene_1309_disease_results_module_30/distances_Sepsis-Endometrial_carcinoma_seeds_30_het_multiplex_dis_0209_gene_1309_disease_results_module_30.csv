@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.016666666666666607
+1,disease_on_symptoms,15,21,0.9015873015873015
+2,disease_on_drugs,25,26,0.3528657616892912

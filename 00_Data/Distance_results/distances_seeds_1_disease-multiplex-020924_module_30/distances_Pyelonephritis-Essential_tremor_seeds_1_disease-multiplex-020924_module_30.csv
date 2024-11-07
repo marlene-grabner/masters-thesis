@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,23,21,0.48023715415019774
+1,disease_on_symptoms,21,20,1.4632113821138208
+2,disease_on_drugs,19,19,0.736842105263158

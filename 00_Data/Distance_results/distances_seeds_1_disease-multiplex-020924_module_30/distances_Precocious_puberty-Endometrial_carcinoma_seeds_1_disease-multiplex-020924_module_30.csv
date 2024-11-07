@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,-0.17402242275088864
+1,disease_on_symptoms,14,21,0.019047619047619202
+2,disease_on_drugs,24,21,-0.31587301587301586

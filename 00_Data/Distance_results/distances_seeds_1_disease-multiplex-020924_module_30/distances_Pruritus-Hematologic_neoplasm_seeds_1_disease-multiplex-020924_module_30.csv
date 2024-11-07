@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.15276595744680854
+1,disease_on_symptoms,19,24,0.9166411668706651
+2,disease_on_drugs,24,19,0.6621787025703796

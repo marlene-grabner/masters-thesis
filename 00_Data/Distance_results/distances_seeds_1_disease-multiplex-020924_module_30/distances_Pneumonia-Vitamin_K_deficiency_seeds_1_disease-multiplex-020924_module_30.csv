@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.08484848484848495
+1,disease_on_symptoms,26,23,1.255631014947785
+2,disease_on_drugs,28,20,0.44999999999999996

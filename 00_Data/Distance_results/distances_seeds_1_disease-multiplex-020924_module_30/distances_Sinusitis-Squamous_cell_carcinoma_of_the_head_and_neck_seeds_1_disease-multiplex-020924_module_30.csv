@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,29,21,0.22446633825944162
+1,disease_on_symptoms,21,25,0.789730848861284
+2,disease_on_drugs,28,21,1.0688775510204083

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.040541310541310605
+1,disease_on_symptoms,21,19,1.6550751879699248
+2,disease_on_drugs,23,24,0.27470706136293566

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Angioedema nodes,sAB
+0,disease_on_genes,18,29,0.15001725327812276
+1,disease_on_symptoms,28,17,0.5576330532212883
+2,disease_on_drugs,17,25,0.13165266106442575

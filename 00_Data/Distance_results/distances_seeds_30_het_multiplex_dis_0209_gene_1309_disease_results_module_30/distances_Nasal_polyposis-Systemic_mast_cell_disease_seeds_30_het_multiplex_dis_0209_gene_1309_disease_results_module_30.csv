@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,20,25,0.051111111111110885
+2,disease_on_drugs,25,21,0.10836438923395453

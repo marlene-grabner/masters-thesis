@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,27,28,-0.25524290524290527
+1,disease_on_symptoms,22,17,0.4290415466886057
+2,disease_on_drugs,26,28,-0.09259259259259256

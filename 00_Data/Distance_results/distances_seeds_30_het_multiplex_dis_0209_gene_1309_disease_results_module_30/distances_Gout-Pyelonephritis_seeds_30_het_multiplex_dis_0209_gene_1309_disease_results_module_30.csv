@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,28,24,-0.05792124542124555
+1,disease_on_symptoms,19,19,0.8421052631578949
+2,disease_on_drugs,22,19,-0.17860893919943988

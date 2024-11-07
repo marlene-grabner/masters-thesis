@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,25,30,-0.19848484848484838
+1,disease_on_symptoms,13,22,0.22792207792207808
+2,disease_on_drugs,21,29,0.10646962233169144

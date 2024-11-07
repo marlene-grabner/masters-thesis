@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,26,26,-0.23076923076923073
+1,disease_on_symptoms,20,19,-0.07803643724696352
+2,disease_on_drugs,23,25,-0.191123188405797

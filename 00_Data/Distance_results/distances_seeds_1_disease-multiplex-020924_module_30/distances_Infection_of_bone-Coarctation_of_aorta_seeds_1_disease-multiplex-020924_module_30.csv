@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.5087082728592165
+1,disease_on_symptoms,21,14,2.083333333333333
+2,disease_on_drugs,24,13,1.0996621621621623

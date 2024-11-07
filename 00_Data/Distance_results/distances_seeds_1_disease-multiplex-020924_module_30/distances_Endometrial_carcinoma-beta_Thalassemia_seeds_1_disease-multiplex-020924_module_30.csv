@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,23,22,0.5332674571805007
+1,disease_on_symptoms,21,21,2.904761904761905
+2,disease_on_drugs,21,6,1.3174603174603172

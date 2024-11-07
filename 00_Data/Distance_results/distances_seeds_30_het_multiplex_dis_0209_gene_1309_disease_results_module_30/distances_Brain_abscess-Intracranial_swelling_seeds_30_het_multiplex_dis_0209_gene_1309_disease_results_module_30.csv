@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,21,11,0.28787878787878807
+2,disease_on_drugs,23,21,-0.22604931300583453

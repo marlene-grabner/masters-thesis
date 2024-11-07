@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,22,24,0.30426548089591576
+1,disease_on_symptoms,24,19,1.7796562627498982
+2,disease_on_drugs,20,19,0.48512145748987856

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,-0.1952380952380952
+1,disease_on_symptoms,15,23,-0.28176964149504213
+2,disease_on_drugs,30,26,0.09972527472527459

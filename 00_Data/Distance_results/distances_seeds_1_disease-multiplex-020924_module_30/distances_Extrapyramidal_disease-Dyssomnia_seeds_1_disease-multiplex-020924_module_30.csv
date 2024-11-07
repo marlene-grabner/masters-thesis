@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,14,18,0.12053571428571441
+1,disease_on_symptoms,25,21,1.2774741200828155
+2,disease_on_drugs,10,17,0.7136165577342048

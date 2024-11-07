@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,29,26,0.38275862068965516
+1,disease_on_symptoms,23,17,1.0735933503836317
+2,disease_on_drugs,27,23,0.9212238325281803

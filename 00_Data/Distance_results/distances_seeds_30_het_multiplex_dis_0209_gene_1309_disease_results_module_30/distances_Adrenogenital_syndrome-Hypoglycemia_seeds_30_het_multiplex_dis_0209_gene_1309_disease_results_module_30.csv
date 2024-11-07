@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,9,19,-0.45488721804511245
+2,disease_on_drugs,23,27,0.03967793880837367

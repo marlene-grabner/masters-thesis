@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.49
+1,disease_on_symptoms,23,23,2.413043478260869
+2,disease_on_drugs,30,21,0.8719887955182073

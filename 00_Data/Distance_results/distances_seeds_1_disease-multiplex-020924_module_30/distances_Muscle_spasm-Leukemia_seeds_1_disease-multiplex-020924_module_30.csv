@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,0.3418604651162789
+1,disease_on_symptoms,23,27,1.6389049919484702
+2,disease_on_drugs,19,17,1.3284313725490193

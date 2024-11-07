@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Vitiligo nodes,sAB
+0,disease_on_genes,17,24,0.07786346245815401
+1,disease_on_symptoms,22,22,2.068181818181818
+2,disease_on_drugs,15,11,-0.033333333333333215

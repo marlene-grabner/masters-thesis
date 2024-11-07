@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.08563218390804594
+1,disease_on_symptoms,21,17,1.2235736399823087
+2,disease_on_drugs,29,28,0.20984573502722315

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Gangrene nodes,sAB
+0,disease_on_genes,29,26,0.34545454545454546
+1,disease_on_symptoms,15,19,1.7267285861713106
+2,disease_on_drugs,27,23,0.6612238325281803

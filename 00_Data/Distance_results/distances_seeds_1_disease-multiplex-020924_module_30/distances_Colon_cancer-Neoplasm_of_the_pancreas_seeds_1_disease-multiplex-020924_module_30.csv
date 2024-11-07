@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,30,-0.537087912087912
+1,disease_on_symptoms,21,20,-0.5350174216027875
+2,disease_on_drugs,24,30,-0.537037037037037

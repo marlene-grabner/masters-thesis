@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.3323586744639375
+1,disease_on_symptoms,21,13,1.36112906701142
+2,disease_on_drugs,24,23,0.5309705519580634

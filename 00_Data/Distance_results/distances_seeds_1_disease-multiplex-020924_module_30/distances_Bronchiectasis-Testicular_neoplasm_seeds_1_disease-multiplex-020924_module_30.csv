@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.21606060606060606
+1,disease_on_symptoms,15,25,0.9083333333333332
+2,disease_on_drugs,26,23,0.7752030578117535

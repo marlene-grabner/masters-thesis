@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,-0.20854700854700847
+1,disease_on_symptoms,16,27,1.877987726098191
+2,disease_on_drugs,30,9,0.17948717948717952

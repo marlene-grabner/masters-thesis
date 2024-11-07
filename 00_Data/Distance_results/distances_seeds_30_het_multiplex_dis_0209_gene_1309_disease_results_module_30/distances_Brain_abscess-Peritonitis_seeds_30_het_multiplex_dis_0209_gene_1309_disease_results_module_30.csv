@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Peritonitis nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,21,14,0.0690476190476188
+2,disease_on_drugs,23,24,-0.21517499229108838

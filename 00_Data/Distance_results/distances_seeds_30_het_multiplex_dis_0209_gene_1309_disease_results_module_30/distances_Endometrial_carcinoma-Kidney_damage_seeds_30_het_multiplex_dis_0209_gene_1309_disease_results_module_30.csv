@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,30,0.1607142857142858
+1,disease_on_symptoms,21,15,0.5349206349206348
+2,disease_on_drugs,26,21,0.04113085496064239

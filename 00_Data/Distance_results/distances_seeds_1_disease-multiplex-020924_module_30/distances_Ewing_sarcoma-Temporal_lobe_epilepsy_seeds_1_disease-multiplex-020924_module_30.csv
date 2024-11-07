@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,24,29,0.278749186727391
+1,disease_on_symptoms,25,17,2.1641456582633056
+2,disease_on_drugs,17,26,1.2598389982110914

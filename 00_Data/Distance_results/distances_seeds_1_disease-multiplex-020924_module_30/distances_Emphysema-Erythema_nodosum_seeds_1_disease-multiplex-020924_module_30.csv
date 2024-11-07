@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.06892446633825933
+1,disease_on_symptoms,14,23,-0.07499580325667266
+2,disease_on_drugs,29,28,0.1049498746867168

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,17,19,0.07696938424492616
+2,disease_on_drugs,17,25,0.23232492997198873

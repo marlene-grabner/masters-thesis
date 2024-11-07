@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.6111111111111109
+1,disease_on_symptoms,22,27,1.6065244279529995
+2,disease_on_drugs,15,13,1.3642857142857143

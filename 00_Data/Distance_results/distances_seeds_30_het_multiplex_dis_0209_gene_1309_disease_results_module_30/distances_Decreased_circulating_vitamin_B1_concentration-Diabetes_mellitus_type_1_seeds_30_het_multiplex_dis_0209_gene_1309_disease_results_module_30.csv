@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,17,18,-0.3036414565826331
+2,disease_on_drugs,25,26,-0.2753544494720964

@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,19,22,0.5335219978994048
+2,disease_on_drugs,25,27,0.38652421652421665

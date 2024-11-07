@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Malnutrition nodes,sAB
+0,disease_on_genes,28,30,-0.1385467980295566
+1,disease_on_symptoms,19,14,0.3578263841421736
+2,disease_on_drugs,22,29,-0.06958018317044679

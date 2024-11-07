@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,0.0457115009746587
+1,disease_on_symptoms,17,16,-0.14583333333333326
+2,disease_on_drugs,26,18,0.56993006993007

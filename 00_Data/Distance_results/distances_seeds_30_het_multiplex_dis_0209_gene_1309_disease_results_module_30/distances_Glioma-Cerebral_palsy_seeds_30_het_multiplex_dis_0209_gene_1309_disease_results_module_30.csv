@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,22,30,0.17307692307692313
+1,disease_on_symptoms,21,13,2.084356819650937
+2,disease_on_drugs,21,21,0.11904761904761907

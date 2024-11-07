@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,23,30,-0.3379819524200165
+1,disease_on_symptoms,16,13,-0.31689323607427067
+2,disease_on_drugs,22,29,-0.17647058823529416

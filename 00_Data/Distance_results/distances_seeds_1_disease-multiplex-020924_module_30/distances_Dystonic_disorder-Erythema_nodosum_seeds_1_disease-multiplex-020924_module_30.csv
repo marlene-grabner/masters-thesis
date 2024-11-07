@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,17,28,0.5311624649859945
+1,disease_on_symptoms,28,23,2.708059310680794
+2,disease_on_drugs,9,28,0.8740347490347491

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.15778388278388267
+1,disease_on_symptoms,17,14,1.528530767145568
+2,disease_on_drugs,20,26,0.3503344481605353

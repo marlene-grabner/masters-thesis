@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.08738554451587777
+1,disease_on_symptoms,16,15,0.7067876344086022
+2,disease_on_drugs,23,29,0.172557951793334

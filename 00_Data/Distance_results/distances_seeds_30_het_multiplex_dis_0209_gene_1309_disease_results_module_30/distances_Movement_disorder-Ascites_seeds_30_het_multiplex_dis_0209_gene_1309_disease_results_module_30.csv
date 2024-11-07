@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.10000000000000009
+1,disease_on_symptoms,17,22,-0.33734402852049894
+2,disease_on_drugs,26,27,-0.24720475192173308

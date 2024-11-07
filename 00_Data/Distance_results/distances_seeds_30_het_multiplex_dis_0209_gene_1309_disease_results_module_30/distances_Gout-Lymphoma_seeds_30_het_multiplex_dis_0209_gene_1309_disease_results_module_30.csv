@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Lymphoma nodes,sAB
+0,disease_on_genes,28,26,-0.09193121693121686
+1,disease_on_symptoms,19,20,0.7423751686909583
+2,disease_on_drugs,22,24,-0.09123847167325416

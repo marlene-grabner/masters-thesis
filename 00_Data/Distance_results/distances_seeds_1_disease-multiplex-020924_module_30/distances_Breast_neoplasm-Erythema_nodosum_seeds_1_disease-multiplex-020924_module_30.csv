@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.29248768472906406
+1,disease_on_symptoms,16,23,0.4205337235228539
+2,disease_on_drugs,30,28,0.6200738916256159

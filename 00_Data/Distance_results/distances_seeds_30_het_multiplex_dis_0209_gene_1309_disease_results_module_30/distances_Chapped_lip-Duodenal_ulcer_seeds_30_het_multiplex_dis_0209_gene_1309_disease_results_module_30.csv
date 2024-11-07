@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,26,28,-0.09259259259259256
+1,disease_on_symptoms,20,17,0.5335055643879172
+2,disease_on_drugs,23,28,-0.11391730605285577

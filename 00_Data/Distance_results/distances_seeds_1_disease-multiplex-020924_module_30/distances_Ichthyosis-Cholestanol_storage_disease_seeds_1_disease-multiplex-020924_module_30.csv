@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,27,30,0.20760233918128645
+1,disease_on_symptoms,17,17,0.7058823529411766
+2,disease_on_drugs,24,25,0.5330612244897959

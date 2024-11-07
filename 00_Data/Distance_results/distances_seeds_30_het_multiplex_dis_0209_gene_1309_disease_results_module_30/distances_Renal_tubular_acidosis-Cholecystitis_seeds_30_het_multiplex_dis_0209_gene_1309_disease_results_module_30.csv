@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,-0.19999999999999996
+1,disease_on_symptoms,14,23,0.19565217391304346
+2,disease_on_drugs,27,21,-0.29265873015873023

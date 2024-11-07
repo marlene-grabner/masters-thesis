@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.2160180995475114
+1,disease_on_symptoms,19,15,0.6769865841073273
+2,disease_on_drugs,24,16,0.825

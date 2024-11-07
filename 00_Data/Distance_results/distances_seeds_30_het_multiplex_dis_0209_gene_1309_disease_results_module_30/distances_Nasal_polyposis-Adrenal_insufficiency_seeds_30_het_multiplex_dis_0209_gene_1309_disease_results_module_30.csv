@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,20,15,-0.10952380952380958
+2,disease_on_drugs,25,24,0.24232993197278896

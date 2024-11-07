@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,17,18,0.8004201680672267
+2,disease_on_drugs,24,27,-0.0943627450980391

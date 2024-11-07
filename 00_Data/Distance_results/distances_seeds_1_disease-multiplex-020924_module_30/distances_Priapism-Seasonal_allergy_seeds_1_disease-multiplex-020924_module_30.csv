@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,-0.15314630820183128
+1,disease_on_symptoms,17,15,-0.27279411764705896
+2,disease_on_drugs,28,29,-0.053268948232650715

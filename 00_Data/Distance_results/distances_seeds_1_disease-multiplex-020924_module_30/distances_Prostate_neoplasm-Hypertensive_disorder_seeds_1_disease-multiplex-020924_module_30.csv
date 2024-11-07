@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,17,26,0.06839945280437765
+1,disease_on_symptoms,21,15,1.9214285714285717
+2,disease_on_drugs,17,26,0.73187414500684

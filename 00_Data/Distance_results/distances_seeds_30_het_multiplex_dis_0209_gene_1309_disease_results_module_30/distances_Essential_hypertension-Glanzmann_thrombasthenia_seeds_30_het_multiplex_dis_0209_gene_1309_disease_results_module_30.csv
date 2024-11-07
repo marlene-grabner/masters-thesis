@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,28,24,-0.07692307692307687
+1,disease_on_symptoms,13,19,0.9183957489878543
+2,disease_on_drugs,28,24,0.003434065934065922

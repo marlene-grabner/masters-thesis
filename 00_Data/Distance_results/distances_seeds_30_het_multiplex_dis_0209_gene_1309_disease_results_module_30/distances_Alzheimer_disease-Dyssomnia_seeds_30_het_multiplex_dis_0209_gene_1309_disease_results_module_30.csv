@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,23,18,-0.2682926829268293
+1,disease_on_symptoms,19,21,1.7689849624060148
+2,disease_on_drugs,19,17,-0.39723082215342287

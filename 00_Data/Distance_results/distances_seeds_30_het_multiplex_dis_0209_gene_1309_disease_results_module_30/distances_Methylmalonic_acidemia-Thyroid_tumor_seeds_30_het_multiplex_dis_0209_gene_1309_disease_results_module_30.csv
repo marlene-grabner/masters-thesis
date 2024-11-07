@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,-0.02083333333333337
+1,disease_on_symptoms,17,20,1.495429252782194
+2,disease_on_drugs,21,20,0.19857723577235764

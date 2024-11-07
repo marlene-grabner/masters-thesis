@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,24,-0.06944444444444442
+1,disease_on_symptoms,16,21,0.3889157014157014
+2,disease_on_drugs,24,18,-0.304563492063492

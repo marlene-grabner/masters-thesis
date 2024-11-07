@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.09567099567099557
+1,disease_on_symptoms,20,23,1.1700707785642062
+2,disease_on_drugs,24,14,0.8530701754385965

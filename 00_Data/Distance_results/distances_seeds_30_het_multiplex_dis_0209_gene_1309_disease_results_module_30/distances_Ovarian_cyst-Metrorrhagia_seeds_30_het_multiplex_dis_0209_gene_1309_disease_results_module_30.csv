@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.26140350877192975
+1,disease_on_symptoms,19,17,-0.4785861713106294
+2,disease_on_drugs,24,26,-0.3996153846153846

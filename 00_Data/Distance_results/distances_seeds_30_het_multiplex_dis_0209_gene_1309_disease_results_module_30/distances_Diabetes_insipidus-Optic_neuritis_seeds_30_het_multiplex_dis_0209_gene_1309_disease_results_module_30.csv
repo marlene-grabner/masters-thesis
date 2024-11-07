@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.038098693759071045
+1,disease_on_symptoms,20,21,0.5343205574912893
+2,disease_on_drugs,20,27,0.0108353033884947

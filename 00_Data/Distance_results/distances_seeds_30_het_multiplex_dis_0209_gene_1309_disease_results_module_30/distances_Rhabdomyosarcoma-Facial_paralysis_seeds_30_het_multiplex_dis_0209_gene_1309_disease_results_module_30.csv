@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,29,22,0.03921568627450989
+1,disease_on_symptoms,19,21,1.0583959899749376
+2,disease_on_drugs,29,17,0.4764529499955905

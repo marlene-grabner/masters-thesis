@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Nocturia nodes,sAB
+0,disease_on_genes,26,25,-0.27923076923076917
+1,disease_on_symptoms,18,18,0.08333333333333326
+2,disease_on_drugs,25,24,-0.08129251700680284

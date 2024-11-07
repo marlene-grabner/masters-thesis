@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.2807017543859649
+1,disease_on_symptoms,14,17,0.47899159663865554
+2,disease_on_drugs,29,24,-0.24535079158533923

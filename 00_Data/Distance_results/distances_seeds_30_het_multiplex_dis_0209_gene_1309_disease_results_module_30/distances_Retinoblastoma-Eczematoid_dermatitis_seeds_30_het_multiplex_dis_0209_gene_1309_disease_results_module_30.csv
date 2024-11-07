@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,21,25,1.0043064182194619
+2,disease_on_drugs,27,30,0.5104288499025342

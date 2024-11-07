@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Encephalitis nodes,sAB
+0,disease_on_genes,29,28,0.4204260651629075
+1,disease_on_symptoms,15,17,2.1192401960784313
+2,disease_on_drugs,27,18,0.9851851851851849

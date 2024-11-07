@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,21,20,0.7009872241579558
+2,disease_on_drugs,27,28,0.34739057239057236

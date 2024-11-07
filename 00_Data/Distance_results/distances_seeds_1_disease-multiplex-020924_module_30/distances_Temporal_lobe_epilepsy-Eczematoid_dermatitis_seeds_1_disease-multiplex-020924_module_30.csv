@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,29,28,0.3508663901132141
+1,disease_on_symptoms,17,24,1.7420492587278815
+2,disease_on_drugs,26,28,0.7228327228327227

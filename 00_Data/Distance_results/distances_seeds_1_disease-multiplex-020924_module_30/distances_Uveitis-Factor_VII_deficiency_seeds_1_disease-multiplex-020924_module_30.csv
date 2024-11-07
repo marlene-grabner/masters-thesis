@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.396060606060606
+1,disease_on_symptoms,21,23,1.7504234895539241
+2,disease_on_drugs,27,21,0.933862433862434

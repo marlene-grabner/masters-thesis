@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,23,29,-0.4540998731403528
+1,disease_on_symptoms,25,22,-0.21671179883945846
+2,disease_on_drugs,18,29,-0.43292981168989964

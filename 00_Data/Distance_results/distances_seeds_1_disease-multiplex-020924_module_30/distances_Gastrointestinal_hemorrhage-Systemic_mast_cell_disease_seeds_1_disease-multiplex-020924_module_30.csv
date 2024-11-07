@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,-0.49947546068235715
+1,disease_on_symptoms,19,16,-0.5841165413533835
+2,disease_on_drugs,27,25,-0.40384615384615385

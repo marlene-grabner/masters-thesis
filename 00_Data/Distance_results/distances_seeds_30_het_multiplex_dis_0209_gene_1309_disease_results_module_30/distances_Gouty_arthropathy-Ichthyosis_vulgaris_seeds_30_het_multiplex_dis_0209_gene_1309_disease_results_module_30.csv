@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,28,27,0.3090909090909091
+1,disease_on_symptoms,18,21,0.9484126984126984
+2,disease_on_drugs,23,24,0.20947039777983334

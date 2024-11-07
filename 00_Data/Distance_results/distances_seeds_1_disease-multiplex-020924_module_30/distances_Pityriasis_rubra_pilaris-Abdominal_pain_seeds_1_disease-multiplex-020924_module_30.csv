@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.01839080459770126
+1,disease_on_symptoms,23,24,0.3162002775208139
+2,disease_on_drugs,26,24,-0.1201282051282051

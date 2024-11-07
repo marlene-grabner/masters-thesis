@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,18,27,-0.04629629629629628
+1,disease_on_symptoms,28,27,0.31126743626743614
+2,disease_on_drugs,17,26,-0.09728506787330327

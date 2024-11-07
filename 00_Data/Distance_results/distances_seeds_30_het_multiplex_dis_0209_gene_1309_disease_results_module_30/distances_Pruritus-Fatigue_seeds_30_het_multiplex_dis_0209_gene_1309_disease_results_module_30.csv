@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Fatigue nodes,sAB
+0,disease_on_genes,27,26,-0.15168252432403362
+1,disease_on_symptoms,21,16,1.4464285714285714
+2,disease_on_drugs,27,26,-0.0018679782830728353

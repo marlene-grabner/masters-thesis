@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,30,0.3928571428571428
+1,disease_on_symptoms,17,14,1.0737327188940091
+2,disease_on_drugs,24,22,0.4995059288537551

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Goiter nodes,sAB
+0,disease_on_genes,25,26,0.0776470588235294
+1,disease_on_symptoms,21,12,0.8685064935064934
+2,disease_on_drugs,24,18,0.5873015873015872

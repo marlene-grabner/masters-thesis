@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,13,0.24202279202279198
+1,disease_on_symptoms,19,26,0.862910481331534
+2,disease_on_drugs,26,9,0.7823565323565322

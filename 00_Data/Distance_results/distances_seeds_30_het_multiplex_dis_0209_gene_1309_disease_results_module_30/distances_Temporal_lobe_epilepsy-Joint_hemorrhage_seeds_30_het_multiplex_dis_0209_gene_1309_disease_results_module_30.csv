@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,17,0.6764705882352942
+2,disease_on_drugs,28,26,0.09366096866096862

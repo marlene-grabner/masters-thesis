@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,12,0.24477058029689625
+1,disease_on_symptoms,20,27,0.5241331757289203
+2,disease_on_drugs,20,9,0.47509578544061304

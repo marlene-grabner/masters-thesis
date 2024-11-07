@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,20,24,0.01780303030303032
+1,disease_on_symptoms,18,21,0.9600122100122102
+2,disease_on_drugs,19,24,0.33463382292941657

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,27,30,-0.15886939571150105
+1,disease_on_symptoms,21,20,-0.34076655052264826
+2,disease_on_drugs,27,25,-0.03638176638176627

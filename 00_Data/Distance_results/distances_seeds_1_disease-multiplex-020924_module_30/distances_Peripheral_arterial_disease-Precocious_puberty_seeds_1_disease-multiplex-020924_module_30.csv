@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,25,30,0.144848484848485
+1,disease_on_symptoms,14,14,0.6428571428571428
+2,disease_on_drugs,22,24,0.7608695652173914

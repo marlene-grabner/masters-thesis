@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Headache nodes,sAB
+0,disease_on_genes,24,30,0.21990740740740722
+1,disease_on_symptoms,19,23,0.9224147324833825
+2,disease_on_drugs,19,23,0.062493189495477885

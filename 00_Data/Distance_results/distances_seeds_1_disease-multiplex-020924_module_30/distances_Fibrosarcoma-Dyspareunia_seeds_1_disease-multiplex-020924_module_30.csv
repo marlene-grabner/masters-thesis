@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,22,24,0.2954545454545454
+1,disease_on_symptoms,24,17,1.2230989956958394
+2,disease_on_drugs,13,23,0.5181159420289856

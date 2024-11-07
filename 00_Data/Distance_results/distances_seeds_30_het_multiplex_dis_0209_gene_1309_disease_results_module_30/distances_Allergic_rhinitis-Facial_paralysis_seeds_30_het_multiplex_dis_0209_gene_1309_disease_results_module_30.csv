@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,22,0.17999999999999994
+1,disease_on_symptoms,20,21,0.901945412311266
+2,disease_on_drugs,25,17,0.18352941176470594

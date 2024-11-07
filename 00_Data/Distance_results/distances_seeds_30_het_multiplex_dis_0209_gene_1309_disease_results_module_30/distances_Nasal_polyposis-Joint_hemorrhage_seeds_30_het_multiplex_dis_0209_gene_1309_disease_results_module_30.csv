@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,20,17,0.9108108108108111
+2,disease_on_drugs,25,26,0.39365007541478114

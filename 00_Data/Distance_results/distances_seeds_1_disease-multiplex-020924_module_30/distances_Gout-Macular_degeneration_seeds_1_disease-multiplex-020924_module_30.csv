@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,25,30,0.2687878787878788
+1,disease_on_symptoms,18,15,1.0969696969696972
+2,disease_on_drugs,23,21,0.7716450216450217

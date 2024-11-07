@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.3999999999999999
+1,disease_on_symptoms,19,11,-0.8647527910685806
+2,disease_on_drugs,22,21,-0.6968186851907783

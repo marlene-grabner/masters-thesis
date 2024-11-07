@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,17,30,0.052565707133917394
+1,disease_on_symptoms,21,22,2.06913822611497
+2,disease_on_drugs,17,28,0.9455415499533144

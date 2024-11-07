@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.15701754385964906
+1,disease_on_symptoms,16,13,-0.05611737400530514
+2,disease_on_drugs,23,28,0.028361344537815025

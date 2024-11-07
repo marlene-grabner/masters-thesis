@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,28,27,0.10909090909090913
+1,disease_on_symptoms,17,17,0.8823529411764706
+2,disease_on_drugs,19,17,0.22936016511867918

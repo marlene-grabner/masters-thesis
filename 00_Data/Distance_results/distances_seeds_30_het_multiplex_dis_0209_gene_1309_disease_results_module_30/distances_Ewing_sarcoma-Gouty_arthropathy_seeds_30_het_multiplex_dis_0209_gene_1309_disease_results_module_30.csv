@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.18965517241379315
+1,disease_on_symptoms,17,18,0.3192810457516342
+2,disease_on_drugs,24,23,0.23163351834720936

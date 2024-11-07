@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,25,26,-0.1368778280542986
+1,disease_on_symptoms,19,25,0.759665071770335
+2,disease_on_drugs,23,25,-0.12438405797101448

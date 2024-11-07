@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555569
+1,disease_on_symptoms,17,21,0.24812030075187952
+2,disease_on_drugs,24,27,0.010757080610021674

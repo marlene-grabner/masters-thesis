@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,17,0.35026737967914445
+1,disease_on_symptoms,17,21,1.4084475895621407
+2,disease_on_drugs,25,14,1.1025641025641026

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,24,30,0.19174186491659828
+1,disease_on_symptoms,23,20,1.3642062689585437
+2,disease_on_drugs,20,24,0.7969696969696969

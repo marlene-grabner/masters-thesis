@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,26,30,0.08791208791208804
+1,disease_on_symptoms,20,21,0.8961091753774681
+2,disease_on_drugs,20,27,0.6038219070133963

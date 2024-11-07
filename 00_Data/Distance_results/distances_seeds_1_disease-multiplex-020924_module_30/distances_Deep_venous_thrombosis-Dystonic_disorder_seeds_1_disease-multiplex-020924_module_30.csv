@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,28,17,0.5089402427637721
+1,disease_on_symptoms,14,28,2.9940476190476186
+2,disease_on_drugs,24,9,0.9696969696969697

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,25,30,-0.31272727272727274
+1,disease_on_symptoms,21,14,0.13809523809523805
+2,disease_on_drugs,24,29,-0.36309911082194746

@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,20,21,0.46710220673635305
+2,disease_on_drugs,30,29,0.44009351256575124

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,-0.19647058823529417
+1,disease_on_symptoms,20,26,0.17859531772575243
+2,disease_on_drugs,24,24,0.04166666666666652

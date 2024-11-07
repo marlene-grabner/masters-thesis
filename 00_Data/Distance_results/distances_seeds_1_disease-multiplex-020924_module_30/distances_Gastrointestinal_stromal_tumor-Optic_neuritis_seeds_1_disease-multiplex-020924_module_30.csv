@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,0.034267310789049654
+1,disease_on_symptoms,20,16,0.7756944444444447
+2,disease_on_drugs,19,27,0.5281803542673107

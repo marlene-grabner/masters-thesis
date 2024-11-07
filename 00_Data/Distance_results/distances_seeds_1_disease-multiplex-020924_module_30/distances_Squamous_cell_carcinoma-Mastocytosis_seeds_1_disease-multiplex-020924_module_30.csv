@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,16,18,0.11192810457516345
+1,disease_on_symptoms,26,28,1.0056471306471306
+2,disease_on_drugs,14,17,0.4573055028462998

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,22,15,0.9493857493857494
+2,disease_on_drugs,26,28,0.31262718762718755

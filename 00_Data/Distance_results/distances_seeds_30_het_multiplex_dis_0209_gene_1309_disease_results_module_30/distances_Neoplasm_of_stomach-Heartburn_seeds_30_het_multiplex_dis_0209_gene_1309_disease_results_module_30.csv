@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Heartburn nodes,sAB
+0,disease_on_genes,25,26,-0.1572549019607843
+1,disease_on_symptoms,23,16,0.33138238573021184
+2,disease_on_drugs,24,25,0.06243197278911561

@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,16,17,-0.8484848484848484
+2,disease_on_drugs,29,30,-0.37354373660627327

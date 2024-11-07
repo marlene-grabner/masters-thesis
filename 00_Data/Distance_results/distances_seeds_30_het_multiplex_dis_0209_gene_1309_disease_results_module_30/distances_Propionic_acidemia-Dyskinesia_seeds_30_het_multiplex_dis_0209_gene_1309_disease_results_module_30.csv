@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,16,15,-0.3110887096774193
+2,disease_on_drugs,30,28,-0.048891625615763656

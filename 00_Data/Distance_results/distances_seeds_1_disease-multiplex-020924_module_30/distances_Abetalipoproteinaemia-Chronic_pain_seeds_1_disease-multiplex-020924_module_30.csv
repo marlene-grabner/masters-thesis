@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,17,30,0.11952440550688381
+1,disease_on_symptoms,25,22,0.16841392649903275
+2,disease_on_drugs,13,28,0.2851447333154651

@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.01693941165010715
+1,disease_on_symptoms,19,20,0.5577260458839406
+2,disease_on_drugs,30,28,0.22097701149425308

@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.3093633952254642
+1,disease_on_symptoms,18,21,0.875763125763126
+2,disease_on_drugs,19,20,0.2293859649122807

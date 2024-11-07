@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,-0.37478991596638656
+1,disease_on_symptoms,23,26,0.15998907924373773
+2,disease_on_drugs,29,12,-0.27123633305298567

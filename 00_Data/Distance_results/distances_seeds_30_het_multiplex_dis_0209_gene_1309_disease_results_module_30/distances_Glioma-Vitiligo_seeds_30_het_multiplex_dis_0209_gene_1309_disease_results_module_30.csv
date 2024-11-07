@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Vitiligo nodes,sAB
+0,disease_on_genes,22,30,-0.019230769230769273
+1,disease_on_symptoms,21,19,0.5488721804511276
+2,disease_on_drugs,21,25,0.19987577639751564

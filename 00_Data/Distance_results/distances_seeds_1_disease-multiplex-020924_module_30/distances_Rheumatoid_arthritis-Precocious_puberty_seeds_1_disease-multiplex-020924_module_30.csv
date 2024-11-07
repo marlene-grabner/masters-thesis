@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,0.2269005847953216
+1,disease_on_symptoms,15,14,1.1717569786535302
+2,disease_on_drugs,25,24,0.7963265306122449

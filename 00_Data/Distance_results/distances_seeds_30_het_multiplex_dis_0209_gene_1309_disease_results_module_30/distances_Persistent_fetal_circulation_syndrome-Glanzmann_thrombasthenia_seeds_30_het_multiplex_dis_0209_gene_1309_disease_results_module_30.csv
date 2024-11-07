@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,24,24,0.04166666666666674
+1,disease_on_symptoms,22,19,0.6543937448943864
+2,disease_on_drugs,21,24,0.21845238095238084

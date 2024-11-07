@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,24,30,-0.2962962962962963
+1,disease_on_symptoms,21,22,-0.23092217859659714
+2,disease_on_drugs,24,29,-0.32570212535241816

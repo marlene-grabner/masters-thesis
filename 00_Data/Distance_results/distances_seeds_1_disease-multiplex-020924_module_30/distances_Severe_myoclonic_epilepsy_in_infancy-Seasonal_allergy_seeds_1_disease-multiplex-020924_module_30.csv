@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,0.45674069744788626
+1,disease_on_symptoms,16,15,1.8556451612903224
+2,disease_on_drugs,21,29,0.7351395730706074

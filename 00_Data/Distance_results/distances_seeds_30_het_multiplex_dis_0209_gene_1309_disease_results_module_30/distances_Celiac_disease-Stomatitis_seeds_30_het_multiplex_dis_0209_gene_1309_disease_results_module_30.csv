@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,18,19,-0.16429587482219055
+2,disease_on_drugs,28,29,-0.03549822832944427

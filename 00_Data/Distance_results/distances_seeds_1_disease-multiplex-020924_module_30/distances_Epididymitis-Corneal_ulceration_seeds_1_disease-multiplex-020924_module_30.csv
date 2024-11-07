@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,29,28,-1.0802869242043656e-05
+1,disease_on_symptoms,23,19,0.01645417892557477
+2,disease_on_drugs,27,26,0.35918937805730233

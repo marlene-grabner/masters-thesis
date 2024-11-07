@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.508869395711501
+1,disease_on_symptoms,23,22,-0.7113526570048309
+2,disease_on_drugs,25,27,-0.5992307692307692

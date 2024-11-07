@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,20,18,0.7135964912280701
+2,disease_on_drugs,25,29,0.024086845466156026

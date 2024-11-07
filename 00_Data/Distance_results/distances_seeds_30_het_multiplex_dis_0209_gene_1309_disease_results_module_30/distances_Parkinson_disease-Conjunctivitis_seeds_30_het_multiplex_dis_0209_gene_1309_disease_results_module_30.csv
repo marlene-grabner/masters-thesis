@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,29,0.05769230769230771
+1,disease_on_symptoms,23,27,0.8803220611916265
+2,disease_on_drugs,22,28,0.6274025974025974

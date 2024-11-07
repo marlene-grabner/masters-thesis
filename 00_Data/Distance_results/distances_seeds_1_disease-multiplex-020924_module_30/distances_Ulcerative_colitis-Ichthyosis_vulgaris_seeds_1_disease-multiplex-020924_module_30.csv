@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,27,27,-0.09259259259259267
+1,disease_on_symptoms,20,21,-0.0229094076655052
+2,disease_on_drugs,25,27,-0.09615384615384615

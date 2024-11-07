@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.3754629629629631
+1,disease_on_symptoms,15,19,1.8489164086687304
+2,disease_on_drugs,22,19,0.7971758664955071

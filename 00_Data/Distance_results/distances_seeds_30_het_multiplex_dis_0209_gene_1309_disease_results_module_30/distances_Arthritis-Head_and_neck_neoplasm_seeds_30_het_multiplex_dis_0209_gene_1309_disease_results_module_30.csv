@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,20,22,0.944047619047619
+2,disease_on_drugs,29,27,0.3245073891625616

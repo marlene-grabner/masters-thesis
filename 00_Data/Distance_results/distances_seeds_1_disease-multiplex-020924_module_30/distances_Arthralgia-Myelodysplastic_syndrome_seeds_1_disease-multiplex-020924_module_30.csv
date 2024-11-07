@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.2678571428571428
+1,disease_on_symptoms,19,15,1.1267285861713108
+2,disease_on_drugs,30,21,0.634453781512605

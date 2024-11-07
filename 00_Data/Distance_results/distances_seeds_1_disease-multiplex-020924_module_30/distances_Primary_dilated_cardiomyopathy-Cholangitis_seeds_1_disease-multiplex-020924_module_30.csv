@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.6276803118908383
+1,disease_on_symptoms,25,22,1.0186073500967119
+2,disease_on_drugs,7,26,1.1406926406926405

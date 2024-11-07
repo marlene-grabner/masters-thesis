@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.11538461538461542
+1,disease_on_symptoms,22,21,2.095464612906474
+2,disease_on_drugs,24,21,0.24206349206349187

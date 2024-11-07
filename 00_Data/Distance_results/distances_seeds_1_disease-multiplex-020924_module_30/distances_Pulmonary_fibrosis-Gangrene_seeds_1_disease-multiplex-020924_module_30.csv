@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,24,26,-0.24083333333333345
+1,disease_on_symptoms,22,19,-0.2376881783171898
+2,disease_on_drugs,24,23,-0.25578168362627207

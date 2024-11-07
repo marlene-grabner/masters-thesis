@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,17,14,-0.04967470859311485
+2,disease_on_drugs,26,28,0.030423280423280463

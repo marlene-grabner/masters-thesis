@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,30,0.19999999999999996
+1,disease_on_symptoms,19,15,0.5604747162022705
+2,disease_on_drugs,25,21,0.13569358178053847

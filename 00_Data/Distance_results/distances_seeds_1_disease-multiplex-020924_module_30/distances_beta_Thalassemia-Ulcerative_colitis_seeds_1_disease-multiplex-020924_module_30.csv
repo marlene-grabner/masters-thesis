@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,22,27,0.629475022332165
+1,disease_on_symptoms,21,20,3.04445412311266
+2,disease_on_drugs,6,25,0.5752688172043012

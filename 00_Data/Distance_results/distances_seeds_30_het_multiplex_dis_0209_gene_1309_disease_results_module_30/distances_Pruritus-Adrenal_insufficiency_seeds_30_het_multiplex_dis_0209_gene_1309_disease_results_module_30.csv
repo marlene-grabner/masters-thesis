@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,0.05165692007797262
+1,disease_on_symptoms,21,15,0.1936507936507934
+2,disease_on_drugs,27,24,0.28989651416122

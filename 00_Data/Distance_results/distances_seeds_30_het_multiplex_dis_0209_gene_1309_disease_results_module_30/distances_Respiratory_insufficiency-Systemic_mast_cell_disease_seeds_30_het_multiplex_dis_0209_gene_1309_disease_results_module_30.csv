@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,-0.017857142857142905
+1,disease_on_symptoms,21,25,0.4045962732919257
+2,disease_on_drugs,25,21,0.06053830227743262

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,27,28,0.2895622895622896
+1,disease_on_symptoms,19,21,1.2771929824561403
+2,disease_on_drugs,20,21,0.683478513356562

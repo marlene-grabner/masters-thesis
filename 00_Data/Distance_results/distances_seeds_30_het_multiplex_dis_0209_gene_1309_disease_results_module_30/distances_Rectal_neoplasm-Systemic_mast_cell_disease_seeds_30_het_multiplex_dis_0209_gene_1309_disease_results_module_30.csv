@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.15225988700564963
+1,disease_on_symptoms,20,25,0.03166666666666673
+2,disease_on_drugs,29,21,-0.07001642036124789

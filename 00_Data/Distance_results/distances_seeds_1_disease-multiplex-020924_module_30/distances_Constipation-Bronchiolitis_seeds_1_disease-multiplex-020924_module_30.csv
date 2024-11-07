@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.18800929723817328
+1,disease_on_symptoms,17,25,1.1685154061624647
+2,disease_on_drugs,27,18,0.3203703703703704

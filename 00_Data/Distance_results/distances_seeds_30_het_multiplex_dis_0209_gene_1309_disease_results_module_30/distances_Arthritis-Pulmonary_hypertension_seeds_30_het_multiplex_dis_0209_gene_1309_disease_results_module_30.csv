@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.10344827586206895
+1,disease_on_symptoms,20,18,0.7577485380116962
+2,disease_on_drugs,29,27,0.26895183360700625

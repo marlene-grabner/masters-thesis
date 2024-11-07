@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,17,21,0.03442429603420338
+2,disease_on_drugs,19,29,-0.09826830006049625

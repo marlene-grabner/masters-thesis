@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,27,25,-0.019230769230769273
+1,disease_on_symptoms,18,20,0.848391812865497
+2,disease_on_drugs,24,21,-0.08948412698412689

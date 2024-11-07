@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,30,0.1428571428571428
+1,disease_on_symptoms,21,15,0.3007936507936506
+2,disease_on_drugs,26,21,-0.14831268022757382

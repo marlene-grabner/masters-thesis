@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.03418079096045212
+1,disease_on_symptoms,18,16,0.09517973856209139
+2,disease_on_drugs,25,29,0.07238825031928475

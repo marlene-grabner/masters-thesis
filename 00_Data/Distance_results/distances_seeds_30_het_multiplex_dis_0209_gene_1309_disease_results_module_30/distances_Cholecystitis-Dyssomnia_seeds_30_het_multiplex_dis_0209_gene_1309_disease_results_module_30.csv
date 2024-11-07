@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,25,18,-0.023255813953488413
+1,disease_on_symptoms,23,21,1.370976849237719
+2,disease_on_drugs,21,17,-0.14639540026536935

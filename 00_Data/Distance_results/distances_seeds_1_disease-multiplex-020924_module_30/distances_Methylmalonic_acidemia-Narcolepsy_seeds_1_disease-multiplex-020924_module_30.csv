@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,0.3999999999999999
+1,disease_on_symptoms,16,21,3.1169562419562418
+2,disease_on_drugs,17,20,0.6753179650238474

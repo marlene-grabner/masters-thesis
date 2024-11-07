@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.19649122807017538
+1,disease_on_symptoms,20,17,1.1470190779014309
+2,disease_on_drugs,30,26,0.6222527472527475

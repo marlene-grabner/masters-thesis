@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,29,30,0.2542372881355932
+1,disease_on_symptoms,20,14,2.271218487394958
+2,disease_on_drugs,27,22,0.6262969834398406

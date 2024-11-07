@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.2890028490028491
+1,disease_on_symptoms,21,23,2.1302936194240543
+2,disease_on_drugs,23,21,0.5492188970449841

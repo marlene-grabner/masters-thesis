@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Headache nodes,sAB
+0,disease_on_genes,25,30,0.34333333333333327
+1,disease_on_symptoms,20,25,0.4683333333333335
+2,disease_on_drugs,14,26,0.4236263736263737

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,12,17,-0.19252873563218387
+2,disease_on_drugs,29,30,-0.25314630820183137

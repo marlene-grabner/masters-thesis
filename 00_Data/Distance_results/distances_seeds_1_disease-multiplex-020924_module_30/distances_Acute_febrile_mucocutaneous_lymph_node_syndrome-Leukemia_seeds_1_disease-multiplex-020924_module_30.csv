@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,-0.05833333333333324
+1,disease_on_symptoms,18,27,-0.35370370370370385
+2,disease_on_drugs,25,17,-0.03299719887955188

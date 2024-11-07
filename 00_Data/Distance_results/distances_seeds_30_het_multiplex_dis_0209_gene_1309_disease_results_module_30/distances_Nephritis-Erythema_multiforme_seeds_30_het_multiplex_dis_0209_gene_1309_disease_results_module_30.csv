@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,18,0.15116713352007483
+2,disease_on_drugs,25,30,-0.030000000000000027

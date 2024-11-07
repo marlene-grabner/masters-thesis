@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,24,28,0.5144230769230769
+1,disease_on_symptoms,25,12,2.1716216216216218
+2,disease_on_drugs,17,21,0.9022556390977443

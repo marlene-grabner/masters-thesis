@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Nocturia nodes,sAB
+0,disease_on_genes,26,21,0.29500580720092895
+1,disease_on_symptoms,20,24,1.2579545454545453
+2,disease_on_drugs,25,14,0.5595238095238095

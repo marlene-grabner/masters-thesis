@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,29,23,0.3770903010033446
+1,disease_on_symptoms,16,21,1.946870978120978
+2,disease_on_drugs,26,21,0.9498480243161096

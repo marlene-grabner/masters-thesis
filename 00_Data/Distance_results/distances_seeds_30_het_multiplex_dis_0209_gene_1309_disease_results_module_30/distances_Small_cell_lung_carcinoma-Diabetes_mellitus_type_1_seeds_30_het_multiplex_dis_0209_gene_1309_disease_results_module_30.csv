@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,18,0.5324798482693218
+2,disease_on_drugs,30,26,-0.03525641025641013

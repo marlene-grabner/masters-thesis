@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Diarrhea nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111116
+1,disease_on_symptoms,21,19,1.2285087719298247
+2,disease_on_drugs,27,26,0.2833548352416275

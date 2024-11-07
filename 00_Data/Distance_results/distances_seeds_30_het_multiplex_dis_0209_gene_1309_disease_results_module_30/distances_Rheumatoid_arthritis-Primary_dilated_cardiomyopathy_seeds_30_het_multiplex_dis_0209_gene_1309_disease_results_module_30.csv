@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,19,24,0.34672072623419026
+2,disease_on_drugs,30,15,0.2055555555555557

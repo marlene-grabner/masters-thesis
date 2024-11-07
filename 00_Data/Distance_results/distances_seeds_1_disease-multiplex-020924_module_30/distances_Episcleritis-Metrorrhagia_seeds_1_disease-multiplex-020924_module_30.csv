@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,22,17,1.2752982311805843
+2,disease_on_drugs,29,26,0.36624065589582844

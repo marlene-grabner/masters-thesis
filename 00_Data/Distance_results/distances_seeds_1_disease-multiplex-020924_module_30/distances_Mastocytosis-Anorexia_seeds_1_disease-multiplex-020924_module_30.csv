@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Anorexia nodes,sAB
+0,disease_on_genes,18,17,0.22600373482726432
+1,disease_on_symptoms,28,25,1.6498787061994609
+2,disease_on_drugs,17,13,0.6027149321266967

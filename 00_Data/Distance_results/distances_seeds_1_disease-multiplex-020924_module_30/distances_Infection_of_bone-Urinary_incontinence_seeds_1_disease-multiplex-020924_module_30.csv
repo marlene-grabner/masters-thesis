@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,26,0.3846153846153848
+1,disease_on_symptoms,21,20,1.0663472706155632
+2,disease_on_drugs,24,20,0.3693181818181819

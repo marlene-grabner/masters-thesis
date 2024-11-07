@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,0.05084745762711873
+1,disease_on_symptoms,9,20,0.23965517241379297
+2,disease_on_drugs,23,28,0.036551577152600156

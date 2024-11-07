@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.20011655011655005
+1,disease_on_symptoms,15,19,0.8875128998968007
+2,disease_on_drugs,30,19,0.8308270676691731

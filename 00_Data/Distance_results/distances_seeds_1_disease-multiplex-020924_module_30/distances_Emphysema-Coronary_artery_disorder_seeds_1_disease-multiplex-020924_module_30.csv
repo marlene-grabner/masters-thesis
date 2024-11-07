@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.14069101324740418
+1,disease_on_symptoms,14,21,1.3547619047619046
+2,disease_on_drugs,29,17,0.4782608695652173

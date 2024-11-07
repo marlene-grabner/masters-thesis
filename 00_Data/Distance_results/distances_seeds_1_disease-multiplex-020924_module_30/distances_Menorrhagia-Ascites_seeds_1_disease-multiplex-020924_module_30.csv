@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.0494505494505495
+1,disease_on_symptoms,19,17,1.4893360853113178
+2,disease_on_drugs,24,27,0.354983660130719

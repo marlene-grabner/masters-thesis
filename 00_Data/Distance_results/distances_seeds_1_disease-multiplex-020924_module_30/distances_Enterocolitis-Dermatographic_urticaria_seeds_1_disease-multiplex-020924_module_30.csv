@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,27,29,-0.0720899470899472
+1,disease_on_symptoms,21,14,0.3047619047619048
+2,disease_on_drugs,24,28,-0.001602564102564319

@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.016300366300366242
+1,disease_on_symptoms,18,21,0.721916971916972
+2,disease_on_drugs,25,26,0.05841628959276024

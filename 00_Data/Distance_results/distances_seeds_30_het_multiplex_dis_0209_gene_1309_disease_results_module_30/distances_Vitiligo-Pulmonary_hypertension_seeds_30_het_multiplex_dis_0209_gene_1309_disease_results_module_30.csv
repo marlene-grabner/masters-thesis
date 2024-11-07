@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.034482758620689724
+1,disease_on_symptoms,19,18,0.24889363047257795
+2,disease_on_drugs,25,27,0.2667521367521368

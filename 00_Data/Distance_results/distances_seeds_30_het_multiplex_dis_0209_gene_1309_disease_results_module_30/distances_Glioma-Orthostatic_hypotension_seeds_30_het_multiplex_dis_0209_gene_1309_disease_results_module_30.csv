@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,22,30,0.03846153846153855
+1,disease_on_symptoms,21,20,0.6040069686411149
+2,disease_on_drugs,21,28,0.3214285714285714

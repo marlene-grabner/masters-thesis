@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,18,28,0.24473775017253252
+1,disease_on_symptoms,28,14,1.6130952380952381
+2,disease_on_drugs,17,28,0.4832399626517272

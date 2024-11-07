@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Keratitis nodes,sAB
+0,disease_on_genes,20,28,0.368452380952381
+1,disease_on_symptoms,22,25,0.6894970986460347
+2,disease_on_drugs,15,23,0.8610983981693363

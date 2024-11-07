@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.09692307692307689
+1,disease_on_symptoms,18,26,0.8115773115773113
+2,disease_on_drugs,24,24,-0.02083333333333348

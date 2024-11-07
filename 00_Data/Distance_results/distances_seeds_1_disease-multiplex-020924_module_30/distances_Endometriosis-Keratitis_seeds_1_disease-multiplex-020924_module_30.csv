@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.36083743842364546
+1,disease_on_symptoms,12,25,0.3717117117117117
+2,disease_on_drugs,27,23,0.8147826086956522

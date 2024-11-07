@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,0.019179894179894186
+1,disease_on_symptoms,21,19,0.47437343358396
+2,disease_on_drugs,24,26,0.040000000000000036

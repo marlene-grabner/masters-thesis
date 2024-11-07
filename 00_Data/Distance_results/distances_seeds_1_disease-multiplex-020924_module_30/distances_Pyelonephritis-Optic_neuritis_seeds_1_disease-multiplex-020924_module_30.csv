@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,0.17774557165861515
+1,disease_on_symptoms,21,16,0.3916103603603607
+2,disease_on_drugs,19,27,0.3542673107890497

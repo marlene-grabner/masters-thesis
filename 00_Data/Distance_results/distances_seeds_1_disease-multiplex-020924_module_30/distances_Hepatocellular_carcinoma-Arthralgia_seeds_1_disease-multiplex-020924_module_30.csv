@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Arthralgia nodes,sAB
+0,disease_on_genes,23,30,0.20180475799835929
+1,disease_on_symptoms,19,19,2.0526315789473686
+2,disease_on_drugs,19,30,0.653061224489796

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,23,24,0.3820343817452976
+1,disease_on_symptoms,21,19,1.367543859649123
+2,disease_on_drugs,19,19,1.0263157894736845

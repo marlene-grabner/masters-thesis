@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,21,11,0.2462121212121211
+2,disease_on_drugs,26,21,-0.06077078949419379

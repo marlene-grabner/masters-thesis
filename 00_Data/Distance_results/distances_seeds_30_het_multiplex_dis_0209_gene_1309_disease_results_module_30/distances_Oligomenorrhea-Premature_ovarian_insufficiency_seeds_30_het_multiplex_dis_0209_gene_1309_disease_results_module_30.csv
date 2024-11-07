@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.1861581920903954
+1,disease_on_symptoms,11,18,0.3222744688261927
+2,disease_on_drugs,24,22,-0.23962450592885354

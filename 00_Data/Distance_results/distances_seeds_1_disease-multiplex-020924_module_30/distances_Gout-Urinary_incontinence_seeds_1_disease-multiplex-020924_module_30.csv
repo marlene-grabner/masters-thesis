@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,25,26,0.25636500754147806
+1,disease_on_symptoms,18,20,1.0372807017543861
+2,disease_on_drugs,23,20,0.6976744186046511

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,25,30,-0.2748484848484848
+1,disease_on_symptoms,21,22,0.11471861471861478
+2,disease_on_drugs,24,29,-0.13505747126436773

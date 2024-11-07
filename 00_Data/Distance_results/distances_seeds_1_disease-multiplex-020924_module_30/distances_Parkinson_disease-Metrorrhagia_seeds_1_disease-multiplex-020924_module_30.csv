@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,21,27,0.16369047619047628
+1,disease_on_symptoms,20,17,1.627424483306836
+2,disease_on_drugs,19,26,0.5170940170940173

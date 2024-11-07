@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,28,24,0.2882326007326006
+1,disease_on_symptoms,23,19,0.5837964476408413
+2,disease_on_drugs,28,19,0.30241161414173723

@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,20,28,-0.2577380952380951
+1,disease_on_symptoms,23,14,-0.1738291086117174
+2,disease_on_drugs,18,28,-0.25552104899930983

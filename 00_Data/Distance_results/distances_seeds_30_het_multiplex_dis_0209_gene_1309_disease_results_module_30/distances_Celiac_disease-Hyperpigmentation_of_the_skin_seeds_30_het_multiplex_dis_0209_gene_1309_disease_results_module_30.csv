@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,18,17,0.16554621848739481
+2,disease_on_drugs,28,28,0.0

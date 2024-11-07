@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Strabismus nodes,sAB
+0,disease_on_genes,24,13,0.29621448371448356
+1,disease_on_symptoms,18,26,0.8129370629370629
+2,disease_on_drugs,18,9,0.3148148148148149

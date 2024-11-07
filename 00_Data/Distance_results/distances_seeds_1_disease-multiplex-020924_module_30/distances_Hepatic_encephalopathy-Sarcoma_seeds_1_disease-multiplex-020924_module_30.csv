@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Sarcoma nodes,sAB
+0,disease_on_genes,9,25,0.3986928104575165
+1,disease_on_symptoms,27,26,2.150499919367844
+2,disease_on_drugs,9,21,0.8999999999999999

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Arthralgia nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,21,17,0.4570986289252543
+2,disease_on_drugs,25,30,-0.3063636363636364

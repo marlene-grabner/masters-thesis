@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,-0.12127158555729978
+1,disease_on_symptoms,18,20,0.5796783625730995
+2,disease_on_drugs,25,20,0.25277777777777777

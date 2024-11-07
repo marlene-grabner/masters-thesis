@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,15,0.08059855521155823
+2,disease_on_drugs,30,21,-0.059523809523809534

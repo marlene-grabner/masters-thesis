@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.05494505494505486
+1,disease_on_symptoms,22,22,0.38636363636363624
+2,disease_on_drugs,30,25,0.09454545454545449

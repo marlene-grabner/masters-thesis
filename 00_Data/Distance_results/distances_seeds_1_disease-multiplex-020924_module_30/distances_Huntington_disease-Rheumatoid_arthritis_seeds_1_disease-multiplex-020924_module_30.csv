@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,27,0.15584795321637412
+1,disease_on_symptoms,16,15,1.4500672043010754
+2,disease_on_drugs,27,25,0.5569230769230769

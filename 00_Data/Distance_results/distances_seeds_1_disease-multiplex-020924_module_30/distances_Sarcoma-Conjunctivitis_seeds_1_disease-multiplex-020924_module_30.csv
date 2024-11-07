@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,25,27,0.21225071225071224
+1,disease_on_symptoms,26,27,1.1889345804440146
+2,disease_on_drugs,21,26,0.3657937806873979

@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.1855639976621859
+1,disease_on_symptoms,17,16,0.6442736185383244
+2,disease_on_drugs,25,22,0.24170212765957433

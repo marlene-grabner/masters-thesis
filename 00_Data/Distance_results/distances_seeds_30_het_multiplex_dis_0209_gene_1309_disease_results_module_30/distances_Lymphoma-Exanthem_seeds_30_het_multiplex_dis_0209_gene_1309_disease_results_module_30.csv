@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,30,-0.1238095238095237
+1,disease_on_symptoms,20,21,0.0018583042973285835
+2,disease_on_drugs,24,29,-0.04234439384081545

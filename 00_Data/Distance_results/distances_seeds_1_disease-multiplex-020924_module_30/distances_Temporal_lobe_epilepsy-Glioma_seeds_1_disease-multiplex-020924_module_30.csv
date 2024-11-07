@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Glioma nodes,sAB
+0,disease_on_genes,29,22,0.13650193619767648
+1,disease_on_symptoms,17,24,2.4519069823051174
+2,disease_on_drugs,26,20,0.9557692307692307

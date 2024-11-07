@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,0.1580032206119164
+1,disease_on_symptoms,19,27,1.4536825154674125
+2,disease_on_drugs,19,26,0.6504273504273506

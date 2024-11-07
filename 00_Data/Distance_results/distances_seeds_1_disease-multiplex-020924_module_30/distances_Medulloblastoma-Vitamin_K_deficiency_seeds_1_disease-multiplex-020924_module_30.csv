@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.021568627450980538
+1,disease_on_symptoms,19,23,1.4750463114307508
+2,disease_on_drugs,24,20,0.1791666666666667

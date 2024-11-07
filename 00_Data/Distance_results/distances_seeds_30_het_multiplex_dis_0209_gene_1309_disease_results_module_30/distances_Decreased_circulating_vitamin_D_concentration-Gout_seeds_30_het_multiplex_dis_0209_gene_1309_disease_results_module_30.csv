@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Gout nodes,sAB
+0,disease_on_genes,25,28,-0.07446091644204844
+1,disease_on_symptoms,13,19,0.9901315789473686
+2,disease_on_drugs,21,22,-0.16133091714487047

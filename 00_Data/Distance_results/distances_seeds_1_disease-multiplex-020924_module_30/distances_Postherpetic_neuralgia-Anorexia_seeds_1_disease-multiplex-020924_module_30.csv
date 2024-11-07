@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.03589904046725079
+1,disease_on_symptoms,15,25,-0.07833333333333314
+2,disease_on_drugs,29,13,0.5633447012757358

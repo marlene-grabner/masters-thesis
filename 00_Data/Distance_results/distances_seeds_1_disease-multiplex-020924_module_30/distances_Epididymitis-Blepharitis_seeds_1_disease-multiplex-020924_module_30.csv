@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.05979943701618562
+1,disease_on_symptoms,23,27,0.4615780998389696
+2,disease_on_drugs,27,19,0.14946181879820308

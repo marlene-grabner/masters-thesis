@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,-0.0388679245283019
+1,disease_on_symptoms,16,26,0.5730311355311355
+2,disease_on_drugs,23,24,0.293632439099599

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,29,26,0.3080419580419582
+1,disease_on_symptoms,20,22,1.5965367965367965
+2,disease_on_drugs,20,25,0.39555555555555566

@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,15,0.1836945304437565
+2,disease_on_drugs,29,29,0.051724137931034475

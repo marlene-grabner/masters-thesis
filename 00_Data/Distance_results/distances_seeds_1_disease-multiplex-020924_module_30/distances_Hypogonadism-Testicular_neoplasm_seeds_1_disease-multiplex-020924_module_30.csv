@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.002962962962963056
+1,disease_on_symptoms,12,25,0.8842342342342344
+2,disease_on_drugs,30,23,0.2606097894449

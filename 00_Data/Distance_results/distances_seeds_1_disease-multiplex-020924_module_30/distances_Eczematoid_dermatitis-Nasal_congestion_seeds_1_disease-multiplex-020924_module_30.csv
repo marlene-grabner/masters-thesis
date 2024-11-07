@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,0.001108374384236166
+1,disease_on_symptoms,24,15,0.07756410256410273
+2,disease_on_drugs,28,23,0.15823285836073553

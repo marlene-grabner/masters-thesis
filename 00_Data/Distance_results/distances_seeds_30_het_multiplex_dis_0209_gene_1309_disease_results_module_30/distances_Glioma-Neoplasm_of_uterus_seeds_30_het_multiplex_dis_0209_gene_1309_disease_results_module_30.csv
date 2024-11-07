@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,22,30,-0.15384615384615385
+1,disease_on_symptoms,21,18,0.4502442002442
+2,disease_on_drugs,21,26,-0.12502922609305567

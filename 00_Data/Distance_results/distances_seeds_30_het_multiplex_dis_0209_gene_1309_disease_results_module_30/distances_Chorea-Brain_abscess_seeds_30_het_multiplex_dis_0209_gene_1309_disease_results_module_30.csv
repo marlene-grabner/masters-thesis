@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,17,21,1.1088751289989682
+2,disease_on_drugs,24,23,-0.0866288930003083

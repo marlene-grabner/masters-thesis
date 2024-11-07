@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,22,30,0.22354312354312356
+1,disease_on_symptoms,23,14,1.3298640255161995
+2,disease_on_drugs,17,30,0.7589069670421358

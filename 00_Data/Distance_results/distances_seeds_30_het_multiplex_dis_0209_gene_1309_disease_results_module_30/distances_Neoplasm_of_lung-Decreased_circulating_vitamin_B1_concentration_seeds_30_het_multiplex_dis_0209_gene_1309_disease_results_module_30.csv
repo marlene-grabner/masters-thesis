@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,19,17,0.5275197798417612
+2,disease_on_drugs,30,25,0.010303030303030258

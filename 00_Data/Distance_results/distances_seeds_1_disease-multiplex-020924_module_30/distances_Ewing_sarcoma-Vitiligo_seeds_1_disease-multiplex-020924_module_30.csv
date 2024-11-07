@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Vitiligo nodes,sAB
+0,disease_on_genes,24,24,0.35416666666666674
+1,disease_on_symptoms,25,22,1.9204061895551257
+2,disease_on_drugs,17,11,0.5357142857142858

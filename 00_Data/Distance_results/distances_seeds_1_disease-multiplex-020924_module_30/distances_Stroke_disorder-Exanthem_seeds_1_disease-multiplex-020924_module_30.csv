@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.22471264367816102
+1,disease_on_symptoms,15,26,0.817385866166354
+2,disease_on_drugs,30,28,0.7752463054187193

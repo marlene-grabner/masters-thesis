@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,22,22,0.6590909090909092
+1,disease_on_symptoms,22,19,2.0768467732524214
+2,disease_on_drugs,14,18,0.4900793650793651

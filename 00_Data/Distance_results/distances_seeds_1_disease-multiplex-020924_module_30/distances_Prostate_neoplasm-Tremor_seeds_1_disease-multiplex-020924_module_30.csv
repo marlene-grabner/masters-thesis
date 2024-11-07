@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Tremor nodes,sAB
+0,disease_on_genes,17,16,0.5158756684491979
+1,disease_on_symptoms,21,23,1.8879634857895728
+2,disease_on_drugs,17,16,1.2432598039215688

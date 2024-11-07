@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.2511904761904762
+1,disease_on_symptoms,17,21,1.8679787704555506
+2,disease_on_drugs,23,27,0.579742351046699

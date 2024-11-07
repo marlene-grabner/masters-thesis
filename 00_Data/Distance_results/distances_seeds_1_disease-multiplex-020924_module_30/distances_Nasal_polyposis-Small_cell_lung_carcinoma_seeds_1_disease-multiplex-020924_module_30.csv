@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,15,27,0.3952380952380954
+1,disease_on_symptoms,25,24,1.2447278911564625
+2,disease_on_drugs,10,25,0.3828571428571428

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,27,28,0.16296296296296275
+1,disease_on_symptoms,21,16,0.6717342342342341
+2,disease_on_drugs,25,23,0.05239130434782613

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,17,0.1623608903020668
+2,disease_on_drugs,30,28,0.2541871921182266

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.0002922267679719148
+1,disease_on_symptoms,14,18,0.2713293650793651
+2,disease_on_drugs,26,28,0.01678876678876673

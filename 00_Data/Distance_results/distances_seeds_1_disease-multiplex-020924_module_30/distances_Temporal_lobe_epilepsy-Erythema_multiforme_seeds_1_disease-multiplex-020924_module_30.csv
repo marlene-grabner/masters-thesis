@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,29,30,0.20366257549191502
+1,disease_on_symptoms,17,16,1.626726827094474
+2,disease_on_drugs,26,30,0.837912087912088

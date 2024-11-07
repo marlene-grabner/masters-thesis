@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Ascites nodes,sAB
+0,disease_on_genes,25,30,-0.10757575757575755
+1,disease_on_symptoms,19,22,0.15150542653751908
+2,disease_on_drugs,23,27,-0.09336553945249593

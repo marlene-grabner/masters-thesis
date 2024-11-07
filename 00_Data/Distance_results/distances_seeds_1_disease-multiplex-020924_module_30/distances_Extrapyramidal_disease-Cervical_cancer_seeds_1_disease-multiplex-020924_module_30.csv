@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,14,27,0.5555232933281715
+1,disease_on_symptoms,25,23,2.468985507246377
+2,disease_on_drugs,10,15,0.9500000000000002

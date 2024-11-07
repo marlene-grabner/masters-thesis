@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,23,17,0.33561381074168795
+1,disease_on_symptoms,25,25,2.1399999999999997
+2,disease_on_drugs,18,13,0.5233664185277089

@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,-0.11303712974551527
+1,disease_on_symptoms,21,27,0.8015873015873014
+2,disease_on_drugs,27,16,-0.011251076658053583

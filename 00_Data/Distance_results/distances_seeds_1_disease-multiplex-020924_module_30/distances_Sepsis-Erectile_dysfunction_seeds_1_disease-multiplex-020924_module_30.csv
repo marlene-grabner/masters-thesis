@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,22,30,0.2735431235431234
+1,disease_on_symptoms,23,16,1.2383291527313267
+2,disease_on_drugs,17,30,0.7847934918648309

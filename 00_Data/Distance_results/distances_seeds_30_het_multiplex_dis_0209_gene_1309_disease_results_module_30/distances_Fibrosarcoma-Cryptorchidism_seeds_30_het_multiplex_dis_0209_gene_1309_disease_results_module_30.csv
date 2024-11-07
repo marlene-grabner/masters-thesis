@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.04060705496308459
+1,disease_on_symptoms,14,19,-0.18130553656869441
+2,disease_on_drugs,26,21,-0.05151586002649822

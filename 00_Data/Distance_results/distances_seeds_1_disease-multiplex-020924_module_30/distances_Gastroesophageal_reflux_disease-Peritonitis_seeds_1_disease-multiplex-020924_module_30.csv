@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,0.042857142857142705
+1,disease_on_symptoms,17,17,0.2941176470588236
+2,disease_on_drugs,25,28,0.09522911051212946

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,24,28,-0.0714285714285714
+1,disease_on_symptoms,23,19,0.15489811485234806
+2,disease_on_drugs,22,28,-0.11785714285714277

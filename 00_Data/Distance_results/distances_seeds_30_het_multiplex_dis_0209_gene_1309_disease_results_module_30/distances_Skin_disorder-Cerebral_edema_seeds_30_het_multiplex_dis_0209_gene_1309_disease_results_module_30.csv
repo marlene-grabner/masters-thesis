@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,25,30,-0.1636363636363637
+1,disease_on_symptoms,19,10,0.2945553539019965
+2,disease_on_drugs,23,16,-0.053198160535116834

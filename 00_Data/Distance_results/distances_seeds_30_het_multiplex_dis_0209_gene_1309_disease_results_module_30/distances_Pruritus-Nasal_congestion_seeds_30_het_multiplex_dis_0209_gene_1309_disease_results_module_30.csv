@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,-0.1764132553606239
+1,disease_on_symptoms,21,14,0.021428571428571352
+2,disease_on_drugs,27,25,-0.08022792022792036

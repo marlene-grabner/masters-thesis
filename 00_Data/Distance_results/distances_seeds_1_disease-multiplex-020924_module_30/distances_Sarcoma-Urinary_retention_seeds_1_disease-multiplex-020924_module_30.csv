@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.44628647214854134
+1,disease_on_symptoms,26,18,1.7037684537684537
+2,disease_on_drugs,21,19,0.9960526315789475

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,0.3046296296296298
+1,disease_on_symptoms,16,26,1.5589514652014653
+2,disease_on_drugs,30,15,0.5111111111111111

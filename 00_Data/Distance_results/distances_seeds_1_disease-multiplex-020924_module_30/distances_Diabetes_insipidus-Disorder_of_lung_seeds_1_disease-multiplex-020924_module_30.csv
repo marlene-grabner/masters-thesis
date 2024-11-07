@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,24,27,0.3724128540305012
+1,disease_on_symptoms,18,17,0.37100840336134455
+2,disease_on_drugs,18,20,0.21052631578947367

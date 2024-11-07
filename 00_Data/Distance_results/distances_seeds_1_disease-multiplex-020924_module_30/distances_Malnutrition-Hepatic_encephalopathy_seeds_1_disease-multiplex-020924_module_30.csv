@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,26,9,0.14090354090354085
+1,disease_on_symptoms,18,27,0.4444444444444442
+2,disease_on_drugs,23,9,0.40625

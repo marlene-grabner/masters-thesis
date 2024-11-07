@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,17,9,0.3353443941679237
+1,disease_on_symptoms,21,27,2.689484126984127
+2,disease_on_drugs,17,9,1.2104072398190044

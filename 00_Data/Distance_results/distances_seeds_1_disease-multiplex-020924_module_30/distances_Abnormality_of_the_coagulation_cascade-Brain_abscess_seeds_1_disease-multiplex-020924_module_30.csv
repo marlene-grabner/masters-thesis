@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,23,27,0.10070853462157814
+1,disease_on_symptoms,23,21,1.3368153585544893
+2,disease_on_drugs,18,23,0.6852833745728759

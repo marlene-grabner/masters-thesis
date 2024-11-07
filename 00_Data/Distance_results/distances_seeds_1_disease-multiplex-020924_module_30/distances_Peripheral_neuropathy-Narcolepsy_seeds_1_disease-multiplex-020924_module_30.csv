@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.21878787878787875
+1,disease_on_symptoms,20,21,1.4144018583042972
+2,disease_on_drugs,24,20,0.47878787878787876

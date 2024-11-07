@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,24,26,0.020000000000000018
+1,disease_on_symptoms,24,21,0.5317460317460316
+2,disease_on_drugs,23,25,0.34768115942028976

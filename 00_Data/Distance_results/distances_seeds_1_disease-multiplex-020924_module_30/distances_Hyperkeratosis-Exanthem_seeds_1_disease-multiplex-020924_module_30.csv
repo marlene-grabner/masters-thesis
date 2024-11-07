@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,-0.11182336182336172
+1,disease_on_symptoms,21,26,0.5335125867040762
+2,disease_on_drugs,23,28,-0.15511204481792706

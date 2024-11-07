@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,25,26,0.27254901960784306
+1,disease_on_symptoms,23,19,2.0670698485343793
+2,disease_on_drugs,19,22,1.1302660753880267

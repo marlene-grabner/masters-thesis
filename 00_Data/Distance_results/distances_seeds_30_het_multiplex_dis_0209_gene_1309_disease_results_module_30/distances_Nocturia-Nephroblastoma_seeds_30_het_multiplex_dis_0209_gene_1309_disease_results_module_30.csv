@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,25,29,0.09596616785946654
+1,disease_on_symptoms,18,20,1.1480994152046782
+2,disease_on_drugs,24,24,0.27083333333333326

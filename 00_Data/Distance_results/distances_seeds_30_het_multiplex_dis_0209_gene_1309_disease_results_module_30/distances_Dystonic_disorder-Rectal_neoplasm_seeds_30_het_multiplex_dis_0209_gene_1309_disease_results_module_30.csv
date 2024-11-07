@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,17,20,0.2847774244833068
+2,disease_on_drugs,26,29,0.07113576079093309

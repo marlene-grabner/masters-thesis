@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,20,0.3478934817170112
+2,disease_on_drugs,26,30,0.07380952380952399

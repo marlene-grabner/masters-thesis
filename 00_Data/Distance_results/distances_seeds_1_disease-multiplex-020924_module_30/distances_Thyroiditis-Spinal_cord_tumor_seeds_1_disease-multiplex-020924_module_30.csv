@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,26,22,0.13898601398601418
+1,disease_on_symptoms,28,22,0.45318181818181835
+2,disease_on_drugs,23,14,0.4657126070169548

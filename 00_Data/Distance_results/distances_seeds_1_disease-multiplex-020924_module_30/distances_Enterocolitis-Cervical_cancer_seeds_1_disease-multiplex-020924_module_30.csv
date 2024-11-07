@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,27,0.38888888888888884
+1,disease_on_symptoms,21,23,1.2692452475061171
+2,disease_on_drugs,24,15,0.4458333333333335

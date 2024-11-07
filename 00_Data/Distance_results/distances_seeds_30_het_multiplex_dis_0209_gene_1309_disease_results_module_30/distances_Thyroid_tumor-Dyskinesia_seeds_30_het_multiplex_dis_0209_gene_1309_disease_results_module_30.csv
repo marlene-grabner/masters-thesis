@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,23,30,-0.07547169811320753
+1,disease_on_symptoms,20,15,1.667857142857143
+2,disease_on_drugs,20,28,0.4571428571428571

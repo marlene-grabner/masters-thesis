@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,28,0.035666185666185735
+1,disease_on_symptoms,21,15,1.0420634920634924
+2,disease_on_drugs,23,21,0.5059288537549407

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.10303030303030303
+1,disease_on_symptoms,14,23,0.9315930837669968
+2,disease_on_drugs,29,20,0.27653061224489783

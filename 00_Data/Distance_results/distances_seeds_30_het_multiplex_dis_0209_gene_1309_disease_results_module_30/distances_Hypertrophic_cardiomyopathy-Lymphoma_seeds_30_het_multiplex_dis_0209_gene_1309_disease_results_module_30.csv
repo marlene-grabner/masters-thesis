@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.1261904761904762
+1,disease_on_symptoms,19,20,0.9704453441295544
+2,disease_on_drugs,22,24,0.3633069828722004

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.0625
+1,disease_on_symptoms,18,21,2.628510378510378
+2,disease_on_drugs,28,17,0.25845004668534055

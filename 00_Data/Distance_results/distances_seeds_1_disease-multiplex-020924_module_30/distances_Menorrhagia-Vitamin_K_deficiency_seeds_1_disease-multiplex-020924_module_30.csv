@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.01877828054298658
+1,disease_on_symptoms,19,23,1.7369510733355127
+2,disease_on_drugs,24,20,0.08825757575757587

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.14224137931034475
+1,disease_on_symptoms,22,13,0.9642357642357642
+2,disease_on_drugs,26,28,0.27757427757427755

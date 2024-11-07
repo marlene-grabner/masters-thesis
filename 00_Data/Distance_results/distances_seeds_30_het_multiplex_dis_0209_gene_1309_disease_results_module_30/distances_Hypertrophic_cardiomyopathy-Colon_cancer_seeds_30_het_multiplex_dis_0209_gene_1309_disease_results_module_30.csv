@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.036904761904761996
+1,disease_on_symptoms,19,22,0.5975901505426537
+2,disease_on_drugs,22,26,0.011509324009324029

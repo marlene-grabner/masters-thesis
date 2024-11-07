@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.3214285714285714
+1,disease_on_symptoms,17,16,0.09937611408199665
+2,disease_on_drugs,26,25,-0.3130316742081449

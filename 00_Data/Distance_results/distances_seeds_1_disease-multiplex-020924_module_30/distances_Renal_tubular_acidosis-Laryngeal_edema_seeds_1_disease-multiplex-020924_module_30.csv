@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,18,30,0.4166666666666665
+1,disease_on_symptoms,18,20,2.806140350877193
+2,disease_on_drugs,10,28,0.07011278195488724

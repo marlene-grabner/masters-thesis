@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,22,19,0.7375423036527016
+2,disease_on_drugs,29,27,0.1763592410144137

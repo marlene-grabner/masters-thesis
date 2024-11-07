@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.01719576719576721
+1,disease_on_symptoms,14,27,0.8406568589495418
+2,disease_on_drugs,26,28,0.0944240944240946

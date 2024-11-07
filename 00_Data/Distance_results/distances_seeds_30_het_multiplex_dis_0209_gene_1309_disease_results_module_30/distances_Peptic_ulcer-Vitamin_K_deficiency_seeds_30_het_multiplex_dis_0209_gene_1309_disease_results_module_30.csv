@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.1454545454545455
+1,disease_on_symptoms,20,21,0.6247677119628339
+2,disease_on_drugs,30,21,0.004481792717087041

@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,18,30,-0.25
+1,disease_on_symptoms,21,19,1.920300751879699
+2,disease_on_drugs,17,28,-0.29710550887021503

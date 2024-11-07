@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,15,27,0.35291005291005284
+1,disease_on_symptoms,25,27,0.9210826210826211
+2,disease_on_drugs,10,26,0.028205128205128327

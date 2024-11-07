@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.17512531328320802
+1,disease_on_symptoms,16,20,1.9409722222222223
+2,disease_on_drugs,26,28,0.9259259259259258

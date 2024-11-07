@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,18,29,0.7594562647754137
+1,disease_on_symptoms,28,18,2.3142684610075914
+2,disease_on_drugs,17,22,0.9155354449472097

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,23,24,-0.08510638297872342
+1,disease_on_symptoms,16,17,0.7608622994652405
+2,disease_on_drugs,17,23,-0.2490409207161126

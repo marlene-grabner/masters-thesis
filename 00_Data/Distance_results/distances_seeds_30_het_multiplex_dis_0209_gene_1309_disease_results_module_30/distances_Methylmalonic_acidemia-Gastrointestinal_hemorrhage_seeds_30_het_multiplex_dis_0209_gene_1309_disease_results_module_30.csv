@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,25,28,-0.14993261455525597
+1,disease_on_symptoms,17,20,0.4474562798092212
+2,disease_on_drugs,21,27,-0.09027777777777768

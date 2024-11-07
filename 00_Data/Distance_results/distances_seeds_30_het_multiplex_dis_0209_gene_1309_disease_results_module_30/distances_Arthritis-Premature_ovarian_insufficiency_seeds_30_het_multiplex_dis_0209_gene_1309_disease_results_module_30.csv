@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,20,18,0.6086257309941521
+2,disease_on_drugs,29,22,0.26762554551601214

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,11,14,-0.43454545454545457
+2,disease_on_drugs,27,24,-0.0837418300653594

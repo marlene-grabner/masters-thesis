@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,28,27,-0.10909090909090913
+1,disease_on_symptoms,16,17,0.3840240641711228
+2,disease_on_drugs,23,24,-0.17400940487203198

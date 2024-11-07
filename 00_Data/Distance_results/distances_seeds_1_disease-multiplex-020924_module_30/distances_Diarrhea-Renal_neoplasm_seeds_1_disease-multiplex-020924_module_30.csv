@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,27,22,0.07948532948532949
+1,disease_on_symptoms,19,25,1.864114832535885
+2,disease_on_drugs,26,18,0.9353146853146854

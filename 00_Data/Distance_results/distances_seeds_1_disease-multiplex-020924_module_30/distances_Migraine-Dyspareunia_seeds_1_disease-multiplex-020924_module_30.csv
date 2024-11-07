@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.059259259259259345
+1,disease_on_symptoms,14,17,0.6293033342369208
+2,disease_on_drugs,29,23,0.7809364548494986

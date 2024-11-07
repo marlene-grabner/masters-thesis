@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,18,0.22638888888888875
+1,disease_on_symptoms,17,28,1.0524042950513537
+2,disease_on_drugs,27,17,0.6726579520697169

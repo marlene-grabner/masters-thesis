@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Sinusitis nodes,sAB
+0,disease_on_genes,24,29,0.07052428974192138
+1,disease_on_symptoms,20,21,1.0271486643437862
+2,disease_on_drugs,22,28,0.5237012987012988

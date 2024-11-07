@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,0.09636118598382759
+1,disease_on_symptoms,25,17,0.29977591036414575
+2,disease_on_drugs,24,18,0.005952380952381153

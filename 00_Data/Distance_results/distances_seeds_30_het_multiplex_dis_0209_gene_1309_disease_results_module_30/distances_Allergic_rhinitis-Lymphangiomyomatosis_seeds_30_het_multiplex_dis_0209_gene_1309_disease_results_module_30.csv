@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,28,26,-0.03774928774928765
+1,disease_on_symptoms,20,17,0.4970985691573926
+2,disease_on_drugs,25,24,0.1835544217687075

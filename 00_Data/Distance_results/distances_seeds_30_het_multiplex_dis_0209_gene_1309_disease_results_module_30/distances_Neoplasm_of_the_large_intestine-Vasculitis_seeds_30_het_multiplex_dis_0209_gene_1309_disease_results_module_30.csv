@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,22,18,0.9239898989898989
+2,disease_on_drugs,29,26,0.34292259464673247

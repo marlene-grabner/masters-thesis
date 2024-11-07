@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.18000000000000005
+1,disease_on_symptoms,22,17,0.41334156040038383
+2,disease_on_drugs,26,22,-0.1413170163170162

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,21,0.1644257703081231
+1,disease_on_symptoms,14,22,1.437950937950938
+2,disease_on_drugs,26,21,0.24012158054711263

@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.22939560439560447
+1,disease_on_symptoms,21,16,1.0559443371943371
+2,disease_on_drugs,24,30,1.1597222222222223

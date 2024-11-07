@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,29,26,-0.29300699300699284
+1,disease_on_symptoms,19,22,0.34242618741976893
+2,disease_on_drugs,29,25,-0.18472541507024254

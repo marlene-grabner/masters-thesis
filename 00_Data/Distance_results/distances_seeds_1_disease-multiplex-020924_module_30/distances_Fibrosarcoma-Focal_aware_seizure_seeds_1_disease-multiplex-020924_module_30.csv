@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,22,29,0.16800356506238856
+1,disease_on_symptoms,24,15,2.7384615384615385
+2,disease_on_drugs,13,29,1.6666666666666665

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,30,0.037878787878787845
+1,disease_on_symptoms,19,25,0.35358851674641123
+2,disease_on_drugs,22,29,0.221310467760772

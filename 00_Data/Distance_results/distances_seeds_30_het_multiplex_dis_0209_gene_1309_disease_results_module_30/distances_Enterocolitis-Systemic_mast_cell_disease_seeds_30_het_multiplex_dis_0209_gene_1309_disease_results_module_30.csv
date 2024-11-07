@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,0.0714285714285714
+1,disease_on_symptoms,21,25,0.7524223602484472
+2,disease_on_drugs,25,21,0.053581780538302315

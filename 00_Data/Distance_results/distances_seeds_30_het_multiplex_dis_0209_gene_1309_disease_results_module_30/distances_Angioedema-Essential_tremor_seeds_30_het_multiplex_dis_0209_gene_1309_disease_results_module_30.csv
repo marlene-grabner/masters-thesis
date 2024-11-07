@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.05882352941176472
+1,disease_on_symptoms,18,23,0.557676446329681
+2,disease_on_drugs,26,21,-0.042942872730106885

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,29,29,0.31034482758620685
+1,disease_on_symptoms,16,25,2.336067073170732
+2,disease_on_drugs,26,27,0.9842767295597485

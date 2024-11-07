@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,28,26,0.07407407407407418
+1,disease_on_symptoms,26,19,0.50787224471435
+2,disease_on_drugs,28,18,0.0195824706694272

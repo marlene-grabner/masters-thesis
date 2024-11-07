@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.0028712059064808226
+1,disease_on_symptoms,14,19,1.08276372750057
+2,disease_on_drugs,28,21,0.05782312925170063

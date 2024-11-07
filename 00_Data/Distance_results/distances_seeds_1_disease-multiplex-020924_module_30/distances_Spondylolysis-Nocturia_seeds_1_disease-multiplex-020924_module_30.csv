@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Nocturia nodes,sAB
+0,disease_on_genes,27,21,0.1164021164021165
+1,disease_on_symptoms,19,24,0.2526774785801713
+2,disease_on_drugs,20,14,0.04432773109243704

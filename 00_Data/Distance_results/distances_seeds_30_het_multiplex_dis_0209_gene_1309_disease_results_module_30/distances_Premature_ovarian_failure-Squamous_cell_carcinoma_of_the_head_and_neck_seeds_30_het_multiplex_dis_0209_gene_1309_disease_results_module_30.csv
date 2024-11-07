@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666652
+1,disease_on_symptoms,15,22,-0.014455364455364439
+2,disease_on_drugs,26,30,-0.22445054945054954

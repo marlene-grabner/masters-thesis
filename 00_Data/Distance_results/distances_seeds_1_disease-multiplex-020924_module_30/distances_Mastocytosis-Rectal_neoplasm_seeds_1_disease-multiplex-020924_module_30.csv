@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,18,30,0.20138888888888906
+1,disease_on_symptoms,28,21,0.3818027210884354
+2,disease_on_drugs,17,29,0.5806067554458065

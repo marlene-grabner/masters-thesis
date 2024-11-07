@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,14,25,0.580513784461153
+1,disease_on_symptoms,25,20,2.578888888888889
+2,disease_on_drugs,10,21,0.8378648233486943

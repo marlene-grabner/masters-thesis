@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,21,30,0.23635057471264376
+1,disease_on_symptoms,24,18,0.8045634920634921
+2,disease_on_drugs,20,19,0.434514170040486

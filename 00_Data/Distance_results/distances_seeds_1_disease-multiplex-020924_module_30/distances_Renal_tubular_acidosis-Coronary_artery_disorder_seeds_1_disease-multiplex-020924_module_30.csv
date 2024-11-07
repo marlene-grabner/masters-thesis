@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,18,19,0.5119724988146042
+1,disease_on_symptoms,18,21,3.662087912087912
+2,disease_on_drugs,10,17,0.835185185185185

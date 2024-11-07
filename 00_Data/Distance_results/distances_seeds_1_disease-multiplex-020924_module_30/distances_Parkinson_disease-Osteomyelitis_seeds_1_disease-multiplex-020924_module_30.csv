@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,21,25,0.28575569358178066
+1,disease_on_symptoms,20,23,2.2701213346814964
+2,disease_on_drugs,19,23,0.813664596273292

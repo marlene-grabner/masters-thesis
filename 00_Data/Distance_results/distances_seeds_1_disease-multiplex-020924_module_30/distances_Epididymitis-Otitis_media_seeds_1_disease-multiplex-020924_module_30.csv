@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,-0.6724137931034483
+1,disease_on_symptoms,23,22,-0.6194993412384715
+2,disease_on_drugs,27,29,-0.6959040321109287

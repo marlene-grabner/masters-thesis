@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,-0.018181818181818188
+1,disease_on_symptoms,17,20,0.6341017488076313
+2,disease_on_drugs,26,18,0.281080031080031

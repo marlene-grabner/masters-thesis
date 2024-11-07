@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.3666666666666667
+1,disease_on_symptoms,19,19,-0.5789473684210524
+2,disease_on_drugs,30,28,-0.3296387520525452

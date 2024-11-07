@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.1071428571428572
+1,disease_on_symptoms,16,18,0.9761029411764706
+2,disease_on_drugs,26,27,0.17114175133043052

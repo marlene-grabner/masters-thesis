@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,26,30,0.1385531135531135
+1,disease_on_symptoms,28,15,0.6509689922480619
+2,disease_on_drugs,23,29,0.4802502594856417

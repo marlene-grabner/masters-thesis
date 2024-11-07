@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,18,28,0.4601449275362317
+1,disease_on_symptoms,18,23,3.0052138564863915
+2,disease_on_drugs,10,26,0.11153846153846159

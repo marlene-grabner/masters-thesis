@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,23,21,0.18054771315640883
+1,disease_on_symptoms,19,26,2.055825461088619
+2,disease_on_drugs,19,20,0.8717948717948718

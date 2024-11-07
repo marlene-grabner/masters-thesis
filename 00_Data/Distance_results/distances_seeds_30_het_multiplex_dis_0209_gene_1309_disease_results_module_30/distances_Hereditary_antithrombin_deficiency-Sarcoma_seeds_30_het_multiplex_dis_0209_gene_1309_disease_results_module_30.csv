@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,30,0.15517241379310343
+1,disease_on_symptoms,16,23,0.7903428093645486
+2,disease_on_drugs,23,24,0.189022510021585

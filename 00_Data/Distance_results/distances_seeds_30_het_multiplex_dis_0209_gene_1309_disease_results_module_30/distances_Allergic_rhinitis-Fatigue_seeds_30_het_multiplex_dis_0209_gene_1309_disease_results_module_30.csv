@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Fatigue nodes,sAB
+0,disease_on_genes,28,26,-0.0947293447293448
+1,disease_on_symptoms,20,16,1.0611111111111111
+2,disease_on_drugs,25,26,-0.17582202111613876

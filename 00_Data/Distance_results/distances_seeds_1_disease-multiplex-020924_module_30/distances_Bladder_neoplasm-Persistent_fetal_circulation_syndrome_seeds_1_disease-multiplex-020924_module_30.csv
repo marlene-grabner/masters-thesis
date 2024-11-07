@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,26,25,0.2345098039215685
+1,disease_on_symptoms,20,20,1.725
+2,disease_on_drugs,25,18,0.8934108527131781

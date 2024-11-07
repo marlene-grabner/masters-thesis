@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,12,30,0.3464285714285713
+1,disease_on_symptoms,27,14,0.0500709769002452
+2,disease_on_drugs,9,24,0.08017676767676751

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,17,16,0.1875
+1,disease_on_symptoms,27,26,1.8304574530989624
+2,disease_on_drugs,14,14,0.3214285714285716

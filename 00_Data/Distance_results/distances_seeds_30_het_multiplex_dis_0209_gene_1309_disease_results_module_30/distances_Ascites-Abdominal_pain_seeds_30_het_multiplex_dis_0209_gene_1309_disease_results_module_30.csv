@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.28333333333333344
+1,disease_on_symptoms,22,19,-0.618070953436807
+2,disease_on_drugs,27,29,-0.25282795110381306

@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,22,28,0.11337662337662335
+1,disease_on_symptoms,19,25,0.6994736842105262
+2,disease_on_drugs,19,23,-0.04391413315898429

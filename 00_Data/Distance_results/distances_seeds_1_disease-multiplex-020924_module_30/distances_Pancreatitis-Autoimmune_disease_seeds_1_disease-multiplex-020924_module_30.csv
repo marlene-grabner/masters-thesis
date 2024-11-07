@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.15011655011655
+1,disease_on_symptoms,20,19,1.8465249662618084
+2,disease_on_drugs,30,19,0.4430719656283568

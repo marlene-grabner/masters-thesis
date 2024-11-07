@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,26,0.18787878787878798
+1,disease_on_symptoms,14,25,0.7043223443223443
+2,disease_on_drugs,26,24,0.41833333333333345

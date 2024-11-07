@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,19,18,-0.10577682946103995
+2,disease_on_drugs,30,30,-0.06666666666666687

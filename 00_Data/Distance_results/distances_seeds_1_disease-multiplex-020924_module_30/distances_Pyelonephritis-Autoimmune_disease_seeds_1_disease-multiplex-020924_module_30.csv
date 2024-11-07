@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,23,22,0.11054018445322789
+1,disease_on_symptoms,21,19,1.3978070175438595
+2,disease_on_drugs,19,19,0.5000000000000002

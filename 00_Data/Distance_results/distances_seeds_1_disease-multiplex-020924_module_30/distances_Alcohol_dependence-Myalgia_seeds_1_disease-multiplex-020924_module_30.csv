@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Myalgia nodes,sAB
+0,disease_on_genes,12,30,0.2654761904761904
+1,disease_on_symptoms,27,16,0.022555986218776747
+2,disease_on_drugs,9,29,0.1257309941520468

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,14,30,0.5551948051948052
+1,disease_on_symptoms,25,13,1.3306882591093117
+2,disease_on_drugs,10,23,0.5211462450592885

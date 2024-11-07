@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.17543859649122817
+1,disease_on_symptoms,23,18,0.9061800400612703
+2,disease_on_drugs,23,22,0.06899429073342134

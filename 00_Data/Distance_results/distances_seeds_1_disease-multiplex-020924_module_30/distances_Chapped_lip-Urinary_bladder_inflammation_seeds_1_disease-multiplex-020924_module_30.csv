@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,0.2733333333333332
+1,disease_on_symptoms,21,22,1.371967180106715
+2,disease_on_drugs,24,24,1.083333333333333

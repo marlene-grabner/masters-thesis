@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,27,25,0.1152136752136752
+1,disease_on_symptoms,17,21,1.8544154503906825
+2,disease_on_drugs,24,20,0.2704545454545455

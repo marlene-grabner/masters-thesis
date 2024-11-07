@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,23,16,0.7648759754738015
+2,disease_on_drugs,25,28,0.4712129380053911

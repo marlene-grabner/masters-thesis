@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.1695012663159946
+1,disease_on_symptoms,17,18,0.6075163398692811
+2,disease_on_drugs,26,28,0.11080586080586063

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,27,29,-0.21494708994709
+1,disease_on_symptoms,23,14,-0.33372502937720316
+2,disease_on_drugs,25,22,-0.3498259187620888

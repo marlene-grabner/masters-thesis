@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Cough nodes,sAB
+0,disease_on_genes,22,27,0.12244897959183665
+1,disease_on_symptoms,21,22,0.8623527635155543
+2,disease_on_drugs,21,24,0.4896825396825397

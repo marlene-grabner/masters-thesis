@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,27,25,0.07763532763532766
+1,disease_on_symptoms,23,20,1.248078867542973
+2,disease_on_drugs,25,18,0.5627648578811371

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,14,26,0.7348901098901099
+2,disease_on_drugs,29,28,0.7192982456140351

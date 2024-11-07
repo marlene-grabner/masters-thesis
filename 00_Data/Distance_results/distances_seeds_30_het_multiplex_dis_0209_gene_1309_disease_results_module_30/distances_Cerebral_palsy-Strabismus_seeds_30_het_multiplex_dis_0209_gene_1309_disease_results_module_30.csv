@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.12265331664580725
+1,disease_on_symptoms,13,24,0.22812716562716573
+2,disease_on_drugs,21,16,-0.37375321750321744

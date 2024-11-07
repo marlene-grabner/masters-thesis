@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.437878787878788
+1,disease_on_symptoms,12,26,1.7579284750337383
+2,disease_on_drugs,17,21,1.0495356037151704

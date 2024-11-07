@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,18,23,0.16787439613526578
+2,disease_on_drugs,23,30,-0.2419196062346185

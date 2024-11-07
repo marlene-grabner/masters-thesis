@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,20,0.37111111111111095
+1,disease_on_symptoms,20,26,1.3045150501672242
+2,disease_on_drugs,18,13,0.17597187758478094

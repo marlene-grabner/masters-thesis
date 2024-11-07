@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Erythroderma nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,21,20,0.4636759581881533
+2,disease_on_drugs,29,29,0.1379310344827589

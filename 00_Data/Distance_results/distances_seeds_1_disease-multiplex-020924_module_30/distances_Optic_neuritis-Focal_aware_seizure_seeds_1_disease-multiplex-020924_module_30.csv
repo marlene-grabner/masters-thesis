@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,0.177248677248677
+1,disease_on_symptoms,16,15,1.3656586021505377
+2,disease_on_drugs,27,29,0.9808201058201056

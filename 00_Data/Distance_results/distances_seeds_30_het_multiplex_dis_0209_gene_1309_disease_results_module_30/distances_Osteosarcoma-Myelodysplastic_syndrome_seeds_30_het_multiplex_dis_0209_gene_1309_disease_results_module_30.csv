@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,-0.21190476190476182
+1,disease_on_symptoms,22,17,-0.3368298368298368
+2,disease_on_drugs,29,24,-0.15460312296681855

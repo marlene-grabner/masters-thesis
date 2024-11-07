@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,21,25,0.24227743271221525
+1,disease_on_symptoms,20,25,1.3322222222222222
+2,disease_on_drugs,19,21,1.2999999999999998

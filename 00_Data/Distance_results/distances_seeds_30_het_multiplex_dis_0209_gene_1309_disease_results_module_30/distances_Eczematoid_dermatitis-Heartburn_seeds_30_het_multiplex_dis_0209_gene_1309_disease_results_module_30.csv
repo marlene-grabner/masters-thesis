@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,25,16,0.43682926829268287
+2,disease_on_drugs,30,25,0.21545454545454557

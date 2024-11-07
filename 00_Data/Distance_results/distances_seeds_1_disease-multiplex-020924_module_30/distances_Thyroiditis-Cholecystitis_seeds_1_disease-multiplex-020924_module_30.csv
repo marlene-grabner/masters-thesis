@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,26,25,0.11876319758672693
+1,disease_on_symptoms,28,19,0.08496640537514
+2,disease_on_drugs,23,13,0.07868821999256781

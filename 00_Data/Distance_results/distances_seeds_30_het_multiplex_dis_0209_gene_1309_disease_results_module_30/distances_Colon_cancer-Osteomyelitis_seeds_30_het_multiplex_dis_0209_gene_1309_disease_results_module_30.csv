@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,22,22,0.13636363636363646
+2,disease_on_drugs,26,28,0.27681115181115157

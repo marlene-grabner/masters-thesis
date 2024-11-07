@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,16,16,-0.46875
+2,disease_on_drugs,21,29,-0.22003284072249585

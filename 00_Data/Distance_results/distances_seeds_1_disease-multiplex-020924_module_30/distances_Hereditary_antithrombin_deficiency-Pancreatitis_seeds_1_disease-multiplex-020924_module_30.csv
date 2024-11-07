@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,28,30,0.2923234811165847
+1,disease_on_symptoms,15,20,2.4749999999999996
+2,disease_on_drugs,20,30,1.1750000000000003

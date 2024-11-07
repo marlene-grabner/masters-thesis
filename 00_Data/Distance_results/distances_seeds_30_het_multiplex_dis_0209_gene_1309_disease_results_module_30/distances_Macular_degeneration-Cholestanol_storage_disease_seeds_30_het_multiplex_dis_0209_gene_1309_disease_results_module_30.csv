@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,0.033888564192479986
+1,disease_on_symptoms,17,18,0.2839869281045755
+2,disease_on_drugs,17,28,-0.07577030812324947

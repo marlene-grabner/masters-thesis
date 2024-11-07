@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,20,19,-0.17817139001349536
+2,disease_on_drugs,30,24,-0.03981481481481497

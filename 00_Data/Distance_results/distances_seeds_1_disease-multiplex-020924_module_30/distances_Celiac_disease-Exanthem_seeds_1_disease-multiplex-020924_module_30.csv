@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Exanthem nodes,sAB
+0,disease_on_genes,17,28,0.1633986928104576
+1,disease_on_symptoms,22,26,1.9855769230769231
+2,disease_on_drugs,15,28,0.18136766334440746

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,22,0.4385026737967914
+1,disease_on_symptoms,16,19,2.272509398496241
+2,disease_on_drugs,26,19,0.9070175438596493

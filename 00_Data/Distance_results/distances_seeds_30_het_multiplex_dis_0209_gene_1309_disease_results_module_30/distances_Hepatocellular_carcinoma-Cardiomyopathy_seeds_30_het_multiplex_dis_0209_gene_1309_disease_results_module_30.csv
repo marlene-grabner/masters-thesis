@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,24,25,-0.28489795918367355
+1,disease_on_symptoms,23,21,0.05543007716920756
+2,disease_on_drugs,22,24,-0.21574440052700938

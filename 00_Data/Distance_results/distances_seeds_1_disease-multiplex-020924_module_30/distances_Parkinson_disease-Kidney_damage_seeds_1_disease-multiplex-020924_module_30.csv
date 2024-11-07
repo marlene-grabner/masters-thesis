@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,21,20,0.24204413472706165
+1,disease_on_symptoms,20,26,1.7153846153846155
+2,disease_on_drugs,19,13,0.5576923076923077

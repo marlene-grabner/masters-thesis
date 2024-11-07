@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,26,27,-0.037920227920227756
+1,disease_on_symptoms,19,21,0.7182330827067669
+2,disease_on_drugs,24,23,0.3163737280296022

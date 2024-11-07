@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.3096880131362889
+1,disease_on_symptoms,16,21,1.2394224581724582
+2,disease_on_drugs,27,28,0.90974025974026

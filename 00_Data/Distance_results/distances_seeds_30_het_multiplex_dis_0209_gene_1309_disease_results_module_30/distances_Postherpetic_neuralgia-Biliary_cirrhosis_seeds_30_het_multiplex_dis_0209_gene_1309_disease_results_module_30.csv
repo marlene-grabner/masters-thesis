@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.016483516483516647
+1,disease_on_symptoms,16,22,0.7200956937799041
+2,disease_on_drugs,29,25,0.18610472541507028

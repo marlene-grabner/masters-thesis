@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,-0.016666666666666607
+1,disease_on_symptoms,21,20,0.9057491289198605
+2,disease_on_drugs,29,23,0.15125129742820898

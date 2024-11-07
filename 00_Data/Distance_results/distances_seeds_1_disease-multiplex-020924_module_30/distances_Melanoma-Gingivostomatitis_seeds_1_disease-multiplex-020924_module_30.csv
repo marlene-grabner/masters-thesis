@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,24,30,0.15555555555555567
+1,disease_on_symptoms,23,23,1.8043478260869565
+2,disease_on_drugs,22,29,1.0463150777552401

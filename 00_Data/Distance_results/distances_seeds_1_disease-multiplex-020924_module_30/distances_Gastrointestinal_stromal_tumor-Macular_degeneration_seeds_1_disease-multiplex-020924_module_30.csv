@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,23,30,0.1010527754990429
+1,disease_on_symptoms,20,15,-0.3095238095238093
+2,disease_on_drugs,19,21,0.10119047619047628

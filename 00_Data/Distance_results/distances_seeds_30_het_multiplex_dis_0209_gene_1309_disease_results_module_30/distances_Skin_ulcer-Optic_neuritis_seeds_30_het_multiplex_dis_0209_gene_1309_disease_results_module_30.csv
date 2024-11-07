@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,20,21,0.33919860627177734
+2,disease_on_drugs,24,27,-0.10076252723311563

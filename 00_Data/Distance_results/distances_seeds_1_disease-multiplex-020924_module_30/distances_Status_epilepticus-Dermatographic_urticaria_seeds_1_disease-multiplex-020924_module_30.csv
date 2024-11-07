@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,0.06896551724137945
+1,disease_on_symptoms,17,14,1.787747357007319
+2,disease_on_drugs,30,28,0.3620689655172413

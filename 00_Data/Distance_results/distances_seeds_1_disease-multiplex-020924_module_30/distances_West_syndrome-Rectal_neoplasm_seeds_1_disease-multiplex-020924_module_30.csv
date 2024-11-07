@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,29,30,0.3389830508474576
+1,disease_on_symptoms,18,21,1.3803418803418803
+2,disease_on_drugs,22,29,0.887085868830291

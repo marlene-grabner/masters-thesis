@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.13207547169811318
+1,disease_on_symptoms,21,12,0.9875541125541125
+2,disease_on_drugs,25,18,0.4318087855297159

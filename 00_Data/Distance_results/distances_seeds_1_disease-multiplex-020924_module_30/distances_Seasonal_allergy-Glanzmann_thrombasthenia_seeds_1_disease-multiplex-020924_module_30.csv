@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,29,24,0.0045407720667967055
+1,disease_on_symptoms,15,21,0.8365079365079366
+2,disease_on_drugs,29,24,0.40689384081544144

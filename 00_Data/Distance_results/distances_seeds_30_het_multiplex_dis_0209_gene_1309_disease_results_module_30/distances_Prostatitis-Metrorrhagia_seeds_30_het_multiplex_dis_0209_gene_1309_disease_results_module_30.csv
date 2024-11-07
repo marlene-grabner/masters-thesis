@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.052631578947368474
+1,disease_on_symptoms,22,17,0.3010420951597421
+2,disease_on_drugs,28,26,0.03535816035816031

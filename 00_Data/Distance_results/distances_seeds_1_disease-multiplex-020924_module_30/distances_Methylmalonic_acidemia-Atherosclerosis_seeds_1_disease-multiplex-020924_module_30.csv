@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,25,30,0.40727272727272723
+1,disease_on_symptoms,16,13,1.5699602122015914
+2,disease_on_drugs,17,29,0.18797953964194392

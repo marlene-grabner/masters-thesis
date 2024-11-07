@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.2786163522012577
+1,disease_on_symptoms,22,20,-0.40963203463203457
+2,disease_on_drugs,29,20,-0.254064039408867

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Dermatitis nodes,sAB
+0,disease_on_genes,28,26,-0.037735849056603765
+1,disease_on_symptoms,23,25,0.3047463768115941
+2,disease_on_drugs,26,24,-0.04012820512820503

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,9,14,-0.7791580400276052
+2,disease_on_drugs,11,24,-0.29485930735930743

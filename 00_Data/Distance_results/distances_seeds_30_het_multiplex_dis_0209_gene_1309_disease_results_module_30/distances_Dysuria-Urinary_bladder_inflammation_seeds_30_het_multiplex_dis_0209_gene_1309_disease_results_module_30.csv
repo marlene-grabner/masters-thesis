@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,12,16,0.6056547619047619
+2,disease_on_drugs,21,29,-0.11362889983579638

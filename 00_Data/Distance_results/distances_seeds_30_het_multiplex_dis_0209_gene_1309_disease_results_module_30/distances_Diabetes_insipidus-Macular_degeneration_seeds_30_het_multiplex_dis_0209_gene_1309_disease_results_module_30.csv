@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,-0.07161172161172169
+1,disease_on_symptoms,20,17,0.09689984101748816
+2,disease_on_drugs,20,17,-0.1879968203497615

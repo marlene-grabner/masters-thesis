@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Sepsis nodes,sAB
+0,disease_on_genes,25,30,0.15000000000000013
+1,disease_on_symptoms,18,15,1.5797979797979798
+2,disease_on_drugs,24,25,0.4901360544217688

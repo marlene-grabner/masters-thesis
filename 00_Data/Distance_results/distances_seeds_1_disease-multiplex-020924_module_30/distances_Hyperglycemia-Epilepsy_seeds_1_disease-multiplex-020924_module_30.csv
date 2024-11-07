@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Epilepsy nodes,sAB
+0,disease_on_genes,30,29,0.27231638418079096
+1,disease_on_symptoms,14,18,1.4925595238095237
+2,disease_on_drugs,26,30,0.786904761904762

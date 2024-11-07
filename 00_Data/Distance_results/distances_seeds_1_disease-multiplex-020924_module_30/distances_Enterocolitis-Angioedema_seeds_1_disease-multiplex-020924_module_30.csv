@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,29,0.07271524771524773
+1,disease_on_symptoms,21,17,0.36208167477517317
+2,disease_on_drugs,24,25,0.14243197278911546

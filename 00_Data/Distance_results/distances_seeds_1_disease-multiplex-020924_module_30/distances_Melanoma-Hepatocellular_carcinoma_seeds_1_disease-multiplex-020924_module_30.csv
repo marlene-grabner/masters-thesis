@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,24,23,0.020351526364477346
+1,disease_on_symptoms,23,19,-0.20976353928299019
+2,disease_on_drugs,22,19,-0.12195121951219512

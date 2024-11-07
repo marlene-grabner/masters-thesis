@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,-0.1648351648351648
+1,disease_on_symptoms,16,14,0.7392857142857141
+2,disease_on_drugs,26,24,-0.23724358974358983

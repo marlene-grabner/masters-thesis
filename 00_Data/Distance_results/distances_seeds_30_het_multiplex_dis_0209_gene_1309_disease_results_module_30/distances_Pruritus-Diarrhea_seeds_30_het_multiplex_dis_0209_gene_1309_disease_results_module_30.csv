@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Diarrhea nodes,sAB
+0,disease_on_genes,27,30,-0.2641325536062379
+1,disease_on_symptoms,21,21,0.2619047619047621
+2,disease_on_drugs,27,29,-0.2501824484583105

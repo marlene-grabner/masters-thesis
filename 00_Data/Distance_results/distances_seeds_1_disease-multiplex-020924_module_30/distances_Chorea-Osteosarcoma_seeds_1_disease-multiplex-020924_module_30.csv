@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,14,25,0.5596703296703298
+1,disease_on_symptoms,27,24,2.0731209150326797
+2,disease_on_drugs,8,23,1.1955645161290325

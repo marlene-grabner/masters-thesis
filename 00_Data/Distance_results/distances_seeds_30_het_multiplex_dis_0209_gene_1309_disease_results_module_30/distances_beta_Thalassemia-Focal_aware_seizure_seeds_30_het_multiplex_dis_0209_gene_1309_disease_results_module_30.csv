@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,13,16,-0.027354111405835546
+2,disease_on_drugs,24,29,-0.05122261982216436

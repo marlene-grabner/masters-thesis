@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.12909090909090915
+1,disease_on_symptoms,15,23,0.5047292143401987
+2,disease_on_drugs,29,24,0.19972619822164384

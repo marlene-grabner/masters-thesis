@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,25,29,0.41123882503192855
+1,disease_on_symptoms,26,16,2.1838369963369964
+2,disease_on_drugs,21,22,1.1627906976744184

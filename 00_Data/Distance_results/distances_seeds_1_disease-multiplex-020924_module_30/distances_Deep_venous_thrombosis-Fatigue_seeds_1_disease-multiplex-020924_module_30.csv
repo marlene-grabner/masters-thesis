@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Fatigue nodes,sAB
+0,disease_on_genes,28,26,0.2955331705331705
+1,disease_on_symptoms,14,21,1.7357142857142858
+2,disease_on_drugs,24,26,0.5015384615384617

@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,16,21,0.2611003861003862
+2,disease_on_drugs,29,27,-0.1755838350665938

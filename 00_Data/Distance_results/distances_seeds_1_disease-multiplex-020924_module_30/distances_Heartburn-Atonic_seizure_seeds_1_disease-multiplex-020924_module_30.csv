@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,24,29,0.02953535024940357
+1,disease_on_symptoms,20,16,0.22222222222222232
+2,disease_on_drugs,22,24,0.12944664031620556

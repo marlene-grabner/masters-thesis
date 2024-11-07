@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Angioedema nodes,sAB
+0,disease_on_genes,17,29,0.1455415499533146
+1,disease_on_symptoms,22,17,2.1742081447963804
+2,disease_on_drugs,15,25,0.4416666666666669

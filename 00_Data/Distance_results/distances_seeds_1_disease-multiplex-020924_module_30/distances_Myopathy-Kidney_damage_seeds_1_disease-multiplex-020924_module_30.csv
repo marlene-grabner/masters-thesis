@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,18,20,0.5257309941520467
+1,disease_on_symptoms,21,26,0.9403592861039667
+2,disease_on_drugs,6,13,0.535762483130904

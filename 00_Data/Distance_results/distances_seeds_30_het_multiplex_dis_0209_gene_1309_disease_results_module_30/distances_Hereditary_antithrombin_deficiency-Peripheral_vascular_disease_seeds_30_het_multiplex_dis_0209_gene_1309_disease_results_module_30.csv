@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,28,25,0.03660377358490563
+1,disease_on_symptoms,16,17,0.5979278074866312
+2,disease_on_drugs,23,25,0.09489130434782611

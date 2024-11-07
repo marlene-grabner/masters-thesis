@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,-0.020000000000000018
+1,disease_on_symptoms,20,17,0.2849364069952305
+2,disease_on_drugs,27,25,0.1330199430199428

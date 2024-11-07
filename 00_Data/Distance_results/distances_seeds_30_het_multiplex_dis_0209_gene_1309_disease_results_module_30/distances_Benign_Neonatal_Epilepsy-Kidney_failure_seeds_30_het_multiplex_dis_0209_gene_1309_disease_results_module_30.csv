@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,16,20,0.10347222222222241
+2,disease_on_drugs,21,28,-0.14710884353741505

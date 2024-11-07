@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,22,0.17628667628667638
+1,disease_on_symptoms,22,19,0.9995623760065351
+2,disease_on_drugs,24,19,0.5831803345573237

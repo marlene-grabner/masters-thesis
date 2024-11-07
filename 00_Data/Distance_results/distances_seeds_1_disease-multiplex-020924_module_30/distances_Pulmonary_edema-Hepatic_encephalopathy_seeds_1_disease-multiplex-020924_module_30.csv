@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,0.2350427350427351
+1,disease_on_symptoms,14,27,2.368854045683314
+2,disease_on_drugs,27,9,0.7407407407407405

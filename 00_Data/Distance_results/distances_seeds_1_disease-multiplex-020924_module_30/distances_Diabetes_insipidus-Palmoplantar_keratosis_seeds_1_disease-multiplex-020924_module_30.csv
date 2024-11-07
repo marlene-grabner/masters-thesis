@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,24,26,0.49916666666666654
+1,disease_on_symptoms,18,19,0.7101706970128021
+2,disease_on_drugs,18,18,1.0277777777777777

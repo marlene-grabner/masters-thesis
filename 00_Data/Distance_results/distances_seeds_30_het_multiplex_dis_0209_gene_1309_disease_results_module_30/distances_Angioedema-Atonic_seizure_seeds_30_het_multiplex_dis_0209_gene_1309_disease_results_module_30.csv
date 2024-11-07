@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,18,15,0.23131313131313158
+2,disease_on_drugs,26,23,-0.019998634905467272

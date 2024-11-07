@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,24,23,-0.021276595744680882
+1,disease_on_symptoms,21,20,0.7823751451800234
+2,disease_on_drugs,24,20,0.07537878787878793

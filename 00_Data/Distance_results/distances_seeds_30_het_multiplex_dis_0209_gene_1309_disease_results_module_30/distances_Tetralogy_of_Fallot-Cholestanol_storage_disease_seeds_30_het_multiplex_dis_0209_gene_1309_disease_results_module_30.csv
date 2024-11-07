@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.16893629456458226
+1,disease_on_symptoms,19,18,0.10664611980401428
+2,disease_on_drugs,20,28,-0.16547619047619033

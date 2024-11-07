@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,26,25,0.4697888386123681
+1,disease_on_symptoms,17,21,2.380731239864367
+2,disease_on_drugs,18,20,0.8083333333333333

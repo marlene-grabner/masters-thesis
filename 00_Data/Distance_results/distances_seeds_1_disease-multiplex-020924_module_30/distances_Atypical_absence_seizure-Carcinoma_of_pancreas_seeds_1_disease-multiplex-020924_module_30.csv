@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,29,23,0.3076923076923077
+1,disease_on_symptoms,15,25,1.4366666666666665
+2,disease_on_drugs,27,21,1.1921296296296293

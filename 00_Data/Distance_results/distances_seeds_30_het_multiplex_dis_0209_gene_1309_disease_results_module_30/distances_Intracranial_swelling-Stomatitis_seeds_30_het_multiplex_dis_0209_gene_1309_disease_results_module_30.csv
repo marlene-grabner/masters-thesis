@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,11,19,0.3668261562998407
+2,disease_on_drugs,21,29,0.11435139573070607

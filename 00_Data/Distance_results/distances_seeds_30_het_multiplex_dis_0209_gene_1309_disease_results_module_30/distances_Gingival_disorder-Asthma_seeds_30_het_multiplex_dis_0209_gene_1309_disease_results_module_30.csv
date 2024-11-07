@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.09272727272727277
+1,disease_on_symptoms,19,20,-0.13599865047233473
+2,disease_on_drugs,24,22,-0.18848814229249

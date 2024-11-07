@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,16,20,0.01666666666666683
+1,disease_on_symptoms,26,25,1.450105580693816
+2,disease_on_drugs,14,19,0.007974481658691968

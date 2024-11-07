@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma_of_the_head_and_neck nodes,Blepharitis nodes,sAB
+0,disease_on_genes,21,20,0.0975319396051102
+1,disease_on_symptoms,25,27,0.9905413105413106
+2,disease_on_drugs,21,19,0.4223684210526315

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,28,30,-0.1028735632183907
+1,disease_on_symptoms,16,19,-0.0647556390977444
+2,disease_on_drugs,23,30,-0.24047033087229974

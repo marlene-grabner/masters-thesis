@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,0.15517241379310343
+1,disease_on_symptoms,20,16,0.9708333333333334
+2,disease_on_drugs,26,25,0.17647058823529416

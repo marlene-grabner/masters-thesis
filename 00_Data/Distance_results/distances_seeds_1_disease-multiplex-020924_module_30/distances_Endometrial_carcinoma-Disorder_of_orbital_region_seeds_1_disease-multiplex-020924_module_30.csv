@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,23,17,-0.007864450127877065
+1,disease_on_symptoms,21,27,0.8313492063492061
+2,disease_on_drugs,21,16,0.3795849420849422

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,26,22,0.0662088974854933
+1,disease_on_symptoms,19,23,0.7818459191456903
+2,disease_on_drugs,24,20,0.6318181818181818

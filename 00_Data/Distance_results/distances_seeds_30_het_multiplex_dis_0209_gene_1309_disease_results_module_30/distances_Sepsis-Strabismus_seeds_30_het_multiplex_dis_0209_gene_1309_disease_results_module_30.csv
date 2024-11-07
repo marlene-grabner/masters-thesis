@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,0.09472256987901528
+1,disease_on_symptoms,15,24,1.6881410256410256
+2,disease_on_drugs,25,16,0.5730182926829268

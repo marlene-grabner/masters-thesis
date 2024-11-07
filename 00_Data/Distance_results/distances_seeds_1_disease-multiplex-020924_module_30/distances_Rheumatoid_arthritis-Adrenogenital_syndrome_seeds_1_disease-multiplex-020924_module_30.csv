@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.435672514619883
+1,disease_on_symptoms,15,7,0.6683982683982683
+2,disease_on_drugs,25,22,0.3968278529980658

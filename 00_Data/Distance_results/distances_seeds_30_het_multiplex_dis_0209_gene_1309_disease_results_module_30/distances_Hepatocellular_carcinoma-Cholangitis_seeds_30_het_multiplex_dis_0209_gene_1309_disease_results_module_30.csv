@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,24,30,-0.09259259259259256
+1,disease_on_symptoms,23,18,-0.10689878637916816
+2,disease_on_drugs,22,28,-0.019740259740259836

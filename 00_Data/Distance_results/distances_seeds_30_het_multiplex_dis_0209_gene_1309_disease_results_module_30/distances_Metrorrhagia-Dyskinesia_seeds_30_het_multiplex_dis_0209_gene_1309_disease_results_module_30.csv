@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,30,-0.052631578947368474
+1,disease_on_symptoms,17,15,1.049264705882353
+2,disease_on_drugs,26,28,0.1253052503052503

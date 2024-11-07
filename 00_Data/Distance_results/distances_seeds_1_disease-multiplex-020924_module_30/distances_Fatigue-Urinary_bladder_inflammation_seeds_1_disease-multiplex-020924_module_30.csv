@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,0.07800904977375578
+1,disease_on_symptoms,21,22,0.5342041679250982
+2,disease_on_drugs,26,24,0.2582051282051281

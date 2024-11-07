@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,16,24,-0.02499999999999991
+1,disease_on_symptoms,26,23,1.6494778513412056
+2,disease_on_drugs,14,12,0.1923076923076923

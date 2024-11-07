@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.07662835249042166
+1,disease_on_symptoms,19,18,1.652007270428323
+2,disease_on_drugs,26,19,0.5684885290148449

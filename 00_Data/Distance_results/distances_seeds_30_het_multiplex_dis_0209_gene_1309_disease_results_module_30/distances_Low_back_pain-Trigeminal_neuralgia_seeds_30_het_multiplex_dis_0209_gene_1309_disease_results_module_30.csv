@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,16,15,-0.7610215053763443
+2,disease_on_drugs,25,25,-0.17999999999999994

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,20,25,0.32944444444444443
+1,disease_on_symptoms,22,20,1.685930735930736
+2,disease_on_drugs,15,18,1.1196969696969699

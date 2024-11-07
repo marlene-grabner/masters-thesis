@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.03659673659673679
+1,disease_on_symptoms,26,20,0.7341137123745818
+2,disease_on_drugs,28,19,0.4042553191489362

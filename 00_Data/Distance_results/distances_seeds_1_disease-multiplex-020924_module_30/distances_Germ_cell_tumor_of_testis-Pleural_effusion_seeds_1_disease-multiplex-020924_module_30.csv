@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.24649122807017543
+1,disease_on_symptoms,23,20,0.908417593528817
+2,disease_on_drugs,20,22,0.5

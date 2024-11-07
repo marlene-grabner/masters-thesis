@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,28,28,0.1607142857142856
+1,disease_on_symptoms,24,20,1.162878787878788
+2,disease_on_drugs,28,28,0.5535714285714286

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,18,0.25531914893617014
+1,disease_on_symptoms,16,27,1.7650462962962963
+2,disease_on_drugs,26,17,1.4931600547195623

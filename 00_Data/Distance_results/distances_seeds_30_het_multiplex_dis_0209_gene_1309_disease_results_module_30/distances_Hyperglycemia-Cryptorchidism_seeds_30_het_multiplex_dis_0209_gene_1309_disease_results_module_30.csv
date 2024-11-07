@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.24595296691277002
+1,disease_on_symptoms,17,19,0.9969900240798075
+2,disease_on_drugs,26,21,-0.07688410879900243

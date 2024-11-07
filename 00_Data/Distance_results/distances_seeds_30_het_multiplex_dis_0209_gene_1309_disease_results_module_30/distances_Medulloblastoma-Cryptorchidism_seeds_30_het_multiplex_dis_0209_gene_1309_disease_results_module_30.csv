@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,-0.2617391304347827
+1,disease_on_symptoms,22,19,0.44690162212626916
+2,disease_on_drugs,26,21,-0.2086353362949107

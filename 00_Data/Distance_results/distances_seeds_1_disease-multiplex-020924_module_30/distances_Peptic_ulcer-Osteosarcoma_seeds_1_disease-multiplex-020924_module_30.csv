@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,28,25,0.09927223719676537
+1,disease_on_symptoms,14,24,1.2770989974937343
+2,disease_on_drugs,28,23,1.2941176470588234

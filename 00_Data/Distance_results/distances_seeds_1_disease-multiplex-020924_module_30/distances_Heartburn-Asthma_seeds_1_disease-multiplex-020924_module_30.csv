@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Asthma nodes,sAB
+0,disease_on_genes,24,25,-0.0017176870748298878
+1,disease_on_symptoms,20,19,1.2805330634278005
+2,disease_on_drugs,22,24,0.305171277997365

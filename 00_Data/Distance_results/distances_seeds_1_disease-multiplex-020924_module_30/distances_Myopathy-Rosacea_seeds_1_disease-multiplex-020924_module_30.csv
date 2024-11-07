@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Rosacea nodes,sAB
+0,disease_on_genes,18,30,0.35972222222222205
+1,disease_on_symptoms,21,17,0.7623470440807905
+2,disease_on_drugs,6,27,0.3484848484848486

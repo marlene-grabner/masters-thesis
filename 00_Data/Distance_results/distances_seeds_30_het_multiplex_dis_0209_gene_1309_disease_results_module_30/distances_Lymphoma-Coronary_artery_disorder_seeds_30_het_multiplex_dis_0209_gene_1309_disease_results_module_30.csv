@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,26,23,-0.062555456965395
+1,disease_on_symptoms,20,19,0.7241565452091767
+2,disease_on_drugs,24,22,0.3909749670619236

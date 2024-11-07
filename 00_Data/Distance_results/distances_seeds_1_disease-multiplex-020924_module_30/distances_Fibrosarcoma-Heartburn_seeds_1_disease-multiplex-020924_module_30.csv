@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,22,24,0.10433135704874852
+1,disease_on_symptoms,24,20,1.102272727272727
+2,disease_on_drugs,13,22,1.0058441558441558

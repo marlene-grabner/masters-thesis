@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,28,0.06892446633825933
+1,disease_on_symptoms,15,24,0.2237179487179486
+2,disease_on_drugs,29,28,0.14002679111572025

@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,0.05293405928614647
+1,disease_on_symptoms,22,20,0.6278138528138528
+2,disease_on_drugs,15,28,0.1199612403100776

@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,14,0.06347985347985352
+1,disease_on_symptoms,25,23,1.2414855072463769
+2,disease_on_drugs,23,14,1.09165687426557

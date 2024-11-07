@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,27,9,0.2314814814814814
+1,disease_on_symptoms,17,27,2.8514557338086752
+2,disease_on_drugs,20,9,0.5862068965517242

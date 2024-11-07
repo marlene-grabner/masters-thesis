@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.24560323221847713
+1,disease_on_symptoms,17,18,2.2591503267973856
+2,disease_on_drugs,30,26,0.7664835164835166

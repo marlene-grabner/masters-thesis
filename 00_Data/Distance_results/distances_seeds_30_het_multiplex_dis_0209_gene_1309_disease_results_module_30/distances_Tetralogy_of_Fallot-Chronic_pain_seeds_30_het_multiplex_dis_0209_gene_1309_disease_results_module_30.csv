@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.1000000000000002
+1,disease_on_symptoms,19,19,0.47368421052631593
+2,disease_on_drugs,20,28,-0.11488095238095242

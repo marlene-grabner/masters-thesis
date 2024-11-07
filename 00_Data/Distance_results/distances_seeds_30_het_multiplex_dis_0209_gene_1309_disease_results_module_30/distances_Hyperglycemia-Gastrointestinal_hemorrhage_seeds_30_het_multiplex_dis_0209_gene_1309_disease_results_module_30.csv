@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.06900656814449924
+1,disease_on_symptoms,17,20,0.6906995230524642
+2,disease_on_drugs,26,27,0.18859861312691484

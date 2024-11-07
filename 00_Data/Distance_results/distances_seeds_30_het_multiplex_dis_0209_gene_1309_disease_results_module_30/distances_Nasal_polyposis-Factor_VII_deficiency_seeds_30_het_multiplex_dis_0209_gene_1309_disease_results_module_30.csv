@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.22352216748768483
+1,disease_on_symptoms,20,19,1.2315789473684209
+2,disease_on_drugs,25,25,0.5799999999999998

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,23,27,0.12956521739130422
+1,disease_on_symptoms,16,14,0.04077380952380949
+2,disease_on_drugs,22,13,-0.11428571428571432

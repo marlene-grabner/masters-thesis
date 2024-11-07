@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.1863636363636363
+1,disease_on_symptoms,23,22,0.5515151515151517
+2,disease_on_drugs,30,25,0.3163636363636362

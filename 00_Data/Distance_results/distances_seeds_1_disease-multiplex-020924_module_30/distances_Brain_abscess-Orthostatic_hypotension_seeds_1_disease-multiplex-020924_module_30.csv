@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,27,30,-0.0030214424951267027
+1,disease_on_symptoms,21,12,0.9377705627705628
+2,disease_on_drugs,23,17,0.44015345268542205

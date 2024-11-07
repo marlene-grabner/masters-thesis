@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,21,16,0.7588481338481337
+2,disease_on_drugs,27,28,0.5480399230399231

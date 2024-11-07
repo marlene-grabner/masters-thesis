@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.15575048732943464
+1,disease_on_symptoms,14,22,1.0284992784992784
+2,disease_on_drugs,29,26,0.7636363636363637

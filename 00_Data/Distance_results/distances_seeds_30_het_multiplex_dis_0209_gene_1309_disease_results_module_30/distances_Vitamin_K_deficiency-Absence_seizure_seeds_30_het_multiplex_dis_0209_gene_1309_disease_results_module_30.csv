@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,25,30,0.21818181818181825
+1,disease_on_symptoms,21,14,1.480952380952381
+2,disease_on_drugs,21,22,0.3492399073794423

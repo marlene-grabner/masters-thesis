@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.0535714285714286
+1,disease_on_symptoms,21,22,0.7178848283499448
+2,disease_on_drugs,29,24,0.43653762741270885

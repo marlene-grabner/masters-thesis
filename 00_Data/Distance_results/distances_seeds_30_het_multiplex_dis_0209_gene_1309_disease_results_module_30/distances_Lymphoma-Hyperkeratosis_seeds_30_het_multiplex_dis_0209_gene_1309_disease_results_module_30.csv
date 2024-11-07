@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,-0.0576923076923076
+1,disease_on_symptoms,20,25,0.7133333333333334
+2,disease_on_drugs,24,25,0.10197278911564633

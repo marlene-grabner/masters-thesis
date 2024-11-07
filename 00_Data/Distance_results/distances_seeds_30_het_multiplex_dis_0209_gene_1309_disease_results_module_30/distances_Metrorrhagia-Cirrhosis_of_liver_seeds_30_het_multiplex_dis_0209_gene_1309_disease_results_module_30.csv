@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,-0.29824561403508776
+1,disease_on_symptoms,17,19,-0.2899896800825592
+2,disease_on_drugs,26,30,-0.25485347985347984

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.10732600732600739
+1,disease_on_symptoms,19,25,0.6998564593301435
+2,disease_on_drugs,29,25,0.07070242656449555

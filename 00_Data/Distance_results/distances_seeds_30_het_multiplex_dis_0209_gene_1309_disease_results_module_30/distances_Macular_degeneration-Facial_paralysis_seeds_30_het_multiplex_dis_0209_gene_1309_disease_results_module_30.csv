@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.09358974358974348
+1,disease_on_symptoms,17,21,0.11226595901518488
+2,disease_on_drugs,17,17,-0.11764705882352944

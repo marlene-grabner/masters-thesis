@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,22,27,0.3957087885659314
+1,disease_on_symptoms,22,19,0.8213910608005599
+2,disease_on_drugs,14,27,0.8196864111498257

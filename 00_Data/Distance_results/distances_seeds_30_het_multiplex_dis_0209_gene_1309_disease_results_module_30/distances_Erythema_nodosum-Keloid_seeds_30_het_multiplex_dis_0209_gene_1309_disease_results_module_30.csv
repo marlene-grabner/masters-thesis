@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.05660377358490565
+1,disease_on_symptoms,22,17,1.2087961058549292
+2,disease_on_drugs,29,22,0.10201917757698697

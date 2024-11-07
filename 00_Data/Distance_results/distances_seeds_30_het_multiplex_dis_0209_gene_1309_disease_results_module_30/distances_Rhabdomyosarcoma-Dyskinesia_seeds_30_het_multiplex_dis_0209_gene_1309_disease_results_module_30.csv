@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,30,-0.23728813559322037
+1,disease_on_symptoms,19,15,1.2866873065015483
+2,disease_on_drugs,29,28,0.15909385532797504

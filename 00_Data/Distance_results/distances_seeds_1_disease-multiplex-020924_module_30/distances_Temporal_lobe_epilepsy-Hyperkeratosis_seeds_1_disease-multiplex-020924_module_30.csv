@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,29,26,0.3271642150952494
+1,disease_on_symptoms,17,21,1.7288073123986436
+2,disease_on_drugs,26,23,0.4705651491365779

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,21,25,0.2387991718426501
+1,disease_on_symptoms,22,24,1.1209650856389988
+2,disease_on_drugs,21,23,0.7889610389610391

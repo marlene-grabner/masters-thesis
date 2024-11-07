@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,24,30,0.019907407407407485
+1,disease_on_symptoms,21,24,1.4823412698412701
+2,disease_on_drugs,24,24,0.3125

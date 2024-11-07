@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Obesity nodes,sAB
+0,disease_on_genes,30,26,-0.10375457875457894
+1,disease_on_symptoms,14,20,-0.5134453781512605
+2,disease_on_drugs,26,27,-0.11250873515024473

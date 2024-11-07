@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.5329670329670331
+1,disease_on_symptoms,21,25,1.6519254658385094
+2,disease_on_drugs,26,7,0.6476856476856476

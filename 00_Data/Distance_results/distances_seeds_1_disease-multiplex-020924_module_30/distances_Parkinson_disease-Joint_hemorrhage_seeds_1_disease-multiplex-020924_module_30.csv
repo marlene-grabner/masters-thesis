@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,21,30,0.5928571428571427
+1,disease_on_symptoms,20,13,2.0935897435897433
+2,disease_on_drugs,19,18,1.1869369369369367

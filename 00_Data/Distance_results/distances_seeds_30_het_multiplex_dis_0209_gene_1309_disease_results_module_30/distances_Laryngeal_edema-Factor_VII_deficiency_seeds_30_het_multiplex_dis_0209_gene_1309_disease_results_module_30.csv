@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.08616584564860408
+1,disease_on_symptoms,16,19,0.7449718045112783
+2,disease_on_drugs,28,25,0.39990566037735853

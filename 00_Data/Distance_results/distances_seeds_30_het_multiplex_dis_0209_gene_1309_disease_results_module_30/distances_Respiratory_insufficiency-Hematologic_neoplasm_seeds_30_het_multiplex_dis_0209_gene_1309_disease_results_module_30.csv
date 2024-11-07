@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,21,18,0.5338827838827838
+2,disease_on_drugs,25,27,-0.13666666666666671

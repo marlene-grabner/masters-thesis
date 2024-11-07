@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,25,17,0.08458871353419428
+1,disease_on_symptoms,20,27,0.4724586288416077
+2,disease_on_drugs,21,16,-0.056064993564993726

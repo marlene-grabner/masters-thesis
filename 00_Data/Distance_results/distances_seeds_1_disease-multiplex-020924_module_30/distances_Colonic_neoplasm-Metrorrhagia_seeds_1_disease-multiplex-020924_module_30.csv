@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.12280701754385959
+1,disease_on_symptoms,19,17,0.9303405572755419
+2,disease_on_drugs,29,26,0.5251748251748254

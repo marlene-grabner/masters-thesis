@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.13333333333333341
+1,disease_on_symptoms,19,18,0.027066540224435
+2,disease_on_drugs,24,21,-0.3123015873015872

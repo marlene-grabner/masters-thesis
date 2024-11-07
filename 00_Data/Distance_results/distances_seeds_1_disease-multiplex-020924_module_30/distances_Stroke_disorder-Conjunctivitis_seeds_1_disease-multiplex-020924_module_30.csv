@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.17534113060428846
+1,disease_on_symptoms,15,27,0.5185185185185186
+2,disease_on_drugs,30,26,0.8901098901098903

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,17,19,1.2710698314413484
+2,disease_on_drugs,24,25,0.34853741496598634

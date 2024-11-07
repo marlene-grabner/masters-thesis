@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.08832425892317008
+1,disease_on_symptoms,19,18,1.5965307412675835
+2,disease_on_drugs,30,19,0.24758324382384522

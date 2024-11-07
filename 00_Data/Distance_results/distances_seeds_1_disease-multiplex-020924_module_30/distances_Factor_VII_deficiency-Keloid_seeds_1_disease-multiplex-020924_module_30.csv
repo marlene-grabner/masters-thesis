@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Keloid nodes,sAB
+0,disease_on_genes,25,22,0.25624758220502897
+1,disease_on_symptoms,23,20,2.458291203235592
+2,disease_on_drugs,21,19,1.1523809523809525

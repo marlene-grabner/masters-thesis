@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,21,16,-0.015926640926640978
+2,disease_on_drugs,25,25,-0.1399999999999999

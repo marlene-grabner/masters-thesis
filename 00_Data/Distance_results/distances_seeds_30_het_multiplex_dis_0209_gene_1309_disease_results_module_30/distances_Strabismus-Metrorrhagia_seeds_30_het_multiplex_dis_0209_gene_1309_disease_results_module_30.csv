@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,17,29,-0.14973262032085566
+1,disease_on_symptoms,24,17,0.16532161645145882
+2,disease_on_drugs,16,26,0.09008699633699635

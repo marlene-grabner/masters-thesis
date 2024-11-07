@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,24,30,-0.2962962962962963
+1,disease_on_symptoms,23,19,-0.3974065598779557
+2,disease_on_drugs,22,30,-0.24673659673659665

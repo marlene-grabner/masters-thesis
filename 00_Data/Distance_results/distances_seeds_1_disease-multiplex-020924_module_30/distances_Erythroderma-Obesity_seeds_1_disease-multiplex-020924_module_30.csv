@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Obesity nodes,sAB
+0,disease_on_genes,30,26,0.23434065934065917
+1,disease_on_symptoms,19,20,1.1087719298245613
+2,disease_on_drugs,28,27,0.5629629629629629

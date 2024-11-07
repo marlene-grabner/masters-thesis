@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,-0.1964285714285714
+1,disease_on_symptoms,14,20,0.8289915966386554
+2,disease_on_drugs,29,23,-0.11599008188213578

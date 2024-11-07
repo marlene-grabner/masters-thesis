@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.018787878787878798
+1,disease_on_symptoms,19,14,0.4923672818409661
+2,disease_on_drugs,24,30,0.4851851851851854

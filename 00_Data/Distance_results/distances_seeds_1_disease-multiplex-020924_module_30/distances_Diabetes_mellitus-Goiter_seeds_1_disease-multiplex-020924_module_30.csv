@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Goiter nodes,sAB
+0,disease_on_genes,20,26,0.3480769230769232
+1,disease_on_symptoms,18,15,1.845959595959596
+2,disease_on_drugs,19,16,0.7165413533834588

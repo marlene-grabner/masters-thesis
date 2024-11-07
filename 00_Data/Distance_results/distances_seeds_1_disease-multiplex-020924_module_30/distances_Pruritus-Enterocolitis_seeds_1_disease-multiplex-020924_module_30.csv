@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,-0.020826210826210945
+1,disease_on_symptoms,19,21,0.6979949874686717
+2,disease_on_drugs,24,24,0.14583333333333326

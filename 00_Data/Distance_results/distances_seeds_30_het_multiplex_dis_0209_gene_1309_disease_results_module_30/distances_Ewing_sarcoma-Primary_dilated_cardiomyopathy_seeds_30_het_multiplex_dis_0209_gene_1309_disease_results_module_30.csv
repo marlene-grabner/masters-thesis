@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,17,24,0.8569165471066476
+2,disease_on_drugs,24,15,0.27532051282051295

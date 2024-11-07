@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,0.15500000000000003
+1,disease_on_symptoms,18,23,1.0148756922351831
+2,disease_on_drugs,27,18,0.1074074074074074

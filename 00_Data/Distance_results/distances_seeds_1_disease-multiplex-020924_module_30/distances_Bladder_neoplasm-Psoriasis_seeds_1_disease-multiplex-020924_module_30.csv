@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,0.11243386243386255
+1,disease_on_symptoms,20,21,0.5601335656213706
+2,disease_on_drugs,25,28,0.3982479784366577

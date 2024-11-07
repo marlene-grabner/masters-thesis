@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,29,-0.21818181818181814
+1,disease_on_symptoms,20,27,-0.13483057525610742
+2,disease_on_drugs,24,28,-0.24816849816849818

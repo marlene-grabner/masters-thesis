@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.05112994350282496
+1,disease_on_symptoms,18,13,0.2535842293906807
+2,disease_on_drugs,26,22,-0.027097902097902082

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,25,15,0.3333333333333335
+1,disease_on_symptoms,23,27,1.875942028985507
+2,disease_on_drugs,19,13,1.25

@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,20,20,-0.5499999999999998
+1,disease_on_symptoms,23,24,-0.6583217699660808
+2,disease_on_drugs,18,18,-0.5555555555555557

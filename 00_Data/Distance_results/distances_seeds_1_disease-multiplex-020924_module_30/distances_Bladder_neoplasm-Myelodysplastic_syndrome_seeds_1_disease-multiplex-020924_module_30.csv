@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615374
+1,disease_on_symptoms,20,15,0.5845238095238094
+2,disease_on_drugs,25,21,0.05900621118012417

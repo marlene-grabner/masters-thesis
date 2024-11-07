@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,29,26,0.3645768025078371
+1,disease_on_symptoms,17,15,2.049264705882353
+2,disease_on_drugs,26,15,0.8897123202001249

@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.10536062378167643
+1,disease_on_symptoms,19,20,0.15468960863697712
+2,disease_on_drugs,24,29,0.01717360659292999

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.07435897435897432
+1,disease_on_symptoms,18,21,0.6657509157509158
+2,disease_on_drugs,30,17,0.20083437630371304

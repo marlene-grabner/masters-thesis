@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,22,29,0.3820456082119368
+1,disease_on_symptoms,19,16,1.8430451127819547
+2,disease_on_drugs,19,24,0.9969400244798043

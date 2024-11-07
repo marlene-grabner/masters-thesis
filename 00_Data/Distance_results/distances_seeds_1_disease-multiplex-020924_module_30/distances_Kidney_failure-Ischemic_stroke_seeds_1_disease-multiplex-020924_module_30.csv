@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,20,30,-0.05666666666666664
+1,disease_on_symptoms,23,16,0.5861204013377928
+2,disease_on_drugs,18,23,-0.027335925533168437

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.09314102564102544
+1,disease_on_symptoms,19,22,2.266979810946435
+2,disease_on_drugs,24,11,0.8363095238095237

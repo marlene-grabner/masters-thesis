@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.21344537815126063
+1,disease_on_symptoms,14,26,1.3302197802197802
+2,disease_on_drugs,26,12,0.894736842105263

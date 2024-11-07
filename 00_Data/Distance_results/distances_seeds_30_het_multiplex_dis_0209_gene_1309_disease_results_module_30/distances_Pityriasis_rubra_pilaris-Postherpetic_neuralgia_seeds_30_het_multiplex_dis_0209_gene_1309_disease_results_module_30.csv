@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.17738791423001965
+1,disease_on_symptoms,21,16,-0.10360360360360366
+2,disease_on_drugs,25,29,-0.21241379310344843

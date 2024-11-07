@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,24,0.13661624376490988
+1,disease_on_symptoms,15,19,1.1987616099071208
+2,disease_on_drugs,29,20,0.7082688247712876

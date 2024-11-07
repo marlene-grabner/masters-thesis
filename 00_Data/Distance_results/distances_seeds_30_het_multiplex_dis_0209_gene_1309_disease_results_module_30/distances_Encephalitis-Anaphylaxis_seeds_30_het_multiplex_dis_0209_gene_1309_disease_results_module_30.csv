@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,29,27,0.1421957671957672
+1,disease_on_symptoms,13,14,1.1812169312169312
+2,disease_on_drugs,22,26,-0.046328671328671245

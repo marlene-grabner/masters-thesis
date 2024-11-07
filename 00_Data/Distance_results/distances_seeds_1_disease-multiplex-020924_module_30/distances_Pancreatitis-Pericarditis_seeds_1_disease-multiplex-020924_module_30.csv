@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.07878787878787885
+1,disease_on_symptoms,20,22,0.6884199134199136
+2,disease_on_drugs,30,25,0.41636363636363627

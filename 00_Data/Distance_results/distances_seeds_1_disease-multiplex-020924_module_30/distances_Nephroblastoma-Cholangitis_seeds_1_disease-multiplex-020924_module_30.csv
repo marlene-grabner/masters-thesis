@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,27,0.26977207977207973
+1,disease_on_symptoms,25,22,1.0398839458413929
+2,disease_on_drugs,21,26,1.5957446808510638

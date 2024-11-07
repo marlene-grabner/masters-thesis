@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,28,28,0.0714285714285714
+1,disease_on_symptoms,18,20,0.4959064327485383
+2,disease_on_drugs,23,27,0.25149758454106275

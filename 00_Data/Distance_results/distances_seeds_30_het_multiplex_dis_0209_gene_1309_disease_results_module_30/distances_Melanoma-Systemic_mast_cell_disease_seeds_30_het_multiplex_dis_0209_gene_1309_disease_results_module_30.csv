@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,-0.1256613756613757
+1,disease_on_symptoms,23,25,0.16753623188405808
+2,disease_on_drugs,25,21,0.17879917184265004

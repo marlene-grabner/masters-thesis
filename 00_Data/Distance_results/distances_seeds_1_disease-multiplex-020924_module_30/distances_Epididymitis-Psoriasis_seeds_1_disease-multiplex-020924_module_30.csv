@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,29,28,0.08739521216835189
+1,disease_on_symptoms,23,21,0.3006305288913984
+2,disease_on_drugs,27,28,0.4908850408850409

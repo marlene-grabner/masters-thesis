@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Rhinitis nodes,sAB
+0,disease_on_genes,12,30,0.41547619047619033
+1,disease_on_symptoms,27,15,0.9820105820105818
+2,disease_on_drugs,9,22,0.5663082437275986

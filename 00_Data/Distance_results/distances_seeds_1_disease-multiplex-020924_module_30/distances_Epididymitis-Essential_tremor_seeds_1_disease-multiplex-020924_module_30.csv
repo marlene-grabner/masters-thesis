@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,0.38275862068965516
+1,disease_on_symptoms,23,20,1.4508847320525782
+2,disease_on_drugs,27,19,0.6975167387066701

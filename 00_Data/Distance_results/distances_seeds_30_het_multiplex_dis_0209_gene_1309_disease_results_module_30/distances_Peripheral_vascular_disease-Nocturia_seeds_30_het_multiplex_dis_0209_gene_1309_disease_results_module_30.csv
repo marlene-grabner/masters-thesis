@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Nocturia nodes,sAB
+0,disease_on_genes,25,25,0.04122448979591842
+1,disease_on_symptoms,17,18,0.4519140989729227
+2,disease_on_drugs,25,24,0.22401360544217663

@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1607142857142857
+1,disease_on_symptoms,17,19,0.415892672858617
+2,disease_on_drugs,29,24,-0.12540663630448923

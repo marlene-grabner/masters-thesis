@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,19,17,0.1019091847265221
+2,disease_on_drugs,28,27,0.34444444444444433

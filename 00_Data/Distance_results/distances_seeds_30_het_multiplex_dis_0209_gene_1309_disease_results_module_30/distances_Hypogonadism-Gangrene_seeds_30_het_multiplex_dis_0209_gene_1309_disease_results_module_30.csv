@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,17,22,-0.12186343068695993
+2,disease_on_drugs,29,27,0.39253785805509933

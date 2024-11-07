@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.06958128078817727
+1,disease_on_symptoms,17,18,0.603408029878618
+2,disease_on_drugs,24,25,0.12154761904761924

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,-0.312121212121212
+1,disease_on_symptoms,14,20,-0.7920168067226891
+2,disease_on_drugs,24,19,-0.299903100775194

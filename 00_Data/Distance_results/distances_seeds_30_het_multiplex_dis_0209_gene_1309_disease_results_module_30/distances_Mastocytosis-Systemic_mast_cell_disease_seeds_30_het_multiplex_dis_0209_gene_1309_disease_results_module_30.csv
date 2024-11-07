@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.5423728813559322
+1,disease_on_symptoms,24,25,-0.5529421768707483
+2,disease_on_drugs,20,21,-0.39027293844367017

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,26,30,0.2511904761904762
+1,disease_on_symptoms,21,15,1.142063492063492
+2,disease_on_drugs,24,26,0.6615384615384616

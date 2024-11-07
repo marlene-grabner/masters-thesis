@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Pain nodes,sAB
+0,disease_on_genes,24,26,0.2415384615384617
+1,disease_on_symptoms,23,21,2.0559006211180124
+2,disease_on_drugs,22,26,0.9599358974358976

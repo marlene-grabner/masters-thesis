@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Priapism nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,19,12,-0.4370401810979061
+2,disease_on_drugs,22,28,0.3055844155844156

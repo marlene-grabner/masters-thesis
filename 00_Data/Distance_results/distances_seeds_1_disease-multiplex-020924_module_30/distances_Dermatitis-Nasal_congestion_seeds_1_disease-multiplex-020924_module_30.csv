@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,26,30,0.07727272727272716
+1,disease_on_symptoms,25,15,0.5516666666666663
+2,disease_on_drugs,24,23,0.2982963305581252

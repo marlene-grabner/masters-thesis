@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.18254159633469969
+1,disease_on_symptoms,21,20,1.0532229965156796
+2,disease_on_drugs,26,26,0.3269230769230771

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,0.017775041050902995
+1,disease_on_symptoms,19,26,0.19021592442645097
+2,disease_on_drugs,26,28,0.37037037037037046

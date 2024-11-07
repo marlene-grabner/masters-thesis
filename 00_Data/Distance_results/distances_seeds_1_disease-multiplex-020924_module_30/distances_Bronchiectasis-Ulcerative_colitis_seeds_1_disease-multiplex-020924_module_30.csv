@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.1041910331384015
+1,disease_on_symptoms,15,20,0.6511904761904761
+2,disease_on_drugs,26,25,0.15761689291101066

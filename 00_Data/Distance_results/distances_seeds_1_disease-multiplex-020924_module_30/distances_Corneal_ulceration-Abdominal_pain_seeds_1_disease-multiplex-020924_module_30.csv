@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.12122331691297195
+1,disease_on_symptoms,19,24,1.0297582619339047
+2,disease_on_drugs,26,24,0.4783333333333335

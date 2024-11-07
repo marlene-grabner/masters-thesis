@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,16,13,-0.6509449602122017
+2,disease_on_drugs,30,28,-0.17204433497536953

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,22,30,-0.038461538461538436
+1,disease_on_symptoms,21,16,0.7337516087516089
+2,disease_on_drugs,17,28,0.1294817927170866

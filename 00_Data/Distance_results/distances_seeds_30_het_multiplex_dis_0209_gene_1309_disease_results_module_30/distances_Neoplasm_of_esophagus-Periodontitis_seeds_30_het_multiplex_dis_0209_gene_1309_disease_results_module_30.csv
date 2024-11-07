@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Periodontitis nodes,sAB
+0,disease_on_genes,29,30,-0.22063120981881934
+1,disease_on_symptoms,20,21,0.2935540069686413
+2,disease_on_drugs,25,28,-0.12297843665768182

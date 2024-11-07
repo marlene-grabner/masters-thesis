@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,17,0.15852888561506884
+1,disease_on_symptoms,21,22,2.3687707641196014
+2,disease_on_drugs,26,15,0.44040025015634776

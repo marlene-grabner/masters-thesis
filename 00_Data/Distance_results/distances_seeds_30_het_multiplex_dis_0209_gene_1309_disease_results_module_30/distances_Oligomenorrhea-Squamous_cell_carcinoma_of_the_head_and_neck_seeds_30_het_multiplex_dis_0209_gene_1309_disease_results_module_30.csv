@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,29,30,-0.033333333333333215
+1,disease_on_symptoms,11,22,0.9469696969696968
+2,disease_on_drugs,24,30,0.287962962962963

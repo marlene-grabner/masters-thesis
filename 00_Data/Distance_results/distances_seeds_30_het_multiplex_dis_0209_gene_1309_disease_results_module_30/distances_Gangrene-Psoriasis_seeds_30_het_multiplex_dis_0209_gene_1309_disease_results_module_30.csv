@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,22,17,0.4309269162210341
+2,disease_on_drugs,27,30,0.047563352826510696

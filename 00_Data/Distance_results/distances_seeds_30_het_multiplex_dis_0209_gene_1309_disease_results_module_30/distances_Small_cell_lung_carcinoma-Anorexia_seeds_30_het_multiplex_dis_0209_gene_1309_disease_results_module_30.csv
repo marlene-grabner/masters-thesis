@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.22063120981881934
+1,disease_on_symptoms,19,13,0.347925101214575
+2,disease_on_drugs,30,28,0.13834154351395744

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.13720735785953164
+1,disease_on_symptoms,28,27,0.782744107744108
+2,disease_on_drugs,23,19,0.1161054810940394

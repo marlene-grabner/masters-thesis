@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,29,26,-0.1283216783216783
+1,disease_on_symptoms,19,25,0.6795215311004785
+2,disease_on_drugs,29,25,-0.05509578544061289

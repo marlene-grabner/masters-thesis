@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.019217330538085164
+1,disease_on_symptoms,21,19,0.9085213032581454
+2,disease_on_drugs,24,23,0.2978530681467777

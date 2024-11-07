@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,25,30,-0.12575757575757573
+1,disease_on_symptoms,22,22,0.045454545454545414
+2,disease_on_drugs,25,29,-0.15172413793103434

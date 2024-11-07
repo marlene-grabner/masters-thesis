@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.20773858353841934
+1,disease_on_symptoms,14,21,1.7476190476190476
+2,disease_on_drugs,26,21,0.7583586626139818

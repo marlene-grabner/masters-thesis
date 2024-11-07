@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,22,30,0.4588578088578088
+1,disease_on_symptoms,22,20,0.47651515151515134
+2,disease_on_drugs,14,22,0.7817460317460316

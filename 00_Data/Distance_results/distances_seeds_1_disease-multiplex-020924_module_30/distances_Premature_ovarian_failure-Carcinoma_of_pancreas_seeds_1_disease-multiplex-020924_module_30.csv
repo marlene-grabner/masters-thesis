@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,28,23,0.13725490196078427
+1,disease_on_symptoms,21,25,0.4997101449275363
+2,disease_on_drugs,21,21,0.0714285714285714

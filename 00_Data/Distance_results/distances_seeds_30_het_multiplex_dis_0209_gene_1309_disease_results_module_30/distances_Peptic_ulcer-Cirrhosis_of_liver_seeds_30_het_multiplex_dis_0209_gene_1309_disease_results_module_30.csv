@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,20,19,-0.2254723346828611
+2,disease_on_drugs,30,30,-0.06666666666666665

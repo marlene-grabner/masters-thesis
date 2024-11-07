@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,24,30,0.05306261963357928
+1,disease_on_symptoms,23,15,0.6376048817696414
+2,disease_on_drugs,20,29,0.3659218859957776

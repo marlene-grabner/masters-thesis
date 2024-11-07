@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.018505079825834603
+1,disease_on_symptoms,17,18,0.5431839402427636
+2,disease_on_drugs,24,22,0.3946805006587615

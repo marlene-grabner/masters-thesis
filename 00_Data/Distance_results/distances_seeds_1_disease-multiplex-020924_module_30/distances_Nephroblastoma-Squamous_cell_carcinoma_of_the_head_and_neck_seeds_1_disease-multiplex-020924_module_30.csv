@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,25,21,-0.23598343685300205
+1,disease_on_symptoms,25,25,-0.41999999999999993
+2,disease_on_drugs,21,21,-0.23809523809523814

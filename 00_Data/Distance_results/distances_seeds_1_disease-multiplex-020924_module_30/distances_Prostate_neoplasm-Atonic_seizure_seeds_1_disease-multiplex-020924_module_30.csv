@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,17,29,0.4520680836052562
+1,disease_on_symptoms,21,16,2.7730051480051476
+2,disease_on_drugs,17,24,1.3070301291248205

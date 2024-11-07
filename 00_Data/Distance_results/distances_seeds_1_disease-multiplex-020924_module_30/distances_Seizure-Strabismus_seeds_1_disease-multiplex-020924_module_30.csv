@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,13,0.09890109890109877
+1,disease_on_symptoms,25,26,0.3340422322775263
+2,disease_on_drugs,28,9,0.16066066066066065

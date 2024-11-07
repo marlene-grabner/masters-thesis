@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,20,15,0.17857142857142883
+2,disease_on_drugs,27,30,0.18801169590643285

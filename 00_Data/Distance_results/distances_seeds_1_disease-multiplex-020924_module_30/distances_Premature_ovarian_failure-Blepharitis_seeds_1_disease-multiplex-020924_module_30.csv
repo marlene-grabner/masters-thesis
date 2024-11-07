@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,20,0.2875000000000001
+1,disease_on_symptoms,21,27,1.1550925925925926
+2,disease_on_drugs,21,19,0.37474937343358405

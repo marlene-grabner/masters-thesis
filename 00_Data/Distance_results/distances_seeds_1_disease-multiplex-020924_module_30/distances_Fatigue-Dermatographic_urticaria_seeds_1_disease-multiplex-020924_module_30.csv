@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,26,29,-0.038461538461538325
+1,disease_on_symptoms,21,14,1.3714285714285714
+2,disease_on_drugs,26,28,0.017094017094017255

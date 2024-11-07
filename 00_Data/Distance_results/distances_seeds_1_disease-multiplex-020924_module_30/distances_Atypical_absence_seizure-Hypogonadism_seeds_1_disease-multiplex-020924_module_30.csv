@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,29,30,0.22413793103448265
+1,disease_on_symptoms,15,12,1.1240740740740742
+2,disease_on_drugs,27,30,1.03401559454191

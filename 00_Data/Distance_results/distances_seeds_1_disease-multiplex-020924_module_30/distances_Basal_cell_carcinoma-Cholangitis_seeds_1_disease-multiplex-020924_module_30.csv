@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,27,0.20858194914798678
+1,disease_on_symptoms,23,22,1.0655248133509003
+2,disease_on_drugs,25,26,1.4313725490196076

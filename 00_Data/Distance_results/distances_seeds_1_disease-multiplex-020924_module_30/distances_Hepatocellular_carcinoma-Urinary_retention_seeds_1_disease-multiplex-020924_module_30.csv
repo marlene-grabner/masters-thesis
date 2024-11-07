@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,23,30,0.322038980509745
+1,disease_on_symptoms,19,18,1.5716374269005848
+2,disease_on_drugs,19,19,0.8421052631578947

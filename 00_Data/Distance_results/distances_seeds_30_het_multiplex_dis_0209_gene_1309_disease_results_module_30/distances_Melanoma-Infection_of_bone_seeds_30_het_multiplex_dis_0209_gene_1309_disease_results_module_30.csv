@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,27,30,-0.0009746588693957392
+1,disease_on_symptoms,23,18,0.9261812183339226
+2,disease_on_drugs,25,28,0.3947304582210245

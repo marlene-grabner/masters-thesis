@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.3999999999999999
+1,disease_on_symptoms,14,15,0.6216748768472904
+2,disease_on_drugs,24,22,0.4791666666666665

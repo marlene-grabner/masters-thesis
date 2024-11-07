@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,15,21,-0.08095238095238089
+2,disease_on_drugs,28,29,-0.17580589404545832

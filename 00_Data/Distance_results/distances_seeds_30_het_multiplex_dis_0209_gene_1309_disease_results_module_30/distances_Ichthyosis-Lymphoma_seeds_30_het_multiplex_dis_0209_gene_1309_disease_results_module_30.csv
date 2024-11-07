@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,28,26,-0.017857142857142794
+1,disease_on_symptoms,18,20,0.9961988304093565
+2,disease_on_drugs,25,24,0.28523809523809507

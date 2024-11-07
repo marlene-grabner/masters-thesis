@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,23,24,0.23124807277212467
+1,disease_on_symptoms,24,21,2.0503968253968257
+2,disease_on_drugs,17,24,0.8714430894308944

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,20,14,0.9623949579831932
+2,disease_on_drugs,30,22,0.34055944055944054

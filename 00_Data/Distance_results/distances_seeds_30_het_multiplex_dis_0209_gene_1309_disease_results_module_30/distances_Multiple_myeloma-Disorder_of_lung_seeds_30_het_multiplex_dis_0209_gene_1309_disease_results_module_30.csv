@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,26,27,-0.24528301886792447
+1,disease_on_symptoms,21,18,0.11935286935286937
+2,disease_on_drugs,25,24,-0.16372448979591836

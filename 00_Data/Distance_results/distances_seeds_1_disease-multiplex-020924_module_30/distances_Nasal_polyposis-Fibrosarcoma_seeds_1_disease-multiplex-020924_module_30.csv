@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,15,22,0.4107698607698609
+1,disease_on_symptoms,25,24,1.7387755102040818
+2,disease_on_drugs,10,13,0.6391304347826086

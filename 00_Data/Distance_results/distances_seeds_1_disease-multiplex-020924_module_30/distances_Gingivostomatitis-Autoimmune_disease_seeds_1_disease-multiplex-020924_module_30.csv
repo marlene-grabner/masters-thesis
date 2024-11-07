@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.05396270396270375
+1,disease_on_symptoms,23,19,1.3495150920780214
+2,disease_on_drugs,29,19,0.15112673926194797

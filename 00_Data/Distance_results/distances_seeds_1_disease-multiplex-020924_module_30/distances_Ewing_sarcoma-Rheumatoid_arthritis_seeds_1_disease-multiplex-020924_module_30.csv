@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,24,27,0.25449346405228757
+1,disease_on_symptoms,25,15,1.5333333333333332
+2,disease_on_drugs,17,25,0.6942857142857142

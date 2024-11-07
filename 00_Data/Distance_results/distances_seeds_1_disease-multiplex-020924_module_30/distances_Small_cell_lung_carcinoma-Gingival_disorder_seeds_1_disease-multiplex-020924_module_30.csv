@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,27,21,0.19940476190476186
+1,disease_on_symptoms,24,26,1.45474358974359
+2,disease_on_drugs,25,20,0.6288888888888888

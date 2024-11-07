@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,24,15,0.13076923076923075
+2,disease_on_drugs,28,26,0.15003052503052494

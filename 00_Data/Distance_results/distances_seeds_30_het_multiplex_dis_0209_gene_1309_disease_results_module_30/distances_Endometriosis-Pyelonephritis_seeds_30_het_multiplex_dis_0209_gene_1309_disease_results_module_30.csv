@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,-0.16712962962962974
+1,disease_on_symptoms,16,19,0.2148966165413535
+2,disease_on_drugs,30,19,-0.2578410311493018

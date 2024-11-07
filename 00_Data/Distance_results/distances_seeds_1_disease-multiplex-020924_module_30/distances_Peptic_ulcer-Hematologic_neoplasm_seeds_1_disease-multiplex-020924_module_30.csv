@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,22,0.17285714285714282
+1,disease_on_symptoms,14,24,1.7924498746867166
+2,disease_on_drugs,28,19,0.9798432250839868

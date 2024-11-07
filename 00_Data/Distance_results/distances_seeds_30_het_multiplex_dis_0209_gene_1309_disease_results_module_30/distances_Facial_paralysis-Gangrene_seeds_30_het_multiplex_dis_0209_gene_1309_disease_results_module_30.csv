@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Gangrene nodes,sAB
+0,disease_on_genes,22,27,-0.061224489795918324
+1,disease_on_symptoms,21,22,0.6285361924896808
+2,disease_on_drugs,17,27,-0.010645672410378282

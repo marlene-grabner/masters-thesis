@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Pain nodes,sAB
+0,disease_on_genes,14,26,0.3758241758241758
+1,disease_on_symptoms,27,21,1.566468253968254
+2,disease_on_drugs,8,26,0.8300339366515839

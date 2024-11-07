@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,29,25,0.11111111111111116
+1,disease_on_symptoms,23,20,0.6129676440849345
+2,disease_on_drugs,26,25,0.17716440422322766

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,23,26,0.0
+1,disease_on_symptoms,22,21,0.5328702305446491
+2,disease_on_drugs,21,26,0.06698620528407773

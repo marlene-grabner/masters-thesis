@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,25,19,0.718133971291866
+2,disease_on_drugs,30,25,0.21545454545454557

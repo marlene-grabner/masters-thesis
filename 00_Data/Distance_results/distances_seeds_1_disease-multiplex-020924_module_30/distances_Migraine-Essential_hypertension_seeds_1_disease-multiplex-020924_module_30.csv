@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.1041461412151069
+1,disease_on_symptoms,14,14,0.3571428571428572
+2,disease_on_drugs,29,28,0.2449874686716793

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,20,25,0.002777777777777768
+2,disease_on_drugs,30,29,0.03416130917592031

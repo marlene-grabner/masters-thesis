@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,24,29,0.224449685534591
+1,disease_on_symptoms,22,15,1.9225634725634726
+2,disease_on_drugs,24,29,0.7358490566037736

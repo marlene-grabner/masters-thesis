@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,30,0.07005494505494503
+1,disease_on_symptoms,20,15,0.2880952380952384
+2,disease_on_drugs,20,23,-0.1959049544994944

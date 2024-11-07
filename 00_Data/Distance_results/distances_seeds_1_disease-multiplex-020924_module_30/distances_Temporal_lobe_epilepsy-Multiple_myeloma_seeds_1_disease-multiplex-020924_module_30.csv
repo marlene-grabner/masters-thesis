@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,29,26,0.21912225705329158
+1,disease_on_symptoms,17,21,1.560887512899897
+2,disease_on_drugs,26,25,1.13684766214178

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Peritonitis nodes,sAB
+0,disease_on_genes,17,30,0.27171464330413
+1,disease_on_symptoms,21,17,0.4852572607990564
+2,disease_on_drugs,17,28,1.083239962651727

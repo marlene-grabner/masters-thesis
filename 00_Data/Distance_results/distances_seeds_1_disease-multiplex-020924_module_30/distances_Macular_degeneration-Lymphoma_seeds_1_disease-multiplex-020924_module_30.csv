@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.24981684981684982
+1,disease_on_symptoms,15,21,-0.0365079365079366
+2,disease_on_drugs,21,25,0.28401656314699797

@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Exanthem nodes,sAB
+0,disease_on_genes,24,30,0.15000000000000013
+1,disease_on_symptoms,22,21,0.5734923990737943
+2,disease_on_drugs,21,29,0.12646962233169146

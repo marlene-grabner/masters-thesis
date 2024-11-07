@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,23,-0.3562893081761006
+1,disease_on_symptoms,20,24,-0.6208333333333333
+2,disease_on_drugs,27,22,-0.36966604823747684

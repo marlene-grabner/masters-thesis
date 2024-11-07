@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,16,20,0.4076388888888889
+2,disease_on_drugs,23,30,0.4528301886792452

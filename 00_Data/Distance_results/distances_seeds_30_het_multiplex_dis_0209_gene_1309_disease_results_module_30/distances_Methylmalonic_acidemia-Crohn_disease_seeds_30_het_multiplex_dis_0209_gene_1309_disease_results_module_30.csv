@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,25,26,0.05882352941176472
+1,disease_on_symptoms,17,22,1.4596530920060333
+2,disease_on_drugs,21,24,0.14722222222222237

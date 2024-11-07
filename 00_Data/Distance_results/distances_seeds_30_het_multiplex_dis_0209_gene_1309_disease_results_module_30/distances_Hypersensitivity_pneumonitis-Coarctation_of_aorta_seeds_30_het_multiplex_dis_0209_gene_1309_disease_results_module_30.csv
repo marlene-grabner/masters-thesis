@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,-0.05698005698005704
+1,disease_on_symptoms,20,19,0.6444331983805669
+2,disease_on_drugs,25,24,0.06073129251700693

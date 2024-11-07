@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.2091387559808613
+1,disease_on_symptoms,23,21,3.028562017692452
+2,disease_on_drugs,21,17,0.6102756892230576

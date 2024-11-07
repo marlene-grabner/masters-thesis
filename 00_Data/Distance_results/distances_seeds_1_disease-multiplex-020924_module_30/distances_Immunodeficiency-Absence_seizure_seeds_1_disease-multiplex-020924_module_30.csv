@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,22,29,0.6251920831028337
+1,disease_on_symptoms,19,16,2.57734962406015
+2,disease_on_drugs,18,22,0.9222222222222223

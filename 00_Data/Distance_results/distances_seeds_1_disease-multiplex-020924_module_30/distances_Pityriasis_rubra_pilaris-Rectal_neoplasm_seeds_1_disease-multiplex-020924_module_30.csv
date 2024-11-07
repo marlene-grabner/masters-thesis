@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.2068965517241379
+1,disease_on_symptoms,23,21,0.7799736495388672
+2,disease_on_drugs,26,29,0.47251024837231737

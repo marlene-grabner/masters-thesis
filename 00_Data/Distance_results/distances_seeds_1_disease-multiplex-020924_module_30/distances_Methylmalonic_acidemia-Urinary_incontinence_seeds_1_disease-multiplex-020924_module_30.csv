@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,25,26,0.31401206636500745
+1,disease_on_symptoms,16,20,1.3055555555555554
+2,disease_on_drugs,17,20,0.8895071542130366

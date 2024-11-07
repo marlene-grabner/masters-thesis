@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,-0.07870370370370383
+1,disease_on_symptoms,21,23,1.1083662714097497
+2,disease_on_drugs,25,21,-0.05035196687370602

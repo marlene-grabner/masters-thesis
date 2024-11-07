@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,20,19,0.5911943319838056
+2,disease_on_drugs,25,30,0.30393939393939395

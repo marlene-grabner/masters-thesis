@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,25,25,-0.12
+1,disease_on_symptoms,19,21,0.36083959899749374
+2,disease_on_drugs,22,21,-0.046108929829860035

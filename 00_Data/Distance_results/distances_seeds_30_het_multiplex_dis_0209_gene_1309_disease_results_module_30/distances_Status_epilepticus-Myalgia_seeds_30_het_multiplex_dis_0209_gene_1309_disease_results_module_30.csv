@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,16,0.17381535947712412
+2,disease_on_drugs,30,29,-0.05146113383985962

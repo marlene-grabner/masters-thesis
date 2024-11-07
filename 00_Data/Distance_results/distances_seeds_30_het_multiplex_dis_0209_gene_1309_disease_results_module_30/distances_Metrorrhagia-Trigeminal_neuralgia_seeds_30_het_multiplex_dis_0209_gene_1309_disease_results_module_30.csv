@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,30,-0.08771929824561409
+1,disease_on_symptoms,17,15,-0.02365196078431353
+2,disease_on_drugs,26,25,-0.11736048265460042

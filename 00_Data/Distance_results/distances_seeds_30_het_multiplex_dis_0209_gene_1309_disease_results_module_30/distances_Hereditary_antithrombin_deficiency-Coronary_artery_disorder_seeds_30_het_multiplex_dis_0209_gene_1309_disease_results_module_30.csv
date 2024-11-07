@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,23,0.2919863597612957
+1,disease_on_symptoms,16,19,0.9653195488721802
+2,disease_on_drugs,23,22,0.15981554677206855

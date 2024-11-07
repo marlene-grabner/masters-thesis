@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,23,26,0.2828987782403931
+1,disease_on_symptoms,25,17,0.08885154061624645
+2,disease_on_drugs,22,18,0.2151515151515151

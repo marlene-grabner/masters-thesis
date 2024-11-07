@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,30,-0.1607142857142857
+1,disease_on_symptoms,21,21,0.1904761904761907
+2,disease_on_drugs,26,29,-0.01966481794067998

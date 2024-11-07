@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,12,19,0.8040464063384267
+2,disease_on_drugs,21,19,-0.08822055137844598

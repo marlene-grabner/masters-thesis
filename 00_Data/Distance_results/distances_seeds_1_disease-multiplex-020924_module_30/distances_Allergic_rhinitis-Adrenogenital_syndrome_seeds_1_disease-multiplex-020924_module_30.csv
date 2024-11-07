@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,21,30,0.5252100840336136
+1,disease_on_symptoms,22,7,2.104343931930139
+2,disease_on_drugs,21,22,0.5347327091513137

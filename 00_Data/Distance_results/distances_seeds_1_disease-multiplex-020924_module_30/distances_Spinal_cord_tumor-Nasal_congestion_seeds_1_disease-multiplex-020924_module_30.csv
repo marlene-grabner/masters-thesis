@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,22,30,-0.07447552447552441
+1,disease_on_symptoms,22,15,1.0578214578214578
+2,disease_on_drugs,14,23,0.519766661071009

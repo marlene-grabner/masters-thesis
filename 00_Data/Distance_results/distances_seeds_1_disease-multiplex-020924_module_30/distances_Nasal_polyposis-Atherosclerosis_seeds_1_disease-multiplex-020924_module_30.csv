@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,15,30,0.3666666666666667
+1,disease_on_symptoms,25,13,1.131983805668016
+2,disease_on_drugs,10,29,0.2846153846153845

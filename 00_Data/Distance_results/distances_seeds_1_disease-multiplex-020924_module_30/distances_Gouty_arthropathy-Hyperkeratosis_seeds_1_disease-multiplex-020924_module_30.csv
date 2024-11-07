@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,25,26,0.3713574660633485
+1,disease_on_symptoms,13,21,0.973389355742297
+2,disease_on_drugs,16,23,0.0969551282051282

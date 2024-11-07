@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,27,25,0.21153846153846145
+1,disease_on_symptoms,18,20,1.2128654970760233
+2,disease_on_drugs,24,18,0.314484126984127

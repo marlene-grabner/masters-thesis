@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,27,0.13742690058479523
+1,disease_on_symptoms,22,15,1.303972153972154
+2,disease_on_drugs,29,25,0.3382375478927202

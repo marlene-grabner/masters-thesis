@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,24,22,0.2113801054018445
+1,disease_on_symptoms,22,22,0.9090909090909092
+2,disease_on_drugs,24,14,0.15601503759398483

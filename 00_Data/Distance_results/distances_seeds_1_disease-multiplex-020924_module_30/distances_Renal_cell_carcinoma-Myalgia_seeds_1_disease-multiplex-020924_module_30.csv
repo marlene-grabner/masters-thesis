@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Myalgia nodes,sAB
+0,disease_on_genes,25,30,0.07181818181818178
+1,disease_on_symptoms,24,16,1.9458333333333333
+2,disease_on_drugs,20,29,0.8163265306122449

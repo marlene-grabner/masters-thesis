@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,27,0.2777777777777779
+1,disease_on_symptoms,19,17,1.020983832129343
+2,disease_on_drugs,20,26,0.7191471571906354

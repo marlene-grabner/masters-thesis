@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.28754139879212914
+1,disease_on_symptoms,14,16,1.388690476190476
+2,disease_on_drugs,26,25,0.6670437405731524

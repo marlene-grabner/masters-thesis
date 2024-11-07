@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.03358659653224216
+1,disease_on_symptoms,14,16,0.042261904761904834
+2,disease_on_drugs,29,22,0.05882352941176472

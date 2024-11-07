@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,24,23,0.2761139377119952
+1,disease_on_symptoms,18,19,1.6497155049786627
+2,disease_on_drugs,18,19,0.9189189189189189

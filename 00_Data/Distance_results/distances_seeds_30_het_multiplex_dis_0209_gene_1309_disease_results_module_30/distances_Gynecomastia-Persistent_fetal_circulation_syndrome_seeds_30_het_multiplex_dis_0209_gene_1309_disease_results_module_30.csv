@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.20370370370370372
+1,disease_on_symptoms,15,22,0.47624897624897633
+2,disease_on_drugs,29,21,-0.005254515599343312

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Back_pain nodes,sAB
+0,disease_on_genes,26,30,0.0714285714285714
+1,disease_on_symptoms,21,15,0.1428571428571428
+2,disease_on_drugs,25,23,0.035181159420289765

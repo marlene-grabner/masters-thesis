@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,23,30,0.1256631118403062
+1,disease_on_symptoms,23,14,0.7782860500251805
+2,disease_on_drugs,18,26,0.6196581196581197

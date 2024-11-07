@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Glioma nodes,sAB
+0,disease_on_genes,26,22,0.37631118881118875
+1,disease_on_symptoms,21,24,1.0839285714285716
+2,disease_on_drugs,24,20,1.2761363636363638

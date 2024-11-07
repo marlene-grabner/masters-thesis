@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,0.28021978021978033
+1,disease_on_symptoms,28,13,1.0401031894934332
+2,disease_on_drugs,23,29,0.5551839464882942

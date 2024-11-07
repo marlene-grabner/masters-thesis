@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.2271303258145363
+1,disease_on_symptoms,12,19,0.6577532541029996
+2,disease_on_drugs,30,26,0.839102564102564

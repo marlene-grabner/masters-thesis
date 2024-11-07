@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,21,0.44425770308123247
+1,disease_on_symptoms,22,26,1.921182983682984
+2,disease_on_drugs,15,20,0.9857142857142858

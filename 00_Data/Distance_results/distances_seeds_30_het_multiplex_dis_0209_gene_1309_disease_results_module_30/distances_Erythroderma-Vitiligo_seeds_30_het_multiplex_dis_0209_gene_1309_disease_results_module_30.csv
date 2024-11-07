@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,20,19,0.2445681511470985
+2,disease_on_drugs,29,25,-0.01591315453384401

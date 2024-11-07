@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999984
+1,disease_on_symptoms,13,18,0.026192445547284393
+2,disease_on_drugs,22,24,-0.1297760210803689

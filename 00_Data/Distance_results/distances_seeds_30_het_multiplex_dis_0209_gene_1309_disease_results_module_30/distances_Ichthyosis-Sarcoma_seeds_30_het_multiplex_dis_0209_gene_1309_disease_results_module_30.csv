@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,30,0.12007389162561588
+1,disease_on_symptoms,18,23,1.1995699304819132
+2,disease_on_drugs,25,24,0.22231292517006818

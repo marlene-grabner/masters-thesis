@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,25,23,0.3340942028985505
+1,disease_on_symptoms,17,25,0.9892436974789915
+2,disease_on_drugs,24,18,0.9940476190476191

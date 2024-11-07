@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,20,13,0.31550116550116547
+2,disease_on_drugs,26,24,0.21621794871794897

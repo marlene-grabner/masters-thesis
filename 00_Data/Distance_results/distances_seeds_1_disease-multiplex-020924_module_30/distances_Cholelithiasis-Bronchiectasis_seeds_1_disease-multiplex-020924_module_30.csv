@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,25,30,0.2887878787878788
+1,disease_on_symptoms,19,15,0.7968008255933952
+2,disease_on_drugs,18,26,0.5701243201243202

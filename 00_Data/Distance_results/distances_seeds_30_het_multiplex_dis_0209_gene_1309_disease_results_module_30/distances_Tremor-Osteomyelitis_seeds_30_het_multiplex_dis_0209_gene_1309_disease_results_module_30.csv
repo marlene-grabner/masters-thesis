@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,17,22,1.2387220622514739
+2,disease_on_drugs,24,28,0.44597069597069594

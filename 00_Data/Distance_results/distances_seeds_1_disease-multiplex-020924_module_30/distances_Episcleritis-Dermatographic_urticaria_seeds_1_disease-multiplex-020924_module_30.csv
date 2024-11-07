@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,22,14,0.49567099567099593
+2,disease_on_drugs,29,28,0.17695099818511784

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,23,30,0.07652447361225034
+1,disease_on_symptoms,19,19,0.9736842105263159
+2,disease_on_drugs,11,22,0.1515151515151516

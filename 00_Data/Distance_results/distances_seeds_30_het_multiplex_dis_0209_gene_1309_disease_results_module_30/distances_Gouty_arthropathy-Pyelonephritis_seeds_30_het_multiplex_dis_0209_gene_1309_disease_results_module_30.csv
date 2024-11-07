@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,28,24,-0.040064102564102755
+1,disease_on_symptoms,18,19,0.5312549391496764
+2,disease_on_drugs,23,19,-0.07829355998692367

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.25939849624060174
+1,disease_on_symptoms,19,21,2.1656641604010023
+2,disease_on_drugs,30,17,0.574468085106383

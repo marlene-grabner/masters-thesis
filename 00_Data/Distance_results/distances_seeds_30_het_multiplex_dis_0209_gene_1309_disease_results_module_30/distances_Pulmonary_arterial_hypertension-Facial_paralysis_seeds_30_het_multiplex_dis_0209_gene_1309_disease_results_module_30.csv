@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,22,-0.14
+1,disease_on_symptoms,17,21,0.18966533982013867
+2,disease_on_drugs,25,17,-0.10218487394957987

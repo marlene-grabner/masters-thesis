@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Periodontitis nodes,sAB
+0,disease_on_genes,27,23,0.21626409017713377
+1,disease_on_symptoms,22,25,0.946943907156673
+2,disease_on_drugs,24,22,0.8901515151515151

@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,16,15,-0.3530241935483871
+2,disease_on_drugs,30,30,-0.08333333333333326

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.23099415204678364
+1,disease_on_symptoms,17,18,0.31447245564892645
+2,disease_on_drugs,24,25,-0.10297619047619055

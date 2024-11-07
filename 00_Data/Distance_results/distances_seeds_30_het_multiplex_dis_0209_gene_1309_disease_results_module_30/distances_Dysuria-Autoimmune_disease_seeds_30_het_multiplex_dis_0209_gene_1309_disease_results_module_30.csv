@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,0.1428571428571428
+1,disease_on_symptoms,12,20,1.5708333333333333
+2,disease_on_drugs,21,25,0.28679089026915117

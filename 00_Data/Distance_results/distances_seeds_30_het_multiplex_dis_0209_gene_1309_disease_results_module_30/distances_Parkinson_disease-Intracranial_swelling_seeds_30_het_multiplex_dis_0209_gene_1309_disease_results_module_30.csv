@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,23,30,-0.2075471698113207
+1,disease_on_symptoms,23,11,0.4302487793536389
+2,disease_on_drugs,22,21,-0.18941910802375905

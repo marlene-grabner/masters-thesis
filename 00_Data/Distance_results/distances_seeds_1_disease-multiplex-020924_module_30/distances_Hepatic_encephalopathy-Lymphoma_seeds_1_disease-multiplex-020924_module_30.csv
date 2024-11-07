@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,9,26,0.13156288156288154
+1,disease_on_symptoms,27,21,1.7371031746031744
+2,disease_on_drugs,9,25,0.6658823529411764

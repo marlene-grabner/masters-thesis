@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.10433875677930748
+1,disease_on_symptoms,14,27,0.9066976384049554
+2,disease_on_drugs,24,16,0.6875

@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,27,13,0.42257834757834734
+1,disease_on_symptoms,20,25,4.875
+2,disease_on_drugs,15,8,1.0

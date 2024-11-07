@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.27118644067796605
+1,disease_on_symptoms,9,15,1.0194444444444446
+2,disease_on_drugs,11,29,1.0545454545454547

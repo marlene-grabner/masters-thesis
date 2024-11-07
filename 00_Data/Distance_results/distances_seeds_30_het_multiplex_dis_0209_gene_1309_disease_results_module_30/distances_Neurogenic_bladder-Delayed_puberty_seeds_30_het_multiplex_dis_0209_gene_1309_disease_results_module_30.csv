@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,16,-0.03349673202614367
+2,disease_on_drugs,21,29,-0.13497536945812816

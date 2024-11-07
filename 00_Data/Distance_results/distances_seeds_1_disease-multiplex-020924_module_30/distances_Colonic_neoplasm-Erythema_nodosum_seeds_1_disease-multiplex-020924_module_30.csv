@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.2752463054187193
+1,disease_on_symptoms,19,23,0.5750245178162798
+2,disease_on_drugs,29,28,0.24530075187969924

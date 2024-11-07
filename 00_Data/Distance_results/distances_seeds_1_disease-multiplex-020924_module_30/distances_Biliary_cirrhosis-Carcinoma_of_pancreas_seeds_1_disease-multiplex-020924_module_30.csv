@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,23,0.5510204081632653
+1,disease_on_symptoms,15,25,1.2200000000000002
+2,disease_on_drugs,15,21,1.0999999999999999

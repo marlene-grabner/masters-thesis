@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,22,30,0.25256410256410255
+1,disease_on_symptoms,17,16,1.6671122994652405
+2,disease_on_drugs,21,23,0.591614906832298

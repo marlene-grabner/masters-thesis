@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,21,23,0.18271221532091086
+1,disease_on_symptoms,22,19,1.4688411716653054
+2,disease_on_drugs,21,19,0.8321428571428573

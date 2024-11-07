@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.5972709551656921
+1,disease_on_symptoms,22,27,1.5638184566755995
+2,disease_on_drugs,15,26,0.9103189493433397

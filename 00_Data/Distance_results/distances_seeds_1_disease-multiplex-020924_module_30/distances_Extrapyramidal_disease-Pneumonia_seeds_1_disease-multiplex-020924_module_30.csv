@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Pneumonia nodes,sAB
+0,disease_on_genes,14,30,0.5445887445887445
+1,disease_on_symptoms,25,26,2.2578733031674205
+2,disease_on_drugs,10,28,1.0026315789473685

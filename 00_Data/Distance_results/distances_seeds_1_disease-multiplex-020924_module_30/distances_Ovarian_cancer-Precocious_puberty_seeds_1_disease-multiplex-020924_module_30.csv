@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,0.019298245614035148
+1,disease_on_symptoms,17,14,0.6924640824071564
+2,disease_on_drugs,25,24,-0.08163265306122447

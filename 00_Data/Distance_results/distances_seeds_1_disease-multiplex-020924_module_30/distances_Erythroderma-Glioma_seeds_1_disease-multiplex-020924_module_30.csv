@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Glioma nodes,sAB
+0,disease_on_genes,30,22,0.3503496503496504
+1,disease_on_symptoms,19,24,0.9375509995920033
+2,disease_on_drugs,28,20,0.7250000000000001

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,28,28,0.3035714285714284
+1,disease_on_symptoms,14,23,1.2396760114151417
+2,disease_on_drugs,24,28,0.7898351648351649

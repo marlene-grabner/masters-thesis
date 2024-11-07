@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,24,27,0.17652173913043478
+1,disease_on_symptoms,23,17,1.3512787723785167
+2,disease_on_drugs,20,26,1.0452341137123746

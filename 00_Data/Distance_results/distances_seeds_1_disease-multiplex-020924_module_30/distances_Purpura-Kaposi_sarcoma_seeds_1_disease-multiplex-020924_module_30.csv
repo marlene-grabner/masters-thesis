@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.21710444027517206
+1,disease_on_symptoms,17,27,2.484402852049911
+2,disease_on_drugs,20,13,0.8484848484848484

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,22,15,-0.18579033579033588
+2,disease_on_drugs,15,29,-0.04905956112852672

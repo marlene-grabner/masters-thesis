@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,12,23,1.6226190476190476
+2,disease_on_drugs,17,30,0.29612015018773463

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.3666666666666667
+1,disease_on_symptoms,17,24,1.412870636059302
+2,disease_on_drugs,24,15,0.4644230769230768

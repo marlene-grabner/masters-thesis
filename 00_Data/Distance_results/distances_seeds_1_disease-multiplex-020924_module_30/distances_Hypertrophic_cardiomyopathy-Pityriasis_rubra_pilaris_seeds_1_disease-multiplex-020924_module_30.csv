@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,28,0.3804597701149426
+1,disease_on_symptoms,17,23,1.9797953964194375
+2,disease_on_drugs,17,26,0.2406082289803222

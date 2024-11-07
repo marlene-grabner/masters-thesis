@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.05630252100840316
+1,disease_on_symptoms,17,22,0.9226655697243931
+2,disease_on_drugs,17,20,-0.15202702702702697

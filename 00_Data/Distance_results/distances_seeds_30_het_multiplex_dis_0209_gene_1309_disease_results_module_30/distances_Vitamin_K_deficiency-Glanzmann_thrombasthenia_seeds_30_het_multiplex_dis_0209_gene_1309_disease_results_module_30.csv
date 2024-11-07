@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,-0.04081632653061229
+1,disease_on_symptoms,21,19,0.7582080200501253
+2,disease_on_drugs,21,24,0.08511904761904754

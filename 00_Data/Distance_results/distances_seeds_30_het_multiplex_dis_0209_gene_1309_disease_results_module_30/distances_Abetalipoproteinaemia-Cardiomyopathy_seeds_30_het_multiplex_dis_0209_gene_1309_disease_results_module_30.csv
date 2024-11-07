@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,14,25,-0.20391941391941382
+1,disease_on_symptoms,26,21,-0.0809367937027512
+2,disease_on_drugs,14,24,0.012531328320801949

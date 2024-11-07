@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Lymphoma nodes,sAB
+0,disease_on_genes,17,26,0.34055035252025667
+1,disease_on_symptoms,21,21,1.785714285714286
+2,disease_on_drugs,14,25,0.6523076923076923

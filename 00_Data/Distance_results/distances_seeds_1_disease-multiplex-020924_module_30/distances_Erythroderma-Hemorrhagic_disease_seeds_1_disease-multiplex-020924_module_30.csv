@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.33657407407407414
+1,disease_on_symptoms,19,19,0.9473684210526314
+2,disease_on_drugs,28,19,0.5755879059350506

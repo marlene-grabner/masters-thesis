@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,0.09840120663650098
+1,disease_on_symptoms,18,20,1.0514619883040939
+2,disease_on_drugs,23,21,0.40909090909090917

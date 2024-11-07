@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,23,30,0.2075471698113207
+1,disease_on_symptoms,24,13,0.8435117810117809
+2,disease_on_drugs,22,29,0.7615864527629235

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,20,23,0.11908493427704747
+1,disease_on_symptoms,24,21,0.6347222222222222
+2,disease_on_drugs,18,19,0.6719219219219219

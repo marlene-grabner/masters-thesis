@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,29,26,0.19884253677357133
+1,disease_on_symptoms,23,18,0.9612348297396016
+2,disease_on_drugs,27,23,0.3829629629629627

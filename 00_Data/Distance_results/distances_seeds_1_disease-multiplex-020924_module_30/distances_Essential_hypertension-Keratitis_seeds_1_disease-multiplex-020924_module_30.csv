@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,28,0.08928571428571419
+1,disease_on_symptoms,14,25,1.2772161172161174
+2,disease_on_drugs,28,23,0.40887224454999394

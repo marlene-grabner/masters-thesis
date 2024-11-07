@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,20,28,0.07261904761904758
+1,disease_on_symptoms,23,15,1.1779557589626242
+2,disease_on_drugs,18,21,0.32478632478632474

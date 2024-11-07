@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666683
+1,disease_on_symptoms,18,15,0.48838383838383836
+2,disease_on_drugs,25,22,0.1302127659574468

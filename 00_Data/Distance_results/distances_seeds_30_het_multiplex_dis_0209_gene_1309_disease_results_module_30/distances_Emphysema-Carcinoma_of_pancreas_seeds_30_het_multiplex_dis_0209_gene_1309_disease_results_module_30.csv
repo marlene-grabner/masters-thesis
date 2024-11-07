@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,18,18,0.11111111111111116
+2,disease_on_drugs,27,21,0.051587301587301404

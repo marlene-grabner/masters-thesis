@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.017200328407224852
+1,disease_on_symptoms,15,19,0.711971104231166
+2,disease_on_drugs,30,25,0.36272727272727256

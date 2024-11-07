@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,24,24,-0.0625
+1,disease_on_symptoms,26,17,0.5581921498474167
+2,disease_on_drugs,15,23,0.09267734553775764

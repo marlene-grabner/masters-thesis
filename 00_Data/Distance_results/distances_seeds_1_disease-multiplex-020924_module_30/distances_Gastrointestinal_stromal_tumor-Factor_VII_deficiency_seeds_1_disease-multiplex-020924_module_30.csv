@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.3521376811594201
+1,disease_on_symptoms,20,23,2.6943377148634986
+2,disease_on_drugs,19,21,1.2523809523809522

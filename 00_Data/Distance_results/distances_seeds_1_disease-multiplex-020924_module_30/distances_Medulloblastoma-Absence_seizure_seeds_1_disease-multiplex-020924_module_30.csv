@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.34827586206896544
+1,disease_on_symptoms,19,16,1.9487781954887218
+2,disease_on_drugs,24,22,1.0443840579710142

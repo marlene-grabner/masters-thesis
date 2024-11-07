@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Pain nodes,sAB
+0,disease_on_genes,26,26,0.11538461538461542
+1,disease_on_symptoms,23,21,1.103331451157538
+2,disease_on_drugs,25,26,0.5297888386123681

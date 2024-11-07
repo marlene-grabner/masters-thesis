@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,29,28,0.35117967332123423
+1,disease_on_symptoms,17,23,1.2356777493606137
+2,disease_on_drugs,26,26,0.4423076923076923

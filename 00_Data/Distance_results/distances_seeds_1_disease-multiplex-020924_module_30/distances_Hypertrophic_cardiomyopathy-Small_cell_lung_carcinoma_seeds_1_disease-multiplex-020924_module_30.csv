@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.35263157894736863
+1,disease_on_symptoms,17,24,2.2536465805834527
+2,disease_on_drugs,17,25,0.9161904761904762

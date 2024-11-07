@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,25,25,-0.16000000000000003
+1,disease_on_symptoms,24,24,0.04166666666666674
+2,disease_on_drugs,20,23,-0.046511627906976716

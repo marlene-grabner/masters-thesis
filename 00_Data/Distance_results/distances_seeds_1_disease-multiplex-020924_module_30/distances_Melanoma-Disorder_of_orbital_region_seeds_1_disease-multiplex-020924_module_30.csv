@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,24,17,0.1262553802008608
+1,disease_on_symptoms,23,27,2.510821256038647
+2,disease_on_drugs,22,16,0.6480263157894737

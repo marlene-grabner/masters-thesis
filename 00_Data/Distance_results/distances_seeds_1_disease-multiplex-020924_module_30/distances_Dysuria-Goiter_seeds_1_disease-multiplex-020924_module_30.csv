@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3870267663371114
+1,disease_on_symptoms,16,15,1.167002688172043
+2,disease_on_drugs,23,16,0.9013377926421404

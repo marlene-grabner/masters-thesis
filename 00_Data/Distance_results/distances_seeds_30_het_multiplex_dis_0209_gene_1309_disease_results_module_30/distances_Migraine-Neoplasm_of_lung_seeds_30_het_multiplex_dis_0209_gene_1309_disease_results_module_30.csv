@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,12,19,0.1648273910582907
+2,disease_on_drugs,29,30,0.10109097993376182

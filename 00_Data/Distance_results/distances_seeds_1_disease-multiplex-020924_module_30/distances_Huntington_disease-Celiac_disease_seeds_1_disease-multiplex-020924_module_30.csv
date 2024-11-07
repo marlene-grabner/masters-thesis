@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.3074885273258239
+1,disease_on_symptoms,16,22,2.1496710526315788
+2,disease_on_drugs,27,15,0.7285714285714286

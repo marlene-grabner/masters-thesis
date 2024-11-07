@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,24,0.0185185185185186
+1,disease_on_symptoms,18,23,0.9452692353010488
+2,disease_on_drugs,28,22,0.22097402597402604

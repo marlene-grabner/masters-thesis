@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,23,30,0.44995898277276436
+1,disease_on_symptoms,25,12,0.7696396396396397
+2,disease_on_drugs,18,22,0.7666666666666666

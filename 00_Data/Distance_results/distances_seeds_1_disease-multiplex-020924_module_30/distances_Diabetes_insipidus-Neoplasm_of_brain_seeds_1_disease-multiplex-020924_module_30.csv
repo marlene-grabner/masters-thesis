@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,24,22,0.28252635046113306
+1,disease_on_symptoms,18,23,1.0341993637327676
+2,disease_on_drugs,18,20,0.8973684210526316

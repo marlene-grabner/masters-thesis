@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Uveitis nodes,sAB
+0,disease_on_genes,29,30,0.5765536723163842
+1,disease_on_symptoms,18,21,1.4554334554334556
+2,disease_on_drugs,22,27,0.6141345427059712

@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,12,16,0.8556547619047619
+2,disease_on_drugs,21,27,-0.11375661375661372

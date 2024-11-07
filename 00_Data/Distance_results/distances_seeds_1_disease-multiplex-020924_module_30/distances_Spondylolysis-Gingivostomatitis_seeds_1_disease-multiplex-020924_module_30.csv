@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,27,30,0.0873294346978557
+1,disease_on_symptoms,19,23,1.1753296284188735
+2,disease_on_drugs,20,29,0.5763370865587614

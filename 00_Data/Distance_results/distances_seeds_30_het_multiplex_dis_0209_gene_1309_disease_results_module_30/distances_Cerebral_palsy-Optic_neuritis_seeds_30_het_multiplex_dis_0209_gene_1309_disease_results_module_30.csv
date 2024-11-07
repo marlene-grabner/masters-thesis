@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,13,21,1.0003232062055594
+2,disease_on_drugs,21,27,-0.1858465608465607

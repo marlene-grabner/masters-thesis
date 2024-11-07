@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.471911421911422
+1,disease_on_symptoms,17,19,1.6898004815961474
+2,disease_on_drugs,17,19,0.7514619883040936

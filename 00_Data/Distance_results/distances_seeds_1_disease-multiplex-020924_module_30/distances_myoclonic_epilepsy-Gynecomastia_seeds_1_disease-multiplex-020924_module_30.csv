@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,0.4666666666666668
+1,disease_on_symptoms,16,16,1.4375
+2,disease_on_drugs,23,24,0.9573889916743759

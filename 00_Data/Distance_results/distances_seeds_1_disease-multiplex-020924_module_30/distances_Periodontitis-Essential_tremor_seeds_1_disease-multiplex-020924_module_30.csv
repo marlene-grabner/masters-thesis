@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,23,21,0.27569169960474316
+1,disease_on_symptoms,25,20,1.3627777777777779
+2,disease_on_drugs,22,19,0.6372097094176683

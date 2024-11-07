@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,22,13,0.05359640359640361
+2,disease_on_drugs,25,24,-0.3291666666666666

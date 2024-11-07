@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,18,26,0.4883449883449882
+1,disease_on_symptoms,18,21,3.445970695970696
+2,disease_on_drugs,10,25,0.32428571428571407

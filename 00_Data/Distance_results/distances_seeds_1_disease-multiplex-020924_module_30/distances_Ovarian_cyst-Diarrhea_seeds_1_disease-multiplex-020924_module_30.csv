@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Diarrhea nodes,sAB
+0,disease_on_genes,20,27,0.06644996059889685
+1,disease_on_symptoms,22,19,0.7761990897420938
+2,disease_on_drugs,15,26,0.5393058161350843

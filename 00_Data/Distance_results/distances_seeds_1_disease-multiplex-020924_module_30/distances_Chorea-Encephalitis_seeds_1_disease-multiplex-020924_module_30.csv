@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Encephalitis nodes,sAB
+0,disease_on_genes,14,28,0.7380952380952381
+1,disease_on_symptoms,27,17,2.366904337492573
+2,disease_on_drugs,8,18,1.014423076923077

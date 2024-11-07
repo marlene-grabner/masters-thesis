@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,14,26,0.4892857142857143
+1,disease_on_symptoms,25,15,2.5233333333333334
+2,disease_on_drugs,10,26,0.7

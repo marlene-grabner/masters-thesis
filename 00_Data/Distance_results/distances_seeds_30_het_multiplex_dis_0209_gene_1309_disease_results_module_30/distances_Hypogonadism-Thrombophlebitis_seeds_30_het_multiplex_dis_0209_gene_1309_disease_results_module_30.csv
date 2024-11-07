@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,17,18,0.3176470588235296
+2,disease_on_drugs,29,29,0.1206896551724137

@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,0.017241379310344973
+1,disease_on_symptoms,22,16,0.3017344497607657
+2,disease_on_drugs,29,25,0.17049808429118785

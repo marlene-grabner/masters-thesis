@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,29,30,0.01665692577440092
+1,disease_on_symptoms,20,14,0.36911764705882333
+2,disease_on_drugs,24,29,-0.01050477119930604

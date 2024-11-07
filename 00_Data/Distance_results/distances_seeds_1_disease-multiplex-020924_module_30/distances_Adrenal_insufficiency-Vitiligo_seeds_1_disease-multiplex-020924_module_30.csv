@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Vitiligo nodes,sAB
+0,disease_on_genes,17,24,0.3705463892874221
+1,disease_on_symptoms,21,22,2.977725762609484
+2,disease_on_drugs,14,11,0.28

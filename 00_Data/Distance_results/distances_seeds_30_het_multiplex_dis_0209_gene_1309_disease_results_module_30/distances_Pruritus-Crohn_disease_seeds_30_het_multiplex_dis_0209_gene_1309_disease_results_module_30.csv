@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,26,-0.1317260656883299
+1,disease_on_symptoms,21,22,0.39119601328903664
+2,disease_on_drugs,27,24,-0.13534858387799564

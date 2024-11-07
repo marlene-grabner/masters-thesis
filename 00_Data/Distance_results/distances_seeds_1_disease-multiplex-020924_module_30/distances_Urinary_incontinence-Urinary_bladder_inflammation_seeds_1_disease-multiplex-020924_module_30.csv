@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,-0.0769683257918552
+1,disease_on_symptoms,20,22,0.15422077922077904
+2,disease_on_drugs,20,24,0.07575757575757569

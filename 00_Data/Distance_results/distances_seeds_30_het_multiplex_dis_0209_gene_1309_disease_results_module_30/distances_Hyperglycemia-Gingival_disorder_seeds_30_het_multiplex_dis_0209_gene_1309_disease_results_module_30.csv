@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,17,19,0.37856897144822854
+2,disease_on_drugs,26,24,-0.0028846153846153744

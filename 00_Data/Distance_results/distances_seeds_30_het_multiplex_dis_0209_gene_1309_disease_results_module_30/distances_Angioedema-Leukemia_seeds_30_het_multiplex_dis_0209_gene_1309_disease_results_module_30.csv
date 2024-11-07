@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,18,21,0.4090354090354089
+2,disease_on_drugs,26,30,0.2119963369963369

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,21,30,0.3137254901960784
+1,disease_on_symptoms,24,12,1.3680555555555554
+2,disease_on_drugs,20,22,0.9988095238095238

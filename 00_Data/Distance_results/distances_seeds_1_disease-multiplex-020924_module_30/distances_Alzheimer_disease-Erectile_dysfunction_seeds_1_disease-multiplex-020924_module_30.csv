@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,20,30,0.09833333333333316
+1,disease_on_symptoms,23,16,1.2126881270903012
+2,disease_on_drugs,18,30,0.38749999999999996

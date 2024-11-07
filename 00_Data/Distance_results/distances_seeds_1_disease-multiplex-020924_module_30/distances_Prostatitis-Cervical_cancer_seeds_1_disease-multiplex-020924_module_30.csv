@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.31832358674463945
+1,disease_on_symptoms,20,23,1.1915824064711829
+2,disease_on_drugs,29,15,0.6064263322884011

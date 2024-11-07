@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.034502923976608146
+1,disease_on_symptoms,15,15,0.4999999999999998
+2,disease_on_drugs,22,26,0.12820512820512842

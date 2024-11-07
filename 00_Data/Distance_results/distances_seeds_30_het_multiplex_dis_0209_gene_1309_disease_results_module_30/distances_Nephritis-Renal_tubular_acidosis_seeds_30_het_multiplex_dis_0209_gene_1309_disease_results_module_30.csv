@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,14,0.2675521821631879
+2,disease_on_drugs,25,27,-0.015470085470085548

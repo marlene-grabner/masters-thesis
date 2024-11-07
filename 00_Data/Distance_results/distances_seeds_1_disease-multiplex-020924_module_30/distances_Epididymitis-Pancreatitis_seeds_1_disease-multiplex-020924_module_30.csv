@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,29,30,-0.2364504188583676
+1,disease_on_symptoms,23,20,-0.29678968655207294
+2,disease_on_drugs,27,30,-0.3528265107212477

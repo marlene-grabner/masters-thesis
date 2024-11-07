@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.14148351648351665
+1,disease_on_symptoms,11,25,1.0476767676767678
+2,disease_on_drugs,27,25,0.3452136752136754

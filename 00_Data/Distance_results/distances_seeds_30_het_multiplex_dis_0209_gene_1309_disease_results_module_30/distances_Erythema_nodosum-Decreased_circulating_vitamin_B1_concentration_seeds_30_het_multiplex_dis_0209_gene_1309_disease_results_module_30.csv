@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,22,17,0.33700123406005744
+2,disease_on_drugs,29,25,0.14309067688378052

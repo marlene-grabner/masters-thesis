@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,16,25,0.1871341463414633
+1,disease_on_symptoms,21,25,3.1681159420289857
+2,disease_on_drugs,15,23,0.8249427917620138

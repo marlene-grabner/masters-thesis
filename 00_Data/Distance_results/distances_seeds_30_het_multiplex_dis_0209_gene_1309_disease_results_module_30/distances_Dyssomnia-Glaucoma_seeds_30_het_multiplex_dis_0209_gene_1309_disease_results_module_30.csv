@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Glaucoma nodes,sAB
+0,disease_on_genes,18,30,-0.22499999999999998
+1,disease_on_symptoms,21,18,1.4917582417582416
+2,disease_on_drugs,17,28,-0.190359477124183

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,29,21,0.040000000000000036
+1,disease_on_symptoms,19,22,1.3440891585949353
+2,disease_on_drugs,29,19,0.157214156079855

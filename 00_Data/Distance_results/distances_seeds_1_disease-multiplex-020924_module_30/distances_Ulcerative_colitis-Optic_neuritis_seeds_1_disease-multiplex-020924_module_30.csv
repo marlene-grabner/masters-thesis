@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.0370370370370372
+1,disease_on_symptoms,20,16,0.6951388888888888
+2,disease_on_drugs,25,27,-0.0370370370370372

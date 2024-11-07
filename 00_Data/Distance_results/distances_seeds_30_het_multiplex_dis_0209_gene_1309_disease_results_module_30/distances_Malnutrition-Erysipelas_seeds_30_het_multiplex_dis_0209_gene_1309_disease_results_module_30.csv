@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,14,18,-0.17113095238095233
+2,disease_on_drugs,29,29,-0.1206896551724137

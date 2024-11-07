@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,29,30,0.47457627118644075
+1,disease_on_symptoms,18,16,1.3770424836601305
+2,disease_on_drugs,22,24,0.8940217391304348

@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.16916033508669415
+1,disease_on_symptoms,15,22,-0.07911547911547911
+2,disease_on_drugs,22,29,0.12474645030425968

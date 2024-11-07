@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.13908045977011496
+1,disease_on_symptoms,14,26,1.3195054945054947
+2,disease_on_drugs,29,28,0.40319548872180455

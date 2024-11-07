@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Goiter nodes,sAB
+0,disease_on_genes,20,26,0.5187290969899667
+1,disease_on_symptoms,26,15,0.8694496560350222
+2,disease_on_drugs,13,16,0.8076923076923077

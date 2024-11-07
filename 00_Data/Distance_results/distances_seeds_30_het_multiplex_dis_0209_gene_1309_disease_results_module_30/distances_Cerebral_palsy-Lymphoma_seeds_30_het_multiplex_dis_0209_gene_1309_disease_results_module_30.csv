@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.1428571428571428
+1,disease_on_symptoms,13,20,1.46013986013986
+2,disease_on_drugs,21,24,0.2150793650793652

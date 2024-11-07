@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,24,27,0.4900599128540304
+1,disease_on_symptoms,18,23,0.982237539766702
+2,disease_on_drugs,18,15,1.0424242424242423

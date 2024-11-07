@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,21,0.41587301587301573
+1,disease_on_symptoms,22,24,1.6914525691699605
+2,disease_on_drugs,29,14,0.760138618398442

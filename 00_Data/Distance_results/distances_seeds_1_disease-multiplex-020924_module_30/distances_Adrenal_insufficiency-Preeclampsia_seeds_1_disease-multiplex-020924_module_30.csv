@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,17,26,0.15047879616963056
+1,disease_on_symptoms,21,17,1.67624944714728
+2,disease_on_drugs,14,23,0.6809635722679199

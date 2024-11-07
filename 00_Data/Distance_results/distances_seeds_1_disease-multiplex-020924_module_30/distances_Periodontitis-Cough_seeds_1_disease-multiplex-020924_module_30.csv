@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Cough nodes,sAB
+0,disease_on_genes,23,27,-0.04373590982286624
+1,disease_on_symptoms,25,21,0.8223188405797099
+2,disease_on_drugs,22,27,0.1396791039648182

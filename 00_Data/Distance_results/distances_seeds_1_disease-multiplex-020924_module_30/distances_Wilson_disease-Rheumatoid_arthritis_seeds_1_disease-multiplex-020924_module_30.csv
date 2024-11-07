@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,23,27,0.25574879227053127
+1,disease_on_symptoms,19,15,2.1110423116615067
+2,disease_on_drugs,11,25,0.6744444444444444

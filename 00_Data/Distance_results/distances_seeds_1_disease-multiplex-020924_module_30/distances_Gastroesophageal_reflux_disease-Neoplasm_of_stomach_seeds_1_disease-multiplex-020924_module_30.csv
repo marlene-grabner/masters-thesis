@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,26,23,0.12244897959183665
+1,disease_on_symptoms,17,24,0.2449485891917742
+2,disease_on_drugs,25,22,0.8083365570599612

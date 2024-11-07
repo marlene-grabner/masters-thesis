@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.3573260073260074
+1,disease_on_symptoms,17,15,-0.29828431372549025
+2,disease_on_drugs,24,30,-0.2143518518518518

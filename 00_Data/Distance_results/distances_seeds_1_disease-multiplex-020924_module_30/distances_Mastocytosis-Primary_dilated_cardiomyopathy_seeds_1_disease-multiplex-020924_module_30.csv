@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,18,30,0.7638888888888891
+1,disease_on_symptoms,28,25,1.5355390835579512
+2,disease_on_drugs,17,7,0.9530812324929974

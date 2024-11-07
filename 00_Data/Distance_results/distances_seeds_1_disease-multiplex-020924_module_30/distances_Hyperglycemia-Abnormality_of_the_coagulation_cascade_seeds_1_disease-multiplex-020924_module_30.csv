@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Abnormality_of_the_coagulation_cascade nodes,sAB
+0,disease_on_genes,30,23,0.264342357123325
+1,disease_on_symptoms,14,23,1.8912204129595436
+2,disease_on_drugs,26,18,0.6843434343434343

@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,-0.15384615384615385
+1,disease_on_symptoms,22,17,0.011072261072261114
+2,disease_on_drugs,26,24,-0.20038461538461538

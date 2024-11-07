@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,21,19,0.7156015037593986
+2,disease_on_drugs,29,25,0.5560153256704983

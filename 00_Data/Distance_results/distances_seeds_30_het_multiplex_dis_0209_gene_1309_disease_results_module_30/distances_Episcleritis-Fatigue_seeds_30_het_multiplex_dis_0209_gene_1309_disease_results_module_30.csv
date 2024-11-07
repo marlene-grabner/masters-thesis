@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.2362637362637363
+1,disease_on_symptoms,18,16,0.9812091503267972
+2,disease_on_drugs,28,26,-0.167785917785918

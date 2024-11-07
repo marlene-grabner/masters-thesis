@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Prostatitis nodes,sAB
+0,disease_on_genes,27,30,-0.09064327485380119
+1,disease_on_symptoms,18,22,0.324747474747475
+2,disease_on_drugs,25,28,0.07486522911051208

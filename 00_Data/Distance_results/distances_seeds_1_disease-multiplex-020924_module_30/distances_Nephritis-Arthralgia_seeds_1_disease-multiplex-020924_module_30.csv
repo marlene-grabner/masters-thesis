@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,18,19,0.6776118223486647
+2,disease_on_drugs,27,30,-0.0399610136452242

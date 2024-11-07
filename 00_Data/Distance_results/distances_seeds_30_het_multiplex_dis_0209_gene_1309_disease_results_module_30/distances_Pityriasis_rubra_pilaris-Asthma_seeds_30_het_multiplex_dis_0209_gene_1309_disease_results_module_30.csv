@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.2685754985754988
+1,disease_on_symptoms,21,20,0.19654471544715446
+2,disease_on_drugs,25,22,-0.2116634429400387

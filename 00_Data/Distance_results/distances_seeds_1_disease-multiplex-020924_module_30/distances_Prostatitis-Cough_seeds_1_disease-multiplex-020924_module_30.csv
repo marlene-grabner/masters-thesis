@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.020077972709551917
+1,disease_on_symptoms,20,21,0.880691056910569
+2,disease_on_drugs,29,27,0.1249087757708447

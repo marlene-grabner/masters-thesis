@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,26,-0.15384615384615385
+1,disease_on_symptoms,22,21,0.8336101882613511
+2,disease_on_drugs,24,26,-0.05705128205128185

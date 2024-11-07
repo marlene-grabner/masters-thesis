@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,26,22,0.12717247291715372
+1,disease_on_symptoms,21,20,1.8533972125435538
+2,disease_on_drugs,24,19,0.06364749082007326

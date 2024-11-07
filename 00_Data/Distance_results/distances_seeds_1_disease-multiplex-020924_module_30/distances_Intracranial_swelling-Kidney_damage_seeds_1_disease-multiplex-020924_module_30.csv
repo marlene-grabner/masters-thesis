@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.32333333333333325
+1,disease_on_symptoms,14,26,-0.031043956043955934
+2,disease_on_drugs,24,13,0.30037248787248805

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,0.0
+1,disease_on_symptoms,22,25,0.5083752417794971
+2,disease_on_drugs,24,21,0.27063492063492056

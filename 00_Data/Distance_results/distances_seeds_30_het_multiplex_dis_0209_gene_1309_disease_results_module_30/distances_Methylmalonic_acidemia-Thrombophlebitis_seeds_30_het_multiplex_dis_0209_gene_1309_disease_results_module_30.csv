@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,17,18,0.7495798319327731
+2,disease_on_drugs,21,29,0.11264367816091947

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,0.30648148148148135
+1,disease_on_symptoms,13,26,1.6794871794871793
+2,disease_on_drugs,18,15,0.8863636363636362

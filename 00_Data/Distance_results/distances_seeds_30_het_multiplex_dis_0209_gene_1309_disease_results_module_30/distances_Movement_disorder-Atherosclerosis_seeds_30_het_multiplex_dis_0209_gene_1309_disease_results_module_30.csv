@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,17,14,0.14041745730550304
+2,disease_on_drugs,26,29,-0.1572100313479623

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.17251461988304095
+1,disease_on_symptoms,18,15,1.8944444444444446
+2,disease_on_drugs,27,26,0.24630435951190677

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,22,26,0.185460372960373
+1,disease_on_symptoms,22,20,0.7050865800865802
+2,disease_on_drugs,14,20,0.42226890756302504

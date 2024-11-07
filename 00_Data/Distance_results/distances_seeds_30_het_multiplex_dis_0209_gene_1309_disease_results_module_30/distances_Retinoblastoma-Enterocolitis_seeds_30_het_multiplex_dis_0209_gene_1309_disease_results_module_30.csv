@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,21,21,0.7142857142857144
+2,disease_on_drugs,27,25,-0.023903133903133922

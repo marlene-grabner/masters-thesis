@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,0.24982905982905979
+1,disease_on_symptoms,25,15,1.335
+2,disease_on_drugs,21,26,0.8764320785597384

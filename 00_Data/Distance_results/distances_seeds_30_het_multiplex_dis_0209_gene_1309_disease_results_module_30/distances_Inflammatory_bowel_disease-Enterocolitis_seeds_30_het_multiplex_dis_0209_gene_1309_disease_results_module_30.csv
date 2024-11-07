@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.26315789473684215
+1,disease_on_symptoms,20,21,-0.5882404181184668
+2,disease_on_drugs,27,25,-0.37005698005698007

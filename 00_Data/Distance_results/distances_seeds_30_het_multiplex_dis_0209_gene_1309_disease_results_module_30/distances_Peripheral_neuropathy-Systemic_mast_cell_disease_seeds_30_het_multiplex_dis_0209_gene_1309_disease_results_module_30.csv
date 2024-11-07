@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,21,25,0.2793374741200827
+2,disease_on_drugs,29,21,0.24998357963875217

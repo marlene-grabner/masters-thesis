@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,0.0886243386243386
+1,disease_on_symptoms,14,25,0.9625274725274724
+2,disease_on_drugs,26,21,0.17381731743433848

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,14,18,0.35069444444444464
+2,disease_on_drugs,29,21,0.07123152709359615

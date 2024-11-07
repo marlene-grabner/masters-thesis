@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,17,30,0.24692028985507242
+1,disease_on_symptoms,27,14,1.8120080010323913
+2,disease_on_drugs,14,26,0.44505494505494503

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,22,30,0.15384615384615374
+1,disease_on_symptoms,21,10,0.8599078341013828
+2,disease_on_drugs,21,16,0.2233349420849422

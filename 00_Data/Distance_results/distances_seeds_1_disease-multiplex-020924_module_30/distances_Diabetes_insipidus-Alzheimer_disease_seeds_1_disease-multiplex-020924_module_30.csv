@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,24,20,0.11325757575757578
+1,disease_on_symptoms,18,23,0.9769353128313891
+2,disease_on_drugs,18,18,0.33333333333333326

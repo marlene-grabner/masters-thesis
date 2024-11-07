@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,0.40740740740740744
+1,disease_on_symptoms,16,20,1.6291666666666664
+2,disease_on_drugs,18,25,0.5348837209302326

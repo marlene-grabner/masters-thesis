@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,0.2915151515151515
+1,disease_on_symptoms,25,15,1.1099999999999999
+2,disease_on_drugs,21,22,1.0465116279069768

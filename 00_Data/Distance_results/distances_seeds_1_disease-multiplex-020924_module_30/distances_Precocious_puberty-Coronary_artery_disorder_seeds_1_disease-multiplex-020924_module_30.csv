@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.2260651629072683
+1,disease_on_symptoms,14,21,1.376190476190476
+2,disease_on_drugs,24,17,0.5609756097560976

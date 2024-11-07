@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Myopathy nodes,sAB
+0,disease_on_genes,24,18,0.36805555555555536
+1,disease_on_symptoms,18,21,1.0137362637362637
+2,disease_on_drugs,18,6,0.9583333333333335

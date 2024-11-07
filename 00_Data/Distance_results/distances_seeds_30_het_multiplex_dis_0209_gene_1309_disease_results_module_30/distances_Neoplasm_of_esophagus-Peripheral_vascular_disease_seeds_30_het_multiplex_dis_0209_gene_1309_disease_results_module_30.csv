@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,29,25,-0.2409450830140485
+1,disease_on_symptoms,20,17,-0.08465818759936394
+2,disease_on_drugs,25,25,0.0

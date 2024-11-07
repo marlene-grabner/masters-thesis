@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,19,18,0.16085822664770033
+2,disease_on_drugs,25,27,0.2925641025641026

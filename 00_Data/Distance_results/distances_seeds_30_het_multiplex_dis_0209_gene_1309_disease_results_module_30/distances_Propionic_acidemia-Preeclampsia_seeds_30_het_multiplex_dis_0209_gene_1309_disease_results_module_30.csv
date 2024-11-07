@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,16,18,0.20486111111111116
+2,disease_on_drugs,30,22,-0.11398601398601405

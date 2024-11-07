@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,23,30,0.31214109926169
+1,disease_on_symptoms,25,12,1.146936936936937
+2,disease_on_drugs,22,22,0.8409090909090908

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Myalgia nodes,sAB
+0,disease_on_genes,22,30,0.08636363636363642
+1,disease_on_symptoms,23,16,1.5804765886287624
+2,disease_on_drugs,17,29,0.5498721227621484

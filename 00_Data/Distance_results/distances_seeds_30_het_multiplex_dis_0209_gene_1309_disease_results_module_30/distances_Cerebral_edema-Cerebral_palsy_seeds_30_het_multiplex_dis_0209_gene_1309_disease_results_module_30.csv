@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,10,13,0.24314381270903018
+2,disease_on_drugs,16,21,-0.2470640283140284

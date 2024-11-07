@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,-0.3362573099415205
+1,disease_on_symptoms,18,14,-0.027281746031746046
+2,disease_on_drugs,25,25,-0.33999999999999997

@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,23,30,-0.2481542247744053
+1,disease_on_symptoms,19,21,0.44185463659147883
+2,disease_on_drugs,21,29,-0.2643021346469623

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,27,18,0.17592592592592604
+1,disease_on_symptoms,22,28,0.32759740259740266
+2,disease_on_drugs,24,17,0.6068268770923002

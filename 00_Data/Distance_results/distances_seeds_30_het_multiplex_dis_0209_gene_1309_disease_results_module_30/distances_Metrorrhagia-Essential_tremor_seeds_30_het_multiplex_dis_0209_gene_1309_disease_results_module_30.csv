@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.02083333333333337
+1,disease_on_symptoms,17,23,0.7443734015345269
+2,disease_on_drugs,26,21,0.06548593250720902

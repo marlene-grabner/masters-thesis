@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,22,24,0.19458168642951246
+1,disease_on_symptoms,20,17,2.4161367249602543
+2,disease_on_drugs,19,23,0.9047619047619047

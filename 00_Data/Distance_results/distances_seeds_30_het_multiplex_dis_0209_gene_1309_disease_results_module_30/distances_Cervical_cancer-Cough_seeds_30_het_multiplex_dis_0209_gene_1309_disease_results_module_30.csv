@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Cough nodes,sAB
+0,disease_on_genes,28,27,0.21818181818181825
+1,disease_on_symptoms,22,22,1.1136363636363638
+2,disease_on_drugs,15,24,0.44487179487179485

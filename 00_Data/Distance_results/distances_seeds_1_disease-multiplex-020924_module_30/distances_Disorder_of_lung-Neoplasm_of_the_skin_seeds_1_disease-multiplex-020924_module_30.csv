@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,27,28,0.2555074555074557
+1,disease_on_symptoms,17,21,0.8518354710305176
+2,disease_on_drugs,20,24,0.9772727272727273

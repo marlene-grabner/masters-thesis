@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,24,30,-0.05555555555555558
+1,disease_on_symptoms,24,17,0.6611669057867051
+2,disease_on_drugs,23,25,0.038514492753623175

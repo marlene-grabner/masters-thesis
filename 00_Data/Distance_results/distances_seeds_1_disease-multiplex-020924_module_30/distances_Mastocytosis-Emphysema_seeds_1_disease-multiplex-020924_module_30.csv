@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Emphysema nodes,sAB
+0,disease_on_genes,18,30,0.1430555555555555
+1,disease_on_symptoms,28,14,0.24404761904761885
+2,disease_on_drugs,17,29,0.04987212276214836

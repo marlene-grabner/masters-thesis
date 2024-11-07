@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,25,18,0.10279069767441862
+1,disease_on_symptoms,25,21,2.5235610766045546
+2,disease_on_drugs,21,17,1.2538699690402475

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.3999999999999999
+1,disease_on_symptoms,12,18,1.5027777777777778
+2,disease_on_drugs,17,25,0.5020168067226891

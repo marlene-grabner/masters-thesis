@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333348
+1,disease_on_symptoms,16,21,0.26114060489060487
+2,disease_on_drugs,30,29,0.2036528345996491

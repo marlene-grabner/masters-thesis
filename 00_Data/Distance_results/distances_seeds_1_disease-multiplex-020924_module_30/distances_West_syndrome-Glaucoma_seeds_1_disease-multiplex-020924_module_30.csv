@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.2384180790960453
+1,disease_on_symptoms,18,14,0.0813492063492065
+2,disease_on_drugs,22,30,0.4089743589743591

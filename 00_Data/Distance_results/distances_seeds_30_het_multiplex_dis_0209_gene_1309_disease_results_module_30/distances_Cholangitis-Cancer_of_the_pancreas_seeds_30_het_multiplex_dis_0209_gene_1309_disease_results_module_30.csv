@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,18,23,-0.0204724873335691
+2,disease_on_drugs,28,30,0.013300492610837544

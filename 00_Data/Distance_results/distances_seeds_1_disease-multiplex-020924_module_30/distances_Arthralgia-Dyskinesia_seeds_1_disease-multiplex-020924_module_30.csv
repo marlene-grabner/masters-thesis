@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.0347222222222221
+1,disease_on_symptoms,19,17,1.3940488476092192
+2,disease_on_drugs,30,23,0.47169811320754707

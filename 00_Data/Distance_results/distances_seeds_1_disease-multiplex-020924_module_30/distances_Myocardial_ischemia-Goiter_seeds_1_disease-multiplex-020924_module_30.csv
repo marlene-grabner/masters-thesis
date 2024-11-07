@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.4945054945054945
+1,disease_on_symptoms,13,15,1.3086080586080588
+2,disease_on_drugs,23,16,0.6783723522853959

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,22,26,-0.27083333333333337
+1,disease_on_symptoms,21,19,-0.08270676691729317
+2,disease_on_drugs,21,25,-0.24534161490683226

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,18,19,-0.05235498656551285
+2,disease_on_drugs,24,30,-0.09212962962962967

@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Heartburn nodes,sAB
+0,disease_on_genes,25,26,-0.05882352941176472
+1,disease_on_symptoms,19,16,1.293609022556391
+2,disease_on_drugs,18,25,0.03175710594315251

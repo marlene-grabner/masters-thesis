@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,0.18930232558139526
+1,disease_on_symptoms,19,27,1.4381727265022461
+2,disease_on_drugs,24,17,0.45546389287422295

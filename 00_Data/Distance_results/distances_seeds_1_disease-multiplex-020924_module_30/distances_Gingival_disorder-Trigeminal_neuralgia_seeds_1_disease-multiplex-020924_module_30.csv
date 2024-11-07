@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,21,28,0.18112244897959173
+1,disease_on_symptoms,26,19,1.1125506072874494
+2,disease_on_drugs,20,26,0.8285953177257526

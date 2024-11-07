@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.22471264367816102
+1,disease_on_symptoms,17,26,1.4087130379880037
+2,disease_on_drugs,27,28,0.6908970658970659

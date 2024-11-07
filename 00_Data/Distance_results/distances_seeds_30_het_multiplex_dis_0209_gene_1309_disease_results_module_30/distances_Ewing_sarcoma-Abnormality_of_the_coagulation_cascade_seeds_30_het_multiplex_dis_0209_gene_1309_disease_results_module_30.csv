@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Abnormality_of_the_coagulation_cascade nodes,sAB
+0,disease_on_genes,30,24,0.11111111111111116
+1,disease_on_symptoms,17,24,0.40722142515542803
+2,disease_on_drugs,24,23,0.27464924452667305

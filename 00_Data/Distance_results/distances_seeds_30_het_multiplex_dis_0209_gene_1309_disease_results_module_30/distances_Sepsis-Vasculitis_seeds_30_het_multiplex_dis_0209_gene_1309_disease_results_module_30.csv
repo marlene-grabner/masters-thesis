@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.1238095238095237
+1,disease_on_symptoms,15,18,0.4156565656565654
+2,disease_on_drugs,25,26,-0.01930618401206652

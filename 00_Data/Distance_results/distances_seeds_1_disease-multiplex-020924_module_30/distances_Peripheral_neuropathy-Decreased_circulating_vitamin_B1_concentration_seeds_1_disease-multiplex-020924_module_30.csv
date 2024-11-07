@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.22969696969696973
+1,disease_on_symptoms,20,13,0.22191142191142177
+2,disease_on_drugs,24,16,0.7145833333333336

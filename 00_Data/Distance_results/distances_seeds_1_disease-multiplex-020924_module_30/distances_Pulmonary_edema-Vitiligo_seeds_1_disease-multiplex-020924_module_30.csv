@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,24,0.400462962962963
+1,disease_on_symptoms,14,22,1.9022366522366525
+2,disease_on_drugs,27,11,0.5945419103313838

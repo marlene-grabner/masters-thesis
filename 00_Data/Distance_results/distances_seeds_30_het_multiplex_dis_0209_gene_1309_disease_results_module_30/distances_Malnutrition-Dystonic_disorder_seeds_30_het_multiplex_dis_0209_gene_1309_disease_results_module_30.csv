@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,14,17,0.44293846570886464
+2,disease_on_drugs,29,26,0.10843983602604301

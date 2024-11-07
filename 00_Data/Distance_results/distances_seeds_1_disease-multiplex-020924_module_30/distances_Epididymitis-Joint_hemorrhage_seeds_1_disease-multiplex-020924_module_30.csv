@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,29,30,0.3225891291642313
+1,disease_on_symptoms,23,13,0.6059085841694538
+2,disease_on_drugs,27,18,0.835185185185185

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Urticaria nodes,sAB
+0,disease_on_genes,25,10,0.5371428571428571
+1,disease_on_symptoms,16,27,2.2660422049956934
+2,disease_on_drugs,17,9,1.0859728506787332

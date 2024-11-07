@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.4015084294587399
+1,disease_on_symptoms,20,15,0.0714285714285714
+2,disease_on_drugs,19,15,0.7274509803921569

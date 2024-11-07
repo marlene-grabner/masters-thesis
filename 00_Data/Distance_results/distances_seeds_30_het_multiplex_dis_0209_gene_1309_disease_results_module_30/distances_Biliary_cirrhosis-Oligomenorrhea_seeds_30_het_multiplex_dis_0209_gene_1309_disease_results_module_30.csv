@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,29,0.1989510489510491
+1,disease_on_symptoms,22,11,1.7727272727272727
+2,disease_on_drugs,25,24,0.388469387755102

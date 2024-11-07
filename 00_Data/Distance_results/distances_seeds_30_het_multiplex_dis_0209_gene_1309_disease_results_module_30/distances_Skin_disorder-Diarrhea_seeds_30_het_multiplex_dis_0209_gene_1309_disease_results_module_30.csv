@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Diarrhea nodes,sAB
+0,disease_on_genes,25,30,-0.19999999999999996
+1,disease_on_symptoms,19,21,0.43897243107769435
+2,disease_on_drugs,23,29,-0.1534136777764964

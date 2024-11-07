@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.15389863547758287
+1,disease_on_symptoms,19,21,1.1189849624060149
+2,disease_on_drugs,26,27,0.509420523571467

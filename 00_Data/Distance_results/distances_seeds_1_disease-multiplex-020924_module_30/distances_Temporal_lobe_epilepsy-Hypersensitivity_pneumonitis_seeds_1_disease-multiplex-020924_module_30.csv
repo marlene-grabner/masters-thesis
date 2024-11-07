@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,29,24,0.20917371502927784
+1,disease_on_symptoms,17,23,1.6976342710997443
+2,disease_on_drugs,26,24,0.8607692307692307

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,24,14,-0.015194235588972482
+1,disease_on_symptoms,18,23,0.8602863202545068
+2,disease_on_drugs,18,14,0.3125

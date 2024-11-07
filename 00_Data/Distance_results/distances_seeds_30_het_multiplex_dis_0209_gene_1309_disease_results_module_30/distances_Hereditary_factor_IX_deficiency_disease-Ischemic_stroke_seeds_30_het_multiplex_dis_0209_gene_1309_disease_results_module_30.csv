@@ -1,0 +1,4 @@
+,Layer,Hereditary_factor_IX_deficiency_disease nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,-0.01908866995073888
+1,disease_on_symptoms,18,16,0.6086601307189543
+2,disease_on_drugs,26,28,-0.01541514041514036

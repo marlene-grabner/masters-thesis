@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,23,27,0.020000000000000018
+1,disease_on_symptoms,22,20,0.5008658008658009
+2,disease_on_drugs,21,27,0.08928571428571441

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,23,27,0.19723027375201285
+1,disease_on_symptoms,20,19,0.8951417004048583
+2,disease_on_drugs,19,20,0.8724358974358974

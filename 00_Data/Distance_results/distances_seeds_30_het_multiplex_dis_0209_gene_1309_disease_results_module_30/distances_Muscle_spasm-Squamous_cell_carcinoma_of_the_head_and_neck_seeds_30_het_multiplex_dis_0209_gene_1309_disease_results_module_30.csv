@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333332
+1,disease_on_symptoms,15,22,0.5179770679770677
+2,disease_on_drugs,29,30,0.06630625365283449

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.11713286713286708
+1,disease_on_symptoms,12,25,0.4495495495495496
+2,disease_on_drugs,27,18,0.19999999999999996

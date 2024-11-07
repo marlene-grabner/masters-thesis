@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.2779720279720279
+1,disease_on_symptoms,22,21,1.9328249270109734
+2,disease_on_drugs,29,6,0.6042692939244665

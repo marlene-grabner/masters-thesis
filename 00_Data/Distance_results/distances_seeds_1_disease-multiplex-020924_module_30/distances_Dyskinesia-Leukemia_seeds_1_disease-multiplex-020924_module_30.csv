@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Leukemia nodes,sAB
+0,disease_on_genes,24,18,0.26488095238095233
+1,disease_on_symptoms,17,27,1.815012873836403
+2,disease_on_drugs,23,17,1.3367647058823526

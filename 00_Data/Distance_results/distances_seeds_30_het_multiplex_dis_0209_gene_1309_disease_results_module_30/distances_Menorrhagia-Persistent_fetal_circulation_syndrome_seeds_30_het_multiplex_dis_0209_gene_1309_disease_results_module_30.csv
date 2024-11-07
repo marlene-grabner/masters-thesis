@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,24,0.11764705882352944
+1,disease_on_symptoms,16,22,0.8258074162679425
+2,disease_on_drugs,23,21,0.24458874458874447

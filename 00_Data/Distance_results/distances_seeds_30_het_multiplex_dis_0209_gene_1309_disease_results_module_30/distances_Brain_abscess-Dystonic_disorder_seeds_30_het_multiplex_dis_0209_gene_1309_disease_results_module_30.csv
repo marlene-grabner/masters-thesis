@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,21,17,1.0144478844169251
+2,disease_on_drugs,23,26,-0.006245307487543705

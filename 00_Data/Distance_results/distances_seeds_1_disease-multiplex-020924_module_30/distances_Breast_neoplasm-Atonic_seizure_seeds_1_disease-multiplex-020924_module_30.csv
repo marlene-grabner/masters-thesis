@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.3386908240794857
+1,disease_on_symptoms,16,16,1.375
+2,disease_on_drugs,30,24,1.425925925925926

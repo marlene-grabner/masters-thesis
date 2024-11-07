@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Dermatitis nodes,sAB
+0,disease_on_genes,26,30,0.016483516483516647
+1,disease_on_symptoms,17,14,0.5641772838167527
+2,disease_on_drugs,24,28,0.22504578754578763

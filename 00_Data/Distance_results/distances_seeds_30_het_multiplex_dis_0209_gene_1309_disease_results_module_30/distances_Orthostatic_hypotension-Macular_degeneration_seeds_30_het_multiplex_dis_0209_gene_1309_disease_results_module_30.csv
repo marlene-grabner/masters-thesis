@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,20,17,-0.25445151033386315
+2,disease_on_drugs,28,17,-0.23608776844070967

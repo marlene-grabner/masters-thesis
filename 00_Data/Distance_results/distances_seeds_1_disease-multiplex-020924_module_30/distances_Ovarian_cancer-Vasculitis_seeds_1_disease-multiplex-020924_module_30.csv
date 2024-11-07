@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.33210784313725483
+1,disease_on_symptoms,17,19,1.186016511867905
+2,disease_on_drugs,25,20,0.7944444444444445

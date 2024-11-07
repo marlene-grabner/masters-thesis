@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.3654415954415955
+1,disease_on_symptoms,23,26,-0.3042795713603168
+2,disease_on_drugs,25,24,-0.32659863945578227

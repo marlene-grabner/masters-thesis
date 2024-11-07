@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,22,13,0.395804195804196
+2,disease_on_drugs,25,24,-0.06263605442176878

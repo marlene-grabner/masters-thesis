@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,27,30,0.1929824561403508
+1,disease_on_symptoms,16,20,0.6104166666666666
+2,disease_on_drugs,23,25,0.355

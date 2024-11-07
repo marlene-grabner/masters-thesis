@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,17,12,0.3025693035835024
+2,disease_on_drugs,17,23,0.1625319693094629

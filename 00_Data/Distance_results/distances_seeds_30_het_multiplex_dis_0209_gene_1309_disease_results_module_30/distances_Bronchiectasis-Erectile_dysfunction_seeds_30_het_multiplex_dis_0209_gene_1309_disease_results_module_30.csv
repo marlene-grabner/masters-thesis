@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,19,15,0.07956656346749202
+2,disease_on_drugs,25,30,0.17242424242424237

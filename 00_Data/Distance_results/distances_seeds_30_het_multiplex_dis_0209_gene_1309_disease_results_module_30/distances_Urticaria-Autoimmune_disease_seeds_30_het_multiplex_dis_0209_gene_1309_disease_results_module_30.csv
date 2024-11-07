@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,24,26,-0.14
+1,disease_on_symptoms,21,20,0.612862950058072
+2,disease_on_drugs,24,25,-0.12335034013605428

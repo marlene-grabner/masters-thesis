@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Constipation nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666681
+1,disease_on_symptoms,19,16,0.3910244360902255
+2,disease_on_drugs,30,28,0.04860426929392436

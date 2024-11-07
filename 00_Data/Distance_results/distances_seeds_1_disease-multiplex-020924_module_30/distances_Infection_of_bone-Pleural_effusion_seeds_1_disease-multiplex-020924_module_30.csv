@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,-0.0015567765567765512
+1,disease_on_symptoms,21,20,0.19317653890824626
+2,disease_on_drugs,24,22,-0.040760869565217295

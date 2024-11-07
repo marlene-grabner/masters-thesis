@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,-0.12727272727272732
+1,disease_on_symptoms,21,23,0.13288161114248065
+2,disease_on_drugs,29,21,-0.15467980295566508

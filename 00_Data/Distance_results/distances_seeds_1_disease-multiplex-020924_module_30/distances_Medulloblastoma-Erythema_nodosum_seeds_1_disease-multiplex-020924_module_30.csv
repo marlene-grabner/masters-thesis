@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,26,28,0.2414021164021165
+1,disease_on_symptoms,19,23,0.6489593549090118
+2,disease_on_drugs,24,28,0.13438644688644685

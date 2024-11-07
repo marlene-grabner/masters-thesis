@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,15,18,-0.0060606060606061
+1,disease_on_symptoms,27,27,0.7592592592592595
+2,disease_on_drugs,13,17,0.1450980392156862

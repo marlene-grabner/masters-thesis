@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.10076923076923094
+1,disease_on_symptoms,21,17,0.9420610349402918
+2,disease_on_drugs,24,23,-0.06521739130434767

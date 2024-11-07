@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,0.05626409017713363
+1,disease_on_symptoms,21,27,0.5185185185185184
+2,disease_on_drugs,19,26,0.09487179487179498

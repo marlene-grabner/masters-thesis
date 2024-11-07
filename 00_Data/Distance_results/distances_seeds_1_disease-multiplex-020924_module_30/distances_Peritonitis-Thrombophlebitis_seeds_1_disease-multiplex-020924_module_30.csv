@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.3815270935960591
+1,disease_on_symptoms,17,15,1.3355392156862744
+2,disease_on_drugs,28,21,1.1071428571428572

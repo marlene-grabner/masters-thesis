@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Rosacea nodes,sAB
+0,disease_on_genes,15,30,0.36111111111111094
+1,disease_on_symptoms,25,17,0.8518207282913166
+2,disease_on_drugs,10,27,0.19729729729729728

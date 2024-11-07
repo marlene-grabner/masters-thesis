@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,25,27,-0.07692307692307687
+1,disease_on_symptoms,19,18,0.923700015805279
+2,disease_on_drugs,23,22,-0.11168203776899421

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,-0.2264150943396226
+1,disease_on_symptoms,22,21,0.5334491090305042
+2,disease_on_drugs,24,26,-0.13641025641025628

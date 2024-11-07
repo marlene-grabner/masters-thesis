@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.10344827586206895
+1,disease_on_symptoms,10,25,0.5885714285714285
+2,disease_on_drugs,16,24,0.08958333333333357

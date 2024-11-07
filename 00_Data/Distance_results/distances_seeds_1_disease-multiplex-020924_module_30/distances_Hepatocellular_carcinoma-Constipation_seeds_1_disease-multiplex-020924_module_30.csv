@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Constipation nodes,sAB
+0,disease_on_genes,23,30,0.31721356302980563
+1,disease_on_symptoms,19,17,2.114121087031304
+2,disease_on_drugs,19,27,1.3727858293075683

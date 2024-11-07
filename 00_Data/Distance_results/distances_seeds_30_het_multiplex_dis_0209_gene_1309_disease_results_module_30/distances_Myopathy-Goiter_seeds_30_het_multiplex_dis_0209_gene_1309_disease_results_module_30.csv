@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Goiter nodes,sAB
+0,disease_on_genes,23,26,0.18367346938775508
+1,disease_on_symptoms,22,12,0.8607397504456329
+2,disease_on_drugs,21,18,0.3189865689865692

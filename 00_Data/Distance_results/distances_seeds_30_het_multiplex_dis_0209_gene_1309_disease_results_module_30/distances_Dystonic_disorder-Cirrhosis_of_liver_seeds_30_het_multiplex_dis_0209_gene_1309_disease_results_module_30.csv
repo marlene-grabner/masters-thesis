@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,17,19,0.5466116271069834
+2,disease_on_drugs,26,30,0.06794871794871793

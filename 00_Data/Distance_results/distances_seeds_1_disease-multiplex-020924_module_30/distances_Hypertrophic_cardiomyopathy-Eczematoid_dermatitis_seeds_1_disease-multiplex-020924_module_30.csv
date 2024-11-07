@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,28,0.4660509031198685
+1,disease_on_symptoms,17,24,2.170313247250119
+2,disease_on_drugs,17,28,0.6309523809523812

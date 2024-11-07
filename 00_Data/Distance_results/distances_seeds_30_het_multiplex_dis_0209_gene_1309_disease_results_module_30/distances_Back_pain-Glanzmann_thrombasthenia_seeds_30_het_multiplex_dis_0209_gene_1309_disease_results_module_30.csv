@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.16666666666666674
+1,disease_on_symptoms,15,19,0.32662538699690424
+2,disease_on_drugs,23,24,0.03972016651248844

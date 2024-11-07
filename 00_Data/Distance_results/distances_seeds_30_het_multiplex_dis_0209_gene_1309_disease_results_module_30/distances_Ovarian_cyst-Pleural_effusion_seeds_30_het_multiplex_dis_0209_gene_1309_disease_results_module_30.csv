@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666654
+1,disease_on_symptoms,19,18,0.006045519203413896
+2,disease_on_drugs,24,27,-0.05637254901960764

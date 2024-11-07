@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,20,30,-0.011666666666666714
+1,disease_on_symptoms,23,20,-0.1352881698685542
+2,disease_on_drugs,18,24,-0.13690476190476175

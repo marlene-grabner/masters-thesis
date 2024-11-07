@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.034482758620689724
+1,disease_on_symptoms,11,25,0.5034343434343436
+2,disease_on_drugs,21,24,-0.0904761904761906

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,17,-0.17245989304812837
+1,disease_on_symptoms,22,24,0.28055006587615283
+2,disease_on_drugs,26,16,0.2430173992673994

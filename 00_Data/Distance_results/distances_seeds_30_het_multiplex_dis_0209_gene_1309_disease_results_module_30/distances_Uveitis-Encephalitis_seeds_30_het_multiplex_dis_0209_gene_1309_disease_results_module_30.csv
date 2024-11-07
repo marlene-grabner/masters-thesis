@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.1694915254237288
+1,disease_on_symptoms,20,13,0.4030303030303033
+2,disease_on_drugs,23,22,-0.04310496267018005

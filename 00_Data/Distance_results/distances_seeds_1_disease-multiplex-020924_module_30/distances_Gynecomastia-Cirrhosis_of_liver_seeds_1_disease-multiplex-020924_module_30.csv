@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,16,14,0.0803571428571428
+2,disease_on_drugs,24,26,-0.02173076923076911

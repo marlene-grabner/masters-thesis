@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,16,14,0.06041666666666656
+2,disease_on_drugs,29,24,0.21753686835827368

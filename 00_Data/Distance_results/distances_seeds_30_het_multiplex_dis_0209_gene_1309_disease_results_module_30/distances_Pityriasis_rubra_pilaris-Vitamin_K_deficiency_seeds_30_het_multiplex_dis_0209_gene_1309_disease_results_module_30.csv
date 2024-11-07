@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,-0.09472934472934491
+1,disease_on_symptoms,21,21,1.0
+2,disease_on_drugs,25,21,0.014865424430641871

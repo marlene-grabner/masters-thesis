@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,28,25,-0.036725067385444676
+1,disease_on_symptoms,20,20,1.0
+2,disease_on_drugs,27,21,0.06746031746031744

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.15509259259259278
+1,disease_on_symptoms,21,20,1.0514808362369337
+2,disease_on_drugs,23,19,0.36705895172714387

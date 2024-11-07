@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,17,30,0.09011264080100134
+1,disease_on_symptoms,21,17,1.0524104378593542
+2,disease_on_drugs,14,25,0.6492307692307691

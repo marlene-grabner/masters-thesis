@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.1266899766899765
+1,disease_on_symptoms,15,18,1.3595959595959597
+2,disease_on_drugs,29,18,0.9614820249449745

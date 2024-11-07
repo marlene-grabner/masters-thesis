@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,19,21,0.7524436090225564
+2,disease_on_drugs,29,28,0.31448232650592

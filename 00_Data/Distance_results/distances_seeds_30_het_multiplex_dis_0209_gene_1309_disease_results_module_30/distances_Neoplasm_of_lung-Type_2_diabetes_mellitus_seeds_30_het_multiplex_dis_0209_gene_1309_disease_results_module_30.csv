@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,19,16,0.18999060150375935
+2,disease_on_drugs,30,27,-0.15711500974658865

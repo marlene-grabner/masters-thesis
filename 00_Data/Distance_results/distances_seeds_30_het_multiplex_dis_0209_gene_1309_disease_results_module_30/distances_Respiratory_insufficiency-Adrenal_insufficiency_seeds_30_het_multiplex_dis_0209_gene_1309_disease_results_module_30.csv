@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,21,15,0.43174603174603154
+2,disease_on_drugs,25,24,-0.12093537414965971

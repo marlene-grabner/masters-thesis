@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,0.1521978021978021
+1,disease_on_symptoms,23,23,1.8043478260869565
+2,disease_on_drugs,25,14,1.1025641025641026

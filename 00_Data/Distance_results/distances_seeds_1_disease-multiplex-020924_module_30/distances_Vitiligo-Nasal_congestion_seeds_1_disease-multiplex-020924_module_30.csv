@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,24,30,0.10972222222222205
+1,disease_on_symptoms,22,15,1.477354627354627
+2,disease_on_drugs,11,23,0.4782608695652173

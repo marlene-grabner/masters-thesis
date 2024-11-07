@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.08771929824561409
+1,disease_on_symptoms,22,18,0.8035353535353535
+2,disease_on_drugs,30,22,0.43181818181818166

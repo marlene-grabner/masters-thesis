@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.4850574712643678
+1,disease_on_symptoms,20,12,0.9937499999999999
+2,disease_on_drugs,29,21,0.8740886699507389

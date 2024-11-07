@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,17,29,0.20204603580562663
+1,disease_on_symptoms,22,25,1.7025531914893617
+2,disease_on_drugs,15,27,0.2047619047619047

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,29,27,0.44889162561576335
+1,disease_on_symptoms,15,14,2.1894088669950738
+2,disease_on_drugs,29,13,0.8160919540229885

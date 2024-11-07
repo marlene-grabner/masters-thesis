@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,22,30,0.44405594405594395
+1,disease_on_symptoms,23,20,1.3798281092012132
+2,disease_on_drugs,17,30,1.2177722152690864

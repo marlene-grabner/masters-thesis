@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,0.27118644067796605
+1,disease_on_symptoms,11,20,0.990615835777126
+2,disease_on_drugs,27,20,0.4040189125295508

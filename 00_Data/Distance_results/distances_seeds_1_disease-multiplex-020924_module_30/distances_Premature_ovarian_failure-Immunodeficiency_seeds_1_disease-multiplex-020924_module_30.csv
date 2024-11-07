@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,28,22,0.29181818181818175
+1,disease_on_symptoms,21,19,1.4600877192982455
+2,disease_on_drugs,21,18,0.4887057387057385

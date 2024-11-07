@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,27,25,-0.07692307692307687
+1,disease_on_symptoms,16,22,0.43705143540669855
+2,disease_on_drugs,23,25,0.08749999999999991

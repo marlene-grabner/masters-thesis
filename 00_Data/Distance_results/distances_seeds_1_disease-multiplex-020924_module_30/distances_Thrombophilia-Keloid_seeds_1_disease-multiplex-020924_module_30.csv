@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Keloid nodes,sAB
+0,disease_on_genes,27,22,0.1809248952106095
+1,disease_on_symptoms,18,20,2.5073099415204676
+2,disease_on_drugs,21,19,0.8523809523809522

@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,25,25,0.07999999999999985
+1,disease_on_symptoms,25,13,3.114574898785425
+2,disease_on_drugs,23,16,0.865976867335563

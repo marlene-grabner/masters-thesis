@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,25,27,0.2299430199430199
+1,disease_on_symptoms,20,27,1.9885539795114267
+2,disease_on_drugs,14,26,0.054395604395604424

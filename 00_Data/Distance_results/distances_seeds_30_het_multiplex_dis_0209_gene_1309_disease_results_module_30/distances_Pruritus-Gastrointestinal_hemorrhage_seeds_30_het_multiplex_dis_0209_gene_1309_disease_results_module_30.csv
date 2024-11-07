@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,27,28,-0.09092111592111596
+1,disease_on_symptoms,21,20,0.6092334494773519
+2,disease_on_drugs,27,27,0.14814814814814814

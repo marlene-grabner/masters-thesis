@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,0.5
+1,disease_on_symptoms,17,22,0.9471068147538737
+2,disease_on_drugs,28,15,0.7301495016611297

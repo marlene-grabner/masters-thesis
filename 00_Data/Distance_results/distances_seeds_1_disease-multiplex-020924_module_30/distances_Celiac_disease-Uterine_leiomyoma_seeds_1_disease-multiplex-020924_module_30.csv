@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,17,24,0.3283715925394548
+1,disease_on_symptoms,22,21,2.8792912513842746
+2,disease_on_drugs,15,18,0.6964646464646465

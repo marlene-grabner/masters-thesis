@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,-0.11044973544973535
+1,disease_on_symptoms,19,15,0.38844169246646043
+2,disease_on_drugs,25,23,0.07789855072463747

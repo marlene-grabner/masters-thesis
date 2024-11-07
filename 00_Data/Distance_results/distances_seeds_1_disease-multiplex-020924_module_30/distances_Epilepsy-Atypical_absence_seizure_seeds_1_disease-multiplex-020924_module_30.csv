@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.6206896551724138
+1,disease_on_symptoms,18,15,-0.8136363636363637
+2,disease_on_drugs,30,27,-0.7379142300194933

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,22,27,-0.038926681783824746
+1,disease_on_symptoms,21,19,0.7686090225563911
+2,disease_on_drugs,21,24,0.04662698412698418

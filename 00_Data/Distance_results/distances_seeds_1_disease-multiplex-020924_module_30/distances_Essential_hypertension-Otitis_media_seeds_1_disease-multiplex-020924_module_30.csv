@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,0.12337956961368945
+1,disease_on_symptoms,14,22,0.9332611832611835
+2,disease_on_drugs,28,29,0.702035260565206

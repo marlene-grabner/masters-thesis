@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,14,28,0.48809523809523814
+1,disease_on_symptoms,25,21,2.4544927536231884
+2,disease_on_drugs,10,21,0.8701228878648233

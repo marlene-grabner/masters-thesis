@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,24,14,1.2031641604010024
+2,disease_on_drugs,15,29,0.35961337513061653

@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,21,0.1464032421479231
+1,disease_on_symptoms,15,25,1.4216666666666669
+2,disease_on_drugs,21,21,0.33333333333333326

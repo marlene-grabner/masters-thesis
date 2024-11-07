@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,16,18,-0.43729575163398704
+2,disease_on_drugs,27,28,-0.16007696007696004

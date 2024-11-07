@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,-0.06301613344271262
+1,disease_on_symptoms,20,21,1.2442218350754937
+2,disease_on_drugs,30,21,0.16680672268907548

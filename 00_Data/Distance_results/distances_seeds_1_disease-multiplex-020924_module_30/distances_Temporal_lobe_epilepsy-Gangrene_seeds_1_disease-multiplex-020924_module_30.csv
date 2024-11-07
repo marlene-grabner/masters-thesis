@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Gangrene nodes,sAB
+0,disease_on_genes,29,26,0.2009404388714735
+1,disease_on_symptoms,17,19,1.479016167870657
+2,disease_on_drugs,26,23,0.44882601870179517

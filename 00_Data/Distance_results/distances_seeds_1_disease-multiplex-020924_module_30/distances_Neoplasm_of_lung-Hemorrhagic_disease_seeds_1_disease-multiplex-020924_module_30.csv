@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.14768518518518503
+1,disease_on_symptoms,20,19,0.8951079622132252
+2,disease_on_drugs,30,19,0.02092731829573924

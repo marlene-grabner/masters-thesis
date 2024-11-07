@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.12709030100334462
+1,disease_on_symptoms,12,25,0.782072072072072
+2,disease_on_drugs,30,22,0.5689976689976688

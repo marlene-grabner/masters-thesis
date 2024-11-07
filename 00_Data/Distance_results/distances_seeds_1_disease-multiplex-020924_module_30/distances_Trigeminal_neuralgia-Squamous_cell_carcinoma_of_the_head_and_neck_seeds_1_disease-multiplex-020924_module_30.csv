@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,28,21,0.24914965986394533
+1,disease_on_symptoms,19,25,1.151291866028708
+2,disease_on_drugs,26,21,0.8743862520458265

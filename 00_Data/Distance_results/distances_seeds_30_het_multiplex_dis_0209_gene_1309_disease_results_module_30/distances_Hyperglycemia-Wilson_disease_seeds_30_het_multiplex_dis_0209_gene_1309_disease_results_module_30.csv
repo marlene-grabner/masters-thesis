@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.034848484848484795
+1,disease_on_symptoms,17,19,-0.016167870657034733
+2,disease_on_drugs,26,22,-0.0434149184149184

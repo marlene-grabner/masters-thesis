@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,27,28,-0.14448051948051954
+1,disease_on_symptoms,21,18,0.8565323565323564
+2,disease_on_drugs,27,26,-0.03848841584690632

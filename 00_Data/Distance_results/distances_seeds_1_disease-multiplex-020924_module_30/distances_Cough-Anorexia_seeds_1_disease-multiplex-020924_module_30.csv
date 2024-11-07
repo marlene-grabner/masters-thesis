@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,17,0.00019805902158842592
+1,disease_on_symptoms,21,25,1.3510144927536232
+2,disease_on_drugs,27,13,0.4245014245014245

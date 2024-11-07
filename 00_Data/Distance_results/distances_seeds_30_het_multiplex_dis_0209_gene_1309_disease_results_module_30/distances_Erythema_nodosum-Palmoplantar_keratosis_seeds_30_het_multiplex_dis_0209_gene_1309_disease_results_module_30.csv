@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,22,20,0.6844155844155844
+2,disease_on_drugs,29,23,0.051118671433513896

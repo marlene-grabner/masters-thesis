@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.012670565302144388
+1,disease_on_symptoms,20,19,0.38812415654520893
+2,disease_on_drugs,28,26,0.31608669108669085

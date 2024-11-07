@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,27,22,0.33005222290936587
+1,disease_on_symptoms,16,25,1.0509146341463413
+2,disease_on_drugs,18,18,0.9166666666666667

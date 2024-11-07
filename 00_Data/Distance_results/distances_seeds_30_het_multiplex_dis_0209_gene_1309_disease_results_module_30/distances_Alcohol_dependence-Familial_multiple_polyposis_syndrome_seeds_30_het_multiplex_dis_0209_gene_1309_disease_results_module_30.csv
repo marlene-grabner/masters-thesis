@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,18,19,-0.2920025288446342
+2,disease_on_drugs,24,25,-0.16333333333333333

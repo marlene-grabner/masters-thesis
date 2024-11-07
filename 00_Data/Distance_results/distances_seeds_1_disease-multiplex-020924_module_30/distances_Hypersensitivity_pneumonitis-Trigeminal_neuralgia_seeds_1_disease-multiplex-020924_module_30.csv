@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,24,28,0.23489010989010994
+1,disease_on_symptoms,23,19,1.145581344666013
+2,disease_on_drugs,24,26,0.5807692307692309

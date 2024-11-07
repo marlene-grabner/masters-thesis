@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,-0.12962962962962976
+1,disease_on_symptoms,18,19,0.4649517938991625
+2,disease_on_drugs,22,24,-0.26029314888010535

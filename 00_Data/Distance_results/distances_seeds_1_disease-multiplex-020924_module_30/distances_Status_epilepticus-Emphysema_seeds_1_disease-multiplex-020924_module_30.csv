@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Emphysema nodes,sAB
+0,disease_on_genes,29,30,0.22032924215858163
+1,disease_on_symptoms,17,14,1.1783003523990243
+2,disease_on_drugs,30,29,0.6610169491525424

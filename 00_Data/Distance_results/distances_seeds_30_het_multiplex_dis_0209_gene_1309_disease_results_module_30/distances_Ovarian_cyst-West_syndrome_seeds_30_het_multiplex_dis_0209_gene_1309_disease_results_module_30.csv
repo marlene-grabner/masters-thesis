@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.13333333333333353
+1,disease_on_symptoms,19,13,0.5407388663967612
+2,disease_on_drugs,24,19,0.3046205630354959

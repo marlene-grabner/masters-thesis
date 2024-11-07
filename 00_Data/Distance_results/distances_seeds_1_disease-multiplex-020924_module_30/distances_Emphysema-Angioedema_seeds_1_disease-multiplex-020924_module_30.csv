@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.1206486042692938
+1,disease_on_symptoms,14,17,0.2627405801030087
+2,disease_on_drugs,29,25,0.2777777777777777

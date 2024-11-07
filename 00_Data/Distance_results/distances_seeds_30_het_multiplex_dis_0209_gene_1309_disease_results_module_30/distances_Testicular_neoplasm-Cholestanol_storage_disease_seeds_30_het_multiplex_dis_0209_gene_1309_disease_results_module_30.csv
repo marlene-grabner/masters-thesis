@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,25,29,-0.14835249042145593
+1,disease_on_symptoms,26,18,0.40753690753690774
+2,disease_on_drugs,24,28,0.1556776556776558

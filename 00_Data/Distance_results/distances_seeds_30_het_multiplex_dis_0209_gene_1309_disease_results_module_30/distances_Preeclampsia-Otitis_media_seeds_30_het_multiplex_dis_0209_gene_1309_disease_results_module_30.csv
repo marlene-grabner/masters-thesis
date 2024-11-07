@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,0.10775862068965525
+1,disease_on_symptoms,18,20,1.399269005847953
+2,disease_on_drugs,22,28,0.3240909090909092

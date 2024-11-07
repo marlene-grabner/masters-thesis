@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,29,30,0.15225014611338406
+1,disease_on_symptoms,20,17,0.8858108108108109
+2,disease_on_drugs,24,26,0.21801282051282045

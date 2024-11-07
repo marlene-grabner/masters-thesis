@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,29,23,0.4105351170568561
+1,disease_on_symptoms,16,19,3.0153665413533837
+2,disease_on_drugs,26,11,1.3513513513513513

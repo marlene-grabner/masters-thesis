@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,23,21,0.13617541878411443
+1,disease_on_symptoms,19,22,2.6683977126852607
+2,disease_on_drugs,19,20,0.6185897435897436

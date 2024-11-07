@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,30,-0.1043859649122807
+1,disease_on_symptoms,21,18,0.37393162393162394
+2,disease_on_drugs,23,28,-0.2461027889416636

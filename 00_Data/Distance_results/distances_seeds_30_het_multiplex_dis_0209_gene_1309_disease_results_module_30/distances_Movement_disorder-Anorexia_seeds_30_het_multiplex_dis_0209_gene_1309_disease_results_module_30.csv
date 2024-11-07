@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.254247029027859
+1,disease_on_symptoms,17,13,-0.49713423831070913
+2,disease_on_drugs,26,28,-0.2843915343915344

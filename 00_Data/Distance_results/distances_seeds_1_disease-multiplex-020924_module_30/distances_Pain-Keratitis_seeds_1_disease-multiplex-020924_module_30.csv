@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.055453805453805405
+1,disease_on_symptoms,21,25,0.28111801242236023
+2,disease_on_drugs,26,23,0.1808579619138626

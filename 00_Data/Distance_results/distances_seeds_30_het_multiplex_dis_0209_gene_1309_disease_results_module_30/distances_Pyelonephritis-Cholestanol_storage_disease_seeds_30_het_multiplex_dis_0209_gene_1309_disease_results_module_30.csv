@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,24,29,-0.01920678811537635
+1,disease_on_symptoms,19,18,0.5042279121226492
+2,disease_on_drugs,19,28,0.05019196928491465

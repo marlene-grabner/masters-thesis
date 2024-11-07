@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,0.0723196881091619
+1,disease_on_symptoms,19,17,0.7237702098383214
+2,disease_on_drugs,26,26,0.5384615384615385

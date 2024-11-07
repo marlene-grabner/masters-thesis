@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,25,-0.36
+1,disease_on_symptoms,19,20,-0.2779689608636977
+2,disease_on_drugs,23,25,-0.33271739130434774

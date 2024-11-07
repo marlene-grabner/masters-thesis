@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Glaucoma nodes,sAB
+0,disease_on_genes,25,30,0.0015151515151514694
+1,disease_on_symptoms,19,18,0.0015410146989094375
+2,disease_on_drugs,22,28,0.11863636363636365

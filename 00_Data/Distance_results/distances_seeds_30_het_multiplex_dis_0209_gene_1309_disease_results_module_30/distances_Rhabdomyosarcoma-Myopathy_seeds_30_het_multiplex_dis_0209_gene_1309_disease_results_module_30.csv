@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Myopathy nodes,sAB
+0,disease_on_genes,29,23,-0.1923076923076923
+1,disease_on_symptoms,19,22,0.8108297350916092
+2,disease_on_drugs,29,21,-0.21192118226600987

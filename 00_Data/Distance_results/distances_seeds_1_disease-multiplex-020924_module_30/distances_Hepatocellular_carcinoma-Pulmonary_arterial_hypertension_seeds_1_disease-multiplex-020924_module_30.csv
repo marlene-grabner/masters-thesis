@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,23,28,0.21317440019486034
+1,disease_on_symptoms,19,18,2.215781571044729
+2,disease_on_drugs,19,26,0.802991452991453

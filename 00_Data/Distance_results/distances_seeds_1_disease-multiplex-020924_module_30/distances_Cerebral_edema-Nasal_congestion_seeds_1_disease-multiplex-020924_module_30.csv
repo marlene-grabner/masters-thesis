@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,0.5666666666666667
+1,disease_on_symptoms,9,15,0.6694444444444447
+2,disease_on_drugs,11,23,0.609276912345966

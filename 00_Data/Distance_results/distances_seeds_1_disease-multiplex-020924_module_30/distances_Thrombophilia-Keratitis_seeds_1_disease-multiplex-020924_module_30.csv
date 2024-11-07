@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.4912217412217412
+1,disease_on_symptoms,18,25,1.2233074935400516
+2,disease_on_drugs,21,23,0.8871635610766044

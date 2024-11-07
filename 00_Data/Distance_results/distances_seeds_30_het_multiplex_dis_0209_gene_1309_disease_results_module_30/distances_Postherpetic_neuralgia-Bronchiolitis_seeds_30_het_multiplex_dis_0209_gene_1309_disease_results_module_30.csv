@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.0862068965517242
+1,disease_on_symptoms,16,25,0.5014634146341463
+2,disease_on_drugs,29,24,0.019410106267620852

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Emphysema nodes,sAB
+0,disease_on_genes,23,30,0.3463357943669674
+1,disease_on_symptoms,19,14,1.3057074504442925
+2,disease_on_drugs,11,29,0.875

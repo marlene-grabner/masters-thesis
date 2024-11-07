@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,0.09522144522144504
+1,disease_on_symptoms,14,23,0.5848161826422693
+2,disease_on_drugs,29,20,0.439795918367347

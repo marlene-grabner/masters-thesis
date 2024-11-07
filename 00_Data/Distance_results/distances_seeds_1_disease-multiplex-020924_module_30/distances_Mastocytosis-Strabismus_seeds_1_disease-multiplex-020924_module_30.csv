@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Strabismus nodes,sAB
+0,disease_on_genes,18,13,0.5987730907085747
+1,disease_on_symptoms,28,26,1.5989519739519737
+2,disease_on_drugs,17,9,0.6548516842634489

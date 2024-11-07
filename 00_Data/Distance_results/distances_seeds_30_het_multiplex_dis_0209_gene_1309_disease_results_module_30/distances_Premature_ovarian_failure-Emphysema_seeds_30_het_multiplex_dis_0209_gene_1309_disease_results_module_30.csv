@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,18,0.4030303030303033
+2,disease_on_drugs,26,27,-0.07805192710853093

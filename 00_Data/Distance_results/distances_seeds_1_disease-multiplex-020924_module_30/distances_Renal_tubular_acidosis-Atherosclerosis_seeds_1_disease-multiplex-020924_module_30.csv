@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,18,30,0.4374999999999998
+1,disease_on_symptoms,18,13,3.33354011579818
+2,disease_on_drugs,10,29,0.726923076923077

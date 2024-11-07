@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,28,30,0.20628078817733986
+1,disease_on_symptoms,15,14,1.4998357963875204
+2,disease_on_drugs,23,22,0.28875713658322355

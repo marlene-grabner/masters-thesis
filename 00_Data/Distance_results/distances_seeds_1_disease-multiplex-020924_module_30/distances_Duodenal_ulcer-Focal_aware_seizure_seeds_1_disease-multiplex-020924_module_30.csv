@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.087092731829574
+1,disease_on_symptoms,17,15,1.6626225490196078
+2,disease_on_drugs,28,29,0.8421052631578947

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,25,27,0.3856980056980057
+1,disease_on_symptoms,16,16,1.5625
+2,disease_on_drugs,17,18,1.2277310924369749

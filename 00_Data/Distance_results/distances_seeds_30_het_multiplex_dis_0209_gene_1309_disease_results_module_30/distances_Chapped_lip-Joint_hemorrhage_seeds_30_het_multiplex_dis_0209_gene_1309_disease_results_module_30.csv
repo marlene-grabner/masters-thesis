@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,20,17,0.9587837837837838
+2,disease_on_drugs,23,26,0.46995085659681934

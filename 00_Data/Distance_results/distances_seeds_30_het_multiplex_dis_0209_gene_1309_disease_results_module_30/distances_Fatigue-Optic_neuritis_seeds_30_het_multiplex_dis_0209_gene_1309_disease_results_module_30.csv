@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.24637155297532654
+1,disease_on_symptoms,16,21,1.3286679536679538
+2,disease_on_drugs,26,27,-0.228981884642262

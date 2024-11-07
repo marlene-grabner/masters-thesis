@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.22514619883040932
+1,disease_on_symptoms,15,13,1.3871794871794871
+2,disease_on_drugs,25,23,0.4147826086956523

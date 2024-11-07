@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,14,13,0.4626577126577125
+2,disease_on_drugs,26,22,0.2988053613053612

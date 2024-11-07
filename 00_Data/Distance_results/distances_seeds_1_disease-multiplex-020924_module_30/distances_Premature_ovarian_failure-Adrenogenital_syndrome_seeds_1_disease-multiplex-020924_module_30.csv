@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.0
+1,disease_on_symptoms,21,7,0.09523809523809534
+2,disease_on_drugs,21,22,-0.16072687002919572

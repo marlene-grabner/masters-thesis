@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,28,27,0.3814814814814813
+1,disease_on_symptoms,21,17,1.7966976264189887
+2,disease_on_drugs,21,20,0.5133565621370499

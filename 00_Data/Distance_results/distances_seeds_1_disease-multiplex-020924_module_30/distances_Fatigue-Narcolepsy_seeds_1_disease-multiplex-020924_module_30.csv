@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,26,25,-0.020030165912518827
+1,disease_on_symptoms,21,21,1.4761904761904758
+2,disease_on_drugs,26,20,0.02349498327759192

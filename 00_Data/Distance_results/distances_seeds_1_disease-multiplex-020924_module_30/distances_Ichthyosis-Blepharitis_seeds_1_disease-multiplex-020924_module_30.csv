@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,-0.16566193853427913
+1,disease_on_symptoms,17,27,0.07966924143394727
+2,disease_on_drugs,24,19,-0.26193390452876397

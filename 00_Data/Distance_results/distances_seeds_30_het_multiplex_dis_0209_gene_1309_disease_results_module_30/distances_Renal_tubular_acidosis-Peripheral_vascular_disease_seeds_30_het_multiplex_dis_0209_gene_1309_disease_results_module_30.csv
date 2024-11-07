@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,-0.020000000000000018
+1,disease_on_symptoms,14,17,0.4639468690702091
+2,disease_on_drugs,27,25,0.06606837606837601

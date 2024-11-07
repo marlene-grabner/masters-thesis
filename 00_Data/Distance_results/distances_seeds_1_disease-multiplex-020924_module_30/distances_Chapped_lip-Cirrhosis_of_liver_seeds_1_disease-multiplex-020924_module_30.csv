@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.3226190476190476
+1,disease_on_symptoms,21,14,0.7452380952380953
+2,disease_on_drugs,24,26,0.6007692307692309

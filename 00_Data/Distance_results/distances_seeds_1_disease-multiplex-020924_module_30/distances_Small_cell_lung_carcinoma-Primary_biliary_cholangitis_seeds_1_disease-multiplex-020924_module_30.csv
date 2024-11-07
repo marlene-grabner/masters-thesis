@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,27,26,0.5090711175616838
+1,disease_on_symptoms,24,17,1.1510640841702537
+2,disease_on_drugs,25,18,0.9361240310077519

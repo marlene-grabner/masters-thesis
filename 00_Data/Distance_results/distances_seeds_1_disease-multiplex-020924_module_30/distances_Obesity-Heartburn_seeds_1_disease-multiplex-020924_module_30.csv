@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,0.056602564102564035
+1,disease_on_symptoms,20,20,1.025
+2,disease_on_drugs,27,22,0.7361540575826291

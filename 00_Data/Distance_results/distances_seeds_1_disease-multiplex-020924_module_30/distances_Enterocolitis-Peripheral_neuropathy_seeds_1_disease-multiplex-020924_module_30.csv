@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,27,30,0.21306042884990273
+1,disease_on_symptoms,21,20,1.345876887340302
+2,disease_on_drugs,24,24,0.6875

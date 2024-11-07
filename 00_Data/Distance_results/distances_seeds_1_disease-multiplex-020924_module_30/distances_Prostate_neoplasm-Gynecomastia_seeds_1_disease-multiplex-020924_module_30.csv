@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,17,30,0.09511889862327916
+1,disease_on_symptoms,21,16,0.8625321750321748
+2,disease_on_drugs,17,24,0.19574964131994266

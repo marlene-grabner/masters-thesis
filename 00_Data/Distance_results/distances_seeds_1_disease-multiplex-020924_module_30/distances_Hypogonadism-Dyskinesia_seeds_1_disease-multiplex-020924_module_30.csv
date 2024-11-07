@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.1112421383647797
+1,disease_on_symptoms,12,17,1.5059161595672752
+2,disease_on_drugs,30,23,0.6248427672955976

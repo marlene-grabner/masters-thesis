@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,-0.1179193899782135
+1,disease_on_symptoms,20,21,0.005749128919860569
+2,disease_on_drugs,21,27,-0.06845238095238104

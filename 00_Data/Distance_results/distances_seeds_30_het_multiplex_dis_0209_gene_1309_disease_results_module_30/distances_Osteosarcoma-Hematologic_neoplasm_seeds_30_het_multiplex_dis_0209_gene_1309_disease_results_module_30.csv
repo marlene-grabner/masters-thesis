@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999984
+1,disease_on_symptoms,22,18,-0.4893939393939395
+2,disease_on_drugs,29,27,-0.2528735632183907

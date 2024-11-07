@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Pneumonia nodes,sAB
+0,disease_on_genes,17,30,-0.007050479766374851
+1,disease_on_symptoms,21,26,0.057458498947860814
+2,disease_on_drugs,14,28,0.26190476190476186

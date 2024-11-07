@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,0.2321428571428572
+1,disease_on_symptoms,15,16,0.7821236559139784
+2,disease_on_drugs,26,24,0.5774999999999999

@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,21,0.022486772486772333
+1,disease_on_symptoms,16,25,0.0649085365853661
+2,disease_on_drugs,27,21,0.3379629629629628

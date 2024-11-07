@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,19,16,-0.46898496240601517
+2,disease_on_drugs,28,28,-0.1607142857142858

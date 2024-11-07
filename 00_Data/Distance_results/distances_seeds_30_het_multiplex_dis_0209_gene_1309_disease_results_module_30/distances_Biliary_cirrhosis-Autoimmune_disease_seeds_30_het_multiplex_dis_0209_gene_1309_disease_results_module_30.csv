@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,26,-0.11538461538461531
+1,disease_on_symptoms,22,20,0.11439393939393949
+2,disease_on_drugs,25,25,-0.0800000000000003

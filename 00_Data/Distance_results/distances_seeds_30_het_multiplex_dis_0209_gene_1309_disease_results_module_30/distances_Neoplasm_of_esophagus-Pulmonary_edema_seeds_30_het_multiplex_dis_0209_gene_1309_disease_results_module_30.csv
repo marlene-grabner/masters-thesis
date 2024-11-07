@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,29,30,-0.13588544710695494
+1,disease_on_symptoms,20,11,-0.2206744868035191
+2,disease_on_drugs,25,27,-0.07478632478632485

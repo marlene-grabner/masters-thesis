@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,18,15,0.7429292929292928
+2,disease_on_drugs,22,28,0.09123376623376611

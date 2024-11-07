@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Strabismus nodes,sAB
+0,disease_on_genes,25,17,0.036414565826330625
+1,disease_on_symptoms,22,24,0.8447793148880103
+2,disease_on_drugs,25,16,0.3535060975609756

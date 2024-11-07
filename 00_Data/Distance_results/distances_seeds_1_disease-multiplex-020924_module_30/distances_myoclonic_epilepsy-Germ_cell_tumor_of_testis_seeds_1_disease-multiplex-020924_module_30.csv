@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,0.35263157894736863
+1,disease_on_symptoms,16,23,2.4910465440356746
+2,disease_on_drugs,23,20,1.6324570273003034

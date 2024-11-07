@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,23,30,0.25553732567678433
+1,disease_on_symptoms,21,13,0.38633915104503336
+2,disease_on_drugs,21,23,0.47699040090344424

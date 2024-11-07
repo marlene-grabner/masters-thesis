@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.2247536945812807
+1,disease_on_symptoms,18,15,-0.29646464646464654
+2,disease_on_drugs,28,23,-0.19486055291681903

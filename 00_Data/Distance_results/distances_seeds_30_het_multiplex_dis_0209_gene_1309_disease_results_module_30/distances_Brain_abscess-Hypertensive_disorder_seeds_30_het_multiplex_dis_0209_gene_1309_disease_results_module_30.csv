@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,27,27,-0.31481481481481477
+1,disease_on_symptoms,21,21,-0.11904761904761907
+2,disease_on_drugs,23,26,-0.44070370623165656

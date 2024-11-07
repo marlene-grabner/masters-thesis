@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,24,30,0.12731481481481466
+1,disease_on_symptoms,19,19,0.23684210526315796
+2,disease_on_drugs,19,25,0.22688995215311025

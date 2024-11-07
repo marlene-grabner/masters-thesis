@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.03418079096045212
+1,disease_on_symptoms,19,17,0.6978844169246647
+2,disease_on_drugs,30,27,0.22300194931773887

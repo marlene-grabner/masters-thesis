@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.20370370370370372
+1,disease_on_symptoms,18,17,1.1106909430438843
+2,disease_on_drugs,27,23,0.7021900161030599

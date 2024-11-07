@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,26,24,-0.07923076923076922
+1,disease_on_symptoms,18,19,0.8693298561719611
+2,disease_on_drugs,25,24,0.32729591836734695

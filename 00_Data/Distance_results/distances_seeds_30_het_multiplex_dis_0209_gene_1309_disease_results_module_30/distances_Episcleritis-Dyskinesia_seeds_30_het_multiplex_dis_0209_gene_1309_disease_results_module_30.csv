@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,18,15,0.9398989898989898
+2,disease_on_drugs,28,28,0.2857142857142856

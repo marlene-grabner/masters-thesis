@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,23,25,-0.14583333333333337
+1,disease_on_symptoms,22,20,0.5401515151515153
+2,disease_on_drugs,21,25,-0.2135403726708074

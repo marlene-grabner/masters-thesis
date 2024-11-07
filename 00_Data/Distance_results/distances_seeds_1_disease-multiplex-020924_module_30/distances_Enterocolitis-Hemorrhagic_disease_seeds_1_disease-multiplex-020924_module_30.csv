@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,24,0.4312363834422659
+1,disease_on_symptoms,21,19,1.6782581453634084
+2,disease_on_drugs,24,19,0.5715779273765809

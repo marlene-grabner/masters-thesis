@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,22,17,0.4279103249691485
+2,disease_on_drugs,27,25,0.13498575498575494

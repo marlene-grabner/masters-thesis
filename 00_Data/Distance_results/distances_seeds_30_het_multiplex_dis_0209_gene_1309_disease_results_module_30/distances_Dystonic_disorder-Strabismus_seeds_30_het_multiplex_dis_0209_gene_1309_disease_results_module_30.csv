@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.3566958698372966
+1,disease_on_symptoms,17,24,-0.019757293161166922
+2,disease_on_drugs,26,16,-0.3192536630036631

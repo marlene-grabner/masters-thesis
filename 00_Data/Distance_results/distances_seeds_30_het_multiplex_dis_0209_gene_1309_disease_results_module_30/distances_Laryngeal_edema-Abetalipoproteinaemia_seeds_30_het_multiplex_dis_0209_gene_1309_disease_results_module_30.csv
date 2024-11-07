@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.006926406926407003
+1,disease_on_symptoms,16,26,0.11229395604395598
+2,disease_on_drugs,28,14,0.17261904761904767

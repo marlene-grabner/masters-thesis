@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,25,0.13818181818181818
+1,disease_on_symptoms,22,13,1.098051948051948
+2,disease_on_drugs,29,16,0.3047653256704981

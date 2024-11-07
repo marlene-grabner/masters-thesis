@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Fatigue nodes,sAB
+0,disease_on_genes,14,26,0.27582417582417595
+1,disease_on_symptoms,27,21,1.3849206349206349
+2,disease_on_drugs,8,26,0.6049208144796381

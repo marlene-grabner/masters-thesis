@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,29,30,-0.10198714202220915
+1,disease_on_symptoms,20,16,0.11319444444444438
+2,disease_on_drugs,24,27,-0.08592047930283231

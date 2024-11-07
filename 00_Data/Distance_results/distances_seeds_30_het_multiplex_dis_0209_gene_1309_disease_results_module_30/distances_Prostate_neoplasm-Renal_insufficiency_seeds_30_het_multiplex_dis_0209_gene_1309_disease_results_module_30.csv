@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,21,30,-0.161064425770308
+1,disease_on_symptoms,20,19,0.22918353576248318
+2,disease_on_drugs,21,28,0.013605442176870541

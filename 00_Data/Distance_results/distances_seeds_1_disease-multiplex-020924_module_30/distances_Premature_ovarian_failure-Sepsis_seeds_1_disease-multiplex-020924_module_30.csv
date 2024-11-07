@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Sepsis nodes,sAB
+0,disease_on_genes,28,22,0.16636363636363627
+1,disease_on_symptoms,21,23,0.8830698287220025
+2,disease_on_drugs,21,17,0.4198732124428719

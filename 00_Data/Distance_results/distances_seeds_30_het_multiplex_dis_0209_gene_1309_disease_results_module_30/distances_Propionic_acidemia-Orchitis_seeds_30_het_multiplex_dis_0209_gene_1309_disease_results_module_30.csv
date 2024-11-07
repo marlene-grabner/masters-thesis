@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,0.036363636363636376
+1,disease_on_symptoms,16,19,0.38209586466165435
+2,disease_on_drugs,30,25,0.2345454545454546

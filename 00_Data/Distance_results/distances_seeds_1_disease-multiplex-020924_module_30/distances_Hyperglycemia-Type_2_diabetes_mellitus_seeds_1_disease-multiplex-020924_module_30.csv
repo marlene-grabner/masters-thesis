@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,16,-0.7106884057971015
+1,disease_on_symptoms,14,21,-0.8095238095238093
+2,disease_on_drugs,26,15,-0.4390243902439024

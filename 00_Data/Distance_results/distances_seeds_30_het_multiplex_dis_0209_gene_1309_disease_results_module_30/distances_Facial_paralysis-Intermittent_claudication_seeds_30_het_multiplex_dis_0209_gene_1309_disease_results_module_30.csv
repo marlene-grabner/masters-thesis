@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,22,30,0.17307692307692313
+1,disease_on_symptoms,21,14,0.4666666666666668
+2,disease_on_drugs,17,24,0.26306193208990925

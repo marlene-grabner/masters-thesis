@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,25,26,-0.13725490196078427
+1,disease_on_symptoms,22,19,0.21749912475201283
+2,disease_on_drugs,25,25,0.05999999999999983

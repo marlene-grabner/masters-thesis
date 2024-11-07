@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.07547169811320753
+1,disease_on_symptoms,16,17,1.7939505347593583
+2,disease_on_drugs,21,22,0.6040722843048425

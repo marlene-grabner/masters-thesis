@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,29,18,-0.04255319148936165
+1,disease_on_symptoms,16,21,1.6064591377091375
+2,disease_on_drugs,26,17,0.1443228454172365

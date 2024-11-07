@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Tremor nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,11,17,1.1126814362108481
+2,disease_on_drugs,27,24,0.17728758169934622

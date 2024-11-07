@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,18,30,0.8749999999999998
+1,disease_on_symptoms,18,25,1.1720155038759688
+2,disease_on_drugs,10,7,1.107983193277311

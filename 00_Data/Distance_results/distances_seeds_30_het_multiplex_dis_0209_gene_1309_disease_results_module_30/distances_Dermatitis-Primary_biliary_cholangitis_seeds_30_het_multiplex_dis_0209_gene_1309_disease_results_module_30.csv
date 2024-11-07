@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,-0.0892857142857143
+1,disease_on_symptoms,14,23,0.03042638912204132
+2,disease_on_drugs,28,26,0.20065120065120046

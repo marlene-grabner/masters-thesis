@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,24,29,-0.024247491638796026
+1,disease_on_symptoms,23,14,0.5385261037434947
+2,disease_on_drugs,20,28,0.05833333333333335

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,27,30,-0.5116959064327485
+1,disease_on_symptoms,18,21,-0.5518925518925519
+2,disease_on_drugs,25,29,-0.46398467432950186

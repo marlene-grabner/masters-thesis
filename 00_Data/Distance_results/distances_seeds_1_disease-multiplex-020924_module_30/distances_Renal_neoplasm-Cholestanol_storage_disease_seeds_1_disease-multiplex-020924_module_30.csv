@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,22,30,0.25174825174825166
+1,disease_on_symptoms,25,17,1.4098039215686278
+2,disease_on_drugs,18,25,1.2288372093023257

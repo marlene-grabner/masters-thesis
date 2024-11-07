@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.07161172161172169
+1,disease_on_symptoms,22,25,0.6576595744680851
+2,disease_on_drugs,27,25,0.09307692307692306

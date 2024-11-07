@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Cough nodes,sAB
+0,disease_on_genes,27,27,-0.03703703703703698
+1,disease_on_symptoms,18,22,1.2906565656565658
+2,disease_on_drugs,25,24,0.4085034013605442

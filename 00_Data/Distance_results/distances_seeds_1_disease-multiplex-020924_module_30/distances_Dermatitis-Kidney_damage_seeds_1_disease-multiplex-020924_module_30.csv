@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.033333333333333215
+1,disease_on_symptoms,25,26,0.15675716440422316
+2,disease_on_drugs,24,13,-0.07181219681219697

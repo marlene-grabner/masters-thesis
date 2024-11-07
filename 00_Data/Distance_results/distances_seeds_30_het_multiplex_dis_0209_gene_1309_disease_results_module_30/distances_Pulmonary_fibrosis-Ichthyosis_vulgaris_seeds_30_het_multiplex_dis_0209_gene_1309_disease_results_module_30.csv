@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,-0.15384615384615385
+1,disease_on_symptoms,22,21,0.5151263465216953
+2,disease_on_drugs,25,24,-0.24413265306122456

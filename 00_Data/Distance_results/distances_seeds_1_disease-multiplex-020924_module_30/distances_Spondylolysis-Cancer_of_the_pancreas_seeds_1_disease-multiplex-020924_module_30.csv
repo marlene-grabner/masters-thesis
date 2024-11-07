@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,29,0.31878306878306883
+1,disease_on_symptoms,19,16,0.8373120300751882
+2,disease_on_drugs,20,29,0.6108198451794511

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,16,30,0.24456521739130443
+1,disease_on_symptoms,26,13,0.46153846153846145
+2,disease_on_drugs,14,23,0.7455934195064631

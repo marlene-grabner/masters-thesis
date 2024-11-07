@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Constipation nodes,sAB
+0,disease_on_genes,22,30,0.002564102564102555
+1,disease_on_symptoms,21,16,1.864261583011583
+2,disease_on_drugs,21,28,0.41326530612244916

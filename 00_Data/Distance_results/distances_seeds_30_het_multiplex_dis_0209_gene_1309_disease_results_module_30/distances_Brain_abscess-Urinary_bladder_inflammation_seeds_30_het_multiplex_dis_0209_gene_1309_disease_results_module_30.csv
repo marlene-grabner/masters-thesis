@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,21,16,-0.08643018018018012
+2,disease_on_drugs,23,29,-0.30757698074039885

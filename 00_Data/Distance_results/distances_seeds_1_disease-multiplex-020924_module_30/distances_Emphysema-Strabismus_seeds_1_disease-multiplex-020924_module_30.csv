@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.30980918306499694
+1,disease_on_symptoms,14,26,1.0859890109890111
+2,disease_on_drugs,29,9,0.3128654970760234

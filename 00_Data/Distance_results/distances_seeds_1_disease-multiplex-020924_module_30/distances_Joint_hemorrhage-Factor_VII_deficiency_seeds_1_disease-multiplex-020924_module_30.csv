@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.47363636363636374
+1,disease_on_symptoms,13,23,-0.7974730583426236
+2,disease_on_drugs,18,21,-0.43864468864468864

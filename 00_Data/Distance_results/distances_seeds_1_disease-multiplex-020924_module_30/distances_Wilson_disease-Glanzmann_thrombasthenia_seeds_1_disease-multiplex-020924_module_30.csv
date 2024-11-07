@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,23,24,0.12579016342892357
+1,disease_on_symptoms,19,21,1.4787593984962406
+2,disease_on_drugs,11,24,0.8101190476190478

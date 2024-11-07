@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,0.19561403508771935
+1,disease_on_symptoms,24,17,0.6826279292204689
+2,disease_on_drugs,25,27,0.6707692307692308

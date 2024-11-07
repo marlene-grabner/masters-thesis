@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666674
+1,disease_on_symptoms,20,22,-0.4405844155844154
+2,disease_on_drugs,30,29,-0.1523085914669784

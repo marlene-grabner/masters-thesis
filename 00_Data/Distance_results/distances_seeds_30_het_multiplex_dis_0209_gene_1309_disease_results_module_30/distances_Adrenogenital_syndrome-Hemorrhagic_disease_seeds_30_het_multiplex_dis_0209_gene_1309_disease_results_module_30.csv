@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,9,19,0.45300751879699286
+2,disease_on_drugs,23,24,0.2148473635522663

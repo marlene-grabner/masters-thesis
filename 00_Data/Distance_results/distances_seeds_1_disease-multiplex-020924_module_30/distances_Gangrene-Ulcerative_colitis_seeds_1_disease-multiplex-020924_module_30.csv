@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,-0.01816911250873532
+1,disease_on_symptoms,19,20,0.9234480431848855
+2,disease_on_drugs,23,25,0.1032608695652173

@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,0.15624507486209605
+1,disease_on_symptoms,22,27,1.4788016216587645
+2,disease_on_drugs,26,19,0.48070175438596485

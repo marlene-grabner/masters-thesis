@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.020000000000000018
+1,disease_on_symptoms,17,26,1.537198779332842
+2,disease_on_drugs,24,24,0.7083333333333333

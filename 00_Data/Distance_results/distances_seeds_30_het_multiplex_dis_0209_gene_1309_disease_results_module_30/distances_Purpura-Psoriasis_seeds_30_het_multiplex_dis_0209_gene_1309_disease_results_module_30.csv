@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.0185185185185186
+1,disease_on_symptoms,17,17,0.38235294117647056
+2,disease_on_drugs,24,30,0.038425925925926085

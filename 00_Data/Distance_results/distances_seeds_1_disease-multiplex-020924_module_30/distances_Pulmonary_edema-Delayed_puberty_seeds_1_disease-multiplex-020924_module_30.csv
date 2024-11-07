@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,22,0.27030812324929987
+1,disease_on_symptoms,14,20,1.1846638655462187
+2,disease_on_drugs,27,19,0.6277226883634206

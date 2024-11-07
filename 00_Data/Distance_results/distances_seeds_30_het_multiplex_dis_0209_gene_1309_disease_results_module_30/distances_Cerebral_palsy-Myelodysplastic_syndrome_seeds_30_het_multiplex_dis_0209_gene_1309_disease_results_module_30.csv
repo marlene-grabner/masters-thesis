@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.2857142857142858
+1,disease_on_symptoms,13,17,0.9692307692307693
+2,disease_on_drugs,21,24,0.21785714285714297

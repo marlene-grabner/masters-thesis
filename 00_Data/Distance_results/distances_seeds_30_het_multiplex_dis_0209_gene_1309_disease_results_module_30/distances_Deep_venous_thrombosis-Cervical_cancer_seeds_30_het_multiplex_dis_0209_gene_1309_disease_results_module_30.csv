@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.051724137931034475
+1,disease_on_symptoms,16,22,0.7372906698564594
+2,disease_on_drugs,28,15,0.5921373200442968

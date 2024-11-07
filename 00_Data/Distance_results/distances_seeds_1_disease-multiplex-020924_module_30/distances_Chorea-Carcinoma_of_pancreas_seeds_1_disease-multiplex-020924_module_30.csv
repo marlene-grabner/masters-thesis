@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,14,23,0.666988416988417
+1,disease_on_symptoms,27,25,1.5182905982905983
+2,disease_on_drugs,8,21,1.3857758620689653

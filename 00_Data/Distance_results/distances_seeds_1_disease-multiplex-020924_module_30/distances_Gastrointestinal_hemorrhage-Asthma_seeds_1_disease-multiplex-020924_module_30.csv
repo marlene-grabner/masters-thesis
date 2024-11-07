@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.11603988603988591
+1,disease_on_symptoms,19,19,1.1842105263157894
+2,disease_on_drugs,27,24,0.3308823529411766

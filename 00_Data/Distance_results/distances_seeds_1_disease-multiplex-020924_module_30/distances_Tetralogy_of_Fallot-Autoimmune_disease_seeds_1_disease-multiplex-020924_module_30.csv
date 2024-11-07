@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.3565268065268066
+1,disease_on_symptoms,14,19,0.8154477101845523
+2,disease_on_drugs,11,19,0.8070175438596492

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.339102564102564
+1,disease_on_symptoms,15,21,1.1658730158730162
+2,disease_on_drugs,21,23,0.6125541125541127

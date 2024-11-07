@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,15,26,0.3376797998749217
+1,disease_on_symptoms,25,21,1.237888198757764
+2,disease_on_drugs,10,25,0.4028571428571428

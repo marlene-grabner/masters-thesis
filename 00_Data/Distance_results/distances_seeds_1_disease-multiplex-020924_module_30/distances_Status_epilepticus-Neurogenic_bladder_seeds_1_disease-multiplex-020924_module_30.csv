@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,29,30,-0.014981492304694921
+1,disease_on_symptoms,17,17,0.8823529411764706
+2,disease_on_drugs,30,26,0.3035714285714286

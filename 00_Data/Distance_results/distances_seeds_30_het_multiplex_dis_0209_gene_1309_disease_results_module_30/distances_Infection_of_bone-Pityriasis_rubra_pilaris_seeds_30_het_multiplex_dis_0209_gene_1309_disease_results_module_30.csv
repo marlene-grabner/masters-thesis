@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.23001949317738812
+1,disease_on_symptoms,18,21,-0.3162393162393162
+2,disease_on_drugs,28,25,-0.28225067385444746

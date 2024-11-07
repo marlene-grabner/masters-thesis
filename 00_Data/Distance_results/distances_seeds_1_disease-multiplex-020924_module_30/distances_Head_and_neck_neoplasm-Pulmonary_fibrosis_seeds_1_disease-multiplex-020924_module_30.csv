@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,24,0.14768518518518503
+1,disease_on_symptoms,20,22,0.937878787878788
+2,disease_on_drugs,27,24,0.23529411764705888

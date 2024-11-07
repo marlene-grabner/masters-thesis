@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,17,30,0.09972882770129332
+1,disease_on_symptoms,21,15,1.1936507936507939
+2,disease_on_drugs,17,29,0.9239350912778903

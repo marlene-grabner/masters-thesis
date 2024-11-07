@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,15,17,1.0111519607843138
+2,disease_on_drugs,23,27,0.38167471819645726

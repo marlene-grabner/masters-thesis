@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.13587570621468936
+1,disease_on_symptoms,15,13,0.21904761904761916
+2,disease_on_drugs,30,22,0.25944055944055955

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3349816849816849
+1,disease_on_symptoms,15,15,0.03333333333333344
+2,disease_on_drugs,21,16,-0.023809523809523725

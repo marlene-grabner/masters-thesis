@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.19385964912280707
+1,disease_on_symptoms,17,22,0.569690113807761
+2,disease_on_drugs,17,27,0.13507625272331136

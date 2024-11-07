@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Keloid nodes,sAB
+0,disease_on_genes,21,23,-0.4556277056277055
+1,disease_on_symptoms,20,17,0.5038553259141494
+2,disease_on_drugs,21,22,-0.3261602738346925

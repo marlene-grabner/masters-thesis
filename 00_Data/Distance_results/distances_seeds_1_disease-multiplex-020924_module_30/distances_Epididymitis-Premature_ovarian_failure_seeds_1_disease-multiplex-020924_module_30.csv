@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,29,28,0.05293405928614647
+1,disease_on_symptoms,23,21,0.08959156785243727
+2,disease_on_drugs,27,21,0.2695105820105821

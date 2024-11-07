@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,23,18,0.043036408624955946
+2,disease_on_drugs,23,27,0.05768115942028995

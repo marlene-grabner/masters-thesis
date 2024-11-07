@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,14,27,-0.2552264808362368
+1,disease_on_symptoms,26,21,-0.2172083235913025
+2,disease_on_drugs,14,27,0.09798038456575031

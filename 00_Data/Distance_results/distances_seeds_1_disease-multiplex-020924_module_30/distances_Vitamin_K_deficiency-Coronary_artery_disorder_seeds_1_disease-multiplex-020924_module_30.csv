@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.19186602870813396
+1,disease_on_symptoms,23,21,2.0384434406173533
+2,disease_on_drugs,20,17,0.6256756756756756

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Ascites nodes,sAB
+0,disease_on_genes,17,30,0.13315217391304346
+1,disease_on_symptoms,27,17,0.9104773222420284
+2,disease_on_drugs,14,27,0.3965350367789391

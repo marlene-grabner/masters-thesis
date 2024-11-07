@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,14,30,0.0714285714285714
+1,disease_on_symptoms,23,21,1.4153491436100132
+2,disease_on_drugs,14,29,0.9887730553327989

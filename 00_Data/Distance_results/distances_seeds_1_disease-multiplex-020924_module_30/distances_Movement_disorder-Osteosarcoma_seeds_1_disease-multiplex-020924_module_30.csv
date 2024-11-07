@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,25,0.40121212121212135
+1,disease_on_symptoms,22,24,1.7010046113306982
+2,disease_on_drugs,15,23,1.4

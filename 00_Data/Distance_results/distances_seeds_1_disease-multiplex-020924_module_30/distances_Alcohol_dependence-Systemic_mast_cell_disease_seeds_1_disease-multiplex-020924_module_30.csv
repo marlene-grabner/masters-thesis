@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,12,29,0.44319456125595735
+1,disease_on_symptoms,27,16,1.781276916451335
+2,disease_on_drugs,9,25,0.8300653594771241

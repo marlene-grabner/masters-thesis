@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Diarrhea nodes,sAB
+0,disease_on_genes,25,27,0.27125356125356115
+1,disease_on_symptoms,20,19,1.8964574898785425
+2,disease_on_drugs,14,26,0.4486263736263736

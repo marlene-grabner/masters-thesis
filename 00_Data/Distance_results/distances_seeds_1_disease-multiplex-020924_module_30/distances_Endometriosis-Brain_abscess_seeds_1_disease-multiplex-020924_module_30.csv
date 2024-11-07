@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,0.2241715399610138
+1,disease_on_symptoms,12,21,0.5324675324675323
+2,disease_on_drugs,27,23,0.5695652173913042

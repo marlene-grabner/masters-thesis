@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,27,29,-0.054894179894180106
+1,disease_on_symptoms,21,14,0.5952380952380949
+2,disease_on_drugs,25,22,-0.03323017408123796

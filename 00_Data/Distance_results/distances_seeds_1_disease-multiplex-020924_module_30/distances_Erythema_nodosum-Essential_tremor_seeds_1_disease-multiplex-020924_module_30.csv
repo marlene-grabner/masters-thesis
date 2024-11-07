@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.39030612244897966
+1,disease_on_symptoms,23,20,1.5595803842264913
+2,disease_on_drugs,28,19,0.657954727243641

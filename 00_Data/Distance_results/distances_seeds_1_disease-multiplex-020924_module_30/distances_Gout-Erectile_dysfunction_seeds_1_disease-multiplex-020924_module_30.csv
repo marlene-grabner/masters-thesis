@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,0.05060606060606054
+1,disease_on_symptoms,18,16,1.2616421568627452
+2,disease_on_drugs,23,30,0.3462264150943395

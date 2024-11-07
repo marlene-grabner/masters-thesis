@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,29,0.28038847117794496
+1,disease_on_symptoms,19,13,0.975328947368421
+2,disease_on_drugs,25,22,0.571044487427466

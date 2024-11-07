@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Gangrene nodes,sAB
+0,disease_on_genes,20,26,0.22934782608695659
+1,disease_on_symptoms,22,19,0.9263916442992179
+2,disease_on_drugs,15,23,0.694050343249428

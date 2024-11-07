@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.01851851851851849
+1,disease_on_symptoms,17,19,0.980220158238734
+2,disease_on_drugs,29,24,0.2507726089785296

@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,23,20,0.2986097067745199
+1,disease_on_symptoms,25,24,0.6729421768707482
+2,disease_on_drugs,18,18,0.4999999999999998

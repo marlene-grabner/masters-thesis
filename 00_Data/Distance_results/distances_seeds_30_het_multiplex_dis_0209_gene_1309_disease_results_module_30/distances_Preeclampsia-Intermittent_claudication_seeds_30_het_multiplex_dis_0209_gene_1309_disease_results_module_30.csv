@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,18,14,0.9236111111111112
+2,disease_on_drugs,22,24,-0.08456851119894604

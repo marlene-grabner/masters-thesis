@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.035964912280701755
+1,disease_on_symptoms,17,18,1.001167133520075
+2,disease_on_drugs,26,22,0.2122668997668995

@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,16,19,0.17819548872180446
+2,disease_on_drugs,29,24,0.017444697462589254

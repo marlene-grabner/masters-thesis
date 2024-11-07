@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,24,27,-0.17647058823529416
+1,disease_on_symptoms,21,17,1.3386407194456729
+2,disease_on_drugs,24,24,-0.2499999999999999

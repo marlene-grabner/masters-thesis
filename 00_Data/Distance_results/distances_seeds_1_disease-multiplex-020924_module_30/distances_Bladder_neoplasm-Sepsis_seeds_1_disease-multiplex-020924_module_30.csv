@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,22,0.303030303030303
+1,disease_on_symptoms,20,23,1.0025025278058646
+2,disease_on_drugs,25,17,0.9173669467787116

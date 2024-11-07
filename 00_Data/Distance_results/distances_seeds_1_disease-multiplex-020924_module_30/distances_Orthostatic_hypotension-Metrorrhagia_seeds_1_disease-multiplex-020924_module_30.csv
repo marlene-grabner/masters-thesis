@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.31666666666666665
+1,disease_on_symptoms,12,17,1.434499661933739
+2,disease_on_drugs,17,26,0.8391034410186258

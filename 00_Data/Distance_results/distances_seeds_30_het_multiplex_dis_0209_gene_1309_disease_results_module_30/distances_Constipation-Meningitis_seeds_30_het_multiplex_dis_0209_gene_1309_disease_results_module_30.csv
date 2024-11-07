@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.15225988700564963
+1,disease_on_symptoms,16,17,0.27857620320855636
+2,disease_on_drugs,28,27,-0.164045214045214

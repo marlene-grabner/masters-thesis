@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.27083333333333326
+1,disease_on_symptoms,18,27,1.0796296296296295
+2,disease_on_drugs,27,17,0.7509902951079421

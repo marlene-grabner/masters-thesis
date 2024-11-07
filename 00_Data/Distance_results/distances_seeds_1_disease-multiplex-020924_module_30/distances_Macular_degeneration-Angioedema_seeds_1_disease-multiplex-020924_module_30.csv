@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.2930623973727422
+1,disease_on_symptoms,15,17,0.7296568627450979
+2,disease_on_drugs,21,25,0.9544513457556936

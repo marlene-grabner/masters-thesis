@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,21,25,0.2474948240165631
+1,disease_on_symptoms,20,16,1.6416666666666666
+2,disease_on_drugs,19,17,0.7483660130718954

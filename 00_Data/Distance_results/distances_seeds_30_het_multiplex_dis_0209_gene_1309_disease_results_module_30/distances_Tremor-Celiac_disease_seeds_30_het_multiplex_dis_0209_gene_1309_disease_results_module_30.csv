@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,17,18,1.238655462184874
+2,disease_on_drugs,24,28,0.3759157509157509

@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,9,19,0.11654135338345872
+2,disease_on_drugs,23,25,0.2486594202898551

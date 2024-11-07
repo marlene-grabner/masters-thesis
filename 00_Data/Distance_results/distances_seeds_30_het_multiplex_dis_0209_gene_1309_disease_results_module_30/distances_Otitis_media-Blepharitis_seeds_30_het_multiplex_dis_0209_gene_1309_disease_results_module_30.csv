@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,30,-0.06808883693746337
+1,disease_on_symptoms,20,18,0.5469298245614034
+2,disease_on_drugs,28,30,-0.06867816091954015

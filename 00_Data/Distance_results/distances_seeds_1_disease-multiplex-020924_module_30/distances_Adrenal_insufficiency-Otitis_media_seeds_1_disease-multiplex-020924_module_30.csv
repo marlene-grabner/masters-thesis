@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Otitis_media nodes,sAB
+0,disease_on_genes,17,29,0.07236087838433747
+1,disease_on_symptoms,21,22,0.35140440954394436
+2,disease_on_drugs,14,29,0.1110665597433842

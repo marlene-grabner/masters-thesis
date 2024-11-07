@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.2705922462497563
+1,disease_on_symptoms,17,20,1.325
+2,disease_on_drugs,26,26,0.4423076923076923

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.3358333333333332
+1,disease_on_symptoms,24,23,1.6833757323465925
+2,disease_on_drugs,22,21,1.1622118191885633

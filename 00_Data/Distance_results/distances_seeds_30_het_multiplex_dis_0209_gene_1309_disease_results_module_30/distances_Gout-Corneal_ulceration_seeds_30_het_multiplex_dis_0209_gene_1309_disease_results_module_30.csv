@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,28,28,-0.03571428571428581
+1,disease_on_symptoms,19,15,0.5742002063983489
+2,disease_on_drugs,22,23,0.04330259112867818

@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,18,28,-0.021739130434782594
+1,disease_on_symptoms,21,17,2.8401149933657672
+2,disease_on_drugs,17,28,-0.012581699346405184

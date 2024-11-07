@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.3074885273258239
+1,disease_on_symptoms,24,22,2.5942028985507246
+2,disease_on_drugs,28,15,0.6680786267995571

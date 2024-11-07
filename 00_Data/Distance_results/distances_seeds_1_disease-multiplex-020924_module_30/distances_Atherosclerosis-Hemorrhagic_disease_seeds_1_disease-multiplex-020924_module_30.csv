@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.42361111111111094
+1,disease_on_symptoms,13,19,1.068825910931174
+2,disease_on_drugs,29,19,0.81140350877193

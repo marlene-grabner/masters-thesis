@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,24,30,-0.03467322942302431
+1,disease_on_symptoms,23,23,1.108695652173913
+2,disease_on_drugs,20,29,0.10694933145672048

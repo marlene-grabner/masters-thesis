@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.1875
+1,disease_on_symptoms,12,21,2.971861471861472
+2,disease_on_drugs,27,17,0.9117647058823528

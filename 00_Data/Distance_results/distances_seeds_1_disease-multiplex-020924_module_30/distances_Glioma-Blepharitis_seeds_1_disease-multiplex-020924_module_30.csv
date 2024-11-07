@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,22,20,0.45227272727272716
+1,disease_on_symptoms,24,27,1.2580337690631809
+2,disease_on_drugs,20,19,0.6915991902834007

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.0625
+1,disease_on_symptoms,18,21,2.4725274725274726
+2,disease_on_drugs,27,17,0.08615567439096838

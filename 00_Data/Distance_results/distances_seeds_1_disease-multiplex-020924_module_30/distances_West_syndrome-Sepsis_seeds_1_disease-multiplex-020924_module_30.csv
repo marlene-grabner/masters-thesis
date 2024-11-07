@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Sepsis nodes,sAB
+0,disease_on_genes,29,22,0.5334224598930479
+1,disease_on_symptoms,18,23,2.077883822316484
+2,disease_on_drugs,22,17,0.9411764705882353

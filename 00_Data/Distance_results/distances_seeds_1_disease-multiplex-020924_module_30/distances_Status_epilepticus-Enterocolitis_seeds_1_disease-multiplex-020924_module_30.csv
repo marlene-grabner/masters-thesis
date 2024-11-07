@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,29,27,0.28566867359970805
+1,disease_on_symptoms,17,21,1.6205956066637182
+2,disease_on_drugs,30,24,0.8310185185185184

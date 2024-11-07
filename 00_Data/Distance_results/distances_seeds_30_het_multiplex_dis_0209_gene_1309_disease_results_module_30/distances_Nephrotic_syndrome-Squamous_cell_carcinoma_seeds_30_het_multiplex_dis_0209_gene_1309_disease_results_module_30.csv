@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,15,22,0.40503685503685505
+2,disease_on_drugs,28,30,0.04802955665024622

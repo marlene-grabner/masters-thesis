@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,17,23,0.3759590792838874
+1,disease_on_symptoms,22,21,2.4363233665559245
+2,disease_on_drugs,15,21,0.7563492063492063

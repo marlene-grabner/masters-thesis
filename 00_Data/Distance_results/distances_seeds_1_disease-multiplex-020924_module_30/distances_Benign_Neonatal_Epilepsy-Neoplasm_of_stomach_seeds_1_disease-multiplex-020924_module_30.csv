@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,29,23,0.26923076923076916
+1,disease_on_symptoms,16,24,1.8979166666666667
+2,disease_on_drugs,26,22,1.5814393939393938

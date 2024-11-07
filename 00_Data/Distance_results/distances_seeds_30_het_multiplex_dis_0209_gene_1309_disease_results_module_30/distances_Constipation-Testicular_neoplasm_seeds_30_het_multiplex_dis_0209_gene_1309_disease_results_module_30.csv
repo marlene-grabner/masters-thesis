@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.05484848484848481
+1,disease_on_symptoms,16,26,0.5596382783882783
+2,disease_on_drugs,28,24,0.4056776556776558

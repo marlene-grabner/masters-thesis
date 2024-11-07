@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,0.21016483516483508
+1,disease_on_symptoms,19,16,0.7844924812030076
+2,disease_on_drugs,24,24,0.3541666666666665

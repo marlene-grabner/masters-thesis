@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.040000000000000036
+1,disease_on_symptoms,19,21,1.8924185463659147
+2,disease_on_drugs,18,21,0.05830280830280832

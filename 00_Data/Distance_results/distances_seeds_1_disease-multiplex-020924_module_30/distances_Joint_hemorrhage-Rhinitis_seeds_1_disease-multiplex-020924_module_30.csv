@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,13,15,0.976923076923077
+2,disease_on_drugs,18,22,0.44166666666666643

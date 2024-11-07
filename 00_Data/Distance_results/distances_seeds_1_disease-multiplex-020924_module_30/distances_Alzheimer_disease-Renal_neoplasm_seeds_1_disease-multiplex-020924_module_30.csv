@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,20,22,0.266125541125541
+1,disease_on_symptoms,23,25,1.3266304347826088
+2,disease_on_drugs,18,18,0.9722222222222223

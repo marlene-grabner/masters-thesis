@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.06822612085769975
+1,disease_on_symptoms,21,18,0.4551282051282053
+2,disease_on_drugs,25,27,0.15871794871794886

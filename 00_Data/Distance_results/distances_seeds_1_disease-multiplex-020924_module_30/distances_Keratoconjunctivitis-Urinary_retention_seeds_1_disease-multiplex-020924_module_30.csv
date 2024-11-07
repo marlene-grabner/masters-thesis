@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,0.3762315270935963
+1,disease_on_symptoms,25,18,1.3583204134366929
+2,disease_on_drugs,27,19,0.5369946605644547

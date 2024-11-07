@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,30,-0.12774725274725263
+1,disease_on_symptoms,21,17,0.2704555506413091
+2,disease_on_drugs,26,25,-0.17806938159879337

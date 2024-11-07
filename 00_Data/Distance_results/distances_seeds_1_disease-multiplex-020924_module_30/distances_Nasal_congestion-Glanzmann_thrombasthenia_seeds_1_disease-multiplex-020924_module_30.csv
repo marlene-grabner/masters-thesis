@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.09583333333333344
+1,disease_on_symptoms,15,21,0.8142857142857145
+2,disease_on_drugs,23,24,0.7464346284304657

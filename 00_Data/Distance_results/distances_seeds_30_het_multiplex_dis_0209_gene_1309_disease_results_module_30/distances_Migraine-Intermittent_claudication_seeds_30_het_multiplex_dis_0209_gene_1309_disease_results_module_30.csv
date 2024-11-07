@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,12,14,0.0064102564102566095
+2,disease_on_drugs,29,24,0.16255963999132494

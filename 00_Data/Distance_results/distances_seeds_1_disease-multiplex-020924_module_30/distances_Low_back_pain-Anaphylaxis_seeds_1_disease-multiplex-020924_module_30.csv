@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.2435672514619882
+1,disease_on_symptoms,17,15,0.85625
+2,disease_on_drugs,26,26,0.5192307692307694

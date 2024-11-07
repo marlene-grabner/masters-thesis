@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,18,0.6938375350140058
+2,disease_on_drugs,29,26,-0.033976368459127215

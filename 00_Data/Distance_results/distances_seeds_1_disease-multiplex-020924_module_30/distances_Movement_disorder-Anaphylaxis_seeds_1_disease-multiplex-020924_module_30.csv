@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.40233918128654955
+1,disease_on_symptoms,22,15,1.9205159705159707
+2,disease_on_drugs,15,26,0.6664165103189494

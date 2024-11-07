@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,23,27,-0.06000000000000005
+1,disease_on_symptoms,17,21,1.0943535308860386
+2,disease_on_drugs,22,24,-0.06348814229249

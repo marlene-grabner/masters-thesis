@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,28,17,-0.006535947712418277
+1,disease_on_symptoms,21,27,0.5069444444444444
+2,disease_on_drugs,21,16,0.13312419562419553

@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.018491641133150605
+1,disease_on_symptoms,22,14,1.1349206349206349
+2,disease_on_drugs,25,26,0.1956410256410257

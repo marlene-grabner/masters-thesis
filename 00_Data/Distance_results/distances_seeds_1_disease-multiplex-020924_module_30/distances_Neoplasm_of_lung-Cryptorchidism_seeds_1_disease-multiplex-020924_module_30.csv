@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.030536130536130468
+1,disease_on_symptoms,20,18,0.7983918128654972
+2,disease_on_drugs,30,18,0.1708333333333334

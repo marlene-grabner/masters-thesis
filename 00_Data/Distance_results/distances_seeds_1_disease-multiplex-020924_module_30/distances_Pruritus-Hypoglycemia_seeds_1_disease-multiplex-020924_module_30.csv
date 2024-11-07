@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,0.1399999999999999
+1,disease_on_symptoms,19,12,0.33432371250707416
+2,disease_on_drugs,24,22,0.5869565217391304

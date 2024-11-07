@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,0.24598183088749104
+1,disease_on_symptoms,17,20,1.8441573926868045
+2,disease_on_drugs,23,25,0.6032608695652173

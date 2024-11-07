@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,25,27,-0.018575498575498672
+1,disease_on_symptoms,19,20,0.6933535762483132
+2,disease_on_drugs,24,25,0.03996598639455806

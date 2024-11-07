@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,0.2116724738675957
+1,disease_on_symptoms,17,23,1.2044757033248084
+2,disease_on_drugs,25,14,1.282051282051282

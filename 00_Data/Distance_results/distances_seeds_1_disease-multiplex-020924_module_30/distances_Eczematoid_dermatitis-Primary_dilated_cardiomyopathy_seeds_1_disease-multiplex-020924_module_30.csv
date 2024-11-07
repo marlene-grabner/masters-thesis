@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,28,30,0.6545566502463054
+1,disease_on_symptoms,24,25,2.3030272108843537
+2,disease_on_drugs,28,7,1.0357142857142856

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333335
+1,disease_on_symptoms,22,21,1.1594432699083863
+2,disease_on_drugs,15,29,1.070062695924765

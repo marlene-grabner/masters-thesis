@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Gangrene nodes,sAB
+0,disease_on_genes,22,26,0.17803030303030298
+1,disease_on_symptoms,23,19,1.2428898332788494
+2,disease_on_drugs,17,23,0.8194373401534527

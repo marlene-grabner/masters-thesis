@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.3450000000000002
+1,disease_on_symptoms,17,24,0.9359457197513148
+2,disease_on_drugs,28,18,0.6792615596963423

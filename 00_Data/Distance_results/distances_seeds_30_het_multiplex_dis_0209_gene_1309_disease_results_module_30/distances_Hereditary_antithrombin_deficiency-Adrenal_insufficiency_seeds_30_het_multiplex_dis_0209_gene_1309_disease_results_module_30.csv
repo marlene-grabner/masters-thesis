@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,28,30,-0.12068965517241381
+1,disease_on_symptoms,16,15,-0.3291666666666666
+2,disease_on_drugs,23,24,-0.17312288004933718

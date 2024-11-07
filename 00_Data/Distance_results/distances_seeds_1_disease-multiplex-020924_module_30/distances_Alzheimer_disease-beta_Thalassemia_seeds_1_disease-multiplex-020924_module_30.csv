@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,20,22,0.5972943722943722
+1,disease_on_symptoms,23,21,2.4869659326181064
+2,disease_on_drugs,18,6,1.0833333333333335

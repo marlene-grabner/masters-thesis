@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,16,30,-0.025181159420289756
+1,disease_on_symptoms,21,24,2.8458333333333337
+2,disease_on_drugs,15,24,0.7019230769230771

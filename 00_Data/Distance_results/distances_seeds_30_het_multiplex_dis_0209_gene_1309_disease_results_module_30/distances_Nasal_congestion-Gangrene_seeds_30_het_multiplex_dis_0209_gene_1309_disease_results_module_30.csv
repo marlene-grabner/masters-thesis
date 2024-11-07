@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,14,22,0.18326118326118346
+2,disease_on_drugs,25,27,0.11421652421652406

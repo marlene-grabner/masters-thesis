@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,20,0.020000000000000018
+1,disease_on_symptoms,20,23,0.44327603640040447
+2,disease_on_drugs,28,18,0.29183919944789505

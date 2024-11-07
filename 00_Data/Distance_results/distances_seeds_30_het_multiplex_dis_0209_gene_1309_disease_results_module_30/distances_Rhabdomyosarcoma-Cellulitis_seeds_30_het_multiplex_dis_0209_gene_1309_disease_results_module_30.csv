@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,29,30,0.0847457627118644
+1,disease_on_symptoms,19,20,0.8490553306342778
+2,disease_on_drugs,29,26,0.4155413551965277

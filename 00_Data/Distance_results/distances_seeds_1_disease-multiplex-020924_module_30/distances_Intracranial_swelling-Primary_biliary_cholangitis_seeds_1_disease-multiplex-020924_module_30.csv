@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.4283882783882782
+1,disease_on_symptoms,14,17,0.7502033071293033
+2,disease_on_drugs,24,18,0.5267857142857142

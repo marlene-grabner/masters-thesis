@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,29,16,0.23472222222222228
+1,disease_on_symptoms,16,21,2.6939752252252256
+2,disease_on_drugs,26,15,1.048780487804878

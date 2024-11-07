@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.4339622641509434
+1,disease_on_symptoms,21,23,-0.3651421042725391
+2,disease_on_drugs,29,22,-0.4281455528920033

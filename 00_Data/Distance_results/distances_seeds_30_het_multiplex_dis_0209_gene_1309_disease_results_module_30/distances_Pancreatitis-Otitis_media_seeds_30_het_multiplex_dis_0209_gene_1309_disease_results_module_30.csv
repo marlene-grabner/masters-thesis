@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.051139684395090534
+1,disease_on_symptoms,17,20,0.24797297297297294
+2,disease_on_drugs,30,28,0.08649425287356327

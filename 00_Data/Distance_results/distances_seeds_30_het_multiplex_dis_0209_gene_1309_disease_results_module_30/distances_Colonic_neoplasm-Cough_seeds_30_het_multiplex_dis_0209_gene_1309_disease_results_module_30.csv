@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.016666666666666607
+1,disease_on_symptoms,19,22,0.6512720270743375
+2,disease_on_drugs,29,24,0.6164064194317935

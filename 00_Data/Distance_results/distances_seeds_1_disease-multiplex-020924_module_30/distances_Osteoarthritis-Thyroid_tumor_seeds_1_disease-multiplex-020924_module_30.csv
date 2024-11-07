@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,0.2897826086956523
+1,disease_on_symptoms,20,20,1.375
+2,disease_on_drugs,21,20,0.804268292682927

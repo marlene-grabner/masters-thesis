@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,17,15,-0.044607843137254743
+2,disease_on_drugs,26,30,-0.09395604395604407

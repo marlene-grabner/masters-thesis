@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.3212121212121213
+1,disease_on_symptoms,14,23,2.2829444351183477
+2,disease_on_drugs,11,20,0.8209677419354837

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Obesity nodes,sAB
+0,disease_on_genes,29,26,0.12622377622377634
+1,disease_on_symptoms,18,20,0.43771929824561395
+2,disease_on_drugs,30,27,0.507699805068226

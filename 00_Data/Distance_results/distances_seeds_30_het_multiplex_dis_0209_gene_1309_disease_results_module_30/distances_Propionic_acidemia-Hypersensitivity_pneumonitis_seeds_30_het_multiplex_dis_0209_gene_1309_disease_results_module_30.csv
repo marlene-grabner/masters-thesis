@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.21818181818181814
+1,disease_on_symptoms,16,20,0.007638888888888751
+2,disease_on_drugs,30,25,-0.08909090909090911

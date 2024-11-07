@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.08771929824561409
+1,disease_on_symptoms,20,16,0.5631944444444446
+2,disease_on_drugs,27,23,0.3214814814814815

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,17,15,0.5049019607843137
+2,disease_on_drugs,24,29,-0.04729180221210161

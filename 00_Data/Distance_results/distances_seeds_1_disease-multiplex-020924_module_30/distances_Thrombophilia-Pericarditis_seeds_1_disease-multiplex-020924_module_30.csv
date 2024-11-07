@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,0.19301994301994285
+1,disease_on_symptoms,18,22,1.4570707070707072
+2,disease_on_drugs,21,25,0.4106418219461696

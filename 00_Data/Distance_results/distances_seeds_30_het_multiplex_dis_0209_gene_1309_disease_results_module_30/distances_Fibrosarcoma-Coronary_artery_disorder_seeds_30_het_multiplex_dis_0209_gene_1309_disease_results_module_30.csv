@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.07260049220672671
+1,disease_on_symptoms,14,19,0.9925381635907953
+2,disease_on_drugs,26,22,0.026078088578088465

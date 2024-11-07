@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,30,-0.10344827586206895
+1,disease_on_symptoms,25,17,0.09417366946778705
+2,disease_on_drugs,24,30,-0.12592592592592577

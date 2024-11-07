@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Heartburn nodes,sAB
+0,disease_on_genes,14,26,-0.13571428571428557
+1,disease_on_symptoms,26,16,-0.17490842490842495
+2,disease_on_drugs,14,25,0.038131868131868085

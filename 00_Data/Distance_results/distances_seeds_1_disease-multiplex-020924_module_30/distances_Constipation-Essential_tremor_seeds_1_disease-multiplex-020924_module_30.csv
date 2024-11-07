@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.10098039215686283
+1,disease_on_symptoms,17,20,1.0761923688394275
+2,disease_on_drugs,27,19,0.28125264852953635

@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,22,19,0.14412416851441257
+2,disease_on_drugs,28,29,0.017187364964134533

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,0.1273809523809526
+1,disease_on_symptoms,16,17,0.844195632798574
+2,disease_on_drugs,30,25,0.7436363636363637

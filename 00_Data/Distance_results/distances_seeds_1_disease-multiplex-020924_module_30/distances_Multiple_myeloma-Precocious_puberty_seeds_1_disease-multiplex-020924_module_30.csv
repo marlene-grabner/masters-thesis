@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,0.1452380952380954
+1,disease_on_symptoms,21,14,0.7190476190476189
+2,disease_on_drugs,25,24,0.449795918367347

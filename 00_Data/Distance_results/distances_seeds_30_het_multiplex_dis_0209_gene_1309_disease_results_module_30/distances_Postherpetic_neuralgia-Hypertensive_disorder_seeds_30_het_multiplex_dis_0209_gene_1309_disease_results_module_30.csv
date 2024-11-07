@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,16,21,0.16666666666666652
+2,disease_on_drugs,29,26,0.11744634675669152

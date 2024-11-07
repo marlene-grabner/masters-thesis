@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.1724137931034483
+1,disease_on_symptoms,16,17,0.6062277183600715
+2,disease_on_drugs,28,28,0.017857142857142794

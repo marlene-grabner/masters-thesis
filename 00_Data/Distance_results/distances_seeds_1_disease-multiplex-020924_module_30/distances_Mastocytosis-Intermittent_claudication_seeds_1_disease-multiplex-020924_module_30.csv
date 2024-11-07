@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,18,20,0.39722222222222214
+1,disease_on_symptoms,28,24,0.7786172161172162
+2,disease_on_drugs,17,18,0.4300653594771242

@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,25,12,0.007747747747747891
+2,disease_on_drugs,30,23,-0.013494667760459489

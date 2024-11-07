@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.14035087719298245
+1,disease_on_symptoms,15,20,1.019047619047619
+2,disease_on_drugs,26,27,-0.04136429608127723

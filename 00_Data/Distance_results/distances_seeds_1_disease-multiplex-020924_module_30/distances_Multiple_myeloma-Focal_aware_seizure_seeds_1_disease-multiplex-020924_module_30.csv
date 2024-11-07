@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,0.1454545454545455
+1,disease_on_symptoms,21,15,1.5333333333333337
+2,disease_on_drugs,25,29,1.3488888888888888

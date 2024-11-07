@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.2562893081761004
+1,disease_on_symptoms,16,22,0.3649820574162679
+2,disease_on_drugs,23,17,0.33676470588235285

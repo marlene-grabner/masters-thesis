@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,30,-0.19298245614035092
+1,disease_on_symptoms,20,18,0.20438596491228056
+2,disease_on_drugs,27,29,-0.19088669950738912

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,0.11581196581196584
+1,disease_on_symptoms,14,27,1.203348819202478
+2,disease_on_drugs,29,9,0.631578947368421

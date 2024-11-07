@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,23,14,-0.18176095350008392
+2,disease_on_drugs,21,26,-0.35445405658171625

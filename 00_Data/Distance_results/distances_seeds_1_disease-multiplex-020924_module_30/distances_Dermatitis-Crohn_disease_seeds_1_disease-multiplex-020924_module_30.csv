@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,25,0.03996598639455806
+1,disease_on_symptoms,25,20,1.2544444444444447
+2,disease_on_drugs,24,21,0.04404761904761889

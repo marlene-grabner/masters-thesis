@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.11100628930817602
+1,disease_on_symptoms,18,20,0.8662280701754388
+2,disease_on_drugs,30,20,0.14166666666666683

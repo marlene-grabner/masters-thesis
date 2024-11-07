@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,29,22,0.41187227241993973
+1,disease_on_symptoms,15,21,2.852380952380952
+2,disease_on_drugs,29,6,0.644663382594417

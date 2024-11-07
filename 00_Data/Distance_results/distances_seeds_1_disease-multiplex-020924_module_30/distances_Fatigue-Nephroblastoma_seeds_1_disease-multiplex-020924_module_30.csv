@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,26,25,0.09761689291101061
+1,disease_on_symptoms,21,25,1.6519254658385094
+2,disease_on_drugs,26,21,0.8977086743044191

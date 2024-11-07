@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.1777777777777778
+1,disease_on_symptoms,19,27,1.76697177726926
+2,disease_on_drugs,29,13,0.638752052545156

@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,20,23,0.1269716885743175
+2,disease_on_drugs,30,26,0.48901098901098905

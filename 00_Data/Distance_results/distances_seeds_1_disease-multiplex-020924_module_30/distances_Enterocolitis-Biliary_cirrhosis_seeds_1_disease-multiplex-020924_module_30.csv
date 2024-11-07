@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.3211041229909153
+1,disease_on_symptoms,21,15,0.569047619047619
+2,disease_on_drugs,24,15,0.32275641025641044

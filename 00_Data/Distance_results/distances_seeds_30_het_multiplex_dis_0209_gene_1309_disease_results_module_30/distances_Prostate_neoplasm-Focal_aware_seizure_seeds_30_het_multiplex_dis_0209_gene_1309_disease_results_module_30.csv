@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,21,29,-0.20380952380952377
+1,disease_on_symptoms,20,16,0.23472222222222228
+2,disease_on_drugs,21,29,0.006174055829228253

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,24,30,-0.12962962962962965
+1,disease_on_symptoms,23,16,0.5062709030100336
+2,disease_on_drugs,22,28,0.23383116883116895

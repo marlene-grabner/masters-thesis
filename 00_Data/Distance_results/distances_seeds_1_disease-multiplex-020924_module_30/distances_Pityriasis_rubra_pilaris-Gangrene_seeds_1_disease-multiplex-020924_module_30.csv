@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,26,-0.01851851851851849
+1,disease_on_symptoms,23,19,0.08243434673640637
+2,disease_on_drugs,26,23,0.02143198416490355

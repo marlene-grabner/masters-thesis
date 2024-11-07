@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,14,19,0.38926862611073165
+2,disease_on_drugs,29,25,-0.03698595146871009

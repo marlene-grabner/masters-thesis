@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,17,29,0.06975923802804473
+1,disease_on_symptoms,25,16,1.4425
+2,disease_on_drugs,13,25,0.382591093117409

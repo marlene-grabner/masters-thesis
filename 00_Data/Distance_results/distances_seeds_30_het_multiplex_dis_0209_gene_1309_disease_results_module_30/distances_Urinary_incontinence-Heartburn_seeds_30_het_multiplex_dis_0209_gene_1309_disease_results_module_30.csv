@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Heartburn nodes,sAB
+0,disease_on_genes,29,26,-0.1636363636363637
+1,disease_on_symptoms,20,16,0.022222222222222365
+2,disease_on_drugs,20,25,-0.1466666666666665

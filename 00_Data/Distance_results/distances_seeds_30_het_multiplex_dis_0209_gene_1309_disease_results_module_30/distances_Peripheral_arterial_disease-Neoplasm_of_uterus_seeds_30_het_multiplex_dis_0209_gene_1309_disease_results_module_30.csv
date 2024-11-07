@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,26,30,0.0
+1,disease_on_symptoms,17,18,0.5985527544351075
+2,disease_on_drugs,24,26,0.036346153846153806

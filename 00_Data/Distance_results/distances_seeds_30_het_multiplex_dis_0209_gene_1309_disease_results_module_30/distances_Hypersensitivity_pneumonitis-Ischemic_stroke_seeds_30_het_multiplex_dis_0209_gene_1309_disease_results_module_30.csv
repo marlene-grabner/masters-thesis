@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,20,16,0.5111111111111111
+2,disease_on_drugs,25,28,0.17438005390835576

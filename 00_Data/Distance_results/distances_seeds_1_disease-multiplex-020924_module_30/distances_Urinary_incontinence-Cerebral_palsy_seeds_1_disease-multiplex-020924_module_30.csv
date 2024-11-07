@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,26,27,0.1323308068591087
+1,disease_on_symptoms,20,16,0.5625
+2,disease_on_drugs,20,18,0.3421052631578947

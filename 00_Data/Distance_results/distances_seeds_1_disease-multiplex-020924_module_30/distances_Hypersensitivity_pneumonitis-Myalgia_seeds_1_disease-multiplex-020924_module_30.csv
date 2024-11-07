@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,24,30,0.005555555555555536
+1,disease_on_symptoms,23,16,1.0637541806020068
+2,disease_on_drugs,24,29,0.1132075471698113

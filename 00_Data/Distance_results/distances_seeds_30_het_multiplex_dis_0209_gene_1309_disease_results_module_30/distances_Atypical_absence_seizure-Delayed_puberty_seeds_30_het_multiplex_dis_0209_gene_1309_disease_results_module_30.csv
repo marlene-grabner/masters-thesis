@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,13,16,0.5699602122015914
+2,disease_on_drugs,22,29,0.4777951933124347

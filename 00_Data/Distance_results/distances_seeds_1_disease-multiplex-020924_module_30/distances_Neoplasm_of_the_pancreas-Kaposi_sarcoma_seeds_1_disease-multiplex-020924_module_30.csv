@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,-0.0888888888888889
+1,disease_on_symptoms,20,27,0.10886524822695032
+2,disease_on_drugs,30,13,0.09302325581395343

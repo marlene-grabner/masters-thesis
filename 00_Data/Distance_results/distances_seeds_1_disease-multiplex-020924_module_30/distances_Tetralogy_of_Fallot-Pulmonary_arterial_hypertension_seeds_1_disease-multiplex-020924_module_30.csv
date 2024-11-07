@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.20636288998357966
+1,disease_on_symptoms,14,18,-0.07787698412698418
+2,disease_on_drugs,11,26,-0.39760914760914756

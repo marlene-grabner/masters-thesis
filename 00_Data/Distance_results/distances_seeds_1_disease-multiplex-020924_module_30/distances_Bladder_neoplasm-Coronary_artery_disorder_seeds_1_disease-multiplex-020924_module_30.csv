@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,26,19,0.28479532163742705
+1,disease_on_symptoms,20,21,1.385336817653891
+2,disease_on_drugs,25,17,1.0

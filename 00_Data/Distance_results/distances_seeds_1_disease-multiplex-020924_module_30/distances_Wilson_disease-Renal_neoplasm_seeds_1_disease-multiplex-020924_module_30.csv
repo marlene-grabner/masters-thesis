@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,23,22,0.13322353974527879
+1,disease_on_symptoms,19,25,1.6667464114832535
+2,disease_on_drugs,11,18,0.034482758620689724

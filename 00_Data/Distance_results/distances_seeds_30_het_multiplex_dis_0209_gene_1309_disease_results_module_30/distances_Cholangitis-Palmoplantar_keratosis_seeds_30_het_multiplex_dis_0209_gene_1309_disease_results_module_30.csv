@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,18,20,0.6672514619883039
+2,disease_on_drugs,28,23,-0.08768724881256862

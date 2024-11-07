@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,21,30,-0.09215686274509793
+1,disease_on_symptoms,22,22,0.8863636363636365
+2,disease_on_drugs,19,30,0.0837271750805586

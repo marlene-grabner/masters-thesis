@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.270935960591133
+1,disease_on_symptoms,18,16,1.0412581699346406
+2,disease_on_drugs,19,25,0.12559808612440193

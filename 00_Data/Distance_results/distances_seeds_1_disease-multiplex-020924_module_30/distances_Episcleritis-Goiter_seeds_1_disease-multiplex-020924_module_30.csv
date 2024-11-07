@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3159340659340659
+1,disease_on_symptoms,22,15,0.6201883701883704
+2,disease_on_drugs,29,16,0.3582375478927202

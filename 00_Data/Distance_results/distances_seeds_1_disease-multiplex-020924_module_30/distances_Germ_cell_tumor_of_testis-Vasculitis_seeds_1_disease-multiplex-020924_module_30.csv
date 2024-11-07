@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.4301470588235292
+1,disease_on_symptoms,23,19,1.2291598561621446
+2,disease_on_drugs,20,20,1.0250000000000001

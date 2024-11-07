@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,24,28,-0.016712454212454153
+1,disease_on_symptoms,19,18,1.1611348190295558
+2,disease_on_drugs,19,26,-0.12195231668915874

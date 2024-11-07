@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.2500000000000001
+1,disease_on_symptoms,19,22,-0.15850741043295602
+2,disease_on_drugs,22,27,-0.4570535284820999

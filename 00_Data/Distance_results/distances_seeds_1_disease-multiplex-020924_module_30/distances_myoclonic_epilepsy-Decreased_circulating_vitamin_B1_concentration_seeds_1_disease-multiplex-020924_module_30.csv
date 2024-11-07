@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.3903030303030304
+1,disease_on_symptoms,16,13,1.8838693633952257
+2,disease_on_drugs,23,16,1.2544941471571907

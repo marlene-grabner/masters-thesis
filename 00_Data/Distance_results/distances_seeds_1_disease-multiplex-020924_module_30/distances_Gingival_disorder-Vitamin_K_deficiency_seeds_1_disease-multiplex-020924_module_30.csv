@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,21,25,0.08944099378882009
+1,disease_on_symptoms,26,23,1.982083134257047
+2,disease_on_drugs,20,20,0.3999999999999999

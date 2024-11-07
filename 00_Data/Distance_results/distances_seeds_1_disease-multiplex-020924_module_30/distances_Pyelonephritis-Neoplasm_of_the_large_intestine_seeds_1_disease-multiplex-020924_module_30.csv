@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,23,20,0.14234074823053589
+1,disease_on_symptoms,21,25,0.9776811594202899
+2,disease_on_drugs,19,19,0.9473684210526314

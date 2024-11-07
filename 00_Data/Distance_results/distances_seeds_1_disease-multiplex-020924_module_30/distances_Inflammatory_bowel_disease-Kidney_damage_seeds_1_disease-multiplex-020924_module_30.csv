@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,17,20,0.3652777777777776
+1,disease_on_symptoms,27,26,2.0942455517927216
+2,disease_on_drugs,14,13,0.3275335775335775

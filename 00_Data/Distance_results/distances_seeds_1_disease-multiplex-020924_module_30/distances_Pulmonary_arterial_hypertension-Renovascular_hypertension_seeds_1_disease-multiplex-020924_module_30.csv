@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,21,-0.37159863945578253
+1,disease_on_symptoms,18,22,-0.14646464646464663
+2,disease_on_drugs,26,20,-0.4703177257525083

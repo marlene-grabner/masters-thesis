@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.3076923076923077
+1,disease_on_symptoms,19,24,1.2293706650346796
+2,disease_on_drugs,29,19,0.2805127041742286

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Periodontitis nodes,sAB
+0,disease_on_genes,21,30,-0.08263305322128844
+1,disease_on_symptoms,20,21,0.22221254355400677
+2,disease_on_drugs,21,28,0.1590136054421767

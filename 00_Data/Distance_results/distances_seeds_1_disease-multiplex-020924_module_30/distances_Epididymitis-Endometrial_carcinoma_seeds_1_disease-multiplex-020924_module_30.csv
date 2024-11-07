@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,29,23,0.2829258447699228
+1,disease_on_symptoms,23,21,0.20755693581780532
+2,disease_on_drugs,27,21,1.0790343915343916

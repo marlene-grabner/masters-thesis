@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,0.17653846153846176
+1,disease_on_symptoms,18,26,1.533022533022533
+2,disease_on_drugs,23,15,0.6842105263157894

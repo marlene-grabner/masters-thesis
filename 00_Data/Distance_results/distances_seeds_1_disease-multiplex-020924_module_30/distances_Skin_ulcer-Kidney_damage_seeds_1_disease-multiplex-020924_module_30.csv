@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.18333333333333313
+1,disease_on_symptoms,19,26,1.0846828609986505
+2,disease_on_drugs,22,13,0.6882117882117882

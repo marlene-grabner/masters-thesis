@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,28,30,0.10032840722495884
+1,disease_on_symptoms,14,15,0.8025451559934318
+2,disease_on_drugs,28,30,0.8793103448275863

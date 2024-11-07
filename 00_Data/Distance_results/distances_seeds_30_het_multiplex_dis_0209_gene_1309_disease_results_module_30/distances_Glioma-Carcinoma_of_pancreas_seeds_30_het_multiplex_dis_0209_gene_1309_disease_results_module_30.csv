@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,22,30,-0.09358974358974348
+1,disease_on_symptoms,21,18,0.4929792429792428
+2,disease_on_drugs,21,21,-0.14285714285714302

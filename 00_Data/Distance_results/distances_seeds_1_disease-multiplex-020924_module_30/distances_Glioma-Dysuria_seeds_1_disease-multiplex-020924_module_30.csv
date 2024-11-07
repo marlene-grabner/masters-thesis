@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Dysuria nodes,sAB
+0,disease_on_genes,22,30,0.3538785420124164
+1,disease_on_symptoms,24,16,1.6104166666666666
+2,disease_on_drugs,20,23,1.0927957532861474

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,20,25,0.135
+1,disease_on_symptoms,24,25,1.4914115646258501
+2,disease_on_drugs,18,23,0.3298279721927655

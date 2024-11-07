@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,21,13,0.19758672699849167
+2,disease_on_drugs,23,24,-0.4040047795251309

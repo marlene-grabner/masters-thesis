@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Fatigue nodes,sAB
+0,disease_on_genes,24,26,0.000705128205128247
+1,disease_on_symptoms,22,21,0.7942464512231955
+2,disease_on_drugs,24,26,0.061538461538461764

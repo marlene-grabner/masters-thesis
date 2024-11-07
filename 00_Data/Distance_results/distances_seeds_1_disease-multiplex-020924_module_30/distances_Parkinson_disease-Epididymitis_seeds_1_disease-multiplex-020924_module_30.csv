@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Epididymitis nodes,sAB
+0,disease_on_genes,21,29,0.37894909688013123
+1,disease_on_symptoms,20,23,1.8014661274014157
+2,disease_on_drugs,19,27,0.8107890499194845

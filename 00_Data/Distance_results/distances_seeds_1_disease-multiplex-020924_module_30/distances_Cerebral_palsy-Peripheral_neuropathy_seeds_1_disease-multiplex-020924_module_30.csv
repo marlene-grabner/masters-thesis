@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,27,30,0.013255360623781742
+1,disease_on_symptoms,16,20,-0.09583333333333321
+2,disease_on_drugs,18,24,0.2440476190476193

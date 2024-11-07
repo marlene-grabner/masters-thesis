@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,0.1607142857142858
+1,disease_on_symptoms,17,13,1.237556561085973
+2,disease_on_drugs,23,29,0.13210702341137104

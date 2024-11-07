@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.06818181818181834
+1,disease_on_symptoms,16,18,0.48488562091503273
+2,disease_on_drugs,24,18,-0.18154761904761907

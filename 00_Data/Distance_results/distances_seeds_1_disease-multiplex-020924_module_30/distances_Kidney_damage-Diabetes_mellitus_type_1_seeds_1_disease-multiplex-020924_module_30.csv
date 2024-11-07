@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,20,13,0.23916083916083908
+1,disease_on_symptoms,26,25,3.4320512820512823
+2,disease_on_drugs,13,8,0.5695970695970696

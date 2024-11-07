@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,15,14,0.34367816091954007
+2,disease_on_drugs,29,24,0.30114129256126665

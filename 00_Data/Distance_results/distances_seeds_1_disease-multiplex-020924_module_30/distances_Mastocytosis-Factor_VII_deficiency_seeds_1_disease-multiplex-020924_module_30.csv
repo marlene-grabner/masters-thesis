@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,18,25,0.33082687338501304
+1,disease_on_symptoms,28,23,1.9721258068444767
+2,disease_on_drugs,17,21,0.5514521598112929

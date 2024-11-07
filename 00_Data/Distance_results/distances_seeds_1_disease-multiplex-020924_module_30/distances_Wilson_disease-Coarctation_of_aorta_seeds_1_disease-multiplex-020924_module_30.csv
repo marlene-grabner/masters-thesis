@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,23,27,0.5713043478260869
+1,disease_on_symptoms,19,14,2.4702096149464574
+2,disease_on_drugs,11,13,1.125

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,0.18961412151067303
+1,disease_on_symptoms,19,14,0.12491455912508553
+2,disease_on_drugs,26,26,0.17307692307692313

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,20,0.45886327503974567
+2,disease_on_drugs,24,29,0.16418618520928208

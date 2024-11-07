@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.21052631578947367
+1,disease_on_symptoms,12,21,0.7716450216450217
+2,disease_on_drugs,29,27,-0.23100255427841643

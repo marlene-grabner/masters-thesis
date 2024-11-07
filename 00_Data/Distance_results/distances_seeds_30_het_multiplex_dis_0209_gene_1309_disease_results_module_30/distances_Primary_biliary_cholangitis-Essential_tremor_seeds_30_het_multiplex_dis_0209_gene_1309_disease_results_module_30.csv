@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.0851063829787233
+1,disease_on_symptoms,23,23,1.0434782608695654
+2,disease_on_drugs,26,21,0.34412750370197176

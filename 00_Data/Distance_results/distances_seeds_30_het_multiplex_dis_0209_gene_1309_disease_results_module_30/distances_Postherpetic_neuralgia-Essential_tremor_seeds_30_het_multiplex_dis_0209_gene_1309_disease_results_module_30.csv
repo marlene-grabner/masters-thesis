@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.23529411764705888
+1,disease_on_symptoms,16,23,-0.12764771460423652
+2,disease_on_drugs,29,21,-0.3314614121510675

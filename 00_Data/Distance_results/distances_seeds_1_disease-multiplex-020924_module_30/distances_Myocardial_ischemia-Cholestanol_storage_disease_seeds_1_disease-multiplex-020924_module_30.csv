@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,13,17,0.49698340874811464
+2,disease_on_drugs,23,25,0.21061594202898548

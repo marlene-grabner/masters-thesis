@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,27,22,0.19437573009001574
+1,disease_on_symptoms,21,25,2.044927536231884
+2,disease_on_drugs,27,18,0.9185185185185183

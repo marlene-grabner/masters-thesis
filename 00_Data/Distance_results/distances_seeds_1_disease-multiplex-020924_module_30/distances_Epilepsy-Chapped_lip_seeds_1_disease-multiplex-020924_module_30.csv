@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,29,26,0.38181818181818183
+1,disease_on_symptoms,18,21,1.6437728937728937
+2,disease_on_drugs,30,24,1.335185185185185

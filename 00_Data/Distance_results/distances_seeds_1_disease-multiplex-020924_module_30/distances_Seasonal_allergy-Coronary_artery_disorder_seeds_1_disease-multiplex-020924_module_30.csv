@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,19,0.19638535995160322
+1,disease_on_symptoms,15,21,2.153968253968254
+2,disease_on_drugs,29,17,0.7653673163418291

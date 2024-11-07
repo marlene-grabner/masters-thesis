@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Psoriasis nodes,sAB
+0,disease_on_genes,24,28,0.3585164835164836
+1,disease_on_symptoms,26,21,0.8897202088691447
+2,disease_on_drugs,15,28,0.5224252491694354

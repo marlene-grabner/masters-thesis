@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,-0.1916083916083916
+1,disease_on_symptoms,19,20,0.5664642375168691
+2,disease_on_drugs,28,19,-0.276595744680851

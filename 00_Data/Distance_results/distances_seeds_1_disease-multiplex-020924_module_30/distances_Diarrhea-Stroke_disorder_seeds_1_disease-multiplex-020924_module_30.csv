@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,0.11881091617933737
+1,disease_on_symptoms,19,15,0.9525283797729616
+2,disease_on_drugs,26,30,0.820054945054945

@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,25,27,-0.09692307692307689
+1,disease_on_symptoms,20,17,1.3005166931637522
+2,disease_on_drugs,22,24,0.06875823451910401

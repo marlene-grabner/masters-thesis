@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,23,26,0.2668930448433553
+1,disease_on_symptoms,19,20,1.9785762483130906
+2,disease_on_drugs,11,20,1.5806451612903225

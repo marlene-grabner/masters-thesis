@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,23,27,0.3278260869565217
+1,disease_on_symptoms,24,14,2.219611528822055
+2,disease_on_drugs,17,13,1.1333333333333333

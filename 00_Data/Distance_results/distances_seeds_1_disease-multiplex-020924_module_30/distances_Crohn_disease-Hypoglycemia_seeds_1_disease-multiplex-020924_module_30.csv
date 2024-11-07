@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.3472222222222223
+1,disease_on_symptoms,20,12,1.5541666666666667
+2,disease_on_drugs,21,22,0.8826135105204873

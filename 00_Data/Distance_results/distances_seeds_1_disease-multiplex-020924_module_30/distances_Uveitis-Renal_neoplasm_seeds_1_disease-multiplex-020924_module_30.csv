@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.08123543123543109
+1,disease_on_symptoms,21,25,0.5614906832298137
+2,disease_on_drugs,27,18,0.20370370370370372

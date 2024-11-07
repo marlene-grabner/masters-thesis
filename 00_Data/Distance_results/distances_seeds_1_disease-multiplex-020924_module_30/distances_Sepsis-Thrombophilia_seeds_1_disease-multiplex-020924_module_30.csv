@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,22,27,0.5004981790696077
+1,disease_on_symptoms,23,18,1.4572876163544242
+2,disease_on_drugs,17,21,1.2093468966533982

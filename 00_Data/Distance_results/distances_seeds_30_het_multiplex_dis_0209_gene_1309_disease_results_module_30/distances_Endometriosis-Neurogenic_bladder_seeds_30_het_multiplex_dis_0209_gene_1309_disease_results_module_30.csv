@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,18,-0.1640114379084967
+2,disease_on_drugs,30,21,-0.16624649859943963

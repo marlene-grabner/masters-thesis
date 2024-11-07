@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,-0.033333333333333215
+1,disease_on_symptoms,19,23,-0.11861174675819997
+2,disease_on_drugs,24,26,0.18115384615384622

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,21,18,0.31196581196581197
+2,disease_on_drugs,23,26,-0.3327759197324416

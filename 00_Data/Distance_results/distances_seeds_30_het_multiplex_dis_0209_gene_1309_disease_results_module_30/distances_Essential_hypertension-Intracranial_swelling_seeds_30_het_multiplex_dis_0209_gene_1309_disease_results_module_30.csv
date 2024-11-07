@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,13,11,0.5346736596736594
+2,disease_on_drugs,28,21,0.06972789115646272

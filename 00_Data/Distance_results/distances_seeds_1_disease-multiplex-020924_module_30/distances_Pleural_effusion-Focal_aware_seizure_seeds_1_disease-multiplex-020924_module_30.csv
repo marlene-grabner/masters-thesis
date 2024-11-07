@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.322316384180791
+1,disease_on_symptoms,20,15,1.2916666666666667
+2,disease_on_drugs,22,29,0.8823529411764706

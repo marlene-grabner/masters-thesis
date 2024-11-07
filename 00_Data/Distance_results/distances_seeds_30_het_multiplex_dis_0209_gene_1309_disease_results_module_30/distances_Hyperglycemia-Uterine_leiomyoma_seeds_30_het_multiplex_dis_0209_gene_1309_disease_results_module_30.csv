@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,17,20,0.8508346581875992
+2,disease_on_drugs,26,28,0.11146723646723644

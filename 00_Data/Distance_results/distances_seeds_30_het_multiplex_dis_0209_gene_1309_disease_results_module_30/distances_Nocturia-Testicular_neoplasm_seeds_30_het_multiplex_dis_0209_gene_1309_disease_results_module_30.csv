@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,-0.020000000000000018
+1,disease_on_symptoms,18,26,0.8242035742035743
+2,disease_on_drugs,24,24,0.33333333333333326

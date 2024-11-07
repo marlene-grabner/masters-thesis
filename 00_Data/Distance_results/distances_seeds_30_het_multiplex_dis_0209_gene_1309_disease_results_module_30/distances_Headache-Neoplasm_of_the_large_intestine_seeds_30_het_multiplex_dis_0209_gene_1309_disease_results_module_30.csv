@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,23,22,0.4238691260430394
+2,disease_on_drugs,23,29,0.13922846269173084

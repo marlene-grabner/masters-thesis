@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,22,0.5824592074592074
+1,disease_on_symptoms,17,21,4.059192097891788
+2,disease_on_drugs,20,6,0.6794871794871797

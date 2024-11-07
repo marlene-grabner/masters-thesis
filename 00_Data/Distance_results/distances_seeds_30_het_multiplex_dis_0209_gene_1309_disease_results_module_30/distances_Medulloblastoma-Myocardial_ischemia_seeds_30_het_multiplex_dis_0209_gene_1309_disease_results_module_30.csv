@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.36754385964912273
+1,disease_on_symptoms,22,19,-0.5967440774886219
+2,disease_on_drugs,26,30,-0.270970695970696

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,22,0.542395104895105
+1,disease_on_symptoms,28,21,3.2355442176870746
+2,disease_on_drugs,23,6,0.7081459270364818

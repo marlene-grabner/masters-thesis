@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,29,30,-0.1353107344632768
+1,disease_on_symptoms,23,19,0.35567178816606715
+2,disease_on_drugs,26,28,0.03408628408628411

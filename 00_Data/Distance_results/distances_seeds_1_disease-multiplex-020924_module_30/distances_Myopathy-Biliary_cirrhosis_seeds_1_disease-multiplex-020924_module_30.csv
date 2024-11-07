@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,18,26,0.6616161616161615
+1,disease_on_symptoms,21,15,0.5769841269841272
+2,disease_on_drugs,6,15,1.1476190476190475

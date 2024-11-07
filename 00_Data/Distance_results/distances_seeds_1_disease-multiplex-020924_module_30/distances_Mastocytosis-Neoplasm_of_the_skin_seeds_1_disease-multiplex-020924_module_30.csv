@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,18,28,0.27035886818495514
+1,disease_on_symptoms,28,21,0.885204081632653
+2,disease_on_drugs,17,24,0.672883787661406

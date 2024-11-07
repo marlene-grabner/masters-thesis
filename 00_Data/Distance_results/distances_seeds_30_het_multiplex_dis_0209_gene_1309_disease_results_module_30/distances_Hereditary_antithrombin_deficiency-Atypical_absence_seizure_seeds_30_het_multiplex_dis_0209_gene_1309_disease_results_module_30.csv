@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,16,13,0.1497015915119364
+2,disease_on_drugs,23,22,-0.061901624945103206

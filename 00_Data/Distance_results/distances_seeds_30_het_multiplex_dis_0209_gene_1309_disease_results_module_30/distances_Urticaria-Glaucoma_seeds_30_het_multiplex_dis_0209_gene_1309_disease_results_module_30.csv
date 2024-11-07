@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Glaucoma nodes,sAB
+0,disease_on_genes,24,30,-0.016666666666666607
+1,disease_on_symptoms,21,18,-0.022893772893772812
+2,disease_on_drugs,24,28,0.11698717948717974

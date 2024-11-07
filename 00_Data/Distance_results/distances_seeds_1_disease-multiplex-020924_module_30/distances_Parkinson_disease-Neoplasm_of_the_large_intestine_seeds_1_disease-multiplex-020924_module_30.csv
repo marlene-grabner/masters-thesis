@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,21,20,0.21948315911730543
+1,disease_on_symptoms,20,25,1.778888888888889
+2,disease_on_drugs,19,19,1.026315789473684

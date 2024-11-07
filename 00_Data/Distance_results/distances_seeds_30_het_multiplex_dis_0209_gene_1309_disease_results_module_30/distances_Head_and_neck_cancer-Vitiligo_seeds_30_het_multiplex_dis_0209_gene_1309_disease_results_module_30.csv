@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Vitiligo nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,22,19,-0.11211926712568565
+2,disease_on_drugs,23,25,0.022210144927536257

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,23,30,0.2606097894449
+1,disease_on_symptoms,19,20,1.3560391363022943
+2,disease_on_drugs,19,22,0.8780487804878048

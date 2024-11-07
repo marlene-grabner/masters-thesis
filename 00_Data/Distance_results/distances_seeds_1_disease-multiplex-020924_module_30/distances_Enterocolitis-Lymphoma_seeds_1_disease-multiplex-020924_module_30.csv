@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,0.13206203300542918
+1,disease_on_symptoms,21,21,1.119047619047619
+2,disease_on_drugs,24,25,0.3677380952380951

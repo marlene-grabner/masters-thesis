@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,17,-0.17914438502673757
+2,disease_on_drugs,29,17,-0.14683834553311592

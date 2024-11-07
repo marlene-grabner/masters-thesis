@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,12,13,0.522948717948718
+1,disease_on_symptoms,27,25,3.247578347578348
+2,disease_on_drugs,9,8,0.5947712418300652

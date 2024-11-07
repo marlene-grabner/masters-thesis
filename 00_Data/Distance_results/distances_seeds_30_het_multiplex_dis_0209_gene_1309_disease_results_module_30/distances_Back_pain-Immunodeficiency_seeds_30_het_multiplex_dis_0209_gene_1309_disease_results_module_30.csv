@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,15,21,0.17857142857142883
+2,disease_on_drugs,23,26,-0.04573066684867921

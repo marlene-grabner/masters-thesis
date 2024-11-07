@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,-0.0357142857142857
+1,disease_on_symptoms,17,23,0.20703324808184154
+2,disease_on_drugs,25,26,0.03870286576168924

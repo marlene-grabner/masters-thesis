@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.19200779727095507
+1,disease_on_symptoms,18,13,1.5427350427350426
+2,disease_on_drugs,21,23,-0.044654620741577444

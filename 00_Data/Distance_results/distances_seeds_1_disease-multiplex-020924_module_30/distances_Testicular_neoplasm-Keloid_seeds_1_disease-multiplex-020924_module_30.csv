@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Keloid nodes,sAB
+0,disease_on_genes,25,22,0.1698646034816247
+1,disease_on_symptoms,25,20,1.583333333333333
+2,disease_on_drugs,23,19,0.8374741200828157

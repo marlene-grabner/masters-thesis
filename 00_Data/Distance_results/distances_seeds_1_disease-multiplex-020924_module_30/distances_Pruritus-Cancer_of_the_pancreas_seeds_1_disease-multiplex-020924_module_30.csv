@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,29,0.14370370370370367
+1,disease_on_symptoms,19,16,0.9628759398496243
+2,disease_on_drugs,24,29,0.7752114508783345

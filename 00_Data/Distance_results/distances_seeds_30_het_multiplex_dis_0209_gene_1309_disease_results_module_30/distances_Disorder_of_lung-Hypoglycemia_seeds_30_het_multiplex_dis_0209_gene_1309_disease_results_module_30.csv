@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,-0.016666666666666607
+1,disease_on_symptoms,18,19,1.5465070333491386
+2,disease_on_drugs,24,27,0.12268518518518512

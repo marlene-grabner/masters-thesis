@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.14814814814814836
+1,disease_on_symptoms,21,15,0.9301587301587302
+2,disease_on_drugs,24,26,0.40070512820512816

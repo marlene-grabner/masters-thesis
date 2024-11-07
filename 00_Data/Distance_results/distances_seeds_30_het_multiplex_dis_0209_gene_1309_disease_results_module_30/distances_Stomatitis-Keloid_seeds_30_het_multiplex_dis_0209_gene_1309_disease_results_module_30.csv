@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.05660377358490565
+1,disease_on_symptoms,19,17,0.9514963880288958
+2,disease_on_drugs,29,22,0.03778658798942769

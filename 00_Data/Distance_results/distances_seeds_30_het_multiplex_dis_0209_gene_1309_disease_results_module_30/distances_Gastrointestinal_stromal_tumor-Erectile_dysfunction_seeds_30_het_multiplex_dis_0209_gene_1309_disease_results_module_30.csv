@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,15,0.5563467492260061
+2,disease_on_drugs,28,30,0.3601806239737273

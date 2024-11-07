@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,22,0.35350529100529116
+1,disease_on_symptoms,18,26,2.584693084693085
+2,disease_on_drugs,21,12,1.528138528138528

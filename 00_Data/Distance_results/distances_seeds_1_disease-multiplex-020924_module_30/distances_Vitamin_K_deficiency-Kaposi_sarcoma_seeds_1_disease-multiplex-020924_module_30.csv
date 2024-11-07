@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,25,15,-0.06666666666666643
+1,disease_on_symptoms,23,27,1.7237681159420288
+2,disease_on_drugs,20,13,0.3136363636363635

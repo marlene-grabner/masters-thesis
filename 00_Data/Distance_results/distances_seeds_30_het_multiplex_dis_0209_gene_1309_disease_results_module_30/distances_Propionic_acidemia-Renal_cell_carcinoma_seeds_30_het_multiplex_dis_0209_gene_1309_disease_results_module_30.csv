@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.28167641325536075
+1,disease_on_symptoms,16,22,-0.14189593301435388
+2,disease_on_drugs,30,22,-0.12622377622377634

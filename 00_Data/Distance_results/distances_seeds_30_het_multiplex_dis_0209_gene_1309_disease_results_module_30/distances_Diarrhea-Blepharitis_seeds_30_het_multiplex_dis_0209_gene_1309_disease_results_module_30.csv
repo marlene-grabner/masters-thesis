@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,21,18,0.41758241758241765
+2,disease_on_drugs,29,30,-0.06670563023572962

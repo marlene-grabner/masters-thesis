@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,0.032163742690058506
+1,disease_on_symptoms,22,13,0.4315184815184816
+2,disease_on_drugs,20,24,-0.0359848484848484

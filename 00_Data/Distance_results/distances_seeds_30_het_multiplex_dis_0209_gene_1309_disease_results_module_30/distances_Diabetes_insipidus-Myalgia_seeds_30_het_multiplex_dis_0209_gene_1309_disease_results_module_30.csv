@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,20,16,0.14375000000000004
+2,disease_on_drugs,20,29,-0.07090077410274453

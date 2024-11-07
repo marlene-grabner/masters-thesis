@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.31414267834793497
+1,disease_on_symptoms,14,24,0.09570802005012502
+2,disease_on_drugs,25,16,-0.14551829268292704

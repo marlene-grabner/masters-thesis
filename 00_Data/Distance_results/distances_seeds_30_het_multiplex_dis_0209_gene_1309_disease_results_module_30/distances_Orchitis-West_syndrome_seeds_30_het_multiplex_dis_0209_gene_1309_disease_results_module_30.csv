@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.16363636363636358
+1,disease_on_symptoms,19,13,1.2545546558704452
+2,disease_on_drugs,25,19,0.27473684210526317

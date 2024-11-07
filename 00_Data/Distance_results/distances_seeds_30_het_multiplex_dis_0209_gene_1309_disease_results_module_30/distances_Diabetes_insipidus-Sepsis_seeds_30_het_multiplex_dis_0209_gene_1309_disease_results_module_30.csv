@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,30,0.214102564102564
+1,disease_on_symptoms,20,15,1.35
+2,disease_on_drugs,20,25,0.4722222222222221

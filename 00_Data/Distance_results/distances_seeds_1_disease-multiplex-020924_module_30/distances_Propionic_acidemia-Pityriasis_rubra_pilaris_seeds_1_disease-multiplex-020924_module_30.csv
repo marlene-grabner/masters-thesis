@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,22,28,0.1399999999999999
+1,disease_on_symptoms,17,23,0.9092071611253196
+2,disease_on_drugs,21,26,0.2518120177694645

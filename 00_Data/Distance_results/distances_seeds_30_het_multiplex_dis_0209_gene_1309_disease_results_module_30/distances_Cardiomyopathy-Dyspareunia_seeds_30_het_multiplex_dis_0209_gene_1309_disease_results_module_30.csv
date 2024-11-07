@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,29,-0.021481481481481435
+1,disease_on_symptoms,21,20,0.4152729384436702
+2,disease_on_drugs,24,28,0.11858974358974339

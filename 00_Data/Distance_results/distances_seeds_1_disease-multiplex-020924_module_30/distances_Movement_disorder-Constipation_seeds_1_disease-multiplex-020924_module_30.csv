@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Constipation nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,22,17,0.45992732757438626
+2,disease_on_drugs,15,27,0.33386243386243386

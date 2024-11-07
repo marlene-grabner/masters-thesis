@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,0.1261904761904762
+1,disease_on_symptoms,19,21,1.0818922305764413
+2,disease_on_drugs,22,25,0.3071953578336557

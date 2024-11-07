@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Encephalitis nodes,sAB
+0,disease_on_genes,21,28,-0.04591836734693877
+1,disease_on_symptoms,26,17,0.3888771966747344
+2,disease_on_drugs,20,18,-0.10526315789473684

@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Glaucoma nodes,sAB
+0,disease_on_genes,25,30,0.037878787878787845
+1,disease_on_symptoms,21,18,0.7261904761904763
+2,disease_on_drugs,21,28,0.1641156462585034

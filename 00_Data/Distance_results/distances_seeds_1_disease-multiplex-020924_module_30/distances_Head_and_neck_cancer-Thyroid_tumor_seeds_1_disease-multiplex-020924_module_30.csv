@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.14373590982286633
+1,disease_on_symptoms,22,20,0.26331168831168816
+2,disease_on_drugs,24,20,-0.08939393939393936

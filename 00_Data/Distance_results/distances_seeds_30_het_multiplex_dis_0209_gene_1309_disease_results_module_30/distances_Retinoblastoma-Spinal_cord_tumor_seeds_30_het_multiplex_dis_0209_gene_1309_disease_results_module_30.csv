@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,21,14,0.16666666666666674
+2,disease_on_drugs,27,22,-0.0008932866075721524

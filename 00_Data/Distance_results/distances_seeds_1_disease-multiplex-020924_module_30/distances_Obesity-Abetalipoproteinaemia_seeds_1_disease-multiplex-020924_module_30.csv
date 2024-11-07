@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,26,17,0.39321793117962733
+1,disease_on_symptoms,20,25,0.7600000000000002
+2,disease_on_drugs,27,13,0.5495014245014245

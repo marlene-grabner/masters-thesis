@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Keloid nodes,sAB
+0,disease_on_genes,26,22,-0.042249417249417
+1,disease_on_symptoms,21,20,1.3388501742160281
+2,disease_on_drugs,26,19,0.2726495726495728

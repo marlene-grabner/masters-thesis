@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,0.11284470246734402
+1,disease_on_symptoms,17,25,1.425658263305322
+2,disease_on_drugs,17,25,0.43820728291316535

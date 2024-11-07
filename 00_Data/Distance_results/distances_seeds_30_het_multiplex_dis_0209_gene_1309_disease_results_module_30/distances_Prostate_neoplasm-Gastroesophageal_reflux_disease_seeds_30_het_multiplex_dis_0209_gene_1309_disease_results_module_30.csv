@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,21,26,-0.08559348452965476
+1,disease_on_symptoms,20,18,0.2533625730994151
+2,disease_on_drugs,21,25,0.28716356107660457

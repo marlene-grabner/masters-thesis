@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,15,26,0.3081300813008132
+1,disease_on_symptoms,25,19,0.44114832535885173
+2,disease_on_drugs,10,24,0.2909313725490197

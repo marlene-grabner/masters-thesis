@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,14,20,-0.1771008403361345
+2,disease_on_drugs,27,22,0.08541194255479945

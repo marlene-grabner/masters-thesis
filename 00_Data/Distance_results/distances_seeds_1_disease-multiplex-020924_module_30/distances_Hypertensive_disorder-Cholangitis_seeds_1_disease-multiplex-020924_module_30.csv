@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,27,0.34102026554856746
+1,disease_on_symptoms,15,22,1.183947583947584
+2,disease_on_drugs,26,26,0.9807692307692308

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,18,30,0.2597222222222222
+1,disease_on_symptoms,28,20,0.2571428571428571
+2,disease_on_drugs,17,30,0.26032540675844795

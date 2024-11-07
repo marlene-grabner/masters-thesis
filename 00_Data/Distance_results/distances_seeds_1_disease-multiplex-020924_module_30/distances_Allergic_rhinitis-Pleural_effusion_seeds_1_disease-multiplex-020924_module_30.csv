@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,21,30,0.11638655462184877
+1,disease_on_symptoms,22,20,0.8661255411255411
+2,disease_on_drugs,21,22,0.22923588039867115

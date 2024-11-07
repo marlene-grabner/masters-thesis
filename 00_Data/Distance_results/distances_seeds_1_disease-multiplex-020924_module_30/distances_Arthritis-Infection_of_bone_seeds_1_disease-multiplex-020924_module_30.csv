@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,30,26,0.14010989010989028
+1,disease_on_symptoms,19,21,0.623182957393484
+2,disease_on_drugs,29,24,0.18766265452179565

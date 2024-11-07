@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,-0.05594405594405605
+1,disease_on_symptoms,16,25,0.00213414634146325
+2,disease_on_drugs,24,18,-0.25297619047619047

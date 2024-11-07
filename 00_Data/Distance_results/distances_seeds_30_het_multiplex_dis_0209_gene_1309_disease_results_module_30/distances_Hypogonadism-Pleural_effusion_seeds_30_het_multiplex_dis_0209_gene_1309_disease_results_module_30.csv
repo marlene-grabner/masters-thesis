@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,17,18,-0.03235294117647047
+2,disease_on_drugs,29,27,-0.019499178981937648

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,22,30,0.18706293706293708
+1,disease_on_symptoms,22,16,0.615879186602871
+2,disease_on_drugs,14,30,0.6428571428571428

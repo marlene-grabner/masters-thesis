@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,22,22,-0.2272727272727273
+1,disease_on_symptoms,23,19,-0.39996730957829363
+2,disease_on_drugs,17,19,-0.16847265221878238

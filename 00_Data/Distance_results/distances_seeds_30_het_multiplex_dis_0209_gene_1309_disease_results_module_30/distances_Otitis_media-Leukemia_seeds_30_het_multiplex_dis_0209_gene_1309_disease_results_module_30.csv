@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,30,0.03360607831677398
+1,disease_on_symptoms,20,21,0.8830139372822301
+2,disease_on_drugs,28,30,0.44683908045976994

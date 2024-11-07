@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,19,-0.5313725490196077
+2,disease_on_drugs,24,29,0.29463511168943834

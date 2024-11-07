@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,29,-0.1454545454545455
+1,disease_on_symptoms,21,20,-0.1718350754936122
+2,disease_on_drugs,26,28,-0.11075498575498588

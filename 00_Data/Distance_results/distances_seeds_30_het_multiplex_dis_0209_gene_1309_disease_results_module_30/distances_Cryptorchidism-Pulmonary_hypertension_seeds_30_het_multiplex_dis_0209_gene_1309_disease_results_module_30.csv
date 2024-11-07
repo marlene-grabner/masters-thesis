@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,23,28,-0.15899403239556698
+1,disease_on_symptoms,19,18,1.0184526631895052
+2,disease_on_drugs,21,27,-0.02281746031746046

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Peritonitis nodes,sAB
+0,disease_on_genes,7,30,0.25328185328185326
+1,disease_on_symptoms,30,17,1.3788902795160618
+2,disease_on_drugs,6,28,0.7338935574229692

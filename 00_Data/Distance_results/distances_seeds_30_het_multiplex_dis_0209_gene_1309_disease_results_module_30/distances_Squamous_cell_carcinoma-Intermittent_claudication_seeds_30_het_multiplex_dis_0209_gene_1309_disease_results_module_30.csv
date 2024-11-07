@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,22,14,0.3257575757575757
+2,disease_on_drugs,30,24,0.4282407407407407

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,23,0.2868608148755809
+1,disease_on_symptoms,16,16,1.5625
+2,disease_on_drugs,27,22,0.8775510204081634

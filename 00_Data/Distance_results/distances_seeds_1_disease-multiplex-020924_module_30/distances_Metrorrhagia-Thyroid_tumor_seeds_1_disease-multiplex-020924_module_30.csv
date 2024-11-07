@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.2747826086956524
+1,disease_on_symptoms,17,20,1.2781001589825118
+2,disease_on_drugs,26,20,0.9147993311036788

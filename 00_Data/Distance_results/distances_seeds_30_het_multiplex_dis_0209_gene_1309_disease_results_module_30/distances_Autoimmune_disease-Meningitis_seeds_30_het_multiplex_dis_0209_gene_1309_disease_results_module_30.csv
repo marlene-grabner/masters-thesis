@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,-0.36363636363636365
+1,disease_on_symptoms,20,17,-0.41244038155802865
+2,disease_on_drugs,25,27,-0.535783475783476

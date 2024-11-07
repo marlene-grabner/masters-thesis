@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,-0.058084464555052895
+1,disease_on_symptoms,17,19,-0.0028379772961815153
+2,disease_on_drugs,20,24,-0.2234848484848483

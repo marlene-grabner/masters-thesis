@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,15,29,0.5403343782654126
+1,disease_on_symptoms,25,17,2.6837535014005596
+2,disease_on_drugs,10,30,0.6499999999999999

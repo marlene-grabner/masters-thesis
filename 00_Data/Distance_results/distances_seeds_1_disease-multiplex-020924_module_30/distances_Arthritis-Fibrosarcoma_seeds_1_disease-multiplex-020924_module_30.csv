@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,22,0.43006993006993
+1,disease_on_symptoms,19,24,2.170746634026928
+2,disease_on_drugs,29,13,0.7577996715927751

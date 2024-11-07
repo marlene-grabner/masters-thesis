@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,18,24,0.6736111111111112
+2,disease_on_drugs,26,20,0.07784280936454846

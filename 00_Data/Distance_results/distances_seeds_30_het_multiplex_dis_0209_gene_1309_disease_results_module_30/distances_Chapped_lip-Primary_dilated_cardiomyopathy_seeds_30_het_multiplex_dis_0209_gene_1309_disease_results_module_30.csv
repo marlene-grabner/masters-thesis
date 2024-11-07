@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.2321428571428572
+1,disease_on_symptoms,20,24,0.6049242424242425
+2,disease_on_drugs,23,15,0.41128909229595734

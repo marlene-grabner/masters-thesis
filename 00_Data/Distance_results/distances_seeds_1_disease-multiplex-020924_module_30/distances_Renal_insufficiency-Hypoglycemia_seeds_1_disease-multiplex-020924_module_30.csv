@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,20,30,0.25
+1,disease_on_symptoms,23,12,0.9576604554865424
+2,disease_on_drugs,17,22,0.592760180995475

@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.33657407407407414
+1,disease_on_symptoms,23,19,1.0438596491228072
+2,disease_on_drugs,30,20,0.53

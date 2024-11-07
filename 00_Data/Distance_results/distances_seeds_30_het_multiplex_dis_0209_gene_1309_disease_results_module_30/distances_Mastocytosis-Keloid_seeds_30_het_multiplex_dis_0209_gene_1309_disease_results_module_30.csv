@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.0
+1,disease_on_symptoms,24,17,0.4736669057867051
+2,disease_on_drugs,20,22,0.07132034632034623

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Back_pain nodes,sAB
+0,disease_on_genes,26,30,0.052197802197802234
+1,disease_on_symptoms,20,15,0.4785714285714284
+2,disease_on_drugs,20,23,-0.21309403437815977

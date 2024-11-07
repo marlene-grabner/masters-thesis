@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.1272727272727272
+1,disease_on_symptoms,20,16,0.6951388888888888
+2,disease_on_drugs,18,28,0.1510524499654935

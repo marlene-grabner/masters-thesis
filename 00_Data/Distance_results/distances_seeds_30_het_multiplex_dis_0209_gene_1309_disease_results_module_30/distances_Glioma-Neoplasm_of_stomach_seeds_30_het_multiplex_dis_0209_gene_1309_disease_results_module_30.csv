@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,22,25,-0.3178723404255319
+1,disease_on_symptoms,21,23,-0.06705251270468637
+2,disease_on_drugs,21,24,-0.2922619047619046

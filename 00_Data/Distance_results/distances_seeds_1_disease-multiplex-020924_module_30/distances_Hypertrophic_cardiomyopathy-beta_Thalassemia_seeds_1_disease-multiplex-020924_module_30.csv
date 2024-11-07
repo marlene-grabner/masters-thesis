@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.6484848484848484
+1,disease_on_symptoms,17,21,3.5793159369010765
+2,disease_on_drugs,17,6,1.0072463768115942

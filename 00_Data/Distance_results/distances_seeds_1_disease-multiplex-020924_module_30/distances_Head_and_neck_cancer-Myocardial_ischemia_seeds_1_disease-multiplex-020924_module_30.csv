@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.27972709551656916
+1,disease_on_symptoms,22,13,0.9921578421578419
+2,disease_on_drugs,24,23,0.701626580326858

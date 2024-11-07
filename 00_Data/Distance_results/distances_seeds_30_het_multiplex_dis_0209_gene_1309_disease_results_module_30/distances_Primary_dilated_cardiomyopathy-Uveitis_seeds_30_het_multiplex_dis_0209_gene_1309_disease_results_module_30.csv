@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.3999999999999999
+1,disease_on_symptoms,24,20,0.8481060606060604
+2,disease_on_drugs,15,23,0.19275362318840594

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.25800492610837455
+1,disease_on_symptoms,13,17,0.4101055806938163
+2,disease_on_drugs,29,25,0.38888888888888884

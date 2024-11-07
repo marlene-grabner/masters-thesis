@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,23,25,0.354927536231884
+1,disease_on_symptoms,25,25,1.64
+2,disease_on_drugs,18,23,1.1658713326263697

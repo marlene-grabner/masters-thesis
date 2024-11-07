@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,29,30,0.01665692577440092
+1,disease_on_symptoms,20,16,1.2
+2,disease_on_drugs,24,25,0.26355442176870736

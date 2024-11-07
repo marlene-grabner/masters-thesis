@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Endometriosis nodes,sAB
+0,disease_on_genes,29,30,0.23699590882524846
+1,disease_on_symptoms,17,12,1.0382014874915484
+2,disease_on_drugs,26,27,0.9807692307692308

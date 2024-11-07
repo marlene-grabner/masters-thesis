@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,16,20,-0.6909722222222223
+2,disease_on_drugs,30,30,-0.3500000000000001

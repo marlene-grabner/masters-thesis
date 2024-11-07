@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,26,9,0.3507936507936509
+1,disease_on_symptoms,17,27,1.4463755199049317
+2,disease_on_drugs,23,9,0.9470108695652173

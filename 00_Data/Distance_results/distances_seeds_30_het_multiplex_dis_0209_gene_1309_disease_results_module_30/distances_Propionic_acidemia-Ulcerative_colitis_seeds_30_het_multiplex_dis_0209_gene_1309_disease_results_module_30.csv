@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,16,20,0.32152777777777763
+2,disease_on_drugs,30,27,0.11052631578947358

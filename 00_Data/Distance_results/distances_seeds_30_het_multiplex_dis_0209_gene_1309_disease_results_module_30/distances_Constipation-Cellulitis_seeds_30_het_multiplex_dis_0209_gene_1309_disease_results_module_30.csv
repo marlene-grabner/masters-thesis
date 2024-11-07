@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,16,20,0.8756944444444446
+2,disease_on_drugs,28,26,0.12861212861212867

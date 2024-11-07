@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Dermatitis nodes,sAB
+0,disease_on_genes,24,26,0.12318840579710155
+1,disease_on_symptoms,23,25,0.981376811594203
+2,disease_on_drugs,20,24,0.18333333333333335

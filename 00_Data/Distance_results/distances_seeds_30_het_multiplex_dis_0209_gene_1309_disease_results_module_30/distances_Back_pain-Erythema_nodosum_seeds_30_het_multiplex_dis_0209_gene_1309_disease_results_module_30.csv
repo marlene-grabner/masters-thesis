@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,15,22,-0.21191646191646174
+2,disease_on_drugs,23,29,-0.13199169645946252

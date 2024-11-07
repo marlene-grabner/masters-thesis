@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,26,27,0.3392463581142826
+1,disease_on_symptoms,21,17,1.1137402329352795
+2,disease_on_drugs,24,20,0.2102272727272727

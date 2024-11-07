@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,20,17,-0.08251192368839444
+1,disease_on_symptoms,23,27,1.3508212560386474
+2,disease_on_drugs,18,16,0.2969771241830066

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Tremor nodes,sAB
+0,disease_on_genes,27,27,0.05555555555555558
+1,disease_on_symptoms,17,17,1.6764705882352944
+2,disease_on_drugs,24,24,0.5416666666666667

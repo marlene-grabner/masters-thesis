@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,22,25,0.25154738878143146
+1,disease_on_symptoms,22,23,1.1597277119016252
+2,disease_on_drugs,14,20,0.6075630252100841

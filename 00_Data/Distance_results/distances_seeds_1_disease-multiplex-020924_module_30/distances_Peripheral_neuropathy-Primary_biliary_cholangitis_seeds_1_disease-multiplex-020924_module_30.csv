@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.25338827838827815
+1,disease_on_symptoms,20,17,1.15214626391097
+2,disease_on_drugs,24,18,0.8392857142857142

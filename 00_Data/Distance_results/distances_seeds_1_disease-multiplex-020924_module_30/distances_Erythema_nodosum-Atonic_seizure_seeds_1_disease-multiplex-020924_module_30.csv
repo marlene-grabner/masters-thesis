@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,28,29,0.43858568835882794
+1,disease_on_symptoms,23,16,1.7113991081382385
+2,disease_on_drugs,28,24,0.7513736263736264

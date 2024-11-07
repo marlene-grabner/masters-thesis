@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,22,19,0.3655619092076088
+2,disease_on_drugs,28,25,0.019393530997304564

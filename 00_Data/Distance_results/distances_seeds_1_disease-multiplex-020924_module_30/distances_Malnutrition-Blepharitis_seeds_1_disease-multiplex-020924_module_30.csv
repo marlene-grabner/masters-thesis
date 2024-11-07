@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.26262541806020057
+1,disease_on_symptoms,18,27,1.5925925925925926
+2,disease_on_drugs,23,19,0.4949874686716791

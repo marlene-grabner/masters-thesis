@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,17,22,0.32510626628273664
+2,disease_on_drugs,29,26,-0.033976368459127215

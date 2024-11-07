@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.1511348099535137
+1,disease_on_symptoms,23,21,0.4269245247506115
+2,disease_on_drugs,29,21,0.8168472906403941

@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.27976190476190466
+1,disease_on_symptoms,19,15,1.3620227038183697
+2,disease_on_drugs,26,21,0.7604044891278932

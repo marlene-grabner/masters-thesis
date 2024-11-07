@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,-0.016666666666666607
+1,disease_on_symptoms,18,22,0.9747474747474749
+2,disease_on_drugs,22,29,0.03147089556825877

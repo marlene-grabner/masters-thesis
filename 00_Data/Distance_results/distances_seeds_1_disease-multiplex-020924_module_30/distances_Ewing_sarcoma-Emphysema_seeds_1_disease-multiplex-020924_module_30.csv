@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Emphysema nodes,sAB
+0,disease_on_genes,24,30,0.29120370370370385
+1,disease_on_symptoms,25,14,0.6379120879120879
+2,disease_on_drugs,17,29,0.6086956521739131

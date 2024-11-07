@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Headache nodes,sAB
+0,disease_on_genes,29,30,0.04996103643093708
+1,disease_on_symptoms,15,25,0.635
+2,disease_on_drugs,29,26,0.3089823969134313

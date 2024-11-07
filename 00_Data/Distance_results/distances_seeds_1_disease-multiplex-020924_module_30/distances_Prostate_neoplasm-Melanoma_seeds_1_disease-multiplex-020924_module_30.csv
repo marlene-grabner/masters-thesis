@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Melanoma nodes,sAB
+0,disease_on_genes,17,24,0.1262553802008608
+1,disease_on_symptoms,21,23,1.4768962921136835
+2,disease_on_drugs,17,22,0.27450980392156854

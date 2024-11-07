@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,29,-0.10526315789473684
+1,disease_on_symptoms,25,11,0.788787878787879
+2,disease_on_drugs,24,24,-0.08333333333333326

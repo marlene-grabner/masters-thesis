@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Otitis_media nodes,sAB
+0,disease_on_genes,24,29,-0.020562242463673774
+1,disease_on_symptoms,20,22,1.216991341991342
+2,disease_on_drugs,22,29,0.29809760894953596

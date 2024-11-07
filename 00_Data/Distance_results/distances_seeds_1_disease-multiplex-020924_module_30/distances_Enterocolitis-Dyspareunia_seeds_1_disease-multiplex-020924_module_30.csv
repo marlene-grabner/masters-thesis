@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,24,0.0010893246187362315
+1,disease_on_symptoms,21,17,0.45960489458941467
+2,disease_on_drugs,24,23,0.23309821153253152

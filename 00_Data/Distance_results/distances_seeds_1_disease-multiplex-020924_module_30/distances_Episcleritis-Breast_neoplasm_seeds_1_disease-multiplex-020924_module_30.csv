@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,22,16,0.4807117224880382
+2,disease_on_drugs,29,30,0.26972530683810625

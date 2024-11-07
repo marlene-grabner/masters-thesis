@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,-0.21257309941520486
+1,disease_on_symptoms,18,22,0.024747474747474962
+2,disease_on_drugs,25,27,-0.1904558404558403

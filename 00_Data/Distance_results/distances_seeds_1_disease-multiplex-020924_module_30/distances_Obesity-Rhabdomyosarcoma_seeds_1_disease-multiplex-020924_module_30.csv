@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,0.1959422565012625
+1,disease_on_symptoms,20,24,2.4674242424242427
+2,disease_on_drugs,27,17,1.0765993265993266

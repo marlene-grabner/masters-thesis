@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,22,28,0.08000000000000007
+1,disease_on_symptoms,21,17,0.5643520566121187
+2,disease_on_drugs,21,25,0.3537888198757766

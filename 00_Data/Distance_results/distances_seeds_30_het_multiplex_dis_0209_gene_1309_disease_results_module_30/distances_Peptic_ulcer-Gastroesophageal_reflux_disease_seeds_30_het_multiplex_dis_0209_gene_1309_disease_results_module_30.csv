@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,-0.14423076923076916
+1,disease_on_symptoms,20,18,-0.1203216374269005
+2,disease_on_drugs,30,25,0.0121212121212122

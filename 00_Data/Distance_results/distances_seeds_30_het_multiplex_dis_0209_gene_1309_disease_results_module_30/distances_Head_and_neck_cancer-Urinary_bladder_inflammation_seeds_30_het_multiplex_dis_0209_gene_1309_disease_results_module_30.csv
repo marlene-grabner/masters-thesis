@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,22,16,0.047099282296650724
+2,disease_on_drugs,23,29,0.05362703263752722

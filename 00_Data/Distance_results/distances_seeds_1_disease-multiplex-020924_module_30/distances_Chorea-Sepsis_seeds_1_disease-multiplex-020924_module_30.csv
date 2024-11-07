@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Sepsis nodes,sAB
+0,disease_on_genes,14,22,0.4617604617604618
+1,disease_on_symptoms,27,23,1.043574879227053
+2,disease_on_drugs,8,17,0.7186764705882354

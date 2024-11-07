@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.01693941165010715
+1,disease_on_symptoms,18,20,0.19751461988304087
+2,disease_on_drugs,26,28,-0.061609686609686465

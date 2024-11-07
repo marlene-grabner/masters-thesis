@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.13090909090909097
+1,disease_on_symptoms,12,21,0.7435064935064934
+2,disease_on_drugs,21,24,0.032539682539682424

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.11033634126333047
+1,disease_on_symptoms,16,19,1.0975093984962407
+2,disease_on_drugs,28,21,0.5476190476190477

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,20,16,0.15555555555555545
+2,disease_on_drugs,30,29,0.13524254821741666

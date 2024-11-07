@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.03759666259666239
+1,disease_on_symptoms,18,19,0.378062272799115
+2,disease_on_drugs,23,26,0.26648351648351665

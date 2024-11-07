@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.1454545454545455
+1,disease_on_symptoms,20,19,0.8686234817813767
+2,disease_on_drugs,18,25,0.5627648578811371

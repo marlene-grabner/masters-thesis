@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,15,16,1.6110887096774196
+2,disease_on_drugs,25,28,0.3767520215633424

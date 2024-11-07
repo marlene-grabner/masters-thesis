@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,13,0.14811712677566335
+1,disease_on_symptoms,14,26,0.7717032967032968
+2,disease_on_drugs,28,9,0.3141355641355641

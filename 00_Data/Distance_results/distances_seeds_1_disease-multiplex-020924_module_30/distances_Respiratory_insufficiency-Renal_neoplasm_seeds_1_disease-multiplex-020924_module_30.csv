@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,25,22,0.3570019342359767
+1,disease_on_symptoms,20,25,2.3194444444444446
+2,disease_on_drugs,14,18,0.7991071428571428

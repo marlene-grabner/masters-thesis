@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,25,25,0.2999999999999998
+1,disease_on_symptoms,23,18,1.1315246848120655
+2,disease_on_drugs,19,17,0.8872549019607845

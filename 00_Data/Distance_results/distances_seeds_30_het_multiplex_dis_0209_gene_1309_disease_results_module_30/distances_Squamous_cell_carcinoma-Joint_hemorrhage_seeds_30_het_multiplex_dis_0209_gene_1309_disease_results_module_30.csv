@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,22,17,0.6975524475524475
+2,disease_on_drugs,30,26,0.36813186813186793

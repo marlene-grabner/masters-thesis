@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,18,30,0.6263888888888889
+1,disease_on_symptoms,28,16,2.4281655844155843
+2,disease_on_drugs,17,23,0.9509590792838876

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,0.24649122807017543
+1,disease_on_symptoms,23,16,1.9702132107023411
+2,disease_on_drugs,20,30,0.9299999999999999

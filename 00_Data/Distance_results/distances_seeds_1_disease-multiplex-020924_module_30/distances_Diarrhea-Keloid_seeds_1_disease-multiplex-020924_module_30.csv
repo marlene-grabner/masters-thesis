@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Keloid nodes,sAB
+0,disease_on_genes,27,22,0.04562633134061711
+1,disease_on_symptoms,19,20,1.6406882591093117
+2,disease_on_drugs,26,19,0.7585470085470085

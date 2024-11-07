@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,17,-0.06798375916022992
+1,disease_on_symptoms,22,27,1.083436404864976
+2,disease_on_drugs,24,16,0.34583333333333344

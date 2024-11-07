@@ -1,0 +1,4 @@
+,Layer,Hereditary_factor_IX_deficiency_disease nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,-0.10472085385878505
+1,disease_on_symptoms,18,18,0.8055555555555558
+2,disease_on_drugs,26,28,0.1314102564102564

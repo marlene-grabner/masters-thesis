@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,29,0.2533879913190258
+1,disease_on_symptoms,21,16,0.9975868725868726
+2,disease_on_drugs,26,24,0.4607692307692308

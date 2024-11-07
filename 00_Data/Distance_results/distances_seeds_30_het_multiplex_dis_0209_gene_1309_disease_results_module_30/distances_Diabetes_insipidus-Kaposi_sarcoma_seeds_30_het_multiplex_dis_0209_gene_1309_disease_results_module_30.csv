@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,20,16,0.5361111111111112
+2,disease_on_drugs,20,28,-0.0803571428571428

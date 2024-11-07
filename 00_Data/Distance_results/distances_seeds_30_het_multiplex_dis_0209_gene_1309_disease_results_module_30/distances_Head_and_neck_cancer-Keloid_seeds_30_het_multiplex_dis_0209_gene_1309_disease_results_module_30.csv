@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.18000000000000005
+1,disease_on_symptoms,22,17,0.09108048813931169
+2,disease_on_drugs,23,22,-0.17635046113306996

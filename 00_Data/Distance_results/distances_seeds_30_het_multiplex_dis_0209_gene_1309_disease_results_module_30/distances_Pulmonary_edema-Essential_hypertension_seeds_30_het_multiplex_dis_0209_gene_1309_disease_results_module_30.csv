@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.017241379310344862
+1,disease_on_symptoms,11,13,0.0005827505827504798
+2,disease_on_drugs,27,28,-0.05360750360750344

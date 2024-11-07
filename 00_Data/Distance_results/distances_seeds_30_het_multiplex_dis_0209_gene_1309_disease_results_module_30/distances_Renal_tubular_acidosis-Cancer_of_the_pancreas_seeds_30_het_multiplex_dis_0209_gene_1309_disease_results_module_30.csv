@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,14,23,0.3848413631022325
+2,disease_on_drugs,27,30,-0.11461988304093573

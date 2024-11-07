@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.1658017908017908
+1,disease_on_symptoms,28,19,0.579367301231803
+2,disease_on_drugs,23,26,0.775356630946693

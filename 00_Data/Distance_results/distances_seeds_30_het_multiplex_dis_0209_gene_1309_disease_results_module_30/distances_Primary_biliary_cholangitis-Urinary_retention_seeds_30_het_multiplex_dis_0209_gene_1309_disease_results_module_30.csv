@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,23,16,-0.0014980490523968104
+2,disease_on_drugs,26,28,0.07168294668294672

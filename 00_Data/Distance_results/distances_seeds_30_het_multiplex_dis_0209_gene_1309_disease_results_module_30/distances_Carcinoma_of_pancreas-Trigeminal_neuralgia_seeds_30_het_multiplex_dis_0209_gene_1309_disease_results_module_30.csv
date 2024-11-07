@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,15,0.061111111111111116
+2,disease_on_drugs,21,25,0.08496894409937883

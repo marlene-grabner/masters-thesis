@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Pain nodes,sAB
+0,disease_on_genes,26,26,0.2692307692307694
+1,disease_on_symptoms,20,21,1.3690766550522648
+2,disease_on_drugs,25,26,0.8827300150829562

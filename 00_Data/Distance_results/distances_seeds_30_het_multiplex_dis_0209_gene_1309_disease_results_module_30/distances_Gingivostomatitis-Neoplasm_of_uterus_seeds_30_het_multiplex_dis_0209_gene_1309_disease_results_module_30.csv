@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,15,18,0.10252525252525246
+2,disease_on_drugs,30,26,-0.07472527472527468

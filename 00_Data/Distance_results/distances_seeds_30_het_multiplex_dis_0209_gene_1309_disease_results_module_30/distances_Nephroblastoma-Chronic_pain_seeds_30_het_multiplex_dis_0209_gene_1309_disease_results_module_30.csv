@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,29,30,0.033888564192479986
+1,disease_on_symptoms,20,19,0.5102226720647773
+2,disease_on_drugs,24,28,0.2799908424908424

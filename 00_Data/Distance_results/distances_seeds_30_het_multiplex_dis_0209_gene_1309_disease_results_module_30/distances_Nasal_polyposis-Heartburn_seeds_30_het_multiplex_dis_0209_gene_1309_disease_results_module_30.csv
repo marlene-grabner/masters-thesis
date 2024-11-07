@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,20,16,0.5166666666666666
+2,disease_on_drugs,25,25,0.33999999999999986

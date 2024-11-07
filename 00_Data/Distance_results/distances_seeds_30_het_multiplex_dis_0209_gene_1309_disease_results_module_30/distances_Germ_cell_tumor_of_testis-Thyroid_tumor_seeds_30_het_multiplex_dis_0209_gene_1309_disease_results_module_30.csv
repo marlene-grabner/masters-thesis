@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.17555555555555558
+1,disease_on_symptoms,22,20,0.1477272727272727
+2,disease_on_drugs,20,20,-0.17499999999999993

@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Cellulitis nodes,sAB
+0,disease_on_genes,28,22,0.2661564625850339
+1,disease_on_symptoms,14,26,1.865934065934066
+2,disease_on_drugs,28,12,0.9892857142857143

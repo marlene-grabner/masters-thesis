@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,-0.07272727272727275
+1,disease_on_symptoms,22,15,0.32936117936117926
+2,disease_on_drugs,25,30,0.11969696969696964

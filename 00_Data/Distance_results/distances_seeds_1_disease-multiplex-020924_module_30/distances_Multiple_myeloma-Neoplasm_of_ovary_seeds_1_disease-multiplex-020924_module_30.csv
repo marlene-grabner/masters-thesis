@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,0.05499999999999994
+1,disease_on_symptoms,21,26,0.9135297326786687
+2,disease_on_drugs,25,15,0.15999999999999992

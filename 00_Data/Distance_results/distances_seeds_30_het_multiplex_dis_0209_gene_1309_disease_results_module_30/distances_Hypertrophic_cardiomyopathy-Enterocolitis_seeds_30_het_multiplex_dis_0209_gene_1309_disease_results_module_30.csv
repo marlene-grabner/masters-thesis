@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.08859649122807034
+1,disease_on_symptoms,19,21,0.5652255639097747
+2,disease_on_drugs,22,25,0.18591876208897484

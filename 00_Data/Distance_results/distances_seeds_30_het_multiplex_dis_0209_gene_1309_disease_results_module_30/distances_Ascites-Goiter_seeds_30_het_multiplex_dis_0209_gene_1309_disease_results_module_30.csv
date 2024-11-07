@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.019047619047619202
+1,disease_on_symptoms,22,12,0.5866755793226381
+2,disease_on_drugs,27,18,0.2685185185185186

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,26,27,0.13277428371767974
+1,disease_on_symptoms,17,21,1.1074745687748786
+2,disease_on_drugs,25,27,0.6146153846153846

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,12,22,0.41889483065953637
+2,disease_on_drugs,29,30,0.21917007597895943

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Heartburn nodes,sAB
+0,disease_on_genes,25,26,-0.11764705882352944
+1,disease_on_symptoms,23,16,0.4200111482720179
+2,disease_on_drugs,21,25,-0.2352795031055901

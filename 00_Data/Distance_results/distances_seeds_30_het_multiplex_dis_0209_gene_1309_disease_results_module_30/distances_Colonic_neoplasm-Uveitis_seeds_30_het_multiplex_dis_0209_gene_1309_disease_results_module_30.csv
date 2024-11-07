@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,20,0.333468286099865
+2,disease_on_drugs,29,23,0.3088455772113943

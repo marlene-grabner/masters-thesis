@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,22,30,-0.1923076923076923
+1,disease_on_symptoms,21,18,0.5271672771672771
+2,disease_on_drugs,21,30,-0.023389355742296836

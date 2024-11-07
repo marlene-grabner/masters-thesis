@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,25,27,0.05769230769230771
+1,disease_on_symptoms,19,18,1.5488778251936148
+2,disease_on_drugs,25,22,0.27845261121856857

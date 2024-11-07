@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,22,21,0.022702104097453102
+1,disease_on_symptoms,17,20,1.2339427662957076
+2,disease_on_drugs,21,19,0.5035714285714286

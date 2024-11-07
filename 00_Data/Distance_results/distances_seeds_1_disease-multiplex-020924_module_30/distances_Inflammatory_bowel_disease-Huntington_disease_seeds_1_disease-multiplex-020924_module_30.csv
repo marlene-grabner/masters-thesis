@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,17,30,0.2903985507246378
+1,disease_on_symptoms,27,16,1.581852928509905
+2,disease_on_drugs,14,27,0.525261324041812

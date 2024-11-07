@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,18,16,0.28941993464052285
+2,disease_on_drugs,27,27,0.4444444444444444

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,0.6730769230769231
+1,disease_on_symptoms,19,15,1.3037151702786378
+2,disease_on_drugs,24,15,1.1689102564102565

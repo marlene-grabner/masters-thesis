@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,16,20,0.6798611111111112
+2,disease_on_drugs,28,28,-0.0714285714285714

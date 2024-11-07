@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.44704433497536966
+1,disease_on_symptoms,12,21,0.5974025974025974
+2,disease_on_drugs,27,28,0.7824675324675325

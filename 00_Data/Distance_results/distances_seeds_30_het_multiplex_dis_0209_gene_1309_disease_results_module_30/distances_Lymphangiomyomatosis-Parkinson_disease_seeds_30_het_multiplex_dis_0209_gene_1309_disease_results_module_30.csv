@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,26,23,-0.1824960753532181
+1,disease_on_symptoms,17,23,0.33305626598465476
+2,disease_on_drugs,24,22,-0.08259222661396581

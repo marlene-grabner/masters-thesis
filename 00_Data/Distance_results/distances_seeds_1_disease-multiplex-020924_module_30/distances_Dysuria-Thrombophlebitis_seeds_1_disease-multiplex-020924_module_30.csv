@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.3181877106559503
+1,disease_on_symptoms,16,15,2.0637768817204303
+2,disease_on_drugs,23,21,0.9328063241106719

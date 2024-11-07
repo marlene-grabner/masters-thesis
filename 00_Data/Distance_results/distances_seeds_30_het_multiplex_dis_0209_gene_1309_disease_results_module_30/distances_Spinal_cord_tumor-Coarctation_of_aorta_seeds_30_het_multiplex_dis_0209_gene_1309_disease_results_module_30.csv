@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,29,27,-0.0542328042328043
+1,disease_on_symptoms,14,19,0.3094098883572567
+2,disease_on_drugs,22,24,-0.09230895915678539

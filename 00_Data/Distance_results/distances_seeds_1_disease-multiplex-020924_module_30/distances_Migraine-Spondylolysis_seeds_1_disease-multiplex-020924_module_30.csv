@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,27,-0.12495126705653026
+1,disease_on_symptoms,14,19,0.4031670084301662
+2,disease_on_drugs,29,20,0.11785714285714288

@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,-0.20370370370370383
+1,disease_on_symptoms,20,14,-0.13403361344537834
+2,disease_on_drugs,27,26,-0.1897677793904209

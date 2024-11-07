@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,0.09450549450549461
+1,disease_on_symptoms,28,23,1.5706521739130435
+2,disease_on_drugs,23,14,0.4377203290246767

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Glioma nodes,sAB
+0,disease_on_genes,30,22,-0.05769230769230771
+1,disease_on_symptoms,15,21,0.6412698412698412
+2,disease_on_drugs,28,21,0.08673469387755128

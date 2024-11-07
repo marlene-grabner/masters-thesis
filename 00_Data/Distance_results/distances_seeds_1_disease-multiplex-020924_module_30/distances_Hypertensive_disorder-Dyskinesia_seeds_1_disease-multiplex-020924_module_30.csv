@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,0.15916666666666646
+1,disease_on_symptoms,15,17,1.846936274509804
+2,disease_on_drugs,26,23,0.7755102040816326

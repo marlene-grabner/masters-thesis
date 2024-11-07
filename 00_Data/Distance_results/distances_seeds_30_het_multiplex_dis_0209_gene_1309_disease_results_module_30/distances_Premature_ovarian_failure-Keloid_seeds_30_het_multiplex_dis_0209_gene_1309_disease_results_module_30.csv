@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.05660377358490565
+1,disease_on_symptoms,15,17,0.7329656862745098
+2,disease_on_drugs,26,22,-0.2567016317016316

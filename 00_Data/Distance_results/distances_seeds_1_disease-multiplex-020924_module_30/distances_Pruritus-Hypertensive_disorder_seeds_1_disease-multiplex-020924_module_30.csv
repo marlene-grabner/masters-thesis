@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,26,26,0.018431372549019498
+1,disease_on_symptoms,19,15,1.18875128998968
+2,disease_on_drugs,24,26,0.7

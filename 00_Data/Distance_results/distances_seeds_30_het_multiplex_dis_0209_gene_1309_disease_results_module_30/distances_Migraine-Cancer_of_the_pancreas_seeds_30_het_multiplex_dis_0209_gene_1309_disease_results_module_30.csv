@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,12,23,0.13612836438923415
+2,disease_on_drugs,29,30,-0.06727060198714208

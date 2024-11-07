@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,25,28,-0.2469002695417788
+1,disease_on_symptoms,23,21,-0.3630717108977979
+2,disease_on_drugs,20,24,-0.2090909090909091

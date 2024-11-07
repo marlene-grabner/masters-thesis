@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,23,0.22018974814005876
+1,disease_on_symptoms,18,19,2.378062272799115
+2,disease_on_drugs,23,11,1.1176470588235294

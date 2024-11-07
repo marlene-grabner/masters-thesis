@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,18,11,0.929554162312783
+2,disease_on_drugs,28,24,0.020604395604395753

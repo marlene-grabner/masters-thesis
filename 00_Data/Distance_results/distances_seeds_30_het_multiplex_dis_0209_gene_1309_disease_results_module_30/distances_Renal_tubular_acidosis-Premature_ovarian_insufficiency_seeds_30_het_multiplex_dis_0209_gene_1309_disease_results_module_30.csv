@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,14,18,0.35763888888888884
+2,disease_on_drugs,27,22,-0.27128427128427135

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.20180475799835929
+1,disease_on_symptoms,18,19,2.058123913387071
+2,disease_on_drugs,27,19,0.9726247987117551

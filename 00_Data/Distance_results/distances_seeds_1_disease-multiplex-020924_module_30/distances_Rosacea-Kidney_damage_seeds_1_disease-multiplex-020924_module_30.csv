@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.15000000000000013
+1,disease_on_symptoms,17,26,0.7217457644954224
+2,disease_on_drugs,27,13,0.23269230769230775

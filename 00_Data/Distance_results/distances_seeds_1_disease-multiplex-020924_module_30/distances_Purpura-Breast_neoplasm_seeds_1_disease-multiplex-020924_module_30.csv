@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.2994505494505495
+1,disease_on_symptoms,17,16,1.8470922459893049
+2,disease_on_drugs,20,30,1.2400000000000002

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,26,17,0.27078291065979143
+1,disease_on_symptoms,23,21,1.7526821005081876
+2,disease_on_drugs,25,14,0.8461538461538463

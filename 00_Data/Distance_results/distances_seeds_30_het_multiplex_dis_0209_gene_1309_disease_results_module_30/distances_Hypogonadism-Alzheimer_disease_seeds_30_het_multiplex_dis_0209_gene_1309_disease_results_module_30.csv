@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.13207547169811318
+1,disease_on_symptoms,17,19,0.3544891640866874
+2,disease_on_drugs,29,19,-0.147005444646098

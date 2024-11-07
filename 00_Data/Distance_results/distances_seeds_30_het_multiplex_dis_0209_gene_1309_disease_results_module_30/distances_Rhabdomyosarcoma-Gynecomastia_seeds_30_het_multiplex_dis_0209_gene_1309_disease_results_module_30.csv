@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,19,15,0.37100103199174406
+2,disease_on_drugs,29,29,-0.13793103448275845

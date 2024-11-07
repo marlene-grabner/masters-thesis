@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.3129370629370629
+1,disease_on_symptoms,13,19,1.1933198380566803
+2,disease_on_drugs,23,19,0.5751334858886348

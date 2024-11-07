@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,20,28,-0.26249999999999996
+1,disease_on_symptoms,22,12,0.22192513368983957
+2,disease_on_drugs,15,21,-0.3658730158730157

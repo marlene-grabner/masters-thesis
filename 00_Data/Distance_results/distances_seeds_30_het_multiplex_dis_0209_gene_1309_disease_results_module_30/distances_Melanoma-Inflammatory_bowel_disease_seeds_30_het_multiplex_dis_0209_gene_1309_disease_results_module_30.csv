@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Inflammatory_bowel_disease nodes,sAB
+0,disease_on_genes,27,30,-0.19395711500974666
+1,disease_on_symptoms,23,20,0.053311425682507796
+2,disease_on_drugs,25,27,-0.07928774928774929

@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.6564263322884014
+1,disease_on_symptoms,18,12,1.9444444444444446
+2,disease_on_drugs,19,21,1.099624060150376

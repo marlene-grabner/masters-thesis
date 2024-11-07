@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,20,21,0.36594076655052277
+2,disease_on_drugs,25,30,0.19484848484848483

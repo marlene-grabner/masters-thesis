@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,30,25,-0.10909090909090913
+1,disease_on_symptoms,16,17,0.1869986631016043
+2,disease_on_drugs,21,21,-0.1904761904761907

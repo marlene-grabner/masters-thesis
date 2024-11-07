@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,26,29,-0.14451410658307207
+1,disease_on_symptoms,19,20,-0.10111336032388674
+2,disease_on_drugs,25,24,-0.2070578231292518

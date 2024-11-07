@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Obesity nodes,sAB
+0,disease_on_genes,28,27,-0.2006854256854259
+1,disease_on_symptoms,19,18,-0.34977082345503385
+2,disease_on_drugs,22,25,-0.15415860735009668

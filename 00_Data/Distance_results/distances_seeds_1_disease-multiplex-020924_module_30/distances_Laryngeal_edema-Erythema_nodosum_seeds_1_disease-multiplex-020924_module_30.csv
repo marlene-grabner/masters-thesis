@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.03386699507389168
+1,disease_on_symptoms,20,23,-0.22355915065722942
+2,disease_on_drugs,28,28,-0.10714285714285732

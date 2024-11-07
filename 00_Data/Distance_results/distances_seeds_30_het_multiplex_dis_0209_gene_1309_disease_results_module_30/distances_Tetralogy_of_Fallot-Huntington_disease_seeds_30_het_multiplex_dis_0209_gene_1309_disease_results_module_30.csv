@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,19,17,0.5622635018919848
+2,disease_on_drugs,20,26,-0.20994983277591994

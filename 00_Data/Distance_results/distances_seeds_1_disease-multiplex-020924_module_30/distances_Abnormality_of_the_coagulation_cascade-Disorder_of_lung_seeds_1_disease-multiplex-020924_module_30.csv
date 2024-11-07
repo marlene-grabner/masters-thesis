@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,23,27,0.3762640901771337
+1,disease_on_symptoms,23,17,2.2146419437340152
+2,disease_on_drugs,18,20,0.7309941520467835

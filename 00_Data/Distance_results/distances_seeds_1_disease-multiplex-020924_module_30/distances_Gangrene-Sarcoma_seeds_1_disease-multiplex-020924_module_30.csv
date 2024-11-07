@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.2941176470588236
+1,disease_on_symptoms,19,26,1.6326360773729196
+2,disease_on_drugs,23,21,0.9328063241106719

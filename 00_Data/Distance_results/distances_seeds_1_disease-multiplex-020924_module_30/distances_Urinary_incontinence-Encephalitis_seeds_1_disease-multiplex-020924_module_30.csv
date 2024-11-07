@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,0.49633699633699657
+1,disease_on_symptoms,20,17,1.4270667726550081
+2,disease_on_drugs,20,18,0.4736842105263157

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.2833333333333332
+1,disease_on_symptoms,15,14,-0.062233169129720434
+2,disease_on_drugs,21,30,0.8056022408963586

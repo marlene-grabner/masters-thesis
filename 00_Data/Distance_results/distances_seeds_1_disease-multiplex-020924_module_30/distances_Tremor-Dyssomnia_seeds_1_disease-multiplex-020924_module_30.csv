@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,16,18,-0.06433823529411775
+1,disease_on_symptoms,23,21,1.4550630528891397
+2,disease_on_drugs,16,17,0.39566622103386795

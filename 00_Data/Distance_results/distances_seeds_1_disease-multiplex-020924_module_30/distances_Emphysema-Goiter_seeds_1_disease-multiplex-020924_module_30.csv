@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3706959706959705
+1,disease_on_symptoms,14,15,0.8542692939244663
+2,disease_on_drugs,29,16,0.8

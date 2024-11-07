@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,29,29,-0.0892857142857143
+1,disease_on_symptoms,19,17,0.28603371173030645
+2,disease_on_drugs,29,26,-0.09354955389438158

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.207910014513788
+1,disease_on_symptoms,17,21,0.1908447589562141
+2,disease_on_drugs,24,27,-0.10443899782135091

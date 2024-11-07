@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,26,20,0.1974080267558529
+1,disease_on_symptoms,21,25,1.114327122153209
+2,disease_on_drugs,24,19,0.8848684210526314

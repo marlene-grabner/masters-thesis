@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,0.2046703296703296
+1,disease_on_symptoms,20,12,1.041666666666667
+2,disease_on_drugs,20,22,0.23809523809523814

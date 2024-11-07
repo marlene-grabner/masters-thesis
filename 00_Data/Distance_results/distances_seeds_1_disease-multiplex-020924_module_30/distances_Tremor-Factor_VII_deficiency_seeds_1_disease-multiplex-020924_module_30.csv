@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,16,25,0.3828353658536585
+1,disease_on_symptoms,23,23,2.6739130434782608
+2,disease_on_drugs,16,21,0.8941039253539254

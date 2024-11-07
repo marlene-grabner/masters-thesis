@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,22,25,0.6377756286266922
+1,disease_on_symptoms,21,23,3.8683888575192924
+2,disease_on_drugs,6,21,1.0820105820105819

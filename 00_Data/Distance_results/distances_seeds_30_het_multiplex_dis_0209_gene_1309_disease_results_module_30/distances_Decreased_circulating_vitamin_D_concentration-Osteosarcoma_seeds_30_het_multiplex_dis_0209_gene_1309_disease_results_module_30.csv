@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,25,30,-0.0515151515151514
+1,disease_on_symptoms,13,22,1.1415584415584414
+2,disease_on_drugs,21,29,0.17474548440065663

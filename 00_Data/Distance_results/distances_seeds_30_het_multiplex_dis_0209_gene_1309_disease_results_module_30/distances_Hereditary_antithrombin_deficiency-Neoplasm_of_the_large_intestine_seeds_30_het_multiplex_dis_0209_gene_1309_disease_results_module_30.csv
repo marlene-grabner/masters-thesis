@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,28,30,0.0862068965517242
+1,disease_on_symptoms,16,22,0.6157296650717705
+2,disease_on_drugs,23,29,-0.005420366739707028

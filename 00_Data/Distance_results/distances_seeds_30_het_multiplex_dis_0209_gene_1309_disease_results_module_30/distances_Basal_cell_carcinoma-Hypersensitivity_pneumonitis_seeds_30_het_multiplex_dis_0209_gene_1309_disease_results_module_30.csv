@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.10909090909090913
+1,disease_on_symptoms,24,20,0.17462121212121207
+2,disease_on_drugs,27,25,-0.09638176638176632

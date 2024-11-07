@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Peritonitis nodes,sAB
+0,disease_on_genes,16,30,0.383695652173913
+1,disease_on_symptoms,26,17,2.16094917394507
+2,disease_on_drugs,14,28,0.9642857142857144

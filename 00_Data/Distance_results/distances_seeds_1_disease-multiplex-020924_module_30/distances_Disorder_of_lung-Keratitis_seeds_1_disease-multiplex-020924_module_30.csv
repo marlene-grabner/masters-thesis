@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.2730399230399232
+1,disease_on_symptoms,17,25,0.27624649859943995
+2,disease_on_drugs,20,23,0.1440849342770476

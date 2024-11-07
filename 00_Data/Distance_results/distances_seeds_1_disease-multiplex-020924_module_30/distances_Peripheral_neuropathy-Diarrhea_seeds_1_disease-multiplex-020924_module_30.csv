@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.06881091617933732
+1,disease_on_symptoms,20,19,0.1522267206477732
+2,disease_on_drugs,24,26,0.37910256410256404

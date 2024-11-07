@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,13,19,0.8667763157894737
+2,disease_on_drugs,21,30,0.10252100840336142

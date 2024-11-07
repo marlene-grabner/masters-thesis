@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,24,0.21208794187811741
+1,disease_on_symptoms,15,19,1.054798761609907
+2,disease_on_drugs,29,19,0.544162129461585

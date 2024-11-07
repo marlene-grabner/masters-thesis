@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,24,0.610648148148148
+1,disease_on_symptoms,16,22,2.263755980861244
+2,disease_on_drugs,21,24,0.8857142857142857

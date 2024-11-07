@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.1952380952380952
+1,disease_on_symptoms,21,21,-0.2142857142857142
+2,disease_on_drugs,29,26,-0.17119604533397648

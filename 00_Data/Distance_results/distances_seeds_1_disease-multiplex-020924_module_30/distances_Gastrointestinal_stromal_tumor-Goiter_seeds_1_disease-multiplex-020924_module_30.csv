@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Goiter nodes,sAB
+0,disease_on_genes,23,26,0.18172820967852021
+1,disease_on_symptoms,20,15,0.7476190476190476
+2,disease_on_drugs,19,16,0.4571428571428571

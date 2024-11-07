@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,29,20,-0.004591836734693766
+1,disease_on_symptoms,18,23,0.22422528573111822
+2,disease_on_drugs,22,18,-0.125

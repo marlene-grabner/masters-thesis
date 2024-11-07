@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.2912181894034209
+1,disease_on_symptoms,21,25,1.5632298136645963
+2,disease_on_drugs,27,13,0.718019943019943

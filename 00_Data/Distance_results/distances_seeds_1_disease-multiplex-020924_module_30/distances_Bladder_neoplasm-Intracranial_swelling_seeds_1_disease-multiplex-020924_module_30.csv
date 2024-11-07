@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.19761904761904758
+1,disease_on_symptoms,20,14,0.3506302521008404
+2,disease_on_drugs,25,24,0.14243197278911546

@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,20,16,0.2444444444444447
+2,disease_on_drugs,28,29,-0.01573978048569713

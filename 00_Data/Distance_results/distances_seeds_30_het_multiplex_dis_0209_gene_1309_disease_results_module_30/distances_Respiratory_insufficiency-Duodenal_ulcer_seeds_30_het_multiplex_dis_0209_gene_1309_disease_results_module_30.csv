@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,27,28,-0.054545454545454564
+1,disease_on_symptoms,21,17,0.8889871738168953
+2,disease_on_drugs,25,28,-0.04311320754716985

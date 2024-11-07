@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,18,17,-0.15172735760971068
+2,disease_on_drugs,24,17,-0.14789574366331926

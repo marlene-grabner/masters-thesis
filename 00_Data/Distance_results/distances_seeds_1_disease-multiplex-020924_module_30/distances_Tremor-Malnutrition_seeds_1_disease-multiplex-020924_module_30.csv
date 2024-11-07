@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Malnutrition nodes,sAB
+0,disease_on_genes,16,26,-0.013163919413919256
+1,disease_on_symptoms,23,18,1.6473429951690821
+2,disease_on_drugs,16,23,0.30208333333333326

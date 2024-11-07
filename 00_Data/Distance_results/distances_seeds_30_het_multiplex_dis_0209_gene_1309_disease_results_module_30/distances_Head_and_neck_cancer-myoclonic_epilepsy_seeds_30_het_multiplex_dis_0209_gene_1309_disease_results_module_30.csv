@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,22,16,1.1704545454545454
+2,disease_on_drugs,23,25,0.43637681159420283

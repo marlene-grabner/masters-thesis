@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,22,28,0.5182467532467532
+1,disease_on_symptoms,21,19,2.2918546365914785
+2,disease_on_drugs,6,26,0.9703525641025641

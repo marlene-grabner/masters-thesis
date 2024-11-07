@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,22,0.25364145658263304
+1,disease_on_symptoms,21,20,1.534581881533101
+2,disease_on_drugs,27,19,0.5592846851428086

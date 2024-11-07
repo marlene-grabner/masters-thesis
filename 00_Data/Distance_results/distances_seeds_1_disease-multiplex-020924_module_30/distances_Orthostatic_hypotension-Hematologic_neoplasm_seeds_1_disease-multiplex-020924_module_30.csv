@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.4833333333333334
+1,disease_on_symptoms,12,24,1.2986111111111114
+2,disease_on_drugs,17,19,0.8931028551771585

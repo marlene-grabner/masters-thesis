@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3540293040293039
+1,disease_on_symptoms,16,15,1.039986559139785
+2,disease_on_drugs,30,16,0.5

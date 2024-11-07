@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,19,13,0.2710020242914979
+2,disease_on_drugs,30,19,0.1991586108127461

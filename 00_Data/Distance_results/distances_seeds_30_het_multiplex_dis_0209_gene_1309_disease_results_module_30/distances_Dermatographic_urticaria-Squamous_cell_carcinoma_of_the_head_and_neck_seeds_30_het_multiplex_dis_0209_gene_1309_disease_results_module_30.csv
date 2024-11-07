@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,29,30,-0.08418079096045183
+1,disease_on_symptoms,18,22,0.23989898989898983
+2,disease_on_drugs,28,30,0.23940886699507402

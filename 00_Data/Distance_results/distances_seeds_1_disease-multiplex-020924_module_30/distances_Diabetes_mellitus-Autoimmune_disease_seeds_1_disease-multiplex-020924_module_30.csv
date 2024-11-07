@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,20,22,0.31028138528138527
+1,disease_on_symptoms,18,19,2.0830172277540697
+2,disease_on_drugs,19,19,0.7631578947368423

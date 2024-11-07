@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.664717348927875
+1,disease_on_symptoms,9,21,0.6920634920634918
+2,disease_on_drugs,11,27,0.2703349282296652

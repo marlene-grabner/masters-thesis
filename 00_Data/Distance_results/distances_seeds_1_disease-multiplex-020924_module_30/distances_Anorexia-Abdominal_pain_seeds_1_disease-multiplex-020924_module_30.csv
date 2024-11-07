@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,17,30,-0.34246975385899037
+1,disease_on_symptoms,25,24,-0.14423469387755117
+2,disease_on_drugs,13,24,0.0009528759528760755

@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,12,20,0.060416666666666785
+2,disease_on_drugs,23,28,0.49663561076604545

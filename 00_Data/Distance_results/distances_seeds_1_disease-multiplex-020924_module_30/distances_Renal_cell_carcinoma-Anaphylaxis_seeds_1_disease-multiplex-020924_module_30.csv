@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,0.23059829059829062
+1,disease_on_symptoms,24,15,1.248076923076923
+2,disease_on_drugs,20,26,1.2224080267558528

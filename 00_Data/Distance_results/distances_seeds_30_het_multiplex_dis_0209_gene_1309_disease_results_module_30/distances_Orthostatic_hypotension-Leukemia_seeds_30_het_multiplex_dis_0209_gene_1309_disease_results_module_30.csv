@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,21,0.2677700348432057
+2,disease_on_drugs,28,30,0.18637110016420366

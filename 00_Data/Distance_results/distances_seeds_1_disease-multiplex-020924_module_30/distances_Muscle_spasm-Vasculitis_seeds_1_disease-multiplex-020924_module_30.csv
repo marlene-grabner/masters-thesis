@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,24,0.5118197278911565
+1,disease_on_symptoms,23,19,1.7788492971559333
+2,disease_on_drugs,19,20,0.5653846153846154

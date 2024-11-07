@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,27,30,-0.10623781676413269
+1,disease_on_symptoms,21,19,0.1585213032581454
+2,disease_on_drugs,24,30,0.016203703703703498

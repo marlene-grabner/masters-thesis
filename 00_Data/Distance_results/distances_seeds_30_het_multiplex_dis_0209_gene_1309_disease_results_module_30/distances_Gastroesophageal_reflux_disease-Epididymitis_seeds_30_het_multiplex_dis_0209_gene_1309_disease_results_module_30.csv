@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Epididymitis nodes,sAB
+0,disease_on_genes,26,29,-0.05559440559440554
+1,disease_on_symptoms,18,23,0.5487510309885708
+2,disease_on_drugs,25,26,0.0395173453996982

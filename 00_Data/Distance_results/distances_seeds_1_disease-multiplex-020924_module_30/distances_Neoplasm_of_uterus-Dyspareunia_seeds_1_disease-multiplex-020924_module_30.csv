@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,28,24,-0.03296703296703285
+1,disease_on_symptoms,19,17,0.5525455796353629
+2,disease_on_drugs,28,23,-0.004643161612471136

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,0.09027777777777768
+1,disease_on_symptoms,12,19,0.8829937747594794
+2,disease_on_drugs,29,19,0.07906079854809445

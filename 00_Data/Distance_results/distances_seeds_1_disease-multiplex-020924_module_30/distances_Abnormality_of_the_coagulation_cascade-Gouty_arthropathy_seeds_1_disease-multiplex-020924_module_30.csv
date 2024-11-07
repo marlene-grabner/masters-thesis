@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,23,25,0.3756159420289855
+1,disease_on_symptoms,23,13,1.1654589371980677
+2,disease_on_drugs,18,16,0.7399918300653594

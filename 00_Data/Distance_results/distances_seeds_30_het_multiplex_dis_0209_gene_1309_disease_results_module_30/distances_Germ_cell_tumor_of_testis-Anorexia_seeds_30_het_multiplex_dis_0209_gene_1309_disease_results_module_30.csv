@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.16208264915161485
+1,disease_on_symptoms,22,13,0.7765734265734268
+2,disease_on_drugs,20,28,0.15773809523809534

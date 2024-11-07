@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,25,0.6327272727272726
+1,disease_on_symptoms,25,20,2.693333333333334
+2,disease_on_drugs,7,18,0.6052380952380954

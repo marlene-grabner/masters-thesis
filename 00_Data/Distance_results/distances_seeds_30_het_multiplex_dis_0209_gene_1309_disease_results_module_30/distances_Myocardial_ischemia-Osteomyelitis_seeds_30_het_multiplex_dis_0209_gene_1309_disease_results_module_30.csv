@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,19,22,0.19039561209009226
+2,disease_on_drugs,30,28,0.3256568144499179

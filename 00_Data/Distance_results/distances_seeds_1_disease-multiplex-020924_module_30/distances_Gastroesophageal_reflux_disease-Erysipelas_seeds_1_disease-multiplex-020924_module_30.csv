@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,0.05687830687830697
+1,disease_on_symptoms,17,20,0.7704292527821939
+2,disease_on_drugs,25,27,0.5184615384615385

@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,0.10666666666666669
+1,disease_on_symptoms,24,24,1.0833333333333335
+2,disease_on_drugs,20,24,1.0265151515151518

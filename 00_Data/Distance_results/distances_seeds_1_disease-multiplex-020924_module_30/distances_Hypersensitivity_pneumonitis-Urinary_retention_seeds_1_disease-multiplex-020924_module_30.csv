@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,24,30,0.33806626098715364
+1,disease_on_symptoms,23,18,1.378078237304112
+2,disease_on_drugs,24,19,0.2931456548347613

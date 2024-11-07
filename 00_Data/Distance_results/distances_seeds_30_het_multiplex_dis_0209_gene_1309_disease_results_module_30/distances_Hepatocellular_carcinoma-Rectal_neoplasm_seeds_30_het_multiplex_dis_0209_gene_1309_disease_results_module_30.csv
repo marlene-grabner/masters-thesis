@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,24,30,-0.18333333333333324
+1,disease_on_symptoms,23,20,-0.10553589484327608
+2,disease_on_drugs,22,29,-0.2297006576925441

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,23,30,0.0793136450642602
+1,disease_on_symptoms,16,15,1.256518817204301
+2,disease_on_drugs,22,26,0.5032051282051284

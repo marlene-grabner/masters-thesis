@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,12,20,-0.060416666666666785
+2,disease_on_drugs,29,28,-0.24659709618874792

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,15,21,0.5373015873015874
+2,disease_on_drugs,29,25,0.16651340996168584

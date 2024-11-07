@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,12,20,0.4458333333333333
+2,disease_on_drugs,29,20,-0.0852920478536241

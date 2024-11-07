@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,0.03803921568627455
+1,disease_on_symptoms,25,15,0.7766666666666664
+2,disease_on_drugs,21,21,-0.09523809523809523

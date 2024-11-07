@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,22,30,0.2732492997198879
+1,disease_on_symptoms,20,16,2.275
+2,disease_on_drugs,19,23,0.43184047074207244

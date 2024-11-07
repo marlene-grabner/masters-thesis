@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.03724137931034477
+1,disease_on_symptoms,20,23,1.357608695652174
+2,disease_on_drugs,24,21,0.17956349206349187

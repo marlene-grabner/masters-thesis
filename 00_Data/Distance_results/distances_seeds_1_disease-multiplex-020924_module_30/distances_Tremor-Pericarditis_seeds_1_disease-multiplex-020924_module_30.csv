@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Pericarditis nodes,sAB
+0,disease_on_genes,16,25,0.1257621951219512
+1,disease_on_symptoms,23,22,1.332191480017567
+2,disease_on_drugs,16,25,0.31460365853658545

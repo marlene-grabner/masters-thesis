@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.08791208791208804
+1,disease_on_symptoms,14,25,0.7314652014652014
+2,disease_on_drugs,24,25,0.040323129251700784

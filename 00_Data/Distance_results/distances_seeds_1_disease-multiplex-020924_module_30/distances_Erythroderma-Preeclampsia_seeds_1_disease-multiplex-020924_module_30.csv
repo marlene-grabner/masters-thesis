@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,26,0.25357142857142856
+1,disease_on_symptoms,19,17,1.9172686618507053
+2,disease_on_drugs,28,23,0.7821824381926683

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,26,30,-0.16208791208791207
+1,disease_on_symptoms,17,14,-0.3528734074274871
+2,disease_on_drugs,24,25,-0.06093537414965988

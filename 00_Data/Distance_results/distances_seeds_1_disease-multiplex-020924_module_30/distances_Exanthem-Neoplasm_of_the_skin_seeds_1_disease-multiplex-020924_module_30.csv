@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,28,0.08928571428571441
+1,disease_on_symptoms,26,21,0.5872106616787471
+2,disease_on_drugs,28,24,0.2321428571428572

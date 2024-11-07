@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,24,21,-0.0017857142857142794
+1,disease_on_symptoms,18,22,0.3340909090909092
+2,disease_on_drugs,18,20,0.24342105263157898

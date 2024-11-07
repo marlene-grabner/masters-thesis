@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,26,25,0.39137254901960783
+1,disease_on_symptoms,21,19,1.643859649122807
+2,disease_on_drugs,25,18,1.5601291989664081

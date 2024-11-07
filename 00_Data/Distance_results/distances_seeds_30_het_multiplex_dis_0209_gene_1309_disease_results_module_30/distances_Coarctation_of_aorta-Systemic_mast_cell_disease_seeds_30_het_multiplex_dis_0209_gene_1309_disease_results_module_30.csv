@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,-0.036375661375661505
+1,disease_on_symptoms,19,25,0.7388038277511961
+2,disease_on_drugs,24,21,0.2498015873015873

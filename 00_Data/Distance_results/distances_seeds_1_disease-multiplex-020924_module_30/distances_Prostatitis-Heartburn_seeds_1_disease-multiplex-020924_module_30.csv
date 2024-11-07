@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,24,0.03287037037037033
+1,disease_on_symptoms,20,20,1.0499999999999998
+2,disease_on_drugs,29,22,0.4133782039461553

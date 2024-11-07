@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,-0.016666666666666607
+1,disease_on_symptoms,16,14,-0.11041666666666661
+2,disease_on_drugs,30,22,-0.008041958041958175

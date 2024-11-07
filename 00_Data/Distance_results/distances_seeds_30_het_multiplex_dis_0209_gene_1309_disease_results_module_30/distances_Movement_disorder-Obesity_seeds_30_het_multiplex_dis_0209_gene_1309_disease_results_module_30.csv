@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.37046783625731017
+1,disease_on_symptoms,17,18,-0.5779645191409897
+2,disease_on_drugs,26,25,-0.4480392156862746

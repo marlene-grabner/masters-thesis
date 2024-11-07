@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,15,24,0.027884615384615286
+2,disease_on_drugs,30,20,0.22499999999999987

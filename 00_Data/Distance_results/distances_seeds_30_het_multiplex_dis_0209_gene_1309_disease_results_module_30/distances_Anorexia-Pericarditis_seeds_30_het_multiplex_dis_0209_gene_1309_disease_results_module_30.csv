@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,26,-0.27178683385579927
+1,disease_on_symptoms,13,21,-0.26212023270846796
+2,disease_on_drugs,28,26,-0.263024013024013

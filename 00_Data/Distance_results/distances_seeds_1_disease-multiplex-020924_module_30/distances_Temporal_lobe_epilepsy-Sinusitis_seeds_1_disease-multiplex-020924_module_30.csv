@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,29,29,0.34482758620689635
+1,disease_on_symptoms,17,21,1.805248415155536
+2,disease_on_drugs,26,28,1.1309015059015057

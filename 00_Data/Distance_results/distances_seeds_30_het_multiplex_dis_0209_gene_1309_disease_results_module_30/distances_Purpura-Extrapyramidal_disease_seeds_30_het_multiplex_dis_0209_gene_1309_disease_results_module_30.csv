@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,27,30,0.03411306042884976
+1,disease_on_symptoms,17,18,1.1642857142857141
+2,disease_on_drugs,24,25,0.2643367346938774

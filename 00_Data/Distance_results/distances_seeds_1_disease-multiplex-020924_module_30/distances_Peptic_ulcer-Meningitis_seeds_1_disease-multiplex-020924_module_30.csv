@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,0.05165932071558221
+1,disease_on_symptoms,14,20,0.755672268907563
+2,disease_on_drugs,28,26,0.5185185185185186

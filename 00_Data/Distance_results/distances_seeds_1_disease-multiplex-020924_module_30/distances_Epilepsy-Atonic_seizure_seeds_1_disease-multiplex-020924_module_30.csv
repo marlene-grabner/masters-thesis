@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.5344827586206895
+1,disease_on_symptoms,18,16,-0.6936274509803924
+2,disease_on_drugs,30,24,-0.6092592592592592

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.44704433497536966
+1,disease_on_symptoms,12,17,0.6162947937795806
+2,disease_on_drugs,27,18,1.1777777777777776

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,17,30,0.13822463768115956
+1,disease_on_symptoms,27,14,0.03064911601496978
+2,disease_on_drugs,14,24,-0.08286340852130325

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,18,23,0.4673323907152116
+2,disease_on_drugs,25,30,0.23999999999999977

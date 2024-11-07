@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,-0.21570135746606334
+1,disease_on_symptoms,17,26,0.08781437440808171
+2,disease_on_drugs,24,24,-0.1875

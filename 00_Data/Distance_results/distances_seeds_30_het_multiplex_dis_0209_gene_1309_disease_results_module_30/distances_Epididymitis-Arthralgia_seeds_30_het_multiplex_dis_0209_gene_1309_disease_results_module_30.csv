@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,29,30,-0.10169491525423724
+1,disease_on_symptoms,23,17,0.3494245524296675
+2,disease_on_drugs,26,30,-0.05824175824175826

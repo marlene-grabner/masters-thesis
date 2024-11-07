@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,29,0.4363636363636363
+1,disease_on_symptoms,21,18,1.5854700854700856
+2,disease_on_drugs,25,22,1.1302127659574466

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.03632478632478642
+1,disease_on_symptoms,20,13,1.1490675990675991
+2,disease_on_drugs,20,28,0.017857142857142794

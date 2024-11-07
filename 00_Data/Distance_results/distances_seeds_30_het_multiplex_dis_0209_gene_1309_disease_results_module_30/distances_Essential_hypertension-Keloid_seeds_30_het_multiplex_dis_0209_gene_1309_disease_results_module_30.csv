@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Keloid nodes,sAB
+0,disease_on_genes,28,23,-0.23529411764705888
+1,disease_on_symptoms,13,17,1.3776772247360483
+2,disease_on_drugs,28,22,-0.06987012987012964

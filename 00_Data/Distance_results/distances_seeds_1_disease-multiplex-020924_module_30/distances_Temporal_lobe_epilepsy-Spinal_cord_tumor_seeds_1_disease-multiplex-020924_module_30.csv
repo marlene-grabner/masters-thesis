@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,29,22,0.07856967238305979
+1,disease_on_symptoms,17,22,1.1914849856026328
+2,disease_on_drugs,26,14,0.2986263736263737

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.29833333333333334
+1,disease_on_symptoms,17,27,1.0168350168350169
+2,disease_on_drugs,26,19,0.5905308142150245

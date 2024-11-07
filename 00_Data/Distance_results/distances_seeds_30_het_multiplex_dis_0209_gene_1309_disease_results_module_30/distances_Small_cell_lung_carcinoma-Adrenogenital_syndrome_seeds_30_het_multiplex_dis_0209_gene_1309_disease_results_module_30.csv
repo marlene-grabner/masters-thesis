@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,9,-0.08270676691729317
+2,disease_on_drugs,30,23,0.14185124418922612

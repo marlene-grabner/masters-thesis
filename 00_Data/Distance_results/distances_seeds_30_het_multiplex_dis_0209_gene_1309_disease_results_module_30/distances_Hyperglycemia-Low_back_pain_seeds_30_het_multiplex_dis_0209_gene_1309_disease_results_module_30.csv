@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,17,16,0.2845365418894832
+2,disease_on_drugs,26,25,-0.021659125188536965

@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Exanthem nodes,sAB
+0,disease_on_genes,20,28,0.04583333333333317
+1,disease_on_symptoms,23,26,1.5299979523582006
+2,disease_on_drugs,18,28,0.5014665286404416

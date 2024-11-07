@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.09404761904761916
+1,disease_on_symptoms,19,14,-0.23650034176349966
+2,disease_on_drugs,23,30,0.19021055509980855

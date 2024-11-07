@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,17,30,0.13512724238631635
+1,disease_on_symptoms,25,17,0.27232492997198876
+2,disease_on_drugs,13,26,0.21794871794871806

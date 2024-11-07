@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,29,30,-0.30537697253068374
+1,disease_on_symptoms,20,17,-0.1283783783783783
+2,disease_on_drugs,25,30,-0.22424242424242424

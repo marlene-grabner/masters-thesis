@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,28,20,0.1499999999999999
+1,disease_on_symptoms,21,26,0.8937534097108566
+2,disease_on_drugs,21,13,0.5247791424262012

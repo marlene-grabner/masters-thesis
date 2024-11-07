@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Keratitis nodes,sAB
+0,disease_on_genes,24,30,0.13148148148148153
+1,disease_on_symptoms,22,25,0.9104448742746614
+2,disease_on_drugs,21,29,0.10646962233169144

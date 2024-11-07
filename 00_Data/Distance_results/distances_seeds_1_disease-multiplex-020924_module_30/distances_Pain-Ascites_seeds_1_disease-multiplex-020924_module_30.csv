@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.28296703296703307
+1,disease_on_symptoms,21,17,0.4772224679345425
+2,disease_on_drugs,26,27,0.35917593936461834

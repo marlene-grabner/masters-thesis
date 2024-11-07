@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.27118644067796616
+1,disease_on_symptoms,15,11,0.21212121212121193
+2,disease_on_drugs,29,24,-0.26781067013662985

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,17,-0.08155080213903743
+1,disease_on_symptoms,21,24,0.9402777777777778
+2,disease_on_drugs,23,16,-0.06594899665551845

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,21,11,0.47997835497835517
+2,disease_on_drugs,29,24,0.17103122966818463

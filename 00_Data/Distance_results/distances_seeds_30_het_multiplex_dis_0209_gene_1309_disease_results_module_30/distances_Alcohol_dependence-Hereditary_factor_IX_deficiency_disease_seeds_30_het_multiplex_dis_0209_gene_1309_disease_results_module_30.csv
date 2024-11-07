@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.1041461412151069
+1,disease_on_symptoms,18,18,0.75
+2,disease_on_drugs,24,26,0.05974358974358984

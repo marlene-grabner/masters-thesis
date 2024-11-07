@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,18,22,0.5762626262626265
+2,disease_on_drugs,28,26,0.2617012617012615

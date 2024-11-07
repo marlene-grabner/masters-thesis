@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,0.13177655677655697
+1,disease_on_symptoms,18,17,0.9424836601307187
+2,disease_on_drugs,23,26,0.36734693877551017

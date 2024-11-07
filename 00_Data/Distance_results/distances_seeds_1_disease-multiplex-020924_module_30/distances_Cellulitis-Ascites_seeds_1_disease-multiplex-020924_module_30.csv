@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Ascites nodes,sAB
+0,disease_on_genes,22,30,0.2997198879551821
+1,disease_on_symptoms,26,17,1.2041986741029151
+2,disease_on_drugs,12,27,0.8418803418803418

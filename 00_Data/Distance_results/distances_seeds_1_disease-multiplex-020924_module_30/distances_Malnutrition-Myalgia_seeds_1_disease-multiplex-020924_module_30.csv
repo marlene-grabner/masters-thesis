@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,-0.28489010989011
+1,disease_on_symptoms,18,16,-0.24060457516339873
+2,disease_on_drugs,23,29,-0.23076923076923073

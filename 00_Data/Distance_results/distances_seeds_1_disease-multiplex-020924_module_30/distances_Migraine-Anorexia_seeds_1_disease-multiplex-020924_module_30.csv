@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.12561535252398848
+1,disease_on_symptoms,14,25,0.6052747252747253
+2,disease_on_drugs,29,13,0.6282051282051284

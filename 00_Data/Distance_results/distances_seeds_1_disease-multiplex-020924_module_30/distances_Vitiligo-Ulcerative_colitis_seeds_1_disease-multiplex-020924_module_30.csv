@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,24,27,0.0867374727668846
+1,disease_on_symptoms,22,20,1.5899350649350648
+2,disease_on_drugs,11,25,0.19444444444444442

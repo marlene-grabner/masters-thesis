@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,27,26,-0.2264150943396226
+1,disease_on_symptoms,21,23,-0.4035855448898926
+2,disease_on_drugs,25,26,-0.19580693815987926

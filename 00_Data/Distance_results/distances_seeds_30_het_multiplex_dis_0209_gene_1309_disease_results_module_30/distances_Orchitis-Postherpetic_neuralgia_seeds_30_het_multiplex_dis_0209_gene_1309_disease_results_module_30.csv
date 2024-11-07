@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,25,30,-0.07272727272727275
+1,disease_on_symptoms,19,16,0.25263157894736876
+2,disease_on_drugs,25,29,-0.07019157088122596

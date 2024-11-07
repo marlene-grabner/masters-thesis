@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.5740740740740742
+1,disease_on_symptoms,9,19,0.8598579782790305
+2,disease_on_drugs,11,26,0.7731525231525234

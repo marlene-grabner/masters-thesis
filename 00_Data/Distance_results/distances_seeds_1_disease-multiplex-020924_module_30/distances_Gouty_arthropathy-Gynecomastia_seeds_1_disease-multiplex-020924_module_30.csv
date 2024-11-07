@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,25,30,0.48363636363636364
+1,disease_on_symptoms,13,16,1.2737068965517242
+2,disease_on_drugs,16,24,0.70625

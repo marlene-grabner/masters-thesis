@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,24,25,0.38855442176870736
+1,disease_on_symptoms,18,22,0.5363636363636362
+2,disease_on_drugs,18,24,0.7976190476190474

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Sarcoma nodes,sAB
+0,disease_on_genes,17,25,0.2983193277310925
+1,disease_on_symptoms,22,26,1.3028846153846154
+2,disease_on_drugs,15,21,0.32777777777777795

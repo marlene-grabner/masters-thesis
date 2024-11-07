@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Strabismus nodes,sAB
+0,disease_on_genes,23,13,0.38703084355258266
+1,disease_on_symptoms,19,26,1.648875393612236
+2,disease_on_drugs,11,9,1.1444444444444446

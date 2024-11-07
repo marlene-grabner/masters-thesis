@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,26,29,0.0706293706293708
+1,disease_on_symptoms,24,25,0.5362755102040817
+2,disease_on_drugs,24,27,0.08823529411764719

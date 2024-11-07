@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.16042884990253437
+1,disease_on_symptoms,14,21,1.3476190476190477
+2,disease_on_drugs,26,24,0.6391666666666664

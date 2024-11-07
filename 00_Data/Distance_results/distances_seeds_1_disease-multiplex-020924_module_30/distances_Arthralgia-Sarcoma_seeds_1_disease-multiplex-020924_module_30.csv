@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.10909090909090913
+1,disease_on_symptoms,19,26,1.7437471884840308
+2,disease_on_drugs,30,21,0.7254901960784315

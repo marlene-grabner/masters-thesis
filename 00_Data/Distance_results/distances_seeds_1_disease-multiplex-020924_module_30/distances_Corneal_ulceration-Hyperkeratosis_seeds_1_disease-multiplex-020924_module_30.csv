@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,28,26,-0.018569393569393577
+1,disease_on_symptoms,19,21,0.6065162907268171
+2,disease_on_drugs,26,23,0.020408163265306145

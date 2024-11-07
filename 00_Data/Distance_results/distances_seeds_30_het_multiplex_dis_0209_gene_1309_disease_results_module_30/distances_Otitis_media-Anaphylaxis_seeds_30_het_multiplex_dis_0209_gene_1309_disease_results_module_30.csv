@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,29,27,0.05352581645685084
+1,disease_on_symptoms,20,14,1.7644957983193277
+2,disease_on_drugs,28,26,0.02101139601139601

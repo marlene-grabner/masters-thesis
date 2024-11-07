@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.019203891845401166
+1,disease_on_symptoms,21,22,0.9277660324171952
+2,disease_on_drugs,25,25,0.2799999999999998

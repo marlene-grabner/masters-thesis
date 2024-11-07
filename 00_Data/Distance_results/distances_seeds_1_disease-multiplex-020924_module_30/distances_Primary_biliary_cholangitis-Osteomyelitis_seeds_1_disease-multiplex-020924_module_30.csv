@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,0.1756711915535445
+1,disease_on_symptoms,17,23,-0.04526854219948828
+2,disease_on_drugs,18,23,0.3020501944149876

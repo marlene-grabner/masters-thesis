@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,-0.06666666666666665
+1,disease_on_symptoms,18,15,0.20050505050505052
+2,disease_on_drugs,17,22,-0.0037707390648566985

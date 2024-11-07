@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,15,17,0.03443627450980391
+1,disease_on_symptoms,27,27,2.2962962962962963
+2,disease_on_drugs,13,16,0.6961206896551724

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Obesity nodes,sAB
+0,disease_on_genes,14,26,0.2950549450549451
+1,disease_on_symptoms,25,20,2.2511111111111113
+2,disease_on_drugs,10,27,0.9399899899899902

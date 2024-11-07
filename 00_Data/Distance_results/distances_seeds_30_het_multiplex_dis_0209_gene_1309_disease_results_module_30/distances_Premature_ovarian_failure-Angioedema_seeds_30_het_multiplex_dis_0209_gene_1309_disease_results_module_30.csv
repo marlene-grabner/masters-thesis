@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,15,18,-0.16262626262626267
+2,disease_on_drugs,26,26,-0.25

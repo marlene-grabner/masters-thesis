@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.27147866744593796
+1,disease_on_symptoms,16,18,-0.49101307189542465
+2,disease_on_drugs,25,28,-0.0629919137466306

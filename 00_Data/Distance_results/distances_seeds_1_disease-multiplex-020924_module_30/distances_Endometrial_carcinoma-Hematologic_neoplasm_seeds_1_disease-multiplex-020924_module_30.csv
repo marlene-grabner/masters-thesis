@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,23,22,0.13478260869565228
+1,disease_on_symptoms,21,24,1.2355158730158733
+2,disease_on_drugs,21,19,0.22330827067669157

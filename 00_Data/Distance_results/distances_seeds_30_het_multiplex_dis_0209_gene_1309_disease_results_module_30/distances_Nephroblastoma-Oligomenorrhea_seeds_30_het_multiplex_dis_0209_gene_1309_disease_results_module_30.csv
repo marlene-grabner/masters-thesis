@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,29,0.051724137931034475
+1,disease_on_symptoms,20,11,1.4752932551319649
+2,disease_on_drugs,24,24,0.18749999999999978

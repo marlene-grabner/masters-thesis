@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,27,28,-0.1454545454545455
+1,disease_on_symptoms,21,25,-0.0667080745341615
+2,disease_on_drugs,25,24,-0.20299319727891163

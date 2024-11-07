@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.25993984140005466
+1,disease_on_symptoms,14,25,0.8537728937728937
+2,disease_on_drugs,24,22,0.9752964426877471

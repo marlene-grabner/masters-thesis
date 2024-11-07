@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.6040229885057471
+1,disease_on_symptoms,15,12,1.2796296296296297
+2,disease_on_drugs,21,21,1.1428571428571428

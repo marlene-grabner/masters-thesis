@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,20,21,0.19503484320557507
+1,disease_on_symptoms,22,26,0.739364801864802
+2,disease_on_drugs,15,20,0.9285714285714284

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,25,21,-0.021739130434782594
+1,disease_on_symptoms,19,22,0.49749095577080205
+2,disease_on_drugs,22,19,-0.19477185202474034

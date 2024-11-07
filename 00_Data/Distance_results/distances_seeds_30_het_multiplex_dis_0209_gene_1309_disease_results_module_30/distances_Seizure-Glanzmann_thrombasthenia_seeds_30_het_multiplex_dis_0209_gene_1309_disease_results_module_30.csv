@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.05555555555555558
+1,disease_on_symptoms,21,19,1.0677318295739349
+2,disease_on_drugs,29,24,0.472308067664281

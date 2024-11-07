@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Keratitis nodes,sAB
+0,disease_on_genes,24,28,0.02358058608058622
+1,disease_on_symptoms,22,25,0.9293423597678916
+2,disease_on_drugs,11,23,-0.09462915601023003

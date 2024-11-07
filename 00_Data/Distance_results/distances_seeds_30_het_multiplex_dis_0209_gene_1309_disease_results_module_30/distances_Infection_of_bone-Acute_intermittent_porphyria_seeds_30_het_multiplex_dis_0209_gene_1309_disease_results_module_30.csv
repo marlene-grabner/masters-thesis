@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,18,17,0.6345471521942112
+2,disease_on_drugs,28,24,0.09226190476190466

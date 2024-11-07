@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,0.017231638418079065
+1,disease_on_symptoms,23,19,0.24163670044676921
+2,disease_on_drugs,26,30,0.011996336996337176

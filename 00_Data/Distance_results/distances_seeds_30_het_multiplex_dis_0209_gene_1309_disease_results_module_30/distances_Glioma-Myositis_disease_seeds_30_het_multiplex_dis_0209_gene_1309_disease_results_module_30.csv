@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,22,30,-0.13205128205128203
+1,disease_on_symptoms,21,18,0.33913308913308904
+2,disease_on_drugs,21,26,-0.1045709609539398

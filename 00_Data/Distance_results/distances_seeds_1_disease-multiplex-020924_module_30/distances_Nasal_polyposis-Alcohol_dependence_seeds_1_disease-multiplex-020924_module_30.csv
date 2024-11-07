@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,15,12,0.5546296296296296
+1,disease_on_symptoms,25,27,2.762962962962963
+2,disease_on_drugs,10,9,0.3678362573099414

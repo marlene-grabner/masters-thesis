@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.24
+1,disease_on_symptoms,22,20,-0.24080086580086602
+2,disease_on_drugs,26,20,-0.2540969899665553

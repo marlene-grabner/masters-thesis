@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Myalgia nodes,sAB
+0,disease_on_genes,25,30,-0.07272727272727275
+1,disease_on_symptoms,19,16,0.6208176691729324
+2,disease_on_drugs,23,29,-0.074501210932995

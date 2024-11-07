@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Stomatitis nodes,sAB
+0,disease_on_genes,21,30,0.12142857142857144
+1,disease_on_symptoms,24,23,1.4268617021276597
+2,disease_on_drugs,14,30,0.08831168831168834

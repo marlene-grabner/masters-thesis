@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,20,24,0.27234848484848473
+1,disease_on_symptoms,24,17,1.4712757054041128
+2,disease_on_drugs,18,23,0.6172086720867209

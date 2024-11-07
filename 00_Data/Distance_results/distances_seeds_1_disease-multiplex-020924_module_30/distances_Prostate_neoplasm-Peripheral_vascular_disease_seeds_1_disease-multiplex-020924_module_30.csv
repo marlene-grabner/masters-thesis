@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,17,23,0.12691815856777477
+1,disease_on_symptoms,21,16,1.929255148005148
+2,disease_on_drugs,17,22,1.095022624434389

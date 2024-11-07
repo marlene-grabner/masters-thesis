@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.06178556528994594
+1,disease_on_symptoms,22,28,0.3994155844155842
+2,disease_on_drugs,15,9,-0.01666666666666683

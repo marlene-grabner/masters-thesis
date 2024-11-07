@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,0.16370370370370368
+1,disease_on_symptoms,18,25,1.839922480620155
+2,disease_on_drugs,30,23,1.4870248837845228

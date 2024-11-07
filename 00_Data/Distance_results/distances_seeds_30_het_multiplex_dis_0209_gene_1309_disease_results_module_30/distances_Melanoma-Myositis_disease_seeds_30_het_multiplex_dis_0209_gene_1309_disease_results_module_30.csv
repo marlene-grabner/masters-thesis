@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,27,30,-0.07027290448343082
+1,disease_on_symptoms,23,18,0.5813302698244374
+2,disease_on_drugs,25,26,0.0825188536953243

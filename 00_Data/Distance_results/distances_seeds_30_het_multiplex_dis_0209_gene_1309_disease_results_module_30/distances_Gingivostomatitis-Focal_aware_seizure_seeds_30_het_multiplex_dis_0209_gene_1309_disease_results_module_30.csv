@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.16920903954802258
+1,disease_on_symptoms,15,16,0.3466397849462364
+2,disease_on_drugs,30,29,0.05023378141437762

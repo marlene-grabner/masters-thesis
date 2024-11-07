@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.15517241379310343
+1,disease_on_symptoms,16,18,-0.13807189542483655
+2,disease_on_drugs,28,27,-0.08932178932178947

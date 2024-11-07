@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,0.5648484848484849
+1,disease_on_symptoms,14,19,1.6073137388926866
+2,disease_on_drugs,11,13,1.4615384615384617

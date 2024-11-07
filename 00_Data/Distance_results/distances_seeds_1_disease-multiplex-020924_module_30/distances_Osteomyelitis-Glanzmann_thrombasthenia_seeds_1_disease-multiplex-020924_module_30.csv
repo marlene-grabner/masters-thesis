@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,0.20488095238095227
+1,disease_on_symptoms,23,21,1.51072840203275
+2,disease_on_drugs,23,24,1.0651210299105767

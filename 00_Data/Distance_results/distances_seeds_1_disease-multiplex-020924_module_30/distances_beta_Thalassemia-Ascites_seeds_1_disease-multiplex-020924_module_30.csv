@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Ascites nodes,sAB
+0,disease_on_genes,22,30,0.3933566433566431
+1,disease_on_symptoms,21,17,2.6288515406162465
+2,disease_on_drugs,6,27,0.808080808080808

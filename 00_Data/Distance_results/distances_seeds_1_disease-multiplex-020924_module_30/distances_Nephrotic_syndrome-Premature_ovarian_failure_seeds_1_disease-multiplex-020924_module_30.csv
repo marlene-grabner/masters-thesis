@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,20,28,0.12083333333333335
+1,disease_on_symptoms,24,21,0.8902777777777777
+2,disease_on_drugs,18,21,0.3006715506715507

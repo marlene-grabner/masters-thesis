@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,13,16,0.16420755968169765
+2,disease_on_drugs,19,28,-0.003059510478323535

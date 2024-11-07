@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Keloid nodes,sAB
+0,disease_on_genes,28,23,0.0
+1,disease_on_symptoms,25,17,1.080168067226891
+2,disease_on_drugs,24,22,0.22364953886693018

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,24,0.14583333333333326
+1,disease_on_symptoms,18,22,1.2406565656565656
+2,disease_on_drugs,27,24,0.12309368191721126

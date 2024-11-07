@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,24,30,0.1518518518518519
+1,disease_on_symptoms,17,24,0.3282819225251077
+2,disease_on_drugs,23,24,0.4463074313906876

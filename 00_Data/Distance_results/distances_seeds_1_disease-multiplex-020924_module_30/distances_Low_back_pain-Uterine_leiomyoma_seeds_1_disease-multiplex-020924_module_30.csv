@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,24,0.09907407407407409
+1,disease_on_symptoms,17,21,1.1779448621553883
+2,disease_on_drugs,26,18,0.4739704739704742

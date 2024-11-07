@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.2481542247744053
+1,disease_on_symptoms,14,19,0.9280018227386648
+2,disease_on_drugs,29,21,-0.261543513957307

@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,28,23,0.4480879308245038
+1,disease_on_symptoms,15,25,1.4683333333333333
+2,disease_on_drugs,21,22,1.0713530655391117

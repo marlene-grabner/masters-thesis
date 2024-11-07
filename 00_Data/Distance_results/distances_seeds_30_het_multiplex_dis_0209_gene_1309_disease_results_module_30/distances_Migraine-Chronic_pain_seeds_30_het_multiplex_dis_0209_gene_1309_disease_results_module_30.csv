@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,12,19,-0.45911148839841553
+2,disease_on_drugs,29,28,-0.22748682049952473

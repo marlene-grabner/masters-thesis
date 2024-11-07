@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.1266899766899765
+1,disease_on_symptoms,21,19,0.950563909774436
+2,disease_on_drugs,27,18,0.06481481481481488

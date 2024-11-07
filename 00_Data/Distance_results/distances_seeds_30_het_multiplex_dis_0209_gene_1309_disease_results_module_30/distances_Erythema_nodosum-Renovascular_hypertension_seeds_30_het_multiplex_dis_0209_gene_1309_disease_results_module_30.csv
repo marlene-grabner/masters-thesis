@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,22,17,0.5097010832304947
+2,disease_on_drugs,29,29,-0.051724137931034475

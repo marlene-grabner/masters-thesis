@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.1132075471698113
+1,disease_on_symptoms,17,20,0.3952702702702702
+2,disease_on_drugs,30,20,-0.018333333333333313

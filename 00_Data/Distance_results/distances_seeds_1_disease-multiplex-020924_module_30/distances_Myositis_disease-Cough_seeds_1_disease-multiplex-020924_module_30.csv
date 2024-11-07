@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.05253411306042888
+1,disease_on_symptoms,24,21,1.077777777777778
+2,disease_on_drugs,28,27,0.21913179413179407

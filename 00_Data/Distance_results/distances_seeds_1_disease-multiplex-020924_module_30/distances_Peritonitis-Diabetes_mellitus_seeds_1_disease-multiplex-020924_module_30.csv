@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,20,0.2650000000000001
+1,disease_on_symptoms,17,18,2.0829598506069096
+2,disease_on_drugs,28,19,0.9805231163013917

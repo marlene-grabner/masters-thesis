@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,14,30,0.006458007929832865
+1,disease_on_symptoms,23,18,0.9470071874631789
+2,disease_on_drugs,14,19,0.16347687400318978

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,23,17,0.3324808184143222
+1,disease_on_symptoms,19,22,2.8382541720154046
+2,disease_on_drugs,11,15,0.3897435897435899

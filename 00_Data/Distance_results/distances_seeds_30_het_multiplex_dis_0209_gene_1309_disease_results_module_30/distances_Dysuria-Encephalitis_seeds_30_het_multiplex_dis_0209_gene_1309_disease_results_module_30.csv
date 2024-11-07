@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.1694915254237288
+1,disease_on_symptoms,12,13,0.9233333333333333
+2,disease_on_drugs,21,22,0.2058542232960836

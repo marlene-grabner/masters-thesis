@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,24,20,0.02537878787878789
+2,disease_on_drugs,20,28,0.12380952380952381

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,30,-0.10350877192982444
+1,disease_on_symptoms,17,18,0.5440709617180204
+2,disease_on_drugs,17,24,-0.06396461023433764

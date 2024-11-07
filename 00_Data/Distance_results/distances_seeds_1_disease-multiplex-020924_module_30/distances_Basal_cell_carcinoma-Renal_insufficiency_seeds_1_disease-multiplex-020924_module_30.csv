@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,0.2655518394648828
+1,disease_on_symptoms,23,23,1.9999999999999998
+2,disease_on_drugs,25,17,0.5140056022408963

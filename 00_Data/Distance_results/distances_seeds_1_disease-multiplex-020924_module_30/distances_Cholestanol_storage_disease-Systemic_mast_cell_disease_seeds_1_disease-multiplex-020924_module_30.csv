@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.20251315020455873
+1,disease_on_symptoms,17,16,0.7541221033868093
+2,disease_on_drugs,25,25,0.74

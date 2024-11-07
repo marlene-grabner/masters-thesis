@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.4878048780487805
+1,disease_on_symptoms,16,27,1.4074881567614126
+2,disease_on_drugs,17,17,0.4411764705882353

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,17,19,-0.130718954248366
+2,disease_on_drugs,26,29,-0.1479864962623585

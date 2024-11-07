@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.22397372742200328
+1,disease_on_symptoms,20,19,0.5131916329284751
+2,disease_on_drugs,29,28,0.719589923083571

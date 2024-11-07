@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.4046153846153846
+1,disease_on_symptoms,18,20,-0.23845029239766102
+2,disease_on_drugs,24,22,-0.36783596837944665

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Orchitis nodes,sAB
+0,disease_on_genes,16,23,0.3108974358974359
+1,disease_on_symptoms,26,16,1.656936813186813
+2,disease_on_drugs,14,17,0.36053130929791277

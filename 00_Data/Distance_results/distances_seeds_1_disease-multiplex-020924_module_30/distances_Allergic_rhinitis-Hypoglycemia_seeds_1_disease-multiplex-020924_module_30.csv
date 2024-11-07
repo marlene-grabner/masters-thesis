@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,21,30,0.2507002801120448
+1,disease_on_symptoms,22,12,1.788324420677362
+2,disease_on_drugs,21,22,0.6245847176079735

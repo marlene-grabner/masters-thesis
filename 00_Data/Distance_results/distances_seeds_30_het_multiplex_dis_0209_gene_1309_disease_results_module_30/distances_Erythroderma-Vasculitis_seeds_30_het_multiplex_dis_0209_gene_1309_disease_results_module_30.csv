@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,20,18,0.49839181286549694
+2,disease_on_drugs,29,26,-0.07055702917771889

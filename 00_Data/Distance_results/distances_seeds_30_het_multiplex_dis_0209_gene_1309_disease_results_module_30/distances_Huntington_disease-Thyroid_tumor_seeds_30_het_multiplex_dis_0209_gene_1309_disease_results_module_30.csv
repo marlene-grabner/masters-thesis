@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,17,20,0.812599364069952
+2,disease_on_drugs,26,20,0.01178929765886294

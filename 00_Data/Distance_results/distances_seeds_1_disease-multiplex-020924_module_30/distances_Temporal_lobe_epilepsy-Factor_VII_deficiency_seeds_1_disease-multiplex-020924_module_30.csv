@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.348684546615581
+1,disease_on_symptoms,17,23,2.5345907928388747
+2,disease_on_drugs,26,21,0.8054906086820979

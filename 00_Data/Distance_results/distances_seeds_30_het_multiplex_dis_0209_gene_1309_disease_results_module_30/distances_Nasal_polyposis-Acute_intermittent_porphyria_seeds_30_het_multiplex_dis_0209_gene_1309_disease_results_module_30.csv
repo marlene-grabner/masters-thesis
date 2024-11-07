@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,20,17,1.202543720190779
+2,disease_on_drugs,25,24,0.10032312925170084

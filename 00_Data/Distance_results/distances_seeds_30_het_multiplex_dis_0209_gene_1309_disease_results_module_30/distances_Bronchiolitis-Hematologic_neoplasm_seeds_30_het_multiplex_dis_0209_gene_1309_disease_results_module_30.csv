@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,25,18,0.5921705426356592
+2,disease_on_drugs,24,27,0.05882352941176472

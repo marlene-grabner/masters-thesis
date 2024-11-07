@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Constipation nodes,sAB
+0,disease_on_genes,29,30,0.08502824858757063
+1,disease_on_symptoms,16,17,0.7031528520499108
+2,disease_on_drugs,26,27,0.24563242487770776

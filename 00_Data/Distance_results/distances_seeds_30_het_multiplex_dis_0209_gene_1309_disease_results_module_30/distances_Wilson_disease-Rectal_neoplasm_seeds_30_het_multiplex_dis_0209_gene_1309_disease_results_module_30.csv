@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.07121212121212117
+1,disease_on_symptoms,19,20,0.0743927125506072
+2,disease_on_drugs,22,29,-0.06570778781732112

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,26,20,0.2945652173913045
+1,disease_on_symptoms,19,22,1.142052748278679
+2,disease_on_drugs,22,15,0.21879606879606883

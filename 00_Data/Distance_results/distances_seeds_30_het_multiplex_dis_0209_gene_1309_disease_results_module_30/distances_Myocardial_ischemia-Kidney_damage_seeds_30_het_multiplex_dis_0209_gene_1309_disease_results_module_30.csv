@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,19,15,-0.024664602683178494
+2,disease_on_drugs,30,21,-0.16638655462184881

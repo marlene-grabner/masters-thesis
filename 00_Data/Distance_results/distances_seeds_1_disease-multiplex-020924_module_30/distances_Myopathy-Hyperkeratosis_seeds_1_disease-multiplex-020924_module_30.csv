@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,18,26,0.5287490287490288
+1,disease_on_symptoms,21,21,0.9523809523809521
+2,disease_on_drugs,6,23,0.281609195402299

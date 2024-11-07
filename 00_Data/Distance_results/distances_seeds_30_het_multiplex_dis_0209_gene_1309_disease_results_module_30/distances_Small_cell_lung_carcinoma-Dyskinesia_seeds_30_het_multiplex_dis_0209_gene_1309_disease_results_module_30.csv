@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,19,15,0.5962848297213621
+2,disease_on_drugs,30,28,0.08846469622331687

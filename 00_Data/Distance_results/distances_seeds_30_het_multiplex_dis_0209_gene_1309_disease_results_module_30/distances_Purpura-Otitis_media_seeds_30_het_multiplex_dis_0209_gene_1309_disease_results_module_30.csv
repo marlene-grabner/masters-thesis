@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,-0.10718846925743475
+1,disease_on_symptoms,17,20,0.49121621621621614
+2,disease_on_drugs,24,28,-0.17788461538461542

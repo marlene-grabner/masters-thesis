@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,25,25,-0.4800000000000001
+1,disease_on_symptoms,24,25,-0.46738095238095234
+2,disease_on_drugs,20,21,-0.29268292682926833

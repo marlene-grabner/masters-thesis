@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Cough nodes,sAB
+0,disease_on_genes,23,27,0.15999999999999992
+1,disease_on_symptoms,23,22,1.067830478700044
+2,disease_on_drugs,22,24,0.4146903820816863

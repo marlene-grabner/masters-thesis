@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,29,22,0.5812434691745036
+1,disease_on_symptoms,17,21,3.232566710894884
+2,disease_on_drugs,26,6,1.407852564102564

@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,0.33333333333333326
+1,disease_on_symptoms,21,24,0.7470238095238098
+2,disease_on_drugs,25,15,0.32666666666666666

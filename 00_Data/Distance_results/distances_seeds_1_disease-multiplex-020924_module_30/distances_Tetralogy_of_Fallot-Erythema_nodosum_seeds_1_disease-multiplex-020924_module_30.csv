@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.517775041050903
+1,disease_on_symptoms,14,23,1.8352358569749876
+2,disease_on_drugs,11,28,0.9052197802197803

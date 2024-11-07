@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,9,14,0.08850931677018625
+2,disease_on_drugs,23,25,0.08365942028985507

@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,22,17,0.37296037296037277
+2,disease_on_drugs,15,30,0.11111111111111116

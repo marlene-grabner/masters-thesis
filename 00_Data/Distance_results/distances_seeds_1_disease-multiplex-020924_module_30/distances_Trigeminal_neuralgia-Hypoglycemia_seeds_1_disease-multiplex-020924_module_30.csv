@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,28,30,0.29125615763546797
+1,disease_on_symptoms,19,12,0.8351726089417091
+2,disease_on_drugs,26,22,0.8974358974358976

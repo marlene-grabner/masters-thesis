@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Asthma nodes,sAB
+0,disease_on_genes,17,25,0.36235294117647054
+1,disease_on_symptoms,21,19,1.3455513784461153
+2,disease_on_drugs,17,24,0.9239000478240076

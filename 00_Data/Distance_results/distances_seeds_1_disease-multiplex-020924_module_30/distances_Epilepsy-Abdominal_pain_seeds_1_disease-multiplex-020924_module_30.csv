@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,0.1361581920903956
+1,disease_on_symptoms,18,24,0.25297619047619024
+2,disease_on_drugs,30,24,0.16388888888888897

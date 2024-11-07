@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,24,25,0.384982993197279
+2,disease_on_drugs,27,21,-0.035383597883597906

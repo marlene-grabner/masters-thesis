@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,27,27,0.16666666666666652
+1,disease_on_symptoms,16,22,0.8186303827751198
+2,disease_on_drugs,23,22,0.5323232323232323

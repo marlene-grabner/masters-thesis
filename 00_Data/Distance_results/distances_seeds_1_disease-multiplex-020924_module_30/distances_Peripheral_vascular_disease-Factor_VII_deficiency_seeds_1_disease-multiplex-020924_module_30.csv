@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.1012318840579709
+1,disease_on_symptoms,16,23,3.090614548494983
+2,disease_on_drugs,22,21,0.7663344407530452

@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,0.034482758620689724
+1,disease_on_symptoms,17,16,0.8514928698752229
+2,disease_on_drugs,27,29,0.30202061667578906

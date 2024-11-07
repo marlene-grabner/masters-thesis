@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,29,26,0.19359778152881613
+1,disease_on_symptoms,17,20,1.1313593004769475
+2,disease_on_drugs,26,20,0.8720735785953178

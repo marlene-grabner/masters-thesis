@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,17,18,1.776750700280112
+2,disease_on_drugs,24,30,0.5842592592592595

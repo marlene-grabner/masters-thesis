@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,24,25,-0.06164965986394577
+1,disease_on_symptoms,19,20,0.8023279352226722
+2,disease_on_drugs,19,25,-0.028564593301435348

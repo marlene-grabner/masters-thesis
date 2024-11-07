@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,24,14,0.03195488721804507
+1,disease_on_symptoms,23,23,1.2391304347826086
+2,disease_on_drugs,24,14,0.1578947368421053

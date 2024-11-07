@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,-0.04113060428849913
+1,disease_on_symptoms,14,16,0.6255952380952381
+2,disease_on_drugs,29,18,0.42553191489361697

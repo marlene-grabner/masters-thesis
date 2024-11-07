@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,17,17,0.7058823529411762
+2,disease_on_drugs,28,27,0.11006493506493498

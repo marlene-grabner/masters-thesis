@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,23,28,-0.21568627450980393
+1,disease_on_symptoms,23,17,1.040409207161125
+2,disease_on_drugs,22,28,-0.07045454545454533

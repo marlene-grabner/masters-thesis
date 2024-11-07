@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,26,23,-0.1428571428571429
+1,disease_on_symptoms,21,24,-0.08194444444444438
+2,disease_on_drugs,25,22,-0.06272727272727274

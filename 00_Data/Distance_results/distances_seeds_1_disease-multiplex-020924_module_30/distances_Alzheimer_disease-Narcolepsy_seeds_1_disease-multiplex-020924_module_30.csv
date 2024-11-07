@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,20,25,0.026111111111111196
+1,disease_on_symptoms,23,21,1.0941087897609636
+2,disease_on_drugs,18,20,0.08026315789473704

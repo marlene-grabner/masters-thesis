@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.08674463937621835
+1,disease_on_symptoms,17,14,1.4648278666305234
+2,disease_on_drugs,26,26,0.32692307692307687

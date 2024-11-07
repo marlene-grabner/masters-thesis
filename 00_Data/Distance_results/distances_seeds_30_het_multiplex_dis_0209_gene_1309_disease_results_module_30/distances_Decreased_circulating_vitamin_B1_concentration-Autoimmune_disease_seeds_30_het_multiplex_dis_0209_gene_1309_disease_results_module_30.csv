@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.0357142857142857
+1,disease_on_symptoms,17,20,0.4619634340222576
+2,disease_on_drugs,25,25,0.1399999999999999

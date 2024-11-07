@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.24473684210526314
+1,disease_on_symptoms,13,21,-0.4725274725274726
+2,disease_on_drugs,28,27,-0.32632275132275135

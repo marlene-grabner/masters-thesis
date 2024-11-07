@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,21,30,0.08599439775910356
+1,disease_on_symptoms,22,20,1.3399350649350648
+2,disease_on_drugs,21,30,0.4061624649859945

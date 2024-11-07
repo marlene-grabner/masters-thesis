@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.22413793103448265
+1,disease_on_symptoms,20,16,0.7402777777777776
+2,disease_on_drugs,27,23,0.19887278582930756

@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.5098039215686274
+1,disease_on_symptoms,14,23,-0.2347658217223434
+2,disease_on_drugs,22,21,-0.6972717205275344

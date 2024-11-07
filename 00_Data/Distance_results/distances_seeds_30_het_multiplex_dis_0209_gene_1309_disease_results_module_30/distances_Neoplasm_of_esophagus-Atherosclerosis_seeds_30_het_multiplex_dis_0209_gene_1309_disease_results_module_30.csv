@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,29,30,-0.30537697253068374
+1,disease_on_symptoms,20,14,-0.19117647058823528
+2,disease_on_drugs,25,29,-0.2937420178799488

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,26,0.19606227106227103
+1,disease_on_symptoms,14,24,1.351033834586466
+2,disease_on_drugs,29,24,1.150943396226415

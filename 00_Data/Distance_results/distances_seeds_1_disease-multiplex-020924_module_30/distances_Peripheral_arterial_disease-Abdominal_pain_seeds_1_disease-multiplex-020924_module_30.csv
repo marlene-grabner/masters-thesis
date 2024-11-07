@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,0.144848484848485
+1,disease_on_symptoms,14,24,0.8782894736842106
+2,disease_on_drugs,22,24,0.15398550724637694

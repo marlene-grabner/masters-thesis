@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,17,25,0.723249299719888
+2,disease_on_drugs,26,29,0.14104171690378609

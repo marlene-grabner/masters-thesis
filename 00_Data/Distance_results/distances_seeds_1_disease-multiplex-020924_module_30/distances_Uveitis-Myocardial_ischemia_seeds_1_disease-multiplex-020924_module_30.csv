@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,21,13,1.3051066580478343
+2,disease_on_drugs,27,23,0.4962640901771338

@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,19,14,1.1727614490772384
+2,disease_on_drugs,22,26,0.660693473193473

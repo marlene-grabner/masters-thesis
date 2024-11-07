@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,29,29,0.17241379310344818
+1,disease_on_symptoms,15,15,1.6666666666666665
+2,disease_on_drugs,29,27,0.7135787265097608

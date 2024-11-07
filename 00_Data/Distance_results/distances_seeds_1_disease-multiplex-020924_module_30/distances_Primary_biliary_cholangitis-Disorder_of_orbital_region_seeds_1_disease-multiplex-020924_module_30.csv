@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,17,0.23521519520151535
+1,disease_on_symptoms,17,27,0.9542483660130721
+2,disease_on_drugs,18,16,0.7414215686274512

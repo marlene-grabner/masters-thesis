@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,24,24,0.27083333333333326
+1,disease_on_symptoms,20,19,1.6361336032388665
+2,disease_on_drugs,22,19,0.7988388376706732

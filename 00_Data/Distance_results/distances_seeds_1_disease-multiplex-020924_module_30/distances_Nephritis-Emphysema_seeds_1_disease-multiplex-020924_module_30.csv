@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,18,14,0.5620039682539684
+2,disease_on_drugs,27,29,-0.03902116402116396

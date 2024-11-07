@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,17,24,0.3249342419894785
+1,disease_on_symptoms,21,19,1.513972431077694
+2,disease_on_drugs,17,19,0.4192466460268316

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.29166666666666663
+1,disease_on_symptoms,12,21,2.137445887445887
+2,disease_on_drugs,29,17,-0.28891436634623857

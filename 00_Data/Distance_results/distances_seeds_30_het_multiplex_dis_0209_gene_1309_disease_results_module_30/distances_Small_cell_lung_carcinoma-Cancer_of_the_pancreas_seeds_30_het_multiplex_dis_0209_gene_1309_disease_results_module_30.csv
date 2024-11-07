@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,19,23,-0.12514983109948785
+2,disease_on_drugs,30,30,-0.08333333333333326

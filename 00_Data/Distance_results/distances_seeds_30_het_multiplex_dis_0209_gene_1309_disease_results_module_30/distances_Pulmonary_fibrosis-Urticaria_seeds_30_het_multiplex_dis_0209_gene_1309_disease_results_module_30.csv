@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Urticaria nodes,sAB
+0,disease_on_genes,25,24,-0.326530612244898
+1,disease_on_symptoms,22,21,0.27647739857042186
+2,disease_on_drugs,25,24,-0.40824829931972784

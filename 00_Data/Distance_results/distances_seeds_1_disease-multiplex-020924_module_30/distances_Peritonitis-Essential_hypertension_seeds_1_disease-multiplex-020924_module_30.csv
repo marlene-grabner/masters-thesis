@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.12229064039408888
+1,disease_on_symptoms,17,14,1.407563025210084
+2,disease_on_drugs,28,28,0.6428571428571428

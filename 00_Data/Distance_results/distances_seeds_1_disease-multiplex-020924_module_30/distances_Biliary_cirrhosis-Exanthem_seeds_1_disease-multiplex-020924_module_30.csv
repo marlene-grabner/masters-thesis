@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.462962962962963
+1,disease_on_symptoms,15,26,1.549906191369606
+2,disease_on_drugs,15,28,0.7759413067552601

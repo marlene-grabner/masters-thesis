@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,28,30,0.051724137931034475
+1,disease_on_symptoms,20,18,1.4039473684210526
+2,disease_on_drugs,25,25,0.08000000000000007

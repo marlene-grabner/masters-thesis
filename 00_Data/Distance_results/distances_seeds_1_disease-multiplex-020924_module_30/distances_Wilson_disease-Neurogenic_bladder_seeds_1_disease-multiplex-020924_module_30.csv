@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,23,30,0.28627290128520655
+1,disease_on_symptoms,19,17,1.9152906776745786
+2,disease_on_drugs,11,26,1.4864864864864864

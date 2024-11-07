@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,27,25,-0.3055555555555556
+1,disease_on_symptoms,18,19,-0.6463568831989885
+2,disease_on_drugs,25,22,-0.3852998065764023

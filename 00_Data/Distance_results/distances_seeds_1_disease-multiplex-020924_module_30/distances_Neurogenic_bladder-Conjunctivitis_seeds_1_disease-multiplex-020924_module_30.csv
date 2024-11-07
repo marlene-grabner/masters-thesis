@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.19902534113060422
+1,disease_on_symptoms,17,27,1.2983759160229746
+2,disease_on_drugs,26,26,0.8269230769230771

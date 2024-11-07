@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,14,19,0.4505582137161084
+2,disease_on_drugs,27,25,0.02683760683760683

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Epididymitis nodes,sAB
+0,disease_on_genes,26,29,-0.036363636363636376
+1,disease_on_symptoms,20,23,0.11180485338725976
+2,disease_on_drugs,23,26,-0.10030032079721529

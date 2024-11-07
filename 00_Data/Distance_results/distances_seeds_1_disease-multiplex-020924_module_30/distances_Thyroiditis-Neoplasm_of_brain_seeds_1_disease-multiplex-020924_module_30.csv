@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,26,22,-0.05798368298368284
+1,disease_on_symptoms,28,23,0.4896632566069905
+2,disease_on_drugs,23,20,0.4398887765419617

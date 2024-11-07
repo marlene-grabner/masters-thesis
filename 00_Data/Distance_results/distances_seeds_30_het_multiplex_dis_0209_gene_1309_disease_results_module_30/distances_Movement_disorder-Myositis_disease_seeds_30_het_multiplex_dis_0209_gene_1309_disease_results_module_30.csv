@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000013
+1,disease_on_symptoms,17,18,-0.37558356676003757
+2,disease_on_drugs,26,26,-0.26923076923076916

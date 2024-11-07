@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,28,29,0.14035087719298245
+1,disease_on_symptoms,16,20,0.8902777777777777
+2,disease_on_drugs,23,28,0.2877694556083301

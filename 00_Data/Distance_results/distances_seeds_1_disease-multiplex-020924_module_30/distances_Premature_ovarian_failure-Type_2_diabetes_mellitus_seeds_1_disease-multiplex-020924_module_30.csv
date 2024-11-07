@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,28,16,-0.005681818181818121
+1,disease_on_symptoms,21,21,0.8809523809523809
+2,disease_on_drugs,21,15,0.3134920634920635

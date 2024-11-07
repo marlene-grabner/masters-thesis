@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,20,14,0.4168067226890759
+2,disease_on_drugs,27,30,0.35263157894736863

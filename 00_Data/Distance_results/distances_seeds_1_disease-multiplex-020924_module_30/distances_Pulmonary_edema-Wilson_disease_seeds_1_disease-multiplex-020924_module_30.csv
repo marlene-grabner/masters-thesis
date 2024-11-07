@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.2309269893355208
+1,disease_on_symptoms,14,19,1.429084073820916
+2,disease_on_drugs,27,11,0.9629629629629628

@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.07017543859649122
+1,disease_on_symptoms,22,17,0.324934869052516
+2,disease_on_drugs,29,26,0.10456956836267195

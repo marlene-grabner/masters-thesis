@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.19298245614035092
+1,disease_on_symptoms,18,21,0.07234432234432253
+2,disease_on_drugs,27,27,-0.3148148148148149

@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,10,0.08571428571428563
+1,disease_on_symptoms,25,27,0.5166951566951568
+2,disease_on_drugs,24,9,0.04924242424242431

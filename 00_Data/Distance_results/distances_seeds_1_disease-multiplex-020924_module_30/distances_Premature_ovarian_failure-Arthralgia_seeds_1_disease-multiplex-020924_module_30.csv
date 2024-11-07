@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Arthralgia nodes,sAB
+0,disease_on_genes,28,30,0.1206896551724137
+1,disease_on_symptoms,21,19,1.0561403508771932
+2,disease_on_drugs,21,30,0.1876750700280112

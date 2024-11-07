@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,27,25,0.07692307692307687
+1,disease_on_symptoms,22,17,1.402543534896476
+2,disease_on_drugs,23,21,0.314558629776021

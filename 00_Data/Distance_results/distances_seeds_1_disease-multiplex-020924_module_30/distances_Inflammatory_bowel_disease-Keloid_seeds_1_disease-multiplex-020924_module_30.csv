@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Keloid nodes,sAB
+0,disease_on_genes,17,22,0.049940191387559896
+1,disease_on_symptoms,27,20,2.1310086682427105
+2,disease_on_drugs,14,19,-0.09632034632034614

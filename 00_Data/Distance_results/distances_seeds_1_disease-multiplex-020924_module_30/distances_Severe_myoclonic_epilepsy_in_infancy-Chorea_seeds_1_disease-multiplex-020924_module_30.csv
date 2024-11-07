@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Chorea nodes,sAB
+0,disease_on_genes,30,14,0.2658008658008657
+1,disease_on_symptoms,16,27,0.6566537467700257
+2,disease_on_drugs,21,8,0.5450533661740558

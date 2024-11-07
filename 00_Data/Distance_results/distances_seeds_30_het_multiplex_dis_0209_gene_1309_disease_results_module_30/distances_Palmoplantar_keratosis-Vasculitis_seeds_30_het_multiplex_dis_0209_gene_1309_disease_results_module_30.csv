@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,26,0.03846153846153855
+1,disease_on_symptoms,20,18,1.2286549707602337
+2,disease_on_drugs,23,26,0.1636748344822878

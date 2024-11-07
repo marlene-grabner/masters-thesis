@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,24,26,0.18455128205128202
+1,disease_on_symptoms,22,20,0.9009740259740262
+2,disease_on_drugs,24,20,0.5454545454545454

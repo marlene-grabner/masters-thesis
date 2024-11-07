@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Melanoma nodes,sAB
+0,disease_on_genes,30,24,0.18518518518518512
+1,disease_on_symptoms,18,23,2.115618004006127
+2,disease_on_drugs,27,22,0.9482237339380197

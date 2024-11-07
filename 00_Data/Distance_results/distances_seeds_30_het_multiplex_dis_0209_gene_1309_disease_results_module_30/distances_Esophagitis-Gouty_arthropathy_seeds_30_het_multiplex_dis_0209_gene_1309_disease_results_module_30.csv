@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.017816091954023117
+1,disease_on_symptoms,20,18,0.26301169590643303
+2,disease_on_drugs,30,23,0.04109926168990974

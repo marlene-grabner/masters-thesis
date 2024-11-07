@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,24,0.224449685534591
+1,disease_on_symptoms,25,19,0.9351196172248804
+2,disease_on_drugs,27,19,0.4019832189168575

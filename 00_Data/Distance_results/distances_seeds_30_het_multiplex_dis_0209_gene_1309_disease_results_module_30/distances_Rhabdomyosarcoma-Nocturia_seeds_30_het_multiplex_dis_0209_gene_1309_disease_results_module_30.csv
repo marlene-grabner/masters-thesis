@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Nocturia nodes,sAB
+0,disease_on_genes,29,25,-0.28301886792452835
+1,disease_on_symptoms,19,18,0.5439386755176228
+2,disease_on_drugs,29,24,0.019139015397961368

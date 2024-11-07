@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,29,29,0.4310344827586208
+1,disease_on_symptoms,18,21,0.8067765567765566
+2,disease_on_drugs,30,28,1.2401067323481114

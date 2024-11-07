@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.02127659574468077
+1,disease_on_symptoms,20,23,1.1442366026289181
+2,disease_on_drugs,23,21,0.02225672877846785

@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,25,28,0.07646520146520142
+1,disease_on_symptoms,20,17,1.4817965023847375
+2,disease_on_drugs,21,18,0.20879120879120872

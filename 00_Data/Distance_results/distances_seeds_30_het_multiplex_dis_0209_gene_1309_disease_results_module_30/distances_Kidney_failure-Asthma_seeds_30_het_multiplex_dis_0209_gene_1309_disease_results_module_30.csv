@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.10939393939393938
+1,disease_on_symptoms,20,20,1.3
+2,disease_on_drugs,28,22,-0.0034415584415585787

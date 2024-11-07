@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.08616584564860408
+1,disease_on_symptoms,21,19,1.4458646616541353
+2,disease_on_drugs,29,25,0.7612005108556832

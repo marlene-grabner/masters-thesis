@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,23,19,0.023918491881878445
+2,disease_on_drugs,23,30,0.13610883237626448

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,20,18,0.15570175438596512
+2,disease_on_drugs,30,29,0.21855639976621855

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,28,26,-0.054894179894179884
+1,disease_on_symptoms,20,23,0.07173913043478253
+2,disease_on_drugs,27,26,0.07466537655216898

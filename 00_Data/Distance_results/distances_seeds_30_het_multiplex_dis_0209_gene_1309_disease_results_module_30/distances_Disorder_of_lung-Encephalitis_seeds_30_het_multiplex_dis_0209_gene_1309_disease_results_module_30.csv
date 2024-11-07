@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,29,0.0714285714285714
+1,disease_on_symptoms,18,13,0.8073476702508959
+2,disease_on_drugs,24,22,0.23690711462450587

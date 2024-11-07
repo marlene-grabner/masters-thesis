@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,28,20,0.09702380952380962
+1,disease_on_symptoms,14,25,0.729194139194139
+2,disease_on_drugs,28,19,1.032474804031355

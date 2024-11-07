@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.39928698752228176
+1,disease_on_symptoms,12,19,1.98033389926429
+2,disease_on_drugs,30,19,0.773344074471894

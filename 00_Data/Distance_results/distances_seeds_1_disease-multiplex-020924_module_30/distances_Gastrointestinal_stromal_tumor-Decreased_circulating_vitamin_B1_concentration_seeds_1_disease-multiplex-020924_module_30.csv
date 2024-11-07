@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,23,25,0.20963768115942005
+1,disease_on_symptoms,20,13,2.9188811188811186
+2,disease_on_drugs,19,16,1.0098214285714286

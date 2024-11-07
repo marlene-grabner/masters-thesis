@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,0.29331825037707393
+1,disease_on_symptoms,23,22,1.3337066315327186
+2,disease_on_drugs,25,24,1.3656462585034013

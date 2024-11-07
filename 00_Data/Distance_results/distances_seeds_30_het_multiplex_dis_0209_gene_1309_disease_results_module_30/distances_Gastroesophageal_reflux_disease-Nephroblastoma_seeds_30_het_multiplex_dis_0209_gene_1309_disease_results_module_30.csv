@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,26,29,-0.12738123945020507
+1,disease_on_symptoms,18,20,0.34546783625731003
+2,disease_on_drugs,25,24,0.18273809523809526

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,29,18,-0.054190103529795364
+1,disease_on_symptoms,15,28,-0.4725083056478405
+2,disease_on_drugs,29,17,-0.14128230002645747

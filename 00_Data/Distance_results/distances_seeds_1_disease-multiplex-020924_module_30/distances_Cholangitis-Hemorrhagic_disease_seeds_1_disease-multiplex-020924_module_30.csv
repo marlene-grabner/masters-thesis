@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,24,0.218818082788671
+1,disease_on_symptoms,22,19,1.2340996615707787
+2,disease_on_drugs,26,19,1.183625730994152

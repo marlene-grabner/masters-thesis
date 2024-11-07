@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,-0.08690476190476182
+1,disease_on_symptoms,22,22,0.5227272727272727
+2,disease_on_drugs,29,24,0.041937757536326226

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.12007389162561588
+1,disease_on_symptoms,21,19,1.511340852130326
+2,disease_on_drugs,29,25,0.6117752234993612

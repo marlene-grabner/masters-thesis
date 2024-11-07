@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,16,0.07844202898550723
+1,disease_on_symptoms,24,21,2.0888888888888886
+2,disease_on_drugs,28,15,0.7711794019933553

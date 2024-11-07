@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,22,30,0.1389277389277388
+1,disease_on_symptoms,25,20,0.6361111111111113
+2,disease_on_drugs,18,22,0.2250000000000001

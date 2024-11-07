@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,22,26,0.04166666666666674
+1,disease_on_symptoms,17,17,1.4705882352941178
+2,disease_on_drugs,21,25,0.4303105590062113

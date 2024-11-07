@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Psoriasis nodes,sAB
+0,disease_on_genes,22,28,0.010649350649350575
+1,disease_on_symptoms,25,21,0.31821946169772275
+2,disease_on_drugs,18,28,0.33385093167701885

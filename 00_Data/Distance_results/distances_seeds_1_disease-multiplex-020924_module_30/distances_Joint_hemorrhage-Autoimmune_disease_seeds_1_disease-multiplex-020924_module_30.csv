@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.39755244755244745
+1,disease_on_symptoms,13,19,1.5538967611336032
+2,disease_on_drugs,18,19,0.7281887150308204

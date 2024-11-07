@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.16081871345029242
+1,disease_on_symptoms,16,18,0.16441993464052285
+2,disease_on_drugs,21,25,-0.10414078674948235

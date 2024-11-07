@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,22,28,0.13064935064935068
+1,disease_on_symptoms,23,17,1.45383631713555
+2,disease_on_drugs,17,28,0.1633986928104576

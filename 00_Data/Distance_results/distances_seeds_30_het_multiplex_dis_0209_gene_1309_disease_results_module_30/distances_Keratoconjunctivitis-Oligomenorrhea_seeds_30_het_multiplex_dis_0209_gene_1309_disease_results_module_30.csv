@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,29,-0.06896551724137934
+1,disease_on_symptoms,20,11,0.9946480938416424
+2,disease_on_drugs,27,24,0.025326797385620825

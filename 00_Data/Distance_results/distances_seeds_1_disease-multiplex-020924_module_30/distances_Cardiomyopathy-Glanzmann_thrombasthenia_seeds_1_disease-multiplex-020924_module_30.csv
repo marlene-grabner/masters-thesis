@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,-0.08124149659863966
+1,disease_on_symptoms,17,21,0.6430782839451568
+2,disease_on_drugs,24,24,0.16666666666666674

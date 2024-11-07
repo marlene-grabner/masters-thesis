@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,20,24,0.027272727272727337
+1,disease_on_symptoms,22,21,0.6282341689318434
+2,disease_on_drugs,15,18,-0.27929292929292926

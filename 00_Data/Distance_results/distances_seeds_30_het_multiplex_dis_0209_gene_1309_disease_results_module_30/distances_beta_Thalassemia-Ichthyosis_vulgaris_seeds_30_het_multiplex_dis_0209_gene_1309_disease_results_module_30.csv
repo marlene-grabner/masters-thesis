@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,13,21,0.6149536737772032
+2,disease_on_drugs,24,24,-0.14583333333333326

@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Gangrene nodes,sAB
+0,disease_on_genes,25,27,-0.058461538461538454
+1,disease_on_symptoms,20,22,1.2217532467532466
+2,disease_on_drugs,22,27,0.1537655466226895

@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,17,15,0.39178921568627434
+2,disease_on_drugs,24,25,-0.18335034013605434

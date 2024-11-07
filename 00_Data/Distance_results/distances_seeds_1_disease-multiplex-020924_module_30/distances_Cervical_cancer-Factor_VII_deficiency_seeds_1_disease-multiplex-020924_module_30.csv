@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.36378917378917364
+1,disease_on_symptoms,23,23,1.826086956521739
+2,disease_on_drugs,15,21,1.1412698412698412

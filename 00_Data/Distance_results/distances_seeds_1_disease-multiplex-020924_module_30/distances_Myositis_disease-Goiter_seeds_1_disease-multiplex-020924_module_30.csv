@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3885531135531135
+1,disease_on_symptoms,24,15,0.4871794871794872
+2,disease_on_drugs,28,16,0.8425324675324675

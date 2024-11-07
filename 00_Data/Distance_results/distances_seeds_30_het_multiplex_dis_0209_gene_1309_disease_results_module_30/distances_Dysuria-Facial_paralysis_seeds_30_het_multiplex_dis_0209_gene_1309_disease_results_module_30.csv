@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.038461538461538436
+1,disease_on_symptoms,12,21,0.8149350649350648
+2,disease_on_drugs,21,17,0.03530886038625969

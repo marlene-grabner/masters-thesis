@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,-0.00046296296296310935
+1,disease_on_symptoms,16,19,1.311325187969925
+2,disease_on_drugs,28,19,0.07146856502959542

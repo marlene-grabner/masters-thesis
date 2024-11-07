@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.2321428571428572
+1,disease_on_symptoms,14,21,0.5357142857142858
+2,disease_on_drugs,21,26,0.1384732288987609

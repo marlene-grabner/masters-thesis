@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,0.24443723977885456
+1,disease_on_symptoms,19,20,1.693421052631579
+2,disease_on_drugs,24,20,0.8859848484848485

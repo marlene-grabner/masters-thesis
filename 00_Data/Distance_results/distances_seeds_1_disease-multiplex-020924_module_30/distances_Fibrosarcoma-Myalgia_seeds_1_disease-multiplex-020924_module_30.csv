@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Myalgia nodes,sAB
+0,disease_on_genes,22,30,0.18776223776223766
+1,disease_on_symptoms,24,16,2.5375
+2,disease_on_drugs,13,29,1.0952380952380953

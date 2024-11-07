@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,25,0.21207977207977224
+1,disease_on_symptoms,19,23,1.4030728996404056
+2,disease_on_drugs,20,23,0.5826845298281091

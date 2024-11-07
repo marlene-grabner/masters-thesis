@@ -1,0 +1,4 @@
+,Layer,Abdominal_pain nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.13431372549019605
+1,disease_on_symptoms,19,23,0.4016563146997929
+2,disease_on_drugs,29,21,-0.18801313628899852

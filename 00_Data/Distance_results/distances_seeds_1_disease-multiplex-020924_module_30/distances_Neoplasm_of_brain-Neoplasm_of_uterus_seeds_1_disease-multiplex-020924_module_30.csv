@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,22,28,-0.11415584415584412
+1,disease_on_symptoms,23,19,0.27808652064944983
+2,disease_on_drugs,20,28,-0.10952380952380969

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,23,20,0.20535894843276048
+1,disease_on_symptoms,19,26,2.020355375618534
+2,disease_on_drugs,19,13,0.9326923076923077

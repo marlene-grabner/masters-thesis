@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.37222222222222223
+1,disease_on_symptoms,12,17,0.9263860716700476
+2,disease_on_drugs,17,23,0.75537084398977

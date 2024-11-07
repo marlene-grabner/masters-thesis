@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,29,25,-0.10000000000000009
+1,disease_on_symptoms,18,23,0.45537292329445034
+2,disease_on_drugs,30,19,0.16700680272108848

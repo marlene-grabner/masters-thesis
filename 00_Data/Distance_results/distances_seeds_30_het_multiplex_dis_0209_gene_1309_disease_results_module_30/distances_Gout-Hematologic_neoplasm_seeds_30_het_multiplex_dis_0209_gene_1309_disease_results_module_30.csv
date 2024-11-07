@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.10406403940886688
+1,disease_on_symptoms,19,18,0.13596491228070184
+2,disease_on_drugs,22,27,-0.02195423623995052

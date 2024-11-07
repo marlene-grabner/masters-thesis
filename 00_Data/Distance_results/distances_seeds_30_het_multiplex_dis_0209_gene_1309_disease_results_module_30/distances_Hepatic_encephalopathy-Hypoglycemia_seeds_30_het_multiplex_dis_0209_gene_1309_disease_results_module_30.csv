@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,14,19,0.540783777625883
+2,disease_on_drugs,29,27,-0.018837803320562063

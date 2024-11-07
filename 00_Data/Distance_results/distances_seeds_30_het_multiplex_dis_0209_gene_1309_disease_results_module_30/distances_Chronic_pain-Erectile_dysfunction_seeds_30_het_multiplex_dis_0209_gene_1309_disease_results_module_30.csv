@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,19,15,0.10897832817337427
+2,disease_on_drugs,28,30,0.03382594417077178

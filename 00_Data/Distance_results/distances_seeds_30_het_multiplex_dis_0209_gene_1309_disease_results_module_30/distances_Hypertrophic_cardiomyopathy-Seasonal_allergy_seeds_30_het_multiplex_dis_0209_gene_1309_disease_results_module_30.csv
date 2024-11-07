@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,0.10197740112994347
+1,disease_on_symptoms,19,18,0.3798008534850643
+2,disease_on_drugs,22,29,0.21119921322761082

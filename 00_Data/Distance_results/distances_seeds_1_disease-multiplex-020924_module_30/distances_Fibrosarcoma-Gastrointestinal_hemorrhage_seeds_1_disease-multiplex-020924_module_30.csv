@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,22,27,0.30943791658077346
+1,disease_on_symptoms,24,19,1.6407588739290084
+2,disease_on_drugs,13,27,1.225

@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Sarcoma nodes,sAB
+0,disease_on_genes,24,30,0.03703703703703698
+1,disease_on_symptoms,24,23,0.7459142769041014
+2,disease_on_drugs,23,24,0.14831945729263052

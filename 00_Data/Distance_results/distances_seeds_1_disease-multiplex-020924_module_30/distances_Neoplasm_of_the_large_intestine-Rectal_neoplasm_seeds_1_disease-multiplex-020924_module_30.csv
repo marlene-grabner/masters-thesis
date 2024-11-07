@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,20,30,-0.1449999999999999
+1,disease_on_symptoms,25,21,0.3255072463768116
+2,disease_on_drugs,19,29,-0.1496143375680581

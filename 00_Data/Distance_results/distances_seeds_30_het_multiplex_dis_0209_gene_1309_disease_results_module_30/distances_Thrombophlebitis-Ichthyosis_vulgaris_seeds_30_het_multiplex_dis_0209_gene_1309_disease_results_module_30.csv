@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,18,21,0.7197802197802197
+2,disease_on_drugs,29,24,0.11869713728041642

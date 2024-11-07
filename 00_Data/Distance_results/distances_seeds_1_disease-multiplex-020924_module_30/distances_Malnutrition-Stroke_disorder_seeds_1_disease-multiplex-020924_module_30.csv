@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,-0.055128205128205154
+1,disease_on_symptoms,18,15,0.8989898989898992
+2,disease_on_drugs,23,30,0.2075471698113207

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Obesity nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111116
+1,disease_on_symptoms,22,18,0.6815656565656565
+2,disease_on_drugs,23,25,0.12554347826086953

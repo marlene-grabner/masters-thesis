@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,0.034482758620689724
+1,disease_on_symptoms,23,16,0.8625278706800443
+2,disease_on_drugs,26,29,0.5802266698818421

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.16166666666666663
+1,disease_on_symptoms,14,27,1.2534520583301068
+2,disease_on_drugs,29,19,0.5932017543859647

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.14560439560439542
+1,disease_on_symptoms,14,22,0.44841269841269815
+2,disease_on_drugs,29,25,-0.015504469987228653

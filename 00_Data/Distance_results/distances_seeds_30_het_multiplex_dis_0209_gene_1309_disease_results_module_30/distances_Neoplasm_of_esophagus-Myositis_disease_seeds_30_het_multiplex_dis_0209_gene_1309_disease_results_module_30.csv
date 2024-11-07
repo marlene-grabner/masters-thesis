@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,29,30,-0.13560296123124882
+1,disease_on_symptoms,20,18,0.19883040935672502
+2,disease_on_drugs,25,26,-0.05316742081447945

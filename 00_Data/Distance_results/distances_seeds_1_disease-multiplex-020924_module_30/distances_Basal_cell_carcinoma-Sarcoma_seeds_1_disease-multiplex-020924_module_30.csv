@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,-0.27413273001508287
+1,disease_on_symptoms,23,26,-0.24464200395877422
+2,disease_on_drugs,25,21,-0.34782608695652173

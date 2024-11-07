@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,23,25,0.10144927536231907
+1,disease_on_symptoms,21,26,1.94643831345959
+2,disease_on_drugs,21,21,0.2857142857142858

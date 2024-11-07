@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,0.31999999999999984
+1,disease_on_symptoms,13,25,2.531578947368421
+2,disease_on_drugs,16,23,0.5406563545150502

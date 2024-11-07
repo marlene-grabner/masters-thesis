@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,0.018181818181818077
+1,disease_on_symptoms,21,23,0.4597214379823076
+2,disease_on_drugs,27,21,0.17493386243386255

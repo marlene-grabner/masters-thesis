@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,16,22,0.047099282296650724
+2,disease_on_drugs,29,30,-0.15257159555815314

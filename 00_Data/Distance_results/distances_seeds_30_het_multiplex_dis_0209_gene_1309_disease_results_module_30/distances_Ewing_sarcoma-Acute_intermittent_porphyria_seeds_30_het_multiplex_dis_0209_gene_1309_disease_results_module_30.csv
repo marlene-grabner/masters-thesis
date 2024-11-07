@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,17,17,0.6176470588235294
+2,disease_on_drugs,24,24,0.04166666666666674

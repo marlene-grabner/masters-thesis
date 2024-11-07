@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,-0.28303230661721224
+1,disease_on_symptoms,18,19,-0.0005136715663032199
+2,disease_on_drugs,25,24,-0.04090136054421767

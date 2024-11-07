@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,22,17,0.49513231866173024
+2,disease_on_drugs,29,29,-0.051724137931034475

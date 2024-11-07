@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,0.054187192118226646
+1,disease_on_symptoms,21,20,0.7497967479674794
+2,disease_on_drugs,23,24,-0.12918208448967006

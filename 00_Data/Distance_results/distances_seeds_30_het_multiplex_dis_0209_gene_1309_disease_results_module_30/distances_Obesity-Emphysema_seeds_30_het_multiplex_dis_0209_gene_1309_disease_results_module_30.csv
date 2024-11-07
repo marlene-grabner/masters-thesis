@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Emphysema nodes,sAB
+0,disease_on_genes,27,30,-0.35380116959064334
+1,disease_on_symptoms,18,18,-0.08333333333333348
+2,disease_on_drugs,25,27,-0.2517094017094016

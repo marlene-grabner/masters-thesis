@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,17,14,0.371509894280293
+2,disease_on_drugs,26,29,-0.05425608873884724

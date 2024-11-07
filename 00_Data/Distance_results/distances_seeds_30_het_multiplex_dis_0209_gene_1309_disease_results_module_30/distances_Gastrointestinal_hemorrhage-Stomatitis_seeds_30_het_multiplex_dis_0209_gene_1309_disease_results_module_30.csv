@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Stomatitis nodes,sAB
+0,disease_on_genes,28,30,-0.17302955665024622
+1,disease_on_symptoms,20,19,0.1289473684210527
+2,disease_on_drugs,27,29,-0.051997810618500395

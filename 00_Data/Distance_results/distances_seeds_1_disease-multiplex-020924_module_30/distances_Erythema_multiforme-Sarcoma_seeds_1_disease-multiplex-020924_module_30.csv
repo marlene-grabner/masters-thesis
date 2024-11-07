@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.2393939393939395
+1,disease_on_symptoms,16,26,1.3162774725274726
+2,disease_on_drugs,30,21,0.4509803921568627

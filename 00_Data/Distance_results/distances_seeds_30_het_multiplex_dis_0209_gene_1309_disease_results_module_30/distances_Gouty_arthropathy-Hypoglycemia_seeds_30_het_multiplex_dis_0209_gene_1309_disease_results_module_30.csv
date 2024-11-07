@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,28,30,-0.1890804597701149
+1,disease_on_symptoms,18,19,-0.4865259996838942
+2,disease_on_drugs,23,27,-0.18553945249597414

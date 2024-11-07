@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,29,30,0.18555425676992
+1,disease_on_symptoms,15,14,0.2423645320197041
+2,disease_on_drugs,29,24,0.07513283452613306

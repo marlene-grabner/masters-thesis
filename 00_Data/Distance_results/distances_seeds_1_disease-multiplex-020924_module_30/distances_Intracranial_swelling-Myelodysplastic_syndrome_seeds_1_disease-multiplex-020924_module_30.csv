@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.3226190476190476
+1,disease_on_symptoms,14,15,-0.2909688013136289
+2,disease_on_drugs,24,21,0.12996031746031766

@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,24,0.03635620915032667
+1,disease_on_symptoms,15,20,1.6369047619047619
+2,disease_on_drugs,25,22,0.7232301740812379

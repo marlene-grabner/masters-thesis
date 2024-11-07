@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.2658979734451432
+1,disease_on_symptoms,19,15,0.054489164086687136
+2,disease_on_drugs,26,15,0.30434646654158826

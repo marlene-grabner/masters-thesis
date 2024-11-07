@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.364848484848485
+1,disease_on_symptoms,17,20,1.8302066772655006
+2,disease_on_drugs,17,21,0.605263157894737

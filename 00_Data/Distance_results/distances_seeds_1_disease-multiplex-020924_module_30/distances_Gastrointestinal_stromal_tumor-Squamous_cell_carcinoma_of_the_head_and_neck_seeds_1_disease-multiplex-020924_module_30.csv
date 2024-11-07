@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,23,21,-0.1325051759834368
+1,disease_on_symptoms,20,25,-0.2533333333333334
+2,disease_on_drugs,19,21,0.0

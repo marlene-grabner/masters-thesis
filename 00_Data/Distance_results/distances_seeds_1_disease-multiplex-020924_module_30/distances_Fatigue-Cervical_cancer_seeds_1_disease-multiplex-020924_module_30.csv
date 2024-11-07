@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,27,0.20717088641616943
+1,disease_on_symptoms,21,23,0.9846132128740823
+2,disease_on_drugs,26,15,0.29812382739212007

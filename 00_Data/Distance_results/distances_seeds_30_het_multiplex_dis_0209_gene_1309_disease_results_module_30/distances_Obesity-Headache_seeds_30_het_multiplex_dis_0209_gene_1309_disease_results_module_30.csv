@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Headache nodes,sAB
+0,disease_on_genes,27,30,-0.16081871345029242
+1,disease_on_symptoms,18,23,0.19276540591492886
+2,disease_on_drugs,25,23,-0.10815217391304355

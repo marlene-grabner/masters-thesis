@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,28,27,0.0
+1,disease_on_symptoms,17,17,0.44117647058823506
+2,disease_on_drugs,19,24,-0.12252651978784157

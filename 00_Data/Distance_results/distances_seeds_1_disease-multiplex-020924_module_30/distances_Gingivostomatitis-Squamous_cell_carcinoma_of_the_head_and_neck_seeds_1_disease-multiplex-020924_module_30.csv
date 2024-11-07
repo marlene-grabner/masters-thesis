@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.1644257703081231
+1,disease_on_symptoms,23,25,0.9245652173913044
+2,disease_on_drugs,29,21,0.9282758620689655

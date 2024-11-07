@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.13830409356725126
+1,disease_on_symptoms,15,20,1.1297619047619047
+2,disease_on_drugs,25,22,0.3629787234042554

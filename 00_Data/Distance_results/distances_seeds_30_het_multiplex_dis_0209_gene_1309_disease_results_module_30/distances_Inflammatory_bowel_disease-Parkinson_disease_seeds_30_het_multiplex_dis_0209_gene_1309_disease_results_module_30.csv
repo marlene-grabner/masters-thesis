@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.1132075471698113
+1,disease_on_symptoms,20,23,0.6888018200202226
+2,disease_on_drugs,27,22,0.058475915618772634

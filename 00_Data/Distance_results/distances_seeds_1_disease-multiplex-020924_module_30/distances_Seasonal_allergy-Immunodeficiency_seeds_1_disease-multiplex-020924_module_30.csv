@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,29,22,0.07853893908660625
+1,disease_on_symptoms,15,19,1.0037151702786378
+2,disease_on_drugs,29,18,-0.02374256134344188

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,10,18,0.5261904761904761
+2,disease_on_drugs,16,30,0.01748188405797113

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,17,25,0.3156302521008405
+2,disease_on_drugs,24,21,0.09424603174603186

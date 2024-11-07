@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,16,19,1.6195958646616542
+2,disease_on_drugs,23,22,0.7757575757575759

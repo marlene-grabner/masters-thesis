@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,26,30,-0.1597069597069597
+1,disease_on_symptoms,20,22,0.27727272727272734
+2,disease_on_drugs,20,29,0.07195636875439826

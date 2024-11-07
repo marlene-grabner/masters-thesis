@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,26,24,0.10000000000000009
+1,disease_on_symptoms,20,22,0.9433982683982682
+2,disease_on_drugs,23,21,0.06672313194052326

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,20,13,1.3124125874125876
+2,disease_on_drugs,29,21,-0.06564860426929386

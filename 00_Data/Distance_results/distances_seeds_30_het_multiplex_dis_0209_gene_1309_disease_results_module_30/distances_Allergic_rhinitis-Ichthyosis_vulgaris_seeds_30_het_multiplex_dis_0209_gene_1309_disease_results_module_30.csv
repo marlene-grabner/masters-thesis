@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,28,27,-0.09090909090909094
+1,disease_on_symptoms,20,21,0.3357433217189314
+2,disease_on_drugs,25,24,-0.24331632653061241

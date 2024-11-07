@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,21,18,0.503052503052503
+2,disease_on_drugs,27,21,0.12830687830687837

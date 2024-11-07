@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,15,-0.009946236559139843
+2,disease_on_drugs,21,29,-0.02486042692939261

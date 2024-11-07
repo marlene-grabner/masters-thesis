@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,18,0.37732919254658404
+1,disease_on_symptoms,17,27,0.7187561893444248
+2,disease_on_drugs,18,17,0.8831932773109243

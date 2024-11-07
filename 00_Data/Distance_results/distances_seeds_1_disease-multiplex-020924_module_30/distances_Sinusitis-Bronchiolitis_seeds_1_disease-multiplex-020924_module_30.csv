@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,29,23,-0.4196171145196631
+1,disease_on_symptoms,21,25,-0.44505175983436873
+2,disease_on_drugs,28,18,-0.5064699792960662

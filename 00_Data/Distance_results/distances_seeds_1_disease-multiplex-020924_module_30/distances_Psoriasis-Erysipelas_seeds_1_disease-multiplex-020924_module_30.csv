@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,28,-0.4107142857142857
+1,disease_on_symptoms,21,20,-0.41242740998838545
+2,disease_on_drugs,28,27,-0.38116883116883105

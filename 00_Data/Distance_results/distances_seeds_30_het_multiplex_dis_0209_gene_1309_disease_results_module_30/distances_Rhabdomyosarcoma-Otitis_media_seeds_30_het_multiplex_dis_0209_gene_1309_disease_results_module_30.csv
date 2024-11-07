@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.0862068965517242
+1,disease_on_symptoms,19,20,1.0766194331983805
+2,disease_on_drugs,29,28,0.5256352087114338

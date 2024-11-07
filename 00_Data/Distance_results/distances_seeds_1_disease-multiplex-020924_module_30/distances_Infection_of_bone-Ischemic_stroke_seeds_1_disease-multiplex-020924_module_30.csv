@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.30201465201465205
+1,disease_on_symptoms,21,16,1.5196267696267696
+2,disease_on_drugs,24,23,0.7867136910268271

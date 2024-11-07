@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.08781676413255368
+1,disease_on_symptoms,23,13,0.3399293942772206
+2,disease_on_drugs,25,28,0.11373315363881398

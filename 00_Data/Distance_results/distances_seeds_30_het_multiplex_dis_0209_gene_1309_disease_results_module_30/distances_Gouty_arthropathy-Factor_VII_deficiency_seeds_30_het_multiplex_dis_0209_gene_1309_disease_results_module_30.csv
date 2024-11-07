@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,28,28,0.125
+1,disease_on_symptoms,18,19,0.806503872293346
+2,disease_on_drugs,23,25,0.24344202898550704

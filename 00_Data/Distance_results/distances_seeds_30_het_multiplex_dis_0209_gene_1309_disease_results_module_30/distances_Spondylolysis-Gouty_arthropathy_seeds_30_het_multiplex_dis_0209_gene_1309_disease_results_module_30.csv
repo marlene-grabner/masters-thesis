@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,28,28,0.1071428571428572
+1,disease_on_symptoms,17,18,0.20163398692810475
+2,disease_on_drugs,19,23,0.1009044350005448

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,9,28,0.10108322608322595
+1,disease_on_symptoms,27,19,1.0479277904907194
+2,disease_on_drugs,9,26,0.9236263736263737
