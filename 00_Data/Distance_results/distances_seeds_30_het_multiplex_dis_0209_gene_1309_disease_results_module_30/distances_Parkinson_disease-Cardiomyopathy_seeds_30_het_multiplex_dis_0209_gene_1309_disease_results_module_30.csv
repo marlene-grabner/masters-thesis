@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,23,25,-0.26916666666666667
+1,disease_on_symptoms,23,21,-0.07401656314699778
+2,disease_on_drugs,22,24,-0.19400527009222668

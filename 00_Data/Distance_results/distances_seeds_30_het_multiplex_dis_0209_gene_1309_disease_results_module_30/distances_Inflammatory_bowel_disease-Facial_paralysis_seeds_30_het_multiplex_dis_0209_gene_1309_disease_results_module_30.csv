@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.23076923076923084
+1,disease_on_symptoms,20,21,1.1690185830429733
+2,disease_on_drugs,27,17,0.32773816597346017

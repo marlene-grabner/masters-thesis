@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,-0.22715422243724115
+1,disease_on_symptoms,16,19,0.8186090225563909
+2,disease_on_drugs,26,24,-0.09724358974358993

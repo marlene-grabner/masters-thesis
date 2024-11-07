@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Arthralgia nodes,sAB
+0,disease_on_genes,22,30,0.13461538461538458
+1,disease_on_symptoms,17,19,0.8303233574131406
+2,disease_on_drugs,21,30,0.26190476190476186

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,25,25,0.21999999999999997
+1,disease_on_symptoms,23,16,1.4781215161649945
+2,disease_on_drugs,19,17,1.0539215686274512

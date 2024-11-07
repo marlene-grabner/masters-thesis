@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Obesity nodes,sAB
+0,disease_on_genes,29,26,0.09080057873161307
+1,disease_on_symptoms,17,20,0.6739268680445152
+2,disease_on_drugs,26,27,0.3022227597699294

@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,26,25,0.4117345399698342
+1,disease_on_symptoms,21,14,1.2261904761904763
+2,disease_on_drugs,24,22,0.8288043478260869

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.3039060977985584
+1,disease_on_symptoms,15,22,0.5650286650286653
+2,disease_on_drugs,21,29,1.1444663382594418

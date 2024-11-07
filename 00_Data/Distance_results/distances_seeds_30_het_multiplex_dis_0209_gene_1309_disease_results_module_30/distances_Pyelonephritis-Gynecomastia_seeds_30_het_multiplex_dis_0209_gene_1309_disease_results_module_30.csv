@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,24,30,0.0532407407407407
+1,disease_on_symptoms,19,15,0.33539731682146545
+2,disease_on_drugs,19,29,0.040986085904416436

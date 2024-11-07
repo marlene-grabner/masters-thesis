@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,20,0.4534090909090909
+1,disease_on_symptoms,25,24,1.9806972789115647
+2,disease_on_drugs,17,18,0.8888888888888888

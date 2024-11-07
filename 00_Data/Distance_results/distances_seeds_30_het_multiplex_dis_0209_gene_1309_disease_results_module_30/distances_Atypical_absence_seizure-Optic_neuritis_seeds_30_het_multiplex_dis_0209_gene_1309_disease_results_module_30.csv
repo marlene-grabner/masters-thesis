@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.17543859649122806
+1,disease_on_symptoms,13,21,0.6745313510019391
+2,disease_on_drugs,22,27,0.017230124372981326

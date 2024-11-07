@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,23,29,-0.3057029177718832
+1,disease_on_symptoms,23,13,0.6115756224451876
+2,disease_on_drugs,22,28,-0.13688311688311683

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,26,28,-0.03780016280016274
+1,disease_on_symptoms,21,23,1.04785431959345
+2,disease_on_drugs,26,28,0.0918294668294668

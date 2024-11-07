@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,0.10779727095516578
+1,disease_on_symptoms,17,14,0.06709135267010047
+2,disease_on_drugs,20,30,0.26666666666666683

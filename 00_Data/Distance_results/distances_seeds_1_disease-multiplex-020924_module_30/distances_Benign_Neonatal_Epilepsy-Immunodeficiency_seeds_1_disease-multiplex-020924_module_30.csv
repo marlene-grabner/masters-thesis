@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,29,22,0.4416221033868091
+1,disease_on_symptoms,16,19,2.722885338345865
+2,disease_on_drugs,26,18,1.085858585858586

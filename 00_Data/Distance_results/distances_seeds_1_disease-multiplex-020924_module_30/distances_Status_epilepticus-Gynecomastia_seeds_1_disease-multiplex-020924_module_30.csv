@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,29,30,0.30479251899474
+1,disease_on_symptoms,17,16,1.4825089126559714
+2,disease_on_drugs,30,24,0.8819444444444444

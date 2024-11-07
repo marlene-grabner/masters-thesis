@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,23,24,0.31912966389145847
+1,disease_on_symptoms,25,17,1.6433053221288514
+2,disease_on_drugs,18,23,0.8191056910569103

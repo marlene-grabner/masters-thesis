@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,0.6838235294117649
+1,disease_on_symptoms,20,14,2.4016806722689075
+2,disease_on_drugs,21,13,0.8935574229691876

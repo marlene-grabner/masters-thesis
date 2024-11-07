@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.13207547169811318
+1,disease_on_symptoms,18,17,0.8622315592903829
+2,disease_on_drugs,28,22,-0.07701298701298698

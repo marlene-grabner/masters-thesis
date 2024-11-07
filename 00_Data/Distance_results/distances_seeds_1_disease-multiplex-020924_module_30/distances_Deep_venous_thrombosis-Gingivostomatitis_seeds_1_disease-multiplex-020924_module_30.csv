@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,28,30,0.3120279146141214
+1,disease_on_symptoms,14,23,1.494082591908679
+2,disease_on_drugs,24,29,1.0614834092387768

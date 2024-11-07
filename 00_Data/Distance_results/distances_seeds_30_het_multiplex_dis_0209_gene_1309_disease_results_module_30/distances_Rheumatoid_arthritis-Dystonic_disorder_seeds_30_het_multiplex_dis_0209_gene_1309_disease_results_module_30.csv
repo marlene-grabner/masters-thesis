@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,19,17,0.6065531475748198
+2,disease_on_drugs,30,26,0.18937728937728937

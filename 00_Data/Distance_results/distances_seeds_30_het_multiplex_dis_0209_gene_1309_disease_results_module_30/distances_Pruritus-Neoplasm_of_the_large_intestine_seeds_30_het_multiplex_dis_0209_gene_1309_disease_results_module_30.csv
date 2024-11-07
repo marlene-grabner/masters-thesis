@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,27,30,-0.15886939571150105
+1,disease_on_symptoms,21,22,0.13643914225309572
+2,disease_on_drugs,27,29,-0.018039591315453407

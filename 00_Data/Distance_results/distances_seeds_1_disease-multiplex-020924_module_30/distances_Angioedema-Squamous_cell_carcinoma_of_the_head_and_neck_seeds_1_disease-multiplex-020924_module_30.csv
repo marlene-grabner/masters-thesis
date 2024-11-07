@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,29,21,0.20323129251700678
+1,disease_on_symptoms,17,25,0.9054901960784312
+2,disease_on_drugs,25,21,0.8043478260869565

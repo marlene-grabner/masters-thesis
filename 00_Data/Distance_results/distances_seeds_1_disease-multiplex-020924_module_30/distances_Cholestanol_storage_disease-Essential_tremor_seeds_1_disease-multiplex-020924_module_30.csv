@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.07843137254901955
+1,disease_on_symptoms,17,20,0.5014705882352941
+2,disease_on_drugs,25,19,0.14913875598086124

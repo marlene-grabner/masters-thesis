@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,28,0.16362433862433856
+1,disease_on_symptoms,21,19,1.4780075187969923
+2,disease_on_drugs,27,25,0.5390028490028491

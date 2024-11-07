@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,24,21,-0.11166007905138342
+1,disease_on_symptoms,23,24,-0.12729340117175458
+2,disease_on_drugs,20,20,-0.10000000000000009

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,23,16,0.10625696767001136
+1,disease_on_symptoms,21,21,3.023809523809524
+2,disease_on_drugs,21,15,0.9563492063492063

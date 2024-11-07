@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,23,29,0.17904509283819636
+1,disease_on_symptoms,25,16,0.9459146341463414
+2,disease_on_drugs,21,25,0.9130434782608696

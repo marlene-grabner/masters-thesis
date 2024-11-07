@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,18,13,0.311345464571271
+2,disease_on_drugs,25,21,-0.29047619047619033

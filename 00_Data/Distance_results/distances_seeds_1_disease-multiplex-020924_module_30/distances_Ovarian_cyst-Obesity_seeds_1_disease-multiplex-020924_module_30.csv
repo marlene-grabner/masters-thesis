@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Obesity nodes,sAB
+0,disease_on_genes,20,26,0.10142140468227412
+1,disease_on_symptoms,22,20,0.562121212121212
+2,disease_on_drugs,15,27,0.3391534391534392

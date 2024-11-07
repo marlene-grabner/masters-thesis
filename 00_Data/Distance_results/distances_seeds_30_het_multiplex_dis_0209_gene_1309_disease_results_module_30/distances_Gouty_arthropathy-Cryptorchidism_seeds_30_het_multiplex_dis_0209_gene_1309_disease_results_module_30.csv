@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,28,23,-0.002131287297527873
+1,disease_on_symptoms,18,19,1.1535877983246408
+2,disease_on_drugs,23,21,0.11269527573875382

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.1470184853905785
+1,disease_on_symptoms,16,26,0.4470009157509156
+2,disease_on_drugs,27,9,0.6111111111111112

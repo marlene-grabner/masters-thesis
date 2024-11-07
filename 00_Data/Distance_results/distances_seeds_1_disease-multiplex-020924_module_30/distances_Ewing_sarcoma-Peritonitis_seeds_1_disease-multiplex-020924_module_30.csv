@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Peritonitis nodes,sAB
+0,disease_on_genes,24,30,0.46712962962962945
+1,disease_on_symptoms,25,17,1.2551820728291319
+2,disease_on_drugs,17,28,1.230952380952381

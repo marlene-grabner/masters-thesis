@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,29,-0.07178683385579931
+1,disease_on_symptoms,23,13,0.4811408398364918
+2,disease_on_drugs,26,28,0.08954008954008952

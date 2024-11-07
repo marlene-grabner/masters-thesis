@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,21,19,-0.5989348370927319
+2,disease_on_drugs,29,28,-0.33244749805548346

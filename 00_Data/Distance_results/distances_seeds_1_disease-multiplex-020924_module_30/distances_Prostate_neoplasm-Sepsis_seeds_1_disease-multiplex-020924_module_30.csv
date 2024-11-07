@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Sepsis nodes,sAB
+0,disease_on_genes,17,22,0.43538324420677355
+1,disease_on_symptoms,21,23,1.439346884999059
+2,disease_on_drugs,17,17,1.3529411764705883

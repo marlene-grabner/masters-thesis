@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,22,17,0.14167695050048001
+1,disease_on_symptoms,23,27,1.7873429951690822
+2,disease_on_drugs,20,16,0.6375

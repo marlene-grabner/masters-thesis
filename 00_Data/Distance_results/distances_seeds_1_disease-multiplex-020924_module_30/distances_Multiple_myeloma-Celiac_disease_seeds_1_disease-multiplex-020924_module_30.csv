@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,17,0.057455540355677126
+1,disease_on_symptoms,21,22,1.414728682170543
+2,disease_on_drugs,25,15,0.1266666666666667

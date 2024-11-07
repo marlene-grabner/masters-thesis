@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,9,27,-0.12037037037037024
+1,disease_on_symptoms,27,19,0.06051360284769891
+2,disease_on_drugs,9,26,-0.07637362637362632

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,24,27,-0.5675381263616559
+1,disease_on_symptoms,23,22,-0.5310057092665788
+2,disease_on_drugs,22,22,-0.659090909090909

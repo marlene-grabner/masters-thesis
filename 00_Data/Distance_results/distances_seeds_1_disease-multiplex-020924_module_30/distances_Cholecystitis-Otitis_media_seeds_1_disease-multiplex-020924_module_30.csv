@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,0.0049042145593869435
+1,disease_on_symptoms,19,22,-0.36987979927646153
+2,disease_on_drugs,13,29,-0.11399520020209686

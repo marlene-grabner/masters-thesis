@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Orchitis nodes,sAB
+0,disease_on_genes,25,25,-0.06000000000000005
+1,disease_on_symptoms,19,19,1.8947368421052633
+2,disease_on_drugs,18,25,-0.008242894056847527

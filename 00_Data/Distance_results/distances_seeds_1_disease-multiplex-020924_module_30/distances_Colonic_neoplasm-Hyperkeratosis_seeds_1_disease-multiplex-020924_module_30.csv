@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.15934065934065944
+1,disease_on_symptoms,19,21,1.3802005012531326
+2,disease_on_drugs,29,23,0.3846153846153846

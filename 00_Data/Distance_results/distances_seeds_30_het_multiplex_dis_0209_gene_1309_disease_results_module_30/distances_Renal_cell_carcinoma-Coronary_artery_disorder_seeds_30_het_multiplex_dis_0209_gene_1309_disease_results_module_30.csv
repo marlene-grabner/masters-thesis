@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,0.01974235104669897
+1,disease_on_symptoms,22,19,1.043879099078072
+2,disease_on_drugs,22,22,0.27272727272727293

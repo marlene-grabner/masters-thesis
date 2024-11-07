@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,15,19,-0.1586171310629514
+2,disease_on_drugs,25,24,0.07897959183673464

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,-0.07272727272727275
+1,disease_on_symptoms,19,23,0.49466056445461515
+2,disease_on_drugs,25,29,-0.04081736909323119

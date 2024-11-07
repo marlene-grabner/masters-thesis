@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,21,18,0.2582417582417582
+2,disease_on_drugs,27,29,0.14404305783616134

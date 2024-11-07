@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,25,17,0.8496358543417368
+2,disease_on_drugs,30,26,0.24532967032967035

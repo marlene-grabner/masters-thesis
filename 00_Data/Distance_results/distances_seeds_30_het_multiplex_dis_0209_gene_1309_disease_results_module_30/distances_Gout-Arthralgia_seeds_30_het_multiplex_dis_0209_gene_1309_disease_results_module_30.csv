@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Arthralgia nodes,sAB
+0,disease_on_genes,28,30,-0.05233990147783241
+1,disease_on_symptoms,19,17,0.2601479188166498
+2,disease_on_drugs,22,30,-0.1741258741258742

@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,22,30,0.283100233100233
+1,disease_on_symptoms,21,24,2.5648809523809524
+2,disease_on_drugs,6,24,0.925

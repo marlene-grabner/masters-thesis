@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,25,28,-0.3984905660377359
+1,disease_on_symptoms,21,18,-0.26037851037851034
+2,disease_on_drugs,24,27,-0.33496732026143783

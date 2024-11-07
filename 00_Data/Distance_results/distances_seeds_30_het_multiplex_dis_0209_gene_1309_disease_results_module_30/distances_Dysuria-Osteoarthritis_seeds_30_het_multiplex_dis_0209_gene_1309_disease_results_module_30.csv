@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.05631868131868123
+1,disease_on_symptoms,12,22,1.2450980392156863
+2,disease_on_drugs,21,25,0.20157349896480325

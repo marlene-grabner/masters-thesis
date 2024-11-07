@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,10,28,0.7894736842105263
+1,disease_on_symptoms,27,12,2.265669515669516
+2,disease_on_drugs,9,21,0.661904761904762

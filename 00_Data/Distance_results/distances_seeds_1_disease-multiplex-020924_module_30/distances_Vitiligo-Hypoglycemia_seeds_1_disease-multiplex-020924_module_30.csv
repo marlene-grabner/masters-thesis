@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,24,30,0.1967592592592593
+1,disease_on_symptoms,22,12,1.3912655971479504
+2,disease_on_drugs,11,22,0.9696969696969697

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,-0.001322751322751392
+1,disease_on_symptoms,21,25,0.7979710144927536
+2,disease_on_drugs,25,21,0.21879917184265008

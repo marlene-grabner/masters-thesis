@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,-0.07272727272727275
+1,disease_on_symptoms,18,23,0.06692588665017074
+2,disease_on_drugs,30,21,-0.04159663865546226

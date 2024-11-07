@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,21,14,-0.030952380952381064
+1,disease_on_symptoms,20,23,0.6154196157735088
+2,disease_on_drugs,19,14,0.7272727272727273

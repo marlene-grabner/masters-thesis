@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.24526958017524048
+1,disease_on_symptoms,23,18,1.9291858135972664
+2,disease_on_drugs,25,21,0.4958592132505175

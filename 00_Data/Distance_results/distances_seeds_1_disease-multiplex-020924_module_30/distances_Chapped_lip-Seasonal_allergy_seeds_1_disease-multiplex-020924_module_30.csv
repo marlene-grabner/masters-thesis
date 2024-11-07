@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,26,29,0.22194357366771156
+1,disease_on_symptoms,21,15,1.392063492063492
+2,disease_on_drugs,24,29,0.43558880936890043

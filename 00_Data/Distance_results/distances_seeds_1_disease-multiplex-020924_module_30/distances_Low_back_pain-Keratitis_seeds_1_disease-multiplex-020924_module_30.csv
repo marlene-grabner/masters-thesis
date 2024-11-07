@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.22348111658456493
+1,disease_on_symptoms,17,25,0.9457142857142857
+2,disease_on_drugs,26,23,0.3920039587741453

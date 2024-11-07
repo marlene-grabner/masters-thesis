@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Glioma nodes,sAB
+0,disease_on_genes,29,22,0.19295900178253111
+1,disease_on_symptoms,25,24,2.184472789115646
+2,disease_on_drugs,28,20,1.2666666666666666

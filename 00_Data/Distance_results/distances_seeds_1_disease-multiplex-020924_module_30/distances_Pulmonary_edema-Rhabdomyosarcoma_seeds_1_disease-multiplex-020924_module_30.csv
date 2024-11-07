@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,23,0.26292042657916315
+1,disease_on_symptoms,14,24,1.0955513784461153
+2,disease_on_drugs,27,17,0.8493265993265993

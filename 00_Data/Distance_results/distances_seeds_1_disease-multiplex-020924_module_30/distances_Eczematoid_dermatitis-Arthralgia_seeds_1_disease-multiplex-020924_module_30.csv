@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,24,19,0.21873725010199907
+2,disease_on_drugs,28,30,0.05049261083743861

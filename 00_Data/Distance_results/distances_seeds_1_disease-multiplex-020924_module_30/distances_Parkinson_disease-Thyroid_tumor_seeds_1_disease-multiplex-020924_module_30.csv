@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,21,23,0.2291549030679465
+1,disease_on_symptoms,20,20,1.6999999999999997
+2,disease_on_drugs,19,20,1.205769230769231

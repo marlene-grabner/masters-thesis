@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.12015599343185557
+1,disease_on_symptoms,18,20,-0.06988304093567255
+2,disease_on_drugs,24,27,-0.03758169934640532

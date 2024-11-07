@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.0862479474548441
+1,disease_on_symptoms,20,20,-0.17499999999999982
+2,disease_on_drugs,30,27,0.052046783625730786

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,29,27,0.17918719211822665
+1,disease_on_symptoms,17,23,2.391112531969309
+2,disease_on_drugs,26,20,1.2198996655518397

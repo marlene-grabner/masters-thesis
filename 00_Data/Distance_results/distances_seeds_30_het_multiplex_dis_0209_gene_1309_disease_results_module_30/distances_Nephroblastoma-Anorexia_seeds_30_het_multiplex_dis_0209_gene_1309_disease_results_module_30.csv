@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,29,29,-0.12068965517241381
+1,disease_on_symptoms,20,13,0.6833916083916085
+2,disease_on_drugs,24,28,0.20581501831501847

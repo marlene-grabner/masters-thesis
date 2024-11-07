@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.07834290401968835
+1,disease_on_symptoms,18,19,1.046230440967283
+2,disease_on_drugs,29,21,0.10121510673234813

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,0.01974235104669897
+1,disease_on_symptoms,21,19,1.2109022556390978
+2,disease_on_drugs,27,21,0.4378306878306879

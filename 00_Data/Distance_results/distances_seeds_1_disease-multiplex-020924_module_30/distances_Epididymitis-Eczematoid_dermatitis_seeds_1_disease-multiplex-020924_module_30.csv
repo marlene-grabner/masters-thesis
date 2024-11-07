@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,29,28,0.10525235502549468
+1,disease_on_symptoms,23,24,0.38270891150169617
+2,disease_on_drugs,27,28,0.29088504088504075

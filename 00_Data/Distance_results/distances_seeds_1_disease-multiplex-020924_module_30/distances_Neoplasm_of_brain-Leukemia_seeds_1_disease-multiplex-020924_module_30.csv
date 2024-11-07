@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Leukemia nodes,sAB
+0,disease_on_genes,22,18,0.002272727272727204
+1,disease_on_symptoms,23,27,0.7258615136876005
+2,disease_on_drugs,20,17,0.24014308426073128

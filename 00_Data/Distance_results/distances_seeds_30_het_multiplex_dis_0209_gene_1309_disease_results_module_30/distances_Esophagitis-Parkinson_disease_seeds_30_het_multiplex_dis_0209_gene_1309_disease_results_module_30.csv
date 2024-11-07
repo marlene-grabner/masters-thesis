@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,0.03993710691823904
+1,disease_on_symptoms,20,23,0.6155460060667342
+2,disease_on_drugs,30,22,0.21993006993006992

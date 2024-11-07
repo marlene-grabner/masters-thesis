@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,22,29,0.20718851804044514
+1,disease_on_symptoms,25,16,1.2185975609756095
+2,disease_on_drugs,18,25,0.7209302325581395

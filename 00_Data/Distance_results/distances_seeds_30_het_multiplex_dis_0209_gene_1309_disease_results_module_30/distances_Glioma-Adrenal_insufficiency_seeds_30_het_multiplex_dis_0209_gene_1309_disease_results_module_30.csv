@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,22,30,0.05769230769230771
+1,disease_on_symptoms,21,15,0.6857142857142855
+2,disease_on_drugs,21,24,0.2938492063492064

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,20,17,0.5560015898251192
+2,disease_on_drugs,27,26,-0.004367575122292244

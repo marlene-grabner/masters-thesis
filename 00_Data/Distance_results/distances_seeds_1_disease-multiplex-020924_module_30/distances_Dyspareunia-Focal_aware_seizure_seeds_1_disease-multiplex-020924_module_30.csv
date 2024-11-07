@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,24,29,0.18867924528301883
+1,disease_on_symptoms,17,15,1.0707107843137256
+2,disease_on_drugs,23,29,0.9540133779264215

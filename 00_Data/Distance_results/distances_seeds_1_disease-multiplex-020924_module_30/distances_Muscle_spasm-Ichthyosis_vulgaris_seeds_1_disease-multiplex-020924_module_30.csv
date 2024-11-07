@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,0.42065527065527064
+1,disease_on_symptoms,23,21,1.6332580463015245
+2,disease_on_drugs,19,27,1.152173913043478

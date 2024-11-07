@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,22,0.3749055177626608
+1,disease_on_symptoms,22,24,0.8661890645586297
+2,disease_on_drugs,26,19,1.272514619883041

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,-0.06596989966555189
+1,disease_on_symptoms,21,27,0.5806878306878309
+2,disease_on_drugs,23,19,-0.14786967418546382

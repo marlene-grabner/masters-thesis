@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,28,0.19966329966329965
+1,disease_on_symptoms,21,22,0.6739655693144067
+2,disease_on_drugs,27,15,0.3497354497354497

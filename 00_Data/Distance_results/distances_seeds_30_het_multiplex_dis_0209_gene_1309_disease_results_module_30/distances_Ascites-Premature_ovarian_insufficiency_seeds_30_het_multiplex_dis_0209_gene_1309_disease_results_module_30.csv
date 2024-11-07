@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,22,18,0.002525252525252597
+2,disease_on_drugs,27,22,-0.1824709681852541

@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,14,17,0.4114258606668475
+2,disease_on_drugs,28,29,0.21139054532883916

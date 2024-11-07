@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,15,30,0.25555555555555576
+1,disease_on_symptoms,25,20,0.6055555555555554
+2,disease_on_drugs,10,30,0.34999999999999987

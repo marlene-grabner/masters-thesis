@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,29,27,0.08981025360335715
+1,disease_on_symptoms,21,16,0.04991151866151866
+2,disease_on_drugs,28,27,0.3275733525733526

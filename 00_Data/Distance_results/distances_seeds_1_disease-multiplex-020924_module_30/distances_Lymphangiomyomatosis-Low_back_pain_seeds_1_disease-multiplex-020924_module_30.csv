@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,26,30,0.1440476190476192
+1,disease_on_symptoms,19,17,0.4312865497076026
+2,disease_on_drugs,22,26,0.18924825174825166

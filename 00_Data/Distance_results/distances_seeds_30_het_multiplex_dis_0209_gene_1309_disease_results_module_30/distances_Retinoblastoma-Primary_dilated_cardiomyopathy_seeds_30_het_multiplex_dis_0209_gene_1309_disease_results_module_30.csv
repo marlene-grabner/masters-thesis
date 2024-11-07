@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,21,24,1.0692460317460317
+2,disease_on_drugs,27,15,0.2767195767195767

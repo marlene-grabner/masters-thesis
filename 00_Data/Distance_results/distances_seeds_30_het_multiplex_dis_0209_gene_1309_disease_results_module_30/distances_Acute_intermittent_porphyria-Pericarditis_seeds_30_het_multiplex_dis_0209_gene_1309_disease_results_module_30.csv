@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,-0.24528301886792447
+1,disease_on_symptoms,17,21,0.4075630252100839
+2,disease_on_drugs,24,26,-0.27724358974358987

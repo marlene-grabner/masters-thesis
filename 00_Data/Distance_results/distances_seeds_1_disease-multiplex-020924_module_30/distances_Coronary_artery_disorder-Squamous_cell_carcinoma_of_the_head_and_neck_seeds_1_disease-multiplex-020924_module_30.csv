@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,19,21,0.2248746867167919
+1,disease_on_symptoms,21,25,2.0909730848861283
+2,disease_on_drugs,17,21,0.9210526315789473

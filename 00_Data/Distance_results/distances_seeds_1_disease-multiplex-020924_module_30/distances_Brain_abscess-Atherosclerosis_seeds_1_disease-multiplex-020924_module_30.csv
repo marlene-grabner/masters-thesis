@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,27,30,0.20662768031189094
+1,disease_on_symptoms,21,13,0.5400775694893345
+2,disease_on_drugs,23,29,0.29264214046822734

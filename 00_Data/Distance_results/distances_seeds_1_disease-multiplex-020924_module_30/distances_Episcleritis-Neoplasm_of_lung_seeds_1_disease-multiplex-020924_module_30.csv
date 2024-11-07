@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,22,20,0.47305194805194817
+2,disease_on_drugs,29,30,0.066617962205338

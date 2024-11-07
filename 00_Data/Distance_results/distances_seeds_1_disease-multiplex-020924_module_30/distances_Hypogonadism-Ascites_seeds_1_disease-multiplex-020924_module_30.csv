@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.10169491525423724
+1,disease_on_symptoms,12,17,0.6793441514536851
+2,disease_on_drugs,30,27,0.436549707602339

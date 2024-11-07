@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,0.2413512413512413
+1,disease_on_symptoms,23,20,0.9323559150657228
+2,disease_on_drugs,25,27,0.5

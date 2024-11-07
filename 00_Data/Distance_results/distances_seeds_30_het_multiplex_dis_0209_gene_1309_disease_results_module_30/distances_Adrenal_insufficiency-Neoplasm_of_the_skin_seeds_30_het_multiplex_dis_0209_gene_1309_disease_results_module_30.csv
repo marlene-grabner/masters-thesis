@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,15,22,-0.04492219492219496
+2,disease_on_drugs,24,29,0.1593065495554109

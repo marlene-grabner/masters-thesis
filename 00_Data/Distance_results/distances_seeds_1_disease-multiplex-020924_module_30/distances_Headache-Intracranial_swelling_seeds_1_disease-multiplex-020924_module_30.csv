@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.11666666666666647
+1,disease_on_symptoms,25,14,0.2654945054945057
+2,disease_on_drugs,26,24,0.3999358974358973

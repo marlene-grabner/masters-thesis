@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.0862068965517242
+1,disease_on_symptoms,16,22,0.3954844497607657
+2,disease_on_drugs,23,29,0.11884442394187533

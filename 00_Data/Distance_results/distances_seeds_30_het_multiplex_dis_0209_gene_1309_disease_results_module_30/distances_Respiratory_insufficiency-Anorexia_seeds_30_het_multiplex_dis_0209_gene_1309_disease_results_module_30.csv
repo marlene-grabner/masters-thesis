@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.26724137931034475
+1,disease_on_symptoms,21,13,0.4143503555268262
+2,disease_on_drugs,25,28,-0.21595687331536384

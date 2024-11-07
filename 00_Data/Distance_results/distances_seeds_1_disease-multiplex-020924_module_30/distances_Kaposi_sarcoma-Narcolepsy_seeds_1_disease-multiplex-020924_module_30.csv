@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,15,25,0.2483333333333333
+1,disease_on_symptoms,27,21,2.8095238095238098
+2,disease_on_drugs,13,20,0.9750000000000001

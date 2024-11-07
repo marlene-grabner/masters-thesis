@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Ascites nodes,sAB
+0,disease_on_genes,22,30,0.060256410256410264
+1,disease_on_symptoms,21,22,0.6086529749320446
+2,disease_on_drugs,21,27,0.3012566137566137

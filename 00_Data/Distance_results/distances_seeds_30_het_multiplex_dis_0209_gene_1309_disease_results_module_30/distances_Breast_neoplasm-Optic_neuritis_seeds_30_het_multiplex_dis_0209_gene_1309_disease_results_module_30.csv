@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.22807017543859653
+1,disease_on_symptoms,20,21,-0.023606271777003363
+2,disease_on_drugs,30,27,-0.08966861598440568

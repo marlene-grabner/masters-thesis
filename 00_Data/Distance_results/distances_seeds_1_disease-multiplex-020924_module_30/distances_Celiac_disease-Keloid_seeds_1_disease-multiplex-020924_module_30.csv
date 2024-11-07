@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Keloid nodes,sAB
+0,disease_on_genes,17,22,0.22905525846702313
+1,disease_on_symptoms,22,20,2.9404761904761907
+2,disease_on_drugs,15,19,0.05490196078431375

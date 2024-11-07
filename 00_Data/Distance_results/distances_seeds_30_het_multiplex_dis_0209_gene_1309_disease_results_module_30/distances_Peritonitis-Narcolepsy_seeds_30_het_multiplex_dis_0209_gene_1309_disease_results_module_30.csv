@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.018181818181818188
+1,disease_on_symptoms,14,20,1.0392857142857141
+2,disease_on_drugs,24,21,-0.13115079365079363

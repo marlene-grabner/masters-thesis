@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,26,-0.03542319749216294
+1,disease_on_symptoms,20,19,0.5091430499325238
+2,disease_on_drugs,28,24,0.04807692307692313

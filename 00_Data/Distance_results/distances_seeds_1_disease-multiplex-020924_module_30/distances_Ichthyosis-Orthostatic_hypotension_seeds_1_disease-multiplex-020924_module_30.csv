@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,27,30,0.3663742690058478
+1,disease_on_symptoms,17,12,0.9020453008789722
+2,disease_on_drugs,24,17,0.4340028694404592

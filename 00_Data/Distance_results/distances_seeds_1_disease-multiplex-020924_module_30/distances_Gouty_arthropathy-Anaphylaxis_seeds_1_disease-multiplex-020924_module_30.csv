@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,0.13367521367521373
+1,disease_on_symptoms,13,15,3.2357142857142858
+2,disease_on_drugs,16,26,0.3588598901098903

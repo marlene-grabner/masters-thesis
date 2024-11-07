@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,-0.19999999999999996
+1,disease_on_symptoms,18,19,0.297376323692113
+2,disease_on_drugs,28,25,-0.1735714285714285

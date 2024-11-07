@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,22,13,0.33981018981018973
+2,disease_on_drugs,29,29,0.22413793103448265

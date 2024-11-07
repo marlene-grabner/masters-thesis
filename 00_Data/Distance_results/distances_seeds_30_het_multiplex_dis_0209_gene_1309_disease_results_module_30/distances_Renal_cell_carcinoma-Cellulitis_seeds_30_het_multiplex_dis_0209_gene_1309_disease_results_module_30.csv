@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,0.10428849902534099
+1,disease_on_symptoms,22,20,0.7495670995670998
+2,disease_on_drugs,22,26,0.34076340326340326

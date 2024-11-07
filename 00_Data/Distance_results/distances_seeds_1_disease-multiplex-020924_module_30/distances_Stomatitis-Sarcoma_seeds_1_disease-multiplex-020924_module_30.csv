@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.25909090909090904
+1,disease_on_symptoms,23,26,1.457221350078493
+2,disease_on_drugs,30,21,1.0764705882352938

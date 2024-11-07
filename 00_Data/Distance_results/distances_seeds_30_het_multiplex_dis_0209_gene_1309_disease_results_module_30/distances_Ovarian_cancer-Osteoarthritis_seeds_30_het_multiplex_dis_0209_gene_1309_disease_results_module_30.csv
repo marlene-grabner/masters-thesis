@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,26,-0.11393323657474586
+1,disease_on_symptoms,17,22,0.7711161387631975
+2,disease_on_drugs,17,25,0.08106442577030815

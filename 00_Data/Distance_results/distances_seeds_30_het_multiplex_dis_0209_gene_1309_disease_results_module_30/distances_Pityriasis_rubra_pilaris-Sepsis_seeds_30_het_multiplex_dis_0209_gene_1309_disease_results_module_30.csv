@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Sepsis nodes,sAB
+0,disease_on_genes,27,30,-0.10633528265107228
+1,disease_on_symptoms,21,15,0.23888888888888893
+2,disease_on_drugs,25,25,-0.040000000000000036

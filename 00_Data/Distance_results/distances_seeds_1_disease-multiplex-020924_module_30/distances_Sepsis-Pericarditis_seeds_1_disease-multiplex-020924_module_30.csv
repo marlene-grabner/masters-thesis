@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,22,25,0.09912959381044484
+1,disease_on_symptoms,23,22,1.09064558629776
+2,disease_on_drugs,17,25,0.3735574229691876

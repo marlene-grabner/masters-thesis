@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,27,0.4014619883040933
+1,disease_on_symptoms,16,15,2.4470430107526884
+2,disease_on_drugs,21,25,0.8889026915113871

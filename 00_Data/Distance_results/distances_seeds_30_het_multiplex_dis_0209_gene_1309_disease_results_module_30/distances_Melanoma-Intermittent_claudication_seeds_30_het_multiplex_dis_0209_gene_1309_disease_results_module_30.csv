@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,23,14,0.5851938895417155
+2,disease_on_drugs,25,24,0.3660034013605442

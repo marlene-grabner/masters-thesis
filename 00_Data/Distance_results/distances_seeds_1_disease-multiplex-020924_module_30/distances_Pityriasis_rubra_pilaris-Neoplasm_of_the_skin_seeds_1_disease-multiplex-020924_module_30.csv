@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,28,0.1071428571428572
+1,disease_on_symptoms,23,21,0.45313382269904
+2,disease_on_drugs,26,24,0.30153846153846176

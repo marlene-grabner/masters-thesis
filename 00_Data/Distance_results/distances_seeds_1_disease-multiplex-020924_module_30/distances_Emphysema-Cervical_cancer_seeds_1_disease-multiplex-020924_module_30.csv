@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.35077972709551664
+1,disease_on_symptoms,14,23,0.9784707067315765
+2,disease_on_drugs,29,15,0.4590909090909092

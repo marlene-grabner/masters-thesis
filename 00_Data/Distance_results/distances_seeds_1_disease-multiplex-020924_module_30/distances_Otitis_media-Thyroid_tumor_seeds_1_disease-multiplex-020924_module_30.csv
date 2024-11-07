@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,29,23,0.27165263522085126
+1,disease_on_symptoms,22,20,0.21461038961038947
+2,disease_on_drugs,29,20,1.0457248416608023

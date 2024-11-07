@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,24,23,0.3235622880049338
+1,disease_on_symptoms,22,25,1.2982785299806576
+2,disease_on_drugs,11,18,0.7442528735632183

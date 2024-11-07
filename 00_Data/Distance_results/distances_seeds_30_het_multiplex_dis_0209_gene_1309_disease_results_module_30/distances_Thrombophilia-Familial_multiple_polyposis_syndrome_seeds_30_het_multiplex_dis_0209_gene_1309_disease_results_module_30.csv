@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,18,19,0.004544017701912484
+2,disease_on_drugs,22,25,0.0645841392649904

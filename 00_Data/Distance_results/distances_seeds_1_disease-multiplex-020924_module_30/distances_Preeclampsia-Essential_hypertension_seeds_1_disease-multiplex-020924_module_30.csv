@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.3313492063492064
+1,disease_on_symptoms,17,14,-0.21387910002710764
+2,disease_on_drugs,23,28,-0.312355376933382

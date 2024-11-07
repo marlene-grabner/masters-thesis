@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,19,17,0.22024423804609583
+2,disease_on_drugs,22,17,-0.026669409022350266

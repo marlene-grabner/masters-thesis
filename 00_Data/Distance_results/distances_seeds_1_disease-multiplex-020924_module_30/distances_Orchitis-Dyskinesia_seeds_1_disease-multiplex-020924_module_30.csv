@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,23,24,0.3195921985815602
+1,disease_on_symptoms,16,17,2.3321635472370765
+2,disease_on_drugs,17,23,0.8161764705882353

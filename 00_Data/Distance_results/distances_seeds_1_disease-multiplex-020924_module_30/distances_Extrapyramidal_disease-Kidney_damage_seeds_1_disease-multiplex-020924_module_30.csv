@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,14,20,0.4525210084033613
+1,disease_on_symptoms,25,26,2.452443438914027
+2,disease_on_drugs,10,13,0.6272575250836121

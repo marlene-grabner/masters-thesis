@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,17,27,0.5286690433749255
+1,disease_on_symptoms,25,15,2.135
+2,disease_on_drugs,13,26,0.6666666666666667

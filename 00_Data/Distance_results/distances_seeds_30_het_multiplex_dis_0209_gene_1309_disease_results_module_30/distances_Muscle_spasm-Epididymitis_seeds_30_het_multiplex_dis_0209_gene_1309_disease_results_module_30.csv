@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,15,23,0.982990083905416
+2,disease_on_drugs,29,26,0.3285025319508077

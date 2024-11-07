@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.1353107344632768
+1,disease_on_symptoms,19,16,0.5499060150375938
+2,disease_on_drugs,29,29,0.3793103448275863

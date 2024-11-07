@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,29,22,0.27450980392156854
+1,disease_on_symptoms,14,21,0.9523809523809526
+2,disease_on_drugs,22,17,0.3911284793637735

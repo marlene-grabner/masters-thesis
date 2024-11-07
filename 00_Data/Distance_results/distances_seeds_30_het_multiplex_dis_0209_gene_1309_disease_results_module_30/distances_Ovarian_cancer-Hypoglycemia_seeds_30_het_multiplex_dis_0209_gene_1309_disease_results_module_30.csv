@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,-0.016666666666666607
+1,disease_on_symptoms,17,19,1.599501203990368
+2,disease_on_drugs,17,27,0.5951673598732421

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.03446327683615835
+1,disease_on_symptoms,22,27,0.6407269978698551
+2,disease_on_drugs,29,28,0.24524673753348902

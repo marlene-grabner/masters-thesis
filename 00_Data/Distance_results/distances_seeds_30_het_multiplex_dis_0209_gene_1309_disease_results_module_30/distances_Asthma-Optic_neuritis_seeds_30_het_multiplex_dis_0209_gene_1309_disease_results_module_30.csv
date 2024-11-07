@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,-0.23153846153846158
+1,disease_on_symptoms,20,21,0.17273519163763074
+2,disease_on_drugs,22,27,-0.18221328935614645

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,30,-0.016666666666666607
+1,disease_on_symptoms,23,18,0.384794391422175
+2,disease_on_drugs,26,28,-0.055860805860805884

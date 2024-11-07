@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.29824561403508776
+1,disease_on_symptoms,22,14,1.7893217893217892
+2,disease_on_drugs,29,13,0.4614121510673235

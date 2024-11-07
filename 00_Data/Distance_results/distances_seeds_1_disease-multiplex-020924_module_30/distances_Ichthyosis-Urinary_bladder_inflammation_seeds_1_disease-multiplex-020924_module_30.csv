@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,27,25,0.26905982905982895
+1,disease_on_symptoms,17,22,0.7423214040861099
+2,disease_on_drugs,24,24,0.45833333333333326

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,29,30,-0.22033898305084743
+1,disease_on_symptoms,25,21,-0.11536231884057968
+2,disease_on_drugs,27,29,-0.34400656814449915

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.37316384180790974
+1,disease_on_symptoms,16,15,1.4924059139784949
+2,disease_on_drugs,26,21,1.1464032421479229

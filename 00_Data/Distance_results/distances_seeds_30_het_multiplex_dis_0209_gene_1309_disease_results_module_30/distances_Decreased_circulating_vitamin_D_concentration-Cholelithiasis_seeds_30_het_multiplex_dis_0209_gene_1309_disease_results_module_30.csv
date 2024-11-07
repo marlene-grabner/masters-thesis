@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,25,25,0.06000000000000005
+1,disease_on_symptoms,13,20,0.9075757575757577
+2,disease_on_drugs,21,18,0.07112332112332109

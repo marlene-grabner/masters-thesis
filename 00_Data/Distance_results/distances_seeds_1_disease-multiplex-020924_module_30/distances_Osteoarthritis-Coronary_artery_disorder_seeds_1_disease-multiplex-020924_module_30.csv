@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.3400478468899524
+1,disease_on_symptoms,20,21,2.2396051103368175
+2,disease_on_drugs,21,17,0.605263157894737

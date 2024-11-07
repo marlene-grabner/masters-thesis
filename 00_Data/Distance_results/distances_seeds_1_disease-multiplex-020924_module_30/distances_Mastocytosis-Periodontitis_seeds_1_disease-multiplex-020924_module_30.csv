@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,18,23,0.19968775774714276
+1,disease_on_symptoms,28,25,0.14497304582210235
+2,disease_on_drugs,17,22,-0.024441245029480196

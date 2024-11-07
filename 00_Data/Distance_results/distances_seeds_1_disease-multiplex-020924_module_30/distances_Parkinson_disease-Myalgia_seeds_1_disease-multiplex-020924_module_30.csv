@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Myalgia nodes,sAB
+0,disease_on_genes,21,30,0.00462184873949556
+1,disease_on_symptoms,20,16,1.2041666666666666
+2,disease_on_drugs,19,29,0.1875

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,17,27,0.4866310160427807
+1,disease_on_symptoms,22,14,3.365079365079365
+2,disease_on_drugs,15,13,1.0023809523809524

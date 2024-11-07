@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,14,21,-0.14047619047619042
+2,disease_on_drugs,26,25,-0.17423831070889895

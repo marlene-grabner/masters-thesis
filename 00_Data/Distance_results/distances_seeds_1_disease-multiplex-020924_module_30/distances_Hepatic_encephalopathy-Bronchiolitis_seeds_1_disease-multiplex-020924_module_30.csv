@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,9,23,0.23173309178743962
+1,disease_on_symptoms,27,25,2.8458119658119654
+2,disease_on_drugs,9,18,0.36111111111111094

@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.1199662406558959
+1,disease_on_symptoms,16,21,0.9458252895752897
+2,disease_on_drugs,23,26,0.06224831069551562

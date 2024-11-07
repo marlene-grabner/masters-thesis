@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,21,29,0.11684729064039412
+1,disease_on_symptoms,26,16,0.5570054945054947
+2,disease_on_drugs,20,25,0.19999999999999996

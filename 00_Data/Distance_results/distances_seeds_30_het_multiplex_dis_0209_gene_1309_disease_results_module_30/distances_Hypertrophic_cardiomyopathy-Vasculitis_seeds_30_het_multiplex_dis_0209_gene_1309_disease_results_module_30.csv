@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.19761904761904758
+1,disease_on_symptoms,19,18,1.4120831357673462
+2,disease_on_drugs,22,26,0.05317599067599055

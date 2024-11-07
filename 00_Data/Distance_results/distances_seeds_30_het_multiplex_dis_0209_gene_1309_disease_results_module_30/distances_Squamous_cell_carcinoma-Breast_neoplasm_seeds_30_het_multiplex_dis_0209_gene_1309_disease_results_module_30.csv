@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.5833333333333333
+1,disease_on_symptoms,22,20,-0.9516233766233767
+2,disease_on_drugs,30,30,-0.55

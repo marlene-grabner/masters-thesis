@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.4734892787524365
+1,disease_on_symptoms,14,21,2.0
+2,disease_on_drugs,11,27,0.736842105263158

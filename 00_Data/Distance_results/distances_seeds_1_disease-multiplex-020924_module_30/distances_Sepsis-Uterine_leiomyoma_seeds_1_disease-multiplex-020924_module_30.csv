@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,22,24,0.4352766798418972
+1,disease_on_symptoms,23,21,1.6168360624882365
+2,disease_on_drugs,17,18,1.199112978524743

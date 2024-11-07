@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,20,19,0.33002699055330664
+2,disease_on_drugs,20,28,-0.11309523809523814

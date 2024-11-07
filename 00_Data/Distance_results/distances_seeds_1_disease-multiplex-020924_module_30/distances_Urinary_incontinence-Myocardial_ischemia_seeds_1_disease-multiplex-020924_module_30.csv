@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,0.293956043956044
+1,disease_on_symptoms,20,13,0.91520979020979
+2,disease_on_drugs,20,23,0.6092012133468152

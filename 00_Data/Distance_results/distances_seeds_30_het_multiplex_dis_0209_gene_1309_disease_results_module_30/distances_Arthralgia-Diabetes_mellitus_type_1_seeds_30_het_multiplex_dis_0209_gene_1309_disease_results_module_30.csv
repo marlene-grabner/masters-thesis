@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,17,18,0.7829131652661065
+2,disease_on_drugs,30,26,-0.05549450549450552

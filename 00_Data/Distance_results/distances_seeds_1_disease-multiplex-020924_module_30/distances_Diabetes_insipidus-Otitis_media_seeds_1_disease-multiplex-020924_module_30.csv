@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Otitis_media nodes,sAB
+0,disease_on_genes,24,29,0.21371448709607455
+1,disease_on_symptoms,18,22,0.34318181818181825
+2,disease_on_drugs,18,29,0.6929567131327954

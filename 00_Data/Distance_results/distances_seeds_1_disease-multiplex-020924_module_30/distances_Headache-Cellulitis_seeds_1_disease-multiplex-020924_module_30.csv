@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.16540616246498585
+1,disease_on_symptoms,25,26,1.702684766214178
+2,disease_on_drugs,26,12,0.6912955465587045

@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.4599816849816849
+1,disease_on_symptoms,15,15,0.9000000000000001
+2,disease_on_drugs,26,16,0.7710622710622712

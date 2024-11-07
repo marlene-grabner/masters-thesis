@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,-0.15384615384615385
+1,disease_on_symptoms,23,21,0.33850931677018625
+2,disease_on_drugs,21,27,-0.17691798941798953

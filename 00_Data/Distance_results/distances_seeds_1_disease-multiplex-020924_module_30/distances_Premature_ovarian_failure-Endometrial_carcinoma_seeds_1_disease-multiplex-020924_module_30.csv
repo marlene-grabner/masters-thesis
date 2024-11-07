@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,28,23,0.032821824381926934
+1,disease_on_symptoms,21,21,0.4523809523809521
+2,disease_on_drugs,21,21,0.023809523809523725

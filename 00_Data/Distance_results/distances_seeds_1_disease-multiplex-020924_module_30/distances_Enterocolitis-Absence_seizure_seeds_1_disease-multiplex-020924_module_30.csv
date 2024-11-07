@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,27,29,0.42975734355044715
+1,disease_on_symptoms,21,16,1.556547619047619
+2,disease_on_drugs,24,22,0.7835144927536231

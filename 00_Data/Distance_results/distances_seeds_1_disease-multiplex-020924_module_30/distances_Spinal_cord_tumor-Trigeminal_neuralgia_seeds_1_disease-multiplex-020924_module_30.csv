@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,22,28,-0.4126623376623375
+1,disease_on_symptoms,22,19,-0.5630762049247288
+2,disease_on_drugs,14,26,-0.2763736263736264

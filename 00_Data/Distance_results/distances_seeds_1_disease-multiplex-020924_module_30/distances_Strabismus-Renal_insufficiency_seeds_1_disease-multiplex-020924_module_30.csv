@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,13,20,0.15885780885780898
+1,disease_on_symptoms,26,23,1.5081052487884785
+2,disease_on_drugs,9,17,0.7679738562091503

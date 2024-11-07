@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,18,21,0.46550671550671563
+2,disease_on_drugs,28,25,-0.13191374663072786

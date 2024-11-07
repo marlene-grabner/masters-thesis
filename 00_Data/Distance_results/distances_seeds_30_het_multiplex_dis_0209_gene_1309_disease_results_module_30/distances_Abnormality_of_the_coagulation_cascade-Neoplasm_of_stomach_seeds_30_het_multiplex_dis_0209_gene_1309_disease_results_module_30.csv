@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,24,25,-0.12204081632653063
+1,disease_on_symptoms,24,23,0.6580326857847671
+2,disease_on_drugs,23,24,0.27287619488128256

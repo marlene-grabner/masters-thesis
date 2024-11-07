@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.08616584564860408
+1,disease_on_symptoms,20,17,0.414904610492846
+2,disease_on_drugs,30,25,0.47424242424242435

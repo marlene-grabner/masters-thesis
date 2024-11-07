@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,21,0.21736694677871138
+1,disease_on_symptoms,17,20,1.587678855325914
+2,disease_on_drugs,28,19,0.6060030395136777

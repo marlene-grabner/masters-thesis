@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.07280219780219777
+1,disease_on_symptoms,11,25,0.6512121212121211
+2,disease_on_drugs,21,25,-0.07482401656314686

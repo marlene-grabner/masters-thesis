@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,22,27,0.3141534391534393
+1,disease_on_symptoms,26,21,0.7862988075754034
+2,disease_on_drugs,12,27,0.8717948717948718

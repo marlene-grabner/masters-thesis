@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Constipation nodes,sAB
+0,disease_on_genes,26,30,-0.03452380952380951
+1,disease_on_symptoms,19,16,1.012828947368421
+2,disease_on_drugs,25,28,0.4777628032345014

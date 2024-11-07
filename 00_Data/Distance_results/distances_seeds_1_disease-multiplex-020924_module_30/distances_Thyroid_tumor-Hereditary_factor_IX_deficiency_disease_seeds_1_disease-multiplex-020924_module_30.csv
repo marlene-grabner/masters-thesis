@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,23,25,0.29061594202898555
+1,disease_on_symptoms,20,22,1.8996753246753246
+2,disease_on_drugs,20,21,0.9268002322880371

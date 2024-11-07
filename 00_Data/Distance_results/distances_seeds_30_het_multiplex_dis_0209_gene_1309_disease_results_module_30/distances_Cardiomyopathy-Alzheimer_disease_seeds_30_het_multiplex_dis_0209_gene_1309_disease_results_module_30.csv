@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,25,23,-0.22750000000000004
+1,disease_on_symptoms,21,19,0.2606516290726817
+2,disease_on_drugs,24,19,-0.17941656466748268

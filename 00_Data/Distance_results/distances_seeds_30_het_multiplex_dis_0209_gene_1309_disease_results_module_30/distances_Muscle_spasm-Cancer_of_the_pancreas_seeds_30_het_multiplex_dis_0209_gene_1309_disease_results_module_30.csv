@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,15,23,0.4921434019832187
+2,disease_on_drugs,29,30,0.16884862653419064

@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.09259259259259256
+1,disease_on_symptoms,16,21,0.9251528314028314
+2,disease_on_drugs,27,24,-0.04425381263616557

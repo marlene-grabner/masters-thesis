@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.23333333333333317
+1,disease_on_symptoms,16,23,1.961364269788183
+2,disease_on_drugs,17,20,0.5938791732909379

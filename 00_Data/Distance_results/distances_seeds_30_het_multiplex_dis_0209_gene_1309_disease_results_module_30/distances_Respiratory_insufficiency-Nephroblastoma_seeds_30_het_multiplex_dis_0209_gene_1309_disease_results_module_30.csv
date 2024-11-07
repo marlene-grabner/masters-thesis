@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,-0.035098522167487656
+1,disease_on_symptoms,21,20,0.8763937282229968
+2,disease_on_drugs,25,24,-0.039302721088435355

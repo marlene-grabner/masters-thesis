@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,26,27,-0.339622641509434
+1,disease_on_symptoms,19,17,-0.40927072583419344
+2,disease_on_drugs,25,17,-0.38655462184873934

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,23,30,-0.12756357670221496
+1,disease_on_symptoms,20,19,0.38569500674763835
+2,disease_on_drugs,19,29,0.0

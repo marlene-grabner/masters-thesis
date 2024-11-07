@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,26,29,0.18463949843260186
+1,disease_on_symptoms,19,21,0.8737468671679198
+2,disease_on_drugs,22,28,0.8727922077922079

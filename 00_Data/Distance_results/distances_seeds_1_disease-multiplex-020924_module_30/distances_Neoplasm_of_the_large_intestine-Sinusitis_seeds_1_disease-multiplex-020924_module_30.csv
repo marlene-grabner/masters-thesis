@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Sinusitis nodes,sAB
+0,disease_on_genes,20,29,0.2089901477832512
+1,disease_on_symptoms,25,21,0.8410351966873706
+2,disease_on_drugs,19,28,1.021456566949288

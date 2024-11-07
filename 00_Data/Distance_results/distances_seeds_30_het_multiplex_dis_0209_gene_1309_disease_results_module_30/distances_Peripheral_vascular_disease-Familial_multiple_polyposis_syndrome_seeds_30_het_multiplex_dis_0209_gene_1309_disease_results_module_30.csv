@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.08909090909090911
+1,disease_on_symptoms,17,19,0.6488648090815272
+2,disease_on_drugs,25,25,0.2599999999999998

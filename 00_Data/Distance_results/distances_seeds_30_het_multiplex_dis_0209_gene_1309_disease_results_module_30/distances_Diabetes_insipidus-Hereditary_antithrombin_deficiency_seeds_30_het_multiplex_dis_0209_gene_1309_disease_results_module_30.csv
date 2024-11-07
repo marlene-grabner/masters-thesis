@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,26,28,-0.1858974358974358
+1,disease_on_symptoms,20,16,0.015277777777777501
+2,disease_on_drugs,20,23,-0.486097067745197

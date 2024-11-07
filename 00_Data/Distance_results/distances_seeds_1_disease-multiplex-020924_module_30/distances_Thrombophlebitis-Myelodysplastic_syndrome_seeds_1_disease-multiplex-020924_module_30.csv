@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.2605820105820107
+1,disease_on_symptoms,15,15,0.7999999999999998
+2,disease_on_drugs,21,21,0.7142857142857144

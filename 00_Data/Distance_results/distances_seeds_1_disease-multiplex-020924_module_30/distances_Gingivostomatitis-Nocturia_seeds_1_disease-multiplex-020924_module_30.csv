@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,21,0.1269841269841272
+1,disease_on_symptoms,23,24,1.381533302497687
+2,disease_on_drugs,29,14,0.2132260281819225

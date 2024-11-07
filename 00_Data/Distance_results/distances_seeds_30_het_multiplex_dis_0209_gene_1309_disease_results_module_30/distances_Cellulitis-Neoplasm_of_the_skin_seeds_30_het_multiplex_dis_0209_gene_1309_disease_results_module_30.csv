@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,20,22,0.6683982683982683
+2,disease_on_drugs,26,29,0.3218109476730169

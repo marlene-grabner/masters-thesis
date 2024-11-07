@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Stomatitis nodes,sAB
+0,disease_on_genes,18,30,-0.050000000000000044
+1,disease_on_symptoms,21,23,3.4491341991341993
+2,disease_on_drugs,17,30,0.32240300375469344

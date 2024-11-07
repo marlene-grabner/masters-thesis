@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,11,14,1.514025974025974
+2,disease_on_drugs,27,22,0.2570603999175427

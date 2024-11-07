@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,21,16,0.991956241956242
+2,disease_on_drugs,27,25,0.5553276353276353

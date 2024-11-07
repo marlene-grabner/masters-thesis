@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.3060968660968659
+1,disease_on_symptoms,19,18,1.8191876086612928
+2,disease_on_drugs,24,21,0.819047619047619

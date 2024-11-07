@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.06773399014778336
+1,disease_on_symptoms,19,17,0.6216890264877883
+2,disease_on_drugs,29,18,0.22487160674981665

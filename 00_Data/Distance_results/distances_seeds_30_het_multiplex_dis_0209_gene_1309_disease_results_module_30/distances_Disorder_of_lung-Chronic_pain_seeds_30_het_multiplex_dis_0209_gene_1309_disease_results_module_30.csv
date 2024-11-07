@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,-0.08684210526315783
+1,disease_on_symptoms,18,19,0.4383989252410303
+2,disease_on_drugs,24,28,-0.002060439560439331

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,28,25,-0.13332884097035036
+1,disease_on_symptoms,18,20,-0.10555555555555562
+2,disease_on_drugs,26,18,-0.2162004662004663

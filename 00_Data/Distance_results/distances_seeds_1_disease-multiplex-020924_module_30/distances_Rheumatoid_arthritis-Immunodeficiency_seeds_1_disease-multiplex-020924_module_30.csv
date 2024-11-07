@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,22,0.2640177283034426
+1,disease_on_symptoms,15,19,1.57234262125903
+2,disease_on_drugs,25,18,0.2778036175710594

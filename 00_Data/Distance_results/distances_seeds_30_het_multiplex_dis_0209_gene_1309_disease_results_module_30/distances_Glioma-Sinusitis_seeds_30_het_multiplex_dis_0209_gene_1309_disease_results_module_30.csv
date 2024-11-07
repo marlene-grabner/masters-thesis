@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Sinusitis nodes,sAB
+0,disease_on_genes,22,29,0.13725490196078427
+1,disease_on_symptoms,21,20,0.48632404181184663
+2,disease_on_drugs,21,27,0.5419973544973544

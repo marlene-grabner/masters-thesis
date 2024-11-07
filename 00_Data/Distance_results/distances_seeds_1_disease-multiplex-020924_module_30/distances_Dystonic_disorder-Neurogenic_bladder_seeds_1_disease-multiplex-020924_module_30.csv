@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,17,30,0.15327492699207346
+1,disease_on_symptoms,28,17,0.5024042950513539
+2,disease_on_drugs,9,26,0.17142857142857149

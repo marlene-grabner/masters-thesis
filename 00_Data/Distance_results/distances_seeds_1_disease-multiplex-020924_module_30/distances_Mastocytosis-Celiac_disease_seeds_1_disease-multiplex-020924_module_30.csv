@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,18,17,0.14197012138188603
+1,disease_on_symptoms,28,22,1.3321428571428573
+2,disease_on_drugs,17,15,0.12659313725490184

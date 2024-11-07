@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,24,30,0.7013888888888888
+1,disease_on_symptoms,22,25,2.2879497098646033
+2,disease_on_drugs,24,7,0.8640552995391706

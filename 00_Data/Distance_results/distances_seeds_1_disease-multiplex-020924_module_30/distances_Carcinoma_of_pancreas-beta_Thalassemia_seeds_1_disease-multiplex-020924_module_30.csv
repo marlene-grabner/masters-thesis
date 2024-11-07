@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,23,22,0.4651515151515151
+1,disease_on_symptoms,25,21,2.6115113871635613
+2,disease_on_drugs,21,6,0.7222222222222223

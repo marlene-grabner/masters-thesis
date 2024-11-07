@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,24,17,0.48634026781444284
+1,disease_on_symptoms,18,25,0.7332558139534884
+2,disease_on_drugs,18,13,0.5099255583126552

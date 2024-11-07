@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,12,20,0.5895833333333333
+2,disease_on_drugs,29,24,-0.0013554543482976467

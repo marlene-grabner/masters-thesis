@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.1899610136452241
+1,disease_on_symptoms,17,22,0.7367338543809132
+2,disease_on_drugs,27,26,0.6795946890286513

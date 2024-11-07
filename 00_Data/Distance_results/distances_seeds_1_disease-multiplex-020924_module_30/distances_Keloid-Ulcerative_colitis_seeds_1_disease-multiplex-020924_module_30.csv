@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,22,27,0.08077372363086632
+1,disease_on_symptoms,20,20,1.7999999999999998
+2,disease_on_drugs,19,25,0.13636363636363646

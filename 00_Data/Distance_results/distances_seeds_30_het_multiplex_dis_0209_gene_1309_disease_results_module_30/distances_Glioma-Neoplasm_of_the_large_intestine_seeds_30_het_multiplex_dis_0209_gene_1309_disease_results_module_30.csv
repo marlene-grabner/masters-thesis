@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,22,30,-0.23076923076923073
+1,disease_on_symptoms,21,22,0.0716550890969494
+2,disease_on_drugs,21,29,-0.22039408866995058

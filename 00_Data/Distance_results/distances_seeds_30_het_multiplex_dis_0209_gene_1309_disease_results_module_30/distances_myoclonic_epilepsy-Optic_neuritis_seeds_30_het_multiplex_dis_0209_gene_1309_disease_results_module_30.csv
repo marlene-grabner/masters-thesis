@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,16,21,0.5178571428571428
+2,disease_on_drugs,25,27,0.018347578347578164

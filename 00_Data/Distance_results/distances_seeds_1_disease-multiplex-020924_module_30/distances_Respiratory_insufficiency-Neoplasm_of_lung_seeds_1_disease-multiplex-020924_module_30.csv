@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,25,30,0.37969696969696964
+1,disease_on_symptoms,20,20,1.3750000000000002
+2,disease_on_drugs,14,30,0.7852813852813854

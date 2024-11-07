@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,24,26,-0.08250000000000002
+1,disease_on_symptoms,25,19,-0.08157894736842097
+2,disease_on_drugs,17,24,-0.24034552845528467

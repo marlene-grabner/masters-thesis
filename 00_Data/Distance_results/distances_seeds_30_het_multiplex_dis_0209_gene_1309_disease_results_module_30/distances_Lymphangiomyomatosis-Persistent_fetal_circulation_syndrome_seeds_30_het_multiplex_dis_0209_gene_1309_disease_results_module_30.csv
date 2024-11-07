@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,26,24,-0.13923076923076916
+1,disease_on_symptoms,17,22,0.8772110242698477
+2,disease_on_drugs,24,21,0.06845238095238071

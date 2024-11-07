@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,28,0.5067219817219815
+1,disease_on_symptoms,16,23,1.517488851727982
+2,disease_on_drugs,18,28,0.6995341614906834

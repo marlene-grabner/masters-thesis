@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,-0.033759344104171696
+1,disease_on_symptoms,21,22,0.5308064028994264
+2,disease_on_drugs,26,29,0.32904509283819605

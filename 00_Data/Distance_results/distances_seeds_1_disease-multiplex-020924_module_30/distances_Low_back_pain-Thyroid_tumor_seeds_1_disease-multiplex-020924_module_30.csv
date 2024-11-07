@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.05019141372709868
+1,disease_on_symptoms,17,20,1.460135135135135
+2,disease_on_drugs,26,20,0.4708193979933111

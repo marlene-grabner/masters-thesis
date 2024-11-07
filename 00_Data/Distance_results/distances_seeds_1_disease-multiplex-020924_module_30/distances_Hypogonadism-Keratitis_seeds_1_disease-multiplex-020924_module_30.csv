@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.26253132832080217
+1,disease_on_symptoms,12,25,1.0496396396396395
+2,disease_on_drugs,30,23,0.8049083948591742

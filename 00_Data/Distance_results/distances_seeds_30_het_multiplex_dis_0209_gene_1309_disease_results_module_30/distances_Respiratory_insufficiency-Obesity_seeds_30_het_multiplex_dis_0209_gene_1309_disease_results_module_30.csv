@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Obesity nodes,sAB
+0,disease_on_genes,27,27,-0.35185185185185186
+1,disease_on_symptoms,21,18,0.5360195360195359
+2,disease_on_drugs,25,25,-0.3799999999999999

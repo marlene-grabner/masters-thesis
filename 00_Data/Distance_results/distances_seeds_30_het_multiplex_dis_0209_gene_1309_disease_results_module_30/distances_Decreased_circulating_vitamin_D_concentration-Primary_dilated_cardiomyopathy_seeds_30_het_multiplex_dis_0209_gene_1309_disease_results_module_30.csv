@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,25,30,0.3090909090909091
+1,disease_on_symptoms,13,24,1.5411036036036037
+2,disease_on_drugs,21,15,0.41428571428571437

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,20,14,0.06008403361344539
+2,disease_on_drugs,28,29,-0.01848370927318288

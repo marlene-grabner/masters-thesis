@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Pruritus nodes,sAB
+0,disease_on_genes,20,26,0.026111111111111196
+1,disease_on_symptoms,24,19,0.5116024071807423
+2,disease_on_drugs,18,24,0.5515873015873016

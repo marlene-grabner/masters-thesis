@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,22,30,0.17307692307692313
+1,disease_on_symptoms,17,14,1.3954323664949853
+2,disease_on_drugs,21,27,0.09986772486772488

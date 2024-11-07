@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.016569200779727122
+1,disease_on_symptoms,23,19,0.552304674730304
+2,disease_on_drugs,29,24,0.37403762741270885

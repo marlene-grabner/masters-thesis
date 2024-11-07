@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.28218390804597693
+1,disease_on_symptoms,18,14,1.253968253968254
+2,disease_on_drugs,19,26,0.5240440845704004

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.09242424242424252
+1,disease_on_symptoms,17,22,0.24125874125874147
+2,disease_on_drugs,26,25,0.0022473604826547255

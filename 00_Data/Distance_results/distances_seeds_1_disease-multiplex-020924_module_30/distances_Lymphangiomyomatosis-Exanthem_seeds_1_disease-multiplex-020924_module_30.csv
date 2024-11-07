@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.2777777777777777
+1,disease_on_symptoms,19,26,1.4599190283400807
+2,disease_on_drugs,22,28,0.4285064935064935

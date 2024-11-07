@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,26,26,-0.17307692307692313
+1,disease_on_symptoms,23,21,-0.0038114059853191495
+2,disease_on_drugs,25,25,-0.10000000000000009

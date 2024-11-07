@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,23,30,0.2264150943396226
+1,disease_on_symptoms,22,9,0.48826979472140764
+2,disease_on_drugs,21,23,0.2212027103331451

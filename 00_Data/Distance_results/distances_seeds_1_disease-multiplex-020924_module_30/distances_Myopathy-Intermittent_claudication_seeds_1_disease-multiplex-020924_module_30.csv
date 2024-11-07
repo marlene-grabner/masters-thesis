@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,18,20,0.41915204678362583
+1,disease_on_symptoms,21,24,0.9144841269841268
+2,disease_on_drugs,6,18,0.4722222222222223

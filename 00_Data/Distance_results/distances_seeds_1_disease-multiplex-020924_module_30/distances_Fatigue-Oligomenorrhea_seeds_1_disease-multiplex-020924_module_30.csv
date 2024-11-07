@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.25783475783475795
+1,disease_on_symptoms,21,12,1.0010822510822512
+2,disease_on_drugs,26,21,0.4433013794715921

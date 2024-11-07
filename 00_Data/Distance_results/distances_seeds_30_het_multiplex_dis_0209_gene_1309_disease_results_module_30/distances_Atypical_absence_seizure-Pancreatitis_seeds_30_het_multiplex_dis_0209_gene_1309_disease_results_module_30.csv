@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,13,17,0.35128205128205114
+2,disease_on_drugs,22,30,0.010023310023309806

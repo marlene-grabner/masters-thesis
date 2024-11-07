@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.07105263157894748
+1,disease_on_symptoms,21,22,0.4657958320749018
+2,disease_on_drugs,25,27,0.09646723646723654

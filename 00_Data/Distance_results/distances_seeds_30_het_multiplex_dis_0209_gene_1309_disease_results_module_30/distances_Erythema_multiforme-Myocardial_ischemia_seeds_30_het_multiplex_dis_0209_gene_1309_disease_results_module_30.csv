@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,19,-0.11032084716295243
+2,disease_on_drugs,30,30,-0.20000000000000018

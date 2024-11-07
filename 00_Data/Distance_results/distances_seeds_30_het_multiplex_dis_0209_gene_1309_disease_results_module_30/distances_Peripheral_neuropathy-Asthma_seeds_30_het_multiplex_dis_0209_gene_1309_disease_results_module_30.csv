@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.23818181818181816
+1,disease_on_symptoms,21,20,-0.13969221835075518
+2,disease_on_drugs,29,22,-0.0697184830044868

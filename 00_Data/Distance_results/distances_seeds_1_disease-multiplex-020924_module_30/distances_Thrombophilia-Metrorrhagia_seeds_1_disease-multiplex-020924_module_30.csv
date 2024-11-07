@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,27,0.11111111111111094
+1,disease_on_symptoms,18,17,0.5056956115779645
+2,disease_on_drugs,21,26,0.4245577117917543

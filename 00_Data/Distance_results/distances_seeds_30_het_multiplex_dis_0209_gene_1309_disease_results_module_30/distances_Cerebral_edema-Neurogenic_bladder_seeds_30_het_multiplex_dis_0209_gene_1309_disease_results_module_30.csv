@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,10,18,-0.07698412698412715
+2,disease_on_drugs,16,21,-0.21681949806949818

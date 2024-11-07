@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,28,0.01896551724137918
+1,disease_on_symptoms,19,20,0.5115721997300944
+2,disease_on_drugs,20,25,0.12388888888888894

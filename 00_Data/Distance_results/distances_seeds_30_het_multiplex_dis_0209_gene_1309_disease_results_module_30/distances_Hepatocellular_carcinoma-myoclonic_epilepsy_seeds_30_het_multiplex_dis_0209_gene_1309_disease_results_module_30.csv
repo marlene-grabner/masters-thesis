@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,24,30,-0.07407407407407407
+1,disease_on_symptoms,23,16,0.7562709030100336
+2,disease_on_drugs,22,25,0.0009284332688588304

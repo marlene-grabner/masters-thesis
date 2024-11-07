@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,26,22,0.03622823984526091
+1,disease_on_symptoms,19,22,0.8117633329443343
+2,disease_on_drugs,24,14,0.7086466165413534

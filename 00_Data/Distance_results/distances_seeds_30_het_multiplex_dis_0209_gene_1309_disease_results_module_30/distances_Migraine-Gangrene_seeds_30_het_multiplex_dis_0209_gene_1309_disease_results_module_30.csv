@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.29824561403508776
+1,disease_on_symptoms,12,22,-0.26024955436720143
+2,disease_on_drugs,29,27,-0.198595146871009

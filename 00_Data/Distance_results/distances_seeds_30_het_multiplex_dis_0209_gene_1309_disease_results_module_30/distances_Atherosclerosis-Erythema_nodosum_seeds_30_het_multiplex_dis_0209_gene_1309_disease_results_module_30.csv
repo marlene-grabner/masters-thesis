@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,14,22,0.310606060606061
+2,disease_on_drugs,29,29,0.06896551724137923

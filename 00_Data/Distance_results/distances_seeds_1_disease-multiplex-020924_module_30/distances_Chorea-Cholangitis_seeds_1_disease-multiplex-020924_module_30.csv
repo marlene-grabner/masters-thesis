@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Cholangitis nodes,sAB
+0,disease_on_genes,14,27,0.5975287133823719
+1,disease_on_symptoms,27,22,2.0687487116058545
+2,disease_on_drugs,8,26,0.9080882352941178

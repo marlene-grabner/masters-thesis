@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,20,-0.09499999999999997
+1,disease_on_symptoms,12,22,-0.13591800356506245
+2,disease_on_drugs,27,15,-0.2666666666666667

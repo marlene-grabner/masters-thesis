@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,16,21,1.0840974903474903
+2,disease_on_drugs,29,30,0.4745275667251121

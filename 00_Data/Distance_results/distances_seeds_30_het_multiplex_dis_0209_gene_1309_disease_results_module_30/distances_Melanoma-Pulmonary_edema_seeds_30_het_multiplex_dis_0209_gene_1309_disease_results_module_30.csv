@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,27,30,-0.0185185185185186
+1,disease_on_symptoms,23,11,0.18867705184840733
+2,disease_on_drugs,25,27,0.13367521367521373

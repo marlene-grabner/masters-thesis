@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,29,30,-0.1861581920903954
+1,disease_on_symptoms,18,22,-0.03409090909090917
+2,disease_on_drugs,29,29,-0.1724137931034483

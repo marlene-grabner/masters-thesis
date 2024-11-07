@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Dermatitis nodes,sAB
+0,disease_on_genes,27,26,0.15669515669515688
+1,disease_on_symptoms,21,25,0.6829813664596274
+2,disease_on_drugs,23,24,0.08321769966080783

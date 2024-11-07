@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.07402031930333819
+1,disease_on_symptoms,28,17,0.8187908496732028
+2,disease_on_drugs,23,26,0.77653402498123

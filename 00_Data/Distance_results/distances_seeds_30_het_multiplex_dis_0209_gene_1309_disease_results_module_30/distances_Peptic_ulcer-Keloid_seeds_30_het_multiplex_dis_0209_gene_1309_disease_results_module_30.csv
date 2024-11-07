@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.09433962264150941
+1,disease_on_symptoms,20,17,0.3741255961844199
+2,disease_on_drugs,30,22,0.2324009324009324

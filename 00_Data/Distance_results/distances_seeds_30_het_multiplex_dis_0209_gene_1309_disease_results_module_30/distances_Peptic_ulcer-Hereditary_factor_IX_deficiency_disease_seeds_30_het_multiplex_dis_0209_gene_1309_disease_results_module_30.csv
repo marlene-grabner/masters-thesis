@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.0535714285714286
+1,disease_on_symptoms,20,18,0.9396198830409359
+2,disease_on_drugs,30,26,0.2111721611721611

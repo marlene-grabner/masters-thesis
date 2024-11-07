@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,0.13722473604826546
+1,disease_on_symptoms,24,17,1.4927367288378768
+2,disease_on_drugs,24,24,0.5416666666666667

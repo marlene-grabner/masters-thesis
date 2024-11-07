@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.30188679245283023
+1,disease_on_symptoms,18,19,-0.028923660502607973
+2,disease_on_drugs,27,19,-0.3210017798118485

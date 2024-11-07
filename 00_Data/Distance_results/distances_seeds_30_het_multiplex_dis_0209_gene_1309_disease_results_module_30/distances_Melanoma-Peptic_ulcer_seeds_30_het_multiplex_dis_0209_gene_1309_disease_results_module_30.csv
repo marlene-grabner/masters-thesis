@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,27,30,-0.22904483430799227
+1,disease_on_symptoms,23,20,-0.3257583417593528
+2,disease_on_drugs,25,30,-0.05878787878787883

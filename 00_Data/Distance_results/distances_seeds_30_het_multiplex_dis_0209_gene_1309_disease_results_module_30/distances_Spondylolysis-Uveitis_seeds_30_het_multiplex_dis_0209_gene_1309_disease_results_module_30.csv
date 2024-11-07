@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Uveitis nodes,sAB
+0,disease_on_genes,28,30,0.17241379310344818
+1,disease_on_symptoms,17,20,0.588871224165342
+2,disease_on_drugs,19,23,-0.09371254222512793

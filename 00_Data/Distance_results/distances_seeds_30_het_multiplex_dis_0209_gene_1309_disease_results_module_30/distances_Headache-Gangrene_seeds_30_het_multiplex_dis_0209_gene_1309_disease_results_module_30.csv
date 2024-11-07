@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,23,22,-0.31249451032059716
+2,disease_on_drugs,23,27,-0.18528180354267332

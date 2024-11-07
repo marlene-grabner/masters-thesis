@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,26,0.15094339622641506
+1,disease_on_symptoms,24,17,2.083632233381157
+2,disease_on_drugs,25,23,0.7515942028985505

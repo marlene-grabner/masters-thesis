@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.1244588744588746
+1,disease_on_symptoms,16,23,1.1948508918617615
+2,disease_on_drugs,23,14,0.6486486486486487

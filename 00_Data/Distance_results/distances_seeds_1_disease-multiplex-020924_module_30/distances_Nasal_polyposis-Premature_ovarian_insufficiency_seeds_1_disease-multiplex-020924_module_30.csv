@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,15,23,0.5982456140350878
+1,disease_on_symptoms,25,22,1.2874274661508704
+2,disease_on_drugs,10,17,0.6265795206971678

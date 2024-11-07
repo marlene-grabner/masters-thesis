@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,23,12,0.4359730848861285
+1,disease_on_symptoms,21,27,1.9837962962962963
+2,disease_on_drugs,19,9,0.6746031746031746

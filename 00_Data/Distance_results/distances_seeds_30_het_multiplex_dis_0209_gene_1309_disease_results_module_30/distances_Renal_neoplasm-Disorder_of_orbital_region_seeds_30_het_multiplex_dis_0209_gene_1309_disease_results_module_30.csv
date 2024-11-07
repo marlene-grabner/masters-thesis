@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,30,-0.10141242937853101
+1,disease_on_symptoms,20,18,0.5536549707602338
+2,disease_on_drugs,28,28,0.1785714285714286

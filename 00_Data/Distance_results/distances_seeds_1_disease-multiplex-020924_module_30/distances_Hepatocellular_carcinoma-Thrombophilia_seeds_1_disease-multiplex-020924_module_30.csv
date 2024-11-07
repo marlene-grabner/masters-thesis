@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,23,27,0.33800322061191634
+1,disease_on_symptoms,19,18,1.9237395290026866
+2,disease_on_drugs,19,21,0.5773809523809523

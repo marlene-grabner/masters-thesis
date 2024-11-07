@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.15451559934318548
+1,disease_on_symptoms,14,15,1.205993431855501
+2,disease_on_drugs,29,21,0.6799999999999999

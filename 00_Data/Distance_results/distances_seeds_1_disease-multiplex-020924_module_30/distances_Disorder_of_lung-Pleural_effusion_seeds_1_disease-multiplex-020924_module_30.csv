@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.22797270955165683
+1,disease_on_symptoms,17,20,1.3170508744038154
+2,disease_on_drugs,20,22,0.38095238095238093

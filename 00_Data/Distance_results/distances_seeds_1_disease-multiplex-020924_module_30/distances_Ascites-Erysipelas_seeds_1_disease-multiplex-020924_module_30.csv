@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.20566502463054204
+1,disease_on_symptoms,17,20,-0.0721780604133544
+2,disease_on_drugs,27,27,0.38888888888888884

@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.22063120981881934
+1,disease_on_symptoms,16,13,0.4135444297082227
+2,disease_on_drugs,28,28,-0.10714285714285698

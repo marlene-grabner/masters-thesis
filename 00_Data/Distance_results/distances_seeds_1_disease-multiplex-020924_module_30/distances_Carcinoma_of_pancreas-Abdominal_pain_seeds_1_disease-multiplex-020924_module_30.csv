@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,23,30,0.2685534591194969
+1,disease_on_symptoms,25,24,0.9569897959183673
+2,disease_on_drugs,21,24,0.7805555555555557

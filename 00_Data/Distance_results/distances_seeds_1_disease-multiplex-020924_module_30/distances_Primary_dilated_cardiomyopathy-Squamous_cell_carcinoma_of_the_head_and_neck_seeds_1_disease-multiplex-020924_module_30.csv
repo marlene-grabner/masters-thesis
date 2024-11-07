@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.5448179271708684
+1,disease_on_symptoms,25,25,2.42
+2,disease_on_drugs,7,21,1.357142857142857

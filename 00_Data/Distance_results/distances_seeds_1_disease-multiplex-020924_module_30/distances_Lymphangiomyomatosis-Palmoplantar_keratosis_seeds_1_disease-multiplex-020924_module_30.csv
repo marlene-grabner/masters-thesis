@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,26,26,0.34615384615384626
+1,disease_on_symptoms,19,19,0.7894736842105261
+2,disease_on_drugs,22,18,0.2585858585858585

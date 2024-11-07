@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,23,27,0.3577455716586151
+1,disease_on_symptoms,21,20,1.683246225319396
+2,disease_on_drugs,21,15,0.6507936507936509

@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.018421052631579116
+1,disease_on_symptoms,20,21,0.8003774680603948
+2,disease_on_drugs,29,24,0.11544404684450216

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,22,24,0.27766798418972316
+1,disease_on_symptoms,23,17,0.9494245524296676
+2,disease_on_drugs,17,23,0.8759590792838874

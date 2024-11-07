@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,21,30,-0.14145658263305316
+1,disease_on_symptoms,20,16,0.22777777777777763
+2,disease_on_drugs,21,29,-0.08830870279146152

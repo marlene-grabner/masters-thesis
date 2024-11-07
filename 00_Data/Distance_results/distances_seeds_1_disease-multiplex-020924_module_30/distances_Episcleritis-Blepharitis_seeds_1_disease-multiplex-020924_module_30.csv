@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,-0.6249999999999999
+1,disease_on_symptoms,22,27,-0.539287432144575
+2,disease_on_drugs,29,19,-0.5763384754990926

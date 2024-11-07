@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,2.220446049250313e-16
+1,disease_on_symptoms,17,24,0.24506814921090392
+2,disease_on_drugs,25,24,0.02200680272108846

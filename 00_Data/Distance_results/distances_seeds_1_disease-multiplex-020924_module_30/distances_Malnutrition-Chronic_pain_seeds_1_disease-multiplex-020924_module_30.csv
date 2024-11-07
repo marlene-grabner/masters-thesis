@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,26,30,-0.07417582417582402
+1,disease_on_symptoms,18,22,0.23459595959595947
+2,disease_on_drugs,23,28,0.23704481792717091

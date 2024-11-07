@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,29,26,0.2009404388714735
+1,disease_on_symptoms,17,19,2.0857413140694874
+2,disease_on_drugs,26,24,0.9399358974358973

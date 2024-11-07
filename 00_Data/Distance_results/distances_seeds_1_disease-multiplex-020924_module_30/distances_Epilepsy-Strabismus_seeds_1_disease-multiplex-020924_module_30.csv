@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,13,0.28937728937728924
+1,disease_on_symptoms,18,26,0.45687645687645695
+2,disease_on_drugs,30,9,0.1072649572649571

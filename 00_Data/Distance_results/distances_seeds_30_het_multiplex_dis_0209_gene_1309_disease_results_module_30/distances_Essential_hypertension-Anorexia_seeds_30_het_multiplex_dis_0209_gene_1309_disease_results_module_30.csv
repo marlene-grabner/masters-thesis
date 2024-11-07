@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Anorexia nodes,sAB
+0,disease_on_genes,28,29,-0.12250453720508159
+1,disease_on_symptoms,13,13,0.3076923076923077
+2,disease_on_drugs,28,28,-0.05357142857142838

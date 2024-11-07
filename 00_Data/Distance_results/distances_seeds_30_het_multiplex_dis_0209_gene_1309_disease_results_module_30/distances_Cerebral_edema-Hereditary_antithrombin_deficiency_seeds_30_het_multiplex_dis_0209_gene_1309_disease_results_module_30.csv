@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,30,28,-0.13793103448275867
+1,disease_on_symptoms,10,16,-0.2625000000000002
+2,disease_on_drugs,16,23,-0.42443561872909696

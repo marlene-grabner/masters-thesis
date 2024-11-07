@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.1039408866995073
+1,disease_on_symptoms,23,20,0.7604651162790697
+2,disease_on_drugs,30,27,0.1456140350877193

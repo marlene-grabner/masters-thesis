@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,0.1651851851851851
+1,disease_on_symptoms,20,20,1.5
+2,disease_on_drugs,20,22,0.42012987012987013

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.26608187134502925
+1,disease_on_symptoms,20,18,-0.14809941520467818
+2,disease_on_drugs,30,25,-0.1333333333333333

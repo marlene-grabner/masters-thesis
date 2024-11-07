@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,23,24,0.1045135676842428
+1,disease_on_symptoms,19,17,2.5884932920536636
+2,disease_on_drugs,11,23,1.4117647058823528

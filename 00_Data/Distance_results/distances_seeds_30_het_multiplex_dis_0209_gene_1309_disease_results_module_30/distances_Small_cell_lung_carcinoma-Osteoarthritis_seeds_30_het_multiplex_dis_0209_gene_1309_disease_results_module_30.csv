@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.34203296703296693
+1,disease_on_symptoms,19,22,-0.3501283697047497
+2,disease_on_drugs,30,25,-0.3815151515151515

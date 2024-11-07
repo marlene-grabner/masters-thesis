@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,29,30,0.03418079096045212
+1,disease_on_symptoms,23,22,0.39670619235836657
+2,disease_on_drugs,26,29,-0.003472389679286314

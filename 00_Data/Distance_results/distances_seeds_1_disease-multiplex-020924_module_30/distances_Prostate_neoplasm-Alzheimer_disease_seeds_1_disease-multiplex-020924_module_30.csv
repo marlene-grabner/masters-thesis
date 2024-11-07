@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,17,20,0.26275834658187613
+1,disease_on_symptoms,21,23,1.6438923395445135
+2,disease_on_drugs,17,18,1.0268907563025211

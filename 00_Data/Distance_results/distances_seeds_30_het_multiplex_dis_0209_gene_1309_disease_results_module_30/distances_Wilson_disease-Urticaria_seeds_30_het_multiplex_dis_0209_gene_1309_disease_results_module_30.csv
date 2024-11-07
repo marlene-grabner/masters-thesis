@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Urticaria nodes,sAB
+0,disease_on_genes,25,24,-0.020408163265306145
+1,disease_on_symptoms,19,21,0.698934837092732
+2,disease_on_drugs,22,24,-0.0013998682476943358

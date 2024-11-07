@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.5
+1,disease_on_symptoms,25,14,2.1374725274725277
+2,disease_on_drugs,24,13,0.6880630630630633

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,26,0.03846153846153855
+1,disease_on_symptoms,17,19,1.0819573443412451
+2,disease_on_drugs,20,23,-0.021739130434782705

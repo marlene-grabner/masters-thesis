@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,27,30,0.1763157894736842
+1,disease_on_symptoms,17,15,1.1567401960784314
+2,disease_on_drugs,25,29,1.112388250319285

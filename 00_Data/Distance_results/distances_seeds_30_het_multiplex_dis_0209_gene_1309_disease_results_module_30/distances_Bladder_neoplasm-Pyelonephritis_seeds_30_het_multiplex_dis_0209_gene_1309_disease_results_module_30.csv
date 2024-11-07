@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,26,24,-0.10083333333333344
+1,disease_on_symptoms,19,19,0.2894736842105261
+2,disease_on_drugs,25,19,-0.1758373205741628

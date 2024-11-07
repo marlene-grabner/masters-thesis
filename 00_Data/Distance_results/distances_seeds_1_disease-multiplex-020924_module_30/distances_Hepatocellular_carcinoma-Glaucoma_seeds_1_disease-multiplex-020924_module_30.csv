@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Glaucoma nodes,sAB
+0,disease_on_genes,23,30,0.2672135630298058
+1,disease_on_symptoms,19,14,1.108794714057872
+2,disease_on_drugs,19,30,0.8034013605442178

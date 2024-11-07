@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.07115009746588707
+1,disease_on_symptoms,13,19,0.6362601214574899
+2,disease_on_drugs,22,24,0.28417325428194995

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.15094339622641506
+1,disease_on_symptoms,13,20,1.7217365967365965
+2,disease_on_drugs,22,20,0.763961038961039

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333333
+1,disease_on_symptoms,13,16,0.5370523872679043
+2,disease_on_drugs,18,30,0.9166666666666665

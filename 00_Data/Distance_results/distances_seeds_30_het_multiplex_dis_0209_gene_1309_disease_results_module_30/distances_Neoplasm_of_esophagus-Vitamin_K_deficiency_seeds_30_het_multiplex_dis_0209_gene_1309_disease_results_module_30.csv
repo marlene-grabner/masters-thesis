@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,-0.20242656449552998
+1,disease_on_symptoms,20,21,0.8278164924506386
+2,disease_on_drugs,25,21,-0.27122153209109734

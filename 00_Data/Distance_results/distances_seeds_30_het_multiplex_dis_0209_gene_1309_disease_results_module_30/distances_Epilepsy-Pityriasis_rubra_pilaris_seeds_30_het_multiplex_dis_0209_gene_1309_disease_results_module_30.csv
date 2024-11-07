@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.10633528265107228
+1,disease_on_symptoms,21,21,0.8809523809523809
+2,disease_on_drugs,29,25,0.17008939974457205

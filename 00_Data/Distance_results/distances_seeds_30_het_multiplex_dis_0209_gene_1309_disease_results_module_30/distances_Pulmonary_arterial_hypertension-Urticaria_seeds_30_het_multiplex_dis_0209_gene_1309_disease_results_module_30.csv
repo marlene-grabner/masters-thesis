@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Urticaria nodes,sAB
+0,disease_on_genes,28,24,-0.05769230769230771
+1,disease_on_symptoms,17,21,0.3262568185168808
+2,disease_on_drugs,25,24,-0.2237585034013605

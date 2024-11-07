@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.1773809523809523
+1,disease_on_symptoms,17,16,0.25640597147950084
+2,disease_on_drugs,26,26,-0.23076923076923084

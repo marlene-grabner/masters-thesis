@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,30,-0.11090909090909096
+1,disease_on_symptoms,20,18,-0.03669590643274856
+2,disease_on_drugs,22,28,-0.15701298701298683

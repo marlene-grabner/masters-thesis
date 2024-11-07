@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,27,0.5419103313840155
+1,disease_on_symptoms,25,19,1.6841626794258375
+2,disease_on_drugs,7,27,0.7521008403361344

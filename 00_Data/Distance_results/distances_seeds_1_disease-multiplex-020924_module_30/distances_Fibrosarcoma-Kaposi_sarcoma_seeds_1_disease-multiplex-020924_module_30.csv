@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,22,15,0.10716625716625705
+1,disease_on_symptoms,24,27,0.36274509803921573
+2,disease_on_drugs,13,13,0.0

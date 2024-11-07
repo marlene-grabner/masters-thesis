@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.07280219780219777
+1,disease_on_symptoms,21,22,0.12876271015805907
+2,disease_on_drugs,29,25,-0.020153256704980915

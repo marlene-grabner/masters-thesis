@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Emphysema nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,20,18,0.5587719298245615
+2,disease_on_drugs,20,27,0.07742316784869985

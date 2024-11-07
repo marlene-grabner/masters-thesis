@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.0370370370370372
+1,disease_on_symptoms,25,16,0.025396341463414407
+2,disease_on_drugs,24,27,-0.05909586056644889

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.034157509157509036
+1,disease_on_symptoms,21,18,0.936202686202686
+2,disease_on_drugs,26,25,0.15683257918552052

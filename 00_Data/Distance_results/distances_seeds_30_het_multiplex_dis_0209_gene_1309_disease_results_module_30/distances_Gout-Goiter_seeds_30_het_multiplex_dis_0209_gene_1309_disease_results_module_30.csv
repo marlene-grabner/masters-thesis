@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,0.20436507936507953
+1,disease_on_symptoms,19,12,1.1319326542161858
+2,disease_on_drugs,22,18,0.20429292929292941

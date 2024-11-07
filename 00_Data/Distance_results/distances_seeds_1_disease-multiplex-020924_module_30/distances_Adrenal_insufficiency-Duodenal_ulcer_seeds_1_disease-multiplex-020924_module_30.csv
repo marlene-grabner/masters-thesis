@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,17,28,0.37212885154061603
+1,disease_on_symptoms,21,17,1.2459088898717383
+2,disease_on_drugs,14,28,0.7619047619047619

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,18,29,0.28220021195076206
+1,disease_on_symptoms,28,21,0.08588435374149661
+2,disease_on_drugs,17,28,0.2876050420168066

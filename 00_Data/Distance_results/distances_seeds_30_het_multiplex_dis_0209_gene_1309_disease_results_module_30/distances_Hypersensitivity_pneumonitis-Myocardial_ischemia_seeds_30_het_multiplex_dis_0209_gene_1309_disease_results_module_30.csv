@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,-0.3439393939393939
+1,disease_on_symptoms,20,19,-0.435863697705803
+2,disease_on_drugs,25,30,-0.42242424242424237

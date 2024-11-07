@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.2158508158508159
+1,disease_on_symptoms,15,25,-0.16666666666666674
+2,disease_on_drugs,21,18,0.001831501831501825

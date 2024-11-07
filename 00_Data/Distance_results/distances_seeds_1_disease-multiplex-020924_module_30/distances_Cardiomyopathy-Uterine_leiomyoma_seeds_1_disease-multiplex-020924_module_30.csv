@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,25,24,-0.06295918367346953
+1,disease_on_symptoms,17,21,0.4225269054990417
+2,disease_on_drugs,24,18,0.2162698412698414

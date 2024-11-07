@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,25,0.3305882352941176
+1,disease_on_symptoms,15,13,2.422344322344322
+2,disease_on_drugs,26,16,0.5431547619047619

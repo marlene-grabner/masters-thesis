@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,29,30,-0.13559322033898302
+1,disease_on_symptoms,19,11,0.5177033492822964
+2,disease_on_drugs,29,21,-0.03668308702791445

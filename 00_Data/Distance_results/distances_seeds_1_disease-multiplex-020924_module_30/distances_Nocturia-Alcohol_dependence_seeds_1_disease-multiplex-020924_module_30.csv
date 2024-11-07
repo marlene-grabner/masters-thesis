@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,21,12,0.2334656084656086
+1,disease_on_symptoms,24,27,1.8612472766884531
+2,disease_on_drugs,14,9,0.6078329882677707

@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,17,27,0.25425826896415127
+1,disease_on_symptoms,25,16,0.13530487804878044
+2,disease_on_drugs,13,18,0.4454094292803972

@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,28,26,0.12962962962962954
+1,disease_on_symptoms,25,21,0.7852587991718427
+2,disease_on_drugs,24,26,0.2971794871794873

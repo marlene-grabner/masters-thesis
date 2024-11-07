@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,23,30,-0.26415094339622647
+1,disease_on_symptoms,23,19,0.3551814318404709
+2,disease_on_drugs,22,30,-0.07365967365967352

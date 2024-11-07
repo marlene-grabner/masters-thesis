@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.2577385835384194
+1,disease_on_symptoms,21,20,1.1211672473867593
+2,disease_on_drugs,27,20,0.40328999211977945

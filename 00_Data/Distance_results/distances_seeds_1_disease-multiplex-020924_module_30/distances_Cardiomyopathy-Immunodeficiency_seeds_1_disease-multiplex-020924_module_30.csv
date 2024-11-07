@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,25,22,0.4237330754352029
+1,disease_on_symptoms,17,19,1.553061575507396
+2,disease_on_drugs,24,18,0.501984126984127

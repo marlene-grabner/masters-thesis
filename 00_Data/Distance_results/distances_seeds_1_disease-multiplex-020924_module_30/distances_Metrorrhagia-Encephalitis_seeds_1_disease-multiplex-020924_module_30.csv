@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,28,0.34610389610389625
+1,disease_on_symptoms,17,17,0.8529411764705883
+2,disease_on_drugs,26,18,0.8706293706293708

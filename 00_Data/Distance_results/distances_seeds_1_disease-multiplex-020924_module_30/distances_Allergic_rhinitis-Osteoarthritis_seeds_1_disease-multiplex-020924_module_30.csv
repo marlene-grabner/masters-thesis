@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,21,25,0.304016563146998
+1,disease_on_symptoms,22,20,1.7935064935064937
+2,disease_on_drugs,21,21,0.30952380952380953

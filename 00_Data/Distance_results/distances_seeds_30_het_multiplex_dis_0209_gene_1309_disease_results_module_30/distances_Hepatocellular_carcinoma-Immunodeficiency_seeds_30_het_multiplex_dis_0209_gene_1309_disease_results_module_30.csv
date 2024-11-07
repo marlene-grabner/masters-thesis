@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,24,26,0.020000000000000018
+1,disease_on_symptoms,23,21,0.8314041031432335
+2,disease_on_drugs,22,26,0.33916083916083917

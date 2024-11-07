@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.1568627450980392
+1,disease_on_symptoms,16,23,0.7409420289855073
+2,disease_on_drugs,28,21,-0.05782312925170063

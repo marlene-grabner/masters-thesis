@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,30,0.0847457627118644
+1,disease_on_symptoms,19,15,0.59453044375645
+2,disease_on_drugs,29,21,0.1242692939244665

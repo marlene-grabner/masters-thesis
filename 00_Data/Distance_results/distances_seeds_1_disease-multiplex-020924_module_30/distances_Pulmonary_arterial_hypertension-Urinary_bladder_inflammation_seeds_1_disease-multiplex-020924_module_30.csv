@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,28,25,0.3183692722371967
+1,disease_on_symptoms,18,22,1.2558080808080807
+2,disease_on_drugs,26,24,0.7774358974358972

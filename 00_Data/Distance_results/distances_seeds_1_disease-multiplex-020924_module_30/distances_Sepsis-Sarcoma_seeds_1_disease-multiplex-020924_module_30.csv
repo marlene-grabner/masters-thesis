@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,22,25,0.26934235976789167
+1,disease_on_symptoms,23,26,1.5024742338406936
+2,disease_on_drugs,17,21,1.046439628482972

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.03708791208791207
+1,disease_on_symptoms,15,25,0.7133333333333334
+2,disease_on_drugs,29,25,0.15243933588761194

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.04833333333333312
+1,disease_on_symptoms,14,24,0.5665726817042605
+2,disease_on_drugs,29,18,0.1229314420803782

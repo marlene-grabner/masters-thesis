@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,-0.06416666666666648
+1,disease_on_symptoms,17,20,1.1333465818759936
+2,disease_on_drugs,23,22,0.3777558190601671

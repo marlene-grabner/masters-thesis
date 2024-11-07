@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,22,-0.3090909090909091
+2,disease_on_drugs,29,29,-0.12068965517241392

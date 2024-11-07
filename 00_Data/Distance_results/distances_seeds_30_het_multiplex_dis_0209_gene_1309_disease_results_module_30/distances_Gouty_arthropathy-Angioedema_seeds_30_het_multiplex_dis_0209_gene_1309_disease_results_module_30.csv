@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Angioedema nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,18,18,0.2777777777777779
+2,disease_on_drugs,23,26,-0.006245307487543705

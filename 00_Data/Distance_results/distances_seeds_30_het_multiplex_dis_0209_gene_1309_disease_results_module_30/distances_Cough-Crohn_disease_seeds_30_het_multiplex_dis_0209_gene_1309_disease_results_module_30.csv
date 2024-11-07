@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,26,0.0
+1,disease_on_symptoms,22,22,0.8863636363636362
+2,disease_on_drugs,24,24,0.3125

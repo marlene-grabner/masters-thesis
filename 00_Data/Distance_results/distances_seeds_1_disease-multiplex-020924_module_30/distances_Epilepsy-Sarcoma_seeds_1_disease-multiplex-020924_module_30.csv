@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,25,0.3148148148148149
+1,disease_on_symptoms,18,26,1.8729603729603728
+2,disease_on_drugs,30,21,1.4931372549019608

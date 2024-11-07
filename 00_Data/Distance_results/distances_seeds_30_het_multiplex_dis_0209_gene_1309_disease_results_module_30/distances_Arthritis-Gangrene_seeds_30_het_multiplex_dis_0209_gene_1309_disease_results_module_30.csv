@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.22807017543859653
+1,disease_on_symptoms,20,22,-0.4996753246753247
+2,disease_on_drugs,29,27,-0.10869366903849653

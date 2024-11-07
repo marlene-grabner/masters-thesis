@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,22,0.2932728647014362
+1,disease_on_symptoms,21,24,1.1212301587301587
+2,disease_on_drugs,23,19,0.4785877737822817

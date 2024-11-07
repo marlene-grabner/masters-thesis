@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.27660650806672127
+1,disease_on_symptoms,14,25,0.5167765567765568
+2,disease_on_drugs,24,22,0.3892457180500657

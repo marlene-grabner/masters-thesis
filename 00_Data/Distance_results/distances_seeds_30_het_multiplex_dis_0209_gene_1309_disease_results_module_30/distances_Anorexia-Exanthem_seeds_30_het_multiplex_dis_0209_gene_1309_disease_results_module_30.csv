@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,30,-0.2033995714007404
+1,disease_on_symptoms,13,21,0.08942038353803072
+2,disease_on_drugs,28,29,0.06952726644196705

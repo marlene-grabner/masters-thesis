@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,0.31371040723981913
+1,disease_on_symptoms,21,20,1.0003484320557492
+2,disease_on_drugs,25,21,0.5034782608695652

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,21,28,0.35629251700680276
+1,disease_on_symptoms,22,15,2.644471744471744
+2,disease_on_drugs,21,20,0.661411149825784

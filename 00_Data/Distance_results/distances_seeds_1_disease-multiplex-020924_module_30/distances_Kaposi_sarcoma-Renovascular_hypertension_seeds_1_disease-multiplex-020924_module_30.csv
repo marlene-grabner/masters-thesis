@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,15,21,0.05238095238095242
+1,disease_on_symptoms,27,22,3.0485466914038337
+2,disease_on_drugs,13,20,0.7234848484848484

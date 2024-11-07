@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.2142857142857143
+1,disease_on_symptoms,18,16,0.6868872549019605
+2,disease_on_drugs,27,26,-0.1705773262377035

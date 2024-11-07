@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,10,22,0.04431818181818192
+2,disease_on_drugs,16,26,-0.1051968864468864

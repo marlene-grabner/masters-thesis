@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,26,26,0.25
+1,disease_on_symptoms,21,17,1.3267728143889137
+2,disease_on_drugs,24,25,0.7351020408163265

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,26,0.2742424242424244
+1,disease_on_symptoms,16,25,0.7632012195121951
+2,disease_on_drugs,27,24,0.4681372549019609

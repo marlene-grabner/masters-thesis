@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.03386699507389168
+1,disease_on_symptoms,19,15,0.13766769865841066
+2,disease_on_drugs,25,23,0.020398550724637587

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,10,19,0.28638838475499107
+2,disease_on_drugs,16,30,0.052264492753623326

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,-0.04988344988344995
+1,disease_on_symptoms,14,19,0.06652996126680333
+2,disease_on_drugs,24,19,-0.2099398204814361

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.5178571428571428
+1,disease_on_symptoms,20,18,-0.8788011695906432
+2,disease_on_drugs,29,25,-0.6040613026819923

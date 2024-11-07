@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,14,23,0.3103491690448208
+2,disease_on_drugs,24,26,0.06198717948717958

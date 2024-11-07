@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Cough nodes,sAB
+0,disease_on_genes,27,27,-0.09259259259259256
+1,disease_on_symptoms,21,22,0.5101932950770158
+2,disease_on_drugs,25,24,-0.019251700680272155

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,0.13793103448275867
+1,disease_on_symptoms,18,14,0.4275793650793651
+2,disease_on_drugs,23,25,0.18510869565217392

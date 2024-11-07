@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.46676413255360605
+1,disease_on_symptoms,16,20,1.2069444444444446
+2,disease_on_drugs,18,22,0.9750000000000001

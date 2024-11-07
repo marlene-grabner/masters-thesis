@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,22,19,0.2064126502509045
+2,disease_on_drugs,29,30,0.06804987336840052

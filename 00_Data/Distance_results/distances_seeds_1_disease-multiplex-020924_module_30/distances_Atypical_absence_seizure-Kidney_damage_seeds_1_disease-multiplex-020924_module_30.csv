@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,0.20612244897959164
+1,disease_on_symptoms,15,26,1.490587867417136
+2,disease_on_drugs,27,13,0.8206552706552706

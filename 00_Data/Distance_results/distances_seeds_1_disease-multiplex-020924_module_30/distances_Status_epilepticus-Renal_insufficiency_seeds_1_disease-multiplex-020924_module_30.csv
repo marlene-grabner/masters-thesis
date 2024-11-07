@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,20,0.13888106966924685
+1,disease_on_symptoms,17,23,2.1092710997442454
+2,disease_on_drugs,30,17,0.7171464330413015

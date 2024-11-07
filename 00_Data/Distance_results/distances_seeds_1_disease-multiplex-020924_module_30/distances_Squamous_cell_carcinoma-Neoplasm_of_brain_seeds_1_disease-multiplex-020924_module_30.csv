@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,16,22,0.03648325358851667
+1,disease_on_symptoms,26,23,0.8970377448638316
+2,disease_on_drugs,14,20,0.008823529411764675

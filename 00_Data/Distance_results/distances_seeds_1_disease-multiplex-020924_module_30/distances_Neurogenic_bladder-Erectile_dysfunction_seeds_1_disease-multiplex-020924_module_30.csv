@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,17,16,1.303531639928699
+2,disease_on_drugs,26,30,0.7178571428571427

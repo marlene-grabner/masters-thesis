@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.1972027972027972
+1,disease_on_symptoms,17,19,0.46646026831785337
+2,disease_on_drugs,28,18,0.3930296756383713

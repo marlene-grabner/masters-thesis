@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,21,18,1.0296092796092797
+2,disease_on_drugs,27,22,0.1966948395519823

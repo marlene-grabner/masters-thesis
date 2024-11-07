@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,0.2613132209405502
+1,disease_on_symptoms,15,20,1.1773809523809524
+2,disease_on_drugs,21,20,0.5864982578397211

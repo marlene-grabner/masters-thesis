@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,-0.0006157635467980427
+1,disease_on_symptoms,19,19,0.2894736842105263
+2,disease_on_drugs,24,25,0.3035204081632652

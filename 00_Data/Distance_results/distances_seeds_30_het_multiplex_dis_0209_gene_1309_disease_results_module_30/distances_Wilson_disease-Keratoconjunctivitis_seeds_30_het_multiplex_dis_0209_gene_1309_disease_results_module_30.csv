@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,25,29,0.03703703703703698
+1,disease_on_symptoms,19,20,0.662854251012146
+2,disease_on_drugs,22,27,0.008761080189651604

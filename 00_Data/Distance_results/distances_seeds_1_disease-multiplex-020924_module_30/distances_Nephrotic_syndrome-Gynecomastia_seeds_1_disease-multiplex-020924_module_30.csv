@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,20,30,0.19500000000000006
+1,disease_on_symptoms,24,16,0.5166666666666666
+2,disease_on_drugs,18,24,0.22718253968253976

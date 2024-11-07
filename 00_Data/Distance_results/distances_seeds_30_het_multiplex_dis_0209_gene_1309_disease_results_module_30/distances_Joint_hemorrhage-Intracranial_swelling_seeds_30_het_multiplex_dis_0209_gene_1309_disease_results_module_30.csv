@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,17,11,0.883116883116883
+2,disease_on_drugs,26,21,0.4154976229444316

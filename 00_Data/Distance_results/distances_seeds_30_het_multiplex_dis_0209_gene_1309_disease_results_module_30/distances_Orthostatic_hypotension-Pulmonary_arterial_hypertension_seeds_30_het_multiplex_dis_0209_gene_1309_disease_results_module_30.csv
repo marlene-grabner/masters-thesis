@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.10344827586206895
+1,disease_on_symptoms,20,17,0.007869634340222698
+2,disease_on_drugs,28,25,0.002183288409703499

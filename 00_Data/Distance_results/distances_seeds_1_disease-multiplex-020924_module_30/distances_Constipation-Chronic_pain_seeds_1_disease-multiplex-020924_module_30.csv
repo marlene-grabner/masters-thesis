@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,22,0.2606266282736869
+2,disease_on_drugs,27,28,0.34544252044252044

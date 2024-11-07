@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.337037037037037
+1,disease_on_symptoms,18,27,0.8407407407407406
+2,disease_on_drugs,21,17,0.811514079315937

@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,West_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.11835184102863838
+1,disease_on_symptoms,20,13,1.3640442890442888
+2,disease_on_drugs,24,19,0.5628569971440227

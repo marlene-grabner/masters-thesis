@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,22,21,0.09302325581395343
+1,disease_on_symptoms,17,20,1.1548887122416536
+2,disease_on_drugs,21,19,0.22725563909774427

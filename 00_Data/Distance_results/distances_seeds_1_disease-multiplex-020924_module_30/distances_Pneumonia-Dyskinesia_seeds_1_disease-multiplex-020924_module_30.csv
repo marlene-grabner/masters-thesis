@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.24212962962962958
+1,disease_on_symptoms,26,17,1.042907502893823
+2,disease_on_drugs,28,23,1.0392156862745097

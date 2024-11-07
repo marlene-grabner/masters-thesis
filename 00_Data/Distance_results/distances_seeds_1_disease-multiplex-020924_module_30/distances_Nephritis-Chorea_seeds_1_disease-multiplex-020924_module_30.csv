@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Chorea nodes,sAB
+0,disease_on_genes,30,14,0.577922077922078
+1,disease_on_symptoms,18,27,1.6055555555555554
+2,disease_on_drugs,27,8,0.8449074074074074

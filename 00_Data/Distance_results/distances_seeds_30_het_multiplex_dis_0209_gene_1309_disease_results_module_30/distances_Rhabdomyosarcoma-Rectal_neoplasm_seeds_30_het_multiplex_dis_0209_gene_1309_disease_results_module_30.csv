@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,29,30,-0.5081920903954802
+1,disease_on_symptoms,19,20,-0.6374831309041836
+2,disease_on_drugs,29,29,-0.5517241379310344

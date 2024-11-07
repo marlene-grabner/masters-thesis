@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,23,19,1.2304674730304024
+2,disease_on_drugs,29,30,0.08386908240794866

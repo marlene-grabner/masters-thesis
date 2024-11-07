@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,23,30,0.16515151515151505
+1,disease_on_symptoms,18,14,0.810515873015873
+2,disease_on_drugs,18,24,0.24107142857142838

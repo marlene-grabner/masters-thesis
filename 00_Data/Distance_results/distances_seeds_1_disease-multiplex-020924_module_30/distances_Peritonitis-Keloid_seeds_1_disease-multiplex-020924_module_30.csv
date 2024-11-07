@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.12377622377622366
+1,disease_on_symptoms,17,20,1.2174085850556438
+2,disease_on_drugs,28,19,0.3898176291793314

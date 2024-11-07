@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,25,30,0.1963636363636363
+1,disease_on_symptoms,14,16,0.5687500000000001
+2,disease_on_drugs,22,30,1.2115384615384617

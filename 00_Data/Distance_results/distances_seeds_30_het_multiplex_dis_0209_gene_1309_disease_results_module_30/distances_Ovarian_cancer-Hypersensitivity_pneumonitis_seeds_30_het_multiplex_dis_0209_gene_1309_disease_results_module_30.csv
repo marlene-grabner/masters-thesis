@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,25,-0.09615384615384615
+1,disease_on_symptoms,17,20,0.5059220985691573
+2,disease_on_drugs,17,25,0.033445378151260474

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.12838827838827815
+1,disease_on_symptoms,20,21,1.4149825783972125
+2,disease_on_drugs,24,25,1.2856802721088436

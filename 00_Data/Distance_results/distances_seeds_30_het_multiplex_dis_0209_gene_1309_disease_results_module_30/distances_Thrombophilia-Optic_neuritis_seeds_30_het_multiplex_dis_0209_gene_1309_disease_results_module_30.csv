@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.0
+1,disease_on_symptoms,18,21,0.46550671550671563
+2,disease_on_drugs,22,27,0.3845770631484917

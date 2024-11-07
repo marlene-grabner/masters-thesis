@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,29,28,-0.07017543859649122
+1,disease_on_symptoms,23,17,0.26118925831202056
+2,disease_on_drugs,26,25,-0.00048265460030183505

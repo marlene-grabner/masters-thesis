@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.6130604288499024
+1,disease_on_symptoms,25,18,2.9116795865633076
+2,disease_on_drugs,7,21,0.5595238095238095

@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,-0.1428571428571429
+1,disease_on_symptoms,21,20,0.5861498257839721
+2,disease_on_drugs,25,27,-0.1891452991452991

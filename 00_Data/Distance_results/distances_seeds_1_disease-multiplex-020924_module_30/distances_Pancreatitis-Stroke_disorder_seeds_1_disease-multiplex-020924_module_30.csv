@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,20,15,0.736904761904762
+2,disease_on_drugs,30,30,0.46666666666666656

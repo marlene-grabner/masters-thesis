@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Back_pain nodes,sAB
+0,disease_on_genes,27,30,-0.07309941520467844
+1,disease_on_symptoms,18,15,0.5656565656565657
+2,disease_on_drugs,25,23,-0.17065217391304355

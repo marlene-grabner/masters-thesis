@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,25,27,-0.038461538461538436
+1,disease_on_symptoms,19,21,-0.13082706766917296
+2,disease_on_drugs,22,25,0.0002321083172147631

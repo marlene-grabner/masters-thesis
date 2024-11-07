@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,27,30,-0.19122807017543852
+1,disease_on_symptoms,21,19,0.194172932330827
+2,disease_on_drugs,25,24,-0.10010204081632645

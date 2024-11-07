@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,0.07204433497536944
+1,disease_on_symptoms,18,21,0.7176434676434675
+2,disease_on_drugs,28,24,0.5034340659340659

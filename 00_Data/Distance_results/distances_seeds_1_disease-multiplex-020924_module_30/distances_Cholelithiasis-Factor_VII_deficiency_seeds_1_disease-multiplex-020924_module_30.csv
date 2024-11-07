@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.6599999999999999
+1,disease_on_symptoms,19,23,2.582161926555519
+2,disease_on_drugs,18,21,1.309218559218559

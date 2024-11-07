@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,22,28,0.2482993197278911
+1,disease_on_symptoms,26,19,0.9569950517318939
+2,disease_on_drugs,12,28,1.657142857142857

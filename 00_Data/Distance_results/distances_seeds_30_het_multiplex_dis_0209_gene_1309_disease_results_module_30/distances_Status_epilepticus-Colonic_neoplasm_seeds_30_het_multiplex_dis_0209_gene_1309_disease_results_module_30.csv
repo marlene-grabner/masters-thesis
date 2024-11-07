@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,18,19,-0.13422633159475272
+2,disease_on_drugs,30,29,-0.016393921683226287

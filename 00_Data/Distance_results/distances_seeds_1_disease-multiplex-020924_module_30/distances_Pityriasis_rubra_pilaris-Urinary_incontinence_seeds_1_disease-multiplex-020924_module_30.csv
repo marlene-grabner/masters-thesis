@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,28,26,0.30982905982905984
+1,disease_on_symptoms,23,20,1.0430990899898887
+2,disease_on_drugs,26,20,0.5267558528428096

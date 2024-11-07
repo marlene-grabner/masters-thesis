@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.18842364532019706
+1,disease_on_symptoms,21,20,0.5382113821138212
+2,disease_on_drugs,29,27,0.4833743842364533

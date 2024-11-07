@@ -1,0 +1,4 @@
+,Layer,Conjunctivitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,0.05840455840455827
+1,disease_on_symptoms,27,22,0.874115302686731
+2,disease_on_drugs,26,25,-0.05846153846153834

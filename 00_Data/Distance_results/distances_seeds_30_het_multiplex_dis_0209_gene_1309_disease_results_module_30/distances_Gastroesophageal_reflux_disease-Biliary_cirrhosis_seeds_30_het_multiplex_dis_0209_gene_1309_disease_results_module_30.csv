@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,-0.03846153846153855
+1,disease_on_symptoms,18,22,0.7116161616161614
+2,disease_on_drugs,25,25,0.24

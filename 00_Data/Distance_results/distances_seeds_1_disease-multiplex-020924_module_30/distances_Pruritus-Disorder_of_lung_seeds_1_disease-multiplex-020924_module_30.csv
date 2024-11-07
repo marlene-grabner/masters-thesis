@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,26,27,0.017635327635327602
+1,disease_on_symptoms,19,17,0.897574819401445
+2,disease_on_drugs,24,20,-0.022727272727272707

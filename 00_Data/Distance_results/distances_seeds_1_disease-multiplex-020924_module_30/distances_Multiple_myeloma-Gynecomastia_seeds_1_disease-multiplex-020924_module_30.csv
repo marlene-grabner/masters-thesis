@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,0.1785714285714286
+1,disease_on_symptoms,21,16,0.30461711711711725
+2,disease_on_drugs,25,24,0.244438775510204

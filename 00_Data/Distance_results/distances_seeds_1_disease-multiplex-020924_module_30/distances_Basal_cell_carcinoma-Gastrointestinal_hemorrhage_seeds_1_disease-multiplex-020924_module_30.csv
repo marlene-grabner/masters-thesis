@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,27,0.24561898618502376
+1,disease_on_symptoms,23,19,0.6277105807998256
+2,disease_on_drugs,25,27,1.076923076923077

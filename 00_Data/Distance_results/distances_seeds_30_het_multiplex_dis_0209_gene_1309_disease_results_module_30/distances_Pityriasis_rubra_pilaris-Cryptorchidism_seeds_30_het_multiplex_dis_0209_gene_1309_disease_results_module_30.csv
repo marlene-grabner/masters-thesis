@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,0.0012238325281803686
+1,disease_on_symptoms,21,19,0.9561403508771931
+2,disease_on_drugs,25,21,0.3523395445134574

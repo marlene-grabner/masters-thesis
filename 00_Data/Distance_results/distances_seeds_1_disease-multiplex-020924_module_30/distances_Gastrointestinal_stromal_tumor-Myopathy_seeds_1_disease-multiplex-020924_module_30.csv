@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Myopathy nodes,sAB
+0,disease_on_genes,23,18,0.4631200659832684
+1,disease_on_symptoms,20,21,0.729152148664344
+2,disease_on_drugs,19,6,0.9133333333333336

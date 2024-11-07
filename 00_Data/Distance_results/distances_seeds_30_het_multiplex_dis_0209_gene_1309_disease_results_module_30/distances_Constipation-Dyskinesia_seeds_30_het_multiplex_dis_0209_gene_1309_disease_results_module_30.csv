@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,16,15,0.1909274193548387
+2,disease_on_drugs,28,28,-0.2321428571428571

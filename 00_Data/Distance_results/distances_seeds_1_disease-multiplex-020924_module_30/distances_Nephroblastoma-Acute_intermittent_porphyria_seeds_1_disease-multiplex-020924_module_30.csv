@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,25,27,0.3645014245014242
+1,disease_on_symptoms,25,20,1.9238888888888888
+2,disease_on_drugs,21,15,1.0833333333333335

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,16,23,0.0879319955406912
+1,disease_on_symptoms,26,19,0.37291947818263593
+2,disease_on_drugs,14,19,-0.030303030303030276

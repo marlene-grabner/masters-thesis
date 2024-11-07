@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,29,30,0.45790960451977414
+1,disease_on_symptoms,18,15,1.2383838383838381
+2,disease_on_drugs,22,26,0.8365384615384617

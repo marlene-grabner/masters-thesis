@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.7000000000000002
+1,disease_on_symptoms,16,25,3.2921646341463418
+2,disease_on_drugs,23,7,1.1633540372670805

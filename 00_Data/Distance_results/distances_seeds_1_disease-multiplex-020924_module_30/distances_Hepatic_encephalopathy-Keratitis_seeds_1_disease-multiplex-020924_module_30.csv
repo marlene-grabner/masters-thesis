@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Keratitis nodes,sAB
+0,disease_on_genes,9,28,-0.34051909051909046
+1,disease_on_symptoms,27,25,-0.35495726495726476
+2,disease_on_drugs,9,23,-0.19021739130434767

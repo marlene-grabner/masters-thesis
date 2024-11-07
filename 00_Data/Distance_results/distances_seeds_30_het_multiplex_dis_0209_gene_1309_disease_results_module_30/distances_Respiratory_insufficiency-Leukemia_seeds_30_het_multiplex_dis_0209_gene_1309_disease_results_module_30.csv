@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,21,21,0.5952380952380953
+2,disease_on_drugs,25,30,0.2603030303030305

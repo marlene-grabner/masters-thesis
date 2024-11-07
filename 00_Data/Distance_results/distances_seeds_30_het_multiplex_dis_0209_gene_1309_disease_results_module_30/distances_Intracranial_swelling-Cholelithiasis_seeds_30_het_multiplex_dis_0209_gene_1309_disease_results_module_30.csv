@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.018181818181818077
+1,disease_on_symptoms,11,20,0.58841642228739
+2,disease_on_drugs,21,18,0.025335775335775468

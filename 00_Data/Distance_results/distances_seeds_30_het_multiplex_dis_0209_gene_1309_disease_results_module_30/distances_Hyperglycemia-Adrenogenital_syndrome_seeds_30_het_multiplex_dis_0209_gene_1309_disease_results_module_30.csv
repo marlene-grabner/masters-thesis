@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,9,-0.11085972850678738
+2,disease_on_drugs,26,23,0.07938024708211033

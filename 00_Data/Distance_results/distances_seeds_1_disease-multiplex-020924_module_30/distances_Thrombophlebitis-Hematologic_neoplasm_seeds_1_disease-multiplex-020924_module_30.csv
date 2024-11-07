@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,22,0.14428571428571435
+1,disease_on_symptoms,15,24,0.42660256410256414
+2,disease_on_drugs,21,19,0.6197368421052634

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,24,30,0.07175925925925908
+1,disease_on_symptoms,22,14,0.6370851370851371
+2,disease_on_drugs,24,27,0.002178649237472685

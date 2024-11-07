@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,28,27,0.2727272727272727
+1,disease_on_symptoms,23,24,0.7634520505704596
+2,disease_on_drugs,26,25,0.3917345399698342

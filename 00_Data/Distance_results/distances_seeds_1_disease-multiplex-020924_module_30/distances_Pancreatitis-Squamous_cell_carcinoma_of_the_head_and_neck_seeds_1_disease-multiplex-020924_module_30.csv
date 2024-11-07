@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.22324929971988783
+1,disease_on_symptoms,20,25,1.4105555555555558
+2,disease_on_drugs,30,21,1.0980392156862746

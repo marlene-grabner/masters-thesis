@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,27,-0.14814814814814814
+1,disease_on_symptoms,16,18,0.24897875816993476
+2,disease_on_drugs,23,22,-0.15757575757575748

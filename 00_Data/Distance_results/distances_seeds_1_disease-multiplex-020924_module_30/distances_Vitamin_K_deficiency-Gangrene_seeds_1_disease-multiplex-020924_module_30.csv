@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Gangrene nodes,sAB
+0,disease_on_genes,25,26,0.17450980392156845
+1,disease_on_symptoms,23,19,1.8722894192001744
+2,disease_on_drugs,20,23,0.4398887765419617

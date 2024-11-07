@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,25,30,0.38181818181818183
+1,disease_on_symptoms,20,23,1.2622345803842263
+2,disease_on_drugs,18,24,0.28174603174603163

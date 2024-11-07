@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Exanthem nodes,sAB
+0,disease_on_genes,23,28,0.3529411764705883
+1,disease_on_symptoms,25,26,1.0783710407239822
+2,disease_on_drugs,21,28,0.49234693877551017

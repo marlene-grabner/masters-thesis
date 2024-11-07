@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,28,25,-0.036725067385444676
+1,disease_on_symptoms,15,20,0.8654761904761905
+2,disease_on_drugs,23,21,-0.0654997176736305

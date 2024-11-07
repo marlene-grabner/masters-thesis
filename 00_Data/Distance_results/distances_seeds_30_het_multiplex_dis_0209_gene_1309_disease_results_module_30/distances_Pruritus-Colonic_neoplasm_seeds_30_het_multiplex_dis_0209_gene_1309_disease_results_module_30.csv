@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.05272904483430807
+1,disease_on_symptoms,21,19,0.30169172932330834
+2,disease_on_drugs,27,29,0.35511311804415246

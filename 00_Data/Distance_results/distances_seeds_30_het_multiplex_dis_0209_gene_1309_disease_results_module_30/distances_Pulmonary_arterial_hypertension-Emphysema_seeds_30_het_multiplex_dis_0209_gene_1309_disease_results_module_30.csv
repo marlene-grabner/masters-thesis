@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Emphysema nodes,sAB
+0,disease_on_genes,28,30,-0.1724137931034483
+1,disease_on_symptoms,17,18,-0.40056022408963576
+2,disease_on_drugs,25,27,-0.29170940170940163

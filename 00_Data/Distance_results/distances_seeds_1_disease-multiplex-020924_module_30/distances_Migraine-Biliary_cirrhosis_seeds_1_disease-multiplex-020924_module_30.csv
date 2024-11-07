@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.2523809523809526
+1,disease_on_symptoms,14,15,1.133497536945813
+2,disease_on_drugs,29,15,0.7969696969696969

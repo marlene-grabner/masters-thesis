@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Dermatitis nodes,sAB
+0,disease_on_genes,25,30,-0.11090909090909096
+1,disease_on_symptoms,17,14,0.2093385741393332
+2,disease_on_drugs,25,28,0.22706199460916432

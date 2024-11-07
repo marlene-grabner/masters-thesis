@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,0.10614035087719298
+1,disease_on_symptoms,17,25,0.9837535014005603
+2,disease_on_drugs,24,29,0.2387090652786814

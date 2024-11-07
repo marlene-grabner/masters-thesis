@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,22,23,0.3111111111111111
+1,disease_on_symptoms,17,25,1.3695798319327732
+2,disease_on_drugs,21,21,0.8571428571428572

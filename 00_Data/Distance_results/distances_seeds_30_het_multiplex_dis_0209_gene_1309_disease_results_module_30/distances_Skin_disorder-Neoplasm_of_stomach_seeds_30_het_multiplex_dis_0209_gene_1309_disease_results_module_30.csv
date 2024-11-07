@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,25,25,-0.24
+1,disease_on_symptoms,19,23,0.8022229486760382
+2,disease_on_drugs,23,24,-0.06477412889300038

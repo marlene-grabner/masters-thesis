@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.1228070175438597
+1,disease_on_symptoms,13,17,-0.06515837104072375
+2,disease_on_drugs,24,26,-0.2237820512820512

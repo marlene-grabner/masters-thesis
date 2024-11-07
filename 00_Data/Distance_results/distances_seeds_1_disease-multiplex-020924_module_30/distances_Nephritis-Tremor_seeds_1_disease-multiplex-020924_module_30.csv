@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Tremor nodes,sAB
+0,disease_on_genes,30,16,0.14538043478260865
+1,disease_on_symptoms,18,23,1.0233592553316835
+2,disease_on_drugs,27,16,0.5040643841515935

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Ascites nodes,sAB
+0,disease_on_genes,25,30,-0.10757575757575755
+1,disease_on_symptoms,17,22,0.5540586864116279
+2,disease_on_drugs,21,27,0.06018518518518512

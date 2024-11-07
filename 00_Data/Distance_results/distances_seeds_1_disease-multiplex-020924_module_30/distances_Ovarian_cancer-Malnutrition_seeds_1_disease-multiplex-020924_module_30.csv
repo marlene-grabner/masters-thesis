@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Malnutrition nodes,sAB
+0,disease_on_genes,27,26,0.18795355587808427
+1,disease_on_symptoms,17,18,1.6794584500466856
+2,disease_on_drugs,25,23,0.9583333333333333

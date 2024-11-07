@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,24,30,0.06296296296296289
+1,disease_on_symptoms,23,14,-0.026775222427396272
+2,disease_on_drugs,24,30,0.3555555555555556

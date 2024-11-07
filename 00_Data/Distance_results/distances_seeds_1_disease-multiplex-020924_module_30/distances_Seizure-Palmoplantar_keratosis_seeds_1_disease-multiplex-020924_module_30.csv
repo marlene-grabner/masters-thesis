@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,29,26,0.5272727272727273
+1,disease_on_symptoms,25,19,1.5273205741626794
+2,disease_on_drugs,28,18,0.9504830917874396

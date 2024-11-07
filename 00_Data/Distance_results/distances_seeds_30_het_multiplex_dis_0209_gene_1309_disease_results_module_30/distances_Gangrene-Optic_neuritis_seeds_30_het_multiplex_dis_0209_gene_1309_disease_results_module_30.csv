@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.07407407407407407
+1,disease_on_symptoms,22,21,0.8854575656901238
+2,disease_on_drugs,27,27,0.11111111111111094

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,27,30,0.05350877192982462
+1,disease_on_symptoms,16,17,0.6124665775401068
+2,disease_on_drugs,23,26,0.23979591836734704

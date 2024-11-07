@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,10,26,0.41666666666666674
+1,disease_on_symptoms,27,15,1.4116402116402118
+2,disease_on_drugs,9,21,0.9619047619047618

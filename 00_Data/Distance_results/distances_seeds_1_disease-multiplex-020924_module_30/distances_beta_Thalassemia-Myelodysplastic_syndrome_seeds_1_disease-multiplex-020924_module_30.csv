@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,22,26,0.4109848484848484
+1,disease_on_symptoms,21,15,2.7357142857142858
+2,disease_on_drugs,6,21,0.24338624338624326

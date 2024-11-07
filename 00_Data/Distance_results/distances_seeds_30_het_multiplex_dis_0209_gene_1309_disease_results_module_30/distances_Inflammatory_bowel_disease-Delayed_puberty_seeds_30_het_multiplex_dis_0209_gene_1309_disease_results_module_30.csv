@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,16,0.34444444444444455
+2,disease_on_drugs,27,29,-0.0677796022623609

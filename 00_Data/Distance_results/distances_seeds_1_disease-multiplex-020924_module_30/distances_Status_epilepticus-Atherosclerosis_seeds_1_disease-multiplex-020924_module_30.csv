@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,29,30,0.2878433664523672
+1,disease_on_symptoms,17,13,1.282654600301659
+2,disease_on_drugs,30,29,0.423728813559322

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.16889733099551907
+1,disease_on_symptoms,14,16,0.7910714285714286
+2,disease_on_drugs,24,25,0.4077380952380951

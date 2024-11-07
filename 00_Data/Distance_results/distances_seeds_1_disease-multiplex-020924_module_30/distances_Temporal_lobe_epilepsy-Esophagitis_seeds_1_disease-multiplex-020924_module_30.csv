@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Esophagitis nodes,sAB
+0,disease_on_genes,29,24,0.17004959058932068
+1,disease_on_symptoms,17,23,1.6498081841432226
+2,disease_on_drugs,26,20,1.1514214046822742

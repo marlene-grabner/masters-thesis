@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.06173913043478274
+1,disease_on_symptoms,22,19,0.9629478352199787
+2,disease_on_drugs,26,22,0.18633449883449882

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.17818181818181822
+1,disease_on_symptoms,14,12,1.8205128205128212
+2,disease_on_drugs,22,22,0.13636363636363646

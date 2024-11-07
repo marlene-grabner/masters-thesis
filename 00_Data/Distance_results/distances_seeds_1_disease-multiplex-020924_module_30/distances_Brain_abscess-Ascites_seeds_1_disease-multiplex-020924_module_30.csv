@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.10136452241715421
+1,disease_on_symptoms,21,17,0.04865103936311366
+2,disease_on_drugs,23,27,0.13400966183574892

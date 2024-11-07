@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.22063120981881934
+1,disease_on_symptoms,21,18,0.5967643467643469
+2,disease_on_drugs,28,28,-0.017857142857142794

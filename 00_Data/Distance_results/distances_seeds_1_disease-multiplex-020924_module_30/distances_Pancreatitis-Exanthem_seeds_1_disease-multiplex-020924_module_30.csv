@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.31264367816091965
+1,disease_on_symptoms,20,26,1.3937290969899667
+2,disease_on_drugs,30,28,0.30972906403940903

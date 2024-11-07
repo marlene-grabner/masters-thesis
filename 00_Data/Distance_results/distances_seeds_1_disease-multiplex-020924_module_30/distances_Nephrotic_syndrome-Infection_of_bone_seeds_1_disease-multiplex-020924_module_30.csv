@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,20,26,0.1539297658862877
+1,disease_on_symptoms,24,21,0.6172619047619048
+2,disease_on_drugs,18,24,0.5367063492063493

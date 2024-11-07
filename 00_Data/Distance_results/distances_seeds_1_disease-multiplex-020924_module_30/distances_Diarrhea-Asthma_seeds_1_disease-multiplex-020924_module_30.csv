@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.041253561253561166
+1,disease_on_symptoms,19,19,1.9473684210526316
+2,disease_on_drugs,26,24,0.4591025641025641

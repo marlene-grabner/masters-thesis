@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,-0.23951048951048948
+1,disease_on_symptoms,16,17,0.49353832442067747
+2,disease_on_drugs,26,27,-0.22723485459334514

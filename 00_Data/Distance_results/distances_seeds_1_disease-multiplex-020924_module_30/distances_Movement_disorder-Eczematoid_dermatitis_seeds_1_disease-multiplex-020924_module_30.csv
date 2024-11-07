@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,28,0.4832922824302135
+1,disease_on_symptoms,22,24,1.5986495388669302
+2,disease_on_drugs,15,28,0.8177740863787375

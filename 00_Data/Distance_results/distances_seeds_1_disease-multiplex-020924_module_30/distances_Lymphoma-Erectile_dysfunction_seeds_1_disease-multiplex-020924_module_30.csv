@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,0.0533882783882782
+1,disease_on_symptoms,21,16,1.2156129343629343
+2,disease_on_drugs,25,30,0.5463636363636364

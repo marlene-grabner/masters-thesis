@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,16,18,1.3946078431372548
+2,disease_on_drugs,25,30,0.5339393939393939

@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,20,29,-0.2195812807881775
+1,disease_on_symptoms,23,16,-0.24644648829431448
+2,disease_on_drugs,18,22,-0.30000000000000004

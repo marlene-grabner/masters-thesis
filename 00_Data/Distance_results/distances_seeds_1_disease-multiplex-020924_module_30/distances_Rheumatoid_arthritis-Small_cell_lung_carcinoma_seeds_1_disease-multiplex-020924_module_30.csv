@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,27,27,0.0185185185185186
+1,disease_on_symptoms,15,24,0.14038461538461533
+2,disease_on_drugs,25,25,-0.20000000000000007

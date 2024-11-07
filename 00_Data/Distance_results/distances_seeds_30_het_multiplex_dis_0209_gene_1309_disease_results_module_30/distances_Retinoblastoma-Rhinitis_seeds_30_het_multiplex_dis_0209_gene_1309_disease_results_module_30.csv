@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,21,12,0.33982683982684003
+2,disease_on_drugs,27,23,0.8293075684380034

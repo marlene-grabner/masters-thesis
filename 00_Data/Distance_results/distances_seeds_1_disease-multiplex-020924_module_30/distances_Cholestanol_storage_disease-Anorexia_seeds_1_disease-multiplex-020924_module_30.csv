@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.1376720901126407
+1,disease_on_symptoms,17,25,0.31837535014005613
+2,disease_on_drugs,25,13,0.4468016194331985

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,26,30,-0.18121212121212127
+1,disease_on_symptoms,19,20,0.09753711201079618
+2,disease_on_drugs,24,30,0.2592592592592593

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,16,28,0.3847402597402598
+1,disease_on_symptoms,26,17,2.071345890771335
+2,disease_on_drugs,14,18,1.0

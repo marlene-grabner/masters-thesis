@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.016483516483516647
+1,disease_on_symptoms,20,25,0.6605555555555558
+2,disease_on_drugs,27,25,-0.0023646723646721934

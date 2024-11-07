@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.2506060606060607
+1,disease_on_symptoms,14,23,0.4502685915729394
+2,disease_on_drugs,29,23,0.41806020066889626

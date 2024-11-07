@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,-0.019230769230769162
+1,disease_on_symptoms,21,22,1.001409443269908
+2,disease_on_drugs,23,25,0.22677536231884066

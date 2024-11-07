@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.4487179487179487
+1,disease_on_symptoms,20,24,1.475378787878788
+2,disease_on_drugs,20,19,1.1255060728744941

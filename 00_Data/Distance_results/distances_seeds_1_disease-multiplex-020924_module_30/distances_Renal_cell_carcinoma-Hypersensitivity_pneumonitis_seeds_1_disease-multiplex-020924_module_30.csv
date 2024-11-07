@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,24,0.16448979591836732
+1,disease_on_symptoms,24,23,1.2298411964230649
+2,disease_on_drugs,20,24,0.6136363636363635

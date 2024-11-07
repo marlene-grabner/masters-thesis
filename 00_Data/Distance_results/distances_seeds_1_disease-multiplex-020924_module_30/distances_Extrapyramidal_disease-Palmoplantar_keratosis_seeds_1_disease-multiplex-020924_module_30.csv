@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,14,26,0.6392857142857145
+1,disease_on_symptoms,25,19,2.5045933014354063
+2,disease_on_drugs,10,18,1.2079365079365076

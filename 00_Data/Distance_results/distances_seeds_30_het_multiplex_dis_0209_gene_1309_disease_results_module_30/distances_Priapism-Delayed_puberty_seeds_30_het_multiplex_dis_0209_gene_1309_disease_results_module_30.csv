@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,12,16,-0.5773809523809528
+2,disease_on_drugs,28,29,0.00023766312332562656

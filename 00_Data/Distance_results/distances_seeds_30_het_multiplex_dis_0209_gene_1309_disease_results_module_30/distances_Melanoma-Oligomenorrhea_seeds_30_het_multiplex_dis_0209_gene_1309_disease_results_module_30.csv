@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,29,0.0886243386243386
+1,disease_on_symptoms,23,11,1.5122064636131134
+2,disease_on_drugs,25,24,0.5092857142857141

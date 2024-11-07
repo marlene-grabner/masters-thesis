@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,22,23,-0.17885375494071143
+1,disease_on_symptoms,23,25,0.6991304347826086
+2,disease_on_drugs,17,22,-0.25521047579871103

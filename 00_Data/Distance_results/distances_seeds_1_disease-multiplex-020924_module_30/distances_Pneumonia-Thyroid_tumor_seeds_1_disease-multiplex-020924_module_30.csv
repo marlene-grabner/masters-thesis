@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.2222039923434509
+1,disease_on_symptoms,26,20,0.1786789297658864
+2,disease_on_drugs,28,20,1.0791666666666666

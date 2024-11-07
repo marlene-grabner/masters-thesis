@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.05660377358490565
+1,disease_on_symptoms,17,12,1.438556457065585
+2,disease_on_drugs,24,18,0.3759920634920637

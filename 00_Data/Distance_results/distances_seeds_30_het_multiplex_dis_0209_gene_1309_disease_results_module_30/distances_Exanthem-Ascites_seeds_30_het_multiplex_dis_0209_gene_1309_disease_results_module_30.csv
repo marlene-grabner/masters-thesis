@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666681
+1,disease_on_symptoms,21,22,-0.0486006241820196
+2,disease_on_drugs,29,27,-0.057630906768837864

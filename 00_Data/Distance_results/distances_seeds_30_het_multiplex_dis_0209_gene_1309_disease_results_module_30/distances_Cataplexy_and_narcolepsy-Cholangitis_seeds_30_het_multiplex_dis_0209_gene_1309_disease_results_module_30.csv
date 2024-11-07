@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,19,18,1.2937806227279909
+2,disease_on_drugs,18,28,-0.04641131815044863

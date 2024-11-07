@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.12362637362637363
+1,disease_on_symptoms,12,21,0.725108225108225
+2,disease_on_drugs,27,24,0.21568627450980382

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,21,30,0.07717086834733888
+1,disease_on_symptoms,20,16,0.3534722222222224
+2,disease_on_drugs,19,30,-0.0295918367346939

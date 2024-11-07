@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,18,21,0.11843711843711846
+2,disease_on_drugs,21,30,0.1337535014005602

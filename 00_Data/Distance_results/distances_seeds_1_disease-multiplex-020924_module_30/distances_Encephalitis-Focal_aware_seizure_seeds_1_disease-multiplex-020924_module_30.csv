@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.4028822055137846
+1,disease_on_symptoms,17,15,2.0192401960784316
+2,disease_on_drugs,18,29,0.9574468085106382

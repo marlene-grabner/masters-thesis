@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,23,25,-0.14416666666666667
+1,disease_on_symptoms,25,25,0.06000000000000005
+2,disease_on_drugs,21,23,-0.2707509881422925

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,28,29,-0.23603896103896094
+1,disease_on_symptoms,15,17,-0.02990196078431362
+2,disease_on_drugs,23,26,-0.24464200395877422

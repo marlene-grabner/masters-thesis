@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,19,21,0.6661027568922306
+2,disease_on_drugs,30,24,0.16712962962962963

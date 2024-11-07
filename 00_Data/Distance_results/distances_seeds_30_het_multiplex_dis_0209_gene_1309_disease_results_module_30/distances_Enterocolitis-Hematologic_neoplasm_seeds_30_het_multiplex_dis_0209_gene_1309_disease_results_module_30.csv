@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.05263157894736836
+1,disease_on_symptoms,21,18,0.5338827838827838
+2,disease_on_drugs,25,27,0.11641025641025649

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.08859649122807034
+1,disease_on_symptoms,17,20,-0.0233704292527821
+2,disease_on_drugs,17,27,-0.12165775401069534

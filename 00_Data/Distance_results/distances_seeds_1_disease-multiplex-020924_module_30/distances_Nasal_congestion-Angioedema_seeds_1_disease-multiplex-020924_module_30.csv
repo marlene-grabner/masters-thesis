@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.001108374384236166
+1,disease_on_symptoms,15,17,0.4817401960784311
+2,disease_on_drugs,23,25,0.20742753623188404

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,29,26,0.055485893416928
+1,disease_on_symptoms,17,17,0.32352941176470584
+2,disease_on_drugs,26,23,-0.00015357313493957747

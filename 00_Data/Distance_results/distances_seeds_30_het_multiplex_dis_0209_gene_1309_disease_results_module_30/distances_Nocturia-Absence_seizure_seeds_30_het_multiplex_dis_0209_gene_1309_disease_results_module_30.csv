@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,25,30,-0.03703703703703709
+1,disease_on_symptoms,18,14,0.8799603174603174
+2,disease_on_drugs,24,22,-0.21969696969696972

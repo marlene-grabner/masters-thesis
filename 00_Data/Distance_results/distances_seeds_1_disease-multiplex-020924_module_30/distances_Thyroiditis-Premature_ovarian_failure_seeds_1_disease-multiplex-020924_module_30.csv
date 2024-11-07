@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,28,-0.02136752136752129
+1,disease_on_symptoms,28,21,0.5008503401360542
+2,disease_on_drugs,23,21,0.339732731037079

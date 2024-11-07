@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,22,30,0.513986013986014
+1,disease_on_symptoms,22,20,0.48961038961038983
+2,disease_on_drugs,14,28,0.4107142857142858

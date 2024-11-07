@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.18867924528301883
+1,disease_on_symptoms,21,17,0.06339377856405726
+2,disease_on_drugs,25,26,-0.19422322775263956

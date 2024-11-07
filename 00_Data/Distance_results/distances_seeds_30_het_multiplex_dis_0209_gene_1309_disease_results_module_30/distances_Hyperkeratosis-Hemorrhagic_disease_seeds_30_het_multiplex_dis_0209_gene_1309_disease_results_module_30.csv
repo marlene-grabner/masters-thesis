@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,26,-0.17307692307692302
+1,disease_on_symptoms,25,19,0.22976076555023917
+2,disease_on_drugs,25,24,-0.22795918367346957

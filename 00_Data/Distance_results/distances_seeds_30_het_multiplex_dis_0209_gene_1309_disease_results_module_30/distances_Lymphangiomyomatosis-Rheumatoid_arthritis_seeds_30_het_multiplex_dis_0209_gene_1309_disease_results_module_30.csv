@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,26,30,-0.0001831501831501825
+1,disease_on_symptoms,17,19,0.34184726522187847
+2,disease_on_drugs,24,30,0.17083333333333317

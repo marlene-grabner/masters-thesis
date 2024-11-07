@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,0.14191033138401576
+1,disease_on_symptoms,20,14,0.5859243697478993
+2,disease_on_drugs,25,30,0.5303030303030305

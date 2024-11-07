@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,28,30,0.22352216748768483
+1,disease_on_symptoms,24,13,0.4713270963270966
+2,disease_on_drugs,28,29,0.3677944862155389

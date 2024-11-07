@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,16,0.3731203007518795
+2,disease_on_drugs,29,28,0.41853556304554496

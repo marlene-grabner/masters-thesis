@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,17,16,0.40864527629233516
+2,disease_on_drugs,17,30,0.49044639132248635

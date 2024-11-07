@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.39404305783616134
+1,disease_on_symptoms,23,21,0.9121023903632599
+2,disease_on_drugs,15,28,0.7464285714285714

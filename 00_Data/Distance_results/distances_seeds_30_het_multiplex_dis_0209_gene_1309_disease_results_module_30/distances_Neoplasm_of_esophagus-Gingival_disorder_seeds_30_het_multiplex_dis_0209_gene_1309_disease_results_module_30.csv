@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,29,30,-0.10198714202220915
+1,disease_on_symptoms,20,19,0.3248987854251011
+2,disease_on_drugs,25,24,-0.044642857142857206

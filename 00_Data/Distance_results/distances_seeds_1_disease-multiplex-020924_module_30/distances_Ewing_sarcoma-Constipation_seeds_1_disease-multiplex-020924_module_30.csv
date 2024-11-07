@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Constipation nodes,sAB
+0,disease_on_genes,24,30,0.439351851851852
+1,disease_on_symptoms,25,17,1.6599439775910365
+2,disease_on_drugs,17,27,1.5951178451178452

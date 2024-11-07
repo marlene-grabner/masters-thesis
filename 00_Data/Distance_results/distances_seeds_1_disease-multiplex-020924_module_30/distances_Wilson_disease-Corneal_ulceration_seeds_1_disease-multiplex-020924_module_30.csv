@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,23,28,0.24599622457678727
+1,disease_on_symptoms,19,19,0.9210526315789473
+2,disease_on_drugs,11,26,0.45945945945945943

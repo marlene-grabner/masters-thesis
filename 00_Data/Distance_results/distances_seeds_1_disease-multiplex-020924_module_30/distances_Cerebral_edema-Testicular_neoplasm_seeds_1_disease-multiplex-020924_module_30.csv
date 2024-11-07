@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.6145454545454545
+1,disease_on_symptoms,9,25,0.8150326797385623
+2,disease_on_drugs,11,23,0.9698907230876539

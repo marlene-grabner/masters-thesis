@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,0.6658823529411764
+1,disease_on_symptoms,15,25,1.375
+2,disease_on_drugs,15,23,1.1530129672006102

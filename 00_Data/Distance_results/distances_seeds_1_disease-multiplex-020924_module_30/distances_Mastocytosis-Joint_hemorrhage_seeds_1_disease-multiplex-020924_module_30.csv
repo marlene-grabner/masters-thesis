@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,18,30,0.1930555555555553
+1,disease_on_symptoms,28,13,1.0163830072366657
+2,disease_on_drugs,17,18,0.14355742296918783

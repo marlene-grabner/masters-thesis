@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,26,27,-0.05660377358490565
+1,disease_on_symptoms,19,17,1.2018403852769175
+2,disease_on_drugs,25,24,0.2427721088435375

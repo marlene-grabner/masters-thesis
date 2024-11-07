@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,21,0.27030812324929987
+1,disease_on_symptoms,18,20,1.5269005847953219
+2,disease_on_drugs,27,19,0.5813204508856684

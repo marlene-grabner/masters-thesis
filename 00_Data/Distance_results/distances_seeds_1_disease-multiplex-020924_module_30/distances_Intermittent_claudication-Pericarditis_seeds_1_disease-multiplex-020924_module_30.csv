@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Pericarditis nodes,sAB
+0,disease_on_genes,20,25,0.08055555555555549
+1,disease_on_symptoms,24,22,0.8462615283267456
+2,disease_on_drugs,18,25,0.42702842377260986

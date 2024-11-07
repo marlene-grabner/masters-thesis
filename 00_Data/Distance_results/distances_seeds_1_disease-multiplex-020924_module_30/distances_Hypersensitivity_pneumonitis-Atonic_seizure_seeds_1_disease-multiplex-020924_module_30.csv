@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,24,29,0.4544567338972023
+1,disease_on_symptoms,23,16,1.770484949832776
+2,disease_on_drugs,24,24,0.875

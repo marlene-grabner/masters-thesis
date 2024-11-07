@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.03382594417077178
+1,disease_on_symptoms,18,17,0.5675536881419236
+2,disease_on_drugs,25,18,0.47162790697674417

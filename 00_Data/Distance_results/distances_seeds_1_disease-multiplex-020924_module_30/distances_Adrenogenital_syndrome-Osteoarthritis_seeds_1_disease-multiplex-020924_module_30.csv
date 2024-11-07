@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.3618181818181818
+1,disease_on_symptoms,7,20,0.4825396825396826
+2,disease_on_drugs,22,21,0.35200845665961955

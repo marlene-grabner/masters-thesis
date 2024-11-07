@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,-0.019230769230769162
+1,disease_on_symptoms,23,16,0.7365523968784835
+2,disease_on_drugs,25,24,-0.042091836734693855

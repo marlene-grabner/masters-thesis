@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,23,30,0.21205906480721892
+1,disease_on_symptoms,19,16,0.8225093984962408
+2,disease_on_drugs,11,30,0.3414634146341464

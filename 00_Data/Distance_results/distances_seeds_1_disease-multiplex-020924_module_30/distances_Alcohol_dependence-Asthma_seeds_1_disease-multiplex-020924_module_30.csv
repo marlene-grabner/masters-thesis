@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Asthma nodes,sAB
+0,disease_on_genes,12,25,0.5599549549549552
+1,disease_on_symptoms,27,19,2.4309263496906515
+2,disease_on_drugs,9,24,0.5441919191919193

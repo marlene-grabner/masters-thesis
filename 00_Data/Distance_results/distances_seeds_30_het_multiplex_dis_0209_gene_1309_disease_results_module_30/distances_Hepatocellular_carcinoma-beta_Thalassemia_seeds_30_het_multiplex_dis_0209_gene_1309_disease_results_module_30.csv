@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,24,30,-0.11111111111111116
+1,disease_on_symptoms,23,13,-0.27257525083612033
+2,disease_on_drugs,22,24,-0.2963603425559945

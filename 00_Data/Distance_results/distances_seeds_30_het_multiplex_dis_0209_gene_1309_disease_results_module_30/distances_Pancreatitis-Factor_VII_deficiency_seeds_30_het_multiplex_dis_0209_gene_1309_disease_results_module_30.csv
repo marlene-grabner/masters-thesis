@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,-0.017857142857142794
+1,disease_on_symptoms,17,19,1.0482456140350875
+2,disease_on_drugs,30,25,0.333939393939394

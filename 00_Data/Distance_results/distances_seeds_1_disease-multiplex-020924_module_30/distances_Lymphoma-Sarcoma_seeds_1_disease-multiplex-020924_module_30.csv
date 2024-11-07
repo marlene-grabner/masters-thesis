@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,-0.17609351432880838
+1,disease_on_symptoms,21,26,0.18301379471592227
+2,disease_on_drugs,25,21,-0.2356521739130435

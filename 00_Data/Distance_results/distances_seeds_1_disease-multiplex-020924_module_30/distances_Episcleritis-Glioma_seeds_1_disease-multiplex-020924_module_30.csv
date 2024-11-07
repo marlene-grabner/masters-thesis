@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Glioma nodes,sAB
+0,disease_on_genes,30,22,0.3426573426573427
+1,disease_on_symptoms,22,24,0.863554018445323
+2,disease_on_drugs,29,20,0.48062983814215343

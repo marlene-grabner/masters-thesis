@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,27,0.1594541910331384
+1,disease_on_symptoms,23,19,0.5562820093712544
+2,disease_on_drugs,29,27,0.4125615763546797

@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,25,27,0.31108262108262097
+1,disease_on_symptoms,24,16,1.7208333333333337
+2,disease_on_drugs,20,18,0.9736842105263157

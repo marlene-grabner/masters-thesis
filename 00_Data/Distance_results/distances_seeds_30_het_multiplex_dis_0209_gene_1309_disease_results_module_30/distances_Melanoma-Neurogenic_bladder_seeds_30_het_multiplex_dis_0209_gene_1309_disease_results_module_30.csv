@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,23,18,0.3760457169789091
+2,disease_on_drugs,25,21,-0.055155279503105614

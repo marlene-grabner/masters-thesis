@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,18,30,0.24722222222222223
+1,disease_on_symptoms,28,15,0.3026854928017717
+2,disease_on_drugs,17,26,0.0655056298011154

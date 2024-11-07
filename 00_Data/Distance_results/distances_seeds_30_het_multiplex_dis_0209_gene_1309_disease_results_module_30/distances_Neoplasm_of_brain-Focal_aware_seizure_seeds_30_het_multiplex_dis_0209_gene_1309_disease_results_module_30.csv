@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.1353107344632768
+1,disease_on_symptoms,19,16,0.4378759398496239
+2,disease_on_drugs,29,29,0.27586206896551735

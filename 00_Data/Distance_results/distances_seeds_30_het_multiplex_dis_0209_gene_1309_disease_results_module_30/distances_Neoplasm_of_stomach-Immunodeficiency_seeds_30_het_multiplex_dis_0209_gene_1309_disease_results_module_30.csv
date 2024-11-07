@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,25,26,0.01921568627450987
+1,disease_on_symptoms,23,21,0.7424712968191227
+2,disease_on_drugs,24,26,0.30378205128205105

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,17,15,1.0595588235294118
+2,disease_on_drugs,24,25,0.28562925170068043

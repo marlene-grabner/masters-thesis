@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Exanthem nodes,sAB
+0,disease_on_genes,22,28,0.1200000000000001
+1,disease_on_symptoms,17,26,1.100231505840261
+2,disease_on_drugs,21,28,0.35969387755102034

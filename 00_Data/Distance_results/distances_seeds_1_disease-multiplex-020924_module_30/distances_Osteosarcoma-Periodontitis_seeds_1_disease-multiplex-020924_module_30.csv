@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,25,23,0.20644927536231905
+1,disease_on_symptoms,24,25,1.0794727891156461
+2,disease_on_drugs,23,22,0.9984848484848485

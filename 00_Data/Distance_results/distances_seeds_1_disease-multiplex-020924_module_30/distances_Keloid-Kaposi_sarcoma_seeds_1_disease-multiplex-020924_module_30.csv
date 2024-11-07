@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,22,15,0.13112203112203114
+1,disease_on_symptoms,20,27,0.9663120567375887
+2,disease_on_drugs,19,13,0.6875

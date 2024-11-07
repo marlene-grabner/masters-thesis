@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.29824561403508776
+1,disease_on_symptoms,22,21,-0.05164602839021448
+2,disease_on_drugs,28,25,-0.436832884097035

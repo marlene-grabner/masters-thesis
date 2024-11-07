@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.09567099567099557
+1,disease_on_symptoms,23,23,1.543478260869565
+2,disease_on_drugs,29,14,0.4366479550922213

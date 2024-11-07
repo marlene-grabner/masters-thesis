@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,23,0.08687002652519893
+1,disease_on_symptoms,22,22,0.75
+2,disease_on_drugs,29,17,0.36004056795131856

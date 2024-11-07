@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.501007326007326
+1,disease_on_symptoms,14,17,2.0220927080509625
+2,disease_on_drugs,11,18,1.3505747126436782

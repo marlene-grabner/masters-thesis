@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.23888888888888882
+1,disease_on_symptoms,19,18,0.30638533270112234
+2,disease_on_drugs,30,24,-0.08148148148148149

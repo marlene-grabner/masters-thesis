@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.15000000000000013
+1,disease_on_symptoms,12,21,1.8620129870129873
+2,disease_on_drugs,17,17,0.5294117647058822

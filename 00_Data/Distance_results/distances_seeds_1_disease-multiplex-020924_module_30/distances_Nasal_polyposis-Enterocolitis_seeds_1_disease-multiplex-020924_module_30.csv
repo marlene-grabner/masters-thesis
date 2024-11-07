@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,15,27,-0.09947089947089949
+1,disease_on_symptoms,25,21,-0.05921325051759818
+2,disease_on_drugs,10,24,-0.20906862745098043

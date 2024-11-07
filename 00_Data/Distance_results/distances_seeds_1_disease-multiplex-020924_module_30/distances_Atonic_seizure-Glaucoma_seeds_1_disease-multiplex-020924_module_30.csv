@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.1364309370738359
+1,disease_on_symptoms,16,14,0.1869047619047619
+2,disease_on_drugs,24,30,0.4111111111111112

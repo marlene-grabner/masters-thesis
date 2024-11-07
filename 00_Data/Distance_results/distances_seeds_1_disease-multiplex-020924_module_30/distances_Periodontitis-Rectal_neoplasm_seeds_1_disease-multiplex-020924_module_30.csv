@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,23,30,0.2744052502050862
+1,disease_on_symptoms,25,21,0.9672463768115942
+2,disease_on_drugs,22,29,0.6032177761386686

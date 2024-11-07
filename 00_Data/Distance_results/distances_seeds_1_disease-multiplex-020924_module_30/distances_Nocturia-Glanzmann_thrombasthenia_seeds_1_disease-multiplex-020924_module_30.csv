@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,21,24,0.29418498168498175
+1,disease_on_symptoms,24,21,1.6073412698412701
+2,disease_on_drugs,14,24,0.7360588972431079

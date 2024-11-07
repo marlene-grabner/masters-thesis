@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,20,0.3701388888888888
+2,disease_on_drugs,28,28,0.1071428571428572

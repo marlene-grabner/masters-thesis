@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,22,30,-0.14696969696969697
+1,disease_on_symptoms,23,26,0.5888164630400654
+2,disease_on_drugs,17,28,-0.12549019607843137

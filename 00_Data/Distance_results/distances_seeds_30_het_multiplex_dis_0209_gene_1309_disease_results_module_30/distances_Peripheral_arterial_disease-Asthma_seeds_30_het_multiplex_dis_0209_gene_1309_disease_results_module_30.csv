@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,0.09764705882352942
+1,disease_on_symptoms,17,20,0.6645866454689984
+2,disease_on_drugs,24,22,0.20281620553359692

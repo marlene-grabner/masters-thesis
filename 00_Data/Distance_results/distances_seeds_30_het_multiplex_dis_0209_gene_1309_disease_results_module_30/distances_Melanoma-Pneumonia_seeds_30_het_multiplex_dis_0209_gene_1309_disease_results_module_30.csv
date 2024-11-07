@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,-0.0009746588693957392
+1,disease_on_symptoms,23,23,0.6956521739130437
+2,disease_on_drugs,25,29,0.5917752234993614

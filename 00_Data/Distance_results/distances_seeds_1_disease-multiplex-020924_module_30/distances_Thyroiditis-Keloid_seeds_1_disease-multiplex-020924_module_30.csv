@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Keloid nodes,sAB
+0,disease_on_genes,26,22,-0.018210955710955545
+1,disease_on_symptoms,28,20,0.5625
+2,disease_on_drugs,23,19,0.14492753623188404

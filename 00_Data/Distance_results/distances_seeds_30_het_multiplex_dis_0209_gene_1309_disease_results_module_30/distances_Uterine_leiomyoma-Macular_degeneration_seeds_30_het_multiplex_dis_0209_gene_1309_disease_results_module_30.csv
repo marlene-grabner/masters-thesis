@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,20,17,0.5813593004769477
+2,disease_on_drugs,28,17,0.08415032679738554

@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Dermatitis nodes,sAB
+0,disease_on_genes,29,30,0.06750438340151965
+1,disease_on_symptoms,20,14,0.7283613445378152
+2,disease_on_drugs,24,28,0.051968864468864506

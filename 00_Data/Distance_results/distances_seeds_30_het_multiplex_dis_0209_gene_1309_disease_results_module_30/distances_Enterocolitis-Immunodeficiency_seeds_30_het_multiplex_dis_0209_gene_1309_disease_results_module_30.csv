@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,26,-0.28301886792452835
+1,disease_on_symptoms,21,21,-0.19047619047619047
+2,disease_on_drugs,25,26,-0.3338159879336352

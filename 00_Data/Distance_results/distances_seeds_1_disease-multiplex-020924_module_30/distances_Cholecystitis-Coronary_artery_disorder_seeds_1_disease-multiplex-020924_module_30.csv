@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.6582296650717705
+1,disease_on_symptoms,19,21,2.1143483709273183
+2,disease_on_drugs,13,17,1.1615384615384619

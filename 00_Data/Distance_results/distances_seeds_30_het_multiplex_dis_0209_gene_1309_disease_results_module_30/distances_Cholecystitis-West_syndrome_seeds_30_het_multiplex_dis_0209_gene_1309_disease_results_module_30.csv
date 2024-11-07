@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,23,13,0.27257525083612033
+2,disease_on_drugs,21,19,0.009022556390977376

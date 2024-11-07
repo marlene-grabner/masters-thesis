@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,28,25,0.2828975741239892
+1,disease_on_symptoms,14,24,1.401159147869674
+2,disease_on_drugs,24,23,1.148936170212766

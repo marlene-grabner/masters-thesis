@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,22,26,-0.125
+1,disease_on_symptoms,21,19,0.5518170426065163
+2,disease_on_drugs,17,24,0.1588952654232425

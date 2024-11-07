@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.2759259259259259
+1,disease_on_symptoms,13,21,-0.09717733247144977
+2,disease_on_drugs,28,24,-0.3857600732600732

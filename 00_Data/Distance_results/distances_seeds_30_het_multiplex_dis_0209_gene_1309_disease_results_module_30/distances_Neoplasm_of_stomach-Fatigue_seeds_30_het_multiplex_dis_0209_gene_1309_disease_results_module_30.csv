@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Fatigue nodes,sAB
+0,disease_on_genes,25,26,-0.19533936651583717
+1,disease_on_symptoms,23,16,1.5589464882943143
+2,disease_on_drugs,24,26,0.22608974358974354

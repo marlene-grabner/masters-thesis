@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Epididymitis nodes,sAB
+0,disease_on_genes,26,29,-0.7102483723173378
+1,disease_on_symptoms,21,23,-0.8995859213250519
+2,disease_on_drugs,24,27,-0.8054193899782136

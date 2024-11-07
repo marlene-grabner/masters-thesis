@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,20,17,-0.3300476947535771
+2,disease_on_drugs,23,30,-0.3015859994531036

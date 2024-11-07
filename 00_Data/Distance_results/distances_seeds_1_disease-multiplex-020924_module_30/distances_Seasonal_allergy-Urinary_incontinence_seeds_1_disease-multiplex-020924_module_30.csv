@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,29,26,0.12369182541596335
+1,disease_on_symptoms,15,20,0.5107142857142857
+2,disease_on_drugs,29,20,0.4725545390570023

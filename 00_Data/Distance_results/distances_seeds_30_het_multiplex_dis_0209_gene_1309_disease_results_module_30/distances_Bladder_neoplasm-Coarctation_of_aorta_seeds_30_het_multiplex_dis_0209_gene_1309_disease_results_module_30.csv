@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,-0.11285814116002801
+1,disease_on_symptoms,19,19,0.5000000000000002
+2,disease_on_drugs,25,24,0.07950680272108857

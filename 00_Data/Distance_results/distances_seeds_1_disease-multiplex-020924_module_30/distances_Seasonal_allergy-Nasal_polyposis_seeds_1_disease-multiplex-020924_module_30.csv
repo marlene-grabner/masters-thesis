@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,29,15,0.14770114942528734
+1,disease_on_symptoms,15,25,0.47499999999999987
+2,disease_on_drugs,29,10,-0.04031830238726797

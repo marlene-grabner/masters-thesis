@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,13,28,0.2570021441972661
+1,disease_on_symptoms,26,20,1.5342809364548495
+2,disease_on_drugs,9,28,0.5930930930930931

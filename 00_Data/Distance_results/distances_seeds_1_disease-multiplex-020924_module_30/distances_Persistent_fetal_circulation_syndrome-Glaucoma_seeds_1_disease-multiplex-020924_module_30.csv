@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Glaucoma nodes,sAB
+0,disease_on_genes,25,30,0.11151515151515157
+1,disease_on_symptoms,20,14,0.9521008403361346
+2,disease_on_drugs,18,30,0.3833333333333333

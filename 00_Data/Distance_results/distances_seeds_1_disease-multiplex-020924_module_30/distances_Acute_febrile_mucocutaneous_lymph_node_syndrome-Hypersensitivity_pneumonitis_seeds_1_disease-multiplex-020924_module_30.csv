@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,24,-0.14629629629629626
+1,disease_on_symptoms,18,23,0.2601920584423236
+2,disease_on_drugs,25,24,-0.14204081632653065

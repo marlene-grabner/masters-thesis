@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,25,30,-0.16393939393939394
+1,disease_on_symptoms,23,18,0.4065335218569577
+2,disease_on_drugs,24,28,0.025869963369963278

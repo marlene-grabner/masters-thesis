@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,27,24,-0.08578431372549011
+1,disease_on_symptoms,17,21,1.4999262863039955
+2,disease_on_drugs,25,18,-0.21382428940568465

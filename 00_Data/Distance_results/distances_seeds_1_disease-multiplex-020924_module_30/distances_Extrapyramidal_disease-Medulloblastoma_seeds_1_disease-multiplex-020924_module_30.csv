@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,14,26,0.4892857142857143
+1,disease_on_symptoms,25,19,2.1720574162679425
+2,disease_on_drugs,10,24,1.3115196078431373

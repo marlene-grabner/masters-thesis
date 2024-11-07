@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.5392857142857141
+1,disease_on_symptoms,19,15,0.9832817337461301
+2,disease_on_drugs,28,15,0.7705426356589147

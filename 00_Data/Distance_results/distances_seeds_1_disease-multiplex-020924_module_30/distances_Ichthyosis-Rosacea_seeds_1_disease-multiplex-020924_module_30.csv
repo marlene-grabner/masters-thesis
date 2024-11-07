@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.14064327485380124
+1,disease_on_symptoms,17,17,-0.20588235294117618
+2,disease_on_drugs,24,27,-0.13725490196078427

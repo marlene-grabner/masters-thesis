@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.1966117216117217
+1,disease_on_symptoms,21,25,0.4290683229813663
+2,disease_on_drugs,29,25,-0.01805874840357591

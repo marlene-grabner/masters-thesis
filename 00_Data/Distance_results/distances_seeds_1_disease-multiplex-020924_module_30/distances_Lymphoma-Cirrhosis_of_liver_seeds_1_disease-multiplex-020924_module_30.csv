@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.1069597069597068
+1,disease_on_symptoms,21,14,0.44999999999999996
+2,disease_on_drugs,25,26,0.37214177978883867

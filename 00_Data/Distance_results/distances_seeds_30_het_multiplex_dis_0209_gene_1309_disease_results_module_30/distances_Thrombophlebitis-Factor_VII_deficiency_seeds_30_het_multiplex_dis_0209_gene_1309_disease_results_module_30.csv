@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,-0.19027093596059108
+1,disease_on_symptoms,18,19,0.050497866287339876
+2,disease_on_drugs,29,25,0.07856960408684555

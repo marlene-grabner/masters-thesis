@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.15270935960591125
+1,disease_on_symptoms,13,19,0.5178390688259109
+2,disease_on_drugs,29,28,0.6137218045112782

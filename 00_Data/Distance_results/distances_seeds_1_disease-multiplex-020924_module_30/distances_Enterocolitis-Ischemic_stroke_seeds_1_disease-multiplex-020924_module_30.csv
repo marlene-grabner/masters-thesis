@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.22797270955165683
+1,disease_on_symptoms,21,16,1.477155727155727
+2,disease_on_drugs,24,23,0.7432739747147701

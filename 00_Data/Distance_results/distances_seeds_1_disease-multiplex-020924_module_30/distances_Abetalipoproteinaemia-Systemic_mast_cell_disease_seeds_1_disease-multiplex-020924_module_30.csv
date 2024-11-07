@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,17,29,0.5275597495369961
+1,disease_on_symptoms,25,16,1.0103048780487804
+2,disease_on_drugs,13,25,1.0141700404858303

@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.050555230859146816
+1,disease_on_symptoms,15,20,0.2511904761904762
+2,disease_on_drugs,25,28,0.3021698113207547

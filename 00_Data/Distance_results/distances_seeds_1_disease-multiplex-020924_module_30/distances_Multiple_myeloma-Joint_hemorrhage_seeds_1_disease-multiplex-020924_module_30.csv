@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,26,30,0.28928571428571415
+1,disease_on_symptoms,21,13,0.7631975867269984
+2,disease_on_drugs,25,18,0.9464341085271317

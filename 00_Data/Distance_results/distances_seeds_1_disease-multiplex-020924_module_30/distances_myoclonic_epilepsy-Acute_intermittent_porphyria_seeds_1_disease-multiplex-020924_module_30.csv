@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,0.10506822612085776
+1,disease_on_symptoms,16,20,2.3826388888888888
+2,disease_on_drugs,23,15,0.5663615560640733

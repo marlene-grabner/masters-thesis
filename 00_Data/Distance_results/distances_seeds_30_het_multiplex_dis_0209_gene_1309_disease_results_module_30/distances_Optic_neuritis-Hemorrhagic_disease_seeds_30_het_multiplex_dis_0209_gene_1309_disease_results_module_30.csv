@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,26,-0.05660377358490565
+1,disease_on_symptoms,21,19,0.6244360902255641
+2,disease_on_drugs,27,24,-0.051742919389978326

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,21,30,0.4859943977591037
+1,disease_on_symptoms,20,25,2.9322222222222223
+2,disease_on_drugs,19,7,0.6593406593406594

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,22,23,0.4016249451032059
+2,disease_on_drugs,26,29,0.47229322401736207

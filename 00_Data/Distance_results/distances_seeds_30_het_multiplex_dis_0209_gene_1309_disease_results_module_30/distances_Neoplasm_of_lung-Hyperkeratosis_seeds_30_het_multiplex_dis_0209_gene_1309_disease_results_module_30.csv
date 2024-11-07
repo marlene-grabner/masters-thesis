@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.07280219780219777
+1,disease_on_symptoms,19,25,0.5359808612440191
+2,disease_on_drugs,30,25,0.12303030303030305

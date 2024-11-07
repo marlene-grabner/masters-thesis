@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Stomatitis nodes,sAB
+0,disease_on_genes,20,30,0.20499999999999985
+1,disease_on_symptoms,25,23,0.9441666666666664
+2,disease_on_drugs,19,30,0.8065520945220193

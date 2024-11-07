@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,26,25,0.1368325791855205
+1,disease_on_symptoms,18,25,1.707545219638243
+2,disease_on_drugs,23,21,0.9545454545454546

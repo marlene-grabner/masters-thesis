@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Tremor nodes,sAB
+0,disease_on_genes,26,16,0.17273351648351665
+1,disease_on_symptoms,23,23,1.826086956521739
+2,disease_on_drugs,25,16,1.3346036585365852

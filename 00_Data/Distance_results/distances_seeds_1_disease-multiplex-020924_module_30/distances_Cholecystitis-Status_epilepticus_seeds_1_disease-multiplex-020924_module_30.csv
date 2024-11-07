@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,25,29,0.37016602809706267
+1,disease_on_symptoms,19,17,2.611197110423116
+2,disease_on_drugs,13,30,1.1010733452593917

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.037575757575757596
+1,disease_on_symptoms,14,19,1.4478241057188423
+2,disease_on_drugs,29,24,0.18474842767295607

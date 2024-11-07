@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.09433962264150941
+1,disease_on_symptoms,16,17,0.9331550802139037
+2,disease_on_drugs,29,22,0.020545208679082938

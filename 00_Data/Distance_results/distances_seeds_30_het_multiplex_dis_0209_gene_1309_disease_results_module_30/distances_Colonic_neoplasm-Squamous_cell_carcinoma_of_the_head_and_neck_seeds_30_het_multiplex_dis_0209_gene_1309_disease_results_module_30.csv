@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.5166666666666667
+1,disease_on_symptoms,19,22,-0.6236725405531569
+2,disease_on_drugs,29,30,-0.4401227352425484

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.12344322344322345
+1,disease_on_symptoms,18,21,1.122100122100122
+2,disease_on_drugs,23,27,0.3614814814814813

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,13,0.33945939118352886
+1,disease_on_symptoms,15,26,1.0599437148217632
+2,disease_on_drugs,29,9,0.7166767493446258

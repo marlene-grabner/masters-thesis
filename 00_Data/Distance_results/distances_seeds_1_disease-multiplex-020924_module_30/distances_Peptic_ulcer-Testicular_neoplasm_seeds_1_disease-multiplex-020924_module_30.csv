@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,0.06040431266846347
+1,disease_on_symptoms,14,25,1.43021978021978
+2,disease_on_drugs,28,23,1.4271099744245526

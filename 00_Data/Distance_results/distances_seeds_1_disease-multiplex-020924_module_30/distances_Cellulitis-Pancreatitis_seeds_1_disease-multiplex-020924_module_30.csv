@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,22,30,-0.13949579831932768
+1,disease_on_symptoms,26,20,0.8502508361204013
+2,disease_on_drugs,12,30,0.23809523809523814

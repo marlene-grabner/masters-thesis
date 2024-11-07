@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Pruritus nodes,sAB
+0,disease_on_genes,14,26,0.494029304029304
+1,disease_on_symptoms,27,19,1.3277396389524536
+2,disease_on_drugs,8,24,0.625

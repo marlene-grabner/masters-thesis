@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,18,17,1.5357142857142856
+2,disease_on_drugs,25,26,0.37168929110105586

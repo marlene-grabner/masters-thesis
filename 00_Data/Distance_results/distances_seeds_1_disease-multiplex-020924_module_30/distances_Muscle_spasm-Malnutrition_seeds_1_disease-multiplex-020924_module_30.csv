@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Malnutrition nodes,sAB
+0,disease_on_genes,25,26,0.057616892911010575
+1,disease_on_symptoms,23,18,0.9994108636738541
+2,disease_on_drugs,19,23,0.6428571428571428

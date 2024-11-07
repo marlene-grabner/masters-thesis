@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Myopathy nodes,sAB
+0,disease_on_genes,23,18,0.5039472133851772
+1,disease_on_symptoms,19,21,1.5402882205513784
+2,disease_on_drugs,19,6,0.5933333333333335

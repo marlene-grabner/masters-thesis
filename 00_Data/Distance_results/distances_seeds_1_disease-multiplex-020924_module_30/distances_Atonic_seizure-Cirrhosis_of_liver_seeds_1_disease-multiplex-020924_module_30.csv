@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,0.3389733099551917
+1,disease_on_symptoms,16,14,1.651190476190476
+2,disease_on_drugs,24,26,0.7407692307692308

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,20,17,0.19749602543720224
+2,disease_on_drugs,27,28,0.03927368927368935

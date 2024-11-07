@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,24,28,0.2168040293040292
+1,disease_on_symptoms,22,15,2.2802211302211304
+2,disease_on_drugs,24,20,0.4295454545454547

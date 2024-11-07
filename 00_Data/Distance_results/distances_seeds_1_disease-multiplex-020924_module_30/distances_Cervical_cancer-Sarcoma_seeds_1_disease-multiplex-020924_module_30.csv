@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,25,-0.07621082621082631
+1,disease_on_symptoms,23,26,0.4794041362364343
+2,disease_on_drugs,15,21,-0.22777777777777775

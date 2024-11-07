@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,28,30,0.19306239737274233
+1,disease_on_symptoms,24,19,1.0051509587923297
+2,disease_on_drugs,28,22,0.6733766233766234

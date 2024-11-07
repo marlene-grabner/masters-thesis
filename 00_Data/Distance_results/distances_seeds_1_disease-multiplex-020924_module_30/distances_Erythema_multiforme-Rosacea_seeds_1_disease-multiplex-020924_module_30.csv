@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000013
+1,disease_on_symptoms,16,17,-0.42585784313725505
+2,disease_on_drugs,30,27,-0.17543859649122806

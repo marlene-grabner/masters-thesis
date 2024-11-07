@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,-0.03638768638768641
+1,disease_on_symptoms,20,25,-0.12055555555555553
+2,disease_on_drugs,25,23,-0.19021739130434767

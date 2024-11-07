@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,28,28,0.24999999999999978
+1,disease_on_symptoms,19,19,1.3684210526315792
+2,disease_on_drugs,26,26,0.6346153846153846

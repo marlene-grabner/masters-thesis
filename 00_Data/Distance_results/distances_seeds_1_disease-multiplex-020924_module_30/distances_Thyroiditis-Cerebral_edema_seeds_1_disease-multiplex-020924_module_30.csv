@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,26,30,0.5302197802197803
+1,disease_on_symptoms,28,9,0.7789039039039041
+2,disease_on_drugs,23,11,0.40339455940478963

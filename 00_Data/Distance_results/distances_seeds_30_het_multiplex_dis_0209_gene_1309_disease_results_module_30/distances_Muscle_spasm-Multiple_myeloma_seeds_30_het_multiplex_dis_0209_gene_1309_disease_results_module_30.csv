@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.0535714285714286
+1,disease_on_symptoms,15,21,0.8984126984126983
+2,disease_on_drugs,29,25,0.2665134099616857

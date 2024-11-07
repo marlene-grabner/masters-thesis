@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.501007326007326
+1,disease_on_symptoms,22,21,1.204847478103292
+2,disease_on_drugs,15,24,1.3871794871794871

@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.3218181818181818
+1,disease_on_symptoms,24,12,2.0694444444444446
+2,disease_on_drugs,20,22,1.2857142857142856

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,29,28,0.3684102497623367
+1,disease_on_symptoms,17,24,2.0827953132472503
+2,disease_on_drugs,30,28,0.7573891625615765

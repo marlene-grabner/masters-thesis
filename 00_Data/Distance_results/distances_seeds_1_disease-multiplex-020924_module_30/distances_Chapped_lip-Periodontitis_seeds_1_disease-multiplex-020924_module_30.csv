@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Periodontitis nodes,sAB
+0,disease_on_genes,26,23,0.07763975155279512
+1,disease_on_symptoms,21,25,0.7974741200828157
+2,disease_on_drugs,24,22,0.5839920948616599

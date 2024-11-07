@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,21,25,0.06314699792960665
+1,disease_on_symptoms,22,22,1.3409090909090908
+2,disease_on_drugs,21,25,0.14149068322981373

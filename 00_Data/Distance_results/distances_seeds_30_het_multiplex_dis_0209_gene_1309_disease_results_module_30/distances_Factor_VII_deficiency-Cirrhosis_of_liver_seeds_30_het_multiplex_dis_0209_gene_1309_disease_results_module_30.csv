@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,-0.017857142857142794
+1,disease_on_symptoms,19,19,0.7894736842105261
+2,disease_on_drugs,25,30,0.23696969696969683

@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.2650000000000001
+1,disease_on_symptoms,19,24,1.6497603019175844
+2,disease_on_drugs,29,18,0.7825059101654845

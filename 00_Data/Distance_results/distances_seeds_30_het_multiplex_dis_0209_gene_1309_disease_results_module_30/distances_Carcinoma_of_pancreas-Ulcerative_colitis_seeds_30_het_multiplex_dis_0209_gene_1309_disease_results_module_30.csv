@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.03421052631578947
+1,disease_on_symptoms,18,20,0.38567251461988317
+2,disease_on_drugs,21,27,0.08630952380952395

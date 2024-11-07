@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,22,30,0.3504662004662005
+1,disease_on_symptoms,23,14,0.951485647137821
+2,disease_on_drugs,17,24,0.6276602104256337

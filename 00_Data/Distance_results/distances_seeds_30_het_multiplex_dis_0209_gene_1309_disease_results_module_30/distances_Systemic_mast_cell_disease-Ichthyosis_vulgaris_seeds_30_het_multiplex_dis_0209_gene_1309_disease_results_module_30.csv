@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,0.017857142857142794
+1,disease_on_symptoms,25,21,0.8321325051759834
+2,disease_on_drugs,21,24,0.00257936507936507

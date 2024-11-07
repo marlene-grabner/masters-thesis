@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,0.009740259740259827
+1,disease_on_symptoms,24,26,0.6704487179487182
+2,disease_on_drugs,20,14,0.38046218487394956

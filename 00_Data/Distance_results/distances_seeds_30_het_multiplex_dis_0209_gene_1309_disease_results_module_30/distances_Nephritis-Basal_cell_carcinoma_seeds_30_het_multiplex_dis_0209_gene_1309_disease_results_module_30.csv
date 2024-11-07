@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,17,24,0.5833632233381159
+2,disease_on_drugs,25,27,0.3036182336182336

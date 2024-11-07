@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Peritonitis nodes,sAB
+0,disease_on_genes,29,30,0.25563997662185844
+1,disease_on_symptoms,17,17,1.8529411764705879
+2,disease_on_drugs,26,28,0.8894993894993894

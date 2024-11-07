@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,21,30,0.27030812324929987
+1,disease_on_symptoms,22,19,0.9662737775703114
+2,disease_on_drugs,21,29,0.7371428571428571

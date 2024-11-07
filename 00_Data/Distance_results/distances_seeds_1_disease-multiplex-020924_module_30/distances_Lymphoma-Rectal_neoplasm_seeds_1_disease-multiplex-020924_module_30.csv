@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.26923076923076916
+1,disease_on_symptoms,21,21,-0.30952380952380953
+2,disease_on_drugs,25,29,-0.25966794380587477

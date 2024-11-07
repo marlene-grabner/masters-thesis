@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,21,23,0.4066911349520046
+2,disease_on_drugs,25,30,0.26181818181818195

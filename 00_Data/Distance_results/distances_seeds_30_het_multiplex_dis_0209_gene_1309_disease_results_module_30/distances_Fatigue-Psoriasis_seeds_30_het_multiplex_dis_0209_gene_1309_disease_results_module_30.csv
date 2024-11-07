@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,30,-0.2184065934065934
+1,disease_on_symptoms,16,17,0.8892602495543671
+2,disease_on_drugs,26,30,-0.18855311355311377

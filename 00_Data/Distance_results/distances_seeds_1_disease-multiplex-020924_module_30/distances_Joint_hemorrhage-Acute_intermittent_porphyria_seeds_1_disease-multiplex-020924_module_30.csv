@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,0.5269980506822611
+1,disease_on_symptoms,13,20,2.4125291375291376
+2,disease_on_drugs,18,15,0.7045454545454544

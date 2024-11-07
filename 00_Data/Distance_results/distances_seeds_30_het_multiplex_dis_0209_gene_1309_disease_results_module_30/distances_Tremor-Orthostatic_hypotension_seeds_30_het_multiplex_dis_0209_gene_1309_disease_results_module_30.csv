@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,17,20,0.7813195548489666
+2,disease_on_drugs,24,28,-0.00869963369963389

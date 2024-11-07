@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,16,25,-0.08743902439024387
+1,disease_on_symptoms,26,25,-0.03969834087481172
+2,disease_on_drugs,14,21,-0.17142857142857137

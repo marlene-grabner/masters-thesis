@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,26,21,0.1262939958592133
+1,disease_on_symptoms,25,22,0.7265377176015473
+2,disease_on_drugs,24,20,0.3333333333333335

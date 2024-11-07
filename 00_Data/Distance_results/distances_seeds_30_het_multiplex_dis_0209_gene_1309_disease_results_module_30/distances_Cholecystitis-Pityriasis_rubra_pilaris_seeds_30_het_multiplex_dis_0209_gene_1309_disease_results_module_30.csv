@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,25,27,-0.07549857549857564
+1,disease_on_symptoms,23,21,0.5214097496706191
+2,disease_on_drugs,21,25,-0.10832298136645946

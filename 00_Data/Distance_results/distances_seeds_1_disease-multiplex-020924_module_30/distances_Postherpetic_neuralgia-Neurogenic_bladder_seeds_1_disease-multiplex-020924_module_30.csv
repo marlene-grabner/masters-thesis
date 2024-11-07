@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333215
+1,disease_on_symptoms,15,17,0.14387254901960778
+2,disease_on_drugs,29,26,0.29184952978056433

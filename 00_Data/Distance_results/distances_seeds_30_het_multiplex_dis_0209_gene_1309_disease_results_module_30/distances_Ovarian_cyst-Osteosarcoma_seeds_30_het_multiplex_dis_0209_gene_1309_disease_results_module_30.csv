@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,19,22,0.009686077722021347
+2,disease_on_drugs,24,29,-0.2112068965517242

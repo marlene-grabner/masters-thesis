@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,15,15,1.0
+2,disease_on_drugs,30,28,0.25972906403940876

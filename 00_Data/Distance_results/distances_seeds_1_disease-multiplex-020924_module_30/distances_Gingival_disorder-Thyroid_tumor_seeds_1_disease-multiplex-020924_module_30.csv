@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,21,23,0.11335403726708071
+1,disease_on_symptoms,26,20,0.33503344481605346
+2,disease_on_drugs,20,20,0.7000000000000002

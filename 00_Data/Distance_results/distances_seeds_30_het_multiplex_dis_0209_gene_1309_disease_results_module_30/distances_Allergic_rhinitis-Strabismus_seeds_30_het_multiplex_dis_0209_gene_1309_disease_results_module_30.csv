@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,17,-0.036601307189542576
+1,disease_on_symptoms,20,24,0.872348484848485
+2,disease_on_drugs,25,16,0.28911585365853654

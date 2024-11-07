@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.24999999999999978
+1,disease_on_symptoms,19,15,-0.13044375644994832
+2,disease_on_drugs,28,26,0.20227920227920237

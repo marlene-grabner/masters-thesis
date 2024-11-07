@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,17,30,0.21358695652173898
+1,disease_on_symptoms,27,15,0.875132275132275
+2,disease_on_drugs,14,23,0.4830871243914723

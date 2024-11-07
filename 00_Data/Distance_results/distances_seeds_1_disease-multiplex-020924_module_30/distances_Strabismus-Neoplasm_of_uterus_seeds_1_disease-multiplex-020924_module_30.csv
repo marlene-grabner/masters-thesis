@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,13,28,0.20343071562583748
+1,disease_on_symptoms,26,19,0.6933198380566803
+2,disease_on_drugs,9,28,0.7644251394251393

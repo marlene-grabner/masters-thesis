@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,27,0.2436647173489277
+1,disease_on_symptoms,22,19,0.8197280896253938
+2,disease_on_drugs,29,27,0.7887931034482758

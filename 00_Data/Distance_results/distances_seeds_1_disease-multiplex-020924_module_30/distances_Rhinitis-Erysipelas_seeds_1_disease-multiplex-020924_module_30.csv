@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.3803776683087028
+1,disease_on_symptoms,15,20,0.9285714285714284
+2,disease_on_drugs,22,27,0.4285714285714286

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,0.23833333333333329
+1,disease_on_symptoms,17,23,0.5891304347826087
+2,disease_on_drugs,26,18,0.31993006993007

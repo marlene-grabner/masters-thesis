@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,24,26,0.2350000000000001
+1,disease_on_symptoms,21,19,1.573997493734336
+2,disease_on_drugs,18,23,0.7797513844703665

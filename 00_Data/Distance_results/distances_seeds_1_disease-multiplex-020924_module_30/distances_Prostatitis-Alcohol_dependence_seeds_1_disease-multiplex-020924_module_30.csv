@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.3202380952380952
+1,disease_on_symptoms,20,27,1.6954097714736014
+2,disease_on_drugs,29,9,0.6438798144787257

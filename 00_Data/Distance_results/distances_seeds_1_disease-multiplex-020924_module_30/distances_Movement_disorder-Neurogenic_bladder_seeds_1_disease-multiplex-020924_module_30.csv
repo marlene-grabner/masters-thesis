@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,22,17,0.22915809680515564
+2,disease_on_drugs,15,26,0.2658536585365854

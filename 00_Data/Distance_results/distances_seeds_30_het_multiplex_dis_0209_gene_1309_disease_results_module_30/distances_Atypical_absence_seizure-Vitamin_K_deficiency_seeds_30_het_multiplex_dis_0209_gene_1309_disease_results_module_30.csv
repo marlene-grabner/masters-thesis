@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.16363636363636358
+1,disease_on_symptoms,13,21,1.4000215470803707
+2,disease_on_drugs,22,21,0.5802124232356789

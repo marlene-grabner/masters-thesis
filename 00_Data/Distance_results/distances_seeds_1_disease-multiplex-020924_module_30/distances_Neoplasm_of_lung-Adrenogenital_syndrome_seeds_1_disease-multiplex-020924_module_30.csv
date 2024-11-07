@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,20,7,1.679761904761905
+2,disease_on_drugs,30,22,0.3854312354312355

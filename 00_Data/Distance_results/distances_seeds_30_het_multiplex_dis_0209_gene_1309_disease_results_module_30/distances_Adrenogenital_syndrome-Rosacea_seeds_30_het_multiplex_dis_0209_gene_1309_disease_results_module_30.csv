@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,9,18,-0.1944444444444442
+2,disease_on_drugs,23,30,0.016379546076018547

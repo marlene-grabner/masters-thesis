@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,23,30,0.19528301886792443
+1,disease_on_symptoms,16,15,1.562029569892473
+2,disease_on_drugs,17,23,0.4194373401534528

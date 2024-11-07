@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.3553380089616207
+1,disease_on_symptoms,14,16,1.199404761904762
+2,disease_on_drugs,24,22,0.6096014492753621

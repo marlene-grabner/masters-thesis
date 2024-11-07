@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,28,27,0.20093795093795097
+1,disease_on_symptoms,14,17,1.2513553808620221
+2,disease_on_drugs,28,24,0.8076923076923077

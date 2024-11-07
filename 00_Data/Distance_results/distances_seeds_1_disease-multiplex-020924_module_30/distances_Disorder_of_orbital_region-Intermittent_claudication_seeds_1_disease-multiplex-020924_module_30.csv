@@ -1,0 +1,4 @@
+,Layer,Disorder_of_orbital_region nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,17,20,-0.030484896661367333
+1,disease_on_symptoms,27,24,1.2593954248366013
+2,disease_on_drugs,16,18,0.4440359477124183

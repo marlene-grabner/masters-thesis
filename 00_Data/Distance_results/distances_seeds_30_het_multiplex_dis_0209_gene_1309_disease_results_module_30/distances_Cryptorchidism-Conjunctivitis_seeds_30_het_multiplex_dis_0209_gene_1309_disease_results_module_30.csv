@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,29,0.01672240802675584
+1,disease_on_symptoms,19,27,0.9593609627934572
+2,disease_on_drugs,21,28,0.532312925170068

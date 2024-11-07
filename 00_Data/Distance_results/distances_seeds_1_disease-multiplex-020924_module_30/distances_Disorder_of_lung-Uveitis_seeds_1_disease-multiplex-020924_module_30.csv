@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.1577972709551656
+1,disease_on_symptoms,17,21,1.0398053958425475
+2,disease_on_drugs,20,27,0.15169424743892823

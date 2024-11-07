@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Heartburn nodes,sAB
+0,disease_on_genes,28,26,-0.12962962962962965
+1,disease_on_symptoms,13,16,0.8746684350132625
+2,disease_on_drugs,28,25,0.11474393530997307

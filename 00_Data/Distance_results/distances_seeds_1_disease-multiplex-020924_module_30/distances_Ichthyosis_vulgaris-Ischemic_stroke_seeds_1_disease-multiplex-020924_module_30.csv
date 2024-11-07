@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.2620857699805068
+1,disease_on_symptoms,21,16,1.5183397683397684
+2,disease_on_drugs,27,23,0.5730434782608695

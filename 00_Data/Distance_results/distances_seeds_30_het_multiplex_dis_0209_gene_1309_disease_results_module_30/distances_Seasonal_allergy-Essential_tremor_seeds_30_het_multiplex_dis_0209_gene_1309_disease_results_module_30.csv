@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.06000000000000005
+1,disease_on_symptoms,18,23,1.2826086956521738
+2,disease_on_drugs,29,21,0.20922824302134635

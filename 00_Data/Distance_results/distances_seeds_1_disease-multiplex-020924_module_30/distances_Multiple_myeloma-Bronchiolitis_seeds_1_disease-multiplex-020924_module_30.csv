@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.20275066548358467
+1,disease_on_symptoms,21,25,1.51768115942029
+2,disease_on_drugs,25,18,0.8534108527131781

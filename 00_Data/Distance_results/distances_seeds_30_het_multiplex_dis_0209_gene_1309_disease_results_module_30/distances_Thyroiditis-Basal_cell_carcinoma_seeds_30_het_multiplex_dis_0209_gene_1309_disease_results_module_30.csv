@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,21,24,-0.30853174603174605
+2,disease_on_drugs,29,27,-0.03343367998540425

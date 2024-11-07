@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,24,26,0.1401952085181899
+1,disease_on_symptoms,23,20,0.8043225480283116
+2,disease_on_drugs,20,25,0.7750000000000001

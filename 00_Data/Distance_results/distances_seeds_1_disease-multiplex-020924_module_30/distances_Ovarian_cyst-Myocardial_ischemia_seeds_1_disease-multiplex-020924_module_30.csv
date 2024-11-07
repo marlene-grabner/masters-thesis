@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,20,30,0.5050000000000001
+1,disease_on_symptoms,22,13,1.192157842157842
+2,disease_on_drugs,15,23,0.7558352402745996

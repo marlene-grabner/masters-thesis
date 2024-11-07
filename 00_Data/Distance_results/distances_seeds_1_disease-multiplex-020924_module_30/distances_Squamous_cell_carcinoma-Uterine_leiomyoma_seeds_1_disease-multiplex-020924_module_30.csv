@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,16,24,0.02499999999999991
+1,disease_on_symptoms,26,21,1.2260540877562154
+2,disease_on_drugs,14,18,0.12847222222222232

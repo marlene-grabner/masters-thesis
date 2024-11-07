@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,25,30,0.19757575757575774
+1,disease_on_symptoms,18,14,0.8601190476190477
+2,disease_on_drugs,23,24,0.8297872340425532

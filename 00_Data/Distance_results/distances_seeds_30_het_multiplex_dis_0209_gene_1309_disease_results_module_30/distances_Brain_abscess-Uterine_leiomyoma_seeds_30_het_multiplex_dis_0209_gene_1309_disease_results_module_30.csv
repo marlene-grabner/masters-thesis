@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,21,20,0.9936991869918699
+2,disease_on_drugs,23,28,-0.028665814151747737

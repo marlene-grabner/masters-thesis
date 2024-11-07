@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.34560780834072746
+1,disease_on_symptoms,17,25,1.375798319327731
+2,disease_on_drugs,23,18,0.7241958289148109

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,22,12,1.2718360071301247
+2,disease_on_drugs,30,21,0.5420168067226891

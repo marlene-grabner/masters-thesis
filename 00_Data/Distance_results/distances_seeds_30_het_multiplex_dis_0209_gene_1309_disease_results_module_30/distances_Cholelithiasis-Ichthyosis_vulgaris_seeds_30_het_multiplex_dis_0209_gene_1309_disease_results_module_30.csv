@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,0.019230769230769162
+1,disease_on_symptoms,20,21,0.898548199767712
+2,disease_on_drugs,18,24,0.17162698412698418

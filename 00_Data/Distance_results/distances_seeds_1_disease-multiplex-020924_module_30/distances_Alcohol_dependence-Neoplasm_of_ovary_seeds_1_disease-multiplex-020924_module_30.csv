@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,12,24,0.38888888888888906
+1,disease_on_symptoms,27,26,2.4128903940224693
+2,disease_on_drugs,9,15,0.6805555555555556

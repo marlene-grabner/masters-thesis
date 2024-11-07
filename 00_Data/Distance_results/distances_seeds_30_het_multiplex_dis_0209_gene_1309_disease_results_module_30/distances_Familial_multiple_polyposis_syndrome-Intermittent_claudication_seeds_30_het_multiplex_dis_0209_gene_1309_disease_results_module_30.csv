@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,19,14,0.08692185007974462
+2,disease_on_drugs,25,24,0.22314625850340142

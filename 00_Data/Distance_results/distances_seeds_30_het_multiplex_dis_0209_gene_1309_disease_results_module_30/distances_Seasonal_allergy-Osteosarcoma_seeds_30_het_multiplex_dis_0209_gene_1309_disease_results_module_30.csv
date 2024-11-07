@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,29,30,-0.20282485875706202
+1,disease_on_symptoms,18,22,0.05227272727272725
+2,disease_on_drugs,29,29,-0.2068965517241378

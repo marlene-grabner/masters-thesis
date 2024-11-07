@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.03360607831677398
+1,disease_on_symptoms,20,20,0.8000000000000003
+2,disease_on_drugs,30,28,0.5129310344827587

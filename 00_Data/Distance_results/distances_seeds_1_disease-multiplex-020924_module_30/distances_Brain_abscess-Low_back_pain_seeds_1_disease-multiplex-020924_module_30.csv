@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,27,30,0.1899610136452241
+1,disease_on_symptoms,21,17,1.1353383458646618
+2,disease_on_drugs,23,26,0.3880110572657156

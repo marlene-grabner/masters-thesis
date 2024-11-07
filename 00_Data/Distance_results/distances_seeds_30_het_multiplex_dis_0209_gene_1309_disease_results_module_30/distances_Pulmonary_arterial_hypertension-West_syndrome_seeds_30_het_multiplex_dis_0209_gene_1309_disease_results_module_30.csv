@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.0862068965517242
+1,disease_on_symptoms,17,13,0.8573152337858221
+2,disease_on_drugs,25,19,0.16382775119617232

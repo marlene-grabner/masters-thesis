@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,16,19,-0.4398496240601504
+2,disease_on_drugs,29,30,-0.23879797389440882

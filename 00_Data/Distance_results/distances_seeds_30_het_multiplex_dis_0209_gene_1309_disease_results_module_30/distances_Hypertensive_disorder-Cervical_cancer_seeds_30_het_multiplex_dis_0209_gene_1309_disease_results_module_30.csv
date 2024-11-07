@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,28,0.09090909090909083
+1,disease_on_symptoms,21,22,0.838971106412967
+2,disease_on_drugs,26,15,0.4458098811757347

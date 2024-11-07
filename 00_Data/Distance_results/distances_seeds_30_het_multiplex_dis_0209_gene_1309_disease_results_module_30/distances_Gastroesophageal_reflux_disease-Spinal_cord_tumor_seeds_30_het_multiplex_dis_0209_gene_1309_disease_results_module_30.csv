@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,26,29,-0.019230769230769162
+1,disease_on_symptoms,18,14,0.20138888888888884
+2,disease_on_drugs,25,22,0.09825918762088981

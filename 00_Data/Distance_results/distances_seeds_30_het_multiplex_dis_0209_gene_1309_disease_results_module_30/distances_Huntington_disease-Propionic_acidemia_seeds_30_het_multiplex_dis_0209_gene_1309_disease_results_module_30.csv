@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Propionic_acidemia nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,17,16,-0.22131238859180047
+2,disease_on_drugs,26,30,0.0881868131868131

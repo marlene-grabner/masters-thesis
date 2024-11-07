@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.6428571428571428
+1,disease_on_symptoms,21,25,2.4542028985507245
+2,disease_on_drugs,25,7,1.3885714285714286

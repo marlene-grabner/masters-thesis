@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,30,0.10614035087719298
+1,disease_on_symptoms,18,18,0.38888888888888884
+2,disease_on_drugs,22,21,0.20756569012382964

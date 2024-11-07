@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.06849816849816825
+1,disease_on_symptoms,19,20,0.8729082321187582
+2,disease_on_drugs,24,22,0.1530797101449275

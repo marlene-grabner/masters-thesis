@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,29,-0.07178683385579931
+1,disease_on_symptoms,23,18,0.2378637916813955
+2,disease_on_drugs,26,28,-0.03876678876678863

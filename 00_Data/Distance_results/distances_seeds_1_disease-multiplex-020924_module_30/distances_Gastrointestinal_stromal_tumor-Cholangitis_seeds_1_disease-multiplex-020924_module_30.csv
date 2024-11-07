@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cholangitis nodes,sAB
+0,disease_on_genes,23,27,0.117230273752013
+1,disease_on_symptoms,20,22,0.5943722943722944
+2,disease_on_drugs,19,26,1.511111111111111

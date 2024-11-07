@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,18,25,0.48005167958656325
+1,disease_on_symptoms,21,23,1.8434970826275174
+2,disease_on_drugs,6,21,1.2301587301587302

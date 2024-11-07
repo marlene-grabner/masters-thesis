@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,28,29,-0.07017543859649122
+1,disease_on_symptoms,18,20,0.38406432748538033
+2,disease_on_drugs,23,28,0.05886919985385464

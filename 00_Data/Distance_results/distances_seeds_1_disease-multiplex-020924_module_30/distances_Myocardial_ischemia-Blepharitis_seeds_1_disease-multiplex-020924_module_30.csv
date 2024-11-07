@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.355
+1,disease_on_symptoms,13,27,1.5047720797720796
+2,disease_on_drugs,23,19,0.739293886891141

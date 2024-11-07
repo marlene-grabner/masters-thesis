@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,29,-0.0899686520376175
+1,disease_on_symptoms,22,18,0.6722222222222225
+2,disease_on_drugs,24,28,0.024267399267399403

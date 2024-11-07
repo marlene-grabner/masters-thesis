@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,0.18518518518518512
+1,disease_on_symptoms,17,22,0.8251748251748254
+2,disease_on_drugs,26,21,0.29543683267087517

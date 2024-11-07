@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.39011299435028257
+1,disease_on_symptoms,14,18,1.1036706349206349
+2,disease_on_drugs,29,22,0.7647058823529411

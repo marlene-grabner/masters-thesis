@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,0.11538461538461542
+1,disease_on_symptoms,22,17,0.5034965034965035
+2,disease_on_drugs,25,24,0.22520408163265282

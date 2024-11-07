@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,29,23,0.035953177257525004
+1,disease_on_symptoms,14,19,0.13795853269537472
+2,disease_on_drugs,22,21,0.06951575556226719

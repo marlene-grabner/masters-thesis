@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,20,28,0.12380952380952381
+1,disease_on_symptoms,25,23,0.7901811594202899
+2,disease_on_drugs,19,28,0.22738361862102052

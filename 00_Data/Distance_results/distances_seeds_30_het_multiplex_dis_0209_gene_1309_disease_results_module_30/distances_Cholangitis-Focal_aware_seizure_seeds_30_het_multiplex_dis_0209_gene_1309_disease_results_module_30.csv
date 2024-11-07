@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.11864406779661019
+1,disease_on_symptoms,18,16,-0.020016339869281197
+2,disease_on_drugs,28,29,-0.037334716100596355

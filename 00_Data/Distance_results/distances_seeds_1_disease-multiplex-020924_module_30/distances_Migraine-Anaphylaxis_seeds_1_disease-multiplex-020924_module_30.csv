@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.13918128654970752
+1,disease_on_symptoms,14,15,1.4093596059113298
+2,disease_on_drugs,29,26,0.30699300699300713

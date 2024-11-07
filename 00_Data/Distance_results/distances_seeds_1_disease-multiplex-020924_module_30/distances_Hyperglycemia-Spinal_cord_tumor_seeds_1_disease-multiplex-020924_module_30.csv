@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,22,0.2165501165501167
+1,disease_on_symptoms,14,22,0.8975468975468979
+2,disease_on_drugs,26,14,0.5178571428571428

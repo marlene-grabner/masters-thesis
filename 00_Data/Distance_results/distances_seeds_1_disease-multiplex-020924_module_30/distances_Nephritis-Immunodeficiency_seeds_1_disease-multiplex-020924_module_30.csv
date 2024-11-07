@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.3356643356643354
+1,disease_on_symptoms,18,19,1.4862889204994467
+2,disease_on_drugs,27,18,0.47962962962962985

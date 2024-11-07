@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,29,23,-0.15436512512974288
+1,disease_on_symptoms,20,19,0.8471659919028338
+2,disease_on_drugs,25,21,-0.020703933747411973

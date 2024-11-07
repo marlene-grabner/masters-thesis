@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,28,27,-0.21785714285714275
+1,disease_on_symptoms,20,17,0.31470588235294117
+2,disease_on_drugs,27,24,-0.13684640522875813

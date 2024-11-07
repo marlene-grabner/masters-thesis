@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,12,19,0.41440294284097323
+2,disease_on_drugs,29,29,0.31034482758620685

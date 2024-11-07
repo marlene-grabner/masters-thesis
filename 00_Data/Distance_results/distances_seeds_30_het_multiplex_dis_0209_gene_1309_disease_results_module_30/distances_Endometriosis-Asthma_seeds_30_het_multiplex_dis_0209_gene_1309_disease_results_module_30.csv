@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.25484848484848477
+1,disease_on_symptoms,16,20,0.3534722222222224
+2,disease_on_drugs,30,22,-0.05349650349650359

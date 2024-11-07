@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,-0.0714285714285714
+1,disease_on_symptoms,21,16,0.6398005148005146
+2,disease_on_drugs,26,28,0.18757631257631258

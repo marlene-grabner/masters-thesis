@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,14,14,-0.32142857142857184
+2,disease_on_drugs,24,25,-0.325391156462585

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,18,20,0.5754385964912281
+2,disease_on_drugs,30,26,0.1784798534798535

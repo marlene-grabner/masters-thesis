@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.134946677604594
+1,disease_on_symptoms,19,19,0.2894736842105263
+2,disease_on_drugs,30,22,-0.13834498834498854

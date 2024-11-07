@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,27,23,0.16592592592592603
+1,disease_on_symptoms,19,24,0.974576703386373
+2,disease_on_drugs,20,22,0.8332251082251081

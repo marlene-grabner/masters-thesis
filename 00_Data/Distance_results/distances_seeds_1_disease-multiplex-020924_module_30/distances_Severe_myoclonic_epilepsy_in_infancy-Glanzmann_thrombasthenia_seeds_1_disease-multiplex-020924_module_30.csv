@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.4439814814814813
+1,disease_on_symptoms,16,21,1.9406370656370657
+2,disease_on_drugs,21,24,0.7371031746031744

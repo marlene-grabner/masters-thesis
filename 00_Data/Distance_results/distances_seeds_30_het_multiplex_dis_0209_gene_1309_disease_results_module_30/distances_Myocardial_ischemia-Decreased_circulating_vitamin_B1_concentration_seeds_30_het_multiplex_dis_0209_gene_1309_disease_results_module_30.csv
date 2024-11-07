@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666666
+1,disease_on_symptoms,19,17,-0.5733574131406949
+2,disease_on_drugs,30,25,-0.1896969696969697

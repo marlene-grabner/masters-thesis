@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.24463937621832343
+1,disease_on_symptoms,12,18,-0.04444444444444451
+2,disease_on_drugs,27,21,0.2857142857142856

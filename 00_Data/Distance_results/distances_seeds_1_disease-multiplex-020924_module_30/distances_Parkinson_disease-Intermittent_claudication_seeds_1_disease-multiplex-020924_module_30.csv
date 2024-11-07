@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,21,20,0.31582462253193944
+1,disease_on_symptoms,20,24,2.0450757575757574
+2,disease_on_drugs,19,18,0.37537537537537524

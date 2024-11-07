@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.05660377358490565
+1,disease_on_symptoms,22,17,0.802790346907994
+2,disease_on_drugs,24,26,0.06371794871794889

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,30,0.08909090909090911
+1,disease_on_symptoms,17,18,0.7439775910364146
+2,disease_on_drugs,25,30,0.17030303030303018

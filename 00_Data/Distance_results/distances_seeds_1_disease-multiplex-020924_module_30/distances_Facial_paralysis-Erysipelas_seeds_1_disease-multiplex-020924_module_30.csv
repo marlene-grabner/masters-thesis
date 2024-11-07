@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,14,28,0.0714285714285714
+1,disease_on_symptoms,23,20,1.2235591506572292
+2,disease_on_drugs,14,27,0.41463414634146334

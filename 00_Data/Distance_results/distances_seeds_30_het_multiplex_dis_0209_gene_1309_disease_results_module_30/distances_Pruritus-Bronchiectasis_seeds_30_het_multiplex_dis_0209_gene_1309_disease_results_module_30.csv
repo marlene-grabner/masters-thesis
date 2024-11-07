@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,-0.19395711500974666
+1,disease_on_symptoms,21,19,-0.3548872180451128
+2,disease_on_drugs,27,25,-0.13638176638176636

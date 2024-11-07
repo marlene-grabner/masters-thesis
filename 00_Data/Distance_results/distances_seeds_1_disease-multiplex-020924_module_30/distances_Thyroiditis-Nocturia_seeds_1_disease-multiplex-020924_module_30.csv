@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Nocturia nodes,sAB
+0,disease_on_genes,26,21,0.19369248637541348
+1,disease_on_symptoms,28,24,0.9278846153846154
+2,disease_on_drugs,23,14,0.2765234178277658

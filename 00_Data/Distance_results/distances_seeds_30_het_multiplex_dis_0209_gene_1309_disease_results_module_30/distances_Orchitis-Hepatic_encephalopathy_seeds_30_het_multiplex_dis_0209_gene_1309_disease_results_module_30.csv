@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,19,14,0.6803372066529962
+2,disease_on_drugs,25,29,0.018569604086845493

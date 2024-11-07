@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,9,30,0.2696581196581196
+1,disease_on_symptoms,27,16,2.0189760981912146
+2,disease_on_drugs,9,30,1.001282051282051

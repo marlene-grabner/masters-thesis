@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.22719298245614028
+1,disease_on_symptoms,18,19,0.1375454401770193
+2,disease_on_drugs,24,29,-0.15521307742355228

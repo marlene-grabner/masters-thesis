@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,24,30,-0.01851851851851849
+1,disease_on_symptoms,17,21,0.6212590299277609
+2,disease_on_drugs,23,29,-0.1573924576173451

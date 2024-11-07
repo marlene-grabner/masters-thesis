@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,29,30,0.20338983050847448
+1,disease_on_symptoms,14,25,0.901025641025641
+2,disease_on_drugs,22,30,0.28041958041958037

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,27,15,0.4825396825396824
+1,disease_on_symptoms,17,25,1.0717086834733895
+2,disease_on_drugs,24,10,0.16470588235294104

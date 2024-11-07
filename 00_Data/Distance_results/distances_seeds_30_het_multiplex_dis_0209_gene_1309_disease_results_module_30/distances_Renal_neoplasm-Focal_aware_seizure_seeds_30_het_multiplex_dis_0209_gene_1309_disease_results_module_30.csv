@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.1724137931034483
+1,disease_on_symptoms,20,16,0.6125
+2,disease_on_drugs,28,29,0.12400613602972954

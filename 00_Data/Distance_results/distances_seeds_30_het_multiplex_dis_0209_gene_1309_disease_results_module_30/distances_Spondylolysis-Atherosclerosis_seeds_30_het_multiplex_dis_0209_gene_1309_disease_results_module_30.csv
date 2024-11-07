@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,17,14,0.48102466793168874
+2,disease_on_drugs,19,29,0.1826225045372052

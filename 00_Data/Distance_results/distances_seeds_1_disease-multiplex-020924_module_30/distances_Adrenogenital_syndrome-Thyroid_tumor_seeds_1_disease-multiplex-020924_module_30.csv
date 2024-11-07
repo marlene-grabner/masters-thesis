@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.5385561936013128
+1,disease_on_symptoms,7,20,1.6556878306878304
+2,disease_on_drugs,22,20,0.791017316017316

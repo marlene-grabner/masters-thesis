@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,28,25,0.043800539083557855
+1,disease_on_symptoms,14,18,1.4995039682539684
+2,disease_on_drugs,28,17,0.5039215686274512

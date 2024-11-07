@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,-0.16666666666666674
+1,disease_on_symptoms,18,20,0.7584795321637425
+2,disease_on_drugs,25,27,-0.0038461538461538325

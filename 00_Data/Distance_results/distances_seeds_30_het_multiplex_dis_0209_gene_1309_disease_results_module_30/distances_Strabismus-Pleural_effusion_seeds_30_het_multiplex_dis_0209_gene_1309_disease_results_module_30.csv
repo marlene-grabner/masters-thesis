@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,17,30,0.13266583229036288
+1,disease_on_symptoms,24,18,0.8363095238095237
+2,disease_on_drugs,16,27,0.4212693798449614

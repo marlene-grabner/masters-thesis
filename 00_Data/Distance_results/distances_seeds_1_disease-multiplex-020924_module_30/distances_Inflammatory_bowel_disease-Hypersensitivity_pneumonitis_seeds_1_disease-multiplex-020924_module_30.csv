@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,17,24,-0.012499999999999956
+1,disease_on_symptoms,27,23,0.031239935587761725
+2,disease_on_drugs,14,24,-0.1672932330827066

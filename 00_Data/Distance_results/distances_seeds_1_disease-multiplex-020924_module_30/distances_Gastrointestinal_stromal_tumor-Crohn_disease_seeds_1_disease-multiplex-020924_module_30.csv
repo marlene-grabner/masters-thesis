@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,23,25,0.2538930003083566
+1,disease_on_symptoms,20,20,0.9750000000000001
+2,disease_on_drugs,19,21,0.6273809523809524

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,0.3076923076923077
+1,disease_on_symptoms,16,15,2.5168682795698927
+2,disease_on_drugs,17,29,1.071611253196931

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,22,30,0.09615384615384626
+1,disease_on_symptoms,21,17,0.6772814388913462
+2,disease_on_drugs,17,30,0.25828118481435114

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,29,30,-0.2364504188583676
+1,disease_on_symptoms,17,20,-0.2882352941176469
+2,disease_on_drugs,26,24,-0.16089743589743588

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,24,30,-0.02083333333333348
+1,disease_on_symptoms,19,16,0.4586466165413534
+2,disease_on_drugs,19,29,-0.024387477313974504

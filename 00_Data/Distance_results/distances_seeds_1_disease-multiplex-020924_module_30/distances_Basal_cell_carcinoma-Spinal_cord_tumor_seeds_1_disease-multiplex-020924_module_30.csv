@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,26,22,-0.053321678321678334
+1,disease_on_symptoms,23,22,0.9766359244620113
+2,disease_on_drugs,25,14,0.6877289377289377

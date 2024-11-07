@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,-0.18973727422003284
+1,disease_on_symptoms,16,25,-0.3803963414634144
+2,disease_on_drugs,30,23,-0.29163248564397026

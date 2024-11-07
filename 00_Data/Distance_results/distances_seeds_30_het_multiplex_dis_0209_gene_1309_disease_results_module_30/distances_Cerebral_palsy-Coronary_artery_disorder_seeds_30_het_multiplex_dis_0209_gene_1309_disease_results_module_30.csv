@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.11033634126333047
+1,disease_on_symptoms,13,19,1.6425860323886639
+2,disease_on_drugs,21,22,0.09070774187053243

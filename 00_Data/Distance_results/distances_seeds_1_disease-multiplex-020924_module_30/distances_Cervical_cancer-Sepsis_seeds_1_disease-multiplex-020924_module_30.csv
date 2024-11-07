@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Sepsis nodes,sAB
+0,disease_on_genes,27,22,0.3780491994777708
+1,disease_on_symptoms,23,23,1.4782608695652175
+2,disease_on_drugs,15,17,0.6786764705882353

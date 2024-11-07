@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,29,-0.3223261250730566
+1,disease_on_symptoms,17,20,-0.5346979332273449
+2,disease_on_drugs,24,24,-0.45833333333333337

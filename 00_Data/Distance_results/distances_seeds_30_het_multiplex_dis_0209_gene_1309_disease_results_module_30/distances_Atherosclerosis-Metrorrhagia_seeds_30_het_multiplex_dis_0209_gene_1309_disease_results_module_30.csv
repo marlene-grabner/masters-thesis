@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.17543859649122806
+1,disease_on_symptoms,14,17,-0.18500948766603376
+2,disease_on_drugs,29,26,-0.1327345068724377

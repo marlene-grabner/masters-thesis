@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Emphysema nodes,sAB
+0,disease_on_genes,29,30,0.2033800896162088
+1,disease_on_symptoms,17,14,1.0672946597994035
+2,disease_on_drugs,26,29,0.7080419580419581

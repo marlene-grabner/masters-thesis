@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,28,30,-0.13793103448275867
+1,disease_on_symptoms,17,19,0.04033367733058135
+2,disease_on_drugs,25,24,-0.24586734693877554

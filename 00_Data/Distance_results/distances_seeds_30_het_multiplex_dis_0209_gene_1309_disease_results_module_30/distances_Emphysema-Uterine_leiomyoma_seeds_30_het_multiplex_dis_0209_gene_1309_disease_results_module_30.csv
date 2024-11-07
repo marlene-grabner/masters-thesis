@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,18,20,0.662719298245614
+2,disease_on_drugs,27,28,0.11035353535353543

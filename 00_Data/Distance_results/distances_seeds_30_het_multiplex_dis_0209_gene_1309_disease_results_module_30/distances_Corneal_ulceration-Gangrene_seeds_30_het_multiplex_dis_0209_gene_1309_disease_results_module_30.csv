@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,27,0.10941558441558441
+1,disease_on_symptoms,15,22,0.5420556920556918
+2,disease_on_drugs,23,27,0.2599355877616747

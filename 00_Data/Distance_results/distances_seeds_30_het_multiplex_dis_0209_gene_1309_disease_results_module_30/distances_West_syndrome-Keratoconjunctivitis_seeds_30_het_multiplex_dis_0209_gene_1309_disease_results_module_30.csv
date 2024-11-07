@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,13,20,0.8276806526806526
+2,disease_on_drugs,19,27,0.08555809814391058

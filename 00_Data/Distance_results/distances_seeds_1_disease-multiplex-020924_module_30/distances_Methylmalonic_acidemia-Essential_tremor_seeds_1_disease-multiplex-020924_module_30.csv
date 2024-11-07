@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,25,21,0.24956521739130433
+1,disease_on_symptoms,16,20,1.6166666666666665
+2,disease_on_drugs,17,19,0.6664946680426558

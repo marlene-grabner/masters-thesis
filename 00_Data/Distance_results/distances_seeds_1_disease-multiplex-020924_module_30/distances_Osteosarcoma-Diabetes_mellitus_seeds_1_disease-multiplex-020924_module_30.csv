@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,25,20,0.26055555555555565
+1,disease_on_symptoms,24,18,1.9533730158730158
+2,disease_on_drugs,23,19,1.211779448621554

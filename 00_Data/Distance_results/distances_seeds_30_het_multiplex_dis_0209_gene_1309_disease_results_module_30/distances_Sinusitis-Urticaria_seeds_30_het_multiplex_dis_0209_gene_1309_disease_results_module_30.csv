@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Urticaria nodes,sAB
+0,disease_on_genes,29,24,-0.05660377358490565
+1,disease_on_symptoms,20,21,0.07749709639953539
+2,disease_on_drugs,27,24,0.057053376906318176

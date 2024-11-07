@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.30508474576271183
+1,disease_on_symptoms,17,16,-0.2715017825311943
+2,disease_on_drugs,26,29,-0.4015915119363396

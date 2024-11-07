@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,24,0.20448979591836736
+1,disease_on_symptoms,19,17,1.4955280357757141
+2,disease_on_drugs,24,23,0.680349984582177

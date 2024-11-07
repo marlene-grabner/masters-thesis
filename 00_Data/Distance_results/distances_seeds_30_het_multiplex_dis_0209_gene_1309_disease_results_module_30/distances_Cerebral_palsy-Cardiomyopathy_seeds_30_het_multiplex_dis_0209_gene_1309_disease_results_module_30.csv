@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.0945454545454546
+1,disease_on_symptoms,13,21,0.41068735186382255
+2,disease_on_drugs,21,24,-0.22936507936507922

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.3894134282065316
+1,disease_on_symptoms,16,21,1.6115669240669241
+2,disease_on_drugs,18,28,1.0333850931677018

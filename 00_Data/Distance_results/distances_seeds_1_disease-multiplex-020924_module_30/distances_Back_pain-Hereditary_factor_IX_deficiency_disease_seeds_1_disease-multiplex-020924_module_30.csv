@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,25,0.1493939393939392
+1,disease_on_symptoms,16,22,1.7656997607655502
+2,disease_on_drugs,23,21,0.18073593073593086

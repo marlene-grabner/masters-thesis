@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.20929419986023756
+1,disease_on_symptoms,19,15,1.6623323013415892
+2,disease_on_drugs,26,21,0.9093406593406592

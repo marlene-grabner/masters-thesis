@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.12126436781609207
+1,disease_on_symptoms,15,25,0.3600000000000001
+2,disease_on_drugs,25,24,0.10068027210884356

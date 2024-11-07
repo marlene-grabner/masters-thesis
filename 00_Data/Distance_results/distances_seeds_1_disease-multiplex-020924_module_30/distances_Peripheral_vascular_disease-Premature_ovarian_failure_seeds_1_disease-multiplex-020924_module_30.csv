@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,23,28,0.10485933503836309
+1,disease_on_symptoms,16,21,1.2317004504504503
+2,disease_on_drugs,22,21,0.5337763012181616

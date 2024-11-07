@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,-0.0029239766081872176
+1,disease_on_symptoms,22,18,0.39217171717171695
+2,disease_on_drugs,20,21,-0.09538327526132417

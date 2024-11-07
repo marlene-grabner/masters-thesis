@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.0683497536945814
+1,disease_on_symptoms,16,15,0.8234543010752688
+2,disease_on_drugs,21,23,0.23103707886316593

@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,22,13,0.09995004995004986
+2,disease_on_drugs,28,23,-0.004643161612471136

@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,24,-0.03703703703703709
+1,disease_on_symptoms,19,23,0.3197668083251608
+2,disease_on_drugs,29,24,-0.03285621340273259

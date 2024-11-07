@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Exanthem nodes,sAB
+0,disease_on_genes,28,30,-0.03390804597701147
+1,disease_on_symptoms,17,21,0.3426949727259323
+2,disease_on_drugs,19,29,-0.06737749546279481

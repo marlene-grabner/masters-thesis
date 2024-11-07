@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,25,16,0.09396341463414637
+1,disease_on_symptoms,24,21,2.613888888888889
+2,disease_on_drugs,20,15,0.8857142857142857

@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,17,30,0.04472256987901546
+1,disease_on_symptoms,21,20,0.21576655052264826
+2,disease_on_drugs,14,30,-0.022727272727272707

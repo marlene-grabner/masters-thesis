@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.23700564971751403
+1,disease_on_symptoms,19,20,0.7127867746288801
+2,disease_on_drugs,28,28,0.0535714285714286

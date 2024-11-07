@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,13,0.27564102564102577
+1,disease_on_symptoms,21,26,0.9023263970072481
+2,disease_on_drugs,24,9,1.0959595959595958

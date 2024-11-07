@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.30000000000000004
+1,disease_on_symptoms,17,16,-0.9971033868092692
+2,disease_on_drugs,30,28,-0.29688013136289004

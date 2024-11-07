@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,18,20,0.39678362573099424
+1,disease_on_symptoms,21,23,0.9106907585168453
+2,disease_on_drugs,6,17,0.4829497016197781

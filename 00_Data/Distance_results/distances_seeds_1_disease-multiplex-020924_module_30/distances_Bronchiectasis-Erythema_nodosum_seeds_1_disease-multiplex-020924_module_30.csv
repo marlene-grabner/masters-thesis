@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.13788998357963855
+1,disease_on_symptoms,15,23,-0.06758199847444701
+2,disease_on_drugs,26,28,0.1103479853479854

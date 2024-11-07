@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,16,18,0.4354575163398695
+2,disease_on_drugs,29,27,-0.1226737821565409

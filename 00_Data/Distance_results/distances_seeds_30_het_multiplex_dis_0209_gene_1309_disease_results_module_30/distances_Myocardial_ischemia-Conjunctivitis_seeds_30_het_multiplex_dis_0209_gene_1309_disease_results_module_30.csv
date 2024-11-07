@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.10197740112994347
+1,disease_on_symptoms,19,27,0.5222900245783544
+2,disease_on_drugs,30,28,0.3077996715927751

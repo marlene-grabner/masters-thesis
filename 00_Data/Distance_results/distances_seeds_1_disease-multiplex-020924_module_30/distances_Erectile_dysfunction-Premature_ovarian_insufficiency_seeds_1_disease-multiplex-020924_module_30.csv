@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.05880503144654092
+1,disease_on_symptoms,16,22,0.8912978468899522
+2,disease_on_drugs,30,17,0.1596370463078849

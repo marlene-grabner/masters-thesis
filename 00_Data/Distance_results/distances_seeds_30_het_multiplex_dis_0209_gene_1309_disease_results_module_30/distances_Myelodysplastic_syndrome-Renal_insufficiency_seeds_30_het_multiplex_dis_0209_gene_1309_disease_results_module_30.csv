@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,17,19,0.20760233918128645
+2,disease_on_drugs,24,28,0.09752747252747263

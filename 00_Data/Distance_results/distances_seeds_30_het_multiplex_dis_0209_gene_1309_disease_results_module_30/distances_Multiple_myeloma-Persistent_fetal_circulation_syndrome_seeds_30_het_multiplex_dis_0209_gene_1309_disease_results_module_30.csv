@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,26,24,-0.040000000000000036
+1,disease_on_symptoms,21,22,0.8126950568811031
+2,disease_on_drugs,25,21,-0.006873706004140834

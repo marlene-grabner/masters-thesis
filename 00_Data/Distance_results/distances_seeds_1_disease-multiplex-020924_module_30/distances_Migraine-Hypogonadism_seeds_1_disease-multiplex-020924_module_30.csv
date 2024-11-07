@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.03446327683615835
+1,disease_on_symptoms,14,12,0.3727106227106227
+2,disease_on_drugs,29,30,0.5765536723163842

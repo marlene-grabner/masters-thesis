@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,21,24,0.19980158730158726
+2,disease_on_drugs,29,20,0.14319141449683292

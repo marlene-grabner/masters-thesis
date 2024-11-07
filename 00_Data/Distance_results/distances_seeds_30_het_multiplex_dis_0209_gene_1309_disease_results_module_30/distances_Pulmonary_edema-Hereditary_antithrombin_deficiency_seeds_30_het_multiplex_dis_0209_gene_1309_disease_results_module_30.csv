@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.13793103448275867
+1,disease_on_symptoms,11,16,0.35332491582491565
+2,disease_on_drugs,27,23,-0.05816425120772961

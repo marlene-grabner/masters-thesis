@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,22,30,0.11713286713286708
+1,disease_on_symptoms,23,19,1.7905088808978968
+2,disease_on_drugs,17,30,0.4943679599499373

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,30,0.10516569200779724
+1,disease_on_symptoms,17,18,0.5134920634920634
+2,disease_on_drugs,24,21,0.3585317460317461

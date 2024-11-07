@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,0.4821428571428572
+1,disease_on_symptoms,15,13,1.0324175824175823
+2,disease_on_drugs,15,23,0.7891685736079328

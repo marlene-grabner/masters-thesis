@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,22,24,0.1442460317460319
+1,disease_on_symptoms,26,21,1.3607668926817862
+2,disease_on_drugs,12,24,1.3958333333333335

@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.3459609356161082
+1,disease_on_symptoms,22,15,0.19205569205569217
+2,disease_on_drugs,29,16,0.903831417624521

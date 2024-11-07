@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,19,22,0.28025440541486724
+2,disease_on_drugs,24,29,0.02492680546519188

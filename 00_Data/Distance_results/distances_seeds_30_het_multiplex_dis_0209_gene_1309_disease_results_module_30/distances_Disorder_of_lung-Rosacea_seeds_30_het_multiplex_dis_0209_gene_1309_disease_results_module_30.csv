@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.1043859649122807
+1,disease_on_symptoms,18,18,1.0
+2,disease_on_drugs,24,30,-0.047685185185185164

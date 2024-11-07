@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,28,20,0.07916666666666683
+1,disease_on_symptoms,21,23,1.0816864295125164
+2,disease_on_drugs,21,17,0.6443314167772372

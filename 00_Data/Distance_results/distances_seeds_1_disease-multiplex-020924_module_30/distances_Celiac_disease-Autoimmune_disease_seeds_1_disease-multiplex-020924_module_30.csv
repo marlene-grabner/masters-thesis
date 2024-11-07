@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,17,22,0.029754559166323746
+1,disease_on_symptoms,22,19,1.5455712451861359
+2,disease_on_drugs,15,19,-0.11847265221878223

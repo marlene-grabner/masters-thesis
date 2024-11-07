@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.5166666666666665
+1,disease_on_symptoms,22,22,-0.7272727272727272
+2,disease_on_drugs,30,30,-0.4833333333333334

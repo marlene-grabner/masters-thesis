@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,20,19,-0.7133265856950066
+2,disease_on_drugs,30,29,-0.1861679329826612

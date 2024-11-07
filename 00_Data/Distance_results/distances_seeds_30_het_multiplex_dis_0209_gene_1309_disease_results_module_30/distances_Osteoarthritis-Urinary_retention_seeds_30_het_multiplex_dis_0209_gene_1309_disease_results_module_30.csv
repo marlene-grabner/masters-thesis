@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,-0.21703296703296693
+1,disease_on_symptoms,22,16,-0.06743421052631571
+2,disease_on_drugs,25,28,-0.056078167115902966

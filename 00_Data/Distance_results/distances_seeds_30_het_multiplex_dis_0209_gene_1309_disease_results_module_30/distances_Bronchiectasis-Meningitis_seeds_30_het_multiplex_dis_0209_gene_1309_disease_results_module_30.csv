@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,19,17,-0.07696938424492616
+2,disease_on_drugs,25,27,-0.24962962962962965

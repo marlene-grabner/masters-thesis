@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,25,0.19148148148148136
+1,disease_on_symptoms,17,20,0.8677265500794913
+2,disease_on_drugs,20,18,0.07456140350877183

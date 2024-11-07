@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.0533882783882782
+1,disease_on_symptoms,21,20,0.5131533101045296
+2,disease_on_drugs,25,22,0.2153191489361701

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.06272655634357749
+1,disease_on_symptoms,19,26,0.780004498425551
+2,disease_on_drugs,26,13,0.3012820512820511

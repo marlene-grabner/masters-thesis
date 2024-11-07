@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,17,18,0.11269841269841252
+2,disease_on_drugs,24,26,-0.04288461538461541

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Goiter nodes,sAB
+0,disease_on_genes,23,26,0.19947443860487346
+1,disease_on_symptoms,24,15,1.3044871794871795
+2,disease_on_drugs,17,16,0.5757575757575757

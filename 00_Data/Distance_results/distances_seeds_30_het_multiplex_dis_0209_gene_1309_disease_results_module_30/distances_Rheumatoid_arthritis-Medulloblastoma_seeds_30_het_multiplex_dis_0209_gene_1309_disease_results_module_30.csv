@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.1394736842105263
+1,disease_on_symptoms,19,22,0.28323024857042833
+2,disease_on_drugs,30,26,-0.022161172161172304

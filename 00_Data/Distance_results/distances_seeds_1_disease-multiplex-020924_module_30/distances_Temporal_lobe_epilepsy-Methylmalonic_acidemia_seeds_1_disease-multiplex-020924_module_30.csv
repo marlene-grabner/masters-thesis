@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,29,25,0.251647509578544
+1,disease_on_symptoms,17,16,1.2716131907308377
+2,disease_on_drugs,26,17,0.8350783962959065

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,17,24,1.051321138211382
+2,disease_on_drugs,26,15,0.16075672295184473

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.19818181818181824
+1,disease_on_symptoms,22,20,0.7599567099567102
+2,disease_on_drugs,29,21,0.2537931034482759

@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.4833333333333333
+1,disease_on_symptoms,19,19,-0.7894736842105263
+2,disease_on_drugs,30,30,-0.5000000000000001

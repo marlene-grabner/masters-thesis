@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,20,18,-0.41242690058479536
+2,disease_on_drugs,30,30,0.03333333333333344

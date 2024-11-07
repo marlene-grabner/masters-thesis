@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,13,18,0.375861593603529
+2,disease_on_drugs,21,22,-0.2338165710258735

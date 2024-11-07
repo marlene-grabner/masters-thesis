@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,29,9,0.4590643274853803
+1,disease_on_symptoms,18,27,0.5555555555555554
+2,disease_on_drugs,22,9,1.193548387096774

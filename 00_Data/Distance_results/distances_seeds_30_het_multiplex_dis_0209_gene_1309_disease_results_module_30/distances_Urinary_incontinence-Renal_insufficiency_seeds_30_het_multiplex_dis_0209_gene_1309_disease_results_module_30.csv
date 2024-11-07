@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.05084745762711862
+1,disease_on_symptoms,20,19,0.40931174089068856
+2,disease_on_drugs,20,28,0.09464285714285703

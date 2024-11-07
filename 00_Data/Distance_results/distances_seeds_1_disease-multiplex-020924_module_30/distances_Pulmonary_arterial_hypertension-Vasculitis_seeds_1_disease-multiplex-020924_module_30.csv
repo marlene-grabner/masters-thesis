@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Vasculitis nodes,sAB
+0,disease_on_genes,28,24,-0.11561355311355315
+1,disease_on_symptoms,18,19,-0.0004346451714873911
+2,disease_on_drugs,26,20,-0.06923076923076943

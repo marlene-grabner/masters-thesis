@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,16,20,1.7194444444444446
+2,disease_on_drugs,25,26,0.6877375565610859

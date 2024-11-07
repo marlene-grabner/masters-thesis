@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,22,30,-0.019230769230769273
+1,disease_on_symptoms,21,17,0.8429161138139467
+2,disease_on_drugs,17,29,0.0034394567422171285

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,15,0.10264550264550265
+1,disease_on_symptoms,19,27,2.3745232646834475
+2,disease_on_drugs,26,13,1.057692307692308

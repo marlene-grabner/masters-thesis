@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma_of_the_head_and_neck nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.055952380952380976
+1,disease_on_symptoms,22,12,0.9449643493761144
+2,disease_on_drugs,30,18,0.29027777777777786

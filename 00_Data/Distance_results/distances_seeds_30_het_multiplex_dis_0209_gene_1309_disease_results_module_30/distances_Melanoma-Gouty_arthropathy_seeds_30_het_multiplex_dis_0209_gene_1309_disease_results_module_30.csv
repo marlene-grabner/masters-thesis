@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,27,28,-0.0003367003367005239
+1,disease_on_symptoms,23,18,0.5745552020737599
+2,disease_on_drugs,25,23,0.11927536231884073

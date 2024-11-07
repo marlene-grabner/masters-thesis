@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,0.03505747126436787
+1,disease_on_symptoms,16,22,0.6037679425837323
+2,disease_on_drugs,23,29,0.221370084188675

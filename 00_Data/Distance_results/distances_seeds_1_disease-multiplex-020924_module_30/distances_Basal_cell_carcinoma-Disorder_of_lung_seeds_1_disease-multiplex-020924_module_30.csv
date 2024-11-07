@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,26,27,0.24526958017524048
+1,disease_on_symptoms,23,17,1.7048593350383632
+2,disease_on_drugs,25,20,0.8444444444444446

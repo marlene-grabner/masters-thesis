@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,21,18,0.41849816849816834
+2,disease_on_drugs,27,27,0.03703703703703698

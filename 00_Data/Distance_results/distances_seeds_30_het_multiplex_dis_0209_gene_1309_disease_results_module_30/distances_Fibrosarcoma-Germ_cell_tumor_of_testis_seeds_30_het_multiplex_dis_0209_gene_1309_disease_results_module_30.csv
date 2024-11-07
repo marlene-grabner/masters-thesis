@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.16081871345029242
+1,disease_on_symptoms,14,22,0.13780663780663804
+2,disease_on_drugs,26,20,-0.30058528428093634

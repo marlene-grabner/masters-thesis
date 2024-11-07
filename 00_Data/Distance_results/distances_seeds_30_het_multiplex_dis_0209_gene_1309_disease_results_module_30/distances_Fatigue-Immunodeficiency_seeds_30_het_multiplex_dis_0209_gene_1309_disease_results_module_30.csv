@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,26,-0.21153846153846156
+1,disease_on_symptoms,16,21,0.8486164736164739
+2,disease_on_drugs,26,26,-0.0769230769230771

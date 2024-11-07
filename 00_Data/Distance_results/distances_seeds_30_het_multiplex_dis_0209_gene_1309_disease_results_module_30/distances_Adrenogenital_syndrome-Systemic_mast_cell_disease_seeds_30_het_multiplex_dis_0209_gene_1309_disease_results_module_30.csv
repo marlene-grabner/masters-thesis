@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.2542372881355932
+1,disease_on_symptoms,9,25,0.8870588235294119
+2,disease_on_drugs,23,21,0.23310747223790695

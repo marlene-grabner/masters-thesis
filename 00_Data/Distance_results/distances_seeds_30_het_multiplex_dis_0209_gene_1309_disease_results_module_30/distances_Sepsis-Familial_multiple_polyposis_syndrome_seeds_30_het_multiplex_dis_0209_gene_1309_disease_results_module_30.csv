@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,15,19,0.9498452012383902
+2,disease_on_drugs,25,25,0.45999999999999996

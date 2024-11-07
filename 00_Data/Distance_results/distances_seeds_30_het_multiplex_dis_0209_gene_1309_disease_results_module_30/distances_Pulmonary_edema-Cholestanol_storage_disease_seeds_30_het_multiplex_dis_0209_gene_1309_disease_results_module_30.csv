@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.051139684395090534
+1,disease_on_symptoms,11,18,0.1556078021595262
+2,disease_on_drugs,27,28,0.09184704184704207

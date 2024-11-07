@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,26,23,-0.12377994676131332
+1,disease_on_symptoms,22,19,0.5494515112615241
+2,disease_on_drugs,26,21,-0.18326708752240672

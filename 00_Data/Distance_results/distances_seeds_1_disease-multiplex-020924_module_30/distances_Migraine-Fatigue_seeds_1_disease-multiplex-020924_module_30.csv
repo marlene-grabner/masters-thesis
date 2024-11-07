@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.46465201465201467
+1,disease_on_symptoms,14,21,-0.5714285714285716
+2,disease_on_drugs,29,26,-0.42027972027972016

@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,28,25,0.1339757412398921
+1,disease_on_symptoms,14,24,1.8391290726817042
+2,disease_on_drugs,28,23,0.7289915966386555

@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.3666666666666668
+1,disease_on_symptoms,19,22,-0.5615882833469483
+2,disease_on_drugs,29,29,-0.2931034482758621

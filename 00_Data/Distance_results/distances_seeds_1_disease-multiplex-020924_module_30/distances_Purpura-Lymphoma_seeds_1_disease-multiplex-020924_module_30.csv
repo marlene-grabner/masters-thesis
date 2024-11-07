@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Lymphoma nodes,sAB
+0,disease_on_genes,26,26,0.23076923076923062
+1,disease_on_symptoms,17,21,2.076735957540911
+2,disease_on_drugs,20,25,0.76

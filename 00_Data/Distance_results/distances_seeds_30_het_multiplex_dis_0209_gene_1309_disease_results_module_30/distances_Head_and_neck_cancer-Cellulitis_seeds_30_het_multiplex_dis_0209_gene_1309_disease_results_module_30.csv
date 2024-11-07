@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,0.07017543859649122
+1,disease_on_symptoms,22,20,0.5645021645021644
+2,disease_on_drugs,23,26,0.16618319568630135

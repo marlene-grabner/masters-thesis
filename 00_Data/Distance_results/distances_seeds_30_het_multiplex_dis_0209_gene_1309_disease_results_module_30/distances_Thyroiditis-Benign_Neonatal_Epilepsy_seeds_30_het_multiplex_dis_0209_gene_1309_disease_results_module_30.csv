@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,21,16,0.594152187902188
+2,disease_on_drugs,29,21,0.41444991789819374

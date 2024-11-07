@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,0.05084745762711873
+1,disease_on_symptoms,18,16,0.8602941176470589
+2,disease_on_drugs,29,28,0.313877365828364

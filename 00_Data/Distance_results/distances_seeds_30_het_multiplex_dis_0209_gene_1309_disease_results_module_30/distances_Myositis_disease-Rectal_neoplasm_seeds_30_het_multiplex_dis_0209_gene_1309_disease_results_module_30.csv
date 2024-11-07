@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.03333333333333344
+1,disease_on_symptoms,18,20,0.02119883040935666
+2,disease_on_drugs,26,29,-0.10194116228598982

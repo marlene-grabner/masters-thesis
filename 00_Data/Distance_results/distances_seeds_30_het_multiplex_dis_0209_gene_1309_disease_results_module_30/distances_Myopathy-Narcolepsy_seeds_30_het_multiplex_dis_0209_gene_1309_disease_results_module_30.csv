@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,23,25,-0.25
+1,disease_on_symptoms,22,20,0.5901515151515153
+2,disease_on_drugs,21,21,-0.30952380952380953

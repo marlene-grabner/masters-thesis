@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,28,27,0.07271524771524773
+1,disease_on_symptoms,18,27,1.9462962962962962
+2,disease_on_drugs,26,26,0.42307692307692313

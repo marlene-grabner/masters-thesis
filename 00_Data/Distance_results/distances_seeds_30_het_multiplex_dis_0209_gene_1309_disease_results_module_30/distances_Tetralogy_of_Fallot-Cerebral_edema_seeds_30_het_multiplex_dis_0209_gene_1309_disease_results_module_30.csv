@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,-0.10000000000000009
+1,disease_on_symptoms,19,10,0.10217785843920169
+2,disease_on_drugs,20,16,-0.1381944444444445

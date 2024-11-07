@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.07572892040977153
+1,disease_on_symptoms,20,26,1.1403846153846153
+2,disease_on_drugs,25,13,0.3076923076923077

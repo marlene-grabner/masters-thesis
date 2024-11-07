@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,0.01662561576354693
+1,disease_on_symptoms,21,20,0.5058652729384439
+2,disease_on_drugs,27,27,0.6296296296296295

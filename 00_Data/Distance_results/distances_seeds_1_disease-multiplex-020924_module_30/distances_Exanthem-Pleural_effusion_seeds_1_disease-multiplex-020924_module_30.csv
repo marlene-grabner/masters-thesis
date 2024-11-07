@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,0.1040229885057471
+1,disease_on_symptoms,26,20,0.052424749163879625
+2,disease_on_drugs,28,22,0.022142857142857242

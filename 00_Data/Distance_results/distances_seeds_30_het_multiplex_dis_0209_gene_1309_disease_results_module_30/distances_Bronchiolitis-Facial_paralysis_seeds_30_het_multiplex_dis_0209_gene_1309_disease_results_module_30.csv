@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,22,0.06000000000000005
+1,disease_on_symptoms,25,21,0.6465424430641822
+2,disease_on_drugs,24,17,0.12027737924438053

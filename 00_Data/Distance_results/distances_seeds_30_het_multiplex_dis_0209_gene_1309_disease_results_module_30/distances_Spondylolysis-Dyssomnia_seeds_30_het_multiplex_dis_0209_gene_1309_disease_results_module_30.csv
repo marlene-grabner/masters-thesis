@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,28,18,-0.021739130434782594
+1,disease_on_symptoms,17,21,1.3076072534276868
+2,disease_on_drugs,19,17,-0.0010319917440662074

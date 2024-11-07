@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.15254237288135597
+1,disease_on_symptoms,21,18,-0.18925518925518925
+2,disease_on_drugs,29,28,-0.17610837438423643

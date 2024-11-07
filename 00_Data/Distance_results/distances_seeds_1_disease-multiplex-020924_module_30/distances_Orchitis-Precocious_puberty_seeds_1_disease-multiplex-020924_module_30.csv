@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,23,30,0.09874213836477996
+1,disease_on_symptoms,16,14,0.35803571428571446
+2,disease_on_drugs,17,24,-0.10760401721664281

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,23,21,0.36533032185206094
+1,disease_on_symptoms,19,26,1.6014394961763383
+2,disease_on_drugs,11,20,0.903225806451613

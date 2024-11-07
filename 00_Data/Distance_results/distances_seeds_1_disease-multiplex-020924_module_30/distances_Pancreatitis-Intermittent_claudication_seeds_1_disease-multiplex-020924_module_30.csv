@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.13833333333333342
+1,disease_on_symptoms,20,24,0.8109848484848483
+2,disease_on_drugs,30,18,0.6388888888888888

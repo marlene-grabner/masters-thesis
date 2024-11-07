@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,25,29,0.6147381864623243
+1,disease_on_symptoms,19,15,1.1925696594427242
+2,disease_on_drugs,13,29,0.8014399393709739

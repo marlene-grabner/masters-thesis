@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,19,19,0.3947368421052633
+2,disease_on_drugs,29,29,0.15517241379310365

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,17,22,0.4883792677910326
+1,disease_on_symptoms,22,21,4.41749723145072
+2,disease_on_drugs,15,6,0.2761904761904763

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.051683087027914576
+1,disease_on_symptoms,17,19,1.0139318885448916
+2,disease_on_drugs,26,25,0.3174509803921568

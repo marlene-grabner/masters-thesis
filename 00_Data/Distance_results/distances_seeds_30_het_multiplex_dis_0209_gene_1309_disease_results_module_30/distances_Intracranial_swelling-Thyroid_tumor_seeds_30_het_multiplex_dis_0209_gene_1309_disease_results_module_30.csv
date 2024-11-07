@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.09433962264150941
+1,disease_on_symptoms,11,20,0.9182551319648096
+2,disease_on_drugs,21,20,0.22354819976771179

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.030788177339901468
+1,disease_on_symptoms,14,21,1.126190476190476
+2,disease_on_drugs,28,29,1.035692679975802

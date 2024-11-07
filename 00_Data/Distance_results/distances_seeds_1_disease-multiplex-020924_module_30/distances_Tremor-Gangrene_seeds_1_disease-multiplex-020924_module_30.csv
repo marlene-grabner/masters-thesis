@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Gangrene nodes,sAB
+0,disease_on_genes,16,26,0.23958333333333326
+1,disease_on_symptoms,23,19,1.46856271112564
+2,disease_on_drugs,16,23,0.613677536231884

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,17,28,0.024416433239962787
+1,disease_on_symptoms,21,15,1.6492063492063491
+2,disease_on_drugs,17,21,0.6253869969040247

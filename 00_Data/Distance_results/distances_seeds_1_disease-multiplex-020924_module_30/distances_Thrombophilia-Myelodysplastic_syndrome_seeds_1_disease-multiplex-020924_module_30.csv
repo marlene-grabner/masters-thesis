@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.35883997204751905
+1,disease_on_symptoms,18,15,0.7555555555555555
+2,disease_on_drugs,21,21,0.6904761904761905

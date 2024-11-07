@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.07384230287859816
+1,disease_on_symptoms,16,27,0.5662952196382429
+2,disease_on_drugs,30,16,0.5679347826086956

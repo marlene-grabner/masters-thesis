@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,28,21,0.3392857142857142
+1,disease_on_symptoms,14,26,1.7016483516483518
+2,disease_on_drugs,24,20,1.0681818181818183

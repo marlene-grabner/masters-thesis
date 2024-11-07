@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,-0.27675585284280924
+1,disease_on_symptoms,12,21,-0.3668831168831168
+2,disease_on_drugs,30,21,-0.2841736694677872

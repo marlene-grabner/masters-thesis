@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.3814926452857488
+1,disease_on_symptoms,19,16,2.205921052631579
+2,disease_on_drugs,24,22,0.7182971014492752

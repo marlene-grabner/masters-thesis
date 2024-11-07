@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,10,0.5490490490490489
+1,disease_on_symptoms,23,27,1.9615780998389694
+2,disease_on_drugs,15,9,0.6333333333333333

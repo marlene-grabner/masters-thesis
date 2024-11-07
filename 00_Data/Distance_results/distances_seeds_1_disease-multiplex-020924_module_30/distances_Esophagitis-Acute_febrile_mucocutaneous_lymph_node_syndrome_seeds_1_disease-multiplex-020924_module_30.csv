@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,24,30,0.07193054416188116
+1,disease_on_symptoms,23,18,0.9977318251443381
+2,disease_on_drugs,20,25,0.2905555555555557

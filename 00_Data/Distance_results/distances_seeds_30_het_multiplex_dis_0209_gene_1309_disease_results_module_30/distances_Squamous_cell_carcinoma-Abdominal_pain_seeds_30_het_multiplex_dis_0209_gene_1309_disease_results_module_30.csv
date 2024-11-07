@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,22,19,0.5493348115299335
+2,disease_on_drugs,30,29,0.5581531268264173

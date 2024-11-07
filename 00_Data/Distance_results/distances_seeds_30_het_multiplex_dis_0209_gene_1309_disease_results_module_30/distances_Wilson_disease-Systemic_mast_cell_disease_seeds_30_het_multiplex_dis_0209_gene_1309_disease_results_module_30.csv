@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,25,29,0.03703703703703698
+1,disease_on_symptoms,19,25,0.37995215311004804
+2,disease_on_drugs,22,21,0.04912916540823509

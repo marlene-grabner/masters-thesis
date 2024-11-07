@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,29,29,0.06896551724137923
+1,disease_on_symptoms,25,27,0.36891737891737897
+2,disease_on_drugs,21,28,0.13435374149659873

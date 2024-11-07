@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Obesity nodes,sAB
+0,disease_on_genes,26,27,-0.2631027253668763
+1,disease_on_symptoms,19,18,0.3237711395606133
+2,disease_on_drugs,25,25,0.039999999999999813

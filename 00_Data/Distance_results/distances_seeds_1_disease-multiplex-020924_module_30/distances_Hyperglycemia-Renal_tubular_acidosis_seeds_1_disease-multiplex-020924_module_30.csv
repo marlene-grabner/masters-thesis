@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,30,18,0.39166666666666683
+1,disease_on_symptoms,14,18,0.5238095238095237
+2,disease_on_drugs,26,10,0.48333333333333317

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,9,30,0.02478632478632492
+1,disease_on_symptoms,27,17,1.5172311348781937
+2,disease_on_drugs,9,26,0.5142857142857142

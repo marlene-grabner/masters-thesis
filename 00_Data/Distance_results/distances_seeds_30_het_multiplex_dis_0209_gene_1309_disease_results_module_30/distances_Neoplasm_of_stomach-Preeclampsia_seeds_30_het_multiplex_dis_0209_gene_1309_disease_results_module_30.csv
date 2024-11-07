@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,25,27,-0.058461538461538454
+1,disease_on_symptoms,23,18,0.5975904324260635
+2,disease_on_drugs,24,22,0.018692358366271256

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,21,24,0.22896825396825404
+1,disease_on_symptoms,22,21,2.399375817980469
+2,disease_on_drugs,21,18,1.0344932844932846

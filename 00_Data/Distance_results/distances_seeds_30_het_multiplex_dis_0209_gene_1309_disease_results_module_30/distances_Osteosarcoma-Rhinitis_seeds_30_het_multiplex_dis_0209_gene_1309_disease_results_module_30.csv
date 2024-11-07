@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,22,12,0.09982174688057066
+2,disease_on_drugs,29,23,0.39623457502018233

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,25,0.2124242424242424
+1,disease_on_symptoms,24,13,1.400900900900901
+2,disease_on_drugs,28,16,0.7203733766233764

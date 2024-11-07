@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,27,25,-0.07774928774928791
+1,disease_on_symptoms,21,21,0.26190476190476186
+2,disease_on_drugs,27,24,0.17592592592592582

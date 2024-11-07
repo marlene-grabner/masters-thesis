@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,0.34355500821018037
+1,disease_on_symptoms,19,20,0.7426788124156545
+2,disease_on_drugs,26,22,0.7307692307692308

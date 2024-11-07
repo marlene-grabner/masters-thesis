@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Ascites nodes,sAB
+0,disease_on_genes,13,30,0.1636851520572451
+1,disease_on_symptoms,26,17,0.9524097653372623
+2,disease_on_drugs,9,27,0.4166666666666665

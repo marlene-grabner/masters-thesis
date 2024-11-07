@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Pericarditis nodes,sAB
+0,disease_on_genes,22,25,-0.005802707930367523
+1,disease_on_symptoms,19,22,1.6076555023923444
+2,disease_on_drugs,19,25,0.021866028708134033

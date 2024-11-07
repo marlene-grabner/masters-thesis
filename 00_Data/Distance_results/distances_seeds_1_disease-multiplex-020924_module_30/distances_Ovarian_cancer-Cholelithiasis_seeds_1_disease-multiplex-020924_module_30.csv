@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,27,25,0.5176923076923077
+1,disease_on_symptoms,17,19,1.5749054007567937
+2,disease_on_drugs,25,18,1.9722222222222223

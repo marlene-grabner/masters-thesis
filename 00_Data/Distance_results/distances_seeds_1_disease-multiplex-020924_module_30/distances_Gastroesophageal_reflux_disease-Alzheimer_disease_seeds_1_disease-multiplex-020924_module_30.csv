@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,26,20,0.08369565217391317
+1,disease_on_symptoms,17,23,0.9994245524296674
+2,disease_on_drugs,25,18,0.35209302325581393

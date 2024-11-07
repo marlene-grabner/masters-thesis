@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,0.08909090909090911
+1,disease_on_symptoms,18,17,1.2558823529411764
+2,disease_on_drugs,25,25,0.47999999999999976

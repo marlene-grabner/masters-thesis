@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Leukemia nodes,sAB
+0,disease_on_genes,17,18,0.19663865546218484
+1,disease_on_symptoms,25,27,1.9839886039886037
+2,disease_on_drugs,13,17,1.0066365007541478

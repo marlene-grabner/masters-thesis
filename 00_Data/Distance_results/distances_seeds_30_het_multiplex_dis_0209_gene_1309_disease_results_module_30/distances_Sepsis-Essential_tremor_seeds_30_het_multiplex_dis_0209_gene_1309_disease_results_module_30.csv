@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.19901960784313721
+1,disease_on_symptoms,15,23,1.8299771167048053
+2,disease_on_drugs,25,21,0.4548654244306418

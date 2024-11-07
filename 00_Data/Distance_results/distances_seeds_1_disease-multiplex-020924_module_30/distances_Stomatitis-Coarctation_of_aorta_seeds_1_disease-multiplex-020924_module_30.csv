@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.4587719298245614
+1,disease_on_symptoms,23,14,2.082046332046332
+2,disease_on_drugs,30,13,0.9697674418604652

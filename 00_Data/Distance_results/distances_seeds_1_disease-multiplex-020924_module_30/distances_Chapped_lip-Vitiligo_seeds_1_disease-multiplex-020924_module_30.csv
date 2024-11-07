@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.010833333333333472
+1,disease_on_symptoms,21,22,0.0696415987113661
+2,disease_on_drugs,24,11,-0.22857142857142854

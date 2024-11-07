@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,15,18,0.22727272727272707
+2,disease_on_drugs,29,29,0.06896551724137945

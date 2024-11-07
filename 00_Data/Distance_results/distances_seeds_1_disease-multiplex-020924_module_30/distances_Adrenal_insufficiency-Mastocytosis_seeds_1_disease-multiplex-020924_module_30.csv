@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,17,18,0.4562558356676003
+1,disease_on_symptoms,21,28,0.9260204081632653
+2,disease_on_drugs,14,17,0.36053130929791277

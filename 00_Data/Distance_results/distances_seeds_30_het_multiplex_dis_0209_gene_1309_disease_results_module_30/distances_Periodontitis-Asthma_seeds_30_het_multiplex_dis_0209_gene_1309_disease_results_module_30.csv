@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.11090909090909096
+1,disease_on_symptoms,21,20,1.073432055749129
+2,disease_on_drugs,28,22,-0.0034415584415585787

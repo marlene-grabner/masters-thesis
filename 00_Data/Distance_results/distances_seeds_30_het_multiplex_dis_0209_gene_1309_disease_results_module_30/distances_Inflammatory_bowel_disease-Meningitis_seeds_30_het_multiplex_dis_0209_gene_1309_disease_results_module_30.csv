@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,20,17,0.2483704292527822
+2,disease_on_drugs,27,27,-0.05555555555555558

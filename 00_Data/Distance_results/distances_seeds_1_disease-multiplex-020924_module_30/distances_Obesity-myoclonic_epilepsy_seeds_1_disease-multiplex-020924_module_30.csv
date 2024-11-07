@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,26,30,0.2331501831501832
+1,disease_on_symptoms,20,16,0.7076388888888889
+2,disease_on_drugs,27,23,0.537745571658615

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,-0.01948051948051943
+1,disease_on_symptoms,19,23,1.1756020485997605
+2,disease_on_drugs,30,14,0.34090909090909083

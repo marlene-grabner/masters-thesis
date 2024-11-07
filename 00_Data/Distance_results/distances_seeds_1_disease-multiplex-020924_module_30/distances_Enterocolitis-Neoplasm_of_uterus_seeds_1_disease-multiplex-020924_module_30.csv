@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,27,28,0.27368927368927376
+1,disease_on_symptoms,21,19,0.9835213032581456
+2,disease_on_drugs,24,28,0.80746336996337

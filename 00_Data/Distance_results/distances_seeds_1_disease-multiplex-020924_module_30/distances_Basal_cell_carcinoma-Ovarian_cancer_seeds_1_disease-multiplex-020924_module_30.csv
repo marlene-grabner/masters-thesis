@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,26,27,-0.26451378809869364
+1,disease_on_symptoms,23,17,0.053388746803069154
+2,disease_on_drugs,25,25,-0.19999999999999996

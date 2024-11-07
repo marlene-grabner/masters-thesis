@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,13,18,-0.3582850840915357
+2,disease_on_drugs,24,28,-0.009386446886446853

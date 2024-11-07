@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.03497536945812785
+1,disease_on_symptoms,15,20,0.28095238095238084
+2,disease_on_drugs,23,27,0.6182608695652172

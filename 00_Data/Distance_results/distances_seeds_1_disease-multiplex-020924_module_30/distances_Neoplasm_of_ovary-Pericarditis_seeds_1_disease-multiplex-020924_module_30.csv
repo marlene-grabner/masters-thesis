@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Pericarditis nodes,sAB
+0,disease_on_genes,24,25,0.20153061224489788
+1,disease_on_symptoms,26,22,1.2476689976689979
+2,disease_on_drugs,15,25,0.6299999999999999

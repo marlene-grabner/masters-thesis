@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,17,17,-0.11764705882352944
+2,disease_on_drugs,26,26,-0.21153846153846168

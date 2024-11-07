@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.10214424951267076
+1,disease_on_symptoms,16,19,1.1591635338345867
+2,disease_on_drugs,30,26,0.46291208791208804

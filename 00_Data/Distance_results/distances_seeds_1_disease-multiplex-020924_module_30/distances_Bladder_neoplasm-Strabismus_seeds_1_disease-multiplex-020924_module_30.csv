@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,13,0.2435897435897436
+1,disease_on_symptoms,20,26,0.9831939799331104
+2,disease_on_drugs,25,9,1.2091503267973855

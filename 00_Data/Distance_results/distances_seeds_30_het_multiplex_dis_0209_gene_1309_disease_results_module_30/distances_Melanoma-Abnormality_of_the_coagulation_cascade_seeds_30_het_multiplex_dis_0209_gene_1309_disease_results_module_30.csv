@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Abnormality_of_the_coagulation_cascade nodes,sAB
+0,disease_on_genes,27,24,-0.057734204793028376
+1,disease_on_symptoms,23,24,0.7218624730188097
+2,disease_on_drugs,25,23,0.34934782608695647

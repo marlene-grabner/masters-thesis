@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,28,30,0.08485221674876842
+1,disease_on_symptoms,15,13,0.476923076923077
+2,disease_on_drugs,20,18,0.6021929824561403

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,-0.10257246376811613
+1,disease_on_symptoms,19,25,-0.08650717703349287
+2,disease_on_drugs,24,18,-0.10714285714285732

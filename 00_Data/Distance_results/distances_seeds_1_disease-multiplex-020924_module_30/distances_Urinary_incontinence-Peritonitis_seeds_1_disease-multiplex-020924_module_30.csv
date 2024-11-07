@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,0.4082417582417581
+1,disease_on_symptoms,20,17,0.8491653418124008
+2,disease_on_drugs,20,28,0.5059523809523812

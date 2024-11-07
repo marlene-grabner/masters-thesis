@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,22,12,0.12678253119429583
+2,disease_on_drugs,15,17,0.15183823529411766

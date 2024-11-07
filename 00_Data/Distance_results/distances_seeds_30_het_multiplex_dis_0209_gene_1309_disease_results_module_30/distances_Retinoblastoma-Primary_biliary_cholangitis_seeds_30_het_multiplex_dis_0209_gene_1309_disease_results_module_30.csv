@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.1607142857142858
+1,disease_on_symptoms,21,23,0.5358083945040466
+2,disease_on_drugs,27,26,0.6389560823523088

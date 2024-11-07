@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,27,0.16666666666666674
+1,disease_on_symptoms,22,22,1.181818181818182
+2,disease_on_drugs,23,27,0.5434138486312399

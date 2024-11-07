@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,0.1929824561403508
+1,disease_on_symptoms,17,20,1.7191573926868045
+2,disease_on_drugs,24,26,0.5837179487179489

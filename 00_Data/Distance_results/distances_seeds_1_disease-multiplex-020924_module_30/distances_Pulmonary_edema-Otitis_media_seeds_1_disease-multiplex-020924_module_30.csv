@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.2866744593804791
+1,disease_on_symptoms,14,22,0.8618326118326118
+2,disease_on_drugs,27,29,0.6612388250319285

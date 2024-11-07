@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,13,18,0.6106286186931351
+2,disease_on_drugs,21,27,-0.21130952380952395

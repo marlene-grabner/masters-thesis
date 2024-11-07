@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,23,30,0.037735849056603765
+1,disease_on_symptoms,22,17,0.7972027972027971
+2,disease_on_drugs,21,26,0.15004676174888942

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,26,20,0.14473244147157205
+1,disease_on_symptoms,20,23,0.8757583417593529
+2,disease_on_drugs,20,18,0.42105263157894735

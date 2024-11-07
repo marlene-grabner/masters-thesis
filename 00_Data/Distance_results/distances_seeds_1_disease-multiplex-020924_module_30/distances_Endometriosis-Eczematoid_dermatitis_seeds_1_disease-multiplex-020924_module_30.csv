@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,28,0.3614532019704435
+1,disease_on_symptoms,12,24,0.6805555555555554
+2,disease_on_drugs,27,28,0.7279220779220781

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.2400168796720521
+1,disease_on_symptoms,23,22,1.1988581466842336
+2,disease_on_drugs,25,29,0.9667943805874841

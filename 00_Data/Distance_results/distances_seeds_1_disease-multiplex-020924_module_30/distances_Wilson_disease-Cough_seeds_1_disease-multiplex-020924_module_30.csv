@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cough nodes,sAB
+0,disease_on_genes,23,27,0.2527858293075682
+1,disease_on_symptoms,19,21,2.4061403508771932
+2,disease_on_drugs,11,27,1.0682261208576995

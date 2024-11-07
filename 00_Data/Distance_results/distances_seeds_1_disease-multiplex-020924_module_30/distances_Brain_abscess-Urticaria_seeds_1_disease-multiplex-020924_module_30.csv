@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,10,0.3313313313313315
+1,disease_on_symptoms,21,27,1.2443783068783068
+2,disease_on_drugs,23,9,0.5570652173913042

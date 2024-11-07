@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Rhinitis nodes,sAB
+0,disease_on_genes,28,30,0.157471264367816
+1,disease_on_symptoms,23,15,0.3897025171624713
+2,disease_on_drugs,26,22,0.003205128205128416

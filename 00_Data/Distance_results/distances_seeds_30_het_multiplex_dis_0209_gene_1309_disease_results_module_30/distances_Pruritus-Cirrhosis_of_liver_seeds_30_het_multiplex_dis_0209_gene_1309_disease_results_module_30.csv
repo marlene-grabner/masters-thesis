@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.2992202729044835
+1,disease_on_symptoms,21,19,-0.2969924812030076
+2,disease_on_drugs,27,30,-0.33372319688109175

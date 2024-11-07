@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,20,-0.4982142857142857
+1,disease_on_symptoms,21,27,-0.4312169312169313
+2,disease_on_drugs,28,19,-0.5989841625339947

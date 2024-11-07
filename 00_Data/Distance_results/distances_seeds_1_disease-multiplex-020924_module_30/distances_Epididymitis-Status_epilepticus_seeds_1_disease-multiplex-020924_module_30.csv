@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,29,29,0.3620689655172413
+1,disease_on_symptoms,23,17,2.3603580562659845
+2,disease_on_drugs,27,30,0.8752436647173487

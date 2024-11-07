@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,16,17,0.48334447415329773
+2,disease_on_drugs,30,25,0.048181818181818326

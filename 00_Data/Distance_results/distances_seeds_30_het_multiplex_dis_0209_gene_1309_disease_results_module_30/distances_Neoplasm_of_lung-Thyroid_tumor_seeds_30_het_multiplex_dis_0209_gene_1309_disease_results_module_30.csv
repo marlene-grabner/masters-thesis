@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.339622641509434
+1,disease_on_symptoms,19,20,-0.22857624831309042
+2,disease_on_drugs,30,20,-0.3583333333333334

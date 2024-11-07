@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,17,26,0.22427128275281483
+1,disease_on_symptoms,21,17,0.15767359575409112
+2,disease_on_drugs,14,18,0.8645833333333335

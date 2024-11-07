@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.3051139684395091
+1,disease_on_symptoms,19,20,-0.33289473684210535
+2,disease_on_drugs,28,26,-0.2592592592592593

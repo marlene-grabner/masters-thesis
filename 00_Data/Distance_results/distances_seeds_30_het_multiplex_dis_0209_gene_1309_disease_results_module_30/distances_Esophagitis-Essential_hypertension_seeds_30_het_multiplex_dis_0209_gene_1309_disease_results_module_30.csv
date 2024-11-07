@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.08563218390804594
+1,disease_on_symptoms,20,13,0.4377039627039627
+2,disease_on_drugs,30,28,0.10320197044334978

@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,18,-0.09495021337126608
+2,disease_on_drugs,25,27,-0.07512820512820517

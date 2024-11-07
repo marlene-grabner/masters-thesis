@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,22,24,0.4544631093544136
+1,disease_on_symptoms,21,17,2.597891788294265
+2,disease_on_drugs,6,23,1.4540229885057472

@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.04983579638752045
+1,disease_on_symptoms,18,21,0.26037851037851056
+2,disease_on_drugs,25,24,0.306938775510204

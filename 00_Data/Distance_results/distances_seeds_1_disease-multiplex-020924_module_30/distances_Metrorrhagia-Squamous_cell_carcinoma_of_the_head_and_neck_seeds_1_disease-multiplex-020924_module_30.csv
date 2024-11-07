@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,21,0.14285714285714302
+1,disease_on_symptoms,17,25,0.9587114845938378
+2,disease_on_drugs,26,21,0.38707037643207864

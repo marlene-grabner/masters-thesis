@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.27118644067796616
+1,disease_on_symptoms,14,17,-0.49586608837083235
+2,disease_on_drugs,24,27,-0.3906590413943355

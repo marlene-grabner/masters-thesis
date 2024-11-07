@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.4315270935960589
+1,disease_on_symptoms,13,17,1.2024132730015085
+2,disease_on_drugs,18,18,0.7777777777777777

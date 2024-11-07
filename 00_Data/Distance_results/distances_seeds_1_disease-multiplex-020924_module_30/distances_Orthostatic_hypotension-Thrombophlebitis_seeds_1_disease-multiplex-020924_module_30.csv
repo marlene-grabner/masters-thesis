@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.29244663382594416
+1,disease_on_symptoms,12,15,1.9712962962962965
+2,disease_on_drugs,17,21,0.6811145510835914

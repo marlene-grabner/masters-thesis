@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,20,19,0.5097503373819161
+2,disease_on_drugs,29,29,0.17241379310344818

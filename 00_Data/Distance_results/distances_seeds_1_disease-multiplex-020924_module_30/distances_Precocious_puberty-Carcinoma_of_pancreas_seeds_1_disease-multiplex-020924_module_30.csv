@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.042138364779874316
+1,disease_on_symptoms,14,25,0.1727472527472529
+2,disease_on_drugs,24,21,-0.022222222222222254

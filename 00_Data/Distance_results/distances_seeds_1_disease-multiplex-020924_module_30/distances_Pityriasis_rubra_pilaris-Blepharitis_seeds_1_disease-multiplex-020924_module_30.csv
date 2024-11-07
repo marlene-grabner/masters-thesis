@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,20,-0.37916666666666654
+1,disease_on_symptoms,23,27,-0.44016103059581324
+2,disease_on_drugs,26,19,-0.5799820062977958

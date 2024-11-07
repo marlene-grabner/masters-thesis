@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.2573891625615765
+1,disease_on_symptoms,14,21,0.7738095238095237
+2,disease_on_drugs,27,28,0.6181577681577681

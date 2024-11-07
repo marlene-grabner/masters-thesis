@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.469090909090909
+1,disease_on_symptoms,20,12,0.8666666666666667
+2,disease_on_drugs,18,22,0.5416666666666665

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,18,19,-0.14007428481112671
+2,disease_on_drugs,26,30,-0.10750915750915757

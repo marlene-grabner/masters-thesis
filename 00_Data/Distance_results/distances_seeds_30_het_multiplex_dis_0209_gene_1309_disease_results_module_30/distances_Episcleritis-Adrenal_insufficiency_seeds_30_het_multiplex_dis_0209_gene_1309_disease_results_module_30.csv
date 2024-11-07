@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,18,15,-0.4358585858585855
+2,disease_on_drugs,28,24,-0.038690476190476275

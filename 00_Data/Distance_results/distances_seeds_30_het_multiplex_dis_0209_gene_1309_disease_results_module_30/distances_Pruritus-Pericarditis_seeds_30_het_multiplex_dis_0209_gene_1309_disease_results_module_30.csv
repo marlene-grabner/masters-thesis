@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,-0.09399021663172613
+1,disease_on_symptoms,21,21,0.5238095238095237
+2,disease_on_drugs,27,26,-0.07733967639628037

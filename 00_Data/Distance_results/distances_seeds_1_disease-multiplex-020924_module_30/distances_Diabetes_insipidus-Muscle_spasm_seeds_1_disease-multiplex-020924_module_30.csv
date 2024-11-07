@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,24,25,0.26692176870748296
+1,disease_on_symptoms,18,23,1.2155355249204667
+2,disease_on_drugs,18,19,0.945945945945946

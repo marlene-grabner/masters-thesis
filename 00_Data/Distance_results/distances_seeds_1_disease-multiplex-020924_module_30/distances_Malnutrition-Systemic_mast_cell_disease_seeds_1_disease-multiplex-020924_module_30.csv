@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,0.018905232698336105
+1,disease_on_symptoms,18,16,1.3108660130718954
+2,disease_on_drugs,23,25,0.25

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,21,17,1.0339820138581748
+2,disease_on_drugs,27,26,0.5805380852550663

@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,28,18,0.32004830917874405
+1,disease_on_symptoms,21,28,0.6232993197278911
+2,disease_on_drugs,21,17,0.2356626861270823

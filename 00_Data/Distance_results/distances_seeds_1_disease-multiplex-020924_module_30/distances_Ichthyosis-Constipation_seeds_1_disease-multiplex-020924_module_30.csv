@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Constipation nodes,sAB
+0,disease_on_genes,27,30,0.19093567251461963
+1,disease_on_symptoms,17,17,0.588235294117647
+2,disease_on_drugs,24,27,0.45206971677559915

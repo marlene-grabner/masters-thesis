@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.03589904046725079
+1,disease_on_symptoms,24,28,1.1423992673992676
+2,disease_on_drugs,28,9,0.23503861003860993

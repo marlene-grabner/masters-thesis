@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,-0.00017094017094021474
+1,disease_on_symptoms,21,15,1.5373015873015872
+2,disease_on_drugs,20,26,-0.06346153846153846

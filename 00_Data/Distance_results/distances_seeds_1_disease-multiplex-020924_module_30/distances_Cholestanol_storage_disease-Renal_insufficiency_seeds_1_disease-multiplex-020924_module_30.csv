@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.050000000000000044
+1,disease_on_symptoms,17,23,0.6710358056265986
+2,disease_on_drugs,25,17,0.5606722689075632

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.05512820512820504
+1,disease_on_symptoms,17,21,-0.25925106884859206
+2,disease_on_drugs,26,17,0.061901504787961636

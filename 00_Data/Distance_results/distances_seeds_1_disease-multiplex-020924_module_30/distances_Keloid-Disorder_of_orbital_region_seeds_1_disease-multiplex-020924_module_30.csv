@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,22,17,-0.2656657068421774
+1,disease_on_symptoms,20,27,0.5703309692671392
+2,disease_on_drugs,19,16,-0.14821428571428574

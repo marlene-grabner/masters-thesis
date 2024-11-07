@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.15302144249512684
+1,disease_on_symptoms,19,13,0.2656882591093117
+2,disease_on_drugs,26,23,0.34412326803631155

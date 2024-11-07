@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Abnormality_of_the_coagulation_cascade nodes,sAB
+0,disease_on_genes,30,24,0.03703703703703698
+1,disease_on_symptoms,21,24,0.03174603174603163
+2,disease_on_drugs,29,23,0.1471860223734287

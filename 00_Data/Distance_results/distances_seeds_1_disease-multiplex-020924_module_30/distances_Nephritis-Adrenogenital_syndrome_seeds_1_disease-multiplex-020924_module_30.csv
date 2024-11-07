@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,18,7,0.7925396825396824
+2,disease_on_drugs,27,22,0.4241049955335672

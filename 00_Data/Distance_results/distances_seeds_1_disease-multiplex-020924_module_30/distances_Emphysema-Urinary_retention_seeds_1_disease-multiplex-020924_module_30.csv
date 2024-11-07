@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.2646400483968543
+1,disease_on_symptoms,14,18,0.43700396825396837
+2,disease_on_drugs,29,19,0.004385964912280604

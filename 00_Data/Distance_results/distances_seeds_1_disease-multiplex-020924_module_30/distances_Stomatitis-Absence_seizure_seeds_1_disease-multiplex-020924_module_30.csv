@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.35590298071303317
+1,disease_on_symptoms,23,16,1.9375
+2,disease_on_drugs,30,22,0.8423076923076922

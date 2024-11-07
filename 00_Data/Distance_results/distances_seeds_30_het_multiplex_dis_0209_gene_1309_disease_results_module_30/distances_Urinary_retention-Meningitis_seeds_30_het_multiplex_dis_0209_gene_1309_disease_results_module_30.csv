@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.11864406779661008
+1,disease_on_symptoms,16,17,1.002061051693405
+2,disease_on_drugs,28,27,0.16290283790283788

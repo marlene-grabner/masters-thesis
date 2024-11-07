@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Rhinitis nodes,sAB
+0,disease_on_genes,24,30,0.1717592592592594
+1,disease_on_symptoms,18,15,0.028787878787878807
+2,disease_on_drugs,18,22,0.30000000000000004

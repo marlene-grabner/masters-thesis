@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,25,29,0.09197956577266919
+1,disease_on_symptoms,25,16,1.0322560975609756
+2,disease_on_drugs,21,25,0.5869565217391304

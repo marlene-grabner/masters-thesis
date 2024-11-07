@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.47662835249042157
+1,disease_on_symptoms,18,27,1.5685185185185184
+2,disease_on_drugs,19,17,0.8883728930168555

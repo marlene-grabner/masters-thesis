@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.0
+1,disease_on_symptoms,19,17,0.21594427244582048
+2,disease_on_drugs,23,27,-0.03729468599033803

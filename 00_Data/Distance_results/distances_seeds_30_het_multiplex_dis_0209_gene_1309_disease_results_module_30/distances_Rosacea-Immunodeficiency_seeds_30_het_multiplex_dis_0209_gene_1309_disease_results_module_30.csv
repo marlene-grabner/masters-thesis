@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.1238095238095237
+1,disease_on_symptoms,18,21,0.3067765567765568
+2,disease_on_drugs,30,26,0.07271062271062267

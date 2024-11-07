@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,14,18,-0.19791666666666652
+2,disease_on_drugs,24,28,0.03685897435897423

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,14,17,0.09677419354838701
+2,disease_on_drugs,29,24,0.48202667534157473

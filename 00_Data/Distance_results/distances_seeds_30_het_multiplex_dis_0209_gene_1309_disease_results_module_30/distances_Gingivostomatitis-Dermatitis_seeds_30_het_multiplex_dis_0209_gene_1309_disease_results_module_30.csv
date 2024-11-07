@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,15,14,-0.44474548440065664
+2,disease_on_drugs,30,28,-0.03522167487684724

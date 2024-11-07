@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.6734693877551021
+1,disease_on_symptoms,16,15,1.9308467741935484
+2,disease_on_drugs,17,15,0.6870098039215686

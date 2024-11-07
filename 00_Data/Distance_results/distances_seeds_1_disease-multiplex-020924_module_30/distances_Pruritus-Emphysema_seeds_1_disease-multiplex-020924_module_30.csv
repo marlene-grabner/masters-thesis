@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Emphysema nodes,sAB
+0,disease_on_genes,26,30,-0.1857575757575758
+1,disease_on_symptoms,19,14,-0.5108794714057872
+2,disease_on_drugs,24,29,-0.18867924528301883

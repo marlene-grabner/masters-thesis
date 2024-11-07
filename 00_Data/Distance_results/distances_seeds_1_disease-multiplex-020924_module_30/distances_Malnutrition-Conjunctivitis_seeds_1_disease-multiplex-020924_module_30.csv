@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.16943503735956567
+1,disease_on_symptoms,18,27,1.6296296296296298
+2,disease_on_drugs,23,26,0.43092621664050257

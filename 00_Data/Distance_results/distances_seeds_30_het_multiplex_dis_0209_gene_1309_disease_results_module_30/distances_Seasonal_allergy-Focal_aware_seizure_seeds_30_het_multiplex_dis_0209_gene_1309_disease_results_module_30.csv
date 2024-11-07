@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.08620689655172409
+1,disease_on_symptoms,18,16,1.3051470588235294
+2,disease_on_drugs,29,29,0.2586206896551726

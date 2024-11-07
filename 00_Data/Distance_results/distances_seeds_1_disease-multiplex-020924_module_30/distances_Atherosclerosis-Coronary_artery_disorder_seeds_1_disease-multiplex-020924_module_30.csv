@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,-0.39366272824919424
+1,disease_on_symptoms,13,21,-0.6097823744882569
+2,disease_on_drugs,29,17,-0.4130434782608695

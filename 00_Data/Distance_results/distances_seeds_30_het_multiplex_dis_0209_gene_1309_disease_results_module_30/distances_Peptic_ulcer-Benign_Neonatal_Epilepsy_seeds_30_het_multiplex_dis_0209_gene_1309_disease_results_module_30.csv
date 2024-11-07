@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,16,1.1923611111111112
+2,disease_on_drugs,30,21,0.6053221288515405

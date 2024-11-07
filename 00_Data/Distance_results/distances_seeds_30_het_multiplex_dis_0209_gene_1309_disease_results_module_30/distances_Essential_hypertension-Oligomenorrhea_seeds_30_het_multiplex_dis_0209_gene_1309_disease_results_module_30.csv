@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,29,-0.052631578947368474
+1,disease_on_symptoms,13,11,0.5839160839160837
+2,disease_on_drugs,28,24,-0.020604395604395753

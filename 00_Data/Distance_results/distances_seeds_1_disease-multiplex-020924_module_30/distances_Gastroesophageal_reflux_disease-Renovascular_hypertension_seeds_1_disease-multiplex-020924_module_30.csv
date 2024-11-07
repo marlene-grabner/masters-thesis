@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,26,21,0.14387031408307993
+1,disease_on_symptoms,17,22,1.3366927190456606
+2,disease_on_drugs,25,20,0.566111111111111

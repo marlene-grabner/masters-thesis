@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,30,0.1694915254237288
+1,disease_on_symptoms,20,21,1.2982578397212543
+2,disease_on_drugs,20,30,0.8366666666666669

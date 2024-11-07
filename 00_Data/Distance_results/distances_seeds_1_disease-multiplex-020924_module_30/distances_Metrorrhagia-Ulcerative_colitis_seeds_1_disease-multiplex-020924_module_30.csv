@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,0.12962962962962954
+1,disease_on_symptoms,17,20,1.33620826709062
+2,disease_on_drugs,26,25,0.6674208144796381

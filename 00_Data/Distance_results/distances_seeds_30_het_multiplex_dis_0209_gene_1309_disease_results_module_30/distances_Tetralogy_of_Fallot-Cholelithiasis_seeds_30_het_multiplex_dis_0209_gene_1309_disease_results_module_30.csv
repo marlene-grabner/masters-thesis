@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.022727272727272707
+1,disease_on_symptoms,19,20,0.6122132253711199
+2,disease_on_drugs,20,18,-0.051023391812865304

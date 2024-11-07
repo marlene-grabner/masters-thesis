@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Cough nodes,sAB
+0,disease_on_genes,29,27,-0.12438423645320185
+1,disease_on_symptoms,20,22,0.7640692640692639
+2,disease_on_drugs,25,24,0.5901360544217686

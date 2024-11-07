@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.25736497545008197
+1,disease_on_symptoms,21,20,1.732665505226481
+2,disease_on_drugs,24,19,0.9504283965728275

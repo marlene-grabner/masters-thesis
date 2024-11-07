@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.16620370370370363
+1,disease_on_symptoms,15,21,1.0865079365079364
+2,disease_on_drugs,26,24,-0.0026282051282051633

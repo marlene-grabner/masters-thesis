@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,17,1.0557889822595707
+2,disease_on_drugs,28,26,0.05657305657305667

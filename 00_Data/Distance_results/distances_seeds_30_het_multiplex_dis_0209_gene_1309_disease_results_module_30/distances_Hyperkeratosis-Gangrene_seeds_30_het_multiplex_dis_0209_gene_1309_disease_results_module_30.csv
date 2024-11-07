@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,-0.1890420899854861
+1,disease_on_symptoms,25,22,0.5183945841392648
+2,disease_on_drugs,25,27,0.0019088319088318428

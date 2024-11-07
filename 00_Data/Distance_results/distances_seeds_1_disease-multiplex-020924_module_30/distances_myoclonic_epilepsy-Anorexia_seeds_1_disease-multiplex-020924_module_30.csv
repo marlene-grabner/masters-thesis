@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.2958281184814353
+1,disease_on_symptoms,16,25,1.141432926829268
+2,disease_on_drugs,23,13,0.8129877369007805

@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,18,21,0.40567765567765557
+1,disease_on_symptoms,18,20,3.345614035087719
+2,disease_on_drugs,10,19,0.6499999999999999

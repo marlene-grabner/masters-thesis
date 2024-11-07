@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,0.09615384615384626
+1,disease_on_symptoms,20,17,0.6175675675675676
+2,disease_on_drugs,20,24,0.26136363636363646

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,30,0.0683497536945814
+1,disease_on_symptoms,18,16,0.4174836601307188
+2,disease_on_drugs,25,28,0.04242587601078163

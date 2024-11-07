@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.05224171539960998
+1,disease_on_symptoms,21,15,0.6976190476190478
+2,disease_on_drugs,23,22,0.2917874396135265

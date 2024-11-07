@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,30,0.1744639376218322
+1,disease_on_symptoms,21,23,0.6900056465273854
+2,disease_on_drugs,27,24,0.3082788671023966

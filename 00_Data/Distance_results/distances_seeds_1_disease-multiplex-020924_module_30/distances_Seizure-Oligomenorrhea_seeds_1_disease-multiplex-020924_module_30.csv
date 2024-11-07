@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,28,0.4035087719298245
+1,disease_on_symptoms,25,12,1.69
+2,disease_on_drugs,28,21,0.8265306122448981

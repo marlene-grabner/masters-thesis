@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,0.31034482758620685
+1,disease_on_symptoms,15,16,1.6904569892473118
+2,disease_on_drugs,27,25,0.9629629629629628

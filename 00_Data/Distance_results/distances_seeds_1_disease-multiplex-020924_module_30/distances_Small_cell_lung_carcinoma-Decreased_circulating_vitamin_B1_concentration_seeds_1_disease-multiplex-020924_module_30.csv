@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,25,0.18692307692307675
+1,disease_on_symptoms,24,13,2.2324151074151075
+2,disease_on_drugs,25,16,0.5992987804878047

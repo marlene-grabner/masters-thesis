@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,14,0.7220113851992411
+2,disease_on_drugs,25,24,0.1423299319727891

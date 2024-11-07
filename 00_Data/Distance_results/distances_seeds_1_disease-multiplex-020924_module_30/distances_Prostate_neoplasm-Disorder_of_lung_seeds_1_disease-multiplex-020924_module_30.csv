@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,17,27,0.4092889681124974
+1,disease_on_symptoms,21,17,1.3505823381984374
+2,disease_on_drugs,17,20,1.0222575516693164

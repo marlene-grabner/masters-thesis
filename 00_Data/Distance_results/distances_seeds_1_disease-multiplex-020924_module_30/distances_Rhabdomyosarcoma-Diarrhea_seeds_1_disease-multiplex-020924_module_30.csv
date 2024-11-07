@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,23,27,0.15523349436392908
+1,disease_on_symptoms,24,19,2.3463382292941652
+2,disease_on_drugs,17,26,1.352862254025045

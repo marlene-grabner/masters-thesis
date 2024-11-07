@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,0.25061576354679804
+1,disease_on_symptoms,16,20,0.91875
+2,disease_on_drugs,23,24,0.42863475177304955

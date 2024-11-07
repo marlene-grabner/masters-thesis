@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.03411306042884976
+1,disease_on_symptoms,17,12,-0.2643678160919536
+2,disease_on_drugs,24,23,-0.08435476410730813

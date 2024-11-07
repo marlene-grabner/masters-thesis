@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.23916666666666653
+1,disease_on_symptoms,17,19,0.9180426556587549
+2,disease_on_drugs,25,20,0.7077777777777776

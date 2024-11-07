@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Headache nodes,sAB
+0,disease_on_genes,21,30,0.15266106442577043
+1,disease_on_symptoms,20,23,0.8042719919110213
+2,disease_on_drugs,21,23,0.48400150574063616

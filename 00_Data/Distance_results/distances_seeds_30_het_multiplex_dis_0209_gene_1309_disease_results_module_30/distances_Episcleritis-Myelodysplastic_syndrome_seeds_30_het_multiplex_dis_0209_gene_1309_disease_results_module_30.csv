@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.0714285714285714
+1,disease_on_symptoms,18,17,0.45158730158730154
+2,disease_on_drugs,28,24,0.1744505494505495

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,25,30,-0.3090909090909091
+1,disease_on_symptoms,19,22,-0.0959271793674874
+2,disease_on_drugs,25,28,-0.3413611859838275

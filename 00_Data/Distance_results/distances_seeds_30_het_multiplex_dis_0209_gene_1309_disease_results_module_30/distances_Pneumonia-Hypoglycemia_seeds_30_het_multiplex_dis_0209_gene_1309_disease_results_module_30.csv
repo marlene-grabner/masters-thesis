@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,23,19,0.7252370055573716
+2,disease_on_drugs,29,27,0.3721720488961868

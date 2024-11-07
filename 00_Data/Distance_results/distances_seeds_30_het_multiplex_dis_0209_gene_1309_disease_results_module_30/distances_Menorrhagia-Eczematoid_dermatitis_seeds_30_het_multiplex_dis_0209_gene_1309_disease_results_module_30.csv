@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,27,30,0.14035087719298245
+1,disease_on_symptoms,16,25,0.9391158536585367
+2,disease_on_drugs,23,30,0.3462264150943395

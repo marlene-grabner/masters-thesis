@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,27,29,0.19629173508483855
+1,disease_on_symptoms,15,16,2.380510752688172
+2,disease_on_drugs,25,22,0.7246808510638298

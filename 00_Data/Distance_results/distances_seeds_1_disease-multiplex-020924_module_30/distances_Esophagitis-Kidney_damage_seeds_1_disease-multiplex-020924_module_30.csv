@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.2286147623862489
+1,disease_on_symptoms,23,26,1.104958705890383
+2,disease_on_drugs,20,13,0.328146853146853

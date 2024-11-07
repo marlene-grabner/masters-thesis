@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,17,20,0.9508346581875993
+2,disease_on_drugs,21,30,0.1470588235294119

@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,19,0.5635534915720675
+2,disease_on_drugs,29,25,0.3148659003831418

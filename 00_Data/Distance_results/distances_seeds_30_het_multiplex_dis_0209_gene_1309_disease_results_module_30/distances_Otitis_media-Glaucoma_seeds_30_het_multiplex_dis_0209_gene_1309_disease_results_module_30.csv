@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,-9.74089226590813e-06
+1,disease_on_symptoms,20,18,0.4635964912280701
+2,disease_on_drugs,28,28,0.2678571428571428

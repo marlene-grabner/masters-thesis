@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,24,26,0.11993589743589728
+1,disease_on_symptoms,19,25,1.277607655502392
+2,disease_on_drugs,19,25,0.17598086124401924

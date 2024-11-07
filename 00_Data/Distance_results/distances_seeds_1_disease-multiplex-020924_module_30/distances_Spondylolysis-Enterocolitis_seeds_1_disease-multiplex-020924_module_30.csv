@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,27,27,0.22222222222222232
+1,disease_on_symptoms,19,21,1.279573934837093
+2,disease_on_drugs,20,24,0.5678030303030301

@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,18,0.09472049689440998
+1,disease_on_symptoms,25,27,-0.10139601139601129
+2,disease_on_drugs,23,17,-0.0784526854219949

@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Pericarditis nodes,sAB
+0,disease_on_genes,23,26,0.10070984915705394
+1,disease_on_symptoms,19,21,1.4849624060150375
+2,disease_on_drugs,22,26,0.2568473193473191

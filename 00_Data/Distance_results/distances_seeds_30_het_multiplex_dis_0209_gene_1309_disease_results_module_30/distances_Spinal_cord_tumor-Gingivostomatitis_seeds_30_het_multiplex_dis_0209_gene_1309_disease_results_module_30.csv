@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,29,30,-0.08446327683615817
+1,disease_on_symptoms,14,15,0.17471264367816097
+2,disease_on_drugs,22,30,-0.08496503496503505

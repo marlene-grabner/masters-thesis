@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.29498834498834503
+1,disease_on_symptoms,17,19,1.6652906776745786
+2,disease_on_drugs,26,19,0.9959064327485381

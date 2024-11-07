@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,-0.002533427163968982
+1,disease_on_symptoms,22,26,0.12106643356643376
+2,disease_on_drugs,29,13,-0.005936592143488628

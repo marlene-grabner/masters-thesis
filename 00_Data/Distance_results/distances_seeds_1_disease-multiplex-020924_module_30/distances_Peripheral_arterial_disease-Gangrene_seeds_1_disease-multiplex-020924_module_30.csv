@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,25,26,0.018823529411764683
+1,disease_on_symptoms,14,19,0.1455342902711323
+2,disease_on_drugs,22,23,0.022705314009661803

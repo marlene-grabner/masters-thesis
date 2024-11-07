@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Esophagitis nodes,sAB
+0,disease_on_genes,30,24,0.10746513535684987
+1,disease_on_symptoms,22,23,1.6428414580588493
+2,disease_on_drugs,29,20,0.4602216748768473

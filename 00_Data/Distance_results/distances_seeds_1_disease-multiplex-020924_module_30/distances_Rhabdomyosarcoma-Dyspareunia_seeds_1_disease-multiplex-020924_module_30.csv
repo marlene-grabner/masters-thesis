@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,23,24,0.2733580018501387
+1,disease_on_symptoms,24,17,1.230212816834051
+2,disease_on_drugs,17,23,0.5347826086956524

@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,16,11,-0.26767676767676774
+2,disease_on_drugs,29,21,-0.1828899835796387

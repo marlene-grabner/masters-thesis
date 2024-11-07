@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,0.0185185185185186
+1,disease_on_symptoms,17,21,0.7442134748636298
+2,disease_on_drugs,24,24,-0.02083333333333326

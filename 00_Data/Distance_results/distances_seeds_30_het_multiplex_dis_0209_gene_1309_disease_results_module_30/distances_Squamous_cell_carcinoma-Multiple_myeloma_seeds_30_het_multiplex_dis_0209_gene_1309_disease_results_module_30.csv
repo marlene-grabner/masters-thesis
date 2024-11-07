@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.5178571428571428
+1,disease_on_symptoms,22,21,-0.7174317930131885
+2,disease_on_drugs,30,25,-0.5127272727272728

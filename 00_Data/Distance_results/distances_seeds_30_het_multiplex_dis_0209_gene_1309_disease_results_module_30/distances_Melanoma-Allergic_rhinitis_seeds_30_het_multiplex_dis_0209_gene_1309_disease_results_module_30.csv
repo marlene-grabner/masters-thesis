@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,27,28,-0.03670033670033679
+1,disease_on_symptoms,23,20,0.7544742163801819
+2,disease_on_drugs,25,25,0.30000000000000004

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,29,26,-0.07178683385579931
+1,disease_on_symptoms,20,23,0.2484833164812943
+2,disease_on_drugs,25,26,0.33634992458521884

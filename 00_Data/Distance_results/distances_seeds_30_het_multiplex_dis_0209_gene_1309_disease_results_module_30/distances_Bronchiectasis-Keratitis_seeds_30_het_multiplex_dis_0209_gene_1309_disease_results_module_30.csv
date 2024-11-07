@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,25,0.005502392344497453
+2,disease_on_drugs,25,29,0.17885057471264365

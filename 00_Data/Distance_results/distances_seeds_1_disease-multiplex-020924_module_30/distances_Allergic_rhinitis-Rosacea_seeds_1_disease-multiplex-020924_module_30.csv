@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Rosacea nodes,sAB
+0,disease_on_genes,21,30,-0.05420168067226916
+1,disease_on_symptoms,22,17,0.41162758809817634
+2,disease_on_drugs,21,27,-0.1428571428571428

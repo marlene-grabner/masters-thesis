@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,14,29,0.20285828846374154
+1,disease_on_symptoms,25,16,1.1991463414634147
+2,disease_on_drugs,10,24,0.5088235294117647

@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,17,27,-0.013368983957219305
+1,disease_on_symptoms,21,17,1.2273330384785495
+2,disease_on_drugs,14,26,0.5865384615384617

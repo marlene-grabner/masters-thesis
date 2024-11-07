@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,22,17,1.2236733854380915
+2,disease_on_drugs,28,27,0.5447691197691196

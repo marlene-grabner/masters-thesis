@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,20,21,0.7294425087108016
+2,disease_on_drugs,24,26,0.08358974358974369

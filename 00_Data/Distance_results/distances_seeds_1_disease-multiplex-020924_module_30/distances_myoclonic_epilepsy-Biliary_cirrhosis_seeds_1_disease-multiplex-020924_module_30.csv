@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.573809523809524
+1,disease_on_symptoms,16,15,2.1526209677419352
+2,disease_on_drugs,23,15,0.9470633104500381

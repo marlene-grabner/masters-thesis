@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,18,17,0.09239028944911332
+2,disease_on_drugs,23,25,0.07927536231884069

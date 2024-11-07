@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Gangrene nodes,sAB
+0,disease_on_genes,29,26,0.09467084639498413
+1,disease_on_symptoms,15,19,0.8659442724458202
+2,disease_on_drugs,29,23,0.3648656441010263

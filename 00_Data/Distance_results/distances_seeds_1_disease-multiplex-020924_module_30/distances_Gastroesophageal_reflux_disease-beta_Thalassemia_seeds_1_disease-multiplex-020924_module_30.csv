@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,22,0.5151515151515149
+1,disease_on_symptoms,17,21,3.0824119121332743
+2,disease_on_drugs,25,6,1.26494623655914

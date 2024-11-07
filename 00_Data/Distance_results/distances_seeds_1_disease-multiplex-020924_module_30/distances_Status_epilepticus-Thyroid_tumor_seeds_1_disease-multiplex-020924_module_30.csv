@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,29,23,0.18677199861607652
+1,disease_on_symptoms,17,20,1.8870031796502384
+2,disease_on_drugs,30,20,1.435

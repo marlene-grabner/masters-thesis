@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,29,0.16666666666666674
+1,disease_on_symptoms,20,20,1.0
+2,disease_on_drugs,18,28,0.33272946859903385

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.2836257309941521
+1,disease_on_symptoms,21,22,-0.0016359609382865514
+2,disease_on_drugs,29,20,-0.2520232230823365

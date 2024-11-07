@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.07212475633528281
+1,disease_on_symptoms,19,20,0.31008771929824586
+2,disease_on_drugs,29,25,0.003831417624521105

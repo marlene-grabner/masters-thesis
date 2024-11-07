@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,29,0.21021303258145374
+1,disease_on_symptoms,23,16,0.95018115942029
+2,disease_on_drugs,28,29,0.10525235502549468

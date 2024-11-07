@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,29,29,0.12068965517241392
+1,disease_on_symptoms,15,21,0.49523809523809526
+2,disease_on_drugs,29,28,0.40287140264454213

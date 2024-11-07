@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,29,28,0.3859541094114596
+1,disease_on_symptoms,17,23,1.9940537084398975
+2,disease_on_drugs,30,28,0.7235221674876848

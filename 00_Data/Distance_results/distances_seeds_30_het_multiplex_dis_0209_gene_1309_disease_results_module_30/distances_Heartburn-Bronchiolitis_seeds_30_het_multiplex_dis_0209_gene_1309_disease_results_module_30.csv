@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,28,-0.14814814814814814
+1,disease_on_symptoms,16,25,0.5563414634146344
+2,disease_on_drugs,25,24,-0.04258503401360536

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,20,0.3363300492610837
+1,disease_on_symptoms,23,24,0.5072656490903482
+2,disease_on_drugs,27,18,0.6962962962962962

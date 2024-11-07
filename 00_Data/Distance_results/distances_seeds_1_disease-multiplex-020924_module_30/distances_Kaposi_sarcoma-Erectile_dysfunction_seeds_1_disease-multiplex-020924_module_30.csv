@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,15,30,0.22777777777777763
+1,disease_on_symptoms,27,16,2.3122577519379846
+2,disease_on_drugs,13,30,0.9034883720930231

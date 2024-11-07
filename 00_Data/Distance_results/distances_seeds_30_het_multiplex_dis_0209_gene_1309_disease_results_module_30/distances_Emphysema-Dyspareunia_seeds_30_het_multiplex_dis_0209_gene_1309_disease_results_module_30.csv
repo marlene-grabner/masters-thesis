@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.1694915254237288
+1,disease_on_symptoms,18,20,0.058771929824561475
+2,disease_on_drugs,27,28,-0.07146464646464645

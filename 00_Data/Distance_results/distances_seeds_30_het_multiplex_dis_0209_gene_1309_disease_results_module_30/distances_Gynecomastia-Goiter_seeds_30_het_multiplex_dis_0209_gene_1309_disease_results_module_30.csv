@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.25
+1,disease_on_symptoms,15,12,1.1898148148148149
+2,disease_on_drugs,29,18,0.6897978315806637

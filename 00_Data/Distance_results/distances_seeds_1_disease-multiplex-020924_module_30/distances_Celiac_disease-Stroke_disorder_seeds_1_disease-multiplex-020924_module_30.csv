@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,17,30,0.15855235711305782
+1,disease_on_symptoms,22,15,2.1441441441441444
+2,disease_on_drugs,15,30,0.8555555555555556

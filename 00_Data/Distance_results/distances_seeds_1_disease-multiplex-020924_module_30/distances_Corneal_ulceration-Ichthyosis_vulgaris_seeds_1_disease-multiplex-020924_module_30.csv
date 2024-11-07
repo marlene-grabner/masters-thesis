@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,28,27,-0.2003487253487255
+1,disease_on_symptoms,19,21,0.03270676691729313
+2,disease_on_drugs,26,27,-0.24528301886792447

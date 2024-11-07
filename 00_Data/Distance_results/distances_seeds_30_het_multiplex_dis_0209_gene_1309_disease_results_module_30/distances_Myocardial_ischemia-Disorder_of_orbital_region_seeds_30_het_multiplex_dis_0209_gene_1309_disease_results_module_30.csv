@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,19,18,-0.2657262525683577
+2,disease_on_drugs,30,28,-0.20944170771756976

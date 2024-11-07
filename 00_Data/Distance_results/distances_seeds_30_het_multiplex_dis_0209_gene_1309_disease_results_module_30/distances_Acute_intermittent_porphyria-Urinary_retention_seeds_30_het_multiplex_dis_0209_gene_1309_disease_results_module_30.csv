@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,17,16,0.08762254901960786
+2,disease_on_drugs,24,28,-0.2126831501831502

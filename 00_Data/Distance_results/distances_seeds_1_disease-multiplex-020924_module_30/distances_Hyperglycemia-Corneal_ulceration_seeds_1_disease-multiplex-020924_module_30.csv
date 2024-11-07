@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.13961412151067298
+1,disease_on_symptoms,14,19,1.5285942128047394
+2,disease_on_drugs,26,26,0.5961538461538463

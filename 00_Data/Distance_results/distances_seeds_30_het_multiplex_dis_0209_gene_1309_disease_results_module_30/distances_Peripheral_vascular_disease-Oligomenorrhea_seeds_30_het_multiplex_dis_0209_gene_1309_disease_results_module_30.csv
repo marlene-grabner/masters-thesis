@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,25,29,-0.11259259259259258
+1,disease_on_symptoms,17,11,1.001336898395722
+2,disease_on_drugs,25,24,0.10071428571428576

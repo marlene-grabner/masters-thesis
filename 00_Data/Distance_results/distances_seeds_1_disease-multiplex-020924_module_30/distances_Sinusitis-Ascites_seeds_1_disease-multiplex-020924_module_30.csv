@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,0.1855639976621859
+1,disease_on_symptoms,21,17,0.35942798171900336
+2,disease_on_drugs,28,27,0.6181457431457431

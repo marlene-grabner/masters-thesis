@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Rhinitis nodes,sAB
+0,disease_on_genes,18,30,0.1625000000000001
+1,disease_on_symptoms,21,15,0.642063492063492
+2,disease_on_drugs,17,22,0.39894419306184004

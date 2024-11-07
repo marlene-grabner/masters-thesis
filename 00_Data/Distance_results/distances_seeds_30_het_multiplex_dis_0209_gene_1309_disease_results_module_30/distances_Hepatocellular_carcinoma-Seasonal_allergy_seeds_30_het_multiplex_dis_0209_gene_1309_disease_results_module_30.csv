@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,24,29,-0.16981132075471694
+1,disease_on_symptoms,23,18,0.1580063626723225
+2,disease_on_drugs,22,29,-0.05796299711107

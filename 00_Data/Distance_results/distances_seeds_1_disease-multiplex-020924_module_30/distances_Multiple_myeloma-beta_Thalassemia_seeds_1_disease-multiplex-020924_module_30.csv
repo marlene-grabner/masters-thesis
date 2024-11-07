@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,22,0.49431818181818166
+1,disease_on_symptoms,21,21,2.738095238095238
+2,disease_on_drugs,25,6,0.40623655913978496

@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.6194581280788178
+1,disease_on_symptoms,7,17,1.419467787114846
+2,disease_on_drugs,22,28,0.9636363636363638

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.6805555555555558
+1,disease_on_symptoms,25,20,2.787777777777778
+2,disease_on_drugs,7,21,1.1666666666666665

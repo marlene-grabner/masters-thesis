@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,25,19,0.5913397129186606
+2,disease_on_drugs,30,28,0.15197044334975351

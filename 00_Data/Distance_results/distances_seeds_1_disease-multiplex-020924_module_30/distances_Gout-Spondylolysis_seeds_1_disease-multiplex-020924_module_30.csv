@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,25,27,0.01977207977207973
+1,disease_on_symptoms,18,19,0.868183973447131
+2,disease_on_drugs,23,20,0.39360465116279086

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,26,27,-0.2631027253668763
+1,disease_on_symptoms,21,17,0.5047913902403067
+2,disease_on_drugs,24,24,-0.1875

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.1385467980295566
+1,disease_on_symptoms,17,20,0.31788553259141517
+2,disease_on_drugs,26,27,0.15086276407031107

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,11,17,-0.026546982429335397
+2,disease_on_drugs,21,17,-0.3468229397021967

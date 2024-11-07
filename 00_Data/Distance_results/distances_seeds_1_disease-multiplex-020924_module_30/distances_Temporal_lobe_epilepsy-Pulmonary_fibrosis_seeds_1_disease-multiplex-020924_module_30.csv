@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,29,24,0.24494415528085
+1,disease_on_symptoms,17,22,2.000925545043192
+2,disease_on_drugs,26,24,0.8407692307692309

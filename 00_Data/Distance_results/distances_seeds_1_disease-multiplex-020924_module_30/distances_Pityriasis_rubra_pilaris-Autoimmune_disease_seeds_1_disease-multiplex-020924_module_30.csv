@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,22,0.08909090909090911
+1,disease_on_symptoms,23,19,0.8205295848316445
+2,disease_on_drugs,26,19,-0.042555105713000474

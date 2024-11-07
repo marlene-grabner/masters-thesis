@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,20,18,0.961842105263158
+2,disease_on_drugs,29,29,-0.1206896551724137

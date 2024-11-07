@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.5248644138506464
+1,disease_on_symptoms,17,22,3.475113122171946
+2,disease_on_drugs,17,15,0.8416666666666668

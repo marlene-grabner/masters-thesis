@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,19,13,1.3761386639676114
+2,disease_on_drugs,29,21,0.0233169129720856

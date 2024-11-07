@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,25,22,0.534468085106383
+1,disease_on_symptoms,19,24,1.606359649122807
+2,disease_on_drugs,18,19,1.623715821084242

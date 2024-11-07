@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,24,0.2543748072772125
+1,disease_on_symptoms,23,19,1.4434455704478586
+2,disease_on_drugs,18,20,0.9178362573099415

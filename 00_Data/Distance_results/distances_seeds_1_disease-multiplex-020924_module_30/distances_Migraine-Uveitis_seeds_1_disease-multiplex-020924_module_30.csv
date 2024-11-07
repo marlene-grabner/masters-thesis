@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,14,21,0.9428571428571426
+2,disease_on_drugs,29,27,0.4279100529100528

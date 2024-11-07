@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,22,15,-0.11470106470106467
+2,disease_on_drugs,27,25,-0.018860398860398808

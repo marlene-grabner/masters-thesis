@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,30,0.13559322033898313
+1,disease_on_symptoms,13,15,0.41428571428571437
+2,disease_on_drugs,22,28,0.36850649350649345

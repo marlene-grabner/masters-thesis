@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,29,27,0.1785714285714286
+1,disease_on_symptoms,14,17,0.8130929791271346
+2,disease_on_drugs,22,17,0.12793089263677482

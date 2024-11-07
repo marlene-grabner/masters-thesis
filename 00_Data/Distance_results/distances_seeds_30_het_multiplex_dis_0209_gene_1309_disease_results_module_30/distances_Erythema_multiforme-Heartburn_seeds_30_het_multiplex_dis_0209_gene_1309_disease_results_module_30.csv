@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,18,16,0.2532679738562089
+2,disease_on_drugs,30,25,0.1972727272727275

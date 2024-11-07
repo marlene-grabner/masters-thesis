@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,0.5714285714285714
+1,disease_on_symptoms,9,21,0.6444444444444444
+2,disease_on_drugs,11,25,0.44232323232323223

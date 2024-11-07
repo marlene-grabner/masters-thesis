@@ -1,0 +1,4 @@
+,Layer,Glaucoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.02254901960784328
+1,disease_on_symptoms,18,23,0.43911276069282446
+2,disease_on_drugs,28,21,-0.019557823129251695

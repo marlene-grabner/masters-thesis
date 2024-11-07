@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Prostatitis nodes,sAB
+0,disease_on_genes,23,30,0.29633579436696733
+1,disease_on_symptoms,20,20,0.8000000000000003
+2,disease_on_drugs,19,29,1.007183908045977

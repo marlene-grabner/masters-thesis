@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,21,0.5839598997493738
+2,disease_on_drugs,26,29,0.14491198456715715

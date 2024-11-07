@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,21,16,0.01496138996139007
+2,disease_on_drugs,29,28,0.05132443176907797

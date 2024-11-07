@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.07417582417582402
+1,disease_on_symptoms,23,22,0.15821256038647347
+2,disease_on_drugs,23,25,-0.12981884057971027

@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,25,30,0.034545454545454435
+1,disease_on_symptoms,20,22,0.12543290043290045
+2,disease_on_drugs,22,28,0.30798701298701303

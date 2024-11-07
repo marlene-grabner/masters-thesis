@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,19,18,-0.16437490121700638
+2,disease_on_drugs,30,21,-0.2280112044817928

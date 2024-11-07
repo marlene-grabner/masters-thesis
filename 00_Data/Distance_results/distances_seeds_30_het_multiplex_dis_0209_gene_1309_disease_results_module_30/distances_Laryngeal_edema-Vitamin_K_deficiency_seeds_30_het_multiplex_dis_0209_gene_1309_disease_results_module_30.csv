@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.05303030303030298
+1,disease_on_symptoms,16,21,0.7630711068211069
+2,disease_on_drugs,28,21,-0.14200680272108857

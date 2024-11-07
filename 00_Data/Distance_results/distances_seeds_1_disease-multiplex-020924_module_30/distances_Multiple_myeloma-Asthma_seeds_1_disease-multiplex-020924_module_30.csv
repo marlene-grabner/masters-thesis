@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,0.09764705882352942
+1,disease_on_symptoms,21,19,1.0491228070175438
+2,disease_on_drugs,25,24,0.510170068027211

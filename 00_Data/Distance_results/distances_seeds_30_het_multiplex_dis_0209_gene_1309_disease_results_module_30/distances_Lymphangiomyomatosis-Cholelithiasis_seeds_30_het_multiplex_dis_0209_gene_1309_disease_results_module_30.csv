@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,26,25,0.19645550527903466
+1,disease_on_symptoms,17,20,0.977503974562798
+2,disease_on_drugs,24,18,0.2787698412698414

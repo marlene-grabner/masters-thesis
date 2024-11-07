@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,15,23,0.6884057971014492
+2,disease_on_drugs,29,26,0.5781287677839402

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,26,23,-0.062555456965395
+1,disease_on_symptoms,21,19,0.826629072681704
+2,disease_on_drugs,25,22,0.16696324951644104

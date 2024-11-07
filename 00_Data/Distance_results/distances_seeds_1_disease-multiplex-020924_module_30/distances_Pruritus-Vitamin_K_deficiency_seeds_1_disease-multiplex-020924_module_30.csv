@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.16000000000000014
+1,disease_on_symptoms,19,23,1.0665250081726056
+2,disease_on_drugs,24,20,0.06363636363636349

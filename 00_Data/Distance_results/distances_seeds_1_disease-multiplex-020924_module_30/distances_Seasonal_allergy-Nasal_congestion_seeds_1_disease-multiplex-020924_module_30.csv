@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,29,30,-0.15286382232612505
+1,disease_on_symptoms,15,15,-0.3666666666666669
+2,disease_on_drugs,29,23,0.018711797947180253

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.1607142857142857
+1,disease_on_symptoms,18,20,0.028362573099415256
+2,disease_on_drugs,26,24,-0.03948717948717961

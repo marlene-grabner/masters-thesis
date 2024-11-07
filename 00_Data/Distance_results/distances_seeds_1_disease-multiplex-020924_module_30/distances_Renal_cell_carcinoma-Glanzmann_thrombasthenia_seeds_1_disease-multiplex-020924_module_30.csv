@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,0.2252891156462582
+1,disease_on_symptoms,24,21,1.4281746031746032
+2,disease_on_drugs,20,24,0.8276515151515154

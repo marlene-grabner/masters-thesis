@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Thyroiditis nodes,sAB
+0,disease_on_genes,24,26,0.28224358974358976
+1,disease_on_symptoms,18,28,0.42934782608695654
+2,disease_on_drugs,18,23,0.8806998939554611

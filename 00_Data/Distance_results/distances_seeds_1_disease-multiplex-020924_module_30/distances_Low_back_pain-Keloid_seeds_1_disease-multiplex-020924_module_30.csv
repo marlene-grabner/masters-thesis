@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.13018648018648027
+1,disease_on_symptoms,17,20,1.141891891891892
+2,disease_on_drugs,26,19,0.35427350427350435

@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.06892446633825933
+1,disease_on_symptoms,17,20,0.7782193958664547
+2,disease_on_drugs,27,28,0.3996632996632996

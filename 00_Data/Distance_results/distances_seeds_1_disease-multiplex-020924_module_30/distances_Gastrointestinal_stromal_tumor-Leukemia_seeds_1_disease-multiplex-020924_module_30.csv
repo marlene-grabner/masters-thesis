@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.11081654294803811
+1,disease_on_symptoms,20,27,1.1282111899133176
+2,disease_on_drugs,19,17,0.24509803921568607

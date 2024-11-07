@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,19,17,0.8101135190918476
+2,disease_on_drugs,22,30,0.143240093240093

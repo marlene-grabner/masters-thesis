@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.05201465201465205
+1,disease_on_symptoms,21,21,1.476190476190476
+2,disease_on_drugs,26,27,0.18830296188786755

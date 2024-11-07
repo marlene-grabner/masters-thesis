@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.20151515151515165
+1,disease_on_symptoms,17,26,0.8305008944543828
+2,disease_on_drugs,26,21,0.4611292962356792

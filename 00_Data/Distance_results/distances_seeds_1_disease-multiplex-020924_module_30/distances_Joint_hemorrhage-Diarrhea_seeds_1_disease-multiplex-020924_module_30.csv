@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.24337231968810924
+1,disease_on_symptoms,13,19,1.7200151821862346
+2,disease_on_drugs,18,26,0.5337995337995338

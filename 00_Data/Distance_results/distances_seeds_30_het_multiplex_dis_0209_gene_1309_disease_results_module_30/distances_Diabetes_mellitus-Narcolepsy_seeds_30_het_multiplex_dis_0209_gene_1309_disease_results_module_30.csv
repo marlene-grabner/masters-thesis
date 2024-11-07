@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,21,25,-0.10869565217391308
+1,disease_on_symptoms,22,20,1.2784632034632035
+2,disease_on_drugs,19,21,-0.20300751879699241

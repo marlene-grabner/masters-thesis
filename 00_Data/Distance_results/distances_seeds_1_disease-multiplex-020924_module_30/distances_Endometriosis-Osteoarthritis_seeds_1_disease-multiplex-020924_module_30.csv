@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.270909090909091
+1,disease_on_symptoms,12,20,0.6645833333333333
+2,disease_on_drugs,27,21,0.6875

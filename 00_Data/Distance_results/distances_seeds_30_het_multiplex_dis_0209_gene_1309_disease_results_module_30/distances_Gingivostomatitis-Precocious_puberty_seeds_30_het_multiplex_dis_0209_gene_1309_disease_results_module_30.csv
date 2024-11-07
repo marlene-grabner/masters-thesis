@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,15,16,-0.09892473118279543
+2,disease_on_drugs,30,27,0.1917153996101364

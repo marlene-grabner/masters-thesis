@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Rosacea nodes,sAB
+0,disease_on_genes,29,30,-0.253954802259887
+1,disease_on_symptoms,19,18,0.42757230915125666
+2,disease_on_drugs,29,30,-0.03309955191895586

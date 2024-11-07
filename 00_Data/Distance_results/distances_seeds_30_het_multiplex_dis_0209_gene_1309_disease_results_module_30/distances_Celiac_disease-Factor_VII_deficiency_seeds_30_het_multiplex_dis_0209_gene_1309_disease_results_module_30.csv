@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.08559113300492616
+1,disease_on_symptoms,18,19,1.2937411095305833
+2,disease_on_drugs,28,25,0.3463342318059299

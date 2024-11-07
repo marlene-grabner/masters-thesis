@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Back_pain nodes,sAB
+0,disease_on_genes,26,30,-0.1071428571428571
+1,disease_on_symptoms,17,15,-0.1930147058823528
+2,disease_on_drugs,24,23,-0.08527983348751156

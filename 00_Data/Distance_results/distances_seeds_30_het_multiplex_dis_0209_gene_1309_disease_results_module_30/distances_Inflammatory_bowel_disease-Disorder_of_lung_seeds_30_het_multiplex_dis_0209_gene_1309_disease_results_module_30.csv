@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.1578947368421053
+1,disease_on_symptoms,20,18,0.06154970760233924
+2,disease_on_drugs,27,24,-0.23788126361655781

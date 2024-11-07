@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Myalgia nodes,sAB
+0,disease_on_genes,17,30,0.1252190237797246
+1,disease_on_symptoms,22,16,2.661184210526316
+2,disease_on_drugs,15,29,0.3075757575757576

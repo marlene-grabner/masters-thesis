@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Nocturia nodes,sAB
+0,disease_on_genes,27,25,-0.196078431372549
+1,disease_on_symptoms,17,18,1.1132586367880486
+2,disease_on_drugs,24,24,-0.10416666666666674

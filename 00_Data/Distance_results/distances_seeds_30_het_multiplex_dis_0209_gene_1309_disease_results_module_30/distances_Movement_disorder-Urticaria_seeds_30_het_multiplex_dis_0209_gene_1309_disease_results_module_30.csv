@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.07222222222222219
+1,disease_on_symptoms,17,21,0.21944567300604456
+2,disease_on_drugs,26,24,-0.2341666666666664

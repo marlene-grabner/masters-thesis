@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Ascites nodes,sAB
+0,disease_on_genes,22,30,-0.07435897435897432
+1,disease_on_symptoms,21,22,0.604223296083761
+2,disease_on_drugs,17,27,0.01629035452564853

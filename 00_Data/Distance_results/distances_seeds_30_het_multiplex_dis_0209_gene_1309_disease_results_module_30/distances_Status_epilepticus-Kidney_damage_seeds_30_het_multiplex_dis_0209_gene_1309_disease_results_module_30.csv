@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,18,15,0.38737373737373715
+2,disease_on_drugs,30,21,0.0326330532212884

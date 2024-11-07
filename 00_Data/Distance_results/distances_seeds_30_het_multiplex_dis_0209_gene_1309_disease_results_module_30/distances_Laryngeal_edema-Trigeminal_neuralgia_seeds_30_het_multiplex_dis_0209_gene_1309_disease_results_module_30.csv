@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,16,15,-0.4555779569892475
+2,disease_on_drugs,28,25,-0.28273584905660387

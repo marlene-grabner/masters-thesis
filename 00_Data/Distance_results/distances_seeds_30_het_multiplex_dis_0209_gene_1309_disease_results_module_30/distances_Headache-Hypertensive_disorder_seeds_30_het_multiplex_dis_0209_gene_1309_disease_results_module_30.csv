@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,23,21,0.09255599472990772
+2,disease_on_drugs,23,26,-0.07202580028666983

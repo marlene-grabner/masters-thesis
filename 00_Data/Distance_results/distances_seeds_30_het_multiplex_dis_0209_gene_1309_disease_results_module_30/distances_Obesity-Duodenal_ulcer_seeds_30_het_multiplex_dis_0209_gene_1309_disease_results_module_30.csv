@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,27,28,-0.3101010101010101
+1,disease_on_symptoms,18,17,0.427917833800187
+2,disease_on_drugs,25,28,-0.2250000000000001

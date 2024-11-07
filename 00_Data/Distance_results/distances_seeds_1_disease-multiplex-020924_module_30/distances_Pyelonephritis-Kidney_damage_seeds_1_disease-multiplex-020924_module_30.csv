@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,23,20,0.044084934277047516
+1,disease_on_symptoms,21,26,0.7412711402073104
+2,disease_on_drugs,19,13,0.02644230769230771

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,11,9,-0.6045454545454545
+2,disease_on_drugs,27,23,0.012270531400966123

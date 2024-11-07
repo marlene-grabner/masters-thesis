@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,-0.38888888888888873
+1,disease_on_symptoms,17,15,-0.5334558823529412
+2,disease_on_drugs,20,26,-0.32107023411371227

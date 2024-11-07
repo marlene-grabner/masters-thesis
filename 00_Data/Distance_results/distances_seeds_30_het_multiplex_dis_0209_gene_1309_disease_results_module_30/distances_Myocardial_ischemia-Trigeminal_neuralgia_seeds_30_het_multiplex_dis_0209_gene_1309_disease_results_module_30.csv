@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.41666666666666663
+1,disease_on_symptoms,19,15,-0.822703818369453
+2,disease_on_drugs,30,25,-0.516969696969697

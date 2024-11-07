@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.09972882770129332
+1,disease_on_symptoms,15,28,0.1999723145071981
+2,disease_on_drugs,29,9,0.32486388384754994

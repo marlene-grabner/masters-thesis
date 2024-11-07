@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,28,29,-0.15790553971134746
+1,disease_on_symptoms,19,18,-0.24541646910067927
+2,disease_on_drugs,22,28,-0.24896103896103883

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.6330199430199428
+1,disease_on_symptoms,17,23,2.7831202046035806
+2,disease_on_drugs,20,21,0.7084785133565621

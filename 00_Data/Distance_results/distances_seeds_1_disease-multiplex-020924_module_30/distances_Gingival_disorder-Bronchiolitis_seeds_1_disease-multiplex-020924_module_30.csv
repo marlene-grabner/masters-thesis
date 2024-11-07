@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,21,23,-0.29771315640880847
+1,disease_on_symptoms,26,25,0.018763197586727065
+2,disease_on_drugs,20,18,-0.2149122807017545

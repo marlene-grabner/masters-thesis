@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.16249999999999998
+1,disease_on_symptoms,18,21,2.1840659340659343
+2,disease_on_drugs,30,17,-0.11831455986649986

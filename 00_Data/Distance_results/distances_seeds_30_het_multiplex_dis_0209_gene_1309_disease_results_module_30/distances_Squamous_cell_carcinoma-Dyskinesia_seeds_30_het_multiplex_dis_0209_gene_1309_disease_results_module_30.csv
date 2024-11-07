@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,22,15,1.4671990171990168
+2,disease_on_drugs,30,28,0.6890394088669951

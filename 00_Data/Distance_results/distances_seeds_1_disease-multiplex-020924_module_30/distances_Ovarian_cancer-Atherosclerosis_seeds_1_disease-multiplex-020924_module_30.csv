@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,27,30,0.2807017543859649
+1,disease_on_symptoms,17,13,0.7101055806938161
+2,disease_on_drugs,25,29,0.9444444444444444

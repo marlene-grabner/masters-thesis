@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,-0.2893939393939393
+1,disease_on_symptoms,23,19,-0.18279394137517713
+2,disease_on_drugs,21,30,-0.3974789915966387

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.5333333333333334
+1,disease_on_symptoms,25,17,1.7745658263305324
+2,disease_on_drugs,7,25,0.9023214285714287

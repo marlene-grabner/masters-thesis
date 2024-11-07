@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.051515151515151736
+1,disease_on_symptoms,20,23,1.8472952477249747
+2,disease_on_drugs,30,20,0.29000000000000004

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,23,30,-0.3207547169811321
+1,disease_on_symptoms,23,15,-0.3144927536231883
+2,disease_on_drugs,22,25,-0.3994970986460349

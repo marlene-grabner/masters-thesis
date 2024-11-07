@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,19,20,-0.003272604588393957
+2,disease_on_drugs,22,28,-0.3522727272727273

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.015789473684210353
+1,disease_on_symptoms,22,21,0.8856337460988626
+2,disease_on_drugs,29,24,0.09657612231620027

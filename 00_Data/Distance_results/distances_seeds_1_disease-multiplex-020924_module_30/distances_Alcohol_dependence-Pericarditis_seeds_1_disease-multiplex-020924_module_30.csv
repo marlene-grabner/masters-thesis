@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Pericarditis nodes,sAB
+0,disease_on_genes,12,25,0.36373873873873896
+1,disease_on_symptoms,27,22,0.4750223321651894
+2,disease_on_drugs,9,25,0.19241830065359466

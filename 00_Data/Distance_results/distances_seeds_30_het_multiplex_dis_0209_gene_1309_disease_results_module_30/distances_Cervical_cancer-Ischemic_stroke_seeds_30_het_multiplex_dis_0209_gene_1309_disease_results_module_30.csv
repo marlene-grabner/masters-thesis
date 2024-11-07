@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,0.06896551724137923
+1,disease_on_symptoms,22,16,0.5580143540669855
+2,disease_on_drugs,15,28,0.27029346622369865

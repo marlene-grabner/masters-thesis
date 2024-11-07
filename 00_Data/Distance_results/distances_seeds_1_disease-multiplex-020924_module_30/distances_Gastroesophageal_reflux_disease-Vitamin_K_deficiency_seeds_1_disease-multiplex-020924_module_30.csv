@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.07647058823529407
+1,disease_on_symptoms,17,23,1.4907289002557547
+2,disease_on_drugs,25,20,0.5077777777777777

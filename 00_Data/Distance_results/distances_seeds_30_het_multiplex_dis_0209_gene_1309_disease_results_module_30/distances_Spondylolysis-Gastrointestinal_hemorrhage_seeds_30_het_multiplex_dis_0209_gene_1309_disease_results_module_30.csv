@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,28,28,-0.017857142857142794
+1,disease_on_symptoms,17,20,-0.08275039745627955
+2,disease_on_drugs,19,27,-0.22552758708365128

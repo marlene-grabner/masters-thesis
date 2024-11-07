@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Dysuria nodes,sAB
+0,disease_on_genes,25,30,0.1454545454545455
+1,disease_on_symptoms,22,12,1.683600713012478
+2,disease_on_drugs,25,21,0.20331262939958594

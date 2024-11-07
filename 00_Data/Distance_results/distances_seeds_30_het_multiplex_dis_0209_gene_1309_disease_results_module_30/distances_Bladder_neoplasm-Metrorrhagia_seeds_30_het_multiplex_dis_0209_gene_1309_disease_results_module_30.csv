@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.18867924528301883
+1,disease_on_symptoms,19,17,-0.01221190230478153
+2,disease_on_drugs,25,26,-0.0953996983408747

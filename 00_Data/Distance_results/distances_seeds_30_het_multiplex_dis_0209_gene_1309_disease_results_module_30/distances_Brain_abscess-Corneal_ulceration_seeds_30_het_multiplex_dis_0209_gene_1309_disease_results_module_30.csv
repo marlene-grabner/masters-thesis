@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,27,28,0.018506493506493582
+1,disease_on_symptoms,21,15,0.21111111111111103
+2,disease_on_drugs,23,23,-0.08695652173913038

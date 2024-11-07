@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,30,0.38596491228070184
+1,disease_on_symptoms,16,15,0.9733198924731181
+2,disease_on_drugs,23,23,0.6956521739130435

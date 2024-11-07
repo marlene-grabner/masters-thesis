@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,28,30,-0.035098522167487656
+1,disease_on_symptoms,19,15,-0.01403508771929829
+2,disease_on_drugs,22,26,-0.10329254079254091

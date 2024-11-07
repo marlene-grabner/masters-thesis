@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,29,30,0.3220338983050848
+1,disease_on_symptoms,19,24,1.0223633210934313
+2,disease_on_drugs,29,15,0.3259143155694879

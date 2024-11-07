@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,28,25,0.12843665768194068
+1,disease_on_symptoms,15,23,1.6321891685736079
+2,disease_on_drugs,21,20,0.7792682926829269

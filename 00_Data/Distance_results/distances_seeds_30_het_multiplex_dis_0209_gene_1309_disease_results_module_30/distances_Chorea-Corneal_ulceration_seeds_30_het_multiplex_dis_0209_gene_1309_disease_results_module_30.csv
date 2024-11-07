@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.0006157635467980427
+1,disease_on_symptoms,17,15,0.3634803921568628
+2,disease_on_drugs,24,23,0.10671060746222638

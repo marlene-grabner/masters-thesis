@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,18,23,-0.23683280311063992
+2,disease_on_drugs,27,29,-0.05309250136836341

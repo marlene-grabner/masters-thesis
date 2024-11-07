@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.29367816091954024
+1,disease_on_symptoms,15,12,0.9833333333333332
+2,disease_on_drugs,29,21,0.5313300492610837

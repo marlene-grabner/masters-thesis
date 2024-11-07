@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,0.05568561872909683
+1,disease_on_symptoms,28,23,0.5877024722932649
+2,disease_on_drugs,23,17,0.6767902813299234

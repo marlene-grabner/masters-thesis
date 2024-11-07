@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.4500000000000002
+1,disease_on_symptoms,20,16,1.4854166666666666
+2,disease_on_drugs,28,23,0.9596425526732433

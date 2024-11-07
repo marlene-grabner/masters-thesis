@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,25,27,0.05769230769230771
+1,disease_on_symptoms,19,17,2.00593395252838
+2,disease_on_drugs,18,17,0.25709617180205413

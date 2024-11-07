@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,19,18,0.735064011379801
+2,disease_on_drugs,22,27,-0.10358688930117488

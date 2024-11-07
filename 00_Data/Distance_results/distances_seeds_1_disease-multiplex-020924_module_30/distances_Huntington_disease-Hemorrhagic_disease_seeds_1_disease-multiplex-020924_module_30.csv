@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.33287037037037037
+1,disease_on_symptoms,16,19,1.4940319548872179
+2,disease_on_drugs,27,19,0.8295194508009154

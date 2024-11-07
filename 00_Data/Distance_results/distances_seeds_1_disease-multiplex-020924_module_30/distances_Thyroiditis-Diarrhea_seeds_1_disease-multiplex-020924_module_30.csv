@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,27,-0.11291189593076378
+1,disease_on_symptoms,28,19,0.5267357222844347
+2,disease_on_drugs,23,26,0.38760152890587674

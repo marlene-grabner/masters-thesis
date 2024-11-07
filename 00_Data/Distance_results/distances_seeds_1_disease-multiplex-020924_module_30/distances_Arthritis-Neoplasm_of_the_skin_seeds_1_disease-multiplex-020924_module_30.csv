@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.20443349753694595
+1,disease_on_symptoms,19,21,1.236278195488722
+2,disease_on_drugs,29,24,0.4011060507482107

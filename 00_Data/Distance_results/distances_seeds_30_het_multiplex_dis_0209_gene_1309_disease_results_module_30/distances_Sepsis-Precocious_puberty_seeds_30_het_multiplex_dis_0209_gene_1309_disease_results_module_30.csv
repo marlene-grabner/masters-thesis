@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,15,16,1.003225806451613
+2,disease_on_drugs,25,27,0.5951566951566951

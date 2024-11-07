@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,15,20,0.5619047619047617
+2,disease_on_drugs,29,25,0.3420689655172413

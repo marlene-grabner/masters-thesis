@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.05233990147783241
+1,disease_on_symptoms,17,18,0.26055088702147544
+2,disease_on_drugs,26,25,0.11873303167420812

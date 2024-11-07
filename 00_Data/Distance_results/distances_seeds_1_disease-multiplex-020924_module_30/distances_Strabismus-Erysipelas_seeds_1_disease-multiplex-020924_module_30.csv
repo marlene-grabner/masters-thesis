@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Erysipelas nodes,sAB
+0,disease_on_genes,13,28,0.4098767086571966
+1,disease_on_symptoms,26,20,1.3690635451505015
+2,disease_on_drugs,9,27,0.7222222222222221

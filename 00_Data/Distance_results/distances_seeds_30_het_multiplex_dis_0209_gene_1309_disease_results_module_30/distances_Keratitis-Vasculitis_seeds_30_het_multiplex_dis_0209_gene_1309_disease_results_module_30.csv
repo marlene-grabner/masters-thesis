@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.1238095238095237
+1,disease_on_symptoms,25,18,0.1083979328165372
+2,disease_on_drugs,29,26,-0.004412828550759418

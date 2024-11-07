@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.24300699300699313
+1,disease_on_symptoms,19,20,1.1049257759784075
+2,disease_on_drugs,29,19,0.7083333333333333

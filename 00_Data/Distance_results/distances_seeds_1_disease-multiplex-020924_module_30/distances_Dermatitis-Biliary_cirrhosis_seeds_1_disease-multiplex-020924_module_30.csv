@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,0.17647058823529416
+1,disease_on_symptoms,25,15,0.28500000000000014
+2,disease_on_drugs,24,15,0.43012820512820515

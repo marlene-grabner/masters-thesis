@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Asthma nodes,sAB
+0,disease_on_genes,15,25,-0.10333333333333328
+1,disease_on_symptoms,25,19,-0.270574162679426
+2,disease_on_drugs,10,24,-0.2887254901960784

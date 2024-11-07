@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.016569200779727122
+1,disease_on_symptoms,20,14,0.9512605042016804
+2,disease_on_drugs,28,26,-0.014041514041513992

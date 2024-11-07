@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,17,23,0.4205882352941177
+1,disease_on_symptoms,25,25,1.06
+2,disease_on_drugs,13,21,1.5203619909502262

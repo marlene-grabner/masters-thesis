@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.13206203300542918
+1,disease_on_symptoms,20,27,1.4305752561071707
+2,disease_on_drugs,27,26,0.4905391603504812

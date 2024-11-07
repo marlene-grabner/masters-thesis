@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,12,21,0.7846320346320346
+2,disease_on_drugs,29,26,0.052013503737641464

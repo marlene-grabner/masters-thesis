@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.26345029239766093
+1,disease_on_symptoms,19,18,0.2725620357199303
+2,disease_on_drugs,20,25,-0.32499999999999996

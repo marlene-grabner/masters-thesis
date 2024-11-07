@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.12173489278752436
+1,disease_on_symptoms,14,16,0.35744047619047614
+2,disease_on_drugs,26,27,0.20788313712842

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.05360623781676421
+1,disease_on_symptoms,17,22,1.2446866858631567
+2,disease_on_drugs,24,22,0.20001646903820802

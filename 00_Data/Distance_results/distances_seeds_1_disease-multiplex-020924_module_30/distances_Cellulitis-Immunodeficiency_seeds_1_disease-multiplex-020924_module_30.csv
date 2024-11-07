@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,22,22,0.18320245645827038
+1,disease_on_symptoms,26,19,0.858164642375169
+2,disease_on_drugs,12,18,0.6722222222222223

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,0.25
+1,disease_on_symptoms,20,21,0.8502903600464577
+2,disease_on_drugs,27,23,0.42296296296296276

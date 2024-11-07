@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,30,-0.017857142857142905
+1,disease_on_symptoms,20,17,0.8193958664546901
+2,disease_on_drugs,24,25,0.36809523809523803

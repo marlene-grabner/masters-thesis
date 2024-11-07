@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,-0.006666666666666821
+1,disease_on_symptoms,17,23,0.5592710997442454
+2,disease_on_drugs,27,17,0.6231927114280056

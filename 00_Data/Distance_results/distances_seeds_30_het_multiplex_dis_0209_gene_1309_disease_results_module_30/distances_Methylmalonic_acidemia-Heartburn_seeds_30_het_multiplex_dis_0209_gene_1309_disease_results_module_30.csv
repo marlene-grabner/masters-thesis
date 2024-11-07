@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Heartburn nodes,sAB
+0,disease_on_genes,25,26,-0.33333333333333337
+1,disease_on_symptoms,17,16,0.3337789661319073
+2,disease_on_drugs,21,25,-0.2684057971014492

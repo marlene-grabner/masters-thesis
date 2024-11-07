@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,-0.22413793103448265
+1,disease_on_symptoms,13,17,0.37541478129713424
+2,disease_on_drugs,28,27,-0.11014911014911011

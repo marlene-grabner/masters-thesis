@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,-0.017857142857142794
+1,disease_on_symptoms,20,12,0.5395833333333333
+2,disease_on_drugs,27,18,0.3277777777777777

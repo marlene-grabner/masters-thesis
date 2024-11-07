@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,18,25,0.40059431524547806
+1,disease_on_symptoms,28,22,0.3385064935064934
+2,disease_on_drugs,17,24,0.32125777140124345

@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.32174167153711286
+1,disease_on_symptoms,13,16,0.727122015915119
+2,disease_on_drugs,23,24,0.4454209065679928

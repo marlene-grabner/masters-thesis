@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.6205128205128205
+1,disease_on_symptoms,22,24,1.5035408432147563
+2,disease_on_drugs,15,19,1.1770897832817337

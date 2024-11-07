@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,29,0.1103479853479854
+1,disease_on_symptoms,18,17,1.0794584500466855
+2,disease_on_drugs,23,25,0.375

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.08791208791208804
+1,disease_on_symptoms,11,22,1.0454545454545456
+2,disease_on_drugs,21,25,0.17126293995859232

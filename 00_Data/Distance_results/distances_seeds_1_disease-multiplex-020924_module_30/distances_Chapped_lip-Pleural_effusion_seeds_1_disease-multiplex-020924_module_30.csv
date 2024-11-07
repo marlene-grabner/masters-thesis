@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.161904761904762
+1,disease_on_symptoms,21,20,0.5352206736353078
+2,disease_on_drugs,24,22,0.36956521739130443

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,25,16,0.13152439024390228
+1,disease_on_symptoms,16,21,3.9786036036036037
+2,disease_on_drugs,17,15,0.8455882352941178

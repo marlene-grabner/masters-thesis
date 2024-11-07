@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.35185185185185186
+1,disease_on_symptoms,17,15,1.3213235294117647
+2,disease_on_drugs,25,26,0.9615384615384617

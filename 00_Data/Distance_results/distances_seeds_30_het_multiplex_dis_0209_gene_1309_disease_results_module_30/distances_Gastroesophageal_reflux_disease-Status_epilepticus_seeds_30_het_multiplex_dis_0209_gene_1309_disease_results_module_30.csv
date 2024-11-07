@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,30,-0.32280219780219777
+1,disease_on_symptoms,18,18,-0.25
+2,disease_on_drugs,25,30,-0.22272727272727266

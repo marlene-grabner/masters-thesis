@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,20,30,0.30166666666666675
+1,disease_on_symptoms,24,14,0.6934523809523809
+2,disease_on_drugs,18,24,0.5992063492063493

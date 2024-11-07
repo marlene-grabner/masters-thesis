@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,25,30,0.018181818181818077
+1,disease_on_symptoms,19,15,0.31062951496388025
+2,disease_on_drugs,22,29,-0.026492101542811453

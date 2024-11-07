@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.003388278388278154
+1,disease_on_symptoms,20,14,0.32268907563025184
+2,disease_on_drugs,27,30,0.4559454191033139

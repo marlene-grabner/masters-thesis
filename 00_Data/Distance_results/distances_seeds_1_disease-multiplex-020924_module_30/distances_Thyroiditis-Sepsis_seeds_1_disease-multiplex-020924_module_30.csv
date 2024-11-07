@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,22,-0.04472610722610715
+1,disease_on_symptoms,28,23,0.5553069053708439
+2,disease_on_drugs,23,17,-0.0805626598465472

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,24,19,-0.26486638106895155
+2,disease_on_drugs,27,25,-0.07715099715099716

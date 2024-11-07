@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,16,24,0.40416666666666656
+1,disease_on_symptoms,26,19,2.2618083670715246
+2,disease_on_drugs,14,20,0.95

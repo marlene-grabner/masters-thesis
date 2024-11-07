@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,18,0.18535353535353538
+2,disease_on_drugs,24,21,0.1779761904761903

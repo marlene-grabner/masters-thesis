@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.05999999999999983
+1,disease_on_symptoms,17,23,1.6539641943734016
+2,disease_on_drugs,24,20,0.6356060606060605

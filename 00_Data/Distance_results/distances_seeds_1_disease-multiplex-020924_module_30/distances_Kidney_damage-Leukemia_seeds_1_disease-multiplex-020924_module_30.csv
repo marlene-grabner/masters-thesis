@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Leukemia nodes,sAB
+0,disease_on_genes,20,18,0.29473684210526296
+1,disease_on_symptoms,26,27,1.1711148739450628
+2,disease_on_drugs,13,17,0.752790346907994

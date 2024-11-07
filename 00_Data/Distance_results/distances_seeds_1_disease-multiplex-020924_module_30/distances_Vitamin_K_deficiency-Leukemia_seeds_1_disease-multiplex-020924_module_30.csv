@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,0.086046511627907
+1,disease_on_symptoms,23,27,1.0067310789049921
+2,disease_on_drugs,20,17,0.4563593004769475

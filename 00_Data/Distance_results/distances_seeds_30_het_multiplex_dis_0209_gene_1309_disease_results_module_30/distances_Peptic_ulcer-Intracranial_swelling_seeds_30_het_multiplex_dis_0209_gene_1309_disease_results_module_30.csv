@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,11,0.07309384164222887
+2,disease_on_drugs,30,21,0.05070028011204464

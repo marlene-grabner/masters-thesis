@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.30116959064327486
+1,disease_on_symptoms,22,22,0.13636363636363646
+2,disease_on_drugs,29,20,-0.33682266009852235

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,25,26,-0.05882352941176472
+1,disease_on_symptoms,23,21,0.3612365894974592
+2,disease_on_drugs,21,26,-0.24602525134440034

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Dysuria nodes,sAB
+0,disease_on_genes,24,30,0.10863966601604846
+1,disease_on_symptoms,18,16,0.9356617647058822
+2,disease_on_drugs,18,23,0.588016967126193

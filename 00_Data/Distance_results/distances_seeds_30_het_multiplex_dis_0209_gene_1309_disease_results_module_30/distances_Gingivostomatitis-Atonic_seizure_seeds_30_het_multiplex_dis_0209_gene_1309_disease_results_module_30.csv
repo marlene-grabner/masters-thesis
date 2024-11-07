@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,15,15,0.6333333333333333
+2,disease_on_drugs,30,23,0.19979491386382264

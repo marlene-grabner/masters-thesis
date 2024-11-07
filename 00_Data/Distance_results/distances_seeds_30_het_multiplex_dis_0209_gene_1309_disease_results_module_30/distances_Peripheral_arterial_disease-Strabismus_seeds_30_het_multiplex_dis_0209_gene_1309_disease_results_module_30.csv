@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,17,-0.012311901504787892
+1,disease_on_symptoms,17,24,0.5125239120038261
+2,disease_on_drugs,24,16,0.1812499999999999

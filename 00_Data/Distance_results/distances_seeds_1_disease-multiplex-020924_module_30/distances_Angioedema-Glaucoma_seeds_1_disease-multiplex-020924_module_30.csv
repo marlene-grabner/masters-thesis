@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.12237274220032823
+1,disease_on_symptoms,17,14,0.4390078612089998
+2,disease_on_drugs,25,30,0.4939393939393941

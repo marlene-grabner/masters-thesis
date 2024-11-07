@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Exanthem nodes,sAB
+0,disease_on_genes,28,30,0.18961412151067303
+1,disease_on_symptoms,19,21,1.0803884711779448
+2,disease_on_drugs,25,29,0.5721839080459772

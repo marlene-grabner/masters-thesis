@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,24,0.04234749455337683
+1,disease_on_symptoms,21,17,1.5176912870411323
+2,disease_on_drugs,23,23,0.826086956521739

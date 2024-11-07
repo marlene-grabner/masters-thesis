@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,-0.1059934318555007
+1,disease_on_symptoms,14,26,-0.00439560439560438
+2,disease_on_drugs,28,28,0.3035714285714286

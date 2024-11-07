@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Sinusitis nodes,sAB
+0,disease_on_genes,23,29,0.3471052935070926
+1,disease_on_symptoms,19,21,1.4224310776942357
+2,disease_on_drugs,19,28,1.308130699088146

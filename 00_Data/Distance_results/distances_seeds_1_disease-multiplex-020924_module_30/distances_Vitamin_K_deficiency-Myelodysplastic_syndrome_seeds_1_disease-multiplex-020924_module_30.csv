@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,0.1352941176470588
+1,disease_on_symptoms,23,15,1.1023646071700992
+2,disease_on_drugs,20,21,0.5371080139372821

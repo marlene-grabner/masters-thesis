@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,24,30,0.38888888888888884
+1,disease_on_symptoms,23,13,1.2698810850984765
+2,disease_on_drugs,22,29,0.7843137254901962

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,13,11,0.38840326340326325
+2,disease_on_drugs,22,24,0.32855731225296436

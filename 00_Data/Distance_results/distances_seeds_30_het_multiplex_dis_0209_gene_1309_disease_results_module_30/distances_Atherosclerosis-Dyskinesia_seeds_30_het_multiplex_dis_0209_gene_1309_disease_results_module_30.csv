@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,14,15,0.9241379310344826
+2,disease_on_drugs,29,28,0.03537939676778157

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,22,28,0.3451948051948053
+1,disease_on_symptoms,22,17,1.0187851364321951
+2,disease_on_drugs,14,28,0.8928571428571428

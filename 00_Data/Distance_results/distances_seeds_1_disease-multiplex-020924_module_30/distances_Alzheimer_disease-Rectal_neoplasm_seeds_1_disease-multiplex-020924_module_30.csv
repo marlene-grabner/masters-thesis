@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,20,30,0.135
+1,disease_on_symptoms,23,21,0.9815546772068511
+2,disease_on_drugs,18,29,0.6676449009537786

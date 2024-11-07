@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.0
+1,disease_on_symptoms,18,21,1.0061050061050059
+2,disease_on_drugs,24,21,0.042063492063491914

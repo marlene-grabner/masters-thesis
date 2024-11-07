@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,12,21,0.35876623376623384
+1,disease_on_symptoms,27,25,1.46988603988604
+2,disease_on_drugs,9,21,0.6222222222222222

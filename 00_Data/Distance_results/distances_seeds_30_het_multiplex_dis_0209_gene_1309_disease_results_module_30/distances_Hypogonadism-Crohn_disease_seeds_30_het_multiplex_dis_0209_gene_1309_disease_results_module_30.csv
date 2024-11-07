@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,17,22,0.9573906485671193
+2,disease_on_drugs,29,24,0.3470776404250706

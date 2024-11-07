@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Keloid nodes,sAB
+0,disease_on_genes,16,22,0.17165071770334928
+1,disease_on_symptoms,26,20,1.2650501672240804
+2,disease_on_drugs,14,19,0.2727272727272727

@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,16,14,0.3229166666666665
+2,disease_on_drugs,28,24,0.13026556776556775

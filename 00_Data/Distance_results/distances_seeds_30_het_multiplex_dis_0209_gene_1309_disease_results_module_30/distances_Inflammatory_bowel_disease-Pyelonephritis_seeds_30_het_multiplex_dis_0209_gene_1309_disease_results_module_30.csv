@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,0.0347222222222221
+1,disease_on_symptoms,20,19,0.3664304993252361
+2,disease_on_drugs,27,19,-0.17755742012034914

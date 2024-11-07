@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,17,20,0.913910969793323
+2,disease_on_drugs,24,26,0.13788461538461538

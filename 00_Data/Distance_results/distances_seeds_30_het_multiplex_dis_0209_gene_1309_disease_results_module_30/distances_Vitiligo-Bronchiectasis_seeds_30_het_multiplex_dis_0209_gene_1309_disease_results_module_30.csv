@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,19,19,-0.4210526315789478
+2,disease_on_drugs,25,25,0.15999999999999992

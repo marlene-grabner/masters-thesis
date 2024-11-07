@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,22,28,-0.18707482993197266
+1,disease_on_symptoms,20,12,0.05624999999999991
+2,disease_on_drugs,19,21,-0.2990601503759398

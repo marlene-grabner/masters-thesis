@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,22,11,1.0833333333333335
+2,disease_on_drugs,30,24,0.375

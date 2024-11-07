@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Emphysema nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,19,18,0.8409198672356566
+2,disease_on_drugs,25,27,0.18982905982905995

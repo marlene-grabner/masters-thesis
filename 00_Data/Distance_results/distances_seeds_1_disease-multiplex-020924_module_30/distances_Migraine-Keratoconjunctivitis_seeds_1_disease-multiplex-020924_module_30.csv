@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.11920903954802275
+1,disease_on_symptoms,14,25,1.0775824175824176
+2,disease_on_drugs,29,27,0.4940476190476193

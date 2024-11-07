@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,18,23,1.2998409331919407
+2,disease_on_drugs,25,24,0.48925170068027213

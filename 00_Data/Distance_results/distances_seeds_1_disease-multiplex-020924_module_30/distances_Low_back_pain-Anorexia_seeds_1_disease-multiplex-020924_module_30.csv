@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.24866499791405938
+1,disease_on_symptoms,17,25,0.618095238095238
+2,disease_on_drugs,26,13,0.9038461538461542

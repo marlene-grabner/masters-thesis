@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,20,19,0.003542510121457454
+2,disease_on_drugs,29,28,-0.1413447411632529

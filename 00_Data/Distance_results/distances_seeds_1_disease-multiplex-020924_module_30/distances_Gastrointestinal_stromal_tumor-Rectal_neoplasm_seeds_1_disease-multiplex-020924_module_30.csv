@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,23,30,-0.014356029532403669
+1,disease_on_symptoms,20,21,0.43821138211382116
+2,disease_on_drugs,19,29,0.06968390804597724

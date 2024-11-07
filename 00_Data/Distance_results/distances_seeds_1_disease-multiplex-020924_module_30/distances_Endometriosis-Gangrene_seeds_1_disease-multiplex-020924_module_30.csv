@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,0.2857142857142858
+1,disease_on_symptoms,12,19,0.8002263723825691
+2,disease_on_drugs,27,23,0.7382608695652173

@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.13840155945419097
+1,disease_on_symptoms,17,21,0.3118089340999557
+2,disease_on_drugs,27,27,0.35185185185185186

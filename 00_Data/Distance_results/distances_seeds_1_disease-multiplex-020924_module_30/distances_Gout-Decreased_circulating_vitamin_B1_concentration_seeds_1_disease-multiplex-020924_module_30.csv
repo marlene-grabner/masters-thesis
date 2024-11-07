@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,25,25,0.2599999999999998
+1,disease_on_symptoms,18,13,1.32464846980976
+2,disease_on_drugs,23,16,0.2171474358974359

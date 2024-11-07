@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,25,30,-0.01848484848484855
+1,disease_on_symptoms,19,24,0.13137494900040814
+2,disease_on_drugs,13,28,0.23810640578933273

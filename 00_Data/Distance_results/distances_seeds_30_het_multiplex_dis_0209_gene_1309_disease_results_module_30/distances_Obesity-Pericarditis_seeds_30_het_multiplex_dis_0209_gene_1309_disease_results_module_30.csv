@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,-0.20649895178197064
+1,disease_on_symptoms,18,21,0.17704517704517708
+2,disease_on_drugs,25,26,-0.21425339366515828

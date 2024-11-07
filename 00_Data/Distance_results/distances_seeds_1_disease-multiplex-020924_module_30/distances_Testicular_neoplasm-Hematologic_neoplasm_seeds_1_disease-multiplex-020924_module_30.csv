@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,25,22,0.1302127659574468
+1,disease_on_symptoms,25,24,0.9590986394557826
+2,disease_on_drugs,23,19,0.11316334314045973

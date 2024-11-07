@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,29,0.1607142857142858
+1,disease_on_symptoms,22,13,0.61038961038961
+2,disease_on_drugs,26,22,0.33027389277389285

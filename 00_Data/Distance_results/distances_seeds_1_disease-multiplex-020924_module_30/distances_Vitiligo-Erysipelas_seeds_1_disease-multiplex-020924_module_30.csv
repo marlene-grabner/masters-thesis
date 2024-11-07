@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Erysipelas nodes,sAB
+0,disease_on_genes,24,28,-0.014880952380952328
+1,disease_on_symptoms,22,20,1.191125541125541
+2,disease_on_drugs,11,27,0.1578947368421053

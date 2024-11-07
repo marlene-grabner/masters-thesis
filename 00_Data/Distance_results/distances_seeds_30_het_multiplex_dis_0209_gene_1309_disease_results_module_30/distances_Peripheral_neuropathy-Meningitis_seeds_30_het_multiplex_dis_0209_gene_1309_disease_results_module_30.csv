@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,21,17,0.5932478254459679
+2,disease_on_drugs,29,27,0.30202061667578906

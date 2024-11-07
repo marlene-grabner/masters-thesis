@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.1779100529100528
+1,disease_on_symptoms,17,25,0.9429131652661065
+2,disease_on_drugs,20,27,0.3865248226950355

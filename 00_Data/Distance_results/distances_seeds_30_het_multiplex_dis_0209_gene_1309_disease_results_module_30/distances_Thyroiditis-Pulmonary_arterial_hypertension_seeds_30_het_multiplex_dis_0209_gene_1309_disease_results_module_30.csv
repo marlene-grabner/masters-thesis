@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.12068965517241381
+1,disease_on_symptoms,21,17,-0.017101577473094487
+2,disease_on_drugs,29,25,-0.12978288633461044

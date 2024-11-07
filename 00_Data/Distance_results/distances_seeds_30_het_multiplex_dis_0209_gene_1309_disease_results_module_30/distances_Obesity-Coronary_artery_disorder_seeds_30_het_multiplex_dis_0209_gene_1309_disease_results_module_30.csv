@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.2572946859903381
+1,disease_on_symptoms,18,19,0.5072704283230598
+2,disease_on_drugs,25,22,-0.14835589941972915

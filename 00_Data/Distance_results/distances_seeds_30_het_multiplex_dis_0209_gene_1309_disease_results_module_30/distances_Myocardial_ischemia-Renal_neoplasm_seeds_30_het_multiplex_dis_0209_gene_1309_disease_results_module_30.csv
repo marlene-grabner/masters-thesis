@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.38954802259887
+1,disease_on_symptoms,19,20,-0.2858636977058029
+2,disease_on_drugs,30,28,-0.29256978653530386

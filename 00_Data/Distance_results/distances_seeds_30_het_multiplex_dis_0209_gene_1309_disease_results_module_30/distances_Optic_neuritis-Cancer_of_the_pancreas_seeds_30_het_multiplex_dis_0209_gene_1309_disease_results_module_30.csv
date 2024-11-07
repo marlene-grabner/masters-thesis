@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,21,23,0.08850931677018625
+2,disease_on_drugs,27,30,-0.10194931773879135

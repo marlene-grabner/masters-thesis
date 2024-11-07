@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,30,-0.3202380952380952
+1,disease_on_symptoms,20,25,-0.2583333333333335
+2,disease_on_drugs,23,29,-0.40990081882135854

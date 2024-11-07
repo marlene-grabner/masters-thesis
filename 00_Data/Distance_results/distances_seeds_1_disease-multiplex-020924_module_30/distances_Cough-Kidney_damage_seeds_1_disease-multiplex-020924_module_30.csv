@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.2006304176516942
+1,disease_on_symptoms,21,26,1.2767321331151118
+2,disease_on_drugs,27,13,0.3206552706552708

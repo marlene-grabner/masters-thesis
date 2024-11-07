@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.0847457627118644
+1,disease_on_symptoms,20,17,0.6416136724960255
+2,disease_on_drugs,30,27,0.43177387914230003

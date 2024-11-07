@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.19999999999999973
+1,disease_on_symptoms,15,23,0.6625476735316549
+2,disease_on_drugs,23,17,0.6517902813299234

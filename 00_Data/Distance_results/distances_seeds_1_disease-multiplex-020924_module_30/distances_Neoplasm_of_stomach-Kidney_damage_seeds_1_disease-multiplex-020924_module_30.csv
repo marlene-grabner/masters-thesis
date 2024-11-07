@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,23,20,0.2953488372093023
+1,disease_on_symptoms,24,26,1.4545512820512818
+2,disease_on_drugs,22,13,0.8421078921078919

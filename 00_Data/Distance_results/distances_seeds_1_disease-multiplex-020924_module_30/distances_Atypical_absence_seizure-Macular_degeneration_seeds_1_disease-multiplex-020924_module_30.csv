@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.2375706214689266
+1,disease_on_symptoms,15,15,1.4333333333333336
+2,disease_on_drugs,27,21,1.4808201058201056

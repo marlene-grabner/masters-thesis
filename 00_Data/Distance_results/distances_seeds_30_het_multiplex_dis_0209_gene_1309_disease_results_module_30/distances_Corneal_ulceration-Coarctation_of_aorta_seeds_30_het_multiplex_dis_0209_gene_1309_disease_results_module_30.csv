@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,28,27,-0.20001202501202509
+1,disease_on_symptoms,15,19,-0.14406604747162022
+2,disease_on_drugs,23,24,-0.128218470551958

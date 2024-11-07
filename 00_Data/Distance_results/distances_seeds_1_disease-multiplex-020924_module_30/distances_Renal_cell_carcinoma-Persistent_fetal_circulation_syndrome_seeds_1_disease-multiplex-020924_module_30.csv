@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,25,25,0.3999999999999999
+1,disease_on_symptoms,24,20,2.2037878787878786
+2,disease_on_drugs,20,18,1.2061403508771926

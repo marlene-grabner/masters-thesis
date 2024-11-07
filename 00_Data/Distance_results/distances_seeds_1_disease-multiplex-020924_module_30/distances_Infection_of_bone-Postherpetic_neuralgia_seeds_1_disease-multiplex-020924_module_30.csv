@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,26,30,0.21272893772893764
+1,disease_on_symptoms,21,15,0.888095238095238
+2,disease_on_drugs,24,29,0.278749186727391

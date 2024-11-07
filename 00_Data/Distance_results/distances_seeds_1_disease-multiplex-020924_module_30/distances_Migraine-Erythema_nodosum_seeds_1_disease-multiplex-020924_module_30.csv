@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.1039819376026272
+1,disease_on_symptoms,14,23,1.0244250461641766
+2,disease_on_drugs,29,28,0.4733709273182958

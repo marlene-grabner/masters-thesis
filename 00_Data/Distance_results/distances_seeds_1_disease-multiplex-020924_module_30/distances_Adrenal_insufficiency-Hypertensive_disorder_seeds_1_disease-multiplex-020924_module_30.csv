@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,17,26,0.10396716826265395
+1,disease_on_symptoms,21,15,1.611904761904762
+2,disease_on_drugs,14,26,0.7

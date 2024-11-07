@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.09366967459666387
+1,disease_on_symptoms,14,25,-0.12824175824175832
+2,disease_on_drugs,29,18,0.0017730496453898237

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Keratitis nodes,sAB
+0,disease_on_genes,24,30,0.11064814814814805
+1,disease_on_symptoms,19,25,0.7794258373205742
+2,disease_on_drugs,19,29,0.1968768905021172

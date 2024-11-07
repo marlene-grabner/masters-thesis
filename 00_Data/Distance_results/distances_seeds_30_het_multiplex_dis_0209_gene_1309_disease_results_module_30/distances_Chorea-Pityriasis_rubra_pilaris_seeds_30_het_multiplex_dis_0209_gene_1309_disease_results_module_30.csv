@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.01949317738791434
+1,disease_on_symptoms,17,21,0.9158926728586172
+2,disease_on_drugs,24,25,0.2019217687074828

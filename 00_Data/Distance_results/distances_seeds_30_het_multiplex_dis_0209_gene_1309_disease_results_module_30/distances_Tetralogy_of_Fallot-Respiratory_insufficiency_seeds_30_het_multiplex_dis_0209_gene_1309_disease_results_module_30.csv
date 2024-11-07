@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,-0.1903508771929825
+1,disease_on_symptoms,19,21,0.069172932330827
+2,disease_on_drugs,20,25,-0.22277777777777752

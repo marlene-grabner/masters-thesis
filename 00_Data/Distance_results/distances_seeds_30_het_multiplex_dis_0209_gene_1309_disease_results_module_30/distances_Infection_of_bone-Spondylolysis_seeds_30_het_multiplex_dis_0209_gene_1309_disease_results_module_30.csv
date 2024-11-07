@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,18,17,0.08496732026143805
+2,disease_on_drugs,28,19,-0.25401935690289557

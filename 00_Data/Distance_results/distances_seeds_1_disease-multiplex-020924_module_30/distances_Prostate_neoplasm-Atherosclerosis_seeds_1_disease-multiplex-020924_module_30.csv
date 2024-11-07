@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,17,30,0.11639549436795993
+1,disease_on_symptoms,21,13,1.201141995259642
+2,disease_on_drugs,17,29,0.7020460358056266

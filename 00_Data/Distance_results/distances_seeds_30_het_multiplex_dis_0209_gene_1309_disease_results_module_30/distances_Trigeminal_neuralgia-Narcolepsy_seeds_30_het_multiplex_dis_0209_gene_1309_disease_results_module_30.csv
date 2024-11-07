@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.21818181818181814
+1,disease_on_symptoms,15,20,0.6226190476190476
+2,disease_on_drugs,25,21,-0.34360248447204955

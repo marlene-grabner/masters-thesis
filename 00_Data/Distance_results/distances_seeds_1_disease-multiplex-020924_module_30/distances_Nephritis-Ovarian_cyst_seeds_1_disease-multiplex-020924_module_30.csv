@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,20,0.2250000000000001
+1,disease_on_symptoms,18,22,0.8565656565656568
+2,disease_on_drugs,27,15,0.9026455026455027

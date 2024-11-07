@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,26,-0.019230769230769162
+1,disease_on_symptoms,21,19,-0.31766917293233066
+2,disease_on_drugs,26,23,-0.18382704252269477

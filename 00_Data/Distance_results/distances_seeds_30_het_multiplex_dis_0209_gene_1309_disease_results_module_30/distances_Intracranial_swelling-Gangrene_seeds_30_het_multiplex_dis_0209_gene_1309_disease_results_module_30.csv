@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,11,22,0.41666666666666696
+2,disease_on_drugs,21,27,-0.028439153439153264

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,23,25,0.10228260869565231
+1,disease_on_symptoms,25,20,1.16
+2,disease_on_drugs,22,21,0.2341437632135306

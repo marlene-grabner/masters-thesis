@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,18,22,0.5138888888888888
+1,disease_on_symptoms,21,24,1.178373015873016
+2,disease_on_drugs,6,19,0.12807017543859645

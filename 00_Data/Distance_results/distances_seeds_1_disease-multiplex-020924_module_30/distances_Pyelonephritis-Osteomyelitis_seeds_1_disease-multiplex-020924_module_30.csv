@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,23,25,-0.3127173913043477
+1,disease_on_symptoms,21,23,0.22068511198945995
+2,disease_on_drugs,19,23,-0.37681159420289856

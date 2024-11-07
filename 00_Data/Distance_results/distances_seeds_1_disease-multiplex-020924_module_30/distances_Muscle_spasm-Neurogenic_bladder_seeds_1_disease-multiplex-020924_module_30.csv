@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,-0.32424242424242433
+1,disease_on_symptoms,23,17,-0.777685421994885
+2,disease_on_drugs,19,26,-0.3111111111111111

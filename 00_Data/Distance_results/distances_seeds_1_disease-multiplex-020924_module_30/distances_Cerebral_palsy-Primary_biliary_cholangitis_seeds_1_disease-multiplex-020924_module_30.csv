@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,27,26,0.3797908939418373
+1,disease_on_symptoms,16,17,1.848819073083779
+2,disease_on_drugs,18,18,0.9444444444444446

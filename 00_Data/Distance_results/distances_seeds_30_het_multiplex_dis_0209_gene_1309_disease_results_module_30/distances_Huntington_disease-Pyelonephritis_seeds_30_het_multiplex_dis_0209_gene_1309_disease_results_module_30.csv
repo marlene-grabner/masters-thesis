@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,0.016203703703703498
+1,disease_on_symptoms,17,19,1.2961816305469558
+2,disease_on_drugs,26,19,-0.02708052181736398

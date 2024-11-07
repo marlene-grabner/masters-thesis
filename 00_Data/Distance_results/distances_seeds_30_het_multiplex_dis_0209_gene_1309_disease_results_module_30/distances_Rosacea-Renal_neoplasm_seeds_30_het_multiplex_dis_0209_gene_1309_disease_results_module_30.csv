@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.3048022598870056
+1,disease_on_symptoms,18,20,0.36359649122807003
+2,disease_on_drugs,30,28,-0.030500821018062396

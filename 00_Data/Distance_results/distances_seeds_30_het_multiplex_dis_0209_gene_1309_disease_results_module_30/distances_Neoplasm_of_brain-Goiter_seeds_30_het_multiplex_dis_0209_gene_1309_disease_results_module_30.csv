@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.0904761904761906
+1,disease_on_symptoms,19,12,0.5130871533672892
+2,disease_on_drugs,29,18,0.2521602673840386

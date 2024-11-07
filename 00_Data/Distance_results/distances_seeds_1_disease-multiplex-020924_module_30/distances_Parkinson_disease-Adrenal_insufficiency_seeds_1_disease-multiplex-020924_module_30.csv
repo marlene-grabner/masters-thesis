@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,21,17,0.36473536783134297
+1,disease_on_symptoms,20,21,2.559059233449477
+2,disease_on_drugs,19,14,0.8484848484848484

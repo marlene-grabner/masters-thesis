@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.436946386946387
+1,disease_on_symptoms,17,18,2.3646125116713352
+2,disease_on_drugs,17,18,0.9142857142857144

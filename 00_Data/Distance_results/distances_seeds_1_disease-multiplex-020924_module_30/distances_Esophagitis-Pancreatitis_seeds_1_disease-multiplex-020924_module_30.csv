@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,24,30,-0.03467322942302431
+1,disease_on_symptoms,23,20,0.3857178968655206
+2,disease_on_drugs,20,30,-0.02499999999999991

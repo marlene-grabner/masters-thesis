@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,29,17,0.3152394391039772
+1,disease_on_symptoms,17,21,2.4455992923485184
+2,disease_on_drugs,26,14,1.205769230769231

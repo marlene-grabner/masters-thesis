@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,-0.0006157635467980427
+1,disease_on_symptoms,19,19,-0.13157894736842102
+2,disease_on_drugs,25,25,0.23999999999999977

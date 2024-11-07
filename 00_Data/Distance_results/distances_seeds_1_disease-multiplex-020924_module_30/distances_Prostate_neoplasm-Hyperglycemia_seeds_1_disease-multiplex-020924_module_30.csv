@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hyperglycemia nodes,sAB
+0,disease_on_genes,17,30,0.09228201919065504
+1,disease_on_symptoms,21,14,1.3476190476190477
+2,disease_on_drugs,17,26,0.7551299589603282

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,25,26,0.6250980392156862
+1,disease_on_symptoms,16,19,2.0629699248120303
+2,disease_on_drugs,17,18,0.8856676003734827

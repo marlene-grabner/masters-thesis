@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.18757062146892656
+1,disease_on_symptoms,12,15,0.6685185185185181
+2,disease_on_drugs,30,22,0.9448717948717948

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,18,19,0.2722064169432592
+2,disease_on_drugs,27,23,-0.19433172302737522

@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Keloid nodes,sAB
+0,disease_on_genes,28,22,0.038831168831169105
+1,disease_on_symptoms,21,20,0.38879210220673643
+2,disease_on_drugs,28,19,0.09194528875379948

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,24,24,0.3124999999999998
+1,disease_on_symptoms,25,21,1.0577639751552796
+2,disease_on_drugs,17,24,0.7251016260162604

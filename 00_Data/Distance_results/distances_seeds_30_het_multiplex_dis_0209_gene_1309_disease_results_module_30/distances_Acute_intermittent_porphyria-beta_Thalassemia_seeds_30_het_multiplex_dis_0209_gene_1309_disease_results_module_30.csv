@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,17,13,0.8877828054298644
+2,disease_on_drugs,24,24,0.08333333333333348

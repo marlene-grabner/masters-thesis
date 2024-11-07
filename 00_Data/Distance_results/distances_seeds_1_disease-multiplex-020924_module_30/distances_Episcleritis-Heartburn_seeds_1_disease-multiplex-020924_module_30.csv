@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,24,0.006944444444444642
+1,disease_on_symptoms,22,20,0.6206709956709955
+2,disease_on_drugs,29,22,0.42047759542688556

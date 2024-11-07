@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,29,30,-0.7112994350282484
+1,disease_on_symptoms,15,16,-0.83877688172043
+2,disease_on_drugs,27,23,-0.8622544283413849

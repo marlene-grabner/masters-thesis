@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.14148351648351665
+1,disease_on_symptoms,9,25,0.6623529411764708
+2,disease_on_drugs,23,25,0.3303260869565219

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,23,17,-0.0828005115089514
+2,disease_on_drugs,23,17,-0.10594629156010238

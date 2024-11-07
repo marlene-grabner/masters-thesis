@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,25,25,0.2999999999999998
+1,disease_on_symptoms,13,17,1.6568627450980393
+2,disease_on_drugs,16,24,0.6020833333333335

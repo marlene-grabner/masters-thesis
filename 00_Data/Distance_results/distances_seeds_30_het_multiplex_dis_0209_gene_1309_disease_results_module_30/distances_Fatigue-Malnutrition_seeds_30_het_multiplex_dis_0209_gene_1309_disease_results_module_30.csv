@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Malnutrition nodes,sAB
+0,disease_on_genes,26,30,-0.2898351648351648
+1,disease_on_symptoms,16,14,0.38928571428571446
+2,disease_on_drugs,26,29,-0.18561610802990125

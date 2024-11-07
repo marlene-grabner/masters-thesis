@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.14363636363636356
+1,disease_on_symptoms,19,19,1.3684210526315792
+2,disease_on_drugs,29,24,0.8073899371069184

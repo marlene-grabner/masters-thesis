@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,21,24,0.05813492063492065
+1,disease_on_symptoms,22,22,1.4999999999999998
+2,disease_on_drugs,21,11,0.013392857142857206

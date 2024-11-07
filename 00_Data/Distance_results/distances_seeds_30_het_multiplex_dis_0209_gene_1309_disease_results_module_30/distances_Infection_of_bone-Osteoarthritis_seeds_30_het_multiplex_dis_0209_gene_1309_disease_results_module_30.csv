@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.12774725274725263
+1,disease_on_symptoms,18,22,0.2055555555555555
+2,disease_on_drugs,28,25,-0.09583557951482469

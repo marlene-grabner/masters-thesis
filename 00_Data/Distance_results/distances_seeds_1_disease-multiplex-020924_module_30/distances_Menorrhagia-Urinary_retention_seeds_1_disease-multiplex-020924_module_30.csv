@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.2097117261398327
+1,disease_on_symptoms,19,18,2.0268294610399877
+2,disease_on_drugs,24,19,0.6676611587107302

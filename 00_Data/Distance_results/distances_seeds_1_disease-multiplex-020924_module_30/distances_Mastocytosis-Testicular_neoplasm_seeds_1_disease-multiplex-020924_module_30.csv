@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,18,25,0.32757105943152465
+1,disease_on_symptoms,28,25,0.9906334231805931
+2,disease_on_drugs,17,23,0.79769820971867

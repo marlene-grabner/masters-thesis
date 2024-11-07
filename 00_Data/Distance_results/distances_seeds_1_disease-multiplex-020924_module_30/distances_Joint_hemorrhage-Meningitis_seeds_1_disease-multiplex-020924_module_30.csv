@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.38980128579777906
+1,disease_on_symptoms,13,20,1.2201048951048952
+2,disease_on_drugs,18,26,0.8484848484848484

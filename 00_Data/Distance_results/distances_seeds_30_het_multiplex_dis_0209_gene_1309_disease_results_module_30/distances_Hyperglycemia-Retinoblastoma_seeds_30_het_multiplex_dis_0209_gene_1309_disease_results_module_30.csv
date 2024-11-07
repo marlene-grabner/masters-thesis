@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,17,21,1.2027126640129737
+2,disease_on_drugs,26,27,0.4321346019459227

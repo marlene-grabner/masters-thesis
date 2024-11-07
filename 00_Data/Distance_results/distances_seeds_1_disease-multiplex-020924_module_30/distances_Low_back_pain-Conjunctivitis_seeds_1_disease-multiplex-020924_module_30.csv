@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.19288499025341133
+1,disease_on_symptoms,17,27,1.1018518518518519
+2,disease_on_drugs,26,26,0.40384615384615397

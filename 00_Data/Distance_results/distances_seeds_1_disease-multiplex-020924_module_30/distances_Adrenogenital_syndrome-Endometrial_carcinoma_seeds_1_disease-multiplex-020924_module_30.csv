@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.10459392945036927
+1,disease_on_symptoms,7,21,-0.27380952380952395
+2,disease_on_drugs,22,21,0.09453337360314107

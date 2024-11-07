@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.19103313840155933
+1,disease_on_symptoms,13,16,0.9437168435013263
+2,disease_on_drugs,23,27,0.537745571658615

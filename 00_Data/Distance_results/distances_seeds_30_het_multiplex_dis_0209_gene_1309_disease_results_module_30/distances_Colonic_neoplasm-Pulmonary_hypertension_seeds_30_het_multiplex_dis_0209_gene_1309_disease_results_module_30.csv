@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.15459770114942528
+1,disease_on_symptoms,19,18,-0.30089299826141924
+2,disease_on_drugs,29,27,-0.0013683634373291564

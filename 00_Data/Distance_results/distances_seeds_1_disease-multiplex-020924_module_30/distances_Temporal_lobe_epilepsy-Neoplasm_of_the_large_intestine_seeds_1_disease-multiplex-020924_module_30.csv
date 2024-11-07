@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,29,20,0.08020760028149176
+1,disease_on_symptoms,17,25,1.8946218487394957
+2,disease_on_drugs,26,19,0.9281376518218623

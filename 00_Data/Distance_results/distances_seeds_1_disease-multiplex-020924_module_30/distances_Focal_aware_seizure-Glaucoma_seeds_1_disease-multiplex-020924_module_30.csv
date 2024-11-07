@@ -1,0 +1,4 @@
+,Layer,Focal_aware_seizure nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.06892655367231648
+1,disease_on_symptoms,15,14,0.19178981937602635
+2,disease_on_drugs,29,30,0.35649717514124313

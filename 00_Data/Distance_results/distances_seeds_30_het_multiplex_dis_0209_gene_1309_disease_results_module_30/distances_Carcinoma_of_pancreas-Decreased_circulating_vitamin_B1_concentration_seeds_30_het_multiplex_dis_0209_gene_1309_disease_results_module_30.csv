@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,18,17,0.776517273576097
+2,disease_on_drugs,21,25,-0.045465838509316736

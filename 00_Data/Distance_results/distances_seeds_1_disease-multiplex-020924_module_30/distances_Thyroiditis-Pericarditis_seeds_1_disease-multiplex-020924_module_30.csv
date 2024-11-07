@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,0.07993966817496245
+1,disease_on_symptoms,28,22,0.43318181818181833
+2,disease_on_drugs,23,25,0.3332608695652173

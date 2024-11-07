@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.16645768025078378
+1,disease_on_symptoms,17,16,1.4909759358288772
+2,disease_on_drugs,25,22,0.4480851063829787

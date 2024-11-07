@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Gout nodes,sAB
+0,disease_on_genes,27,28,-0.09092111592111596
+1,disease_on_symptoms,23,19,0.7182630489266644
+2,disease_on_drugs,25,22,0.14243713733075447

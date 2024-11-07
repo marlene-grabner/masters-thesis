@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,29,24,0.19030579050097596
+1,disease_on_symptoms,17,17,1.0294117647058822
+2,disease_on_drugs,26,23,1.078817145587332

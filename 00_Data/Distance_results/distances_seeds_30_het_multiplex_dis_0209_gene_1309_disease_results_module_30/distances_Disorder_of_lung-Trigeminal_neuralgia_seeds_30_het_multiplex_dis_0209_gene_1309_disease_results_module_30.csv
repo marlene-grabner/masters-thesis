@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,18,15,0.13686868686868703
+2,disease_on_drugs,24,25,-0.2233163265306124

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Psoriasis nodes,sAB
+0,disease_on_genes,17,28,0.23879551820728273
+1,disease_on_symptoms,22,21,2.8792912513842746
+2,disease_on_drugs,15,28,0.3030454042081949

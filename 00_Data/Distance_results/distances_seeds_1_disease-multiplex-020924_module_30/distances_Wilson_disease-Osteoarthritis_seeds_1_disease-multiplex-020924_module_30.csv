@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,23,25,0.41297101449275364
+1,disease_on_symptoms,19,20,1.692037786774629
+2,disease_on_drugs,11,21,0.78125

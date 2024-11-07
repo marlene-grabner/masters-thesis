@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,0.25184729064039413
+1,disease_on_symptoms,17,18,1.7443043884220355
+2,disease_on_drugs,26,19,0.6573774179037337

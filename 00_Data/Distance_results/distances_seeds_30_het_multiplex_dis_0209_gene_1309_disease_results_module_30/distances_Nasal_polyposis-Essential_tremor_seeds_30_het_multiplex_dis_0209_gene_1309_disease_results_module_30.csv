@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.039215686274509776
+1,disease_on_symptoms,20,23,0.7314459049544997
+2,disease_on_drugs,25,21,0.14356107660455475

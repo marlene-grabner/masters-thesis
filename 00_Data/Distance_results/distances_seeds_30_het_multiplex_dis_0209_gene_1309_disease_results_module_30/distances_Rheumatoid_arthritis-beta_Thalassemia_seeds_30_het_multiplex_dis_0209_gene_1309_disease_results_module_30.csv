@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,19,13,-0.1805414979757085
+2,disease_on_drugs,30,24,-0.30138888888888893

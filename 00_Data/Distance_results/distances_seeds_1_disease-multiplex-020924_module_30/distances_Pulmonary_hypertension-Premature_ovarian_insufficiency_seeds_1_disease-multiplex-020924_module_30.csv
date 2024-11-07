@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,28,23,0.13900560224089653
+1,disease_on_symptoms,20,22,1.1125541125541125
+2,disease_on_drugs,28,17,0.6673202614379083

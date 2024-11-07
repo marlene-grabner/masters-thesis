@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,11,18,-0.10101010101010122
+2,disease_on_drugs,21,21,-0.2142857142857142

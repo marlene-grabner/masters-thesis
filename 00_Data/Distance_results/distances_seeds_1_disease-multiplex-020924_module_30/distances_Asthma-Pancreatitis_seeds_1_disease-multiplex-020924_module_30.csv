@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,25,30,0.09515151515151521
+1,disease_on_symptoms,19,20,0.8471997300944669
+2,disease_on_drugs,24,30,0.4398148148148149

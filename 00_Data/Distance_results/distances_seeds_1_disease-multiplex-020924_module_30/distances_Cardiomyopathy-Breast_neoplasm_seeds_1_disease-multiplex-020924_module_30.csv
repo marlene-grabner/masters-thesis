@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,25,30,0.10545454545454547
+1,disease_on_symptoms,17,16,0.8756127450980393
+2,disease_on_drugs,24,30,0.32870370370370394

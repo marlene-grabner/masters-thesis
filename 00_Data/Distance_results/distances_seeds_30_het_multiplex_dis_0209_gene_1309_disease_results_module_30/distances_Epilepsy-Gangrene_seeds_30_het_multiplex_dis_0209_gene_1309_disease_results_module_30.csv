@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.06929824561403508
+1,disease_on_symptoms,21,22,0.1661884627000907
+2,disease_on_drugs,29,27,0.12344918810436045

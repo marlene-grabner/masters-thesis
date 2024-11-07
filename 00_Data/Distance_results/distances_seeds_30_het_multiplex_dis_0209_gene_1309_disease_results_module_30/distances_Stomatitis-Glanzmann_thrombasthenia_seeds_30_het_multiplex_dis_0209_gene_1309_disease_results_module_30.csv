@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.16666666666666663
+1,disease_on_symptoms,19,19,0.368421052631579
+2,disease_on_drugs,29,24,0.12195022771633046

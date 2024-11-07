@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,25,30,0.24363636363636343
+1,disease_on_symptoms,16,20,1.4472222222222224
+2,disease_on_drugs,17,28,0.5392390289449112

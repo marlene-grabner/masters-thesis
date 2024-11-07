@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,-0.5968810916179338
+1,disease_on_symptoms,20,22,-0.6449134199134199
+2,disease_on_drugs,29,26,-0.5435736677115985

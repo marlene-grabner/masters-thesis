@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,20,15,0.8321428571428569
+2,disease_on_drugs,25,30,0.33424242424242423

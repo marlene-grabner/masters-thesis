@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,26,25,0.0387782805429866
+1,disease_on_symptoms,19,13,0.837171052631579
+2,disease_on_drugs,24,16,0.24791666666666656

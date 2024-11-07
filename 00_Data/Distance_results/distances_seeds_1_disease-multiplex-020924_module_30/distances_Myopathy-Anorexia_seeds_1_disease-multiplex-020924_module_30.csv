@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Anorexia nodes,sAB
+0,disease_on_genes,18,17,0.42838468720821665
+1,disease_on_symptoms,21,25,0.8499792960662524
+2,disease_on_drugs,6,13,1.2159244264507423

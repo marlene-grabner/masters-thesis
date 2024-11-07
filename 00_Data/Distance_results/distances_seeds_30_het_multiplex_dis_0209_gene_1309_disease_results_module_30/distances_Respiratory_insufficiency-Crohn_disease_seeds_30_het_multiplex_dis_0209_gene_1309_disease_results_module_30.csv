@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,26,-0.018867924528301883
+1,disease_on_symptoms,21,22,0.6719269102990033
+2,disease_on_drugs,25,24,0.0036394557823129503

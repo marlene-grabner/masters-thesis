@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,30,30,0.3500000000000001
+1,disease_on_symptoms,22,14,1.8012265512265513
+2,disease_on_drugs,29,11,0.48879310344827576

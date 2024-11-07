@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615397
+1,disease_on_symptoms,21,24,1.1740079365079366
+2,disease_on_drugs,24,24,0.4375

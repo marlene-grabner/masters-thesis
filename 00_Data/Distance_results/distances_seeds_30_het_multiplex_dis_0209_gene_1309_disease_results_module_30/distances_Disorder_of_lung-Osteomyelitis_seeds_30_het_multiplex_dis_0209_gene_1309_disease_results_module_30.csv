@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,18,22,0.28535353535353547
+2,disease_on_drugs,24,28,0.19436813186813184

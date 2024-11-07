@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,22,30,0.05501165501165506
+1,disease_on_symptoms,22,15,0.49295659295659267
+2,disease_on_drugs,14,29,0.45701111238400727

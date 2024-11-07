@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.15897435897435885
+1,disease_on_symptoms,19,26,0.990215924426451
+2,disease_on_drugs,24,28,0.7868589743589742

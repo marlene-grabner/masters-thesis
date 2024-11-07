@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.4452380952380952
+1,disease_on_symptoms,21,16,-0.5627413127413126
+2,disease_on_drugs,29,25,-0.42546615581098335

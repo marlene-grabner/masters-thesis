@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Asthma nodes,sAB
+0,disease_on_genes,20,25,0.13277777777777788
+1,disease_on_symptoms,25,19,0.2012440191387559
+2,disease_on_drugs,19,24,0.4870971032231741

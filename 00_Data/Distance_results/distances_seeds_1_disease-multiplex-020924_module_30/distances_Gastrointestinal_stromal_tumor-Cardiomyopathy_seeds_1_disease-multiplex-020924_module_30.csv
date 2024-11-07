@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,23,25,0.12213768115942014
+1,disease_on_symptoms,20,17,1.6775834658187598
+2,disease_on_drugs,19,24,0.9583333333333335

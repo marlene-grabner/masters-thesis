@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.05083771673485282
+1,disease_on_symptoms,20,17,0.026629570747217945
+2,disease_on_drugs,25,17,0.07422969187675066

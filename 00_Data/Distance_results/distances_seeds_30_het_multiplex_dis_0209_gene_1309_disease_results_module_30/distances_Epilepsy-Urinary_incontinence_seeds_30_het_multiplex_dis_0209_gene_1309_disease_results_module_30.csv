@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,-0.1861581920903954
+1,disease_on_symptoms,21,20,-0.24181184668989553
+2,disease_on_drugs,29,20,-0.3678395496129484

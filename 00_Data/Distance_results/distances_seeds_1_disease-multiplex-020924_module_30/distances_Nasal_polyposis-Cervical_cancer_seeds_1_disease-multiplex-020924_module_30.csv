@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,15,27,0.5433862433862435
+1,disease_on_symptoms,25,23,1.5581521739130435
+2,disease_on_drugs,10,15,0.3400000000000001

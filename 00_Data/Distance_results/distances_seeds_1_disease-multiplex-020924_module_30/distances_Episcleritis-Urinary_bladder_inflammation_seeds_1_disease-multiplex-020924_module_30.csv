@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.12181818181818183
+1,disease_on_symptoms,22,22,1.3863636363636365
+2,disease_on_drugs,29,24,0.5474409021904143

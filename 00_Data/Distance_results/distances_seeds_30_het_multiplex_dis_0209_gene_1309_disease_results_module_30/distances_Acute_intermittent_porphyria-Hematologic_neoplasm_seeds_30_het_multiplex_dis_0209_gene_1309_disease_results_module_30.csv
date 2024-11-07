@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,17,18,0.9480392156862747
+2,disease_on_drugs,24,27,0.003676470588235281

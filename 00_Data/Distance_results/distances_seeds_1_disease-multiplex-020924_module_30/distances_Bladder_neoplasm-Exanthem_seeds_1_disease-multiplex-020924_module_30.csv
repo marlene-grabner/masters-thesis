@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.2592592592592593
+1,disease_on_symptoms,20,26,1.1980769230769233
+2,disease_on_drugs,25,28,0.4161051212938005

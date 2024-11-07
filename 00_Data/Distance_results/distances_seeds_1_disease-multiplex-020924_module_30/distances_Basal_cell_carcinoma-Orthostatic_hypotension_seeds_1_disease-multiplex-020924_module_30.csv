@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,26,30,0.2319597069597068
+1,disease_on_symptoms,23,12,1.5207556935817808
+2,disease_on_drugs,25,17,0.9943977591036415

@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,-0.14727272727272733
+1,disease_on_symptoms,20,16,0.10347222222222241
+2,disease_on_drugs,22,28,-0.09201298701298688

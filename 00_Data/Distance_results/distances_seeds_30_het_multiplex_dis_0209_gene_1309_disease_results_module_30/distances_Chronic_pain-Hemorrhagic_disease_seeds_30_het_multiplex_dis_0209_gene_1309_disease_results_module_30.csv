@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.052380952380952306
+1,disease_on_symptoms,19,19,0.2894736842105261
+2,disease_on_drugs,28,24,0.098901098901099

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,20,0.3233822042467138
+1,disease_on_symptoms,23,24,1.3204016342892384
+2,disease_on_drugs,20,18,0.7323099415204679

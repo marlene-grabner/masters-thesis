@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,0.2776760276760277
+1,disease_on_symptoms,18,15,1.9565656565656564
+2,disease_on_drugs,23,21,0.7272727272727273

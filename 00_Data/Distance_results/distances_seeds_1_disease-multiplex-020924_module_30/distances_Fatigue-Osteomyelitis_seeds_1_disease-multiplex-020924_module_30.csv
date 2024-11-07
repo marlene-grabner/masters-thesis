@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,-0.0004223227752637726
+1,disease_on_symptoms,21,23,0.8581309994353474
+2,disease_on_drugs,26,23,0.3262234659750187

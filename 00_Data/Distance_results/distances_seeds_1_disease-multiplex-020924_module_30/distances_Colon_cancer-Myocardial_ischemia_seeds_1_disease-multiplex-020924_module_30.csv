@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,0.33791208791208804
+1,disease_on_symptoms,21,13,1.1160310277957335
+2,disease_on_drugs,24,23,0.7220166512488437

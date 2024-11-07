@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,29,-0.0002922267679719148
+1,disease_on_symptoms,18,20,1.2460526315789473
+2,disease_on_drugs,25,24,0.14273809523809522

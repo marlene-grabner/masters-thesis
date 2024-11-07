@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,18,0.4070254464991305
+2,disease_on_drugs,29,22,0.10366340893724257

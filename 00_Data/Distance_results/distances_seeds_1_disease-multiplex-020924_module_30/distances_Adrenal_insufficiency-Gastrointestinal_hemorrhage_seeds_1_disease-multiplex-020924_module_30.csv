@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,17,27,0.4041394335511983
+1,disease_on_symptoms,21,19,1.1390977443609023
+2,disease_on_drugs,14,27,0.6829268292682926

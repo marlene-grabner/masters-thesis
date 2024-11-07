@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,10,0.41666666666666674
+1,disease_on_symptoms,21,27,1.4884259259259258
+2,disease_on_drugs,25,9,0.6952941176470588

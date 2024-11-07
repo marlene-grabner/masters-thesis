@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,27,24,0.2889433551198255
+1,disease_on_symptoms,19,26,1.0011246063877643
+2,disease_on_drugs,27,15,1.0238095238095237

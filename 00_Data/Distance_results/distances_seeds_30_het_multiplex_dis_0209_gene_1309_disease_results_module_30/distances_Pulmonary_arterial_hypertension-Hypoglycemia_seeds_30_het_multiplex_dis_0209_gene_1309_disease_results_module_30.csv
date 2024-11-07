@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,28,30,-0.12011494252873556
+1,disease_on_symptoms,17,19,0.5651874785001723
+2,disease_on_drugs,25,27,0.019544159544159667

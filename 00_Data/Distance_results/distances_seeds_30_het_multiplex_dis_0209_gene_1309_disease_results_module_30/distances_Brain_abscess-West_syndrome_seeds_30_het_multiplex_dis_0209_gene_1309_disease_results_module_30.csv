@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,21,13,0.8220211161387629
+2,disease_on_drugs,23,19,-0.1797973193854201

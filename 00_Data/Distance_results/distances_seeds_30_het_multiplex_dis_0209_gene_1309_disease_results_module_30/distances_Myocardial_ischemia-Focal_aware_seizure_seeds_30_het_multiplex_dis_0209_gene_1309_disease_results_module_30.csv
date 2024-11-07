@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.3556497175141242
+1,disease_on_symptoms,19,16,-0.32904135338345886
+2,disease_on_drugs,30,29,-0.2720826027664134

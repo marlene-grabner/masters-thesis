@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Sinusitis nodes,sAB
+0,disease_on_genes,26,29,0.35911502290812636
+1,disease_on_symptoms,20,21,0.67958768873403
+2,disease_on_drugs,20,28,0.48809523809523814

@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,0.07214452214452205
+1,disease_on_symptoms,19,23,0.7555301296720063
+2,disease_on_drugs,22,20,0.31147186147186123

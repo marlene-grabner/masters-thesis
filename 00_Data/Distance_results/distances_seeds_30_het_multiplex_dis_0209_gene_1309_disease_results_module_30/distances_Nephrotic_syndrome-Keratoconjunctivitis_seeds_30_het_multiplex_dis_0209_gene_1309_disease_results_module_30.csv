@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.18644067796610164
+1,disease_on_symptoms,15,20,0.3035714285714286
+2,disease_on_drugs,28,27,-0.27481962481962485

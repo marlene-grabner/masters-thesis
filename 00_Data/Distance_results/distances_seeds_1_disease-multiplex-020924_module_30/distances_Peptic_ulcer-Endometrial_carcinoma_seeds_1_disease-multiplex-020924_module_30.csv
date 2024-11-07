@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,28,23,0.2197966142978931
+1,disease_on_symptoms,14,21,0.8261904761904764
+2,disease_on_drugs,28,21,1.0510204081632655

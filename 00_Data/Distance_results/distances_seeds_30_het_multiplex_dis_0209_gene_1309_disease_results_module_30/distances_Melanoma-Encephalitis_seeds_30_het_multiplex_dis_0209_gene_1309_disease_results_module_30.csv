@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,29,0.1421957671957672
+1,disease_on_symptoms,23,13,0.7608695652173914
+2,disease_on_drugs,25,22,0.5510444874274663

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,27,28,-0.09058441558441555
+1,disease_on_symptoms,21,15,0.4650793650793652
+2,disease_on_drugs,25,23,-0.07960144927536228

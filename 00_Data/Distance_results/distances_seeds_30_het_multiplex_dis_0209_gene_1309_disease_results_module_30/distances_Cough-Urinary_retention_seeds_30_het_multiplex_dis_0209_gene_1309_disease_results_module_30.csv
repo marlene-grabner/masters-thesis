@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,22,16,0.4660586124401913
+2,disease_on_drugs,24,28,0.25045787545787546

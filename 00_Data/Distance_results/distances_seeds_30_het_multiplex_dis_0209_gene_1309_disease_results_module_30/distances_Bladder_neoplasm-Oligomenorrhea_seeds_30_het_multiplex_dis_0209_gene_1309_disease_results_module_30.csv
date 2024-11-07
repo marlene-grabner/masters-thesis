@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,29,0.10909090909090913
+1,disease_on_symptoms,19,11,1.0437001594896331
+2,disease_on_drugs,25,24,0.4464285714285714

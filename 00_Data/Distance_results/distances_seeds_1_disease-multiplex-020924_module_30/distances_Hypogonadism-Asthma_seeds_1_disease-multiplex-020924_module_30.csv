@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.22074074074074068
+1,disease_on_symptoms,12,19,2.13568194680249
+2,disease_on_drugs,30,24,0.8490740740740741

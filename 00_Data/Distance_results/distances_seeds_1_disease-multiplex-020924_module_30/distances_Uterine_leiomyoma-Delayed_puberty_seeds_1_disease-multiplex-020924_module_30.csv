@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,24,22,0.0734126984126986
+1,disease_on_symptoms,21,20,0.8528164924506387
+2,disease_on_drugs,18,19,-0.18851746483325438

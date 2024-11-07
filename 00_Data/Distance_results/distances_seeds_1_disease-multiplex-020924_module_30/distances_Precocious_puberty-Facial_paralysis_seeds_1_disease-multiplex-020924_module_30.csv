@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.1517316017316015
+1,disease_on_symptoms,14,23,1.1126405909014605
+2,disease_on_drugs,24,14,1.289473684210526

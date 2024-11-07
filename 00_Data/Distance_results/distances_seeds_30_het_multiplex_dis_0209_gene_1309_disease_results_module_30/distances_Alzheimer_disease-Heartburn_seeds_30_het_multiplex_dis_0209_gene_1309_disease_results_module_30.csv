@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Heartburn nodes,sAB
+0,disease_on_genes,23,26,-0.326530612244898
+1,disease_on_symptoms,19,16,0.286842105263158
+2,disease_on_drugs,19,25,-0.2654066985645932

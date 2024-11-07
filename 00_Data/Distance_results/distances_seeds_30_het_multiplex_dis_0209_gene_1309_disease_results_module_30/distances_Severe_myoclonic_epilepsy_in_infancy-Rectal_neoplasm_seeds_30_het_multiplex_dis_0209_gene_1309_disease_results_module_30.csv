@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.1166666666666667
+1,disease_on_symptoms,14,20,0.7237394957983194
+2,disease_on_drugs,21,29,0.4423645320197047

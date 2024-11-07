@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,24,29,0.3376572327044023
+1,disease_on_symptoms,18,25,0.596046511627907
+2,disease_on_drugs,18,27,0.5666666666666669

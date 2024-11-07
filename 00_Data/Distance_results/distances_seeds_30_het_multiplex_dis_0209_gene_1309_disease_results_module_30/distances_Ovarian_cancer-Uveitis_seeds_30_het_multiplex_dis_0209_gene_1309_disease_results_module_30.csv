@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.17543859649122817
+1,disease_on_symptoms,17,20,0.9052464228934816
+2,disease_on_drugs,17,23,0.49667519181585673

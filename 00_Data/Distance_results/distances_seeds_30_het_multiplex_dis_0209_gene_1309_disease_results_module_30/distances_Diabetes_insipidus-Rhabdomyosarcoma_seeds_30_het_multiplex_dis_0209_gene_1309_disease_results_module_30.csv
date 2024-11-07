@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,29,-0.18286713286713285
+1,disease_on_symptoms,20,19,0.3131578947368423
+2,disease_on_drugs,20,29,-0.05049261083743839

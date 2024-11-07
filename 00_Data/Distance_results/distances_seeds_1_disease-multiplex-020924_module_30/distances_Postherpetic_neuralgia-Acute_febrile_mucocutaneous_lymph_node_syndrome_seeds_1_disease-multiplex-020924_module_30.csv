@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,15,18,0.7459595959595959
+2,disease_on_drugs,29,25,0.2575734355044701

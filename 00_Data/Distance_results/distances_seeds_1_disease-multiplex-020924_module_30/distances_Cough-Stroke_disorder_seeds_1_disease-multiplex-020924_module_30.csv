@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,0.10516569200779724
+1,disease_on_symptoms,21,15,1.1111111111111112
+2,disease_on_drugs,27,30,0.47173489278752423

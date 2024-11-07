@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.27636363636363637
+1,disease_on_symptoms,14,21,0.06666666666666665
+2,disease_on_drugs,29,24,-0.05470613749728925

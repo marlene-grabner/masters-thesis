@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,17,16,-0.18153966131907318
+2,disease_on_drugs,26,28,-0.09355921855921867

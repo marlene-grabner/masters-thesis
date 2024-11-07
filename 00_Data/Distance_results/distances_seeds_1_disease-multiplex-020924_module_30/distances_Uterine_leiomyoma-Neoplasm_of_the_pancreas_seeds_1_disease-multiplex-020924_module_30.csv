@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,24,30,-0.1435185185185185
+1,disease_on_symptoms,21,20,1.3912311265969803
+2,disease_on_drugs,18,30,-0.17361111111111105

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,17,0.06417112299465244
+1,disease_on_symptoms,23,27,1.2621256038647344
+2,disease_on_drugs,20,16,0.4375

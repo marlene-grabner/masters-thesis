@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,17,22,0.30889208830385306
+1,disease_on_symptoms,22,19,3.063543003851091
+2,disease_on_drugs,15,18,0.2116161616161616

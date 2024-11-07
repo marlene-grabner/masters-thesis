@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,29,-0.1970899470899472
+1,disease_on_symptoms,21,20,0.1458188153310105
+2,disease_on_drugs,27,28,-0.1263468013468012

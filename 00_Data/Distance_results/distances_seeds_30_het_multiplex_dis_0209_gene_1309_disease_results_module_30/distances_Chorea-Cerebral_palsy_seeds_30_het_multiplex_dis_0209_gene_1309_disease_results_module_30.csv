@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,13,-0.01312217194570131
+2,disease_on_drugs,24,21,-0.3807539682539681

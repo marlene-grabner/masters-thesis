@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,14,19,0.10099111414900852
+2,disease_on_drugs,25,25,0.1200000000000001

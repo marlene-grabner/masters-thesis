@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.10851648351648346
+1,disease_on_symptoms,17,25,0.5166946778711485
+2,disease_on_drugs,29,25,0.0770881226053639

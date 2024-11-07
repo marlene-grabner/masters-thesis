@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,29,30,0.35592246249756476
+1,disease_on_symptoms,23,12,1.5182712215320913
+2,disease_on_drugs,27,17,0.2744602891661714

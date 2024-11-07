@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,17,18,0.3467787114845935
+2,disease_on_drugs,26,26,0.09615384615384626

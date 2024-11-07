@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.2752052545155994
+1,disease_on_symptoms,25,17,0.9854901960784312
+2,disease_on_drugs,26,18,0.29895104895104896

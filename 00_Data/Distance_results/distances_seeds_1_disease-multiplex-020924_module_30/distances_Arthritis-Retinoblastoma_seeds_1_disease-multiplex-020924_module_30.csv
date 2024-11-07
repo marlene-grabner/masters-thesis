@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,26,0.2651098901098903
+1,disease_on_symptoms,19,24,1.2942931456548348
+2,disease_on_drugs,29,24,0.5897852960312298

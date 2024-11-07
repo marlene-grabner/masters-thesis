@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Dysuria nodes,sAB
+0,disease_on_genes,26,30,0.08003375934410428
+1,disease_on_symptoms,21,16,0.7772281209781209
+2,disease_on_drugs,24,23,0.022143848288621593

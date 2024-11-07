@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,28,0.09122174122174131
+1,disease_on_symptoms,21,21,1.666666666666667
+2,disease_on_drugs,27,28,0.45452140452140455

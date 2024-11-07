@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.0027472527472525154
+1,disease_on_symptoms,13,22,0.46978021978021967
+2,disease_on_drugs,19,25,0.15564593301435403

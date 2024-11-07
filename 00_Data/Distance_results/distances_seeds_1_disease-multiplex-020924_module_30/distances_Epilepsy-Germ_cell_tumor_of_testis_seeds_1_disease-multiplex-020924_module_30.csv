@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,29,27,0.2321428571428572
+1,disease_on_symptoms,18,23,1.9893071756804521
+2,disease_on_drugs,30,20,1.6233333333333335

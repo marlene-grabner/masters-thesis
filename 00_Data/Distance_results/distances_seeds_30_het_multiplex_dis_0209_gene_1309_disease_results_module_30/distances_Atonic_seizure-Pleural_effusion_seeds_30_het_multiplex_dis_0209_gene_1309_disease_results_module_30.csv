@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,15,18,0.8803030303030304
+2,disease_on_drugs,23,27,0.4646376811594204

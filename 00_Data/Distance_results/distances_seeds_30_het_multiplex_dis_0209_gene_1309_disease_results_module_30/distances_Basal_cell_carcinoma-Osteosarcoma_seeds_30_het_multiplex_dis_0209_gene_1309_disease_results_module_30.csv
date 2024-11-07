@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333317
+1,disease_on_symptoms,24,22,-0.29899538866930153
+2,disease_on_drugs,27,29,-0.23170954205436955

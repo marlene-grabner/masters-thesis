@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,-0.1428571428571429
+1,disease_on_symptoms,19,14,0.06556163135110493
+2,disease_on_drugs,25,24,-0.20620748299319713

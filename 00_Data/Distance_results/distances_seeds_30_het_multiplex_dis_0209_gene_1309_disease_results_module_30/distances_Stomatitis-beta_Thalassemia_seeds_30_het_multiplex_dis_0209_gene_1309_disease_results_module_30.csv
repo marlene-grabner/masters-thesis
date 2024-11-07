@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,19,13,0.4707742914979758
+2,disease_on_drugs,29,24,0.03075525916287125

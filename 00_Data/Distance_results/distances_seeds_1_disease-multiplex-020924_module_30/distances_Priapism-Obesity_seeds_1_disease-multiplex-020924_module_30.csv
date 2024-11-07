@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Obesity nodes,sAB
+0,disease_on_genes,30,26,-0.123992673992674
+1,disease_on_symptoms,17,20,0.04038155802861687
+2,disease_on_drugs,28,27,0.00030062530062524573

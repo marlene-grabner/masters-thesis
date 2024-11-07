@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Cough nodes,sAB
+0,disease_on_genes,22,27,0.02647220504363368
+1,disease_on_symptoms,22,21,1.4848484848484849
+2,disease_on_drugs,14,27,0.6119176667957156

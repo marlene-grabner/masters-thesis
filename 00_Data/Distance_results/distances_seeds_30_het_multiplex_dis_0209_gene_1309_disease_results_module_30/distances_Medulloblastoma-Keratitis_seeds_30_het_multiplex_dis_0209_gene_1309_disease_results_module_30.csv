@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,-0.1394736842105263
+1,disease_on_symptoms,22,25,0.02649903288201161
+2,disease_on_drugs,26,29,-0.038678562816493844

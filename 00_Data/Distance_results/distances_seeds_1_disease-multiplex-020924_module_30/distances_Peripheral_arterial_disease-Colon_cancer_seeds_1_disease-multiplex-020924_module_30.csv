@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,25,26,0.3329260935143288
+1,disease_on_symptoms,14,21,0.9928571428571429
+2,disease_on_drugs,22,24,1.1304347826086958

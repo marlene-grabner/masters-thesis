@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.5166666666666666
+1,disease_on_symptoms,21,18,-0.5955433455433454
+2,disease_on_drugs,29,30,-0.4582407948568088

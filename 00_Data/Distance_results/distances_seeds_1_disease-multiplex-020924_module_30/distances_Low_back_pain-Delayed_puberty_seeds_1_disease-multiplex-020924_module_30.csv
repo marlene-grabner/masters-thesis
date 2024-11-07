@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,22,0.3320728291316526
+1,disease_on_symptoms,17,20,1.166891891891892
+2,disease_on_drugs,26,19,0.6571974808816914

@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,22,17,-0.11397915809680526
+2,disease_on_drugs,29,27,-0.10992519613209262

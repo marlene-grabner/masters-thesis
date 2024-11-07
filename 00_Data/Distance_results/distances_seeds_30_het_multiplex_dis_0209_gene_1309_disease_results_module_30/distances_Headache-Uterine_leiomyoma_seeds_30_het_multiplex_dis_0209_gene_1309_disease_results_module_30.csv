@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,23,20,-0.16665824064711843
+2,disease_on_drugs,23,28,-0.06575021312872975

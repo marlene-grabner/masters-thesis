@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,28,27,0.037012987012987164
+1,disease_on_symptoms,15,17,0.6590686274509805
+2,disease_on_drugs,21,26,0.642389525368249

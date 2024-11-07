@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,28,23,-0.019988430154670667
+1,disease_on_symptoms,20,19,0.23690958164642373
+2,disease_on_drugs,27,21,-0.01587301587301604

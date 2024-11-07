@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.16346153846153832
+1,disease_on_symptoms,18,21,-0.20482295482295476
+2,disease_on_drugs,27,26,-0.20652582916733842

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,26,22,0.21432468240978886
+1,disease_on_symptoms,18,20,0.9211988304093566
+2,disease_on_drugs,23,19,0.5664160401002505

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.1258284600389864
+1,disease_on_symptoms,19,15,-0.22280701754385968
+2,disease_on_drugs,20,29,-0.06264954257565103

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Myopathy nodes,sAB
+0,disease_on_genes,25,18,0.370284237726098
+1,disease_on_symptoms,23,21,1.3691887822322604
+2,disease_on_drugs,19,6,0.5133333333333334

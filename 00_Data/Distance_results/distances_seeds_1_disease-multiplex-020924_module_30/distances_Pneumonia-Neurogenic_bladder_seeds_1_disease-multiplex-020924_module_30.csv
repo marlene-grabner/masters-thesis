@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.11666666666666692
+1,disease_on_symptoms,26,17,0.1810743975586655
+2,disease_on_drugs,28,26,0.35185185185185186

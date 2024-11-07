@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,13,0.5919324577861163
+1,disease_on_symptoms,21,26,1.1449809056192033
+2,disease_on_drugs,21,9,0.6968253968253968

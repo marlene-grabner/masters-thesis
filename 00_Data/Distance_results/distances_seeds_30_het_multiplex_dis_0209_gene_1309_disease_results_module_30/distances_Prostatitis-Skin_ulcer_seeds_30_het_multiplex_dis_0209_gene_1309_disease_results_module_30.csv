@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,22,20,0.08030303030303032
+2,disease_on_drugs,28,24,-0.1533882783882785

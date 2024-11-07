@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.44999999999999984
+1,disease_on_symptoms,22,22,-0.7954545454545455
+2,disease_on_drugs,30,29,-0.39129164231443603

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,16,28,-0.006493506493506329
+1,disease_on_symptoms,26,19,1.5974808816914081
+2,disease_on_drugs,14,26,0.050000000000000044

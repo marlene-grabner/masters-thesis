@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,30,0.1797619047619048
+1,disease_on_symptoms,17,15,1.281985294117647
+2,disease_on_drugs,24,25,0.3655612244897959

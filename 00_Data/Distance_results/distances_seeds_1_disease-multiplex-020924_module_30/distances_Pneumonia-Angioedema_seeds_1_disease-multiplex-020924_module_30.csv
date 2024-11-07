@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.1901888341543514
+1,disease_on_symptoms,26,17,0.6030990213616754
+2,disease_on_drugs,28,25,0.6603773584905661

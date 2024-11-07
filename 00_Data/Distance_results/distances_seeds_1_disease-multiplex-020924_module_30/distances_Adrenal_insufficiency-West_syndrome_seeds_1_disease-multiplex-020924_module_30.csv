@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,West_syndrome nodes,sAB
+0,disease_on_genes,17,29,0.5063938618925832
+1,disease_on_symptoms,21,18,2.8601953601953607
+2,disease_on_drugs,14,22,1.0

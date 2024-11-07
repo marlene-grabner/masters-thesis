@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,19,22,0.4360193721554442
+2,disease_on_drugs,28,23,0.15534039702837643

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,28,23,-0.11764705882352944
+1,disease_on_symptoms,17,23,0.33158567774936065
+2,disease_on_drugs,19,22,-0.032617574979577624

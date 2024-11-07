@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,-0.014100959532749258
+1,disease_on_symptoms,20,27,1.3400118203309692
+2,disease_on_drugs,30,16,0.30706521739130443

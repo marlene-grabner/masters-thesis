@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,18,15,-0.39494949494949494
+2,disease_on_drugs,30,30,-0.08333333333333348

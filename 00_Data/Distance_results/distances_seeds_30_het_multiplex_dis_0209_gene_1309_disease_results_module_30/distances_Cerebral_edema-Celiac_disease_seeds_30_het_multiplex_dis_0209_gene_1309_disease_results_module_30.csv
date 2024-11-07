@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,10,18,0.08571428571428541
+2,disease_on_drugs,16,28,0.17086038961038952

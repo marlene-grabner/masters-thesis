@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.12378167641325544
+1,disease_on_symptoms,17,14,0.9875982651124966
+2,disease_on_drugs,30,26,-0.03626373626373636

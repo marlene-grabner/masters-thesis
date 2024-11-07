@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,26,30,-0.07023809523809521
+1,disease_on_symptoms,19,18,0.13533270112217477
+2,disease_on_drugs,25,22,0.09767891682785312

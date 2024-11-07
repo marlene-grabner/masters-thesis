@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,17,27,0.32511388393741325
+1,disease_on_symptoms,21,16,2.024694337194337
+2,disease_on_drugs,17,18,0.7983193277310925

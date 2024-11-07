@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,22,20,0.33084415584415594
+1,disease_on_symptoms,24,24,1.8124999999999998
+2,disease_on_drugs,20,18,1.100730994152047

@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,-0.052380952380952306
+1,disease_on_symptoms,22,19,0.721466915626094
+2,disease_on_drugs,26,27,0.18929742514648162

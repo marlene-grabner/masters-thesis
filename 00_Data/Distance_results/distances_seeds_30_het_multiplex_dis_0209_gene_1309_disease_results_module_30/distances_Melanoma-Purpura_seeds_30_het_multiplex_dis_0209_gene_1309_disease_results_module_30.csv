@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Purpura nodes,sAB
+0,disease_on_genes,27,27,0.12962962962962976
+1,disease_on_symptoms,23,17,1.2108695652173915
+2,disease_on_drugs,25,24,0.4876020408163264

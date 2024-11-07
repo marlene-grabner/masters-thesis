@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,20,27,-0.066725768321513
+1,disease_on_symptoms,18,15,0.9550505050505051
+2,disease_on_drugs,19,26,0.0018893387314440346

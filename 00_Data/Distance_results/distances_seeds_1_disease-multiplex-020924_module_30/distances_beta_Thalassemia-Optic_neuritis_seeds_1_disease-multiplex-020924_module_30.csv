@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,22,27,0.3437607366178794
+1,disease_on_symptoms,21,16,2.9701174388674394
+2,disease_on_drugs,6,27,0.25084175084175087

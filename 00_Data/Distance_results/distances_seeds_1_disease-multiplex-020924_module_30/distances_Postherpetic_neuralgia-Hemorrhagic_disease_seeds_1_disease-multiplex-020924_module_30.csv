@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.2773148148148148
+1,disease_on_symptoms,15,19,1.2508771929824563
+2,disease_on_drugs,29,19,0.669162129461585

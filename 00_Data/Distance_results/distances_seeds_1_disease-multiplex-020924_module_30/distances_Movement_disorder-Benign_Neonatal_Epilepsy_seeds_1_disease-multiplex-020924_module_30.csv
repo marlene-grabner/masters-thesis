@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,30,29,0.08531073446327686
+1,disease_on_symptoms,22,16,0.1039174641148326
+2,disease_on_drugs,15,26,-0.19756097560975616

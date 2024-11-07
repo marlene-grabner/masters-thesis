@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,23,26,0.1020408163265305
+1,disease_on_symptoms,22,22,1.1590909090909087
+2,disease_on_drugs,21,24,0.11706349206349209

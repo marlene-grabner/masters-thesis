@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,18,-0.18194444444444458
+1,disease_on_symptoms,19,28,0.08488641817309239
+2,disease_on_drugs,28,17,-0.10326797385620912

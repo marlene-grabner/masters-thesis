@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Myopathy nodes,sAB
+0,disease_on_genes,24,23,-0.21276595744680848
+1,disease_on_symptoms,24,22,0.058629776021080326
+2,disease_on_drugs,23,21,-0.3222755505364199

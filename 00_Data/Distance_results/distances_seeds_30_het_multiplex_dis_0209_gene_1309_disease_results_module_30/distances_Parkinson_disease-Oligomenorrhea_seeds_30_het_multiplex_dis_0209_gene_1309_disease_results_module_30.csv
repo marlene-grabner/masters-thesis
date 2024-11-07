@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,23,29,-0.019230769230769273
+1,disease_on_symptoms,23,11,0.8446872820274354
+2,disease_on_drugs,22,24,0.06867588932806323

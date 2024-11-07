@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,14,0.04166666666666652
+1,disease_on_symptoms,23,23,1.0652173913043477
+2,disease_on_drugs,28,14,0.267857142857143

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,-0.5799220272904484
+1,disease_on_symptoms,22,27,-0.5113206898921183
+2,disease_on_drugs,29,26,-0.5973957077405353

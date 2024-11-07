@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Asthma nodes,sAB
+0,disease_on_genes,25,25,0.11999999999999988
+1,disease_on_symptoms,17,19,1.9726522187822497
+2,disease_on_drugs,24,24,0.2708333333333335

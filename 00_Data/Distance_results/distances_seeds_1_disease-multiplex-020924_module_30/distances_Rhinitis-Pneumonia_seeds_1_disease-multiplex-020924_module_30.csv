@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,15,26,-0.00666041275797391
+2,disease_on_drugs,22,28,0.3999999999999999

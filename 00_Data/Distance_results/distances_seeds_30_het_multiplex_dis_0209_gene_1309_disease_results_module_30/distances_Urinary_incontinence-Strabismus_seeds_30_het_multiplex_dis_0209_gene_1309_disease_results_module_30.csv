@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,17,-0.27621483375959077
+1,disease_on_symptoms,20,24,0.2791666666666668
+2,disease_on_drugs,20,16,-0.3006944444444444

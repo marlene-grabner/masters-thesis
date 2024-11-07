@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,21,-0.71343537414966
+1,disease_on_symptoms,14,22,-0.6147186147186147
+2,disease_on_drugs,28,20,-0.7857142857142856

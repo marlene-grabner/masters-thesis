@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,25,12,0.2767117117117117
+1,disease_on_symptoms,25,27,1.1306552706552704
+2,disease_on_drugs,21,9,0.28888888888888875

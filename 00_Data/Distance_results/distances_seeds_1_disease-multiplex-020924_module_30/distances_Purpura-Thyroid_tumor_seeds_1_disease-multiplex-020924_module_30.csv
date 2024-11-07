@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,0.38729438263599736
+1,disease_on_symptoms,17,20,1.7788950715421301
+2,disease_on_drugs,20,20,0.7250000000000001

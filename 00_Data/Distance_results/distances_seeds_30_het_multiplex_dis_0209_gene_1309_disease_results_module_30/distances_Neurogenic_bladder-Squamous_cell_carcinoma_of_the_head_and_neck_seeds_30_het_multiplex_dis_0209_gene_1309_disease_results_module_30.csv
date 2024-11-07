@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,18,22,0.16489898989898988
+2,disease_on_drugs,21,30,0.010224089635854305

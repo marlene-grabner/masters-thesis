@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,28,-0.16432178932178954
+1,disease_on_symptoms,17,23,-0.31918158567774935
+2,disease_on_drugs,24,28,-0.21016483516483508

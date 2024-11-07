@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,20,19,0.41170715249662626
+2,disease_on_drugs,29,30,0.13526203000194825

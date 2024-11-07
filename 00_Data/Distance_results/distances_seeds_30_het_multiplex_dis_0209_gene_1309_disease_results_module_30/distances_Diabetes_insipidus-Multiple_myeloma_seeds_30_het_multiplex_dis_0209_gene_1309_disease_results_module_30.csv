@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,26,26,-0.038461538461538436
+1,disease_on_symptoms,20,21,0.8473286875725901
+2,disease_on_drugs,20,25,0.1988888888888889

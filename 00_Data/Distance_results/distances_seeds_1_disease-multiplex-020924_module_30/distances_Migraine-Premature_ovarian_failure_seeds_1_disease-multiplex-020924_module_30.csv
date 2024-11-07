@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,28,0.15632183908045993
+1,disease_on_symptoms,14,21,0.9523809523809526
+2,disease_on_drugs,29,21,0.37238095238095226

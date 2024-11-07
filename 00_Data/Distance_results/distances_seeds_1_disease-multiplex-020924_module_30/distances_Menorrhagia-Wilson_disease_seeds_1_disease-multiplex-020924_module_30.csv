@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,23,0.1601426523786771
+1,disease_on_symptoms,19,19,2.3421052631578947
+2,disease_on_drugs,24,11,0.6077380952380951

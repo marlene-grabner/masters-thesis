@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,13,0.09890109890109877
+1,disease_on_symptoms,16,26,0.37259615384615374
+2,disease_on_drugs,26,9,0.1158730158730159

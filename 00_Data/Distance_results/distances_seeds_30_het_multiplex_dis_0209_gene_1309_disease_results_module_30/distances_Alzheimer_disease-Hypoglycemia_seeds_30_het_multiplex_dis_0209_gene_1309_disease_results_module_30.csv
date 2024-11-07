@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,23,30,-0.1298742138364779
+1,disease_on_symptoms,19,19,0.5526315789473681
+2,disease_on_drugs,19,27,-0.08750741588270206

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,21,30,0.30952380952380953
+1,disease_on_symptoms,20,20,1.0999999999999999
+2,disease_on_drugs,19,28,0.8187689969604863

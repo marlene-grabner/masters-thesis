@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,21,30,0.17521008403361327
+1,disease_on_symptoms,20,15,0.29761904761904745
+2,disease_on_drugs,19,26,0.20598290598290614

@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,24,26,-0.09999999999999998
+1,disease_on_symptoms,22,21,0.8796939494613913
+2,disease_on_drugs,21,26,0.10394747096874735

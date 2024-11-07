@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.019230769230769162
+1,disease_on_symptoms,14,25,1.012600732600733
+2,disease_on_drugs,29,25,-0.015504469987228653

@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,25,30,-0.0515151515151514
+1,disease_on_symptoms,19,22,1.555899171431906
+2,disease_on_drugs,18,29,-0.028878291350778573

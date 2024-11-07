@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,23,26,-0.24254317111459955
+1,disease_on_symptoms,19,22,-0.0009627727856225121
+2,disease_on_drugs,19,25,-0.2654066985645932

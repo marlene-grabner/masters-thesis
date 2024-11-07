@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,17,20,0.36895866454689985
+2,disease_on_drugs,28,25,0.15462264150943383

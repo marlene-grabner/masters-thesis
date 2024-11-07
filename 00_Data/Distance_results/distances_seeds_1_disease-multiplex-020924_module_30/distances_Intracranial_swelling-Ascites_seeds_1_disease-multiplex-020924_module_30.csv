@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,14,17,-0.5078612089997288
+2,disease_on_drugs,24,27,-0.03717320261437895

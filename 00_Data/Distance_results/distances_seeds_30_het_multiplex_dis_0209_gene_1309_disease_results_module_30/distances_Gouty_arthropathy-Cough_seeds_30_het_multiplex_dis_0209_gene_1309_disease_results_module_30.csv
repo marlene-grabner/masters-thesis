@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Cough nodes,sAB
+0,disease_on_genes,28,27,0.07272727272727275
+1,disease_on_symptoms,18,22,0.7267676767676767
+2,disease_on_drugs,23,24,0.31629663891458515

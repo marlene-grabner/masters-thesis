@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,26,0.018181818181818077
+1,disease_on_symptoms,13,19,0.350328947368421
+2,disease_on_drugs,22,24,-0.015810276679842028

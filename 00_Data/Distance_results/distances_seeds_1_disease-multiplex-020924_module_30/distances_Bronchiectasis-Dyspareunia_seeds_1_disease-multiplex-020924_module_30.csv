@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.09444444444444455
+1,disease_on_symptoms,15,17,0.37487745098039227
+2,disease_on_drugs,26,23,0.40652515186676674

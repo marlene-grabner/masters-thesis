@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,22,14,0.20670995670995662
+2,disease_on_drugs,25,24,-0.2449829931972789

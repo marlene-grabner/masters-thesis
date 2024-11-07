@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.4901559454191031
+1,disease_on_symptoms,16,20,2.0666666666666664
+2,disease_on_drugs,21,25,0.8002070393374741

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,25,0.5448484848484849
+1,disease_on_symptoms,17,20,2.3457472178060415
+2,disease_on_drugs,17,14,0.5702764976958525

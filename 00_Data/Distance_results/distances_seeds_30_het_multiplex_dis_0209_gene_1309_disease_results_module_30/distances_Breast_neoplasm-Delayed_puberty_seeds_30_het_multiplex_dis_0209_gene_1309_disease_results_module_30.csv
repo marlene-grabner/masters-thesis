@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,20,16,-0.47777777777777763
+2,disease_on_drugs,30,29,-0.17153711279953232

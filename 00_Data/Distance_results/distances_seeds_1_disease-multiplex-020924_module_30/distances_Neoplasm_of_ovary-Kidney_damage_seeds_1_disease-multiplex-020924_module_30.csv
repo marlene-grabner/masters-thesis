@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.5477272727272726
+1,disease_on_symptoms,26,26,1.2115384615384617
+2,disease_on_drugs,15,13,0.7362637362637363

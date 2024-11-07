@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,30,0.1428571428571428
+1,disease_on_symptoms,17,20,0.7474562798092212
+2,disease_on_drugs,25,30,1.0709090909090908

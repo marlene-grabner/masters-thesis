@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,24,0.11873638344226567
+1,disease_on_symptoms,21,17,1.217750257997936
+2,disease_on_drugs,27,23,0.4977455716586152

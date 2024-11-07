@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,-0.39622641509433965
+1,disease_on_symptoms,17,16,0.08778966131907318
+2,disease_on_drugs,24,25,-0.2645238095238095

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,20,19,0.7182523616734142
+2,disease_on_drugs,29,19,-0.03565486993345446

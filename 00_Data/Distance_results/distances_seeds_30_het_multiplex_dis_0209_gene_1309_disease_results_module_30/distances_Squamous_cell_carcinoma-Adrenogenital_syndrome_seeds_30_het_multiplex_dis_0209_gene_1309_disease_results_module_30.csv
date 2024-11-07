@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,22,9,-0.1796187683284458
+2,disease_on_drugs,30,23,0.0931091058244462

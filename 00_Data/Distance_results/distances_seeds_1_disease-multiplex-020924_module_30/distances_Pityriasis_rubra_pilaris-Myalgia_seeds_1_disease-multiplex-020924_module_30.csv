@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Myalgia nodes,sAB
+0,disease_on_genes,28,30,-0.11896551724137938
+1,disease_on_symptoms,23,16,0.3357720178372352
+2,disease_on_drugs,26,29,-0.18391608391608383

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,24,29,-0.09926470588235314
+1,disease_on_symptoms,19,17,0.17199862401100785
+2,disease_on_drugs,19,26,-0.09075573549257765

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.1243664717348929
+1,disease_on_symptoms,20,16,1.2479166666666666
+2,disease_on_drugs,24,27,0.8232570806100217

@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.5932203389830508
+1,disease_on_symptoms,12,25,1.7901801801801804
+2,disease_on_drugs,30,7,1.1010939510939508

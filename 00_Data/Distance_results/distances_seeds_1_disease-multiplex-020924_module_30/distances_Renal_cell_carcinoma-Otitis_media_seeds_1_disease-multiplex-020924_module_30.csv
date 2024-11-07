@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,0.33527458492975715
+1,disease_on_symptoms,24,22,1.3417325428194993
+2,disease_on_drugs,20,29,1.4176636171710062

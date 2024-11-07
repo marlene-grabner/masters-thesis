@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.18842364532019706
+1,disease_on_symptoms,13,21,0.4882568411980175
+2,disease_on_drugs,29,28,0.5256892230576442

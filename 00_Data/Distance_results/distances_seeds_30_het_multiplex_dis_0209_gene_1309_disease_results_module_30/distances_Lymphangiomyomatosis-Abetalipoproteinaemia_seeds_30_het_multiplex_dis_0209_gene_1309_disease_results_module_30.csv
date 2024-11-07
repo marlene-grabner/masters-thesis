@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,26,14,-0.12994505494505493
+1,disease_on_symptoms,17,26,-0.10717668104808986
+2,disease_on_drugs,24,14,0.08161027568922297

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.6057571964956194
+1,disease_on_symptoms,25,25,2.8
+2,disease_on_drugs,7,13,0.7401098901098901

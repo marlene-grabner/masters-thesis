@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,0.016488779419813637
+1,disease_on_symptoms,22,20,1.0596320346320347
+2,disease_on_drugs,20,28,0.5416666666666667

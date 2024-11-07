@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.3236363636363635
+1,disease_on_symptoms,25,12,2.0328828828828827
+2,disease_on_drugs,23,22,1.1342995169082124

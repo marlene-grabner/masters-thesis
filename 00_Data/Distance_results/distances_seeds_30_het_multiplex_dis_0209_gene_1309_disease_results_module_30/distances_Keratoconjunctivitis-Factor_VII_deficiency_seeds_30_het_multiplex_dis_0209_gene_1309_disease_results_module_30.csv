@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,29,28,0.08740601503759415
+1,disease_on_symptoms,20,19,1.3322199730094466
+2,disease_on_drugs,27,25,0.3523931623931622

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,0.2952380952380953
+1,disease_on_symptoms,15,17,0.8084558823529411
+2,disease_on_drugs,15,26,0.2991869918699188

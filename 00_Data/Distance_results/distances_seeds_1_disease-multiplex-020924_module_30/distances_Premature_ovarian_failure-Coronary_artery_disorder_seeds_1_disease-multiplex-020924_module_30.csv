@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,19,0.33538633818589036
+1,disease_on_symptoms,21,21,1.7142857142857144
+2,disease_on_drugs,21,17,0.6892230576441103

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,26,30,0.10915750915750899
+1,disease_on_symptoms,21,20,0.8760452961672476
+2,disease_on_drugs,26,30,0.35439560439560447

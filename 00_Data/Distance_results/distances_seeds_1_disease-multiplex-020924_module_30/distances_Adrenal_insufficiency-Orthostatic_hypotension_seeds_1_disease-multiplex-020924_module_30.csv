@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,17,30,0.43514810179390895
+1,disease_on_symptoms,21,12,2.3035714285714284
+2,disease_on_drugs,14,17,0.6157495256166985

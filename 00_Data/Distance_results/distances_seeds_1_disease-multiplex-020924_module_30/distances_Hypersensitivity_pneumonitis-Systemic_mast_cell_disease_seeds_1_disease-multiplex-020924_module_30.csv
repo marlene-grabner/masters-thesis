@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,24,29,0.11808718282368247
+1,disease_on_symptoms,23,16,0.9387541806020068
+2,disease_on_drugs,24,25,0.22448979591836737

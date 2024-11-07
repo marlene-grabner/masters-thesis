@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.03606237816764146
+1,disease_on_symptoms,20,14,1.1483193277310926
+2,disease_on_drugs,23,26,-0.1499726981093441

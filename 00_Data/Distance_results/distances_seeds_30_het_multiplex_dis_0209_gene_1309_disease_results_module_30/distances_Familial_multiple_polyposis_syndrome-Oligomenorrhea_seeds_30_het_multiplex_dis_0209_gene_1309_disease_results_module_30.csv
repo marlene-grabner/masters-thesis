@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,19,11,0.738437001594896
+2,disease_on_drugs,25,24,0.2643877551020408

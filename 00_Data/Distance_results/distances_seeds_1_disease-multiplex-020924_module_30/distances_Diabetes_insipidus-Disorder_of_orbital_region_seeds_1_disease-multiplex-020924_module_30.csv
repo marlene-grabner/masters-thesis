@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,24,17,0.12981229076996637
+1,disease_on_symptoms,18,27,0.8166666666666664
+2,disease_on_drugs,18,16,0.7610294117647058

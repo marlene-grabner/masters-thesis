@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,28,30,0.4821428571428572
+1,disease_on_symptoms,18,25,2.0660723514211887
+2,disease_on_drugs,26,7,0.3941891441891441

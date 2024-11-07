@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,20,29,0.23428923293455295
+1,disease_on_symptoms,18,16,1.956699346405229
+2,disease_on_drugs,19,24,1.0434516523867812

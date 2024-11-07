@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,0.12619826981529103
+1,disease_on_symptoms,19,26,0.680386864597391
+2,disease_on_drugs,24,20,0.6837121212121211

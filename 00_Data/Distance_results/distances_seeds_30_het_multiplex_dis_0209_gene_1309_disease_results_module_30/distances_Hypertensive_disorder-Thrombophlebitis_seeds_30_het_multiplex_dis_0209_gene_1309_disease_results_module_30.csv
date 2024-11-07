@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,30,-0.19298245614035092
+1,disease_on_symptoms,21,18,0.3717948717948718
+2,disease_on_drugs,26,29,-0.10355678803954671

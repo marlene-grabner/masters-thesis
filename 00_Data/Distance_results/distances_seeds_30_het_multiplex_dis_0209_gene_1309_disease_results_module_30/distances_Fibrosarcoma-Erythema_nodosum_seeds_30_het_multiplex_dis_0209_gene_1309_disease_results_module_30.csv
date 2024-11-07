@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,14,22,0.2590187590187587
+2,disease_on_drugs,26,29,0.23079334458644785

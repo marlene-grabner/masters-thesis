@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.3382827454197428
+1,disease_on_symptoms,17,19,2.3330753353973166
+2,disease_on_drugs,17,19,0.36111111111111116

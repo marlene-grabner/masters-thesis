@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_insufficiency nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.05588235294117638
+1,disease_on_symptoms,18,23,0.616619535760575
+2,disease_on_drugs,22,21,-0.11587637169032505

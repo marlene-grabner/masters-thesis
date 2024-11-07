@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,20,22,0.7535714285714283
+2,disease_on_drugs,29,24,-0.07126978963348507

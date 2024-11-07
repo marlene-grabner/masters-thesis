@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Myopathy nodes,sAB
+0,disease_on_genes,28,23,0.0
+1,disease_on_symptoms,16,22,0.3561602870813396
+2,disease_on_drugs,23,21,-0.2501411631846415

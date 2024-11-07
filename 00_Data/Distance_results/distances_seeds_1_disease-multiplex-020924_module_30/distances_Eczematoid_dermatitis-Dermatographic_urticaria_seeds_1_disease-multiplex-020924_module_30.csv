@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,28,29,-0.052944862155388406
+1,disease_on_symptoms,24,14,-0.5886591478696743
+2,disease_on_drugs,28,28,-0.1785714285714285

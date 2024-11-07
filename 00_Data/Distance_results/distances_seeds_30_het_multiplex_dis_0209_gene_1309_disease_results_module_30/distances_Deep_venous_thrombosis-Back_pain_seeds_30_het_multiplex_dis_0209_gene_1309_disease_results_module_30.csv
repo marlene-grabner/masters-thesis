@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,16,15,-0.035282258064516236
+2,disease_on_drugs,28,23,0.02703690171720874

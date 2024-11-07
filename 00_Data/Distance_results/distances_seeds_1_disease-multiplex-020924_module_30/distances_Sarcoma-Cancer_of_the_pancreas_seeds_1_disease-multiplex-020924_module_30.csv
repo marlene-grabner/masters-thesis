@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,25,29,-0.20370370370370372
+1,disease_on_symptoms,26,16,-0.4173534798534798
+2,disease_on_drugs,21,29,-0.17724137931034478

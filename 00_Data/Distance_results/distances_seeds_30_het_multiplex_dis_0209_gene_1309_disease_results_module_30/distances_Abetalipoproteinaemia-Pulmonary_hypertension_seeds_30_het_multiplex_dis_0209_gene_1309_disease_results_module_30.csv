@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,14,28,-0.15476190476190466
+1,disease_on_symptoms,26,18,-0.1431623931623931
+2,disease_on_drugs,14,27,0.15263259775454885

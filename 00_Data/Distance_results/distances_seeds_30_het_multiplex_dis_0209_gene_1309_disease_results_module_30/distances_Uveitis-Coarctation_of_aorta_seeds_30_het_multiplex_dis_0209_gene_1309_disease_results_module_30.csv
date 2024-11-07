@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.1764132553606239
+1,disease_on_symptoms,20,19,0.02712550607287456
+2,disease_on_drugs,23,24,-0.12914353993216143

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.016666666666666607
+1,disease_on_symptoms,20,11,0.472067448680352
+2,disease_on_drugs,30,24,0.23796296296296293

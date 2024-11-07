@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.18700564971751432
+1,disease_on_symptoms,26,15,1.7039086929330831
+2,disease_on_drugs,28,29,1.263157894736842

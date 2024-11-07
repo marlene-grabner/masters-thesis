@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Pneumonia nodes,sAB
+0,disease_on_genes,22,30,0.019230769230769162
+1,disease_on_symptoms,21,23,0.4853190287972895
+2,disease_on_drugs,21,29,0.3996059113300494

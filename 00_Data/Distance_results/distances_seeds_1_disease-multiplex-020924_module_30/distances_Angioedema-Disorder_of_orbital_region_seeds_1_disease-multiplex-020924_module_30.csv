@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,17,0.06449579831932772
+1,disease_on_symptoms,17,27,0.8593285799168155
+2,disease_on_drugs,25,16,0.18140243902439024

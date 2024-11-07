@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,28,0.05749326145552569
+1,disease_on_symptoms,19,25,0.5894258373205743
+2,disease_on_drugs,24,23,0.020775516497070656

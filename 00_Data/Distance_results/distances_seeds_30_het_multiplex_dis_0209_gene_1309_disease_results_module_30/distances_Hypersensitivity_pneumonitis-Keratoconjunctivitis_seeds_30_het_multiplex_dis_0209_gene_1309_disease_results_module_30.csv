@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,25,29,-0.07407407407407407
+1,disease_on_symptoms,20,20,0.8000000000000003
+2,disease_on_drugs,25,27,-0.013760683760683623

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,29,30,0.27117669978570036
+1,disease_on_symptoms,23,14,0.39449387275474224
+2,disease_on_drugs,27,24,0.5107570806100217

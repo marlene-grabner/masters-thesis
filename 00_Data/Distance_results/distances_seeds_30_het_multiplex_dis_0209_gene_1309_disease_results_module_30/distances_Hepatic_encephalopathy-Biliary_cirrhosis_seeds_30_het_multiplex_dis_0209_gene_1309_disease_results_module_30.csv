@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.016483516483516647
+1,disease_on_symptoms,14,22,1.0544733044733046
+2,disease_on_drugs,29,25,0.20079182630906756

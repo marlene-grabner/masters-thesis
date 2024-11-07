@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.07260049220672671
+1,disease_on_symptoms,11,19,0.7349282296650717
+2,disease_on_drugs,27,21,0.18551587301587302

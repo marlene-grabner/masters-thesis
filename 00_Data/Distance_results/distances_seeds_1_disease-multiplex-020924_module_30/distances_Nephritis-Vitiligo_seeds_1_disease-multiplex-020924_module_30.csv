@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,24,0.12268518518518534
+1,disease_on_symptoms,18,22,2.5224747474747473
+2,disease_on_drugs,27,11,0.5126705653021444

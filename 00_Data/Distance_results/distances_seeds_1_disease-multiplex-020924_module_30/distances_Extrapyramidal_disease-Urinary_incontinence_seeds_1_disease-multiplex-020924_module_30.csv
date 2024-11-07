@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,14,26,0.32967032967032983
+1,disease_on_symptoms,25,20,1.4094444444444445
+2,disease_on_drugs,10,20,0.5833333333333333

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Sarcoma nodes,sAB
+0,disease_on_genes,29,30,0.0
+1,disease_on_symptoms,18,23,0.17179215270413573
+2,disease_on_drugs,29,24,-0.1240511819561918

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,29,26,0.3271642150952494
+1,disease_on_symptoms,23,21,0.9359119141727836
+2,disease_on_drugs,27,24,1.0610021786492374

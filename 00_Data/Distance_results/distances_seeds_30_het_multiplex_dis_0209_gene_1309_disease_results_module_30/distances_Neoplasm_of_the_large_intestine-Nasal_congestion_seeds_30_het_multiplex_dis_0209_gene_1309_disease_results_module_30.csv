@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,22,14,0.01406926406926412
+2,disease_on_drugs,29,25,-0.06229885057471263

@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.051724137931034475
+1,disease_on_symptoms,21,16,0.00703828828828823
+2,disease_on_drugs,21,30,-0.008403361344537785

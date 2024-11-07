@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Cough nodes,sAB
+0,disease_on_genes,15,27,0.3291005291005291
+1,disease_on_symptoms,25,21,0.4884057971014495
+2,disease_on_drugs,10,27,-0.1100100100100101

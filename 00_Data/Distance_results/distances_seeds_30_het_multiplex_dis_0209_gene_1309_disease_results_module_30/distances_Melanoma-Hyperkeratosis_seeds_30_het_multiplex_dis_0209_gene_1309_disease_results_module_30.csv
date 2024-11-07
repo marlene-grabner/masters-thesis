@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,-0.18869268397570282
+1,disease_on_symptoms,23,25,0.49920289855072464
+2,disease_on_drugs,25,25,-0.11999999999999988

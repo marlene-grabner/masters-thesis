@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666683
+1,disease_on_symptoms,14,16,1.0883928571428574
+2,disease_on_drugs,29,30,0.3398305084745763

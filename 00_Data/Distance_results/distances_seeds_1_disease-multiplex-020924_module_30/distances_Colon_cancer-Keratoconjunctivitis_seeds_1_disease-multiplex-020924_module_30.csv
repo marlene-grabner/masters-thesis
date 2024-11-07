@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,26,29,-0.4374125874125874
+1,disease_on_symptoms,21,25,-0.4890683229813664
+2,disease_on_drugs,24,27,-0.4215686274509802

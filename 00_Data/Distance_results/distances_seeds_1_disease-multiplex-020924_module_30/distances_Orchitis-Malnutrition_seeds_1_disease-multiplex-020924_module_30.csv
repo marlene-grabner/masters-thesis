@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,23,26,0.1656200941915229
+1,disease_on_symptoms,16,18,1.915645424836601
+2,disease_on_drugs,17,23,0.5661764705882353

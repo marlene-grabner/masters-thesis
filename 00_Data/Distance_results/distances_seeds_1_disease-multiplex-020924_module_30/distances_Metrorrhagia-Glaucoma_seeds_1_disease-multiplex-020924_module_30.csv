@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,0.0736842105263158
+1,disease_on_symptoms,17,14,0.5974518839793981
+2,disease_on_drugs,26,30,0.5353479853479854

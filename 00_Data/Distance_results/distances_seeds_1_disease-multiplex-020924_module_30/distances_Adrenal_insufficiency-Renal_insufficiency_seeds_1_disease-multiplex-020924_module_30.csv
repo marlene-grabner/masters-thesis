@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,17,20,0.08847376788553252
+1,disease_on_symptoms,21,23,0.8890457368718239
+2,disease_on_drugs,14,17,0.8880455407969639

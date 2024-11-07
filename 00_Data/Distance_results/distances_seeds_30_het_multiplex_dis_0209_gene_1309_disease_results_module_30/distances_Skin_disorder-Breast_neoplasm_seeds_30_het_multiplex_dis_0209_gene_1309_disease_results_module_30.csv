@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.19999999999999996
+1,disease_on_symptoms,19,20,0.615620782726046
+2,disease_on_drugs,23,30,-0.008613617719442024

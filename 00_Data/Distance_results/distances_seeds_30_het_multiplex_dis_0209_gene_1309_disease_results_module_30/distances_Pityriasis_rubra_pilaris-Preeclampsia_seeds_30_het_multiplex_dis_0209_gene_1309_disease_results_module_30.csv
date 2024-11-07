@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,27,-0.0370370370370372
+1,disease_on_symptoms,21,18,0.9893162393162394
+2,disease_on_drugs,25,22,-0.23729206963249516

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,22,0.17992424242424243
+1,disease_on_symptoms,21,19,0.9228070175438594
+2,disease_on_drugs,25,19,0.09277511961722507

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,30,-0.5
+1,disease_on_symptoms,22,21,-0.880222490687607
+2,disease_on_drugs,30,27,-0.47465886939571156

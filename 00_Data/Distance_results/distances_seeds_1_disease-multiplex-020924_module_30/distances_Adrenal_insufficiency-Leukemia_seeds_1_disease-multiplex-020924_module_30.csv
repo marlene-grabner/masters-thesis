@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Leukemia nodes,sAB
+0,disease_on_genes,17,18,0.2268907563025211
+1,disease_on_symptoms,21,27,1.2248677248677249
+2,disease_on_drugs,14,17,0.3956356736242883

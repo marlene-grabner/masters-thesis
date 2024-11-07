@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.06751412429378523
+1,disease_on_symptoms,20,18,0.9191520467836256
+2,disease_on_drugs,27,22,0.06998556998557004

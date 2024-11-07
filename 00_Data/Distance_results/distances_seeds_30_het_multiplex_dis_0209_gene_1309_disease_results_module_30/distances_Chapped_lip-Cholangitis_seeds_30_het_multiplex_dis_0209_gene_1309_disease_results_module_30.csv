@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,30,-0.1607142857142857
+1,disease_on_symptoms,20,18,0.018567251461988565
+2,disease_on_drugs,23,28,-0.06594811837778591

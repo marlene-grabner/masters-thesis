@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,13,18,0.08974358974358987
+2,disease_on_drugs,24,30,0.04490740740740762

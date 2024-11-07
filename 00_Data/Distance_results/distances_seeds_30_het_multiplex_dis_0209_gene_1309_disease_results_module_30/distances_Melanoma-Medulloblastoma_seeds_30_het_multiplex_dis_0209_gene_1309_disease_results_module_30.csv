@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,27,27,-0.5740740740740742
+1,disease_on_symptoms,23,22,-0.6684233640755379
+2,disease_on_drugs,25,26,-0.6471191553544493

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,18,29,0.3977541371158393
+1,disease_on_symptoms,28,15,2.2034606866002218
+2,disease_on_drugs,17,29,0.8976982097186701

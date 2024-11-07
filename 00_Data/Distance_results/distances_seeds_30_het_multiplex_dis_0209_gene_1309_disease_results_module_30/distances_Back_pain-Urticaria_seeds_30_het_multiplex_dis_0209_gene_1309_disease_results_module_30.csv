@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.01851851851851849
+1,disease_on_symptoms,15,21,-0.34126984126984117
+2,disease_on_drugs,23,24,-0.19343586185630568

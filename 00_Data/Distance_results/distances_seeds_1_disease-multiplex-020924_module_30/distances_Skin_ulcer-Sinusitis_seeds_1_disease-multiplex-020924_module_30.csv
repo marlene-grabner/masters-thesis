@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.17059224624975644
+1,disease_on_symptoms,19,21,0.8895363408521306
+2,disease_on_drugs,22,28,0.8955194805194804

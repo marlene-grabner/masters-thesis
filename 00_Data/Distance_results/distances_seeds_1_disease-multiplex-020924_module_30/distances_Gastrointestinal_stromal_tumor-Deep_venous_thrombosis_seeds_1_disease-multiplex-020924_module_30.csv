@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,23,28,0.22638838143953244
+1,disease_on_symptoms,20,14,2.1844537815126053
+2,disease_on_drugs,19,24,1.4186046511627906

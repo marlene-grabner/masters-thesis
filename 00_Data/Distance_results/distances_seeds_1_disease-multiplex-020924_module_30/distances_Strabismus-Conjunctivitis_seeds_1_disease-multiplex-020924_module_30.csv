@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,13,27,0.34109686609686607
+1,disease_on_symptoms,26,27,1.3783395151319682
+2,disease_on_drugs,9,26,0.7059829059829059

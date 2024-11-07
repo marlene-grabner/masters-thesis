@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.2229064039408868
+1,disease_on_symptoms,17,20,0.8467408585055645
+2,disease_on_drugs,25,27,0.8223076923076922

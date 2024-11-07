@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.10051626729008367
+1,disease_on_symptoms,17,22,1.1643356643356646
+2,disease_on_drugs,26,29,0.5591150229081263

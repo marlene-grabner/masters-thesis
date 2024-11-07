@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.196078431372549
+1,disease_on_symptoms,17,26,0.9727717562874885
+2,disease_on_drugs,25,21,1.1104347826086958

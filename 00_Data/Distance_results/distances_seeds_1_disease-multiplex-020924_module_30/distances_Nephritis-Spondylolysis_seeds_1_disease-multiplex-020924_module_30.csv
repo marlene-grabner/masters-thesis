@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,27,0.04873294346978563
+1,disease_on_symptoms,18,19,0.598664453927612
+2,disease_on_drugs,27,20,0.2228329393223012

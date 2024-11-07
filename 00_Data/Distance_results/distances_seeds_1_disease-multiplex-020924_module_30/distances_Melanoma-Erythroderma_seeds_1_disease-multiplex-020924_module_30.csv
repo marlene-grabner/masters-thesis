@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Erythroderma nodes,sAB
+0,disease_on_genes,24,30,0.26481481481481484
+1,disease_on_symptoms,23,19,1.8027677890378118
+2,disease_on_drugs,22,28,0.6599999999999999

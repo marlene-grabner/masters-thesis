@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,29,22,0.017379679144384985
+1,disease_on_symptoms,25,22,0.5454158607350097
+2,disease_on_drugs,28,14,0.29761904761904745

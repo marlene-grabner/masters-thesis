@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,22,26,-0.14583333333333337
+1,disease_on_symptoms,21,20,1.128164924506388
+2,disease_on_drugs,17,23,-0.010166240409207328

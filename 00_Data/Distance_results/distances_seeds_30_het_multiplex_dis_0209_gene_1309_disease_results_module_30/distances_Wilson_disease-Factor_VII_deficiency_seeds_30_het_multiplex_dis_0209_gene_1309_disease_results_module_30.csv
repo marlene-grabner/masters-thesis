@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,25,28,0.11421832884097038
+1,disease_on_symptoms,19,19,1.1052631578947367
+2,disease_on_drugs,22,25,0.5057640232108318

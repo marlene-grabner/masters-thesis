@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,18,27,0.5148148148148146
+1,disease_on_symptoms,21,18,2.1526251526251525
+2,disease_on_drugs,6,21,0.6746031746031744

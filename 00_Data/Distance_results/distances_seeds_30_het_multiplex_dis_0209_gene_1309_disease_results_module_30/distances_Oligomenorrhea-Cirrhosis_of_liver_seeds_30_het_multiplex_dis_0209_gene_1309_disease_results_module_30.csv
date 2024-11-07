@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,11,19,0.8103668261562997
+2,disease_on_drugs,24,30,0.12314814814814823

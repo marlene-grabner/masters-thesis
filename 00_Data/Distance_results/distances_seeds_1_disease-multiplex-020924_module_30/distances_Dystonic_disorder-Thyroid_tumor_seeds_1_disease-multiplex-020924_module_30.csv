@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,17,23,0.4671355498721228
+1,disease_on_symptoms,28,20,2.7654761904761904
+2,disease_on_drugs,9,20,1.3543103448275864

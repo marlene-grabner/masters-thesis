@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,27,29,-0.10652709359605905
+1,disease_on_symptoms,18,18,-0.2777777777777777
+2,disease_on_drugs,24,28,0.04189560439560425

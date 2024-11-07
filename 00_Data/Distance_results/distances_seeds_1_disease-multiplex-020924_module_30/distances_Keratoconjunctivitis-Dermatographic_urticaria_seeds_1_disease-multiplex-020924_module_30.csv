@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,0.15517241379310343
+1,disease_on_symptoms,25,14,0.8980952380952378
+2,disease_on_drugs,27,28,0.21515151515151532

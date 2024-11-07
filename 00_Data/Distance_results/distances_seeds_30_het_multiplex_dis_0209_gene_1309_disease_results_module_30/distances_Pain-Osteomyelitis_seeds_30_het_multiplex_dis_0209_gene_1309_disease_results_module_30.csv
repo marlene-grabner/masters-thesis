@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,30,-0.1607142857142857
+1,disease_on_symptoms,16,22,-0.03902511961722488
+2,disease_on_drugs,26,28,-0.14840252340252347

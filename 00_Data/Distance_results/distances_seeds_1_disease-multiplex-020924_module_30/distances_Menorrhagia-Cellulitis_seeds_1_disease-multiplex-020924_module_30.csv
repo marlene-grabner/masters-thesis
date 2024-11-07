@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,22,0.21991660821448056
+1,disease_on_symptoms,19,26,1.702609086819613
+2,disease_on_drugs,24,12,1.0069444444444442

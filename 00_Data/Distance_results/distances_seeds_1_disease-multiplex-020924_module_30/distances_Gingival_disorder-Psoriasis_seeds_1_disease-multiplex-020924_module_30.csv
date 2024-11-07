@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Psoriasis nodes,sAB
+0,disease_on_genes,21,28,0.07653061224489788
+1,disease_on_symptoms,26,21,0.8389837113241367
+2,disease_on_drugs,20,28,0.3392857142857144

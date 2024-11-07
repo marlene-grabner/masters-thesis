@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,17,15,0.633455882352941
+2,disease_on_drugs,17,30,0.1879641218189403

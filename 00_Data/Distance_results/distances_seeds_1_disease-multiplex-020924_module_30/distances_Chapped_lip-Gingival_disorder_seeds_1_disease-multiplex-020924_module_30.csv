@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,0.05623100303951367
+1,disease_on_symptoms,21,26,0.9742420699867507
+2,disease_on_drugs,24,20,0.6363636363636365

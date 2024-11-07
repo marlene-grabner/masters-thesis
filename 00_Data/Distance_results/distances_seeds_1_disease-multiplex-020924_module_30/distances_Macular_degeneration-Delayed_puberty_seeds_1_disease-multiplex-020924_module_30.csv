@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,22,0.44971988795518203
+1,disease_on_symptoms,15,20,1.551190476190476
+2,disease_on_drugs,21,19,0.7485588972431076

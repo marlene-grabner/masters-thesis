@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,22,30,0.2910256410256411
+1,disease_on_symptoms,21,17,0.9606368863334809
+2,disease_on_drugs,21,17,0.3774878372401591

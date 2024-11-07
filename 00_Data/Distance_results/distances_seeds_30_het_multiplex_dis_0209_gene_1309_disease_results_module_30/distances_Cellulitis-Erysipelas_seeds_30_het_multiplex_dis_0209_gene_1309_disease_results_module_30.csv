@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,18,0.02280701754385972
+2,disease_on_drugs,26,29,0.05566674704605745

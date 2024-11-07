@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,17,23,0.11713554987212293
+1,disease_on_symptoms,25,20,2.216111111111111
+2,disease_on_drugs,13,20,1.2092657342657345

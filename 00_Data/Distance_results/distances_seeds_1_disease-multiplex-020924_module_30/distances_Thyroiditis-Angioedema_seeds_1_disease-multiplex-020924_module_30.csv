@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,29,0.220034595034595
+1,disease_on_symptoms,28,17,0.9227124183006536
+2,disease_on_drugs,23,25,0.4157608695652173

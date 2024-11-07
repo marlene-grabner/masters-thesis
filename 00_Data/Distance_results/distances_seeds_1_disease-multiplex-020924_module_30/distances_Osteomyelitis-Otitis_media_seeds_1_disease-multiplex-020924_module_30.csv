@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,-0.7573180076628354
+1,disease_on_symptoms,23,22,-0.4480017566974088
+2,disease_on_drugs,23,29,-0.6913562449544458

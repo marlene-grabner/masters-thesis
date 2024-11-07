@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,29,27,0.4107142857142858
+1,disease_on_symptoms,18,17,1.7660130718954248
+2,disease_on_drugs,22,26,0.9198717948717949

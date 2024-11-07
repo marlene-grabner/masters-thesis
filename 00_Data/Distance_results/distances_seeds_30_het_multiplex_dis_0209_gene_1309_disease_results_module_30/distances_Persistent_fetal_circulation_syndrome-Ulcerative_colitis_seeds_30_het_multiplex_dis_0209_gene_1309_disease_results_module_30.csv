@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,24,27,0.05882352941176472
+1,disease_on_symptoms,22,20,0.6826839826839826
+2,disease_on_drugs,21,27,-0.07738095238095233

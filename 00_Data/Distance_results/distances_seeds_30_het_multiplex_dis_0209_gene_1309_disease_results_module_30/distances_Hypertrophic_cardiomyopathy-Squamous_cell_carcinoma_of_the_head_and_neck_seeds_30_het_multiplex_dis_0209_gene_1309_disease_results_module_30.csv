@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,19,22,0.7306278445559575
+2,disease_on_drugs,22,30,0.10734265734265724

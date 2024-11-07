@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,25,27,-0.019230769230769273
+1,disease_on_symptoms,23,18,0.5364380817721222
+2,disease_on_drugs,21,22,-0.005058894593778396

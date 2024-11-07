@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Diarrhea nodes,sAB
+0,disease_on_genes,28,27,-0.0007094757094756599
+1,disease_on_symptoms,14,19,1.1675780359990888
+2,disease_on_drugs,28,26,0.5376475376475376

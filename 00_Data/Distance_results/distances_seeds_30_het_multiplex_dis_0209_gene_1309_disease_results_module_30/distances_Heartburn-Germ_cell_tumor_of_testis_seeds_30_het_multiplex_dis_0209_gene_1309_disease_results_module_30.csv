@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,26,27,-0.22536687631027252
+1,disease_on_symptoms,16,22,0.6148325358851674
+2,disease_on_drugs,25,20,0.01722222222222225

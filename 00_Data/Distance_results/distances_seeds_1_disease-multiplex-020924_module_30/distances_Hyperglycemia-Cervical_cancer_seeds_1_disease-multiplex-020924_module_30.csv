@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.3884990253411307
+1,disease_on_symptoms,14,23,1.1068490851099546
+2,disease_on_drugs,26,15,0.653658536585366

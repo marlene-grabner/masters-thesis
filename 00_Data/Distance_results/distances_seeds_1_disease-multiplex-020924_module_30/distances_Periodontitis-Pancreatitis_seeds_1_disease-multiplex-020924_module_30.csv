@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,23,30,-0.24509160514082584
+1,disease_on_symptoms,25,20,-0.0427777777777778
+2,disease_on_drugs,22,30,-0.29895104895104907

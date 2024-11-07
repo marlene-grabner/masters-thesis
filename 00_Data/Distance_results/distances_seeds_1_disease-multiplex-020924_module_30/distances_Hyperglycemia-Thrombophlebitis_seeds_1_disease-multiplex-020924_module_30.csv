@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.2079638752052544
+1,disease_on_symptoms,14,15,2.09392446633826
+2,disease_on_drugs,26,21,0.5319148936170213

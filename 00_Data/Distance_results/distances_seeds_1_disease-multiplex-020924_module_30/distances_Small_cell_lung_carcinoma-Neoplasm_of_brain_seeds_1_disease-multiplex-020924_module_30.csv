@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,27,22,0.03849721706864573
+1,disease_on_symptoms,24,23,1.1718701819303112
+2,disease_on_drugs,25,20,0.06777777777777771

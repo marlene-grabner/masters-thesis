@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,14,15,1.8220032840722493
+2,disease_on_drugs,11,26,0.5020790020790022

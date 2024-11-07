@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.6166666666666667
+1,disease_on_symptoms,20,25,1.46
+2,disease_on_drugs,28,7,0.9035714285714285

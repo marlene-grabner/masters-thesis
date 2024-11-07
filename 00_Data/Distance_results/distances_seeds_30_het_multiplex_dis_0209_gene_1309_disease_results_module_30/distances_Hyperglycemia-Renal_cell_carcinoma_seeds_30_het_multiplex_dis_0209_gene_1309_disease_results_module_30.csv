@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.10536062378167643
+1,disease_on_symptoms,17,22,0.8751542575071989
+2,disease_on_drugs,26,22,0.005827505827505908

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.08727272727272717
+1,disease_on_symptoms,22,25,0.9962282398452611
+2,disease_on_drugs,29,23,0.2741609964248646

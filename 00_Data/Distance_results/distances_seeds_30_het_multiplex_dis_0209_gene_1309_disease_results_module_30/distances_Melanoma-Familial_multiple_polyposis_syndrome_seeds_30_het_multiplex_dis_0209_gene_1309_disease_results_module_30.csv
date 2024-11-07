@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.22904483430799227
+1,disease_on_symptoms,23,19,-0.14138607388035296
+2,disease_on_drugs,25,25,-0.21999999999999997

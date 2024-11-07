@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.23484848484848475
+1,disease_on_symptoms,20,20,0.7250000000000001
+2,disease_on_drugs,28,25,-0.0897708894878706

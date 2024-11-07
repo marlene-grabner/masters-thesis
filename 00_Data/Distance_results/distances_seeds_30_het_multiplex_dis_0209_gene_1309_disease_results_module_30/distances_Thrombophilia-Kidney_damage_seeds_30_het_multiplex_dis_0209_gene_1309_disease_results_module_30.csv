@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,30,0.08771929824561409
+1,disease_on_symptoms,18,15,0.6247474747474748
+2,disease_on_drugs,22,21,0.15717809322460496

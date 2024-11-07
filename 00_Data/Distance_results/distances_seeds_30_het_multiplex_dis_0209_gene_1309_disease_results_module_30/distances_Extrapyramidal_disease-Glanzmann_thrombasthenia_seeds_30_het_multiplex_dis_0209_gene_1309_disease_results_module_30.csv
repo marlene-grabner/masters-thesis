@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.05555555555555558
+1,disease_on_symptoms,18,19,1.4128733997155047
+2,disease_on_drugs,25,24,0.328112244897959

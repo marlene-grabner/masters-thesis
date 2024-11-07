@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,24,0.306938775510204
+1,disease_on_symptoms,14,23,0.4297884841363102
+2,disease_on_drugs,22,24,0.4565217391304348

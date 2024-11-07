@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.08418079096045183
+1,disease_on_symptoms,19,20,0.27823886639676143
+2,disease_on_drugs,24,27,0.06454248366013071

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,30,-0.06929824561403508
+1,disease_on_symptoms,18,18,0.8611111111111109
+2,disease_on_drugs,22,28,-0.09805194805194795

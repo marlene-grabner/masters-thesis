@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,21,16,1.896517052767053
+2,disease_on_drugs,27,26,0.8664597107993335

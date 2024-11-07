@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,21,16,-0.15013674388674403
+2,disease_on_drugs,29,29,-0.4137931034482758

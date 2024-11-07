@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.019444444444444375
+1,disease_on_symptoms,23,20,0.8337209302325581
+2,disease_on_drugs,30,21,0.2641456582633055

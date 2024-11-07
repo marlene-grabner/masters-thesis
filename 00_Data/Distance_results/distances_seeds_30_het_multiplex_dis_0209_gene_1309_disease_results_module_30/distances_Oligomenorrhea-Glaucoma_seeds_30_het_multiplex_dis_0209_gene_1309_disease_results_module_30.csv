@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,-0.16920903954802258
+1,disease_on_symptoms,11,18,0.26671891327063735
+2,disease_on_drugs,24,28,-0.21153846153846145

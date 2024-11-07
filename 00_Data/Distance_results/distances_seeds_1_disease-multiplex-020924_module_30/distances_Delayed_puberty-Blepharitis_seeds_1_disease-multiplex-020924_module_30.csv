@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Blepharitis nodes,sAB
+0,disease_on_genes,22,20,0.34143437862950043
+1,disease_on_symptoms,20,27,1.5732663514578409
+2,disease_on_drugs,19,19,0.8684210526315788

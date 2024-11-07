@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,18,22,-0.07247474747474736
+2,disease_on_drugs,30,27,0.04746588693957121

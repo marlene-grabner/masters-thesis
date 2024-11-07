@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.22413793103448265
+1,disease_on_symptoms,14,22,0.5432900432900432
+2,disease_on_drugs,28,15,0.2898117386489478

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,25,30,-0.09575757575757571
+1,disease_on_symptoms,16,20,-0.10277777777777763
+2,disease_on_drugs,17,24,0.3191654710664753

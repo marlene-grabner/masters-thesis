@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.4231346191311123
+1,disease_on_symptoms,20,16,1.4569444444444446
+2,disease_on_drugs,22,22,0.9318181818181819

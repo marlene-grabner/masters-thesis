@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Peritonitis nodes,sAB
+0,disease_on_genes,27,30,-0.05360623781676421
+1,disease_on_symptoms,21,14,0.46428571428571397
+2,disease_on_drugs,27,24,0.057053376906318176

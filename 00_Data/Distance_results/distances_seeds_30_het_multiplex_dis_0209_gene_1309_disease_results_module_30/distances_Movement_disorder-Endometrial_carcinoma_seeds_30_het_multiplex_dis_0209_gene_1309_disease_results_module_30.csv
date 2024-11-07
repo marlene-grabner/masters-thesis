@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.10595238095238091
+1,disease_on_symptoms,17,21,0.0991449211263451
+2,disease_on_drugs,26,26,-0.03846153846153855

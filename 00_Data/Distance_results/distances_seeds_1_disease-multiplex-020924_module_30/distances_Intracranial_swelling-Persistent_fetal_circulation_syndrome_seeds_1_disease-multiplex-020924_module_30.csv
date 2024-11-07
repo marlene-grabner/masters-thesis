@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,25,0.052424242424242484
+1,disease_on_symptoms,14,20,0.9521008403361346
+2,disease_on_drugs,24,18,0.2767857142857142

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.24999999999999978
+1,disease_on_symptoms,15,15,0.2333333333333334
+2,disease_on_drugs,23,21,1.2271786184829665

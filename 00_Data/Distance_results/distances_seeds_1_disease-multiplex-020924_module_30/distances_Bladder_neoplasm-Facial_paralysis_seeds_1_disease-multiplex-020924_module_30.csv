@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,0.12142857142857144
+1,disease_on_symptoms,20,23,0.7264661274014155
+2,disease_on_drugs,25,14,0.8974358974358974

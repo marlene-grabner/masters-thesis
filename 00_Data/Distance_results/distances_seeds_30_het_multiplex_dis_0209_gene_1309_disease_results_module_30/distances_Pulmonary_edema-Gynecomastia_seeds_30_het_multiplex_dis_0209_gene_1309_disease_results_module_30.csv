@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,11,15,-0.24941724941724952
+2,disease_on_drugs,27,29,0.07252326217843463

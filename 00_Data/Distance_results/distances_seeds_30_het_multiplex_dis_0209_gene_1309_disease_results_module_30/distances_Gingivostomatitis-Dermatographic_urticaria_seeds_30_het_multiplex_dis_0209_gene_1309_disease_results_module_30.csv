@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.10141242937853101
+1,disease_on_symptoms,15,18,-0.0010101010101011276
+2,disease_on_drugs,30,28,0.18768472906403955

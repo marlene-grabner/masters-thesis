@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.15934065934065944
+1,disease_on_symptoms,18,21,1.4416971916971915
+2,disease_on_drugs,27,25,0.7135612535612537

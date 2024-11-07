@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.36303030303030304
+1,disease_on_symptoms,16,25,2.3565548780487804
+2,disease_on_drugs,23,23,1.5

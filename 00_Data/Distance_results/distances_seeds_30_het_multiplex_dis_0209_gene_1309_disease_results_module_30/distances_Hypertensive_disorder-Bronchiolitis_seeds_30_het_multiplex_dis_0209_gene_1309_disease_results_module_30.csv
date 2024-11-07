@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,27,28,-0.23636363636363633
+1,disease_on_symptoms,21,25,-0.12985507246376815
+2,disease_on_drugs,26,24,-0.20589743589743592

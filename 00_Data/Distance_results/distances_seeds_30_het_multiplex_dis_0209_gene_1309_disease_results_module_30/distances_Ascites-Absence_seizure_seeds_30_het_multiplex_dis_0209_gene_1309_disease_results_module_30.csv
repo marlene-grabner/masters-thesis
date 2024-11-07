@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,22,14,0.7922077922077921
+2,disease_on_drugs,27,22,0.144059644059644

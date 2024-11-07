@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,25,28,-0.09332884097035032
+1,disease_on_symptoms,13,20,0.47424242424242435
+2,disease_on_drugs,21,27,0.14484126984126977

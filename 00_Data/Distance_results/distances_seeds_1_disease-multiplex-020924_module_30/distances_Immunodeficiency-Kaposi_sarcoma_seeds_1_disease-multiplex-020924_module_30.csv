@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,22,15,0.2705569205569207
+1,disease_on_symptoms,19,27,1.8974065598779557
+2,disease_on_drugs,18,13,0.4238351254480288

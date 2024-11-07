@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.3190476190476189
+1,disease_on_symptoms,22,20,-0.410822510822511
+2,disease_on_drugs,29,24,-0.30161570158317064

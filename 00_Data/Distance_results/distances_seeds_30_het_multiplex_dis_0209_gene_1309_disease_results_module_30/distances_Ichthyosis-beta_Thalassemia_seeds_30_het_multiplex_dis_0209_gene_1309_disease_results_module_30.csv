@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,18,13,0.14440308795147505
+2,disease_on_drugs,25,24,-0.10549319727891149

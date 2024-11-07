@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.0357142857142857
+1,disease_on_symptoms,23,21,0.4756728778467909
+2,disease_on_drugs,23,26,-0.10695515664459765

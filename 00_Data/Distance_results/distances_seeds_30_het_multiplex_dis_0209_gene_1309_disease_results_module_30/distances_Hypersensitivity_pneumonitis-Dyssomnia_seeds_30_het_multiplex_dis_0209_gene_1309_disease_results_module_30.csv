@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,25,18,-0.11627906976744184
+1,disease_on_symptoms,20,21,2.1626306620209057
+2,disease_on_drugs,25,17,0.005434173669467857

@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,16,20,0.1722222222222225
+2,disease_on_drugs,30,27,0.17719298245614046

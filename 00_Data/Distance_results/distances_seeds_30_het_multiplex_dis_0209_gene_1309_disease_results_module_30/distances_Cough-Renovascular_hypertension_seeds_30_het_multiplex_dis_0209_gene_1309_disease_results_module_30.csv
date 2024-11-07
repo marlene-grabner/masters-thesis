@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,22,17,1.2497943233237354
+2,disease_on_drugs,24,29,0.16097375840381667

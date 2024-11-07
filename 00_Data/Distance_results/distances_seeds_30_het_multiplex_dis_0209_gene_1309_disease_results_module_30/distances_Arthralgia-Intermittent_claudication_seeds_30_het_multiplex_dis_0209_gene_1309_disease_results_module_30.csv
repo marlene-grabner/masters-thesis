@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,14,-0.08728652751423138
+2,disease_on_drugs,30,24,0.063425925925926

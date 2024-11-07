@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,21,18,0.36721611721611724
+2,disease_on_drugs,25,27,-0.05666666666666664

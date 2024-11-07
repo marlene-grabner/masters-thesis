@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,0.1321937321937321
+1,disease_on_symptoms,23,16,1.3924540133779266
+2,disease_on_drugs,20,27,0.3172182821118992

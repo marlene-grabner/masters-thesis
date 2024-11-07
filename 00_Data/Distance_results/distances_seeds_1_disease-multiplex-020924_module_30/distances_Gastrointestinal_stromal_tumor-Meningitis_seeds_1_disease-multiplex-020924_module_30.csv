@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Meningitis nodes,sAB
+0,disease_on_genes,23,29,0.33958020989505244
+1,disease_on_symptoms,20,20,1.1749999999999998
+2,disease_on_drugs,19,26,0.7555555555555555

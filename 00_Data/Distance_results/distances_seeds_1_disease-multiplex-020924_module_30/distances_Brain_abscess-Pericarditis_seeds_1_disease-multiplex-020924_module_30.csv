@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,-0.01638176638176625
+1,disease_on_symptoms,21,22,0.29990939293264884
+2,disease_on_drugs,23,25,0.07873188405797094

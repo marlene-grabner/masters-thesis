@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Erysipelas nodes,sAB
+0,disease_on_genes,20,28,0.20178571428571423
+1,disease_on_symptoms,18,20,2.0769005847953217
+2,disease_on_drugs,19,27,1.0389016018306636

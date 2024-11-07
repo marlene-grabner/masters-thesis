@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,14,23,0.8074114487157966
+1,disease_on_symptoms,27,25,2.8052136752136754
+2,disease_on_drugs,8,18,0.8926282051282048

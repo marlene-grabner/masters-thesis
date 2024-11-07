@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,-0.15254237288135597
+1,disease_on_symptoms,17,18,0.2016806722689075
+2,disease_on_drugs,28,29,-0.018829401088929165

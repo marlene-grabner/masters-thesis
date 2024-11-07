@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.10219001610305978
+1,disease_on_symptoms,19,20,1.407995951417004
+2,disease_on_drugs,26,20,0.8905518394648828

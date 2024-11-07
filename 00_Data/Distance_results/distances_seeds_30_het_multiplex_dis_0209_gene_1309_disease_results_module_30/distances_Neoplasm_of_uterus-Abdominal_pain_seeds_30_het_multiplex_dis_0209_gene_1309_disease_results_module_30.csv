@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,18,19,0.3280780780780779
+2,disease_on_drugs,26,29,0.3076079093320472

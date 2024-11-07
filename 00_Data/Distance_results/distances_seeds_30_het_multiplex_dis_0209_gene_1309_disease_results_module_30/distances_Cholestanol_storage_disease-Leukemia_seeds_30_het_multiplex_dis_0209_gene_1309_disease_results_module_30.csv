@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,30,-0.10198714202220915
+1,disease_on_symptoms,18,21,0.223137973137973
+2,disease_on_drugs,28,30,0.2922824302134648

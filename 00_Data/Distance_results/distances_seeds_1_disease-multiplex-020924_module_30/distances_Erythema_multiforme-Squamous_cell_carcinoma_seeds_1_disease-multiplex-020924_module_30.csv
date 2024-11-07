@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,16,0.05905797101449295
+1,disease_on_symptoms,16,26,2.1688415750915753
+2,disease_on_drugs,30,14,0.2272727272727273

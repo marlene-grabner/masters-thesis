@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.2909090909090909
+1,disease_on_symptoms,18,20,-0.17821637426900594
+2,disease_on_drugs,30,25,-0.22090909090909083

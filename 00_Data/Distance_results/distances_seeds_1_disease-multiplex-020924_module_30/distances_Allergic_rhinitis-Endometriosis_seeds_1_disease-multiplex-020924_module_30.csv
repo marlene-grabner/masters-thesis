@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Endometriosis nodes,sAB
+0,disease_on_genes,21,30,0.3291316526610646
+1,disease_on_symptoms,22,12,1.6755793226381464
+2,disease_on_drugs,21,27,0.9196428571428572

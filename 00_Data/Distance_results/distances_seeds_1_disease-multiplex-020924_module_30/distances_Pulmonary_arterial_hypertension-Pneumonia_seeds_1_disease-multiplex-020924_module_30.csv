@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,0.20743021346469614
+1,disease_on_symptoms,18,26,0.9147241647241646
+2,disease_on_drugs,26,28,0.8141025641025641

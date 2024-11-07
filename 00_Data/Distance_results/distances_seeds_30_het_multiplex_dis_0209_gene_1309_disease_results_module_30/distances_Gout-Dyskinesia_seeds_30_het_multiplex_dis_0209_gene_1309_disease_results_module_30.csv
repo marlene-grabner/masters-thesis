@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,28,30,-0.08682266009852213
+1,disease_on_symptoms,19,15,0.3408668730650155
+2,disease_on_drugs,22,28,0.10032467532467537

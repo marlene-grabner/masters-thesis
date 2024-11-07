@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,23,0.561826633852885
+1,disease_on_symptoms,17,21,1.328689370485036
+2,disease_on_drugs,17,19,0.8333333333333333

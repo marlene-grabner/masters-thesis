@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Pneumonia nodes,sAB
+0,disease_on_genes,17,30,0.2695452649144763
+1,disease_on_symptoms,22,26,1.2884615384615383
+2,disease_on_drugs,15,28,0.6410852713178297

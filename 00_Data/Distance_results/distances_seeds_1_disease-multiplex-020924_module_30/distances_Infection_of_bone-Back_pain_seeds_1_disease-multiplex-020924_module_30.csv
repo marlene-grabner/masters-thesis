@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Back_pain nodes,sAB
+0,disease_on_genes,26,30,0.0567765567765568
+1,disease_on_symptoms,21,16,0.3887146074646073
+2,disease_on_drugs,24,23,0.29920212765957444

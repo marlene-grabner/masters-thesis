@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,25,23,0.4554710144927536
+1,disease_on_symptoms,20,19,2.692678812415655
+2,disease_on_drugs,14,11,0.8928571428571428

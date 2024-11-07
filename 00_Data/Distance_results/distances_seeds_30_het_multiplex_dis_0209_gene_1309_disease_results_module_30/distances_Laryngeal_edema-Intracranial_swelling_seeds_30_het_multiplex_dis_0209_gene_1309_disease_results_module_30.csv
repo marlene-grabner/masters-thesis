@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,16,11,0.11079545454545459
+2,disease_on_drugs,28,21,-0.17261904761904767

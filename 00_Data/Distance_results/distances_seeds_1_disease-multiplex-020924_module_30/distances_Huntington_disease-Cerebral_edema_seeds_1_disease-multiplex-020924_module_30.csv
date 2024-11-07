@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,16,9,0.6256944444444443
+2,disease_on_drugs,27,11,0.638755980861244

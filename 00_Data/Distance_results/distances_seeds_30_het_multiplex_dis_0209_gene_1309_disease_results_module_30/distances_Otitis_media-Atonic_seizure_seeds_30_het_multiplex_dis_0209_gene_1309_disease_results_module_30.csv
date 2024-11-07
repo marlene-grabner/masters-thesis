@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,29,30,0.050555230859146816
+1,disease_on_symptoms,20,15,0.6559523809523811
+2,disease_on_drugs,28,23,0.37414748508098894

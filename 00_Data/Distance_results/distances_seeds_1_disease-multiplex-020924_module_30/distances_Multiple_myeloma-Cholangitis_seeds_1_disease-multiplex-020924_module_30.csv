@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,27,0.17120894479385051
+1,disease_on_symptoms,21,22,1.0236081747709658
+2,disease_on_drugs,25,26,1.2737254901960786

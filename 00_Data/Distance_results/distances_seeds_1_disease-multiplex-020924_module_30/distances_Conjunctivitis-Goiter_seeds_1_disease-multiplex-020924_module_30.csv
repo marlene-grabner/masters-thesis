@@ -1,0 +1,4 @@
+,Layer,Conjunctivitis nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.03663387625651793
+1,disease_on_symptoms,27,15,0.28042328042328046
+2,disease_on_drugs,26,16,0.2710622710622712

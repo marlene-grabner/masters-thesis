@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,26,28,0.2599206349206349
+1,disease_on_symptoms,20,14,1.4241596638655465
+2,disease_on_drugs,25,24,1.1632653061224492

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.2789473684210525
+1,disease_on_symptoms,14,14,-0.6785714285714285
+2,disease_on_drugs,11,13,-0.5833333333333333

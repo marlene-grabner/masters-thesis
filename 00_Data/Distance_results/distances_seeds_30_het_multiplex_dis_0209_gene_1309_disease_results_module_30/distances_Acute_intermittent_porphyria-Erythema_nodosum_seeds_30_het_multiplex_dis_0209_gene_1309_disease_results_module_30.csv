@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,30,0.12280701754385959
+1,disease_on_symptoms,17,22,0.9086452762923349
+2,disease_on_drugs,24,29,0.24033561049663832

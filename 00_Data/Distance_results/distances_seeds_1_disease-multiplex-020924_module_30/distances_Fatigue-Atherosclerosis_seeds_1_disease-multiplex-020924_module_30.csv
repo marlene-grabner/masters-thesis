@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,0.15796703296703307
+1,disease_on_symptoms,21,13,0.5064641241111829
+2,disease_on_drugs,26,29,0.23426573426573438

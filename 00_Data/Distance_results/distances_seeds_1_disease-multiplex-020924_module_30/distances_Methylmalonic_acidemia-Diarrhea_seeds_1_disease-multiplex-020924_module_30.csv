@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Diarrhea nodes,sAB
+0,disease_on_genes,25,27,0.17202279202279191
+1,disease_on_symptoms,16,19,0.411842105263158
+2,disease_on_drugs,17,26,0.6955435125749763

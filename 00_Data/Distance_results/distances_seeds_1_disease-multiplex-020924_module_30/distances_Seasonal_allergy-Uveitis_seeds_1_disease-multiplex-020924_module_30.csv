@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Uveitis nodes,sAB
+0,disease_on_genes,29,30,0.10080849405805559
+1,disease_on_symptoms,15,21,0.45158730158730176
+2,disease_on_drugs,29,27,0.12495438788542246

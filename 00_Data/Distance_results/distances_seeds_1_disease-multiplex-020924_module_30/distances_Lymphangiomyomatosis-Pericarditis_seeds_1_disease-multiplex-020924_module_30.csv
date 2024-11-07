@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,0.11764705882352944
+1,disease_on_symptoms,19,22,1.0184385575913175
+2,disease_on_drugs,22,25,0.3770019342359767

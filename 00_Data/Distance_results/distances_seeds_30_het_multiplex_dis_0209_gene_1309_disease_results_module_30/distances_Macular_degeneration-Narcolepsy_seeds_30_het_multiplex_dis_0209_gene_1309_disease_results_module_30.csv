@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.07424242424242422
+1,disease_on_symptoms,17,20,0.9597376788553258
+2,disease_on_drugs,17,21,0.009066784608580347

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.10311890838206628
+1,disease_on_symptoms,19,24,0.43000305997552024
+2,disease_on_drugs,20,24,0.3196969696969698

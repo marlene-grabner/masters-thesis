@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,19,0.07894736842105221
+2,disease_on_drugs,20,25,-0.011666666666666714

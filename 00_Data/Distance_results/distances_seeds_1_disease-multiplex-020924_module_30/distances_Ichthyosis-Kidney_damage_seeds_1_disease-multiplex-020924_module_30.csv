@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.22742316784869998
+1,disease_on_symptoms,17,26,0.9837156687361885
+2,disease_on_drugs,24,13,0.4293139293139294

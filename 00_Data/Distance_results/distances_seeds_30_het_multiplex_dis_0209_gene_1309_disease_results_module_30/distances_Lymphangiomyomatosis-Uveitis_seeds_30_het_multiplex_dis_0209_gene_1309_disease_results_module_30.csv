@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.03434065934065944
+1,disease_on_symptoms,17,20,0.2788553259141495
+2,disease_on_drugs,24,23,0.2334451125501078

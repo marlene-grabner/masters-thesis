@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,20,22,-0.6137445887445887
+2,disease_on_drugs,28,27,-0.3452260702260703

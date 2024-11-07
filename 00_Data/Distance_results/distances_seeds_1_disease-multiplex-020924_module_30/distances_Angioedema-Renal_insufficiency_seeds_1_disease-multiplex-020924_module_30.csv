@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,20,0.061309523809523814
+1,disease_on_symptoms,17,23,0.2283887468030692
+2,disease_on_drugs,25,17,0.4187675070028012

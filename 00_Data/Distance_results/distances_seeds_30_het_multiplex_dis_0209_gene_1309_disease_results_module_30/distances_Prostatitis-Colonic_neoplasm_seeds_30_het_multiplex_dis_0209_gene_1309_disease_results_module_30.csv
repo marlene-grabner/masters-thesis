@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,22,19,0.49328976543353953
+2,disease_on_drugs,28,29,0.1917185204390286

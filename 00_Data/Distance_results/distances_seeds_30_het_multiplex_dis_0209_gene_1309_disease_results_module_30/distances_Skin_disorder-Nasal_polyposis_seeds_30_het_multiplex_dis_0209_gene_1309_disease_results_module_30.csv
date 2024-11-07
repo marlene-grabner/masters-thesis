@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,25,30,-0.12727272727272732
+1,disease_on_symptoms,19,20,0.2585695006747639
+2,disease_on_drugs,23,25,-0.10605072463768106

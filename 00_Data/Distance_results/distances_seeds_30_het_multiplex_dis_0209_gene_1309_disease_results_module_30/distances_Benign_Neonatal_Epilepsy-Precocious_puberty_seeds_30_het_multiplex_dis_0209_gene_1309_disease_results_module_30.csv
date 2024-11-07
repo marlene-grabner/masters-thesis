@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,16,16,0.1875
+2,disease_on_drugs,21,27,0.2324735449735449

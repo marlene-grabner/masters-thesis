@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,14,0.418831168831169
+1,disease_on_symptoms,18,25,2.2662273901808785
+2,disease_on_drugs,27,10,0.7222722722722723

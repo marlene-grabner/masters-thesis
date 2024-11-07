@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.03703703703703709
+1,disease_on_symptoms,16,22,0.2731758373205744
+2,disease_on_drugs,28,21,0.11564625850340127

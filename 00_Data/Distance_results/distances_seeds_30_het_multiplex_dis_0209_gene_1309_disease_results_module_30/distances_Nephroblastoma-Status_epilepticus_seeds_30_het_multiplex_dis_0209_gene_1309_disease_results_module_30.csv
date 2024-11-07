@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,29,30,-0.11893629456458199
+1,disease_on_symptoms,20,18,0.1875730994152045
+2,disease_on_drugs,24,30,0.026388888888889017

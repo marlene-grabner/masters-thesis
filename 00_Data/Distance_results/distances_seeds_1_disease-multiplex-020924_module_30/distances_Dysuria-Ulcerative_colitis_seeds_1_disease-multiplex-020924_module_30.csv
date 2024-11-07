@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.12016511585477119
+1,disease_on_symptoms,16,20,0.4312499999999999
+2,disease_on_drugs,23,25,-0.0842391304347827

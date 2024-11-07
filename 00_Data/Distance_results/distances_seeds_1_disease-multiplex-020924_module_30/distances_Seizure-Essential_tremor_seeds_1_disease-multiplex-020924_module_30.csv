@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.16000000000000003
+1,disease_on_symptoms,25,20,-0.2350000000000001
+2,disease_on_drugs,28,19,-0.26035834266517344

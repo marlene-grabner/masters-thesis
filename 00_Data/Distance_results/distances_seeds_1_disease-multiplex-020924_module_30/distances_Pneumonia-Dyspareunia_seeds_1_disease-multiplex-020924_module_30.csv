@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.30000000000000004
+1,disease_on_symptoms,26,17,0.6632905398295272
+2,disease_on_drugs,28,23,0.8955669224211424

@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.27147866744593796
+1,disease_on_symptoms,18,13,0.4952440033085197
+2,disease_on_drugs,27,28,-0.09264069264069263

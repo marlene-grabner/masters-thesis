@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,24,-0.5137527233115469
+1,disease_on_symptoms,19,20,-0.2606275303643726
+2,disease_on_drugs,27,22,-0.3900742115027829

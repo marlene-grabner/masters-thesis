@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.06806935515293189
+1,disease_on_symptoms,16,23,0.28940217391304346
+2,disease_on_drugs,30,27,0.08576998050682239

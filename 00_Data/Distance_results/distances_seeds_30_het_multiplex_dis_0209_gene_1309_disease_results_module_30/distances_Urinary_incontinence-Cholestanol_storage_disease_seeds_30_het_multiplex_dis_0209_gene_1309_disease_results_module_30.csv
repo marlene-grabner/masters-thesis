@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,29,29,-0.2068965517241379
+1,disease_on_symptoms,20,18,0.0353801169590644
+2,disease_on_drugs,20,28,-0.2029761904761902

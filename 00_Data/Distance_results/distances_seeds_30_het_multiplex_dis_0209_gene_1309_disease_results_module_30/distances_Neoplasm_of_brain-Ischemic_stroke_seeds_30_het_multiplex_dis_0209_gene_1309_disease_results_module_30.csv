@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,16,0.632518796992481
+2,disease_on_drugs,29,28,0.45392576268256857

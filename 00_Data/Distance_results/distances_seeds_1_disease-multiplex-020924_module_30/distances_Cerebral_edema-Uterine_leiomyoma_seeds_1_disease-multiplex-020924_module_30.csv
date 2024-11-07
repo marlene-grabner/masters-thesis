@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,24,0.6712962962962963
+1,disease_on_symptoms,9,21,1.753968253968254
+2,disease_on_drugs,11,18,0.9267676767676769

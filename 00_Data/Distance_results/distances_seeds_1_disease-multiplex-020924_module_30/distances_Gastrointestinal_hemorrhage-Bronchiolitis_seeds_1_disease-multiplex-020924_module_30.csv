@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,27,23,0.3012238325281804
+1,disease_on_symptoms,19,25,0.9314354066985646
+2,disease_on_drugs,27,18,0.3388888888888888

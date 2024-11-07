@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,-0.05272904483430807
+1,disease_on_symptoms,17,19,1.0014619883040936
+2,disease_on_drugs,24,28,0.12293956043956067

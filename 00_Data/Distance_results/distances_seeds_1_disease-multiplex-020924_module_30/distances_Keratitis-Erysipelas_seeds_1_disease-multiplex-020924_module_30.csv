@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,28,-0.4285714285714285
+1,disease_on_symptoms,25,20,-0.5733333333333333
+2,disease_on_drugs,23,27,-0.4852173913043477

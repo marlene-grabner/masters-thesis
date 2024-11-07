@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Goiter nodes,sAB
+0,disease_on_genes,19,26,0.3189833558254611
+1,disease_on_symptoms,21,15,1.865079365079365
+2,disease_on_drugs,17,16,0.39393939393939403

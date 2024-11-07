@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,9,14,-0.013975155279502882
+2,disease_on_drugs,23,24,-0.022298026518655645

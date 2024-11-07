@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.3505549588256356
+1,disease_on_symptoms,17,21,1.9514226743328913
+2,disease_on_drugs,26,17,0.7209302325581395

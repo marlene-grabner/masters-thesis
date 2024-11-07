@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,26,28,0.2228327228327227
+1,disease_on_symptoms,21,17,1.6870116467639686
+2,disease_on_drugs,23,28,0.7843137254901962

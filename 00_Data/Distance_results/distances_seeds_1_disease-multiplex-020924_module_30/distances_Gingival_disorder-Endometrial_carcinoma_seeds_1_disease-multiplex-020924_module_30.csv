@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,21,23,0.18153585544889883
+1,disease_on_symptoms,26,21,0.5998753020029617
+2,disease_on_drugs,20,21,0.8310104529616724

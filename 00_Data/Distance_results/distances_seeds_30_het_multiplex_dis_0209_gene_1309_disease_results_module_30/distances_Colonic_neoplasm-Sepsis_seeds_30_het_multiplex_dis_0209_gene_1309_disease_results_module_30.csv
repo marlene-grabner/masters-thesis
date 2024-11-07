@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,19,15,0.8523219814241485
+2,disease_on_drugs,29,25,0.5494252873563219

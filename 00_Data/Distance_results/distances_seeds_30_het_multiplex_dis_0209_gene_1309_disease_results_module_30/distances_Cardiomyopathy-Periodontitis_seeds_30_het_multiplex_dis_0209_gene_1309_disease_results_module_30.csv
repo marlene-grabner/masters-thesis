@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Periodontitis nodes,sAB
+0,disease_on_genes,25,30,-0.11272727272727279
+1,disease_on_symptoms,21,21,0.30952380952380976
+2,disease_on_drugs,24,28,0.0828754578754578

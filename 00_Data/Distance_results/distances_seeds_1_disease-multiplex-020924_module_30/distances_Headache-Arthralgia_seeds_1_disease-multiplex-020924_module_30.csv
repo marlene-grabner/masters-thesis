@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,25,19,-0.13234449760765554
+2,disease_on_drugs,26,30,-0.32280219780219777

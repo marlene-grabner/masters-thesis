@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.1166666666666667
+1,disease_on_symptoms,19,15,1.2222910216718263
+2,disease_on_drugs,30,25,0.4303030303030304

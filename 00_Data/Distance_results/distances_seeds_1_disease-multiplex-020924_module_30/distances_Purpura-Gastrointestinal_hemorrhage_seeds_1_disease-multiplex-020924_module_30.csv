@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,27,0.1316857496102779
+1,disease_on_symptoms,17,19,1.4474544203646371
+2,disease_on_drugs,20,27,0.6170212765957446

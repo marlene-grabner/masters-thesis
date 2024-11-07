@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,17,0.24083977025153502
+1,disease_on_symptoms,22,21,1.5379794623980672
+2,disease_on_drugs,24,14,0.7214912280701755

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.10197740112994347
+1,disease_on_symptoms,19,20,0.5347165991902836
+2,disease_on_drugs,29,27,0.7485860244480935

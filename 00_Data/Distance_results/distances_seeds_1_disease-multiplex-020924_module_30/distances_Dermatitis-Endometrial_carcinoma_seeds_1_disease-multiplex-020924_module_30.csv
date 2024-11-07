@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.2681159420289856
+1,disease_on_symptoms,25,21,0.5349482401656314
+2,disease_on_drugs,24,21,0.7313492063492064

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.14814814814814814
+1,disease_on_symptoms,20,18,0.54546783625731
+2,disease_on_drugs,27,24,-0.0038126361655772545

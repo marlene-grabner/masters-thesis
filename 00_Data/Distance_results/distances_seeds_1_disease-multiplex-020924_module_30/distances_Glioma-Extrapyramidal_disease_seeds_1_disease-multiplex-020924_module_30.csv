@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,22,14,0.5526695526695526
+1,disease_on_symptoms,24,25,2.653860544217687
+2,disease_on_drugs,20,10,1.3916666666666666

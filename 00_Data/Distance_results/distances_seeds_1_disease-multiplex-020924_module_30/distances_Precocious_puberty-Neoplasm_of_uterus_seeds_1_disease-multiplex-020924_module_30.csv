@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.05041050903119859
+1,disease_on_symptoms,14,19,0.14012303485987698
+2,disease_on_drugs,24,28,0.039835164835164916

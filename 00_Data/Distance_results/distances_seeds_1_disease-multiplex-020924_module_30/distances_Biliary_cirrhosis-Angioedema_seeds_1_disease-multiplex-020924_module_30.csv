@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,29,0.5191798941798942
+1,disease_on_symptoms,15,17,1.3213235294117647
+2,disease_on_drugs,15,25,0.8083333333333333

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,15,0.39336468129571567
+1,disease_on_symptoms,17,27,1.64349376114082
+2,disease_on_drugs,30,13,1.302325581395349

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,27,23,0.31227053140096617
+1,disease_on_symptoms,17,24,2.293340506934481
+2,disease_on_drugs,24,17,0.9024390243902438

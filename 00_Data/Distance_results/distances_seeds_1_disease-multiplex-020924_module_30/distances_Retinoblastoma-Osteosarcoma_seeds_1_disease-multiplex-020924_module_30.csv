@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,26,25,-0.45061840120663643
+1,disease_on_symptoms,24,24,-0.7708333333333335
+2,disease_on_drugs,24,23,-0.5106382978723405

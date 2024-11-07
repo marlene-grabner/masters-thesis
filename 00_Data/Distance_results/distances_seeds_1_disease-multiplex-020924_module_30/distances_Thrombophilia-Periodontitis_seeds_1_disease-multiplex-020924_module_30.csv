@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Periodontitis nodes,sAB
+0,disease_on_genes,27,23,0.43626409017713375
+1,disease_on_symptoms,18,25,1.7326098191214467
+2,disease_on_drugs,21,22,1.0237340179200642

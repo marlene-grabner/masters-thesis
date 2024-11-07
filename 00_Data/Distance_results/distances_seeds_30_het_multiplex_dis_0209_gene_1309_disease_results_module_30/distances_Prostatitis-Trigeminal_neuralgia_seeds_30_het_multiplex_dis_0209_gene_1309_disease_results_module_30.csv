@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,22,15,0.0996723996723996
+2,disease_on_drugs,28,25,-0.058342318059299236

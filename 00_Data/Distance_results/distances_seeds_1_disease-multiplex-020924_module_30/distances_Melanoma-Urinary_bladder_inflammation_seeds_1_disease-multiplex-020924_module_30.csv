@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,24,25,0.28693877551020397
+1,disease_on_symptoms,23,22,1.910518225735617
+2,disease_on_drugs,22,24,1.5905797101449273

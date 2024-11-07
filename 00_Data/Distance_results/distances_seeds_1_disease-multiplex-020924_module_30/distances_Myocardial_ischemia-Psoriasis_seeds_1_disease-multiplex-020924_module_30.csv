@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.2229064039408868
+1,disease_on_symptoms,13,21,0.904546433958199
+2,disease_on_drugs,23,28,0.6833820484715627

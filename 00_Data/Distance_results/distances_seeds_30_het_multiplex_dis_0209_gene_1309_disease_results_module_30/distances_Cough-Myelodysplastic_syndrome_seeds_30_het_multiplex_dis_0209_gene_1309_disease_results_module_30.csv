@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.018867924528301883
+1,disease_on_symptoms,22,17,0.9481351981351982
+2,disease_on_drugs,24,24,0.3541666666666665

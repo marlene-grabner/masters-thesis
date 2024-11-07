@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.05341130604288513
+1,disease_on_symptoms,14,27,1.1549877403535942
+2,disease_on_drugs,29,26,0.488811188811189

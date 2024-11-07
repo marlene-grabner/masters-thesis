@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.05494505494505486
+1,disease_on_symptoms,18,17,0.3217553688141921
+2,disease_on_drugs,30,24,0.19305555555555554

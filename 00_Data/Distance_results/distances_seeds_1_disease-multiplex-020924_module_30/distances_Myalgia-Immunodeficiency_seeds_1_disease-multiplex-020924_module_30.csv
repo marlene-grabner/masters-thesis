@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.2279720279720281
+1,disease_on_symptoms,16,19,1.813063909774436
+2,disease_on_drugs,29,18,0.44030732860520105

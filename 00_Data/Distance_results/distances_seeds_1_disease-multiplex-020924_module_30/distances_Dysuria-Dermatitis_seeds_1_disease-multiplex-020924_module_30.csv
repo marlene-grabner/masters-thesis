@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,26,0.23499361430395904
+1,disease_on_symptoms,16,25,0.7601524390243903
+2,disease_on_drugs,23,24,0.12808356460067838

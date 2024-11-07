@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.38090909090909086
+1,disease_on_symptoms,15,23,2.009229595728452
+2,disease_on_drugs,23,21,1.067005458309806

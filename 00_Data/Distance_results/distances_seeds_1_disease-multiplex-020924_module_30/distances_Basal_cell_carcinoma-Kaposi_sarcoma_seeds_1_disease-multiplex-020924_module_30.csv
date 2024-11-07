@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,-0.3541901188242653
+1,disease_on_symptoms,23,27,-0.37710144927536227
+2,disease_on_drugs,25,13,-0.3157894736842105

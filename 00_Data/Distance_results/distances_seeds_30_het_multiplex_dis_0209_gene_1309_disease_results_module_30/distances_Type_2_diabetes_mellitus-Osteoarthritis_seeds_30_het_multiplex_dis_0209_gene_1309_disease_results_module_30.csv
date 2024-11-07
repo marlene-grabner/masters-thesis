@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.21703296703296693
+1,disease_on_symptoms,16,22,0.29111842105263164
+2,disease_on_drugs,27,25,-0.07928774928774929

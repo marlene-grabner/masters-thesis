@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,28,18,0.025621118012422395
+1,disease_on_symptoms,18,21,2.436202686202686
+2,disease_on_drugs,25,17,0.2873389355742295

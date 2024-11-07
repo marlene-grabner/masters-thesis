@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,23,0.037735849056603765
+1,disease_on_symptoms,12,24,0.6736111111111112
+2,disease_on_drugs,27,22,0.18135435992578852

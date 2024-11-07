@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Cholangitis nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,15,18,0.23383838383838418
+2,disease_on_drugs,23,28,-0.08981853611009627

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Psoriasis nodes,sAB
+0,disease_on_genes,29,28,0.455513784461153
+1,disease_on_symptoms,18,21,1.4954212454212454
+2,disease_on_drugs,30,28,1.1027914614121512

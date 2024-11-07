@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,-0.15384615384615385
+1,disease_on_symptoms,20,16,0.5347222222222223
+2,disease_on_drugs,20,29,0.1745073891625617

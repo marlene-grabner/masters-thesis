@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.24142036124794752
+1,disease_on_symptoms,14,19,-0.8848257006151742
+2,disease_on_drugs,24,26,-0.36083333333333345

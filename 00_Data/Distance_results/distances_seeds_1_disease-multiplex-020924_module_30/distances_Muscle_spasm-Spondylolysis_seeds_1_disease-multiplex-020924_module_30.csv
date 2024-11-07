@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,25,27,-0.48176638176638176
+1,disease_on_symptoms,23,19,-0.792579274272638
+2,disease_on_drugs,19,20,-0.4865384615384615

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,0.037307692307692264
+1,disease_on_symptoms,19,26,2.025686009896536
+2,disease_on_drugs,24,15,0.5176282051282051

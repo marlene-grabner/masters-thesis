@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.10283251231527091
+1,disease_on_symptoms,20,19,0.7437584345479082
+2,disease_on_drugs,30,25,0.4536363636363636

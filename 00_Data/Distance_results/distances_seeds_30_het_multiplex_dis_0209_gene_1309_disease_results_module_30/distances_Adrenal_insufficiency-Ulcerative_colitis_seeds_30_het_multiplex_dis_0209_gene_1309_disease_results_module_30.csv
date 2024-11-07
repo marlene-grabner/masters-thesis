@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.22807017543859653
+1,disease_on_symptoms,15,20,0.5619047619047621
+2,disease_on_drugs,24,27,0.18749999999999978

@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.0980392156862746
+1,disease_on_symptoms,22,20,0.8282467532467535
+2,disease_on_drugs,28,19,0.23242281235002404

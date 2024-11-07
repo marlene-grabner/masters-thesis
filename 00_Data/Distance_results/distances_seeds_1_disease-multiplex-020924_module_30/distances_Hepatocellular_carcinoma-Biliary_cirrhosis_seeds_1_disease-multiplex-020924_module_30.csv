@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.36468500443655727
+1,disease_on_symptoms,19,15,1.6164086687306503
+2,disease_on_drugs,19,15,0.9039215686274511

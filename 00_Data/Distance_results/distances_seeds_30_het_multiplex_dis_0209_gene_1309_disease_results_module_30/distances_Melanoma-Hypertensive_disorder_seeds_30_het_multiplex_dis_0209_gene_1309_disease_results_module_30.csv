@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,27,27,-0.16666666666666674
+1,disease_on_symptoms,23,21,0.9275362318840581
+2,disease_on_drugs,25,26,0.2144947209653092

@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,19,12,0.5334606677985283
+2,disease_on_drugs,30,18,0.39861111111111125

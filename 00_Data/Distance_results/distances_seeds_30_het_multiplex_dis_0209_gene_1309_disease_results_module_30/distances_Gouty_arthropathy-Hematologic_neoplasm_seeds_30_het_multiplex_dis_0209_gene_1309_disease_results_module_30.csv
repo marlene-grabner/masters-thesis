@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,18,18,-0.05555555555555536
+2,disease_on_drugs,23,27,-0.004057971014492789

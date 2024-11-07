@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,27,30,0.0017543859649125082
+1,disease_on_symptoms,16,19,0.3486372180451127
+2,disease_on_drugs,23,24,0.21542553191489366

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,30,26,-0.0535714285714286
+1,disease_on_symptoms,17,20,0.6535373608903023
+2,disease_on_drugs,25,23,0.10804347826086946

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,25,25,-0.3400000000000001
+1,disease_on_symptoms,23,21,0.42104272539055154
+2,disease_on_drugs,24,24,-0.02083333333333348

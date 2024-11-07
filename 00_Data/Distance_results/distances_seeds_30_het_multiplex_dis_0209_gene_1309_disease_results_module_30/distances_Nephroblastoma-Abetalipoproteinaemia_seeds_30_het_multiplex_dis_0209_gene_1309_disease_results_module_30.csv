@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,29,14,0.016811776835834458
+1,disease_on_symptoms,20,26,0.655267558528428
+2,disease_on_drugs,24,14,0.028978696741854604

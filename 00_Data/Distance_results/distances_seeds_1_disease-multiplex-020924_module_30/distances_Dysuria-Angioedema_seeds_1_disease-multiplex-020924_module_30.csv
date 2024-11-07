@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.14306239737274207
+1,disease_on_symptoms,16,17,1.1847704991087344
+2,disease_on_drugs,23,25,0.31159420289855055

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,24,23,-0.0625578168362626
+1,disease_on_symptoms,26,21,1.2463564803990335
+2,disease_on_drugs,15,21,-0.0714285714285714

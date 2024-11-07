@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,0.2577330077330078
+1,disease_on_symptoms,15,15,1.5666666666666669
+2,disease_on_drugs,21,16,1.0810810810810811

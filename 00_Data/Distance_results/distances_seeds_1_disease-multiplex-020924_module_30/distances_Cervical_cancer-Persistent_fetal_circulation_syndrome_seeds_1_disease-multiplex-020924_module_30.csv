@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,25,0.3645584045584045
+1,disease_on_symptoms,23,20,1.9537917087967644
+2,disease_on_drugs,15,18,0.6560606060606062

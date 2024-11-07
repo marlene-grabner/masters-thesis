@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,22,0.38399189463019257
+1,disease_on_symptoms,15,26,1.4661663539712322
+2,disease_on_drugs,26,12,1.1315789473684212

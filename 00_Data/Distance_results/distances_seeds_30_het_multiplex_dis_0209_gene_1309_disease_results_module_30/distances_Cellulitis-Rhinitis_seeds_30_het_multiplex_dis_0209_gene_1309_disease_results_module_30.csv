@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,12,0.004166666666666874
+2,disease_on_drugs,26,23,-0.0010750119445770423

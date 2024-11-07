@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.2908333333333335
+1,disease_on_symptoms,20,22,1.7089826839826838
+2,disease_on_drugs,25,11,0.38888888888888884

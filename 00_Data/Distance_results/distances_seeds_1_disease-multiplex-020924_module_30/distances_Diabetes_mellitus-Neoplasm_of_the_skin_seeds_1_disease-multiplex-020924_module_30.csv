@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,20,28,0.2077380952380954
+1,disease_on_symptoms,18,21,0.862942612942613
+2,disease_on_drugs,19,24,0.7178702570379438

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1416666666666666
+1,disease_on_symptoms,19,22,0.5972400513478817
+2,disease_on_drugs,29,24,0.0936618954673607

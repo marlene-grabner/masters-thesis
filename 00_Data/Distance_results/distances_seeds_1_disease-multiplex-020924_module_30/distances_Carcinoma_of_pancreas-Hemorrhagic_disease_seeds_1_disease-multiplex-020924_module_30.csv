@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,23,24,0.2983156028368792
+1,disease_on_symptoms,25,19,0.649665071770335
+2,disease_on_drugs,21,19,0.5197368421052633

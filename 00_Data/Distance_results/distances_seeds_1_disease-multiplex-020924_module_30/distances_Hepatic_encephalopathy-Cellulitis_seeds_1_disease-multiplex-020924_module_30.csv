@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,9,22,0.16507936507936494
+1,disease_on_symptoms,27,26,2.9063054346073214
+2,disease_on_drugs,9,12,0.5238095238095237

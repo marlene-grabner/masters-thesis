@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,23,0.5327044025157235
+1,disease_on_symptoms,17,16,2.3981172014260252
+2,disease_on_drugs,17,17,0.9705882352941175

@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.20955165692007793
+1,disease_on_symptoms,18,14,1.2078373015873014
+2,disease_on_drugs,21,26,0.38759644610708444

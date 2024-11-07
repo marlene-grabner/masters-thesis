@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,-0.018181818181818188
+1,disease_on_symptoms,19,20,0.2977732793522265
+2,disease_on_drugs,25,18,0.08090439276485806

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,26,23,0.2613132209405502
+1,disease_on_symptoms,19,25,0.9420574162679427
+2,disease_on_drugs,24,22,0.8675065876152832

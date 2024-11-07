@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.13731527093596063
+1,disease_on_symptoms,20,19,1.283502024291498
+2,disease_on_drugs,29,25,0.4834227330779053

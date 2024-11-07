@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,24,0.3000059780009565
+2,disease_on_drugs,26,27,0.09356017846583886

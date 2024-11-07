@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,24,0.12091503267973858
+1,disease_on_symptoms,17,17,0.8823529411764708
+2,disease_on_drugs,24,23,0.48797409805735437

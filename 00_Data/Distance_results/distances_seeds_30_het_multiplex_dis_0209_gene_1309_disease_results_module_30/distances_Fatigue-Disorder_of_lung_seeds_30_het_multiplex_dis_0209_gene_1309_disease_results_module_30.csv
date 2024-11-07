@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,26,27,-0.03882438316400583
+1,disease_on_symptoms,16,18,2.3341503267973858
+2,disease_on_drugs,26,24,0.0444230769230769

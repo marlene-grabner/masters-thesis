@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,25,30,0.2687878787878788
+1,disease_on_symptoms,22,15,0.9494266994266995
+2,disease_on_drugs,24,30,0.8611111111111109

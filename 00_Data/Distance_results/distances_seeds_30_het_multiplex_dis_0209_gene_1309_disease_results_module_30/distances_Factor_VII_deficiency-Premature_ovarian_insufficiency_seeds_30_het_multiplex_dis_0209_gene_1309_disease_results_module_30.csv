@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,28,30,0.06892446633825933
+1,disease_on_symptoms,19,18,1.0001975659870397
+2,disease_on_drugs,25,22,0.18661508704061913

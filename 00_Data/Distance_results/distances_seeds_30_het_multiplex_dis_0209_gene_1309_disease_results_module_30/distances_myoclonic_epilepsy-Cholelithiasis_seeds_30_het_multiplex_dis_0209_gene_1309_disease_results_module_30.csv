@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.09090909090909083
+1,disease_on_symptoms,16,20,0.6638888888888888
+2,disease_on_drugs,25,18,0.11764857881136948

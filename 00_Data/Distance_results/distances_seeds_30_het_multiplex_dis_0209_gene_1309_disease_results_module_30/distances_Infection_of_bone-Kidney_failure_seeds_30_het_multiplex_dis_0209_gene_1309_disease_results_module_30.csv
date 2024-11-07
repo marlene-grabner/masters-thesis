@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,18,20,0.43845029239766076
+2,disease_on_drugs,28,28,0.05357142857142838

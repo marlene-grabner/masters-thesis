@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,29,21,-0.020000000000000018
+1,disease_on_symptoms,20,22,0.6403679653679655
+2,disease_on_drugs,27,19,0.05924230867022651

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.10636363636363644
+1,disease_on_symptoms,19,26,0.2126405757984704
+2,disease_on_drugs,20,24,0.07803030303030312

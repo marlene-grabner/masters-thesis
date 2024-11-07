@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,-0.03888888888888897
+1,disease_on_symptoms,15,27,-0.5761904761904759
+2,disease_on_drugs,21,13,-0.17086834733893552

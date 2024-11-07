@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,23,27,-0.25555555555555554
+1,disease_on_symptoms,19,22,0.6498132804294547
+2,disease_on_drugs,19,20,-0.22823886639676094

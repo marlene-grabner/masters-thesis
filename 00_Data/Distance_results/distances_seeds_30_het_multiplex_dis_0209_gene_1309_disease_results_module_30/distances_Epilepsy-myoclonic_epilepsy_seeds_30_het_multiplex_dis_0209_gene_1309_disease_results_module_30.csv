@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.6166666666666666
+1,disease_on_symptoms,21,16,-0.5999034749034747
+2,disease_on_drugs,29,25,-0.6832439335887612

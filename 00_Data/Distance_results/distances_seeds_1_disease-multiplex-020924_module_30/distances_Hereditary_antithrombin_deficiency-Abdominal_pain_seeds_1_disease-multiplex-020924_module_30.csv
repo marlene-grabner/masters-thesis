@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.15324302134646972
+1,disease_on_symptoms,15,24,2.0971153846153845
+2,disease_on_drugs,20,24,0.3424242424242425

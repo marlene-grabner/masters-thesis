@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,20,0.16666666666666674
+1,disease_on_symptoms,16,23,1.3946139910813824
+2,disease_on_drugs,23,18,0.628549546365029

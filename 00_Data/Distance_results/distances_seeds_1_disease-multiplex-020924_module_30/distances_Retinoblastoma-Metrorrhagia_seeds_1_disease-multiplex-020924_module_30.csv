@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.18795355587808427
+1,disease_on_symptoms,24,17,1.3062230989956958
+2,disease_on_drugs,24,26,0.5815384615384618

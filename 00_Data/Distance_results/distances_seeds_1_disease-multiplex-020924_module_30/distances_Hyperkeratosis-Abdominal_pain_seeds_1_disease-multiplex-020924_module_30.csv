@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,0.1438644688644688
+1,disease_on_symptoms,21,24,1.1950396825396825
+2,disease_on_drugs,23,24,0.27748226950354615

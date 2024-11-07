@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,27,26,-0.2264285330323066
+1,disease_on_symptoms,23,18,0.3997584541062802
+2,disease_on_drugs,25,25,0.16000000000000014

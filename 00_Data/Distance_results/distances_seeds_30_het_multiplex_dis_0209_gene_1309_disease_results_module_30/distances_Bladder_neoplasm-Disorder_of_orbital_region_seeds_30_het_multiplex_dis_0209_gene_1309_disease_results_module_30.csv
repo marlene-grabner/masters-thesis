@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,30,-0.07023809523809521
+1,disease_on_symptoms,19,18,0.4611585269480005
+2,disease_on_drugs,25,28,0.2136118598382748

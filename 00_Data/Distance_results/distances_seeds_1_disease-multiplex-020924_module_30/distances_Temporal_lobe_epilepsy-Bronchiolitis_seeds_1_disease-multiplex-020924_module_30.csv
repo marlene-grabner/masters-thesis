@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,29,23,0.3648656441010263
+1,disease_on_symptoms,17,25,2.5774789915966387
+2,disease_on_drugs,26,18,1.1701631701631703

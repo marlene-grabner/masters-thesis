@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,23,26,0.40268582349327686
+1,disease_on_symptoms,20,17,-0.037042925278219396
+2,disease_on_drugs,19,18,0.5360360360360361

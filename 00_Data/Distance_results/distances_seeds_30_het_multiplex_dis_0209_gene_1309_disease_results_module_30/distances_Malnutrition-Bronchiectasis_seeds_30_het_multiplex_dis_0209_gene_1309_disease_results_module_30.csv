@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,14,19,0.12736386420596935
+2,disease_on_drugs,29,25,0.20247765006385676

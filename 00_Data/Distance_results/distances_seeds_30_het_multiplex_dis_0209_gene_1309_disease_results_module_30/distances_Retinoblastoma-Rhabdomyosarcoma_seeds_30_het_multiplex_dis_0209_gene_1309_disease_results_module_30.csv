@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.2033898305084746
+1,disease_on_symptoms,21,19,-0.25231829573934816
+2,disease_on_drugs,27,29,-0.10472541507024258

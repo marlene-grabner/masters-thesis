@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,22,22,0.5454545454545452
+1,disease_on_symptoms,24,21,3.374603174603175
+2,disease_on_drugs,13,6,0.7280701754385965

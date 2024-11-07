@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.27590311986863725
+1,disease_on_symptoms,16,20,-0.13541666666666674
+2,disease_on_drugs,30,28,-0.3086206896551724

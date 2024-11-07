@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,0.2867446393762183
+1,disease_on_symptoms,22,17,0.8165706842177429
+2,disease_on_drugs,24,26,1.3783333333333334

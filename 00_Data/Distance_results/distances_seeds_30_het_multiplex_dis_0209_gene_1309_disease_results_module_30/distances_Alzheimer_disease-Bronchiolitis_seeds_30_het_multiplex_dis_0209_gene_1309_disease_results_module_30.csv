@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,23,28,-0.11764705882352944
+1,disease_on_symptoms,19,25,0.7150239234449762
+2,disease_on_drugs,19,24,-0.1929824561403508

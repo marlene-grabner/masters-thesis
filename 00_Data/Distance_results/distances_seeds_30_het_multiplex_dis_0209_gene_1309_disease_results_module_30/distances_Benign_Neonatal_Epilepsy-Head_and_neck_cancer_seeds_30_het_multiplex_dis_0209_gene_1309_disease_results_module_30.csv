@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,0.1578947368421053
+1,disease_on_symptoms,16,22,1.4122308612440193
+2,disease_on_drugs,21,23,0.6836062488236399

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,29,28,0.3508663901132141
+1,disease_on_symptoms,17,19,2.1886824905400752
+2,disease_on_drugs,30,26,1.0714285714285716

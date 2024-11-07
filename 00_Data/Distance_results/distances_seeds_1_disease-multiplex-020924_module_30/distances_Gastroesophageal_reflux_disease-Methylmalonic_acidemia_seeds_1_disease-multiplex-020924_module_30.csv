@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,26,25,0.3898039215686273
+1,disease_on_symptoms,17,16,1.7618092691622103
+2,disease_on_drugs,25,17,0.8315406162464987

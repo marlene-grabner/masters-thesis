@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.03632478632478642
+1,disease_on_symptoms,25,18,1.042919896640827
+2,disease_on_drugs,25,27,0.15290598290598312

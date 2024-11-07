@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,16,0.6231617647058822
+2,disease_on_drugs,29,29,0.2068965517241379

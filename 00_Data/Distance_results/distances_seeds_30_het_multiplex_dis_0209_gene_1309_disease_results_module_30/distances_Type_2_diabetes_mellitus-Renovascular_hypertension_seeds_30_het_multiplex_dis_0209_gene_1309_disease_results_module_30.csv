@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,16,17,0.4466911764705883
+2,disease_on_drugs,27,29,-0.10103083378945454

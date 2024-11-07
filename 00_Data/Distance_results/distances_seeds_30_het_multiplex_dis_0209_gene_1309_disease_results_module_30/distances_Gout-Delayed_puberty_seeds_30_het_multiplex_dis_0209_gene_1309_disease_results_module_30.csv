@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,28,30,-0.035098522167487656
+1,disease_on_symptoms,19,16,0.24191729323308309
+2,disease_on_drugs,22,29,0.22690392771528667

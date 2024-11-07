@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,-0.05499999999999994
+1,disease_on_symptoms,13,24,0.2387820512820511
+2,disease_on_drugs,29,18,-0.0685579196217494

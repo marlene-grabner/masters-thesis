@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,27,-0.01925764661613716
+1,disease_on_symptoms,19,19,0.736842105263158
+2,disease_on_drugs,24,27,0.6262254901960782

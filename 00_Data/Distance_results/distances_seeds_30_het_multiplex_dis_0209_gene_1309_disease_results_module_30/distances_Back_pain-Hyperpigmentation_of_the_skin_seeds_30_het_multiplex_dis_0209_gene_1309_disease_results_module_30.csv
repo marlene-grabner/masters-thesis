@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,15,17,0.2628676470588234
+2,disease_on_drugs,23,28,0.11597247594690052

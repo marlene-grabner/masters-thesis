@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Psoriasis nodes,sAB
+0,disease_on_genes,25,28,0.3748517520215633
+1,disease_on_symptoms,13,21,1.0448179271708684
+2,disease_on_drugs,16,28,0.4330357142857144

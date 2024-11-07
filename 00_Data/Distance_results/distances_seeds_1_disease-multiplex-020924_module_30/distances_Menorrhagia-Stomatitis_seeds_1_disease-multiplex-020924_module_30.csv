@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Stomatitis nodes,sAB
+0,disease_on_genes,26,30,0.21373626373626364
+1,disease_on_symptoms,19,23,1.2255639097744362
+2,disease_on_drugs,24,30,0.7495370370370371

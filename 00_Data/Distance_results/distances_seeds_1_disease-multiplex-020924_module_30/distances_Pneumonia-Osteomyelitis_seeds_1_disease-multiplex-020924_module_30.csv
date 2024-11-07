@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,-0.6387878787878787
+1,disease_on_symptoms,26,23,-0.45776738789161153
+2,disease_on_drugs,28,23,-0.6513213981244672

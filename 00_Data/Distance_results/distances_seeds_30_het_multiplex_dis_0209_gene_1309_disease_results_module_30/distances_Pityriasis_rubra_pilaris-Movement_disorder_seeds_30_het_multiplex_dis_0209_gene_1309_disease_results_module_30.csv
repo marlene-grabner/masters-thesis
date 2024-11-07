@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.08879142300194942
+1,disease_on_symptoms,21,17,0.23323013415892646
+2,disease_on_drugs,25,26,-0.07431372549019621

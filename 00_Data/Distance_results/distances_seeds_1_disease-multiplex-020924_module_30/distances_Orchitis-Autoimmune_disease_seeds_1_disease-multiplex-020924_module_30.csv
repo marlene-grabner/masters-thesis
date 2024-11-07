@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,23,22,0.28686868686868694
+1,disease_on_symptoms,16,19,1.6332236842105263
+2,disease_on_drugs,17,19,0.5537495700034398

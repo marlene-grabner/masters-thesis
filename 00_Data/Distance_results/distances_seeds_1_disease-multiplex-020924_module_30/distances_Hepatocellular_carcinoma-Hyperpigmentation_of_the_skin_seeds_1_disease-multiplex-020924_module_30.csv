@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,23,24,0.19588344125809432
+1,disease_on_symptoms,19,23,1.4175656532635936
+2,disease_on_drugs,19,12,0.7419354838709677

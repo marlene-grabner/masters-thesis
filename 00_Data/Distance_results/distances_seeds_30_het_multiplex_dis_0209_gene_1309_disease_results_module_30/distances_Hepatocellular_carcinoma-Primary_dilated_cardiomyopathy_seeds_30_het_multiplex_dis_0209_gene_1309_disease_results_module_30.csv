@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,24,30,0.22222222222222232
+1,disease_on_symptoms,23,24,1.1922024360160348
+2,disease_on_drugs,22,15,0.09148239148239146

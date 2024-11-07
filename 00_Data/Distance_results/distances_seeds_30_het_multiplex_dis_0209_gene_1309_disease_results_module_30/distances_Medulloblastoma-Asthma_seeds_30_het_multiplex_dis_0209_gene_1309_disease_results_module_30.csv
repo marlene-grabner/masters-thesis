@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.03923076923076929
+1,disease_on_symptoms,22,20,0.8115800865800864
+2,disease_on_drugs,26,22,0.4211829836829837

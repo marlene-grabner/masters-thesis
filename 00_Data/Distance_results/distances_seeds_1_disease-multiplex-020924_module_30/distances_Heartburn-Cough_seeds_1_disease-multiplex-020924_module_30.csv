@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Cough nodes,sAB
+0,disease_on_genes,24,27,-0.1619008714596949
+1,disease_on_symptoms,20,21,1.2733739837398375
+2,disease_on_drugs,22,27,0.20554181268466998

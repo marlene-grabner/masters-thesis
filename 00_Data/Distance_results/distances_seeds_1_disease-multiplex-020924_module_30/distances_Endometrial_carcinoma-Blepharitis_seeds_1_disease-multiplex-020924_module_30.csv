@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,23,20,0.35164307381193116
+1,disease_on_symptoms,21,27,1.7086640211640214
+2,disease_on_drugs,21,19,0.5509398496240603

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,21,22,-0.023255813953488413
+1,disease_on_symptoms,24,24,0.3125
+2,disease_on_drugs,20,19,0.12614709851551953

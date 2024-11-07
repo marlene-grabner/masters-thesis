@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,14,17,-0.001829764163730374
+2,disease_on_drugs,26,17,-0.1100705040513521

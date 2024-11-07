@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,22,26,0.1499493414387032
+1,disease_on_symptoms,26,15,0.7694183864915574
+2,disease_on_drugs,12,15,0.6370370370370371

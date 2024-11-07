@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.22660650806672122
+1,disease_on_symptoms,14,20,0.47626050420168053
+2,disease_on_drugs,26,20,0.5619565217391305

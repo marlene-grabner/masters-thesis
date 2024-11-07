@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,26,0.059893522626441875
+1,disease_on_symptoms,19,18,1.509522680575312
+2,disease_on_drugs,22,26,-0.018793706293706247

@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.3830199430199428
+1,disease_on_symptoms,21,23,2.171419160549595
+2,disease_on_drugs,24,21,1.24265873015873

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,23,0.03883509925709405
+1,disease_on_symptoms,20,19,1.238259109311741
+2,disease_on_drugs,27,22,0.22655122655122661

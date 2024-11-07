@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,25,0.4093137254901962
+1,disease_on_symptoms,23,20,1.5683013144590496
+2,disease_on_drugs,20,21,0.8304297328687571

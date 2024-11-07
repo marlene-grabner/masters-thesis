@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.34600389863547765
+1,disease_on_symptoms,7,19,0.6544245228455754
+2,disease_on_drugs,22,26,0.6152389277389276

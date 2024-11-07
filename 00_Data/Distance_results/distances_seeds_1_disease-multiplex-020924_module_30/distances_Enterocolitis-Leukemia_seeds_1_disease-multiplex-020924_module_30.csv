@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.20370370370370372
+1,disease_on_symptoms,21,27,0.9361772486772488
+2,disease_on_drugs,24,17,0.256785031085605

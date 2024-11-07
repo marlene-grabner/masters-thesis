@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,-0.052631578947368474
+1,disease_on_symptoms,20,25,0.5816666666666666
+2,disease_on_drugs,25,21,0.0753209109730848

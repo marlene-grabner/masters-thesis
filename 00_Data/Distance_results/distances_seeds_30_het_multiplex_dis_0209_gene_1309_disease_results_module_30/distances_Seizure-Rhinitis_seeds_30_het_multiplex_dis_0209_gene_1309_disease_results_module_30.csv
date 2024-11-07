@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,21,12,0.5735930735930737
+2,disease_on_drugs,29,23,0.25962980048437334

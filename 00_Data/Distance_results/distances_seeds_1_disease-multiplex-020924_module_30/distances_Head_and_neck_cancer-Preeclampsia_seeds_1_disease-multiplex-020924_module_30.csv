@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,26,0.1890286512928021
+1,disease_on_symptoms,22,17,1.7509598244892364
+2,disease_on_drugs,24,23,0.91531760715387

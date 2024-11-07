@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,0.0535714285714286
+1,disease_on_symptoms,21,16,0.304697554697555
+2,disease_on_drugs,26,30,0.36913919413919416

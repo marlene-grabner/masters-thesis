@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,21,25,0.1753209109730849
+1,disease_on_symptoms,20,25,1.5055555555555555
+2,disease_on_drugs,19,23,1.1708074534161492

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Encephalitis nodes,sAB
+0,disease_on_genes,22,28,0.5415584415584416
+1,disease_on_symptoms,23,17,1.328388746803069
+2,disease_on_drugs,20,18,1.1078947368421053

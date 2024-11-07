@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,25,-0.07272727272727275
+1,disease_on_symptoms,12,22,0.03654188948306558
+2,disease_on_drugs,28,25,-0.11280323450134766

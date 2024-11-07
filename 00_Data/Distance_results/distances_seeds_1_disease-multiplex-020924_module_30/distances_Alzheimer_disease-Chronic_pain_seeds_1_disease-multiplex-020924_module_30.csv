@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,20,30,0.0950000000000002
+1,disease_on_symptoms,23,22,0.8042819499341238
+2,disease_on_drugs,18,28,0.06909937888198758

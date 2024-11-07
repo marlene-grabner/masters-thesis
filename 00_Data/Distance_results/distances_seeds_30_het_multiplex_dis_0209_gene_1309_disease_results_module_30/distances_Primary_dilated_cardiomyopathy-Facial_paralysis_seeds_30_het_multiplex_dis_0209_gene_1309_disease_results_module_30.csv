@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.40384615384615374
+1,disease_on_symptoms,24,21,0.6771825396825395
+2,disease_on_drugs,15,17,0.5964460784313725

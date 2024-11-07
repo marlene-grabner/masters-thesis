@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Emphysema nodes,sAB
+0,disease_on_genes,26,30,-0.1607142857142857
+1,disease_on_symptoms,21,18,0.2197802197802199
+2,disease_on_drugs,25,27,-0.037863247863247906

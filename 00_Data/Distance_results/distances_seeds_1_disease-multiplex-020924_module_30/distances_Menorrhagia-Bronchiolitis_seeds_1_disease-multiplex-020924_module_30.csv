@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.32873182717903227
+1,disease_on_symptoms,19,25,1.6120574162679429
+2,disease_on_drugs,24,18,0.6815476190476191

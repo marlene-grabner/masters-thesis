@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.2500000000000001
+1,disease_on_symptoms,18,19,0.2732337600758652
+2,disease_on_drugs,30,27,-0.19376218323586736

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,13,28,0.0017756633610290784
+1,disease_on_symptoms,26,19,0.271097615834458
+2,disease_on_drugs,9,26,0.23949938949938931

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.1428571428571428
+1,disease_on_symptoms,19,13,1.333502024291498
+2,disease_on_drugs,25,19,0.7583732057416268

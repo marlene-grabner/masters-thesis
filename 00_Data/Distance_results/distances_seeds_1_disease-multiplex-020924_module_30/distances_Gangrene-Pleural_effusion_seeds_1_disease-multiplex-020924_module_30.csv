@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.1797619047619048
+1,disease_on_symptoms,19,20,0.6913967611336034
+2,disease_on_drugs,23,22,0.48937198067632837

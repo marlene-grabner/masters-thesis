@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,28,30,-0.2235632183908045
+1,disease_on_symptoms,17,20,0.0747615262321144
+2,disease_on_drugs,25,28,-0.22524258760107818

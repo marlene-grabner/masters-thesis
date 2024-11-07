@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,18,15,0.8520202020202021
+2,disease_on_drugs,24,30,0.013425925925925952

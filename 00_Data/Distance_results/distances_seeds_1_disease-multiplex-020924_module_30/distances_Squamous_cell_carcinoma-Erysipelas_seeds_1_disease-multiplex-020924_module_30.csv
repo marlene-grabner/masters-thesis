@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,16,28,0.293831168831169
+1,disease_on_symptoms,26,20,2.088963210702341
+2,disease_on_drugs,14,27,0.5365853658536586

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,0.631578947368421
+1,disease_on_symptoms,17,25,2.275966386554622
+2,disease_on_drugs,25,7,1.6160714285714286

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.5859538784067087
+1,disease_on_symptoms,17,15,0.8764705882352941
+2,disease_on_drugs,24,15,0.7794871794871796

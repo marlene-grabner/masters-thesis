@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,21,25,0.5883643892339545
+1,disease_on_symptoms,20,20,2.675
+2,disease_on_drugs,19,14,0.6201298701298701

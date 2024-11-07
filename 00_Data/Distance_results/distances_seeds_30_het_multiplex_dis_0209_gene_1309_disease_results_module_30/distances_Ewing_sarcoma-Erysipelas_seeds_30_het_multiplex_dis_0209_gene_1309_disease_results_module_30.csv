@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,18,0.25896358543417364
+2,disease_on_drugs,24,29,0.13688733463456937

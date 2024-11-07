@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Endometriosis nodes,sAB
+0,disease_on_genes,30,30,0.7833333333333334
+1,disease_on_symptoms,9,12,0.4920634920634921
+2,disease_on_drugs,11,27,0.8492822966507176

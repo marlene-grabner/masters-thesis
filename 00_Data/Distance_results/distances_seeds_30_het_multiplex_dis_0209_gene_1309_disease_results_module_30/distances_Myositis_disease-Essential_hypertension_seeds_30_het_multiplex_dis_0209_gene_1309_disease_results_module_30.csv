@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.12011494252873556
+1,disease_on_symptoms,18,13,0.5823683484973807
+2,disease_on_drugs,26,28,-0.13634513634513623

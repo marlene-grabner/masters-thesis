@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.22360426929392452
+1,disease_on_symptoms,19,15,-0.21682146542827652
+2,disease_on_drugs,24,23,-0.1490518038852915

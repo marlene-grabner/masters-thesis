@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.08493589743589758
+1,disease_on_symptoms,23,24,0.8505049337033612
+2,disease_on_drugs,25,19,0.07655502392344515

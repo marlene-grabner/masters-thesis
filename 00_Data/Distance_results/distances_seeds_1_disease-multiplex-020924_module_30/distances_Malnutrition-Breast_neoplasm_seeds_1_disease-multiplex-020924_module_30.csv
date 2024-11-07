@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.15796703296703307
+1,disease_on_symptoms,18,16,1.5847630718954249
+2,disease_on_drugs,23,30,1.018867924528302

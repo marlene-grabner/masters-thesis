@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.309113300492611
+1,disease_on_symptoms,12,20,0.2958333333333334
+2,disease_on_drugs,27,27,0.9259259259259258

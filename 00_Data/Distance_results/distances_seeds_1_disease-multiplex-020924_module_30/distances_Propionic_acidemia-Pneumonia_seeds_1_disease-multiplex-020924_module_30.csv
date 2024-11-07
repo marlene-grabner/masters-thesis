@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Pneumonia nodes,sAB
+0,disease_on_genes,22,30,0.21666666666666679
+1,disease_on_symptoms,17,26,1.709802167736504
+2,disease_on_drugs,21,28,0.8673469387755102

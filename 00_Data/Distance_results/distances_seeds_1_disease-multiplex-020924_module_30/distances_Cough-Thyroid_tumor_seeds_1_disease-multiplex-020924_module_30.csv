@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.2362640901771338
+1,disease_on_symptoms,21,20,1.0282520325203253
+2,disease_on_drugs,27,20,0.8741331757289204

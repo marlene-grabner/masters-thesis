@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,-0.05272904483430807
+1,disease_on_symptoms,21,22,0.3478556327393534
+2,disease_on_drugs,27,27,0.0

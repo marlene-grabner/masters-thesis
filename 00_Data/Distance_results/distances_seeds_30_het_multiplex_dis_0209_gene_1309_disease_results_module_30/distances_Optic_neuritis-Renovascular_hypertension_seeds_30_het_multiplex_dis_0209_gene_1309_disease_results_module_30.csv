@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,21,17,0.969482529854047
+2,disease_on_drugs,27,29,-0.06597792373654454

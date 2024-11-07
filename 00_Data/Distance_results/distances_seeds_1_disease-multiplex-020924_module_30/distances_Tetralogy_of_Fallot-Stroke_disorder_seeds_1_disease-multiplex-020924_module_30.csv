@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,14,15,0.8702791461412152
+2,disease_on_drugs,11,30,0.024390243902439046

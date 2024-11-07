@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,25,29,0.14814814814814814
+1,disease_on_symptoms,21,11,1.479978354978355
+2,disease_on_drugs,21,24,0.20039682539682535

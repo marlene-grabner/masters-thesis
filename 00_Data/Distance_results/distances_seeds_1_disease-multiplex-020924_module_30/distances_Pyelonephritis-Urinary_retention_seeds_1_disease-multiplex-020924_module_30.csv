@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,23,30,0.3802998500749626
+1,disease_on_symptoms,21,18,1.4380341880341883
+2,disease_on_drugs,19,19,0.5

@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,0.2639376218323588
+1,disease_on_symptoms,23,14,0.8964243746852443
+2,disease_on_drugs,15,24,0.1333333333333333

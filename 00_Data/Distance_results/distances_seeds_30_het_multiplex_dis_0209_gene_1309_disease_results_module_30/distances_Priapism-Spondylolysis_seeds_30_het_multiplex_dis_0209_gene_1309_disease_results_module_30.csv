@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,12,17,0.06102096010818103
+2,disease_on_drugs,28,19,0.032834746440569385

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,23,30,0.18092698933552076
+1,disease_on_symptoms,20,15,0.8952380952380954
+2,disease_on_drugs,19,23,1.1449275362318838

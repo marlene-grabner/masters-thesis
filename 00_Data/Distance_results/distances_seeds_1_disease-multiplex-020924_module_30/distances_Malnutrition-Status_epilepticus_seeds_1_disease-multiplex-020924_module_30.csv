@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,29,0.017024354955389454
+1,disease_on_symptoms,18,17,0.7710550887021475
+2,disease_on_drugs,23,30,0.16981132075471694

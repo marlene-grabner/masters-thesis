@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,0.12631578947368416
+1,disease_on_symptoms,24,14,0.24655388471177941
+2,disease_on_drugs,25,30,0.5430303030303032

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,22,30,-0.11025641025641009
+1,disease_on_symptoms,21,19,0.4870300751879697
+2,disease_on_drugs,21,24,-0.08531746031746024

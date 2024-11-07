@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,18,23,0.5256863438199597
+1,disease_on_symptoms,21,25,0.6543271221532092
+2,disease_on_drugs,6,18,0.875

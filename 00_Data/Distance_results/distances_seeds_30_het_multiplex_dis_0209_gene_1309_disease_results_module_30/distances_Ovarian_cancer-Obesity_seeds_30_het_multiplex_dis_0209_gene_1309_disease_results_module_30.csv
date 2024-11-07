@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Obesity nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111116
+1,disease_on_symptoms,17,18,1.0901027077497667
+2,disease_on_drugs,17,25,0.2515406162464986

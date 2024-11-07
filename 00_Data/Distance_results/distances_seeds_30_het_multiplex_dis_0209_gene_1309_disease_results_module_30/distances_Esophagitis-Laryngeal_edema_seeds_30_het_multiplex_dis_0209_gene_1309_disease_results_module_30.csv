@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333346
+1,disease_on_symptoms,20,16,-0.34097222222222223
+2,disease_on_drugs,30,28,-0.06982758620689666

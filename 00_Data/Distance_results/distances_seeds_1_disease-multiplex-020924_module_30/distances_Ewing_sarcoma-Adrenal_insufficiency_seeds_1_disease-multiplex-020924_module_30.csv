@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,24,17,0.4396520803443329
+1,disease_on_symptoms,25,21,1.5111801242236025
+2,disease_on_drugs,17,14,0.903225806451613

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.016569200779727122
+1,disease_on_symptoms,18,19,0.42666350561087385
+2,disease_on_drugs,30,24,0.25324074074074066

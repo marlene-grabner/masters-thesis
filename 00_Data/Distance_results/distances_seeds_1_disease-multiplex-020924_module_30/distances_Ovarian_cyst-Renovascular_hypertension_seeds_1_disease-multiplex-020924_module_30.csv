@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,20,21,0.26762485481997667
+1,disease_on_symptoms,22,22,1.0454545454545454
+2,disease_on_drugs,15,20,0.7464285714285714

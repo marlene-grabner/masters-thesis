@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,23,26,-0.12244897959183676
+1,disease_on_symptoms,23,19,0.6647052413642802
+2,disease_on_drugs,22,25,0.16731141199226318

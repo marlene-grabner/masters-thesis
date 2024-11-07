@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,0.2883475783475782
+1,disease_on_symptoms,20,16,0.3062499999999999
+2,disease_on_drugs,14,27,-0.022228674667698956

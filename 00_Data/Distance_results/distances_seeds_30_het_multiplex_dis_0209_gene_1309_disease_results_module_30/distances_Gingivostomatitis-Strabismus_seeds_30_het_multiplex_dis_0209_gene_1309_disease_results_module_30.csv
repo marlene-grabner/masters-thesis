@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.032937004589069785
+1,disease_on_symptoms,15,24,0.3676282051282054
+2,disease_on_drugs,30,16,0.4241847826086955

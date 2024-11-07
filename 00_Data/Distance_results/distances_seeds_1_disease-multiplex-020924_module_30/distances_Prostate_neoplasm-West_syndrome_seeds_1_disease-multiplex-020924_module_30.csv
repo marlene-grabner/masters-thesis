@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,West_syndrome nodes,sAB
+0,disease_on_genes,17,29,0.5562659846547315
+1,disease_on_symptoms,21,18,2.3235653235653233
+2,disease_on_drugs,17,22,1.1719457013574661

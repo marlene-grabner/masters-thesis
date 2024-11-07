@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,27,0.24074074074074048
+1,disease_on_symptoms,19,17,0.6598727210182318
+2,disease_on_drugs,27,26,0.8671988388969523

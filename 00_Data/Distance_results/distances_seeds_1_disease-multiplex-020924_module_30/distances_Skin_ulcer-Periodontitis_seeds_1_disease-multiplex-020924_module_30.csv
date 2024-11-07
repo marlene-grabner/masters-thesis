@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.15773858353841952
+1,disease_on_symptoms,19,25,1.3535406698564594
+2,disease_on_drugs,22,22,0.9318181818181817

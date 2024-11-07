@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,28,30,0.08559113300492616
+1,disease_on_symptoms,19,16,0.5445958646616544
+2,disease_on_drugs,22,21,0.18916742172556122

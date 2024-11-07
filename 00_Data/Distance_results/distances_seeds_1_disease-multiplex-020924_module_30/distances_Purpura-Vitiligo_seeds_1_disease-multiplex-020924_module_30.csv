@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.2731410256410256
+1,disease_on_symptoms,17,22,2.9074797751268338
+2,disease_on_drugs,20,11,0.4516129032258065

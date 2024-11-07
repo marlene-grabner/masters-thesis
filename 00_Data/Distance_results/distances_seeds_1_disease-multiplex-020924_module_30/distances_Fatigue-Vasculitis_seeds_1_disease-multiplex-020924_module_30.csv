@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.10070512820512811
+1,disease_on_symptoms,21,19,0.6676691729323307
+2,disease_on_drugs,26,20,0.17240802675585276

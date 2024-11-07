@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,26,20,0.11295986622073562
+1,disease_on_symptoms,17,23,1.7288363171355499
+2,disease_on_drugs,20,18,0.3157894736842106

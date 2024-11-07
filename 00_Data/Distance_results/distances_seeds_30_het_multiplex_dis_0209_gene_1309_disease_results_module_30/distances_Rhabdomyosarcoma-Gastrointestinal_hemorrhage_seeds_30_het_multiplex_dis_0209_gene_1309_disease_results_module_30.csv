@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,29,28,-0.1757518796992481
+1,disease_on_symptoms,19,20,-0.04581646423751673
+2,disease_on_drugs,29,27,0.03482484948002185

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,18,28,0.33531746031746024
+1,disease_on_symptoms,21,19,0.6942355889724312
+2,disease_on_drugs,6,26,0.4391025641025641

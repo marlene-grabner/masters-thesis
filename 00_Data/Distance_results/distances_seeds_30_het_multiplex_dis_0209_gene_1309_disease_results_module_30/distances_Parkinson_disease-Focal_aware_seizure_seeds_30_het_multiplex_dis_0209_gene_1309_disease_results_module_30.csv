@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,-0.32692307692307687
+1,disease_on_symptoms,23,16,0.10890468227424743
+2,disease_on_drugs,22,29,-0.34734771651607355

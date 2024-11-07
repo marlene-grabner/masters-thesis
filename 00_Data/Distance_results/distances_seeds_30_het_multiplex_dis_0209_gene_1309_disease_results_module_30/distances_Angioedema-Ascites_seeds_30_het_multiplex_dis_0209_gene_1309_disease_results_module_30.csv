@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,18,22,-0.28080808080808084
+2,disease_on_drugs,26,27,-0.16919314089125415

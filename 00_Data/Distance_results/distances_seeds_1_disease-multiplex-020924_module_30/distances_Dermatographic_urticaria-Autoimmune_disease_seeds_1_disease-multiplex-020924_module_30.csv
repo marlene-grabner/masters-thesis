@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,22,-0.05169340463458094
+1,disease_on_symptoms,14,19,1.5730234677603097
+2,disease_on_drugs,28,19,0.08006718924972023

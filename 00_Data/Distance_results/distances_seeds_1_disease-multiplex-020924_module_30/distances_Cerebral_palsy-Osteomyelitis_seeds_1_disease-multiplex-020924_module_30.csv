@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,25,0.4264672364672364
+1,disease_on_symptoms,16,23,2.2298634336677816
+2,disease_on_drugs,18,23,0.8589607635206786

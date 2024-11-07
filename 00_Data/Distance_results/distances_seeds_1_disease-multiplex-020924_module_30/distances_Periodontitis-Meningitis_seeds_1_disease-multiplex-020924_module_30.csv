@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,23,29,-0.21309537538922851
+1,disease_on_symptoms,25,20,0.49611111111111095
+2,disease_on_drugs,22,26,-0.19318181818181834

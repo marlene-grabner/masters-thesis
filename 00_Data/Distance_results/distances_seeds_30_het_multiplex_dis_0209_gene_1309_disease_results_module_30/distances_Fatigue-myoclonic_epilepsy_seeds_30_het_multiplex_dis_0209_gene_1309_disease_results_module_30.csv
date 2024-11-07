@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,26,30,-0.1826923076923077
+1,disease_on_symptoms,16,16,0.40625
+2,disease_on_drugs,26,25,-0.17425339366515846

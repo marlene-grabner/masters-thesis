@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.0006978653530378409
+1,disease_on_symptoms,16,14,1.4699404761904762
+2,disease_on_drugs,30,28,0.1711822660098523

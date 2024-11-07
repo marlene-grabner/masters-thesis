@@ -1,0 +1,4 @@
+,Layer,Pericarditis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.06382978723404253
+1,disease_on_symptoms,21,23,0.7891022021456806
+2,disease_on_drugs,26,21,0.04830098979035147

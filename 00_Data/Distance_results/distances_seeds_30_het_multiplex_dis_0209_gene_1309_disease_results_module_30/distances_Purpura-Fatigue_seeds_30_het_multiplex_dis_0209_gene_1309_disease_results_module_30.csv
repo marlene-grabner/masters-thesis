@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Fatigue nodes,sAB
+0,disease_on_genes,27,26,-0.15168252432403362
+1,disease_on_symptoms,17,16,0.6477272727272729
+2,disease_on_drugs,24,26,0.019423076923076765

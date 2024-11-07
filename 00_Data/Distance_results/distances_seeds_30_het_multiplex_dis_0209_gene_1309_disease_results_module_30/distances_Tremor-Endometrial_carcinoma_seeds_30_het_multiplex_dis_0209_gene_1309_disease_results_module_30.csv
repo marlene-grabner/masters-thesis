@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,27,26,-0.1132075471698113
+1,disease_on_symptoms,17,21,1.1486805248415153
+2,disease_on_drugs,24,26,0.3221794871794872

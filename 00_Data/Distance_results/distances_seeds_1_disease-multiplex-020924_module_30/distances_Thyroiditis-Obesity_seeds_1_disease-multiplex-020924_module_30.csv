@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Obesity nodes,sAB
+0,disease_on_genes,26,26,-0.05769230769230771
+1,disease_on_symptoms,28,20,0.4125000000000001
+2,disease_on_drugs,23,27,0.38122383252818026

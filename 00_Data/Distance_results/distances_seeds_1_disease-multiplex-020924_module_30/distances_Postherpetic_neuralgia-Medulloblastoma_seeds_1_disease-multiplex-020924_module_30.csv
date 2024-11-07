@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,26,0.1797619047619048
+1,disease_on_symptoms,15,19,1.288028895768834
+2,disease_on_drugs,29,24,0.8487177401865105

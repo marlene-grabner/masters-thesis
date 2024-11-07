@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,26,27,-0.15130624092888234
+1,disease_on_symptoms,20,21,0.4361788617886182
+2,disease_on_drugs,20,26,-0.09531772575250819

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,26,0.1346153846153848
+1,disease_on_symptoms,18,20,1.086988304093567
+2,disease_on_drugs,23,20,0.5813953488372092

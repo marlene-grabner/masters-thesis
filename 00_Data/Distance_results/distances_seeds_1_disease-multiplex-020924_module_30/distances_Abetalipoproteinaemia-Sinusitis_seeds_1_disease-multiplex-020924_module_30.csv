@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Sinusitis nodes,sAB
+0,disease_on_genes,17,29,0.5492988799717786
+1,disease_on_symptoms,25,21,0.982774327122153
+2,disease_on_drugs,13,28,0.9323572768694719

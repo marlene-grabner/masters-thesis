@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,16,17,0.14884135472370774
+2,disease_on_drugs,29,27,-0.12347199416164933

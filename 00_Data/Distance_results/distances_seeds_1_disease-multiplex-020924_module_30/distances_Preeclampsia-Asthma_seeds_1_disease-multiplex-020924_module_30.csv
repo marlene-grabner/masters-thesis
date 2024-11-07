@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,0.07803921568627459
+1,disease_on_symptoms,17,19,2.2520639834881324
+2,disease_on_drugs,23,24,0.2131899475794019

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.1385467980295566
+1,disease_on_symptoms,14,20,0.25168067226890756
+2,disease_on_drugs,29,27,-0.01751505199781067

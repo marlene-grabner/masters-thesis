@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,25,25,0.16282312925170084
+1,disease_on_symptoms,20,20,1.475
+2,disease_on_drugs,21,21,0.023809523809523725

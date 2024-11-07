@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,30,-0.41666666666666663
+1,disease_on_symptoms,20,19,-0.9223684210526315
+2,disease_on_drugs,27,30,-0.42115009746588694

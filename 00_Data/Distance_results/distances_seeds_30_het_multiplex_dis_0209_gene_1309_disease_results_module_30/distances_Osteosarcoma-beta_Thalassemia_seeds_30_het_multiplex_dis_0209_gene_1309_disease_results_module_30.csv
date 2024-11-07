@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,22,13,0.0360639360639361
+2,disease_on_drugs,29,24,-0.2210339405768813

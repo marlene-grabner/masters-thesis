@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666679
+1,disease_on_symptoms,17,18,-0.35018674136321204
+2,disease_on_drugs,26,22,-0.365530303030303

@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.35622443015780236
+1,disease_on_symptoms,16,13,0.006216843501326119
+2,disease_on_drugs,27,28,-0.16267436267436253

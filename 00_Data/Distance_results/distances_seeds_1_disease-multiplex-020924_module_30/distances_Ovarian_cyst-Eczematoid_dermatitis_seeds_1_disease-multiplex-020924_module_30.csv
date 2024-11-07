@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,20,28,0.46964285714285703
+1,disease_on_symptoms,22,24,1.155961791831357
+2,disease_on_drugs,15,28,0.6782392026578072

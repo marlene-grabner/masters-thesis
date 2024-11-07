@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.2678571428571428
+1,disease_on_symptoms,18,20,1.1826023391812863
+2,disease_on_drugs,22,27,0.7557032914175772

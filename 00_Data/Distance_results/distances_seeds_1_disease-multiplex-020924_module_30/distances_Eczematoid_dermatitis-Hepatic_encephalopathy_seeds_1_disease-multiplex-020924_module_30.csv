@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,28,9,-0.24158086658086675
+1,disease_on_symptoms,24,27,1.5776143790849675
+2,disease_on_drugs,28,9,0.15347490347490367

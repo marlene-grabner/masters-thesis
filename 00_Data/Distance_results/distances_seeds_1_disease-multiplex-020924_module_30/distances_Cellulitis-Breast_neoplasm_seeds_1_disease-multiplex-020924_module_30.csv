@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,22,30,0.3389355742296918
+1,disease_on_symptoms,26,16,0.903731684981685
+2,disease_on_drugs,12,30,1.8095238095238093

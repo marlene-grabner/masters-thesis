@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Asthma nodes,sAB
+0,disease_on_genes,24,25,0.17940476190476207
+1,disease_on_symptoms,22,19,1.8484945734624811
+2,disease_on_drugs,11,24,0.27261904761904776

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,22,30,0.40372960372960387
+1,disease_on_symptoms,22,16,1.392194976076555
+2,disease_on_drugs,14,23,0.5843965083095519

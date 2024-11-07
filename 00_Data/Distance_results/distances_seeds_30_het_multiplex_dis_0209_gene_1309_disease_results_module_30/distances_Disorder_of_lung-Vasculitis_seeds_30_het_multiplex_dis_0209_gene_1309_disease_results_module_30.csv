@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,26,0.05660377358490565
+1,disease_on_symptoms,18,18,1.6666666666666665
+2,disease_on_drugs,24,26,0.12211538461538463

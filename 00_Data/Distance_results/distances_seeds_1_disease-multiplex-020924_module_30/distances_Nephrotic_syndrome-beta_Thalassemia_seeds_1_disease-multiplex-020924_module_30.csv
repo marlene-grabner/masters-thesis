@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,20,22,0.5020562770562771
+1,disease_on_symptoms,24,21,2.953769841269841
+2,disease_on_drugs,18,6,0.6527777777777779

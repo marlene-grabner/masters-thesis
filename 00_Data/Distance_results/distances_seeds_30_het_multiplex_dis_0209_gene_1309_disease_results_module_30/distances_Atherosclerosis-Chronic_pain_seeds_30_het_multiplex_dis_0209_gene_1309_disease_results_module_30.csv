@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666666
+1,disease_on_symptoms,14,19,0.03429027113237648
+2,disease_on_drugs,29,28,-0.280723360124449

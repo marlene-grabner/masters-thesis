@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,24,27,-0.16421568627450978
+1,disease_on_symptoms,21,17,0.47670647206250916
+2,disease_on_drugs,18,26,-0.15714840714840717

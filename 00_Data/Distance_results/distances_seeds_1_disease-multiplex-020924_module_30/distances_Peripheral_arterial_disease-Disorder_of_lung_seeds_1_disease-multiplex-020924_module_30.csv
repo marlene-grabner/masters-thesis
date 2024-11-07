@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,25,27,0.26840455840455824
+1,disease_on_symptoms,14,17,1.7433586337760913
+2,disease_on_drugs,22,20,0.5

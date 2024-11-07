@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.018181818181818077
+1,disease_on_symptoms,17,21,1.0881615804216427
+2,disease_on_drugs,26,21,0.04216351024861664

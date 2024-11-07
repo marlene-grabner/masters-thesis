@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.28505291005291
+1,disease_on_symptoms,12,23,1.3123188405797104
+2,disease_on_drugs,30,15,0.5388888888888888

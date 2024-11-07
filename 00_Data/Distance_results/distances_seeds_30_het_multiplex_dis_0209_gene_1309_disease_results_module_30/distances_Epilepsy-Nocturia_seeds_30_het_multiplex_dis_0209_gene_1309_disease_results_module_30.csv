@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.18333333333333324
+1,disease_on_symptoms,21,18,0.1416361416361418
+2,disease_on_drugs,29,24,-0.1318043808284537

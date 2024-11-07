@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.19017361948396427
+1,disease_on_symptoms,16,21,1.6581805019305018
+2,disease_on_drugs,23,25,0.9382608695652173

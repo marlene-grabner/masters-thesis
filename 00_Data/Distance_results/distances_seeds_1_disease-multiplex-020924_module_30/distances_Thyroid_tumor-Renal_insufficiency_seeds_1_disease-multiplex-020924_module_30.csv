@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,23,20,0.15687563195146614
+1,disease_on_symptoms,20,23,0.9968907987866533
+2,disease_on_drugs,20,17,0.8796104928457869

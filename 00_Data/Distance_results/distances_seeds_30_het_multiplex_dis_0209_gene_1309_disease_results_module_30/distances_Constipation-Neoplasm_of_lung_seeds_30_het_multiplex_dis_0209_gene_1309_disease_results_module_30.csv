@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,16,19,0.4917763157894737
+2,disease_on_drugs,28,30,0.25607553366174063

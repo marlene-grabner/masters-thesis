@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,25,26,-0.41294117647058826
+1,disease_on_symptoms,24,19,-0.3048245614035088
+2,disease_on_drugs,20,22,-0.47077922077922085

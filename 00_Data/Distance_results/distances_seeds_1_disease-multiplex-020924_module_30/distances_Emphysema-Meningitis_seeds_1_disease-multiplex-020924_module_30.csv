@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.1858464835378919
+1,disease_on_symptoms,14,20,0.5497899159663864
+2,disease_on_drugs,29,26,0.36363636363636354

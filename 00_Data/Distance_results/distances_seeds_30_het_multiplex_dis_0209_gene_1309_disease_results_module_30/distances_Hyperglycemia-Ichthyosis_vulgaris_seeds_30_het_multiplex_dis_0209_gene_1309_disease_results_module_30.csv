@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.016666666666666607
+1,disease_on_symptoms,17,21,1.360607400855079
+2,disease_on_drugs,26,24,0.022115384615384537

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,25,0.14666666666666672
+1,disease_on_symptoms,16,24,1.2729166666666667
+2,disease_on_drugs,30,23,0.5471698113207548

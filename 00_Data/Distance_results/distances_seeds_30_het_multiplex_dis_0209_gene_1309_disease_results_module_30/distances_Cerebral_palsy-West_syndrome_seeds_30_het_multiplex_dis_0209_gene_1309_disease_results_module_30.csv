@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,13,13,-0.4230769230769229
+2,disease_on_drugs,21,19,-0.32073934837092744

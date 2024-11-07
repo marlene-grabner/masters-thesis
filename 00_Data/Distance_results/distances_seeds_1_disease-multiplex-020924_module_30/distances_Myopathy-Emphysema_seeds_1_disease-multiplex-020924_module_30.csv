@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Emphysema nodes,sAB
+0,disease_on_genes,18,30,0.538888888888889
+1,disease_on_symptoms,21,14,0.9119047619047618
+2,disease_on_drugs,6,29,0.5761904761904764

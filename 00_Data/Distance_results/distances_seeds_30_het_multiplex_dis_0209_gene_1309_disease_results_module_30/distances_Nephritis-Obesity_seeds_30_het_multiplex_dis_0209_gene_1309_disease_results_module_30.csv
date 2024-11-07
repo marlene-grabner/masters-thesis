@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.17836257309941528
+1,disease_on_symptoms,17,18,0.48926237161531283
+2,disease_on_drugs,25,25,-0.06000000000000005

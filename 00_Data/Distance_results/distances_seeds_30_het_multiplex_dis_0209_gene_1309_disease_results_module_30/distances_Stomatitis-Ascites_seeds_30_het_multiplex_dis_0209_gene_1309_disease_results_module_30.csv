@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,19,22,0.21697397595985546
+2,disease_on_drugs,29,27,0.05382229520160564

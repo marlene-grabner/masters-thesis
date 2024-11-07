@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,28,30,0.2229064039408868
+1,disease_on_symptoms,15,13,1.5014652014652015
+2,disease_on_drugs,21,23,0.0029644268774704496

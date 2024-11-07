@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,2.220446049250313e-16
+1,disease_on_symptoms,12,22,0.45766488413547224
+2,disease_on_drugs,28,29,0.05226428139313821

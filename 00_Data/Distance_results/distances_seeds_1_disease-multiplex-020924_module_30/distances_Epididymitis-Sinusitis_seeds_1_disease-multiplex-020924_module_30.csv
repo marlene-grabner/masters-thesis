@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,29,29,-0.6034482758620692
+1,disease_on_symptoms,23,21,-0.9515339732731037
+2,disease_on_drugs,27,28,-0.7451539201539201

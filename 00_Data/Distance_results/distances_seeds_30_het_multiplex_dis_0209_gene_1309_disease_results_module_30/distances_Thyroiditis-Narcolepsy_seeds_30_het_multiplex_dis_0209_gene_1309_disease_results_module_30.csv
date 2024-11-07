@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.10909090909090913
+1,disease_on_symptoms,21,20,0.7381823461091752
+2,disease_on_drugs,29,21,-0.12935960591133

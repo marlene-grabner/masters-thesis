@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,-0.31166666666666665
+1,disease_on_symptoms,26,20,0.24707357859531776
+2,disease_on_drugs,24,20,-0.26742424242424245

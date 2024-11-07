@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.033753501400560104
+1,disease_on_symptoms,15,22,0.9126945126945125
+2,disease_on_drugs,26,20,0.07566889632107032

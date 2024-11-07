@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.07614164615805308
+1,disease_on_symptoms,19,19,0.9473684210526319
+2,disease_on_drugs,29,21,0.124663382594417

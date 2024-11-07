@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.4273809523809523
+1,disease_on_symptoms,15,21,-0.6936507936507936
+2,disease_on_drugs,25,26,-0.5487179487179489

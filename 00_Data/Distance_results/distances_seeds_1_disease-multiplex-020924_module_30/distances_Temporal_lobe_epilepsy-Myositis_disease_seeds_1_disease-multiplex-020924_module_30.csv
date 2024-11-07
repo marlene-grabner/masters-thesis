@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,29,30,0.0847360218195985
+1,disease_on_symptoms,17,24,0.7207077953132472
+2,disease_on_drugs,26,28,0.22481684981684968

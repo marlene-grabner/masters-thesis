@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,10,0.5745745745745747
+1,disease_on_symptoms,19,27,1.7234087634545299
+2,disease_on_drugs,20,9,0.5267241379310346

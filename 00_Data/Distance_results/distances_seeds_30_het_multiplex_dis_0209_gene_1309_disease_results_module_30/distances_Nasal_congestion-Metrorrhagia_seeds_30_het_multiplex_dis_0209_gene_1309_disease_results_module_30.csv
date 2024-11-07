@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.14035087719298245
+1,disease_on_symptoms,14,17,-0.09860395771211738
+2,disease_on_drugs,25,26,-0.0789291101055809

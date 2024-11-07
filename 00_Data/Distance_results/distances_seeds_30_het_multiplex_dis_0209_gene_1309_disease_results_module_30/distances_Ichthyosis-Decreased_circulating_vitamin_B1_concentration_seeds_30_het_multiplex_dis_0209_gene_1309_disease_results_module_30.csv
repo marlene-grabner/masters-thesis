@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,28,30,0.03386699507389168
+1,disease_on_symptoms,18,17,0.40508870214752557
+2,disease_on_drugs,25,25,0.2599999999999998

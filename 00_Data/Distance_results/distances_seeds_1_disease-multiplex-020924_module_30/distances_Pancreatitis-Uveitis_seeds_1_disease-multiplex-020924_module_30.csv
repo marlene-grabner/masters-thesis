@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.24999999999999978
+1,disease_on_symptoms,20,21,1.1443379790940766
+2,disease_on_drugs,30,27,0.43762183235867447

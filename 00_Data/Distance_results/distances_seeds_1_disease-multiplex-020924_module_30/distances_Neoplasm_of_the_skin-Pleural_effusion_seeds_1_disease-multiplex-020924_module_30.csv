@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_skin nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,0.08431855500820995
+1,disease_on_symptoms,21,20,0.29712543554006987
+2,disease_on_drugs,24,22,0.326086956521739

@@ -1,0 +1,4 @@
+,Layer,Hyperpigmentation_of_the_skin nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.053732567678424825
+1,disease_on_symptoms,17,19,0.9417784657722736
+2,disease_on_drugs,28,22,0.15051948051948028

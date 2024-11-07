@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,25,0.2085579514824798
+1,disease_on_symptoms,19,22,1.0768467732524214
+2,disease_on_drugs,26,25,0.35254901960784313

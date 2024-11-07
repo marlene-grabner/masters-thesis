@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Exanthem nodes,sAB
+0,disease_on_genes,28,30,-0.06839080459770108
+1,disease_on_symptoms,17,21,-0.0922895473979064
+2,disease_on_drugs,25,29,-0.06337164750957847

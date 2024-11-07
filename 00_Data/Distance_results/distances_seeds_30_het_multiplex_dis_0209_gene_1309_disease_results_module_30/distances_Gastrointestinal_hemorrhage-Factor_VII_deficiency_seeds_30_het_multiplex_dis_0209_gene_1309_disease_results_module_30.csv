@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,28,28,-0.2500000000000001
+1,disease_on_symptoms,20,19,0.13029689608636974
+2,disease_on_drugs,27,25,-0.055726495726495795

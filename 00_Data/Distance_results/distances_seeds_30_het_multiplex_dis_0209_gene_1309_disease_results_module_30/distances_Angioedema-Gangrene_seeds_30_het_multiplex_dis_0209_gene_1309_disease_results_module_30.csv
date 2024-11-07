@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,18,22,-0.0012626262626262985
+2,disease_on_drugs,26,27,0.00026877385367929385

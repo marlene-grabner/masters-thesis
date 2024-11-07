@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.17356321839080469
+1,disease_on_symptoms,17,26,1.2459223403135853
+2,disease_on_drugs,28,28,0.14285714285714257

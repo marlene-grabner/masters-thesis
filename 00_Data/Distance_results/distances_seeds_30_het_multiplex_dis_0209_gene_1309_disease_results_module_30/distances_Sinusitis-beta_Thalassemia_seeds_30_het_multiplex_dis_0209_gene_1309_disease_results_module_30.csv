@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,29,30,0.06779661016949157
+1,disease_on_symptoms,20,13,0.6632284382284381
+2,disease_on_drugs,27,24,0.3046023965141613

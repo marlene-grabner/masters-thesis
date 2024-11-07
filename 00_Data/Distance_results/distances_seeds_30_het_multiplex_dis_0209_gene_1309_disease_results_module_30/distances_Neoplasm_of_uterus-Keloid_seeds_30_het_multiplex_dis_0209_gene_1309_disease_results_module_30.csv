@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.1132075471698113
+1,disease_on_symptoms,18,17,0.48762838468720826
+2,disease_on_drugs,26,22,-0.09804778554778548

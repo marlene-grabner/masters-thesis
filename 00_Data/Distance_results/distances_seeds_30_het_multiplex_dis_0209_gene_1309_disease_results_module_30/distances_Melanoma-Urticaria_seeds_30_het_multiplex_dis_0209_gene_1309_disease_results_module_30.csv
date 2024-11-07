@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,24,-0.09694989106753826
+1,disease_on_symptoms,23,21,0.7403067946546207
+2,disease_on_drugs,25,24,0.10154761904761922

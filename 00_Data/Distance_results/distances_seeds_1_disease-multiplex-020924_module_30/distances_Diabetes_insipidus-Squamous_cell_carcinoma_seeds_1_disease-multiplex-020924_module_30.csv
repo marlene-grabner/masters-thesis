@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,24,16,0.4791666666666665
+1,disease_on_symptoms,18,26,1.8618881118881117
+2,disease_on_drugs,18,14,1.3125

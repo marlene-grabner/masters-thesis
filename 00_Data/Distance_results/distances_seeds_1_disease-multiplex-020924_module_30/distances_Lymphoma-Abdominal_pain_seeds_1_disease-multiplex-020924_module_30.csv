@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,0.126007326007326
+1,disease_on_symptoms,21,24,1.3982142857142854
+2,disease_on_drugs,25,24,0.7550680272108845

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,25,28,-0.1121967654986522
+1,disease_on_symptoms,19,18,0.37415046625572956
+2,disease_on_drugs,23,25,-0.16688405797101435

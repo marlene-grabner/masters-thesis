@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.040000000000000036
+1,disease_on_symptoms,20,23,1.1785389282103136
+2,disease_on_drugs,28,21,0.2304421768707483

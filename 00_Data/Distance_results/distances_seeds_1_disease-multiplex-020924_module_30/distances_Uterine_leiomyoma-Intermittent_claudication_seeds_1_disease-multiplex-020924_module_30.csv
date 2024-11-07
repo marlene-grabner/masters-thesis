@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,20,0.4363636363636365
+1,disease_on_symptoms,21,24,1.463690476190476
+2,disease_on_drugs,18,18,0.6944444444444444

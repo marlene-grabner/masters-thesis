@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,25,28,-0.13207547169811318
+1,disease_on_symptoms,22,18,-0.31868686868686846
+2,disease_on_drugs,25,27,-0.09786324786324774

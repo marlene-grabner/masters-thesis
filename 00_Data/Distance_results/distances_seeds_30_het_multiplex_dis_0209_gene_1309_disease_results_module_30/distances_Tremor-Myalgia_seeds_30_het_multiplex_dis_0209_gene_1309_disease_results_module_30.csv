@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,17,16,0.7497214795008915
+2,disease_on_drugs,24,29,0.07967360659292999

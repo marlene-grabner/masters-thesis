@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.15378917378917367
+1,disease_on_symptoms,22,19,1.342951336211927
+2,disease_on_drugs,24,24,0.875

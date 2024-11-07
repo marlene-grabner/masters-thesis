@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,24,30,0.008796296296296191
+1,disease_on_symptoms,20,16,0.90625
+2,disease_on_drugs,22,30,0.6580419580419581

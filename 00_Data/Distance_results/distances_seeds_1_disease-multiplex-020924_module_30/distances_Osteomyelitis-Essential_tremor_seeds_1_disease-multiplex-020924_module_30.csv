@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,25,21,0.3095652173913044
+1,disease_on_symptoms,23,20,1.7567492416582406
+2,disease_on_drugs,23,19,0.7873488067996077

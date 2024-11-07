@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,17,14,-0.4828544320954189
+2,disease_on_drugs,26,25,-0.3315686274509806

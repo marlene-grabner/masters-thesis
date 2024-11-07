@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,24,27,0.11247276688453134
+1,disease_on_symptoms,26,16,0.8297847985347988
+2,disease_on_drugs,15,27,0.22486772486772466

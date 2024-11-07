@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,-0.21159544159544175
+1,disease_on_symptoms,23,19,0.18066906396425852
+2,disease_on_drugs,24,24,-0.125

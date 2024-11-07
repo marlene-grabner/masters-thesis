@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,20,14,-0.27184873949579824
+2,disease_on_drugs,25,25,-0.10000000000000009

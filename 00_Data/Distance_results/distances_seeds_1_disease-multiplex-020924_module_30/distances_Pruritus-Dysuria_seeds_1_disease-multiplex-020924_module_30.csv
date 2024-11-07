@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Dysuria nodes,sAB
+0,disease_on_genes,26,30,-0.15833971902937427
+1,disease_on_symptoms,19,16,0.4923402255639098
+2,disease_on_drugs,24,23,0.1910268270120259

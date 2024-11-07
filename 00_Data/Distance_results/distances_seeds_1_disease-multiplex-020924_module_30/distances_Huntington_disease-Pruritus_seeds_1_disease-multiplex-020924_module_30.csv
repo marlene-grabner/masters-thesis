@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,26,-0.13121212121212122
+1,disease_on_symptoms,16,19,0.5887687969924813
+2,disease_on_drugs,27,24,0.2549019607843137

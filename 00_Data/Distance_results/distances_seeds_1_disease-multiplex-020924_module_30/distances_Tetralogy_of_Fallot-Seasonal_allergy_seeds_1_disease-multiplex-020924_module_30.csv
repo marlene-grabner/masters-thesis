@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,0.355328268069355
+1,disease_on_symptoms,14,15,2.0403940886699505
+2,disease_on_drugs,11,29,0.8327586206896553

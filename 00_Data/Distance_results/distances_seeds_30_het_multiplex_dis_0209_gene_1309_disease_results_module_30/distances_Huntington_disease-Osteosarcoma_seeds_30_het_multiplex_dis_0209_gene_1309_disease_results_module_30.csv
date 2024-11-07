@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999984
+1,disease_on_symptoms,17,22,0.16920334567393414
+2,disease_on_drugs,26,29,-0.14704605739088517

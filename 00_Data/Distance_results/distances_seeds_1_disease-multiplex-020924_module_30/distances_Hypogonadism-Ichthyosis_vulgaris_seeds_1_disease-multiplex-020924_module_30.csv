@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.1593915343915342
+1,disease_on_symptoms,12,21,1.0703463203463204
+2,disease_on_drugs,30,27,0.7552631578947369

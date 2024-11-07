@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,30,-0.09065934065934056
+1,disease_on_symptoms,17,24,0.15659373505499774
+2,disease_on_drugs,24,20,0.14734848484848473

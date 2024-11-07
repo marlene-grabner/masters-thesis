@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,24,27,-0.33006535947712423
+1,disease_on_symptoms,23,22,-0.16181379007465968
+2,disease_on_drugs,22,20,-0.3847402597402597

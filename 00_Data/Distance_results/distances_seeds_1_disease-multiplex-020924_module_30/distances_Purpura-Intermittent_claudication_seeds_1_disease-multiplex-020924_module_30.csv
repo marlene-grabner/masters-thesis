@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.04122073578595331
+1,disease_on_symptoms,17,24,1.009116451458632
+2,disease_on_drugs,20,18,-0.032163742690058506

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,17,12,0.3234448951994593
+1,disease_on_symptoms,21,27,2.055224867724868
+2,disease_on_drugs,17,9,0.48391151332327786

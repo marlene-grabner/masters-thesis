@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.5554545454545454
+1,disease_on_symptoms,23,13,2.5128205128205128
+2,disease_on_drugs,30,16,0.8551630434782607

@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,17,11,0.9320091673032849
+2,disease_on_drugs,30,24,0.23055555555555562

@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,-0.0009259259259257746
+1,disease_on_symptoms,20,26,0.3906354515050168
+2,disease_on_drugs,21,28,0.3605442176870748

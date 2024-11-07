@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.23728813559322037
+1,disease_on_symptoms,17,20,-0.27253577106518256
+2,disease_on_drugs,24,28,-0.2758699633699634

@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,22,25,0.3386266924564796
+1,disease_on_symptoms,21,25,3.2436853002070394
+2,disease_on_drugs,6,23,0.996751624187906

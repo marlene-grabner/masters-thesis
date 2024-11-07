@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,15,20,-0.375
+2,disease_on_drugs,23,27,-0.1097262479871175

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Meningitis nodes,sAB
+0,disease_on_genes,24,29,-0.07255747126436773
+1,disease_on_symptoms,22,20,0.38668831168831175
+2,disease_on_drugs,24,26,0.06000000000000005

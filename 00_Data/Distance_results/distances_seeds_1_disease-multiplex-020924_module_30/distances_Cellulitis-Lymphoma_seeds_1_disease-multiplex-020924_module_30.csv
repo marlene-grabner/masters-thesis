@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,22,26,0.2371015509313381
+1,disease_on_symptoms,26,21,1.3045358896422727
+2,disease_on_drugs,12,25,1.2302702702702701

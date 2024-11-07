@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333317
+1,disease_on_symptoms,22,19,-0.29968491072470527
+2,disease_on_drugs,29,30,-0.15287356321839063

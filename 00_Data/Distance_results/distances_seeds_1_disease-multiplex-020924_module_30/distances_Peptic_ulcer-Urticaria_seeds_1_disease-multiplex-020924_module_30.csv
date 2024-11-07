@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Urticaria nodes,sAB
+0,disease_on_genes,28,10,0.2612781954887218
+1,disease_on_symptoms,14,27,2.0940443928248804
+2,disease_on_drugs,28,9,0.43243243243243246

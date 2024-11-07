@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.17543859649122817
+1,disease_on_symptoms,20,18,0.8733918128654969
+2,disease_on_drugs,25,22,0.5075628626692454

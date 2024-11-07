@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Periodontitis nodes,sAB
+0,disease_on_genes,27,30,-0.24658869395711513
+1,disease_on_symptoms,21,21,0.23809523809523792
+2,disease_on_drugs,27,28,-0.2166065416065417

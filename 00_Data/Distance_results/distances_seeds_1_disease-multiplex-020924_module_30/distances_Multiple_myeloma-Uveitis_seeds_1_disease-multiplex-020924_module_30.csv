@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,-0.03452380952380951
+1,disease_on_symptoms,21,21,-0.1428571428571428
+2,disease_on_drugs,25,27,0.07609686609686594

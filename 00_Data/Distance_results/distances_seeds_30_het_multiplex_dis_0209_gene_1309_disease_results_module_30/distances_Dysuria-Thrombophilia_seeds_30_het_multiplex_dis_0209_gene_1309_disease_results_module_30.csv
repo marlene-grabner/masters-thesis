@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.17543859649122817
+1,disease_on_symptoms,12,18,1.4777777777777779
+2,disease_on_drugs,21,22,0.36758783851807086

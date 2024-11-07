@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.04173913043478272
+1,disease_on_symptoms,20,19,0.9523616734143048
+2,disease_on_drugs,27,22,0.03153988868274582

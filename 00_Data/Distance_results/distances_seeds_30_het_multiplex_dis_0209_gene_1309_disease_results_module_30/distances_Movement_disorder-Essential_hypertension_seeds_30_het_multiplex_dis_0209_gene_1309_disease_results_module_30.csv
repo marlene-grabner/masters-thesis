@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.1028735632183907
+1,disease_on_symptoms,17,13,-0.11251885369532455
+2,disease_on_drugs,26,28,-0.1534391534391535

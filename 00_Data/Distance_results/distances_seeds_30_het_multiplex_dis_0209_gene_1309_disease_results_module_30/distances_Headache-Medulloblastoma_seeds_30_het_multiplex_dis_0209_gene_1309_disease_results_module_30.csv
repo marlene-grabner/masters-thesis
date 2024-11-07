@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,23,22,0.2455862977602108
+2,disease_on_drugs,23,26,0.19681250426592056

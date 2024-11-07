@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,15,0.0973544973544973
+1,disease_on_symptoms,22,27,1.4678416821273965
+2,disease_on_drugs,26,13,1.5128205128205128

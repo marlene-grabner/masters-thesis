@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,24,0.015277777777777724
+1,disease_on_symptoms,17,22,0.9844028520499108
+2,disease_on_drugs,28,11,0.35668498168498175

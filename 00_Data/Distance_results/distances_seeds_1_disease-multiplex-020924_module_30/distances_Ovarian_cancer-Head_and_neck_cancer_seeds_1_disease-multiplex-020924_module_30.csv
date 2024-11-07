@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,27,27,-0.22222222222222232
+1,disease_on_symptoms,17,22,-0.15854243795420264
+2,disease_on_drugs,25,24,-0.2253401360544216

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,24,30,-0.2592592592592593
+1,disease_on_symptoms,23,15,-0.13600305110602595
+2,disease_on_drugs,22,25,-0.31439071566731147

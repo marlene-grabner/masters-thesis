@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,25,30,-0.07636363636363641
+1,disease_on_symptoms,21,15,0.29047619047619055
+2,disease_on_drugs,24,23,-0.10692260252852326

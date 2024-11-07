@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,26,30,0.14093406593406588
+1,disease_on_symptoms,28,15,0.7695736434108524
+2,disease_on_drugs,23,23,0.7173913043478262

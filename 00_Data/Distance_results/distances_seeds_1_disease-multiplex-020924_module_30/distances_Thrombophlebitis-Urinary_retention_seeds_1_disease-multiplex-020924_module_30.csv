@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,28,30,0.3843484102104793
+1,disease_on_symptoms,15,18,2.1005050505050504
+2,disease_on_drugs,21,19,0.3710526315789473

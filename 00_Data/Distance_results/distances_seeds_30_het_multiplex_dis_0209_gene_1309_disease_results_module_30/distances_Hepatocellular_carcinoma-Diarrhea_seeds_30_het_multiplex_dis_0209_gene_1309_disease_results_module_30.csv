@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,24,30,-0.18518518518518523
+1,disease_on_symptoms,23,21,0.822746094485225
+2,disease_on_drugs,22,29,0.08165836867662413

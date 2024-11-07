@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.05360623781676421
+1,disease_on_symptoms,20,14,0.39684873949579824
+2,disease_on_drugs,27,26,0.07473257001558897

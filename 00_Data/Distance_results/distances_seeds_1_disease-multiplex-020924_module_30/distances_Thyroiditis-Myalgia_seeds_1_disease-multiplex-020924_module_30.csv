@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,0.05164835164835169
+1,disease_on_symptoms,28,16,0.9488636363636362
+2,disease_on_drugs,23,29,0.5936454849498327

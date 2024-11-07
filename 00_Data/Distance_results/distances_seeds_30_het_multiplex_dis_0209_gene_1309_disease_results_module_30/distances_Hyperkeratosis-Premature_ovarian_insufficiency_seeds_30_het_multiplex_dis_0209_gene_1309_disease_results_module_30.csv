@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,26,30,0.0533882783882782
+1,disease_on_symptoms,25,18,0.6514470284237726
+2,disease_on_drugs,25,22,0.060232108317214816

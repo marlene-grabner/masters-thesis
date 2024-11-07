@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,0.5740740740740742
+1,disease_on_symptoms,16,14,2.180357142857143
+2,disease_on_drugs,18,13,1.2903225806451615

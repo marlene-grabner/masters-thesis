@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,16,-0.04003267973856239
+2,disease_on_drugs,26,29,-0.017892452375210866

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.3035714285714286
+1,disease_on_symptoms,17,13,1.3318250377073904
+2,disease_on_drugs,24,19,0.6374694002447983

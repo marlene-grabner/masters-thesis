@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,28,30,-0.15459770114942528
+1,disease_on_symptoms,18,20,0.11827485380116975
+2,disease_on_drugs,23,28,-0.22124284496407243

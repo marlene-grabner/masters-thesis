@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,29,22,0.3749154834347532
+1,disease_on_symptoms,17,24,1.6117587278813965
+2,disease_on_drugs,30,19,1.2620837808807734

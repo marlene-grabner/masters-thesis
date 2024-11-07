@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,23,29,0.24844308614923305
+1,disease_on_symptoms,21,16,0.9904279279279282
+2,disease_on_drugs,19,25,0.40909090909090917

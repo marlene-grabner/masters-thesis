@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.3893617021276594
+1,disease_on_symptoms,23,26,1.5064671353491228
+2,disease_on_drugs,20,13,0.8682983682983683

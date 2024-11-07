@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.33664021164021185
+1,disease_on_symptoms,12,22,0.8524955436720143
+2,disease_on_drugs,30,26,1.1261904761904762

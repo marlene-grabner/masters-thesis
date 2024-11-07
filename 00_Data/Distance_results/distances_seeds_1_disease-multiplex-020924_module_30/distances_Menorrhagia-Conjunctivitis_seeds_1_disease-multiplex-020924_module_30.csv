@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.24454389077030592
+1,disease_on_symptoms,19,27,1.3507076870921266
+2,disease_on_drugs,24,26,0.38070512820512814

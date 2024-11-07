@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,29,17,0.3324808184143222
+1,disease_on_symptoms,16,22,3.021381578947368
+2,disease_on_drugs,26,15,0.9910569105691058

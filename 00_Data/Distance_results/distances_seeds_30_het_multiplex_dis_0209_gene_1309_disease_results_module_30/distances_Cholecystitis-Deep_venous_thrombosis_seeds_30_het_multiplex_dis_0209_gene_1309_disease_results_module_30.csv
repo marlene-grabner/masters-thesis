@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,23,16,0.4432483277591972
+2,disease_on_drugs,21,28,0.0714285714285714

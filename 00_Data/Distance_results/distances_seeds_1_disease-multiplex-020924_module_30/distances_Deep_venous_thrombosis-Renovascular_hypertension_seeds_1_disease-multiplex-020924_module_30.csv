@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,21,-0.024659863945578397
+1,disease_on_symptoms,14,22,1.254329004329004
+2,disease_on_drugs,24,20,-0.03409090909090917

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,24,26,0.3174999999999999
+1,disease_on_symptoms,25,21,1.4200828157349898
+2,disease_on_drugs,17,24,0.5853658536585367

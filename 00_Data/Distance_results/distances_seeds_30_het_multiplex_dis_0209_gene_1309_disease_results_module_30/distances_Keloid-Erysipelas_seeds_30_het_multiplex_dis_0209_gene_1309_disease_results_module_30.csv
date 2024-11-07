@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Erysipelas nodes,sAB
+0,disease_on_genes,23,30,-0.037735849056603765
+1,disease_on_symptoms,17,18,1.1749299719887956
+2,disease_on_drugs,22,29,0.21425717622472185

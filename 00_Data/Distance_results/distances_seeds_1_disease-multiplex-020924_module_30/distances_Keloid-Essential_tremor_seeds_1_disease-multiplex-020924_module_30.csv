@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,22,21,0.37315010570824536
+1,disease_on_symptoms,20,20,1.95
+2,disease_on_drugs,19,19,0.8157894736842106

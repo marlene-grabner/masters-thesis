@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,19,14,1.7196400091136932
+2,disease_on_drugs,29,22,0.417388899133321

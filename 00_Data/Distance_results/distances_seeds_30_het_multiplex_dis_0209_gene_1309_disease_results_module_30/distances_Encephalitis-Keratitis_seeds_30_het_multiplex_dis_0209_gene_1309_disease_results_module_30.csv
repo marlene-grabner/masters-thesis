@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,30,0.11892655367231653
+1,disease_on_symptoms,13,25,0.8894736842105262
+2,disease_on_drugs,22,29,0.16560636793902517

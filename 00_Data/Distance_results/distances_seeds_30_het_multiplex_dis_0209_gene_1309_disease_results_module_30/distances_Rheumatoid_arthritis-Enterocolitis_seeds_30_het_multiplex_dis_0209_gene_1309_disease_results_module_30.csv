@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.35
+1,disease_on_symptoms,19,21,-0.9545112781954886
+2,disease_on_drugs,30,25,-0.4657575757575758

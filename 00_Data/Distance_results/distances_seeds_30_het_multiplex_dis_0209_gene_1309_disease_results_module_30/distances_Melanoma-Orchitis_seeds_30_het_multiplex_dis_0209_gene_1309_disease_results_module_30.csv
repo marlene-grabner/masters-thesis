@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Orchitis nodes,sAB
+0,disease_on_genes,27,25,-0.07621082621082631
+1,disease_on_symptoms,23,19,0.8611201917838072
+2,disease_on_drugs,25,25,0.40000000000000013

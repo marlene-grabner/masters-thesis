@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.12280701754385959
+1,disease_on_symptoms,24,17,0.5900884744141561
+2,disease_on_drugs,25,27,0.19213675213675208

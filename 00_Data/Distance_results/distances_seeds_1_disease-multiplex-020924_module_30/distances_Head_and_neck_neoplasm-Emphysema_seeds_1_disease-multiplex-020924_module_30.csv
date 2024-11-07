@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,20,14,0.47773109243697487
+2,disease_on_drugs,27,29,0.4464285714285714

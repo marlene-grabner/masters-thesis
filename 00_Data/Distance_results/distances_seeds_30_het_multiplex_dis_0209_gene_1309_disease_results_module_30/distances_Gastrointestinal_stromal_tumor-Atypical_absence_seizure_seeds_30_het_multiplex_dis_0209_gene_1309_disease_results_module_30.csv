@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,13,0.6806680161943319
+2,disease_on_drugs,28,22,0.4003896103896105

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Glioma nodes,sAB
+0,disease_on_genes,30,22,0.11794871794871797
+1,disease_on_symptoms,19,21,1.2830827067669173
+2,disease_on_drugs,22,21,0.25943823618242234

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,14,11,0.3588311688311685
+2,disease_on_drugs,24,21,-0.13908730158730176

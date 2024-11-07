@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,0.3579787234042555
+1,disease_on_symptoms,23,27,1.3902737520128827
+2,disease_on_drugs,20,19,0.6396761133603237

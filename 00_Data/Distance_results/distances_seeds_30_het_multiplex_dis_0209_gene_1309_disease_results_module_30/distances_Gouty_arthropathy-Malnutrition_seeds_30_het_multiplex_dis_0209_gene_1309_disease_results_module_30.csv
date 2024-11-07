@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Malnutrition nodes,sAB
+0,disease_on_genes,28,30,-0.06896551724137934
+1,disease_on_symptoms,18,14,0.5927579365079367
+2,disease_on_drugs,23,29,0.08300657363625863

@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,15,-0.03756613756613736
+1,disease_on_symptoms,23,27,1.4089855072463768
+2,disease_on_drugs,15,13,0.050000000000000044

@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.2622807017543859
+1,disease_on_symptoms,16,17,0.2233177361853833
+2,disease_on_drugs,28,26,-0.1862026862026862

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,-0.1229853479853481
+1,disease_on_symptoms,21,14,-0.08571428571428585
+2,disease_on_drugs,26,30,-0.12536630036630036

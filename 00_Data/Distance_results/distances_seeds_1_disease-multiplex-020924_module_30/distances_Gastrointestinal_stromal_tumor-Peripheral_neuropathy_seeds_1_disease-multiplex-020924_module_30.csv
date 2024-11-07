@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,23,30,0.05105277549904286
+1,disease_on_symptoms,20,20,1.4
+2,disease_on_drugs,19,24,1.3536821705426356

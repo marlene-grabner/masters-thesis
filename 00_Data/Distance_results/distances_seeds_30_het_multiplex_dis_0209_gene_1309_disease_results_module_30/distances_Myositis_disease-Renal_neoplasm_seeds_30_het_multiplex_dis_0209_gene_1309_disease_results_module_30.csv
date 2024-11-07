@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.1353107344632768
+1,disease_on_symptoms,18,20,-0.03406432748538002
+2,disease_on_drugs,26,28,-0.04705942205942204

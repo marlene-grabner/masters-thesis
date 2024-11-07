@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,16,18,-0.7434640522875817
+2,disease_on_drugs,29,30,-0.40885447106954986

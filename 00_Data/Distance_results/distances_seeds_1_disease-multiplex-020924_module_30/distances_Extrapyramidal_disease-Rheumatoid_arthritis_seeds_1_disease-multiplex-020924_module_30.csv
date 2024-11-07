@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,14,27,0.32336430507162195
+1,disease_on_symptoms,25,15,3.148333333333333
+2,disease_on_drugs,10,25,1.2157142857142855

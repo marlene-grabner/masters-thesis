@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,26,27,0.03805837768101905
+1,disease_on_symptoms,21,17,0.6601798614182517
+2,disease_on_drugs,24,24,0.25

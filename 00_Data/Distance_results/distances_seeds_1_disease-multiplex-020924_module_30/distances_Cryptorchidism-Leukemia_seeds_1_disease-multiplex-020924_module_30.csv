@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.3568181818181817
+1,disease_on_symptoms,18,27,1.474074074074074
+2,disease_on_drugs,18,17,0.626050420168067

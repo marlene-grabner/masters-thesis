@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,26,-0.13207547169811318
+1,disease_on_symptoms,21,20,-0.023606271777003363
+2,disease_on_drugs,25,25,-0.21999999999999997

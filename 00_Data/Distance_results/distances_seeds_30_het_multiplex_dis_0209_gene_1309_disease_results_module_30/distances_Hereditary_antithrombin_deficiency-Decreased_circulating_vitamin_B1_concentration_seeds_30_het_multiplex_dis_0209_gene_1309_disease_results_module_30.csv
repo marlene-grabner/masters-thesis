@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,28,30,-0.24137931034482762
+1,disease_on_symptoms,16,17,-0.4020721925133688
+2,disease_on_drugs,23,25,-0.27760869565217394

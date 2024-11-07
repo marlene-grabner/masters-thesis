@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.503898635477583
+1,disease_on_symptoms,25,19,1.7104784688995216
+2,disease_on_drugs,7,26,1.0608558108558106

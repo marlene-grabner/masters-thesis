@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,24,27,0.15999455337690627
+1,disease_on_symptoms,18,19,0.5686344238975816
+2,disease_on_drugs,18,20,0.4486842105263158

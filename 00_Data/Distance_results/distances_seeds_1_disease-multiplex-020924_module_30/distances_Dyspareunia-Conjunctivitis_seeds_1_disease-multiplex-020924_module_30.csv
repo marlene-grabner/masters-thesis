@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,24,27,0.04030501089324612
+1,disease_on_symptoms,17,27,0.31441869677163803
+2,disease_on_drugs,23,26,0.26366800900962395

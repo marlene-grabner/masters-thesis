@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,18,19,0.13592539908329382
+2,disease_on_drugs,28,30,0.1372331691297206

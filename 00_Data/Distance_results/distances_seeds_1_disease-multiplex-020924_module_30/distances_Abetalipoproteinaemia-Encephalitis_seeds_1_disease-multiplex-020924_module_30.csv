@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Encephalitis nodes,sAB
+0,disease_on_genes,17,28,0.6015406162464987
+1,disease_on_symptoms,25,17,1.4712044817927172
+2,disease_on_drugs,13,18,1.0583126550868487

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.07376267143709003
+1,disease_on_symptoms,20,26,0.3560200668896323
+2,disease_on_drugs,24,9,0.35732323232323226

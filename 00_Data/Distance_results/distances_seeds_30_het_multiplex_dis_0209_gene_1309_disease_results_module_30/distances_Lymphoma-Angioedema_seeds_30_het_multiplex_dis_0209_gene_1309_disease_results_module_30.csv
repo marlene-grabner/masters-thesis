@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,20,18,0.44502923976608155
+2,disease_on_drugs,24,26,0.12128205128205116

@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.0009746588693957392
+1,disease_on_symptoms,21,14,1.9690476190476192
+2,disease_on_drugs,29,26,0.3824330841572221

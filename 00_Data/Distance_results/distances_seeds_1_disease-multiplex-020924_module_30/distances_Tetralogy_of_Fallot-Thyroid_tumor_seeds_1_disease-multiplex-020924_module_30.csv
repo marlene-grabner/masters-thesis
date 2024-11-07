@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.4486190866830737
+1,disease_on_symptoms,14,20,1.9258403361344536
+2,disease_on_drugs,11,20,0.8459677419354839

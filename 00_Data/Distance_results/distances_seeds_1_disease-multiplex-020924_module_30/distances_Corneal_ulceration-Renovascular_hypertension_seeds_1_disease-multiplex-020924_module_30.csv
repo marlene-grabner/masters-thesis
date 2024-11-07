@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,21,0.09778911564625825
+1,disease_on_symptoms,19,22,0.9482436690395613
+2,disease_on_drugs,26,20,0.3315217391304348

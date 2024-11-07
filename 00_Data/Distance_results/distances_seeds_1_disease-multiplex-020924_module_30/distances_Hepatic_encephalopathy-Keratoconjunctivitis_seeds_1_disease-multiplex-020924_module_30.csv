@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,9,29,0.14327485380116967
+1,disease_on_symptoms,27,25,1.875811965811966
+2,disease_on_drugs,9,27,0.41666666666666674

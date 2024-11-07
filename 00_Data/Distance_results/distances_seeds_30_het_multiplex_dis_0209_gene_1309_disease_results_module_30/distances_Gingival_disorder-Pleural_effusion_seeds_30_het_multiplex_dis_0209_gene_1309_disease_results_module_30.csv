@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,19,18,0.30618776671408243
+2,disease_on_drugs,24,27,0.09681372549019618

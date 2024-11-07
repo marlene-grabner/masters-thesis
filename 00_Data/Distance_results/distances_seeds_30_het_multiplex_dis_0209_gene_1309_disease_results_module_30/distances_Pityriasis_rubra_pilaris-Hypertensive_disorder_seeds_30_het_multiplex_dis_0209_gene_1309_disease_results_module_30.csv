@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,27,27,-0.12962962962962976
+1,disease_on_symptoms,21,21,0.0
+2,disease_on_drugs,25,26,-0.17687782805429864

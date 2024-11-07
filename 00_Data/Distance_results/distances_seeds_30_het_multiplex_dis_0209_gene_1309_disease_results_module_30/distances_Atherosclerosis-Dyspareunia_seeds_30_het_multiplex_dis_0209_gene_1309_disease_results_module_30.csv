@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,14,20,-0.03823529411764692
+2,disease_on_drugs,29,28,-0.054219600725952555

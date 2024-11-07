@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,22,27,-0.20408163265306123
+1,disease_on_symptoms,21,22,-0.0002265176683782233
+2,disease_on_drugs,21,23,-0.24929418407679294

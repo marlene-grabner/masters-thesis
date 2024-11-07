@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Nocturia nodes,sAB
+0,disease_on_genes,29,25,-0.24365647364996734
+1,disease_on_symptoms,20,18,0.5336257309941519
+2,disease_on_drugs,25,24,-0.04251700680272119

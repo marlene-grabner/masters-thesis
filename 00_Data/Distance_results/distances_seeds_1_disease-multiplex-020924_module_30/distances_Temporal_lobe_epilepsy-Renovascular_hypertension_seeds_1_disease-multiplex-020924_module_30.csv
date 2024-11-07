@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,21,0.11513957307060729
+1,disease_on_symptoms,17,22,1.5644453585630056
+2,disease_on_drugs,26,20,0.6818561872909699

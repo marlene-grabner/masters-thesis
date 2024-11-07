@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,0.05183150183150165
+1,disease_on_symptoms,19,14,0.7645249487354748
+2,disease_on_drugs,24,24,0.3124999999999998

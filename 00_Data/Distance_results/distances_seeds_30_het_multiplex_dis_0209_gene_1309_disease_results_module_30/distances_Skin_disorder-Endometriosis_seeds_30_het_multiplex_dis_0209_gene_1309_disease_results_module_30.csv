@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Endometriosis nodes,sAB
+0,disease_on_genes,25,30,-0.39848484848484844
+1,disease_on_symptoms,19,16,0.11188909774436073
+2,disease_on_drugs,23,30,-0.2850287120590649

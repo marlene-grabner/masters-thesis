@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.3021295474711625
+1,disease_on_symptoms,25,15,0.05999999999999983
+2,disease_on_drugs,22,15,0.2975839475839477

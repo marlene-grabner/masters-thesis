@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.311439312567132
+1,disease_on_symptoms,23,21,2.067099567099567
+2,disease_on_drugs,30,17,0.7723404255319148

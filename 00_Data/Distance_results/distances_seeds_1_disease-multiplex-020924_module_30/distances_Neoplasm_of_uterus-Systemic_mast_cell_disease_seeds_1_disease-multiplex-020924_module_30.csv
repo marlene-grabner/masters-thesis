@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,0.0873736064298678
+1,disease_on_symptoms,19,16,0.6376879699248119
+2,disease_on_drugs,28,25,0.4161051212938005

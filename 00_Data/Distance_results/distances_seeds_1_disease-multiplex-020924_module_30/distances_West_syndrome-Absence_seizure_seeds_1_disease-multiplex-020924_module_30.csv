@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.4482758620689655
+1,disease_on_symptoms,18,16,-0.6670751633986929
+2,disease_on_drugs,22,22,-0.5909090909090908

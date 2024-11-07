@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,17,14,0.9886148007590134
+2,disease_on_drugs,24,22,0.3008069828722004

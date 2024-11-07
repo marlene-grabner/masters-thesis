@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,0.3959207459207459
+1,disease_on_symptoms,19,14,1.2158236500341766
+2,disease_on_drugs,18,26,0.43026418026418023

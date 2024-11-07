@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,22,27,0.7277365491651204
+1,disease_on_symptoms,21,14,3.7880952380952384
+2,disease_on_drugs,6,13,1.0964912280701755

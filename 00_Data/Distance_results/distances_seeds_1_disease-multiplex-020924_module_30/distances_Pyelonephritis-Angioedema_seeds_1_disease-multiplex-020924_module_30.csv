@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Angioedema nodes,sAB
+0,disease_on_genes,23,29,0.3090823285836073
+1,disease_on_symptoms,21,17,0.7868937048503613
+2,disease_on_drugs,19,25,0.6818181818181819

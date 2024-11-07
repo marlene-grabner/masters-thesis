@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Purpura nodes,sAB
+0,disease_on_genes,30,26,0.0494505494505495
+1,disease_on_symptoms,22,17,2.3492047168517756
+2,disease_on_drugs,29,20,0.15869106263194932

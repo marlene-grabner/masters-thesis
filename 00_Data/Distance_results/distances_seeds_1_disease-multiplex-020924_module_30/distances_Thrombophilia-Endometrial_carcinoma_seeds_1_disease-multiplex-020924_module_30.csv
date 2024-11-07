@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,27,23,0.2962640901771336
+1,disease_on_symptoms,18,21,1.3943833943833943
+2,disease_on_drugs,21,21,0.3571428571428572

@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,15,0.7433436532507738
+2,disease_on_drugs,30,28,0.05340722495894901

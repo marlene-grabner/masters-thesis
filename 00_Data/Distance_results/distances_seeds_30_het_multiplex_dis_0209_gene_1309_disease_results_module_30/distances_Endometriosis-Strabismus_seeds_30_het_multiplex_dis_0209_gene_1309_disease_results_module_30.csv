@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.24570296203587838
+1,disease_on_symptoms,16,24,0.18541666666666656
+2,disease_on_drugs,30,16,0.1633152173913044

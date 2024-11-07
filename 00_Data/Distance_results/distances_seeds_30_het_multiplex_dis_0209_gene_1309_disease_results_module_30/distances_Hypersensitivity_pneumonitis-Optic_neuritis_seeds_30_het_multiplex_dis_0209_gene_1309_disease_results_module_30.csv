@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,-0.32692307692307687
+1,disease_on_symptoms,20,21,-0.27116724738675946
+2,disease_on_drugs,25,27,-0.42472934472934476

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.38951879992207283
+1,disease_on_symptoms,17,16,1.4805035650623886
+2,disease_on_drugs,17,25,0.7857142857142858

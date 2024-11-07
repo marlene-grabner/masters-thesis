@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,21,17,0.6106442577030813
+2,disease_on_drugs,29,25,-0.04081736909323119

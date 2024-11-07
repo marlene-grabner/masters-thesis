@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,24,30,0.3634259259259258
+1,disease_on_symptoms,25,14,0.6983516483516485
+2,disease_on_drugs,17,27,0.622053872053872

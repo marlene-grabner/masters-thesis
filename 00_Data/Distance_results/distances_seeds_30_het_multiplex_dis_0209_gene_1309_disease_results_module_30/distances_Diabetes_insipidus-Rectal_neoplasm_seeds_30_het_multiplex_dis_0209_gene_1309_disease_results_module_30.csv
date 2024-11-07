@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.0894688644688646
+1,disease_on_symptoms,20,20,0.10000000000000009
+2,disease_on_drugs,20,29,0.010731878958479824

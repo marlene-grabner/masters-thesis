@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,27,0.22222222222222232
+1,disease_on_symptoms,15,27,1.466137566137566
+2,disease_on_drugs,25,26,0.3140874811463048

@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.1636363636363637
+1,disease_on_symptoms,22,18,-0.059595959595959425
+2,disease_on_drugs,27,27,-0.16666666666666652

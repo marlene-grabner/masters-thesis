@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.05696661828737293
+1,disease_on_symptoms,22,17,0.389620183737831
+2,disease_on_drugs,25,26,0.05832579185520359

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,23,30,-0.15094339622641506
+1,disease_on_symptoms,22,17,0.19690113807760845
+2,disease_on_drugs,21,29,-0.16640394088669952

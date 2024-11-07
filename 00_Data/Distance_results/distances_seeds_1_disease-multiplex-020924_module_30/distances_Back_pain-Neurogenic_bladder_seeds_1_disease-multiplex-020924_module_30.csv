@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.04999999999999982
+1,disease_on_symptoms,16,17,0.636864973262032
+2,disease_on_drugs,23,26,0.5306122448979591

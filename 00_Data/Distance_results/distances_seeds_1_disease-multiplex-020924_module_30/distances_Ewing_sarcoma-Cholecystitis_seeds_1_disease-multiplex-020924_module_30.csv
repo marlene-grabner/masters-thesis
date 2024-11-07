@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,24,25,0.7950510204081633
+1,disease_on_symptoms,25,19,1.4040669856459331
+2,disease_on_drugs,17,13,1.6615384615384619

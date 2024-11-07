@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,24,20,0.40227272727272734
+1,disease_on_symptoms,23,22,2.130720245937637
+2,disease_on_drugs,22,15,0.7648648648648648

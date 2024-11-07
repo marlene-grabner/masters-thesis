@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Cellulitis nodes,sAB
+0,disease_on_genes,23,30,0.13207547169811318
+1,disease_on_symptoms,23,20,0.9765925176946411
+2,disease_on_drugs,22,26,0.44493006993007

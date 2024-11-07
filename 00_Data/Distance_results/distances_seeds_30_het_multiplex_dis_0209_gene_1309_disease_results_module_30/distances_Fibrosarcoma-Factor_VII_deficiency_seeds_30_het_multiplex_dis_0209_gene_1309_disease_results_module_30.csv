@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.1890394088669951
+1,disease_on_symptoms,14,19,0.8123148781043519
+2,disease_on_drugs,26,25,0.35478129713423834

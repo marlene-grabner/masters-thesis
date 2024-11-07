@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Psoriasis nodes,sAB
+0,disease_on_genes,17,28,0.41657329598506054
+1,disease_on_symptoms,21,21,1.6428571428571428
+2,disease_on_drugs,14,28,0.48809523809523814

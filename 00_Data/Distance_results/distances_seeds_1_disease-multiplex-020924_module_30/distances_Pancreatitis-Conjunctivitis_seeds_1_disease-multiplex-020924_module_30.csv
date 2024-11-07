@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.12534113060428864
+1,disease_on_symptoms,20,27,1.1587667454688733
+2,disease_on_drugs,30,26,0.3365384615384617

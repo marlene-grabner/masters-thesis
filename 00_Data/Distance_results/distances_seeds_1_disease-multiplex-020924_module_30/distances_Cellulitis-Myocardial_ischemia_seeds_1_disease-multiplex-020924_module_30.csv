@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,22,30,0.2997198879551821
+1,disease_on_symptoms,26,13,1.9358974358974361
+2,disease_on_drugs,12,23,0.9062111801242239

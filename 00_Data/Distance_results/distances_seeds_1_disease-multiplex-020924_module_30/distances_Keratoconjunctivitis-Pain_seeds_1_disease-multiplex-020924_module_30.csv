@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Pain nodes,sAB
+0,disease_on_genes,29,26,0.14335664335664355
+1,disease_on_symptoms,25,21,0.6289440993788822
+2,disease_on_drugs,27,26,0.30466860183841304

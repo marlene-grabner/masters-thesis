@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,15,18,1.0671717171717172
+2,disease_on_drugs,25,21,0.49627329192546576

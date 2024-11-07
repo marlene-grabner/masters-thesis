@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Peritonitis nodes,sAB
+0,disease_on_genes,27,30,-0.12475633528265129
+1,disease_on_symptoms,21,14,0.24523809523809526
+2,disease_on_drugs,25,24,-0.24620748299319717

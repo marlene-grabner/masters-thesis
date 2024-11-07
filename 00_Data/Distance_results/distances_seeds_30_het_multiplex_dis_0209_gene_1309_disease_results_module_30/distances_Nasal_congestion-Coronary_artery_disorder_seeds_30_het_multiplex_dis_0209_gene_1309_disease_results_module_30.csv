@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.09146841673502859
+1,disease_on_symptoms,14,19,0.6895078605604921
+2,disease_on_drugs,25,22,0.174622823984526

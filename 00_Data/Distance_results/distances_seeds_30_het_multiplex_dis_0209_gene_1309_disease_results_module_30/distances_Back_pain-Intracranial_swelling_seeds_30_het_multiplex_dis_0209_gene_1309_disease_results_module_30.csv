@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,11,0.18531468531468542
+2,disease_on_drugs,23,21,-0.24976472802559746

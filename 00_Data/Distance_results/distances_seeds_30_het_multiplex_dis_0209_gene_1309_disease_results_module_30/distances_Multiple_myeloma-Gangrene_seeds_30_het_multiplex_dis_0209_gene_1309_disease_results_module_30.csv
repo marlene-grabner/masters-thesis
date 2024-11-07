@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,0.13207547169811318
+1,disease_on_symptoms,21,22,1.284682371891674
+2,disease_on_drugs,25,27,0.34960113960113937

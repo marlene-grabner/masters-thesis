@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,24,20,0.3670454545454547
+1,disease_on_symptoms,25,24,1.1669217687074833
+2,disease_on_drugs,17,18,0.3468253968253969

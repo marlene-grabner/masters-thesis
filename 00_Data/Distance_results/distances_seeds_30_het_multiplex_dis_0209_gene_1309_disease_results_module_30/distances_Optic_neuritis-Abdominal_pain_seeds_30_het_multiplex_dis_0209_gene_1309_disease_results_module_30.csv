@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,-0.17456140350877192
+1,disease_on_symptoms,21,19,0.2678571428571428
+2,disease_on_drugs,27,29,0.018997445721583572

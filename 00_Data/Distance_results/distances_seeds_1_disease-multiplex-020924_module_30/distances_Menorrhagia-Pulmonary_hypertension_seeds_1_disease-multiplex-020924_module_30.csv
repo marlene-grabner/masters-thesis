@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.0014753764753765441
+1,disease_on_symptoms,19,20,1.3427800269905534
+2,disease_on_drugs,24,28,0.45993589743589736

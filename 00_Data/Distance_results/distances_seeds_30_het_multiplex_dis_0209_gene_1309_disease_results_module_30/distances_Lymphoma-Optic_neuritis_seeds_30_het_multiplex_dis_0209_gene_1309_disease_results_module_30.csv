@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.24528301886792447
+1,disease_on_symptoms,20,21,-0.001045296167247356
+2,disease_on_drugs,24,27,-0.2380174291938999

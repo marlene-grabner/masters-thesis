@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,30,0.034545454545454435
+1,disease_on_symptoms,17,18,0.43286647992530325
+2,disease_on_drugs,25,26,-0.018521870286576148

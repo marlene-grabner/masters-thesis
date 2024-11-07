@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,-0.03448275862068961
+1,disease_on_symptoms,13,23,0.7027127461910068
+2,disease_on_drugs,28,29,0.06950566070348296

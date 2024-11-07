@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,22,20,0.018831168831168865
+1,disease_on_symptoms,20,23,1.0381698685540948
+2,disease_on_drugs,19,17,0.29575163398692816

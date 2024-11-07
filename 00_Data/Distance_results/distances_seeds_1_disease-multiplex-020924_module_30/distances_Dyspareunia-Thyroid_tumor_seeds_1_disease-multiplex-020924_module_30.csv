@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,24,23,0.19010175763182247
+1,disease_on_symptoms,17,20,0.9386724960254373
+2,disease_on_drugs,23,20,0.46792214357937323

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,-0.09259259259259267
+1,disease_on_symptoms,21,20,0.10069686411149825
+2,disease_on_drugs,27,27,-0.11111111111111105

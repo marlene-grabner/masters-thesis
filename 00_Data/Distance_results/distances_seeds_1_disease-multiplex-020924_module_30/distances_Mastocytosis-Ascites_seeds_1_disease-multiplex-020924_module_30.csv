@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Ascites nodes,sAB
+0,disease_on_genes,18,30,0.3680555555555556
+1,disease_on_symptoms,28,17,0.9197245564892622
+2,disease_on_drugs,17,27,0.4310754604872251

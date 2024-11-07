@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Psoriasis nodes,sAB
+0,disease_on_genes,23,28,0.4480879308245038
+1,disease_on_symptoms,23,21,0.9775079992471298
+2,disease_on_drugs,18,28,0.7879572118702554

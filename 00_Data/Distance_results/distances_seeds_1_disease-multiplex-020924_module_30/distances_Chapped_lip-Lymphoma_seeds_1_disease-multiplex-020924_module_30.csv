@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Lymphoma nodes,sAB
+0,disease_on_genes,26,26,0.0
+1,disease_on_symptoms,21,21,0.7619047619047619
+2,disease_on_drugs,24,25,0.32734693877551013

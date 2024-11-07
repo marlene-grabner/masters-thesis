@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,28,0.49057239057239044
+1,disease_on_symptoms,18,26,1.584693084693085
+2,disease_on_drugs,21,28,0.7916666666666665

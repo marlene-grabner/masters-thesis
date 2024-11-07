@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,-0.05555555555555558
+1,disease_on_symptoms,19,17,0.7440660474716201
+2,disease_on_drugs,29,23,-0.1806020066889631

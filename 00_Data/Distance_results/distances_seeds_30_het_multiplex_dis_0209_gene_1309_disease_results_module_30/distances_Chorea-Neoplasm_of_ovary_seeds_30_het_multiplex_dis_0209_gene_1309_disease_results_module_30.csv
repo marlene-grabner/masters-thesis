@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,17,22,0.9265048676813383
+2,disease_on_drugs,24,29,0.3496123400563871

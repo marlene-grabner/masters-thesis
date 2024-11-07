@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,20,0.06333333333333324
+1,disease_on_symptoms,16,23,0.8737806577480489
+2,disease_on_drugs,27,18,0.4222222222222223

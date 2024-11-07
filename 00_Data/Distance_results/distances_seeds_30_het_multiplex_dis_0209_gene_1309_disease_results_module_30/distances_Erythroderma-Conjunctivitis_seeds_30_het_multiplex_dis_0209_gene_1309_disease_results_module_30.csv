@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.3220338983050848
+1,disease_on_symptoms,20,27,-0.2225965327029158
+2,disease_on_drugs,29,28,-0.4728415867254341

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,24,22,0.10869565217391308
+1,disease_on_symptoms,23,21,1.0814041031432335
+2,disease_on_drugs,22,17,0.4191005073358014

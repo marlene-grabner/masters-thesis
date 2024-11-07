@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.052339181286549685
+1,disease_on_symptoms,17,15,1.1595588235294119
+2,disease_on_drugs,27,26,0.43323657474600874

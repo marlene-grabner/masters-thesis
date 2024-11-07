@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,13,30,0.125132625994695
+1,disease_on_symptoms,26,18,1.174048174048174
+2,disease_on_drugs,9,19,0.11549707602339176

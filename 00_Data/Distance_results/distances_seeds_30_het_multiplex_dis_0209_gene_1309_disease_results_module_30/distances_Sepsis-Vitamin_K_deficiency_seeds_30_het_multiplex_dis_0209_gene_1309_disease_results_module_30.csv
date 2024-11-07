@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.056060606060606144
+1,disease_on_symptoms,15,21,1.7706349206349206
+2,disease_on_drugs,25,21,0.23747412008281565

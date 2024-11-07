@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.18333333333333324
+1,disease_on_symptoms,16,21,0.14981499356499373
+2,disease_on_drugs,30,24,-0.17268518518518527

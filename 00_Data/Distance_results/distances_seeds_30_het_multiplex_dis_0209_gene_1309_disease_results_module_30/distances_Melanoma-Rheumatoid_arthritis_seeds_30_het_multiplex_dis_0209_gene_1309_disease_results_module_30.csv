@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,27,30,-0.19307992202729052
+1,disease_on_symptoms,23,19,0.24207257273618832
+2,disease_on_drugs,25,30,0.048787878787878824

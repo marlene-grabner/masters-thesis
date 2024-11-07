@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,24,27,-0.09708605664488024
+1,disease_on_symptoms,22,16,-0.1063098086124401
+2,disease_on_drugs,24,27,-0.1350762527233117

@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,15,18,-0.02020202020202011
+2,disease_on_drugs,29,26,0.03477212442729671

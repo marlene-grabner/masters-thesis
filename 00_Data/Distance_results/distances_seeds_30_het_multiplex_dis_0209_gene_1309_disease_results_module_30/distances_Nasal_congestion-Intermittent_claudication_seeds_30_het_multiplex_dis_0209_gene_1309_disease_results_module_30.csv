@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,14,14,-0.2142857142857144
+2,disease_on_drugs,25,24,0.04110544217687062

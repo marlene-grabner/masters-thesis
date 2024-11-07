@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,29,30,-0.1861874147671927
+1,disease_on_symptoms,21,20,-0.1704123112659699
+2,disease_on_drugs,28,30,-0.24322660098522175

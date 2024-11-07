@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.2154761904761906
+1,disease_on_symptoms,17,17,0.2941176470588238
+2,disease_on_drugs,17,24,0.1762912482065997

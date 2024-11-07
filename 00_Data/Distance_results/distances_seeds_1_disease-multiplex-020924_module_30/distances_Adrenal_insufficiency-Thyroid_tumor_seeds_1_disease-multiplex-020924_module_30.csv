@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,17,23,0.10095907928388748
+1,disease_on_symptoms,21,20,0.5584494773519164
+2,disease_on_drugs,14,20,0.41617647058823537

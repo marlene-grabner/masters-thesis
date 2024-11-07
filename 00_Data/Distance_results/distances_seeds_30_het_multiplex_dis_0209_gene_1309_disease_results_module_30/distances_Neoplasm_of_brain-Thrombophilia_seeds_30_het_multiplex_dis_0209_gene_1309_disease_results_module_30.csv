@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.12368421052631584
+1,disease_on_symptoms,19,18,0.7328512723249567
+2,disease_on_drugs,29,22,0.44635503104062946

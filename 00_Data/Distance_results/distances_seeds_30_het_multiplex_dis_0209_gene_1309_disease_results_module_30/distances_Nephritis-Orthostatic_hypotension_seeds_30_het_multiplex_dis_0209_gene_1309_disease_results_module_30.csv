@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,20,-0.03903020667726542
+2,disease_on_drugs,25,28,0.056522911051212876

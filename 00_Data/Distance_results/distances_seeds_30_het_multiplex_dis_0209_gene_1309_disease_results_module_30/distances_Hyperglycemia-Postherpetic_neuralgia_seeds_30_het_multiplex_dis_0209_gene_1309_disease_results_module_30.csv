@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,17,16,0.2049910873440286
+2,disease_on_drugs,26,29,-0.03325295394260919

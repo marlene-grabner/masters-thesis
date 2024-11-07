@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,21,19,0.693233082706767
+2,disease_on_drugs,29,29,0.3448275862068968

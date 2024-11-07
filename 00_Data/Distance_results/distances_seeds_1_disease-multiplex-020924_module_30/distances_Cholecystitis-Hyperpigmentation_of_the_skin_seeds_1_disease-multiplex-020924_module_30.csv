@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,25,24,0.5259183673469388
+1,disease_on_symptoms,19,23,2.351149613163343
+2,disease_on_drugs,13,12,1.0415384615384617

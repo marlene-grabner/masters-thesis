@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.33333333333333326
+1,disease_on_symptoms,24,22,0.3884222661396577
+2,disease_on_drugs,15,24,0.39871794871794863

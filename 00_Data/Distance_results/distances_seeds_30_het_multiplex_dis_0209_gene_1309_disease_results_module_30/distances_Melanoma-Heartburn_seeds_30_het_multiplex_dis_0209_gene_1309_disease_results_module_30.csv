@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,-0.2449336128581412
+1,disease_on_symptoms,23,16,0.6390746934225195
+2,disease_on_drugs,25,25,0.06000000000000005

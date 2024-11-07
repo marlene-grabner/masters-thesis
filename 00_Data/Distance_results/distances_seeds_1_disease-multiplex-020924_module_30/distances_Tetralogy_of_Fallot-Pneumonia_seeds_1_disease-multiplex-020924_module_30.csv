@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.44999999999999996
+1,disease_on_symptoms,14,26,1.73489010989011
+2,disease_on_drugs,11,28,1.3333333333333335

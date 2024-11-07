@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,-0.4627329192546583
+1,disease_on_symptoms,25,26,-0.5110407239819003
+2,disease_on_drugs,24,20,-0.42803030303030287

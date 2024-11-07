@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,26,-0.11538461538461542
+1,disease_on_symptoms,19,21,0.12205513784461153
+2,disease_on_drugs,25,26,-0.03733031674208154

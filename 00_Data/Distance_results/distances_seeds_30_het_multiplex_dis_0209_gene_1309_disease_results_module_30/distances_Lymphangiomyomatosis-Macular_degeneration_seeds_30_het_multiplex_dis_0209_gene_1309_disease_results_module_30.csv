@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.12481684981684982
+1,disease_on_symptoms,17,17,0.11764705882352944
+2,disease_on_drugs,24,17,0.2042384026781443

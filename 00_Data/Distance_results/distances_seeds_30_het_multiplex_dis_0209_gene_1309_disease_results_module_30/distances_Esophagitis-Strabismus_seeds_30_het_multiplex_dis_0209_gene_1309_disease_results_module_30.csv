@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.20314977054651662
+1,disease_on_symptoms,20,24,0.09053030303030307
+2,disease_on_drugs,30,16,0.15679347826086953

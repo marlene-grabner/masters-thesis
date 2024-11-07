@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,14,27,0.4150535552974577
+1,disease_on_symptoms,25,21,2.5890683229813667
+2,disease_on_drugs,10,27,1.0581081081081078

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.22612085769980483
+1,disease_on_symptoms,12,20,0.9833333333333334
+2,disease_on_drugs,27,25,0.75

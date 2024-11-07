@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,17,29,0.24552429667519182
+1,disease_on_symptoms,21,15,2.4063492063492067
+2,disease_on_drugs,14,29,1.116279069767442

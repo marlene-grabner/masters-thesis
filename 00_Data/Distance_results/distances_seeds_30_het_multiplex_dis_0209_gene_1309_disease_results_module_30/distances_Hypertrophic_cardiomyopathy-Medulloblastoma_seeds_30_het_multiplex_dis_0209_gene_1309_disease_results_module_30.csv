@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,0.018421052631579116
+1,disease_on_symptoms,19,22,0.6657719687244721
+2,disease_on_drugs,22,26,0.049970862470862576

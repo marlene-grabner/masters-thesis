@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,26,24,0.29538461538461536
+1,disease_on_symptoms,20,23,2.9162032355915066
+2,disease_on_drugs,20,12,1.375

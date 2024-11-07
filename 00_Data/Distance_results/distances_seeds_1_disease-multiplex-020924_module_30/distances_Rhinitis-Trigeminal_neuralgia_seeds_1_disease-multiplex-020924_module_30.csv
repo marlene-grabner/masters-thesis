@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.22458949096880132
+1,disease_on_symptoms,15,19,0.3071207430340557
+2,disease_on_drugs,22,26,0.6057692307692308

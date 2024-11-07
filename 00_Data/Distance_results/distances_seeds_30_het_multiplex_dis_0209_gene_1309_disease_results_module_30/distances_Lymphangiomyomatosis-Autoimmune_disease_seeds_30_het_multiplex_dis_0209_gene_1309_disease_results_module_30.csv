@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,26,0.019230769230769384
+1,disease_on_symptoms,17,20,0.6511526232114466
+2,disease_on_drugs,24,25,0.22273809523809507

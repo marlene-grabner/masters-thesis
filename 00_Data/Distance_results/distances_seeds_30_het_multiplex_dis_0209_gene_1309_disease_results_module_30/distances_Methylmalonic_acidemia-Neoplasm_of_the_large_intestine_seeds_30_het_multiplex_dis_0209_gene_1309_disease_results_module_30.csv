@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,25,30,-0.09090909090909094
+1,disease_on_symptoms,17,22,0.747531879884821
+2,disease_on_drugs,21,29,-0.05563218390804603

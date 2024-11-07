@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,27,22,0.10119047619047628
+1,disease_on_symptoms,17,20,2.495985691573927
+2,disease_on_drugs,25,19,0.1746411483253587

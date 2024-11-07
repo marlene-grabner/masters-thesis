@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,19,23,-0.21771820856489055
+2,disease_on_drugs,29,24,-0.33485144220342655

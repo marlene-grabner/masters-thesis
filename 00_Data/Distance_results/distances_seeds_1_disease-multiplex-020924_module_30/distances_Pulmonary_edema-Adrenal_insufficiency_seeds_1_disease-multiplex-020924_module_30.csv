@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,17,0.19649561952440542
+1,disease_on_symptoms,14,21,1.407142857142857
+2,disease_on_drugs,27,14,0.3532068654019871

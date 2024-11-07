@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,13,18,0.9009511993382961
+2,disease_on_drugs,21,29,0.034351395730706

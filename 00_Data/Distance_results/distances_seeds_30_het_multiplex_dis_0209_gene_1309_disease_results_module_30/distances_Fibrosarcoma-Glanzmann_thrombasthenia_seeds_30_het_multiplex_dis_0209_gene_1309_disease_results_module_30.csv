@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.11111111111111116
+1,disease_on_symptoms,14,19,0.19987468671679176
+2,disease_on_drugs,26,24,-0.036346153846153806

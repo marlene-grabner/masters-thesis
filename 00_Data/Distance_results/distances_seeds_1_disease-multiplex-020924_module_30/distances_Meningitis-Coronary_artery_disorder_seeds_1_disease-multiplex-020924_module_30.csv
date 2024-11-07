@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,19,0.3802934059286145
+1,disease_on_symptoms,20,21,2.0207026713124274
+2,disease_on_drugs,26,17,1.0697674418604652

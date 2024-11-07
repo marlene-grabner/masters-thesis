@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,23,28,0.4659450736816466
+1,disease_on_symptoms,23,24,0.9382130743139072
+2,disease_on_drugs,18,28,0.7662180814354729

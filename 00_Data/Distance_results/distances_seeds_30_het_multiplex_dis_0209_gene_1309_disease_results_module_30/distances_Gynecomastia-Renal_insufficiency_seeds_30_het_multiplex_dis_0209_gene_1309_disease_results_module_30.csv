@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,15,19,-0.27605779153766763
+2,disease_on_drugs,29,28,-0.21152017975974413

@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.39583333333333326
+1,disease_on_symptoms,12,27,1.2257834757834756
+2,disease_on_drugs,22,17,0.9374057315233784

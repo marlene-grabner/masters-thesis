@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.1596491228070176
+1,disease_on_symptoms,26,17,0.7255340418815113
+2,disease_on_drugs,28,26,1.0541310541310542

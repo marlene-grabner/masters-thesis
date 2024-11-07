@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,22,19,0.32967674174349404
+2,disease_on_drugs,15,28,-0.06068660022148409

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,16,20,0.5222222222222224
+1,disease_on_symptoms,26,18,2.3366355866355866
+2,disease_on_drugs,14,19,1.094896331738437

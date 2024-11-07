@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Urticaria nodes,sAB
+0,disease_on_genes,14,24,-0.14097744360902242
+1,disease_on_symptoms,26,21,-0.014574078403865709
+2,disease_on_drugs,14,24,0.149592731829574

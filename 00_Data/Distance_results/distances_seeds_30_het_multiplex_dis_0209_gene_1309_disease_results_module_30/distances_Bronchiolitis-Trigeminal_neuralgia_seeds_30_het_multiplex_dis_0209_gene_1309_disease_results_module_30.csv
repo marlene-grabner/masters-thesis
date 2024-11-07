@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,28,30,-0.10344827586206895
+1,disease_on_symptoms,25,15,0.24333333333333318
+2,disease_on_drugs,24,25,-0.0825850340136054

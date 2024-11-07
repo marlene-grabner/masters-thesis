@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,26,29,0.10909090909090913
+1,disease_on_symptoms,20,25,0.4572222222222222
+2,disease_on_drugs,25,27,0.12179487179487203

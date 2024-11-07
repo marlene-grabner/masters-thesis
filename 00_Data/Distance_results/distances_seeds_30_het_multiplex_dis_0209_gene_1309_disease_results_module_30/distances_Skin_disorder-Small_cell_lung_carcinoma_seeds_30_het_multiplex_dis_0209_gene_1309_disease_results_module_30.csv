@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,25,30,-0.2909090909090909
+1,disease_on_symptoms,19,19,-0.2894736842105263
+2,disease_on_drugs,23,30,-0.2051544982225868

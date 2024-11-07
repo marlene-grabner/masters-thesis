@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,0.4833333333333334
+1,disease_on_symptoms,17,20,1.2788553259141493
+2,disease_on_drugs,17,28,0.7019841269841269

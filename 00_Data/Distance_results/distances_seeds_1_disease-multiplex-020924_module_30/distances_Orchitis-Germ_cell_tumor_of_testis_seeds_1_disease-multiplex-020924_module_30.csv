@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,23,27,0.28
+1,disease_on_symptoms,16,23,1.340405518394649
+2,disease_on_drugs,17,20,0.34658187599364076

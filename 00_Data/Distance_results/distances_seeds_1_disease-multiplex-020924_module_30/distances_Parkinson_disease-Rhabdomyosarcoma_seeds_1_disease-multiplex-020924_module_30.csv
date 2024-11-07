@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,21,23,0.3240165631469978
+1,disease_on_symptoms,20,24,2.081060606060606
+2,disease_on_drugs,19,17,1.4722222222222223

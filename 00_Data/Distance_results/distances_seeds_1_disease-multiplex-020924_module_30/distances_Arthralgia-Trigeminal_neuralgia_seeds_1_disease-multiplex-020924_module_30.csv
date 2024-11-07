@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.015394088669950623
+1,disease_on_symptoms,19,19,0.44736842105263164
+2,disease_on_drugs,30,26,-0.0013736263736263687

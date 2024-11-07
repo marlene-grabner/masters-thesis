@@ -1,0 +1,4 @@
+,Layer,Hyperpigmentation_of_the_skin nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,17,21,0.2790800530738613
+2,disease_on_drugs,28,27,-0.07015392015392008

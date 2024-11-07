@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,25,30,-0.09272727272727277
+1,disease_on_symptoms,23,25,0.8333695652173914
+2,disease_on_drugs,24,30,0.20694444444444438

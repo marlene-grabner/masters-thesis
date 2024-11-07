@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,26,30,-0.125
+1,disease_on_symptoms,20,18,0.48201754385964923
+2,disease_on_drugs,23,26,-0.14347143539690133

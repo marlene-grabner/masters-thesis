@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.18961412151067303
+1,disease_on_symptoms,24,20,0.6969696969696972
+2,disease_on_drugs,28,28,0.4999999999999998

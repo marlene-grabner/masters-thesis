@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Keloid nodes,sAB
+0,disease_on_genes,29,22,-0.26331168831168816
+1,disease_on_symptoms,17,20,-0.47496025437201905
+2,disease_on_drugs,25,19,-0.25

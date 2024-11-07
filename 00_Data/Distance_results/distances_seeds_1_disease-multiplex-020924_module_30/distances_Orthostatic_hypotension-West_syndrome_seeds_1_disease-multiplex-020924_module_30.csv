@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.322316384180791
+1,disease_on_symptoms,12,18,-0.11388888888888893
+2,disease_on_drugs,17,22,0.09879336349924595

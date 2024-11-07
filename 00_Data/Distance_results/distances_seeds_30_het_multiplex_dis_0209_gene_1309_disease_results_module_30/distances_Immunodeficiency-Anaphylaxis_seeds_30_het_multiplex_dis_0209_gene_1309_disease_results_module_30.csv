@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,-0.15059399021663178
+1,disease_on_symptoms,21,14,1.2023809523809523
+2,disease_on_drugs,26,26,-0.23076923076923084

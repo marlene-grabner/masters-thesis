@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.05763532763532764
+1,disease_on_symptoms,21,19,0.5098370927318299
+2,disease_on_drugs,24,24,0.10416666666666674

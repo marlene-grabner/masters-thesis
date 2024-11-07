@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Goiter nodes,sAB
+0,disease_on_genes,14,26,0.3445054945054946
+1,disease_on_symptoms,23,15,1.792143401983219
+2,disease_on_drugs,14,16,1.0333333333333332

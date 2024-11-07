@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,0.13559322033898313
+1,disease_on_symptoms,18,14,0.16319444444444464
+2,disease_on_drugs,30,22,0.06888111888111892

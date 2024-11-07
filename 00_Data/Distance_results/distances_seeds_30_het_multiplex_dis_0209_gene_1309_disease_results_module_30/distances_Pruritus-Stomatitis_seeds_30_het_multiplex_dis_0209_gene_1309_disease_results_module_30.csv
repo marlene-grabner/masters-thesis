@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.1764132553606239
+1,disease_on_symptoms,21,19,0.15037593984962405
+2,disease_on_drugs,27,29,-0.03281791643860621

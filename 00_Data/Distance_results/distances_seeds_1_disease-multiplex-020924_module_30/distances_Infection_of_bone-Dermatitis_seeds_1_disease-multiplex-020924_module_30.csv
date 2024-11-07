@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Dermatitis nodes,sAB
+0,disease_on_genes,26,26,-0.23453996983408731
+1,disease_on_symptoms,21,25,-0.17002070393374735
+2,disease_on_drugs,24,24,-0.27083333333333315

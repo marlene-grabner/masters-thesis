@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,17,19,-0.269779841761266
+2,disease_on_drugs,29,27,-0.30455208903484776

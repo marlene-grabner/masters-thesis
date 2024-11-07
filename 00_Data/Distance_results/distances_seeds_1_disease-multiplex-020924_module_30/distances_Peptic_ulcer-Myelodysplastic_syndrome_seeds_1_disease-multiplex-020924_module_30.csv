@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.17063492063492047
+1,disease_on_symptoms,14,15,1.7841543513957308
+2,disease_on_drugs,28,21,1.2346938775510206

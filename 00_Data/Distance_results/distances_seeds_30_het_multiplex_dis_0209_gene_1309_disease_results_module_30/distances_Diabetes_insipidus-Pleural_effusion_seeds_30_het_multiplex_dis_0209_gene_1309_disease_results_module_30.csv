@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.12362637362637363
+1,disease_on_symptoms,20,18,0.24736842105263168
+2,disease_on_drugs,20,27,0.1578014184397165

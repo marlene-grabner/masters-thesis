@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,30,29,0.10140268848626532
+1,disease_on_symptoms,18,17,0.40144724556489253
+2,disease_on_drugs,27,26,0.1900634306294684

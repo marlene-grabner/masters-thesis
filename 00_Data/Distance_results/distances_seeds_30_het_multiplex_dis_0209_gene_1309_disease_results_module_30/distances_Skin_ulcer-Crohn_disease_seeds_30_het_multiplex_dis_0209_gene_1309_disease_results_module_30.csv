@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,20,22,-0.033333333333333215
+2,disease_on_drugs,24,24,-0.10416666666666674

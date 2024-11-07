@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,-0.12073070607553371
+1,disease_on_symptoms,15,22,0.2631859131859131
+2,disease_on_drugs,23,29,0.027390151078307

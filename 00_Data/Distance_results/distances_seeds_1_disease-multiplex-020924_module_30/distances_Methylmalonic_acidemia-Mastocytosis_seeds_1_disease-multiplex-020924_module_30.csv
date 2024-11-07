@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,25,18,0.5964082687338501
+1,disease_on_symptoms,16,28,2.1753246753246755
+2,disease_on_drugs,17,17,1.0588235294117645

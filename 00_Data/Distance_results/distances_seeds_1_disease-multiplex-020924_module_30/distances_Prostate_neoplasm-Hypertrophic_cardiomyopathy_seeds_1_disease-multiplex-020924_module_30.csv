@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hypertrophic_cardiomyopathy nodes,sAB
+0,disease_on_genes,17,30,0.35965790571547784
+1,disease_on_symptoms,21,17,1.8738021524399233
+2,disease_on_drugs,17,17,0.9411764705882353

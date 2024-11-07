@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,21,30,-0.11890756302521022
+1,disease_on_symptoms,20,20,0.32499999999999973
+2,disease_on_drugs,21,28,0.07738095238095233

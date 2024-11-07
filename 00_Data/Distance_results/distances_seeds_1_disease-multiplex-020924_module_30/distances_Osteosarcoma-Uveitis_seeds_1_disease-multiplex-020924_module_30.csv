@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,0.10878787878787888
+1,disease_on_symptoms,24,21,0.6890873015873016
+2,disease_on_drugs,23,27,0.3414814814814815

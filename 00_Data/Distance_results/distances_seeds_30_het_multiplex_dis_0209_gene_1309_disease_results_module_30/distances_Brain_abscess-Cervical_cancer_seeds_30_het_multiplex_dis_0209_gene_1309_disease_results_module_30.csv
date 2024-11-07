@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,28,0.05454545454545445
+1,disease_on_symptoms,21,22,0.8661028893587033
+2,disease_on_drugs,23,15,0.04225781845919152

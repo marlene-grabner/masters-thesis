@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,22,27,0.024187452758881234
+1,disease_on_symptoms,17,16,1.508968360071301
+2,disease_on_drugs,21,27,0.4540343915343916

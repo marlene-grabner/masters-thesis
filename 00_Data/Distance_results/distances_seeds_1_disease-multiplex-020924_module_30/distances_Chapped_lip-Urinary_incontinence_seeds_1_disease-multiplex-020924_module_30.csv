@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,26,0.4615384615384617
+1,disease_on_symptoms,21,20,1.7010743321718933
+2,disease_on_drugs,24,20,1.1363636363636362

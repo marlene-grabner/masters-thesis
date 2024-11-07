@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Vitiligo nodes,sAB
+0,disease_on_genes,27,24,0.38739106753812624
+1,disease_on_symptoms,16,22,2.6001794258373203
+2,disease_on_drugs,18,11,1.0

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Nocturia nodes,sAB
+0,disease_on_genes,29,25,-0.05660377358490565
+1,disease_on_symptoms,23,18,0.8475315187934489
+2,disease_on_drugs,26,24,0.0012820512820510555

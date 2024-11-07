@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.2500000000000001
+1,disease_on_symptoms,16,19,-0.22420112781954904
+2,disease_on_drugs,28,29,-0.3176799758015728

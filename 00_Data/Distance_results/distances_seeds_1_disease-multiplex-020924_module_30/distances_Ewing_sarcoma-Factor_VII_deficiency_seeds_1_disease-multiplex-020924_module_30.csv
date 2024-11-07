@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,24,25,0.48974489795918363
+1,disease_on_symptoms,25,23,2.0228260869565218
+2,disease_on_drugs,17,21,1.4260651629072683

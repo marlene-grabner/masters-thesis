@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.21102863202545064
+1,disease_on_symptoms,16,27,2.1356858311800173
+2,disease_on_drugs,22,17,1.116892911010558

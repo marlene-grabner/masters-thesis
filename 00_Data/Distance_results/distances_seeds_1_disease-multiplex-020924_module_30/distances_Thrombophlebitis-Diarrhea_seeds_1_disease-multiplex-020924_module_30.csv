@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,28,27,0.28987493987494006
+1,disease_on_symptoms,15,19,2.017234262125903
+2,disease_on_drugs,21,26,0.9594926350245501

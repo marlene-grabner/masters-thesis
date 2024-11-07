@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.06910331384015578
+1,disease_on_symptoms,24,16,0.4145833333333333
+2,disease_on_drugs,28,27,0.3100408850408849

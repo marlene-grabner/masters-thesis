@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,17,18,0.4319794584500467
+2,disease_on_drugs,26,21,-0.0029226093055880753

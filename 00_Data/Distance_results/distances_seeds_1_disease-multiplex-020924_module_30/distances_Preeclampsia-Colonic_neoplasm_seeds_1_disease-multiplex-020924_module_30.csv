@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.1607142857142858
+1,disease_on_symptoms,17,19,1.9172686618507053
+2,disease_on_drugs,23,29,0.882107023411371

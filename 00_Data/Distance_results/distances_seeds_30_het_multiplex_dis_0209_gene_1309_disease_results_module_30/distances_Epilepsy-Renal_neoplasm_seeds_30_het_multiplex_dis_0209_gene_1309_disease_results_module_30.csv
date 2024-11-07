@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.08446327683615817
+1,disease_on_symptoms,21,20,1.072212543554007
+2,disease_on_drugs,29,28,0.5626026272577997

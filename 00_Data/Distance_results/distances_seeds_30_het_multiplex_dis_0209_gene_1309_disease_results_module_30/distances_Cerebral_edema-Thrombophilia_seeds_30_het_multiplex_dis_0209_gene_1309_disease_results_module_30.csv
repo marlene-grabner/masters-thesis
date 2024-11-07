@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,10,18,0.9944444444444445
+2,disease_on_drugs,16,22,0.502541866028708

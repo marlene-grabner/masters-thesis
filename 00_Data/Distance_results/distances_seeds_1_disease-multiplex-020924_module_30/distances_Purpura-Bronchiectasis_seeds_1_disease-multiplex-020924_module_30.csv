@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,26,30,0.03278388278388267
+1,disease_on_symptoms,17,15,0.9667892156862745
+2,disease_on_drugs,20,26,-0.01672240802675562

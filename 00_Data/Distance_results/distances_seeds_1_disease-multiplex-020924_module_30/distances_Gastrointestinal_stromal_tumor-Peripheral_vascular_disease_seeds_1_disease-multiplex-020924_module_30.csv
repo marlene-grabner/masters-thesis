@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,23,23,0.21739130434782594
+1,disease_on_symptoms,20,16,2.1090277777777775
+2,disease_on_drugs,19,22,1.4390243902439024

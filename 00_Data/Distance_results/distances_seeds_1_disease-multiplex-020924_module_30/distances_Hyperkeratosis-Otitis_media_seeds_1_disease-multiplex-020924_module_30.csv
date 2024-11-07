@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.14910778876296127
+1,disease_on_symptoms,21,22,0.9283700795328707
+2,disease_on_drugs,23,29,0.3905835543766578

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Uveitis nodes,sAB
+0,disease_on_genes,22,30,0.2682983682983682
+1,disease_on_symptoms,24,21,0.8585317460317459
+2,disease_on_drugs,20,27,0.40328999211977945

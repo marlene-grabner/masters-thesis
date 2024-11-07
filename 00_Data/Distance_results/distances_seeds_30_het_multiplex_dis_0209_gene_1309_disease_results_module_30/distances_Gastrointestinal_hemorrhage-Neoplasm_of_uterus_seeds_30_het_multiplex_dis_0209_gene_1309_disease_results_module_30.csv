@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,28,30,0.05110837438423643
+1,disease_on_symptoms,20,18,0.42573099415204685
+2,disease_on_drugs,27,26,0.24556523141428777

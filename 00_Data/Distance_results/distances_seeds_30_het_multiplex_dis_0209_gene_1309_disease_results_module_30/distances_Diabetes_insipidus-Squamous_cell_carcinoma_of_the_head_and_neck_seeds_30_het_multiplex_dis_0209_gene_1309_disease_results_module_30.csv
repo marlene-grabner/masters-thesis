@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,30,-0.1061355311355312
+1,disease_on_symptoms,20,22,0.27402597402597406
+2,disease_on_drugs,20,30,0.11999999999999988

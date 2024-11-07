@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.3221523410202656
+1,disease_on_symptoms,22,15,1.2524160524160526
+2,disease_on_drugs,26,21,1.4179331306990883

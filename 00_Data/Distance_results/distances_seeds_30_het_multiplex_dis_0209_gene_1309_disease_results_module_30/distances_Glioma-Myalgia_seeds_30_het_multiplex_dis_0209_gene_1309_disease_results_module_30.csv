@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Myalgia nodes,sAB
+0,disease_on_genes,22,30,0.07692307692307687
+1,disease_on_symptoms,21,16,1.7848696911196908
+2,disease_on_drugs,21,29,0.5423645320197046

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Pneumonia nodes,sAB
+0,disease_on_genes,28,30,0.2739326765188834
+1,disease_on_symptoms,15,26,1.8591932457786118
+2,disease_on_drugs,20,28,1.3291666666666666

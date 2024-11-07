@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,-0.13793103448275867
+1,disease_on_symptoms,16,19,0.011936090225563856
+2,disease_on_drugs,23,30,-0.3681432868471426

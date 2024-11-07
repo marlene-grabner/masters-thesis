@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,30,-0.05769230769230771
+1,disease_on_symptoms,16,20,1.275
+2,disease_on_drugs,26,26,0.03846153846153855

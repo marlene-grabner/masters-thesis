@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,26,26,-0.038461538461538325
+1,disease_on_symptoms,18,17,0.5735760971055088
+2,disease_on_drugs,23,23,0.0

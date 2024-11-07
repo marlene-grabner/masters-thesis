@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.3404761904761906
+1,disease_on_symptoms,19,20,0.5908569500674763
+2,disease_on_drugs,24,22,0.39221014492753614

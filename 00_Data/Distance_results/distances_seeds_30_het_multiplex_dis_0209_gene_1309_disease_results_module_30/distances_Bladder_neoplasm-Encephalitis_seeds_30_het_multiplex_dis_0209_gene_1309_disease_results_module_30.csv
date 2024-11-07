@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,29,-0.036363636363636376
+1,disease_on_symptoms,19,13,0.631578947368421
+2,disease_on_drugs,25,22,0.20551257253384891

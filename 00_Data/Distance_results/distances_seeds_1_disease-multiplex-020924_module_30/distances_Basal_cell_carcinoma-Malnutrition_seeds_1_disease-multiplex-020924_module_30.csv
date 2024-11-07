@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Malnutrition nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615374
+1,disease_on_symptoms,23,18,1.7692942146812773
+2,disease_on_drugs,25,23,0.8958333333333333

@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.1020408163265305
+1,disease_on_symptoms,25,17,1.071484593837535
+2,disease_on_drugs,24,23,0.5101372186247302

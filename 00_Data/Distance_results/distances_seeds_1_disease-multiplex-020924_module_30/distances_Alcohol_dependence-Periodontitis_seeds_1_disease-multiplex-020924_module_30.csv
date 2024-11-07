@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Periodontitis nodes,sAB
+0,disease_on_genes,12,23,0.4074016563146998
+1,disease_on_symptoms,27,25,2.038347578347578
+2,disease_on_drugs,9,22,0.5626425545780382

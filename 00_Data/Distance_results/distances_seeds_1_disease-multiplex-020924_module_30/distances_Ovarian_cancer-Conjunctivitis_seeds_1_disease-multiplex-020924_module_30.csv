@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,27,0.20370370370370372
+1,disease_on_symptoms,17,27,0.7970390176272528
+2,disease_on_drugs,25,26,0.6282051282051284

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,16,27,0.01927217915590007
+1,disease_on_symptoms,26,23,1.1721042932223056
+2,disease_on_drugs,14,15,-0.06206896551724128

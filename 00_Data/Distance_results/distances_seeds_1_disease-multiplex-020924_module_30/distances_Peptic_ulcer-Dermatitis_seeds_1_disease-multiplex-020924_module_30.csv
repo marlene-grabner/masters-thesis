@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Dermatitis nodes,sAB
+0,disease_on_genes,28,26,0.043800539083557855
+1,disease_on_symptoms,14,25,0.5953479853479853
+2,disease_on_drugs,28,24,0.3814102564102566

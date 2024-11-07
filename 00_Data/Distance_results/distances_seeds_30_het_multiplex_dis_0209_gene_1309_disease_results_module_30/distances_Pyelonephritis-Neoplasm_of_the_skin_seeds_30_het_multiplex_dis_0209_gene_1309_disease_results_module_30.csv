@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,24,30,-0.07453703703703718
+1,disease_on_symptoms,19,22,0.356255105613257
+2,disease_on_drugs,19,29,-0.1572897761645493

@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,-0.05175438596491222
+1,disease_on_symptoms,18,19,0.843804330646436
+2,disease_on_drugs,22,28,0.09610389610389602

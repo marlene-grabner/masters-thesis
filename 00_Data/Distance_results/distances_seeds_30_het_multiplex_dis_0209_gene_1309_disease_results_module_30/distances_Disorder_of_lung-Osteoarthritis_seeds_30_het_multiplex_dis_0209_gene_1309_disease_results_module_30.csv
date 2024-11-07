@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,26,-0.18940493468795339
+1,disease_on_symptoms,18,22,-0.3305555555555555
+2,disease_on_drugs,24,25,-0.285357142857143

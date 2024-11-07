@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,20,15,0.541666666666667
+2,disease_on_drugs,21,23,-0.043760587238848014

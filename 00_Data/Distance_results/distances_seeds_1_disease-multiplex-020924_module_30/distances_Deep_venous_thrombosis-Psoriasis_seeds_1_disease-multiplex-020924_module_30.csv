@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,28,0.3214285714285714
+1,disease_on_symptoms,14,21,1.2595238095238095
+2,disease_on_drugs,24,28,0.9835164835164836

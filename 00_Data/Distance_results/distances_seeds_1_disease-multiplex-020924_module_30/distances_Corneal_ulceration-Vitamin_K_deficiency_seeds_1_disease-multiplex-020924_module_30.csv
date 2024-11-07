@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,28,25,0.07082210242587594
+1,disease_on_symptoms,19,23,1.5226653590497983
+2,disease_on_drugs,26,20,0.2978260869565217

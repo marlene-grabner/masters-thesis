@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,22,25,0.4417601547388783
+1,disease_on_symptoms,22,13,2.2181818181818183
+2,disease_on_drugs,14,16,0.5949404761904762

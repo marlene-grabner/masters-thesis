@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.5164835164835166
+1,disease_on_symptoms,17,21,1.062435500515996
+2,disease_on_drugs,18,29,0.8839569576913673

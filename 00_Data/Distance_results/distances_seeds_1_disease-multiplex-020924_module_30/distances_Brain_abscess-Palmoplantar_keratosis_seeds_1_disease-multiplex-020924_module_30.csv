@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,27,26,0.3787561146051712
+1,disease_on_symptoms,21,19,1.03796992481203
+2,disease_on_drugs,23,18,0.5978850005891363

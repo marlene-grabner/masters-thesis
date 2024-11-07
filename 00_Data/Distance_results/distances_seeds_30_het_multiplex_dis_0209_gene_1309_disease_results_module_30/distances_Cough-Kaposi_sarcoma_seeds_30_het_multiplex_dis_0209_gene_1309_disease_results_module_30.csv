@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,22,16,0.06638755980861255
+2,disease_on_drugs,24,28,0.21611721611721602

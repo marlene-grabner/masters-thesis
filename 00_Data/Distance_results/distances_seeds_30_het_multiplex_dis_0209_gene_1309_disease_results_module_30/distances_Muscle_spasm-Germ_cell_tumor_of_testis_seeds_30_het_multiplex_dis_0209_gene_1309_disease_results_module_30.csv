@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.19590643274853803
+1,disease_on_symptoms,15,22,0.7047092547092548
+2,disease_on_drugs,29,20,0.1044159042927515

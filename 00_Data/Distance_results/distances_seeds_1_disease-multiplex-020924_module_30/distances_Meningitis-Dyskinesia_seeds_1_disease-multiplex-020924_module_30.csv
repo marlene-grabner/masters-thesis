@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,24,0.2293293211884624
+1,disease_on_symptoms,20,17,2.2208664546899843
+2,disease_on_drugs,26,23,1.0

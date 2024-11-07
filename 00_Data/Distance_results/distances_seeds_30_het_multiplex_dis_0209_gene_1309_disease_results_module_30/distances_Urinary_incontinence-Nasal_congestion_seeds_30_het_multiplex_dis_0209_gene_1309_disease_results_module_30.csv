@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,29,30,0.05084745762711873
+1,disease_on_symptoms,20,14,0.5457983193277312
+2,disease_on_drugs,20,25,0.1511111111111112

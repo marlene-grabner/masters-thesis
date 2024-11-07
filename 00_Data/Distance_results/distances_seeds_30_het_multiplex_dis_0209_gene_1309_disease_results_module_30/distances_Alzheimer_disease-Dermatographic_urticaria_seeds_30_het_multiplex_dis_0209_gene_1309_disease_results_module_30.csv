@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,23,29,0.13461538461538458
+1,disease_on_symptoms,19,18,0.7218270902481425
+2,disease_on_drugs,19,28,0.2920732682770757

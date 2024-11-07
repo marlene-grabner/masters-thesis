@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.1717592592592594
+1,disease_on_symptoms,20,17,1.4681637519872814
+2,disease_on_drugs,29,23,0.8501326259946951

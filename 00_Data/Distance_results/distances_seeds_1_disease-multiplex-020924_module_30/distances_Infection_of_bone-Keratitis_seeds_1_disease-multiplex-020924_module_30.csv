@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.22212047212047215
+1,disease_on_symptoms,21,25,0.8038923395445137
+2,disease_on_drugs,24,23,0.3190911193339503

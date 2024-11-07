@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,23,21,0.36989459815546777
+2,disease_on_drugs,15,29,-0.16630094043887156

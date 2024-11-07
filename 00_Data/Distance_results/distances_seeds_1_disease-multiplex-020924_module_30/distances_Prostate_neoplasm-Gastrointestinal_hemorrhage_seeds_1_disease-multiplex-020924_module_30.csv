@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,17,27,0.11804317686670607
+1,disease_on_symptoms,21,19,0.36528822055137855
+2,disease_on_drugs,17,27,0.8729946524064172

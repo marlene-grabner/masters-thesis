@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.08966861598440568
+1,disease_on_symptoms,20,21,-0.05223577235772359
+2,disease_on_drugs,27,25,-0.19313390313390322

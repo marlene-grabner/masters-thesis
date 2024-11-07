@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,14,19,-0.30730234677603097
+2,disease_on_drugs,26,24,-0.08134615384615373

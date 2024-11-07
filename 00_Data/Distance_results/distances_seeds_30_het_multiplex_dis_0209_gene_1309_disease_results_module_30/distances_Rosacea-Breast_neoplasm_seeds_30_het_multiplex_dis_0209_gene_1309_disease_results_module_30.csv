@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,18,20,-0.004824561403508731
+2,disease_on_drugs,30,30,0.1333333333333333

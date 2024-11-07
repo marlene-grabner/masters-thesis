@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.06920077972709548
+1,disease_on_symptoms,22,19,0.43155560742210275
+2,disease_on_drugs,22,25,0.3877369439071565

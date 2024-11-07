@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.23763911694946183
+1,disease_on_symptoms,16,27,1.4848460378983634
+2,disease_on_drugs,23,26,0.5316360657975565

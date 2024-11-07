@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.12727272727272732
+1,disease_on_symptoms,20,21,0.45708478513356576
+2,disease_on_drugs,28,21,-0.05272108843537415

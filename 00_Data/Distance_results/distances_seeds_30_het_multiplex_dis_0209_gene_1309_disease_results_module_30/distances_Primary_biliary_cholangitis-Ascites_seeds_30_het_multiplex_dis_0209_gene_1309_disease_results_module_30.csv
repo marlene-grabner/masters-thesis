@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.019047619047619202
+1,disease_on_symptoms,23,22,0.3798199385155907
+2,disease_on_drugs,26,27,-0.000107509541471984

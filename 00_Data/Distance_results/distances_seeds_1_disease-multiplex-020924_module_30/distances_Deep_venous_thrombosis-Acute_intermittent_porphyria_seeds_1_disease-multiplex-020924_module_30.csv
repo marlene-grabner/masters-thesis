@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,28,27,0.3996512746512746
+1,disease_on_symptoms,14,20,2.9241596638655465
+2,disease_on_drugs,24,15,0.8461538461538463

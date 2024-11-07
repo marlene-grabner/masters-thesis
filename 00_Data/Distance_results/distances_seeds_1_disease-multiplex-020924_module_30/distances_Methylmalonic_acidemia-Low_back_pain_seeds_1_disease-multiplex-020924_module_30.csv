@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,25,30,0.17242424242424237
+1,disease_on_symptoms,16,17,-0.018939393939394034
+2,disease_on_drugs,17,26,0.3941123855624542

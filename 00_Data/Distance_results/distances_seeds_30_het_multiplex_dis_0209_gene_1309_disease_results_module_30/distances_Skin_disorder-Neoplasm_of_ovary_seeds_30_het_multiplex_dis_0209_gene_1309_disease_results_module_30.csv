@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,25,30,-0.23484848484848475
+1,disease_on_symptoms,19,22,0.3726805928346366
+2,disease_on_drugs,23,29,-0.2323261446199978

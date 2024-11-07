@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.09272727272727277
+1,disease_on_symptoms,14,20,1.2186974789915963
+2,disease_on_drugs,24,22,0.04701910408432153

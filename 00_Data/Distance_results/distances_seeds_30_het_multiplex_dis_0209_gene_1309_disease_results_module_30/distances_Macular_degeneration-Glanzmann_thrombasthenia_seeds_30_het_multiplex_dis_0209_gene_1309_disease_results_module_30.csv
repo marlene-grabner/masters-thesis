@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.37222222222222223
+1,disease_on_symptoms,17,19,0.7187822497420022
+2,disease_on_drugs,17,24,0.4583034433285509

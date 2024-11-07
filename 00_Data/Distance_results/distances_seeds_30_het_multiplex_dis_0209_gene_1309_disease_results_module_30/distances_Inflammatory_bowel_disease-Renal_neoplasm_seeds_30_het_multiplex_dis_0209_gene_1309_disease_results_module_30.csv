@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.27118644067796616
+1,disease_on_symptoms,20,20,-0.24999999999999978
+2,disease_on_drugs,27,28,-0.2727392977392977

@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.4309090909090909
+1,disease_on_symptoms,23,12,0.9520703933747412
+2,disease_on_drugs,23,22,0.9342995169082127

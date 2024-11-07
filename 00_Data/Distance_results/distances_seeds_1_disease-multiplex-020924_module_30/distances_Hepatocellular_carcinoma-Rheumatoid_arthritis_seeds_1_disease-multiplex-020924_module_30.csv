@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,23,27,0.08096618357487917
+1,disease_on_symptoms,19,15,2.296800825593395
+2,disease_on_drugs,19,25,0.5936363636363635

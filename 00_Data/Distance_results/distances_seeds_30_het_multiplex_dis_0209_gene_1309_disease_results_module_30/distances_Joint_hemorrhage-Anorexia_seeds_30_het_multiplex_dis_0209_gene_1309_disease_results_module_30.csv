@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.10198714202220915
+1,disease_on_symptoms,17,13,1.0871794871794869
+2,disease_on_drugs,26,28,0.20278795278795303

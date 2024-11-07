@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,14,19,-0.565390749601276
+2,disease_on_drugs,24,30,-0.15694444444444433

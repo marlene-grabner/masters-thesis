@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,25,25,0.09999999999999987
+1,disease_on_symptoms,23,22,1.895586297760211
+2,disease_on_drugs,20,21,0.1457026713124272

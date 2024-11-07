@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,24,0.004901960784313708
+1,disease_on_symptoms,24,23,2.277328091273512
+2,disease_on_drugs,25,12,0.5345945945945945

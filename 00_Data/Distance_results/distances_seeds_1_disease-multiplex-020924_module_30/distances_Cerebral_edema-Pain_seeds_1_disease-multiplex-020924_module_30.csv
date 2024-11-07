@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.5686813186813189
+1,disease_on_symptoms,9,21,0.7206349206349207
+2,disease_on_drugs,11,26,0.39477414477414485

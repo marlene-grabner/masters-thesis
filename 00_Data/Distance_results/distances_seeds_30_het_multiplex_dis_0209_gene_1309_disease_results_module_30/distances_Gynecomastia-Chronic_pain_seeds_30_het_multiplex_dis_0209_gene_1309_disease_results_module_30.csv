@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,15,19,0.3462332301341591
+2,disease_on_drugs,29,28,0.10614899317258675

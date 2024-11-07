@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.05947497949138647
+1,disease_on_symptoms,18,19,1.0215346925873239
+2,disease_on_drugs,26,22,-0.041229603729603825

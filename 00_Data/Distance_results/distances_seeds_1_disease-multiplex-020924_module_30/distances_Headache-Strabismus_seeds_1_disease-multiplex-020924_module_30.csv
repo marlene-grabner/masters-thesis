@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.12376267143709008
+1,disease_on_symptoms,25,26,0.3305128205128207
+2,disease_on_drugs,26,9,0.2966422466422465

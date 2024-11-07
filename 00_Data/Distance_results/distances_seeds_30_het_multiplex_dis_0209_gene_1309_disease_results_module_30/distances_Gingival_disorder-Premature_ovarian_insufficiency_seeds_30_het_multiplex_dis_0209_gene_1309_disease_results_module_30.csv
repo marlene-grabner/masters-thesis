@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,18,0.35723881776513355
+2,disease_on_drugs,24,22,0.21961462450592895

@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,24,22,0.191699604743083
+1,disease_on_symptoms,17,19,0.913656690746474
+2,disease_on_drugs,23,19,0.43227634303149176

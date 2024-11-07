@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,0.052424242424242484
+1,disease_on_symptoms,14,16,0.36458333333333326
+2,disease_on_drugs,22,30,0.08461538461538454

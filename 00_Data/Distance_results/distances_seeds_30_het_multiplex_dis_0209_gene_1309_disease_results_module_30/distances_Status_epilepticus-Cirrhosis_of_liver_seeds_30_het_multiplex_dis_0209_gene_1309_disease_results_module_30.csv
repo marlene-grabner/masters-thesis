@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,18,19,-0.35115378536431185
+2,disease_on_drugs,30,30,-0.25

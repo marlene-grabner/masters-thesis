@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,23,27,0.020000000000000018
+1,disease_on_symptoms,19,18,0.7285838470048995
+2,disease_on_drugs,19,22,0.27135605088108306

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,28,20,0.08869047619047632
+1,disease_on_symptoms,14,22,0.9303751803751803
+2,disease_on_drugs,28,15,1.3883720930232557

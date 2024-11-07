@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,24,15,0.17852564102564106
+1,disease_on_symptoms,25,27,0.15256410256410247
+2,disease_on_drugs,17,13,0.06666666666666665

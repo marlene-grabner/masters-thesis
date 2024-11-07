@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,23,28,0.21142369991474852
+1,disease_on_symptoms,19,21,2.0021929824561404
+2,disease_on_drugs,19,21,0.6523809523809523

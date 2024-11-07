@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Strabismus nodes,sAB
+0,disease_on_genes,17,13,0.3218702865761689
+1,disease_on_symptoms,25,26,0.412865761689291
+2,disease_on_drugs,13,9,0.31507381507381504

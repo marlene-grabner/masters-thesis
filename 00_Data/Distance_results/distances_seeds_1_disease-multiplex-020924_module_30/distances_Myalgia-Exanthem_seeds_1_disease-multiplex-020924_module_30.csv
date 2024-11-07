@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.053448275862068906
+1,disease_on_symptoms,16,26,1.3248626373626375
+2,disease_on_drugs,29,28,0.2277568922305766

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.012727272727272698
+1,disease_on_symptoms,19,21,1.6239974937343358
+2,disease_on_drugs,30,20,0.11499999999999999

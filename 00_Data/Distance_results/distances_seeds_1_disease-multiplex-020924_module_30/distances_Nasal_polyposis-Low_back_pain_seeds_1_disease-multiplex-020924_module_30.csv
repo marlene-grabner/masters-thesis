@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,15,30,0.461111111111111
+1,disease_on_symptoms,25,17,1.4666666666666666
+2,disease_on_drugs,10,26,0.45982905982905975

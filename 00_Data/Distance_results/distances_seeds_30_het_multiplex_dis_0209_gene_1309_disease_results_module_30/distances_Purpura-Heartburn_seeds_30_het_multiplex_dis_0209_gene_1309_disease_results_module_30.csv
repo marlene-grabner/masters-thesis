@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,0.00034940600978328185
+1,disease_on_symptoms,17,16,0.9166666666666665
+2,disease_on_drugs,24,25,0.3447448979591836

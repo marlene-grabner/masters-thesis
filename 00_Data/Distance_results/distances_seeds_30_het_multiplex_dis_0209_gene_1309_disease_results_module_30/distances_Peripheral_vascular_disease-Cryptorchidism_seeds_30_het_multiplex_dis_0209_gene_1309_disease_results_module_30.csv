@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,25,23,-0.0625724637681161
+1,disease_on_symptoms,17,19,1.0231338149294804
+2,disease_on_drugs,25,21,0.1801656314699791

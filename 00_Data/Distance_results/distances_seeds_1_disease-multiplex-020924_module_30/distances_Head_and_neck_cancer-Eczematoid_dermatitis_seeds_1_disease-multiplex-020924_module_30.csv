@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,27,28,0.2363516113516113
+1,disease_on_symptoms,22,24,0.8298748353096181
+2,disease_on_drugs,24,28,0.5187728937728939

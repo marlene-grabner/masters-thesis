@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.23636363636363633
+1,disease_on_symptoms,10,21,0.8192012288786481
+2,disease_on_drugs,16,21,0.22976994851994847

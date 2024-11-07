@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,22,28,0.3651948051948053
+1,disease_on_symptoms,22,15,1.7217854217854218
+2,disease_on_drugs,14,21,0.9214285714285713

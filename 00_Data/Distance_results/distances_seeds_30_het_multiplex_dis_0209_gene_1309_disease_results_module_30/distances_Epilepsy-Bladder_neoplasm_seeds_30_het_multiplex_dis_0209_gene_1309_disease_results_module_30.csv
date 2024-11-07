@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,-0.052380952380952306
+1,disease_on_symptoms,21,19,1.0958646616541352
+2,disease_on_drugs,29,25,0.7286079182630907

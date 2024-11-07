@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,0.22582101806239718
+1,disease_on_symptoms,24,14,0.42637844611528797
+2,disease_on_drugs,28,30,0.5688834154351396

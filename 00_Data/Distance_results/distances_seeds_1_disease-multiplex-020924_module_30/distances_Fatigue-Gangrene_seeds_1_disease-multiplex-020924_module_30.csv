@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,26,-0.15384615384615374
+1,disease_on_symptoms,21,19,-0.30338345864661664
+2,disease_on_drugs,26,23,-0.30509862807999455

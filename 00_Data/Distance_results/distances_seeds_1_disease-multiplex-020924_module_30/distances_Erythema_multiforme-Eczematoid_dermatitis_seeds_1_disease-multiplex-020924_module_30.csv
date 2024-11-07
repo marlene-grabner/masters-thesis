@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,28,-0.15463875205254518
+1,disease_on_symptoms,16,24,-0.49791666666666656
+2,disease_on_drugs,30,28,-0.2770935960591132

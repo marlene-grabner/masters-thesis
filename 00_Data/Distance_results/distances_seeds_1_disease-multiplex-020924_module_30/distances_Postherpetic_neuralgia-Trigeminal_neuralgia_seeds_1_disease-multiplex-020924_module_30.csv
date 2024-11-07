@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,-0.34610016420361267
+1,disease_on_symptoms,15,19,-0.5850361197110423
+2,disease_on_drugs,29,26,-0.27283578490475047

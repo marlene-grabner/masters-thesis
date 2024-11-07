@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Asthma nodes,sAB
+0,disease_on_genes,22,25,0.4416977225672878
+1,disease_on_symptoms,26,19,1.7388663967611335
+2,disease_on_drugs,12,24,0.7083333333333335

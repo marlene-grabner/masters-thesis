@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,28,23,-0.03746498599439774
+1,disease_on_symptoms,18,23,0.7897077883822319
+2,disease_on_drugs,25,22,0.27752417794970996

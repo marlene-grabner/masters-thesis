@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,14,0.11277056277056285
+1,disease_on_symptoms,22,25,0.3640812379110252
+2,disease_on_drugs,15,10,-0.22999999999999987

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.7412587412587412
+1,disease_on_symptoms,18,15,1.9141414141414144
+2,disease_on_drugs,22,16,1.1842105263157894

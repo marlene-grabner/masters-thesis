@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.018926553672316437
+1,disease_on_symptoms,19,16,0.9937030075187971
+2,disease_on_drugs,22,29,0.36243776507468195

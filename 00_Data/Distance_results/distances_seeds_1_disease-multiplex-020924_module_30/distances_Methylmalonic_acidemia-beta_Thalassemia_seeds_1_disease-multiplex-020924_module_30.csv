@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,22,0.4926692456479691
+1,disease_on_symptoms,16,21,2.12467824967825
+2,disease_on_drugs,17,6,1.0213128729752772

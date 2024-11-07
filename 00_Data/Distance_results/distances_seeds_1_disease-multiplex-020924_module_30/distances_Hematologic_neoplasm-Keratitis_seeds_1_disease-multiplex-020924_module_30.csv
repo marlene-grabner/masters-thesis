@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Keratitis nodes,sAB
+0,disease_on_genes,22,28,0.18428571428571439
+1,disease_on_symptoms,24,25,0.29052721088435374
+2,disease_on_drugs,19,23,0.13904326032472492

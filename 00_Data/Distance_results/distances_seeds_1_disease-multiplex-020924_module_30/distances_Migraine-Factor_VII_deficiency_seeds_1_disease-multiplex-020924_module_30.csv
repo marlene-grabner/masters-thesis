@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.30666666666666664
+1,disease_on_symptoms,14,23,1.9868222259526607
+2,disease_on_drugs,29,21,0.5923809523809522

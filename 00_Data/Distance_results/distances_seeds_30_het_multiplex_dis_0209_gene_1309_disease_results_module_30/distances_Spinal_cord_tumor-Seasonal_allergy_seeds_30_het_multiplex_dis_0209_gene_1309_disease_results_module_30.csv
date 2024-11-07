@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,29,29,-0.13793103448275867
+1,disease_on_symptoms,14,18,0.28125
+2,disease_on_drugs,22,29,-0.16134980638023233

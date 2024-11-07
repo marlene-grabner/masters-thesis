@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,25,29,-0.35185185185185186
+1,disease_on_symptoms,22,18,-0.8409090909090908
+2,disease_on_drugs,25,29,-0.42950191570881213

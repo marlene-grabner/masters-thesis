@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Obesity nodes,sAB
+0,disease_on_genes,26,26,0.03846153846153855
+1,disease_on_symptoms,21,20,0.7498257839721252
+2,disease_on_drugs,26,27,0.37733161318066966

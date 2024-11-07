@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,28,0.1607142857142856
+1,disease_on_symptoms,15,21,0.8317460317460315
+2,disease_on_drugs,21,24,0.5777777777777777

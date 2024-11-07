@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.4525862068965516
+1,disease_on_symptoms,16,17,1.5787098930481285
+2,disease_on_drugs,23,25,1.2490942028985508

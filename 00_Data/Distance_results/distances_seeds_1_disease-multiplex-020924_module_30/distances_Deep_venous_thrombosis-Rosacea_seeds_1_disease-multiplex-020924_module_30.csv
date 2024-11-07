@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Rosacea nodes,sAB
+0,disease_on_genes,28,30,0.2424876847290638
+1,disease_on_symptoms,14,17,1.2288560585524535
+2,disease_on_drugs,24,27,0.6666666666666667

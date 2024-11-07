@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.08620689655172409
+1,disease_on_symptoms,16,18,0.6836192810457518
+2,disease_on_drugs,29,27,0.07252326217843463

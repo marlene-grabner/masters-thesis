@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.05084745762711862
+1,disease_on_symptoms,12,21,0.5227272727272729
+2,disease_on_drugs,30,29,-0.0003019676602376009

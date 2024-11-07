@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,16,27,0.4378768303186906
+1,disease_on_symptoms,26,17,2.4338629906345366
+2,disease_on_drugs,14,20,0.9411764705882353

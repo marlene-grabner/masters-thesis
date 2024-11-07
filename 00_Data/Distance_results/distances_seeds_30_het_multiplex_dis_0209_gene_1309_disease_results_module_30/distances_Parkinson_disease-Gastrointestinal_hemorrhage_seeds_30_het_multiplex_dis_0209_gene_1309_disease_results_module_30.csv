@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,23,28,-0.03746498599439774
+1,disease_on_symptoms,23,20,0.6905460060667341
+2,disease_on_drugs,22,27,0.2107812822098536

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,-0.4661330049261083
+1,disease_on_symptoms,20,17,-0.8682034976152624
+2,disease_on_drugs,28,25,-0.5064016172506739

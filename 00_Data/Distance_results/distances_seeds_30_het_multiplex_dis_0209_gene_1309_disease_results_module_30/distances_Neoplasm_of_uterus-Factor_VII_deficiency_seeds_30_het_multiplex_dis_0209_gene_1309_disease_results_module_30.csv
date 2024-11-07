@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.05110837438423643
+1,disease_on_symptoms,18,19,1.1893867551762287
+2,disease_on_drugs,26,25,0.43208144796380066

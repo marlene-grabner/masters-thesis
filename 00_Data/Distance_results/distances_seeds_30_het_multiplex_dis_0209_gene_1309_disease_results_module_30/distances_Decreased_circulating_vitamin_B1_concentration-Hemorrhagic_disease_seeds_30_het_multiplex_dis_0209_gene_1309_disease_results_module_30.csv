@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,17,19,0.3930168558651528
+2,disease_on_drugs,25,24,0.09938775510204079

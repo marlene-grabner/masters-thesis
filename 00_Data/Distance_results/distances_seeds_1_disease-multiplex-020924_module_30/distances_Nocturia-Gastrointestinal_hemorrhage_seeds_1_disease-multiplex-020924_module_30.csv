@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,21,27,0.34391534391534395
+1,disease_on_symptoms,24,19,0.8805844553243574
+2,disease_on_drugs,14,27,0.5270034843205573

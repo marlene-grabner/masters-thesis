@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,-0.018181818181818188
+1,disease_on_symptoms,12,19,0.6359649122807016
+2,disease_on_drugs,28,25,0.16908355795148244

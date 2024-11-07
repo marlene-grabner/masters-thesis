@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,-0.21433132640029195
+1,disease_on_symptoms,21,20,0.3220383275261325
+2,disease_on_drugs,27,28,-0.18089225589225588

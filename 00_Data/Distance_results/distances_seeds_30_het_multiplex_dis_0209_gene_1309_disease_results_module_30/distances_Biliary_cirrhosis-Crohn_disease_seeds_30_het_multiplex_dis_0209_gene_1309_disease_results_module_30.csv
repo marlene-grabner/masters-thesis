@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,26,-0.28846153846153844
+1,disease_on_symptoms,22,22,-0.09090909090909083
+2,disease_on_drugs,25,24,-0.34452380952380957

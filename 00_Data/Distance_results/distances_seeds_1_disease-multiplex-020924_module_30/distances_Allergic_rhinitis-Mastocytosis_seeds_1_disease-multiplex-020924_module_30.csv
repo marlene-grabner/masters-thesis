@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,21,18,-0.1285103785103785
+1,disease_on_symptoms,22,28,0.38850649350649347
+2,disease_on_drugs,21,17,-0.043785935426802425

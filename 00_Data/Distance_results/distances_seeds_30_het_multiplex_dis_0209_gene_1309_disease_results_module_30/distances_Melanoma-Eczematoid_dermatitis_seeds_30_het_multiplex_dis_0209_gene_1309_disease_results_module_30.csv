@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,27,30,-0.0009746588693957392
+1,disease_on_symptoms,23,25,1.0000362318840579
+2,disease_on_drugs,25,30,0.4518181818181819

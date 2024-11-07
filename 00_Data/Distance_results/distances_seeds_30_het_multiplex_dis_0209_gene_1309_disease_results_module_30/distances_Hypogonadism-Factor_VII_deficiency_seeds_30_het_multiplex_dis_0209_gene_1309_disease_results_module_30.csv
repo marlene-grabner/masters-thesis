@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,-0.05233990147783241
+1,disease_on_symptoms,17,19,1.2492260061919505
+2,disease_on_drugs,29,25,0.09708812260536392

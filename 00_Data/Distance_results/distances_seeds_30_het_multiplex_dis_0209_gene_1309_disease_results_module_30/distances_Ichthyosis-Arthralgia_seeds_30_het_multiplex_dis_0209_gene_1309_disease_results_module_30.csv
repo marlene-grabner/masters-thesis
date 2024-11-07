@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Arthralgia nodes,sAB
+0,disease_on_genes,28,30,0.01662561576354693
+1,disease_on_symptoms,18,17,0.4916433239962652
+2,disease_on_drugs,25,30,0.07181818181818178

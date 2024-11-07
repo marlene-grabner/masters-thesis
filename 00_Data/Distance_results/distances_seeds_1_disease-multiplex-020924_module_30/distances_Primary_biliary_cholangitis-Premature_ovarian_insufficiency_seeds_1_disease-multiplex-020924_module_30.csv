@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,26,23,0.3889324960753533
+1,disease_on_symptoms,17,22,1.0051419169066231
+2,disease_on_drugs,18,17,1.0879551820728293

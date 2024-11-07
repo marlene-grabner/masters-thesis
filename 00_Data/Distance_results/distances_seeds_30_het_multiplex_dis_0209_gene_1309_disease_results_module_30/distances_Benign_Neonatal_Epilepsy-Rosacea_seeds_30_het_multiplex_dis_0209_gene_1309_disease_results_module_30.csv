@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,18,0.37193627450980404
+2,disease_on_drugs,21,30,0.015126050420168013

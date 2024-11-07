@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,18,30,0.601388888888889
+1,disease_on_symptoms,21,15,0.5825396825396827
+2,disease_on_drugs,6,21,0.6984126984126984

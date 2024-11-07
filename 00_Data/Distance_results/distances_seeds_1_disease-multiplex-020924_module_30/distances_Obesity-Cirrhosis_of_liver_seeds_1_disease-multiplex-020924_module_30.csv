@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.2319597069597068
+1,disease_on_symptoms,20,14,1.5516806722689074
+2,disease_on_drugs,27,26,0.5097699295812503

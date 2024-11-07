@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.002631578947368318
+1,disease_on_symptoms,19,17,0.7910216718266252
+2,disease_on_drugs,20,17,0.17802066772655012

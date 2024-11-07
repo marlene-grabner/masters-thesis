@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.1744639376218322
+1,disease_on_symptoms,17,14,1.1925318514502576
+2,disease_on_drugs,24,26,0.45647435897435895

@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,28,22,0.5718181818181816
+1,disease_on_symptoms,21,21,2.976190476190476
+2,disease_on_drugs,21,6,0.8597883597883595

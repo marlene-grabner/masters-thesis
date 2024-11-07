@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.18647798742138355
+1,disease_on_symptoms,17,19,-0.46413828689370473
+2,disease_on_drugs,26,19,-0.38742690058479523

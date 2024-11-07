@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,25,30,0.146060606060606
+1,disease_on_symptoms,22,20,1.2101731601731602
+2,disease_on_drugs,24,24,0.875

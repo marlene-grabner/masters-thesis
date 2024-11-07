@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.07272727272727275
+1,disease_on_symptoms,22,21,1.0219973824624988
+2,disease_on_drugs,28,21,-0.10629251700680298

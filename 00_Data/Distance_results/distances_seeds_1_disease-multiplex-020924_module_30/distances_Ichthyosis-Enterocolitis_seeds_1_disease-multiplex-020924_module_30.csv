@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,27,27,-0.03703703703703698
+1,disease_on_symptoms,17,21,0.5323603125460712
+2,disease_on_drugs,24,24,-0.02083333333333348

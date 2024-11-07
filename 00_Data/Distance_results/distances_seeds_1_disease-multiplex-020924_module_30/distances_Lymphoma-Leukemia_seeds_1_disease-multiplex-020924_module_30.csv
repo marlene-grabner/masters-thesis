@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,-0.5419580419580419
+1,disease_on_symptoms,21,27,-0.7513227513227515
+2,disease_on_drugs,25,17,-0.6282352941176472

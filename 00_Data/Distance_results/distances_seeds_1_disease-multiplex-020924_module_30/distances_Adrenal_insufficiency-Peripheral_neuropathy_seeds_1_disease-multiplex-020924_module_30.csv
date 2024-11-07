@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,17,30,0.2149353358364623
+1,disease_on_symptoms,21,20,2.045644599303136
+2,disease_on_drugs,14,24,1.0635964912280702

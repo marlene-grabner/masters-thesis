@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.3109195402298852
+1,disease_on_symptoms,17,12,1.1353955375253548
+2,disease_on_drugs,27,21,0.6183862433862435

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,15,0.595959595959596
+2,disease_on_drugs,30,29,0.21972530683810643

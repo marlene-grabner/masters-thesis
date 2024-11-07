@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.1435574229691876
+1,disease_on_symptoms,16,22,0.7956040669856459
+2,disease_on_drugs,23,20,0.24709302325581395

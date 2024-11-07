@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,23,30,0.09654088050314469
+1,disease_on_symptoms,16,20,0.7576388888888888
+2,disease_on_drugs,17,30,0.13727576136837705

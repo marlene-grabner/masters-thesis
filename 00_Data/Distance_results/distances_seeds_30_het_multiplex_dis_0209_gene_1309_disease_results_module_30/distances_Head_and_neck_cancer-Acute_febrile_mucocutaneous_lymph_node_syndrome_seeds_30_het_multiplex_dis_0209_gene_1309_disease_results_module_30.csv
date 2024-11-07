@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.1394736842105263
+1,disease_on_symptoms,22,13,-0.2770729270729271
+2,disease_on_drugs,23,28,-0.15663439288758996

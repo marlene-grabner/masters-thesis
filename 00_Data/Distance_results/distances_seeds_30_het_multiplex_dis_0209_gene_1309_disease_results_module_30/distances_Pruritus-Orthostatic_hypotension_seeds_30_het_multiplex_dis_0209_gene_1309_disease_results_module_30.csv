@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,27,30,-0.3343079922027291
+1,disease_on_symptoms,21,20,-0.04930313588850166
+2,disease_on_drugs,27,28,-0.43446368446368455

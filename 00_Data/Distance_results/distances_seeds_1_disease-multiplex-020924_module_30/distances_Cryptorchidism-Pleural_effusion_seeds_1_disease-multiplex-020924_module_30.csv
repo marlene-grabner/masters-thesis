@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,23,30,0.011305361305361306
+1,disease_on_symptoms,18,20,0.5326023391812864
+2,disease_on_drugs,18,22,0.25

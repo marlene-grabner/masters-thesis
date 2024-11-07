@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Periodontitis nodes,sAB
+0,disease_on_genes,29,23,0.3983104601545382
+1,disease_on_symptoms,17,25,2.0146218487394956
+2,disease_on_drugs,26,22,0.8084207459207458

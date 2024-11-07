@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,20,27,0.10541765169424755
+1,disease_on_symptoms,24,27,0.7918028322440087
+2,disease_on_drugs,18,26,0.18628593628593637

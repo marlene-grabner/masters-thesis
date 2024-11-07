@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,0.07802413273001507
+1,disease_on_symptoms,23,17,1.7180946291560102
+2,disease_on_drugs,25,24,0.4889455782312926

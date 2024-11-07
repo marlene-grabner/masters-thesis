@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,0.30763532763532764
+1,disease_on_symptoms,19,21,1.2798245614035089
+2,disease_on_drugs,13,27,0.49950142450142443

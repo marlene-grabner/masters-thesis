@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,26,29,-0.12727272727272732
+1,disease_on_symptoms,20,20,0.42500000000000027
+2,disease_on_drugs,23,27,-0.04917874396135269

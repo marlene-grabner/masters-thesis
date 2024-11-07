@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,22,22,-0.4318181818181819
+1,disease_on_symptoms,19,19,-0.631578947368421
+2,disease_on_drugs,18,19,-0.2973368104947052

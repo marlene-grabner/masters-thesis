@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,18,20,0.03026315789473699
+1,disease_on_symptoms,21,18,3.5625763125763124
+2,disease_on_drugs,17,19,0.6632266941864464

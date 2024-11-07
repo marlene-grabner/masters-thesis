@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,22,30,0.0
+1,disease_on_symptoms,17,9,0.641277023629965
+2,disease_on_drugs,21,11,0.03936688311688319

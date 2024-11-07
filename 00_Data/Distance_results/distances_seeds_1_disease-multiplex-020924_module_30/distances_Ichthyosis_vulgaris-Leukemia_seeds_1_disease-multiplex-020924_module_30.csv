@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.11851851851851825
+1,disease_on_symptoms,21,27,0.8439153439153442
+2,disease_on_drugs,27,17,0.1390374331550801

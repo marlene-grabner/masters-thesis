@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.07648247978436662
+1,disease_on_symptoms,25,18,0.5544444444444445
+2,disease_on_drugs,24,26,0.15910256410256407

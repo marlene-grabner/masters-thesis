@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,26,26,0.30769230769230793
+1,disease_on_symptoms,21,19,0.9481829573934837
+2,disease_on_drugs,24,24,0.9791666666666665

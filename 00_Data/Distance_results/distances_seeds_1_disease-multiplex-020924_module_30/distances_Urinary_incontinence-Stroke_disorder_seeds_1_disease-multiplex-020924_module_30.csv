@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,0.2237179487179488
+1,disease_on_symptoms,20,15,0.9011904761904761
+2,disease_on_drugs,20,30,0.6799999999999999

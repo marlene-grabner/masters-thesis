@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.16977401129943503
+1,disease_on_symptoms,19,18,0.8918128654970761
+2,disease_on_drugs,22,28,0.16558441558441572

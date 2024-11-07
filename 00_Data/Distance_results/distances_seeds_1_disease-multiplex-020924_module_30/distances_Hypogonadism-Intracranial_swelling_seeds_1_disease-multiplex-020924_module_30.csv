@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.18672316384180787
+1,disease_on_symptoms,12,14,0.6913919413919416
+2,disease_on_drugs,30,24,0.38842592592592573

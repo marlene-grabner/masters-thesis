@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,24,0.1991666666666665
+1,disease_on_symptoms,17,19,1.842707258341933
+2,disease_on_drugs,23,19,0.6110929497657187

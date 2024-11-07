@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.31082251082251067
+1,disease_on_symptoms,17,23,1.6015345268542203
+2,disease_on_drugs,17,14,0.5483870967741935

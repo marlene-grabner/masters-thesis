@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.051724137931034475
+1,disease_on_symptoms,20,22,0.3540043290043291
+2,disease_on_drugs,27,15,-0.04708994708994707

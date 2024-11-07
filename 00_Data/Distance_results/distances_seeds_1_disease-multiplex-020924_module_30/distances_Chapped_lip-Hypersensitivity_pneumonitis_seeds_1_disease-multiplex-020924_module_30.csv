@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,24,0.15999999999999992
+1,disease_on_symptoms,21,23,1.0281855825334085
+2,disease_on_drugs,24,24,0.10416666666666674

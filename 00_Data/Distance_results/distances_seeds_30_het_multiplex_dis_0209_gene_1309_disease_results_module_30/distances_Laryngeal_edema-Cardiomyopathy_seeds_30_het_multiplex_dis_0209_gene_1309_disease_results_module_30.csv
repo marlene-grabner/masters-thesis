@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.20212121212121215
+1,disease_on_symptoms,16,21,-0.09021074646074645
+2,disease_on_drugs,28,24,-0.1314102564102566

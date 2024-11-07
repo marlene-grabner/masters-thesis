@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,27,26,-0.2638015373864431
+1,disease_on_symptoms,23,20,-0.029246713852375983
+2,disease_on_drugs,25,23,-0.20862318840579708

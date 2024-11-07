@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,28,30,-0.10406403940886688
+1,disease_on_symptoms,18,15,-0.48131313131313136
+2,disease_on_drugs,25,24,0.01865646258503384

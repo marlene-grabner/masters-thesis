@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,25,24,0.5922278911564625
+1,disease_on_symptoms,20,17,2.6303259141494433
+2,disease_on_drugs,14,23,0.8388030888030888

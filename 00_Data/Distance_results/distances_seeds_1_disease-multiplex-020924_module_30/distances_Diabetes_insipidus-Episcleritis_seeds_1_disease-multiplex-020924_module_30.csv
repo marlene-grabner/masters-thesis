@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Episcleritis nodes,sAB
+0,disease_on_genes,24,30,0.20138888888888884
+1,disease_on_symptoms,18,22,0.8659090909090907
+2,disease_on_drugs,18,29,0.6584739545121057

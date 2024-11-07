@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,23,27,0.2762640901771338
+1,disease_on_symptoms,21,22,0.7915785764622973
+2,disease_on_drugs,19,24,1.0746124031007755

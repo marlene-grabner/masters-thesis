@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,26,30,0.37564102564102564
+1,disease_on_symptoms,17,20,1.3775437201907788
+2,disease_on_drugs,20,30,0.52

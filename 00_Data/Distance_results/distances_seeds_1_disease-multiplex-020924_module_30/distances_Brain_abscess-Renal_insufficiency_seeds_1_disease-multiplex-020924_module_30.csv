@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,20,-0.011308116627265496
+1,disease_on_symptoms,21,23,0.9929418407679278
+2,disease_on_drugs,23,17,0.3430946291560102

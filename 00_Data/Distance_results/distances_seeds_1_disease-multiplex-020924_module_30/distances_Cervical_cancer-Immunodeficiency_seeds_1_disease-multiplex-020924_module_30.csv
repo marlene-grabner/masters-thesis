@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,22,0.6479935408506836
+1,disease_on_symptoms,23,19,1.8021684646398606
+2,disease_on_drugs,15,18,0.16616161616161618

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.24365874009178112
+1,disease_on_symptoms,25,22,1.3982978723404254
+2,disease_on_drugs,26,15,0.508411507191995

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,15,29,0.8075757575757576
+1,disease_on_symptoms,25,18,2.7638242894056853
+2,disease_on_drugs,10,22,0.6812499999999999

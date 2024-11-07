@@ -1,0 +1,4 @@
+,Layer,Renovascular_hypertension nodes,Vasculitis nodes,sAB
+0,disease_on_genes,21,24,-0.1795634920634921
+1,disease_on_symptoms,22,19,0.7659586882950169
+2,disease_on_drugs,20,20,-0.25

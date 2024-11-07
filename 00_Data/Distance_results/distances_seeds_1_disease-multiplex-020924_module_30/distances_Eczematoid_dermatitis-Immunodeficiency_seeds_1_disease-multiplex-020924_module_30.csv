@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,28,22,0.25396103896103894
+1,disease_on_symptoms,24,19,0.9488474092207264
+2,disease_on_drugs,28,18,0.045203588681849594

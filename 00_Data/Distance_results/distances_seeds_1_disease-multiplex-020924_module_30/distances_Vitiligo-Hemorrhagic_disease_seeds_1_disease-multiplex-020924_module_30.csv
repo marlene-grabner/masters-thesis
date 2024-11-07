@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,24,24,0.45833333333333326
+1,disease_on_symptoms,22,19,0.6925253821916211
+2,disease_on_drugs,11,19,0.6280701754385967

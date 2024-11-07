@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,19,14,1.0459102301207563
+2,disease_on_drugs,29,28,0.14125831820931634

@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.1528248587570622
+1,disease_on_symptoms,13,18,0.1801075268817205
+2,disease_on_drugs,22,28,0.36136363636363633

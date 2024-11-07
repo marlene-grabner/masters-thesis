@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.09333333333333349
+1,disease_on_symptoms,20,26,0.705602006688963
+2,disease_on_drugs,30,13,0.13327370304114483

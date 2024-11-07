@@ -1,0 +1,4 @@
+,Layer,Vasculitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.019047619047619202
+1,disease_on_symptoms,18,18,0.5555555555555554
+2,disease_on_drugs,26,28,0.2596153846153846

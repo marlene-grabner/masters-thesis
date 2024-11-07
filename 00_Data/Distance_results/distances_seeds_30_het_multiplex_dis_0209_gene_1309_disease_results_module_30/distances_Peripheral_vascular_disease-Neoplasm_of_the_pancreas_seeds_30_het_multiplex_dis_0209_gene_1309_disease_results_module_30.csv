@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,25,30,-0.038181818181818206
+1,disease_on_symptoms,17,20,0.2227742448330685
+2,disease_on_drugs,25,30,0.14454545454545453

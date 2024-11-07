@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,27,28,0.10909090909090913
+1,disease_on_symptoms,17,25,1.067563025210084
+2,disease_on_drugs,17,24,0.3648971783835486

@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.24264069264069255
+1,disease_on_symptoms,16,23,1.6131201226309924
+2,disease_on_drugs,23,14,0.7726204465334903

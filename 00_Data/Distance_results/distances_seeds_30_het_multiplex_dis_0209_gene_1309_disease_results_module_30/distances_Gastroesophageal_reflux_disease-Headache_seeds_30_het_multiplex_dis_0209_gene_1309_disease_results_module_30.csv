@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Headache nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,18,23,-0.023359255331683704
+2,disease_on_drugs,25,23,-0.1498188405797103

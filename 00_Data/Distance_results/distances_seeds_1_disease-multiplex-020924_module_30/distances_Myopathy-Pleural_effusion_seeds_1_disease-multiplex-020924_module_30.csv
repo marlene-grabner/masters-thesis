@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,18,30,0.6430555555555555
+1,disease_on_symptoms,21,20,0.5102497096399536
+2,disease_on_drugs,6,22,0.4761904761904763

@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,-0.3035714285714286
+1,disease_on_symptoms,20,23,-0.7422143579373104
+2,disease_on_drugs,24,26,-0.17717948717948717

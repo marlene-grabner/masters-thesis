@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,11,19,-0.29138755980861264
+2,disease_on_drugs,27,28,-0.14386724386724414

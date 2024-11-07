@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,13,21,0.7197802197802199
+2,disease_on_drugs,19,27,-0.07708280362742603

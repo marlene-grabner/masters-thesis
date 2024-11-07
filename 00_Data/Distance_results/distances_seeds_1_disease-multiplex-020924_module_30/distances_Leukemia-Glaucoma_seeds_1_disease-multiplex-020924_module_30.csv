@@ -1,0 +1,4 @@
+,Layer,Leukemia nodes,Glaucoma nodes,sAB
+0,disease_on_genes,18,30,0.2250000000000001
+1,disease_on_symptoms,27,14,0.49316040779455395
+2,disease_on_drugs,17,30,0.6443888193575302

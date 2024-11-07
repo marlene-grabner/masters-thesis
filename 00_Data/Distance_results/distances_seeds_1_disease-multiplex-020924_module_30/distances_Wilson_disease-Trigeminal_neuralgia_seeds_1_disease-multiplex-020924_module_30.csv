@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,23,28,0.2691054682742662
+1,disease_on_symptoms,19,19,2.0526315789473686
+2,disease_on_drugs,11,26,1.007796257796258

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,-0.1613756613756615
+1,disease_on_symptoms,17,20,0.2560810810810812
+2,disease_on_drugs,24,27,-0.07638888888888906

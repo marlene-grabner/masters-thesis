@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,19,23,0.8010787839163127
+2,disease_on_drugs,25,24,0.14190476190476198

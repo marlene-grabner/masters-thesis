@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,16,22,-0.1798744019138756
+2,disease_on_drugs,28,30,-0.278448275862069

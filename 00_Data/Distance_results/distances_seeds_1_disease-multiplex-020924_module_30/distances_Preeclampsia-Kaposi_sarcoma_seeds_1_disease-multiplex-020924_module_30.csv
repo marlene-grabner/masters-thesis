@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.2504065040650407
+1,disease_on_symptoms,17,27,2.2317290552584668
+2,disease_on_drugs,23,13,0.9782608695652173

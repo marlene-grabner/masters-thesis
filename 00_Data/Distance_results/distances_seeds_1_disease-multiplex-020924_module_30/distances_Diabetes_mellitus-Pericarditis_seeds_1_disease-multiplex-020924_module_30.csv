@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Pericarditis nodes,sAB
+0,disease_on_genes,20,25,0.14722222222222237
+1,disease_on_symptoms,18,22,1.7792929292929296
+2,disease_on_drugs,19,25,0.6582296650717705

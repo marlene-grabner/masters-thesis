@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,18,11,-0.05215952629745746
+2,disease_on_drugs,26,21,-0.15978879276751634

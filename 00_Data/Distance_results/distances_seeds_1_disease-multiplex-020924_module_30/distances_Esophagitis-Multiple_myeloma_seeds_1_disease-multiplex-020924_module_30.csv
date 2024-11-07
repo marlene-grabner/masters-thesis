@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,24,26,-0.002661934338952898
+1,disease_on_symptoms,23,21,1.155467720685112
+2,disease_on_drugs,20,25,0.5350000000000001

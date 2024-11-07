@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,27,25,0.5205413105413106
+1,disease_on_symptoms,19,20,1.7419365721997302
+2,disease_on_drugs,20,14,0.7796218487394959

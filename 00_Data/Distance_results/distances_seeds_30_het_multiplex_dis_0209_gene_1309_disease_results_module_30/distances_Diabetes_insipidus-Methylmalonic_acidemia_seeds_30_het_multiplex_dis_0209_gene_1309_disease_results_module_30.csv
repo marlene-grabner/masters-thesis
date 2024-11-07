@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,26,25,-0.21530920060331815
+1,disease_on_symptoms,20,17,0.06907790143084269
+2,disease_on_drugs,20,21,-0.19715447154471533

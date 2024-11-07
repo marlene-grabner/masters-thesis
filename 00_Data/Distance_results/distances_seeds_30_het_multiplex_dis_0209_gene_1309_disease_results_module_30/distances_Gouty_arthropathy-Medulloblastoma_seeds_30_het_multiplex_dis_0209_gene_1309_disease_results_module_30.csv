@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,28,27,-0.054545454545454564
+1,disease_on_symptoms,18,22,0.404040404040404
+2,disease_on_drugs,23,26,-0.049416422087229295

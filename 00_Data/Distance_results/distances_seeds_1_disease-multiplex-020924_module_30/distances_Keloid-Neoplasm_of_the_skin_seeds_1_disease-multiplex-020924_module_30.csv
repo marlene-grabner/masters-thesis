@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,22,28,0.10311688311688316
+1,disease_on_symptoms,20,21,0.9294425087108014
+2,disease_on_drugs,19,24,0.5813953488372092

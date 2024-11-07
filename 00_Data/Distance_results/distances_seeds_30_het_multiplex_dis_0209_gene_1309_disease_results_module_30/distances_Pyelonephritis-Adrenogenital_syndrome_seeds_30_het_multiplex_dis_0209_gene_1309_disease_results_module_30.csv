@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,24,30,0.20138888888888884
+1,disease_on_symptoms,19,9,0.4586466165413534
+2,disease_on_drugs,19,23,0.1297809741745668

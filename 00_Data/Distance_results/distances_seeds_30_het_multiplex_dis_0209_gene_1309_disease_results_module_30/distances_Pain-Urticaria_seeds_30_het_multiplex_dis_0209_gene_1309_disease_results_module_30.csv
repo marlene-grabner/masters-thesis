@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,24,-0.28
+1,disease_on_symptoms,16,21,0.4454231016731016
+2,disease_on_drugs,26,24,-0.32032051282051277

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,29,30,0.255075004870446
+1,disease_on_symptoms,23,14,0.23233171059257995
+2,disease_on_drugs,27,30,0.7366471734892788

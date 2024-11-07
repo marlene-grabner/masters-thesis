@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Keloid nodes,sAB
+0,disease_on_genes,25,23,-0.1875
+1,disease_on_symptoms,22,17,0.5444604415192649
+2,disease_on_drugs,25,22,-0.16528046421663423

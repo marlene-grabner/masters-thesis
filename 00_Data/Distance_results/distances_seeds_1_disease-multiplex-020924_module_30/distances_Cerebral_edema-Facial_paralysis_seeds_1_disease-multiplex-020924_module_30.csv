@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.0941558441558441
+1,disease_on_symptoms,9,23,1.2650966183574879
+2,disease_on_drugs,11,14,0.5145454545454546

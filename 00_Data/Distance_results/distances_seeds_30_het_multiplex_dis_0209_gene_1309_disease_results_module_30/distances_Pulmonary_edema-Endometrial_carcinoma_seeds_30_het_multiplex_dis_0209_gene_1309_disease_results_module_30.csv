@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,11,21,-0.01406926406926412
+2,disease_on_drugs,27,26,0.33885663602644733

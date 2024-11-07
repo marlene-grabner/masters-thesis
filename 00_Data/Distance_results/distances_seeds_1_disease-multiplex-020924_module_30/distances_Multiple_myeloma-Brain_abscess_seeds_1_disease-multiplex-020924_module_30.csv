@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,26,27,0.3032844164919637
+1,disease_on_symptoms,21,21,0.9523809523809523
+2,disease_on_drugs,25,23,0.6003985507246374

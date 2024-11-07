@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,28,30,0.15517241379310343
+1,disease_on_symptoms,17,17,1.0882352941176467
+2,disease_on_drugs,19,26,0.19039586144849285

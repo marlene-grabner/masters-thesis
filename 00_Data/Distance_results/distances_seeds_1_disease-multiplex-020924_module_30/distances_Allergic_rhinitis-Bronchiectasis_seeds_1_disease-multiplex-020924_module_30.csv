@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,21,30,0.11638655462184877
+1,disease_on_symptoms,22,15,0.23456183456183455
+2,disease_on_drugs,21,26,0.010170680383446262

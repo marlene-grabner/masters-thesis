@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1452380952380954
+1,disease_on_symptoms,22,12,0.9356060606060606
+2,disease_on_drugs,29,18,0.4132020868998125

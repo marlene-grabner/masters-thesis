@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.3880116959064329
+1,disease_on_symptoms,15,15,-0.26666666666666683
+2,disease_on_drugs,26,26,-0.423076923076923

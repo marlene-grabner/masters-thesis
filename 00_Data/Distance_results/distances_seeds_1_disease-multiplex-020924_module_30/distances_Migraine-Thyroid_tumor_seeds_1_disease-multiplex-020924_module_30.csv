@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.12786436970194148
+1,disease_on_symptoms,14,20,1.3081932773109242
+2,disease_on_drugs,29,20,1.097448979591837

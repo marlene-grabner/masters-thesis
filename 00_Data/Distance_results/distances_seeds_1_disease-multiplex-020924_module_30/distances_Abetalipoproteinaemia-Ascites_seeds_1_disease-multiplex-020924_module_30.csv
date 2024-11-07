@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Ascites nodes,sAB
+0,disease_on_genes,17,30,0.45994993742177726
+1,disease_on_symptoms,25,17,0.8031372549019606
+2,disease_on_drugs,13,27,0.4559829059829059

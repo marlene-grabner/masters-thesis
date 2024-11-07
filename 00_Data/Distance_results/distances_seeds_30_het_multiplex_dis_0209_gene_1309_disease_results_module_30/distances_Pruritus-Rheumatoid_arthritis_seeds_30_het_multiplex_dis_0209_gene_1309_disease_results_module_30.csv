@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,27,30,-0.14044834307992204
+1,disease_on_symptoms,21,19,0.09906015037593985
+2,disease_on_drugs,27,30,-0.055653021442495065

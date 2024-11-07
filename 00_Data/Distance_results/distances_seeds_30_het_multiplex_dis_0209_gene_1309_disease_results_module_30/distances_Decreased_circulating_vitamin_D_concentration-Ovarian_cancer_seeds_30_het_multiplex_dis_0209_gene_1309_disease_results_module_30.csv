@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,25,27,0.07692307692307687
+1,disease_on_symptoms,13,17,1.4647058823529413
+2,disease_on_drugs,21,17,0.3252248267728144

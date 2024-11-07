@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Fatigue nodes,sAB
+0,disease_on_genes,23,26,0.043171114599686256
+1,disease_on_symptoms,16,21,2.0522442084942085
+2,disease_on_drugs,17,26,0.6934126065453015

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.49123319696084167
+1,disease_on_symptoms,23,7,0.700414078674948
+2,disease_on_drugs,27,22,0.8265993265993266

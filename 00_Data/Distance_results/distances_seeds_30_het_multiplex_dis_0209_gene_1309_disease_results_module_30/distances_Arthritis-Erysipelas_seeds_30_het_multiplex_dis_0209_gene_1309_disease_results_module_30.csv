@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.5333333333333333
+1,disease_on_symptoms,20,18,-0.9732456140350878
+2,disease_on_drugs,29,29,-0.586206896551724

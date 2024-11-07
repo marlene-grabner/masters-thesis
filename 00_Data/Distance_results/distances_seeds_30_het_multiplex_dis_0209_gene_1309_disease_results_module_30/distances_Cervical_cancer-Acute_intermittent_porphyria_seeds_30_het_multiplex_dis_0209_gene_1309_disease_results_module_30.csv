@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,28,27,0.0
+1,disease_on_symptoms,22,17,1.0992047168517756
+2,disease_on_drugs,15,24,0.1676282051282052

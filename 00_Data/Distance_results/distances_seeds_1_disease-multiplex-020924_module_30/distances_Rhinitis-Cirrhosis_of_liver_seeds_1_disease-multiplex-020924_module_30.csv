@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333313
+1,disease_on_symptoms,15,14,0.9480295566502464
+2,disease_on_drugs,22,26,0.5849358974358976

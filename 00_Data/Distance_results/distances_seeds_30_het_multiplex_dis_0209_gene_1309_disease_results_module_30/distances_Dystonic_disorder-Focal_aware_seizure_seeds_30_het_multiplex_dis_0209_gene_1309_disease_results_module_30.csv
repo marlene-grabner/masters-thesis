@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.11864406779661019
+1,disease_on_symptoms,17,16,0.06717914438502692
+2,disease_on_drugs,26,29,-0.12886423920906687

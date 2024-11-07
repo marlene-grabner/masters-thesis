@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,18,28,0.21523464458247066
+1,disease_on_symptoms,28,19,0.38779795232762737
+2,disease_on_drugs,17,26,0.0109439124487003

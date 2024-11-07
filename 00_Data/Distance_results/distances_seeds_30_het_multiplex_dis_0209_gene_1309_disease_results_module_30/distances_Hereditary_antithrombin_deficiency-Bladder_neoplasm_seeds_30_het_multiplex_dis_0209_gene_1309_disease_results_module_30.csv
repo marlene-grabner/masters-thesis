@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,28,26,0.12962962962962954
+1,disease_on_symptoms,16,19,0.9833646616541352
+2,disease_on_drugs,23,25,0.3632246376811594

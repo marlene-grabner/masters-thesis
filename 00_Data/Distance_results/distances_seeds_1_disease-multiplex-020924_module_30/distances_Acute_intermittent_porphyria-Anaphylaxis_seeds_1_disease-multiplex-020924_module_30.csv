@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.2777777777777779
+1,disease_on_symptoms,20,15,2.1035714285714286
+2,disease_on_drugs,15,26,0.5712945590994374

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.34065934065934056
+1,disease_on_symptoms,20,22,-0.39155844155844144
+2,disease_on_drugs,28,25,-0.43291105121293794

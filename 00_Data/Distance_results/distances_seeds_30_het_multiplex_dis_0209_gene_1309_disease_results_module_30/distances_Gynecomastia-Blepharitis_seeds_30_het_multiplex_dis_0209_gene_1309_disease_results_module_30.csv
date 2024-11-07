@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,15,18,0.5757575757575755
+2,disease_on_drugs,29,30,0.3228326514708748

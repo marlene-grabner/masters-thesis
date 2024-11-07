@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Sarcoma nodes,sAB
+0,disease_on_genes,16,25,0.3246951219512195
+1,disease_on_symptoms,21,26,2.911483906164757
+2,disease_on_drugs,15,21,0.8888888888888888

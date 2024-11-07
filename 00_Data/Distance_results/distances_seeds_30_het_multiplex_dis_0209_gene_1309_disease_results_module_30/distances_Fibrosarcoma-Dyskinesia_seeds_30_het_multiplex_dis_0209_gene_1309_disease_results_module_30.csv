@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,14,15,0.1963054187192117
+2,disease_on_drugs,26,28,0.05051892551892556

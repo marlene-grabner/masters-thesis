@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.25
+1,disease_on_symptoms,19,24,1.5225163198694411
+2,disease_on_drugs,30,19,0.5273899033297531

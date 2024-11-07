@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,15,21,0.08730158730158721
+2,disease_on_drugs,23,26,-0.3279127704593543

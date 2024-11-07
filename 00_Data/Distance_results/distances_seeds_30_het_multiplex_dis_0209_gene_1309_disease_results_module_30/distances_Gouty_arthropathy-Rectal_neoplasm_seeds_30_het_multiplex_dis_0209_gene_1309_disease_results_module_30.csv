@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.05229885057471262
+1,disease_on_symptoms,18,20,0.36038011695906436
+2,disease_on_drugs,23,29,0.1579402606389113

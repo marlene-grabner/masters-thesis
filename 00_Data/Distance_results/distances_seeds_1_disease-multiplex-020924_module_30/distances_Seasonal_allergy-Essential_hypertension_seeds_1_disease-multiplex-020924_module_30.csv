@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.08798936997666584
+1,disease_on_symptoms,15,14,1.422167487684729
+2,disease_on_drugs,29,28,0.47336012444905373

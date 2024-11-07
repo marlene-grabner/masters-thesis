@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,-0.16173913043478272
+1,disease_on_symptoms,19,21,0.6323308270676695
+2,disease_on_drugs,21,27,-0.06679894179894208

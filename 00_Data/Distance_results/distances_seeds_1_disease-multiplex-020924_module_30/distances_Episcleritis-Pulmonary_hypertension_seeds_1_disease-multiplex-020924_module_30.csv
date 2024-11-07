@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.05233990147783241
+1,disease_on_symptoms,22,20,1.3409090909090908
+2,disease_on_drugs,29,28,0.1594071385359952

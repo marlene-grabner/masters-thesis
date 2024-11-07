@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.31214109926169
+1,disease_on_symptoms,14,20,1.028781512605042
+2,disease_on_drugs,27,20,0.8315799842395586

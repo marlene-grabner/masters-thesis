@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.05588235294117638
+1,disease_on_symptoms,19,23,1.0069194725945299
+2,disease_on_drugs,29,21,0.2837110016420361

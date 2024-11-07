@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,24,30,0.20138888888888884
+1,disease_on_symptoms,19,18,0.9148885727833096
+2,disease_on_drugs,19,30,0.2506623702112425

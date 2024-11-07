@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Rosacea nodes,sAB
+0,disease_on_genes,23,30,0.18092698933552076
+1,disease_on_symptoms,19,17,0.7420880632954936
+2,disease_on_drugs,11,27,0.5789473684210527

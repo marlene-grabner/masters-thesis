@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Ascites nodes,sAB
+0,disease_on_genes,28,30,-0.03633004926108385
+1,disease_on_symptoms,14,17,0.19029547302792094
+2,disease_on_drugs,28,27,-0.14581529581529595

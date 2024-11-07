@@ -1,0 +1,4 @@
+,Layer,Focal_aware_seizure nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,25,0.18518518518518512
+1,disease_on_symptoms,15,22,0.9821457821457824
+2,disease_on_drugs,29,25,0.48

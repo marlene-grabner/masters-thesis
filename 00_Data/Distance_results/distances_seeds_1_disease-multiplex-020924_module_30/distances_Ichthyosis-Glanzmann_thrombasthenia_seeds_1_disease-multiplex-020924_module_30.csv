@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,0.0020424836601307117
+1,disease_on_symptoms,17,21,0.8118089340999557
+2,disease_on_drugs,24,24,0.3333333333333335

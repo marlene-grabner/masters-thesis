@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,21,20,0.04184088269454134
+2,disease_on_drugs,27,25,0.055327635327635294

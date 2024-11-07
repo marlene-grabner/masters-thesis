@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.12962962962962976
+1,disease_on_symptoms,17,16,0.45014483065953637
+2,disease_on_drugs,24,27,-0.01742919389978237

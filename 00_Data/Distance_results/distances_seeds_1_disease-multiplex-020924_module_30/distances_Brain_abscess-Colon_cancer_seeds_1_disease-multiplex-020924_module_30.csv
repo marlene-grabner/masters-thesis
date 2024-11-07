@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,27,26,0.2840536472611943
+1,disease_on_symptoms,21,21,0.9285714285714284
+2,disease_on_drugs,23,24,0.7844588344125809

@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,12,17,-0.19455713319810686
+2,disease_on_drugs,28,17,0.168674136321195

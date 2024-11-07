@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.17062146892655372
+1,disease_on_symptoms,20,16,1.0041666666666664
+2,disease_on_drugs,30,29,0.9997077732320281

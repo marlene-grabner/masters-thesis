@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Fatigue nodes,sAB
+0,disease_on_genes,29,26,0.0715698095008439
+1,disease_on_symptoms,17,21,0.40048651039363103
+2,disease_on_drugs,26,26,-0.019230769230769162

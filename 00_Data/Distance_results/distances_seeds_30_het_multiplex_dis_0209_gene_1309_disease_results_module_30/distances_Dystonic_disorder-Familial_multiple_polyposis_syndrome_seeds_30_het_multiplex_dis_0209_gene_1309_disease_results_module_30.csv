@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,19,0.8302373581011353
+2,disease_on_drugs,26,25,0.4908898944193061

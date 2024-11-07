@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.323809523809524
+1,disease_on_symptoms,17,26,1.0367515521414288
+2,disease_on_drugs,23,28,1.076300085251492

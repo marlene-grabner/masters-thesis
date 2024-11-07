@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.3148148148148149
+1,disease_on_symptoms,22,15,1.063022113022113
+2,disease_on_drugs,24,26,0.8198717948717948

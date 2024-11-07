@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,15,17,0.28284313725490184
+1,disease_on_symptoms,25,22,1.3531914893617023
+2,disease_on_drugs,10,15,0.10666666666666669

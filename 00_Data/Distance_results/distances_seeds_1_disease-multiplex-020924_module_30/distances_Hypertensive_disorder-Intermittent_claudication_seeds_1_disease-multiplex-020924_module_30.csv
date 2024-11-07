@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,-0.11847826086956514
+1,disease_on_symptoms,15,24,0.043910256410256476
+2,disease_on_drugs,26,18,0.002525252525252375

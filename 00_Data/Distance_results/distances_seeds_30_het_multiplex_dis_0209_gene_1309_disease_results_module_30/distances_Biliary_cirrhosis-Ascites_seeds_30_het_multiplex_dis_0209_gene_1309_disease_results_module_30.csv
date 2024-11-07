@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,-0.03589743589743599
+1,disease_on_symptoms,22,22,0.8409090909090908
+2,disease_on_drugs,25,27,-0.07737891737891722

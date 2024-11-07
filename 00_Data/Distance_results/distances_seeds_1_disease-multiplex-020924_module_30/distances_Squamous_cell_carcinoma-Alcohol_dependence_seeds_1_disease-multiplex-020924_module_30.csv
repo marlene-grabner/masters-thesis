@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,16,12,0.5833333333333335
+1,disease_on_symptoms,26,27,2.7909745739934415
+2,disease_on_drugs,14,9,0.5410628019323671

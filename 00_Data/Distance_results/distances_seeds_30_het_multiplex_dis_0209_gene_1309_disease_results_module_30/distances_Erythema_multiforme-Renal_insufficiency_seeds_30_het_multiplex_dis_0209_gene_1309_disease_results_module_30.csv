@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,18,19,0.5319266635056108
+2,disease_on_drugs,30,28,0.01403940886699484

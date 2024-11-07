@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.2407407407407407
+1,disease_on_symptoms,18,14,2.2390873015873014
+2,disease_on_drugs,22,26,0.5824592074592074

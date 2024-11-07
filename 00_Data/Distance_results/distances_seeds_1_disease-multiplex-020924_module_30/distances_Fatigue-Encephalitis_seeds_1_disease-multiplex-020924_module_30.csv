@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,0.16656491656491657
+1,disease_on_symptoms,21,17,0.8896505970809376
+2,disease_on_drugs,26,18,0.3024475524475525

@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.36424242424242426
+1,disease_on_symptoms,20,23,1.739105156723964
+2,disease_on_drugs,29,21,1.2378981937602624

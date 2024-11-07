@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.2758620689655171
+1,disease_on_symptoms,25,22,2.0347775628626694
+2,disease_on_drugs,28,29,0.8605565638233514

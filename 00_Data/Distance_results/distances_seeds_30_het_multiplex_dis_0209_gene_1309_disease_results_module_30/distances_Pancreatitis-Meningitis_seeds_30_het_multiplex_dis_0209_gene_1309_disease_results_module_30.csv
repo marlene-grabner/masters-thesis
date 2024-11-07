@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,17,17,0.41176470588235325
+2,disease_on_drugs,30,27,0.017738791423001832

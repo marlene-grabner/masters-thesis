@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,23,11,0.38177168100441783
+2,disease_on_drugs,23,24,0.18998612395929704

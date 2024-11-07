@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,19,18,0.6560376165639321
+2,disease_on_drugs,24,26,0.09711538461538449

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,21,23,0.20539243365330329
+2,disease_on_drugs,28,30,0.049630541871921174

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.11353007579422658
+1,disease_on_symptoms,21,15,1.7515873015873016
+2,disease_on_drugs,26,26,0.2692307692307694

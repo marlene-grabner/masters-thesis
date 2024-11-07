@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Goiter nodes,sAB
+0,disease_on_genes,17,26,0.642639166578975
+1,disease_on_symptoms,28,15,2.768964562569214
+2,disease_on_drugs,9,16,1.44

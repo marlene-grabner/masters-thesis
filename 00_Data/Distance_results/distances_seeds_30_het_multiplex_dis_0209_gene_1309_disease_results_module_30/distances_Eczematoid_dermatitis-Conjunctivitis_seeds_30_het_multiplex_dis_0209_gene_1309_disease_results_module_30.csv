@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.30508474576271183
+1,disease_on_symptoms,25,27,-0.3033903133903133
+2,disease_on_drugs,30,28,-0.3812807881773398

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.09090909090909094
+1,disease_on_symptoms,17,20,0.28883147853736113
+2,disease_on_drugs,26,21,0.04722936637830255

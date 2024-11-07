@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,28,27,0.2370009620009621
+1,disease_on_symptoms,19,27,1.271760318671074
+2,disease_on_drugs,26,26,0.6538461538461537

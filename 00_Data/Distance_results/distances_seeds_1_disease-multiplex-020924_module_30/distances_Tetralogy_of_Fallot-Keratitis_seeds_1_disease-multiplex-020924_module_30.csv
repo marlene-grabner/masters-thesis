@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.4137110016420362
+1,disease_on_symptoms,14,25,1.9493772893772894
+2,disease_on_drugs,11,23,0.9347826086956523

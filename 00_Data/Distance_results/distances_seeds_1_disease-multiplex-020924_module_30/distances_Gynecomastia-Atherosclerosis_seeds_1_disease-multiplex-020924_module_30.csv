@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333333
+1,disease_on_symptoms,16,13,0.24452917771883298
+2,disease_on_drugs,24,29,0.8054245283018868

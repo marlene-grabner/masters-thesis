@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,21,30,0.11638655462184877
+1,disease_on_symptoms,22,24,1.1653491436100132
+2,disease_on_drugs,21,28,0.25765306122448983

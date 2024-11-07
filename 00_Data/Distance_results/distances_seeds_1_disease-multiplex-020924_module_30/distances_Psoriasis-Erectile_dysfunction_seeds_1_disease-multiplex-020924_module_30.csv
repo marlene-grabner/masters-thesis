@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,28,30,0.20623973727421996
+1,disease_on_symptoms,21,16,0.969152187902188
+2,disease_on_drugs,28,30,0.7073891625615762

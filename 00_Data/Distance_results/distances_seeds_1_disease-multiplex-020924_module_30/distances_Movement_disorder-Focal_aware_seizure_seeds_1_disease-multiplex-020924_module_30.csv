@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.10225988700564992
+1,disease_on_symptoms,22,15,0.14123669123669136
+2,disease_on_drugs,15,29,-0.16818181818181832

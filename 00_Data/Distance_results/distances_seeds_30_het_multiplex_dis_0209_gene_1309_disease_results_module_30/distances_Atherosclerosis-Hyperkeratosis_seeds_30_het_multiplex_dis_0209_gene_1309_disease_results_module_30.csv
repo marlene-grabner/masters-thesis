@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.052197802197802234
+1,disease_on_symptoms,14,25,0.8441025641025643
+2,disease_on_drugs,29,25,0.08922094508301415

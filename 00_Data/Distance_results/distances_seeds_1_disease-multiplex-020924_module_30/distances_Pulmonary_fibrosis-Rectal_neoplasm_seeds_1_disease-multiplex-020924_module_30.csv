@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,24,30,0.09027777777777768
+1,disease_on_symptoms,22,21,0.6774136715997181
+2,disease_on_drugs,24,29,0.32400780741704627

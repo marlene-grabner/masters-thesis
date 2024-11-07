@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Cellulitis nodes,sAB
+0,disease_on_genes,17,22,0.2770160695857291
+1,disease_on_symptoms,21,26,1.0856909048398409
+2,disease_on_drugs,14,12,0.7307692307692308

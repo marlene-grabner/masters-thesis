@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,0.09723981900452494
+1,disease_on_symptoms,21,23,0.9436288349331825
+2,disease_on_drugs,23,23,0.36956521739130443

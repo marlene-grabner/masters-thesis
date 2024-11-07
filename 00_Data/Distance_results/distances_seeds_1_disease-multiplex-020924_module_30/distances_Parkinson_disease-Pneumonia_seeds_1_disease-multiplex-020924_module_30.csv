@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Pneumonia nodes,sAB
+0,disease_on_genes,21,30,0.29579831932773115
+1,disease_on_symptoms,20,26,1.6167224080267557
+2,disease_on_drugs,19,28,1.0

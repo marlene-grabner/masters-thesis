@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,-0.2827485380116961
+1,disease_on_symptoms,18,17,-0.2628384687208216
+2,disease_on_drugs,25,17,-0.5257703081232494

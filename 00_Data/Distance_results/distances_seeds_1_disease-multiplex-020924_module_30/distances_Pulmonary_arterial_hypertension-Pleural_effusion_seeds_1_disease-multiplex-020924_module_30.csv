@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,0.206855500821018
+1,disease_on_symptoms,18,20,1.3089181286549705
+2,disease_on_drugs,26,22,0.41826923076923084

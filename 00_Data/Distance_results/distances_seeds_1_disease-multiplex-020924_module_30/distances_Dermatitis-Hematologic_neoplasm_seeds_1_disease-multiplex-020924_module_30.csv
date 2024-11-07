@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.23404255319148937
+1,disease_on_symptoms,25,24,0.8986904761904762
+2,disease_on_drugs,24,19,0.36469808241534074

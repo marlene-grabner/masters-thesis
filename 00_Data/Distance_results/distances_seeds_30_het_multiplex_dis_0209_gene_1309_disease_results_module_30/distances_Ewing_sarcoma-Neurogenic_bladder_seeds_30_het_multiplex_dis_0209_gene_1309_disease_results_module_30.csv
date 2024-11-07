@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,17,18,0.14864612511671327
+2,disease_on_drugs,24,21,0.10376984126984135

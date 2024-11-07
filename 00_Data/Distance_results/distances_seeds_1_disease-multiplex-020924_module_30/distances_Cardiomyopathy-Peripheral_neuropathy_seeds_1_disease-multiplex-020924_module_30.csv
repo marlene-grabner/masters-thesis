@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,25,30,0.11151515151515157
+1,disease_on_symptoms,17,20,0.8667726550079493
+2,disease_on_drugs,24,24,0.6875

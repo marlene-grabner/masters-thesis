@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,25,26,-0.07805429864253388
+1,disease_on_symptoms,22,17,0.4675373645961882
+2,disease_on_drugs,25,24,0.2439625850340137

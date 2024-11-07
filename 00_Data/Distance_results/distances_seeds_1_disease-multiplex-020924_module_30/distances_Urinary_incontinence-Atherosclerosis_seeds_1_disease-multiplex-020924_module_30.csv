@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,0.24038461538461542
+1,disease_on_symptoms,20,13,1.0702214452214451
+2,disease_on_drugs,20,29,0.5714285714285714

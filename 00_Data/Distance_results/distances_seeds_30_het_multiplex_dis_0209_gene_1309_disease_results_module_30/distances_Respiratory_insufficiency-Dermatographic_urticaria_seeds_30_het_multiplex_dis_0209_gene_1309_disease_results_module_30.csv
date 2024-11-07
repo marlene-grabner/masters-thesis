@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,27,29,0.125
+1,disease_on_symptoms,21,18,0.9334554334554337
+2,disease_on_drugs,25,28,0.12568733153638822

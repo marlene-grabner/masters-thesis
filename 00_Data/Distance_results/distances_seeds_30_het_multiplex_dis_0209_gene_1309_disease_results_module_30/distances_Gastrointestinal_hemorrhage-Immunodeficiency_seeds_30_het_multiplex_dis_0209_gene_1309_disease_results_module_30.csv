@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,28,26,-0.20304232804232802
+1,disease_on_symptoms,20,21,0.3891405342624856
+2,disease_on_drugs,27,26,-0.03781648121270775

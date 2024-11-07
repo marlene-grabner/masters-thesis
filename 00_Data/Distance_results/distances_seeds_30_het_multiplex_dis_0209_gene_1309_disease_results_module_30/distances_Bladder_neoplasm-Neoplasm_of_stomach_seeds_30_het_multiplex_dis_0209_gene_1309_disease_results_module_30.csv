@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,26,25,-0.6082352941176471
+1,disease_on_symptoms,19,23,-0.940884820747521
+2,disease_on_drugs,25,24,-0.612670068027211

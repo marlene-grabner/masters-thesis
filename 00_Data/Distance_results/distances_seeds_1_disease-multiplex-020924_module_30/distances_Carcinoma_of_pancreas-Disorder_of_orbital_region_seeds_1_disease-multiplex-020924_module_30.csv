@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,23,17,0.03235294117647047
+1,disease_on_symptoms,25,27,0.7554700854700853
+2,disease_on_drugs,21,16,0.39695945945945943

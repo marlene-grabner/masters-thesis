@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.2621410992616897
+1,disease_on_symptoms,19,21,1.0540100250626567
+2,disease_on_drugs,28,21,0.6224489795918369

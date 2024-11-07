@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,22,30,0.2158508158508159
+1,disease_on_symptoms,23,15,1.2882532418001524
+2,disease_on_drugs,17,26,0.18178469956855725

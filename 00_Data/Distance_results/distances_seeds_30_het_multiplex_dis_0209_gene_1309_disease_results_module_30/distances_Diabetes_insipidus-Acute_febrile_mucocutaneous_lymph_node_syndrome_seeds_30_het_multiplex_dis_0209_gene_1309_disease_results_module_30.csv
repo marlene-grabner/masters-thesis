@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.08910256410256401
+1,disease_on_symptoms,20,13,-0.0047785547785546
+2,disease_on_drugs,20,28,0.1607142857142856

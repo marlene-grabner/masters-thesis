@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,12,30,0.536904761904762
+1,disease_on_symptoms,27,15,1.8153439153439153
+2,disease_on_drugs,9,26,0.7075702075702077

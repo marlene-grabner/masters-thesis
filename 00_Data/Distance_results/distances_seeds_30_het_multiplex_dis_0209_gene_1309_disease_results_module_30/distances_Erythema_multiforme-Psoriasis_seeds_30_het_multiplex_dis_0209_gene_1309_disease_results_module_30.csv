@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,18,17,-0.3118580765639589
+2,disease_on_drugs,30,30,-0.18333333333333346

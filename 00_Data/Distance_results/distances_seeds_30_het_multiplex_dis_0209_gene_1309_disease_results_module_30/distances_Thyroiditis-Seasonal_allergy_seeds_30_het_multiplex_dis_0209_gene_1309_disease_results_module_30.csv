@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,21,18,0.1941391941391939
+2,disease_on_drugs,29,29,-0.034482758620689724

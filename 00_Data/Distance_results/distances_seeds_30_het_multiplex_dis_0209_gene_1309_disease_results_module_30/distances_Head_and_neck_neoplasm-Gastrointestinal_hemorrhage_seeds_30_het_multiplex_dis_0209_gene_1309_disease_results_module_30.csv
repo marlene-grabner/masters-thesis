@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.051765188834154485
+1,disease_on_symptoms,22,20,0.15714285714285725
+2,disease_on_drugs,27,27,0.2962962962962963

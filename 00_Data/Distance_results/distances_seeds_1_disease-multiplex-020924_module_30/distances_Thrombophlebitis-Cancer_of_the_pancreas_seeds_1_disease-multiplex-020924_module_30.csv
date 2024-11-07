@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,29,0.2449874686716793
+1,disease_on_symptoms,15,16,1.6071236559139783
+2,disease_on_drugs,21,29,0.6627586206896552

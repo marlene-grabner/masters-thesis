@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.0904761904761906
+1,disease_on_symptoms,17,14,0.583220384928165
+2,disease_on_drugs,25,24,0.551003401360544

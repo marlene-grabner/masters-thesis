@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,0.0
+1,disease_on_symptoms,22,21,0.835195811939998
+2,disease_on_drugs,26,17,0.3512574976323266

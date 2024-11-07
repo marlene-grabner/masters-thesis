@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Psoriasis nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,21,17,0.7599882058086393
+2,disease_on_drugs,21,30,-0.05434173669467768

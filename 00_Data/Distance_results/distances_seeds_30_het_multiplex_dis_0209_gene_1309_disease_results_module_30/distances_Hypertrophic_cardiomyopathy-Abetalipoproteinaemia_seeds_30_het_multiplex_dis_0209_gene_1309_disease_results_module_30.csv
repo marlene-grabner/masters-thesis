@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,0.10670995670995675
+1,disease_on_symptoms,19,26,0.020872694556905103
+2,disease_on_drugs,22,14,0.04256854256854248

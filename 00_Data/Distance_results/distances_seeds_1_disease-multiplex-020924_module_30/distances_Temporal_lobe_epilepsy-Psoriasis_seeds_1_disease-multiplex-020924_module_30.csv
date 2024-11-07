@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Psoriasis nodes,sAB
+0,disease_on_genes,29,28,0.3505531069051939
+1,disease_on_symptoms,17,21,1.5107621996166887
+2,disease_on_drugs,26,28,0.8894993894993894

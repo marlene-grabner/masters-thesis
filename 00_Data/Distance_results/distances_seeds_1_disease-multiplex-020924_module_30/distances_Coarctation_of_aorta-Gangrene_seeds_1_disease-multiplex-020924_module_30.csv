@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.28301886792452824
+1,disease_on_symptoms,14,19,1.1671793119161542
+2,disease_on_drugs,13,23,0.39492753623188404

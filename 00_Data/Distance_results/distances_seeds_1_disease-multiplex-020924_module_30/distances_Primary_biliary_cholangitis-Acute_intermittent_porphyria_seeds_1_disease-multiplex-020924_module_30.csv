@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,26,27,0.26448691071332564
+1,disease_on_symptoms,17,20,1.9649841017488079
+2,disease_on_drugs,18,15,0.31818181818181834

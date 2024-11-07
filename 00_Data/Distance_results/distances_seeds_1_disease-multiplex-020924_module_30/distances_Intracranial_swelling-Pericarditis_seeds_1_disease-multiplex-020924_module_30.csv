@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.1106060606060606
+1,disease_on_symptoms,14,22,0.6078643578643579
+2,disease_on_drugs,24,25,0.061207482993197004

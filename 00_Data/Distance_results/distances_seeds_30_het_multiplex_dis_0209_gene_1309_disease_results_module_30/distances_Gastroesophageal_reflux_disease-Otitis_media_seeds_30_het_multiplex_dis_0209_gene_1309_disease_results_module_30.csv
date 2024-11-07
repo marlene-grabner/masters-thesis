@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,-0.01829033035929606
+1,disease_on_symptoms,18,20,0.28230994152046773
+2,disease_on_drugs,25,28,0.03915094339622627

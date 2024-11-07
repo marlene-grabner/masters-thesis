@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,27,30,0.023684210526315752
+1,disease_on_symptoms,24,19,1.530344757241942
+2,disease_on_drugs,25,22,0.5086653771760155

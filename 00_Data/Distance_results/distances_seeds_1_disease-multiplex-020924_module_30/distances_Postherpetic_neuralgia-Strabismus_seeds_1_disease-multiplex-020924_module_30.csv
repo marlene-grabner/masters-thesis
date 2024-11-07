@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.07725104353011325
+1,disease_on_symptoms,15,26,0.22661038148843038
+2,disease_on_drugs,29,9,0.24299253881831007

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,20,16,0.08125000000000004
+2,disease_on_drugs,30,28,0.04979474548440055

@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,28,24,0.3472985347985347
+1,disease_on_symptoms,17,19,1.615583075335397
+2,disease_on_drugs,28,19,1.0223964165733483

@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,21,-0.019607843137254943
+1,disease_on_symptoms,19,22,0.717003150892753
+2,disease_on_drugs,25,19,0.28842105263157913

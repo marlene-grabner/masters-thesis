@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,17,20,0.1958333333333333
+1,disease_on_symptoms,27,24,1.3912037037037035
+2,disease_on_drugs,14,18,0.35317460317460325

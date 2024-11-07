@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,16,30,0.21485507246376812
+1,disease_on_symptoms,26,19,1.815024741340531
+2,disease_on_drugs,14,22,0.3535353535353536

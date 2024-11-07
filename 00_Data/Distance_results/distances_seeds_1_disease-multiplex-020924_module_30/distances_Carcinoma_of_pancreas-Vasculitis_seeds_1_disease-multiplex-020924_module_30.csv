@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,24,0.36214539007092195
+1,disease_on_symptoms,25,19,0.9941626794258376
+2,disease_on_drugs,21,20,0.7548780487804878

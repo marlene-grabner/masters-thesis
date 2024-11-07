@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,21,0.797434763379036
+2,disease_on_drugs,26,30,0.2119963369963369

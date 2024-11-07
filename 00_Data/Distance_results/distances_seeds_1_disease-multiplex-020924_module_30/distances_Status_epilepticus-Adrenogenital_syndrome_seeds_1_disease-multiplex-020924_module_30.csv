@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.40648743424897726
+1,disease_on_symptoms,17,7,1.502801120448179
+2,disease_on_drugs,30,22,0.8828671328671329

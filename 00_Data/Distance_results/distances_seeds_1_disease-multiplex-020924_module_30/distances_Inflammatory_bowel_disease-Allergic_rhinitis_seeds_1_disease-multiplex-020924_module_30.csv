@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,17,21,-0.08630952380952372
+1,disease_on_symptoms,27,22,1.4046931904074762
+2,disease_on_drugs,14,21,-0.06428571428571428

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,24,0.2240740740740741
+1,disease_on_symptoms,16,23,1.1831452062430323
+2,disease_on_drugs,27,24,0.6470588235294117

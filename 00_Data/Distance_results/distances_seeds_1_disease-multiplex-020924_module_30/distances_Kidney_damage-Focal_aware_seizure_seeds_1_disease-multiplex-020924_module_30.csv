@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,20,29,0.24693877551020393
+1,disease_on_symptoms,26,15,1.3661976235146969
+2,disease_on_drugs,13,29,0.783882783882784

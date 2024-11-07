@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Endometriosis nodes,sAB
+0,disease_on_genes,26,30,0.3365384615384617
+1,disease_on_symptoms,21,12,0.722943722943723
+2,disease_on_drugs,24,27,0.9963235294117645

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666654
+1,disease_on_symptoms,18,18,-0.36111111111111116
+2,disease_on_drugs,27,24,-0.3741830065359477

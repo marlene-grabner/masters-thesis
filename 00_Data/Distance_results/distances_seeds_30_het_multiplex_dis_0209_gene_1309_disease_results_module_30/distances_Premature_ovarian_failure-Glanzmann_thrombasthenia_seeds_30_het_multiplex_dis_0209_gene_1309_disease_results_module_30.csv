@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.16666666666666674
+1,disease_on_symptoms,15,19,0.5540763673890607
+2,disease_on_drugs,26,24,0.2651923076923077

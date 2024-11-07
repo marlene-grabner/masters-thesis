@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,15,0.09242424242424252
+1,disease_on_symptoms,25,27,0.41641025641025653
+2,disease_on_drugs,27,13,0.2333333333333334

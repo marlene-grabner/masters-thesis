@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,16,0.12410873440285197
+2,disease_on_drugs,30,28,0.18526272577996727

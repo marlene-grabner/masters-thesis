@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,17,-0.6827054614332317
+1,disease_on_symptoms,18,24,-0.9176587301587303
+2,disease_on_drugs,25,16,-0.7196646341463415

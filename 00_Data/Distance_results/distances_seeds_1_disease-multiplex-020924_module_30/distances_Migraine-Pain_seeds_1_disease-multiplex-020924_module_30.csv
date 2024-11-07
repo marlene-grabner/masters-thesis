@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.32179487179487176
+1,disease_on_symptoms,14,21,-0.4714285714285713
+2,disease_on_drugs,29,26,-0.20104895104895093

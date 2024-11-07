@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,0.058431372549019533
+1,disease_on_symptoms,23,26,0.6198552999795235
+2,disease_on_drugs,26,24,0.5828205128205128

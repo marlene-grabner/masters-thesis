@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,27,28,0.1272727272727272
+1,disease_on_symptoms,16,17,0.6080102495543671
+2,disease_on_drugs,23,19,0.1992481203007519

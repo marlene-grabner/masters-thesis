@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.6397435897435897
+1,disease_on_symptoms,16,15,1.9311155913978495
+2,disease_on_drugs,23,16,1.4219620958751396

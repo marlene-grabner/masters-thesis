@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.08446327683615817
+1,disease_on_symptoms,18,18,0.9166666666666665
+2,disease_on_drugs,29,22,0.16485340217591737

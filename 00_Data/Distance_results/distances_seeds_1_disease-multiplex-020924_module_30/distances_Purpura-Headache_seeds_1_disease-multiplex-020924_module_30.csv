@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Headache nodes,sAB
+0,disease_on_genes,26,30,0.15778388278388267
+1,disease_on_symptoms,17,25,1.8580392156862746
+2,disease_on_drugs,20,26,0.30685618729096986

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,27,0.11988304093567259
+1,disease_on_symptoms,18,17,0.5375816993464053
+2,disease_on_drugs,27,24,0.0838779956427016

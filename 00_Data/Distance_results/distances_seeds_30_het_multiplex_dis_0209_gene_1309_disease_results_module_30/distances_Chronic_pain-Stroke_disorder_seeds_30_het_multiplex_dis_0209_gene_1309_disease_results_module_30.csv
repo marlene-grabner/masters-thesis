@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,19,16,-0.1048872180451128
+2,disease_on_drugs,28,30,-0.08628899835796389

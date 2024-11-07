@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,-0.16094234628717397
+1,disease_on_symptoms,19,22,0.4574629478352199
+2,disease_on_drugs,26,29,0.07449963829274164

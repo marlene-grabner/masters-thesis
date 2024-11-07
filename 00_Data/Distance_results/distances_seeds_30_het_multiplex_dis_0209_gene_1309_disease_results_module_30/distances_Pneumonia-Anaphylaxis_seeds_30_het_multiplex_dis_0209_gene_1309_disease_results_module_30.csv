@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.10623781676413269
+1,disease_on_symptoms,23,14,0.16178445526271634
+2,disease_on_drugs,29,26,-0.07211237038823248

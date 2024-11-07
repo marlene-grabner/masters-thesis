@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.015000000000000124
+1,disease_on_symptoms,19,27,0.6067039579625391
+2,disease_on_drugs,30,19,0.11063372717508035

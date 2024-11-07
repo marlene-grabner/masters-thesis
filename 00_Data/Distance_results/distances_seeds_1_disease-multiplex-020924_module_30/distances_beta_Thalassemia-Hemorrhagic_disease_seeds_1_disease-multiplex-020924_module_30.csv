@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,22,24,0.4762022397891963
+1,disease_on_symptoms,21,19,1.086591478696742
+2,disease_on_drugs,6,19,0.5280701754385966

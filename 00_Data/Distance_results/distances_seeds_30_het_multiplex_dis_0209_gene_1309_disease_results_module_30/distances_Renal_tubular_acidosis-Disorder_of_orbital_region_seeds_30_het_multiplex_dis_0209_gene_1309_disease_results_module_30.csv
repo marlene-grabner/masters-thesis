@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,14,18,0.16319444444444442
+2,disease_on_drugs,27,28,-0.11219336219336218

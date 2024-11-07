@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,26,30,-0.034706959706959806
+1,disease_on_symptoms,20,18,0.009064327485380108
+2,disease_on_drugs,20,24,-0.08333333333333348

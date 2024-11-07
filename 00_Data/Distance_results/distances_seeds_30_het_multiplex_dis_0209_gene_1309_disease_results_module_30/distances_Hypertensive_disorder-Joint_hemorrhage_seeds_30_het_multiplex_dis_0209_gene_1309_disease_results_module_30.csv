@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,21,17,0.32456140350877183
+2,disease_on_drugs,26,26,0.07692307692307687

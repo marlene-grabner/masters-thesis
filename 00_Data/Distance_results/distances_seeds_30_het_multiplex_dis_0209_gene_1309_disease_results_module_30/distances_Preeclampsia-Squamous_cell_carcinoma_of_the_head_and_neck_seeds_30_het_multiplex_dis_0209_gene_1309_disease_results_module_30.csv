@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,30,-0.06842105263157883
+1,disease_on_symptoms,18,22,0.7565656565656567
+2,disease_on_drugs,22,30,-0.06398601398601422

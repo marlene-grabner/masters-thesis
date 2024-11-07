@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,28,-0.09159451659451678
+1,disease_on_symptoms,18,19,0.9994468152362888
+2,disease_on_drugs,25,25,0.23999999999999977

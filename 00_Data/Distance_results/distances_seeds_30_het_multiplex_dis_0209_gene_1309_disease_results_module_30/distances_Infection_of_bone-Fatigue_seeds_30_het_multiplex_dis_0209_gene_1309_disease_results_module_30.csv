@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.2184065934065934
+1,disease_on_symptoms,18,16,0.40114379084967333
+2,disease_on_drugs,28,26,-0.13405575905575917

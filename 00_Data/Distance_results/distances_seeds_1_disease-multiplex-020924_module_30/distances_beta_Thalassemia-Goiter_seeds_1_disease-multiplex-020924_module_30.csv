@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Goiter nodes,sAB
+0,disease_on_genes,22,26,0.729895104895105
+1,disease_on_symptoms,21,15,3.5357142857142856
+2,disease_on_drugs,6,16,0.5151515151515154

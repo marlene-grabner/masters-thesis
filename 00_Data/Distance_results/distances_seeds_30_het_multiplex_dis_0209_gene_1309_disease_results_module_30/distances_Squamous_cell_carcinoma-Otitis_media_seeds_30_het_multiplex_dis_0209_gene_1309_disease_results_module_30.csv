@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.01665692577440092
+1,disease_on_symptoms,22,20,1.0769480519480519
+2,disease_on_drugs,30,28,0.5129310344827587

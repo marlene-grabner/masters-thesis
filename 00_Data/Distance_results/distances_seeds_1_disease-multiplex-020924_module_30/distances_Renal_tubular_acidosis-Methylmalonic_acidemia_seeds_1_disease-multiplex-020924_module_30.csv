@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,18,25,0.5873643410852714
+1,disease_on_symptoms,18,16,4.409313725490195
+2,disease_on_drugs,10,17,0.5465141612200435

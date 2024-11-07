@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Cough nodes,sAB
+0,disease_on_genes,28,27,0.09123376623376633
+1,disease_on_symptoms,18,22,0.43232323232323244
+2,disease_on_drugs,25,24,0.38727891156462557

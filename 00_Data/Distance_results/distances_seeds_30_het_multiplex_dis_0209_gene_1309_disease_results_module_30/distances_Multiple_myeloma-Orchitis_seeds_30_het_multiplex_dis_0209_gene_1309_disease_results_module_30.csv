@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Orchitis nodes,sAB
+0,disease_on_genes,26,25,-0.07843137254901966
+1,disease_on_symptoms,21,19,0.7621553884711778
+2,disease_on_drugs,25,25,0.05999999999999983

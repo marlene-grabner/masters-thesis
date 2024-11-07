@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.2174843674843676
+1,disease_on_symptoms,19,25,1.0977990430622007
+2,disease_on_drugs,20,23,0.5609453993933267

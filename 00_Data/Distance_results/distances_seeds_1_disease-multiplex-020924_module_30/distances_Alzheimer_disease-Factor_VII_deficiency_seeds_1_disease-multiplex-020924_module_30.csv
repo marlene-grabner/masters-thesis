@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,20,25,0.35944444444444446
+1,disease_on_symptoms,23,23,2.1956521739130435
+2,disease_on_drugs,18,21,0.6703296703296702

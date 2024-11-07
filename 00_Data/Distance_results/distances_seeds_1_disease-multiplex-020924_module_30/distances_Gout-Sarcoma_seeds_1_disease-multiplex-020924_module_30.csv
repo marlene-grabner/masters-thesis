@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Sarcoma nodes,sAB
+0,disease_on_genes,25,25,0.1399999999999999
+1,disease_on_symptoms,18,26,1.8350815850815851
+2,disease_on_drugs,23,21,0.7272727272727273

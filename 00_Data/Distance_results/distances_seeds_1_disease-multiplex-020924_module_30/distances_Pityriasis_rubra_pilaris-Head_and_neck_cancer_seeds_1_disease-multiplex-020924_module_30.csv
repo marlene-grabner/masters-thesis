@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,28,27,0.21784511784511773
+1,disease_on_symptoms,23,22,0.7804787000439171
+2,disease_on_drugs,26,24,0.479871794871795

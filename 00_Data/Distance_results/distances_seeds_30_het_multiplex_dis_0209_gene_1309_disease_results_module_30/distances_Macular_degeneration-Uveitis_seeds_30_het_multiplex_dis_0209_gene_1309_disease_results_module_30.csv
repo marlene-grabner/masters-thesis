@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,17,20,-0.31255961844197144
+2,disease_on_drugs,17,23,-0.3842071611253197

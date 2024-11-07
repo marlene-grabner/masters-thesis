@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,28,30,0.13793103448275867
+1,disease_on_symptoms,18,16,0.23692810457516345
+2,disease_on_drugs,23,29,0.20634874870257192

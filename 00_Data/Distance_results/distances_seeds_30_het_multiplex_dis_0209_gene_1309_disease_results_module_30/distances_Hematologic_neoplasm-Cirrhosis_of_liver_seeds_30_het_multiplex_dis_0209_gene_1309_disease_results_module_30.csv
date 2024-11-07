@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,18,19,-0.21752015173067818
+2,disease_on_drugs,27,30,-0.02280701754385972

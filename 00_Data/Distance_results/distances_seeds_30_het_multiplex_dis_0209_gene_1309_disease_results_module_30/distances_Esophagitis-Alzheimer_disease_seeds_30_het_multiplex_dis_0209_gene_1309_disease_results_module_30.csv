@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.05440251572327037
+1,disease_on_symptoms,20,19,0.26312415654520915
+2,disease_on_drugs,30,19,0.016541353383458635

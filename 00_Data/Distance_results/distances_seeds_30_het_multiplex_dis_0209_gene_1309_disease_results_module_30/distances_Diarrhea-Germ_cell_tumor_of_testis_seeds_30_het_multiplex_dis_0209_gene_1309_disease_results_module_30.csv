@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.2134502923976609
+1,disease_on_symptoms,21,22,0.35772173562871257
+2,disease_on_drugs,29,20,-0.03070021111893051

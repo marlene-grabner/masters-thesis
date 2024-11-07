@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,30,-0.017857142857142905
+1,disease_on_symptoms,21,17,0.7647795960489456
+2,disease_on_drugs,26,25,0.17600301659125184

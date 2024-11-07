@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,28,30,0.27586206896551735
+1,disease_on_symptoms,21,13,0.7571644042232277
+2,disease_on_drugs,21,29,0.5923809523809522

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,0.08674463937621835
+1,disease_on_symptoms,17,15,0.8895833333333334
+2,disease_on_drugs,24,24,0.2916666666666665

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,16,16,-0.1875
+2,disease_on_drugs,28,29,-0.10443133696309759

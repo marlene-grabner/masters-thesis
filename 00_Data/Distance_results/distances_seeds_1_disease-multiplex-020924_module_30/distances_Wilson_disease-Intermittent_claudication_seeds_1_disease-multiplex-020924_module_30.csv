@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,23,20,0.28142062689585434
+1,disease_on_symptoms,19,24,2.038989188086495
+2,disease_on_drugs,11,18,1.0268199233716473

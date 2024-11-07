@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.24137931034482762
+1,disease_on_symptoms,18,13,0.9523711055969122
+2,disease_on_drugs,23,19,0.6297264901383894

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Priapism nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,14,17,0.5089455136893468
+2,disease_on_drugs,26,28,0.27976190476190466

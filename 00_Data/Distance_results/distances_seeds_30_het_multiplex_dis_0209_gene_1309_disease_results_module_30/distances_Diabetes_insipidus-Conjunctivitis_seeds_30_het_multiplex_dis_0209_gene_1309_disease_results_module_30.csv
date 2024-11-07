@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,29,0.017132867132867213
+1,disease_on_symptoms,20,27,0.9853821907013396
+2,disease_on_drugs,20,28,0.4553571428571428

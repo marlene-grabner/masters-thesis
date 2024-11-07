@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.2333333333333334
+1,disease_on_symptoms,20,27,0.6212962962962962
+2,disease_on_drugs,22,17,0.32202111613876316

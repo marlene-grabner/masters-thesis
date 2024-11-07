@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.0029239766081872176
+1,disease_on_symptoms,20,22,0.21677489177489173
+2,disease_on_drugs,28,20,0.08333333333333326

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,29,0.6842105263157894
+1,disease_on_symptoms,23,18,1.5736420407682339
+2,disease_on_drugs,26,22,0.41987179487179493

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,0.10393046107331805
+1,disease_on_symptoms,21,21,1.0476190476190474
+2,disease_on_drugs,27,17,0.2949098831451771

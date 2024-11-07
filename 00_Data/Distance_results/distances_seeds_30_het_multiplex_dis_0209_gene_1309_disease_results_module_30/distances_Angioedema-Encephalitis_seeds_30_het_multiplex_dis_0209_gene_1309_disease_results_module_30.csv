@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,18,13,0.37813620071684606
+2,disease_on_drugs,26,22,0.08347902097902082

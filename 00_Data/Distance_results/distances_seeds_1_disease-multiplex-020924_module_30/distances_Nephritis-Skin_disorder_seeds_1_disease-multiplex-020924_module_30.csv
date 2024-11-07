@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Skin_disorder nodes,sAB
+0,disease_on_genes,30,7,0.16409266409266388
+1,disease_on_symptoms,18,30,0.7111111111111112
+2,disease_on_drugs,27,6,0.4301346801346799

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,22,20,0.3859307359307358
+1,disease_on_symptoms,24,26,2.2853846153846153
+2,disease_on_drugs,13,13,0.6923076923076923

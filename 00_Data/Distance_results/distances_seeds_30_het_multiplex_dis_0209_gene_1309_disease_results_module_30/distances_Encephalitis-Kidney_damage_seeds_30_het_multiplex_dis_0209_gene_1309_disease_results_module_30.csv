@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,30,0.2542372881355932
+1,disease_on_symptoms,13,15,0.28095238095238106
+2,disease_on_drugs,22,21,0.018700291956105897

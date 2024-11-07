@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.2247536945812807
+1,disease_on_symptoms,17,20,0.13108108108108119
+2,disease_on_drugs,26,27,-0.1317932591517499

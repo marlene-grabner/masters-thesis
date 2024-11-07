@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,23,24,0.12800647548566135
+1,disease_on_symptoms,19,21,1.823997493734336
+2,disease_on_drugs,11,18,0.110153256704981

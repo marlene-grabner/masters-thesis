@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,28,30,-0.2057471264367815
+1,disease_on_symptoms,17,22,0.22984368572603886
+2,disease_on_drugs,28,30,-0.10603448275862082

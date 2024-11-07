@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,28,30,-0.051724137931034475
+1,disease_on_symptoms,17,19,-0.17234262125902977
+2,disease_on_drugs,19,30,-0.07796276405298985

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,0.5961538461538463
+1,disease_on_symptoms,15,21,1.3825396825396827
+2,disease_on_drugs,15,23,1.012280701754386

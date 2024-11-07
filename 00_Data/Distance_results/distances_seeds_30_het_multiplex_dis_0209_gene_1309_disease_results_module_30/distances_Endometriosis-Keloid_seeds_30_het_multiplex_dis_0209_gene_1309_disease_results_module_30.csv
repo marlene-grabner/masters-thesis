@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.20534591194968543
+1,disease_on_symptoms,16,17,0.513647504456328
+2,disease_on_drugs,30,22,-0.034265734265734205

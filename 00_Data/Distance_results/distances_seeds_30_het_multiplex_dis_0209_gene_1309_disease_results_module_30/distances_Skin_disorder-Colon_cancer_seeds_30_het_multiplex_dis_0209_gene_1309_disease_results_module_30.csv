@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,25,26,-0.11764705882352944
+1,disease_on_symptoms,19,22,0.5173590850741046
+2,disease_on_drugs,23,26,-0.05815302709712644

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.13559322033898302
+1,disease_on_symptoms,18,20,0.1625730994152046
+2,disease_on_drugs,30,28,0.1008620689655173

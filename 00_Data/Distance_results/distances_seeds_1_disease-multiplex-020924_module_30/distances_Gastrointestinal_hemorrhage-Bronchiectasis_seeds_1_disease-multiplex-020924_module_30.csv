@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.06910331384015578
+1,disease_on_symptoms,19,15,0.6497420020639835
+2,disease_on_drugs,27,26,0.07474600870827297

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Esophagitis nodes,sAB
+0,disease_on_genes,30,24,0.4326223680612524
+1,disease_on_symptoms,14,23,2.2142017794191706
+2,disease_on_drugs,11,20,1.2975806451612906

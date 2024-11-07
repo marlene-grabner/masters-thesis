@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,19,16,0.5608552631578947
+2,disease_on_drugs,28,30,0.7931034482758621

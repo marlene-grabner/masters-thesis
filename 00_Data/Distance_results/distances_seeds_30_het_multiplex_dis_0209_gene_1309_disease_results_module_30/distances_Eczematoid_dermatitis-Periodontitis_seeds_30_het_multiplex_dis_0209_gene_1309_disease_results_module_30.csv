@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,25,21,0.27863354037267074
+2,disease_on_drugs,30,28,-0.17623152709359613

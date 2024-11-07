@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,0.28534798534798544
+1,disease_on_symptoms,17,21,1.1156567890314022
+2,disease_on_drugs,17,26,0.3103756708407872

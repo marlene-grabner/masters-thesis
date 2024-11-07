@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,0.20349936143039593
+1,disease_on_symptoms,17,19,2.005331957344341
+2,disease_on_drugs,26,24,0.6991025641025641

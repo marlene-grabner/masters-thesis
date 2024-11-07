@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.34444444444444433
+1,disease_on_symptoms,16,15,2.2211693548387093
+2,disease_on_drugs,17,26,0.8096916763127433

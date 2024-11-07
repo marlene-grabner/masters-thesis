@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.0370370370370372
+1,disease_on_symptoms,22,14,1.2132034632034632
+2,disease_on_drugs,20,26,0.2955685618729096

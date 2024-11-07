@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,29,30,-0.06808883693746337
+1,disease_on_symptoms,20,17,-0.12452305246422912
+2,disease_on_drugs,24,25,-0.10256802721088443

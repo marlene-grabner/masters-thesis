@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,0.38888888888888884
+1,disease_on_symptoms,23,14,2.075583347322478
+2,disease_on_drugs,20,13,1.1818181818181817

@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,15,12,0.49722222222222223
+2,disease_on_drugs,24,18,0.16765873015873

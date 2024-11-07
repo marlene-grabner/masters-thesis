@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,24,27,0.2209661835748793
+1,disease_on_symptoms,23,17,1.3145140664961636
+2,disease_on_drugs,20,24,0.656818181818182

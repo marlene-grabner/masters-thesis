@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.14444444444444438
+1,disease_on_symptoms,16,27,1.6131298449612403
+2,disease_on_drugs,30,13,0.4883720930232558

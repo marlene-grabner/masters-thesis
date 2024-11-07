@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.2418181818181817
+1,disease_on_symptoms,20,13,2.1431235431235427
+2,disease_on_drugs,28,16,0.4094967532467533

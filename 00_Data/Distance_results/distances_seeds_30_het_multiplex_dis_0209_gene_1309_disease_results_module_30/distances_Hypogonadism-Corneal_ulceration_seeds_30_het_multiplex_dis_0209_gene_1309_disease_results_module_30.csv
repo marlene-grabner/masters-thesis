@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.15578817733990147
+1,disease_on_symptoms,17,15,-0.23026960784313721
+2,disease_on_drugs,29,23,-0.0588167454734172

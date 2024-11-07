@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.04148148148148145
+1,disease_on_symptoms,19,14,1.1015607199817727
+2,disease_on_drugs,19,26,0.11599190283400795

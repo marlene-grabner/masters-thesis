@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,0.2758210180623972
+1,disease_on_symptoms,19,16,1.0755639097744363
+2,disease_on_drugs,26,23,0.7497781721384207

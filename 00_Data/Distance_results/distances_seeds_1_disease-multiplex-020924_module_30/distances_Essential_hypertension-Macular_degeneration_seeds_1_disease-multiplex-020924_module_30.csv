@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,28,30,0.15389983579638722
+1,disease_on_symptoms,14,15,0.6348111658456488
+2,disease_on_drugs,28,21,0.4710884353741496

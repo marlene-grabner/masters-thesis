@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.1206486042692938
+1,disease_on_symptoms,25,19,1.0375119617224882
+2,disease_on_drugs,26,26,0.6923076923076923

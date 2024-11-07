@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Keloid nodes,sAB
+0,disease_on_genes,27,22,0.22363086648800912
+1,disease_on_symptoms,19,20,1.4861673414304992
+2,disease_on_drugs,27,19,0.7391304347826086

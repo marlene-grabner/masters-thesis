@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,27,23,0.43478260869565233
+1,disease_on_symptoms,17,21,0.918472652218782
+2,disease_on_drugs,25,19,1.1136363636363638

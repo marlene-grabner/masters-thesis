@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,21,14,-0.13333333333333375
+2,disease_on_drugs,29,24,0.16906582086315325

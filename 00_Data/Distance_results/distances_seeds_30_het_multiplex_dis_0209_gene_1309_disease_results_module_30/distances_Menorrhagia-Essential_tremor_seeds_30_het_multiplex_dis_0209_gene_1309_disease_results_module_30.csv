@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.04166666666666674
+1,disease_on_symptoms,16,23,0.7353330546265329
+2,disease_on_drugs,23,21,0.42640692640692635

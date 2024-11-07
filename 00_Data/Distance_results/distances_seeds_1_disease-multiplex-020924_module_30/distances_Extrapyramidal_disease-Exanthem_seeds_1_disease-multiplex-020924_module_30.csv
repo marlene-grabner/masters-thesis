@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Exanthem nodes,sAB
+0,disease_on_genes,14,28,0.5119047619047621
+1,disease_on_symptoms,25,26,2.6669984917043736
+2,disease_on_drugs,10,28,0.8005639097744359

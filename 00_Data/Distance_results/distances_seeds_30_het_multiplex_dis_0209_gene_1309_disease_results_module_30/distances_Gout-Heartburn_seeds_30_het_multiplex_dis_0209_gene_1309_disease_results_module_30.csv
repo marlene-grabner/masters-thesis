@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Heartburn nodes,sAB
+0,disease_on_genes,28,26,-0.017857142857142794
+1,disease_on_symptoms,19,16,0.4169172932330829
+2,disease_on_drugs,22,25,0.07860735009671194

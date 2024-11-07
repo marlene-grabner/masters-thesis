@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Fatigue nodes,sAB
+0,disease_on_genes,26,26,-0.17307692307692324
+1,disease_on_symptoms,20,16,0.8138888888888889
+2,disease_on_drugs,20,26,-0.4013377926421404

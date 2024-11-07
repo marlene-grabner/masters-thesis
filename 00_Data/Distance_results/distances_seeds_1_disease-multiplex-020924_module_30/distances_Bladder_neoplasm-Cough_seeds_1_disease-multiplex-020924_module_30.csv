@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Cough nodes,sAB
+0,disease_on_genes,26,27,0.1890286512928021
+1,disease_on_symptoms,20,21,1.2709349593495933
+2,disease_on_drugs,25,27,0.8475783475783474

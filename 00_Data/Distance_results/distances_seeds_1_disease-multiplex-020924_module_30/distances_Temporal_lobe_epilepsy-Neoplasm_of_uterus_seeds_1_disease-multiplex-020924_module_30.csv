@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,29,28,0.10431250540143444
+1,disease_on_symptoms,17,19,1.5345717234262128
+2,disease_on_drugs,26,28,0.5925417175417174

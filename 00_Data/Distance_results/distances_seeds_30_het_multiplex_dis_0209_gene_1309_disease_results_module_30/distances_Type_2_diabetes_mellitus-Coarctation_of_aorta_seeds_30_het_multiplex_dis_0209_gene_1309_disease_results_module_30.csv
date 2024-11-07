@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.21150097465886952
+1,disease_on_symptoms,16,19,0.2802161654135338
+2,disease_on_drugs,27,24,-0.12268518518518512

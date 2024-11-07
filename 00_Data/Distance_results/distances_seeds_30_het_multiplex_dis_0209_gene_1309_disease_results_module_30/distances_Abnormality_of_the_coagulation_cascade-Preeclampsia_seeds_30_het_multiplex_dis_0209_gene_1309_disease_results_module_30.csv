@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,24,27,-0.039215686274509776
+1,disease_on_symptoms,24,18,0.9801587301587302
+2,disease_on_drugs,23,22,-0.06433904259991197

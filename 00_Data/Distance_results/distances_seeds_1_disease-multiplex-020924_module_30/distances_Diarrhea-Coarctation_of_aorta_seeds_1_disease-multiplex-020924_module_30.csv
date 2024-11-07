@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,0.35185185185185186
+1,disease_on_symptoms,19,14,1.8115174299384824
+2,disease_on_drugs,26,13,0.9551282051282053

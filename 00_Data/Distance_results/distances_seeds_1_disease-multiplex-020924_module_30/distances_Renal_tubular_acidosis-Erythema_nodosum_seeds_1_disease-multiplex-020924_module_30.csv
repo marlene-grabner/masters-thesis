@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,18,28,0.5944616977225672
+1,disease_on_symptoms,18,23,3.160038882997526
+2,disease_on_drugs,10,28,0.02687969924812017

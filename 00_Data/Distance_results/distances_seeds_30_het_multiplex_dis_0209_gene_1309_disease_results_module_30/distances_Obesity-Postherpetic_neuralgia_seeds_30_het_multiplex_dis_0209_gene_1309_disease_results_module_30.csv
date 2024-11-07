@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.30116959064327486
+1,disease_on_symptoms,18,16,-0.38888888888888884
+2,disease_on_drugs,25,29,-0.25389527458492966

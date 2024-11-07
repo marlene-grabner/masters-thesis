@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,27,27,0.20370370370370372
+1,disease_on_symptoms,17,19,0.9703302373581013
+2,disease_on_drugs,24,27,0.7450980392156863

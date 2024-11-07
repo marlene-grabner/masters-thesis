@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.13681318681318677
+1,disease_on_symptoms,20,17,0.8396263910969792
+2,disease_on_drugs,20,27,0.8510638297872339

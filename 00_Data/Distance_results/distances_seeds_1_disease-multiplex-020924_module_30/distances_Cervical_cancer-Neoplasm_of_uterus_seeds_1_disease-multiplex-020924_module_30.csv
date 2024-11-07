@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,27,28,0.01914381914381935
+1,disease_on_symptoms,23,19,0.6756020485997605
+2,disease_on_drugs,15,28,-0.10157807308970113

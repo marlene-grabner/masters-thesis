@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Myalgia nodes,sAB
+0,disease_on_genes,28,30,0.05283251231527064
+1,disease_on_symptoms,19,16,1.2987781954887219
+2,disease_on_drugs,26,29,0.5272727272727273

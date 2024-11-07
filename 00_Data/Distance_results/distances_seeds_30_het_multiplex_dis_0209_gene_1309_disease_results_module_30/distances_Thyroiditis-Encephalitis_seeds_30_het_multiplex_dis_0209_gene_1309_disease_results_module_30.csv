@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,21,13,-0.1316526610644262
+2,disease_on_drugs,29,22,0.08176593521421105

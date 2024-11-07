@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.16315789473684195
+1,disease_on_symptoms,17,17,0.7058823529411766
+2,disease_on_drugs,28,26,0.6295278795278796

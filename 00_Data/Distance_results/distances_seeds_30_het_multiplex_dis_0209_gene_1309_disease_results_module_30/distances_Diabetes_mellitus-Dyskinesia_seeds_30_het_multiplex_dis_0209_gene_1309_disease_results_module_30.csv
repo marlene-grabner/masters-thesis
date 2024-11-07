@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,21,30,-0.07843137254901966
+1,disease_on_symptoms,22,15,0.42727272727272725
+2,disease_on_drugs,19,28,-0.12815949448088326

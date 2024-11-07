@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,29,22,0.30121703853955384
+1,disease_on_symptoms,21,24,0.7021825396825396
+2,disease_on_drugs,28,19,0.9688249880019195

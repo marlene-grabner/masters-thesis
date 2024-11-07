@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,24,21,0.13725766986636545
+1,disease_on_symptoms,23,22,1.7716293368467282
+2,disease_on_drugs,20,21,0.22238675958188137

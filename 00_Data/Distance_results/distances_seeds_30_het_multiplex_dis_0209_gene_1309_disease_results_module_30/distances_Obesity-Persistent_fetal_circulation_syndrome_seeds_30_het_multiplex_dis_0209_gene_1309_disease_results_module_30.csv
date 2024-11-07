@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,24,-0.25163398692810457
+1,disease_on_symptoms,18,22,0.8747474747474748
+2,disease_on_drugs,25,21,-0.15383022774327126

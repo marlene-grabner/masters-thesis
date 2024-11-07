@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.36258741258741267
+1,disease_on_symptoms,23,19,1.8446115288220553
+2,disease_on_drugs,30,18,0.5180555555555555

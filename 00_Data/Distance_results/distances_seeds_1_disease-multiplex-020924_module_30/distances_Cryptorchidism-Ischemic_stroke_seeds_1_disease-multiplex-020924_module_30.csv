@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,23,30,0.2036130536130536
+1,disease_on_symptoms,18,16,1.5179738562091505
+2,disease_on_drugs,18,23,0.37645811240721105

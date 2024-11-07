@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,29,30,-0.15283459964932777
+1,disease_on_symptoms,20,16,-0.1645833333333333
+2,disease_on_drugs,24,29,-0.08434992409455644

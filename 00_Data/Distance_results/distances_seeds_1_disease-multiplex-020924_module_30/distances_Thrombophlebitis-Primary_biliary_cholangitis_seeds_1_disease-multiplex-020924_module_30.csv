@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,28,26,0.5561660561660562
+1,disease_on_symptoms,15,17,2.0285539215686272
+2,disease_on_drugs,21,18,1.2948717948717952

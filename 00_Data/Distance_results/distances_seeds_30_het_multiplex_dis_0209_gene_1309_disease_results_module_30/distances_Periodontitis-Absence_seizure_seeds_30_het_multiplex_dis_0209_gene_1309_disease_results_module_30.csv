@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,21,14,2.2142857142857144
+2,disease_on_drugs,28,22,0.36292207792207787

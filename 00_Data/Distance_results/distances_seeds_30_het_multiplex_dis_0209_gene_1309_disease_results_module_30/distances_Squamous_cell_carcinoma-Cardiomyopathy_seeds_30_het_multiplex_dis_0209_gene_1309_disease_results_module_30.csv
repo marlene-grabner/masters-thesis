@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.2581818181818182
+1,disease_on_symptoms,22,21,0.11313299103996788
+2,disease_on_drugs,30,24,0.13888888888888884

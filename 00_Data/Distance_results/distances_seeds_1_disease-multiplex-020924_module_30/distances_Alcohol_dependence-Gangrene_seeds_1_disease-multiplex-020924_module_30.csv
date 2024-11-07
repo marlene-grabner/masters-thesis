@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Gangrene nodes,sAB
+0,disease_on_genes,12,26,0.5109649122807018
+1,disease_on_symptoms,27,19,1.2306975167387066
+2,disease_on_drugs,9,23,0.46089975845410613

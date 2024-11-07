@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,13,19,0.07211538461538458
+2,disease_on_drugs,22,29,0.05893109594935142

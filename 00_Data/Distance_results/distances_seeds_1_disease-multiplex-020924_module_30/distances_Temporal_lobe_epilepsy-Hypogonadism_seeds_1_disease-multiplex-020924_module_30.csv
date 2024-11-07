@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,29,30,0.2068965517241379
+1,disease_on_symptoms,17,12,1.1905003380662613
+2,disease_on_drugs,26,30,0.9105311355311354

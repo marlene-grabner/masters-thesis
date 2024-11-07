@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,14,29,-0.058970099667774
+1,disease_on_symptoms,26,11,-0.029389529389529434
+2,disease_on_drugs,14,24,0.2077067669172934

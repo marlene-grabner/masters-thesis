@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Constipation nodes,sAB
+0,disease_on_genes,17,30,0.18483521068001663
+1,disease_on_symptoms,21,17,1.2220993660622144
+2,disease_on_drugs,17,27,1.1044761338878986

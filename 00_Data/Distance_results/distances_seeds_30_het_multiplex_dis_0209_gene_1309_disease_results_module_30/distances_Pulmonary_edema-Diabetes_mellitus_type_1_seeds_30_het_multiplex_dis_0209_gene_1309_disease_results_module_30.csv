@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,11,18,0.77533960292581
+2,disease_on_drugs,27,26,-0.019271085308821156

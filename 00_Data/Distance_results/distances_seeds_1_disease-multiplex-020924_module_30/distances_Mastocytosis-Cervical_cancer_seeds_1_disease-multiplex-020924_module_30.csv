@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,18,27,0.375925925925926
+1,disease_on_symptoms,28,23,0.8787754232127636
+2,disease_on_drugs,17,15,0.4286764705882353

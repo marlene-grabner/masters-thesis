@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.20964912280701753
+1,disease_on_symptoms,17,17,0.5000000000000002
+2,disease_on_drugs,26,26,-0.05769230769230771

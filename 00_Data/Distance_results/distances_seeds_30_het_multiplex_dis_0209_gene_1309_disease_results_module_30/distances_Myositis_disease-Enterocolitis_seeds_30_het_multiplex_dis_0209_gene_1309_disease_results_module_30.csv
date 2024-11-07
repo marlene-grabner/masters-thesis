@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.06929824561403508
+1,disease_on_symptoms,18,21,0.1706349206349207
+2,disease_on_drugs,26,25,-0.23238310708898946

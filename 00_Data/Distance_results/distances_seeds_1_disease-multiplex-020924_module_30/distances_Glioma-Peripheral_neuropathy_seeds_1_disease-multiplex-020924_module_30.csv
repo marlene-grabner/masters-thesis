@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,22,30,0.2375291375291375
+1,disease_on_symptoms,24,20,2.0518939393939397
+2,disease_on_drugs,20,24,1.2742424242424242

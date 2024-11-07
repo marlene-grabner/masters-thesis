@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,9,15,-1.1666666666666667
+2,disease_on_drugs,23,29,-0.37299619421058683

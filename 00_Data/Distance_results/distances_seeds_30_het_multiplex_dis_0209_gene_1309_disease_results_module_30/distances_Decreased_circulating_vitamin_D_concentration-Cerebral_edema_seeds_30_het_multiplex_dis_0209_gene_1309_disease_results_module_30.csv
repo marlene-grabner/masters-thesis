@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,25,30,0.18181818181818188
+1,disease_on_symptoms,13,10,0.8869565217391302
+2,disease_on_drugs,21,16,0.06760778635778641

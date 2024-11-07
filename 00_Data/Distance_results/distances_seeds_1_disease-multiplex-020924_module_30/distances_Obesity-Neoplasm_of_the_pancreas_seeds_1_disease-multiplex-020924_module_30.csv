@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,30,0.08791208791208804
+1,disease_on_symptoms,20,20,1.0250000000000001
+2,disease_on_drugs,27,30,0.45419103313840137

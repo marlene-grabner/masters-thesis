@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.11756978653530381
+1,disease_on_symptoms,20,14,1.4483193277310926
+2,disease_on_drugs,27,28,1.2363636363636363

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.12719780219780197
+1,disease_on_symptoms,15,21,0.9134920634920634
+2,disease_on_drugs,23,25,0.8965942028985505

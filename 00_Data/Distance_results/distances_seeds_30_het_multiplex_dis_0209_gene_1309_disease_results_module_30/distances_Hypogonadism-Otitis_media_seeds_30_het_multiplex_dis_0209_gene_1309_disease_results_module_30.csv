@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.050555230859146816
+1,disease_on_symptoms,17,20,0.5277821939586644
+2,disease_on_drugs,29,28,0.5086963097398669

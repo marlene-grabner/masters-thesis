@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,26,30,-0.3791208791208791
+1,disease_on_symptoms,16,17,0.2546791443850269
+2,disease_on_drugs,26,26,-0.34615384615384626

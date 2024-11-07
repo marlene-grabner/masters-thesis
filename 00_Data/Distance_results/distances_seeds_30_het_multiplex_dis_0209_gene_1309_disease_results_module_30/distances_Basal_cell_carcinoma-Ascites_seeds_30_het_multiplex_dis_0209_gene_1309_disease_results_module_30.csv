@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,24,22,-0.3474143610013176
+2,disease_on_drugs,27,27,-0.2592592592592594

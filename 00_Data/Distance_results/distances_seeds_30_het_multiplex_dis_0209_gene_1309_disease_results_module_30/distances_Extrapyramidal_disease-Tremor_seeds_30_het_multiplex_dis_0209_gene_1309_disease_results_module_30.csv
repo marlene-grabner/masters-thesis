@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Tremor nodes,sAB
+0,disease_on_genes,30,27,-0.631578947368421
+1,disease_on_symptoms,18,17,-0.6827731092436974
+2,disease_on_drugs,25,24,-0.7122789115646257

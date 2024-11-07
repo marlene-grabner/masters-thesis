@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.01754385964912286
+1,disease_on_symptoms,20,18,1.3931286549707602
+2,disease_on_drugs,29,24,-0.12333279115159401

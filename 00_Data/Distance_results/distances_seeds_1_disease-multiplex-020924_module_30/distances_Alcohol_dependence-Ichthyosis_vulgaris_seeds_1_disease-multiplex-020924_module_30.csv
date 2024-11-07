@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,12,27,0.38283475783475773
+1,disease_on_symptoms,27,21,1.7605820105820107
+2,disease_on_drugs,9,27,0.38888888888888884

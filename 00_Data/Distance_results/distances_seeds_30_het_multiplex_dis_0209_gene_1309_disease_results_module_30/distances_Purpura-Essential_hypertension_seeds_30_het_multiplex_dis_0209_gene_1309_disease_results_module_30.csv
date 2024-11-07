@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.07306397306397316
+1,disease_on_symptoms,17,13,0.8717948717948718
+2,disease_on_drugs,24,28,0.013049450549450503

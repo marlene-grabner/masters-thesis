@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,25,26,-0.1957164404223226
+1,disease_on_symptoms,26,22,0.5016025641025643
+2,disease_on_drugs,24,25,-0.12251700680272104

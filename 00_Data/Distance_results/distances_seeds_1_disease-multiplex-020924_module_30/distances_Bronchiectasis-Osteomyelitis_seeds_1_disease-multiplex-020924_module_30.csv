@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.23242424242424242
+1,disease_on_symptoms,15,23,0.5536994660564454
+2,disease_on_drugs,26,23,0.3058153027097126

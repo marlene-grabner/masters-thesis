@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Orchitis nodes,sAB
+0,disease_on_genes,23,23,0.4130434782608696
+1,disease_on_symptoms,23,16,1.5711747491638794
+2,disease_on_drugs,18,17,0.2586367880485527

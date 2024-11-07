@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,28,29,0.42133350617924115
+1,disease_on_symptoms,15,16,2.215994623655914
+2,disease_on_drugs,21,22,1.0232558139534884

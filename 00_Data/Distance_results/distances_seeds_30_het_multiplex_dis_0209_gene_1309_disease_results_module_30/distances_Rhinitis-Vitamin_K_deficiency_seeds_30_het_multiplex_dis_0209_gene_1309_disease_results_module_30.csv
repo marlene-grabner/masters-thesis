@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.018181818181818188
+1,disease_on_symptoms,12,21,0.7943722943722946
+2,disease_on_drugs,23,21,-0.13485789572746087

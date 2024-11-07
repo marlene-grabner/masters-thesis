@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,-0.2792592592592593
+1,disease_on_symptoms,18,20,-0.6434210526315789
+2,disease_on_drugs,29,22,-0.25092199889360134

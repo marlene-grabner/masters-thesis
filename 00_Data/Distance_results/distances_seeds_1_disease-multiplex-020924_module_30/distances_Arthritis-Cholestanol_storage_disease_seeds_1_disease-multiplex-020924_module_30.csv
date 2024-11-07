@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,19,17,0.8226694186446508
+2,disease_on_drugs,29,25,0.4764240102171138

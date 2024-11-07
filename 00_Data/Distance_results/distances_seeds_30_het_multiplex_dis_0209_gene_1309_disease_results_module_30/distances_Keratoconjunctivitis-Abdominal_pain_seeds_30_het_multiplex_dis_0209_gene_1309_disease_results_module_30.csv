@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,-0.28785310734463276
+1,disease_on_symptoms,20,19,0.04679487179487185
+2,disease_on_drugs,27,29,-0.25547345374931574

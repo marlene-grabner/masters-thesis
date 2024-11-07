@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,15,23,0.5842868039664375
+2,disease_on_drugs,29,24,-0.007590544350466244

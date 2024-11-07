@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.24137931034482762
+1,disease_on_symptoms,17,18,-0.25466853408029877
+2,disease_on_drugs,28,27,-0.1623737373737375

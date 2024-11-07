@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,21,27,0.18683862433862441
+1,disease_on_symptoms,20,22,1.2883116883116883
+2,disease_on_drugs,19,24,1.1443798449612403

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,0.07175925925925908
+1,disease_on_symptoms,20,19,0.9254048582995951
+2,disease_on_drugs,29,19,-0.04881276467029649

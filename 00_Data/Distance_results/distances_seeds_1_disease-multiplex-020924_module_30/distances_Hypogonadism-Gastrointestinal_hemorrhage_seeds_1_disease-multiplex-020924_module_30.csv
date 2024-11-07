@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,27,0.2665343915343914
+1,disease_on_symptoms,12,19,0.8046123372948499
+2,disease_on_drugs,30,27,1.1938596491228073

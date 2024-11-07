@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,29,22,0.3529411764705883
+1,disease_on_symptoms,16,24,1.7895833333333333
+2,disease_on_drugs,26,19,1.36140350877193

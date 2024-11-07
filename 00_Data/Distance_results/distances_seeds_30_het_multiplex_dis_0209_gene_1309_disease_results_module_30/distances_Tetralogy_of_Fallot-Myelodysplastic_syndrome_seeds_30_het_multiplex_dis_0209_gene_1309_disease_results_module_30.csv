@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.09285714285714275
+1,disease_on_symptoms,19,17,0.33187134502923943
+2,disease_on_drugs,20,24,0.013636363636363447

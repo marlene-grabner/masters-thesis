@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,26,30,0.03278388278388267
+1,disease_on_symptoms,19,17,0.618421052631579
+2,disease_on_drugs,24,26,0.12455128205128196

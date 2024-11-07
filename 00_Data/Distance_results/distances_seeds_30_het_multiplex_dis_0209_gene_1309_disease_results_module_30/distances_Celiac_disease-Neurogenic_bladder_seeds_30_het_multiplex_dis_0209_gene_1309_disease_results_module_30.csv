@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,18,18,0.3888888888888893
+2,disease_on_drugs,28,21,0.1377551020408163

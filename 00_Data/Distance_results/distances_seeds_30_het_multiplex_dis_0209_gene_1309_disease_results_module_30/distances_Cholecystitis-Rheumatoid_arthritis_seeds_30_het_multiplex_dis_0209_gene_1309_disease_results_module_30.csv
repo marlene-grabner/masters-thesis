@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,25,30,-0.12575757575757573
+1,disease_on_symptoms,23,19,-0.10885910428244516
+2,disease_on_drugs,21,30,-0.1455182072829131

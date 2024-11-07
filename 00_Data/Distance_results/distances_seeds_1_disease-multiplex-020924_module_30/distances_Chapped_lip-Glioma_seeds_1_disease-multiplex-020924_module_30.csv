@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Glioma nodes,sAB
+0,disease_on_genes,26,22,0.18560606060606055
+1,disease_on_symptoms,21,24,1.304563492063492
+2,disease_on_drugs,24,20,0.5204545454545455

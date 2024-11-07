@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,28,30,0.051683087027914576
+1,disease_on_symptoms,18,16,0.5957924836601305
+2,disease_on_drugs,25,28,0.11688679245283007

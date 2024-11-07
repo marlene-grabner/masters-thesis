@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Obesity nodes,sAB
+0,disease_on_genes,28,27,-0.11010101010101014
+1,disease_on_symptoms,18,18,-0.2222222222222221
+2,disease_on_drugs,23,25,-0.004891304347826031

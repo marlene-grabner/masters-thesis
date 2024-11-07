@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.2166666666666669
+1,disease_on_symptoms,19,22,-0.34785272493873265
+2,disease_on_drugs,20,27,-0.35187155240346724

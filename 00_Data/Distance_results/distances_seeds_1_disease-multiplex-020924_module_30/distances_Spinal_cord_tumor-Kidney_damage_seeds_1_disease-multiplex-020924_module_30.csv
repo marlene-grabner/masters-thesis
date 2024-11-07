@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,22,20,0.4790043290043291
+1,disease_on_symptoms,22,26,1.1002331002331003
+2,disease_on_drugs,14,13,0.996845746845747

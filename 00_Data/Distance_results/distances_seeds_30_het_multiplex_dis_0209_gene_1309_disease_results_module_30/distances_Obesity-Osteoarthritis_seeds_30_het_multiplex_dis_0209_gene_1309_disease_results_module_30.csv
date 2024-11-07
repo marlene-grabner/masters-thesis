@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,26,-0.3204321883567167
+1,disease_on_symptoms,18,22,-0.06388888888888888
+2,disease_on_drugs,25,25,-0.2599999999999999

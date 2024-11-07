@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,13,22,0.8873126873126873
+2,disease_on_drugs,19,26,0.46225820962663056

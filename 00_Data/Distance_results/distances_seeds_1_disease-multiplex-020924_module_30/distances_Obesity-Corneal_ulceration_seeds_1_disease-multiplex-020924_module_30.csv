@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,0.22217134717134712
+1,disease_on_symptoms,20,19,1.51970310391363
+2,disease_on_drugs,27,26,0.6233403214535289

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,26,30,0.036904761904761996
+1,disease_on_symptoms,20,17,0.8411367249602544
+2,disease_on_drugs,23,26,0.09161490683229823

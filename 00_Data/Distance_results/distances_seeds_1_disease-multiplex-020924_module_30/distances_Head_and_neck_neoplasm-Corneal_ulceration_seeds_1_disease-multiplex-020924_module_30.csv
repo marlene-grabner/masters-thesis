@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.06892446633825933
+1,disease_on_symptoms,20,19,0.7940620782726047
+2,disease_on_drugs,27,26,0.28301886792452824

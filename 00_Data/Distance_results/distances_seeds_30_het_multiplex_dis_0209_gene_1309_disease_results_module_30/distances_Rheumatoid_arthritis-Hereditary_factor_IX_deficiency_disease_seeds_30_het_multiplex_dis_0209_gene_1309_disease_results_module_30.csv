@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.19092775041050924
+1,disease_on_symptoms,19,18,0.5736525999683897
+2,disease_on_drugs,30,26,0.04926739926739909

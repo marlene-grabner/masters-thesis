@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,23,25,0.3332608695652173
+1,disease_on_symptoms,25,20,1.3466666666666667
+2,disease_on_drugs,18,21,0.5576923076923075

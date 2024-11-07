@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Periodontitis nodes,sAB
+0,disease_on_genes,26,23,0.1820353559483996
+1,disease_on_symptoms,18,25,1.9238242894056845
+2,disease_on_drugs,23,22,0.5095959595959594

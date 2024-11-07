@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,18,19,0.5437411095305833
+2,disease_on_drugs,25,30,0.06757575757575762

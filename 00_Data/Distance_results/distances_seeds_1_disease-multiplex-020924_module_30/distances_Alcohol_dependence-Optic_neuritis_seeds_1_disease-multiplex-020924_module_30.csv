@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,12,27,0.5623219373219372
+1,disease_on_symptoms,27,16,1.1686315676141255
+2,disease_on_drugs,9,27,0.4351851851851849

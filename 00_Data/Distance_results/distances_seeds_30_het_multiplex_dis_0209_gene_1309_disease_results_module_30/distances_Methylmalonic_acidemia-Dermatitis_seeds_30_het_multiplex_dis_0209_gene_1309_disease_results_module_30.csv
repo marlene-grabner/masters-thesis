@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Dermatitis nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,17,14,1.0774600162645704
+2,disease_on_drugs,21,28,0.19047619047619047

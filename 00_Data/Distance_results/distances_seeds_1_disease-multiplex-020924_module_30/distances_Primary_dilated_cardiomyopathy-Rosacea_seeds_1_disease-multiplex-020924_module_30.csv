@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,0.5999999999999999
+1,disease_on_symptoms,25,17,1.4118207282913164
+2,disease_on_drugs,7,27,0.9579831932773109

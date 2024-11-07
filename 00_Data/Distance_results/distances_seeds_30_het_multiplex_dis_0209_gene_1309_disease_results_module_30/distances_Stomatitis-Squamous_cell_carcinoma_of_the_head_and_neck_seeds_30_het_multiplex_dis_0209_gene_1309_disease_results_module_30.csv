@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999984
+1,disease_on_symptoms,19,22,0.17927996265608592
+2,disease_on_drugs,29,30,-0.06957919345412034

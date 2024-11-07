@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,21,14,0.32380952380952377
+2,disease_on_drugs,27,29,0.18160463419084105

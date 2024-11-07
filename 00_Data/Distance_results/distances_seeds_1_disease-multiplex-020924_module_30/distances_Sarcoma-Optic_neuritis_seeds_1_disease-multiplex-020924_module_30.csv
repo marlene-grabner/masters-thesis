@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,0.09757834757834738
+1,disease_on_symptoms,26,16,0.22996794871794868
+2,disease_on_drugs,21,27,0.10879629629629606

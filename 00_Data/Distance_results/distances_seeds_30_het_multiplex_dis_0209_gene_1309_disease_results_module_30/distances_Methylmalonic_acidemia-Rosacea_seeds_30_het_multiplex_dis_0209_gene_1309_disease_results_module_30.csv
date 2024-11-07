@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Rosacea nodes,sAB
+0,disease_on_genes,25,30,-0.1803030303030303
+1,disease_on_symptoms,17,18,0.547198879551821
+2,disease_on_drugs,21,30,-0.16274509803921555

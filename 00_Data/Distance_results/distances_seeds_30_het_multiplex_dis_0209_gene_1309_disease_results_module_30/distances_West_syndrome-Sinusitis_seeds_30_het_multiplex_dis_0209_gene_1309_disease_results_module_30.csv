@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.22033898305084754
+1,disease_on_symptoms,13,20,1.3625291375291373
+2,disease_on_drugs,19,27,0.6467497245529281

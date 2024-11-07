@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,29,30,0.44067796610169485
+1,disease_on_symptoms,20,24,1.775378787878788
+2,disease_on_drugs,20,15,0.6666666666666667

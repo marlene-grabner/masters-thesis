@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,16,25,0.1027439024390242
+1,disease_on_symptoms,21,23,2.100131752305665
+2,disease_on_drugs,15,20,0.6642857142857141

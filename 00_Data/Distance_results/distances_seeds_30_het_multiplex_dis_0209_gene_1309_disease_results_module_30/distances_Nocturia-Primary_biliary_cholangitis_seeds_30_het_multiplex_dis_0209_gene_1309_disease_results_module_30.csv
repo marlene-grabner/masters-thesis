@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,25,26,-0.06000000000000005
+1,disease_on_symptoms,18,23,0.5569694827383058
+2,disease_on_drugs,24,26,0.1828205128205127

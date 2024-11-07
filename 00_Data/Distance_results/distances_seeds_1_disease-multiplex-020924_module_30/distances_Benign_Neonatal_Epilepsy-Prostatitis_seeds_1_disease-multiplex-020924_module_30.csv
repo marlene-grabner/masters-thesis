@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Prostatitis nodes,sAB
+0,disease_on_genes,29,30,0.27231638418079096
+1,disease_on_symptoms,16,20,2.6326388888888888
+2,disease_on_drugs,26,29,1.092789968652038

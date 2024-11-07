@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,29,22,0.2549019607843137
+1,disease_on_symptoms,14,24,1.361998746867168
+2,disease_on_drugs,28,19,0.5117581187010078

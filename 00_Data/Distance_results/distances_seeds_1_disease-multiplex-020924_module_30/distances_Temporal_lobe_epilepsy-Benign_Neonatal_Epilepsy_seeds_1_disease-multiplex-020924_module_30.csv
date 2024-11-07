@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,29,29,-0.7068965517241379
+1,disease_on_symptoms,17,16,-0.7861519607843139
+2,disease_on_drugs,26,26,-0.7692307692307692

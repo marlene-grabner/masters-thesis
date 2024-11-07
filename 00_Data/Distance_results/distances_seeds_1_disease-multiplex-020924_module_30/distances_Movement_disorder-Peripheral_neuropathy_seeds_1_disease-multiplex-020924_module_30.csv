@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,22,20,-0.15129870129870127
+2,disease_on_drugs,15,24,-0.3211538461538461

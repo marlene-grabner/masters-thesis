@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,28,0.14576719576719577
+1,disease_on_symptoms,21,17,1.4097007223942208
+2,disease_on_drugs,27,18,0.2296296296296294

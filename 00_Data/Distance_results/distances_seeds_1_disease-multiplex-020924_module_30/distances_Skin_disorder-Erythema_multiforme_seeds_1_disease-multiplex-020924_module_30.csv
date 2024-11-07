@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,7,30,0.18481338481338483
+1,disease_on_symptoms,30,16,0.266213768115942
+2,disease_on_drugs,6,30,0.1944444444444442

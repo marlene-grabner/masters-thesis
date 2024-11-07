@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Anorexia nodes,sAB
+0,disease_on_genes,29,17,0.13947438045683014
+1,disease_on_symptoms,15,25,0.8299999999999996
+2,disease_on_drugs,29,13,0.7300113679424025

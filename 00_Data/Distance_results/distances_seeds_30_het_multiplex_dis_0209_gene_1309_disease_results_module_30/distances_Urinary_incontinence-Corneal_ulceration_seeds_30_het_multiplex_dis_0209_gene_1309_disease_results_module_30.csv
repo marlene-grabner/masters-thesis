@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,29,28,-0.00031328320801993215
+1,disease_on_symptoms,20,15,0.6047619047619048
+2,disease_on_drugs,20,23,0.2044489383215371

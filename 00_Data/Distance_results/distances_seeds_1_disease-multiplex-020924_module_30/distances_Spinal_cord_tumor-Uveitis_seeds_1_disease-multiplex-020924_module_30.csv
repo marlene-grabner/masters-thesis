@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Uveitis nodes,sAB
+0,disease_on_genes,22,30,0.36270396270396277
+1,disease_on_symptoms,22,21,0.7218363032316522
+2,disease_on_drugs,14,27,0.33775325848496585

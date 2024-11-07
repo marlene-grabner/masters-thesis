@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.051765188834154485
+1,disease_on_symptoms,17,20,-0.22980922098569123
+2,disease_on_drugs,26,27,-0.11582809224318669

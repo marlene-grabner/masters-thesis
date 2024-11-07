@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.2056530214424952
+1,disease_on_symptoms,12,19,0.5217883418222975
+2,disease_on_drugs,27,26,0.6977503628447026

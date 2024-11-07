@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,14,13,1.5295075295075296
+2,disease_on_drugs,26,23,0.13886424134871356

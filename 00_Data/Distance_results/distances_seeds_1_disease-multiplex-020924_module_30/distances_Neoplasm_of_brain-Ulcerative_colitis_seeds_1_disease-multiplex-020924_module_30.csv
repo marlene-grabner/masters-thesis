@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,22,27,0.3075826290112005
+1,disease_on_symptoms,23,20,1.7841001011122344
+2,disease_on_drugs,20,25,0.661111111111111

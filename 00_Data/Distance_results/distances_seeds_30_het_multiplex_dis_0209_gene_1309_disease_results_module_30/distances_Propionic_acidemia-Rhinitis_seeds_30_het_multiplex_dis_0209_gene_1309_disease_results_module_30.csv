@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,16,12,0.08184523809523858
+2,disease_on_drugs,30,23,0.2572600492206729

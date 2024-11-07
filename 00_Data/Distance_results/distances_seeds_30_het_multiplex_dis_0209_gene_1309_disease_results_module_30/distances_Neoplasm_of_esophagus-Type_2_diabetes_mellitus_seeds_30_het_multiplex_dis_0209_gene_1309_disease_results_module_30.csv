@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,29,30,-0.27147866744593796
+1,disease_on_symptoms,20,16,0.2881944444444444
+2,disease_on_drugs,25,27,-0.11467236467236475

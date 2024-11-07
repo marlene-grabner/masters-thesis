@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,26,27,0.39585013169918826
+1,disease_on_symptoms,21,23,1.1685958968567665
+2,disease_on_drugs,24,15,0.5580128205128205

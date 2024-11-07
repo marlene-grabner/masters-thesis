@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.052727272727272734
+1,disease_on_symptoms,23,26,0.4836529929697633
+2,disease_on_drugs,23,24,0.4018655565834104

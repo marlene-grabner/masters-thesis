@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,20,27,0.030417651694247594
+1,disease_on_symptoms,23,27,0.8248953301127213
+2,disease_on_drugs,18,26,0.5095182595182597

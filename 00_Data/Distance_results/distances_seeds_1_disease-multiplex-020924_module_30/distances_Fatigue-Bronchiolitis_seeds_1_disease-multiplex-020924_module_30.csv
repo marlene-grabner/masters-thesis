@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.20510545355265863
+1,disease_on_symptoms,21,25,1.1067080745341613
+2,disease_on_drugs,26,18,0.3327505827505828

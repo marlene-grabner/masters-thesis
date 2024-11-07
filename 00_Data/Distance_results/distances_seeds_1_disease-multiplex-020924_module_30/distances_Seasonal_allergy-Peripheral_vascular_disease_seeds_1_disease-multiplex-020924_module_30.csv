@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,29,23,0.1659843155345404
+1,disease_on_symptoms,15,16,1.7296370967741934
+2,disease_on_drugs,29,22,0.9043272481406357

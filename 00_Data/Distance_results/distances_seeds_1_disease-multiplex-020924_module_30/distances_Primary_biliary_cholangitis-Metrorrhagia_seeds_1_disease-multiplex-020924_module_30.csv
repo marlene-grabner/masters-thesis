@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.37699564586357037
+1,disease_on_symptoms,17,17,1.2058823529411766
+2,disease_on_drugs,18,26,0.8857808857808858

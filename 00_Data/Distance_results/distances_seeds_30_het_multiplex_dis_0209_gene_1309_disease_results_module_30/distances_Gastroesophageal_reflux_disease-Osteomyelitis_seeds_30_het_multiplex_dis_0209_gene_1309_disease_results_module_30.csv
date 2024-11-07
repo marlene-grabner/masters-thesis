@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,18,22,-0.12020202020202042
+2,disease_on_drugs,25,28,0.07486522911051208

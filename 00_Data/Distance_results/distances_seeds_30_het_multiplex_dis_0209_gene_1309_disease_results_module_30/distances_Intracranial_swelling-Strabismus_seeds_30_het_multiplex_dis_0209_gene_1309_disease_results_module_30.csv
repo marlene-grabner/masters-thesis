@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.33541927409261574
+1,disease_on_symptoms,11,24,-0.33057359307359313
+2,disease_on_drugs,21,16,-0.4007802445302445

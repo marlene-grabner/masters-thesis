@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,21,22,0.8449360716802579
+2,disease_on_drugs,27,29,0.30475734355044715

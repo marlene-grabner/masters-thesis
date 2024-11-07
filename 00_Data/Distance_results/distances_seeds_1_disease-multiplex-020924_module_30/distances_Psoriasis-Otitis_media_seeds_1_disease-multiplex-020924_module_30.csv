@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,0.053517414225218385
+1,disease_on_symptoms,21,22,1.2323567904963255
+2,disease_on_drugs,28,29,0.49150894477573237

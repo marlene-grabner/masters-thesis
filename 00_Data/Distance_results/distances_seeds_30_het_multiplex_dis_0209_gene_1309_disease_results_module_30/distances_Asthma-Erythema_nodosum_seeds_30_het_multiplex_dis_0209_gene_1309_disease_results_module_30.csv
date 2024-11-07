@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,25,30,-0.020000000000000018
+1,disease_on_symptoms,20,22,0.34512987012986995
+2,disease_on_drugs,22,29,0.023587805027967423

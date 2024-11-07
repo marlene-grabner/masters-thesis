@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,15,17,0.38051470588235325
+2,disease_on_drugs,23,17,-0.08094629156010225

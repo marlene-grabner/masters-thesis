@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,23,23,0.08695652173913038
+1,disease_on_symptoms,24,19,1.0535240718074257
+2,disease_on_drugs,22,11,0.1287878787878789

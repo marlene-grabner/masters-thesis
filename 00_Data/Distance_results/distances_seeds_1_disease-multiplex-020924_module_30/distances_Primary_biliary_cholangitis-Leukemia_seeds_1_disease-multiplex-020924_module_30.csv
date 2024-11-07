@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.5034965034965035
+1,disease_on_symptoms,17,27,1.404585066349772
+2,disease_on_drugs,18,17,1.0022408963585434

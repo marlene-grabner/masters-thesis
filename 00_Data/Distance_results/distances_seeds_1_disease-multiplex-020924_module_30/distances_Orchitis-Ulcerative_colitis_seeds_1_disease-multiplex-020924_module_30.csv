@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,23,27,0.1029629629629627
+1,disease_on_symptoms,16,20,1.61875
+2,disease_on_drugs,17,25,0.41736694677871156

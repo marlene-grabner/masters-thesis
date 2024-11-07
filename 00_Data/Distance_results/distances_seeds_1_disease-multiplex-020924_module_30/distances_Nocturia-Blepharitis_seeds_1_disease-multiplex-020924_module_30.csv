@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,21,20,0.5940476190476189
+1,disease_on_symptoms,24,27,1.8242102396514164
+2,disease_on_drugs,14,19,0.9311346548188653

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,25,25,0.10000000000000009
+1,disease_on_symptoms,19,19,0.28947368421052655
+2,disease_on_drugs,25,22,0.2755512572533849

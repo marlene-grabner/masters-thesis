@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,26,21,-0.04148156807731285
+1,disease_on_symptoms,17,22,1.2122583299053886
+2,disease_on_drugs,20,20,-0.19999999999999996

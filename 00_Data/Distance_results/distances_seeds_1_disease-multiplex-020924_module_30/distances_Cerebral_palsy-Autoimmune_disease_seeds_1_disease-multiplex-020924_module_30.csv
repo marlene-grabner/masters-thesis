@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,22,0.4548203119631691
+1,disease_on_symptoms,16,19,1.962687969924812
+2,disease_on_drugs,18,19,0.8926031294452348

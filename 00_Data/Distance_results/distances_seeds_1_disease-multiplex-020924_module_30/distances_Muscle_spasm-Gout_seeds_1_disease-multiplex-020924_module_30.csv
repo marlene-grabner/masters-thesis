@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Gout nodes,sAB
+0,disease_on_genes,25,25,0.1399999999999999
+1,disease_on_symptoms,23,18,1.5427712972781902
+2,disease_on_drugs,19,23,0.7619047619047619

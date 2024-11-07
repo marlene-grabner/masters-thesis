@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.5333333333333332
+1,disease_on_symptoms,12,13,1.60525641025641
+2,disease_on_drugs,17,18,0.7443977591036415

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,25,-0.09766214177978882
+1,disease_on_symptoms,17,19,0.20442036463708302
+2,disease_on_drugs,24,22,-0.17350131752305664

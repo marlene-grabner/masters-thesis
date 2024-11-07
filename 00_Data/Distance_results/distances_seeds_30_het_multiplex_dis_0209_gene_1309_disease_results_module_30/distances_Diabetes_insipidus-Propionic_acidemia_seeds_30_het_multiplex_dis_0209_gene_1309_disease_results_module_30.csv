@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Propionic_acidemia nodes,sAB
+0,disease_on_genes,26,30,-0.28708791208791207
+1,disease_on_symptoms,20,16,-0.5784722222222225
+2,disease_on_drugs,20,30,-0.31000000000000005

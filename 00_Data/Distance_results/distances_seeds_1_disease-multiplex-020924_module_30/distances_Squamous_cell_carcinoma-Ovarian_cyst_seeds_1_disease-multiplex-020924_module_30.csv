@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,16,20,0.4111111111111112
+1,disease_on_symptoms,26,22,2.3884032634032635
+2,disease_on_drugs,14,15,0.7275862068965517

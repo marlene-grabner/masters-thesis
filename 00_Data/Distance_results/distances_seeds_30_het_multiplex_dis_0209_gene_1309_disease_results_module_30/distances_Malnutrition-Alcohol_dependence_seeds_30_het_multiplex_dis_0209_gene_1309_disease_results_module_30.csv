@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,14,18,-0.3759920634920635
+2,disease_on_drugs,29,24,-0.18678160919540243

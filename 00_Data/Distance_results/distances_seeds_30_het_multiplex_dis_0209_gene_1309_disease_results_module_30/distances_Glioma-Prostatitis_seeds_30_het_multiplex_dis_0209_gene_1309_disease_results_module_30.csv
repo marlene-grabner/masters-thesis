@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Prostatitis nodes,sAB
+0,disease_on_genes,22,30,0.05769230769230771
+1,disease_on_symptoms,21,22,0.9284204167925099
+2,disease_on_drugs,21,28,0.20663265306122458

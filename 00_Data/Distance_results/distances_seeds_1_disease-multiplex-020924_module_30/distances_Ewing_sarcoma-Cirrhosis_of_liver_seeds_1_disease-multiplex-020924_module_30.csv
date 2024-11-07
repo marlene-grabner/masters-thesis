@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,24,30,0.27268518518518525
+1,disease_on_symptoms,25,14,0.5646520146520149
+2,disease_on_drugs,17,26,0.5389087656529519

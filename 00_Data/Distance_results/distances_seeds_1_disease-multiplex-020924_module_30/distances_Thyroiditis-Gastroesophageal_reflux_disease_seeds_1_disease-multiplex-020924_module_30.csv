@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,26,26,0.03846153846153855
+1,disease_on_symptoms,28,17,0.5880718954248367
+2,disease_on_drugs,23,25,0.5415942028985505

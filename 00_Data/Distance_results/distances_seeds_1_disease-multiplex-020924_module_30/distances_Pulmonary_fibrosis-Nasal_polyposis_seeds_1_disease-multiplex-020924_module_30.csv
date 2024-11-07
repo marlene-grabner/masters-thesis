@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,24,15,0.17660256410256414
+1,disease_on_symptoms,22,25,0.8662475822050293
+2,disease_on_drugs,24,10,-0.04117647058823537

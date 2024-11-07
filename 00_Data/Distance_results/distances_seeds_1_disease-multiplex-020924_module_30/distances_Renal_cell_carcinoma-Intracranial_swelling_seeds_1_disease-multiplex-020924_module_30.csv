@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,25,30,0.32333333333333325
+1,disease_on_symptoms,24,14,0.9395363408521304
+2,disease_on_drugs,20,24,0.5246212121212119

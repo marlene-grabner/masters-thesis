@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,26,9,0.10299145299145285
+1,disease_on_symptoms,20,27,1.1910165484633568
+2,disease_on_drugs,27,9,0.8796296296296295

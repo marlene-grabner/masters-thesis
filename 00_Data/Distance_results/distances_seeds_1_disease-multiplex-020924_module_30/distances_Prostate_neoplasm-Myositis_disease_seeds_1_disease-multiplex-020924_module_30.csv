@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,17,30,0.26994159365874015
+1,disease_on_symptoms,21,24,1.0269841269841269
+2,disease_on_drugs,17,28,1.0074463118580765

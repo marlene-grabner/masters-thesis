@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.07845223195661255
+1,disease_on_symptoms,17,27,0.6186868686868685
+2,disease_on_drugs,26,16,0.16002747252747263

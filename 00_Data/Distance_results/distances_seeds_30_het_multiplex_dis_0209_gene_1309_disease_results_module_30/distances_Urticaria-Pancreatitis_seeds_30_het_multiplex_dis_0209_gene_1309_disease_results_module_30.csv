@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,24,30,-0.2592592592592593
+1,disease_on_symptoms,21,17,0.12656641604010033
+2,disease_on_drugs,24,30,-0.23749999999999982

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Myopathy nodes,sAB
+0,disease_on_genes,15,18,0.5828282828282829
+1,disease_on_symptoms,25,21,0.7699792960662526
+2,disease_on_drugs,10,6,0.2333333333333334

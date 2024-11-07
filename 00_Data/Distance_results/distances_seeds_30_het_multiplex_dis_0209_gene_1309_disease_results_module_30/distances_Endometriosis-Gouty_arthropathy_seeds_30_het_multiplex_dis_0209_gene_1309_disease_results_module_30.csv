@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,-0.1028735632183907
+1,disease_on_symptoms,16,18,-0.07741013071895408
+2,disease_on_drugs,30,23,0.1665709598031173

@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.1890394088669951
+1,disease_on_symptoms,19,19,0.8684210526315788
+2,disease_on_drugs,25,25,0.3799999999999999

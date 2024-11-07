@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,0.31500000000000017
+1,disease_on_symptoms,16,23,0.6573996655518395
+2,disease_on_drugs,24,18,0.7232142857142858

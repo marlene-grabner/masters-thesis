@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,28,26,-0.371082621082621
+1,disease_on_symptoms,23,21,-0.4970826275174103
+2,disease_on_drugs,26,23,-0.46703296703296693

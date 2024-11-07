@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.1256631118403062
+1,disease_on_symptoms,15,21,0.6063492063492062
+2,disease_on_drugs,29,21,0.6713300492610836

@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.09280831282471969
+1,disease_on_symptoms,18,19,0.3210842421368738
+2,disease_on_drugs,24,22,-0.02206851119894604

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,22,30,-0.11888111888111885
+1,disease_on_symptoms,23,20,0.34747219413549035
+2,disease_on_drugs,20,30,-0.1100000000000001

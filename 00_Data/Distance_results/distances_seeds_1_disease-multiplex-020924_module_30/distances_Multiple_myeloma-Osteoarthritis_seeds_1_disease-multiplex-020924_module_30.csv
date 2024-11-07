@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,0.2545098039215685
+1,disease_on_symptoms,21,20,0.9016260162601624
+2,disease_on_drugs,25,21,0.43826086956521726

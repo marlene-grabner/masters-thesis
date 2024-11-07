@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.1694915254237288
+1,disease_on_symptoms,18,20,-0.13713450292397655
+2,disease_on_drugs,30,28,-0.0715517241379311

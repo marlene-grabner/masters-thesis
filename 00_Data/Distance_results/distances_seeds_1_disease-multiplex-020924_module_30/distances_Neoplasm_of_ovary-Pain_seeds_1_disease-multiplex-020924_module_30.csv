@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Pain nodes,sAB
+0,disease_on_genes,24,26,0.2765384615384616
+1,disease_on_symptoms,26,21,1.4251812017769465
+2,disease_on_drugs,15,26,0.9075984990619137

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,15,23,0.2172387490465295
+1,disease_on_symptoms,25,25,0.1399999999999999
+2,disease_on_drugs,10,22,-0.1369318181818182

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,-0.07309941520467844
+1,disease_on_symptoms,22,17,0.20146030440148088
+2,disease_on_drugs,20,28,0.09226190476190466

@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,29,30,-0.40564971751412426
+1,disease_on_symptoms,25,20,-0.6155555555555555
+2,disease_on_drugs,28,24,-0.4262820512820511

@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,20,18,-0.14634502923976633
+2,disease_on_drugs,28,21,-0.49744897959183676

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,20,24,1.1424242424242426
+2,disease_on_drugs,27,28,0.9107142857142856

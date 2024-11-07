@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Vasculitis nodes,sAB
+0,disease_on_genes,22,24,0.43568840579710133
+1,disease_on_symptoms,24,19,1.2342666258669928
+2,disease_on_drugs,19,20,0.7678137651821861

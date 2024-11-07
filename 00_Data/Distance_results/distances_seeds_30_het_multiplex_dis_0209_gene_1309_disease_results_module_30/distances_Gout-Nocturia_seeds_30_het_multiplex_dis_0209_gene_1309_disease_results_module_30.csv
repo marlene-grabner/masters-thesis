@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Nocturia nodes,sAB
+0,disease_on_genes,28,25,0.0013736263736263687
+1,disease_on_symptoms,19,18,0.9280069543227438
+2,disease_on_drugs,22,24,0.060935441370223886

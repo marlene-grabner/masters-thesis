@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.09272727272727277
+1,disease_on_symptoms,18,26,0.5615773115773113
+2,disease_on_drugs,30,24,0.18148148148148158

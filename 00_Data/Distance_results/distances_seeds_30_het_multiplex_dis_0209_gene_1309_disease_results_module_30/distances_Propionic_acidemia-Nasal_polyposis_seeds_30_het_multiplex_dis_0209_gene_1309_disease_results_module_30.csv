@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,16,20,0.02708333333333357
+2,disease_on_drugs,30,25,0.1527272727272726

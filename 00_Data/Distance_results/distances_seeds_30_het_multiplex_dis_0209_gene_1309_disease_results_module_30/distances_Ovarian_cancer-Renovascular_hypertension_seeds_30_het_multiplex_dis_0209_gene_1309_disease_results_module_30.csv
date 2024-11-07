@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,17,17,1.3823529411764706
+2,disease_on_drugs,17,29,0.41136784548902017

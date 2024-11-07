@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,17,30,0.28160200250312895
+1,disease_on_symptoms,21,16,1.3229971042471045
+2,disease_on_drugs,14,30,1.022727272727273

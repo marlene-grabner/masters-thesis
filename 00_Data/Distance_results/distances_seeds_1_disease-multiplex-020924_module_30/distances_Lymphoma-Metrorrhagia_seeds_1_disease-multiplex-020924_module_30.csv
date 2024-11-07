@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.018505079825834603
+1,disease_on_symptoms,21,17,0.9002653693056168
+2,disease_on_drugs,25,26,0.5685972850678733

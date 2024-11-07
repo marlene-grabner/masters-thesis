@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,28,30,0.1206896551724137
+1,disease_on_symptoms,21,17,0.9220846233230136
+2,disease_on_drugs,21,25,0.7671635610766045

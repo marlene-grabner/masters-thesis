@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,23,30,0.4282198523379819
+1,disease_on_symptoms,19,16,1.169454887218045
+2,disease_on_drugs,19,24,0.5886627906976745

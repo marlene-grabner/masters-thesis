@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,26,23,-0.08163265306122447
+1,disease_on_symptoms,20,19,0.8220985155195679
+2,disease_on_drugs,23,19,0.029584831644328125

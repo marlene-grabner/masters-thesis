@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.03411306042884976
+1,disease_on_symptoms,21,14,1.288095238095238
+2,disease_on_drugs,29,26,0.18619483964311545

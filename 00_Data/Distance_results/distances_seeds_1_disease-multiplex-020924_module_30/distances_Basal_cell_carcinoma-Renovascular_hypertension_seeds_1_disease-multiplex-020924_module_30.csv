@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,26,21,0.1671927363416723
+1,disease_on_symptoms,23,22,2.4897672375933246
+2,disease_on_drugs,25,20,0.6527777777777777

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,25,24,0.4692857142857141
+1,disease_on_symptoms,16,26,1.8878205128205128
+2,disease_on_drugs,17,15,1.0330882352941178

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Dermatitis nodes,sAB
+0,disease_on_genes,27,30,-0.21150097465886952
+1,disease_on_symptoms,21,14,-0.40714285714285703
+2,disease_on_drugs,27,28,-0.03641173641173645

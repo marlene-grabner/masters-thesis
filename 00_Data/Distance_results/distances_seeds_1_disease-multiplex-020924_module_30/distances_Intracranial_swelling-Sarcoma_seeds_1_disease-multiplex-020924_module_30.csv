@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.2924242424242425
+1,disease_on_symptoms,14,26,0.8439560439560438
+2,disease_on_drugs,24,21,0.20138888888888884

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,23,26,0.2178349600709848
+1,disease_on_symptoms,19,15,1.8698658410732714
+2,disease_on_drugs,11,26,0.8648648648648649

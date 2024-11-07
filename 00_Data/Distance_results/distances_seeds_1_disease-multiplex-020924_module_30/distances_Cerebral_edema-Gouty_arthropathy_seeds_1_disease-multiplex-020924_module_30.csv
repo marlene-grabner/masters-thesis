@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,25,0.46545454545454534
+1,disease_on_symptoms,9,13,0.398989898989899
+2,disease_on_drugs,11,16,0.21959175084175087

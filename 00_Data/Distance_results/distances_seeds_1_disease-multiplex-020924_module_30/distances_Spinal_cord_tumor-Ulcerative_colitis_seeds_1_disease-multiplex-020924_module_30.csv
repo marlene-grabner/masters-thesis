@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,22,27,0.2120353191781763
+1,disease_on_symptoms,22,20,1.116991341991342
+2,disease_on_drugs,14,25,0.2774725274725274

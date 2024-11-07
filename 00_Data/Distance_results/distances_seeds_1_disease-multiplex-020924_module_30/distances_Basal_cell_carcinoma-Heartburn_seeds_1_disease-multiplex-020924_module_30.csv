@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,0.11660256410256409
+1,disease_on_symptoms,23,20,0.8841001011122342
+2,disease_on_drugs,25,22,1.0836557059961314

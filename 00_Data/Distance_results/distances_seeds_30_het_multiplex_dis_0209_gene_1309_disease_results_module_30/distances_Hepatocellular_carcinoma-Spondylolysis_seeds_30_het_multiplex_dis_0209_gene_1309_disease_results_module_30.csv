@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,24,28,0.0
+1,disease_on_symptoms,23,17,0.5087595907928386
+2,disease_on_drugs,22,19,0.01616291282530047

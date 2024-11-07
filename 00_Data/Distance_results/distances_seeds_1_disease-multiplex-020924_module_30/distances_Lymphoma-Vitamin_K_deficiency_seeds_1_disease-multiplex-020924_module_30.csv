@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.03763197586727007
+1,disease_on_symptoms,21,23,1.0752399774138905
+2,disease_on_drugs,25,20,0.2877777777777777

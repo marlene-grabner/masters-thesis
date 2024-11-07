@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,-0.12605042016806733
+1,disease_on_symptoms,14,22,0.2860750360750359
+2,disease_on_drugs,27,20,-0.18331363278171808

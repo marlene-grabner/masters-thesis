@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,23,20,-0.48450455005055604
+1,disease_on_symptoms,16,24,-0.4145833333333335
+2,disease_on_drugs,22,18,-0.4111111111111112

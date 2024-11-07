@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,0.26838168217478575
+1,disease_on_symptoms,19,20,0.4842442645074223
+2,disease_on_drugs,27,26,0.5471698113207548

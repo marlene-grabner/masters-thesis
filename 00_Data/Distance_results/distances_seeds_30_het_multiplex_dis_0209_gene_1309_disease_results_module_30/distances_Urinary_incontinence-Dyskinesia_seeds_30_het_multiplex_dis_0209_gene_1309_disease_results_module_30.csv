@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,30,-0.2542372881355932
+1,disease_on_symptoms,20,15,0.10000000000000009
+2,disease_on_drugs,20,28,-0.40535714285714297

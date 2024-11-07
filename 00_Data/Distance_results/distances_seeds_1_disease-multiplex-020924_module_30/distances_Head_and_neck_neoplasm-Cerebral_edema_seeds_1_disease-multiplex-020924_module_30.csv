@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,0.6333333333333333
+1,disease_on_symptoms,20,9,0.6203065134099619
+2,disease_on_drugs,27,11,0.7703349282296652

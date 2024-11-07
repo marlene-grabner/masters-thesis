@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,26,-0.038461538461538436
+1,disease_on_symptoms,21,21,0.7142857142857144
+2,disease_on_drugs,25,26,0.0011010558069379783

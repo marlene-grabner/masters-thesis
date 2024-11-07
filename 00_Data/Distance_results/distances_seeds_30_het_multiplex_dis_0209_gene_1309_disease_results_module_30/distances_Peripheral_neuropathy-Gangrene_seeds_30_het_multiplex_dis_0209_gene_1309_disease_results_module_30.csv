@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,21,22,-0.002693043390717964
+2,disease_on_drugs,29,27,0.03416347381864626

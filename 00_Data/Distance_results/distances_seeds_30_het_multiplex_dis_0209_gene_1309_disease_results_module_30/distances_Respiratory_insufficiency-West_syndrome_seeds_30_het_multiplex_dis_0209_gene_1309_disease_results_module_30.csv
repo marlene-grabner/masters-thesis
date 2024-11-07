@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,21,13,0.8080155138978671
+2,disease_on_drugs,25,19,-0.07526315789473692

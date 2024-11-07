@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,28,24,0.10302197802197788
+1,disease_on_symptoms,15,23,1.9240274599542335
+2,disease_on_drugs,20,24,0.4522727272727274

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,23,0.7723543888433142
+1,disease_on_symptoms,9,24,1.2815656565656566
+2,disease_on_drugs,11,17,1.0259740259740262

@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,12,22,0.5960338680926915
+1,disease_on_symptoms,27,21,3.6445105820105823
+2,disease_on_drugs,9,6,0.7222222222222223

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,25,24,0.5671428571428572
+1,disease_on_symptoms,20,23,3.322017189079879
+2,disease_on_drugs,14,12,0.662087912087912

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Dysuria nodes,sAB
+0,disease_on_genes,28,30,0.2661826981246218
+1,disease_on_symptoms,23,16,1.3814450947603119
+2,disease_on_drugs,26,23,0.40918708620571986

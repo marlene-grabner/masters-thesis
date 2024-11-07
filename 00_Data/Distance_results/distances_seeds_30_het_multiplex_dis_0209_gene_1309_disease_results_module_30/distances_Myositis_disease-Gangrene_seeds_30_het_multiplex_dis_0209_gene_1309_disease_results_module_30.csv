@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.03421052631578947
+1,disease_on_symptoms,18,22,0.4209595959595962
+2,disease_on_drugs,26,27,-0.002996828468526669

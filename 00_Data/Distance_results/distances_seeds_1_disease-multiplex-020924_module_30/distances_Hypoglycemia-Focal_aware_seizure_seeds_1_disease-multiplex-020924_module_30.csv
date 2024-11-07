@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.3220338983050848
+1,disease_on_symptoms,12,15,1.1537037037037035
+2,disease_on_drugs,22,29,1.176470588235294

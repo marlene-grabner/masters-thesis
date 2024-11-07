@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Gangrene nodes,sAB
+0,disease_on_genes,25,26,-0.0007843137254901489
+1,disease_on_symptoms,20,19,0.64331983805668
+2,disease_on_drugs,18,23,-0.15385295157299406

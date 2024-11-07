@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,20,0.5826023391812865
+2,disease_on_drugs,28,30,0.2726600985221672

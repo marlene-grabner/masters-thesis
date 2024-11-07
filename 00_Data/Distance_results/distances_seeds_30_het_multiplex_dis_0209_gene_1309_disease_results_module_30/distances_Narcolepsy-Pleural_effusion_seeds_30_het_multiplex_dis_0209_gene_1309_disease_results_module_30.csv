@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,20,18,1.4565789473684212
+2,disease_on_drugs,21,27,0.07440476190476186

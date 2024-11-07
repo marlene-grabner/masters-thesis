@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,-0.4614438063986873
+1,disease_on_symptoms,12,21,-0.6926406926406927
+2,disease_on_drugs,27,21,-0.46726190476190477

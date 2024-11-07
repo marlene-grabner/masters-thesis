@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,23,30,0.18226688542521186
+1,disease_on_symptoms,21,14,0.6976190476190478
+2,disease_on_drugs,19,26,0.7141025641025642

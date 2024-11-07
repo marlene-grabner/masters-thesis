@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,24,23,0.3007439099599136
+2,disease_on_drugs,27,26,-0.019647368703972434

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,17,18,0.504621848739496
+2,disease_on_drugs,17,27,0.12076648841354731

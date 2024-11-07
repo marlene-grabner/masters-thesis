@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,0.5557575757575757
+1,disease_on_symptoms,16,26,1.6158424908424909
+2,disease_on_drugs,17,28,0.8594771241830066

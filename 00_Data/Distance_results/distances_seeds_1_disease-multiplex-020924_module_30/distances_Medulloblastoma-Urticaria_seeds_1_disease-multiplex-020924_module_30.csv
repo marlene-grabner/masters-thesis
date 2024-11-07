@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,10,0.5833333333333333
+1,disease_on_symptoms,19,27,1.5986948046444613
+2,disease_on_drugs,24,9,0.7973484848484846

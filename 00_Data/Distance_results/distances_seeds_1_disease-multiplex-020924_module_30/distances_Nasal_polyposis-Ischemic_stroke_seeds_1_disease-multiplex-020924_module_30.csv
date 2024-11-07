@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,15,30,0.5277777777777777
+1,disease_on_symptoms,25,16,1.8670731707317072
+2,disease_on_drugs,10,23,0.449407114624506

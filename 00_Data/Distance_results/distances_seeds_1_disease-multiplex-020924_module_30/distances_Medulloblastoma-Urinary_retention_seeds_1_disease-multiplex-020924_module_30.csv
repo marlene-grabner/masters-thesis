@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.5126870527000653
+1,disease_on_symptoms,19,18,0.8916943259048524
+2,disease_on_drugs,24,19,0.783940228478172

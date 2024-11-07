@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,25,30,-0.020000000000000018
+1,disease_on_symptoms,26,16,0.6652930402930401
+2,disease_on_drugs,24,28,0.3521062271062272

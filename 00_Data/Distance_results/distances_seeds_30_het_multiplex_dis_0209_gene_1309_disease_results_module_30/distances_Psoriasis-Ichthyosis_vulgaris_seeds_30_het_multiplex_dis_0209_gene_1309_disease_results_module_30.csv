@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.38596491228070173
+1,disease_on_symptoms,17,21,-0.661064425770308
+2,disease_on_drugs,30,24,-0.46620370370370356

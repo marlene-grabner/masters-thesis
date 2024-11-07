@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,23,27,-0.08869565217391306
+1,disease_on_symptoms,20,17,0.007472178060413448
+2,disease_on_drugs,19,25,0.09090909090909083

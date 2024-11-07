@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,12,21,0.8322510822510822
+2,disease_on_drugs,28,21,0.18197278911564618

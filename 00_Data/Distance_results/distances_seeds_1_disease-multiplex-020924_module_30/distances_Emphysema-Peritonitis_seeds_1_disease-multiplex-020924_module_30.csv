@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,14,17,0.3395906749796693
+2,disease_on_drugs,29,28,0.016917293233082775

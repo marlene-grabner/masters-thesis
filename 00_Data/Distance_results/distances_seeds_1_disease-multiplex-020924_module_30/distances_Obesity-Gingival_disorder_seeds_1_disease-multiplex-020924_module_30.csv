@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,0.03700023380874429
+1,disease_on_symptoms,20,26,0.8491638795986622
+2,disease_on_drugs,27,20,0.4736012608353033

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.4791666666666665
+1,disease_on_symptoms,25,21,1.9438509316770185
+2,disease_on_drugs,7,24,0.6631144393241166

@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,25,30,0.018181818181818077
+1,disease_on_symptoms,13,24,0.8755630630630633
+2,disease_on_drugs,21,20,0.36814750290360054

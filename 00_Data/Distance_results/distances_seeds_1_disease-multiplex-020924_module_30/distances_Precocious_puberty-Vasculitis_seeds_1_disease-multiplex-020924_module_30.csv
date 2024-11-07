@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.33472222222222214
+1,disease_on_symptoms,14,19,0.6975393028024608
+2,disease_on_drugs,24,20,0.9954545454545454

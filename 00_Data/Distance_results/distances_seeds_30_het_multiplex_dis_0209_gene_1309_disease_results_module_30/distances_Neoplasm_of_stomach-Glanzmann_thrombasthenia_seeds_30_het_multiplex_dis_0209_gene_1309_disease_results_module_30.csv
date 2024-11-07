@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,0.00040816326530612734
+1,disease_on_symptoms,23,19,0.8297918709818024
+2,disease_on_drugs,24,24,0.45833333333333326

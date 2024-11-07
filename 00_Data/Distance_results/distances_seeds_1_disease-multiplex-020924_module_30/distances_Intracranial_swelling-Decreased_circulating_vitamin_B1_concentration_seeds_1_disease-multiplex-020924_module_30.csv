@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.29787878787878785
+1,disease_on_symptoms,14,13,1.0154660154660156
+2,disease_on_drugs,24,16,0.28541666666666643

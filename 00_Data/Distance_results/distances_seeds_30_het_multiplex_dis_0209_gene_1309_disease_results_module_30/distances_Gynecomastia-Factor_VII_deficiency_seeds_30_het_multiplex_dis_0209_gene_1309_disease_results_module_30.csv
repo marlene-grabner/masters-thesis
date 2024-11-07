@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.10283251231527091
+1,disease_on_symptoms,15,19,0.9453044375644994
+2,disease_on_drugs,29,25,0.35379310344827575

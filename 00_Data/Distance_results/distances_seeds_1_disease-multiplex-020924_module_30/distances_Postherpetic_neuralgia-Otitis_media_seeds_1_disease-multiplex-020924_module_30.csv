@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.066617962205338
+1,disease_on_symptoms,15,22,0.8443079443079444
+2,disease_on_drugs,29,29,0.2586206896551724

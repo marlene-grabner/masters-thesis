@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,13,23,1.301282051282051
+2,disease_on_drugs,29,30,0.5271186440677966

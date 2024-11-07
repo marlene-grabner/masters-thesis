@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,19,15,-0.14489164086687323
+2,disease_on_drugs,30,30,-0.01666666666666683

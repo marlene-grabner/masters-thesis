@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,23,0.12362637362637363
+1,disease_on_symptoms,20,25,1.0533333333333332
+2,disease_on_drugs,27,21,0.5046296296296295

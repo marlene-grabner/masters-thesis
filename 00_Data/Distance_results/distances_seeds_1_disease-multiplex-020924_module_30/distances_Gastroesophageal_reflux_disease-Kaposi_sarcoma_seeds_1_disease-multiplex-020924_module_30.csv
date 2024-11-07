@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.27479674796747977
+1,disease_on_symptoms,17,27,1.2959001782531194
+2,disease_on_drugs,25,13,1.0852631578947367

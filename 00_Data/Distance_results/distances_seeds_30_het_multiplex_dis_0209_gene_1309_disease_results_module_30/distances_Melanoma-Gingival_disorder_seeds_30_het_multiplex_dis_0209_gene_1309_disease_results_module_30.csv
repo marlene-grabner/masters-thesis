@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.08869395711500982
+1,disease_on_symptoms,23,19,0.3485888634630052
+2,disease_on_drugs,25,24,0.20188775510204082

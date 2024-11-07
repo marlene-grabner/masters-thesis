@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cholangitis nodes,sAB
+0,disease_on_genes,17,27,0.14249569336778656
+1,disease_on_symptoms,27,22,1.7701848416134132
+2,disease_on_drugs,14,26,0.5642857142857145

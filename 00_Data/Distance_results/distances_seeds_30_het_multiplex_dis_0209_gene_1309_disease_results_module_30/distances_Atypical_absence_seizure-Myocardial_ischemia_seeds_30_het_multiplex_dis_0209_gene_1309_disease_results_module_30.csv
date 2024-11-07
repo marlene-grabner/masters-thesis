@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,13,19,0.22343117408906865
+2,disease_on_drugs,22,30,0.07156177156177157

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,21,18,0.26098901098901095
+2,disease_on_drugs,26,27,0.095670053217223

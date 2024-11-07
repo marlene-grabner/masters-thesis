@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,12,17,0.7339418526031101
+2,disease_on_drugs,27,25,0.9376923076923074

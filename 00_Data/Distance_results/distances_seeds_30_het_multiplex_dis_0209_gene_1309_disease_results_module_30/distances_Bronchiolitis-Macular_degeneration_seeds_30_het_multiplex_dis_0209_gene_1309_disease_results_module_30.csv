@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,28,30,0.03505747126436787
+1,disease_on_symptoms,25,17,0.4765266106442576
+2,disease_on_drugs,24,17,-0.036107125777139926

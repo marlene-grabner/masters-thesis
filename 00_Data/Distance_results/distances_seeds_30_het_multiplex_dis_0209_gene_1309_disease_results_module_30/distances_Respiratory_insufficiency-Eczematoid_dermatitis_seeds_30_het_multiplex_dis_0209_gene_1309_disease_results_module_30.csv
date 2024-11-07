@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,21,25,0.18546583850931686
+2,disease_on_drugs,25,30,-0.07000000000000006

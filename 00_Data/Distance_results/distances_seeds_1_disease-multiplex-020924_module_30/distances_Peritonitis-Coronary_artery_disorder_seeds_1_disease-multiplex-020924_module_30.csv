@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.40429645542427495
+1,disease_on_symptoms,17,21,1.8987910953855227
+2,disease_on_drugs,28,17,0.808730158730159

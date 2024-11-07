@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,-0.1408424908424909
+1,disease_on_symptoms,21,20,0.21811846689895464
+2,disease_on_drugs,26,24,-0.08012820512820507

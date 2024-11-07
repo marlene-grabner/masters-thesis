@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,23,30,-0.13207547169811318
+1,disease_on_symptoms,19,16,0.39755639097744355
+2,disease_on_drugs,19,29,-0.16783877797943136

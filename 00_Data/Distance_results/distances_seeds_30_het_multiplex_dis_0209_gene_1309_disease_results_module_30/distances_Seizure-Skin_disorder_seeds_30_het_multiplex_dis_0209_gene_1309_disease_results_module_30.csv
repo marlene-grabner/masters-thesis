@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Skin_disorder nodes,sAB
+0,disease_on_genes,30,25,-0.23636363636363633
+1,disease_on_symptoms,21,19,0.27825814536340854
+2,disease_on_drugs,29,23,0.00043247606965746144

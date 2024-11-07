@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,30,25,-0.2893939393939393
+1,disease_on_symptoms,16,17,0.12260472370766484
+2,disease_on_drugs,28,21,-0.3962585034013605

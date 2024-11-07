@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,24,26,-0.0008333333333334636
+1,disease_on_symptoms,19,22,0.2830843739059401
+2,disease_on_drugs,19,26,-0.11596941070625277

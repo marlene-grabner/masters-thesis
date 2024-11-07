@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.1043859649122807
+1,disease_on_symptoms,18,17,0.4252567693744167
+2,disease_on_drugs,26,26,-0.19230769230769207

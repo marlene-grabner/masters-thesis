@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,-0.2316666666666668
+1,disease_on_symptoms,15,24,0.16185897435897445
+2,disease_on_drugs,30,18,-0.2777777777777778

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,22,23,-0.04459815546772061
+1,disease_on_symptoms,22,24,0.2547760210803689
+2,disease_on_drugs,14,17,0.11866359447004604

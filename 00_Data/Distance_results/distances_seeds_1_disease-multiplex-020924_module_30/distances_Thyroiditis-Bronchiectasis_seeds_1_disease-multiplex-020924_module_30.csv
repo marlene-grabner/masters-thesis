@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,26,30,0.1028388278388277
+1,disease_on_symptoms,28,15,0.5385658914728684
+2,disease_on_drugs,23,26,0.286738106613883

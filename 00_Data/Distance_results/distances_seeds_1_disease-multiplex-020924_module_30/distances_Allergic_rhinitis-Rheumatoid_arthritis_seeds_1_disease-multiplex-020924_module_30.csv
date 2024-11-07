@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,21,27,0.19146825396825373
+1,disease_on_symptoms,22,15,1.6940212940212938
+2,disease_on_drugs,21,25,0.4023602484472051

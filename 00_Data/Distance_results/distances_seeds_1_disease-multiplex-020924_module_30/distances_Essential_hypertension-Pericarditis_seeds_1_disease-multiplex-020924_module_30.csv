@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,25,-0.015835579514824838
+1,disease_on_symptoms,14,22,1.0165945165945165
+2,disease_on_drugs,28,25,0.1518328840970351

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.2529411764705882
+1,disease_on_symptoms,17,20,1.8059220985691573
+2,disease_on_drugs,28,19,0.661374180131179

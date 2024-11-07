@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.08881118881118888
+1,disease_on_symptoms,21,12,0.6677489177489178
+2,disease_on_drugs,26,30,0.8913003663003662

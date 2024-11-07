@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,0.09774557165861508
+1,disease_on_symptoms,20,16,0.07847222222222228
+2,disease_on_drugs,20,27,0.3422182821118991

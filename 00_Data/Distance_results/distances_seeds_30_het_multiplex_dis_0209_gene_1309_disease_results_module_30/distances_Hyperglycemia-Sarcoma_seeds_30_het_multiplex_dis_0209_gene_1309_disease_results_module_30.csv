@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,23,0.951598465473146
+2,disease_on_drugs,26,24,0.07794871794871816

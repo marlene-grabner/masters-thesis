@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.0714285714285714
+1,disease_on_symptoms,15,20,0.7833333333333332
+2,disease_on_drugs,25,23,0.08380434782608681

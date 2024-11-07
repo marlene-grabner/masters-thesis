@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Migraine nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,17,12,0.20098039215686292
+2,disease_on_drugs,24,29,-0.13932715246150518

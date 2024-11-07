@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.18700564971751432
+1,disease_on_symptoms,16,14,1.7735119047619048
+2,disease_on_drugs,23,28,0.44458653026427974

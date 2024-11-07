@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.11954022988505741
+1,disease_on_symptoms,17,22,-0.006855889208830179
+2,disease_on_drugs,28,29,-0.052663987555094716

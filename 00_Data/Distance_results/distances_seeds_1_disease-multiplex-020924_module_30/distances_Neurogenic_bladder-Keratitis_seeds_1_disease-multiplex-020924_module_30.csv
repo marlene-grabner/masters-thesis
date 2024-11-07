@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.2964696223316914
+1,disease_on_symptoms,17,25,1.0913725490196078
+2,disease_on_drugs,26,23,0.6694764862466727

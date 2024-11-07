@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Sepsis nodes,sAB
+0,disease_on_genes,29,30,0.10197740112994347
+1,disease_on_symptoms,19,15,1.3631578947368421
+2,disease_on_drugs,29,25,0.5545338441890166

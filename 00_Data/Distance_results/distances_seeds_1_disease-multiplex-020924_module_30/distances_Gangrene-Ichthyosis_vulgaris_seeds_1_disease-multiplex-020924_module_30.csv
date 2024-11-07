@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,26,27,-0.0370370370370372
+1,disease_on_symptoms,19,21,0.30375939849624056
+2,disease_on_drugs,23,27,0.15826086956521723

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.5116352201257863
+1,disease_on_symptoms,12,22,1.7270499108734403
+2,disease_on_drugs,17,17,0.6470588235294117

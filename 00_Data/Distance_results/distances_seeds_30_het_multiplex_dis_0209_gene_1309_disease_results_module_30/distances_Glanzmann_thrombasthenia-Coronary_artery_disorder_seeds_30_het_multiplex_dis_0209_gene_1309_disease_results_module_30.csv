@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,24,23,-0.08556891766882524
+1,disease_on_symptoms,19,19,0.5263157894736843
+2,disease_on_drugs,24,22,-0.06645256916996045

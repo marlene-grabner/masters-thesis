@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.18181818181818188
+1,disease_on_symptoms,20,20,0.7250000000000001
+2,disease_on_drugs,25,18,0.27392764857881136

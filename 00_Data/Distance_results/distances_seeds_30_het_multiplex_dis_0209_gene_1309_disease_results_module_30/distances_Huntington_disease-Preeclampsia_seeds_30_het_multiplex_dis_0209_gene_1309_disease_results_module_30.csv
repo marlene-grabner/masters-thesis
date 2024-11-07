@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,17,18,1.108169934640523
+2,disease_on_drugs,26,22,0.06453962703962701

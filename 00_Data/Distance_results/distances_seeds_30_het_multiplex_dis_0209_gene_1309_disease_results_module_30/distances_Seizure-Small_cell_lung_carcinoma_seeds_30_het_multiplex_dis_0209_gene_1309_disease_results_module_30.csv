@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,21,19,-0.3743734335839599
+2,disease_on_drugs,29,30,-0.22009546074420427

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,12,25,0.8368468468468468
+2,disease_on_drugs,29,21,0.14722495894909682

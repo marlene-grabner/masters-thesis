@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,24,30,0.05509259259259247
+1,disease_on_symptoms,22,24,1.0813570487483535
+2,disease_on_drugs,24,28,0.276098901098901

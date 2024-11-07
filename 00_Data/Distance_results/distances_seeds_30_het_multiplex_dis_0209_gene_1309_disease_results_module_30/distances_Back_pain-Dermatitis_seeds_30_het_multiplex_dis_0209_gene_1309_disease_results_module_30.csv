@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,14,-0.5504926108374386
+2,disease_on_drugs,23,28,-0.03178662769455598

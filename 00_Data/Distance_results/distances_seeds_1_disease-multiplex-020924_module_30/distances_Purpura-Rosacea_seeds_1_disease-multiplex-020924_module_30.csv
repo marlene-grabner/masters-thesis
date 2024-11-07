@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.10659340659340644
+1,disease_on_symptoms,17,17,1.9705882352941173
+2,disease_on_drugs,20,27,0.36170212765957444

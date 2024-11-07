@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.31435185185185177
+1,disease_on_symptoms,21,19,0.8163533834586465
+2,disease_on_drugs,27,19,0.46317484532587505

@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,27,26,0.24596839219480704
+1,disease_on_symptoms,15,21,0.5468253968253967
+2,disease_on_drugs,25,24,0.5718367346938775

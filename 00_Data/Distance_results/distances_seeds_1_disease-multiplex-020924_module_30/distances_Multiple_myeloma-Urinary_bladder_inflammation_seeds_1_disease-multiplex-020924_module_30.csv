@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,0.15568627450980377
+1,disease_on_symptoms,21,22,1.2545806906272023
+2,disease_on_drugs,25,24,1.2236054421768707

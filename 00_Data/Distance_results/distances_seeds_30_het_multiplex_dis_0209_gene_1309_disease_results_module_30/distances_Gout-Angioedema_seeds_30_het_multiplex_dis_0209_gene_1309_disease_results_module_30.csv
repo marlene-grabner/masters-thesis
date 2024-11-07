@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Angioedema nodes,sAB
+0,disease_on_genes,28,30,-0.10406403940886688
+1,disease_on_symptoms,19,18,0.08116010747589697
+2,disease_on_drugs,22,26,-0.15136946386946382

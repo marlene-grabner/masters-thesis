@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Stomatitis nodes,sAB
+0,disease_on_genes,26,30,0.21785714285714275
+1,disease_on_symptoms,21,23,1.5854978354978355
+2,disease_on_drugs,24,30,0.7148148148148148

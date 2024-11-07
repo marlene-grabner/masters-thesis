@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,26,-0.17307692307692313
+1,disease_on_symptoms,21,18,-0.018009768009768168
+2,disease_on_drugs,26,26,0.0

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.1964285714285714
+1,disease_on_symptoms,21,21,-0.5476190476190477
+2,disease_on_drugs,29,26,-0.2533156498673741

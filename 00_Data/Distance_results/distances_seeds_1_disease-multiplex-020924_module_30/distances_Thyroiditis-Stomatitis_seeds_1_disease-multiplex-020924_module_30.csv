@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.3947802197802198
+1,disease_on_symptoms,28,23,-0.08578431372549011
+2,disease_on_drugs,23,30,-0.38589007383100904

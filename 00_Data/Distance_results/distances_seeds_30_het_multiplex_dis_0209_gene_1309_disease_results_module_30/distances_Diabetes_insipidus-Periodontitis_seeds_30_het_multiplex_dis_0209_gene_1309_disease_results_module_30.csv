@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Periodontitis nodes,sAB
+0,disease_on_genes,26,30,0.07005494505494503
+1,disease_on_symptoms,20,21,1.0691637630662019
+2,disease_on_drugs,20,28,0.29761904761904767

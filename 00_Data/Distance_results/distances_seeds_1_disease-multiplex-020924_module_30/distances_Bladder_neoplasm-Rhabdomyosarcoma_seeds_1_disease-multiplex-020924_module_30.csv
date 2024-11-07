@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,-0.2950310559006212
+1,disease_on_symptoms,20,24,0.3242424242424242
+2,disease_on_drugs,25,17,-0.2857142857142857

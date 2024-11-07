@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,27,23,0.1214814814814813
+1,disease_on_symptoms,21,22,0.5577368368066042
+2,disease_on_drugs,24,17,0.354346006695361

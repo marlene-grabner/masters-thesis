@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.2235632183908045
+1,disease_on_symptoms,16,17,0.39600044563279857
+2,disease_on_drugs,28,28,-0.3035714285714286

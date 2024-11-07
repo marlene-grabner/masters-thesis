@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,0.16048951048951055
+1,disease_on_symptoms,19,15,1.7939112487100102
+2,disease_on_drugs,24,29,0.46973270440251547

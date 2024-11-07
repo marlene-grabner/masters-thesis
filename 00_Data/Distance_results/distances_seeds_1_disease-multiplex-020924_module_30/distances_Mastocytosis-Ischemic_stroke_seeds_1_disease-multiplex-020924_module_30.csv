@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,18,30,0.37222222222222223
+1,disease_on_symptoms,28,16,1.6639610389610389
+2,disease_on_drugs,17,23,0.7292199488491047

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,17,20,0.1625000000000001
+1,disease_on_symptoms,27,23,1.1295008051529791
+2,disease_on_drugs,14,18,0.4017857142857144

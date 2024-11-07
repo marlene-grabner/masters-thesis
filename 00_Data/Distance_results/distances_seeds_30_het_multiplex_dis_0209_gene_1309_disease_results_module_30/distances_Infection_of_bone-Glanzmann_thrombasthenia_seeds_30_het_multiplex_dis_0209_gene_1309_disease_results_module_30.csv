@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.05555555555555558
+1,disease_on_symptoms,18,19,0.5157262525683577
+2,disease_on_drugs,28,24,0.3262362637362637

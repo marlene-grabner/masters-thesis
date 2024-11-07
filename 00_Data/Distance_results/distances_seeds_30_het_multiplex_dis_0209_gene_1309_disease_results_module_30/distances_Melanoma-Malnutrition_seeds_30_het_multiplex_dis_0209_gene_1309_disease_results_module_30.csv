@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Malnutrition nodes,sAB
+0,disease_on_genes,27,30,-0.21150097465886952
+1,disease_on_symptoms,23,14,0.12380392815175423
+2,disease_on_drugs,25,29,0.0017369093231160981

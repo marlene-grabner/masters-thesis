@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.0851063829787233
+1,disease_on_symptoms,21,23,1.1733013363448146
+2,disease_on_drugs,26,21,0.4038656379081911

@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,23,30,0.22000273448181562
+1,disease_on_symptoms,23,17,1.3293478260869565
+2,disease_on_drugs,18,26,0.3679098679098678

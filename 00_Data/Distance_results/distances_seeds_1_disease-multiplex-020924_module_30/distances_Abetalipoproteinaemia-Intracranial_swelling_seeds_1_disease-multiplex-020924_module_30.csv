@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,17,30,0.23051731330830205
+1,disease_on_symptoms,25,14,0.5680586080586079
+2,disease_on_drugs,13,24,0.8055699930699931

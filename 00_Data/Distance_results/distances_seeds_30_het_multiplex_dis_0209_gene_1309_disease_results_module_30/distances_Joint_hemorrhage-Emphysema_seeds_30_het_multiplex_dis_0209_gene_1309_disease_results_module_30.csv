@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,18,0.852380952380952
+2,disease_on_drugs,26,27,0.24451701338493792

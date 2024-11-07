@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,-0.1952380952380952
+1,disease_on_symptoms,18,19,-0.1919946262051524
+2,disease_on_drugs,26,25,-0.1708144796380089

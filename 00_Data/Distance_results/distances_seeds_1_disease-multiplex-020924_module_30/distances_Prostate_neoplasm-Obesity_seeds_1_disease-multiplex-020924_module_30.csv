@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Obesity nodes,sAB
+0,disease_on_genes,17,26,-0.06711038619383358
+1,disease_on_symptoms,21,20,0.87061556329849
+2,disease_on_drugs,17,27,0.4495939790057437

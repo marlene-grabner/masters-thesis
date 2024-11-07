@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.4220272904483432
+1,disease_on_symptoms,22,22,-0.2954545454545454
+2,disease_on_drugs,30,22,-0.4877622377622377

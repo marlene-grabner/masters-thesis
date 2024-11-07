@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,-0.35416666666666663
+1,disease_on_symptoms,17,23,-0.36445012787723785
+2,disease_on_drugs,24,21,-0.4273809523809523

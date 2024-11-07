@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,28,0.1902298850574713
+1,disease_on_symptoms,25,21,1.0571014492753625
+2,disease_on_drugs,26,21,0.4650650767672042

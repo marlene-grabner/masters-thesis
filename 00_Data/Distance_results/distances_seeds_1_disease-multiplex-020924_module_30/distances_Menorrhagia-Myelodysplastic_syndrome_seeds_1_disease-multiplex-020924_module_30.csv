@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,26,26,0.21153846153846145
+1,disease_on_symptoms,19,15,1.3527347781217751
+2,disease_on_drugs,24,21,0.5966269841269842

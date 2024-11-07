@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,22,24,0.3892457180500657
+1,disease_on_symptoms,19,17,2.639662882696938
+2,disease_on_drugs,18,23,0.8746612466124661

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,22,28,0.4230519480519481
+1,disease_on_symptoms,22,19,0.8817248220329095
+2,disease_on_drugs,14,26,0.4178571428571427

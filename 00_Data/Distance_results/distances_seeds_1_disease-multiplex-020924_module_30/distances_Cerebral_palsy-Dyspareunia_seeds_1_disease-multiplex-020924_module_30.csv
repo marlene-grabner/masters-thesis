@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,24,0.30283224400871456
+1,disease_on_symptoms,16,17,1.0894607843137254
+2,disease_on_drugs,18,23,0.666489925768823

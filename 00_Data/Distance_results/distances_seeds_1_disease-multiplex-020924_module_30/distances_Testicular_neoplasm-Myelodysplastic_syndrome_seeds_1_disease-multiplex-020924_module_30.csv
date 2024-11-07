@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,0.13647058823529412
+1,disease_on_symptoms,25,15,1.4166666666666665
+2,disease_on_drugs,23,21,0.339638622247318

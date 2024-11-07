@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,26,26,-0.23076923076923073
+1,disease_on_symptoms,20,21,0.19184088269454125
+2,disease_on_drugs,23,25,-0.2727898550724638

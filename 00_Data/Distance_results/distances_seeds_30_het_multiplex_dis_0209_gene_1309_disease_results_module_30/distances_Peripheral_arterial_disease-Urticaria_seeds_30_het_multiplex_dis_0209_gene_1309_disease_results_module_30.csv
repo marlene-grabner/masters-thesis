@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,24,0.0
+1,disease_on_symptoms,17,21,0.18848592068406322
+2,disease_on_drugs,24,24,0.06250000000000022

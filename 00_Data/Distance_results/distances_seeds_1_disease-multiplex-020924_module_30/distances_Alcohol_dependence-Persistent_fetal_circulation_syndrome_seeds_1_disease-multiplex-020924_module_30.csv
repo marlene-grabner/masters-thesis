@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,12,25,0.5399549549549552
+1,disease_on_symptoms,27,20,2.2799842395587078
+2,disease_on_drugs,9,18,0.8796296296296293

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,24,-0.0254629629629628
+1,disease_on_symptoms,20,22,1.3435064935064935
+2,disease_on_drugs,28,11,-0.0535714285714286

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.5344006568144499
+1,disease_on_symptoms,17,25,1.6277871148459384
+2,disease_on_drugs,17,23,0.7847826086956524

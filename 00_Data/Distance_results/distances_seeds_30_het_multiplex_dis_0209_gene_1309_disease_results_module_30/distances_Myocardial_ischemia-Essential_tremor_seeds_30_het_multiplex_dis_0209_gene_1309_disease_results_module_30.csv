@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.2519607843137255
+1,disease_on_symptoms,19,23,0.33273400893538185
+2,disease_on_drugs,30,21,-0.23081232492997195

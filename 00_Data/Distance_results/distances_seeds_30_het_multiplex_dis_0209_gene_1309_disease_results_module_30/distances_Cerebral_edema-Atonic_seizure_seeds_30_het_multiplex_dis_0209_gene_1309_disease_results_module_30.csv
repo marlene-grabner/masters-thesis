@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,10,15,-0.21333333333333315
+2,disease_on_drugs,16,23,-0.27616360089186176

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,0.21225071225071224
+1,disease_on_symptoms,17,22,1.4765528589058001
+2,disease_on_drugs,20,25,0.2911111111111111

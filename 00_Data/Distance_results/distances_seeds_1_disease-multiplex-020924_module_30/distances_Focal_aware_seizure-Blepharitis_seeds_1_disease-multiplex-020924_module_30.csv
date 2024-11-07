@@ -1,0 +1,4 @@
+,Layer,Focal_aware_seizure nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.2811224489795918
+1,disease_on_symptoms,15,27,1.5068783068783071
+2,disease_on_drugs,29,19,0.8848684210526314

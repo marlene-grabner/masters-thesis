@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Priapism nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,15,12,0.024074074074074137
+2,disease_on_drugs,29,28,0.19352259960245455

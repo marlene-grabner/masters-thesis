@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.46767399267399257
+1,disease_on_symptoms,21,15,0.9079365079365078
+2,disease_on_drugs,24,22,1.0217391304347827

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,21,16,0.8975225225225225
+2,disease_on_drugs,23,25,-0.17322463768115948

@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,14,13,0.3291615791615792
+2,disease_on_drugs,28,24,-0.20444139194139188

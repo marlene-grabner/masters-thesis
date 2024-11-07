@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,23,27,0.15723027375201304
+1,disease_on_symptoms,20,21,1.12404181184669
+2,disease_on_drugs,19,23,0.8219461697722565

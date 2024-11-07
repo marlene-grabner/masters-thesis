@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.1283333333333332
+1,disease_on_symptoms,17,24,0.5700920612147296
+2,disease_on_drugs,27,18,0.537037037037037

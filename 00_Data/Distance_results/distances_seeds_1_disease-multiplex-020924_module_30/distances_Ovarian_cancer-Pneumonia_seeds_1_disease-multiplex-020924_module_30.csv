@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,0.30000000000000004
+1,disease_on_symptoms,17,26,0.8589129748500475
+2,disease_on_drugs,25,28,1.2452830188679247

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,29,17,-0.23273657289002558
+1,disease_on_symptoms,20,24,1.290530303030303
+2,disease_on_drugs,27,16,0.01687661498708004

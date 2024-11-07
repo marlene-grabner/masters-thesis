@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.0
+1,disease_on_symptoms,22,19,0.5446084724005131
+2,disease_on_drugs,24,25,0.14363945578231307

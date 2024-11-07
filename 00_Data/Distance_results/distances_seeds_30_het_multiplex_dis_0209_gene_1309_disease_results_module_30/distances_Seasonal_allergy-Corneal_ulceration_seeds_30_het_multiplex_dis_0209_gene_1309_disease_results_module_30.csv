@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,29,28,-0.035401002506265655
+1,disease_on_symptoms,18,15,0.9333333333333336
+2,disease_on_drugs,29,23,-0.028312766693576297

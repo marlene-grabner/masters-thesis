@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,25,30,-0.2184848484848484
+1,disease_on_symptoms,26,18,0.0615773115773115
+2,disease_on_drugs,24,28,0.04029304029304037

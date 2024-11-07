@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,22,26,-0.02083333333333337
+1,disease_on_symptoms,21,21,0.6190476190476191
+2,disease_on_drugs,17,26,-0.0007103020098917501

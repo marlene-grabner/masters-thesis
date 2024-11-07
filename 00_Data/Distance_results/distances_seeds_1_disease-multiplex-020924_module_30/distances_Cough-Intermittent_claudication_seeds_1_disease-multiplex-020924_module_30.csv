@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.012864460204885964
+1,disease_on_symptoms,21,24,0.2763888888888888
+2,disease_on_drugs,27,18,0.20740740740740726

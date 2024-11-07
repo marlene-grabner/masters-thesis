@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,17,28,0.14990662931839394
+1,disease_on_symptoms,22,25,1.425957446808511
+2,disease_on_drugs,15,23,0.0593440122044242

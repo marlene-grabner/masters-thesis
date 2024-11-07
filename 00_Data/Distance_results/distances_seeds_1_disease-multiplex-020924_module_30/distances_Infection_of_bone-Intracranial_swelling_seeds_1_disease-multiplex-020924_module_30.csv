@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.24844322344322345
+1,disease_on_symptoms,21,14,0.9333333333333336
+2,disease_on_drugs,24,24,0.4791666666666665

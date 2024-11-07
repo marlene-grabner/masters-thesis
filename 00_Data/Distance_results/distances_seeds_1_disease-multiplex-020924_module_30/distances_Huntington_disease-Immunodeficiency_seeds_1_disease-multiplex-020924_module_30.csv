@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.41515151515151505
+1,disease_on_symptoms,16,19,2.0210996240601506
+2,disease_on_drugs,27,18,0.75

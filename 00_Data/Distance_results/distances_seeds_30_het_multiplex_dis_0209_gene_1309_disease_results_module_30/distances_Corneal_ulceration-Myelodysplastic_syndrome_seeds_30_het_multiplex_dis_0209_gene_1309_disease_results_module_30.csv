@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.07473544973544977
+1,disease_on_symptoms,15,17,0.12083333333333357
+2,disease_on_drugs,23,24,0.17009713228492118

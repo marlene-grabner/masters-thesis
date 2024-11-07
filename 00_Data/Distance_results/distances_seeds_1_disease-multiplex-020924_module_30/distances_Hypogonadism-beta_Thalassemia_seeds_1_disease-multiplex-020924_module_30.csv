@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.42201426024955424
+1,disease_on_symptoms,12,21,2.581168831168831
+2,disease_on_drugs,30,6,1.288888888888889

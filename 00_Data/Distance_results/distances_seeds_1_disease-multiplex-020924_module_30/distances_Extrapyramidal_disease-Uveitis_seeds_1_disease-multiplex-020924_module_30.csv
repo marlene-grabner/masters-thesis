@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Uveitis nodes,sAB
+0,disease_on_genes,14,30,0.4703463203463203
+1,disease_on_symptoms,25,21,2.2536645962732917
+2,disease_on_drugs,10,27,0.7422922922922923

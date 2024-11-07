@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.08861593639270593
+1,disease_on_symptoms,15,20,0.5857142857142854
+2,disease_on_drugs,29,28,0.4038112522686026

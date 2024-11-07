@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,26,0.18584656084656093
+1,disease_on_symptoms,19,20,1.306578947368421
+2,disease_on_drugs,25,25,0.5199999999999998

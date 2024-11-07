@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,16,25,0.37597560975609756
+1,disease_on_symptoms,26,22,1.8751456876456873
+2,disease_on_drugs,14,24,1.3377192982456139

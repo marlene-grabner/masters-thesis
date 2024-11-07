@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,-0.24561403508771928
+1,disease_on_symptoms,22,16,-0.14892344497607635
+2,disease_on_drugs,27,28,-0.29034391534391535

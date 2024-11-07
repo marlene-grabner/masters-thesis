@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.2149353358364623
+1,disease_on_symptoms,23,22,2.136231884057971
+2,disease_on_drugs,29,15,0.4603970741901775

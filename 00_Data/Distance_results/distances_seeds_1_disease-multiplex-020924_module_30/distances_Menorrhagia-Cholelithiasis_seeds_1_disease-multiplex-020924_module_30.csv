@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,26,25,0.41211161387631967
+1,disease_on_symptoms,19,19,1.5
+2,disease_on_drugs,24,18,1.070436507936508

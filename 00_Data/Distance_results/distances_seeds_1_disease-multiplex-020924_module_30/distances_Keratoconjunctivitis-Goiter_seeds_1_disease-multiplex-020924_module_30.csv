@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.14125874125874138
+1,disease_on_symptoms,25,15,0.7933333333333332
+2,disease_on_drugs,27,16,0.6240310077519382

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.6127272727272726
+1,disease_on_symptoms,9,21,1.3206349206349208
+2,disease_on_drugs,11,20,0.31664222873900316

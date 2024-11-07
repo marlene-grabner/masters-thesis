@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,26,-0.038461538461538325
+1,disease_on_symptoms,21,22,0.2754706533776303
+2,disease_on_drugs,26,25,0.02030165912518833

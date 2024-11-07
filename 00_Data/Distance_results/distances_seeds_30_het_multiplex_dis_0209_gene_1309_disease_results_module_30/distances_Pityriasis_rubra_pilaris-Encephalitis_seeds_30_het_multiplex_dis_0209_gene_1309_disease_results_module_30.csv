@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,29,-0.001322751322751392
+1,disease_on_symptoms,21,13,0.6960784313725488
+2,disease_on_drugs,25,22,-0.004700193423597732

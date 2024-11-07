@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,16,0.5714683600713011
+2,disease_on_drugs,25,27,0.16686609686609688

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,21,12,0.49188311688311703
+2,disease_on_drugs,29,18,0.2815072959973912

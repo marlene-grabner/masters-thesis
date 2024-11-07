@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,-0.12909090909090915
+1,disease_on_symptoms,20,15,1.3821428571428571
+2,disease_on_drugs,22,30,0.1913752913752913

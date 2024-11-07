@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.07280219780219777
+1,disease_on_symptoms,17,25,0.8318207282913166
+2,disease_on_drugs,26,25,0.07912518853695305

@@ -1,0 +1,4 @@
+,Layer,Focal_aware_seizure nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.1272727272727272
+1,disease_on_symptoms,16,12,1.431547619047619
+2,disease_on_drugs,29,18,0.5195850656232168

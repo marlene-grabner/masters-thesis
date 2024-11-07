@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,27,30,-0.2973684210526315
+1,disease_on_symptoms,17,20,-0.3418521462639108
+2,disease_on_drugs,25,30,-0.23484848484848475

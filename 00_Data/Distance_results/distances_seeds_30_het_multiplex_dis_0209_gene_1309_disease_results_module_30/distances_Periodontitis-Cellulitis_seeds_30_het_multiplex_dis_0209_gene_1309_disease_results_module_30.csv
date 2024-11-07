@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,21,20,-0.2698606271777002
+2,disease_on_drugs,28,26,-0.40644078144078133

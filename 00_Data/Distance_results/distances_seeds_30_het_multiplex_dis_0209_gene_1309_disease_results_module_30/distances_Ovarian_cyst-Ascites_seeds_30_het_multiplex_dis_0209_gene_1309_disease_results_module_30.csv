@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,19,22,-0.07956004201190336
+2,disease_on_drugs,24,27,-0.07706971677559915

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,19,18,0.5676465939623836
+2,disease_on_drugs,25,26,-9.049773755664958e-05

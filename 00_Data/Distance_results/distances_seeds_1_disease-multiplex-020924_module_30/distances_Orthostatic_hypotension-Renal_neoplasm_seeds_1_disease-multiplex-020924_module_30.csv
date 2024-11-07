@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.3504662004662005
+1,disease_on_symptoms,12,25,1.3921171171171172
+2,disease_on_drugs,17,18,0.9991596638655462

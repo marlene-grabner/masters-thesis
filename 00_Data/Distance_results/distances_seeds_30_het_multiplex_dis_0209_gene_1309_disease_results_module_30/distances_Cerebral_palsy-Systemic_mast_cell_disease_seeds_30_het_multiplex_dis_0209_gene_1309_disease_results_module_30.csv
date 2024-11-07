@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,13,25,1.4565991902834008
+2,disease_on_drugs,21,21,0.19047619047619024

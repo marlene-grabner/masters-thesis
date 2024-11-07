@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,24,0.1430555555555555
+1,disease_on_symptoms,14,22,1.2712842712842711
+2,disease_on_drugs,29,11,0.625

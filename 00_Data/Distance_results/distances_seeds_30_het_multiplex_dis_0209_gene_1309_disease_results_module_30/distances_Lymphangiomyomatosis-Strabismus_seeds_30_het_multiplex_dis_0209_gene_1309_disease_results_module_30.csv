@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,17,-0.19433336840997595
+1,disease_on_symptoms,17,24,0.43504901960784315
+2,disease_on_drugs,24,16,0.22291666666666643

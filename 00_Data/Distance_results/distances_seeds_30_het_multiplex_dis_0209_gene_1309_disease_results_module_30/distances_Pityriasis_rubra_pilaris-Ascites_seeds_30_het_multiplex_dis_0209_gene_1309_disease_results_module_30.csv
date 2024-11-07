@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,-0.05370370370370381
+1,disease_on_symptoms,21,22,0.071000704721635
+2,disease_on_drugs,25,27,-0.09199430199430192

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.05880503144654092
+1,disease_on_symptoms,15,17,1.3683823529411765
+2,disease_on_drugs,25,22,0.2176982591876211

@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,0.2228327228327227
+1,disease_on_symptoms,21,21,0.7380952380952381
+2,disease_on_drugs,24,28,0.32967032967032983

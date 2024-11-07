@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,17,28,0.4566526610644257
+1,disease_on_symptoms,21,24,1.7257936507936509
+2,disease_on_drugs,14,28,0.48809523809523814

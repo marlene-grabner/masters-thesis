@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.2648363167231089
+1,disease_on_symptoms,21,15,1.1801587301587304
+2,disease_on_drugs,24,26,1.0215384615384617

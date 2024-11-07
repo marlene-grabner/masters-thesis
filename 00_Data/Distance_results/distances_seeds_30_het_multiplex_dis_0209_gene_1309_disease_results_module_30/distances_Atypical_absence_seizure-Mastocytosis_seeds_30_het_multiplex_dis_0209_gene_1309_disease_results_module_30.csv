@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,13,24,1.6926108801108803
+2,disease_on_drugs,22,20,0.9544372294372292

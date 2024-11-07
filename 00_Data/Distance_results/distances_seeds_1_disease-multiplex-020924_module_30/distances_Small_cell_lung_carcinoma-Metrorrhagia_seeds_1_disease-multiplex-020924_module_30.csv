@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,27,0.07407407407407418
+1,disease_on_symptoms,24,17,1.1359995217599232
+2,disease_on_drugs,25,26,0.31330316742081465

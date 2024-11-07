@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,24,26,0.31993589743589745
+1,disease_on_symptoms,18,21,1.3342490842490844
+2,disease_on_drugs,18,23,0.6341463414634145

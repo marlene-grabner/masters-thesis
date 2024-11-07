@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,0.10169491525423724
+1,disease_on_symptoms,19,20,0.8182186234817812
+2,disease_on_drugs,30,20,0.6266666666666667

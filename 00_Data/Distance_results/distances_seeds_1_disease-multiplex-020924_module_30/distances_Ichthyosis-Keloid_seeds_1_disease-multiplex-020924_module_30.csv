@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Keloid nodes,sAB
+0,disease_on_genes,27,22,0.10307153164296023
+1,disease_on_symptoms,17,20,0.8318759936406994
+2,disease_on_drugs,24,19,-0.023255813953488413

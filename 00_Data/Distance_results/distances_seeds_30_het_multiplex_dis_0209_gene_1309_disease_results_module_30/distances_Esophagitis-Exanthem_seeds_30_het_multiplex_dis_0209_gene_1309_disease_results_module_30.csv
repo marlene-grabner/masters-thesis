@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,20,21,-0.12314169570267142
+2,disease_on_drugs,30,29,0.17060198714202235

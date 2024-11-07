@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,26,0.018867924528301883
+1,disease_on_symptoms,22,22,0.8409090909090908
+2,disease_on_drugs,23,24,0.10541936478569225

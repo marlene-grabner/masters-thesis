@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,-0.20751231527093594
+1,disease_on_symptoms,19,19,-0.2894736842105263
+2,disease_on_drugs,22,30,-0.3254079254079254

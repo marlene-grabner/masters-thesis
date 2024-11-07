@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,0.22290448343079916
+1,disease_on_symptoms,16,17,0.9709224598930479
+2,disease_on_drugs,18,27,1.0

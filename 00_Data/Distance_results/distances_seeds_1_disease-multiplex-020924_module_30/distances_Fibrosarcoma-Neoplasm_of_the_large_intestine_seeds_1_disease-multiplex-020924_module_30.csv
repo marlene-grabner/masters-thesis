@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,22,20,0.05616883116883131
+1,disease_on_symptoms,24,25,0.8195918367346937
+2,disease_on_drugs,13,19,0.10361842105263142

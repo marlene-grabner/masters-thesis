@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,26,24,-0.06000000000000005
+1,disease_on_symptoms,16,19,0.9093984962406012
+2,disease_on_drugs,25,24,0.3064795918367347

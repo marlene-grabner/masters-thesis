@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,14,22,0.22186147186147198
+1,disease_on_symptoms,25,22,1.0135009671179884
+2,disease_on_drugs,10,14,0.34285714285714297

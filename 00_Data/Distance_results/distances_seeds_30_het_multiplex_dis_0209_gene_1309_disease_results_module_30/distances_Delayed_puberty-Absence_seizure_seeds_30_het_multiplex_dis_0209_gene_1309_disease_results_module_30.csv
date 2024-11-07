@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,16,14,0.8702380952380955
+2,disease_on_drugs,29,22,0.11549572807179298

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,28,30,0.10344827586206895
+1,disease_on_symptoms,18,18,0.38888888888888884
+2,disease_on_drugs,23,26,0.13543444133506255

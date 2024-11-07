@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,26,22,-0.1553030303030304
+1,disease_on_symptoms,19,25,0.1775119617224883
+2,disease_on_drugs,24,18,-0.28273809523809534

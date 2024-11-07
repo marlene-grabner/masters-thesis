@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,10,0.3328328328328327
+1,disease_on_symptoms,17,27,2.183947316300258
+2,disease_on_drugs,20,9,0.24137931034482762

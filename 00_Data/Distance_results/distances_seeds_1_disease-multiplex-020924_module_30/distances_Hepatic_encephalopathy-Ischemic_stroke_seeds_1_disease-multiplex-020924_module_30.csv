@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,9,30,0.24401709401709404
+1,disease_on_symptoms,27,16,2.1272609819121446
+2,disease_on_drugs,9,23,1.1942934782608696

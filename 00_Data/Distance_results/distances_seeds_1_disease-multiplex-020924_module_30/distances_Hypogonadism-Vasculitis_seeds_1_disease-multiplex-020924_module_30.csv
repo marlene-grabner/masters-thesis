@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.26218553459119476
+1,disease_on_symptoms,12,19,1.48203169213356
+2,disease_on_drugs,30,20,0.853333333333333

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,29,25,-0.07407407407407407
+1,disease_on_symptoms,20,20,1.5499999999999998
+2,disease_on_drugs,27,21,-0.001984126984126755

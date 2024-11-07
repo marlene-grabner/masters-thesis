@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.05570818070818073
+1,disease_on_symptoms,19,14,1.4203691045796312
+2,disease_on_drugs,24,28,0.2896062271062272

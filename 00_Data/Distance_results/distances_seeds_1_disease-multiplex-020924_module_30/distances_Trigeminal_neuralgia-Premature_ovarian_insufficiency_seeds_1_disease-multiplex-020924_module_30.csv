@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,28,23,0.41701680672268915
+1,disease_on_symptoms,19,22,0.9624226864278214
+2,disease_on_drugs,26,17,0.5902083552562347

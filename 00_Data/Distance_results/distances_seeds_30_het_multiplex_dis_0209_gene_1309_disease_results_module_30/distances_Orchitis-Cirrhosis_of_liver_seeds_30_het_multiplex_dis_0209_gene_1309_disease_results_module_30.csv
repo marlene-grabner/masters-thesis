@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,19,19,0.23684210526315796
+2,disease_on_drugs,25,30,0.15878787878787892

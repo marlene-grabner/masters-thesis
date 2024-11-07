@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Orchitis nodes,sAB
+0,disease_on_genes,26,23,0.28689167974882257
+1,disease_on_symptoms,23,16,2.226135730211817
+2,disease_on_drugs,25,17,0.06022408963585435

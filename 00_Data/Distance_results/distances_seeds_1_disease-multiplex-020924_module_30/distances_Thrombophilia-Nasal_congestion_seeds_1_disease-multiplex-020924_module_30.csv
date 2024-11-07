@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,0.38762183235867465
+1,disease_on_symptoms,18,15,1.6707070707070706
+2,disease_on_drugs,21,23,0.6351872764916244

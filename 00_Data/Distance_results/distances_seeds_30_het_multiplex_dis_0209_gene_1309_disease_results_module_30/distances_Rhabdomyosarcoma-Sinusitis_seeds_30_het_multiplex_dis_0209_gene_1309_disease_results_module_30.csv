@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Sinusitis nodes,sAB
+0,disease_on_genes,29,29,0.06896551724137923
+1,disease_on_symptoms,19,20,0.8214912280701756
+2,disease_on_drugs,29,27,0.679004743659916

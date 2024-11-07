@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.354449472096531
+1,disease_on_symptoms,25,15,0.1433333333333333
+2,disease_on_drugs,24,16,0.6083333333333334

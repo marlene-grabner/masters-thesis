@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,26,0.034157509157509036
+1,disease_on_symptoms,20,18,1.3685672514619884
+2,disease_on_drugs,30,23,0.8512578616352202

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,27,20,0.29690701339637515
+1,disease_on_symptoms,17,25,0.6705322128851541
+2,disease_on_drugs,20,19,0.9473684210526314

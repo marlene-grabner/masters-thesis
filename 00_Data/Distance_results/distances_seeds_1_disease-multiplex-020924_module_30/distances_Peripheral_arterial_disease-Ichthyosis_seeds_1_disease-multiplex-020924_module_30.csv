@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,25,27,0.3275213675213675
+1,disease_on_symptoms,14,17,1.1361480075901327
+2,disease_on_drugs,22,24,0.4782608695652173

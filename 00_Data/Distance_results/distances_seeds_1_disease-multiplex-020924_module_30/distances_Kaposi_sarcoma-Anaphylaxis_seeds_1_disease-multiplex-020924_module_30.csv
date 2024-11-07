@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,15,27,0.35396825396825404
+1,disease_on_symptoms,27,15,1.7476190476190476
+2,disease_on_drugs,13,26,0.9358974358974361

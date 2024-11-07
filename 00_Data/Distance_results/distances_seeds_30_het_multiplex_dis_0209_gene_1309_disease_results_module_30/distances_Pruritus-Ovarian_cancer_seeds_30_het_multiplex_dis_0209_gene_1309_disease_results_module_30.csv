@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,27,27,0.05555555555555558
+1,disease_on_symptoms,21,17,0.9150818222025652
+2,disease_on_drugs,27,17,0.5783323430382254

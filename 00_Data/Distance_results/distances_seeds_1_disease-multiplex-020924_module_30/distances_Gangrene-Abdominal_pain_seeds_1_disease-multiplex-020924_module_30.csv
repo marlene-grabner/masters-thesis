@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,-0.05119047619047612
+1,disease_on_symptoms,19,24,0.22988066095471238
+2,disease_on_drugs,23,24,-0.10595898859081088

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,-0.16038961038961053
+1,disease_on_symptoms,15,23,-0.2745232646834479
+2,disease_on_drugs,23,14,-0.021739130434782705

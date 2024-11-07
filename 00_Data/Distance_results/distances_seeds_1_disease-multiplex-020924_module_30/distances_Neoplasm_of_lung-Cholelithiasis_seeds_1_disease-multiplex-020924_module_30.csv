@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.2887878787878788
+1,disease_on_symptoms,20,19,1.2803981106612685
+2,disease_on_drugs,30,18,1.601388888888889

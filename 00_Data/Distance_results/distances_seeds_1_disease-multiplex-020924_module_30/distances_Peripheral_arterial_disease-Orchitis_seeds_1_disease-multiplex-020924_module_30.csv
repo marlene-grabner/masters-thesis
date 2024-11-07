@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Orchitis nodes,sAB
+0,disease_on_genes,25,23,0.2516666666666667
+1,disease_on_symptoms,14,16,1.2604166666666665
+2,disease_on_drugs,22,17,0.7616892911010558

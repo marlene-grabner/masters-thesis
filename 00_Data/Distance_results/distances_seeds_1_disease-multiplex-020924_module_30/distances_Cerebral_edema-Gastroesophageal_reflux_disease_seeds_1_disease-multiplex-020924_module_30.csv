@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,0.2857142857142858
+1,disease_on_symptoms,9,17,0.7951231774761187
+2,disease_on_drugs,11,25,0.5456565656565657

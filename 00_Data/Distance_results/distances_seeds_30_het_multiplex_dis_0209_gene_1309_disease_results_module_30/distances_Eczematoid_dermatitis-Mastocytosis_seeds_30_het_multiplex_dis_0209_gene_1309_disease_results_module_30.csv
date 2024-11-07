@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,25,24,0.5282823129251701
+2,disease_on_drugs,30,20,0.18499999999999983

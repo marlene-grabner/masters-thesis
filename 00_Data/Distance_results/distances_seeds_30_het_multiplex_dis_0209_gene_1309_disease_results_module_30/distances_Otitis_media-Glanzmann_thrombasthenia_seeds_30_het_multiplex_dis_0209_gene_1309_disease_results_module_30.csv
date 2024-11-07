@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,29,24,0.0393623942745609
+1,disease_on_symptoms,20,19,0.9922739541160595
+2,disease_on_drugs,28,24,0.48557692307692313

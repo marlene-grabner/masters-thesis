@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.09242424242424252
+1,disease_on_symptoms,20,22,1.0217532467532466
+2,disease_on_drugs,30,25,0.5451515151515152

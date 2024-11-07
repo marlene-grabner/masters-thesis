@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,29,30,0.32174167153711286
+1,disease_on_symptoms,23,16,0.5113573021181717
+2,disease_on_drugs,27,24,0.8220315904139432

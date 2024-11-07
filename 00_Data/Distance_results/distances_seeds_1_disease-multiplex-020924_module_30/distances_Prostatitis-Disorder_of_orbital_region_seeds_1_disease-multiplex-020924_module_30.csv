@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.007175636211931513
+1,disease_on_symptoms,20,27,0.8719267139479905
+2,disease_on_drugs,29,16,0.6141283524904215

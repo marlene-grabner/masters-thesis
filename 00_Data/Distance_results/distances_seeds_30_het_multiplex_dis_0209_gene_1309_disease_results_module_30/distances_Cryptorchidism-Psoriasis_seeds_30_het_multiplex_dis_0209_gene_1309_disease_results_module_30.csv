@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Psoriasis nodes,sAB
+0,disease_on_genes,23,30,0.01599671862182106
+1,disease_on_symptoms,19,17,0.67999656002752
+2,disease_on_drugs,21,30,0.1599439775910365

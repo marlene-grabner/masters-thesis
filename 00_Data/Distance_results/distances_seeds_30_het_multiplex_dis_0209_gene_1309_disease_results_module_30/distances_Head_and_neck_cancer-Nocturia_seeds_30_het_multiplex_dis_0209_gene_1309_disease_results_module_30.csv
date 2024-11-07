@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Nocturia nodes,sAB
+0,disease_on_genes,27,25,0.019607843137254832
+1,disease_on_symptoms,22,18,0.9593434343434342
+2,disease_on_drugs,23,24,0.42545482577859994

@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,20,24,0.17462121212121207
+1,disease_on_symptoms,23,19,1.597254004576659
+2,disease_on_drugs,18,19,0.5674095147779359

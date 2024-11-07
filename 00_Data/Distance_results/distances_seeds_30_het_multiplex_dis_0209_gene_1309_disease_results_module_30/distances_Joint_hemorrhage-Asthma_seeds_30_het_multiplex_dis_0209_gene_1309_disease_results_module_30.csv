@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.034545454545454435
+1,disease_on_symptoms,17,20,1.3601351351351352
+2,disease_on_drugs,26,22,0.25611888111888126

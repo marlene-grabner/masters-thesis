@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,21,18,0.5894383394383393
+2,disease_on_drugs,27,27,0.35185185185185186

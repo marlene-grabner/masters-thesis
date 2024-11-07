@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.27057276446522516
+1,disease_on_symptoms,13,22,0.7951048951048949
+2,disease_on_drugs,18,29,0.5670701883101004

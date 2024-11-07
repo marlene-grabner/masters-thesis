@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,-0.2593101343101344
+1,disease_on_symptoms,18,15,-0.26111111111111107
+2,disease_on_drugs,25,23,-0.251268115942029

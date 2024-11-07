@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,0.5996969696969698
+1,disease_on_symptoms,20,19,1.5093117408906884
+2,disease_on_drugs,27,13,1.1615384615384619

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.33926553672316384
+1,disease_on_symptoms,17,13,0.11176470588235343
+2,disease_on_drugs,17,22,0.2664541341011928

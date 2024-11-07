@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,29,26,0.1310344827586205
+1,disease_on_symptoms,15,19,1.2978328173374611
+2,disease_on_drugs,29,24,0.3581517024506613

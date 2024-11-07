@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.3342864923747275
+1,disease_on_symptoms,16,19,0.7274906015037594
+2,disease_on_drugs,27,20,0.4236012608353035

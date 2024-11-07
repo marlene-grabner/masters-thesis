@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,19,16,0.5790883458646618
+2,disease_on_drugs,28,26,0.20278795278795303

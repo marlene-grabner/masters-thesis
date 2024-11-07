@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,14,19,-0.270619731146047
+2,disease_on_drugs,25,29,-0.20406130268199218

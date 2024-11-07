@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,26,26,-0.019230769230769384
+1,disease_on_symptoms,28,21,0.5178571428571428
+2,disease_on_drugs,23,25,0.25076086956521726

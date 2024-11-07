@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Ascites nodes,sAB
+0,disease_on_genes,21,30,-0.05588235294117638
+1,disease_on_symptoms,22,22,0.6363636363636362
+2,disease_on_drugs,19,27,-0.10581405203830818

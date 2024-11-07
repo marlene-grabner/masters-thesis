@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pruritus nodes,sAB
+0,disease_on_genes,26,26,-0.0011764705882353343
+1,disease_on_symptoms,21,19,1.2348997493734335
+2,disease_on_drugs,24,24,0.5

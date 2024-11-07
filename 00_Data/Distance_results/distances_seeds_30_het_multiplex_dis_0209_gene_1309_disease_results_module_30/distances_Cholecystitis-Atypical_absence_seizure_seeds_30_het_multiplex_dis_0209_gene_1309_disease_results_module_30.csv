@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,23,13,0.8024897807506504
+2,disease_on_drugs,21,22,0.04145273331319843

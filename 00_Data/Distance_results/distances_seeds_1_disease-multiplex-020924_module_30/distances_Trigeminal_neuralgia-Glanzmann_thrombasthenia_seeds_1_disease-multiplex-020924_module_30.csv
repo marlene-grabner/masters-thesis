@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,28,24,0.21405677655677668
+1,disease_on_symptoms,19,21,1.2537593984962405
+2,disease_on_drugs,26,24,0.5966025641025641

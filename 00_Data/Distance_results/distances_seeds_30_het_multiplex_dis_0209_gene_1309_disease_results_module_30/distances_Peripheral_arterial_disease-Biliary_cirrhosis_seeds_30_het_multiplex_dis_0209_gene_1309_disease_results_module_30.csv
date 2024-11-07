@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,0.09615384615384626
+1,disease_on_symptoms,17,22,0.540449746332099
+2,disease_on_drugs,24,25,0.30556122448979584

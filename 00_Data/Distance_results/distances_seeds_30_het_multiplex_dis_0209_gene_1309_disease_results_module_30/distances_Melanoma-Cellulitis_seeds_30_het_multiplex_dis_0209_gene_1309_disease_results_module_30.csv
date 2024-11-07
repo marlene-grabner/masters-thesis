@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,23,20,0.9457532861476241
+2,disease_on_drugs,25,26,0.23636500754147804

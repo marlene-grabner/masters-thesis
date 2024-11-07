@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,22,0.9386363636363639
+2,disease_on_drugs,25,29,0.43662835249042153

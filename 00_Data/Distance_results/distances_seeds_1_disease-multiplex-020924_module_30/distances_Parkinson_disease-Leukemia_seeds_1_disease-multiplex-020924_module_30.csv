@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,21,18,0.283882783882784
+1,disease_on_symptoms,20,27,1.837785657998424
+2,disease_on_drugs,19,17,1.2173202614379082

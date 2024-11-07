@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,28,25,0.018867924528301883
+1,disease_on_symptoms,20,19,0.40900809716599174
+2,disease_on_drugs,25,22,0.12789168278529983

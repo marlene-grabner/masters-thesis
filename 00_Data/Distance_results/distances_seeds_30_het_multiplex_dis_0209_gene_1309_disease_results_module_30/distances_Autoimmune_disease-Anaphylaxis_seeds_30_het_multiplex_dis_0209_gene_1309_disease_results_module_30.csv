@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,-0.16946191474493366
+1,disease_on_symptoms,20,14,0.45861344537815096
+2,disease_on_drugs,25,26,-0.19612368024132742

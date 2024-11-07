@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,0.03109161793372328
+1,disease_on_symptoms,19,16,0.5752349624060149
+2,disease_on_drugs,26,30,0.4664835164835164

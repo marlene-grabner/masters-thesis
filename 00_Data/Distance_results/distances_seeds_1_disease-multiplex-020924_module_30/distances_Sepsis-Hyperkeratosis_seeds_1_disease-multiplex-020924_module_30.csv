@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,22,26,0.24213286713286708
+1,disease_on_symptoms,23,21,1.863589309241483
+2,disease_on_drugs,17,23,0.6161764705882353

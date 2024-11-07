@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,-0.0847457627118644
+1,disease_on_symptoms,17,13,0.5627450980392155
+2,disease_on_drugs,30,22,0.006876456876456771

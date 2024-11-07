@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,0.1730523627075351
+1,disease_on_symptoms,26,22,1.2668997668997672
+2,disease_on_drugs,21,29,1.0082758620689656

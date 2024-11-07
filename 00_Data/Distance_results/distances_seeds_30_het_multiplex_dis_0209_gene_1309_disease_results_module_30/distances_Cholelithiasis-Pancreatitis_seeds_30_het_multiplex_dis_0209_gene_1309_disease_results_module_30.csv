@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,20,17,0.4472972972972973
+2,disease_on_drugs,18,30,0.047222222222222276

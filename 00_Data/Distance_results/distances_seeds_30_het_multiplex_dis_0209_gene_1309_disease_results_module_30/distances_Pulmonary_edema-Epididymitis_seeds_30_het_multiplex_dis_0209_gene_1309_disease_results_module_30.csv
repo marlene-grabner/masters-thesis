@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.15254237288135597
+1,disease_on_symptoms,11,23,0.049290862590095186
+2,disease_on_drugs,27,26,0.1686824705692629

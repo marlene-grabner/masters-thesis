@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,19,30,-0.1858395989974938
+1,disease_on_symptoms,21,16,0.347812097812098
+2,disease_on_drugs,17,23,-0.28695652173913033

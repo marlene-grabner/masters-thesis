@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,21,15,0.28095238095238084
+2,disease_on_drugs,29,30,0.16831287745957524

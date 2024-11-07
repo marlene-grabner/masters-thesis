@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Pericarditis nodes,sAB
+0,disease_on_genes,25,26,-0.03960784313725496
+1,disease_on_symptoms,23,21,0.9037267080745344
+2,disease_on_drugs,24,26,0.3060897435897436

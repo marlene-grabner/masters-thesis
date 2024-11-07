@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,21,19,-0.5641604010025061
+2,disease_on_drugs,29,30,-0.15431521527371928

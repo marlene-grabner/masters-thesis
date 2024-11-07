@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.0185185185185186
+1,disease_on_symptoms,20,19,0.745715249662618
+2,disease_on_drugs,28,24,0.1362179487179489

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,28,30,0.017816091954023117
+1,disease_on_symptoms,17,19,0.5528035775713795
+2,disease_on_drugs,19,29,0.14095583787053845

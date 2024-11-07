@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,14,19,-0.04294827979038507
+2,disease_on_drugs,29,30,-0.3404636664718488

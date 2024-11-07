@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,28,9,0.24490561990561988
+1,disease_on_symptoms,14,27,2.7625822686798296
+2,disease_on_drugs,24,9,1.393939393939394

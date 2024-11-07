@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,18,0.22060218112849705
+2,disease_on_drugs,24,29,0.07242192582953799

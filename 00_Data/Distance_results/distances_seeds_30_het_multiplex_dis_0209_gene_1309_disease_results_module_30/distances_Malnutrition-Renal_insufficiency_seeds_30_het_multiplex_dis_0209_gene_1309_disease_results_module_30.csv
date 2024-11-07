@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,14,19,-0.03770790612895869
+2,disease_on_drugs,29,28,-0.31648085731570297

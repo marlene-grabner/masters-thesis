@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Gangrene nodes,sAB
+0,disease_on_genes,17,26,0.057455540355677126
+1,disease_on_symptoms,22,19,1.4480102695763801
+2,disease_on_drugs,15,23,0.31334858886346306

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,20,24,-0.12083333333333335
+2,disease_on_drugs,27,27,-0.16666666666666663

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,30,-0.1413255360623783
+1,disease_on_symptoms,17,18,-0.1436507936507938
+2,disease_on_drugs,24,28,-0.13255494505494525

@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,19,23,0.46022665359049797
+2,disease_on_drugs,25,24,0.16231292517006812

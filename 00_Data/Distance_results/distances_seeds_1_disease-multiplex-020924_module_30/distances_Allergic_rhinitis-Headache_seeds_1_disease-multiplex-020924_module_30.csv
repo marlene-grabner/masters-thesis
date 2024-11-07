@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Headache nodes,sAB
+0,disease_on_genes,21,30,0.05756302521008405
+1,disease_on_symptoms,22,25,1.5027466150870405
+2,disease_on_drugs,21,26,0.029401449614215425

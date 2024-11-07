@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,18,27,0.6481481481481479
+1,disease_on_symptoms,21,23,1.0776868059476752
+2,disease_on_drugs,6,15,0.2523809523809524

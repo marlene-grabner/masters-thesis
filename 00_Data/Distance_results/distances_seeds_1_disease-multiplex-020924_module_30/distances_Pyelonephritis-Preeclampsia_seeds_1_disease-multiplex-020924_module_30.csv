@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,23,26,0.36335403726708093
+1,disease_on_symptoms,21,17,1.4757481940144477
+2,disease_on_drugs,19,23,0.8115942028985506

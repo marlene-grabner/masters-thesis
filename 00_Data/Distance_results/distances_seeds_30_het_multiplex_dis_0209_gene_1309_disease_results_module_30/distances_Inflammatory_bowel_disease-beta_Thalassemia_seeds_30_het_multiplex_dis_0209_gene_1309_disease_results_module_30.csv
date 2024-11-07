@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,13,0.12989510489510492
+2,disease_on_drugs,27,24,-0.05160675381263613

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,17,29,-0.210997442455243
+1,disease_on_symptoms,24,16,0.21666666666666656
+2,disease_on_drugs,16,29,-0.1535680076628354

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,24,17,-0.019876853180296417
+2,disease_on_drugs,20,30,0.16166666666666663

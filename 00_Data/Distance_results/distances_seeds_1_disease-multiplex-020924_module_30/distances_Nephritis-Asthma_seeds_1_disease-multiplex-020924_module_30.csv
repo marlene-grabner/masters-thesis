@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.052727272727272734
+1,disease_on_symptoms,18,19,1.5417654496601867
+2,disease_on_drugs,27,24,-0.05582788671023953

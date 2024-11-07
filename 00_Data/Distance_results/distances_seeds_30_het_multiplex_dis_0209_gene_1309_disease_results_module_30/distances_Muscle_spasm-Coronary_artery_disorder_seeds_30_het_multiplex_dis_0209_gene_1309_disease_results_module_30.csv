@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.03486464315012294
+1,disease_on_symptoms,15,19,1.2577915376676985
+2,disease_on_drugs,29,22,0.26135595303952286

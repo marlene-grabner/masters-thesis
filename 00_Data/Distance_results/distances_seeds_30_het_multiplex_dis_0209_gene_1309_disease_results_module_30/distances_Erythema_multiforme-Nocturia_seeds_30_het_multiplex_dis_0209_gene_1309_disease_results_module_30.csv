@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.2777777777777778
+1,disease_on_symptoms,18,18,-0.13888888888888906
+2,disease_on_drugs,30,24,-0.1148148148148147

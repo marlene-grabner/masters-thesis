@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.31550116550116547
+1,disease_on_symptoms,16,19,1.799295112781955
+2,disease_on_drugs,27,19,0.6475972540045769

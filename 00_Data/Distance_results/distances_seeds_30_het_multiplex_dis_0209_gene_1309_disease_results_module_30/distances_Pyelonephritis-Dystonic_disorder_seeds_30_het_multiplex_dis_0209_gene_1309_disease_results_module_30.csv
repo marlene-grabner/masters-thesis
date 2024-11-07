@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,24,30,0.016203703703703498
+1,disease_on_symptoms,19,17,1.2863777089783284
+2,disease_on_drugs,19,26,0.1284750337381917

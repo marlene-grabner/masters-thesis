@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,26,30,-0.1071428571428571
+1,disease_on_symptoms,21,16,-0.0966859716859716
+2,disease_on_drugs,26,29,0.05588377140101275

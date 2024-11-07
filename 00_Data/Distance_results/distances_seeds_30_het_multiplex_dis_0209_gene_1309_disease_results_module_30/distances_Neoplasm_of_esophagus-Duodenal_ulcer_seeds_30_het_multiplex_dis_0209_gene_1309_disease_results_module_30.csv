@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,29,28,-0.3154869933454325
+1,disease_on_symptoms,20,17,-0.09419713831478527
+2,disease_on_drugs,25,28,-0.2193396226415094

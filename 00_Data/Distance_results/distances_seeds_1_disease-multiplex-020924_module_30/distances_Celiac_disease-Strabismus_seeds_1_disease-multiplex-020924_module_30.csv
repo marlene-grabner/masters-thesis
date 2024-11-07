@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Strabismus nodes,sAB
+0,disease_on_genes,17,13,0.6591251885369531
+1,disease_on_symptoms,22,26,2.9038461538461537
+2,disease_on_drugs,15,9,0.7444444444444442

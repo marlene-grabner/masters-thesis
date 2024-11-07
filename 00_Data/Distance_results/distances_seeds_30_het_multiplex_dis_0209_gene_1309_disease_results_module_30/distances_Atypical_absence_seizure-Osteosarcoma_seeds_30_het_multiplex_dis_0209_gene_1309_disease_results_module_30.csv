@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,13,22,0.869030969030969
+2,disease_on_drugs,22,29,0.43384657938410465

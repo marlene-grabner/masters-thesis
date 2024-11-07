@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,22,24,-0.025197628458498045
+1,disease_on_symptoms,24,26,0.2861538461538462
+2,disease_on_drugs,13,15,0.0

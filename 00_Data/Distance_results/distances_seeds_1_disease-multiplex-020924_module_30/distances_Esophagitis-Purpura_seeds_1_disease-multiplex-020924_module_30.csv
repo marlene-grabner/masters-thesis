@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Purpura nodes,sAB
+0,disease_on_genes,24,26,0.22536004368302498
+1,disease_on_symptoms,23,17,1.8027493606138107
+2,disease_on_drugs,20,20,0.625

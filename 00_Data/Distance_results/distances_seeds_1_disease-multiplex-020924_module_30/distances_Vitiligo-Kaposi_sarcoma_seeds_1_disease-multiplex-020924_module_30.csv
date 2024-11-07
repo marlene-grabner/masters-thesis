@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,24,15,-0.013782051282051233
+1,disease_on_symptoms,22,27,2.4747990105132964
+2,disease_on_drugs,11,13,0.20833333333333326

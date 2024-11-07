@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,29,0.3463949843260188
+1,disease_on_symptoms,21,16,1.4583333333333335
+2,disease_on_drugs,25,24,1.3681632653061224

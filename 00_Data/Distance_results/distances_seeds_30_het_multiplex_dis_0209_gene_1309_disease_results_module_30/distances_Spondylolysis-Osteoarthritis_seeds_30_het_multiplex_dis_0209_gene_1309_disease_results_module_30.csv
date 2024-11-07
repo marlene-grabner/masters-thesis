@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,28,26,-0.26068376068376053
+1,disease_on_symptoms,17,22,-0.10520361990950233
+2,disease_on_drugs,19,25,-0.3060765550239236

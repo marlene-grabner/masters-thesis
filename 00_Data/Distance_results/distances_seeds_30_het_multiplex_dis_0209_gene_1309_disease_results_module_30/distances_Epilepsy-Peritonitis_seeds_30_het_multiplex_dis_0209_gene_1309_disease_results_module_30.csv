@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,21,14,0.5214285714285714
+2,disease_on_drugs,29,24,0.24358870093255258

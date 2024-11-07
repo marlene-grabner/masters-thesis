@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,22,30,-0.05769230769230771
+1,disease_on_symptoms,21,18,0.6639194139194138
+2,disease_on_drugs,21,27,0.1160714285714286

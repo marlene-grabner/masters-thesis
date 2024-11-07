@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.05233990147783241
+1,disease_on_symptoms,15,18,0.016666666666666607
+2,disease_on_drugs,23,27,-0.057101449275362315

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,21,22,0.48940400684586716
+1,disease_on_symptoms,20,19,2.436369770580297
+2,disease_on_drugs,19,18,0.9451951951951953

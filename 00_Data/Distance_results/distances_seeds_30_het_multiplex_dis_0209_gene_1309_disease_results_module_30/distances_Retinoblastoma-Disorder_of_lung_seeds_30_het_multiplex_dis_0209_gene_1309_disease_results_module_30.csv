@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,21,18,0.4270451770451771
+2,disease_on_drugs,27,24,0.05623638344226567

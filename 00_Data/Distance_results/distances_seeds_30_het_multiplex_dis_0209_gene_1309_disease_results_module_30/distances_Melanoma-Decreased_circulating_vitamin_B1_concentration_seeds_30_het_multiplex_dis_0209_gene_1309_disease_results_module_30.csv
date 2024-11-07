@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,-0.12378167641325544
+1,disease_on_symptoms,23,17,0.8417519181585678
+2,disease_on_drugs,25,25,0.24

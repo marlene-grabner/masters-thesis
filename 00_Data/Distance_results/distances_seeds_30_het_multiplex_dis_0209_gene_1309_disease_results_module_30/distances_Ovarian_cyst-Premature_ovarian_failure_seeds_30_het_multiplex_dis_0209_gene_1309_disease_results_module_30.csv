@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,19,15,-0.3638802889576882
+2,disease_on_drugs,24,26,-0.25730769230769224

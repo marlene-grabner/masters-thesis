@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,28,29,-0.07240259740259736
+1,disease_on_symptoms,19,17,0.37667698658410753
+2,disease_on_drugs,25,26,0.13871794871794862

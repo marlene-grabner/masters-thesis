@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,22,30,0.2620046620046621
+1,disease_on_symptoms,23,20,1.7251769464105156
+2,disease_on_drugs,17,24,0.8507293161166904

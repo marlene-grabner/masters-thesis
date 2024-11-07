@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,17,14,-0.572987259419897
+2,disease_on_drugs,24,26,-0.23801282051282047

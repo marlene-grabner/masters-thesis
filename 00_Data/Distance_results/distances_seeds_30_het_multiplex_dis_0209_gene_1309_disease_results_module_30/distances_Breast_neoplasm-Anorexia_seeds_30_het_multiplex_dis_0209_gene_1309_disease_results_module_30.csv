@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.10198714202220915
+1,disease_on_symptoms,20,13,0.6318764568764572
+2,disease_on_drugs,30,28,0.44581280788177335

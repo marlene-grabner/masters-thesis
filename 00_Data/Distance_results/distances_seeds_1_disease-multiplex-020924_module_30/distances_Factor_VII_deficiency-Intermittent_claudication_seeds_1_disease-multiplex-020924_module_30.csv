@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,25,20,0.15388888888888896
+1,disease_on_symptoms,23,24,2.6807161578785075
+2,disease_on_drugs,21,18,0.4566544566544566

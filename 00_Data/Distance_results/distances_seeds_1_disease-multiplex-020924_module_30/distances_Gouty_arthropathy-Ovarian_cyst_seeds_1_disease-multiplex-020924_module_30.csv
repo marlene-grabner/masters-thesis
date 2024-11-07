@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,25,20,0.5116666666666669
+1,disease_on_symptoms,13,22,0.6240259740259739
+2,disease_on_drugs,16,15,0.7074596774193547

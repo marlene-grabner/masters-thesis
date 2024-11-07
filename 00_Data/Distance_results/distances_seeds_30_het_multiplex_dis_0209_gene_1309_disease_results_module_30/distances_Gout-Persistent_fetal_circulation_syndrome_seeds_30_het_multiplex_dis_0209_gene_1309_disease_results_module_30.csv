@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,28,24,-0.0755494505494505
+1,disease_on_symptoms,19,22,1.0504142840471469
+2,disease_on_drugs,22,21,-0.11481928923789364

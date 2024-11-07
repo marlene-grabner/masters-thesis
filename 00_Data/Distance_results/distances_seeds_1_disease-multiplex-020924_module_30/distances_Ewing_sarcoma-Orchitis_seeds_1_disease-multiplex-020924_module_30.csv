@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Orchitis nodes,sAB
+0,disease_on_genes,24,23,0.4268617021276595
+1,disease_on_symptoms,25,16,1.668140243902439
+2,disease_on_drugs,17,17,0.4411764705882353

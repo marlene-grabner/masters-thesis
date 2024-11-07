@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,28,23,0.0980392156862746
+1,disease_on_symptoms,18,19,0.6685237869448399
+2,disease_on_drugs,23,19,0.23248338236896604

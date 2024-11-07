@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.2333333333333334
+1,disease_on_symptoms,15,26,0.5092870544090058
+2,disease_on_drugs,22,13,0.2648351648351648

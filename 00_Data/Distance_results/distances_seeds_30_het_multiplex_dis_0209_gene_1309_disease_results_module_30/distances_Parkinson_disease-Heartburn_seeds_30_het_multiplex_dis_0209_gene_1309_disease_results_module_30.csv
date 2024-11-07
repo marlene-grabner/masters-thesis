@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Heartburn nodes,sAB
+0,disease_on_genes,23,26,-0.26530612244897955
+1,disease_on_symptoms,23,16,0.2739687848383501
+2,disease_on_drugs,22,25,-0.14673114119922637

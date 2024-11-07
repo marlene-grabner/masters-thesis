@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.08503798947983632
+1,disease_on_symptoms,16,18,0.6247957516339868
+2,disease_on_drugs,28,28,0.2142857142857144

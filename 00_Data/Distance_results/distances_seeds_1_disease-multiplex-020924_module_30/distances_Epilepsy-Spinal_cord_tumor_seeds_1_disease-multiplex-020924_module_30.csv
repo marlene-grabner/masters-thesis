@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,29,22,0.2330659536541888
+1,disease_on_symptoms,18,22,0.959848484848485
+2,disease_on_drugs,30,14,0.5125541125541127

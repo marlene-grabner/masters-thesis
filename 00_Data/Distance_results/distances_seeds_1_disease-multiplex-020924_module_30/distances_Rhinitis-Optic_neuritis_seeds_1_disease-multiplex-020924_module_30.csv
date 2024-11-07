@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.22962962962962963
+1,disease_on_symptoms,15,16,0.3828629032258064
+2,disease_on_drugs,22,27,0.16704459561602403

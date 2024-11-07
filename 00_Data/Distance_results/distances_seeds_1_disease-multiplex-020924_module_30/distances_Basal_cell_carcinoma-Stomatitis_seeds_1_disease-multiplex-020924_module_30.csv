@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,26,30,0.25219780219780197
+1,disease_on_symptoms,23,23,1.4347826086956519
+2,disease_on_drugs,25,30,0.9545454545454546

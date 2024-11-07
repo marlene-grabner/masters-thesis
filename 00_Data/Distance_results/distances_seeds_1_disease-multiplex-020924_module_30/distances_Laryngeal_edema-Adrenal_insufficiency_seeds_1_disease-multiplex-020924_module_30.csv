@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,17,0.28160200250312895
+1,disease_on_symptoms,20,21,0.8944250871080137
+2,disease_on_drugs,28,14,0.11309523809523814

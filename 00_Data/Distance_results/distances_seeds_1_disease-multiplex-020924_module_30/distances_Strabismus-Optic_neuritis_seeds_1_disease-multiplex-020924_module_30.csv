@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,13,27,0.29757834757834734
+1,disease_on_symptoms,26,16,1.3636675824175821
+2,disease_on_drugs,9,27,0.6018518518518519

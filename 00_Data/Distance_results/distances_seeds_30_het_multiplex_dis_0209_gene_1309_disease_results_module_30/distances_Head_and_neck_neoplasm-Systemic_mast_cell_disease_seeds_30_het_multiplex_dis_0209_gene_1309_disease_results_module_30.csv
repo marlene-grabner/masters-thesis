@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.08446327683615817
+1,disease_on_symptoms,22,25,0.0006382978723404875
+2,disease_on_drugs,27,21,0.08035714285714302

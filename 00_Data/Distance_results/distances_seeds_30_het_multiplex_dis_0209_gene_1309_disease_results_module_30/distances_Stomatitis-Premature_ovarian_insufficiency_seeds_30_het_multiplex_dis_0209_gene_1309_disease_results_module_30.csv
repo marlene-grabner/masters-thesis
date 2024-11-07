@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,19,18,0.6232416627153468
+2,disease_on_drugs,29,22,0.27709140082365225

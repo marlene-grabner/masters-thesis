@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.03421052631578947
+1,disease_on_symptoms,18,20,0.47733918128654973
+2,disease_on_drugs,22,29,0.17894461859979094

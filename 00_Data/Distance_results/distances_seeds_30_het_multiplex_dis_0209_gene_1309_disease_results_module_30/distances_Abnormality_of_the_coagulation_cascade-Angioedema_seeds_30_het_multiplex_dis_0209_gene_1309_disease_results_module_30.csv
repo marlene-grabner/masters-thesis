@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Angioedema nodes,sAB
+0,disease_on_genes,24,30,0.03703703703703698
+1,disease_on_symptoms,24,18,0.2936507936507935
+2,disease_on_drugs,23,26,-0.06613883011398536

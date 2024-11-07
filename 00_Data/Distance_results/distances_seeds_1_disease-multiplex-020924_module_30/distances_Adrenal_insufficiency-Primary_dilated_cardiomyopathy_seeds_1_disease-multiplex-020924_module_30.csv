@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,17,30,0.5581977471839799
+1,disease_on_symptoms,21,25,1.3320496894409941
+2,disease_on_drugs,14,7,0.8333333333333333

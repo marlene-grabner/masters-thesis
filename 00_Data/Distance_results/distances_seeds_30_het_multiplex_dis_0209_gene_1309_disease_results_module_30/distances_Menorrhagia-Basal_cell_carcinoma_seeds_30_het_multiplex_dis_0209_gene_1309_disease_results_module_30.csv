@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,27,30,0.1929824561403508
+1,disease_on_symptoms,16,24,0.7729166666666667
+2,disease_on_drugs,23,27,0.4859259259259261

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,22,19,0.0053098377873728175
+2,disease_on_drugs,26,24,0.15557692307692306

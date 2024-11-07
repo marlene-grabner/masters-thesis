@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,20,19,0.052530364372469496
+2,disease_on_drugs,30,28,0.06888341543513965

@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,0.17939393939393944
+1,disease_on_symptoms,25,26,0.9033634992458521
+2,disease_on_drugs,21,28,1.1632653061224492

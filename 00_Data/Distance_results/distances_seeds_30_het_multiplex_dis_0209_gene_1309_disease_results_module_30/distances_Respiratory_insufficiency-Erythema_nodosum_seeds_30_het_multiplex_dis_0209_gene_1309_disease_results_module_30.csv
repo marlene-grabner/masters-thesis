@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,21,22,0.25966475385080034
+2,disease_on_drugs,25,29,-0.12357598978288631

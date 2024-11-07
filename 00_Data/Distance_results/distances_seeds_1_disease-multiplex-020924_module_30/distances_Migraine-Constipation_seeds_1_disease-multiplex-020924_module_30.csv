@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Constipation nodes,sAB
+0,disease_on_genes,30,30,-0.10000000000000009
+1,disease_on_symptoms,14,17,-0.050962320412035966
+2,disease_on_drugs,29,27,0.1421957671957672

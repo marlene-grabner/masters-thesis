@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.1855639976621859
+1,disease_on_symptoms,19,16,0.6023496240601502
+2,disease_on_drugs,29,25,0.318646232439336

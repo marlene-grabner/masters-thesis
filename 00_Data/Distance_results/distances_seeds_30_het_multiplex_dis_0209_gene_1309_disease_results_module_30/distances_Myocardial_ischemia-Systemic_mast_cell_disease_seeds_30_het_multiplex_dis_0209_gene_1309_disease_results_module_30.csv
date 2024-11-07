@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.15225988700564963
+1,disease_on_symptoms,19,25,-0.006411483253588424
+2,disease_on_drugs,30,21,0.001680672268907557

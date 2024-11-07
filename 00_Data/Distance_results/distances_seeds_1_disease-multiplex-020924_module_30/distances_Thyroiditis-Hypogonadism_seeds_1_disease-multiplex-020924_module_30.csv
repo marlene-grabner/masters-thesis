@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.14125874125874138
+1,disease_on_symptoms,28,12,0.8416666666666666
+2,disease_on_drugs,23,30,0.8106508066721356

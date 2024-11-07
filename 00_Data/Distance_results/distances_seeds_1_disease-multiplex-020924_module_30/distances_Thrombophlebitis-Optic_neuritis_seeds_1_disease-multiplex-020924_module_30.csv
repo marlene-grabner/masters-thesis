@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,0.2363395863395863
+1,disease_on_symptoms,15,16,1.3258736559139783
+2,disease_on_drugs,21,27,0.7754629629629628

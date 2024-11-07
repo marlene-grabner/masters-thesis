@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.19606060606060605
+1,disease_on_symptoms,25,21,0.9173498964803315
+2,disease_on_drugs,26,20,0.17316053511705687

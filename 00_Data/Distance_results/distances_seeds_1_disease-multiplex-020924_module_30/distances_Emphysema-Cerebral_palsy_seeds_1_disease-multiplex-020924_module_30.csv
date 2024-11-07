@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,0.27378167641325524
+1,disease_on_symptoms,14,16,1.1279761904761907
+2,disease_on_drugs,29,18,0.7659574468085106

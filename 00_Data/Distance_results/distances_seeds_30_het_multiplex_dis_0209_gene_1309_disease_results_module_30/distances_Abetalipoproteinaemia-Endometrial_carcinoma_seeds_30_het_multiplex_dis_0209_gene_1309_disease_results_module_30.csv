@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,14,26,-0.13571428571428557
+1,disease_on_symptoms,26,21,-0.08448289299353129
+2,disease_on_drugs,14,26,0.11813186813186816

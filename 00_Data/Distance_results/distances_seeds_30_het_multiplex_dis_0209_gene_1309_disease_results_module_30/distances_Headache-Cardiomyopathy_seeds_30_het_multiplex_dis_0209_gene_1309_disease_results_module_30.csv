@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.07636363636363641
+1,disease_on_symptoms,23,21,-0.23211932994541695
+2,disease_on_drugs,23,24,-0.08749614554424934

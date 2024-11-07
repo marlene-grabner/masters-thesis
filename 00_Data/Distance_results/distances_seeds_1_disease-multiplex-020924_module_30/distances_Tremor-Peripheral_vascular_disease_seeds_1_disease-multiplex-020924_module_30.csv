@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,16,23,0.23735367892976567
+1,disease_on_symptoms,23,16,1.881584448160535
+2,disease_on_drugs,16,22,0.705592105263158

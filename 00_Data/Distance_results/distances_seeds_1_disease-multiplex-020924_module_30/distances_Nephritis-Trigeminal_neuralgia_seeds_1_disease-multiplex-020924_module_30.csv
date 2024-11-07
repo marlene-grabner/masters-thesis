@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.04987684729064035
+1,disease_on_symptoms,18,19,0.16409830883515109
+2,disease_on_drugs,27,26,0.22779927968607216

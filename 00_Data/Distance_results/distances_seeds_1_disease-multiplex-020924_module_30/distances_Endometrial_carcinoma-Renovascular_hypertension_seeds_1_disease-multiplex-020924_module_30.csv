@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,23,21,0.22807265198569526
+1,disease_on_symptoms,21,22,1.4849491593677642
+2,disease_on_drugs,21,20,0.5596689895470384

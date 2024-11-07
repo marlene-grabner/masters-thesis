@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.14035087719298245
+1,disease_on_symptoms,16,22,1.0351375598086126
+2,disease_on_drugs,28,24,0.5183150183150185

@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,23,30,0.27660650806672127
+1,disease_on_symptoms,21,15,0.9396825396825399
+2,disease_on_drugs,21,26,0.6773439326630815

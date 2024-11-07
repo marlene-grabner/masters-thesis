@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,17,27,0.2047435135670428
+1,disease_on_symptoms,21,27,1.4024470899470902
+2,disease_on_drugs,17,26,0.5538777228243712

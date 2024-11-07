@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,24,0.30816326530612237
+1,disease_on_symptoms,23,17,1.1179028132992328
+2,disease_on_drugs,19,23,0.9347826086956523

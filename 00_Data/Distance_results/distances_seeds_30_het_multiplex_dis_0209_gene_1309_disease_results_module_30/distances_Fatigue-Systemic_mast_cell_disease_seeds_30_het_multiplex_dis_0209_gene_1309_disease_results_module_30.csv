@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,-0.05769230769230771
+1,disease_on_symptoms,16,25,1.663780487804878
+2,disease_on_drugs,26,21,0.20736887226248912

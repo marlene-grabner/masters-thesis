@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,22,23,0.3581906016688625
+2,disease_on_drugs,29,29,0.13793103448275867

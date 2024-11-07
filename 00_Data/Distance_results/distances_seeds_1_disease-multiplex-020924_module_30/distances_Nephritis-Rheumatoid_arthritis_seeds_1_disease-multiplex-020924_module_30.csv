@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,27,0.17251461988304095
+1,disease_on_symptoms,18,15,1.2308080808080808
+2,disease_on_drugs,27,25,0.3297150997150997

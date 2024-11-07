@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,0.09218374218374215
+1,disease_on_symptoms,14,16,1.105059523809524
+2,disease_on_drugs,28,27,0.581144781144781

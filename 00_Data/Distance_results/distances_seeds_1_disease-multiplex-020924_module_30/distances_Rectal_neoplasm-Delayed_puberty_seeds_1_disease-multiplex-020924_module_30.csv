@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,22,-0.023809523809523725
+1,disease_on_symptoms,21,20,1.218089430894309
+2,disease_on_drugs,29,19,-0.045447670901391346

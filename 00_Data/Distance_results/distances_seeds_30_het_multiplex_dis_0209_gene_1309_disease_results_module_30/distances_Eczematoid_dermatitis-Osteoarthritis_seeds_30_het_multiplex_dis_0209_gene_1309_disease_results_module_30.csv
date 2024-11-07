@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.12774725274725263
+1,disease_on_symptoms,25,22,0.25468085106382987
+2,disease_on_drugs,30,25,-0.0027272727272726893

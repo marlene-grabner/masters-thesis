@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.10909090909090913
+1,disease_on_symptoms,17,20,0.4838632750397456
+2,disease_on_drugs,24,18,0.11210317460317465

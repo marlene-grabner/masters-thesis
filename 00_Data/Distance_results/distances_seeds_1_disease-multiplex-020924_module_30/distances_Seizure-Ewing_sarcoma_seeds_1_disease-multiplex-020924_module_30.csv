@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Ewing_sarcoma nodes,sAB
+0,disease_on_genes,29,24,0.29599056603773577
+1,disease_on_symptoms,25,25,2.0999999999999996
+2,disease_on_drugs,28,17,1.5333333333333332

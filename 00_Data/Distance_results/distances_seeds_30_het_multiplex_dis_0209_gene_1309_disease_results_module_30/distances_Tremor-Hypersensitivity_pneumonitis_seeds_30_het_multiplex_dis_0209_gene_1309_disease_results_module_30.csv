@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,25,-0.15384615384615385
+1,disease_on_symptoms,17,20,1.3238871224165343
+2,disease_on_drugs,24,25,0.3477210884353743

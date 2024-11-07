@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,21,16,-0.5093307593307592
+2,disease_on_drugs,29,30,0.03329436976427047

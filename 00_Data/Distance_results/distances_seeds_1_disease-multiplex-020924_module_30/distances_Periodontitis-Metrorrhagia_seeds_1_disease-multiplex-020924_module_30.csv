@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,23,27,0.13478260869565228
+1,disease_on_symptoms,25,17,0.33394957983193296
+2,disease_on_drugs,22,26,0.6016899766899766

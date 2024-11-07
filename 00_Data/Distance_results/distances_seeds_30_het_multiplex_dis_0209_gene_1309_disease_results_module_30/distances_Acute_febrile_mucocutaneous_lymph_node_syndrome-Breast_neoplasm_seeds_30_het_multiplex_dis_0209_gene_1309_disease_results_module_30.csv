@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,13,20,-0.3646270396270397
+2,disease_on_drugs,28,30,-0.10652709359605927

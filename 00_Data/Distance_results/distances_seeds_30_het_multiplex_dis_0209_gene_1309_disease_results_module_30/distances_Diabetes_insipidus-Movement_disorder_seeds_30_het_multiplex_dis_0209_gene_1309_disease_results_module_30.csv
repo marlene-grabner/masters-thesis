@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,26,30,-0.1787545787545789
+1,disease_on_symptoms,20,17,-0.44602543720190746
+2,disease_on_drugs,20,26,-0.26086956521739135

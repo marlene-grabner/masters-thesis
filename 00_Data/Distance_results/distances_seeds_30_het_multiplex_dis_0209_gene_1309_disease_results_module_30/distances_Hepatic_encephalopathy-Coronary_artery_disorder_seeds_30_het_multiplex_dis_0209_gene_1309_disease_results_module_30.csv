@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.134946677604594
+1,disease_on_symptoms,14,19,0.27284119389382533
+2,disease_on_drugs,29,22,0.00408752842829907

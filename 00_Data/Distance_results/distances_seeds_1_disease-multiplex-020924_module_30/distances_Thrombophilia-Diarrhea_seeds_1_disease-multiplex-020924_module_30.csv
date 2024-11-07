@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Diarrhea nodes,sAB
+0,disease_on_genes,27,27,0.31481481481481466
+1,disease_on_symptoms,18,19,2.3284336968547494
+2,disease_on_drugs,21,26,0.8905969916608212

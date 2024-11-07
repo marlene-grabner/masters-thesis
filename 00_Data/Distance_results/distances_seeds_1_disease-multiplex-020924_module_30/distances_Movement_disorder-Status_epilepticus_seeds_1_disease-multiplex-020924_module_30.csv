@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,29,0.034171050068186215
+1,disease_on_symptoms,22,17,-0.05289318524612652
+2,disease_on_drugs,15,30,-0.05555555555555558

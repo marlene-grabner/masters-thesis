@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,0.1206896551724137
+1,disease_on_symptoms,19,18,0.6130077445866919
+2,disease_on_drugs,29,28,0.43822919367383983

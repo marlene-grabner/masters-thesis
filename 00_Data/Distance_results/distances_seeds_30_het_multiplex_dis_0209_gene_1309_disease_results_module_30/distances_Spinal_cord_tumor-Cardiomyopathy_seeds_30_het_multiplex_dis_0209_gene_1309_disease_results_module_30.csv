@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,29,25,-0.1511111111111112
+1,disease_on_symptoms,14,21,-0.004761904761904745
+2,disease_on_drugs,22,24,-0.1149538866930171

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.15070028011204473
+1,disease_on_symptoms,17,25,1.2542296918767506
+2,disease_on_drugs,28,21,1.0051020408163267

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.21999999999999997
+1,disease_on_symptoms,14,20,1.1955882352941178
+2,disease_on_drugs,29,22,-0.07681787448521737

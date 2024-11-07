@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,20,0.37111111111111095
+1,disease_on_symptoms,19,26,0.7314664867296445
+2,disease_on_drugs,18,13,0.48959194926936855

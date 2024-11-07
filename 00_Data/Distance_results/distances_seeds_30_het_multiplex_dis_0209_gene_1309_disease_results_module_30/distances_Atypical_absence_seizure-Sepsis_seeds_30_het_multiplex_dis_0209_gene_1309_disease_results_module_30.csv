@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,13,15,2.1274725274725275
+2,disease_on_drugs,22,25,0.810541586073501

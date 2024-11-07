@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,21,20,0.3889953542392566
+1,disease_on_symptoms,22,22,1.8636363636363633
+2,disease_on_drugs,21,15,0.9515873015873018

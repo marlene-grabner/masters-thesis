@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,23,27,-0.0022544283413847843
+1,disease_on_symptoms,25,20,0.846111111111111
+2,disease_on_drugs,22,25,-0.004352030947775809

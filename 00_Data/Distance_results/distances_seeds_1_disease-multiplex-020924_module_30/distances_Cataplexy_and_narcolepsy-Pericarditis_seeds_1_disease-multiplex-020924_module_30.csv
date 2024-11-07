@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Pericarditis nodes,sAB
+0,disease_on_genes,25,25,0.1200000000000001
+1,disease_on_symptoms,18,22,1.8792929292929297
+2,disease_on_drugs,17,25,0.26011204481792727

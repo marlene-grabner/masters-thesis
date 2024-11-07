@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,30,29,-0.5254334697058252
+1,disease_on_symptoms,16,17,-0.698083778966132
+2,disease_on_drugs,21,26,-0.6413179019562001

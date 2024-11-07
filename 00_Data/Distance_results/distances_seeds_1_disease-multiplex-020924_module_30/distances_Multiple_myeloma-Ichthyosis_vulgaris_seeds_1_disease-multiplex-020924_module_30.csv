@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,26,27,0.05730258560447221
+1,disease_on_symptoms,21,21,0.6190476190476193
+2,disease_on_drugs,25,27,0.3061538461538462

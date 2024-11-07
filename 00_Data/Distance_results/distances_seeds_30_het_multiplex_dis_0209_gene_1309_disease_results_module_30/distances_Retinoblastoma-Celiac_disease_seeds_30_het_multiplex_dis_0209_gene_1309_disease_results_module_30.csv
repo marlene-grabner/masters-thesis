@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,21,18,0.642857142857143
+2,disease_on_drugs,27,28,0.07563732563732573

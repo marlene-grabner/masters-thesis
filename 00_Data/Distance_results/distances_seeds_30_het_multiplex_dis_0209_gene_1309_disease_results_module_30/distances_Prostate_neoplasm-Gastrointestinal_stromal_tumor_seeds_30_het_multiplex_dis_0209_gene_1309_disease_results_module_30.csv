@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,21,30,-0.004201680672268893
+1,disease_on_symptoms,20,19,0.39989878542510104
+2,disease_on_drugs,21,28,0.2074829931972788

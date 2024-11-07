@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,16,18,-0.31372549019607865
+2,disease_on_drugs,27,26,0.03768209428586777

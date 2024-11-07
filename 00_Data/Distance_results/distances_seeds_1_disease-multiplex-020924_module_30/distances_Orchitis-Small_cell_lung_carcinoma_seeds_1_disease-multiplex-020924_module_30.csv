@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,23,27,0.1200000000000001
+1,disease_on_symptoms,16,24,1.1604166666666664
+2,disease_on_drugs,17,25,-0.047394957983193375

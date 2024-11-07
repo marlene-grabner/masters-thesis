@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,23,26,0.28172138420585635
+1,disease_on_symptoms,21,15,1.684126984126984
+2,disease_on_drugs,21,21,0.4285714285714286

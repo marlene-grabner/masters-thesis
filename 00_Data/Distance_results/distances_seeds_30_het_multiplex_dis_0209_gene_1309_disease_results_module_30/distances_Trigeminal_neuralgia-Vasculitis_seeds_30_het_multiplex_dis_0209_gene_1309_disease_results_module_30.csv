@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,15,18,0.37929292929292924
+2,disease_on_drugs,25,26,0.09794871794871773

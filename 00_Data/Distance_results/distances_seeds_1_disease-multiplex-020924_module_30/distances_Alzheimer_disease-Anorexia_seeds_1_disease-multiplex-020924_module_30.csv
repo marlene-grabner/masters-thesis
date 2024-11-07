@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,20,17,0.10059618441971385
+1,disease_on_symptoms,23,25,1.5566304347826088
+2,disease_on_drugs,18,13,0.5421836228287842

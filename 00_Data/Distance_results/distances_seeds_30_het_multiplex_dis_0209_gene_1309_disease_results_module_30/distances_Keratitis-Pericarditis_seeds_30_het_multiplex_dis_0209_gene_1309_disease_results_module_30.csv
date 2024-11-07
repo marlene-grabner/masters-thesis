@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.088095238095238
+1,disease_on_symptoms,25,21,-0.10496894409937885
+2,disease_on_drugs,29,26,-0.08028695442488565

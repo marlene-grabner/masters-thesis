@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,29,30,0.13559322033898313
+1,disease_on_symptoms,20,16,0.5444444444444447
+2,disease_on_drugs,27,29,0.5909505564677979

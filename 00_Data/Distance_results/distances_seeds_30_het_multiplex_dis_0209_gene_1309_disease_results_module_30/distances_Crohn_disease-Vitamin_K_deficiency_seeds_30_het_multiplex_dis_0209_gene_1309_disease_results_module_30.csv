@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.05882352941176472
+1,disease_on_symptoms,22,21,1.2106866002214838
+2,disease_on_drugs,24,21,-0.04960317460317443

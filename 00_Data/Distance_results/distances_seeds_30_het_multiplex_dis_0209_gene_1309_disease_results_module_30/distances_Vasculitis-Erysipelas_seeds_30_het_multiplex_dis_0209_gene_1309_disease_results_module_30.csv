@@ -1,0 +1,4 @@
+,Layer,Vasculitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,30,-0.5
+1,disease_on_symptoms,18,18,-0.8611111111111112
+2,disease_on_drugs,26,29,-0.5069206655413552

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Back_pain nodes,sAB
+0,disease_on_genes,20,30,0.18166666666666687
+1,disease_on_symptoms,22,16,0.12933612440191378
+2,disease_on_drugs,15,23,0.5315789473684209

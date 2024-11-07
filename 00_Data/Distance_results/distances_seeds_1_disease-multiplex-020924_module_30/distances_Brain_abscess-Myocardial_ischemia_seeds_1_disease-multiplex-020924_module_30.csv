@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.15399610136452258
+1,disease_on_symptoms,21,13,0.9269553975436327
+2,disease_on_drugs,23,23,-0.04347826086956519

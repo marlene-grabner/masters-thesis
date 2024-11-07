@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,28,-0.125
+1,disease_on_symptoms,19,21,-0.017669172932330612
+2,disease_on_drugs,28,24,-0.19093406593406592

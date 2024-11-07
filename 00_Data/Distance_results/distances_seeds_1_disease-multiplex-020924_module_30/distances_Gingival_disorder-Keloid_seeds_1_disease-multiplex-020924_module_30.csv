@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Keloid nodes,sAB
+0,disease_on_genes,21,22,0.04590758079130186
+1,disease_on_symptoms,26,20,0.8035117056856189
+2,disease_on_drugs,20,19,0.1282051282051282

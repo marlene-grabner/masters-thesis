@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.1763157894736842
+1,disease_on_symptoms,22,17,0.6804127245303719
+2,disease_on_drugs,24,17,0.24234815877570526

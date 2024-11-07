@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Keloid nodes,sAB
+0,disease_on_genes,15,22,0.43472563472563497
+1,disease_on_symptoms,25,20,1.527777777777778
+2,disease_on_drugs,10,19,0.07241379310344809

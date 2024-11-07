@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Myopathy nodes,sAB
+0,disease_on_genes,25,18,0.5828423772609816
+1,disease_on_symptoms,16,21,2.5905727155727156
+2,disease_on_drugs,17,6,1.1082693947144076

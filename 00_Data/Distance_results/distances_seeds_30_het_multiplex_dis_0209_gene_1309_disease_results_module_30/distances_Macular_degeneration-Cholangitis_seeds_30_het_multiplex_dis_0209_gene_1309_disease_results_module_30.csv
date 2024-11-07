@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,17,18,0.05382819794584526
+2,disease_on_drugs,17,28,0.08375350140056015

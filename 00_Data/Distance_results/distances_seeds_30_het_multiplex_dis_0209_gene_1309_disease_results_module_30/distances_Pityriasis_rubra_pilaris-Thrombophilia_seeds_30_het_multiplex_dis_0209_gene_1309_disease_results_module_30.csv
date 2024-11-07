@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,27,27,-2.220446049250313e-16
+1,disease_on_symptoms,21,18,0.591880341880342
+2,disease_on_drugs,25,22,0.23224371373307529

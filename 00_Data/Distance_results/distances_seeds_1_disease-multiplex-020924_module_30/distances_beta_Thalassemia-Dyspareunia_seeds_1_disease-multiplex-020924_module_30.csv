@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,22,24,0.3013833992094861
+1,disease_on_symptoms,21,17,1.0824119121332745
+2,disease_on_drugs,6,23,1.1474262868565719

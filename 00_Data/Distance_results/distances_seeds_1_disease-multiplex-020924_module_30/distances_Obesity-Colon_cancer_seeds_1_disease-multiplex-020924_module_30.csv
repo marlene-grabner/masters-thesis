@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,26,26,0.09615384615384603
+1,disease_on_symptoms,20,21,0.6296167247386761
+2,disease_on_drugs,27,24,0.5315904139433549

@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,18,0.1929824561403508
+2,disease_on_drugs,25,30,0.2230303030303029

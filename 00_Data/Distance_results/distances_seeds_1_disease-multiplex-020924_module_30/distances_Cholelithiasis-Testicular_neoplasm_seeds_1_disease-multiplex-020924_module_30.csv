@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,0.43999999999999995
+1,disease_on_symptoms,19,25,1.6787081339712921
+2,disease_on_drugs,18,23,1.7092317662307055

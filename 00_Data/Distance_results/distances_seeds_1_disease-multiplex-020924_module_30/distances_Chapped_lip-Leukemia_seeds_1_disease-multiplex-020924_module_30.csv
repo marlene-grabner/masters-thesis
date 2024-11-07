@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.045454545454545414
+1,disease_on_symptoms,21,27,0.7397486772486772
+2,disease_on_drugs,24,17,0.2288378766140602

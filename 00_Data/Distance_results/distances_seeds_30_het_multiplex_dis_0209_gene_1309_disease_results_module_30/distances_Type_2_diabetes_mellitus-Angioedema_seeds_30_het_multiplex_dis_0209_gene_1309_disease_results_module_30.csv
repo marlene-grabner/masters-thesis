@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,16,18,0.4140114379084967
+2,disease_on_drugs,27,26,-0.039563511261624607

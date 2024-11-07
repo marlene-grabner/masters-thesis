@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Myalgia nodes,sAB
+0,disease_on_genes,15,30,0.2944444444444443
+1,disease_on_symptoms,25,16,1.6338414634146343
+2,disease_on_drugs,10,29,0.36153846153846136

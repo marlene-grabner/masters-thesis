@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,17,22,0.6118881118881119
+2,disease_on_drugs,26,29,0.30854834820352073

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,18,0.17391304347826098
+1,disease_on_symptoms,23,27,0.15020933977455697
+2,disease_on_drugs,26,17,0.24539619067662843

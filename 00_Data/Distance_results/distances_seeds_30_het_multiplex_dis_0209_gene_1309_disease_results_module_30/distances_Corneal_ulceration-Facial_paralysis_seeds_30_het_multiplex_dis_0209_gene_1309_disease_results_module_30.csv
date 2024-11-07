@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,22,-0.09785714285714275
+1,disease_on_symptoms,15,21,0.611904761904762
+2,disease_on_drugs,23,17,0.06809462915601028

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.31491228070175437
+1,disease_on_symptoms,18,19,-0.15311363995574534
+2,disease_on_drugs,22,30,-0.37424242424242427

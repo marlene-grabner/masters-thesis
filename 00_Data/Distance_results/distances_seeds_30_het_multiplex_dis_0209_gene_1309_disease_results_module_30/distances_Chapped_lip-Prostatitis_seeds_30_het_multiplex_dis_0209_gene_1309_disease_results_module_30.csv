@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Prostatitis nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,20,22,0.6338744588744589
+2,disease_on_drugs,23,28,0.00022835221044936738

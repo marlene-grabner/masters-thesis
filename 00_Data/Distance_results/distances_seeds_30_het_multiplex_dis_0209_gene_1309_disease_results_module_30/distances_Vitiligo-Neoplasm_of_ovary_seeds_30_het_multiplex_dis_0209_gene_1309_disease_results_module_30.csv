@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,22,-0.14593301435406714
+2,disease_on_drugs,25,29,-0.09765006385696018

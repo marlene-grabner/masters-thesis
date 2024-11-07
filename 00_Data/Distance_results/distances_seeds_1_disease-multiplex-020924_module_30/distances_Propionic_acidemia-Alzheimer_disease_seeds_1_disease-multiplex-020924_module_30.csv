@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,22,20,0.14166666666666683
+1,disease_on_symptoms,17,23,0.9494245524296676
+2,disease_on_drugs,21,18,0.184981684981685

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,24,29,0.035770440251572166
+1,disease_on_symptoms,22,25,0.7049709864603484
+2,disease_on_drugs,24,27,0.06862745098039236

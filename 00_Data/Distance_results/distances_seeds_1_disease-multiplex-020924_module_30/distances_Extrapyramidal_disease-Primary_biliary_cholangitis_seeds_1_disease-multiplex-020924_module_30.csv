@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,14,26,0.5950549450549449
+1,disease_on_symptoms,25,17,2.8069467787114846
+2,disease_on_drugs,10,18,0.9619047619047616

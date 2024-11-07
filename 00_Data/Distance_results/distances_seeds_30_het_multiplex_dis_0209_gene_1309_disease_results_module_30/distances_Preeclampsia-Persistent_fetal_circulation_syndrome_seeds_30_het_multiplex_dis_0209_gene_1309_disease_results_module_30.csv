@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,24,-0.019607843137254943
+1,disease_on_symptoms,18,22,0.7747474747474747
+2,disease_on_drugs,22,21,-0.09367764018926805

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,27,-0.03703703703703709
+1,disease_on_symptoms,22,22,0.8863636363636362
+2,disease_on_drugs,26,27,0.4349567274095578

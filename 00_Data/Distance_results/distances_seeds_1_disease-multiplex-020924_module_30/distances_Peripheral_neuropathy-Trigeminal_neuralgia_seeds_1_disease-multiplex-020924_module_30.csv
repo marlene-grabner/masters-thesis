@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,-0.344376026272578
+1,disease_on_symptoms,20,19,-0.5130904183535762
+2,disease_on_drugs,24,26,-0.26089743589743586

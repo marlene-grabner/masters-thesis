@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000013
+1,disease_on_symptoms,20,18,-0.21271929824561386
+2,disease_on_drugs,29,28,-0.07085601935874175

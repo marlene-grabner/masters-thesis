@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,26,21,0.1864235055724417
+1,disease_on_symptoms,15,22,0.6135954135954138
+2,disease_on_drugs,21,20,0.4621080139372822

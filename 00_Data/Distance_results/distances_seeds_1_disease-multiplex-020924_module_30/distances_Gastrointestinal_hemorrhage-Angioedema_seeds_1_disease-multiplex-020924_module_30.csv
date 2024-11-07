@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,29,0.30874218374218354
+1,disease_on_symptoms,19,17,0.6026831785345719
+2,disease_on_drugs,27,25,0.7115384615384615

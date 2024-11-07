@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.10476190476190461
+1,disease_on_symptoms,19,20,-0.3371457489878542
+2,disease_on_drugs,24,25,-0.18500000000000005

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,25,29,-0.11538461538461542
+1,disease_on_symptoms,23,17,0.20741687979539658
+2,disease_on_drugs,21,26,-0.22884030862754257

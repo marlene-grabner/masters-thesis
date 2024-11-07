@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.2333333333333334
+1,disease_on_symptoms,17,21,0.9871738168951794
+2,disease_on_drugs,25,27,0.5576353276353276

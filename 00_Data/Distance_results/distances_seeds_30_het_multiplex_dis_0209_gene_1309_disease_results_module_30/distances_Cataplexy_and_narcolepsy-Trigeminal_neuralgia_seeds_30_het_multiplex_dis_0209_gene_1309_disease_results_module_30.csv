@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,19,15,1.250051599587203
+2,disease_on_drugs,18,25,-0.12452196382428937

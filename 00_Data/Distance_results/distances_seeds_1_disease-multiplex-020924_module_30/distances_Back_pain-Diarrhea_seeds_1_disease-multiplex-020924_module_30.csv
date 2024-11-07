@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,-0.08820662768031196
+1,disease_on_symptoms,16,19,-0.05333646616541343
+2,disease_on_drugs,23,26,0.10321821036106749

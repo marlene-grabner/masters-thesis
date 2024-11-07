@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,22,29,0.46209047882475884
+1,disease_on_symptoms,23,16,2.1125278706800446
+2,disease_on_drugs,17,22,0.9411764705882353

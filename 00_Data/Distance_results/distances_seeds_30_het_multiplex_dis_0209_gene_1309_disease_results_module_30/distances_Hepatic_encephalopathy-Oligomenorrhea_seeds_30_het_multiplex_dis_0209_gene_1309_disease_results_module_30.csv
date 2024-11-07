@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,14,11,0.7883116883116883
+2,disease_on_drugs,29,24,0.018461288223812655

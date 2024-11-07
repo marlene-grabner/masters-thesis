@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.5362619222303742
+1,disease_on_symptoms,18,27,1.4981481481481485
+2,disease_on_drugs,19,19,0.6315789473684208

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,26,30,-0.17619047619047612
+1,disease_on_symptoms,20,22,0.18798701298701315
+2,disease_on_drugs,23,29,-0.17316341829085458

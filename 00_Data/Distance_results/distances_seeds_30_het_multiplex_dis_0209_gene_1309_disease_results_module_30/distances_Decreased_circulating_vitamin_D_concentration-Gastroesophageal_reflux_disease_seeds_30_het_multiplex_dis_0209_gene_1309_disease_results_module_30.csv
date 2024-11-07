@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,25,26,-0.2349170437405731
+1,disease_on_symptoms,13,18,0.6227598566308243
+2,disease_on_drugs,21,25,-0.0233954451345757

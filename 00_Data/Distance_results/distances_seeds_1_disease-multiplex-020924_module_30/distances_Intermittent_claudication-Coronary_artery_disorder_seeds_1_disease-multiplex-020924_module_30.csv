@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,20,19,-0.024392712550607376
+1,disease_on_symptoms,24,21,0.5414682539682538
+2,disease_on_drugs,18,17,-0.053968253968254

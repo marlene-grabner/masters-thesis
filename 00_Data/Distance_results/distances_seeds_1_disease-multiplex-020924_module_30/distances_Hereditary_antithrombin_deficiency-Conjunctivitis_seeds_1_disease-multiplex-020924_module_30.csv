@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,28,27,0.3103775853775854
+1,disease_on_symptoms,15,27,1.9423280423280427
+2,disease_on_drugs,20,26,0.7626254180602006

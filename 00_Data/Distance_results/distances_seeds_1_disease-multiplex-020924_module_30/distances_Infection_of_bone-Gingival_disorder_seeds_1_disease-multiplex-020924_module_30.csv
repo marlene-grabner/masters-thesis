@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,-0.49286883329436526
+1,disease_on_symptoms,21,26,-0.40620372535266136
+2,disease_on_drugs,24,20,-0.42613636363636365

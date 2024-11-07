@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.022727272727272707
+1,disease_on_symptoms,13,22,0.8236763236763234
+2,disease_on_drugs,18,25,0.29201550387596886

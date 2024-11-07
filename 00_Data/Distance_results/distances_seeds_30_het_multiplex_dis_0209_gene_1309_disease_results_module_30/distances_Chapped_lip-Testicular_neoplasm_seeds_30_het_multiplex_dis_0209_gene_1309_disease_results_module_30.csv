@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,-0.17686274509803923
+1,disease_on_symptoms,20,26,0.34055183946488277
+2,disease_on_drugs,23,24,-0.1277366635831021

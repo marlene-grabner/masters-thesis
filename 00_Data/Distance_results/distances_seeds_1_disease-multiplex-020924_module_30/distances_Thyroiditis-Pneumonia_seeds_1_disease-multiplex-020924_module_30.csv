@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,-0.4495421245421246
+1,disease_on_symptoms,28,26,-0.4846866096866098
+2,disease_on_drugs,23,28,-0.45311167945439057

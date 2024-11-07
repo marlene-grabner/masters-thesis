@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,0.10909090909090913
+1,disease_on_symptoms,20,19,0.8154183535762485
+2,disease_on_drugs,29,22,0.08101296945110326

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,0.27104278700023365
+1,disease_on_symptoms,23,26,1.404887038427411
+2,disease_on_drugs,25,20,0.8666666666666667

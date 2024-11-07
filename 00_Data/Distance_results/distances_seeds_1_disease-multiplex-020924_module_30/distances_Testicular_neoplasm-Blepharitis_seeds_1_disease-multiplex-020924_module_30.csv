@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,20,0.2683333333333333
+1,disease_on_symptoms,25,27,1.2105413105413105
+2,disease_on_drugs,23,19,0.5705568268497332

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,29,0.17852581645685084
+1,disease_on_symptoms,21,16,0.913288288288288
+2,disease_on_drugs,27,24,0.43355119825708055

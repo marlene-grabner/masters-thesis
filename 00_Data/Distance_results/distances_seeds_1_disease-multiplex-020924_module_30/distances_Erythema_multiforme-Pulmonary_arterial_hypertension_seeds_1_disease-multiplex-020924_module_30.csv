@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.17294745484400642
+1,disease_on_symptoms,16,18,1.4646650326797384
+2,disease_on_drugs,30,26,0.44505494505494503

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Erythroderma nodes,sAB
+0,disease_on_genes,24,30,0.29953703703703716
+1,disease_on_symptoms,18,19,0.9704836415362732
+2,disease_on_drugs,18,28,0.7391304347826086

@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,20,15,0.47023809523809534
+2,disease_on_drugs,29,29,0.3793103448275863

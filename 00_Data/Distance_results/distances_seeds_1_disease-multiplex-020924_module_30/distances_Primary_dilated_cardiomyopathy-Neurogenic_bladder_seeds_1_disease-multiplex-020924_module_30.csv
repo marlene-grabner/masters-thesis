@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.5333333333333334
+1,disease_on_symptoms,25,17,1.8151820728291317
+2,disease_on_drugs,7,26,0.8982683982683983

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.0064102564102563875
+1,disease_on_symptoms,28,24,0.001602564102564319
+2,disease_on_drugs,23,19,0.3253786640514329

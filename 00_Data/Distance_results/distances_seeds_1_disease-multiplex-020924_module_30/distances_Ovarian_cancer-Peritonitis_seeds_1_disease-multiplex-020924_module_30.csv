@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Peritonitis nodes,sAB
+0,disease_on_genes,27,30,0.23333333333333317
+1,disease_on_symptoms,17,17,1.3235294117647058
+2,disease_on_drugs,25,28,1.1340970350404316

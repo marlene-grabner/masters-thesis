@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,-0.25
+1,disease_on_symptoms,17,22,0.09252022487316625
+2,disease_on_drugs,30,26,-0.05824175824175826

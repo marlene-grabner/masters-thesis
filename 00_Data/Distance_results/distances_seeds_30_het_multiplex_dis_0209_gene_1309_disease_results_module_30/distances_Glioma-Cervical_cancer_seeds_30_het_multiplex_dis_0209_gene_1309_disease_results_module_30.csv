@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,22,28,0.020000000000000018
+1,disease_on_symptoms,21,22,0.8649954696466324
+2,disease_on_drugs,21,15,0.1063492063492062

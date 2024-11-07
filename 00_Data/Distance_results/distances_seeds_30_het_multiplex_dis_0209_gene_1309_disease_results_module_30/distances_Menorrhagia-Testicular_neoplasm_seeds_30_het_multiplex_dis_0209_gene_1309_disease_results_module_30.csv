@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,0.1530769230769231
+1,disease_on_symptoms,16,26,0.8721382783882783
+2,disease_on_drugs,23,24,0.5336879432624111

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,15,23,0.06147978642257823
+2,disease_on_drugs,30,24,-0.050000000000000044

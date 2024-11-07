@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.0013736263736263687
+1,disease_on_symptoms,25,22,0.5540038684719537
+2,disease_on_drugs,30,25,0.026363636363636367

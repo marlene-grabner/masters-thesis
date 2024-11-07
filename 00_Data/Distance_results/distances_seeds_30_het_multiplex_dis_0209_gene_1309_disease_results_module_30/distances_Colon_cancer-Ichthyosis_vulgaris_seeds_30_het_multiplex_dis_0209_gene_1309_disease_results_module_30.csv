@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,26,27,0.018867924528301883
+1,disease_on_symptoms,22,21,0.6324624987415683
+2,disease_on_drugs,26,24,0.002115384615384519

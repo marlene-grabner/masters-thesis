@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,22,14,0.15800865800865793
+2,disease_on_drugs,26,25,-0.11927601809954735

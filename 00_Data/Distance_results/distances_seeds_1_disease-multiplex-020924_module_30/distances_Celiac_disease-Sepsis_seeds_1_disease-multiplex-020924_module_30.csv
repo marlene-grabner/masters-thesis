@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Sepsis nodes,sAB
+0,disease_on_genes,17,22,0.4172836966954614
+1,disease_on_symptoms,22,23,2.872463768115942
+2,disease_on_drugs,15,17,0.5953431372549018

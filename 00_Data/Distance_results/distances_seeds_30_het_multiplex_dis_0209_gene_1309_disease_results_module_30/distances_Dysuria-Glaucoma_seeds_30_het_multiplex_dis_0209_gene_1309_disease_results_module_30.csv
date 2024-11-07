@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,12,18,0.33333333333333326
+2,disease_on_drugs,21,28,0.0008503401360544505

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,0.16907219265709839
+1,disease_on_symptoms,17,21,1.7784903435058235
+2,disease_on_drugs,20,24,0.34280303030303005

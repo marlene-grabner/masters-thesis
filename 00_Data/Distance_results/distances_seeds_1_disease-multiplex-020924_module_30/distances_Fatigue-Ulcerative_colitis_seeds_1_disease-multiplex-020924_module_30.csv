@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,-0.09436650002687741
+1,disease_on_symptoms,21,20,1.0223867595818814
+2,disease_on_drugs,26,25,0.0007541478129715617

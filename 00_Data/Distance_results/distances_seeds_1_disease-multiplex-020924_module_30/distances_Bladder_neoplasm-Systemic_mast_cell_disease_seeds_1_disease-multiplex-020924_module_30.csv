@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,0.09373040752351103
+1,disease_on_symptoms,20,16,1.0041666666666664
+2,disease_on_drugs,25,25,0.6599999999999999

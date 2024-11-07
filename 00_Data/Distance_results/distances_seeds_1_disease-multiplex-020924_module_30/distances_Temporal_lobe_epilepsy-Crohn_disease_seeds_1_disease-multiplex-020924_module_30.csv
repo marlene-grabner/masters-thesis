@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,29,25,0.3939221427022337
+1,disease_on_symptoms,17,20,1.753656597774245
+2,disease_on_drugs,26,21,0.8905969916608212

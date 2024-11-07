@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Nocturia nodes,sAB
+0,disease_on_genes,27,25,-0.11764705882352944
+1,disease_on_symptoms,21,18,0.45482295482295476
+2,disease_on_drugs,25,24,-0.07884353741496586

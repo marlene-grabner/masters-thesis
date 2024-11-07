@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.18472222222222223
+1,disease_on_symptoms,20,19,0.7150134952766529
+2,disease_on_drugs,22,20,0.5928571428571427

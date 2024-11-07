@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Strabismus nodes,sAB
+0,disease_on_genes,25,17,-0.24929971988795518
+1,disease_on_symptoms,17,24,0.4644607843137254
+2,disease_on_drugs,21,16,-0.13372747747747726

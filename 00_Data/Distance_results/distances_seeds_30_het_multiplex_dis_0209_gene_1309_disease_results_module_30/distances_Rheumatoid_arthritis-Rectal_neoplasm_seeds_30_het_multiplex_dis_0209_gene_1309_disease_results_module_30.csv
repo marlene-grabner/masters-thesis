@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000155
+1,disease_on_symptoms,19,20,0.17763157894736858
+2,disease_on_drugs,30,29,0.066617962205338

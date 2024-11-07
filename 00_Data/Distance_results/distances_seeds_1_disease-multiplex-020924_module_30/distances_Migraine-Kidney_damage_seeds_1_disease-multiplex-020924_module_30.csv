@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.08666666666666667
+1,disease_on_symptoms,14,26,0.8618131868131866
+2,disease_on_drugs,29,13,0.5695970695970696

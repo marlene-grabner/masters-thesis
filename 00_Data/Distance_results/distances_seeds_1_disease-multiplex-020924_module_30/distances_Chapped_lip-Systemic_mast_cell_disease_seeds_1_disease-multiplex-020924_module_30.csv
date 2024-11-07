@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,0.14827586206896548
+1,disease_on_symptoms,21,16,1.389398326898327
+2,disease_on_drugs,24,25,0.36734693877551017

@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.07076719576719559
+1,disease_on_symptoms,19,27,0.8277820154250362
+2,disease_on_drugs,24,28,0.48099816849816857

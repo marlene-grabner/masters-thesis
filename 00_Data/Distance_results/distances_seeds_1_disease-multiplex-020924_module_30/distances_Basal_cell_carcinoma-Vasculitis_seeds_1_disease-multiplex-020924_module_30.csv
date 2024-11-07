@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.29993589743589744
+1,disease_on_symptoms,23,19,1.580091533180778
+2,disease_on_drugs,25,20,0.6833333333333333

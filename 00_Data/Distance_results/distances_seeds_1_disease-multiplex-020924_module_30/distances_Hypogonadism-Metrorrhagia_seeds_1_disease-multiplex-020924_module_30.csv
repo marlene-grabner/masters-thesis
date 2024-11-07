@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,-0.4464285714285714
+1,disease_on_symptoms,12,17,-0.47785665990534154
+2,disease_on_drugs,30,26,-0.41227106227106225

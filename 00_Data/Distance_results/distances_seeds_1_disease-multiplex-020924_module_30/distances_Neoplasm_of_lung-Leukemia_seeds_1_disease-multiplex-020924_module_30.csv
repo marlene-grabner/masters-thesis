@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,-0.016666666666666607
+1,disease_on_symptoms,20,27,0.3798069345941686
+2,disease_on_drugs,30,17,0.12914059240717557

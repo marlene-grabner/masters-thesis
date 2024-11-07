@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,28,17,0.14117647058823524
+1,disease_on_symptoms,23,22,1.4961352657004832
+2,disease_on_drugs,26,15,0.26966854283927466

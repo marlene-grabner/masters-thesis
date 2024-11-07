@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.10536062378167643
+1,disease_on_symptoms,18,19,0.26675359570096413
+2,disease_on_drugs,26,24,0.027371794871794863

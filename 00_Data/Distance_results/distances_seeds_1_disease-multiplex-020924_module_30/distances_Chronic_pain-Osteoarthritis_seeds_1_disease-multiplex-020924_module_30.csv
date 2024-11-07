@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,-0.1836363636363637
+1,disease_on_symptoms,22,20,0.16038961038961053
+2,disease_on_drugs,28,21,-0.03826530612244894

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Constipation nodes,sAB
+0,disease_on_genes,26,30,0.1385531135531135
+1,disease_on_symptoms,28,17,0.6841503267973854
+2,disease_on_drugs,23,27,0.8997423510466989

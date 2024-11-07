@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,22,27,0.23708170136741558
+1,disease_on_symptoms,23,21,1.4534161490683228
+2,disease_on_drugs,17,27,0.6229946524064172

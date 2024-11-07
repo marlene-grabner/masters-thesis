@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,20,19,0.6352564102564102
+2,disease_on_drugs,29,29,0.0862068965517242

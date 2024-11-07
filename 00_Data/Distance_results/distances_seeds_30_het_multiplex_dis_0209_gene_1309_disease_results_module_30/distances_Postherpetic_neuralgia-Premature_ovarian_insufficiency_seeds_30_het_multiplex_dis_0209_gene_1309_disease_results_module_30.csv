@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,18,-0.09640522875817004
+2,disease_on_drugs,29,22,-0.11269899809453565

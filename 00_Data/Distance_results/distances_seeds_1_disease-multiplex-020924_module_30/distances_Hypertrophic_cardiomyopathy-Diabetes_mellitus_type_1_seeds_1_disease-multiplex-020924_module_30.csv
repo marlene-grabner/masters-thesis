@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,0.4791890280262374
+1,disease_on_symptoms,17,25,4.1296918767507
+2,disease_on_drugs,17,8,0.72

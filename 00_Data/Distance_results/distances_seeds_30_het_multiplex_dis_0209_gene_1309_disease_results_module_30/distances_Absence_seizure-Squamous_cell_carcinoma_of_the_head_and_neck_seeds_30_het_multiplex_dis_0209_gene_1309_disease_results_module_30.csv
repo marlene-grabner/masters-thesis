@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,14,22,0.9462481962481963
+2,disease_on_drugs,22,30,-0.032517482517482765

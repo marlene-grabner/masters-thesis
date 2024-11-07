@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,14,17,0.8222417999457847
+2,disease_on_drugs,28,22,0.025844155844156003

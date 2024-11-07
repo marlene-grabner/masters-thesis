@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,21,23,0.43172407302842086
+1,disease_on_symptoms,20,25,2.352222222222222
+2,disease_on_drugs,19,18,0.8355855855855854

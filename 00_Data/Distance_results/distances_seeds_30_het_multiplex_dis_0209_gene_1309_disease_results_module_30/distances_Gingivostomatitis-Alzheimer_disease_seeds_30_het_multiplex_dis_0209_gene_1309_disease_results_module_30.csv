@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.2619496855345911
+1,disease_on_symptoms,15,19,-0.006295149638803066
+2,disease_on_drugs,30,19,-0.1987647690655211

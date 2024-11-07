@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.05522911051212942
+1,disease_on_symptoms,19,25,0.46622009569377987
+2,disease_on_drugs,24,23,0.3603145235892693

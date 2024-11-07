@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.007575757575757569
+1,disease_on_symptoms,20,23,1.18159757330637
+2,disease_on_drugs,27,20,0.35425531914893615

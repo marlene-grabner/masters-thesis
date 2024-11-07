@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.05555555555555558
+1,disease_on_symptoms,22,22,0.4318181818181819
+2,disease_on_drugs,29,21,-0.14801313628899848

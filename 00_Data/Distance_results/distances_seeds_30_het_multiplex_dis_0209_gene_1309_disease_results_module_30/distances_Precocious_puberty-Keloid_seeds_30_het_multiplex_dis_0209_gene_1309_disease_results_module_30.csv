@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.018867924528301883
+1,disease_on_symptoms,16,17,0.7816399286987523
+2,disease_on_drugs,27,22,0.2705455919741633

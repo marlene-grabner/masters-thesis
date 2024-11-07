@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,0.09111111111111114
+1,disease_on_symptoms,23,26,0.8780629308579617
+2,disease_on_drugs,26,24,0.4012820512820512

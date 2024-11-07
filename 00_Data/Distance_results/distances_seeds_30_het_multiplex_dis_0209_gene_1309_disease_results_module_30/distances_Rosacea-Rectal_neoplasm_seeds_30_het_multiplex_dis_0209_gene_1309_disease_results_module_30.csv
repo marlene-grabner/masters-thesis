@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666674
+1,disease_on_symptoms,18,20,0.07675438596491246
+2,disease_on_drugs,30,29,0.034697058250535706

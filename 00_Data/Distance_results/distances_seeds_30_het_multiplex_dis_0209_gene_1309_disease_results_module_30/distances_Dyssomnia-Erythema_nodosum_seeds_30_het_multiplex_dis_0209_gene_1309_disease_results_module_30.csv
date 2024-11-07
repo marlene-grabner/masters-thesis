@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,18,30,0.02083333333333326
+1,disease_on_symptoms,21,22,0.7762760495318632
+2,disease_on_drugs,17,29,0.40224005644236693

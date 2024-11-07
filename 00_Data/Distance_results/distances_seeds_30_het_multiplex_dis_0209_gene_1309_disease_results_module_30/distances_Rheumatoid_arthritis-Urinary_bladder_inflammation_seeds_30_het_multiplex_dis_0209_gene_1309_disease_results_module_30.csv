@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,19,16,-0.19647556390977416
+2,disease_on_drugs,30,29,-0.13618741476719287

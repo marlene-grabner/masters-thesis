@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.35068226120857693
+1,disease_on_symptoms,17,16,1.2371323529411766
+2,disease_on_drugs,17,27,0.8265993265993263

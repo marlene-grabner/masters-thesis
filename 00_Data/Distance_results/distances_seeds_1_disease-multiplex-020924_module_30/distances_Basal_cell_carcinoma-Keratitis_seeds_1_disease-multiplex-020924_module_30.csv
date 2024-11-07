@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.05616605616605619
+1,disease_on_symptoms,23,25,0.6753985507246378
+2,disease_on_drugs,25,23,0.30978260869565233

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.2786549707602337
+1,disease_on_symptoms,17,15,1.1910539215686278
+2,disease_on_drugs,24,21,0.8206349206349208

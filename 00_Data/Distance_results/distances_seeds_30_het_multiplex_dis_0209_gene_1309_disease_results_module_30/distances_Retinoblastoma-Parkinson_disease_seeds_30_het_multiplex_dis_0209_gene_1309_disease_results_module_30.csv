@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.018867924528301883
+1,disease_on_symptoms,21,23,0.7571522680218332
+2,disease_on_drugs,27,22,0.44623101765958895

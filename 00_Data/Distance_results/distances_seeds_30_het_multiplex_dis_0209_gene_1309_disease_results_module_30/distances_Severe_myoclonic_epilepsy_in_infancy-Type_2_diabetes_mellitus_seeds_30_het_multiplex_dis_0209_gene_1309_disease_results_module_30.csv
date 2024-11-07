@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,14,16,0.519940476190476
+2,disease_on_drugs,21,27,0.16005291005291022

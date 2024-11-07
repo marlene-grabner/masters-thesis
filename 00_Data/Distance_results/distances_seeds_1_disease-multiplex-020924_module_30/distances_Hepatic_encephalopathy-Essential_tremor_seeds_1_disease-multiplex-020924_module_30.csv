@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,9,21,0.25555555555555576
+1,disease_on_symptoms,27,20,1.2032505910165485
+2,disease_on_drugs,9,19,0.8665413533834587

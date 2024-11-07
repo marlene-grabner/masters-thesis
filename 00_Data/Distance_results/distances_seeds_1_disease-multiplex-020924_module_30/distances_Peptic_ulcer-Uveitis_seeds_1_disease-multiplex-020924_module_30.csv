@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Uveitis nodes,sAB
+0,disease_on_genes,28,30,0.04860426929392436
+1,disease_on_symptoms,14,21,0.8642857142857141
+2,disease_on_drugs,28,27,0.436026936026936

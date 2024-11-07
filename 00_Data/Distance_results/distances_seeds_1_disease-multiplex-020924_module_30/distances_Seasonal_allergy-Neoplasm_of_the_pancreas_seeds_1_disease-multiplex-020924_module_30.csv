@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,29,30,0.1174751607247222
+1,disease_on_symptoms,15,20,0.3928571428571428
+2,disease_on_drugs,29,30,0.40648743424897726

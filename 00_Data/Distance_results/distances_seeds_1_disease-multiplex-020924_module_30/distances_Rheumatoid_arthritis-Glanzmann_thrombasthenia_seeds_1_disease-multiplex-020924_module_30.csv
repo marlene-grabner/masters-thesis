@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,0.11968954248366015
+1,disease_on_symptoms,15,21,1.3087301587301587
+2,disease_on_drugs,25,24,0.467670068027211

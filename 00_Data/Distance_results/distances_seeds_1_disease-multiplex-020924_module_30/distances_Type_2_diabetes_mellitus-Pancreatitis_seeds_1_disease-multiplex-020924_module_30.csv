@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,16,30,-0.015036231884058004
+1,disease_on_symptoms,21,20,2.901016260162602
+2,disease_on_drugs,15,30,0.9111111111111112

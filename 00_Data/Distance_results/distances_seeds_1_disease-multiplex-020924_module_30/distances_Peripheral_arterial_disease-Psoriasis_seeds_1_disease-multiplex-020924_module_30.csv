@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Psoriasis nodes,sAB
+0,disease_on_genes,25,28,0.24504043126684638
+1,disease_on_symptoms,14,21,0.7309523809523808
+2,disease_on_drugs,22,28,0.8642857142857143

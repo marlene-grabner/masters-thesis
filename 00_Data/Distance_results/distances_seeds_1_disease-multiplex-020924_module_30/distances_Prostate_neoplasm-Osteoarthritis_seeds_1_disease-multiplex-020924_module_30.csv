@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,17,25,0.1242577030812324
+1,disease_on_symptoms,21,20,1.0462253193960511
+2,disease_on_drugs,17,21,0.651702786377709

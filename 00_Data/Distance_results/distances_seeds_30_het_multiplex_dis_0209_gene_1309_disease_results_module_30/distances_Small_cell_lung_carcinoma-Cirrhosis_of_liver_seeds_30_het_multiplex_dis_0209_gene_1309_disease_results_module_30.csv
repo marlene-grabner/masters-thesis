@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,19,19,-0.5526315789473686
+2,disease_on_drugs,30,30,-0.2666666666666666

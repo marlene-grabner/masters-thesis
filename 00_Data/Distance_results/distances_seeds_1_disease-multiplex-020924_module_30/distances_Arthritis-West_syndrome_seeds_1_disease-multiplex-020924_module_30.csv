@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.5084745762711864
+1,disease_on_symptoms,19,18,1.3759285601390867
+2,disease_on_drugs,29,22,0.5561189993238675

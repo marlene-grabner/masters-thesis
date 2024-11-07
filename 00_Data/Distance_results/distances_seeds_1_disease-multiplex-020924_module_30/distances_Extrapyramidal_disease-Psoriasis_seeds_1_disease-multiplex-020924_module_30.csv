@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Psoriasis nodes,sAB
+0,disease_on_genes,14,28,0.4285714285714286
+1,disease_on_symptoms,25,21,2.379958592132505
+2,disease_on_drugs,10,28,1.124812030075188

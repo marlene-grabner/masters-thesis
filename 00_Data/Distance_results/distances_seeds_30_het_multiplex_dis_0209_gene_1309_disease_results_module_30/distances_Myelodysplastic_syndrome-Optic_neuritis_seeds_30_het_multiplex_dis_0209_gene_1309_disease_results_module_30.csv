@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.1132075471698113
+1,disease_on_symptoms,17,21,-0.06766917293233088
+2,disease_on_drugs,24,27,-0.1620370370370372

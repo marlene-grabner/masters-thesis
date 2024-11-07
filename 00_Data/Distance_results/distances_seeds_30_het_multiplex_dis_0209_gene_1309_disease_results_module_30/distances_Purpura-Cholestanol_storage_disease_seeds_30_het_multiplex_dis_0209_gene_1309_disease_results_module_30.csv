@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,27,29,0.05352581645685084
+1,disease_on_symptoms,17,18,0.6579365079365078
+2,disease_on_drugs,24,28,0.24381868131868134

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,27,30,-0.2485380116959065
+1,disease_on_symptoms,18,22,0.040656565656565835
+2,disease_on_drugs,25,29,-0.15044699872286071

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,26,28,-0.2585978835978835
+1,disease_on_symptoms,21,24,-0.010714285714285676
+2,disease_on_drugs,24,28,-0.22802197802197788

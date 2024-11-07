@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,25,25,0.15999999999999992
+1,disease_on_symptoms,17,20,1.59912559618442
+2,disease_on_drugs,25,18,0.466485788113695

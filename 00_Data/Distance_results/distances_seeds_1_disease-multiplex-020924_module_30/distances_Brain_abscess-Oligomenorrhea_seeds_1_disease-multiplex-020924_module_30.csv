@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,28,0.3077441077441079
+1,disease_on_symptoms,21,12,1.4945887445887447
+2,disease_on_drugs,23,21,0.820863918690006

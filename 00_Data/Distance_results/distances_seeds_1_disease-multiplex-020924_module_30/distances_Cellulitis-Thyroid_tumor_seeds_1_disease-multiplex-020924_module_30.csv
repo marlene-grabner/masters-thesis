@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,22,23,0.24430641821946164
+1,disease_on_symptoms,26,20,0.6611204013377927
+2,disease_on_drugs,12,20,1.56875

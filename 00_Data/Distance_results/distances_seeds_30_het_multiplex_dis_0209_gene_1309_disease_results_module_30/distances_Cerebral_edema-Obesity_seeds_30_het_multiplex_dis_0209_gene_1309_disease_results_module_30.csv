@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.26608187134502925
+1,disease_on_symptoms,10,18,-0.30317460317460276
+2,disease_on_drugs,16,25,-0.269969512195122

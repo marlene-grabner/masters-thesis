@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,18,17,0.08762838468720835
+2,disease_on_drugs,30,25,0.0845454545454547

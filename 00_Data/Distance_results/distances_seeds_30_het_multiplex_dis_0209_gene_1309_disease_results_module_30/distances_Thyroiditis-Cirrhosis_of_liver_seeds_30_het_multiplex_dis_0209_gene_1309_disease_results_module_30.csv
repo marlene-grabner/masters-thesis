@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,21,19,-0.4838972431077695
+2,disease_on_drugs,29,30,-0.08595363335281525

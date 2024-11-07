@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.013333333333333197
+1,disease_on_symptoms,25,23,0.6503985507246379
+2,disease_on_drugs,26,17,0.5252288750920759

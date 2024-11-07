@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.3843822843822844
+1,disease_on_symptoms,20,19,2.2588056680161945
+2,disease_on_drugs,30,18,0.4930555555555556

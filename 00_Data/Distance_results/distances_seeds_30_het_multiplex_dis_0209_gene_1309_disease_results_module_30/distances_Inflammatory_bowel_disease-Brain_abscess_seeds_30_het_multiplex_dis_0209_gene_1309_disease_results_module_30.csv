@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,20,21,0.6997967479674796
+2,disease_on_drugs,27,23,-0.03590982286634459

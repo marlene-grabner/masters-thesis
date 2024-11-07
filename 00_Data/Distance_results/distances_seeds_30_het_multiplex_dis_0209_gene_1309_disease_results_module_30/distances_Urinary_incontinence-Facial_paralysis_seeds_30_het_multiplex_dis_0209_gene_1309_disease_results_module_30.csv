@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,29,22,0.019607843137254832
+1,disease_on_symptoms,20,21,0.5903600464576075
+2,disease_on_drugs,20,17,0.02893481717011137

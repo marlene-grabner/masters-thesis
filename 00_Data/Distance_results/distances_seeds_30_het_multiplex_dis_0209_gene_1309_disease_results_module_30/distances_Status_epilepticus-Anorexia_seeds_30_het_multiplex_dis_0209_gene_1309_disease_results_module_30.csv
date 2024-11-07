@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.27147866744593796
+1,disease_on_symptoms,18,13,0.03467052660601033
+2,disease_on_drugs,30,28,-0.1386699507389163

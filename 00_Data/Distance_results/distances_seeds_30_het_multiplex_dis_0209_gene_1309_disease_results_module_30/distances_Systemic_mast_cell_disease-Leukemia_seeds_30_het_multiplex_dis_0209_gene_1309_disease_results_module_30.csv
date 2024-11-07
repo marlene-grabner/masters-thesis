@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,30,-0.15254237288135597
+1,disease_on_symptoms,25,21,0.2679503105590062
+2,disease_on_drugs,21,30,-0.0091036414565826

@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,26,30,-0.1071428571428571
+1,disease_on_symptoms,22,16,0.1547547846889954
+2,disease_on_drugs,26,27,0.01704026232328104

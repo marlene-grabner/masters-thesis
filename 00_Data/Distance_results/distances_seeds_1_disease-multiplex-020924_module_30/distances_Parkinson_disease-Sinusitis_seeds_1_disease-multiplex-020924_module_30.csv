@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Sinusitis nodes,sAB
+0,disease_on_genes,21,29,0.30446633825944147
+1,disease_on_symptoms,20,21,1.5631242740998839
+2,disease_on_drugs,19,28,0.9251519756838906

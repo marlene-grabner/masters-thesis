@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,29,30,0.4067796610169492
+1,disease_on_symptoms,23,24,0.616346746839346
+2,disease_on_drugs,26,15,0.2634771732332708

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.670631665299426
+1,disease_on_symptoms,9,20,0.8211685823754791
+2,disease_on_drugs,11,20,0.9295454545454547

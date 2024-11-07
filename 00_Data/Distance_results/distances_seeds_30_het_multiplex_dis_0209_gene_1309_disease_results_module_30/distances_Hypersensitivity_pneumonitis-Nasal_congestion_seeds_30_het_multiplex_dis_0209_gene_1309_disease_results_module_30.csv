@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,25,30,-0.18181818181818177
+1,disease_on_symptoms,20,14,-0.0821428571428573
+2,disease_on_drugs,25,25,-0.26

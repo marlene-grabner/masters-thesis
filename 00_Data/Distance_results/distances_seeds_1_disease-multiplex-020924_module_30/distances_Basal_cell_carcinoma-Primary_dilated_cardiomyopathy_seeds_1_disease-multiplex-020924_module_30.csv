@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.5164835164835166
+1,disease_on_symptoms,23,25,2.500398550724638
+2,disease_on_drugs,25,7,1.5535714285714286

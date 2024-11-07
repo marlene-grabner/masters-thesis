@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.08928571428571419
+1,disease_on_symptoms,17,20,1.550914149443561
+2,disease_on_drugs,24,27,0.4332788671023966

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,17,30,-0.1393115942028984
+1,disease_on_symptoms,27,16,-0.000995908699397141
+2,disease_on_drugs,14,30,-0.19480519480519465

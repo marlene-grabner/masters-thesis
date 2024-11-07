@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,24,27,0.37472766884531583
+1,disease_on_symptoms,23,20,2.595020222446916
+2,disease_on_drugs,22,15,1.054054054054054

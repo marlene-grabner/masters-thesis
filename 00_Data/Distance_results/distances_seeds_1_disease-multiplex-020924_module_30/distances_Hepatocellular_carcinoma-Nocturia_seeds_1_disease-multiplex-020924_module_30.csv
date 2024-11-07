@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Nocturia nodes,sAB
+0,disease_on_genes,23,21,0.28233627547128703
+1,disease_on_symptoms,19,24,1.9038402692778458
+2,disease_on_drugs,19,14,0.7413419913419912

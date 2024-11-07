@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,-0.09065934065934056
+1,disease_on_symptoms,21,17,0.04172195193867001
+2,disease_on_drugs,29,24,0.03699034916504007

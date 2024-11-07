@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.30833333333333335
+1,disease_on_symptoms,25,27,0.6666951566951567
+2,disease_on_drugs,26,9,0.38076923076923075

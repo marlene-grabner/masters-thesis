@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,30,0.0
+1,disease_on_symptoms,20,15,0.43690476190476213
+2,disease_on_drugs,23,25,0.04304347826086952

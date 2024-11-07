@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,17,0.13124802693886117
+1,disease_on_symptoms,22,24,1.7845026350461133
+2,disease_on_drugs,25,16,0.4154573170731706

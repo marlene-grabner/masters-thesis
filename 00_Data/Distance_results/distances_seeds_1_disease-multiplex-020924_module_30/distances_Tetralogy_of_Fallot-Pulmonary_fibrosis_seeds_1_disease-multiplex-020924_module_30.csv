@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,24,0.4273148148148147
+1,disease_on_symptoms,14,22,1.9704184704184706
+2,disease_on_drugs,11,24,0.6285714285714286

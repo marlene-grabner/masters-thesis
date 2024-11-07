@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.05458089668616006
+1,disease_on_symptoms,17,21,0.41898864809081515
+2,disease_on_drugs,24,25,0.08032312925170082

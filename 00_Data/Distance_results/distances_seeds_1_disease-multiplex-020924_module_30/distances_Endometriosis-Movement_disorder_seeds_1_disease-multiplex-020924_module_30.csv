@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,0.55
+1,disease_on_symptoms,12,22,0.8988413547237077
+2,disease_on_drugs,27,15,0.8047619047619046

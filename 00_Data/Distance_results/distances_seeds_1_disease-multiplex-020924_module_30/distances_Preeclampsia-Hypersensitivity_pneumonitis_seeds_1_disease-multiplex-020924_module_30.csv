@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,24,0.28
+1,disease_on_symptoms,17,23,1.6388107416879794
+2,disease_on_drugs,23,24,0.5740055504162811

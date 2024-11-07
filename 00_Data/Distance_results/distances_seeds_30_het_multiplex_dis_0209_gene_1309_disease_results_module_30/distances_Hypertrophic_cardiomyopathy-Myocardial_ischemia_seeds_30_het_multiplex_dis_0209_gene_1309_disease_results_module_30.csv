@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,19,19,-0.21052631578947345
+2,disease_on_drugs,22,30,-0.29906759906759917

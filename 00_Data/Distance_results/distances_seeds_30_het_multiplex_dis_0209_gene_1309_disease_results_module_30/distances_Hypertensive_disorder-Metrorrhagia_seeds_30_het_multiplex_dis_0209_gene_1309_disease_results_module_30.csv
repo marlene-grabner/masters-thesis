@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,29,-0.2407407407407407
+1,disease_on_symptoms,21,17,-0.1584107327141382
+2,disease_on_drugs,26,26,-0.21153846153846145

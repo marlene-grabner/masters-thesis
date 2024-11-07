@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,17,14,0.3371509894280291
+2,disease_on_drugs,26,24,-0.1795512820512819

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,29,30,0.1855639976621859
+1,disease_on_symptoms,21,17,0.4120595606663717
+2,disease_on_drugs,28,25,0.8641644204851753

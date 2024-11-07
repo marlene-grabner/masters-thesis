@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Orchitis nodes,sAB
+0,disease_on_genes,27,23,0.365925925925926
+1,disease_on_symptoms,19,16,2.154276315789474
+2,disease_on_drugs,20,17,0.6188791732909378

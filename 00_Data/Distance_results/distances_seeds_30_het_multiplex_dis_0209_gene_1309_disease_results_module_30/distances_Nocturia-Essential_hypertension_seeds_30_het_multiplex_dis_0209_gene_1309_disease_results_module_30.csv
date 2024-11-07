@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,25,28,-0.11538461538461542
+1,disease_on_symptoms,18,13,0.7176730079955886
+2,disease_on_drugs,24,28,-0.07509157509157505

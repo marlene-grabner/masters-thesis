@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,23,20,0.30513144590495456
+1,disease_on_symptoms,21,23,1.072463768115942
+2,disease_on_drugs,19,18,0.7297297297297298

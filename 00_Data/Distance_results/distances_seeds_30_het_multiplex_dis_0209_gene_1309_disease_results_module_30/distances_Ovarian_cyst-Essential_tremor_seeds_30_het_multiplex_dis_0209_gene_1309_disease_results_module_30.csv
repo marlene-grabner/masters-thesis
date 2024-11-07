@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.1313725490196077
+1,disease_on_symptoms,19,23,0.4994006756020488
+2,disease_on_drugs,24,21,0.0003968253968253954

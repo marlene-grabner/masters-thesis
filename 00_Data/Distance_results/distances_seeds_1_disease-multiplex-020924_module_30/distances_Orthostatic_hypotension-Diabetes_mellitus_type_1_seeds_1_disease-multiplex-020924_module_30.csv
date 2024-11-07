@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,0.33306499701848535
+1,disease_on_symptoms,12,25,3.175900900900901
+2,disease_on_drugs,17,8,1.210588235294118

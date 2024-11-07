@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,22,30,-0.11538461538461542
+1,disease_on_symptoms,21,14,0.5785714285714283
+2,disease_on_drugs,21,25,0.0077018633540373305

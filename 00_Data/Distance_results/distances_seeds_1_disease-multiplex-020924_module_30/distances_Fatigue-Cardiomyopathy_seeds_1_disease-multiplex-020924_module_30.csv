@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,0.05879336349924591
+1,disease_on_symptoms,21,17,0.6806722689075628
+2,disease_on_drugs,26,24,0.3798717948717949

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Back_pain nodes,sAB
+0,disease_on_genes,21,30,0.12815126050420167
+1,disease_on_symptoms,20,16,1.2423611111111112
+2,disease_on_drugs,19,23,0.4761904761904763

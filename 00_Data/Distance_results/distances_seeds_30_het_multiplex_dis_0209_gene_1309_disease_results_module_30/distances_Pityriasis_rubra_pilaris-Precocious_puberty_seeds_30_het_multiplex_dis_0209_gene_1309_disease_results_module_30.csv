@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,0.12085769980506811
+1,disease_on_symptoms,21,16,0.3288288288288288
+2,disease_on_drugs,25,27,0.4436182336182337

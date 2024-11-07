@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Pain nodes,sAB
+0,disease_on_genes,27,26,-0.09433962264150941
+1,disease_on_symptoms,21,16,1.4608671171171173
+2,disease_on_drugs,23,26,-0.23191249744044762

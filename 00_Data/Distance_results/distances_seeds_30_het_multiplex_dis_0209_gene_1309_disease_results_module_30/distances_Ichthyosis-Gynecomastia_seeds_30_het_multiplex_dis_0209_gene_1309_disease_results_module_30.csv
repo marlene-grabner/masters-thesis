@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,28,30,-0.12130541871921174
+1,disease_on_symptoms,18,15,0.3459595959595958
+2,disease_on_drugs,25,29,0.15008939974457203

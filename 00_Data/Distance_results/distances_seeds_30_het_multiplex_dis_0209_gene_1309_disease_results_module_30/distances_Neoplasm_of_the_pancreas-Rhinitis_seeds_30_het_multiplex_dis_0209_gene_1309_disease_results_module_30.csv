@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,20,12,-0.17708333333333304
+2,disease_on_drugs,30,23,0.40159967186218215

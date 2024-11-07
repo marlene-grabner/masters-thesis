@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.16081871345029242
+1,disease_on_symptoms,22,19,0.2518671957054499
+2,disease_on_drugs,20,30,-0.11166666666666658

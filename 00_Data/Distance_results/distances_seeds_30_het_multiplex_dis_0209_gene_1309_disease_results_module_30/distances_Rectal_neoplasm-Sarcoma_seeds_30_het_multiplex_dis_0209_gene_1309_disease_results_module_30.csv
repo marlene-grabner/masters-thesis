@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,20,23,-0.3441607684529828
+2,disease_on_drugs,29,24,-0.3849490349165039

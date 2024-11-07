@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,0.35593220338983045
+1,disease_on_symptoms,16,13,0.8984582228116711
+2,disease_on_drugs,26,23,0.5062111801242237

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.2142857142857142
+1,disease_on_symptoms,13,18,1.4649159084642953
+2,disease_on_drugs,19,26,0.2904633378317589

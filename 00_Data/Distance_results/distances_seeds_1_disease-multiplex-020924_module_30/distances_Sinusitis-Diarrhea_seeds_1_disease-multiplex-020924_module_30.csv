@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,29,27,-0.19788815909505564
+1,disease_on_symptoms,21,19,-0.17625313283208022
+2,disease_on_drugs,28,26,-0.14687627187627206

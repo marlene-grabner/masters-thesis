@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,25,30,-0.1636363636363637
+1,disease_on_symptoms,19,18,0.6774537695590328
+2,disease_on_drugs,23,25,0.08644927536231894

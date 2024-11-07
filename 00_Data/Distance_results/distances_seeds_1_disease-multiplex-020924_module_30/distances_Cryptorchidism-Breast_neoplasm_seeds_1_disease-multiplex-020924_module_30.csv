@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,23,30,-0.2797202797202799
+1,disease_on_symptoms,18,16,-0.16033496732026142
+2,disease_on_drugs,18,30,-0.3125

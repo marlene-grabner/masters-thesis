@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,26,19,0.08479532163742709
+1,disease_on_symptoms,17,21,0.4483266991006931
+2,disease_on_drugs,25,17,0.4323809523809523

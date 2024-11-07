@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,25,27,0.43846153846153846
+1,disease_on_symptoms,23,17,1.6914322250639389
+2,disease_on_drugs,19,25,1.4090909090909092

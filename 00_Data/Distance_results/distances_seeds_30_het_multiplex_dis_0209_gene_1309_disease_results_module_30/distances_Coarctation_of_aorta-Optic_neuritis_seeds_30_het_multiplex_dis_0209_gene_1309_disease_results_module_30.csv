@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.22222222222222232
+1,disease_on_symptoms,19,21,0.2757518796992482
+2,disease_on_drugs,24,27,-0.082380174291939

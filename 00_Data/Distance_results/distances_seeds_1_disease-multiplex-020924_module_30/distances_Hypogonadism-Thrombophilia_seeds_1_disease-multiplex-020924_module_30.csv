@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.3564814814814814
+1,disease_on_symptoms,12,18,2.3055555555555554
+2,disease_on_drugs,30,21,0.5435574229691875

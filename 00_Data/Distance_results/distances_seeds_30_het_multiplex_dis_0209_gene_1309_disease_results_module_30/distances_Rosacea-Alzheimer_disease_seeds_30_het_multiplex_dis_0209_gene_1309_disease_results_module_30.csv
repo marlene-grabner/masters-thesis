@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.29968553459119496
+1,disease_on_symptoms,18,19,0.37422949265054517
+2,disease_on_drugs,30,19,-0.2208736126029357

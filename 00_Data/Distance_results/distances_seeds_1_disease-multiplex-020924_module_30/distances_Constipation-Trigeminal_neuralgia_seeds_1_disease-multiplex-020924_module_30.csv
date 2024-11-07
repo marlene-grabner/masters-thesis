@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.06769293924466324
+1,disease_on_symptoms,17,19,0.1652906776745786
+2,disease_on_drugs,27,26,0.24526958017524048

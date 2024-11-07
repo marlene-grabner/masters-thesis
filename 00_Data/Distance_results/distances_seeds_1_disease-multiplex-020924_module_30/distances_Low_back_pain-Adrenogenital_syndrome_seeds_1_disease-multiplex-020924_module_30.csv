@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.41666666666666674
+1,disease_on_symptoms,17,7,0.6547619047619049
+2,disease_on_drugs,26,22,0.3956876456876459

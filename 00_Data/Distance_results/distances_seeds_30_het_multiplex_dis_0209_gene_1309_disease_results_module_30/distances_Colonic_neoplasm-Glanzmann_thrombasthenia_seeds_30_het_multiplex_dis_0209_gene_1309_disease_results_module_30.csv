@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.0018518518518519933
+1,disease_on_symptoms,19,19,0.36842105263157876
+2,disease_on_drugs,29,24,0.4296925829538063

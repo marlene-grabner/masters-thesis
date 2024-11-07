@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,29,21,0.06000000000000005
+1,disease_on_symptoms,14,22,0.7828282828282827
+2,disease_on_drugs,22,19,0.12895320340763217

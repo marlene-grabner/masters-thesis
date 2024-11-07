@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.12130541871921174
+1,disease_on_symptoms,25,15,0.018333333333333313
+2,disease_on_drugs,30,23,-0.21817063166529937

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,29,-0.03390804597701158
+1,disease_on_symptoms,18,20,0.44488304093567255
+2,disease_on_drugs,26,24,-0.034294871794871895

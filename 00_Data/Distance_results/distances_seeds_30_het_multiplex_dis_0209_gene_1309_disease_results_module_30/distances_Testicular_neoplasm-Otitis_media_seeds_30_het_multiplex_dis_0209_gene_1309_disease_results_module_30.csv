@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,0.11090676883780337
+1,disease_on_symptoms,26,20,1.0709866220735784
+2,disease_on_drugs,24,28,0.5801282051282051

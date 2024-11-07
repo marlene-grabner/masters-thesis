@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.001984126984126977
+1,disease_on_symptoms,17,14,1.1523448088912986
+2,disease_on_drugs,25,28,0.3971159029649596

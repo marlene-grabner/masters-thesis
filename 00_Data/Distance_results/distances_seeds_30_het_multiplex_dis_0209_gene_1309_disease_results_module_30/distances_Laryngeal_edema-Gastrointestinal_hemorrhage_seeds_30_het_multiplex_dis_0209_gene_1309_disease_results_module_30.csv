@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.1724548440065683
+1,disease_on_symptoms,16,20,0.0673611111111112
+2,disease_on_drugs,28,27,0.01843434343434347

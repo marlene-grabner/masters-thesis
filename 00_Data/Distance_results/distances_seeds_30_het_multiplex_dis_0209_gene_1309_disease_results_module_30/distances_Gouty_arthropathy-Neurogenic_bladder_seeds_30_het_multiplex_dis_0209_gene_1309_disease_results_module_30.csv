@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,28,30,0.22413793103448265
+1,disease_on_symptoms,18,18,0.7500000000000004
+2,disease_on_drugs,23,21,0.18195934500282318

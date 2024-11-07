@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,30,-0.07554945054945061
+1,disease_on_symptoms,16,17,1.0354278074866312
+2,disease_on_drugs,26,25,0.020648567119155414

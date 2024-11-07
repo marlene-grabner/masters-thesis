@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,29,30,0.1694915254237288
+1,disease_on_symptoms,14,24,-0.04495614035087714
+2,disease_on_drugs,22,15,0.1258804258804258

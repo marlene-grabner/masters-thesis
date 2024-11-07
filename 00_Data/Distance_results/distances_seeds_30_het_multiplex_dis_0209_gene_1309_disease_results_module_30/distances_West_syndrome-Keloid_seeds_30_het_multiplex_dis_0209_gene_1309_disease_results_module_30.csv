@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.07547169811320753
+1,disease_on_symptoms,13,17,1.7161387631975864
+2,disease_on_drugs,19,22,0.457375423036527

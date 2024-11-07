@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.14000000000000012
+1,disease_on_symptoms,23,23,1.2826086956521738
+2,disease_on_drugs,19,20,0.9756410256410255

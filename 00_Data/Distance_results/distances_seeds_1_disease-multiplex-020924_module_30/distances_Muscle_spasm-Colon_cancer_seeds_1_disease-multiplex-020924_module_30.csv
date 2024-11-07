@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,25,26,0.2729260935143287
+1,disease_on_symptoms,23,21,1.5683229813664596
+2,disease_on_drugs,19,24,1.3720930232558142

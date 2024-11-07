@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,23,28,-0.05707282913165257
+1,disease_on_symptoms,23,15,0.506559877955759
+2,disease_on_drugs,22,23,0.04633289415898112

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,21,24,0.04285714285714293
+1,disease_on_symptoms,20,19,0.37560728744939276
+2,disease_on_drugs,21,24,0.3121031746031746

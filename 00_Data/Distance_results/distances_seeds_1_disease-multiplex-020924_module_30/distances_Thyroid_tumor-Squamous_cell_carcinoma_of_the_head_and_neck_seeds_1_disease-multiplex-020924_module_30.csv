@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,23,21,-0.17993600602296256
+1,disease_on_symptoms,20,25,0.016111111111110965
+2,disease_on_drugs,20,21,-0.12256097560975598

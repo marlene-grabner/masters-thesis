@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.09500957068635496
+1,disease_on_symptoms,15,19,0.6639834881320952
+2,disease_on_drugs,30,21,0.12366946778711485

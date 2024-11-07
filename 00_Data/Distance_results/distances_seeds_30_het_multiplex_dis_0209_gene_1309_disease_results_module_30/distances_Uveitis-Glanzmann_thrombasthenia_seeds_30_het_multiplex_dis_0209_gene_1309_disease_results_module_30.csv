@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.09259259259259256
+1,disease_on_symptoms,20,19,0.7916329284750336
+2,disease_on_drugs,23,24,0.10401248843663291

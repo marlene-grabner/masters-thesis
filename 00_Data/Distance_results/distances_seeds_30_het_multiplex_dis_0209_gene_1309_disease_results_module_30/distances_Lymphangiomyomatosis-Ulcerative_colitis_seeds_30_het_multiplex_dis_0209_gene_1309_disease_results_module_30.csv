@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,-0.019230769230769162
+1,disease_on_symptoms,17,20,0.5950715421303654
+2,disease_on_drugs,24,27,0.16789215686274495

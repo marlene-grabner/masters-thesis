@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,20,19,0.02047908232118756
+2,disease_on_drugs,30,28,0.06773399014778336

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,25,26,0.25254901960784304
+1,disease_on_symptoms,16,17,1.90975935828877
+2,disease_on_drugs,17,23,0.6738491048593351

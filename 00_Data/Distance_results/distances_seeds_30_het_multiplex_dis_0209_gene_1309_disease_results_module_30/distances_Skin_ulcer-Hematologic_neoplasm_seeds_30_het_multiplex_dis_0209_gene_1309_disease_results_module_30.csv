@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,18,0.3175438596491227
+2,disease_on_drugs,24,27,-0.014705882352941124

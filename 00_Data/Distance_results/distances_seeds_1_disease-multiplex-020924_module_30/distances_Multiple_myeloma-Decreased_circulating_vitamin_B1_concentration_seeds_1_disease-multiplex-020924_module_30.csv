@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,25,0.2129411764705882
+1,disease_on_symptoms,21,13,2.3559577677224732
+2,disease_on_drugs,25,16,0.5461280487804878

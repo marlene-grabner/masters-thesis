@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,13,25,0.3509311740890688
+1,disease_on_symptoms,26,21,1.543157197412517
+2,disease_on_drugs,9,20,0.7125478927203064

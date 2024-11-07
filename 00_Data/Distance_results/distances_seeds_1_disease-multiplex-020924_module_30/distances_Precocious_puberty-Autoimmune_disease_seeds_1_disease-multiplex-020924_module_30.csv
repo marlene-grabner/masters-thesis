@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.43344988344988344
+1,disease_on_symptoms,14,19,1.1098200045568465
+2,disease_on_drugs,24,19,0.8341493268053857

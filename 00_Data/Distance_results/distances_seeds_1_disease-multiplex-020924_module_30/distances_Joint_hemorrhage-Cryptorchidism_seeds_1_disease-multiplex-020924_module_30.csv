@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.4779720279720281
+1,disease_on_symptoms,13,18,1.9729804245933278
+2,disease_on_drugs,18,18,0.7499999999999998

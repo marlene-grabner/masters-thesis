@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,23,29,-0.40185676392572933
+1,disease_on_symptoms,23,18,-0.558530694002592
+2,disease_on_drugs,22,28,-0.3525974025974026

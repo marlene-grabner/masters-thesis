@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,23,0.6226415094339623
+1,disease_on_symptoms,9,24,0.47664141414141437
+2,disease_on_drugs,11,22,0.8712121212121213

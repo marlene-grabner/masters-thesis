@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,21,27,0.04166666666666674
+1,disease_on_symptoms,22,21,1.1375717305949866
+2,disease_on_drugs,19,27,0.11399271124671584

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.14935064935064923
+1,disease_on_symptoms,18,26,-0.521950271950272
+2,disease_on_drugs,30,14,0.0051948051948049745

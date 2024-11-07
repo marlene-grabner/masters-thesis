@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.35
+1,disease_on_symptoms,17,22,-0.31177156177156196
+2,disease_on_drugs,26,28,-0.20802808302808296

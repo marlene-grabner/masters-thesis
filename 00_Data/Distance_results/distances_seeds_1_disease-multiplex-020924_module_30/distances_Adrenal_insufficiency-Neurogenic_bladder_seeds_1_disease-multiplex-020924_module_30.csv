@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,17,30,0.08443888193575311
+1,disease_on_symptoms,21,17,0.6406457319770014
+2,disease_on_drugs,14,26,0.5

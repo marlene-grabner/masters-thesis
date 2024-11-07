@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.12463768115942009
+1,disease_on_symptoms,20,23,1.9420626895854398
+2,disease_on_drugs,19,20,0.5910256410256409

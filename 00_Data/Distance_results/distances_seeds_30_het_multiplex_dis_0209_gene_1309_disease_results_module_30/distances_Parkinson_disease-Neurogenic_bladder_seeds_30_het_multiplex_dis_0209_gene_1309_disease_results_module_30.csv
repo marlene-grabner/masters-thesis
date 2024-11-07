@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,23,30,-0.16981132075471694
+1,disease_on_symptoms,23,18,0.0478378696830446
+2,disease_on_drugs,22,21,-0.30625188764723654

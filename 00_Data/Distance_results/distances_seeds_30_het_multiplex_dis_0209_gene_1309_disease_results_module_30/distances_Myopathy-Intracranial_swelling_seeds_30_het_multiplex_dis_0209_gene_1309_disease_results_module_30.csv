@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,23,30,-0.26415094339622647
+1,disease_on_symptoms,22,11,-0.2272727272727273
+2,disease_on_drugs,21,21,-0.5714285714285715

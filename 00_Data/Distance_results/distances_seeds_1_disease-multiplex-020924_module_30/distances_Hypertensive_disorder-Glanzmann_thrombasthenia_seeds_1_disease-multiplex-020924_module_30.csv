@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,26,24,0.03916666666666657
+1,disease_on_symptoms,15,21,0.8142857142857141
+2,disease_on_drugs,26,24,0.07583333333333342

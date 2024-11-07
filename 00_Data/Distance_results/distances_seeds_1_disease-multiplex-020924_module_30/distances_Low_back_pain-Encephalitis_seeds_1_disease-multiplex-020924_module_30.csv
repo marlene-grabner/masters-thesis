@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.2752052545155994
+1,disease_on_symptoms,17,17,1.2941176470588236
+2,disease_on_drugs,26,18,0.5244755244755246

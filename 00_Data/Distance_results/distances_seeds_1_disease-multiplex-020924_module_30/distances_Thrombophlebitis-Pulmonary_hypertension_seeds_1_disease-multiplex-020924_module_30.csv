@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,28,28,-0.1071428571428572
+1,disease_on_symptoms,15,20,1.0761904761904764
+2,disease_on_drugs,21,28,-0.04081632653061229

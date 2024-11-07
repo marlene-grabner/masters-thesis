@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,25,30,-0.001818181818181941
+1,disease_on_symptoms,23,17,0.5858695652173915
+2,disease_on_drugs,24,26,0.4830128205128206

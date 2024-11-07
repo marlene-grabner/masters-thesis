@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,-0.13620689655172413
+1,disease_on_symptoms,19,22,0.6050297584315556
+2,disease_on_drugs,20,15,-0.14880952380952395

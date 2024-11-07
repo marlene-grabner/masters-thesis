@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,20,16,-0.14166666666666683
+2,disease_on_drugs,27,29,-0.22664659733625248

@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,21,22,0.2541528239202657
+1,disease_on_symptoms,26,24,0.8989102564102565
+2,disease_on_drugs,20,19,0.45883940620782737

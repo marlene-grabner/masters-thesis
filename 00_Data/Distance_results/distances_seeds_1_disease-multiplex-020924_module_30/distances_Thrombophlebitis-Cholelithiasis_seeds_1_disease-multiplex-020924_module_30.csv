@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,28,25,0.6035309973045824
+1,disease_on_symptoms,15,19,1.9909184726522187
+2,disease_on_drugs,21,18,1.5876068376068377

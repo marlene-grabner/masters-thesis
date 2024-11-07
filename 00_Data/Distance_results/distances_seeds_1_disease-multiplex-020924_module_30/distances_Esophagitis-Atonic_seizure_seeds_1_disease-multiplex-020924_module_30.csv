@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,24,29,0.2854342059739361
+1,disease_on_symptoms,23,16,1.153428093645485
+2,disease_on_drugs,20,24,0.656818181818182

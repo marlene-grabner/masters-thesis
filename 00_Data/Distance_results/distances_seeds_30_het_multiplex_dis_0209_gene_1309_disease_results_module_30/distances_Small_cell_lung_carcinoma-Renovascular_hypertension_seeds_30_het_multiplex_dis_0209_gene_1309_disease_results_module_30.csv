@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,17,0.20674234606123143
+2,disease_on_drugs,30,29,-0.03570037015390626

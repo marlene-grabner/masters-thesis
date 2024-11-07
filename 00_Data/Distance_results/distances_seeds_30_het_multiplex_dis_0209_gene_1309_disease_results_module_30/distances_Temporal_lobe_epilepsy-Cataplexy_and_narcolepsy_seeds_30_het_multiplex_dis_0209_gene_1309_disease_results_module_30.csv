@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.054545454545454564
+1,disease_on_symptoms,17,19,1.6889404884760923
+2,disease_on_drugs,28,18,-0.0658212560386473

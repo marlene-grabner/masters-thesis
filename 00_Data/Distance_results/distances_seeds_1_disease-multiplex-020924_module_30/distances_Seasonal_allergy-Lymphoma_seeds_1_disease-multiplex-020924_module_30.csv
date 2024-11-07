@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,29,26,0.0027128044369422177
+1,disease_on_symptoms,15,21,0.29682539682539666
+2,disease_on_drugs,29,25,0.09090676883780335

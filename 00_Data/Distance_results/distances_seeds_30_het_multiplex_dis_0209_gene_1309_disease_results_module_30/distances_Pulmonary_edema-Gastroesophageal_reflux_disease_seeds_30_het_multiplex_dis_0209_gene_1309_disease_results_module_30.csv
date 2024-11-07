@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,0.12362637362637363
+1,disease_on_symptoms,11,18,0.3222744688261927
+2,disease_on_drugs,27,25,0.3252136752136754

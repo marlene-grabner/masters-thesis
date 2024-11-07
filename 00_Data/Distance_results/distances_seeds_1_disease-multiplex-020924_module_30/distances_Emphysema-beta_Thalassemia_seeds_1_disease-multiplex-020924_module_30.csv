@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.5113053613053613
+1,disease_on_symptoms,14,21,2.6166666666666663
+2,disease_on_drugs,29,6,0.9761904761904763

@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,16,18,-0.22365196078431349
+2,disease_on_drugs,28,29,-0.297402990234206

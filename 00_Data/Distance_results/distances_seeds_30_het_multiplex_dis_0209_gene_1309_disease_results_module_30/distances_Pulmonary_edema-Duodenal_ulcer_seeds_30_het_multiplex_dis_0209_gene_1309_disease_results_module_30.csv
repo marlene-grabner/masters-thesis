@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.051724137931034475
+1,disease_on_symptoms,11,17,-0.00916730328495019
+2,disease_on_drugs,27,28,-0.07146464646464645

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.24173913043478268
+1,disease_on_symptoms,18,19,0.29781096886360037
+2,disease_on_drugs,22,22,-0.4545454545454546

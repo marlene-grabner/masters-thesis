@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.14579831932773102
+1,disease_on_symptoms,18,26,1.185703185703186
+2,disease_on_drugs,25,12,0.8518918918918919

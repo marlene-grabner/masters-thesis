@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,14,27,-0.180249064395406
+2,disease_on_drugs,24,28,-0.0959249084249083

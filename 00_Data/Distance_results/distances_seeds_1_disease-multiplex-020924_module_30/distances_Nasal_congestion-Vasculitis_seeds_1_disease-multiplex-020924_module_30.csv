@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.22546296296296298
+1,disease_on_symptoms,15,19,0.7124871001031989
+2,disease_on_drugs,23,20,0.5329120323559151

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Sinusitis nodes,sAB
+0,disease_on_genes,25,29,0.3527203065134099
+1,disease_on_symptoms,14,21,0.711904761904762
+2,disease_on_drugs,22,28,0.7864285714285715

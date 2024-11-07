@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.03501642036124797
+1,disease_on_symptoms,22,19,0.9198272843972459
+2,disease_on_drugs,29,25,0.5574968071519795

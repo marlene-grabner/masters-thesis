@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,21,0.15513957307060733
+1,disease_on_symptoms,17,22,2.2122583299053886
+2,disease_on_drugs,30,20,0.635

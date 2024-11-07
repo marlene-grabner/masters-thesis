@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,23,30,0.18167897183483728
+1,disease_on_symptoms,19,17,1.9752321981424148
+2,disease_on_drugs,19,26,0.9111111111111112

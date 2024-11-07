@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555569
+1,disease_on_symptoms,23,18,1.109785554377283
+2,disease_on_drugs,25,22,0.041856866537717696

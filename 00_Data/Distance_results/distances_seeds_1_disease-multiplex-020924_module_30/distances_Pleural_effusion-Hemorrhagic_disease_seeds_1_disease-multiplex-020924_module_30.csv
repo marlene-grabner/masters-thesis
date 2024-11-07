@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.2773148148148148
+1,disease_on_symptoms,20,19,0.842543859649123
+2,disease_on_drugs,22,19,0.626444159178434

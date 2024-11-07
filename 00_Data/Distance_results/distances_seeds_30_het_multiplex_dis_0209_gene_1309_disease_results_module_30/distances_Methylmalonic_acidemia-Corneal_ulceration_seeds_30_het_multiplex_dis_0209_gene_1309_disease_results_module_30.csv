@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,25,28,-0.1121967654986522
+1,disease_on_symptoms,17,15,0.9498774509803922
+2,disease_on_drugs,21,23,-0.0016469038208168918

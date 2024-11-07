@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,20,0.3011111111111111
+1,disease_on_symptoms,21,23,2.3836344814605686
+2,disease_on_drugs,20,17,0.5552861685214625

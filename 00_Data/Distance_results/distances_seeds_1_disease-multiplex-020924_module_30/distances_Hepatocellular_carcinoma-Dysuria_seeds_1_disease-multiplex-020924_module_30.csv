@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Dysuria nodes,sAB
+0,disease_on_genes,23,30,0.2648771767962175
+1,disease_on_symptoms,19,16,1.9096334586466164
+2,disease_on_drugs,19,23,0.9306418219461696

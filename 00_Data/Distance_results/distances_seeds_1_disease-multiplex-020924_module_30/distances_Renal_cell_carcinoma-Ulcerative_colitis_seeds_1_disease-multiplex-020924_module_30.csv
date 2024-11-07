@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,25,27,0.3068091168091165
+1,disease_on_symptoms,24,20,1.437878787878788
+2,disease_on_drugs,20,25,0.7555555555555555

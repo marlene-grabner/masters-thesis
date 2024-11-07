@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,21,0.12367724867724861
+1,disease_on_symptoms,20,22,1.7317099567099565
+2,disease_on_drugs,25,20,0.36388888888888893

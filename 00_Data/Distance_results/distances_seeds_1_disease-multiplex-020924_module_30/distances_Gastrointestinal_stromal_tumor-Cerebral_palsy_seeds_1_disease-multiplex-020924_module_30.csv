@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,23,27,0.2631561996779388
+1,disease_on_symptoms,20,16,1.7652777777777777
+2,disease_on_drugs,19,18,1.0270270270270272

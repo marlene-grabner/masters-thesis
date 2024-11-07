@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.38363636363636366
+1,disease_on_symptoms,24,23,-0.4647510021584951
+2,disease_on_drugs,27,24,-0.34980936819172115

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Periodontitis nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,17,21,0.49292348518354734
+2,disease_on_drugs,25,28,-0.11203504043126689

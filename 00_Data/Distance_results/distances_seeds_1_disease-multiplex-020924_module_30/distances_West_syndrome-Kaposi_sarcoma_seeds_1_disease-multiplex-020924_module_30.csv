@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,15,0.47878787878787876
+1,disease_on_symptoms,18,27,1.6555555555555554
+2,disease_on_drugs,22,13,1.2571428571428571

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Periodontitis nodes,sAB
+0,disease_on_genes,23,30,-0.037735849056603765
+1,disease_on_symptoms,23,21,1.2073687182382833
+2,disease_on_drugs,22,28,0.293831168831169

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,30,-0.09065934065934056
+1,disease_on_symptoms,20,15,-0.088095238095238
+2,disease_on_drugs,20,25,-0.08111111111111113

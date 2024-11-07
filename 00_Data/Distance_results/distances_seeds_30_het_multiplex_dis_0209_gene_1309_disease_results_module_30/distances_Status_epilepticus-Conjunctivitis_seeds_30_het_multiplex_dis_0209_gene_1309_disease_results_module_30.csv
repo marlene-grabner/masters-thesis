@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,18,27,0.6648148148148147
+2,disease_on_drugs,30,28,0.34285714285714297

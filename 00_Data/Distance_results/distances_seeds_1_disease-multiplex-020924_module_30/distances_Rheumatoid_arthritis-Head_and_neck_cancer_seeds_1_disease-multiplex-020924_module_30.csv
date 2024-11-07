@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,27,27,0.14814814814814836
+1,disease_on_symptoms,15,22,1.1774365274365275
+2,disease_on_drugs,25,24,0.5097619047619049

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.052565707133917394
+1,disease_on_symptoms,20,25,0.28
+2,disease_on_drugs,28,13,0.5177231305280086

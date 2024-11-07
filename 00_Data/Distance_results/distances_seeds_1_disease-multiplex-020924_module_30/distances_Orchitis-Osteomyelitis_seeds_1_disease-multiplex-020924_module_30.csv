@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,23,25,0.3358333333333332
+1,disease_on_symptoms,16,23,1.7194467670011147
+2,disease_on_drugs,17,23,0.9726982097186703

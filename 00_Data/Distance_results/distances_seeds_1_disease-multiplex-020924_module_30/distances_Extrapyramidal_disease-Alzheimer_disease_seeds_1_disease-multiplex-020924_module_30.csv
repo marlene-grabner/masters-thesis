@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,14,20,0.14516806722689068
+1,disease_on_symptoms,25,23,1.1791304347826086
+2,disease_on_drugs,10,18,0.19999999999999996

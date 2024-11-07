@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.27333333333333343
+1,disease_on_symptoms,20,26,1.1436454849498328
+2,disease_on_drugs,24,13,0.6579175329175329

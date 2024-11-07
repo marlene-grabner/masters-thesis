@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,-0.16981132075471694
+1,disease_on_symptoms,12,22,-0.38190730837789655
+2,disease_on_drugs,28,21,-0.12755102040816313

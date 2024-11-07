@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.2521212121212122
+1,disease_on_symptoms,17,23,2.778708439897698
+2,disease_on_drugs,17,21,0.3471177944862154

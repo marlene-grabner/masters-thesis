@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.4934393193013884
+1,disease_on_symptoms,18,17,2.0770774976657327
+2,disease_on_drugs,19,18,0.4615931721194879

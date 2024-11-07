@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.18000000000000005
+1,disease_on_symptoms,18,17,1.000326797385621
+2,disease_on_drugs,24,22,-0.08522727272727271

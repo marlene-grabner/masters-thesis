@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.03448275862068961
+1,disease_on_symptoms,16,17,1.151682263814617
+2,disease_on_drugs,29,28,0.0694948578342407

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,0.30757834757834734
+1,disease_on_symptoms,19,25,0.7014354066985646
+2,disease_on_drugs,27,23,1.3365217391304347

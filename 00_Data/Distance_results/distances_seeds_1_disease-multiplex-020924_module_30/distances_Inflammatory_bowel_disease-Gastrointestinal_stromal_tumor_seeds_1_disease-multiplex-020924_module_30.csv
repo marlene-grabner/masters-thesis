@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,17,23,0.13649665551839463
+1,disease_on_symptoms,27,20,0.32994483845547684
+2,disease_on_drugs,14,19,0.32792207792207795

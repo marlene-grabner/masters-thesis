@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,21,28,-0.007653061224489832
+1,disease_on_symptoms,26,23,0.6866084226332674
+2,disease_on_drugs,20,28,-0.038690476190476164

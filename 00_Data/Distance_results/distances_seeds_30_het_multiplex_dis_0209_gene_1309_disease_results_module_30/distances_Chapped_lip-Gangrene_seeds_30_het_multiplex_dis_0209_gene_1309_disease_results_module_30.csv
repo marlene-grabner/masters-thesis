@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,0.037735849056603765
+1,disease_on_symptoms,20,22,0.886038961038961
+2,disease_on_drugs,23,27,0.38341384863123995

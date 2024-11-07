@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,0.2542275472433273
+1,disease_on_symptoms,23,14,0.7236444519053213
+2,disease_on_drugs,27,26,0.6418454012793635

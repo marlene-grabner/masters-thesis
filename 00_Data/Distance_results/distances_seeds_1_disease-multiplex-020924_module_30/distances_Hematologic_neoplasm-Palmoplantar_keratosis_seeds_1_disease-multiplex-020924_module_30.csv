@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,22,26,0.22916666666666674
+1,disease_on_symptoms,24,19,0.8346338229294163
+2,disease_on_drugs,19,18,0.3264185237869448

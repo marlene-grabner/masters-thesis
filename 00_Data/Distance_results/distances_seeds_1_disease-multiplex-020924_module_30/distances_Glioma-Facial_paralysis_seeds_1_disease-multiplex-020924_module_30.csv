@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,22,14,0.13203463203463195
+1,disease_on_symptoms,24,23,1.6322656490903484
+2,disease_on_drugs,20,14,1.0044117647058823

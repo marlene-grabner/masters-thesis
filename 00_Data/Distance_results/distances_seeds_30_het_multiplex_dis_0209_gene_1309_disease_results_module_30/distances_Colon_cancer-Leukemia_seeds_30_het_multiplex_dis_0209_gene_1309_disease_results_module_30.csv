@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,30,-0.2857142857142857
+1,disease_on_symptoms,22,21,-0.3730745998187861
+2,disease_on_drugs,26,30,-0.2344322344322346

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,24,27,0.13466775599128522
+1,disease_on_symptoms,25,23,0.59981884057971
+2,disease_on_drugs,17,15,-0.043749999999999956

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,19,16,-0.2454887218045112
+2,disease_on_drugs,22,30,-0.20291375291375302

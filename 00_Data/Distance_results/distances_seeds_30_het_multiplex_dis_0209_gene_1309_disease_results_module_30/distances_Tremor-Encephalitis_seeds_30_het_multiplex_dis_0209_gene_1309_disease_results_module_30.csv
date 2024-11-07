@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,29,0.125
+1,disease_on_symptoms,17,13,0.15294117647058836
+2,disease_on_drugs,24,22,0.3446969696969697

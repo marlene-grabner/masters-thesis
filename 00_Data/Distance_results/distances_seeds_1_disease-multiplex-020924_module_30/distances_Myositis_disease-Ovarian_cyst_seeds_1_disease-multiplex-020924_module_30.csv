@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,20,0.2883333333333331
+1,disease_on_symptoms,24,22,0.8244400527009224
+2,disease_on_drugs,28,15,0.8107142857142857

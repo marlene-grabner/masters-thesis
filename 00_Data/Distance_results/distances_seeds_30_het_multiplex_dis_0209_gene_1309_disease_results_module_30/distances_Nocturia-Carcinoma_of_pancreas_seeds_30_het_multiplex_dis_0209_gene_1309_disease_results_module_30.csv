@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,25,30,0.03888888888888897
+1,disease_on_symptoms,18,18,0.8888888888888888
+2,disease_on_drugs,24,21,0.39603174603174596

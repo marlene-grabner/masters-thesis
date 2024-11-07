@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,22,30,0.41515151515151505
+1,disease_on_symptoms,21,20,2.8505516840882694
+2,disease_on_drugs,6,22,0.7976190476190477

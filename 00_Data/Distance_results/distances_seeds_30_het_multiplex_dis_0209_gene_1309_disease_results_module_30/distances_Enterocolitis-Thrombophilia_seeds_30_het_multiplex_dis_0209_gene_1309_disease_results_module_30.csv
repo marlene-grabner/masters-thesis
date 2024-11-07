@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,27,27,0.14814814814814814
+1,disease_on_symptoms,21,18,1.1321733821733821
+2,disease_on_drugs,25,22,0.3662862669245648

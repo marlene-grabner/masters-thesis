@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,20,17,0.3163354531001592
+2,disease_on_drugs,25,27,0.2905982905982907

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,21,-0.05919312169312185
+1,disease_on_symptoms,21,22,0.9722138326789491
+2,disease_on_drugs,23,20,0.07014661274014133

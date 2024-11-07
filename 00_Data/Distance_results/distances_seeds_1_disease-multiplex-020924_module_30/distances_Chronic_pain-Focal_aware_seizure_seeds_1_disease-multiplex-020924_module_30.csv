@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,22,15,0.3390253890253889
+2,disease_on_drugs,28,29,0.08740601503759415

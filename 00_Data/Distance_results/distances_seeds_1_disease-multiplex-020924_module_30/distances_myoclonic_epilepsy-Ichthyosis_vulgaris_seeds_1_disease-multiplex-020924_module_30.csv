@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.5261208576998051
+1,disease_on_symptoms,16,21,1.8451978764478767
+2,disease_on_drugs,23,27,0.8947826086956523

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,0.114383989993746
+1,disease_on_symptoms,24,27,0.16299019607843146
+2,disease_on_drugs,24,13,0.027027027027026973

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,30,20,0.04833333333333312
+1,disease_on_symptoms,14,24,1.6520989974937343
+2,disease_on_drugs,26,18,0.4292929292929293

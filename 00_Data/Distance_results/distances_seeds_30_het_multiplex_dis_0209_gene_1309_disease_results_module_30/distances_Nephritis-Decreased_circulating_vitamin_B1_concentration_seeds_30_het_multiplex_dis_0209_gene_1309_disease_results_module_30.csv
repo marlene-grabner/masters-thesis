@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,17,0.7941176470588238
+2,disease_on_drugs,25,25,0.21999999999999997

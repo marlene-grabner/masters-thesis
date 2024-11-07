@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,15,-0.603063725490196
+2,disease_on_drugs,26,24,-0.19583333333333353

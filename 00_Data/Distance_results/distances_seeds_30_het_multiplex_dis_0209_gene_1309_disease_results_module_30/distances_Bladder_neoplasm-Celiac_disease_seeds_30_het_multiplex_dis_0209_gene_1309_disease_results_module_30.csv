@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,30,-0.1607142857142857
+1,disease_on_symptoms,19,18,0.32076813655761005
+2,disease_on_drugs,25,28,-0.12196765498652296

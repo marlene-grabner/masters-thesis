@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,22,22,-0.045454545454545636
+1,disease_on_symptoms,22,24,0.6007905138339922
+2,disease_on_drugs,14,13,0.1521164021164021

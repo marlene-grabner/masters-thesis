@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,21,0.3824929971988795
+1,disease_on_symptoms,12,26,2.3156207827260458
+2,disease_on_drugs,17,20,0.5651828298887123

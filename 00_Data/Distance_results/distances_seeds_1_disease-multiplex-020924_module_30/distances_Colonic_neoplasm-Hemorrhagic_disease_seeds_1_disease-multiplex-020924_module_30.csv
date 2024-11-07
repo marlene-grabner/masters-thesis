@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.2569444444444442
+1,disease_on_symptoms,19,19,0.8684210526315788
+2,disease_on_drugs,29,19,0.47807017543859653

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,22,18,1.2340909090909093
+2,disease_on_drugs,30,25,0.6054545454545452

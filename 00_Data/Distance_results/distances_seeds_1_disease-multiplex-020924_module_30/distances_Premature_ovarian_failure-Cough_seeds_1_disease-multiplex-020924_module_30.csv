@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Cough nodes,sAB
+0,disease_on_genes,28,27,0.1087542087542086
+1,disease_on_symptoms,21,21,1.476190476190476
+2,disease_on_drugs,21,27,0.22784391534391535

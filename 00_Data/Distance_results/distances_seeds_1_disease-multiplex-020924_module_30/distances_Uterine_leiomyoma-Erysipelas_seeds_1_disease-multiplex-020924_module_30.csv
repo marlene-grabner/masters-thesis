@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,24,28,0.3969780219780221
+1,disease_on_symptoms,21,20,0.9534262485482001
+2,disease_on_drugs,18,27,0.9500000000000002

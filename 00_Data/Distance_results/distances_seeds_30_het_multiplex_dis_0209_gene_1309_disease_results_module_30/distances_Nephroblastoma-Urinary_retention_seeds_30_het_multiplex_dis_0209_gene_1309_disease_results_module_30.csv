@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,-0.0002922267679719148
+1,disease_on_symptoms,20,16,0.6201388888888888
+2,disease_on_drugs,24,28,0.13026556776556775

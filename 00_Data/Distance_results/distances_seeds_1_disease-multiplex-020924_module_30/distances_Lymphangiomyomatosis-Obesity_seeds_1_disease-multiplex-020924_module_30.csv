@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Obesity nodes,sAB
+0,disease_on_genes,26,26,0.05769230769230771
+1,disease_on_symptoms,19,20,0.465047233468286
+2,disease_on_drugs,22,27,0.012591905449048202

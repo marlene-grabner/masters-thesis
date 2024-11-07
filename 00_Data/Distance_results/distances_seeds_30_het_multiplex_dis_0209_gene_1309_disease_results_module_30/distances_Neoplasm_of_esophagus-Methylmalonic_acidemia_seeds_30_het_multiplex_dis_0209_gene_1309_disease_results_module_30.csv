@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,29,25,-0.22094508301404847
+1,disease_on_symptoms,20,17,0.9177265500794913
+2,disease_on_drugs,25,21,0.07246376811594213

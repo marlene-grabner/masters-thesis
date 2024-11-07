@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,-0.017857142857142794
+1,disease_on_symptoms,17,19,0.1719126246990026
+2,disease_on_drugs,26,22,0.015297202797202925

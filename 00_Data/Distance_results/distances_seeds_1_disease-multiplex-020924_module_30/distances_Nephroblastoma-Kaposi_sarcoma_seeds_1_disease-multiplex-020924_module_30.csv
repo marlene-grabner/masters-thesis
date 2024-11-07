@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,25,15,0.1233333333333333
+1,disease_on_symptoms,25,27,0.1741025641025642
+2,disease_on_drugs,21,13,0.02941176470588225

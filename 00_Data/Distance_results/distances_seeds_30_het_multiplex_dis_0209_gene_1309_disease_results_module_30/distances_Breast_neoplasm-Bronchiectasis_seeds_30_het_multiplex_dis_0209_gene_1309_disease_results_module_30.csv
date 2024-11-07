@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,20,19,0.32817139001349505
+2,disease_on_drugs,30,25,0.2981818181818181

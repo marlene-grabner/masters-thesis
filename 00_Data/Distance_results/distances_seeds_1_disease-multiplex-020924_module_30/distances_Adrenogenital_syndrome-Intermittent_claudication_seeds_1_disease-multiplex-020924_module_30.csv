@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.42500000000000004
+1,disease_on_symptoms,7,24,1.0384984639016897
+2,disease_on_drugs,22,18,0.5025252525252526

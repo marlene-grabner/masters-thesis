@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,24,0.13439542483660127
+1,disease_on_symptoms,17,20,0.7676868044515104
+2,disease_on_drugs,24,22,0.5859683794466404

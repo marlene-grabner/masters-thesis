@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Keloid nodes,sAB
+0,disease_on_genes,14,22,0.6410533910533913
+1,disease_on_symptoms,27,20,2.034869976359338
+2,disease_on_drugs,8,19,0.900462962962963

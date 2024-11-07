@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,27,18,-0.1074074074074075
+1,disease_on_symptoms,23,21,1.8452851496329754
+2,disease_on_drugs,25,17,-0.1850420168067226

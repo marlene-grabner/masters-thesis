@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,-0.0357142857142857
+1,disease_on_symptoms,20,21,0.8991579558652729
+2,disease_on_drugs,27,24,-0.0690359477124185

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,25,30,-0.001818181818181941
+1,disease_on_symptoms,17,15,0.28296568627451
+2,disease_on_drugs,25,24,0.22273809523809507

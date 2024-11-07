@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.16834733893557408
+1,disease_on_symptoms,14,26,1.9195054945054943
+2,disease_on_drugs,29,12,0.9512195121951219

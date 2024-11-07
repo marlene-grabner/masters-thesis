@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,18,25,0.184780361757106
+1,disease_on_symptoms,28,24,0.4709249084249083
+2,disease_on_drugs,17,23,0.5161764705882352

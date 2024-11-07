@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.10169491525423724
+1,disease_on_symptoms,18,13,-0.15143369175627241
+2,disease_on_drugs,30,22,-0.029020979020979

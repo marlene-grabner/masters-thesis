@@ -1,0 +1,4 @@
+,Layer,Disorder_of_orbital_region nodes,Keratitis nodes,sAB
+0,disease_on_genes,17,28,-0.17558356676003728
+1,disease_on_symptoms,27,25,0.457008547008547
+2,disease_on_drugs,16,23,-0.07643534002229635

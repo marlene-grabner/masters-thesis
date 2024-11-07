@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,23,27,-0.12
+1,disease_on_symptoms,22,18,0.05126262626262634
+2,disease_on_drugs,21,24,-0.17043650793650778

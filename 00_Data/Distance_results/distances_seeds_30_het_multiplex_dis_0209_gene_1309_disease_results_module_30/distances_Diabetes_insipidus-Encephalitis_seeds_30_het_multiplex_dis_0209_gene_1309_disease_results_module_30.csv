@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,29,0.10804195804195804
+1,disease_on_symptoms,20,13,0.5348484848484849
+2,disease_on_drugs,20,22,0.2554112554112553

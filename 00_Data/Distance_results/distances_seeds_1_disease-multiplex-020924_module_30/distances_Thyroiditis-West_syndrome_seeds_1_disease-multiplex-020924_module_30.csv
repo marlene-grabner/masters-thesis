@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,29,0.5230769230769232
+1,disease_on_symptoms,28,18,2.022342995169082
+2,disease_on_drugs,23,22,1.0893719806763285

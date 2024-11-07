@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.3525188536953243
+1,disease_on_symptoms,21,23,2.114059853190288
+2,disease_on_drugs,26,21,0.6160470734938819

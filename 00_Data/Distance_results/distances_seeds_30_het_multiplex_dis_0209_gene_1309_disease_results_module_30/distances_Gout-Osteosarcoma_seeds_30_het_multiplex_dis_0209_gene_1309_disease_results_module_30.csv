@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,28,30,-0.1029146141215107
+1,disease_on_symptoms,19,22,0.2555140623176566
+2,disease_on_drugs,22,29,-0.07194664699735687

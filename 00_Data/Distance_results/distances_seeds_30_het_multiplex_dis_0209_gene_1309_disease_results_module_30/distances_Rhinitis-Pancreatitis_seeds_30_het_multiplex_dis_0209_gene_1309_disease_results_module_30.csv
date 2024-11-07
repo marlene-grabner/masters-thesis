@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,12,17,-0.19540229885057459
+2,disease_on_drugs,23,30,0.12958709324582984

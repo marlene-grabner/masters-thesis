@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,20,0.06833333333333313
+1,disease_on_symptoms,14,25,0.9407326007326007
+2,disease_on_drugs,26,19,0.6140350877192982

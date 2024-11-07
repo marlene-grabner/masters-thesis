@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,14,22,0.45743145743145774
+2,disease_on_drugs,28,29,0.017803128510932797

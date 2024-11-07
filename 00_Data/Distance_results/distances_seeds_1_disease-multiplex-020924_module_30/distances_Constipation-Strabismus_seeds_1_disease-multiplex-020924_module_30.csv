@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.10050685748360166
+1,disease_on_symptoms,17,26,0.6452962222456065
+2,disease_on_drugs,27,9,0.37037037037037046

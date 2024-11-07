@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.3333333333333335
+1,disease_on_symptoms,15,21,-0.765079365079365
+2,disease_on_drugs,25,29,-0.26411238825031924

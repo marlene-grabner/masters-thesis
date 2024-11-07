@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.2915151515151515
+1,disease_on_symptoms,20,21,1.2918408826945416
+2,disease_on_drugs,30,20,0.5350000000000001

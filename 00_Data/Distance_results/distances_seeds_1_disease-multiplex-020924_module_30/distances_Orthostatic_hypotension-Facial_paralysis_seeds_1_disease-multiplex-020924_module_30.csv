@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.21385281385281374
+1,disease_on_symptoms,12,23,0.9468426501035196
+2,disease_on_drugs,17,14,0.22865275142315

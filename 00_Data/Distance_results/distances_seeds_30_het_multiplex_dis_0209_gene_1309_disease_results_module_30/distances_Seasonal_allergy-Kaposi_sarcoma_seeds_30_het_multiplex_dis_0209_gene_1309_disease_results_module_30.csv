@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,30,-0.15254237288135597
+1,disease_on_symptoms,18,16,-0.28676470588235303
+2,disease_on_drugs,29,28,-0.05423040359519504

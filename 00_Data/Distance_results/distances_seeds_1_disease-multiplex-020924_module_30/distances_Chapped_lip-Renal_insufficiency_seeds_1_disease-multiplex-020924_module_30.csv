@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,0.15434782608695663
+1,disease_on_symptoms,21,23,1.7959721437982306
+2,disease_on_drugs,24,17,0.7503586800573887

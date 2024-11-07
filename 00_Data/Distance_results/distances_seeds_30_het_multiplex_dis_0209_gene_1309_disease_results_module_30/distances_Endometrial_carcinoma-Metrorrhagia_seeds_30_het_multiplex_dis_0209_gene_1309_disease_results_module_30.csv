@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.15094339622641506
+1,disease_on_symptoms,21,17,-0.003022261536193449
+2,disease_on_drugs,26,26,-0.11538461538461542

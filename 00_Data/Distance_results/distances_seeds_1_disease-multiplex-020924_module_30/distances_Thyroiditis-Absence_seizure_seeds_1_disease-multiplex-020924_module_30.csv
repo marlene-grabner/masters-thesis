@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.3622618760549796
+1,disease_on_symptoms,28,16,1.9034090909090908
+2,disease_on_drugs,23,22,1.0449275362318842

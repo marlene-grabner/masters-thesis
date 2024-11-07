@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,12,15,0.9796296296296294
+2,disease_on_drugs,21,26,-0.13506351804224148

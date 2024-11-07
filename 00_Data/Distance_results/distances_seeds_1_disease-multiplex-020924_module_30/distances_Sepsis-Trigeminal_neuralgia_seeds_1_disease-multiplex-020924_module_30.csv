@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,22,28,0.2527922077922078
+1,disease_on_symptoms,23,19,1.3143184047074206
+2,disease_on_drugs,17,26,0.805666631590024

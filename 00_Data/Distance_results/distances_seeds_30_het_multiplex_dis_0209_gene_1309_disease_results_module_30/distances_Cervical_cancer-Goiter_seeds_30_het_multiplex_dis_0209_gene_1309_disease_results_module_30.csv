@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,0.2777777777777777
+1,disease_on_symptoms,22,12,1.1227718360071304
+2,disease_on_drugs,15,18,0.4126262626262627

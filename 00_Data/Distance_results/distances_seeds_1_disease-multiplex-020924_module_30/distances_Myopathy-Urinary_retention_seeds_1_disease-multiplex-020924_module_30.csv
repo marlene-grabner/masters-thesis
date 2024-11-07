@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,18,30,0.4099616858237549
+1,disease_on_symptoms,21,18,2.2786935286935286
+2,disease_on_drugs,6,19,0.43438596491228076

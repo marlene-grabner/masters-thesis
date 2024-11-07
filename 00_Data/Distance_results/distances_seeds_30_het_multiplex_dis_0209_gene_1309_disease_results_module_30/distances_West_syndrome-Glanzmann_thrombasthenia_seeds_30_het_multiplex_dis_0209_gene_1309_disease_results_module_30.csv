@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.18518518518518512
+1,disease_on_symptoms,13,19,1.4256072874493926
+2,disease_on_drugs,19,24,0.4368880048959609

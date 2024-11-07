@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,20,18,0.43654970760233924
+2,disease_on_drugs,26,21,0.1617371989712415

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,21,30,-0.04341736694677867
+1,disease_on_symptoms,20,18,0.35423976608187124
+2,disease_on_drugs,21,28,0.3477891156462585

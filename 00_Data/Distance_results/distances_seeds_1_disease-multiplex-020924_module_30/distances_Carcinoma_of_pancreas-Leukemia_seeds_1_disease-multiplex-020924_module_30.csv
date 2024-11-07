@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,-0.12195121951219512
+1,disease_on_symptoms,25,27,0.062450142450142465
+2,disease_on_drugs,21,17,-0.0619195046439629

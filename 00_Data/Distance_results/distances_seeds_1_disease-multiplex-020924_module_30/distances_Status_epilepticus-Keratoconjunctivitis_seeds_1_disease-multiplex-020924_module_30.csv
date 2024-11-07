@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,29,29,0.27586206896551735
+1,disease_on_symptoms,17,25,1.948515406162465
+2,disease_on_drugs,30,27,0.7982456140350878

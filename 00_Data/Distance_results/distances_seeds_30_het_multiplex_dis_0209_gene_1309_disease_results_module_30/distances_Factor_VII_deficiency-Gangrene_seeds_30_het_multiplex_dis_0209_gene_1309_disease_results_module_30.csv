@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,27,0.16396103896103909
+1,disease_on_symptoms,19,22,1.5656144240868244
+2,disease_on_drugs,25,27,0.38729344729344706

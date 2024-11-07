@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.038109161793372426
+1,disease_on_symptoms,20,21,0.5868466898954705
+2,disease_on_drugs,30,23,0.7019551544982225

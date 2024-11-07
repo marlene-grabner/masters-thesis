@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.0
+1,disease_on_symptoms,21,17,0.1165413533834585
+2,disease_on_drugs,25,24,0.0819387755102039

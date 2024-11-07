@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,21,25,0.1970600414078676
+1,disease_on_symptoms,22,20,0.6018398268398271
+2,disease_on_drugs,21,14,-0.021428571428571352

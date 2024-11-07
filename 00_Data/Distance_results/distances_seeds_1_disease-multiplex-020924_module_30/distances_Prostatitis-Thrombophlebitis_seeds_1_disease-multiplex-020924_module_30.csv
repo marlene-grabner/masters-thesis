@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.31141215106732334
+1,disease_on_symptoms,20,15,1.4369047619047617
+2,disease_on_drugs,29,21,1.3255172413793104

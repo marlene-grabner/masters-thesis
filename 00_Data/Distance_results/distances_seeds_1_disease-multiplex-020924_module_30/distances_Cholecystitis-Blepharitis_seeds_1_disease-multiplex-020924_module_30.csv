@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,20,0.6883333333333335
+1,disease_on_symptoms,19,27,1.7760403424018985
+2,disease_on_drugs,13,19,0.5964068825910931

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,25,30,0.4254545454545453
+1,disease_on_symptoms,16,19,1.8599624060150375
+2,disease_on_drugs,17,29,0.8401534526854222

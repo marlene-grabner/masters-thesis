@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,13,27,0.3040598290598291
+1,disease_on_symptoms,26,15,1.7257973733583492
+2,disease_on_drugs,9,26,0.36312576312576295

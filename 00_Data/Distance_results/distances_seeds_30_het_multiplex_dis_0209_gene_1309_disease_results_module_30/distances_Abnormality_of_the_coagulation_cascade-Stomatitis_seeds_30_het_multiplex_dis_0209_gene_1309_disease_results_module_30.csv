@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Stomatitis nodes,sAB
+0,disease_on_genes,24,30,-0.16666666666666663
+1,disease_on_symptoms,24,19,0.3425132598939211
+2,disease_on_drugs,23,29,-0.023901510783070012

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,16,30,0.4235507246376813
+1,disease_on_symptoms,26,12,1.5403171390013495
+2,disease_on_drugs,14,17,0.9705882352941178

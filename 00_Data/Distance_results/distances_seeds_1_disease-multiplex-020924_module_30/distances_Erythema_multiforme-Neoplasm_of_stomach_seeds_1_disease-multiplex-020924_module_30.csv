@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,23,0.11761006289308185
+1,disease_on_symptoms,16,24,0.7979166666666666
+2,disease_on_drugs,30,22,0.5157342657342658

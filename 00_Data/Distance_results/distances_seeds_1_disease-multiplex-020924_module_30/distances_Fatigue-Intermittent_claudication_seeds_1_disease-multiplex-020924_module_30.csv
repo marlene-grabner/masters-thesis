@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,-0.06998327759197331
+1,disease_on_symptoms,21,24,0.08908730158730149
+2,disease_on_drugs,26,18,-0.03593628593628595

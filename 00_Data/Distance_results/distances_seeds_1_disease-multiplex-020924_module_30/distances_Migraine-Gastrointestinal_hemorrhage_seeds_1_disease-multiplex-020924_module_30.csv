@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,27,0.05243664717348917
+1,disease_on_symptoms,14,19,0.6455912508544088
+2,disease_on_drugs,29,27,0.6071428571428572

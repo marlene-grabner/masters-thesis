@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.07280219780219777
+1,disease_on_symptoms,18,25,1.0648837209302326
+2,disease_on_drugs,25,25,0.17999999999999994

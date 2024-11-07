@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.0185185185185186
+1,disease_on_symptoms,19,17,0.6953044375644994
+2,disease_on_drugs,25,25,0.21999999999999997

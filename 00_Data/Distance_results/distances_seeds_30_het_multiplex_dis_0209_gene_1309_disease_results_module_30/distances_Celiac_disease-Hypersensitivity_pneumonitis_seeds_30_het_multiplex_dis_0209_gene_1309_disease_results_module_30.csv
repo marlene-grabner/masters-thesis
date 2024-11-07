@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.18181818181818177
+1,disease_on_symptoms,18,20,-0.02763157894736845
+2,disease_on_drugs,28,25,-0.2019676549865228

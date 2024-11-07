@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,29,25,0.3859259259259258
+1,disease_on_symptoms,25,19,1.695980861244019
+2,disease_on_drugs,28,18,0.9722222222222223

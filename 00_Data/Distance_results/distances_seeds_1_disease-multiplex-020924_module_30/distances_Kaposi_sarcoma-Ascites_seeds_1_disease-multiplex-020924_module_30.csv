@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Ascites nodes,sAB
+0,disease_on_genes,15,30,0.1777777777777778
+1,disease_on_symptoms,27,17,1.6461675579322637
+2,disease_on_drugs,13,27,0.5944444444444443

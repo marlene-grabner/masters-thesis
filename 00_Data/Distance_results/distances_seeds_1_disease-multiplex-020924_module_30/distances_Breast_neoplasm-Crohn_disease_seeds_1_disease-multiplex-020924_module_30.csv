@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.25462962962962976
+1,disease_on_symptoms,16,20,0.8076388888888888
+2,disease_on_drugs,30,21,1.030812324929972

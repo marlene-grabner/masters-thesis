@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Goiter nodes,sAB
+0,disease_on_genes,21,26,0.4099056971397397
+1,disease_on_symptoms,20,15,1.8261904761904761
+2,disease_on_drugs,19,16,1.2285714285714286

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,-0.017641325536062347
+1,disease_on_symptoms,17,22,0.3444055944055946
+2,disease_on_drugs,24,27,-0.0023148148148148806

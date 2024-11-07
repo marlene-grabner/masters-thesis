@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,24,30,0.540740740740741
+1,disease_on_symptoms,23,14,2.7277152929326838
+2,disease_on_drugs,22,11,1.1515151515151514

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,16,15,0.2465053763440861
+2,disease_on_drugs,25,23,0.3171376811594202

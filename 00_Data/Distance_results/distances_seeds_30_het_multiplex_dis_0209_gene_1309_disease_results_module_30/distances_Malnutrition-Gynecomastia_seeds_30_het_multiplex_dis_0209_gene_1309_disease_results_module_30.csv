@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.30000000000000004
+1,disease_on_symptoms,14,15,0.24302134646962226
+2,disease_on_drugs,29,29,-0.1724137931034484

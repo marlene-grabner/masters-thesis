@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.21666666666666656
+1,disease_on_symptoms,14,23,0.5491018969279837
+2,disease_on_drugs,11,17,0.18067226890756305

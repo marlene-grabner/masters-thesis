@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,-0.10527396076397899
+1,disease_on_symptoms,18,20,0.5659356725146198
+2,disease_on_drugs,25,28,0.09801886792452819

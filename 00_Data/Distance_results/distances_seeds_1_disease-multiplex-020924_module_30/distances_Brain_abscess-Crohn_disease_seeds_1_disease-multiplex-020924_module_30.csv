@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,25,0.19798474945533773
+1,disease_on_symptoms,21,20,1.1520905923344946
+2,disease_on_drugs,23,21,0.27649162431771135

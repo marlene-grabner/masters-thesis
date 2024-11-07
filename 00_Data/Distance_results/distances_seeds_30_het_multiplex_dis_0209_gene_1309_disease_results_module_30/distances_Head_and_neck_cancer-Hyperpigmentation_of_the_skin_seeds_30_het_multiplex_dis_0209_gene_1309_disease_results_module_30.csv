@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,22,17,0.44854655148772804
+2,disease_on_drugs,23,28,0.16584459870904866

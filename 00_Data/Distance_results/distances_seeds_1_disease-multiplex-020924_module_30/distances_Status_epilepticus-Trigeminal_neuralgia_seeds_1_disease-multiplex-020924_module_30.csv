@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,28,-0.15853210612738766
+1,disease_on_symptoms,17,19,-0.11248710010319929
+2,disease_on_drugs,30,26,-0.17994505494505486

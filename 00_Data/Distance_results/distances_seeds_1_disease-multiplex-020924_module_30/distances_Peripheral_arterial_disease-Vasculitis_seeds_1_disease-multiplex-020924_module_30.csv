@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,24,0.04120748299319699
+1,disease_on_symptoms,14,19,0.24840510366826152
+2,disease_on_drugs,22,20,-0.09761904761904772

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,29,-0.058989218328840964
+1,disease_on_symptoms,19,17,0.47110423116615086
+2,disease_on_drugs,24,25,0.20408163265306123

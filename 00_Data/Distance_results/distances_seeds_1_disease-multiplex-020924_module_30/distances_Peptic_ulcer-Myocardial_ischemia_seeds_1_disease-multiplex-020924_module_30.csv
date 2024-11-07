@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,28,30,0.15147783251231517
+1,disease_on_symptoms,14,13,1.2239519739519737
+2,disease_on_drugs,28,23,0.4641943734015346

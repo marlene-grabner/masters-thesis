@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Leukemia nodes,sAB
+0,disease_on_genes,13,18,0.27171215880893307
+1,disease_on_symptoms,26,27,0.8133499973122613
+2,disease_on_drugs,9,17,0.7023629964806437

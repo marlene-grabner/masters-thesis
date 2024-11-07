@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,21,20,-0.024419279907084812
+1,disease_on_symptoms,22,27,0.9908609908609907
+2,disease_on_drugs,21,19,-0.020488721804511334

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,15,18,0.21515151515151487
+2,disease_on_drugs,29,28,0.051918589577391705

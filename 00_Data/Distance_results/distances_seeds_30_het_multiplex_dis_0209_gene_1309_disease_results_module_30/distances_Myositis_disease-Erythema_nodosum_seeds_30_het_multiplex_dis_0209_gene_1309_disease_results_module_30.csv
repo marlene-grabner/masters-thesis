@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,18,22,0.20505050505050537
+2,disease_on_drugs,26,29,-0.06745840366530031

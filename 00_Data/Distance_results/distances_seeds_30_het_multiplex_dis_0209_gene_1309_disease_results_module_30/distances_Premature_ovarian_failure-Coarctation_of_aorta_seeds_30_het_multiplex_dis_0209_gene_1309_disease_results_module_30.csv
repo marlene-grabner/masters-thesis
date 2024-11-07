@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.05360623781676421
+1,disease_on_symptoms,15,19,0.06181630546955641
+2,disease_on_drugs,26,24,-0.21647435897435896

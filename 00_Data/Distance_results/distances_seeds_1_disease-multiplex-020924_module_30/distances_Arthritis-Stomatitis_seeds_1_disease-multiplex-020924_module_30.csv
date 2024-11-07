@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,19,23,0.4398496240601504
+2,disease_on_drugs,29,30,0.2720046756282877

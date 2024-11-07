@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,24,30,0.22870370370370385
+1,disease_on_symptoms,26,15,0.48192620387742324
+2,disease_on_drugs,15,26,0.7664165103189495

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Emphysema nodes,sAB
+0,disease_on_genes,21,30,-0.23949579831932766
+1,disease_on_symptoms,20,18,0.22850877192982466
+2,disease_on_drugs,21,27,0.021825396825396748

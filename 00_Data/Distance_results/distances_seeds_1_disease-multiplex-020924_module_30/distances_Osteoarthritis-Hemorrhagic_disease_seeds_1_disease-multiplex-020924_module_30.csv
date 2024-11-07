@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,24,0.40814625850340125
+1,disease_on_symptoms,20,19,0.6380566801619434
+2,disease_on_drugs,21,19,0.4197368421052632

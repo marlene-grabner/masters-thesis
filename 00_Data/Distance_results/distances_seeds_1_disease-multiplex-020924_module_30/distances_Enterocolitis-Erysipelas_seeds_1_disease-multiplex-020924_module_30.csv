@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,-0.10877825877825875
+1,disease_on_symptoms,21,20,0.1531939605110335
+2,disease_on_drugs,24,27,-0.1776960784313727

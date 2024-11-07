@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,20,21,-0.44030197444831587
+1,disease_on_symptoms,26,22,-0.3713578088578088
+2,disease_on_drugs,13,20,-0.6506410256410257

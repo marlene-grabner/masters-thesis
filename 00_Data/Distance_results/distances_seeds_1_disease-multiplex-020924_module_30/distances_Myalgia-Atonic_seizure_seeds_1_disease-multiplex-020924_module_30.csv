@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.20394506136762103
+1,disease_on_symptoms,16,16,0.875
+2,disease_on_drugs,29,24,0.2264150943396226

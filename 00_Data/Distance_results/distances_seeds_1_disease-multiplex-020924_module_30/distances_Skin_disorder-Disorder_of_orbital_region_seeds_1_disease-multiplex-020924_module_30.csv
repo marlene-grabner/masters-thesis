@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,7,17,0.0014005602240894088
+1,disease_on_symptoms,30,27,0.4830409356725147
+2,disease_on_drugs,6,16,0.08143939393939381

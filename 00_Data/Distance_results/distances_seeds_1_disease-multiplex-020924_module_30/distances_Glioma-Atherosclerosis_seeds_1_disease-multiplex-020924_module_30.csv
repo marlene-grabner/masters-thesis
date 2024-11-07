@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,22,30,0.534965034965035
+1,disease_on_symptoms,24,13,0.7691874566874564
+2,disease_on_drugs,20,29,0.8117346938775512

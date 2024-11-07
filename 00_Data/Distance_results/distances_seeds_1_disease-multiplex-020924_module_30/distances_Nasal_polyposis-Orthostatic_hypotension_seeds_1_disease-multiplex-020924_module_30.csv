@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,15,30,0.6388888888888888
+1,disease_on_symptoms,25,12,1.8596846846846846
+2,disease_on_drugs,10,17,0.35206971677559906

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,19,19,0.21052631578947345
+2,disease_on_drugs,22,25,-0.0677756286266924

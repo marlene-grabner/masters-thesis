@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,16,21,0.1922055984555986
+2,disease_on_drugs,28,30,0.3107553366174056

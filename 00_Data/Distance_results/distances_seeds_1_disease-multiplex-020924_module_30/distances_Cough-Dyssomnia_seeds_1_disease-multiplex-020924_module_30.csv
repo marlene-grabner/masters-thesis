@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,27,18,0.09259259259259256
+1,disease_on_symptoms,21,21,3.1904761904761907
+2,disease_on_drugs,27,17,0.3292731233907704

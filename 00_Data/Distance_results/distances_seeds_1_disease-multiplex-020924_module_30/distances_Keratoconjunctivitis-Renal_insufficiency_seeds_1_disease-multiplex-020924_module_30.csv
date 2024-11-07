@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,20,0.11530612244897975
+1,disease_on_symptoms,25,23,1.2170652173913044
+2,disease_on_drugs,27,17,0.27049910873440264

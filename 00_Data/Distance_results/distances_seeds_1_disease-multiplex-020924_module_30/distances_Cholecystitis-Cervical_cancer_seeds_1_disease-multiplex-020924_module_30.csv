@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,25,27,0.8076353276353276
+1,disease_on_symptoms,19,23,1.4350005448403618
+2,disease_on_drugs,13,15,0.9758241758241759

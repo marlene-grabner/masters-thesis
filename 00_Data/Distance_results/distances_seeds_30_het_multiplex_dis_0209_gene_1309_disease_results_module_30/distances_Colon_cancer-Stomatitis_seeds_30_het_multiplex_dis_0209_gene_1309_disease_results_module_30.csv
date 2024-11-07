@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Stomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.1071428571428571
+1,disease_on_symptoms,22,19,0.1925837320574164
+2,disease_on_drugs,26,29,0.020352061731372162

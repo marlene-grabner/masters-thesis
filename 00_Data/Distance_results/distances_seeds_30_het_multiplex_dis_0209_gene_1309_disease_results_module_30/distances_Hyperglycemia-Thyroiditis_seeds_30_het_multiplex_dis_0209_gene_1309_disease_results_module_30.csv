@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Thyroiditis nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,17,21,-0.3236031254607106
+2,disease_on_drugs,26,29,-0.01695201350373776

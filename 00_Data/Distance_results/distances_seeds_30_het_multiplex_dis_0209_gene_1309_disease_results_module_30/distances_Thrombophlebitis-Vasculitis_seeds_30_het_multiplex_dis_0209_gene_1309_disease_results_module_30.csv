@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.1428571428571428
+1,disease_on_symptoms,18,18,1.0833333333333333
+2,disease_on_drugs,29,26,0.20028936580660717

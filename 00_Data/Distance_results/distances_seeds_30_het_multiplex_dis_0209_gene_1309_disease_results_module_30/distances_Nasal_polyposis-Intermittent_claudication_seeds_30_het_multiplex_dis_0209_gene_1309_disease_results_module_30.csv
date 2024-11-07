@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,20,14,0.24705882352941178
+2,disease_on_drugs,25,24,0.20151360544217667

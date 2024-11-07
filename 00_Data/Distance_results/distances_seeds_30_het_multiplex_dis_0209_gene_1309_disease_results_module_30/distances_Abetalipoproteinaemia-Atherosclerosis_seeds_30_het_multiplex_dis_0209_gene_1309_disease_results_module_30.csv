@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,14,30,-0.10389610389610382
+1,disease_on_symptoms,26,14,0.23461538461538467
+2,disease_on_drugs,14,29,-0.07019704433497531

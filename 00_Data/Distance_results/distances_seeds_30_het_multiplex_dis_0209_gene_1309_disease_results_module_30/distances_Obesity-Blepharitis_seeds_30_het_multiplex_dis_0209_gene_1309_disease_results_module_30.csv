@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,30,-0.03801169590643272
+1,disease_on_symptoms,18,18,0.75
+2,disease_on_drugs,25,30,0.09393939393939399

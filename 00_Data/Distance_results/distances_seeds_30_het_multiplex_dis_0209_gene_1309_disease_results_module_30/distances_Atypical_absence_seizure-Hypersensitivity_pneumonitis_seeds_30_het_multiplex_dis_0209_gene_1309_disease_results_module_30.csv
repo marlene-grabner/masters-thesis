@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.054545454545454564
+1,disease_on_symptoms,13,20,1.1974941724941726
+2,disease_on_drugs,22,25,0.31990328820116054

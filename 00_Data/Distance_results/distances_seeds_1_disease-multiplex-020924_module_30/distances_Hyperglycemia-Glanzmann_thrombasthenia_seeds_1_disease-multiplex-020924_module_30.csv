@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.22731481481481497
+1,disease_on_symptoms,14,21,1.5571428571428574
+2,disease_on_drugs,26,24,0.4358333333333335

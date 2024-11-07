@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,28,24,-0.05769230769230771
+1,disease_on_symptoms,16,22,0.6169258373205744
+2,disease_on_drugs,23,21,-0.21983813288161103

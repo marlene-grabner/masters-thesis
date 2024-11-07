@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999997
+1,disease_on_symptoms,17,14,0.18507725670913544
+2,disease_on_drugs,27,26,0.16944847605224966

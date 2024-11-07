@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.24561403508771928
+1,disease_on_symptoms,22,17,-0.1002331002331005
+2,disease_on_drugs,26,30,-0.049542124542124366

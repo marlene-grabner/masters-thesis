@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,0.1822435897435899
+1,disease_on_symptoms,28,17,1.1129084967320262
+2,disease_on_drugs,23,23,0.9782608695652173

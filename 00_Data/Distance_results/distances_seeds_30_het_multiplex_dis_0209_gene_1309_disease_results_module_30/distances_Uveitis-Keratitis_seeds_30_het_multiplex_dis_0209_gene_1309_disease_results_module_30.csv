@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,20,25,-0.4222222222222223
+2,disease_on_drugs,23,29,-0.36224195594510433

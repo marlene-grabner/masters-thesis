@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,24,0.24569727891156434
+1,disease_on_symptoms,23,19,1.662471395881007
+2,disease_on_drugs,23,19,1.208401438378555

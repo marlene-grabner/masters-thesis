@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,29,27,-0.1428571428571429
+1,disease_on_symptoms,19,18,0.4576023391812867
+2,disease_on_drugs,29,24,-0.07323519843851667

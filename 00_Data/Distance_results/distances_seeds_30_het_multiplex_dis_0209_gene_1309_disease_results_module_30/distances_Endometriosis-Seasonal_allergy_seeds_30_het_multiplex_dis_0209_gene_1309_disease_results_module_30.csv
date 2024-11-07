@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,-0.20310734463276825
+1,disease_on_symptoms,16,18,0.03860294117647056
+2,disease_on_drugs,30,29,-0.08477498538866168

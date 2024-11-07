@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.12575757575757573
+1,disease_on_symptoms,17,20,0.7467806041335452
+2,disease_on_drugs,26,25,-0.09734539969834088

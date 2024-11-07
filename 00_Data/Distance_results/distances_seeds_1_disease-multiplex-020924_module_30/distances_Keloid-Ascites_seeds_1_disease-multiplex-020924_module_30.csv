@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Ascites nodes,sAB
+0,disease_on_genes,22,30,0.20454545454545459
+1,disease_on_symptoms,20,17,1.1291732909379968
+2,disease_on_drugs,19,27,0.22705314009661826

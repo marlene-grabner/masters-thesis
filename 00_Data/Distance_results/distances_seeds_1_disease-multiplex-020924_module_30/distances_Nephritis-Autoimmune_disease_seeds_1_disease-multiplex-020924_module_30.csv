@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.19755244755244772
+1,disease_on_symptoms,18,19,1.3803145250513673
+2,disease_on_drugs,27,19,0.35935248749894066

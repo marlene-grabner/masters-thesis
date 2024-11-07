@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,20,17,0.7069952305246421
+2,disease_on_drugs,20,29,-0.12434904996481344

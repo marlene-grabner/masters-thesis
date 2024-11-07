@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,0.10347985347985356
+1,disease_on_symptoms,25,23,1.5139855072463768
+2,disease_on_drugs,24,14,0.32675438596491246

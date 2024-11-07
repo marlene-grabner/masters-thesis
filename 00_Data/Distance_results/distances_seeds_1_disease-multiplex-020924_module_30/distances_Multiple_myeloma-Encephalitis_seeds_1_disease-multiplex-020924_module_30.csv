@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,0.2791005291005293
+1,disease_on_symptoms,21,17,1.0763673890608874
+2,disease_on_drugs,25,18,0.7274418604651163

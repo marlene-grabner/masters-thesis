@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Cough nodes,sAB
+0,disease_on_genes,23,27,0.11278582930756831
+1,disease_on_symptoms,20,21,1.0276422764227644
+2,disease_on_drugs,19,27,0.8977455716586149

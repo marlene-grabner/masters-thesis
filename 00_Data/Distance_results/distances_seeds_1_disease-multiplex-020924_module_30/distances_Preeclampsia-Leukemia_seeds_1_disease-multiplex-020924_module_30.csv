@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.20454545454545459
+1,disease_on_symptoms,17,27,1.94469201822143
+2,disease_on_drugs,23,17,0.9400255754475701

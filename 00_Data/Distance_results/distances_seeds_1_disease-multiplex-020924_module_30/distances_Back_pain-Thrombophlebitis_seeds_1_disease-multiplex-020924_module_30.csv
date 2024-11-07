@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.277504105090312
+1,disease_on_symptoms,16,15,1.7694220430107528
+2,disease_on_drugs,23,21,0.6818181818181819

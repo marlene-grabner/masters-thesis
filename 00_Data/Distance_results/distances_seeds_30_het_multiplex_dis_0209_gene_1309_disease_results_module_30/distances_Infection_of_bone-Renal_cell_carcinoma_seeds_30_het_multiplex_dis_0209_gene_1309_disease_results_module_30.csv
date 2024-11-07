@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.03411306042884976
+1,disease_on_symptoms,18,22,0.8896464646464644
+2,disease_on_drugs,28,22,0.3209740259740259

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,28,30,-0.10406403940886688
+1,disease_on_symptoms,20,16,0.3381944444444447
+2,disease_on_drugs,27,27,0.2777777777777777

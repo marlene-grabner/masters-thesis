@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,23,22,0.08982683982683981
+1,disease_on_symptoms,25,20,1.3838888888888892
+2,disease_on_drugs,21,19,0.047368421052631504

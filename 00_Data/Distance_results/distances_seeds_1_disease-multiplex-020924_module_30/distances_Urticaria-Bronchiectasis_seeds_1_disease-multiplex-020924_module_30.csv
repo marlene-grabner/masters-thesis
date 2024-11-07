@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,10,30,0.3833333333333333
+1,disease_on_symptoms,27,15,0.3735449735449734
+2,disease_on_drugs,9,26,0.19010989010989032

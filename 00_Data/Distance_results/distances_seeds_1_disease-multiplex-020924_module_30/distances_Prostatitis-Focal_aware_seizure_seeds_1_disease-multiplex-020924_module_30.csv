@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.18757062146892656
+1,disease_on_symptoms,20,15,1.8988095238095237
+2,disease_on_drugs,29,29,1.0172413793103452

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,17,24,0.2029830224772835
+1,disease_on_symptoms,21,22,1.4465166616329408
+2,disease_on_drugs,17,24,0.5753228120516498

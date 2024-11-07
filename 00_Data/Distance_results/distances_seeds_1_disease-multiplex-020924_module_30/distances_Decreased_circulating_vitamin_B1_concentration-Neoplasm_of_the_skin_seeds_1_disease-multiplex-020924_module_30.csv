@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,25,28,0.05272237196765506
+1,disease_on_symptoms,13,21,1.0772462831286362
+2,disease_on_drugs,16,24,0.40625

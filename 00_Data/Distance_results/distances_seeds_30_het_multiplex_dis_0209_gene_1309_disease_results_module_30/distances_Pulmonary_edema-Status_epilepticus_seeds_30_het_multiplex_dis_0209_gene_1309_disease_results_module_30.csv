@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,11,18,0.04641239986067558
+2,disease_on_drugs,27,30,0.10497076023391805

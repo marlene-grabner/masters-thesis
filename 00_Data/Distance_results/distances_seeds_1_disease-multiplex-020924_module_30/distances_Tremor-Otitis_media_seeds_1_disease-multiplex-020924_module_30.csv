@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Otitis_media nodes,sAB
+0,disease_on_genes,16,29,0.2644875478927202
+1,disease_on_symptoms,23,22,1.4655248133509002
+2,disease_on_drugs,16,29,0.7836925287356322

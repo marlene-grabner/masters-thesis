@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,0.12358674463937636
+1,disease_on_symptoms,14,17,1.7905936568175658
+2,disease_on_drugs,29,20,0.3265306122448979

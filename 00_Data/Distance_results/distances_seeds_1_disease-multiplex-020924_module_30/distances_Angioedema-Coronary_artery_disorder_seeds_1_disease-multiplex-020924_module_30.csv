@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,19,0.23242281235002404
+1,disease_on_symptoms,17,21,0.8771192687601355
+2,disease_on_drugs,25,17,0.5952380952380953

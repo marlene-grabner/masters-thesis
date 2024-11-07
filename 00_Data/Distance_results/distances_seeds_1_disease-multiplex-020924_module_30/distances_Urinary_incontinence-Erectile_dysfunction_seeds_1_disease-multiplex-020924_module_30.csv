@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,0.063003663003663
+1,disease_on_symptoms,20,16,1.1840277777777777
+2,disease_on_drugs,20,30,0.44999999999999996

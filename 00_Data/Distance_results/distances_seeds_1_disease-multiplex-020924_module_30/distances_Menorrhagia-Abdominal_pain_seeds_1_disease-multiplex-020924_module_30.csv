@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,-0.21602564102564115
+1,disease_on_symptoms,19,24,0.2855722154222766
+2,disease_on_drugs,24,24,-0.27083333333333337

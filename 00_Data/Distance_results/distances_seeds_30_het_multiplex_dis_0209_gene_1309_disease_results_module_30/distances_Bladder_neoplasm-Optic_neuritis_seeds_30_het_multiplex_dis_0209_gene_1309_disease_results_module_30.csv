@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,-0.18867924528301883
+1,disease_on_symptoms,19,21,0.024436090225564033
+2,disease_on_drugs,25,27,-0.19088319088319106

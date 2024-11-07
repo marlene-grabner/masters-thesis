@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,26,25,-0.17686274509803923
+1,disease_on_symptoms,19,17,-0.16253869969040258
+2,disease_on_drugs,25,25,0.11999999999999988

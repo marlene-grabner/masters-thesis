@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,21,13,0.21299288946347783
+2,disease_on_drugs,25,24,-0.12426870748299312

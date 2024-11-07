@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,18,20,0.7992690058479532
+2,disease_on_drugs,22,30,-0.013986013986013957

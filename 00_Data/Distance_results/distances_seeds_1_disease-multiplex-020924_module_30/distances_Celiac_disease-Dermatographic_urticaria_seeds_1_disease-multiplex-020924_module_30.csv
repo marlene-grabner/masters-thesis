@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,17,29,0.028132992327365658
+1,disease_on_symptoms,22,14,0.6547619047619049
+2,disease_on_drugs,15,28,0.2689922480620157

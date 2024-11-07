@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,22,22,0.7272727272727273
+2,disease_on_drugs,29,28,0.29758663901132154

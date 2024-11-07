@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.12068965517241381
+1,disease_on_symptoms,17,13,0.34238310708898956
+2,disease_on_drugs,26,28,0.055250305250305054

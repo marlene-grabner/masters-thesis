@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.09090909090909094
+1,disease_on_symptoms,19,20,1.4359986504723345
+2,disease_on_drugs,29,21,0.11339901477832526

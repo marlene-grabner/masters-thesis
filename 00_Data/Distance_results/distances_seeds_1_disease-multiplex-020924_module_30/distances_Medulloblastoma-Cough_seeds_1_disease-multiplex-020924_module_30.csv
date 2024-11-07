@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Cough nodes,sAB
+0,disease_on_genes,26,27,0.207896575821104
+1,disease_on_symptoms,19,21,1.8350877192982455
+2,disease_on_drugs,24,27,0.8440904139433549

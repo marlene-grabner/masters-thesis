@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,27,28,-0.10845358345358336
+1,disease_on_symptoms,23,18,1.172793684458584
+2,disease_on_drugs,25,26,0.3528808446455507

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,20,19,1.1828947368421052
+2,disease_on_drugs,27,18,-0.29074074074074074

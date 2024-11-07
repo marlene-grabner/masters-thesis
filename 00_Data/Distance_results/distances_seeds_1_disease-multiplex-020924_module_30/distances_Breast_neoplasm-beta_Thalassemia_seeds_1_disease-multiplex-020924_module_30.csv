@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.4125874125874125
+1,disease_on_symptoms,16,21,2.617076898326898
+2,disease_on_drugs,30,6,1.1944444444444446

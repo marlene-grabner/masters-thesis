@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,26,15,-0.0016666666666667052
+1,disease_on_symptoms,19,27,2.042715484363082
+2,disease_on_drugs,24,13,0.972972972972973

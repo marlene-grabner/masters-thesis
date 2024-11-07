@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,25,-0.037749287749287874
+1,disease_on_symptoms,17,20,0.3763513513513512
+2,disease_on_drugs,24,25,-0.022602040816326552

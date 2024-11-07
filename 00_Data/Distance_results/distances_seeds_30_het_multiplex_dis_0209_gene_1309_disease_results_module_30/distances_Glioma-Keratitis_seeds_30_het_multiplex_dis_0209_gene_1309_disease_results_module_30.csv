@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Keratitis nodes,sAB
+0,disease_on_genes,22,30,-0.016666666666666607
+1,disease_on_symptoms,21,25,0.5378881987577637
+2,disease_on_drugs,21,29,0.1540886699507389

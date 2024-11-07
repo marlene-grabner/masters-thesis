@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,0.4736842105263157
+1,disease_on_symptoms,23,12,2.2353002070393373
+2,disease_on_drugs,20,22,1.2619047619047619

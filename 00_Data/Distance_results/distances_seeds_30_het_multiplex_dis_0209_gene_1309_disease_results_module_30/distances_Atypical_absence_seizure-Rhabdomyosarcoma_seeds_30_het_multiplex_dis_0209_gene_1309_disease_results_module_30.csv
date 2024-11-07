@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,13,19,1.0540232793522266
+2,disease_on_drugs,22,29,0.5122779519331244

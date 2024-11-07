@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,27,24,0.0980392156862746
+1,disease_on_symptoms,16,23,0.8596362876254182
+2,disease_on_drugs,23,22,0.398989898989899

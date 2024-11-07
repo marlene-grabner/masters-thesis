@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.13471654003506717
+1,disease_on_symptoms,18,16,0.7177287581699345
+2,disease_on_drugs,27,25,0.1766381766381766

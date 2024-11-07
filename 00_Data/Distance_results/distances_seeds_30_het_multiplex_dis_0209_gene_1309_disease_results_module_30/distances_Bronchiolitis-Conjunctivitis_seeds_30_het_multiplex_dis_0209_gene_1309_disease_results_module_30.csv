@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,28,29,0.08771929824561409
+1,disease_on_symptoms,25,27,0.07737891737891722
+2,disease_on_drugs,24,28,0.07234432234432253

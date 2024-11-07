@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.21041837571780153
+1,disease_on_symptoms,21,19,0.3739974937343358
+2,disease_on_drugs,29,21,-0.09602627257799679

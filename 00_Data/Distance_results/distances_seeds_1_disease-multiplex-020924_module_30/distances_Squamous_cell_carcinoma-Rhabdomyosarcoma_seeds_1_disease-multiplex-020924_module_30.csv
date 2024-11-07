@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,16,23,-0.0720457079152732
+1,disease_on_symptoms,26,24,0.04294871794871802
+2,disease_on_drugs,14,17,-0.12903225806451613

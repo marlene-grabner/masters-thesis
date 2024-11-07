@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.2666666666666666
+1,disease_on_symptoms,19,20,-0.2825910931174087
+2,disease_on_drugs,29,24,-0.15555194101062675

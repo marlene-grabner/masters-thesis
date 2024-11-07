@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.05757575757575761
+1,disease_on_symptoms,14,26,0.22967032967032974
+2,disease_on_drugs,24,21,0.04444444444444451

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.1472269110200144
+1,disease_on_symptoms,21,20,1.221631823461092
+2,disease_on_drugs,23,26,0.26530612244897966

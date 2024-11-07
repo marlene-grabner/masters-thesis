@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,18,16,0.6397058823529411
+2,disease_on_drugs,27,28,0.29080086580086584

@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,29,24,0.19207875457875456
+1,disease_on_symptoms,17,21,0.4310039805395842
+2,disease_on_drugs,25,24,0.5284863945578233

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,23,20,0.11036400404448932
+1,disease_on_symptoms,25,23,0.18373188405797092
+2,disease_on_drugs,22,17,0.7809886192239133

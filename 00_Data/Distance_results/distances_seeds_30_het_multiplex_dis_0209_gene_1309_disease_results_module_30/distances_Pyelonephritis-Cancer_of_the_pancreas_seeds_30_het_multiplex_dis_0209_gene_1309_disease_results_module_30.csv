@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,24,30,-0.0023148148148148806
+1,disease_on_symptoms,19,23,0.10667974283534942
+2,disease_on_drugs,19,30,-0.14457572502685268

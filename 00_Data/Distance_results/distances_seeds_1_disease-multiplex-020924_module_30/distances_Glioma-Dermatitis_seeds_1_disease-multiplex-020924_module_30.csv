@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Dermatitis nodes,sAB
+0,disease_on_genes,22,26,0.1900386847195359
+1,disease_on_symptoms,24,25,1.2881462585034014
+2,disease_on_drugs,20,24,0.8878787878787879

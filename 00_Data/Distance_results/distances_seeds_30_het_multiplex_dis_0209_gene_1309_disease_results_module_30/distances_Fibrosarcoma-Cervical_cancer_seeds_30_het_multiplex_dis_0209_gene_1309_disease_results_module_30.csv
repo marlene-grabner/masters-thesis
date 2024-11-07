@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,14,22,0.15043290043290014
+2,disease_on_drugs,26,15,0.04290181363352086

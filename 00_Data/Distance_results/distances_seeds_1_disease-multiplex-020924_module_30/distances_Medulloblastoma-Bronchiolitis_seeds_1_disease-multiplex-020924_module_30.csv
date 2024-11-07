@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.3660159716060336
+1,disease_on_symptoms,19,25,1.2256937799043062
+2,disease_on_drugs,24,18,1.038690476190476

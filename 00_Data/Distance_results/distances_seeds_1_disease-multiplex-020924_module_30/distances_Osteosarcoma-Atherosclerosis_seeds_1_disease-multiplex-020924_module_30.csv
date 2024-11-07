@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,25,30,0.30727272727272736
+1,disease_on_symptoms,24,13,0.7252685377685375
+2,disease_on_drugs,23,29,0.75

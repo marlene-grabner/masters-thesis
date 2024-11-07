@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,17,25,0.38117647058823523
+1,disease_on_symptoms,21,23,2.5036702428006774
+2,disease_on_drugs,14,21,0.8666666666666667

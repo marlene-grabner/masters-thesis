@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,29,24,0.28268000433745377
+1,disease_on_symptoms,17,19,1.6711386308909528
+2,disease_on_drugs,30,19,1.2212674543501612

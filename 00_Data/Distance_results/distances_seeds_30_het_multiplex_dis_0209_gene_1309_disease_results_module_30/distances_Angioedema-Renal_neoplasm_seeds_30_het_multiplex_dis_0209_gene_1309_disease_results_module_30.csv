@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,18,20,0.38845029239766093
+2,disease_on_drugs,26,28,0.14453601953601947

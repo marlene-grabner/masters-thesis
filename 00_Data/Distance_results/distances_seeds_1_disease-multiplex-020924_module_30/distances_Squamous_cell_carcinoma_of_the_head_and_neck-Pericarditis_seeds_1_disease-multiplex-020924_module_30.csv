@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma_of_the_head_and_neck nodes,Pericarditis nodes,sAB
+0,disease_on_genes,21,25,0.06314699792960665
+1,disease_on_symptoms,25,22,1.2428626692456481
+2,disease_on_drugs,21,25,0.7408695652173913

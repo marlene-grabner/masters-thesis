@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,-0.1428571428571429
+1,disease_on_symptoms,22,17,0.5759289729877966
+2,disease_on_drugs,26,22,-0.11727855477855487

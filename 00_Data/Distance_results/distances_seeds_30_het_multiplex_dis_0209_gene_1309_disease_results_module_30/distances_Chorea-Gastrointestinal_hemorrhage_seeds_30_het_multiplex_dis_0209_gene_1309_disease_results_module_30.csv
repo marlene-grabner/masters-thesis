@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,0.01662561576354693
+1,disease_on_symptoms,17,20,0.43791732909379966
+2,disease_on_drugs,24,27,0.19403594771241806

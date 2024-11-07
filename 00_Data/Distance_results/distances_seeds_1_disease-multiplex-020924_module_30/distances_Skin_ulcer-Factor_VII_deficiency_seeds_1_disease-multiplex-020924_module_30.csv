@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.40515151515151504
+1,disease_on_symptoms,19,23,2.1861719516181757
+2,disease_on_drugs,22,21,0.7917044196113963

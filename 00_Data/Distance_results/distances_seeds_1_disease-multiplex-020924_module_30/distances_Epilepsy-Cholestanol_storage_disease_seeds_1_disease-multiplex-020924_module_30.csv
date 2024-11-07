@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,29,30,-0.016949152542372836
+1,disease_on_symptoms,18,17,-0.006862745098039191
+2,disease_on_drugs,30,25,-0.027575757575757587

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,29,30,0.20395480225988716
+1,disease_on_symptoms,15,14,1.6464696223316915
+2,disease_on_drugs,27,24,1.0610021786492374

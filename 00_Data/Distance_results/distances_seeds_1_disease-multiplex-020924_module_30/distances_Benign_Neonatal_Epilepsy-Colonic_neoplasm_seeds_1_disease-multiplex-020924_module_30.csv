@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,0.2542372881355932
+1,disease_on_symptoms,16,19,1.925140977443609
+2,disease_on_drugs,26,29,1.5090909090909093

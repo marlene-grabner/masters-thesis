@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,23,18,0.1272534464475079
+1,disease_on_symptoms,19,21,3.741478696741855
+2,disease_on_drugs,19,17,1.4950980392156863

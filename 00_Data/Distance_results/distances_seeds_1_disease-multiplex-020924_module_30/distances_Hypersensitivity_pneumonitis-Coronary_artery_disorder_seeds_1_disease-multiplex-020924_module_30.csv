@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,24,19,0.27600979192166486
+1,disease_on_symptoms,23,21,1.3961509504987766
+2,disease_on_drugs,24,17,0.5365853658536586

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,18,16,0.6875
+2,disease_on_drugs,28,29,0.17381816610491763

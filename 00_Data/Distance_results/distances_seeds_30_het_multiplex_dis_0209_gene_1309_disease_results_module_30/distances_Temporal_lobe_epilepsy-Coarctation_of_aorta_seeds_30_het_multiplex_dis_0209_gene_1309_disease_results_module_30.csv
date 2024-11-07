@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.08869395711500982
+1,disease_on_symptoms,17,19,-0.08883728930168555
+2,disease_on_drugs,28,24,-0.1137820512820511

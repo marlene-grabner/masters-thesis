@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,14,21,0.4500000000000002
+1,disease_on_symptoms,27,20,-0.03906619385342802
+2,disease_on_drugs,8,19,0.42970272904483453

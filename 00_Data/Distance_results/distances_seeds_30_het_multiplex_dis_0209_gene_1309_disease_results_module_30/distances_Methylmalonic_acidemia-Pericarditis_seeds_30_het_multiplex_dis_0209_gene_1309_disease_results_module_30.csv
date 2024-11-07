@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,25,26,-0.05882352941176472
+1,disease_on_symptoms,17,21,0.43078283945157025
+2,disease_on_drugs,21,26,0.0006819421713037954

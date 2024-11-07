@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,20,30,0.2250000000000001
+1,disease_on_symptoms,22,17,0.9078225695872753
+2,disease_on_drugs,15,25,1.155

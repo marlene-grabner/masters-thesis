@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,28,-0.4724025974025974
+1,disease_on_symptoms,18,19,-0.3766793108898372
+2,disease_on_drugs,22,25,-0.5962669245647971

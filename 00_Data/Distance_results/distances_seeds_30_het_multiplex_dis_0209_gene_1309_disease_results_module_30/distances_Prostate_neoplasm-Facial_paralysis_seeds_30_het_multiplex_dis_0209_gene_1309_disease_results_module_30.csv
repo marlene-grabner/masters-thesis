@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,21,22,0.2552602436323368
+1,disease_on_symptoms,20,21,0.9812137049941927
+2,disease_on_drugs,21,17,0.6969629957246055

@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,0.2952380952380953
+1,disease_on_symptoms,15,17,1.3813725490196078
+2,disease_on_drugs,21,26,1.2902735562310033

@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,28,29,0.01754385964912286
+1,disease_on_symptoms,13,20,0.5770979020979023
+2,disease_on_drugs,28,27,-0.0384559884559883

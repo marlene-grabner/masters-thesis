@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,25,30,0.08909090909090911
+1,disease_on_symptoms,17,20,0.8504769475357712
+2,disease_on_drugs,25,24,0.22401360544217663

@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,21,25,0.3547619047619046
+1,disease_on_symptoms,24,26,1.9028846153846155
+2,disease_on_drugs,14,21,0.8642857142857143

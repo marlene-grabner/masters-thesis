@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,26,18,-0.25
+1,disease_on_symptoms,21,21,1.7857142857142856
+2,disease_on_drugs,26,17,-0.17960117857518676

@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,0.05165692007797262
+1,disease_on_symptoms,19,17,0.3817509459924322
+2,disease_on_drugs,24,30,0.28842592592592586

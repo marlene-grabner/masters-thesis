@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Rosacea nodes,sAB
+0,disease_on_genes,18,30,0.5125
+1,disease_on_symptoms,18,17,1.8208683473389355
+2,disease_on_drugs,10,27,0.1364864864864863

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,25,28,0.09433962264150941
+1,disease_on_symptoms,19,18,1.024853801169591
+2,disease_on_drugs,25,27,0.3052136752136754

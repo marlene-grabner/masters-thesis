@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,19,0.31926663505610886
+2,disease_on_drugs,21,30,-0.1633053221288514

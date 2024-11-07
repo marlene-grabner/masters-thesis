@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,27,30,0.15692007797270957
+1,disease_on_symptoms,22,13,0.522927072927073
+2,disease_on_drugs,24,29,0.6564465408805034

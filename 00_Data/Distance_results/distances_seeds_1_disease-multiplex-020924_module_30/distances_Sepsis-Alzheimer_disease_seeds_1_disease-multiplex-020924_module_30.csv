@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,22,20,0.3375541125541126
+1,disease_on_symptoms,23,23,1.5869565217391304
+2,disease_on_drugs,17,18,0.626890756302521

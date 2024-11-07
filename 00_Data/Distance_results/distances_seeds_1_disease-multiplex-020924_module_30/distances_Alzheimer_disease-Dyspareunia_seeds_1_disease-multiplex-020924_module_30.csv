@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,20,24,0.17954545454545467
+1,disease_on_symptoms,23,17,0.8994245524296673
+2,disease_on_drugs,18,23,0.666489925768823

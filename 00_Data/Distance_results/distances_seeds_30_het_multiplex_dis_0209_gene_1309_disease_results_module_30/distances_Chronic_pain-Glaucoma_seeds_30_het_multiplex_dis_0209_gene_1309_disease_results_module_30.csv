@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,19,18,-0.2673067804646754
+2,disease_on_drugs,28,28,-0.19642857142857129

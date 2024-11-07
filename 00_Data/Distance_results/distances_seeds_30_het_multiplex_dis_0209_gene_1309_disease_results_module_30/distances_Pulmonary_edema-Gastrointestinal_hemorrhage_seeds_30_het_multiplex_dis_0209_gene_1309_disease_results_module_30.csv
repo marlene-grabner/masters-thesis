@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,0.05110837438423643
+1,disease_on_symptoms,11,20,0.12771260997067446
+2,disease_on_drugs,27,27,0.35185185185185186

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,27,28,0.16493506493506493
+1,disease_on_symptoms,17,21,0.2543122512162763
+2,disease_on_drugs,25,24,0.24489795918367352

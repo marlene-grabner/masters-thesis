@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.37869458128078826
+1,disease_on_symptoms,12,17,0.5128465179175117
+2,disease_on_drugs,27,25,0.6923076923076923

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,26,23,0.15998907924373773
+1,disease_on_symptoms,28,16,1.5198863636363638
+2,disease_on_drugs,23,22,1.1560386473429949

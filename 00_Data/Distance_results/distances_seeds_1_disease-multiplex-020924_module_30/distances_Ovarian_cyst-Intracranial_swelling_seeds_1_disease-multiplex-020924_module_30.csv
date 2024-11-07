@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,20,30,0.3683333333333332
+1,disease_on_symptoms,22,14,0.5018037518037517
+2,disease_on_drugs,15,24,0.4689102564102563

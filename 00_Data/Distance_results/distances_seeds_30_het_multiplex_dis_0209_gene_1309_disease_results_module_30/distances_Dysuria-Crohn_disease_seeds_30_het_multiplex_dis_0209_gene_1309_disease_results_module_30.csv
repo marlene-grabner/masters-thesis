@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.1785714285714286
+1,disease_on_symptoms,12,22,1.6568627450980395
+2,disease_on_drugs,21,24,0.27420634920634934

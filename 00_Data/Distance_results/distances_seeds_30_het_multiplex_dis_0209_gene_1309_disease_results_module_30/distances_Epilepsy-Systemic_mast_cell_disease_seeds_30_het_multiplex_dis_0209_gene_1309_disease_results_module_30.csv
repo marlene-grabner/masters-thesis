@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.05112994350282496
+1,disease_on_symptoms,21,25,1.0629813664596273
+2,disease_on_drugs,29,21,0.589983579638752

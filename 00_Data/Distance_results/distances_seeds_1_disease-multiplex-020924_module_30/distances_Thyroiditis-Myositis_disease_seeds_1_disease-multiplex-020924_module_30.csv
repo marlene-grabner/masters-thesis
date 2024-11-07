@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,26,30,-0.307875457875458
+1,disease_on_symptoms,28,24,-0.022435897435897356
+2,disease_on_drugs,23,28,-0.09141700158324206

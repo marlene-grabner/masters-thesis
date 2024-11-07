@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,25,25,0.11999999999999988
+1,disease_on_symptoms,24,17,1.9038139646102343
+2,disease_on_drugs,20,24,0.7310606060606062

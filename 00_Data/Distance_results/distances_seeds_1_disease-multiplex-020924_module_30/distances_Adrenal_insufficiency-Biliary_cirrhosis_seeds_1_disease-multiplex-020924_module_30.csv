@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,17,26,0.2435020519835842
+1,disease_on_symptoms,21,15,0.10079365079365088
+2,disease_on_drugs,14,15,0.9333333333333333

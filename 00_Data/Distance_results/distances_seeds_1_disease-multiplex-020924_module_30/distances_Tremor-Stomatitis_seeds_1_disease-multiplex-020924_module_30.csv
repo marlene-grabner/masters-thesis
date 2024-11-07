@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Stomatitis nodes,sAB
+0,disease_on_genes,16,30,0.33451086956521725
+1,disease_on_symptoms,23,23,1.9565217391304346
+2,disease_on_drugs,16,30,0.477445652173913

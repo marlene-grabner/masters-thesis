@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,26,0.05769230769230771
+1,disease_on_symptoms,19,21,1.0744360902255639
+2,disease_on_drugs,25,26,0.3367269984917043

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,26,27,-0.0185319572112026
+1,disease_on_symptoms,20,21,1.0215447154471544
+2,disease_on_drugs,20,25,0.10999999999999988

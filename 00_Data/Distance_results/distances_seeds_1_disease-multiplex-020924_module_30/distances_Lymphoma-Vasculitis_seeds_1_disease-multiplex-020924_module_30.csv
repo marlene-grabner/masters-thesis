@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.19993589743589735
+1,disease_on_symptoms,21,19,1.1962406015037597
+2,disease_on_drugs,25,20,0.71

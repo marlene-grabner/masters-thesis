@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.15999999999999992
+1,disease_on_symptoms,22,26,1.3104603729603728
+2,disease_on_drugs,29,13,0.2691044587596314

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.3251996450754213
+1,disease_on_symptoms,21,25,1.521821946169772
+2,disease_on_drugs,24,18,0.8214285714285712

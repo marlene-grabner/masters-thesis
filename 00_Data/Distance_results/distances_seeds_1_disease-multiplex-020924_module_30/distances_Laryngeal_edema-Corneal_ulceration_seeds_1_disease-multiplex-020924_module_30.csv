@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.17302955665024622
+1,disease_on_symptoms,20,19,-0.5059379217273956
+2,disease_on_drugs,28,26,-0.2943121693121693

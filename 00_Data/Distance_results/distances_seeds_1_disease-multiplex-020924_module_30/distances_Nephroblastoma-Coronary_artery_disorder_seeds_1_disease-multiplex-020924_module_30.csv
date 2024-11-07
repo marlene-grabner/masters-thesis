@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.39095693779904317
+1,disease_on_symptoms,25,21,1.3579296066252589
+2,disease_on_drugs,21,17,0.894736842105263

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.20363636363636373
+1,disease_on_symptoms,20,21,0.09515098722415827
+2,disease_on_drugs,30,24,0.031481481481481444

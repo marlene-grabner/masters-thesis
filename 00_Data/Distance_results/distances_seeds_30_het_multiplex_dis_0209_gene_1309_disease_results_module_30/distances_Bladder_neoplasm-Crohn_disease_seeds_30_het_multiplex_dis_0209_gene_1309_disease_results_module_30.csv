@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,26,-0.09615384615384615
+1,disease_on_symptoms,19,22,0.6742618741976891
+2,disease_on_drugs,25,24,0.03996598639455806

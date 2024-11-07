@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,14,14,0.03571428571428581
+2,disease_on_drugs,21,29,-0.05211822660098542

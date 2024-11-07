@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,25,24,0.32651360544217667
+1,disease_on_symptoms,19,17,1.728844169246646
+2,disease_on_drugs,13,23,1.017094017094017

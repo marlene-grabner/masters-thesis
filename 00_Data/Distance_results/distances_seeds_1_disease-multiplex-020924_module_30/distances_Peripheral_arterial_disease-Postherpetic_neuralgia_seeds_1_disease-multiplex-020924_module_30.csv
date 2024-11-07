@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,25,30,0.034242424242424185
+1,disease_on_symptoms,14,15,0.9373563218390804
+2,disease_on_drugs,22,29,0.3160919540229885

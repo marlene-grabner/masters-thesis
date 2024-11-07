@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,20,21,0.9942799070847852
+2,disease_on_drugs,29,25,0.15157088122605344

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,29,30,0.25451003311903375
+1,disease_on_symptoms,17,14,1.4970181621035512
+2,disease_on_drugs,26,24,1.040769230769231

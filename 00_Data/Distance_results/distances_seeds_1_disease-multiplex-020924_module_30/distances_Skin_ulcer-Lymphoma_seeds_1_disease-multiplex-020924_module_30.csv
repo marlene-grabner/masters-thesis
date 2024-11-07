@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.11410256410256414
+1,disease_on_symptoms,19,21,0.9383458646616543
+2,disease_on_drugs,22,25,0.5499419729206965

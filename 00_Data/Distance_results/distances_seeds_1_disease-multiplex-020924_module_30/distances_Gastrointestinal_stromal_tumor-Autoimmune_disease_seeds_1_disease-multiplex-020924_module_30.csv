@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,23,22,0.31150636802810716
+1,disease_on_symptoms,20,19,1.33306342780027
+2,disease_on_drugs,19,19,0.6578947368421053

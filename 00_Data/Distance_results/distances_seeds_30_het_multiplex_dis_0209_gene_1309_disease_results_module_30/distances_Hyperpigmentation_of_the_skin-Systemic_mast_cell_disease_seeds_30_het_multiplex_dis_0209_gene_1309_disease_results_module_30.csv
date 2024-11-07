@@ -1,0 +1,4 @@
+,Layer,Hyperpigmentation_of_the_skin nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,17,25,0.8198319327731092
+2,disease_on_drugs,28,21,0.2057823129251699

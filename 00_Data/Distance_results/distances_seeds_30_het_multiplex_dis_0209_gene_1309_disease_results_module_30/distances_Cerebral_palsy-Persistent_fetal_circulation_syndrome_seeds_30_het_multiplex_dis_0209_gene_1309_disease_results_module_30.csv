@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,0.0185185185185186
+1,disease_on_symptoms,13,22,1.3757242757242758
+2,disease_on_drugs,21,21,-0.16666666666666674

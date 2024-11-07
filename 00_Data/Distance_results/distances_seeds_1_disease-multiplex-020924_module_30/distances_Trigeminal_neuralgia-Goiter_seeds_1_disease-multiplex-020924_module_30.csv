@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,0.3695054945054945
+1,disease_on_symptoms,19,15,0.7992776057791535
+2,disease_on_drugs,26,16,0.8617216117216118

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,-0.1200000000000001
+1,disease_on_symptoms,19,23,-0.038029857251825394
+2,disease_on_drugs,24,23,0.08418131359851988

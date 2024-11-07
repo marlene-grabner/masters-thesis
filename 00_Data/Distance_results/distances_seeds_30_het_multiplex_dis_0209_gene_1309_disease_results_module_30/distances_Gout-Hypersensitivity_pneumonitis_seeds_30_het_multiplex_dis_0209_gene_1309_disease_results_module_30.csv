@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,28,25,-0.20653638814016162
+1,disease_on_symptoms,19,20,0.051990553306342946
+2,disease_on_drugs,22,25,-0.2618181818181817

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,25,28,0.6535849056603773
+1,disease_on_symptoms,16,12,2.4107142857142856
+2,disease_on_drugs,17,21,1.3991596638655461

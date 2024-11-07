@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.06757575757575762
+1,disease_on_symptoms,16,13,1.1101624668435015
+2,disease_on_drugs,23,16,0.14022435897435903

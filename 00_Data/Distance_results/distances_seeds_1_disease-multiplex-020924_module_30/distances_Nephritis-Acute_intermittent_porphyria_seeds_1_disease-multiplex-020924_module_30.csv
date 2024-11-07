@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,0.3313840155945418
+1,disease_on_symptoms,18,20,1.9519005847953217
+2,disease_on_drugs,27,15,0.5026455026455028

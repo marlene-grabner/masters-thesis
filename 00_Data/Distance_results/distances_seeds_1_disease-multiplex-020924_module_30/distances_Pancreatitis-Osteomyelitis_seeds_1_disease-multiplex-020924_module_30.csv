@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,-0.34484848484848485
+1,disease_on_symptoms,20,23,-0.15371587462082914
+2,disease_on_drugs,30,23,-0.42083675143560295

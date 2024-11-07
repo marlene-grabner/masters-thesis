@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Goiter nodes,sAB
+0,disease_on_genes,22,26,0.20833333333333326
+1,disease_on_symptoms,21,12,0.7364718614718613
+2,disease_on_drugs,21,18,0.48199023199023205

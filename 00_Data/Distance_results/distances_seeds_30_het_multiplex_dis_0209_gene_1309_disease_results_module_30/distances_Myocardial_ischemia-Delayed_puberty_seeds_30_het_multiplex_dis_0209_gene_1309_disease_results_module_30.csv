@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,19,16,-0.555827067669173
+2,disease_on_drugs,30,29,-0.18792129359049292

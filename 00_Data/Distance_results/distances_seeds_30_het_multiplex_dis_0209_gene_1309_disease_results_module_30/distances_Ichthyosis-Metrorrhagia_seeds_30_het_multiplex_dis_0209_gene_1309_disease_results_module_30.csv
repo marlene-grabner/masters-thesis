@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,28,29,-0.03603896103896098
+1,disease_on_symptoms,18,17,0.539542483660131
+2,disease_on_drugs,25,26,0.060286576168929074

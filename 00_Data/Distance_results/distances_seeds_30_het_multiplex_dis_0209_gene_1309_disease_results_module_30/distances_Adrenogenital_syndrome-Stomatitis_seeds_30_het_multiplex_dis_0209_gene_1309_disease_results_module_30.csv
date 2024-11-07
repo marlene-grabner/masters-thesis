@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,9,19,0.32894736842105265
+2,disease_on_drugs,23,29,0.21188444239418747

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,0.15760073260073248
+1,disease_on_symptoms,28,14,0.8988095238095237
+2,disease_on_drugs,23,24,0.9569842738205365

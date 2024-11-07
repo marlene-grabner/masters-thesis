@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,17,15,0.06629901960784323
+2,disease_on_drugs,24,23,-0.06303962380511896

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,28,0.3392857142857142
+1,disease_on_symptoms,14,12,1.4340659340659343
+2,disease_on_drugs,28,21,1.1122448979591837

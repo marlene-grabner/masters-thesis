@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.2807017543859649
+1,disease_on_symptoms,21,21,0.09523809523809534
+2,disease_on_drugs,29,27,-0.21314541142127352

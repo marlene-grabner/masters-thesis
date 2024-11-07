@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,14,14,0.9642857142857144
+2,disease_on_drugs,11,26,0.19698544698544707

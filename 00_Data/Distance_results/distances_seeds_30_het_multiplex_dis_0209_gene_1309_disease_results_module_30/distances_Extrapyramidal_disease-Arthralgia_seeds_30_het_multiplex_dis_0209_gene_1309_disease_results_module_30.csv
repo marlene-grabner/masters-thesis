@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,17,0.5138655462184873
+2,disease_on_drugs,25,30,-0.08090909090909082

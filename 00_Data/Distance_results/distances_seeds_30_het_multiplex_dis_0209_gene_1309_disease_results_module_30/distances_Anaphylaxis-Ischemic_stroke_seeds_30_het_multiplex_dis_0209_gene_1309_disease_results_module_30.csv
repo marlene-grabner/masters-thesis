@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.08674463937621835
+1,disease_on_symptoms,14,16,1.4988095238095238
+2,disease_on_drugs,26,28,0.2815934065934065

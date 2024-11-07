@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,24,28,0.24793956043956067
+1,disease_on_symptoms,25,25,0.45999999999999996
+2,disease_on_drugs,17,23,0.3597826086956524

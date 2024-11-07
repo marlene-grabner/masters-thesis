@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,26,25,0.15647058823529414
+1,disease_on_symptoms,17,24,2.097351745576279
+2,disease_on_drugs,23,23,0.9565217391304346

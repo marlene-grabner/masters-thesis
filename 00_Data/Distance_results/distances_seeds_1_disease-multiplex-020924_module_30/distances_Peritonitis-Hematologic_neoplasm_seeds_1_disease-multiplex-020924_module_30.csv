@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.36153846153846136
+1,disease_on_symptoms,17,24,1.0020026303204208
+2,disease_on_drugs,28,19,0.7951927691569349

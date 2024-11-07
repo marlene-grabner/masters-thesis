@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,23,-0.11851851851851858
+1,disease_on_symptoms,23,19,0.6167592895281682
+2,disease_on_drugs,25,19,0.09822966507177044

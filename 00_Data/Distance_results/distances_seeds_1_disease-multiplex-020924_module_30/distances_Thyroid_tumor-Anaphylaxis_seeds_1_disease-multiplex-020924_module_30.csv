@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.2592270531400964
+1,disease_on_symptoms,20,15,0.8107142857142855
+2,disease_on_drugs,20,26,0.8930602006688964

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,28,30,0.0858395989974936
+1,disease_on_symptoms,14,12,1.0238095238095237
+2,disease_on_drugs,28,30,1.207471264367816

@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,14,29,-0.0822259136212623
+1,disease_on_symptoms,26,20,0.47265886287625425
+2,disease_on_drugs,14,28,-0.029761904761904878

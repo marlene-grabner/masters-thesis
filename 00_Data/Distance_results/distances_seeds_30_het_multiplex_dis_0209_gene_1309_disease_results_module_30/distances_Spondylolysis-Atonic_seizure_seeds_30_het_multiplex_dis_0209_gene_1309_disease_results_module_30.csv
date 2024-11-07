@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,17,15,0.17107843137254908
+2,disease_on_drugs,19,23,-0.09992372234935165

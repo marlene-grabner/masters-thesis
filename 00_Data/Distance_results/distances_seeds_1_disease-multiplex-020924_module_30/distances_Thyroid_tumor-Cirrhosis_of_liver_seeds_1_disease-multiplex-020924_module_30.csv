@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,23,30,0.3520782061799288
+1,disease_on_symptoms,20,14,0.9531512605042018
+2,disease_on_drugs,20,26,0.6296822742474917

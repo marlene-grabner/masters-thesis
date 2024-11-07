@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,27,0.19999999999999996
+1,disease_on_symptoms,17,22,0.354003839297957
+2,disease_on_drugs,19,27,0.14725824222391704

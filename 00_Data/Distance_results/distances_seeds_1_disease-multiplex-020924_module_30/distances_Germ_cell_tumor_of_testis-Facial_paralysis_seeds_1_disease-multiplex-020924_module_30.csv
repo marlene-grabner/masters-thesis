@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,0.2116724738675957
+1,disease_on_symptoms,23,23,1.2826086956521738
+2,disease_on_drugs,20,14,1.176470588235294

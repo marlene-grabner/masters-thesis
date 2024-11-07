@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.26630036630036624
+1,disease_on_symptoms,21,14,1.1690476190476191
+2,disease_on_drugs,24,26,0.6182692307692308

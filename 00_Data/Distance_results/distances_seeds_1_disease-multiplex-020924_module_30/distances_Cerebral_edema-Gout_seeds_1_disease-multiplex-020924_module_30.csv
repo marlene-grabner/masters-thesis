@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Gout nodes,sAB
+0,disease_on_genes,30,25,0.4309090909090909
+1,disease_on_symptoms,9,18,0.12962962962962954
+2,disease_on_drugs,11,23,0.2192513368983957

@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.21442577030812315
+1,disease_on_symptoms,14,25,1.4190109890109892
+2,disease_on_drugs,26,21,0.6190671031096564

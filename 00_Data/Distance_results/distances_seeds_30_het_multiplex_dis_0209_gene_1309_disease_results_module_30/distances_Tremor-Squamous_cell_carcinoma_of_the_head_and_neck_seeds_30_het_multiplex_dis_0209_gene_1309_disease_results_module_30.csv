@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,30,-0.08596491228070169
+1,disease_on_symptoms,17,22,1.135575209104621
+2,disease_on_drugs,24,30,0.4824074074074074

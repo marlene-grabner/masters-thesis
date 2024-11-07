@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,28,30,0.0
+1,disease_on_symptoms,20,21,0.29567363530778135
+2,disease_on_drugs,25,29,0.14416347381864636

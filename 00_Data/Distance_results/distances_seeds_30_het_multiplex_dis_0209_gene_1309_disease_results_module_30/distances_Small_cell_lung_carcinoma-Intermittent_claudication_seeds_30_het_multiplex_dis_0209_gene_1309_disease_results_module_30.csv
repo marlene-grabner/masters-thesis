@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,19,14,-0.17145135566188197
+2,disease_on_drugs,30,24,0.28935185185185186

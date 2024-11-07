@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,25,26,-0.020000000000000018
+1,disease_on_symptoms,18,21,1.1251526251526252
+2,disease_on_drugs,24,26,0.441282051282051

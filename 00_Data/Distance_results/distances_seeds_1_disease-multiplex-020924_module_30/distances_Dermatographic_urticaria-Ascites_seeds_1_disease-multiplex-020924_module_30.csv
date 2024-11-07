@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,0.15254237288135597
+1,disease_on_symptoms,14,17,0.602737869341285
+2,disease_on_drugs,28,27,0.398989898989899

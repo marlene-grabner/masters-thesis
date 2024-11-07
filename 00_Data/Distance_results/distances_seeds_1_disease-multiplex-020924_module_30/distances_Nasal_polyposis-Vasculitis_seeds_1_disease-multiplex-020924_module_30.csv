@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,15,24,0.48429487179487185
+1,disease_on_symptoms,25,19,1.39688995215311
+2,disease_on_drugs,10,20,0.31666666666666665

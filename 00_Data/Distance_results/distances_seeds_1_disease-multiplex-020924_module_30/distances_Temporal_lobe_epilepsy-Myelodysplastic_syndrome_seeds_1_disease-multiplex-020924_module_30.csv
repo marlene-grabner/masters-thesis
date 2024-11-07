@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,29,26,0.25548589341692796
+1,disease_on_symptoms,17,15,1.5596813725490195
+2,disease_on_drugs,26,21,0.7816810848725742

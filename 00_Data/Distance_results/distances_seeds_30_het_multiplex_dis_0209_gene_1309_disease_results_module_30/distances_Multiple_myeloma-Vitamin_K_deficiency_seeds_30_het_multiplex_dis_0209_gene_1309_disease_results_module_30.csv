@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.21568627450980393
+1,disease_on_symptoms,21,21,0.5238095238095237
+2,disease_on_drugs,25,21,-0.11556935817805392

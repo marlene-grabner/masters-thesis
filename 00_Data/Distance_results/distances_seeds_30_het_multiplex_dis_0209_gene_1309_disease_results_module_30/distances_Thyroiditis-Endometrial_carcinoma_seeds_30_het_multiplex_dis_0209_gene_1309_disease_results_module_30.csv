@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,21,21,0.2857142857142856
+2,disease_on_drugs,29,26,0.20227875572703158

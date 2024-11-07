@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,9,16,0.05472222222222234
+1,disease_on_symptoms,27,21,3.8055555555555554
+2,disease_on_drugs,9,15,1.0416666666666665

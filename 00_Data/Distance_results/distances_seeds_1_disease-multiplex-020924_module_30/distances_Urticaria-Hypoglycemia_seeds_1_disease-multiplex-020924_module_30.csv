@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,10,30,0.5
+1,disease_on_symptoms,27,12,2.381054131054131
+2,disease_on_drugs,9,22,0.7096774193548387

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,22,-0.20219198790627368
+1,disease_on_symptoms,22,24,-0.004364295125164563
+2,disease_on_drugs,24,19,-0.07716238270093845

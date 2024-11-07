@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,25,28,0.28176549865229106
+1,disease_on_symptoms,17,19,0.9419504643962848
+2,disease_on_drugs,24,26,0.6983333333333335

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.22939560439560447
+1,disease_on_symptoms,12,21,0.6731601731601731
+2,disease_on_drugs,27,26,0.9430333817126271

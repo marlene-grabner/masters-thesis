@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.1607142857142857
+1,disease_on_symptoms,19,20,0.10337381916329269
+2,disease_on_drugs,30,24,-0.0185185185185186

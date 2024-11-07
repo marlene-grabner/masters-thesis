@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,22,0.13796620046620034
+1,disease_on_symptoms,20,23,1.6414560161779574
+2,disease_on_drugs,27,17,0.5632303426421075

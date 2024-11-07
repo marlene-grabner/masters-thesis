@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,25,28,0.6413881401617252
+1,disease_on_symptoms,19,24,1.4017237862097103
+2,disease_on_drugs,13,28,0.7307022246046637

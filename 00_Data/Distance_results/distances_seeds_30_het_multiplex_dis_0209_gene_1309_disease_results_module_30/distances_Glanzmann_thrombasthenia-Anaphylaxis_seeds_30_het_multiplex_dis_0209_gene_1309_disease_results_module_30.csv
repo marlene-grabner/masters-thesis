@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,24,27,-0.1165577342047931
+1,disease_on_symptoms,19,14,1.9899179767600819
+2,disease_on_drugs,24,26,0.05980769230769223

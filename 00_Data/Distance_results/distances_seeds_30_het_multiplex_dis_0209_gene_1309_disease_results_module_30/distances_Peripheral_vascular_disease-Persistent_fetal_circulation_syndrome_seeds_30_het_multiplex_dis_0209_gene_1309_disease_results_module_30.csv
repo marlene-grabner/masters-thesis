@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,25,24,0.06163265306122456
+1,disease_on_symptoms,17,22,0.800287947346771
+2,disease_on_drugs,25,21,0.060082815734989525

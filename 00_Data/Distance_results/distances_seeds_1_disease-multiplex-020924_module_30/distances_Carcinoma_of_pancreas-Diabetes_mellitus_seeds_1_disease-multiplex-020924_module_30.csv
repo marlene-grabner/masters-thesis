@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,23,20,0.20406976744186056
+1,disease_on_symptoms,25,18,1.22297157622739
+2,disease_on_drugs,21,19,1.073684210526316

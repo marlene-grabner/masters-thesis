@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,27,26,0.17013384937913223
+1,disease_on_symptoms,17,18,0.8256769374416435
+2,disease_on_drugs,24,23,0.27659574468085113

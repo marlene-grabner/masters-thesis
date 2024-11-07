@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Vitiligo nodes,sAB
+0,disease_on_genes,20,24,0.5821969696969698
+1,disease_on_symptoms,22,22,1.977272727272727
+2,disease_on_drugs,15,11,0.8999999999999999

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,22,14,0.29942279942279937
+2,disease_on_drugs,23,25,0.04471014492753622

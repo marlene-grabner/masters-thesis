@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.3728910968244692
+1,disease_on_symptoms,19,13,-0.06983805668016196
+2,disease_on_drugs,30,28,-0.13924466338259445

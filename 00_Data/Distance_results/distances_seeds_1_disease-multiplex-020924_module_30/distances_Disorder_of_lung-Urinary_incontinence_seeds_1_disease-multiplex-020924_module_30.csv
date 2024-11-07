@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,26,0.14875288931892694
+1,disease_on_symptoms,17,20,0.7386724960254374
+2,disease_on_drugs,20,20,0.19999999999999996

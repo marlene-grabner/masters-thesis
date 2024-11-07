@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,12,18,0.05833333333333357
+1,disease_on_symptoms,27,21,1.7605820105820102
+2,disease_on_drugs,9,17,0.1468074409250879

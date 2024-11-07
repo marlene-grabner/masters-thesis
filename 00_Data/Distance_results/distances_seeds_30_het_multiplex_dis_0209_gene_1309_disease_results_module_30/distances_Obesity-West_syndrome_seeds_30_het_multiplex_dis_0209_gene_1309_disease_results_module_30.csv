@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.14327485380116967
+1,disease_on_symptoms,18,13,0.09125999448580102
+2,disease_on_drugs,25,19,-0.1598086124401914

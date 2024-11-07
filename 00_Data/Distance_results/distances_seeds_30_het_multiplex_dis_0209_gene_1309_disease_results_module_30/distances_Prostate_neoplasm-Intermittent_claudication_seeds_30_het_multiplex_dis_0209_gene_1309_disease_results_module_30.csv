@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,21,30,0.15266106442577043
+1,disease_on_symptoms,20,14,0.5308823529411766
+2,disease_on_drugs,21,24,0.4287698412698413

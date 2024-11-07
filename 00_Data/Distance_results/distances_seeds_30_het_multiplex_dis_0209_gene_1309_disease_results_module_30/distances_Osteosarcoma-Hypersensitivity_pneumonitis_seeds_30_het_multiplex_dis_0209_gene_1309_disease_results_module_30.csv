@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.23333333333333317
+1,disease_on_symptoms,22,20,-0.24772727272727257
+2,disease_on_drugs,29,25,-0.18472541507024254

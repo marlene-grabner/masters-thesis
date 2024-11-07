@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666654
+1,disease_on_symptoms,17,18,-0.17441643323996248
+2,disease_on_drugs,29,24,-0.12855129039253965

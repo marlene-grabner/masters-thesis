@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,25,21,0.0
+1,disease_on_symptoms,23,22,0.6895915678524374
+2,disease_on_drugs,21,19,-0.11729323308270678

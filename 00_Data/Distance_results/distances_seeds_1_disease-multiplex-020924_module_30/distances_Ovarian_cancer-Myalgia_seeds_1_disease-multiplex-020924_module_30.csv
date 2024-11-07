@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,0.12543859649122813
+1,disease_on_symptoms,17,16,1.3675356506238858
+2,disease_on_drugs,25,29,0.9814814814814814

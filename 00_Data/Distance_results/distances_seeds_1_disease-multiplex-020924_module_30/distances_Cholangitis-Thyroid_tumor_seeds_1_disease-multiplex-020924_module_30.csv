@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.3207085346215781
+1,disease_on_symptoms,22,20,0.4527056277056276
+2,disease_on_drugs,26,20,1.4532608695652174

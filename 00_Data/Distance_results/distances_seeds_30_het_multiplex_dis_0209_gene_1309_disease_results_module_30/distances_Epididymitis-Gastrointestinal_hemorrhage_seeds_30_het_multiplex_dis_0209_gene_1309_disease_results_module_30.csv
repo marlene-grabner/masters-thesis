@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,29,28,-0.19329573934837085
+1,disease_on_symptoms,23,20,0.12633973710819002
+2,disease_on_drugs,26,27,-0.0944202547976134

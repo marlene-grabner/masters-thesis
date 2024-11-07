@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,9,30,0.06452991452991452
+1,disease_on_symptoms,27,14,1.2930700735578784
+2,disease_on_drugs,9,24,0.1609848484848484

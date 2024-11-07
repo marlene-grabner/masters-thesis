@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.11941707717569772
+1,disease_on_symptoms,14,19,0.7028935976304398
+2,disease_on_drugs,24,26,0.6599358974358973

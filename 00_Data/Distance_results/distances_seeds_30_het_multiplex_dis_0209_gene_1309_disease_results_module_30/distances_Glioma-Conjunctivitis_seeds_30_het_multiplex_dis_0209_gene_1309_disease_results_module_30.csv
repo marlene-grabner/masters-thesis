@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,22,29,0.0980392156862746
+1,disease_on_symptoms,21,27,0.5171957671957674
+2,disease_on_drugs,21,28,0.41326530612244916

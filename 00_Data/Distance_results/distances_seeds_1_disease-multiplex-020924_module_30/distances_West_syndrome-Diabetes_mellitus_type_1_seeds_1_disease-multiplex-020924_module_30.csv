@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,29,13,0.6465201465201464
+1,disease_on_symptoms,18,25,2.4219638242894055
+2,disease_on_drugs,22,8,1.2666666666666666

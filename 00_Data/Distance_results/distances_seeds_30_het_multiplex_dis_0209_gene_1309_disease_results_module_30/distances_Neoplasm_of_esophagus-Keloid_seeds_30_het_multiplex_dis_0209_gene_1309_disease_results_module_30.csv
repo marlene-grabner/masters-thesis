@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Keloid nodes,sAB
+0,disease_on_genes,29,23,-0.3057029177718832
+1,disease_on_symptoms,20,17,0.13155802861685228
+2,disease_on_drugs,25,22,-0.19294003868471954

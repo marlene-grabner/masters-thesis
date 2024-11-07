@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,27,0.19042627533193568
+1,disease_on_symptoms,21,19,1.992794486215539
+2,disease_on_drugs,24,26,0.8407692307692309

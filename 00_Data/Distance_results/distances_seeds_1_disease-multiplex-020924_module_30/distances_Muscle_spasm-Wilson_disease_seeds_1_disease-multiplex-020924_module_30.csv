@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,25,23,0.16630434782608683
+1,disease_on_symptoms,23,19,2.5006538084341288
+2,disease_on_drugs,19,11,1.2666666666666666

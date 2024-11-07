@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.001818181818181941
+1,disease_on_symptoms,14,26,-0.20137362637362632
+2,disease_on_drugs,26,24,-0.01717948717948725

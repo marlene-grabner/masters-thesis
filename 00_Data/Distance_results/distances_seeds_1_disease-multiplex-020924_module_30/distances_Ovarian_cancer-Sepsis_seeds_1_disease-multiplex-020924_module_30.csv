@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Sepsis nodes,sAB
+0,disease_on_genes,27,22,0.3965677179962892
+1,disease_on_symptoms,17,23,1.2229539641943732
+2,disease_on_drugs,25,17,1.2507002801120446

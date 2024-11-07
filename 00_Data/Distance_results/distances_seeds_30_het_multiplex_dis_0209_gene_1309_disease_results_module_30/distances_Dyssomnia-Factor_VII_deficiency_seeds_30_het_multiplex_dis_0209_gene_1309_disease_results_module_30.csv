@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,18,28,0.15605590062111818
+1,disease_on_symptoms,21,19,2.563721804511278
+2,disease_on_drugs,17,25,0.45400560224089626

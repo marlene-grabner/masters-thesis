@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,0.2907149309588335
+1,disease_on_symptoms,18,23,2.365028867679981
+2,disease_on_drugs,21,14,0.8095238095238095

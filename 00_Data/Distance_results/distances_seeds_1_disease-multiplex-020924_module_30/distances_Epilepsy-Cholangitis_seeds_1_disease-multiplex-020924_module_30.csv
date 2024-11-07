@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Cholangitis nodes,sAB
+0,disease_on_genes,29,27,0.39021164021164023
+1,disease_on_symptoms,18,22,1.209848484848485
+2,disease_on_drugs,30,26,1.2154761904761906

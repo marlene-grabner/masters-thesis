@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.49268145647455985
+1,disease_on_symptoms,17,16,1.704879679144385
+2,disease_on_drugs,18,22,0.7833333333333334

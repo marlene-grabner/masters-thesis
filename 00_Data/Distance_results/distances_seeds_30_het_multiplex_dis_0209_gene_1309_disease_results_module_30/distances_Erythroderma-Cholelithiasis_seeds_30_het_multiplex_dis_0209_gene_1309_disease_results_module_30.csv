@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,20,20,0.5750000000000002
+2,disease_on_drugs,29,18,-0.15812749653542024

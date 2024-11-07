@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,17,26,0.20398351648351665
+1,disease_on_symptoms,27,17,0.3195682313329373
+2,disease_on_drugs,14,18,0.36011904761904767

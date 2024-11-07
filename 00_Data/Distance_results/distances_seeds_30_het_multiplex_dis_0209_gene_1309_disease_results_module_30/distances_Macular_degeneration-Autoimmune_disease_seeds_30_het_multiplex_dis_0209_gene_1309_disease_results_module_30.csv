@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,0.3583333333333334
+1,disease_on_symptoms,17,20,0.35703497615262325
+2,disease_on_drugs,17,25,0.18089635854341735

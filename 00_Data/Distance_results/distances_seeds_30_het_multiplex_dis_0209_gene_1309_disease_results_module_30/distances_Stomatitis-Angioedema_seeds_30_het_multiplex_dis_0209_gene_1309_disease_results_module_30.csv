@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,18,0.24261103208471613
+2,disease_on_drugs,29,26,-0.07055702917771889

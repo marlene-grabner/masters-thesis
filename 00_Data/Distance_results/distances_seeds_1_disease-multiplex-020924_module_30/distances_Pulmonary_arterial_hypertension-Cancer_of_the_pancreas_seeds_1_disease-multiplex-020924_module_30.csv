@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,29,0.31547619047619047
+1,disease_on_symptoms,18,16,1.3010620915032678
+2,disease_on_drugs,26,29,0.7089823969134312

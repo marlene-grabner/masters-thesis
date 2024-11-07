@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,28,0.281644204851752
+1,disease_on_symptoms,25,20,0.8266666666666669
+2,disease_on_drugs,21,27,0.5625

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,23,29,-0.47834736477914874
+1,disease_on_symptoms,21,22,0.046863988724453964
+2,disease_on_drugs,19,29,-0.4267241379310345

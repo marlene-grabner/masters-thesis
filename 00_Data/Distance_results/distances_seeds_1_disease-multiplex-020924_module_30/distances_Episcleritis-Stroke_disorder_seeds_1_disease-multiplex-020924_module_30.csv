@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,22,15,0.12018837018837036
+2,disease_on_drugs,29,30,0.5239625949736995

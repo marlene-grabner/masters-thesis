@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,25,30,0.2163636363636363
+1,disease_on_symptoms,19,17,0.35629514963880315
+2,disease_on_drugs,13,25,0.34153846153846157

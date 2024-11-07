@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,16,-0.1227443609022556
+2,disease_on_drugs,28,29,0.05412237490277416

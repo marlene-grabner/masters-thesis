@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,20,16,0.22777777777777763
+2,disease_on_drugs,28,28,-0.0535714285714286

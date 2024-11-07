@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,-0.23351648351648346
+1,disease_on_symptoms,18,15,0.2207070707070704
+2,disease_on_drugs,25,30,0.10151515151515156

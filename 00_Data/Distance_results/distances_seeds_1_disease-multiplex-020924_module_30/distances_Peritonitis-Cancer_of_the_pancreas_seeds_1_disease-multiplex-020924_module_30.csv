@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.25593220338983036
+1,disease_on_symptoms,17,16,0.8196301247771833
+2,disease_on_drugs,28,29,0.8593250367297554

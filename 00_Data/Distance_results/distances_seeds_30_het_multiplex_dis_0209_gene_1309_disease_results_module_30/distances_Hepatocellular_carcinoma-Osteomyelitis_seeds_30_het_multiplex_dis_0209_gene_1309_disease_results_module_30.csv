@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,24,30,0.12962962962962954
+1,disease_on_symptoms,23,22,0.9952569169960475
+2,disease_on_drugs,22,28,0.3652597402597402

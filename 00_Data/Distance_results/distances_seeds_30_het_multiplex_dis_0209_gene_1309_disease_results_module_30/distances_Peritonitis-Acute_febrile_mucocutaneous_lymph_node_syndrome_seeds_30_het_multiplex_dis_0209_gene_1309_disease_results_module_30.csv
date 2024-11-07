@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,14,13,-0.2622100122100126
+2,disease_on_drugs,24,28,-0.30883699633699635

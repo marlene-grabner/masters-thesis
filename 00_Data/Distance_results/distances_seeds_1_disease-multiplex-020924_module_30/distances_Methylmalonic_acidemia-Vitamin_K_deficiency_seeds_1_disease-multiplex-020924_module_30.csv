@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,25,25,-0.31999999999999995
+1,disease_on_symptoms,16,23,-0.41764214046822734
+2,disease_on_drugs,17,20,-0.16049284578696354

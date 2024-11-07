@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,0.30343459222769575
+1,disease_on_symptoms,15,20,1.9297619047619046
+2,disease_on_drugs,25,26,0.45058823529411773

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Glaucoma nodes,sAB
+0,disease_on_genes,9,30,0.16837606837606822
+1,disease_on_symptoms,27,14,0.4638017808749517
+2,disease_on_drugs,9,30,0.9410256410256412

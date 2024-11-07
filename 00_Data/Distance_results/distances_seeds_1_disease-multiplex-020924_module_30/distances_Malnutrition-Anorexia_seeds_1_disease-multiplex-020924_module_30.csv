@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,17,-0.3188992949594863
+1,disease_on_symptoms,18,25,-0.3887338501291989
+2,disease_on_drugs,23,13,-0.3162393162393161

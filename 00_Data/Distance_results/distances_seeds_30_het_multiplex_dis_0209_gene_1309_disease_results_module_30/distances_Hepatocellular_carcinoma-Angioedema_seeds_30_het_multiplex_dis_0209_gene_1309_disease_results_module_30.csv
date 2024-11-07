@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Angioedema nodes,sAB
+0,disease_on_genes,24,30,0.0185185185185186
+1,disease_on_symptoms,23,18,0.5306350889595854
+2,disease_on_drugs,22,26,0.1933275058275059

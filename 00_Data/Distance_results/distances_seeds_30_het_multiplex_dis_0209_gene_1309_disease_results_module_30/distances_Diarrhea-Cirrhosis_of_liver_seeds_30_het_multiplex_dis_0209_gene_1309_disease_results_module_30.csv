@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,21,19,-0.03865914786967406
+2,disease_on_drugs,29,30,-0.23732709916228312

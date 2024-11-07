@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,28,30,0.2281198686371102
+1,disease_on_symptoms,14,17,1.8626321496340472
+2,disease_on_drugs,24,26,1.0

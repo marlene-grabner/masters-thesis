@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.1949317738791425
+1,disease_on_symptoms,21,19,0.023245614035087847
+2,disease_on_drugs,25,30,-0.08848484848484861

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,16,26,0.31078296703296693
+2,disease_on_drugs,30,28,0.18965517241379315

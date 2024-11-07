@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,24,27,0.1981209150326797
+1,disease_on_symptoms,18,17,0.5407563025210085
+2,disease_on_drugs,18,24,0.5952380952380953

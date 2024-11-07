@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,27,25,0.4022507122507122
+1,disease_on_symptoms,18,23,2.1598326852833742
+2,disease_on_drugs,21,23,1.272539055147751

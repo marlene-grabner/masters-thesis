@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Endometriosis nodes,sAB
+0,disease_on_genes,30,30,0.3166666666666669
+1,disease_on_symptoms,14,12,0.7893772893772892
+2,disease_on_drugs,11,27,0.605263157894737

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.5822898032200357
+1,disease_on_symptoms,22,26,1.2447552447552448
+2,disease_on_drugs,29,9,0.6740270215769311

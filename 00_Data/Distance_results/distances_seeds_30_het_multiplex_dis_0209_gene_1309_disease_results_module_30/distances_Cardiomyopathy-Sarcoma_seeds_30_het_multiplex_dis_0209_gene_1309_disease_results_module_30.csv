@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Sarcoma nodes,sAB
+0,disease_on_genes,25,30,0.05090909090909079
+1,disease_on_symptoms,21,23,0.7787502352719744
+2,disease_on_drugs,24,24,0.25

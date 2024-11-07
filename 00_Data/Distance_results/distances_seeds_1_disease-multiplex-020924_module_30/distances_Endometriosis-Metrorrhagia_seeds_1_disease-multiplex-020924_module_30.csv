@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,-0.4385964912280702
+1,disease_on_symptoms,12,17,-0.9405003380662611
+2,disease_on_drugs,27,26,-0.3969521044992742

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,17,22,0.27840909090909083
+1,disease_on_symptoms,27,22,1.606919535490964
+2,disease_on_drugs,14,14,0.4642857142857144

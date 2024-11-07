@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.02083333333333326
+1,disease_on_symptoms,15,21,1.7182539682539684
+2,disease_on_drugs,23,17,0.002877237851662384

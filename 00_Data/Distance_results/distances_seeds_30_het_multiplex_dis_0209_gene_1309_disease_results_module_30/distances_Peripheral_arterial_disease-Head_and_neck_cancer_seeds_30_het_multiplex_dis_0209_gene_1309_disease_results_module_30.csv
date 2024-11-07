@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,26,27,0.0
+1,disease_on_symptoms,17,22,0.12727958316193622
+2,disease_on_drugs,24,23,0.1510753931544866

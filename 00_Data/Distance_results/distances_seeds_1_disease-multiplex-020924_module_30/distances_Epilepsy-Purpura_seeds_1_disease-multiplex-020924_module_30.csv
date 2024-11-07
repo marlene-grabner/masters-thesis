@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Purpura nodes,sAB
+0,disease_on_genes,29,26,0.3059440559440558
+1,disease_on_symptoms,18,17,2.5670868347338933
+2,disease_on_drugs,30,20,0.9233333333333333

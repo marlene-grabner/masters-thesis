@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,18,22,1.048989898989899
+2,disease_on_drugs,28,24,-0.05311355311355315

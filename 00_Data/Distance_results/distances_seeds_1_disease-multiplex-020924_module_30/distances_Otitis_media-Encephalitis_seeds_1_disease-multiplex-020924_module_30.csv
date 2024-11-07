@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Encephalitis nodes,sAB
+0,disease_on_genes,29,28,-0.4026229366519747
+1,disease_on_symptoms,22,17,-0.5460715754833403
+2,disease_on_drugs,29,18,-0.4134262655906089

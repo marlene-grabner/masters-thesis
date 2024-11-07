@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,14,0.007389162561576512
+2,disease_on_drugs,23,29,-0.08756198823665096

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,28,28,0.1607142857142858
+1,disease_on_symptoms,19,22,0.7532967674174351
+2,disease_on_drugs,22,15,0.25421785421785414

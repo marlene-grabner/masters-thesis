@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Exanthem nodes,sAB
+0,disease_on_genes,25,28,0.2430188679245282
+1,disease_on_symptoms,17,26,1.188466799957908
+2,disease_on_drugs,24,28,0.5558608058608059

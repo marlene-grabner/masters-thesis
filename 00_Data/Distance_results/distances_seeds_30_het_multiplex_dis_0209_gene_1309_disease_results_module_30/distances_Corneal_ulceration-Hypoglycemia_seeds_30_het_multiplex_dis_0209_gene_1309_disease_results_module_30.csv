@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,28,30,-0.13797208538587857
+1,disease_on_symptoms,15,19,0.6128998968008257
+2,disease_on_drugs,23,27,-0.1585829307568436

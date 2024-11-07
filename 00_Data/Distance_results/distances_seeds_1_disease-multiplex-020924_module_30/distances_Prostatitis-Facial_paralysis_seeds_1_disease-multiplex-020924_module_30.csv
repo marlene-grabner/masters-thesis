@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.09567099567099557
+1,disease_on_symptoms,20,23,1.563675429726997
+2,disease_on_drugs,29,14,0.4771451483560547

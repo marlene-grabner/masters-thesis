@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.13587570621468936
+1,disease_on_symptoms,20,13,0.12651515151515147
+2,disease_on_drugs,30,22,0.07482517482517492

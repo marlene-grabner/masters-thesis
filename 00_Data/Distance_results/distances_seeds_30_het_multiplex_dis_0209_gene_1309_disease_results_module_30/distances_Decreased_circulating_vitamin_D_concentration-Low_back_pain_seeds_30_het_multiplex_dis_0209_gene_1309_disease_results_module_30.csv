@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,13,16,-0.23706896551724155
+2,disease_on_drugs,21,25,0.008778467908902687

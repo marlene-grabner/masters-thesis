@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,15,16,0.2604166666666665
+2,disease_on_drugs,29,27,-0.03329684364167118

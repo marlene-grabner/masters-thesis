@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.0002922267679719148
+1,disease_on_symptoms,21,20,0.5200638792102206
+2,disease_on_drugs,29,28,0.33265275257108273

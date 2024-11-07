@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Urticaria nodes,sAB
+0,disease_on_genes,28,10,0.5263157894736843
+1,disease_on_symptoms,21,27,1.488425925925926
+2,disease_on_drugs,21,9,0.5857142857142856

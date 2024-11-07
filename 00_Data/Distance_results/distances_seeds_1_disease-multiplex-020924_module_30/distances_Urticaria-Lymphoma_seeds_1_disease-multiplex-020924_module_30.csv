@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Lymphoma nodes,sAB
+0,disease_on_genes,10,26,0.45299145299145316
+1,disease_on_symptoms,27,21,1.5658068783068781
+2,disease_on_drugs,9,25,0.7247058823529411

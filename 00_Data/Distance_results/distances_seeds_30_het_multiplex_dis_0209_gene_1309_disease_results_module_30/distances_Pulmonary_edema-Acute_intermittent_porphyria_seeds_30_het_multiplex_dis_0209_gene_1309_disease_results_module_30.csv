@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,11,17,0.8815889992360582
+2,disease_on_drugs,27,24,-0.02246732026143805

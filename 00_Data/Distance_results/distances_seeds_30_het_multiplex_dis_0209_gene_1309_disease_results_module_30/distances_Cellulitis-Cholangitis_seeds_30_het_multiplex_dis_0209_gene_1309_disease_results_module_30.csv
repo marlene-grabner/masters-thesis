@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,18,0.07251461988304087
+2,disease_on_drugs,26,28,-0.07112332112332131

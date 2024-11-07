@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,-0.18518518518518523
+1,disease_on_symptoms,17,20,0.145945945945946
+2,disease_on_drugs,24,27,-0.30514705882352944

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,0.24814814814814823
+1,disease_on_symptoms,23,17,1.004859335038363
+2,disease_on_drugs,29,20,0.11154116819141446

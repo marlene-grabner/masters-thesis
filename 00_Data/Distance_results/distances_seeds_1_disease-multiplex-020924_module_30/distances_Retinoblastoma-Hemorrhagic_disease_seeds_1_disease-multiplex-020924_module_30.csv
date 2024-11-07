@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,24,0.22070512820512822
+1,disease_on_symptoms,24,19,1.156594247246022
+2,disease_on_drugs,24,19,0.38310893512851907

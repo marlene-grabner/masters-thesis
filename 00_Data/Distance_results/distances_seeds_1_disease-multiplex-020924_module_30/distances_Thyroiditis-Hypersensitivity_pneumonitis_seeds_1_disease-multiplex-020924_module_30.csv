@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,24,-0.11692307692307691
+1,disease_on_symptoms,28,23,0.02802642796248933
+2,disease_on_drugs,23,24,0.04209065679925983

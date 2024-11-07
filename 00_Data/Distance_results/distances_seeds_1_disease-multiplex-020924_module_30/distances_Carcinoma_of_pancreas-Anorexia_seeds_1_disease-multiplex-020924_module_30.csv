@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Anorexia nodes,sAB
+0,disease_on_genes,23,17,0.25735294117647056
+1,disease_on_symptoms,25,25,1.74
+2,disease_on_drugs,21,13,0.9615384615384617

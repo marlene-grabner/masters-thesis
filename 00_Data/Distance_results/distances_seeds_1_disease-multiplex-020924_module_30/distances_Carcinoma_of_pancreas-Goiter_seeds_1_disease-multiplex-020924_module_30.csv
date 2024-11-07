@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Goiter nodes,sAB
+0,disease_on_genes,23,26,0.1883830455259028
+1,disease_on_symptoms,25,15,0.5533333333333335
+2,disease_on_drugs,21,16,0.5945945945945945

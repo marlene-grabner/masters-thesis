@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,14,0.827922077922078
+1,disease_on_symptoms,9,25,1.4138562091503266
+2,disease_on_drugs,11,10,0.9997835497835499

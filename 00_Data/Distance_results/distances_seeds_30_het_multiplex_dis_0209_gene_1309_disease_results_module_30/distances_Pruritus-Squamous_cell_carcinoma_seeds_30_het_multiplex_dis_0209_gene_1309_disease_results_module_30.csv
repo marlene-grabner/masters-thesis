@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,27,30,-0.08869395711500982
+1,disease_on_symptoms,21,22,0.25377529447296876
+2,disease_on_drugs,27,30,0.24171539961013666

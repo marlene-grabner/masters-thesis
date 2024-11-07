@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,0.20192869666861468
+1,disease_on_symptoms,22,17,0.7767036884683942
+2,disease_on_drugs,29,27,0.51772030651341

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,-0.08163265306122447
+1,disease_on_symptoms,20,17,0.2788553259141495
+2,disease_on_drugs,24,22,0.046113306982872304

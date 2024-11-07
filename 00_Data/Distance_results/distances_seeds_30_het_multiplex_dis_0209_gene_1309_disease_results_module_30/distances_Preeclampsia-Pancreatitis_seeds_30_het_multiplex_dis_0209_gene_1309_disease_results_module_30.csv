@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,18,17,0.27539682539682553
+2,disease_on_drugs,22,30,-0.14731934731934726

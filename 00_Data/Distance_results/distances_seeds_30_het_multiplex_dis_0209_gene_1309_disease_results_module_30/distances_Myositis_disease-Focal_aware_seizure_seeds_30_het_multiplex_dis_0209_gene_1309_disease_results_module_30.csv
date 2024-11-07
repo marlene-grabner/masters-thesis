@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.20310734463276825
+1,disease_on_symptoms,18,16,-0.049428104575163445
+2,disease_on_drugs,26,29,-0.22921388955871702

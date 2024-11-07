@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.26293706293706265
+1,disease_on_symptoms,15,19,0.9973168214654284
+2,disease_on_drugs,23,19,0.4995641277105809

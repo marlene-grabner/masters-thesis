@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,25,30,0.3251515151515152
+1,disease_on_symptoms,20,15,1.3083333333333336
+2,disease_on_drugs,14,30,0.3246753246753247

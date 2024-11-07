@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,19,18,0.6233206891101628
+2,disease_on_drugs,30,26,0.3905677655677653

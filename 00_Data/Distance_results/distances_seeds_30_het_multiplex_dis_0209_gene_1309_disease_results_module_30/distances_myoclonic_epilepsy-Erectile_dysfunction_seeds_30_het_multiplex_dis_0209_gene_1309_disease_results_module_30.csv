@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,16,15,0.8879032258064514
+2,disease_on_drugs,25,30,0.3596969696969696

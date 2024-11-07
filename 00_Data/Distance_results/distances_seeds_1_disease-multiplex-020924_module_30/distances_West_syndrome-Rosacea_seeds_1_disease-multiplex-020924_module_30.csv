@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Rosacea nodes,sAB
+0,disease_on_genes,29,30,0.4584745762711864
+1,disease_on_symptoms,18,17,1.0534080298786181
+2,disease_on_drugs,22,27,0.6326530612244898

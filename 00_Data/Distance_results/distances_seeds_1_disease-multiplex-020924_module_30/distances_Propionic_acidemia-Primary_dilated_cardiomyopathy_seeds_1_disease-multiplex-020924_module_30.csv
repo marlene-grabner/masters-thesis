@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,22,30,0.3076923076923077
+1,disease_on_symptoms,17,25,2.7619607843137257
+2,disease_on_drugs,21,7,0.392857142857143

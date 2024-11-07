@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.5327044025157235
+1,disease_on_symptoms,16,22,2.0524820574162677
+2,disease_on_drugs,23,17,0.8465473145780051

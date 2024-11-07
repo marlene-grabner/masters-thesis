@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,26,28,0.18650793650793673
+1,disease_on_symptoms,20,17,1.1072734499205086
+2,disease_on_drugs,25,28,1.2264150943396226

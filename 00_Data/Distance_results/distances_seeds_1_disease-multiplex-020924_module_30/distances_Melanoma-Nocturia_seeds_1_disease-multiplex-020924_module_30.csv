@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Nocturia nodes,sAB
+0,disease_on_genes,24,21,0.34065934065934056
+1,disease_on_symptoms,23,24,1.9994796484736357
+2,disease_on_drugs,22,14,0.8095238095238095

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,25,0.25071225071225056
+1,disease_on_symptoms,21,26,1.680987452264048
+2,disease_on_drugs,27,21,0.9837962962962963

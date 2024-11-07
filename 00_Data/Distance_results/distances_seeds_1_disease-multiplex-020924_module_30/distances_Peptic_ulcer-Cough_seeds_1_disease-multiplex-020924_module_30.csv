@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Cough nodes,sAB
+0,disease_on_genes,28,27,-0.16202501202501196
+1,disease_on_symptoms,14,21,0.788095238095238
+2,disease_on_drugs,28,27,0.19932659932659913

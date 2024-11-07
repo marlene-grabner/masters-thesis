@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Malnutrition nodes,sAB
+0,disease_on_genes,23,26,0.16295815985256978
+1,disease_on_symptoms,19,18,2.2991149043780625
+2,disease_on_drugs,19,23,0.8809523809523809

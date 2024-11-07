@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,14,21,0.15476190476190466
+2,disease_on_drugs,25,29,-0.28452107279693495

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Priapism nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333215
+1,disease_on_symptoms,22,17,1.3748457424928011
+2,disease_on_drugs,29,28,0.21109886785930354

@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,23,30,-0.317022149302707
+1,disease_on_symptoms,25,23,-0.1200000000000001
+2,disease_on_drugs,18,30,-0.4125

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,20,25,0.06277777777777782
+1,disease_on_symptoms,22,17,0.5933429315782257
+2,disease_on_drugs,15,24,0.4224358974358975

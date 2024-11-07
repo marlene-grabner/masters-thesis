@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Sarcoma nodes,sAB
+0,disease_on_genes,25,25,0.2999999999999998
+1,disease_on_symptoms,23,26,1.8112586171592384
+2,disease_on_drugs,19,21,1.4

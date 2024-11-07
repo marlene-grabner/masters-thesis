@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.1596491228070176
+1,disease_on_symptoms,17,24,0.6539335246293638
+2,disease_on_drugs,28,25,0.4713342318059299

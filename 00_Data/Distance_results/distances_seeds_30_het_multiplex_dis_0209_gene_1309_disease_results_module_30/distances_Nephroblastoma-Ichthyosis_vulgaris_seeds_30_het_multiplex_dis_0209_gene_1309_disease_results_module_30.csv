@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,0.054187192118226646
+1,disease_on_symptoms,20,21,0.7991579558652728
+2,disease_on_drugs,24,24,0.04166666666666652

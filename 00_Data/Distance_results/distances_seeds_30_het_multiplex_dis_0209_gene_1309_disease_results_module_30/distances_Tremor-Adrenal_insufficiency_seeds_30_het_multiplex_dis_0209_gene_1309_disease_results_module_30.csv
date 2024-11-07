@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,17,15,0.6175245098039217
+2,disease_on_drugs,24,24,0.3125

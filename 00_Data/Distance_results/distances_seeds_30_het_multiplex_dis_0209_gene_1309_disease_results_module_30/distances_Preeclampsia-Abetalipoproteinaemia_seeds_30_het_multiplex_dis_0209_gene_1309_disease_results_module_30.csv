@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,27,14,0.013066202090592505
+1,disease_on_symptoms,18,26,0.7911810411810412
+2,disease_on_drugs,22,14,0.0400432900432901

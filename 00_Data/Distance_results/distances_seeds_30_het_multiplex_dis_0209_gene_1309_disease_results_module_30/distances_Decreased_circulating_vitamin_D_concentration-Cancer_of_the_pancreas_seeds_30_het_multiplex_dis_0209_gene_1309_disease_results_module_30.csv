@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,13,23,0.6400966183574881
+2,disease_on_drugs,21,30,0.1142857142857141

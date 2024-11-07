@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.21150097465886952
+1,disease_on_symptoms,21,17,-0.24126492702344082
+2,disease_on_drugs,27,30,-0.16003898635477587

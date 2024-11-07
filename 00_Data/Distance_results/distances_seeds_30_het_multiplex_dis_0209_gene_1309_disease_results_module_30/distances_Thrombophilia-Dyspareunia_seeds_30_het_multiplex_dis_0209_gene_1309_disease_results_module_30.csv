@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,29,0.0714285714285714
+1,disease_on_symptoms,18,20,0.48128654970760243
+2,disease_on_drugs,22,28,0.28681818181818164

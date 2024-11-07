@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.19454545454545458
+1,disease_on_symptoms,19,23,1.9468235806908574
+2,disease_on_drugs,30,21,0.5798319327731092

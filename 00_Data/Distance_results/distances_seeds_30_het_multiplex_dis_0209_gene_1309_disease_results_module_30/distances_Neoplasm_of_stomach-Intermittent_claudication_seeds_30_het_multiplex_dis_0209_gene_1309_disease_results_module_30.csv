@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,25,30,-0.020000000000000018
+1,disease_on_symptoms,23,14,0.28789659224441855
+2,disease_on_drugs,24,24,0.39583333333333326

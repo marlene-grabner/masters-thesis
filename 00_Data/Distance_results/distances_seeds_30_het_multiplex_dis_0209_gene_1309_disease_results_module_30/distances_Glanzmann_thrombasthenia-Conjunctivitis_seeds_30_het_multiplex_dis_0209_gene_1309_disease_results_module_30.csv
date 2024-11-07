@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,24,29,0.09433962264150941
+1,disease_on_symptoms,19,27,0.4044410543266377
+2,disease_on_drugs,24,28,0.4649725274725274

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,24,30,-0.07407407407407407
+1,disease_on_symptoms,23,19,0.17778141004685621
+2,disease_on_drugs,22,28,0.0031168831168832956

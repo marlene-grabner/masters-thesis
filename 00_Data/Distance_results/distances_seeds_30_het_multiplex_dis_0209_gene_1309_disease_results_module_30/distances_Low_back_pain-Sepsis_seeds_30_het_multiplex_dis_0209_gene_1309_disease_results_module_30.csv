@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,16,15,1.0153225806451616
+2,disease_on_drugs,25,25,0.2400000000000002

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,27,27,0.2407407407407407
+1,disease_on_symptoms,22,21,0.9726416993858855
+2,disease_on_drugs,24,24,0.6666666666666667

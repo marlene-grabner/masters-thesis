@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,15,29,0.3196969696969698
+1,disease_on_symptoms,27,15,1.6761904761904765
+2,disease_on_drugs,13,29,1.3095238095238093

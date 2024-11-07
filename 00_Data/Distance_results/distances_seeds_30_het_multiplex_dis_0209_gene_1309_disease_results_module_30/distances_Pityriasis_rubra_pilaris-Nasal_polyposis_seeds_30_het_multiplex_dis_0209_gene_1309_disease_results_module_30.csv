@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,27,30,-0.10721247563352843
+1,disease_on_symptoms,21,20,0.19349593495934947
+2,disease_on_drugs,25,25,-0.10000000000000009

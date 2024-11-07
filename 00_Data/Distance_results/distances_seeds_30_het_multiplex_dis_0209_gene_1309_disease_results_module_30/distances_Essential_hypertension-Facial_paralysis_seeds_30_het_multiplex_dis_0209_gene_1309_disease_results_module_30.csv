@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,22,0.17999999999999994
+1,disease_on_symptoms,13,21,1.2807584572290454
+2,disease_on_drugs,28,17,0.2941643323996266

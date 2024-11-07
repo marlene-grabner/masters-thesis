@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,-0.038868778280543026
+1,disease_on_symptoms,17,17,0.9411764705882353
+2,disease_on_drugs,20,24,-0.01893939393939381

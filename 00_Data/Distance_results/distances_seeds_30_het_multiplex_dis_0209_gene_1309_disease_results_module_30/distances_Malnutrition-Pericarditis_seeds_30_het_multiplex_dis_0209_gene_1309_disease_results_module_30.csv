@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,14,21,-0.042857142857142705
+2,disease_on_drugs,29,26,-0.13107065348444658

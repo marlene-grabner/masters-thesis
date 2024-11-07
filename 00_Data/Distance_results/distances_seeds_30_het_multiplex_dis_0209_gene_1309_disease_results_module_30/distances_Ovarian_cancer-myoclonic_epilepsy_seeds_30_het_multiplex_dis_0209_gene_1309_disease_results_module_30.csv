@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,17,16,1.5487967914438503
+2,disease_on_drugs,17,25,0.4820168067226891

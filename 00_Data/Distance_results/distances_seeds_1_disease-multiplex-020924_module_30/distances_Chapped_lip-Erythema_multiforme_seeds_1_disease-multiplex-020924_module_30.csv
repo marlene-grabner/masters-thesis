@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,26,30,0.03809523809523818
+1,disease_on_symptoms,21,16,0.9611888674388673
+2,disease_on_drugs,24,30,0.2962962962962963

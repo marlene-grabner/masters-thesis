@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,16,22,0.7935107655502396
+2,disease_on_drugs,28,27,0.053487253487253694

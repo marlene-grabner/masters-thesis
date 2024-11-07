@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,20,0.4622222222222221
+1,disease_on_symptoms,21,26,2.079163744057361
+2,disease_on_drugs,20,13,0.35844988344988327

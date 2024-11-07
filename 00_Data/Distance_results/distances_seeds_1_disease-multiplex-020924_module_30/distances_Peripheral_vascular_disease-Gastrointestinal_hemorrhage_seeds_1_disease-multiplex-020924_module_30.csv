@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,23,27,0.23252818035426714
+1,disease_on_symptoms,16,19,1.8060620300751882
+2,disease_on_drugs,22,27,0.9591836734693877

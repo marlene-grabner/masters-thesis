@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,0.035347985347985444
+1,disease_on_symptoms,16,21,1.369811776061776
+2,disease_on_drugs,30,26,0.17582417582417587

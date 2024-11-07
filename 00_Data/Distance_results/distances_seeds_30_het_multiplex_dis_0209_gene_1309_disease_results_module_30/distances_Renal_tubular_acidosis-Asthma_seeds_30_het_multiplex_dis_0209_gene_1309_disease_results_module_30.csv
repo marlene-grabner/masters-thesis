@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.08909090909090911
+1,disease_on_symptoms,14,20,1.6073529411764707
+2,disease_on_drugs,27,22,0.3117398474541331

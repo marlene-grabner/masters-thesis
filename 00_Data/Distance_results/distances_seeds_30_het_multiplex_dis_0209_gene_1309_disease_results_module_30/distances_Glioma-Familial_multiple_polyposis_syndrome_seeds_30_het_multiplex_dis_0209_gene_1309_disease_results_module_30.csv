@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,22,30,-0.15384615384615385
+1,disease_on_symptoms,21,19,0.5120300751879701
+2,disease_on_drugs,21,25,-0.10795031055900606

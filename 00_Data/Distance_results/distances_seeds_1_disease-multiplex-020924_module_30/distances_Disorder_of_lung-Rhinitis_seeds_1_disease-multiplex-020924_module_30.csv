@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.05516569200779742
+1,disease_on_symptoms,17,15,-0.05220588235294121
+2,disease_on_drugs,20,22,-0.0714285714285714

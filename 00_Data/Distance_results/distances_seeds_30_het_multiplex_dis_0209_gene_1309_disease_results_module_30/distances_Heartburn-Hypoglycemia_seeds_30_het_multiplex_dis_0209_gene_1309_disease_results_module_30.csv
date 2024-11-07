@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,-0.3738095238095237
+1,disease_on_symptoms,16,19,0.28082706766917265
+2,disease_on_drugs,25,27,-0.24737891737891726

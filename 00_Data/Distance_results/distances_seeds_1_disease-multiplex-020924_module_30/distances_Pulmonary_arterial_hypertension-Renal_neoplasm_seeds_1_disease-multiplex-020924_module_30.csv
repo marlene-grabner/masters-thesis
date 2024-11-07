@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,28,22,0.3285064935064934
+1,disease_on_symptoms,18,25,2.361886304909561
+2,disease_on_drugs,26,18,0.8671328671328673

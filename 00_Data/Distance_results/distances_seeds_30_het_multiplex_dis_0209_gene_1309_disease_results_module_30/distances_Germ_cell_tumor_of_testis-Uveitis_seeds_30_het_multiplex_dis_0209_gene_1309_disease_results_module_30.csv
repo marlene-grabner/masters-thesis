@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.014619883040935644
+1,disease_on_symptoms,22,20,0.5274891774891772
+2,disease_on_drugs,20,23,0.09643579373104161

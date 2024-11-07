@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Nocturia nodes,sAB
+0,disease_on_genes,25,25,-0.16326530612244894
+1,disease_on_symptoms,23,18,0.16990691646046896
+2,disease_on_drugs,21,24,-0.2801587301587303

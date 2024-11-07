@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,25,23,0.1891666666666667
+1,disease_on_symptoms,25,22,0.8342359767891685
+2,disease_on_drugs,23,17,0.21828644501278793

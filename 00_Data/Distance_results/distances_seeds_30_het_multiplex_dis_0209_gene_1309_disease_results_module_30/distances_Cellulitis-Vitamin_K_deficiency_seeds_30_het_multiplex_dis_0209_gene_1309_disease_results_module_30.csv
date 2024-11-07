@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,20,21,1.1424506387921025
+2,disease_on_drugs,26,21,0.12931571974125178

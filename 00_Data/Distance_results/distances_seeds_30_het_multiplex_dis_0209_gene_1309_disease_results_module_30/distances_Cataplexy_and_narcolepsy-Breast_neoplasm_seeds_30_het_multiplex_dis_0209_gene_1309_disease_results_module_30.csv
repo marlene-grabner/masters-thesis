@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.1454545454545455
+1,disease_on_symptoms,19,20,1.4610998650472335
+2,disease_on_drugs,18,30,-0.06944444444444431

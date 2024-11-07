@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.28157894736842115
+1,disease_on_symptoms,17,15,0.2296568627450979
+2,disease_on_drugs,25,21,0.4327122153209111

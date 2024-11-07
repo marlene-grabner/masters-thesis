@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.037735849056603765
+1,disease_on_symptoms,16,17,1.451147504456328
+2,disease_on_drugs,29,22,0.30283053660335635

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Malnutrition nodes,sAB
+0,disease_on_genes,16,26,0.1460622710622712
+1,disease_on_symptoms,26,18,2.0714840714840714
+2,disease_on_drugs,14,23,0.945945945945946

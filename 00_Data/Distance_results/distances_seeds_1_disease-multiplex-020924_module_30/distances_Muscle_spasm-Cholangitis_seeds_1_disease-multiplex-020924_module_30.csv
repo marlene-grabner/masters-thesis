@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,27,0.32592592592592595
+1,disease_on_symptoms,23,22,1.089679402722881
+2,disease_on_drugs,19,26,1.0222222222222221

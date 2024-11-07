@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,-0.09490740740740755
+1,disease_on_symptoms,22,19,0.18219745594585124
+2,disease_on_drugs,30,19,-0.18743286788399582

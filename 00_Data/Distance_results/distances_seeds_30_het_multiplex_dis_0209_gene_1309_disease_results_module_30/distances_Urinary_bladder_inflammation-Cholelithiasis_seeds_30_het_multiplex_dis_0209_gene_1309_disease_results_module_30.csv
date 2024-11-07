@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.09090909090909083
+1,disease_on_symptoms,16,20,0.21597222222222223
+2,disease_on_drugs,29,18,0.07298035379473378

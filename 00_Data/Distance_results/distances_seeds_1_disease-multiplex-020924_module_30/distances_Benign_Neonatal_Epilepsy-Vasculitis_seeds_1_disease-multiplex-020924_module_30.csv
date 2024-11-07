@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,24,0.3187893081761004
+1,disease_on_symptoms,16,19,2.4221334586466163
+2,disease_on_drugs,26,20,0.776086956521739

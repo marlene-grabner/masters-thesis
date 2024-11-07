@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.12727272727272732
+1,disease_on_symptoms,19,20,-0.23343454790823226
+2,disease_on_drugs,24,25,-0.14505102040816342

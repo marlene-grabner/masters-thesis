@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,24,9,0.5082070707070707
+1,disease_on_symptoms,25,27,2.3619658119658116
+2,disease_on_drugs,17,9,1.0384615384615383

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,26,30,-0.018040293040293198
+1,disease_on_symptoms,20,19,0.5128879892037785
+2,disease_on_drugs,20,30,0.15333333333333332

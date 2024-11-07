@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.10169491525423724
+1,disease_on_symptoms,16,17,0.2056595365418894
+2,disease_on_drugs,29,27,0.17825214376938514

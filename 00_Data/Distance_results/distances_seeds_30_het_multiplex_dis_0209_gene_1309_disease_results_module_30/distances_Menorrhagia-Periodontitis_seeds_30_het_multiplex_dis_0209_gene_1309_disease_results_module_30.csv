@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Periodontitis nodes,sAB
+0,disease_on_genes,27,30,-0.19298245614035092
+1,disease_on_symptoms,16,21,0.010738416988417043
+2,disease_on_drugs,23,28,-0.14110644257703076

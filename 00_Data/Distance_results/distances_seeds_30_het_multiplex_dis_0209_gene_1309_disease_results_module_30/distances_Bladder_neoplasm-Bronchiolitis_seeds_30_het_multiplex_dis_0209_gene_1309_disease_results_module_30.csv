@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,28,-0.03703703703703709
+1,disease_on_symptoms,19,25,0.9506698564593301
+2,disease_on_drugs,25,24,0.3231292517006805

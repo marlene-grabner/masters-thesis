@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000013
+1,disease_on_symptoms,18,19,-0.13438438438438438
+2,disease_on_drugs,26,29,-0.15742705570291782

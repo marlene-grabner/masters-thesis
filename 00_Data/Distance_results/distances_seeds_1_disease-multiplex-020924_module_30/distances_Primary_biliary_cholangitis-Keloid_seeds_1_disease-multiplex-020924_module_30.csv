@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Keloid nodes,sAB
+0,disease_on_genes,26,22,0.3311480186480187
+1,disease_on_symptoms,17,20,1.156200317965024
+2,disease_on_drugs,18,19,0.7792792792792795

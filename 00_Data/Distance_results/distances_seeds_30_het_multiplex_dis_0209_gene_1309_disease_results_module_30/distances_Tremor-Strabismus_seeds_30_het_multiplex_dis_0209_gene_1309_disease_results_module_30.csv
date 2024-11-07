@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,17,-0.39973262032085566
+1,disease_on_symptoms,17,24,0.19186394069823054
+2,disease_on_drugs,24,16,-0.2979166666666665

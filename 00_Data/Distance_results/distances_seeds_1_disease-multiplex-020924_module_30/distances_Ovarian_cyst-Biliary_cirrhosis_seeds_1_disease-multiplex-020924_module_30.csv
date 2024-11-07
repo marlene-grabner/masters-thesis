@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,20,26,0.5119565217391304
+1,disease_on_symptoms,22,15,0.9819410319410318
+2,disease_on_drugs,15,15,1.4666666666666668

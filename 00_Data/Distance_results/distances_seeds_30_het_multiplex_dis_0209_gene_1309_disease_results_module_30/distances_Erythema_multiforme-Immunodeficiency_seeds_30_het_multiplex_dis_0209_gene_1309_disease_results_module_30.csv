@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.1964285714285714
+1,disease_on_symptoms,18,21,-0.34493284493284504
+2,disease_on_drugs,30,26,-0.12967032967032965

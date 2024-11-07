@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Pain nodes,sAB
+0,disease_on_genes,26,26,0.0769230769230771
+1,disease_on_symptoms,17,21,0.8781512605042017
+2,disease_on_drugs,25,26,0.5490045248868778

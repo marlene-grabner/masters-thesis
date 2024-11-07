@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,25,26,-0.13725490196078427
+1,disease_on_symptoms,23,19,0.30342159747194075
+2,disease_on_drugs,21,25,-0.15527950310559002

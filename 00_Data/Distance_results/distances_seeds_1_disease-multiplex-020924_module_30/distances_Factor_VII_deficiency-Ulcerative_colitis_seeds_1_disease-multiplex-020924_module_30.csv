@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,25,27,0.46065527065527045
+1,disease_on_symptoms,23,20,2.4135237613751266
+2,disease_on_drugs,21,25,0.974120082815735

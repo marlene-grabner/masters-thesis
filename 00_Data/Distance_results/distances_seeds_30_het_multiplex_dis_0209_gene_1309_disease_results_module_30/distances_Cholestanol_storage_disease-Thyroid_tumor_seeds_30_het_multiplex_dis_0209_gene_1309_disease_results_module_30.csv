@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,29,23,-0.05570291777188319
+1,disease_on_symptoms,18,20,0.5445906432748537
+2,disease_on_drugs,28,20,0.18035714285714288

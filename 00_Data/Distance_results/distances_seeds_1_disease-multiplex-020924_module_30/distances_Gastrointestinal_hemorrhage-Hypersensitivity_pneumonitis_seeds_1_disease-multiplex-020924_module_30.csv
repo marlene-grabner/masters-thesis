@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,24,0.33551198257080594
+1,disease_on_symptoms,19,23,0.5904435000544841
+2,disease_on_drugs,27,24,0.7254901960784315

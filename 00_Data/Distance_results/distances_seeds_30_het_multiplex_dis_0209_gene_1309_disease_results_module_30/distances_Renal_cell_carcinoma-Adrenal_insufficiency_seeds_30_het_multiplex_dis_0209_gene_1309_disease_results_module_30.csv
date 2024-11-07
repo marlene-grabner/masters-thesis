@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,22,15,0.30458640458640485
+2,disease_on_drugs,22,24,0.22175559947299073

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,27,22,0.2667663024805882
+1,disease_on_symptoms,19,23,0.8896153427045874
+2,disease_on_drugs,27,20,1.1202127659574466

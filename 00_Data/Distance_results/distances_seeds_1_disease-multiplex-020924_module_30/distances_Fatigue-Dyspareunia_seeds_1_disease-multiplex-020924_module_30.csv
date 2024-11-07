@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.061538461538461764
+1,disease_on_symptoms,21,17,1.1450685537372847
+2,disease_on_drugs,26,23,0.6718312743157464

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,27,29,-0.44647418354314905
+1,disease_on_symptoms,23,20,-0.5588978766430738
+2,disease_on_drugs,25,25,-0.5000000000000001

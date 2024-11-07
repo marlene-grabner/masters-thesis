@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,28,30,-0.10406403940886688
+1,disease_on_symptoms,18,17,0.11685340802987865
+2,disease_on_drugs,25,29,0.11560664112388253

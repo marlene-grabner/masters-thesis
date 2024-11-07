@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,30,-0.0013736263736263687
+1,disease_on_symptoms,20,15,0.18333333333333357
+2,disease_on_drugs,20,26,-0.09448160535117056

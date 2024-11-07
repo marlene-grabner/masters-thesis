@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,12,0.02062204192021655
+2,disease_on_drugs,26,23,0.07938024708211033

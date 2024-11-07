@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,24,21,-0.22123015873015883
+2,disease_on_drugs,15,29,-0.4695402298850575

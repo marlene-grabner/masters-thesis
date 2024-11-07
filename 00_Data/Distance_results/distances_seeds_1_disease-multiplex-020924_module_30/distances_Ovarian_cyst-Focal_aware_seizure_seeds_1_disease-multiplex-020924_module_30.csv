@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,20,29,0.3331632653061225
+1,disease_on_symptoms,22,15,1.635094185094185
+2,disease_on_drugs,15,29,1.0363636363636362

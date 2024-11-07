@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,29,0.21492645285748724
+1,disease_on_symptoms,28,17,2.12859477124183
+2,disease_on_drugs,23,30,1.1480721903199345

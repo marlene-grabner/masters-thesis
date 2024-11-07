@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.23586956521739144
+1,disease_on_symptoms,19,27,1.4762691753538433
+2,disease_on_drugs,23,19,0.44943881442737266

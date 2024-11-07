@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.01754385964912286
+1,disease_on_symptoms,19,17,-0.18618851049191631
+2,disease_on_drugs,25,26,-0.038929110105580866

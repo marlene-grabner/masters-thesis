@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,17,0.02713408595761524
+1,disease_on_symptoms,20,25,-0.07833333333333337
+2,disease_on_drugs,15,13,-0.2527472527472526

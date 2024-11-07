@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,30,0.16977401129943503
+1,disease_on_symptoms,14,18,0.45138888888888884
+2,disease_on_drugs,22,22,0.06818181818181812

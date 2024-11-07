@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,-0.1251831501831503
+1,disease_on_symptoms,25,19,0.5108612440191389
+2,disease_on_drugs,25,30,-0.09515151515151521

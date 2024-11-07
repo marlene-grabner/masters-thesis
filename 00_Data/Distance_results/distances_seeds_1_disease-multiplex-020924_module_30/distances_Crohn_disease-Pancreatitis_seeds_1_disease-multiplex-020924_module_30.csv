@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,25,30,0.1694444444444443
+1,disease_on_symptoms,20,20,0.8000000000000003
+2,disease_on_drugs,21,30,0.1876750700280112

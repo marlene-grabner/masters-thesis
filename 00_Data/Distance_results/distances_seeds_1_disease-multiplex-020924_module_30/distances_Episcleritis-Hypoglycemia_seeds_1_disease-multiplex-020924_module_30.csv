@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,22,12,0.6105169340463461
+2,disease_on_drugs,29,22,0.3647734956051385

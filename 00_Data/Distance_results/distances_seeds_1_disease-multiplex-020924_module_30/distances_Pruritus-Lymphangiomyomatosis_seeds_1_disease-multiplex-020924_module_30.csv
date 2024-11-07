@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,26,26,0.03803921568627455
+1,disease_on_symptoms,19,19,0.7105263157894739
+2,disease_on_drugs,24,22,0.6907114624505928

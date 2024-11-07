@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Dermatitis nodes,sAB
+0,disease_on_genes,27,26,0.15455840455840453
+1,disease_on_symptoms,22,25,1.1873694390715666
+2,disease_on_drugs,24,24,0.7916666666666667

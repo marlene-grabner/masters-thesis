@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,28,30,0.29367816091954024
+1,disease_on_symptoms,21,15,0.6944444444444446
+2,disease_on_drugs,21,30,0.7170868347338935

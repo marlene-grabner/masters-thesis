@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,26,18,0.0821678321678323
+1,disease_on_symptoms,28,21,2.960034013605442
+2,disease_on_drugs,23,17,0.8650255754475704

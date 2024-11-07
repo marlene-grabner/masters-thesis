@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Encephalitis nodes,sAB
+0,disease_on_genes,21,28,0.4710884353741496
+1,disease_on_symptoms,20,17,2.0034181240063593
+2,disease_on_drugs,19,18,0.8918918918918919

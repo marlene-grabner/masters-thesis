@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,-0.0847555036041302
+1,disease_on_symptoms,20,19,0.37756410256410255
+2,disease_on_drugs,28,29,0.15691167574107667

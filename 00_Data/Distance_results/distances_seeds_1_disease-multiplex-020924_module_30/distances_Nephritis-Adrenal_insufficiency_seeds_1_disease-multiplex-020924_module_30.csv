@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,17,0.13266583229036288
+1,disease_on_symptoms,18,21,0.6101953601953602
+2,disease_on_drugs,27,14,0.5171635049683831

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,28,25,-0.1310646900269541
+1,disease_on_symptoms,18,20,0.3883040935672517
+2,disease_on_drugs,25,18,0.04788113695090446

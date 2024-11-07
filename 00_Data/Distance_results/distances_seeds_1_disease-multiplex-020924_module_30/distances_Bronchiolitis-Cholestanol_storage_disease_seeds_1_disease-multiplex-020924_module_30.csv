@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,23,30,0.26127973748974553
+1,disease_on_symptoms,25,17,0.9136134453781515
+2,disease_on_drugs,18,25,0.4943410852713177

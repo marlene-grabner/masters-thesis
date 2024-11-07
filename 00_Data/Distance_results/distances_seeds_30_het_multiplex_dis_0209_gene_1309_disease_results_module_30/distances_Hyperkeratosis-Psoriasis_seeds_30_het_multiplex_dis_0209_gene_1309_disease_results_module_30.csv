@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,30,-0.26923076923076916
+1,disease_on_symptoms,25,17,-0.4048739495798317
+2,disease_on_drugs,25,30,-0.29515151515151505

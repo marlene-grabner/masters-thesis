@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.27647783251231517
+1,disease_on_symptoms,14,18,-0.15972222222222232
+2,disease_on_drugs,27,25,-0.28008547008547

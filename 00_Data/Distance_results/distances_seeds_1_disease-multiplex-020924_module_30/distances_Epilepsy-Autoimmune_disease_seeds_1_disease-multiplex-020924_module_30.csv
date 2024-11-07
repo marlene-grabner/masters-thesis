@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,29,22,0.2620320855614975
+1,disease_on_symptoms,18,19,2.030464675201517
+2,disease_on_drugs,30,19,0.9978338703902614

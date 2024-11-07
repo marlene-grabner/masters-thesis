@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Rosacea nodes,sAB
+0,disease_on_genes,17,30,0.1483695652173913
+1,disease_on_symptoms,27,17,1.0856110120816005
+2,disease_on_drugs,14,27,0.08623693379790964

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,30,-0.2309523809523809
+1,disease_on_symptoms,21,18,-0.09859584859584847
+2,disease_on_drugs,25,21,-0.2698136645962733

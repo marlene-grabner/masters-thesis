@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,0.15127936354351434
+1,disease_on_symptoms,21,16,0.7223696911196908
+2,disease_on_drugs,24,27,0.5315904139433549

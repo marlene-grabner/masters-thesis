@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,0.2392857142857141
+1,disease_on_symptoms,21,17,0.9138286893704852
+2,disease_on_drugs,25,28,0.6790026954177899

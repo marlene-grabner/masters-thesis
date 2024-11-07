@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,22,28,-0.03415584415584405
+1,disease_on_symptoms,23,21,-0.16939582156973465
+2,disease_on_drugs,20,24,-0.14090909090909098

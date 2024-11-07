@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Myalgia nodes,sAB
+0,disease_on_genes,24,30,-0.09259259259259256
+1,disease_on_symptoms,23,16,1.090405518394649
+2,disease_on_drugs,22,29,0.16245620505255398

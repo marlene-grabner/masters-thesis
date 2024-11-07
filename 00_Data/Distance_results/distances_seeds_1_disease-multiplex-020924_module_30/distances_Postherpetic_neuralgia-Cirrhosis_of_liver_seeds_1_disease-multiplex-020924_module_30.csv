@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,15,14,0.735385878489327
+2,disease_on_drugs,29,26,0.5271642150952496

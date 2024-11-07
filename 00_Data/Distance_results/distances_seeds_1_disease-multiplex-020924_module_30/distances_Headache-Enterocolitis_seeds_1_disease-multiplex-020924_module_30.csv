@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.19288499025341133
+1,disease_on_symptoms,25,21,1.0746997929606625
+2,disease_on_drugs,26,24,0.31993589743589745

@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,24,0.19594226579520702
+1,disease_on_symptoms,23,17,1.928005115089514
+2,disease_on_drugs,15,23,0.9315789473684213

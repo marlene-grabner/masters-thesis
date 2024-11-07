@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,25,0.21272727272727265
+1,disease_on_symptoms,19,24,1.5709404324765401
+2,disease_on_drugs,29,20,0.6625615763546797

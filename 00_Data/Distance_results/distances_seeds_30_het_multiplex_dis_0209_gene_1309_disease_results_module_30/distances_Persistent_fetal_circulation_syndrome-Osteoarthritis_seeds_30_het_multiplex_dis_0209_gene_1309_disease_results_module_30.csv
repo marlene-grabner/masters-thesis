@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,24,26,-0.23846153846153828
+1,disease_on_symptoms,22,22,0.5681818181818183
+2,disease_on_drugs,21,25,-0.3512215320910974

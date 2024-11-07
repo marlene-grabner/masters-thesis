@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.5025542784163475
+1,disease_on_symptoms,23,18,1.4835925533168375
+2,disease_on_drugs,15,19,0.6622291021671827

@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.3096880131362889
+1,disease_on_symptoms,14,17,1.1736920574681484
+2,disease_on_drugs,26,28,0.8326210826210827

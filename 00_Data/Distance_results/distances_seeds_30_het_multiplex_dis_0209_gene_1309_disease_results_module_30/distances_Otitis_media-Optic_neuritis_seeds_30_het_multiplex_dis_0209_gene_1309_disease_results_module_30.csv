@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,29,27,0.01847290640394106
+1,disease_on_symptoms,20,21,0.8324912891986063
+2,disease_on_drugs,28,27,0.1288720538720538

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.0003898635477583845
+1,disease_on_symptoms,19,20,0.7675775978407557
+2,disease_on_drugs,20,30,0.29500000000000015

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,15,30,0.4555555555555557
+1,disease_on_symptoms,25,20,0.6888888888888887
+2,disease_on_drugs,10,28,0.2148496240601505

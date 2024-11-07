@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.08690476190476204
+1,disease_on_symptoms,19,18,0.9797692429271379
+2,disease_on_drugs,24,26,0.03807692307692312

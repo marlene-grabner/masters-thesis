@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.13502824858757045
+1,disease_on_symptoms,19,20,0.04746963562753059
+2,disease_on_drugs,24,28,-0.10439560439560425

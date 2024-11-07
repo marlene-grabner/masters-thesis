@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,22,17,0.6832236391059918
+2,disease_on_drugs,30,27,0.23879142300194922

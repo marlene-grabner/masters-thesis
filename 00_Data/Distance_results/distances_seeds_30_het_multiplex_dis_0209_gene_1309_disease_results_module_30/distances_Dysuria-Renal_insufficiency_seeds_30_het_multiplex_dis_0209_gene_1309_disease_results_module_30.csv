@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,12,19,0.604555744199208
+2,disease_on_drugs,21,28,-0.11904761904761885

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,25,30,-0.21515151515151498
+1,disease_on_symptoms,22,22,0.13636363636363646
+2,disease_on_drugs,25,30,-0.022727272727272707

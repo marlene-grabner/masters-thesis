@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,30,-0.052380952380952306
+1,disease_on_symptoms,17,18,0.6826797385620913
+2,disease_on_drugs,24,28,0.032280219780219666

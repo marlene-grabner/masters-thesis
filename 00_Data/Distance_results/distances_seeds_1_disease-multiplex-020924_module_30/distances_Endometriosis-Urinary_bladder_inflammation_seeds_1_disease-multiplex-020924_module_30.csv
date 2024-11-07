@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.2854545454545454
+1,disease_on_symptoms,12,22,0.7196969696969697
+2,disease_on_drugs,27,24,1.2696078431372548

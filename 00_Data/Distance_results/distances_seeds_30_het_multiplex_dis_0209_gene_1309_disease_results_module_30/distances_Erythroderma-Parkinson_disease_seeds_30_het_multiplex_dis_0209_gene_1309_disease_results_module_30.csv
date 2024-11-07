@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,0.018867924528301883
+1,disease_on_symptoms,20,23,0.9585692618806876
+2,disease_on_drugs,29,22,0.25035343290921386

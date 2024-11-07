@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.10344827586206895
+1,disease_on_symptoms,17,22,0.5569724393253805
+2,disease_on_drugs,25,15,0.15333333333333332

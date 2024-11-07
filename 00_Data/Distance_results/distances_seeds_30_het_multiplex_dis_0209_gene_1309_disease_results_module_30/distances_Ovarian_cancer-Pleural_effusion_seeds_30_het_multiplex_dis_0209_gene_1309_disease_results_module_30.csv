@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,17,18,0.6289915966386554
+2,disease_on_drugs,17,27,0.19028520499108748

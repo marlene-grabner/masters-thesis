@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.7166666666666666
+1,disease_on_symptoms,20,19,-1.229790823211876
+2,disease_on_drugs,28,28,-0.9285714285714286

@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Nephritis nodes,sAB
+0,disease_on_genes,29,30,0.22033898305084754
+1,disease_on_symptoms,25,18,0.545297157622739
+2,disease_on_drugs,28,27,0.271043771043771

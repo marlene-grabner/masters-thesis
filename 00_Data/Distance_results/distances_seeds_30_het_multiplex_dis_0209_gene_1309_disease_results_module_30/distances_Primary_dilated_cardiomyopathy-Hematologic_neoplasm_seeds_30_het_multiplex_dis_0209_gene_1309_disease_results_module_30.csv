@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,24,18,0.8065476190476193
+2,disease_on_drugs,15,27,0.2952380952380955

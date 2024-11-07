@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,17,19,0.3955968352253183
+2,disease_on_drugs,26,24,-0.12038461538461531

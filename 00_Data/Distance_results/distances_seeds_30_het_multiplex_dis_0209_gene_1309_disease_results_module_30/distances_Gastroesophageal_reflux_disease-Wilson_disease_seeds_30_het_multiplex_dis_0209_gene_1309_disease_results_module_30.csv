@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,25,-0.038838612368024106
+1,disease_on_symptoms,18,19,0.5706100837679782
+2,disease_on_drugs,25,22,0.1253384912959381

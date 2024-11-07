@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,-0.8269230769230769
+1,disease_on_symptoms,15,17,-1.2797794117647059
+2,disease_on_drugs,15,18,-0.990909090909091

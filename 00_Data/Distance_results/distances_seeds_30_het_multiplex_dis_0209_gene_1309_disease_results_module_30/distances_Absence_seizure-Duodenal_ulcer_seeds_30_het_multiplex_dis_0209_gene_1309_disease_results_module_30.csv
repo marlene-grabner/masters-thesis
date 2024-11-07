@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.01724137931034475
+1,disease_on_symptoms,14,17,1.968419625914882
+2,disease_on_drugs,22,28,0.07863636363636384

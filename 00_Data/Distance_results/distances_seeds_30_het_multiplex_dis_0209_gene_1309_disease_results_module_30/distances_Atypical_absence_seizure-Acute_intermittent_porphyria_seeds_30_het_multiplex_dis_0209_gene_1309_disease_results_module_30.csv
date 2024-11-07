@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,13,17,0.48265460030165896
+2,disease_on_drugs,22,24,-0.02017457180500659

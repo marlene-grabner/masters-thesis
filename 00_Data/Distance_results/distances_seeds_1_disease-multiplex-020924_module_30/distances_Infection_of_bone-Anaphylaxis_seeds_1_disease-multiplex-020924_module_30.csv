@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.35881309466215106
+1,disease_on_symptoms,21,15,1.5769841269841272
+2,disease_on_drugs,24,26,0.7390384615384618

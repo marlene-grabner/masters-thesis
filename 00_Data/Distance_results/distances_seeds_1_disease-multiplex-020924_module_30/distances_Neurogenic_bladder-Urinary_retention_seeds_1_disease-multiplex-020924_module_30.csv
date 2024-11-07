@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.30816696914700525
+1,disease_on_symptoms,17,18,-0.4027544351073763
+2,disease_on_drugs,26,19,-0.3678362573099415

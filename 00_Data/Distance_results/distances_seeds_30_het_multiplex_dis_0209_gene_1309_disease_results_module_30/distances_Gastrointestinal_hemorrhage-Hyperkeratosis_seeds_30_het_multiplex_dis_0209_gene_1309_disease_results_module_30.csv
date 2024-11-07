@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,28,26,-0.018569393569393577
+1,disease_on_symptoms,20,25,0.5300000000000002
+2,disease_on_drugs,27,25,0.039658119658119606

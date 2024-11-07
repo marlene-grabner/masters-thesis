@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,20,11,0.07045454545454533
+2,disease_on_drugs,27,27,0.16666666666666674

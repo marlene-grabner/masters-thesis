@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Dermatitis nodes,sAB
+0,disease_on_genes,26,26,0.019607843137254832
+1,disease_on_symptoms,21,25,1.0411594202898553
+2,disease_on_drugs,25,24,0.4081292517006805

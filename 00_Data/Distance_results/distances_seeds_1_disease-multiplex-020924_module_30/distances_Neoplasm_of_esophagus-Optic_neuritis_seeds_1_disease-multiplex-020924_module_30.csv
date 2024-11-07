@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,21,27,0.1504629629629628
+1,disease_on_symptoms,24,16,0.9270833333333335
+2,disease_on_drugs,20,27,0.38477147360126085

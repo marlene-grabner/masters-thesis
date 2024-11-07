@@ -1,0 +1,4 @@
+,Layer,Ischemic_stroke nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.27500000000000013
+1,disease_on_symptoms,16,27,0.8486218776916452
+2,disease_on_drugs,23,17,0.7248081841432223

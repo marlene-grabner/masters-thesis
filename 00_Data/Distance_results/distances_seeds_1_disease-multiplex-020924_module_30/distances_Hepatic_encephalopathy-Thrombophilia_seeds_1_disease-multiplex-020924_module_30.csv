@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,9,27,0.39814814814814814
+1,disease_on_symptoms,27,18,2.2666666666666666
+2,disease_on_drugs,9,21,1.4857142857142855

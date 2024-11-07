@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.14363636363636356
+1,disease_on_symptoms,13,20,1.9685897435897433
+2,disease_on_drugs,19,22,0.4085949352316489

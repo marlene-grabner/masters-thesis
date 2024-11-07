@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.5113053613053613
+1,disease_on_symptoms,14,21,2.2095238095238097
+2,disease_on_drugs,24,6,0.4458333333333333

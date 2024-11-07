@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.6163636363636364
+1,disease_on_symptoms,25,19,2.2894258373205743
+2,disease_on_drugs,7,24,0.4998079877112134

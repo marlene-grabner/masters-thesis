@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,20,27,0.358766745468873
+1,disease_on_symptoms,24,16,1.2416666666666667
+2,disease_on_drugs,18,18,0.8611111111111112

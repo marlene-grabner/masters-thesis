@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,29,28,0.15815400570391525
+1,disease_on_symptoms,22,21,0.7633645424343101
+2,disease_on_drugs,29,24,0.872804163955758

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,24,30,0.01805555555555549
+1,disease_on_symptoms,19,18,0.29101469890943577
+2,disease_on_drugs,19,28,0.032334826427771635

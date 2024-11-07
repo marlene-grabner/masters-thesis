@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,22,17,-0.08041958041958042
+2,disease_on_drugs,29,30,-0.11784531463082026

@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,22,17,0.6965240641711228
+2,disease_on_drugs,28,26,0.4821428571428572

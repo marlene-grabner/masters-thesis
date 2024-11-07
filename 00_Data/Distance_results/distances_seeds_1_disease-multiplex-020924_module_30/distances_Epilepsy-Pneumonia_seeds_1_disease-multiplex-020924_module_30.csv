@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Pneumonia nodes,sAB
+0,disease_on_genes,29,30,0.25480225988700567
+1,disease_on_symptoms,18,26,0.7505827505827505
+2,disease_on_drugs,30,28,1.2591954022988507

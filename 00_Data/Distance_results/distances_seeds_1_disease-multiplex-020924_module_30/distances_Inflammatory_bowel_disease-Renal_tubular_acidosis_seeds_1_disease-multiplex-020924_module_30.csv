@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,17,18,0.6482843137254901
+1,disease_on_symptoms,27,18,4.0092592592592595
+2,disease_on_drugs,14,10,0.19761904761904758

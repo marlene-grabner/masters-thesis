@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Fatigue nodes,sAB
+0,disease_on_genes,25,26,0.27447963800904995
+1,disease_on_symptoms,20,21,1.2418989547038328
+2,disease_on_drugs,14,26,0.2543956043956044

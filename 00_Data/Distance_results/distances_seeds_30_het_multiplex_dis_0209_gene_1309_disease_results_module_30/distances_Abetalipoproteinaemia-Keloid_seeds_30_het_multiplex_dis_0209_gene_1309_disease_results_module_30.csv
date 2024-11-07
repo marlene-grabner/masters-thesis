@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Keloid nodes,sAB
+0,disease_on_genes,14,23,0.07239382239382253
+1,disease_on_symptoms,26,17,0.8928233189519101
+2,disease_on_drugs,14,22,0.46933621933621916

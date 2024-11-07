@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Migraine nodes,sAB
+0,disease_on_genes,24,30,0.1703703703703705
+1,disease_on_symptoms,23,14,1.754742319959711
+2,disease_on_drugs,22,29,1.156862745098039

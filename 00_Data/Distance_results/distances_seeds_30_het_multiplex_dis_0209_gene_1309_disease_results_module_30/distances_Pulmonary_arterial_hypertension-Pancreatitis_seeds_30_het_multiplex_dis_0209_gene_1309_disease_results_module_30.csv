@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,28,30,-0.1724137931034483
+1,disease_on_symptoms,17,17,-0.32352941176470607
+2,disease_on_drugs,25,30,-0.10969696969696985

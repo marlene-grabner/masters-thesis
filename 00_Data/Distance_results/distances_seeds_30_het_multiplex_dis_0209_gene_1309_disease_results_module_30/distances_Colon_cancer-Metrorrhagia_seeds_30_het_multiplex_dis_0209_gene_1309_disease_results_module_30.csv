@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,29,-0.13207547169811318
+1,disease_on_symptoms,22,17,-0.20536816125051427
+2,disease_on_drugs,26,26,-0.17307692307692313

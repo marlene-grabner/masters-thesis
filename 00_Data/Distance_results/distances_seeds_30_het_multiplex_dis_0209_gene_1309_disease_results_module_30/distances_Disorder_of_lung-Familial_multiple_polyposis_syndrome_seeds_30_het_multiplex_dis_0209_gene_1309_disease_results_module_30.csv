@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,18,19,0.382922396080291
+2,disease_on_drugs,24,25,-0.020051020408163422

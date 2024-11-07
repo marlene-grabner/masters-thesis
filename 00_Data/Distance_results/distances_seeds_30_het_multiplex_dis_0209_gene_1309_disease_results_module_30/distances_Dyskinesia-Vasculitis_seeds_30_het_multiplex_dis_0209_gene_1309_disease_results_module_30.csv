@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.0535714285714286
+1,disease_on_symptoms,15,18,1.455050505050505
+2,disease_on_drugs,28,26,0.27416564916564923

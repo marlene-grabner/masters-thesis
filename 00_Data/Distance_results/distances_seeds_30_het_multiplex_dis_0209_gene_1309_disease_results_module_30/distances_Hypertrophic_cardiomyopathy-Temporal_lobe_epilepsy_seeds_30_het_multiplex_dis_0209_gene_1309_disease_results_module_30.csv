@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,19,17,-0.13269693842449248
+2,disease_on_drugs,22,28,-0.17227272727272736

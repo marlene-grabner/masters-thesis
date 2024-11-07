@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,24,22,0.2765974967061924
+1,disease_on_symptoms,18,22,0.9681818181818183
+2,disease_on_drugs,18,14,0.9241071428571428

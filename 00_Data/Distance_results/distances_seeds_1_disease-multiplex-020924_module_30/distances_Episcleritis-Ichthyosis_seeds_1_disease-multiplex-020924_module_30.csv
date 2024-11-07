@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,27,-0.1257309941520468
+1,disease_on_symptoms,22,17,0.13276429452900063
+2,disease_on_drugs,29,24,-0.06733897202342232

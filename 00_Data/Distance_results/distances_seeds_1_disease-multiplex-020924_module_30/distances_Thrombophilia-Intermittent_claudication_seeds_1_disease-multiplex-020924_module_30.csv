@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.14052403467297103
+1,disease_on_symptoms,18,24,1.9097222222222219
+2,disease_on_drugs,21,18,0.04639804639804623

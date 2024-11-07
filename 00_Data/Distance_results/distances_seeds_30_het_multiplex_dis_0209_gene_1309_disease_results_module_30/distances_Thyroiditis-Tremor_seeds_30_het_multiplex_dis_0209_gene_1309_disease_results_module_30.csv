@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Tremor nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,21,17,0.7940439333628189
+2,disease_on_drugs,29,24,0.5373834309260463

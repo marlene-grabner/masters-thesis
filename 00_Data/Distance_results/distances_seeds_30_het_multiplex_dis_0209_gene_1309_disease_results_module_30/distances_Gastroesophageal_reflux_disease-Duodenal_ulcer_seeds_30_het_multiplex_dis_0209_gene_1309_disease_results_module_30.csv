@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,26,28,-0.13034188034188032
+1,disease_on_symptoms,18,17,0.48426704014939315
+2,disease_on_drugs,25,28,-0.13066037735849068

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.07575757575757591
+1,disease_on_symptoms,22,20,1.0915584415584418
+2,disease_on_drugs,29,18,0.29381674411021463

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,0.4070621468926554
+1,disease_on_symptoms,18,14,1.6706349206349207
+2,disease_on_drugs,22,26,0.7307692307692308

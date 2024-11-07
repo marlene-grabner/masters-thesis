@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,28,20,0.12380952380952381
+1,disease_on_symptoms,14,23,1.0933775390297131
+2,disease_on_drugs,24,18,0.26190476190476186

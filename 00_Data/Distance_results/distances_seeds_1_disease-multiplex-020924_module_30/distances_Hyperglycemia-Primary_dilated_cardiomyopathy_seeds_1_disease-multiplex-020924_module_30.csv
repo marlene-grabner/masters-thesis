@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,14,25,1.14021978021978
+2,disease_on_drugs,26,7,0.44372294372294374

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,0.5576923076923077
+1,disease_on_symptoms,20,17,1.0730922098569158
+2,disease_on_drugs,25,18,1.0426356589147288

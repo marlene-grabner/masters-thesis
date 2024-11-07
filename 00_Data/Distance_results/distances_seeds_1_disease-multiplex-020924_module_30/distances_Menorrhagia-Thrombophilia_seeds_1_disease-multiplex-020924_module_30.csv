@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.018128796430683325
+1,disease_on_symptoms,19,18,1.0005531847637112
+2,disease_on_drugs,24,21,0.06488095238095237

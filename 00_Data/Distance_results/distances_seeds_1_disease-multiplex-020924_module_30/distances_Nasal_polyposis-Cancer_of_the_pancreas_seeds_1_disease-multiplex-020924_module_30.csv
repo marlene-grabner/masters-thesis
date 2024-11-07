@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,15,29,0.0121212121212122
+1,disease_on_symptoms,25,16,0.24664634146341458
+2,disease_on_drugs,10,29,-0.06595932802829352

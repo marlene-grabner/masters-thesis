@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,29,27,-0.015394088669950845
+1,disease_on_symptoms,15,17,0.7382352941176471
+2,disease_on_drugs,29,26,0.47156980950084404

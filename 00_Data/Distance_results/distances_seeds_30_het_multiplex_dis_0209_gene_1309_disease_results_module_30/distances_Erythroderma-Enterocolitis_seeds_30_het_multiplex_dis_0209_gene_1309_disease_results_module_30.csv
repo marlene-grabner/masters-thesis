@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,20,21,0.6117595818815333
+2,disease_on_drugs,29,25,-0.20257982120051077

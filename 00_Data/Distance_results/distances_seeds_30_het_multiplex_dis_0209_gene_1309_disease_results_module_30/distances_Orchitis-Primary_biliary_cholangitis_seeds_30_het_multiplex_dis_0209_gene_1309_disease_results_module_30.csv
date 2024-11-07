@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,25,26,-0.17647058823529416
+1,disease_on_symptoms,19,23,0.2410373760488176
+2,disease_on_drugs,25,26,-0.0973755656108597

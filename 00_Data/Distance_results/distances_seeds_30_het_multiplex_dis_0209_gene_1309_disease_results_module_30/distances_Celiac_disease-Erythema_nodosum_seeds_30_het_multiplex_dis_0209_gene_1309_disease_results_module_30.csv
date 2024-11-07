@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,18,22,-0.7227272727272724
+2,disease_on_drugs,28,29,-0.2653832858007087

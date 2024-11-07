@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,30,-0.2200564971751412
+1,disease_on_symptoms,20,21,-0.16704413472706148
+2,disease_on_drugs,27,29,-0.220990695128626

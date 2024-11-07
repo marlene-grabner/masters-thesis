@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.18518518518518523
+1,disease_on_symptoms,17,18,0.36451914098972904
+2,disease_on_drugs,26,24,-0.09871794871794881

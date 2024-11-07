@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,0.19357661394866454
+1,disease_on_symptoms,19,16,1.430921052631579
+2,disease_on_drugs,26,25,0.3137254901960784

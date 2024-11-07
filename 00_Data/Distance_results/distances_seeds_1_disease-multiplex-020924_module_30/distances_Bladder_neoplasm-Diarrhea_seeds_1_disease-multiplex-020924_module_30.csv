@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,27,0.0583508036338225
+1,disease_on_symptoms,20,19,1.563124156545209
+2,disease_on_drugs,25,26,1.0395927601809953

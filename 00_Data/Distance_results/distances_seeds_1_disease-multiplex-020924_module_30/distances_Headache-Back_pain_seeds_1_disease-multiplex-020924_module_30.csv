@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,25,16,-0.09289634146341452
+2,disease_on_drugs,26,23,-0.34576138147566715

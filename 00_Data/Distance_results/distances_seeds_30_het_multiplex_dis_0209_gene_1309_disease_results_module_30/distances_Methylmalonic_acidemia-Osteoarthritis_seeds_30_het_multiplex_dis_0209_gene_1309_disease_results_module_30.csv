@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,25,26,-0.1757164404223226
+1,disease_on_symptoms,17,22,0.5878582202111615
+2,disease_on_drugs,21,25,-0.1597101449275362

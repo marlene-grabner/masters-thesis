@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.21361823361823373
+1,disease_on_symptoms,19,19,1.526315789473684
+2,disease_on_drugs,20,24,0.3424242424242425

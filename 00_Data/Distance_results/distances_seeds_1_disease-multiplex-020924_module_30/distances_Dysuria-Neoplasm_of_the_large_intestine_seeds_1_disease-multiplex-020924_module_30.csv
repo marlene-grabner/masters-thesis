@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,20,0.21074947220267415
+1,disease_on_symptoms,16,25,0.9108841463414632
+2,disease_on_drugs,23,19,0.8303911953797536

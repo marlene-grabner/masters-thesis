@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.07017543859649122
+1,disease_on_symptoms,17,21,0.8513194751584847
+2,disease_on_drugs,26,24,0.18211538461538468

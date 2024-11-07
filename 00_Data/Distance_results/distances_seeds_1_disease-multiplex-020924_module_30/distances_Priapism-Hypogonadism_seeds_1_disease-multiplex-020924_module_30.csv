@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.03446327683615835
+1,disease_on_symptoms,17,12,0.5606828938471942
+2,disease_on_drugs,28,30,0.4642446633825943

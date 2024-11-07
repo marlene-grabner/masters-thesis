@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Encephalitis nodes,sAB
+0,disease_on_genes,29,28,0.4031846858525625
+1,disease_on_symptoms,17,17,1.9705882352941178
+2,disease_on_drugs,26,18,1.0489510489510492

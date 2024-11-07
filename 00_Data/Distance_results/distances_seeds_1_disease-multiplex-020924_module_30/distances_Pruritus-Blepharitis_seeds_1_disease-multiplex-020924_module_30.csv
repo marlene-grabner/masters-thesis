@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,20,0.07055555555555548
+1,disease_on_symptoms,19,27,1.091829816086109
+2,disease_on_drugs,24,19,0.29620563035495695

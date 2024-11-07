@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,19,0.25630904183535774
+2,disease_on_drugs,30,24,0.11250000000000004

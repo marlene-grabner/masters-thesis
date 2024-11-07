@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.14035087719298245
+1,disease_on_symptoms,19,18,0.6332780148569621
+2,disease_on_drugs,25,22,0.5564990328820116

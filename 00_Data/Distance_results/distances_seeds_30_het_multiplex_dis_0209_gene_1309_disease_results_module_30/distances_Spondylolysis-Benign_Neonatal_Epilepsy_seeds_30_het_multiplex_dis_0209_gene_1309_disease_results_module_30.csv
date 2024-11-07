@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,17,16,0.10232843137254899
+2,disease_on_drugs,19,21,-0.030513784461152937

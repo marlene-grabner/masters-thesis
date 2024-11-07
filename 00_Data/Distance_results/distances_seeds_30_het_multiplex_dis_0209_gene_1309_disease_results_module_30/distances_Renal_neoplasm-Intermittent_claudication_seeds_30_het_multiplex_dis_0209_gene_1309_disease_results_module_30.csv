@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,30,0.03389830508474567
+1,disease_on_symptoms,20,14,0.2926470588235295
+2,disease_on_drugs,28,24,0.3555402930402929

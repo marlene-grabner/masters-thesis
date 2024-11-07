@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,27,27,0.12962962962962976
+1,disease_on_symptoms,17,22,1.0244755244755246
+2,disease_on_drugs,24,22,0.5279150197628459

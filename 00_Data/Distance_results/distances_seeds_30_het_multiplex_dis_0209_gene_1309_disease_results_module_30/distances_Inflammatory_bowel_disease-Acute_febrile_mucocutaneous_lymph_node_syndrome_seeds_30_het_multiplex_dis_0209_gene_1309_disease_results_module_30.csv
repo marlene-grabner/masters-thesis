@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,20,13,-0.8176573426573428
+2,disease_on_drugs,27,28,-0.28962241462241456

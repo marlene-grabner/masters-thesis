@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Keloid nodes,sAB
+0,disease_on_genes,25,22,0.06220502901353964
+1,disease_on_symptoms,19,20,2.668353576248313
+2,disease_on_drugs,24,19,0.09786821705426374

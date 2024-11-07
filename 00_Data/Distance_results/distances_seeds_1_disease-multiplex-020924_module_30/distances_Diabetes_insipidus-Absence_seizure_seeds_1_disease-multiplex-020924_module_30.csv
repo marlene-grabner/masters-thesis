@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,24,29,0.36140479288657557
+1,disease_on_symptoms,18,16,1.5698529411764706
+2,disease_on_drugs,18,22,0.7250000000000001

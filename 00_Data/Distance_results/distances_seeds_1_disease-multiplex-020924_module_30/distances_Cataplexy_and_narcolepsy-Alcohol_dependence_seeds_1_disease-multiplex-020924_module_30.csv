@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,25,12,-0.09572072072072058
+1,disease_on_symptoms,18,27,1.246296296296296
+2,disease_on_drugs,17,9,-0.29436902966314726

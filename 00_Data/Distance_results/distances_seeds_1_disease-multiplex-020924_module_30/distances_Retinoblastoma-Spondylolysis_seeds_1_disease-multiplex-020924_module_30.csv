@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,26,27,0.2082191044455195
+1,disease_on_symptoms,24,19,1.0666309669522642
+2,disease_on_drugs,24,20,0.906818181818182

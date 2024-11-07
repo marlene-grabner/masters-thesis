@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,21,13,0.4490411549235078
+1,disease_on_symptoms,22,25,3.7916827852998063
+2,disease_on_drugs,21,8,0.7536945812807883

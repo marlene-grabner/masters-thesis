@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,30,23,0.10325403336067818
+1,disease_on_symptoms,16,20,1.0604166666666666
+2,disease_on_drugs,30,19,0.6734693877551021

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,23,-0.07999999999999996
+1,disease_on_symptoms,17,19,0.9737702098383214
+2,disease_on_drugs,17,19,0.13871689026487788

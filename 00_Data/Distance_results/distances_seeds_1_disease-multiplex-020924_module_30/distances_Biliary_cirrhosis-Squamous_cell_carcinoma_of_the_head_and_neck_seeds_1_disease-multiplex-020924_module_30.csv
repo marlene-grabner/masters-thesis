@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,21,0.6357649442755826
+1,disease_on_symptoms,15,25,1.0299999999999998
+2,disease_on_drugs,15,21,1.0722222222222222

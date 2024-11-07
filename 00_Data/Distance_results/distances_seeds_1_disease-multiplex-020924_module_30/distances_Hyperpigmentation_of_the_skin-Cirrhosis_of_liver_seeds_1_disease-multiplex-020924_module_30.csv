@@ -1,0 +1,4 @@
+,Layer,Hyperpigmentation_of_the_skin nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,24,30,0.2333333333333334
+1,disease_on_symptoms,23,14,2.0162413966761794
+2,disease_on_drugs,12,26,0.7439271255060729

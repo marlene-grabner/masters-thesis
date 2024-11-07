@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,0.3558201058201056
+1,disease_on_symptoms,16,20,2.104861111111111
+2,disease_on_drugs,26,25,0.7254901960784315

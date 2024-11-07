@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,27,24,0.08782679738562083
+1,disease_on_symptoms,17,22,1.178218839983546
+2,disease_on_drugs,24,11,-0.08571428571428574

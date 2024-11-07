@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,19,19,1.789473684210526
+2,disease_on_drugs,29,22,0.44560206527752144

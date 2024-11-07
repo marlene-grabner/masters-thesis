@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.2032407407407406
+1,disease_on_symptoms,16,21,1.2793194980694982
+2,disease_on_drugs,27,24,0.7389705882352942

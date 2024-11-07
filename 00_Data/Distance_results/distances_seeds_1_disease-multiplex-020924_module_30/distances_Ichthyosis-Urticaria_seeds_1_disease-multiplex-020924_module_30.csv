@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Urticaria nodes,sAB
+0,disease_on_genes,27,10,0.2417417417417418
+1,disease_on_symptoms,17,27,0.5342146959794019
+2,disease_on_drugs,24,9,0.1515151515151516

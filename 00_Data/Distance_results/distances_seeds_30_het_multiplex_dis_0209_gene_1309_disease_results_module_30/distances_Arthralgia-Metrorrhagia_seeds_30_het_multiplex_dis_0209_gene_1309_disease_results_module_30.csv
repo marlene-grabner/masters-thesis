@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.1578947368421053
+1,disease_on_symptoms,17,17,0.26470588235294135
+2,disease_on_drugs,30,26,-0.059615384615384626

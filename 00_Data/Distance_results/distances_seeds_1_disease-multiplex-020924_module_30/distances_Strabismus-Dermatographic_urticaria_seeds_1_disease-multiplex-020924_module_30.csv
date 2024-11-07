@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,13,29,0.4084249084249083
+1,disease_on_symptoms,26,14,1.4752747252747254
+2,disease_on_drugs,9,28,0.5390390390390389

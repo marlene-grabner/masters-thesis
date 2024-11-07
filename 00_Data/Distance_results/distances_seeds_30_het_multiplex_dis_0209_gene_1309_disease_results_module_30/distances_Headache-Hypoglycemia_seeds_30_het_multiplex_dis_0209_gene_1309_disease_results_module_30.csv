@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,23,19,0.19935708837310662
+2,disease_on_drugs,23,27,-0.043800322061191554

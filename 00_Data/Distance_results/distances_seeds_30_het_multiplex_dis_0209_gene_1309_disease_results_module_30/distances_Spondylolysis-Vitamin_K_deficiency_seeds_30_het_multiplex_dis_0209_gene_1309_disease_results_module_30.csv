@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,28,25,0.2264150943396226
+1,disease_on_symptoms,17,21,0.9705145215981132
+2,disease_on_drugs,19,21,-0.12694235588972447

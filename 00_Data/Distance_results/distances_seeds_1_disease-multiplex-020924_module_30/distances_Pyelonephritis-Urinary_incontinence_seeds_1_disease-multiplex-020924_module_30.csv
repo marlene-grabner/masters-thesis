@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,23,26,0.37159579550883914
+1,disease_on_symptoms,21,20,1.1412601626016263
+2,disease_on_drugs,19,20,0.5897435897435896

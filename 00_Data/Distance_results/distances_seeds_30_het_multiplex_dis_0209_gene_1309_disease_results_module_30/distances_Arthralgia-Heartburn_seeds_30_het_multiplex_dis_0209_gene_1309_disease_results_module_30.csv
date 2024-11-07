@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.25
+1,disease_on_symptoms,17,16,0.12165775401069534
+2,disease_on_drugs,30,25,-0.1299999999999999

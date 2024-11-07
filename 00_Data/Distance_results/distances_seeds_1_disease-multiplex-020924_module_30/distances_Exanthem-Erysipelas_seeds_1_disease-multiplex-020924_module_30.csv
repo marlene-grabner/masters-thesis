@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,28,-0.4107142857142856
+1,disease_on_symptoms,26,20,-0.19866220735785933
+2,disease_on_drugs,28,27,-0.39967532467532463

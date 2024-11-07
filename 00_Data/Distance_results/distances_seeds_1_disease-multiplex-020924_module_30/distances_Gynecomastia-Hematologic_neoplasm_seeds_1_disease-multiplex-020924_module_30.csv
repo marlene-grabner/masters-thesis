@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.3076923076923077
+1,disease_on_symptoms,16,24,0.2333333333333334
+2,disease_on_drugs,24,19,0.04153916768665855

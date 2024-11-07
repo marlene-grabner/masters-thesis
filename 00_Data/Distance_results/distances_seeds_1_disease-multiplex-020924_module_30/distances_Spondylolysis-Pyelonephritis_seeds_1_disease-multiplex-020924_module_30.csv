@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,27,23,0.36070853462157815
+1,disease_on_symptoms,19,21,1.168859649122807
+2,disease_on_drugs,20,19,0.769871794871795

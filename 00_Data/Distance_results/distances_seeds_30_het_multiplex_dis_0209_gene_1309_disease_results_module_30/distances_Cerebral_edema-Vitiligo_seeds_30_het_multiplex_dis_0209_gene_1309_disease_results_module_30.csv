@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,10,19,-0.023049001814881898
+2,disease_on_drugs,16,25,0.17344512195121942

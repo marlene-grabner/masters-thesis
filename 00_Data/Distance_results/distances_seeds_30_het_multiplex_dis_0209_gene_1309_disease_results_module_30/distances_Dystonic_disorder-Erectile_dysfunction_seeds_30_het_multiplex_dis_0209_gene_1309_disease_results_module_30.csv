@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,17,15,0.21433823529411766
+2,disease_on_drugs,26,30,0.11794871794871797

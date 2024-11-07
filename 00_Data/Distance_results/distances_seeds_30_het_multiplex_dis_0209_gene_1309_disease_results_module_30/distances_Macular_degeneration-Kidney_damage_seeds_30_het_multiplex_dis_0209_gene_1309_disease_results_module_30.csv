@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,17,15,0.4784313725490197
+2,disease_on_drugs,17,21,-0.0711337166445527

@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.09433962264150941
+1,disease_on_symptoms,19,19,0.36842105263157876
+2,disease_on_drugs,25,19,0.10368421052631582

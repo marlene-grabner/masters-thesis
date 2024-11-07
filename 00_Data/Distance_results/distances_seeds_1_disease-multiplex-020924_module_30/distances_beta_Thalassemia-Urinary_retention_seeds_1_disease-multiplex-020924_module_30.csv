@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,22,30,0.6932537905444309
+1,disease_on_symptoms,21,18,3.1211843711843708
+2,disease_on_drugs,6,19,0.7943859649122809

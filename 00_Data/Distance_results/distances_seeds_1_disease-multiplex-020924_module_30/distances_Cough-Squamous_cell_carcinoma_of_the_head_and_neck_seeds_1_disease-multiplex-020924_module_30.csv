@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,21,0.18683862433862441
+1,disease_on_symptoms,21,25,1.6510144927536232
+2,disease_on_drugs,27,21,0.9629629629629628

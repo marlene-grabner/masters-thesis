@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.13559322033898313
+1,disease_on_symptoms,23,11,0.712973727040223
+2,disease_on_drugs,29,24,0.37207221860767725

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,21,30,0.19775910364145655
+1,disease_on_symptoms,22,24,1.514081027667984
+2,disease_on_drugs,21,24,0.21547619047619038

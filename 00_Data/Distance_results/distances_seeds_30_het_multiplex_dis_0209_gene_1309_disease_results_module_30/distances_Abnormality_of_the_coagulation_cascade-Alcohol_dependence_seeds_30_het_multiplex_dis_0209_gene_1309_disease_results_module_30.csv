@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,24,30,0.07777777777777795
+1,disease_on_symptoms,24,18,0.3650793650793651
+2,disease_on_drugs,23,24,0.061440024668516724

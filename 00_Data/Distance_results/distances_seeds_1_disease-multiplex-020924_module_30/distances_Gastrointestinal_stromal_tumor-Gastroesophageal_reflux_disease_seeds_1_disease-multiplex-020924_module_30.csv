@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,23,26,0.013753327417923567
+1,disease_on_symptoms,20,17,0.10286168521462646
+2,disease_on_drugs,19,25,0.4572727272727273

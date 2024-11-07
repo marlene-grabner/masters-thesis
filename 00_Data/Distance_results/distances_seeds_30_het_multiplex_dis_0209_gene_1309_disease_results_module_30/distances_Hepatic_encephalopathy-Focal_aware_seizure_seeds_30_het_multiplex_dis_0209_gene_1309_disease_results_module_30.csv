@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.2542372881355932
+1,disease_on_symptoms,14,16,-0.3029761904761905
+2,disease_on_drugs,29,29,-0.18965517241379315

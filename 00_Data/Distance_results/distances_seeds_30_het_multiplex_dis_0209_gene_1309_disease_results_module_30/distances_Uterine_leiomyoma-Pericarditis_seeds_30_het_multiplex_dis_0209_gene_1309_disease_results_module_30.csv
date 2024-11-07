@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,-0.2321428571428571
+1,disease_on_symptoms,20,21,-0.05043554006968631
+2,disease_on_drugs,28,26,-0.05733618233618243

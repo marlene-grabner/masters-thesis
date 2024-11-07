@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,0.18121212121212138
+1,disease_on_symptoms,14,17,0.6207644348061803
+2,disease_on_drugs,11,24,-0.0702380952380951

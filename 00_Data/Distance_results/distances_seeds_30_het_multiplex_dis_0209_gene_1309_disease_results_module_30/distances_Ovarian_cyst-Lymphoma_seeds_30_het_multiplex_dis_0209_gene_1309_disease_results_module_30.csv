@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.1404761904761903
+1,disease_on_symptoms,19,20,-0.0018893387314440346
+2,disease_on_drugs,24,24,-0.12500000000000022

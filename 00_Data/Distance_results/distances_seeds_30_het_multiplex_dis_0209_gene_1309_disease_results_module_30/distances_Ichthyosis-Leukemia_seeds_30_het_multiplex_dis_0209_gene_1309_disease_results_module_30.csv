@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,30,-0.0006157635467980427
+1,disease_on_symptoms,18,21,0.7915140415140418
+2,disease_on_drugs,25,30,0.2384848484848483

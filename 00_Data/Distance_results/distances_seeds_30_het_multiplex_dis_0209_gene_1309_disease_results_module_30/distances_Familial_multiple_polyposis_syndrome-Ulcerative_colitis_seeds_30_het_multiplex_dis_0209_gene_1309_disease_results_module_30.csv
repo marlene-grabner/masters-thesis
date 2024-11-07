@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,19,20,0.14939271255060738
+2,disease_on_drugs,25,27,-0.06076923076923091

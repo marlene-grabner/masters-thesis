@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.6711822660098523
+1,disease_on_symptoms,25,20,1.6933333333333331
+2,disease_on_drugs,7,27,1.2521008403361347

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,29,14,0.14781189139649453
+1,disease_on_symptoms,15,23,1.174599542334096
+2,disease_on_drugs,29,14,0.21531676022453894

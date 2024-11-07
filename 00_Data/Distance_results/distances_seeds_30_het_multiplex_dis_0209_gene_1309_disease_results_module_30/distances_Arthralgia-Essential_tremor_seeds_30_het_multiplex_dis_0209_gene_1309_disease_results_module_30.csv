@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.019607843137254943
+1,disease_on_symptoms,17,23,0.9179028132992326
+2,disease_on_drugs,30,21,0.027030812324929876

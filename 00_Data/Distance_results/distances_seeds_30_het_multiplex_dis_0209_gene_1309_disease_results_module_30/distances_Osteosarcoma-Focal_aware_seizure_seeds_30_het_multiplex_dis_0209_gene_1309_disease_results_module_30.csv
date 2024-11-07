@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.2706214689265536
+1,disease_on_symptoms,22,16,-0.2694377990430621
+2,disease_on_drugs,29,29,-0.2758620689655171

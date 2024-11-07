@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,23,20,0.11688574317492395
+1,disease_on_symptoms,20,23,1.689787664307381
+2,disease_on_drugs,19,18,1.024024024024024

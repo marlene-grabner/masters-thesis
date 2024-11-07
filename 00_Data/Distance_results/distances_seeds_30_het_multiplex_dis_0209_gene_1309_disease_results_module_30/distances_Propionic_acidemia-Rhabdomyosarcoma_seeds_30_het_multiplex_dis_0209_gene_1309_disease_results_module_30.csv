@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.15254237288135597
+1,disease_on_symptoms,16,19,0.021193609022556403
+2,disease_on_drugs,30,29,0.017182933956750412

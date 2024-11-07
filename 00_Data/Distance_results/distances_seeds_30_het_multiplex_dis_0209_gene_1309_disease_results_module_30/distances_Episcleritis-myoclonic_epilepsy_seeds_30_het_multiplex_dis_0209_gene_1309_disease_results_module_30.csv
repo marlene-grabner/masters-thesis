@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,18,16,1.275326797385621
+2,disease_on_drugs,28,25,0.47638814016172515

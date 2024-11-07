@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,22,14,0.024170274170274286
+2,disease_on_drugs,25,25,-0.21999999999999997

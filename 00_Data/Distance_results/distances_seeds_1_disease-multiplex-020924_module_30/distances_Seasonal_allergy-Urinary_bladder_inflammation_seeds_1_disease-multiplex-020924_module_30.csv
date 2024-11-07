@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,29,25,0.18584929757343538
+1,disease_on_symptoms,15,22,1.016093366093366
+2,disease_on_drugs,29,24,0.6730101930166992

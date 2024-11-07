@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.03386699507389168
+1,disease_on_symptoms,20,19,0.8193994601889338
+2,disease_on_drugs,30,25,0.5581818181818181

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,21,25,-0.17076604554865427
+1,disease_on_symptoms,22,21,1.4923990737944228
+2,disease_on_drugs,21,20,-0.16785714285714293

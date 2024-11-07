@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,29,25,-0.09872286079182624
+1,disease_on_symptoms,17,23,0.544373401534527
+2,disease_on_drugs,26,19,0.025213675213675346

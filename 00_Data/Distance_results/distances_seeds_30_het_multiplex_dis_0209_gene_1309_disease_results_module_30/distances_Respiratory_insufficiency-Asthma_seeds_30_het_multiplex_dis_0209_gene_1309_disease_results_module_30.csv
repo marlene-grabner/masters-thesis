@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.2123076923076923
+1,disease_on_symptoms,21,20,-0.461411149825784
+2,disease_on_drugs,25,22,-0.28528046421663433

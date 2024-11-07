@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,18,21,0.13156288156288154
+1,disease_on_symptoms,28,26,0.4329975579975578
+2,disease_on_drugs,17,20,-0.031796502384737746

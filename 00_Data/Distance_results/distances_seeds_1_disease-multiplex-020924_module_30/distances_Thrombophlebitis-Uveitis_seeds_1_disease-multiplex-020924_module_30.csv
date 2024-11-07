@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,28,30,0.22348111658456493
+1,disease_on_symptoms,15,21,1.0182539682539682
+2,disease_on_drugs,21,27,0.7731481481481481

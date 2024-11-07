@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.2639376218323588
+1,disease_on_symptoms,14,21,1.8095238095238098
+2,disease_on_drugs,11,27,0.3050682261208575

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,29,26,-0.1636363636363637
+1,disease_on_symptoms,20,21,0.46536004645760753
+2,disease_on_drugs,27,26,-0.20553136590872456

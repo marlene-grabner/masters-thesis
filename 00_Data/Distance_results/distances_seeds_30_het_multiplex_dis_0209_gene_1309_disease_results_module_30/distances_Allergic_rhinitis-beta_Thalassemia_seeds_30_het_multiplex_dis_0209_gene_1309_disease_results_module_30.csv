@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,28,30,0.15517241379310343
+1,disease_on_symptoms,20,13,0.6647435897435896
+2,disease_on_drugs,25,24,0.1206292517006804

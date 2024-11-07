@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,0.30930756843800333
+1,disease_on_symptoms,24,27,1.7709694989106755
+2,disease_on_drugs,17,26,0.6824686940966012

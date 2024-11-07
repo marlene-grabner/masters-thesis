@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.15692007797270957
+1,disease_on_symptoms,21,27,0.6643518518518519
+2,disease_on_drugs,29,26,0.3088738847359538

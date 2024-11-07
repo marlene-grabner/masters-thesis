@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,24,28,0.2417582417582418
+1,disease_on_symptoms,26,20,1.520066889632107
+2,disease_on_drugs,15,28,0.8372093023255813

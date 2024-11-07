@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,0.3067599067599067
+1,disease_on_symptoms,17,23,1.6445652173913041
+2,disease_on_drugs,26,20,0.554515050167224

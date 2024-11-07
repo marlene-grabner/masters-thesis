@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Leukemia nodes,sAB
+0,disease_on_genes,24,18,0.02678571428571419
+1,disease_on_symptoms,22,27,0.3171682814539958
+2,disease_on_drugs,24,17,0.009325681492108995

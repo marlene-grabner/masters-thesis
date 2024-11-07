@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,-0.15384615384615385
+1,disease_on_symptoms,17,21,0.8518354710305176
+2,disease_on_drugs,21,27,-0.14120370370370372

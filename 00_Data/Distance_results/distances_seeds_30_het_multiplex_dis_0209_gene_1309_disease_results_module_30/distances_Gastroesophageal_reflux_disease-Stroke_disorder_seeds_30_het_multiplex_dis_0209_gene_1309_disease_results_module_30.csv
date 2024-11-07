@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,-0.14423076923076916
+1,disease_on_symptoms,18,16,-0.08169934640522891
+2,disease_on_drugs,25,30,0.10303030303030303

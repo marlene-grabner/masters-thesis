@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,28,23,-0.019607843137254943
+1,disease_on_symptoms,25,20,0.685
+2,disease_on_drugs,24,20,0.1946969696969698

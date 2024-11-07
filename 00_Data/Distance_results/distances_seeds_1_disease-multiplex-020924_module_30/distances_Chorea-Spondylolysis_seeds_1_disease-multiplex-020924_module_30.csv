@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,14,27,0.15850432313846952
+1,disease_on_symptoms,27,19,0.04627510806000501
+2,disease_on_drugs,8,20,-0.1589285714285713

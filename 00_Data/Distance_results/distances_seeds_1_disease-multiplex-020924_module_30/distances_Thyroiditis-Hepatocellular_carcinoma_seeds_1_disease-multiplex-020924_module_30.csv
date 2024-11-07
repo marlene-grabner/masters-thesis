@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.10408845812572531
+1,disease_on_symptoms,28,19,1.8833986562150058
+2,disease_on_drugs,23,19,0.525879917184265

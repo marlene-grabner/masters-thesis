@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.18181818181818177
+1,disease_on_symptoms,17,18,0.6083566760037349
+2,disease_on_drugs,24,27,-0.061683006535947715

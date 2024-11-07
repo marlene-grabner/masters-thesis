@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Cholangitis nodes,sAB
+0,disease_on_genes,29,30,-0.1228070175438597
+1,disease_on_symptoms,17,18,-0.1461718020541547
+2,disease_on_drugs,26,28,-0.03408628408628411

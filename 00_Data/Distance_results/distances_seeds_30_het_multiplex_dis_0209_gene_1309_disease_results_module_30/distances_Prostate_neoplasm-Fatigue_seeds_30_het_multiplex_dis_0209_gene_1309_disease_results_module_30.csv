@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Fatigue nodes,sAB
+0,disease_on_genes,21,26,-0.16660821448055507
+1,disease_on_symptoms,20,16,1.3944444444444446
+2,disease_on_drugs,21,26,0.39632530589977377

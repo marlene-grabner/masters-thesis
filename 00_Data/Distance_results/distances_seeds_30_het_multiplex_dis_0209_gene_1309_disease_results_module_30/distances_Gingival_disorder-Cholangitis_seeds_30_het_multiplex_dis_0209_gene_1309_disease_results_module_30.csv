@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,18,-0.5106290501027344
+2,disease_on_drugs,24,28,-0.30563186813186816

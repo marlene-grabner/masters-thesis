@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.29444947209653094
+1,disease_on_symptoms,28,23,1.4483162830349532
+2,disease_on_drugs,23,21,1.339732731037079

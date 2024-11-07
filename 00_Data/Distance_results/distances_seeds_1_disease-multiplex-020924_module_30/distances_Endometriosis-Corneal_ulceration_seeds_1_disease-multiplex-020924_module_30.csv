@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.29248768472906406
+1,disease_on_symptoms,12,19,0.6533672891907187
+2,disease_on_drugs,27,26,0.8679245283018868

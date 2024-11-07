@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,-0.17236467236467246
+1,disease_on_symptoms,17,19,0.782077743378053
+2,disease_on_drugs,21,24,0.04027777777777786

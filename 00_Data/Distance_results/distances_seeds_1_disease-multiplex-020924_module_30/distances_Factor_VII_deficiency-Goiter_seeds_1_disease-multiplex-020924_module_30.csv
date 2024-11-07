@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Goiter nodes,sAB
+0,disease_on_genes,25,26,0.6081749622926094
+1,disease_on_symptoms,23,15,1.7601067887109076
+2,disease_on_drugs,21,16,1.4929214929214927

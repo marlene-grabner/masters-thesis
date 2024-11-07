@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,0.23699590882524846
+1,disease_on_symptoms,17,17,1.2647058823529411
+2,disease_on_drugs,26,27,0.604458958232543

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,29,25,0.2918518518518518
+1,disease_on_symptoms,15,23,2.708085430968726
+2,disease_on_drugs,27,23,1.159484702093398

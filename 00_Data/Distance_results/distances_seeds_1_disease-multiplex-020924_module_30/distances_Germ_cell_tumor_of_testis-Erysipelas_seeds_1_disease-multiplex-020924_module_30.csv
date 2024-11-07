@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.47337662337662345
+1,disease_on_symptoms,23,20,1.1694641051567238
+2,disease_on_drugs,20,27,0.8085106382978724

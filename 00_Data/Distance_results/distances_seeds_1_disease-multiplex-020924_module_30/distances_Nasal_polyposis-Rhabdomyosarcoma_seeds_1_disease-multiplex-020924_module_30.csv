@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,15,23,0.3144927536231883
+1,disease_on_symptoms,25,24,0.8807823129251702
+2,disease_on_drugs,10,17,0.6037037037037036

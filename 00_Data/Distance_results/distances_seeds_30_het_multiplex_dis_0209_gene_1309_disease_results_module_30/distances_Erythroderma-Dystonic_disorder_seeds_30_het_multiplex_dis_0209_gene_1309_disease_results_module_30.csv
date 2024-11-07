@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,17,0.8442368839427665
+2,disease_on_drugs,29,26,0.2567156980950085

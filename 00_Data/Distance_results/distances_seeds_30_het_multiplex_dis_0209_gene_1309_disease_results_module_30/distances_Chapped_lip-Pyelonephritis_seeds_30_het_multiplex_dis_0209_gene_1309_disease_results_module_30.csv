@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,26,24,-0.0008333333333334636
+1,disease_on_symptoms,20,19,0.3882253711201078
+2,disease_on_drugs,23,19,-0.04309687261632367

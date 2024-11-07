@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,28,0.21883116883116904
+1,disease_on_symptoms,24,21,0.8234126984126986
+2,disease_on_drugs,25,28,0.33824797843665766

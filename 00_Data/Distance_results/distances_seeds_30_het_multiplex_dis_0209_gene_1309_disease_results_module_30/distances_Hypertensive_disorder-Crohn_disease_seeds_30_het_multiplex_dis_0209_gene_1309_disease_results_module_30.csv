@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,26,-0.16981132075471694
+1,disease_on_symptoms,21,22,0.11434108527131759
+2,disease_on_drugs,26,24,-0.14089743589743586

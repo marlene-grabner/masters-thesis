@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.35185185185185186
+1,disease_on_symptoms,14,15,2.6273399014778325
+2,disease_on_drugs,13,26,0.7307692307692308

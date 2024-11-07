@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,18,0.22880485527544336
+2,disease_on_drugs,24,22,-0.06661725955204201

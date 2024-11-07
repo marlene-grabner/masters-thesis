@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,26,27,0.3951378809869375
+1,disease_on_symptoms,17,17,2.0294117647058822
+2,disease_on_drugs,20,25,1.0222222222222221

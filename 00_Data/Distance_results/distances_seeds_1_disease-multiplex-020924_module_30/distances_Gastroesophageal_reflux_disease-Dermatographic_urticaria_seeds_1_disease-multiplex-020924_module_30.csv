@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,26,29,-0.07272727272727275
+1,disease_on_symptoms,17,14,0.6293033342369208
+2,disease_on_drugs,25,28,0.03660377358490563

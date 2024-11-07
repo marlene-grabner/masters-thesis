@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,26,23,0.08147907992628478
+1,disease_on_symptoms,20,19,1.520310391363023
+2,disease_on_drugs,20,22,0.1114718614718615

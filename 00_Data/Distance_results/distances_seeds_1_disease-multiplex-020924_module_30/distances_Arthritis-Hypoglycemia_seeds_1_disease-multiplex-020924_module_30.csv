@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.33333333333333326
+1,disease_on_symptoms,19,12,1.3012167515563102
+2,disease_on_drugs,29,22,0.6933739012846518

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,23,30,0.4064807219031994
+1,disease_on_symptoms,21,12,1.3257575757575757
+2,disease_on_drugs,19,22,0.9268292682926829

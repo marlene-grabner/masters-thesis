@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,17,25,0.27736694677871165
+1,disease_on_symptoms,21,13,3.0982546864899803
+2,disease_on_drugs,14,16,0.48124999999999996

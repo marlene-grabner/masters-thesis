@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,17,20,1.1078696343402228
+2,disease_on_drugs,26,26,0.40384615384615374

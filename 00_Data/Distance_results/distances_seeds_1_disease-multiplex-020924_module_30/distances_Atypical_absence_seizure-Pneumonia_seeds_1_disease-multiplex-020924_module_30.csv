@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Pneumonia nodes,sAB
+0,disease_on_genes,29,30,0.23785310734463283
+1,disease_on_symptoms,15,26,1.8282989368355222
+2,disease_on_drugs,27,28,1.2356902356902357

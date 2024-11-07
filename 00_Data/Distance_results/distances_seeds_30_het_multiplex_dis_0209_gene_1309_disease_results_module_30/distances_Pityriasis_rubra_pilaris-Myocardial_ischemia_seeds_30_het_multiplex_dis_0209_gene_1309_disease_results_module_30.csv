@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,-0.28177387914230034
+1,disease_on_symptoms,21,19,-0.03201754385964928
+2,disease_on_drugs,25,30,-0.255151515151515

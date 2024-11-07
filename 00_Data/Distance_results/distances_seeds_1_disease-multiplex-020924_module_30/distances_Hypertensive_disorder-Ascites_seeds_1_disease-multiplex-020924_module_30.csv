@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,-0.2142857142857143
+1,disease_on_symptoms,15,17,-0.3589460784313725
+2,disease_on_drugs,26,27,-0.2442348008385744

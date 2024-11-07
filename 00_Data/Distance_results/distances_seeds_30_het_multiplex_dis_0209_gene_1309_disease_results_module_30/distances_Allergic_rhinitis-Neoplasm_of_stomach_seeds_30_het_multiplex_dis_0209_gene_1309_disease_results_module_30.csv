@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,28,25,-0.0011320754716981352
+1,disease_on_symptoms,20,23,0.5451718907987866
+2,disease_on_drugs,25,24,0.3085544217687075

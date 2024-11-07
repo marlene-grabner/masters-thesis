@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,16,-0.03532608695652173
+1,disease_on_symptoms,22,21,0.46494009866102903
+2,disease_on_drugs,29,15,0.27742946708463934

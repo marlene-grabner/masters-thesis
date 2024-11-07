@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,22,30,0.13717948717948714
+1,disease_on_symptoms,17,17,0.6470588235294117
+2,disease_on_drugs,21,26,0.34714753331774606

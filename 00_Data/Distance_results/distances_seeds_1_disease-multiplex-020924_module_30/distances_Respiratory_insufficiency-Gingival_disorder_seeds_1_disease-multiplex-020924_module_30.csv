@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,25,21,0.2363975155279503
+1,disease_on_symptoms,20,26,1.1545986622073579
+2,disease_on_drugs,14,20,0.0987394957983192

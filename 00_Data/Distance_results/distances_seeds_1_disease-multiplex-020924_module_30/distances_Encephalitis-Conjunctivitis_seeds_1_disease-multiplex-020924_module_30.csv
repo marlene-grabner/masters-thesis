@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,28,27,0.20031265031265044
+1,disease_on_symptoms,17,27,0.456129926718162
+2,disease_on_drugs,18,26,0.07517482517482521

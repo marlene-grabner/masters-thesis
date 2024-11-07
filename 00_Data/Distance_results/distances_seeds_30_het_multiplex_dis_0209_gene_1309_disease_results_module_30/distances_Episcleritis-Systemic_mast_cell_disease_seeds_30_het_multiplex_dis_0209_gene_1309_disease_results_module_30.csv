@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,18,25,1.108863049095607
+2,disease_on_drugs,28,21,0.15986394557823114

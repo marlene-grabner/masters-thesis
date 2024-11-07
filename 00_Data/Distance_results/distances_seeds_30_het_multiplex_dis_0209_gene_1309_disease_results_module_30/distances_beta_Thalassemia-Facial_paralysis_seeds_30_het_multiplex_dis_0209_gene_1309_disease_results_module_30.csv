@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.019230769230769162
+1,disease_on_symptoms,13,21,0.6653738418444299
+2,disease_on_drugs,24,17,0.17972859875657576

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Pruritus nodes,sAB
+0,disease_on_genes,17,26,0.04823170731707305
+1,disease_on_symptoms,27,19,1.5362742605305533
+2,disease_on_drugs,14,24,0.25375939849624074

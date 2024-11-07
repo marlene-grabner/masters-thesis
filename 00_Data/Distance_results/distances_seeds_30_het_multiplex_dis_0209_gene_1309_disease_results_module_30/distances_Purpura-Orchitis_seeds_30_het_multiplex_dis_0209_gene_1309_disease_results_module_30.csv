@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Orchitis nodes,sAB
+0,disease_on_genes,27,25,-0.11467236467236475
+1,disease_on_symptoms,17,19,0.8026315789473686
+2,disease_on_drugs,24,25,-0.06260204081632659

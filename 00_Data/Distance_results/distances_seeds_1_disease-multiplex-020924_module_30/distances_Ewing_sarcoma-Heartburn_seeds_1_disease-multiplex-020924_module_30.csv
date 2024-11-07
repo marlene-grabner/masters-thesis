@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,24,24,0.2500000000000002
+1,disease_on_symptoms,25,20,0.8972222222222224
+2,disease_on_drugs,17,22,1.0541958041958044

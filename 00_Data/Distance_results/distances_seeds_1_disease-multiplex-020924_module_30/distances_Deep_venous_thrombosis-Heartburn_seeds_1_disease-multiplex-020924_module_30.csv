@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Heartburn nodes,sAB
+0,disease_on_genes,28,24,0.12797619047619047
+1,disease_on_symptoms,14,20,1.6418067226890758
+2,disease_on_drugs,24,22,1.107707509881423

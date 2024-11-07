@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,17,14,0.7836812144212524
+2,disease_on_drugs,26,24,-0.08121794871794896

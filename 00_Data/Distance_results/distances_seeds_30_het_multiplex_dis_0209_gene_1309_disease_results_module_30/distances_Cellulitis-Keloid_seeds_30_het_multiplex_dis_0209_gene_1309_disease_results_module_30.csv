@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.07547169811320753
+1,disease_on_symptoms,20,17,1.2207472178060415
+2,disease_on_drugs,26,22,0.32182400932400945

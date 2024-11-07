@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,22,-0.08510638297872342
+1,disease_on_symptoms,13,21,1.477591036414566
+2,disease_on_drugs,21,17,0.07290284534866576

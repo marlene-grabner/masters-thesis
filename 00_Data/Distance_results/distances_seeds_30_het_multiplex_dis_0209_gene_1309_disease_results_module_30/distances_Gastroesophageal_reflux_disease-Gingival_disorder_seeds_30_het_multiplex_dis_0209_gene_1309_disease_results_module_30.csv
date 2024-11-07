@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,18,19,0.03291449344080921
+2,disease_on_drugs,25,24,0.20229591836734695

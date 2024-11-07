@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,26,30,0.501007326007326
+1,disease_on_symptoms,23,22,1.402393500219587
+2,disease_on_drugs,25,15,1.3249999999999997

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,20,0.32499999999999973
+2,disease_on_drugs,26,29,0.28826862792380026

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,29,30,-0.13559322033898302
+1,disease_on_symptoms,19,15,0.486687306501548
+2,disease_on_drugs,29,30,-0.018127800506526404

@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,24,21,0.3930555555555557
+1,disease_on_symptoms,22,20,2.8066017316017313
+2,disease_on_drugs,11,19,0.6736842105263159

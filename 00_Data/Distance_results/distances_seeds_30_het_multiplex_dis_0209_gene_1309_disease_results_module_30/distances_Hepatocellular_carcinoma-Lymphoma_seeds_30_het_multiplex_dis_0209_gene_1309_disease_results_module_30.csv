@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Lymphoma nodes,sAB
+0,disease_on_genes,24,26,-0.26
+1,disease_on_symptoms,23,20,0.03225480283114268
+2,disease_on_drugs,22,24,-0.1505270092226615

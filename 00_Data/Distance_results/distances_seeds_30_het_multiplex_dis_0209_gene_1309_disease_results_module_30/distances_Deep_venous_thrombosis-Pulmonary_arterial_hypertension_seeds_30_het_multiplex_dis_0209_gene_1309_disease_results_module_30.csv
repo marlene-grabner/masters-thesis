@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,16,17,-0.03191844919786102
+2,disease_on_drugs,28,25,0.07159029649595694

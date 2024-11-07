@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,25,16,1.1197560975609757
+2,disease_on_drugs,26,23,0.5468739335198962

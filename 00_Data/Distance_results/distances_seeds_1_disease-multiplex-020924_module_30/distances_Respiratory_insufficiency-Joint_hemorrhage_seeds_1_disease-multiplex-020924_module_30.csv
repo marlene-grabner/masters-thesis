@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,25,30,0.6918181818181817
+1,disease_on_symptoms,20,13,0.5943473193473192
+2,disease_on_drugs,14,18,0.43452380952380953

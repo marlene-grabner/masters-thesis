@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,19,16,0.11033834586466185
+2,disease_on_drugs,24,29,0.257848080676643

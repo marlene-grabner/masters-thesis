@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.20628078817733986
+1,disease_on_symptoms,14,19,0.41712235133287767
+2,disease_on_drugs,27,26,0.2648497554157929

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,25,30,0.16363636363636358
+1,disease_on_symptoms,23,17,0.7456521739130433
+2,disease_on_drugs,21,26,0.10749357025952766

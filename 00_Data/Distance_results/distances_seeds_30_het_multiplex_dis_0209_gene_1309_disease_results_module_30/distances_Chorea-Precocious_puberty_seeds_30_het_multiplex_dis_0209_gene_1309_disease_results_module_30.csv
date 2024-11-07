@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,16,0.02673796791443861
+2,disease_on_drugs,24,27,0.07421023965141615

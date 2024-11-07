@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,21,30,-0.12184873949579822
+1,disease_on_symptoms,20,18,0.2723684210526316
+2,disease_on_drugs,21,28,0.03911564625850339

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.5070134424313266
+1,disease_on_symptoms,9,22,0.714239165852069
+2,disease_on_drugs,11,29,0.6028213166144201

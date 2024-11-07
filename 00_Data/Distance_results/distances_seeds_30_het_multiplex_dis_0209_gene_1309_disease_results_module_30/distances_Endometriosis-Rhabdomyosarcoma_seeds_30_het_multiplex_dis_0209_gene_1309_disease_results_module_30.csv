@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.32175141242937844
+1,disease_on_symptoms,16,19,-0.15202067669172936
+2,disease_on_drugs,30,29,-0.28874926943308

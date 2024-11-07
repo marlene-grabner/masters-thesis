@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,23,27,0.385925925925926
+1,disease_on_symptoms,16,22,1.714563397129187
+2,disease_on_drugs,17,26,0.9644322845417237

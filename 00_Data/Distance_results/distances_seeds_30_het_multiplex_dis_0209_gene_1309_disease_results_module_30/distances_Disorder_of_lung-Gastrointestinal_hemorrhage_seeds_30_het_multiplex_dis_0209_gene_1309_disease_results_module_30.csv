@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,27,28,-0.017857142857142794
+1,disease_on_symptoms,18,20,0.9549707602339184
+2,disease_on_drugs,24,27,0.14011437908496727

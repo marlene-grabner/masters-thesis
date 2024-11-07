@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Keloid nodes,sAB
+0,disease_on_genes,27,22,0.058475915618772634
+1,disease_on_symptoms,21,20,1.5885598141695705
+2,disease_on_drugs,24,19,0.11870155038759678

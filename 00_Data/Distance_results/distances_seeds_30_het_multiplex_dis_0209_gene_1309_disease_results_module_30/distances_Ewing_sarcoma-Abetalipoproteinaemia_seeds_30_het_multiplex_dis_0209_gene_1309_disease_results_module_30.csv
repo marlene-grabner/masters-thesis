@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.10389610389610382
+1,disease_on_symptoms,17,26,-0.21251183836683163
+2,disease_on_drugs,24,14,-0.03461779448621538

@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,18,18,0.1944444444444442
+2,disease_on_drugs,21,26,-0.3028407762450316

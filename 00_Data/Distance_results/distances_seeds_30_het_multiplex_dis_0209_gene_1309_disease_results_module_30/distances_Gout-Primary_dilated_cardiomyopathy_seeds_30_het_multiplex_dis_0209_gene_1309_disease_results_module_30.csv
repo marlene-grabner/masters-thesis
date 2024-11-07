@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,28,30,0.25800492610837455
+1,disease_on_symptoms,19,24,1.0443951448388413
+2,disease_on_drugs,22,15,0.09025389025389052

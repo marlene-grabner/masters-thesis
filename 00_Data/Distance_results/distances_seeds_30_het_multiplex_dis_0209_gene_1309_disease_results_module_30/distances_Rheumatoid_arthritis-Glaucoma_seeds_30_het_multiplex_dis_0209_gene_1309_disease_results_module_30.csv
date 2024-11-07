@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.20000000000000007
+1,disease_on_symptoms,19,18,-0.5126837363679468
+2,disease_on_drugs,30,28,-0.03821839080459766

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,13,18,0.4828370554177006
+2,disease_on_drugs,19,27,0.24980930587337924

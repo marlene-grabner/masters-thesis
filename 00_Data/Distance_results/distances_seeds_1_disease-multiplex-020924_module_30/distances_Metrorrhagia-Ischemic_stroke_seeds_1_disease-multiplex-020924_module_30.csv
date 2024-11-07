@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.10614035087719298
+1,disease_on_symptoms,17,16,0.8836898395721926
+2,disease_on_drugs,26,23,0.5072350010238209

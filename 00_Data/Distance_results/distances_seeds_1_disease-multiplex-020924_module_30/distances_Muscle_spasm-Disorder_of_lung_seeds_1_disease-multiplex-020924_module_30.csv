@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,25,27,0.2853276353276353
+1,disease_on_symptoms,23,17,2.0179028132992327
+2,disease_on_drugs,19,20,0.6923076923076923

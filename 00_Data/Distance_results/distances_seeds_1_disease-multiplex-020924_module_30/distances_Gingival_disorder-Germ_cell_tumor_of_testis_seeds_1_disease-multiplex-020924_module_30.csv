@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,21,27,0.28273809523809534
+1,disease_on_symptoms,26,23,1.5641594430414305
+2,disease_on_drugs,20,20,0.925

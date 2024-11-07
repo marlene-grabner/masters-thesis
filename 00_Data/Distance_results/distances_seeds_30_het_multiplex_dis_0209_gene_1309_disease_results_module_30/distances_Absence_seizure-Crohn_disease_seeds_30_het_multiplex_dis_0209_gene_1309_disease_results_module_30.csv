@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.1785714285714286
+1,disease_on_symptoms,14,22,1.900793650793651
+2,disease_on_drugs,22,24,0.495882740447958

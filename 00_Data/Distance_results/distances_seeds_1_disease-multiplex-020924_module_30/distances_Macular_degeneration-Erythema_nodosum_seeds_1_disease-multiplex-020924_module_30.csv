@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.2930623973727422
+1,disease_on_symptoms,15,23,0.7482074752097638
+2,disease_on_drugs,21,28,0.5093537414965985

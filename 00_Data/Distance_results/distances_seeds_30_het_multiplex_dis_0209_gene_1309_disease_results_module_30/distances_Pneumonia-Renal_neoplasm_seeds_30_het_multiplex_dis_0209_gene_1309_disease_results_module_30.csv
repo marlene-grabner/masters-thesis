@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,23,20,0.42323053589484316
+2,disease_on_drugs,29,28,0.38686155042779347

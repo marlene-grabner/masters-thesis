@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.03993710691823904
+1,disease_on_symptoms,21,20,0.514663182346109
+2,disease_on_drugs,29,20,0.3486805066854328

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,9,29,0.17049808429118762
+1,disease_on_symptoms,27,16,1.9862726098191215
+2,disease_on_drugs,9,25,0.47058823529411775

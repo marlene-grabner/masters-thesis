@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,17,0.5
+2,disease_on_drugs,24,25,0.20440476190476198

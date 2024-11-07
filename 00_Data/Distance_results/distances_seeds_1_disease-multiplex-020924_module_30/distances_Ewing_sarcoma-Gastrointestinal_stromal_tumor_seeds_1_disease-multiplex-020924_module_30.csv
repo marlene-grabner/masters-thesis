@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,24,23,-0.10736586493987055
+1,disease_on_symptoms,25,20,0.04444444444444451
+2,disease_on_drugs,17,19,0.05555555555555558

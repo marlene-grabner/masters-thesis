@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,24,0.1428571428571428
+1,disease_on_symptoms,18,23,1.402468481206551
+2,disease_on_drugs,17,24,0.19010043041606894

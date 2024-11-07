@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,21,20,-0.48193960511033684
+2,disease_on_drugs,29,28,-0.1401240169388991

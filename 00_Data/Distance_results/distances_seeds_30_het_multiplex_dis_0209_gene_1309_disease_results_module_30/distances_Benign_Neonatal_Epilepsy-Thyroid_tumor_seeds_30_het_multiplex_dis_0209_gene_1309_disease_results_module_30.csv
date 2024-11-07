@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.05660377358490565
+1,disease_on_symptoms,16,20,1.6145833333333335
+2,disease_on_drugs,21,20,0.5859175377468058

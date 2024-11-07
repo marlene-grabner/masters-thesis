@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,0.28534798534798544
+1,disease_on_symptoms,21,14,0.9904761904761905
+2,disease_on_drugs,24,24,0.9583333333333335

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,26,30,0.052197802197802234
+1,disease_on_symptoms,17,15,0.06421568627451002
+2,disease_on_drugs,24,24,0.20833333333333326

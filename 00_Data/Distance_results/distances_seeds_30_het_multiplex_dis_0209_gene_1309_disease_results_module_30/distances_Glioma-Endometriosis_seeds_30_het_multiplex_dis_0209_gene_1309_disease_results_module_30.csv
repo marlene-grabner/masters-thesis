@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Endometriosis nodes,sAB
+0,disease_on_genes,22,30,-0.24743589743589733
+1,disease_on_symptoms,21,16,0.685207528957529
+2,disease_on_drugs,21,30,-0.23907563025210088

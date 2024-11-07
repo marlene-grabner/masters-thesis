@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,28,26,0.14814814814814814
+1,disease_on_symptoms,18,21,0.4777167277167278
+2,disease_on_drugs,23,26,0.15701999863490546

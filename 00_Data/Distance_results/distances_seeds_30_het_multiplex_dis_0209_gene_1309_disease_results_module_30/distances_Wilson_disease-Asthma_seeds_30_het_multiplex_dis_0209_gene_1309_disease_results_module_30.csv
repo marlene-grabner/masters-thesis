@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Asthma nodes,sAB
+0,disease_on_genes,25,25,-0.08000000000000007
+1,disease_on_symptoms,19,20,0.8923414304993251
+2,disease_on_drugs,22,22,0.022727272727272707

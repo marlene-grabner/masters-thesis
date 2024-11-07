@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.03474576271186436
+1,disease_on_symptoms,12,16,-0.07440476190476186
+2,disease_on_drugs,30,29,0.6274011299435029

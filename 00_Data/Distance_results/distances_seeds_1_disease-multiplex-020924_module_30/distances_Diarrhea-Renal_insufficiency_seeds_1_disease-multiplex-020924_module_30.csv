@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,20,0.05527974783293943
+1,disease_on_symptoms,19,23,1.0111692274163668
+2,disease_on_drugs,26,17,0.6415079448595178

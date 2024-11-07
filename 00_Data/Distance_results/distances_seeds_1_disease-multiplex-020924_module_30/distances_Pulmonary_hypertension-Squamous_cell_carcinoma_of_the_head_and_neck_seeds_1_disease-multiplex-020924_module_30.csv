@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,28,21,0.22363945578231292
+1,disease_on_symptoms,20,25,1.6911111111111112
+2,disease_on_drugs,28,21,0.8163265306122449

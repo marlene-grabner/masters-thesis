@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,30,21,0.11764705882352944
+1,disease_on_symptoms,19,24,0.8805334557323543
+2,disease_on_drugs,29,20,0.6171534130893737

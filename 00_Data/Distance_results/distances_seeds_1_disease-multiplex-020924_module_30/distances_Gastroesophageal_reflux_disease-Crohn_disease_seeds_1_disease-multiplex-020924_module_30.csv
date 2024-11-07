@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,25,0.07833333333333359
+1,disease_on_symptoms,17,20,0.2258346581875994
+2,disease_on_drugs,25,21,0.3671635610766044

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,14,0.6701388888888888
+2,disease_on_drugs,26,24,0.11801282051282058

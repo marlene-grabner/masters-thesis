@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,26,0.21153846153846168
+1,disease_on_symptoms,21,19,0.7192355889724311
+2,disease_on_drugs,24,23,0.6604417206290472

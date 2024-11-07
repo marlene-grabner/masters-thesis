@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,0.06909090909090909
+1,disease_on_symptoms,22,17,0.9977718360071304
+2,disease_on_drugs,29,24,0.32495662546085446

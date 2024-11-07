@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,17,21,0.22947073566268594
+1,disease_on_symptoms,21,22,1.9766435115272323
+2,disease_on_drugs,17,20,0.7350953895071541

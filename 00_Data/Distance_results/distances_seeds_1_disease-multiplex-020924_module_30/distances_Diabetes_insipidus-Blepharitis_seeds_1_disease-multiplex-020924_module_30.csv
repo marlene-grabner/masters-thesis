@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Blepharitis nodes,sAB
+0,disease_on_genes,24,20,0.4541666666666666
+1,disease_on_symptoms,18,27,1.2759259259259261
+2,disease_on_drugs,18,19,0.8122332859174963

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,27,24,-0.11778322440087152
+1,disease_on_symptoms,23,19,0.4814209436635064
+2,disease_on_drugs,25,19,-0.210382775119617

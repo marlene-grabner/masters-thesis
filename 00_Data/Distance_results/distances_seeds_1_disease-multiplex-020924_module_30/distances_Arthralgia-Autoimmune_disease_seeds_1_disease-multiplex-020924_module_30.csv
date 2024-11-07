@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.005244755244755428
+1,disease_on_symptoms,19,19,1.2894736842105265
+2,disease_on_drugs,30,19,0.13694951664876487

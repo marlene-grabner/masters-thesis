@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,16,18,-0.23202614379084952
+2,disease_on_drugs,29,28,0.05377668308702788

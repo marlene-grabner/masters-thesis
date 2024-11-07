@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.4474358974358974
+1,disease_on_symptoms,22,17,1.2178458796105858
+2,disease_on_drugs,15,18,0.793939393939394

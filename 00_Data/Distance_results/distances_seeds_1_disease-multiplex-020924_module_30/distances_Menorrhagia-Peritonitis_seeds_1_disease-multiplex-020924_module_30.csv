@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,0.07445054945054963
+1,disease_on_symptoms,19,17,1.1609047127622978
+2,disease_on_drugs,24,28,0.36652930402930406

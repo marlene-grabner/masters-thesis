@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Migraine nodes,sAB
+0,disease_on_genes,26,30,-0.09065934065934056
+1,disease_on_symptoms,20,12,-0.022916666666666696
+2,disease_on_drugs,20,29,-0.31896551724137945

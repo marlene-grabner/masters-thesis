@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,29,30,-0.30508474576271183
+1,disease_on_symptoms,19,21,0.01553884711779463
+2,disease_on_drugs,29,29,-0.25862068965517226

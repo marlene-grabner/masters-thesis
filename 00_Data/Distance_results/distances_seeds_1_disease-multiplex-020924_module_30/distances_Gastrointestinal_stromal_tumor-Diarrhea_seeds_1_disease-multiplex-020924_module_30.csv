@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Diarrhea nodes,sAB
+0,disease_on_genes,23,27,-0.04128824476650572
+1,disease_on_symptoms,20,19,1.3573549257759785
+2,disease_on_drugs,19,26,0.9141025641025642

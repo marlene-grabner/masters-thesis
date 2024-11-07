@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,-0.1724548440065683
+1,disease_on_symptoms,19,19,-0.4473684210526314
+2,disease_on_drugs,22,29,-0.03509742454975728

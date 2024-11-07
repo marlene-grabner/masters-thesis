@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,29,30,-0.13559322033898302
+1,disease_on_symptoms,19,15,0.40237358101135223
+2,disease_on_drugs,29,26,-0.2421509524957799

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,28,27,-0.2730639730639731
+1,disease_on_symptoms,17,19,-0.000601995184038584
+2,disease_on_drugs,25,24,-0.3257993197278911

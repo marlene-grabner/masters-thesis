@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,12,27,0.5366809116809117
+1,disease_on_symptoms,27,20,1.3337076438140267
+2,disease_on_drugs,9,25,0.18300653594771243

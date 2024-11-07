@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,21,30,0.040896358543417444
+1,disease_on_symptoms,22,26,0.7998251748251748
+2,disease_on_drugs,21,28,0.2857142857142858

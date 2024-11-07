@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,17,20,0.2688394276629569
+1,disease_on_symptoms,25,26,1.4316591251885367
+2,disease_on_drugs,13,13,0.7307692307692306

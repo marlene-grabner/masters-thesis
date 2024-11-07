@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.27492997198879543
+1,disease_on_symptoms,23,22,0.8646464646464647
+2,disease_on_drugs,30,20,0.6949999999999998

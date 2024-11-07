@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Keloid nodes,sAB
+0,disease_on_genes,29,22,0.21654680681049854
+1,disease_on_symptoms,21,20,0.6582462253193961
+2,disease_on_drugs,28,19,0.49962006079027343

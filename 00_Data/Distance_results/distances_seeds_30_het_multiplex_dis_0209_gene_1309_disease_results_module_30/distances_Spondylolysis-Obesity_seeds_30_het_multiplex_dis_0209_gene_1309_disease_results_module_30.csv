@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Obesity nodes,sAB
+0,disease_on_genes,28,27,-0.12828282828282833
+1,disease_on_symptoms,17,18,0.3119514472455647
+2,disease_on_drugs,19,25,-0.05334928229665081

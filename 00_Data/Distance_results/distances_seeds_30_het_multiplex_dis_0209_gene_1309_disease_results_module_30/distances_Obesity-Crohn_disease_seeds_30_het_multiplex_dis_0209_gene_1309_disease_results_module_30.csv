@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,26,-0.22536687631027252
+1,disease_on_symptoms,18,22,0.2861111111111112
+2,disease_on_drugs,25,24,-0.1416666666666666

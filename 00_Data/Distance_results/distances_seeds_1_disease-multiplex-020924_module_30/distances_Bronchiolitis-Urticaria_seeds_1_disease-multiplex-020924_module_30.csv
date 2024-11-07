@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Urticaria nodes,sAB
+0,disease_on_genes,23,10,0.34189723320158083
+1,disease_on_symptoms,25,27,0.5366951566951568
+2,disease_on_drugs,18,9,0.5462962962962961

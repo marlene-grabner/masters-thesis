@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,18,30,0.6291666666666667
+1,disease_on_symptoms,18,12,3.3583333333333334
+2,disease_on_drugs,10,17,0.5094771241830065

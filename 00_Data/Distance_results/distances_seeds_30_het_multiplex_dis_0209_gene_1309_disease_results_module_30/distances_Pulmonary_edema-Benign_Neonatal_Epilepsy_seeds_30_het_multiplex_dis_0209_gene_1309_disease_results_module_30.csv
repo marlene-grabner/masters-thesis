@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,11,16,1.118371212121212
+2,disease_on_drugs,27,21,0.39682539682539675

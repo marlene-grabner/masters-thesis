@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,17,22,0.5055532702591525
+2,disease_on_drugs,26,29,0.3438630335182058

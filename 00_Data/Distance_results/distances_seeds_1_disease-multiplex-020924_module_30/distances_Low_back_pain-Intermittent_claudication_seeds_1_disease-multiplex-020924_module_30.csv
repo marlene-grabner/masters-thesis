@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.18833333333333324
+1,disease_on_symptoms,17,24,0.9883130081300813
+2,disease_on_drugs,26,18,0.48154623154623155

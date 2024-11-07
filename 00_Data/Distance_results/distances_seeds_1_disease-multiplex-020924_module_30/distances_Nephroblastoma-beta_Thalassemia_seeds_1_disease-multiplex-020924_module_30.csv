@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,22,0.44628626692456463
+1,disease_on_symptoms,25,21,2.486293995859213
+2,disease_on_drugs,21,6,0.7592592592592593

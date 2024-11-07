@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,29,30,-0.6268458990843562
+1,disease_on_symptoms,23,26,-0.8424168998703162
+2,disease_on_drugs,27,28,-0.6915824915824917

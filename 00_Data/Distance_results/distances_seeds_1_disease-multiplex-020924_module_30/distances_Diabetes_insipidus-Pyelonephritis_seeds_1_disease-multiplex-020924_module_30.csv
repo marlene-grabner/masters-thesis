@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,24,23,0.31820459451125505
+1,disease_on_symptoms,18,21,0.8141025641025643
+2,disease_on_drugs,18,19,0.8108108108108107

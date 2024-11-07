@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,14,13,1.0086487586487587
+2,disease_on_drugs,28,21,0.1054421768707483

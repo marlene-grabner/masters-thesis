@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,0.035964912280701755
+1,disease_on_symptoms,21,18,0.521062271062271
+2,disease_on_drugs,24,28,0.17788461538461542

@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,13,17,1.170588235294118
+2,disease_on_drugs,21,26,0.31875925492946755

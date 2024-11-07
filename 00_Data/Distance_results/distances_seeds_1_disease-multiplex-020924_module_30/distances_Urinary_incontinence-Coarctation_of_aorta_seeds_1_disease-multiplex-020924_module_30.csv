@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.39368650217706835
+1,disease_on_symptoms,20,14,2.2531512605042017
+2,disease_on_drugs,20,13,0.7878787878787878

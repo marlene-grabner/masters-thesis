@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,28,30,0.08559113300492616
+1,disease_on_symptoms,19,16,0.9178101503759399
+2,disease_on_drugs,22,28,0.2267532467532467

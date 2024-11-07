@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.11893629456458199
+1,disease_on_symptoms,20,18,-0.023830409356725202
+2,disease_on_drugs,30,28,0.06642036124794748

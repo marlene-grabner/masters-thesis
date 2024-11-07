@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.07769230769230773
+1,disease_on_symptoms,21,26,0.6492089470812876
+2,disease_on_drugs,23,24,0.06097748997841501

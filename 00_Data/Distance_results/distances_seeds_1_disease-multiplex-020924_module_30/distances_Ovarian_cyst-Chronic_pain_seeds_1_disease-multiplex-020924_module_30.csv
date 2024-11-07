@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,20,30,0.2250000000000001
+1,disease_on_symptoms,22,22,1.068181818181818
+2,disease_on_drugs,15,28,0.7426079734219269

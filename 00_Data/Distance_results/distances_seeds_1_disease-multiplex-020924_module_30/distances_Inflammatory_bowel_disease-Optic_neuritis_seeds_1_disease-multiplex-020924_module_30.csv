@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,17,27,0.016742032730404643
+1,disease_on_symptoms,27,16,0.889992463393626
+2,disease_on_drugs,14,27,-0.09714156665376183

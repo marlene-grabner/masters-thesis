@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Cellulitis nodes,sAB
+0,disease_on_genes,24,30,-0.01851851851851849
+1,disease_on_symptoms,24,20,0.4606060606060607
+2,disease_on_drugs,23,26,0.09830387004300056

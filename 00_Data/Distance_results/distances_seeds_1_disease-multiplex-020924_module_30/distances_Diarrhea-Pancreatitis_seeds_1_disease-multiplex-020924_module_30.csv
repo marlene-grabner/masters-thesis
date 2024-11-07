@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.07153996101364513
+1,disease_on_symptoms,19,20,0.8964574898785425
+2,disease_on_drugs,26,30,0.21291208791208804

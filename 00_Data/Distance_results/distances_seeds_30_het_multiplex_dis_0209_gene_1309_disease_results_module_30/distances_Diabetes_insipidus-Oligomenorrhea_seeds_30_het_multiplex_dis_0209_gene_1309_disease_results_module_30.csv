@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,29,-0.05559440559440554
+1,disease_on_symptoms,20,11,0.22448680351906147
+2,disease_on_drugs,20,24,0.10227272727272729

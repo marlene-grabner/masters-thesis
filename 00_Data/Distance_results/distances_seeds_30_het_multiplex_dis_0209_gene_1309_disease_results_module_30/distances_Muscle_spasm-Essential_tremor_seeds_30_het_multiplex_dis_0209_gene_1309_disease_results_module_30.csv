@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.196078431372549
+1,disease_on_symptoms,15,23,0.18436308161708626
+2,disease_on_drugs,29,21,-0.25697865353037774

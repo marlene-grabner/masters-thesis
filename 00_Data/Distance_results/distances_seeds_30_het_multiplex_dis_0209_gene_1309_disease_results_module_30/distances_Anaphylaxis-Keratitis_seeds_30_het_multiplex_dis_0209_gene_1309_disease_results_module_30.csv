@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,0.034990253411306016
+1,disease_on_symptoms,14,25,1.1815018315018315
+2,disease_on_drugs,26,29,0.253279479141548

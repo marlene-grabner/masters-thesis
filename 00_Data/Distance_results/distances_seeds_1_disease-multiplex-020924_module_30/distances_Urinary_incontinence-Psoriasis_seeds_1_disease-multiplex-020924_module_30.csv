@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,0.23707773707773727
+1,disease_on_symptoms,20,21,1.4833042973286876
+2,disease_on_drugs,20,28,1.0892857142857144

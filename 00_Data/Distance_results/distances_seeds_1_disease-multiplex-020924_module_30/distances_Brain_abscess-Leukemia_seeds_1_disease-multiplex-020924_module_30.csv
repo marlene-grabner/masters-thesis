@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,0.32592592592592595
+1,disease_on_symptoms,21,27,1.1980820105820107
+2,disease_on_drugs,23,17,0.5813299232736573

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,16,26,0.42261904761904767
+1,disease_on_symptoms,26,15,2.3545340838023767
+2,disease_on_drugs,14,26,0.875

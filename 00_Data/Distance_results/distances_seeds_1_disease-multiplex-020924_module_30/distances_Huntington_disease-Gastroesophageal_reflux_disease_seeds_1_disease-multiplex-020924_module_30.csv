@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,0.0011904761904761862
+1,disease_on_symptoms,16,17,0.6680592691622103
+2,disease_on_drugs,27,25,0.2876923076923077

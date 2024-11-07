@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,25,30,0.21424242424242435
+1,disease_on_symptoms,25,20,0.5738888888888889
+2,disease_on_drugs,21,22,0.2790697674418605

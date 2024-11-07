@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.1575757575757577
+1,disease_on_symptoms,14,23,1.5879637401376534
+2,disease_on_drugs,24,20,0.6090909090909091

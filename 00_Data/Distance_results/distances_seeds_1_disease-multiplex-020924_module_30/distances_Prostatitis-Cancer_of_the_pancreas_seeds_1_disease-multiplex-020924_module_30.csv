@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.27231638418079096
+1,disease_on_symptoms,20,16,0.7541666666666664
+2,disease_on_drugs,29,29,0.9482758620689655

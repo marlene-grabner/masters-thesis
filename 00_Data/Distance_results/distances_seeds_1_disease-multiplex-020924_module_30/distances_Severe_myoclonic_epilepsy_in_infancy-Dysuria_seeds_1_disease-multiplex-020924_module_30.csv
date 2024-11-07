@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,0.09905513345022388
+1,disease_on_symptoms,16,16,1.96875
+2,disease_on_drugs,21,23,0.7033690946734426

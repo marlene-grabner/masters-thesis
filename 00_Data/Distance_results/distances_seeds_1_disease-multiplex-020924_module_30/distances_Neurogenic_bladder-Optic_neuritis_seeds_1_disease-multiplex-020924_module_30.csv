@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.18050682261208562
+1,disease_on_symptoms,17,16,0.6292892156862746
+2,disease_on_drugs,26,27,0.6422082459818308

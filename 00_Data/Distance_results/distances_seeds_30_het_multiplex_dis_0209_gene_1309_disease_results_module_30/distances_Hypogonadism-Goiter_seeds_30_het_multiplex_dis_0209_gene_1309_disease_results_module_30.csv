@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,17,12,1.0846010818120355
+2,disease_on_drugs,29,18,0.5489320942365699

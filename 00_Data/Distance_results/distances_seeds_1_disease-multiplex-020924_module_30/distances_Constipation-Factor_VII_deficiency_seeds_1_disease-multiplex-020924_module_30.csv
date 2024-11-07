@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.3051515151515152
+1,disease_on_symptoms,17,23,2.187531969309463
+2,disease_on_drugs,27,21,0.6421957671957672

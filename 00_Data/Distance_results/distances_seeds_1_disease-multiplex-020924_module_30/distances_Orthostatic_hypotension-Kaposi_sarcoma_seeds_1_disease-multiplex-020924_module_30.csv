@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.36111111111111094
+1,disease_on_symptoms,12,27,1.3621794871794874
+2,disease_on_drugs,17,13,1.103921568627451

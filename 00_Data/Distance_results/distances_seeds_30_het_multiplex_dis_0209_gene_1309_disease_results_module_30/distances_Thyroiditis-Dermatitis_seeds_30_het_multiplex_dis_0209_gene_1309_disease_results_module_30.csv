@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,21,14,-0.3547619047619046
+2,disease_on_drugs,29,28,-0.05146486906922476

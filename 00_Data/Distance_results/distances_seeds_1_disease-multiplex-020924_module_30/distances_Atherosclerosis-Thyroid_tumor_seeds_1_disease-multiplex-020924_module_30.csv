@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.4064807219031994
+1,disease_on_symptoms,13,20,0.8459790209790208
+2,disease_on_drugs,29,20,0.34234693877551026

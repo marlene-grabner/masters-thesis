@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,27,0.2407407407407407
+1,disease_on_symptoms,22,22,0.7727272727272729
+2,disease_on_drugs,24,26,1.4783333333333335

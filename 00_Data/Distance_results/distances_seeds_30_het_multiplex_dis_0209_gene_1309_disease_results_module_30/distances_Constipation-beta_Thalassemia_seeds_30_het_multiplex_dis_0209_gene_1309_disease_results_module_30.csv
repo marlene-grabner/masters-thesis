@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,16,13,0.10087864721485418
+2,disease_on_drugs,28,24,-0.20169413919413914

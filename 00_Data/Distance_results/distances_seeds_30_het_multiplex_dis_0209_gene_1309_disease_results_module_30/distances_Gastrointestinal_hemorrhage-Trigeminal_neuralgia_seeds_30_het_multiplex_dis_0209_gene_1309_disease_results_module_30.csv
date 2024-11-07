@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,28,30,-0.17302955665024622
+1,disease_on_symptoms,20,15,-0.3452380952380951
+2,disease_on_drugs,27,25,-0.038803418803418976

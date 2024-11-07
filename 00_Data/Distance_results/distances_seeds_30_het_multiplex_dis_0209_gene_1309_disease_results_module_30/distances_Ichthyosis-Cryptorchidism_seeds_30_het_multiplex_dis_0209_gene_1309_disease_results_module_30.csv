@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,28,23,-0.11802764584094516
+1,disease_on_symptoms,18,19,0.31725146198830423
+2,disease_on_drugs,25,21,0.027991718426500833

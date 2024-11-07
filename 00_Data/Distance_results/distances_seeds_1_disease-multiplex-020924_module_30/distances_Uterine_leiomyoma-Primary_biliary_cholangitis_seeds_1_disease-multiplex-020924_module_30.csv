@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,24,26,0.6557692307692309
+1,disease_on_symptoms,21,17,1.5386259767064723
+2,disease_on_drugs,18,18,1.0555555555555556

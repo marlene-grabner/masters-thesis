@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.13584648353789208
+1,disease_on_symptoms,20,16,0.5319444444444446
+2,disease_on_drugs,29,25,0.37292464878671794

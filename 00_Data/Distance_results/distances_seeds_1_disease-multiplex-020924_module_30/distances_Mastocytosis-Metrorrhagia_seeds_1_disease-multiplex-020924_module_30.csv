@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,18,27,0.28333333333333344
+1,disease_on_symptoms,28,17,0.6314892623716151
+2,disease_on_drugs,17,26,0.5073660949173944

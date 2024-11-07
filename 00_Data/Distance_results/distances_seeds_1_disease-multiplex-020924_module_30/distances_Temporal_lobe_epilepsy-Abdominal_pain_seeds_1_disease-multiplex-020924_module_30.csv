@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,0.2375608805766607
+1,disease_on_symptoms,17,24,0.5779232424677188
+2,disease_on_drugs,26,24,0.23910256410256414

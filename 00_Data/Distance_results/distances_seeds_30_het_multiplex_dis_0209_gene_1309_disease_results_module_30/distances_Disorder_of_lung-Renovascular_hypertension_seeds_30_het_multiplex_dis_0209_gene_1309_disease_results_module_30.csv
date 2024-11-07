@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,18,17,1.233099906629318
+2,disease_on_drugs,24,29,-0.0823438516590762

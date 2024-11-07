@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,15,29,0.028578892371995623
+1,disease_on_symptoms,25,21,-0.15548654244306426
+2,disease_on_drugs,10,28,-0.17988721804511265

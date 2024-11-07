@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,23,27,-0.14373590982286633
+1,disease_on_symptoms,21,21,0.45238095238095255
+2,disease_on_drugs,19,24,-0.044089147286821895

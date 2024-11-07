@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.2857142857142858
+1,disease_on_symptoms,24,22,0.8409914361001316
+2,disease_on_drugs,15,26,0.16591619762351462

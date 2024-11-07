@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.05703703703703722
+1,disease_on_symptoms,21,17,1.1883384932920538
+2,disease_on_drugs,25,22,-0.04145067698259197

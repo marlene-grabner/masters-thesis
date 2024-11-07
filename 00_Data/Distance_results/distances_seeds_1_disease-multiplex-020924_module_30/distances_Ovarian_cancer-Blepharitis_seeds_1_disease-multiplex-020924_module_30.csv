@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,0.23031914893617023
+1,disease_on_symptoms,17,27,1.0074767280649635
+2,disease_on_drugs,25,19,0.6746411483253587

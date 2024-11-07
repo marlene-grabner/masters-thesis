@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,25,0.21272727272727265
+1,disease_on_symptoms,14,24,1.2534461152882206
+2,disease_on_drugs,27,20,0.941686367218282

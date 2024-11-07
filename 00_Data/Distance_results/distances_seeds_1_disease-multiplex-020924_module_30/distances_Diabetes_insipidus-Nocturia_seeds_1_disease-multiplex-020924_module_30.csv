@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Nocturia nodes,sAB
+0,disease_on_genes,24,21,0.3711080586080586
+1,disease_on_symptoms,18,24,0.7827380952380953
+2,disease_on_drugs,18,14,0.6428571428571428

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,29,22,-0.17647058823529416
+1,disease_on_symptoms,20,21,0.7092624854819976
+2,disease_on_drugs,27,17,-0.19414735591206167

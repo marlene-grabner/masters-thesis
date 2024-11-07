@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,22,0.24431818181818166
+1,disease_on_symptoms,21,19,0.7767543859649124
+2,disease_on_drugs,25,18,0.025245478036175717

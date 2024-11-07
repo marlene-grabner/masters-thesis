@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,25,27,-0.11538461538461542
+1,disease_on_symptoms,22,21,-0.18642404107520383
+2,disease_on_drugs,25,25,-0.2599999999999998

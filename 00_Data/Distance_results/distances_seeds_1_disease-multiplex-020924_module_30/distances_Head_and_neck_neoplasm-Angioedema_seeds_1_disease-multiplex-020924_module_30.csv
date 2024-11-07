@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.18961412151067303
+1,disease_on_symptoms,20,17,0.8912559618441973
+2,disease_on_drugs,27,25,0.6346153846153846

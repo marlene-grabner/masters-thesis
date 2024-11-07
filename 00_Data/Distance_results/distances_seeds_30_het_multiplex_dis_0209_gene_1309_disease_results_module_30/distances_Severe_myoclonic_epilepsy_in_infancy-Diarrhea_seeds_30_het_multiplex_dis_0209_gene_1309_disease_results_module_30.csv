@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,14,21,0.8833333333333335
+2,disease_on_drugs,21,29,0.07960591133004935

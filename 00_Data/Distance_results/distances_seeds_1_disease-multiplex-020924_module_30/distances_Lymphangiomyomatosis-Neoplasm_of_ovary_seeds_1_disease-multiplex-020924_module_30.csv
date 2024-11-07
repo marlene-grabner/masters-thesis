@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,-0.10499999999999998
+1,disease_on_symptoms,19,26,0.07188484030589293
+2,disease_on_drugs,22,15,-0.11363636363636376

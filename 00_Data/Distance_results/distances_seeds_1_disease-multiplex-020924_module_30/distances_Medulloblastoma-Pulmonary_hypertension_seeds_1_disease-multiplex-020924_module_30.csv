@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.31547619047619047
+1,disease_on_symptoms,19,20,1.650472334682861
+2,disease_on_drugs,24,28,0.8637820512820511

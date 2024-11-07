@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,11,22,0.06818181818181834
+2,disease_on_drugs,27,26,0.2630220932107723

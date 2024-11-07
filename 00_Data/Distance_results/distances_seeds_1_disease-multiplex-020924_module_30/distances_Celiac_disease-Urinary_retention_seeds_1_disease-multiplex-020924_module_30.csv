@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,17,30,0.24760280287663639
+1,disease_on_symptoms,22,18,1.136111111111111
+2,disease_on_drugs,15,19,0.5936016511867905

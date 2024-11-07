@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,14,19,-0.14701526543631815
+2,disease_on_drugs,26,28,-0.13003663003663002

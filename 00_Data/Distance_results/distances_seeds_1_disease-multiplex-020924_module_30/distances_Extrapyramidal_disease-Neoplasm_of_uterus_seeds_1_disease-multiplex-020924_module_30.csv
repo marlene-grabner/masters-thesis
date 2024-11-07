@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,14,28,0.4642857142857142
+1,disease_on_symptoms,25,19,1.8658373205741625
+2,disease_on_drugs,10,28,1.2742481203007516

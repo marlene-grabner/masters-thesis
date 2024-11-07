@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,11,16,-0.611952861952862
+2,disease_on_drugs,27,30,-0.2643274853801171

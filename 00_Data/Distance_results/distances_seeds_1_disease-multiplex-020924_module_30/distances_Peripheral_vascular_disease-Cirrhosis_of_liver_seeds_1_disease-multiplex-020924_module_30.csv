@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,23,30,0.11704949412086396
+1,disease_on_symptoms,16,14,0.8407738095238093
+2,disease_on_drugs,22,26,0.5016025641025641

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,24,27,0.09409041394335516
+1,disease_on_symptoms,20,21,0.8575783972125435
+2,disease_on_drugs,22,27,0.42625231910946204

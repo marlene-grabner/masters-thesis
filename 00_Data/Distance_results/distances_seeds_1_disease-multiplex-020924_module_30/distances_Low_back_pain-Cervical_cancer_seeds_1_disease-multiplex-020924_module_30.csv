@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.35077972709551664
+1,disease_on_symptoms,17,23,0.5956521739130434
+2,disease_on_drugs,26,15,0.22636022514071308

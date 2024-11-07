@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.033333333333333215
+1,disease_on_symptoms,22,19,0.6887618158478235
+2,disease_on_drugs,29,24,0.2663874430709172

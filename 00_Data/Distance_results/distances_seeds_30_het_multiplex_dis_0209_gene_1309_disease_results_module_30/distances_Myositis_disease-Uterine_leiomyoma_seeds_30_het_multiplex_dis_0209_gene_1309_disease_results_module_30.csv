@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,20,0.12909356725146193
+2,disease_on_drugs,26,28,0.049501424501424696

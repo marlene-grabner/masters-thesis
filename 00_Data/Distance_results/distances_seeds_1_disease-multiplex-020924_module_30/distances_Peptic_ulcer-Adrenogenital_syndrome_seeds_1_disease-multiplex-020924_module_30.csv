@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.4273399014778325
+1,disease_on_symptoms,14,7,1.2261904761904758
+2,disease_on_drugs,28,22,0.8636363636363638

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,17,18,0.15037348272642403
+2,disease_on_drugs,25,27,0.07213675213675219

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,21,22,0.23542736333434022
+2,disease_on_drugs,28,29,-0.001912107855846612

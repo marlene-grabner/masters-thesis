@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.2962703962703961
+1,disease_on_symptoms,12,19,1.7236134691567626
+2,disease_on_drugs,17,19,0.5553835569315446

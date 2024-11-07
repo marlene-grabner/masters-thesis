@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,15,21,-0.20793650793650809
+2,disease_on_drugs,28,28,-0.1785714285714286

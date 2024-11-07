@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,0.2595215343662549
+1,disease_on_symptoms,19,24,2.1058241534067728
+2,disease_on_drugs,24,17,0.8572154471544713

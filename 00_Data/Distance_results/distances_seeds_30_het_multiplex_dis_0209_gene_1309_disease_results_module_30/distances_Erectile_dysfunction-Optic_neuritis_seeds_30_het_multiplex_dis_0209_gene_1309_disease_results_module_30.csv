@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.17543859649122806
+1,disease_on_symptoms,15,21,0.34841269841269806
+2,disease_on_drugs,30,27,-0.07124756335282667

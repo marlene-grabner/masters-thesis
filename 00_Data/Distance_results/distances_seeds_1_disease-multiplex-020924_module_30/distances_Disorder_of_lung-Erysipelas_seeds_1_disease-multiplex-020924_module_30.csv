@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.32758537758537765
+1,disease_on_symptoms,17,20,1.2569157392686803
+2,disease_on_drugs,20,27,0.23404255319148937

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.1227095516569201
+1,disease_on_symptoms,22,20,0.4061688311688312
+2,disease_on_drugs,24,22,0.2844202898550725

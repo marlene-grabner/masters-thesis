@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,29,27,0.08976464148877938
+1,disease_on_symptoms,15,15,0.7666666666666666
+2,disease_on_drugs,29,25,0.2590549169859515

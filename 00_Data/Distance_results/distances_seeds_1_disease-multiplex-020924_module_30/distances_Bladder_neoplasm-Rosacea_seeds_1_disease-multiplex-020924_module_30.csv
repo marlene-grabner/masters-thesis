@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.19999999999999996
+1,disease_on_symptoms,20,17,0.8544912559618443
+2,disease_on_drugs,25,27,0.5769230769230769

@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,-0.05973813420621921
+1,disease_on_symptoms,22,23,0.7548309178743962
+2,disease_on_drugs,25,21,-0.003395445134575681

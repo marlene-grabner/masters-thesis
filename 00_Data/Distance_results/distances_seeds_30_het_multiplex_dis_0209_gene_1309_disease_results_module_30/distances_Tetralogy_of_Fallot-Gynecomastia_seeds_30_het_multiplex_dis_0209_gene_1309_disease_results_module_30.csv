@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.20000000000000007
+1,disease_on_symptoms,19,15,-0.13054695562435503
+2,disease_on_drugs,20,29,-0.2907987332864179

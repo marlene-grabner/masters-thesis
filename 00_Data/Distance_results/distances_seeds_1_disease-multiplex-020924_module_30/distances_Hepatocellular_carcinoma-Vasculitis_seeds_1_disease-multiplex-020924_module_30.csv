@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,24,0.21228415047795268
+1,disease_on_symptoms,19,19,1.763157894736842
+2,disease_on_drugs,19,20,0.514102564102564

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,23,0.2659259259259261
+1,disease_on_symptoms,21,25,0.8081987577639751
+2,disease_on_drugs,23,21,0.7786561264822134

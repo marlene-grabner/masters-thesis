@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,13,18,1.0867797077474497
+2,disease_on_drugs,19,26,0.7096941070625282

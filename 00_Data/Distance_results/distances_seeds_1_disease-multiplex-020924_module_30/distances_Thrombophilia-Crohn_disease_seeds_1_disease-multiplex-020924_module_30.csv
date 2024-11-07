@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,25,0.5280501089324618
+1,disease_on_symptoms,18,20,2.2862573099415204
+2,disease_on_drugs,21,21,0.8809523809523809

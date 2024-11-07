@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,17,22,0.3384195783576587
+1,disease_on_symptoms,22,20,3.3940476190476185
+2,disease_on_drugs,15,19,0.8552115583075335

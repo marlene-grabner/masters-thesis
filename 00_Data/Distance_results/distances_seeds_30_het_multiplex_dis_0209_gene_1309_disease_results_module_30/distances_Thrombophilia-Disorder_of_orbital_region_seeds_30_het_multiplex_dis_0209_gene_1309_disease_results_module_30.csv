@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,30,0.1412280701754387
+1,disease_on_symptoms,18,18,0.5
+2,disease_on_drugs,22,28,0.2646753246753246

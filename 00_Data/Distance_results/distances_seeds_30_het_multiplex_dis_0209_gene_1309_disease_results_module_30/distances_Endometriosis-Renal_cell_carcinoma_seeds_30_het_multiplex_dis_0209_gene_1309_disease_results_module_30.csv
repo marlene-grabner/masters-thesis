@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.29834307992202735
+1,disease_on_symptoms,16,22,0.4600777511961722
+2,disease_on_drugs,30,22,-0.2685314685314686

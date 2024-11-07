@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,25,26,-0.11764705882352944
+1,disease_on_symptoms,19,20,1.153407557354926
+2,disease_on_drugs,18,25,-0.13428940568475445

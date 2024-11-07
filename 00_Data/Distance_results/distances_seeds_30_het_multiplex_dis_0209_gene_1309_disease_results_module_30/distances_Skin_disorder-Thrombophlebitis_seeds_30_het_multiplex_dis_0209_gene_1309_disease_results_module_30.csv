@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,25,30,-0.19999999999999996
+1,disease_on_symptoms,19,18,0.02204836415362732
+2,disease_on_drugs,23,29,-0.08975320032291534

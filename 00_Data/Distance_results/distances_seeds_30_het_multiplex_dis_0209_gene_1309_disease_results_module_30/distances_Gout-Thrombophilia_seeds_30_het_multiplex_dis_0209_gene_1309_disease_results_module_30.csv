@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,28,27,0.03668831168831166
+1,disease_on_symptoms,19,18,0.7335625098782992
+2,disease_on_drugs,22,22,0.2954545454545454

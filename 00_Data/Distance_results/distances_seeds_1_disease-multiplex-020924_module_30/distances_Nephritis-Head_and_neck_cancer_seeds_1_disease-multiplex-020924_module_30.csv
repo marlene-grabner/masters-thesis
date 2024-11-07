@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,0.24463937621832343
+1,disease_on_symptoms,18,22,1.1815656565656565
+2,disease_on_drugs,27,24,0.8853485838779958

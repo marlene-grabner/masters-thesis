@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,0.020370370370370372
+1,disease_on_symptoms,19,18,0.4173383910226016
+2,disease_on_drugs,22,24,0.05895915678524388

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.05626780626780625
+1,disease_on_symptoms,17,13,0.8110105580693818
+2,disease_on_drugs,24,28,0.2662545787545787

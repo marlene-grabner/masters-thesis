@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.31395952966912755
+1,disease_on_symptoms,19,20,-0.44288124156545217
+2,disease_on_drugs,22,20,-0.40162337662337666

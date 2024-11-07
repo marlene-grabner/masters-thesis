@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,0.01754385964912286
+1,disease_on_symptoms,21,17,0.565531475748194
+2,disease_on_drugs,23,25,-0.02489130434782605

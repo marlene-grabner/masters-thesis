@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,20,11,0.319868035190616
+2,disease_on_drugs,28,21,-0.09098639455782309

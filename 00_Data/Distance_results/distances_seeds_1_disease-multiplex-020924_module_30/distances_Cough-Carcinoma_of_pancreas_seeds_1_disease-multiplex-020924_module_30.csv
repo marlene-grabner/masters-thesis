@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,23,0.3414814814814815
+1,disease_on_symptoms,21,25,1.4562318840579709
+2,disease_on_drugs,27,21,0.9629629629629628

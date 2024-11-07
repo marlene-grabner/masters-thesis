@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,26,25,0.25447963800904994
+1,disease_on_symptoms,21,25,1.1560662525879917
+2,disease_on_drugs,24,21,1.026388888888889

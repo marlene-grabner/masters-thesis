@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,23,18,0.5478084128667375
+2,disease_on_drugs,24,29,0.09325525916287125

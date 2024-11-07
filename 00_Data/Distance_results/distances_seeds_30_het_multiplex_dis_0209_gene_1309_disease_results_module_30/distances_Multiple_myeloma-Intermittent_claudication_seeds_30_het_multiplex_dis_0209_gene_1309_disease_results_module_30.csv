@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,30,0.1428571428571428
+1,disease_on_symptoms,21,14,0.5666666666666667
+2,disease_on_drugs,25,24,0.26314625850340123

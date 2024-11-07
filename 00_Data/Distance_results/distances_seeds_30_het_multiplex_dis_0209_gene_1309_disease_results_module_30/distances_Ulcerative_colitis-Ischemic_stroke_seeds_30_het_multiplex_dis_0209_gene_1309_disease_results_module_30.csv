@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.05263157894736836
+1,disease_on_symptoms,20,16,0.6583333333333334
+2,disease_on_drugs,27,28,0.20292207792207795

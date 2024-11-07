@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,30,0.08928571428571419
+1,disease_on_symptoms,21,14,0.10476190476190483
+2,disease_on_drugs,26,24,0.13801282051282038

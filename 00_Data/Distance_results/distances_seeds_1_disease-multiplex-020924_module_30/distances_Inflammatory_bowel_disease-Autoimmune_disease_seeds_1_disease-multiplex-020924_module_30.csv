@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,17,22,-0.12709330143540654
+1,disease_on_symptoms,27,19,0.6598440545808968
+2,disease_on_drugs,14,19,-0.15293916609706082

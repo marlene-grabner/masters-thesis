@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.16363636363636358
+1,disease_on_symptoms,17,12,0.7793272481406357
+2,disease_on_drugs,27,18,0.24259259259259247

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.0002922267679719148
+1,disease_on_symptoms,14,20,-0.14306722689075624
+2,disease_on_drugs,24,28,-0.07532051282051277

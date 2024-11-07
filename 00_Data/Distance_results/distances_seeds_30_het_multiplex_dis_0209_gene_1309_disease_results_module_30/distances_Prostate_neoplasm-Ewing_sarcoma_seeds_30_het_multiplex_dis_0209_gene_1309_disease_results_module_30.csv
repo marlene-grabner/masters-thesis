@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Ewing_sarcoma nodes,sAB
+0,disease_on_genes,21,30,-0.3179271708683472
+1,disease_on_symptoms,20,17,-0.446860095389507
+2,disease_on_drugs,21,24,-0.30734126984126997

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,23,-0.21999999999999997
+1,disease_on_symptoms,21,19,0.620175438596491
+2,disease_on_drugs,23,19,-0.33894518905960547

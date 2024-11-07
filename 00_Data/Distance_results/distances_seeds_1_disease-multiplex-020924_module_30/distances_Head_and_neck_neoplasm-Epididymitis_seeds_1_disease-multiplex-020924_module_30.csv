@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.3389733099551917
+1,disease_on_symptoms,20,23,0.8747219413549039
+2,disease_on_drugs,27,27,0.9814814814814814

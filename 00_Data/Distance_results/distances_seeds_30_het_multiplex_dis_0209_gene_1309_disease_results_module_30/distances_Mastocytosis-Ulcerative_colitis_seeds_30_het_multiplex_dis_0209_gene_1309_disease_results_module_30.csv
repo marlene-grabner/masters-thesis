@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.08771929824561409
+1,disease_on_symptoms,24,20,0.7776515151515149
+2,disease_on_drugs,20,27,0.12393617021276615

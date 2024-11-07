@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.05769230769230771
+1,disease_on_symptoms,14,21,0.573809523809524
+2,disease_on_drugs,21,17,0.015258735072976481

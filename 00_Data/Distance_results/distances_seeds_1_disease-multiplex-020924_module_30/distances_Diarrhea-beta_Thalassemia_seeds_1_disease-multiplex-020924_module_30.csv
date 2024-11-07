@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,22,0.34942967085824206
+1,disease_on_symptoms,19,21,3.11422305764411
+2,disease_on_drugs,26,6,1.001602564102564

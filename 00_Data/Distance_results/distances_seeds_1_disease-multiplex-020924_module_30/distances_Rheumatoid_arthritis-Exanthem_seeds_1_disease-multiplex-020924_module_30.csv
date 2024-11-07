@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,28,0.16262626262626267
+1,disease_on_symptoms,15,26,1.6320200125078173
+2,disease_on_drugs,25,28,0.3583692722371967

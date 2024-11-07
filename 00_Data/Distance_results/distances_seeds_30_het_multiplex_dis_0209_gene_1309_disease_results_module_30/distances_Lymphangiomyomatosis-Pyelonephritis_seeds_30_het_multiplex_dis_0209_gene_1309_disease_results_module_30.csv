@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,26,24,-0.08006410256410268
+1,disease_on_symptoms,17,19,0.46611627106983144
+2,disease_on_drugs,24,19,-0.15623725010199907

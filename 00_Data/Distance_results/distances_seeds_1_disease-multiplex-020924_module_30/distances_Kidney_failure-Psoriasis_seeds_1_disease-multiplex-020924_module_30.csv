@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Psoriasis nodes,sAB
+0,disease_on_genes,20,28,0.051785714285714324
+1,disease_on_symptoms,23,21,0.9271127423301335
+2,disease_on_drugs,18,28,0.6357832988267771

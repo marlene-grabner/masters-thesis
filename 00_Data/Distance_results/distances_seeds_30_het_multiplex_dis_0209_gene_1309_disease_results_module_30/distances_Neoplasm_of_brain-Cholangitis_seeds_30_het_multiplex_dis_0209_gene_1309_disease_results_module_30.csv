@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,19,18,-0.08246404299035892
+2,disease_on_drugs,29,28,0.24245959726903465

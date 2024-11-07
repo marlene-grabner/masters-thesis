@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,26,24,0.47
+1,disease_on_symptoms,15,23,2.8155606407322655
+2,disease_on_drugs,15,12,1.1925925925925924

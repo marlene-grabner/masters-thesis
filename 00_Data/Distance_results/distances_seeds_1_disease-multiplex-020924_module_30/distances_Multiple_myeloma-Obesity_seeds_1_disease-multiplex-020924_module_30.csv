@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Obesity nodes,sAB
+0,disease_on_genes,26,26,0.17307692307692313
+1,disease_on_symptoms,21,20,1.5065040650406505
+2,disease_on_drugs,25,27,0.5960398860398859

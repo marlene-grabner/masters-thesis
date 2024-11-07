@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Glaucoma nodes,sAB
+0,disease_on_genes,17,30,0.1317028985507247
+1,disease_on_symptoms,27,14,0.5428442379661895
+2,disease_on_drugs,14,30,0.4764069264069264

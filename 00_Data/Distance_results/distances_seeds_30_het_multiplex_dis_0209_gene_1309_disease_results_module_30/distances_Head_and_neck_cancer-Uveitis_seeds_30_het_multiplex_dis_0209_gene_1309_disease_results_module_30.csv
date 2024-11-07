@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,22,20,0.4668831168831171
+2,disease_on_drugs,23,23,0.17391304347826075

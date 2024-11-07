@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,22,30,0.13193473193473193
+1,disease_on_symptoms,22,17,0.6771561771561774
+2,disease_on_drugs,14,26,0.33324175824175817

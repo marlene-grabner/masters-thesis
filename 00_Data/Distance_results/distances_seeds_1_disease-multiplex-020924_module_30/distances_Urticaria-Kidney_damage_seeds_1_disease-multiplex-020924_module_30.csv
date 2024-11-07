@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,10,20,0.46666666666666656
+1,disease_on_symptoms,27,26,1.6403671450841264
+2,disease_on_drugs,9,13,0.3076923076923077

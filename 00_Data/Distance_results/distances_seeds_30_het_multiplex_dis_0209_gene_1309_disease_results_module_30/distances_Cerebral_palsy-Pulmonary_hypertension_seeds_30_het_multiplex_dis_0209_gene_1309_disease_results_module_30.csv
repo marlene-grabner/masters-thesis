@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,13,18,0.4027433140336365
+2,disease_on_drugs,21,27,-0.30853174603174605

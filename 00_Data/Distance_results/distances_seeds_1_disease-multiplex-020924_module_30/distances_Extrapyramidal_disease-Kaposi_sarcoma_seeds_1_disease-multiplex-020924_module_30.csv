@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,14,15,0.449343185550082
+1,disease_on_symptoms,25,27,2.6964102564102563
+2,disease_on_drugs,10,13,1.3413043478260869

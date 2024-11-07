@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,28,0.6071428571428572
+1,disease_on_symptoms,12,20,1.36875
+2,disease_on_drugs,21,27,0.8452380952380953

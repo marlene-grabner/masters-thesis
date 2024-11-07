@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,24,30,-0.1620370370370371
+1,disease_on_symptoms,26,21,-0.12902345881069288
+2,disease_on_drugs,15,29,-0.19357366771159856

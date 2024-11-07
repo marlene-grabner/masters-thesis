@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.12777777777777777
+1,disease_on_symptoms,16,18,0.5451388888888888
+2,disease_on_drugs,28,24,-0.01602564102564119

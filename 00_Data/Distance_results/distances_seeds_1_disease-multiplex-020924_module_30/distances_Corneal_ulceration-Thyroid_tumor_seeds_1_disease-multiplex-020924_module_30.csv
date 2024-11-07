@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,28,23,0.1522195834855682
+1,disease_on_symptoms,19,20,0.8472672064777327
+2,disease_on_drugs,26,20,0.366304347826087

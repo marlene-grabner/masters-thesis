@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,-0.34065934065934056
+1,disease_on_symptoms,18,18,0.08333333333333326
+2,disease_on_drugs,25,25,-0.28

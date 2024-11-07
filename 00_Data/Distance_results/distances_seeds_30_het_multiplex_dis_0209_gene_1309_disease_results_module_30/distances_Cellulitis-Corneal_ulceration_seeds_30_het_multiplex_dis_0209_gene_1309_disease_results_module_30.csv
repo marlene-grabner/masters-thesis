@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.06958128078817727
+1,disease_on_symptoms,20,15,0.05476190476190501
+2,disease_on_drugs,26,23,0.02066411849020544

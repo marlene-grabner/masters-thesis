@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.11182336182336172
+1,disease_on_symptoms,20,18,0.574853801169591
+2,disease_on_drugs,20,27,-0.07151300236406621

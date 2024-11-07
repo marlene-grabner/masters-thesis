@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.4933612858141161
+1,disease_on_symptoms,16,15,2.1294354838709673
+2,disease_on_drugs,18,15,1.115151515151515

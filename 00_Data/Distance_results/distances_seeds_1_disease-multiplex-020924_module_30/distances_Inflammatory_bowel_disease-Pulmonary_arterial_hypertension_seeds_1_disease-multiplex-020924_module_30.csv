@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,17,28,0.23782467532467533
+1,disease_on_symptoms,27,18,1.2981481481481483
+2,disease_on_drugs,14,26,0.4200549450549451

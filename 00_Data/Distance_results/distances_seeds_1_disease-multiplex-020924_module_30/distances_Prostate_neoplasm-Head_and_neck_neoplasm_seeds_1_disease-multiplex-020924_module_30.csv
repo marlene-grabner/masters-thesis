@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Head_and_neck_neoplasm nodes,sAB
+0,disease_on_genes,17,30,-0.006654151022110977
+1,disease_on_symptoms,21,20,1.195005807200929
+2,disease_on_drugs,17,27,0.12299465240641716

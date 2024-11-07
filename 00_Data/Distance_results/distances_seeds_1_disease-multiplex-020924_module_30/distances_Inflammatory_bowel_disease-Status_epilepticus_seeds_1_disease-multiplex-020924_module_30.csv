@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,17,29,0.3424808429118775
+1,disease_on_symptoms,27,17,1.9987126163596751
+2,disease_on_drugs,14,30,0.8506493506493509

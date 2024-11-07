@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,23,20,0.14537411526794752
+1,disease_on_symptoms,19,23,1.5047945951836112
+2,disease_on_drugs,11,18,0.896551724137931

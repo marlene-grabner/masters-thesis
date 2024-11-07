@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,23,30,0.14673229423024337
+1,disease_on_symptoms,20,24,1.2738636363636362
+2,disease_on_drugs,20,24,0.8424242424242425

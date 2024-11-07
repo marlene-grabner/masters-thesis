@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,17,18,0.42759103641456564
+1,disease_on_symptoms,21,18,2.488095238095238
+2,disease_on_drugs,17,10,0.5171023965141612

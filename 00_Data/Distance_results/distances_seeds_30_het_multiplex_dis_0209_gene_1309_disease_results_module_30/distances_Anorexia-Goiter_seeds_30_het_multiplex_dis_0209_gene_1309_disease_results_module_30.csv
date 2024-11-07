@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,-0.05360501567398113
+1,disease_on_symptoms,13,12,0.12217948717948723
+2,disease_on_drugs,28,18,0.31142167011732247

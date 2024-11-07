@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,24,23,0.4729609929078016
+1,disease_on_symptoms,22,25,1.3808317214700192
+2,disease_on_drugs,11,21,0.5

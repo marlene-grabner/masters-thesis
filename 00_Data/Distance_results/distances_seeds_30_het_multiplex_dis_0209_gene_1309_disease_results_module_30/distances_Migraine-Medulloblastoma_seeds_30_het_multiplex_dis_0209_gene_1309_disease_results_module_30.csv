@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,12,22,0.5886809269162212
+2,disease_on_drugs,29,26,0.05411140583554386

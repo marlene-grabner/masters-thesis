@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,21,19,0.016102756892230508
+2,disease_on_drugs,27,30,0.1428849902534115

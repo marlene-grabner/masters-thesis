@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,26,25,-0.23570135746606335
+1,disease_on_symptoms,17,21,0.09811292938227933
+2,disease_on_drugs,24,24,-0.08333333333333348

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,30,29,0.05084745762711873
+1,disease_on_symptoms,11,18,0.11442006269592486
+2,disease_on_drugs,27,29,0.08914887794198134

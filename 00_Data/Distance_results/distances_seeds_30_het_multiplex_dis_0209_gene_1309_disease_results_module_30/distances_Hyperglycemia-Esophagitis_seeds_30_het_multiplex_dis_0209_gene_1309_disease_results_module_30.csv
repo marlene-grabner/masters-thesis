@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Esophagitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,17,20,0.5346184419713831
+2,disease_on_drugs,26,30,0.10604395604395589

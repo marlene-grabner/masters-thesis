@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Goiter nodes,sAB
+0,disease_on_genes,17,26,-0.12859097127222985
+1,disease_on_symptoms,24,12,1.4652777777777777
+2,disease_on_drugs,16,18,0.35191993464052285

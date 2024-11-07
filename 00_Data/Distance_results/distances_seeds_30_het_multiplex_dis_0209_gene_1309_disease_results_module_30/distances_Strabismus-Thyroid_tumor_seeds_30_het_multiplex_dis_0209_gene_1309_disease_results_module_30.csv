@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,17,23,0.06617647058823528
+1,disease_on_symptoms,24,20,1.649621212121212
+2,disease_on_drugs,16,20,0.5965277777777778

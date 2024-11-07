@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,16,14,0.1657738095238095
+2,disease_on_drugs,30,29,-0.1028930450029224

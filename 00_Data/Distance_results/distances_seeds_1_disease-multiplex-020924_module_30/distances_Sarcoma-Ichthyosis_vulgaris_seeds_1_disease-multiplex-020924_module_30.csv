@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,0.11680911680911654
+1,disease_on_symptoms,26,21,1.5158405424362873
+2,disease_on_drugs,21,27,0.5416666666666667

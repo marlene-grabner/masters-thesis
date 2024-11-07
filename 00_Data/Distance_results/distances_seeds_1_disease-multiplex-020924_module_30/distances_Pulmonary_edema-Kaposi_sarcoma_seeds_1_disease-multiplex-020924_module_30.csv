@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.2666666666666666
+1,disease_on_symptoms,14,27,2.069396051103368
+2,disease_on_drugs,27,13,0.7629629629629628

@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,18,20,0.4995614035087721
+2,disease_on_drugs,27,27,0.07407407407407418

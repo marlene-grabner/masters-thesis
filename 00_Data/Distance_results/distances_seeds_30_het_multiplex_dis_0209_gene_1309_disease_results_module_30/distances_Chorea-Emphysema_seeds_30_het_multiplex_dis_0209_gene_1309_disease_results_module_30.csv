@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,18,0.5128851540616246
+2,disease_on_drugs,24,27,0.05351307189542487

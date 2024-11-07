@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Strabismus nodes,sAB
+0,disease_on_genes,28,13,0.4277338515143394
+1,disease_on_symptoms,19,26,1.5722672064777328
+2,disease_on_drugs,26,9,0.7730158730158729

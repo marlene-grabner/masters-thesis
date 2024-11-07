@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666679
+1,disease_on_symptoms,19,20,-0.3871457489878545
+2,disease_on_drugs,30,29,-0.13648938242743025

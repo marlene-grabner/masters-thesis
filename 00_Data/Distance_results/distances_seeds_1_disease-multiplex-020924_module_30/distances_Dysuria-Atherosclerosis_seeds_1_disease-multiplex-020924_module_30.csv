@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.26826417299824645
+1,disease_on_symptoms,16,13,1.2477619363395225
+2,disease_on_drugs,23,29,0.5744147157190636

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.10416666666666674
+1,disease_on_symptoms,21,24,0.7101190476190478
+2,disease_on_drugs,24,19,0.2668298653610772

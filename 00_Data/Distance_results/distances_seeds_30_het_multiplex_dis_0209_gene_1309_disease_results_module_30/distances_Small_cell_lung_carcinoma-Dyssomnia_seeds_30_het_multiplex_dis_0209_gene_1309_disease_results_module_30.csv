@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.20833333333333337
+1,disease_on_symptoms,19,21,1.7887218045112778
+2,disease_on_drugs,30,17,-0.19597413433458488

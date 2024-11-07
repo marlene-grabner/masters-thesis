@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,0.13583333333333347
+1,disease_on_symptoms,19,20,0.8972672064777327
+2,disease_on_drugs,24,22,0.7173089591567854

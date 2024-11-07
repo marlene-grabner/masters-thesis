@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,26,0.33743213460194577
+1,disease_on_symptoms,22,20,0.8966450216450217
+2,disease_on_drugs,24,20,1.2310606060606064

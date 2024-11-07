@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.10623781676413269
+1,disease_on_symptoms,24,19,0.39675132598939244
+2,disease_on_drugs,20,24,-0.038257575757575824

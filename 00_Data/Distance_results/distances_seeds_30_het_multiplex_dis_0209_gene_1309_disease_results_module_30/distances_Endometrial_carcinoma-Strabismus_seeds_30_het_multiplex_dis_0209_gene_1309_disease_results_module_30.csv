@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,17,-0.2448700410396717
+1,disease_on_symptoms,21,24,0.5307539682539684
+2,disease_on_drugs,26,16,0.19997710622710607

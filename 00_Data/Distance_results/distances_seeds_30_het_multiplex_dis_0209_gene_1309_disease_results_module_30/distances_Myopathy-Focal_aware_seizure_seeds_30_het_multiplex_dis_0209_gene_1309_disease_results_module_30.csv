@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,-0.23076923076923073
+1,disease_on_symptoms,22,16,-0.10436602870813405
+2,disease_on_drugs,21,29,-0.35192118226600977

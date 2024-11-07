@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,23,27,0.21426731078904981
+1,disease_on_symptoms,19,20,1.7952429149797573
+2,disease_on_drugs,11,25,0.6944444444444444

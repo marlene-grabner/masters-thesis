@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,29,25,0.11111111111111116
+1,disease_on_symptoms,23,20,0.8775025278058646
+2,disease_on_drugs,26,18,0.12198912198912204

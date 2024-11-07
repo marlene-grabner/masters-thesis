@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,-0.017857142857142794
+1,disease_on_symptoms,22,19,0.8946493173065704
+2,disease_on_drugs,30,22,0.10664335664335689

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.0945454545454546
+1,disease_on_symptoms,20,21,-0.07131242740998833
+2,disease_on_drugs,25,24,-0.042108843537415064

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.0856725146198829
+1,disease_on_symptoms,17,20,0.31228139904610486
+2,disease_on_drugs,24,22,0.0

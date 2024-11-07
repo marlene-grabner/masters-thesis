@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.30000000000000004
+1,disease_on_symptoms,19,22,-0.1942758781654803
+2,disease_on_drugs,28,30,-0.13743842364532033

@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,23,18,0.004123954283020925
+2,disease_on_drugs,26,26,0.03846153846153855

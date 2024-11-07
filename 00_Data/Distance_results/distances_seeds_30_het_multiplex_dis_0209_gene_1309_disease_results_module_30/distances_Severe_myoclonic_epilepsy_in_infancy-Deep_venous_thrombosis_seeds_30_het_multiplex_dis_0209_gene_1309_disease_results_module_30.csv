@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,14,16,1.4532738095238096
+2,disease_on_drugs,21,28,0.4285714285714286

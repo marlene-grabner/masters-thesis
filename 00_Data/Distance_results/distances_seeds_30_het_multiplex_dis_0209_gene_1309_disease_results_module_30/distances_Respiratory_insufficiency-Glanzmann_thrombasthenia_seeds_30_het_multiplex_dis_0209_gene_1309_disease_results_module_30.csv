@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,-0.039215686274509776
+1,disease_on_symptoms,21,19,1.2915413533834585
+2,disease_on_drugs,25,24,0.12566326530612248

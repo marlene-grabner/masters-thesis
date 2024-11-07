@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.01690649036384051
+1,disease_on_symptoms,17,14,0.9739766874491733
+2,disease_on_drugs,26,28,0.5191290191290192

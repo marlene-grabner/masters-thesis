@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.15517241379310343
+1,disease_on_symptoms,20,18,0.1340643274853801
+2,disease_on_drugs,30,27,0.05146198830409343

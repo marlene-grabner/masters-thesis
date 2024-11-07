@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.0028712059064808226
+1,disease_on_symptoms,21,19,1.198997493734336
+2,disease_on_drugs,27,21,0.22255291005291

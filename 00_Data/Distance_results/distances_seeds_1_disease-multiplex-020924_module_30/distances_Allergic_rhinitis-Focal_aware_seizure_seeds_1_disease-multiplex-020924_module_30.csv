@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,21,29,-0.003809523809523707
+1,disease_on_symptoms,22,15,2.448976248976249
+2,disease_on_drugs,21,29,0.6571428571428573

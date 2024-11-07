@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,0.17999999999999994
+1,disease_on_symptoms,14,25,1.1371794871794871
+2,disease_on_drugs,22,23,1.0898550724637681

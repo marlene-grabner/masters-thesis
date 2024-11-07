@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,19,18,0.3551446183025131
+2,disease_on_drugs,20,30,-0.15833333333333344

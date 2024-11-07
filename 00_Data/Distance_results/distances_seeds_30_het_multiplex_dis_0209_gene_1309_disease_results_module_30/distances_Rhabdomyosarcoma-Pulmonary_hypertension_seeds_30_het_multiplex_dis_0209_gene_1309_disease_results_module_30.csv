@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,29,28,-0.17543859649122806
+1,disease_on_symptoms,19,18,0.6678125493914968
+2,disease_on_drugs,29,27,0.0010946907498632363

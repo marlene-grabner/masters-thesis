@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.12280219780219803
+1,disease_on_symptoms,19,25,0.738133971291866
+2,disease_on_drugs,20,25,-0.23833333333333329

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Uveitis nodes,sAB
+0,disease_on_genes,25,30,0.1433333333333333
+1,disease_on_symptoms,17,21,0.9964617425917734
+2,disease_on_drugs,24,27,0.4888344226579522

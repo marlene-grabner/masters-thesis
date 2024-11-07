@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,28,27,-0.1636363636363637
+1,disease_on_symptoms,13,17,0.5365007541478128
+2,disease_on_drugs,28,24,-0.19207875457875456

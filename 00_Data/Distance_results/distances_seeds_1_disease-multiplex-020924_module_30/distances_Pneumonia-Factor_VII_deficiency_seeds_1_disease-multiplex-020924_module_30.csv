@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.45212121212121215
+1,disease_on_symptoms,26,23,1.779144768275203
+2,disease_on_drugs,28,21,1.1156462585034015

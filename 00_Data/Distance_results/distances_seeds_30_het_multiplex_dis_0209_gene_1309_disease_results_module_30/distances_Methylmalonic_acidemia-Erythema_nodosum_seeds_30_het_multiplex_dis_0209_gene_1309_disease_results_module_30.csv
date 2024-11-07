@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,17,22,1.2382078705608117
+2,disease_on_drugs,21,29,0.1816091954022987

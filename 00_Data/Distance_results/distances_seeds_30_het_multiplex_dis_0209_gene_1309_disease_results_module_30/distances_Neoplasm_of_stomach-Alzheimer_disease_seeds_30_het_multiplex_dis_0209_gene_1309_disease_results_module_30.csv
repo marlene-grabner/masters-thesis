@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,25,23,-0.27
+1,disease_on_symptoms,23,19,0.6881878609567398
+2,disease_on_drugs,24,19,-0.2099398204814361

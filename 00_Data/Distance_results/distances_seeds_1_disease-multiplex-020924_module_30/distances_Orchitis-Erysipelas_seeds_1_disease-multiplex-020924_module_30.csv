@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,23,28,-0.016106442577030755
+1,disease_on_symptoms,16,20,1.1604166666666664
+2,disease_on_drugs,17,27,0.4184491978609626

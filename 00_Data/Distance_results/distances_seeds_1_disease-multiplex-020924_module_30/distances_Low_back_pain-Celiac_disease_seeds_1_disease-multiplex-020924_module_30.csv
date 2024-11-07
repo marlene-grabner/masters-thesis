@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.13727576136837705
+1,disease_on_symptoms,17,22,0.8846153846153846
+2,disease_on_drugs,26,15,0.2222951844903065

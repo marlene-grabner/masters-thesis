@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Rhinitis nodes,sAB
+0,disease_on_genes,29,30,-0.06783557373855431
+1,disease_on_symptoms,15,15,-0.4666666666666668
+2,disease_on_drugs,29,22,-0.05645706558485453

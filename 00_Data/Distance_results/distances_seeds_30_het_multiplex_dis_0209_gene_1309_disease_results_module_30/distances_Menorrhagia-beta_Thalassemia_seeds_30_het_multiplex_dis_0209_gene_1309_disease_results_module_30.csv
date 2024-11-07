@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,16,13,0.5340683023872679
+2,disease_on_drugs,23,24,0.06870567375886538

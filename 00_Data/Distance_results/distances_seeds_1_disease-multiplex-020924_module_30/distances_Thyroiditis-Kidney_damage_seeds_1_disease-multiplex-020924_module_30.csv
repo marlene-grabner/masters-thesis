@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.040468227424749426
+1,disease_on_symptoms,28,26,0.6107549857549859
+2,disease_on_drugs,23,13,0.0637309550353029

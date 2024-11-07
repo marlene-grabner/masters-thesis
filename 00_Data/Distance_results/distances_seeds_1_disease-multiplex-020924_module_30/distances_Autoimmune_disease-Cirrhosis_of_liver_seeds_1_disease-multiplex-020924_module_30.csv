@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,0.21934731934731921
+1,disease_on_symptoms,19,14,0.9247550694919116
+2,disease_on_drugs,19,26,0.35445344129554646

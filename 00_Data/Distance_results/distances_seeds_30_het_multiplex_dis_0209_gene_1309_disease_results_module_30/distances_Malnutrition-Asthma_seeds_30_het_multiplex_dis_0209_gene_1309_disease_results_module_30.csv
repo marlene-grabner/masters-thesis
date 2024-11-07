@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.038181818181818206
+1,disease_on_symptoms,14,20,0.7922268907563026
+2,disease_on_drugs,29,22,0.3444126867047761

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.2807017543859649
+1,disease_on_symptoms,12,14,0.88003663003663
+2,disease_on_drugs,27,13,0.32499999999999996

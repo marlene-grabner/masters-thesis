@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,29,18,0.4868957365288986
+1,disease_on_symptoms,17,28,2.296848739495798
+2,disease_on_drugs,30,17,0.856070087609512

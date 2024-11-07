@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,30,-0.016666666666666607
+1,disease_on_symptoms,11,25,1.0065656565656567
+2,disease_on_drugs,24,29,0.14240403383214062

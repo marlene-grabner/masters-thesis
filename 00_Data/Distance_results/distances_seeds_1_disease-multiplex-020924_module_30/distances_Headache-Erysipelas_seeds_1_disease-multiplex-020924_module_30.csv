@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.17175697865353023
+1,disease_on_symptoms,25,20,0.7711111111111113
+2,disease_on_drugs,26,27,0.30152394775036284

@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,16,18,0.9074754901960782
+2,disease_on_drugs,29,30,0.11944282096240011

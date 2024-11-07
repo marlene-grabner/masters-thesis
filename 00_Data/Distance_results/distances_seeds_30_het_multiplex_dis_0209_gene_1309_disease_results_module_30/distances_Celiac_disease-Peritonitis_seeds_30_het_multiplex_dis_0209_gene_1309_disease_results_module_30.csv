@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,18,14,0.026785714285714413
+2,disease_on_drugs,28,24,-0.1865842490842491

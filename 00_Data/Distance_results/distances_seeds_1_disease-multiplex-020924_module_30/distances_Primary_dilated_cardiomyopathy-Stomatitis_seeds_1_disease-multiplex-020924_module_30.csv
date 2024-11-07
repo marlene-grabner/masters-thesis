@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.6166666666666667
+1,disease_on_symptoms,25,23,0.7558333333333331
+2,disease_on_drugs,7,30,1.044787644787645

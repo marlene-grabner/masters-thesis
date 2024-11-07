@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,16,17,-0.09090909090909083
+2,disease_on_drugs,27,24,0.3695533769063182

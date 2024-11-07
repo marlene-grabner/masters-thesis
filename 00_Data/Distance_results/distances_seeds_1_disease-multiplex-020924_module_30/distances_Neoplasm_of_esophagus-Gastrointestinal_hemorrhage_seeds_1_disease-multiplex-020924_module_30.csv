@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,21,27,0.0254629629629628
+1,disease_on_symptoms,24,19,0.304034067727458
+2,disease_on_drugs,20,27,0.4430851063829788

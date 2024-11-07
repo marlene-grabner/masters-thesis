@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,27,24,0.058687363834422746
+1,disease_on_symptoms,17,19,0.9546783625730995
+2,disease_on_drugs,24,19,0.0811658506731947

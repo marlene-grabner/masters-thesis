@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.08869395711500982
+1,disease_on_symptoms,19,14,0.24031670084301648
+2,disease_on_drugs,24,26,-0.10519230769230781

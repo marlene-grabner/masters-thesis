@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.23842592592592582
+1,disease_on_symptoms,20,21,0.9545296167247386
+2,disease_on_drugs,30,24,0.8032407407407409

@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,12,24,0.26388888888888906
+1,disease_on_symptoms,27,17,1.7209843533372946
+2,disease_on_drugs,9,23,0.44867149758454117

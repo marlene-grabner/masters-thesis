@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.26306042884990255
+1,disease_on_symptoms,17,27,1.3211031887502476
+2,disease_on_drugs,27,26,0.7354727732086224

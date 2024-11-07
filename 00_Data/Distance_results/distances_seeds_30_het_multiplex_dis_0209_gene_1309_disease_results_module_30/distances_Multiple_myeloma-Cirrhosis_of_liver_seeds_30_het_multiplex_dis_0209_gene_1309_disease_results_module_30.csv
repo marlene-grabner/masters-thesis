@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,-0.2678571428571429
+1,disease_on_symptoms,21,19,-0.10889724310776949
+2,disease_on_drugs,25,30,-0.14303030303030306

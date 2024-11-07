@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,28,30,0.6379310344827587
+1,disease_on_symptoms,23,25,2.221413043478261
+2,disease_on_drugs,26,7,0.8295038295038295

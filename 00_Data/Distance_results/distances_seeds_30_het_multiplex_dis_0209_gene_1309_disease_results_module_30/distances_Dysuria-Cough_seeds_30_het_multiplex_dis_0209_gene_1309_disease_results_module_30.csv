@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.12280701754385959
+1,disease_on_symptoms,12,22,1.6408199643493764
+2,disease_on_drugs,21,24,0.3214285714285714

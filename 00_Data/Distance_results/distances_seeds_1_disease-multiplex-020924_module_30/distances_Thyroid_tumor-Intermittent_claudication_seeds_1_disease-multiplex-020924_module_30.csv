@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,23,20,0.2551314459049545
+1,disease_on_symptoms,20,24,0.997348484848485
+2,disease_on_drugs,20,18,0.8638888888888889

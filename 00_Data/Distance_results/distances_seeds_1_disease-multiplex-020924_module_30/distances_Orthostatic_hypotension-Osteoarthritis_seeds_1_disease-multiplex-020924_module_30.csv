@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.3451515151515152
+1,disease_on_symptoms,12,20,1.2270833333333333
+2,disease_on_drugs,17,21,0.5232198142414861

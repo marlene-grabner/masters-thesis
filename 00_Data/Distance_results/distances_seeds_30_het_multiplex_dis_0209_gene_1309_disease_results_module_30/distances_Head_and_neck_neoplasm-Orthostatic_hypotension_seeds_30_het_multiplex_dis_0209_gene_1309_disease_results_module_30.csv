@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,22,20,0.5142857142857145
+2,disease_on_drugs,27,28,0.34870129870129873

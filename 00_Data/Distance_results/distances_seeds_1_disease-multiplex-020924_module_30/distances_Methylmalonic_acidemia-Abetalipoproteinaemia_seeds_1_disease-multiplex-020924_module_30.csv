@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,25,17,0.08868347338935578
+1,disease_on_symptoms,16,25,0.7374390243902438
+2,disease_on_drugs,17,13,0.03212669683257929

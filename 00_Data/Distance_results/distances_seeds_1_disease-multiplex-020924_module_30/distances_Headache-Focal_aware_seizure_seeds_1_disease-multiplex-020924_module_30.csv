@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.0680790960451978
+1,disease_on_symptoms,25,15,0.15166666666666662
+2,disease_on_drugs,26,29,0.017132867132867213

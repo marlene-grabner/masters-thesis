@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,26,26,0.196078431372549
+1,disease_on_symptoms,25,15,0.9933333333333336
+2,disease_on_drugs,24,26,0.5183333333333335

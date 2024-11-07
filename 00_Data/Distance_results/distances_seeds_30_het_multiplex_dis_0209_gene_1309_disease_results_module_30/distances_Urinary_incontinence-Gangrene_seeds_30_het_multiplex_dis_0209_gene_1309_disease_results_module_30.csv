@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Gangrene nodes,sAB
+0,disease_on_genes,29,27,0.125
+1,disease_on_symptoms,20,22,0.8919913419913419
+2,disease_on_drugs,20,27,0.35122143420015783

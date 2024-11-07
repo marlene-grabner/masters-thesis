@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.2709136956945256
+1,disease_on_symptoms,18,18,-0.1944444444444442
+2,disease_on_drugs,24,28,-0.2289377289377289

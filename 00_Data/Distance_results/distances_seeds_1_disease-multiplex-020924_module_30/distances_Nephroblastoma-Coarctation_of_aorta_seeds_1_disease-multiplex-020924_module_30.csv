@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,0.4015384615384614
+1,disease_on_symptoms,25,14,1.7784981684981684
+2,disease_on_drugs,21,13,0.8235294117647058

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,25,26,0.33212669683257934
+1,disease_on_symptoms,23,24,1.5924491211840888
+2,disease_on_drugs,19,24,1.3953488372093021

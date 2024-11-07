@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,18,17,0.3377684407096173
+2,disease_on_drugs,23,28,-0.06262939958592129

@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,14,26,0.6777472527472526
+2,disease_on_drugs,24,28,1.2692307692307692

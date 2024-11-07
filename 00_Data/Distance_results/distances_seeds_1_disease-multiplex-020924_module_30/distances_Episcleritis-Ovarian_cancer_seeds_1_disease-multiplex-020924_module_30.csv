@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.1929824561403508
+1,disease_on_symptoms,22,17,0.8356300562182915
+2,disease_on_drugs,29,25,0.48786717752235

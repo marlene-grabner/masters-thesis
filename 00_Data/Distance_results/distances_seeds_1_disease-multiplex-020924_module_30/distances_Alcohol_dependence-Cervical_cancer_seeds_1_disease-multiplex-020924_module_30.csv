@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,12,27,0.5295584045584045
+1,disease_on_symptoms,27,23,0.8386151368760064
+2,disease_on_drugs,9,15,0.14722222222222214

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,30,-0.15578817733990147
+1,disease_on_symptoms,19,17,-0.1499828001375989
+2,disease_on_drugs,22,29,-0.35186551109472

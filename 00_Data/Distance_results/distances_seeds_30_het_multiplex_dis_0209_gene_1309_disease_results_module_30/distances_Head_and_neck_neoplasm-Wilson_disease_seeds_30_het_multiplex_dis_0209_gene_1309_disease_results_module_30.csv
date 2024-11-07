@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.14393939393939392
+1,disease_on_symptoms,22,19,-0.2114890885750964
+2,disease_on_drugs,27,22,-0.17717996289424853

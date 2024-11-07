@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,27,25,0.05763532763532764
+1,disease_on_symptoms,21,20,1.0032520325203254
+2,disease_on_drugs,27,21,0.29629629629629606

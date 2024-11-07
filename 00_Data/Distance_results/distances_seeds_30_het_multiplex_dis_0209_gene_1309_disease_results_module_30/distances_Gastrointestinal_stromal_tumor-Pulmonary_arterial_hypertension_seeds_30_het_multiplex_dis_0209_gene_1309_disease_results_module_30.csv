@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.051724137931034475
+1,disease_on_symptoms,19,17,0.6236670106639144
+2,disease_on_drugs,28,25,0.1281940700808626

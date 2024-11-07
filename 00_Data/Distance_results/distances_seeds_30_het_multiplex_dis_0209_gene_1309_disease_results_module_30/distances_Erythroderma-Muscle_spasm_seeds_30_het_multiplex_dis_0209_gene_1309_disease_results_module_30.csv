@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,15,0.8869047619047619
+2,disease_on_drugs,29,29,0.15517241379310343

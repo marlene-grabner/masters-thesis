@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Meningitis nodes,sAB
+0,disease_on_genes,22,29,0.37742024709570354
+1,disease_on_symptoms,22,20,1.1669913419913418
+2,disease_on_drugs,14,26,0.6428571428571428

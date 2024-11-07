@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.41289308176100625
+1,disease_on_symptoms,19,20,-0.9755398110661269
+2,disease_on_drugs,29,20,-0.4676460239268121

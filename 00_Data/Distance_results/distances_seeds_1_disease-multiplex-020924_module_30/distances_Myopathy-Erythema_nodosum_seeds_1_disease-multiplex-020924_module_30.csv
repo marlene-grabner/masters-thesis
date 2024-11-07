@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,18,28,0.6101621808143547
+1,disease_on_symptoms,21,23,1.0954733672124974
+2,disease_on_drugs,6,28,0.2272408963585435

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,28,27,0.21750841750841743
+1,disease_on_symptoms,23,19,0.813010787839163
+2,disease_on_drugs,26,27,0.5275761973875184

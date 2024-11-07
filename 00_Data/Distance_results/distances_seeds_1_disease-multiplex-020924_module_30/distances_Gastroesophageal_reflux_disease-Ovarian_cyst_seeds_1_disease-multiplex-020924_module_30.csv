@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,26,20,0.25108695652173907
+1,disease_on_symptoms,17,22,0.7102358425887836
+2,disease_on_drugs,25,15,1.105

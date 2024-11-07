@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Otitis_media nodes,sAB
+0,disease_on_genes,12,29,0.2135898514157557
+1,disease_on_symptoms,27,22,0.7403284546141689
+2,disease_on_drugs,9,29,0.3897963299052227

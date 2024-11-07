@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.3500000000000001
+1,disease_on_symptoms,14,12,1.411172161172161
+2,disease_on_drugs,11,22,0.4242424242424243

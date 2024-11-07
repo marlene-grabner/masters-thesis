@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Constipation nodes,sAB
+0,disease_on_genes,26,30,-0.1966117216117217
+1,disease_on_symptoms,17,16,0.15379901960784337
+2,disease_on_drugs,24,28,0.016254578754578697

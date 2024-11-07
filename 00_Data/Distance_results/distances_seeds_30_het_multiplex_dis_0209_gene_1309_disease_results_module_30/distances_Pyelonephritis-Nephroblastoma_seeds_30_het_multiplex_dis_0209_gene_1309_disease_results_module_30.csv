@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,24,29,-0.03807471264367823
+1,disease_on_symptoms,19,20,0.6215587044534412
+2,disease_on_drugs,19,24,-0.34228376172990616

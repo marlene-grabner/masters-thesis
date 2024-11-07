@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,27,28,0.18246753246753267
+1,disease_on_symptoms,23,17,1.5440537084398978
+2,disease_on_drugs,20,28,1.4166666666666665

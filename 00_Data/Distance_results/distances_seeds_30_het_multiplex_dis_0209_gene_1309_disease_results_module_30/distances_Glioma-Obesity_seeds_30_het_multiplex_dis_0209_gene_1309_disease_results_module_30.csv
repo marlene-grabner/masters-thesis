@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Obesity nodes,sAB
+0,disease_on_genes,22,27,-0.19841269841269848
+1,disease_on_symptoms,21,18,1.2686202686202686
+2,disease_on_drugs,21,25,-0.0409937888198757

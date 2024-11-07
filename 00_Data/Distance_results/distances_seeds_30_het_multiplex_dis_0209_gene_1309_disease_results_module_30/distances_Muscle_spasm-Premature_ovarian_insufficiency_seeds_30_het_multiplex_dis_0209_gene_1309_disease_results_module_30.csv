@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,15,18,0.32373737373737344
+2,disease_on_drugs,29,22,0.00021513307517340152

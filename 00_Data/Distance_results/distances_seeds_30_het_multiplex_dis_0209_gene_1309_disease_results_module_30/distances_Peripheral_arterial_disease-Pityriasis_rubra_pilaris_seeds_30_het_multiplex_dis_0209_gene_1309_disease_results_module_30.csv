@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,26,27,0.13277428371767974
+1,disease_on_symptoms,17,21,0.3075335397316823
+2,disease_on_drugs,24,25,0.16025510204081628

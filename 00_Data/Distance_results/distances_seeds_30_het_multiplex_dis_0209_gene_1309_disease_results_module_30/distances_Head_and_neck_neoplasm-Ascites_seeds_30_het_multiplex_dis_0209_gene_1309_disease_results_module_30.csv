@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,22,22,0.18181818181818188
+2,disease_on_drugs,27,27,0.18518518518518512

@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,26,0.0
+1,disease_on_symptoms,20,19,0.5892712550607286
+2,disease_on_drugs,18,24,0.007936507936507908

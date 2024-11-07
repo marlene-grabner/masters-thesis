@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,14,13,1.186914936914937
+2,disease_on_drugs,29,23,0.14632107023411378

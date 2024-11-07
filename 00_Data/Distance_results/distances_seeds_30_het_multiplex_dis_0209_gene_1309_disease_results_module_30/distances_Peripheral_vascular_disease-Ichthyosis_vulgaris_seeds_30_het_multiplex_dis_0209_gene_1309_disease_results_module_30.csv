@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,-0.0007692307692308553
+1,disease_on_symptoms,17,21,1.0680377414123545
+2,disease_on_drugs,25,24,0.10198979591836732

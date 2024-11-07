@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,24,25,0.2731884057971017
+1,disease_on_symptoms,23,23,1.6956521739130435
+2,disease_on_drugs,20,19,0.8211538461538463

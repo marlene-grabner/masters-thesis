@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.2740147783251232
+1,disease_on_symptoms,12,19,0.6389360498019241
+2,disease_on_drugs,27,26,0.8298258345428158

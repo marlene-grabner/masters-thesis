@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,17,28,0.12331932773109222
+1,disease_on_symptoms,22,19,3.014762516046213
+2,disease_on_drugs,15,26,0.06422764227642297

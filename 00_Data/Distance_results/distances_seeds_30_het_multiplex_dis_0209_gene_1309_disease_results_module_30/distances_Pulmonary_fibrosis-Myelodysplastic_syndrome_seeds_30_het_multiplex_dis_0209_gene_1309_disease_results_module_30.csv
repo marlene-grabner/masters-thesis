@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,-0.039215686274509776
+1,disease_on_symptoms,22,17,0.3129370629370629
+2,disease_on_drugs,25,24,0.01989795918367343

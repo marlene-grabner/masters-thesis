@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,-0.1229044834307993
+1,disease_on_symptoms,17,19,0.11111111111111116
+2,disease_on_drugs,24,29,0.1208929733246582

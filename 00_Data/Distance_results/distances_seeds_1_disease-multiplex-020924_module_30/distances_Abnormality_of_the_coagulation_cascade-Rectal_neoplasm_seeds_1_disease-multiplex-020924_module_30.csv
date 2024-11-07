@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,23,30,0.10459392945036927
+1,disease_on_symptoms,23,21,0.7513175230566538
+2,disease_on_drugs,18,29,0.194831662183093

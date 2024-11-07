@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,22,29,0.23529411764705888
+1,disease_on_symptoms,21,25,0.9656728778467909
+2,disease_on_drugs,17,21,0.3260356774288662

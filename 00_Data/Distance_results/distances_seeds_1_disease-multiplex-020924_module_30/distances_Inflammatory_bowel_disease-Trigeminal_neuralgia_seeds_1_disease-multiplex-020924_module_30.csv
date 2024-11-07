@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,17,28,0.24756493506493493
+1,disease_on_symptoms,27,19,1.6163657937113314
+2,disease_on_drugs,14,26,0.645054945054945

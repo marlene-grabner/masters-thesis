@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.06064814814814823
+1,disease_on_symptoms,14,17,1.6588506370290053
+2,disease_on_drugs,26,23,0.510204081632653

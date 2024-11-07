@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.13052427867698801
+1,disease_on_symptoms,15,27,0.5640211640211641
+2,disease_on_drugs,29,19,0.11762704174228666

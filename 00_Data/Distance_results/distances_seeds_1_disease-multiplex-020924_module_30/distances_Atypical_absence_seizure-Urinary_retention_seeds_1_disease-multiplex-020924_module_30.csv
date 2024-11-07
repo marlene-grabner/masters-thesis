@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,0.1798029556650247
+1,disease_on_symptoms,15,18,2.07020202020202
+2,disease_on_drugs,27,19,0.5144503771506057

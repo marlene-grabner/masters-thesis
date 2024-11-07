@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.13242487770789646
+1,disease_on_symptoms,17,19,0.2747678018575852
+2,disease_on_drugs,20,23,0.14105156723963597

@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,25,27,-0.2108262108262109
+1,disease_on_symptoms,23,22,0.249187527448397
+2,disease_on_drugs,21,22,-0.331168831168831

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,27,26,-0.07442348008385746
+1,disease_on_symptoms,22,20,0.8251082251082251
+2,disease_on_drugs,20,23,-0.07090495449949441

@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,0.0535714285714286
+1,disease_on_symptoms,15,22,0.43918918918918903
+2,disease_on_drugs,23,24,-0.06710607462226315

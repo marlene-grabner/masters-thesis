@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,18,16,0.6462418300653594
+2,disease_on_drugs,26,28,0.16905779405779398

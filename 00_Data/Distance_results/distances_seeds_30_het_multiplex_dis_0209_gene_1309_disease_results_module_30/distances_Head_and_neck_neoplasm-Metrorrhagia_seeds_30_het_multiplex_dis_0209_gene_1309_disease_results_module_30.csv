@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.1394736842105263
+1,disease_on_symptoms,22,17,-0.17156862745098023
+2,disease_on_drugs,27,26,-0.15348330914368646

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,21,0.21148459383753515
+1,disease_on_symptoms,22,20,1.1432900432900435
+2,disease_on_drugs,29,19,0.8304597701149425

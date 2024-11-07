@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,30,15,0.3666666666666667
+1,disease_on_symptoms,19,25,0.7138755980861244
+2,disease_on_drugs,29,10,0.0790450928381965

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,20,28,0.14166666666666683
+1,disease_on_symptoms,24,23,0.71690949737897
+2,disease_on_drugs,18,26,0.11810411810411825

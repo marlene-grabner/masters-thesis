@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,17,30,0.3288043478260869
+1,disease_on_symptoms,27,12,1.1203703703703707
+2,disease_on_drugs,14,22,0.7976190476190477

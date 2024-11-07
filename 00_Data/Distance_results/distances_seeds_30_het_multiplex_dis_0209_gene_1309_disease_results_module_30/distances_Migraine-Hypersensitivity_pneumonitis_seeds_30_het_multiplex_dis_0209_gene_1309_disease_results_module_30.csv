@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,12,20,0.6083333333333334
+2,disease_on_drugs,29,25,-0.09340996168582372

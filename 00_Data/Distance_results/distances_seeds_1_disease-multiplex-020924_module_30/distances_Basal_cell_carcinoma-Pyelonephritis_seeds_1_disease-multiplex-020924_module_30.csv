@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,26,23,0.2828987782403931
+1,disease_on_symptoms,23,21,1.271080368906456
+2,disease_on_drugs,25,19,1.022727272727273

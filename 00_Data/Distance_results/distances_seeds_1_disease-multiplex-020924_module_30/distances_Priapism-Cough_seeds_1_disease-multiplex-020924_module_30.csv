@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.15711500974658865
+1,disease_on_symptoms,17,21,-0.1738906088751293
+2,disease_on_drugs,28,27,-0.16333573833573833

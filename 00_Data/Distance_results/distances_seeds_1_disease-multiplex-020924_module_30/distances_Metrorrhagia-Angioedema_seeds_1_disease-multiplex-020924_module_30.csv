@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,29,0.1457792207792208
+1,disease_on_symptoms,17,17,0.8823529411764706
+2,disease_on_drugs,26,25,0.5889894419306185

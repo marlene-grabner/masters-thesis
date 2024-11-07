@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,20,-0.12073578595317747
+1,disease_on_symptoms,19,23,1.023700555737169
+2,disease_on_drugs,24,17,0.6319643711142995

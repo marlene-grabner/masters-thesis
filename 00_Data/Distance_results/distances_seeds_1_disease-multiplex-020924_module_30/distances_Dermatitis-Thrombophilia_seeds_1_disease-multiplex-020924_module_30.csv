@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.2891737891737891
+1,disease_on_symptoms,25,18,1.8419121447028424
+2,disease_on_drugs,24,21,0.7996031746031744

@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,22,20,0.2583333333333333
+1,disease_on_symptoms,17,22,2.120492252845194
+2,disease_on_drugs,21,15,0.9952380952380953

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,0.016330891330891273
+1,disease_on_symptoms,28,19,0.296612541993281
+2,disease_on_drugs,23,26,0.10070984915705394

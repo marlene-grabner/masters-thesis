@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.21205906480721892
+1,disease_on_symptoms,18,19,1.8668010115378537
+2,disease_on_drugs,27,11,0.9074074074074074

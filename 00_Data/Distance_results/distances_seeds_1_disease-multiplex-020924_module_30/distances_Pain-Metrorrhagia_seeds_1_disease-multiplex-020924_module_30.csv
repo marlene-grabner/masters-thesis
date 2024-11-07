@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,-0.0007256894049345597
+1,disease_on_symptoms,21,17,0.28372401592215857
+2,disease_on_drugs,26,26,0.6153846153846154

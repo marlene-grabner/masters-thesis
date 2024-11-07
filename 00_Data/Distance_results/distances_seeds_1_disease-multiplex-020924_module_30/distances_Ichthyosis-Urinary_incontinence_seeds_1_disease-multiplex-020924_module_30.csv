@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,26,0.3947347202064184
+1,disease_on_symptoms,17,20,0.97714626391097
+2,disease_on_drugs,24,20,0.7272727272727273

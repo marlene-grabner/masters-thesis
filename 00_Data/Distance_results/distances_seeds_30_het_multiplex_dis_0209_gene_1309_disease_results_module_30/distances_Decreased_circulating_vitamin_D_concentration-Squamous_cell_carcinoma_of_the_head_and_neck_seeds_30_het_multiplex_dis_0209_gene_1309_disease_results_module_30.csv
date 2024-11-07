@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,25,30,-0.08787878787878778
+1,disease_on_symptoms,13,22,1.0954545454545452
+2,disease_on_drugs,21,30,0.12507002801120448

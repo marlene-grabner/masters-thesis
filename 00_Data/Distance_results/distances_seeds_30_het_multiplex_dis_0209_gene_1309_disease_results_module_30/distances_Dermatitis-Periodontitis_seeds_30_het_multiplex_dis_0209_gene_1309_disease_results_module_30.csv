@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,14,21,-0.26428571428571423
+2,disease_on_drugs,28,28,-0.2321428571428572

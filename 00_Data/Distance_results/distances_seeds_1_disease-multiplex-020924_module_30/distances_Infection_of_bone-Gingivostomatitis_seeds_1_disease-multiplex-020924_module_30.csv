@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.7122710622710624
+1,disease_on_symptoms,21,23,-0.6802183323922455
+2,disease_on_drugs,24,29,-0.7557335718932987

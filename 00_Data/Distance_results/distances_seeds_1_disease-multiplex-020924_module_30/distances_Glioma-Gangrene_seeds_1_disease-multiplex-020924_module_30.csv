@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Gangrene nodes,sAB
+0,disease_on_genes,22,26,0.26893939393939403
+1,disease_on_symptoms,24,19,1.396547327621379
+2,disease_on_drugs,20,23,0.9765166835187058

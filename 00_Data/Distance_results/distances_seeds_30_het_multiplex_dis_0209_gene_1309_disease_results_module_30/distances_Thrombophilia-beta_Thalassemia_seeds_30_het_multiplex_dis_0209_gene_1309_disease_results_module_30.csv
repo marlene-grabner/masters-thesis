@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,0.07017543859649122
+1,disease_on_symptoms,18,13,0.3755858836504
+2,disease_on_drugs,22,24,0.24612977602108033

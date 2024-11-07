@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,-0.1950292397660821
+1,disease_on_symptoms,22,22,-0.11363636363636376
+2,disease_on_drugs,20,29,-0.11866643209007721

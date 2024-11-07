@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,21,25,0.03900621118012415
+1,disease_on_symptoms,26,20,0.8969899665551839
+2,disease_on_drugs,20,21,0.12195121951219523

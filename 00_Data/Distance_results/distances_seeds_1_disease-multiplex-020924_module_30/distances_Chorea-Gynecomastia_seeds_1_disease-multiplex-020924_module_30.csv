@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,14,30,0.6461038961038963
+1,disease_on_symptoms,27,16,1.4458979328165376
+2,disease_on_drugs,8,24,0.96875

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,18,20,0.4757309941520469
+2,disease_on_drugs,26,23,-0.045577093713739636

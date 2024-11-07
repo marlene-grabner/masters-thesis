@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,27,27,-0.01851851851851849
+1,disease_on_symptoms,17,18,0.6591503267973857
+2,disease_on_drugs,17,24,0.12760043041606894

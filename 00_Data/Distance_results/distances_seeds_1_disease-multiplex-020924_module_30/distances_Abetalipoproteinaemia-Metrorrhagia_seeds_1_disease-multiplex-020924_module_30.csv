@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,17,27,0.2887700534759359
+1,disease_on_symptoms,25,17,0.810140056022409
+2,disease_on_drugs,13,26,1.0000000000000002

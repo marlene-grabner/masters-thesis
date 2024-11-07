@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,0.2142857142857142
+1,disease_on_symptoms,14,20,0.8611344537815127
+2,disease_on_drugs,27,25,0.4629629629629628

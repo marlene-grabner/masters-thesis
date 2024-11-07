@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,28,20,0.20952380952380967
+1,disease_on_symptoms,14,26,0.8725274725274725
+2,disease_on_drugs,28,13,0.5150093808630394

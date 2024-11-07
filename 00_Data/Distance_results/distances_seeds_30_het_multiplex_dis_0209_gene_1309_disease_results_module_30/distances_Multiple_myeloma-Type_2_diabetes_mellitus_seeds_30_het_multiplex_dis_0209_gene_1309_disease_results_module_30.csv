@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,26,30,-0.1785714285714286
+1,disease_on_symptoms,21,16,0.4843548906048907
+2,disease_on_drugs,25,27,-0.039287749287749474

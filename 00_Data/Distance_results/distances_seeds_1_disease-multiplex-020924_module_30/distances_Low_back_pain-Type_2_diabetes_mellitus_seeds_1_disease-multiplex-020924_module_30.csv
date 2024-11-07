@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,16,0.1871376811594203
+1,disease_on_symptoms,17,21,2.7543859649122813
+2,disease_on_drugs,26,15,0.7434333958724202

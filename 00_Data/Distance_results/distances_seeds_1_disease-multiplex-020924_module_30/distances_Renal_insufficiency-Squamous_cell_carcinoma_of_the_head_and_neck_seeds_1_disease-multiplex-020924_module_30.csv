@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,20,21,0.24082462253193948
+1,disease_on_symptoms,23,25,1.841231884057971
+2,disease_on_drugs,17,21,0.5340557275541795

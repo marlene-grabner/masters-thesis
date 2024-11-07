@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,17,25,0.1630812324929971
+1,disease_on_symptoms,21,19,0.08909774436090223
+2,disease_on_drugs,14,18,0.9097222222222223

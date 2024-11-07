@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,10,20,0.28333333333333344
+1,disease_on_symptoms,27,23,2.11549114331723
+2,disease_on_drugs,9,17,0.8235294117647058

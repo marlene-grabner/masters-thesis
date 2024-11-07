@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.1627272727272726
+1,disease_on_symptoms,16,23,1.7660953177257526
+2,disease_on_drugs,29,21,0.4123809523809523

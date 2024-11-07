@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Dermatitis nodes,sAB
+0,disease_on_genes,22,26,0.1914893617021276
+1,disease_on_symptoms,17,25,2.0476750700280113
+2,disease_on_drugs,21,24,0.4202380952380953

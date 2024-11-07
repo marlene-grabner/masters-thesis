@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Otitis_media nodes,sAB
+0,disease_on_genes,23,29,0.18720447468573398
+1,disease_on_symptoms,16,22,1.415221291866029
+2,disease_on_drugs,22,29,1.0267072346179853

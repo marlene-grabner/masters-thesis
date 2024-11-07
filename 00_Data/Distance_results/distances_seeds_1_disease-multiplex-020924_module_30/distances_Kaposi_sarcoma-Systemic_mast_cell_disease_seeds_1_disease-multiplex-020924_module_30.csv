@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,15,29,0.06342737722048075
+1,disease_on_symptoms,27,16,0.023740310077519533
+2,disease_on_drugs,13,25,0.6842105263157894

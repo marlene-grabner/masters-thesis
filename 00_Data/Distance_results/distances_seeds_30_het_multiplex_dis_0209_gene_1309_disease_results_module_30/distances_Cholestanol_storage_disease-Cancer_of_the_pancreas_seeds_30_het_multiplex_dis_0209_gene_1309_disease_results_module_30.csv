@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,29,30,-0.0002922267679719148
+1,disease_on_symptoms,18,23,0.21665488394014387
+2,disease_on_drugs,28,30,0.18940886699507398

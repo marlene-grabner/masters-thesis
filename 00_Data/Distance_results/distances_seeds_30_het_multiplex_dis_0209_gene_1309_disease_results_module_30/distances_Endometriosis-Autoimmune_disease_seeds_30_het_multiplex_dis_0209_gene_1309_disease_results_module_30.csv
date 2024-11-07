@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1595238095238095
+1,disease_on_symptoms,16,20,0.24791666666666679
+2,disease_on_drugs,30,25,-0.0009090909090909705

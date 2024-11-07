@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,29,30,-0.016949152542372836
+1,disease_on_symptoms,18,16,1.9944852941176472
+2,disease_on_drugs,29,21,0.3606568144499178

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,0.3285714285714285
+1,disease_on_symptoms,25,26,0.9763650075414785
+2,disease_on_drugs,27,13,0.4660256410256409

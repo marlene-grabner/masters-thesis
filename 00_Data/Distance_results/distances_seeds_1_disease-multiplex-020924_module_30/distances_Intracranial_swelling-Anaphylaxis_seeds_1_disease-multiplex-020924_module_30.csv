@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.15584795321637412
+1,disease_on_symptoms,14,15,0.8182266009852217
+2,disease_on_drugs,24,26,0.3607051282051281

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.6828703703703702
+1,disease_on_symptoms,25,19,2.407846889952153
+2,disease_on_drugs,7,19,0.9386928860613071

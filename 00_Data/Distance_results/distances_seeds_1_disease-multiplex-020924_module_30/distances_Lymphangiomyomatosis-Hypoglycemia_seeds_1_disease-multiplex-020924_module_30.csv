@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,0.3571428571428572
+1,disease_on_symptoms,19,12,1.9438313525749855
+2,disease_on_drugs,22,22,0.8636363636363635

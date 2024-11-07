@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,28,30,0.0862068965517242
+1,disease_on_symptoms,17,19,0.5622635018919848
+2,disease_on_drugs,25,25,0.21999999999999997

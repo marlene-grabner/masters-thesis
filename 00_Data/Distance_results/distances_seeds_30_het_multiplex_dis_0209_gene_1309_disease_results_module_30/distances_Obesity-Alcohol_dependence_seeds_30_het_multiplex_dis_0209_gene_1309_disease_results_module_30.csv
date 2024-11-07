@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,30,-0.47485380116959075
+1,disease_on_symptoms,18,18,-0.8055555555555554
+2,disease_on_drugs,25,24,-0.5302721088435375

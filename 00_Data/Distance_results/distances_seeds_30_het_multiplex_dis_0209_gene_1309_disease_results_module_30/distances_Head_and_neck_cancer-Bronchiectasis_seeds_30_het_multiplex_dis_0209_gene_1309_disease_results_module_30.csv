@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.12280701754385959
+1,disease_on_symptoms,22,19,0.3179192437857392
+2,disease_on_drugs,23,25,0.23054347826086952

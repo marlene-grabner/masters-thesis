@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,27,17,0.10447613388789878
+1,disease_on_symptoms,17,22,0.4019607843137256
+2,disease_on_drugs,20,15,0.08095238095238111

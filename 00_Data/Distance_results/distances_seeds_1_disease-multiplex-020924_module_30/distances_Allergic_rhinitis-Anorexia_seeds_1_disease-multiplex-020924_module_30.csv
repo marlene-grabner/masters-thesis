@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,21,17,0.2532802594722099
+1,disease_on_symptoms,22,25,2.452533849129594
+2,disease_on_drugs,21,13,0.6127989657401423

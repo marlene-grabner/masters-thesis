@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,25,22,-0.0019729206963248203
+1,disease_on_symptoms,18,19,1.2174016121384543
+2,disease_on_drugs,23,19,-0.07393483709273174

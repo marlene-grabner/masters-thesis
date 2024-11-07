@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Abnormality_of_the_coagulation_cascade nodes,sAB
+0,disease_on_genes,30,23,0.2976756904566584
+1,disease_on_symptoms,17,23,2.2352301790281333
+2,disease_on_drugs,17,18,0.7746031746031745

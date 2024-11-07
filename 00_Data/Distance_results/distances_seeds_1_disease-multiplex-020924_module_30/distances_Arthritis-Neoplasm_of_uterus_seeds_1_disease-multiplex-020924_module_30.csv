@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.20443349753694595
+1,disease_on_symptoms,19,19,0.8157894736842106
+2,disease_on_drugs,29,28,0.5093660876328752

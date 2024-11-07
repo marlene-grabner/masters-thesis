@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,27,30,-0.29824561403508776
+1,disease_on_symptoms,18,21,0.005799755799755779
+2,disease_on_drugs,22,29,-0.3535865756961092

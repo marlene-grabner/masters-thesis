@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.0847457627118644
+1,disease_on_symptoms,19,20,-0.1913292847503374
+2,disease_on_drugs,25,27,0.28669515669515677

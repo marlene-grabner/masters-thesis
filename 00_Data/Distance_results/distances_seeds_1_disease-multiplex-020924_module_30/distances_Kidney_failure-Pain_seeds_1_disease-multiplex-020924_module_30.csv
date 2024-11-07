@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Pain nodes,sAB
+0,disease_on_genes,20,26,0.16588628762541813
+1,disease_on_symptoms,23,21,0.41953698475437595
+2,disease_on_drugs,18,26,0.27874902874902885

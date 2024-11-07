@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.039999999999999813
+1,disease_on_symptoms,17,23,1.0166240409207161
+2,disease_on_drugs,27,17,0.4598930481283423

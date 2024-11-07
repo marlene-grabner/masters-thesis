@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,20,19,0.5095816464237513
+2,disease_on_drugs,25,27,0.351082621082621

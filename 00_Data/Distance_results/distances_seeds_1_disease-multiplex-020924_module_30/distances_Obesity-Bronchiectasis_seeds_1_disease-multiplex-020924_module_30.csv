@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,26,30,0.1069597069597068
+1,disease_on_symptoms,20,15,1.2476190476190474
+2,disease_on_drugs,27,26,0.4528033112938774

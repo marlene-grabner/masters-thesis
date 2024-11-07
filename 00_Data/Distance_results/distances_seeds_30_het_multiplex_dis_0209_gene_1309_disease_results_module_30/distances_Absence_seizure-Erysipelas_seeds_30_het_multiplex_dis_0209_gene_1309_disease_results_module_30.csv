@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,14,18,1.1056547619047619
+2,disease_on_drugs,22,29,0.13983649886286798

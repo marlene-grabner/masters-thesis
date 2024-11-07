@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Emphysema nodes,sAB
+0,disease_on_genes,22,30,0.24731934731934735
+1,disease_on_symptoms,22,14,0.61976911976912
+2,disease_on_drugs,14,29,0.8928571428571428

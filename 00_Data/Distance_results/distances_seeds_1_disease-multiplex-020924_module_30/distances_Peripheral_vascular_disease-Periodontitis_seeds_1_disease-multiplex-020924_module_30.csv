@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Periodontitis nodes,sAB
+0,disease_on_genes,23,23,0.23913043478260865
+1,disease_on_symptoms,16,25,1.033932926829268
+2,disease_on_drugs,22,22,1.0454545454545454

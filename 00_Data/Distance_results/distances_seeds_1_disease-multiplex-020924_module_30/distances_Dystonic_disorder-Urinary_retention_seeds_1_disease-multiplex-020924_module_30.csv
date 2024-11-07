@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,17,30,0.27968836437396294
+1,disease_on_symptoms,28,18,1.3215148378191857
+2,disease_on_drugs,9,19,0.5281954887218046

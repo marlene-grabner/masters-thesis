@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,26,0.349908424908425
+1,disease_on_symptoms,22,20,0.7451298701298701
+2,disease_on_drugs,15,20,0.8142857142857143

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,17,19,-0.11386308909528742
+2,disease_on_drugs,19,29,-0.12556715063520874

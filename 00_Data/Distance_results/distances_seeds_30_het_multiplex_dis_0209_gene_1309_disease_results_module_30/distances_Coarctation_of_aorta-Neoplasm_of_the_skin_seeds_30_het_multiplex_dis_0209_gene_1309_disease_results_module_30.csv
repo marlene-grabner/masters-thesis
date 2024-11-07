@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,-0.10536062378167643
+1,disease_on_symptoms,19,22,0.3934823199906643
+2,disease_on_drugs,24,29,0.05002981999566258

@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.05165692007797262
+1,disease_on_symptoms,14,22,1.3852813852813854
+2,disease_on_drugs,21,22,0.32497734823316216

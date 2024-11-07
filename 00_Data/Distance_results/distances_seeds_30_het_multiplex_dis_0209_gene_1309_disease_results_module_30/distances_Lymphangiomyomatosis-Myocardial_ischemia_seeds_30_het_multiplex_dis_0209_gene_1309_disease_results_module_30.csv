@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,26,30,-0.2323260073260074
+1,disease_on_symptoms,17,19,-0.21224630202958372
+2,disease_on_drugs,24,30,-0.08657407407407414

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Emphysema nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,17,18,1.030532212885154
+2,disease_on_drugs,21,27,0.19444444444444442

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.10526315789473684
+1,disease_on_symptoms,24,22,0.566781949934124
+2,disease_on_drugs,20,26,0.006772575250836077

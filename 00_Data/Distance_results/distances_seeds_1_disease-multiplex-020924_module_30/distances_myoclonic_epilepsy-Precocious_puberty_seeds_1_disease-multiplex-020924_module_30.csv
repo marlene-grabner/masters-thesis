@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,0.3666666666666667
+1,disease_on_symptoms,16,14,1.6497023809523812
+2,disease_on_drugs,23,24,1.0411655874190564

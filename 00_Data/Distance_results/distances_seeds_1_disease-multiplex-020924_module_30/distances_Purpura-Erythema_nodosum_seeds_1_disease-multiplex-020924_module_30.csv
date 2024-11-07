@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,26,28,0.1096357346357344
+1,disease_on_symptoms,17,23,1.9440537084398977
+2,disease_on_drugs,20,28,0.27380952380952395

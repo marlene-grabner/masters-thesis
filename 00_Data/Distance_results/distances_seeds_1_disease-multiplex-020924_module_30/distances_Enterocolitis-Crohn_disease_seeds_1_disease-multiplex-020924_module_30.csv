@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,25,-0.1974400871459694
+1,disease_on_symptoms,21,20,-0.430952380952381
+2,disease_on_drugs,24,21,-0.2684523809523809

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,18,27,0.13518518518518507
+1,disease_on_symptoms,28,16,0.2406655844155845
+2,disease_on_drugs,17,27,-0.07313329372152899

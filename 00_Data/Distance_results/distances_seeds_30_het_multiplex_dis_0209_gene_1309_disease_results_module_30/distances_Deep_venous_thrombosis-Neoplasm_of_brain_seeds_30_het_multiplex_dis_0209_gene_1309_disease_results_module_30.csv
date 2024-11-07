@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,16,19,0.6584116541353384
+2,disease_on_drugs,28,29,0.42040445942442317

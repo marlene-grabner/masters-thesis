@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,18,17,0.424136321195145
+2,disease_on_drugs,22,25,0.0018568665377176607

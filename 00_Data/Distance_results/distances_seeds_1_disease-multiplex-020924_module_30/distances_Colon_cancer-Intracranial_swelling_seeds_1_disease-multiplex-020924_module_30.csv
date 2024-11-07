@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.339102564102564
+1,disease_on_symptoms,21,14,0.27142857142857135
+2,disease_on_drugs,24,24,0.3124999999999998

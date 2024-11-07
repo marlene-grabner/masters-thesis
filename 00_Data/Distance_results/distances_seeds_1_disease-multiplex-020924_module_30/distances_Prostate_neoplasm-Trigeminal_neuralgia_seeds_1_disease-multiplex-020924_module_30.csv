@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,17,28,0.20655929038281973
+1,disease_on_symptoms,21,19,1.2192355889724311
+2,disease_on_drugs,17,26,0.9452015153109543

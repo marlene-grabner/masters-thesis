@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,14,30,0.5324675324675325
+1,disease_on_symptoms,25,16,1.8226219512195123
+2,disease_on_drugs,10,24,0.8875

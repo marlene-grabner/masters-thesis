@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.17794640415641227
+1,disease_on_symptoms,16,25,0.8563719512195123
+2,disease_on_drugs,23,18,0.5752032520325201

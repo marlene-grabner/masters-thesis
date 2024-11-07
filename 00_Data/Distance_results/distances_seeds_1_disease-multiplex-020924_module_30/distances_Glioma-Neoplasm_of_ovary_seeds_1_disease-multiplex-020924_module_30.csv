@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,22,24,-0.017292490118577142
+1,disease_on_symptoms,24,26,0.42532051282051286
+2,disease_on_drugs,20,15,-0.02499999999999991

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,0.24639376218323594
+1,disease_on_symptoms,22,26,0.6672494172494172
+2,disease_on_drugs,24,28,1.1121794871794872

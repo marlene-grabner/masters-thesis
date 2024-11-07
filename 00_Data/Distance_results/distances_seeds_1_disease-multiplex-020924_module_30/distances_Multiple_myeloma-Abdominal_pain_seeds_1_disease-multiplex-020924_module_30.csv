@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,0.1273809523809526
+1,disease_on_symptoms,21,24,1.0902777777777781
+2,disease_on_drugs,25,24,0.7958843537414968

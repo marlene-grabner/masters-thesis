@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,-0.14727272727272733
+1,disease_on_symptoms,20,19,0.3295883940620783
+2,disease_on_drugs,22,29,0.03778658798942769

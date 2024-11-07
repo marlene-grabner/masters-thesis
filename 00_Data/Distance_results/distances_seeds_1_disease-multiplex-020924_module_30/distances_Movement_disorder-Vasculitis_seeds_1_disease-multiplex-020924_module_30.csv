@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.5754629629629628
+1,disease_on_symptoms,22,19,1.8341405064768352
+2,disease_on_drugs,15,20,0.6785714285714286

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.1548732943469786
+1,disease_on_symptoms,17,22,1.2412587412587412
+2,disease_on_drugs,26,26,0.9615384615384617

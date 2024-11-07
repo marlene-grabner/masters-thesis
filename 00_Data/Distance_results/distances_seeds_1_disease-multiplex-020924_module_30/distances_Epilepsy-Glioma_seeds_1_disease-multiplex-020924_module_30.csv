@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Glioma nodes,sAB
+0,disease_on_genes,29,22,0.19295900178253111
+1,disease_on_symptoms,18,24,1.919642857142857
+2,disease_on_drugs,30,20,1.4183333333333332

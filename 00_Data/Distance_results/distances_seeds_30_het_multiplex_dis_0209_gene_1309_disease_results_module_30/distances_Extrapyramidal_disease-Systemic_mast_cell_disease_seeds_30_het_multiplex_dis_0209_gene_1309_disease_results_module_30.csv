@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,18,25,1.2574418604651163
+2,disease_on_drugs,25,21,0.33619047619047615

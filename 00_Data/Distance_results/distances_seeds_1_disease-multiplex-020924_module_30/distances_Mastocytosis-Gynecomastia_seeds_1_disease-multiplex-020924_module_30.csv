@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,18,30,0.4097222222222223
+1,disease_on_symptoms,28,16,1.0560064935064934
+2,disease_on_drugs,17,24,0.634774031563845

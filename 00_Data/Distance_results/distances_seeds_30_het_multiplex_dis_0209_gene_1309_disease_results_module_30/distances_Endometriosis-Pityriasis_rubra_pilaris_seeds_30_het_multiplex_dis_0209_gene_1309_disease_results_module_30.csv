@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.19405458089668626
+1,disease_on_symptoms,16,21,0.10670045045045029
+2,disease_on_drugs,30,25,-0.14454545454545464

@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,28,0.2500000000000002
+1,disease_on_symptoms,15,12,2.642592592592593
+2,disease_on_drugs,21,21,0.9285714285714286

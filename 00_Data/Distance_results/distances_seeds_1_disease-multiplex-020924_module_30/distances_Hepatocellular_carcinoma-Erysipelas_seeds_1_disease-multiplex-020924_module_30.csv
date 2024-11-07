@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Erysipelas nodes,sAB
+0,disease_on_genes,23,28,0.1757094142004627
+1,disease_on_symptoms,19,20,1.5592442645074227
+2,disease_on_drugs,19,27,0.673913043478261

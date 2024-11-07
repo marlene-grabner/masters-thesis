@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.2384180790960453
+1,disease_on_symptoms,15,15,1.2999999999999998
+2,disease_on_drugs,22,29,0.7450980392156863

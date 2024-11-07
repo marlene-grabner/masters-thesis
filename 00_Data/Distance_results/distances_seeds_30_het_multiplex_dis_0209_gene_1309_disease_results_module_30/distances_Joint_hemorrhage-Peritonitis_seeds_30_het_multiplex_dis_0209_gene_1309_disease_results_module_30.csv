@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,14,0.4804147465437789
+2,disease_on_drugs,26,24,0.33967948717948726

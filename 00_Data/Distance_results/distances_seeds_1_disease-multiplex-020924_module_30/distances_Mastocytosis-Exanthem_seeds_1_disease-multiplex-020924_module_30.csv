@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Exanthem nodes,sAB
+0,disease_on_genes,18,28,-0.006038647342994974
+1,disease_on_symptoms,28,26,0.3959605209605208
+2,disease_on_drugs,17,28,-0.05445845004668559

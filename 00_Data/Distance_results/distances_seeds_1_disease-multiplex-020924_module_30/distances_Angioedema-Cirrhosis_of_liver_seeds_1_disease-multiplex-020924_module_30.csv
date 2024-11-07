@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,-0.03452380952380962
+1,disease_on_symptoms,17,14,-0.257996747085931
+2,disease_on_drugs,25,26,0.039592760180995556

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,25,27,0.43911680911680917
+1,disease_on_symptoms,16,21,2.048745173745174
+2,disease_on_drugs,17,27,0.6751336898395723

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,27,-0.35185185185185197
+1,disease_on_symptoms,21,22,-0.4441759790597001
+2,disease_on_drugs,27,22,-0.22723837009551295

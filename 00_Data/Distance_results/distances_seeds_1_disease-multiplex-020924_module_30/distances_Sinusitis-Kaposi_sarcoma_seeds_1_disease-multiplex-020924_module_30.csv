@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,29,15,0.199791013584117
+1,disease_on_symptoms,21,27,1.5327380952380953
+2,disease_on_drugs,28,13,1.1903310104529619

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,29,30,-0.1353107344632768
+1,disease_on_symptoms,20,19,0.3762483130904184
+2,disease_on_drugs,20,28,-0.06904761904761902

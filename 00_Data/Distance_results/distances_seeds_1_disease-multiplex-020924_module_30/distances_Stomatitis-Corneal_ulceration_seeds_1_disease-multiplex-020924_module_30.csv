@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.12179802955665009
+1,disease_on_symptoms,23,19,0.987468671679198
+2,disease_on_drugs,30,26,0.5607142857142857

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,26,28,0.11385444743935302
+1,disease_on_symptoms,19,19,0.8421052631578949
+2,disease_on_drugs,24,28,0.9821428571428572

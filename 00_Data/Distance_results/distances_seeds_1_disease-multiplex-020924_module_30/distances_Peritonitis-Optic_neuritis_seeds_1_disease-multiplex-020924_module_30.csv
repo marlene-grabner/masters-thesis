@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.09103313840155947
+1,disease_on_symptoms,17,16,0.4777740641711228
+2,disease_on_drugs,28,27,0.27270322270322267

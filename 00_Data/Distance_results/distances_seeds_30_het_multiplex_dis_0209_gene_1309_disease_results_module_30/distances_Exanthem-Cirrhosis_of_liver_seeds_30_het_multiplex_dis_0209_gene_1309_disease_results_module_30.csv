@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,21,19,-0.2696115288220551
+2,disease_on_drugs,29,30,0.0005454899668808633

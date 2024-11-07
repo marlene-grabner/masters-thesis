@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,-0.160897435897436
+1,disease_on_symptoms,20,19,-0.15512820512820502
+2,disease_on_drugs,20,29,-0.09447572132301207

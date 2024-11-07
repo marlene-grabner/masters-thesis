@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,20,17,0.9023449920508744
+2,disease_on_drugs,23,26,0.43031192410074404

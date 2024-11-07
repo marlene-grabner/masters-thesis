@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.0
+1,disease_on_symptoms,20,17,0.5976947535771067
+2,disease_on_drugs,28,27,0.16452621452621452

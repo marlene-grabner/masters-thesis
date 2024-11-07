@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,23,27,0.040000000000000036
+1,disease_on_symptoms,23,17,0.9418797953964193
+2,disease_on_drugs,22,17,0.28410804881393137

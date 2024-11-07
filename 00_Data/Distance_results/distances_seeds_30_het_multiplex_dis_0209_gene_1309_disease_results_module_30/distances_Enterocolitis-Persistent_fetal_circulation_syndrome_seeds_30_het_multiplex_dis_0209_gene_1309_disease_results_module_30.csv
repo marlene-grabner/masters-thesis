@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,24,-0.05882352941176472
+1,disease_on_symptoms,21,22,0.9716097855632739
+2,disease_on_drugs,25,21,0.023561076604554643

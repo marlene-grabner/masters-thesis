@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Keloid nodes,sAB
+0,disease_on_genes,29,23,-0.21153846153846156
+1,disease_on_symptoms,19,17,0.4134846921224631
+2,disease_on_drugs,29,22,-0.14814985555350646

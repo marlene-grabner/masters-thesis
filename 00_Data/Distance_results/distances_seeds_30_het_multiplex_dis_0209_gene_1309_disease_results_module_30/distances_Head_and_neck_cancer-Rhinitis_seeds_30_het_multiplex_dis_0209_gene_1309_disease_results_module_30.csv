@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,22,12,0.13859180035650587
+2,disease_on_drugs,23,23,0.4999999999999998

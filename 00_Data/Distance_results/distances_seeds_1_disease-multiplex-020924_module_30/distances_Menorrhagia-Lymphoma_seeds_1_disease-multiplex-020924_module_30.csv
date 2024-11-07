@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Lymphoma nodes,sAB
+0,disease_on_genes,26,26,0.07692307692307665
+1,disease_on_symptoms,19,21,1.1291353383458649
+2,disease_on_drugs,24,25,0.6534523809523807

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,0.21348750228060553
+1,disease_on_symptoms,19,20,1.4073211875843454
+2,disease_on_drugs,20,26,0.7141304347826087

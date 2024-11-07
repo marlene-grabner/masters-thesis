@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,16,15,0.4100806451612904
+2,disease_on_drugs,29,22,0.196078431372549

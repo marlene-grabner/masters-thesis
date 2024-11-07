@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.09721082854799024
+1,disease_on_symptoms,19,19,0.6842105263157896
+2,disease_on_drugs,30,22,0.2026806526806526

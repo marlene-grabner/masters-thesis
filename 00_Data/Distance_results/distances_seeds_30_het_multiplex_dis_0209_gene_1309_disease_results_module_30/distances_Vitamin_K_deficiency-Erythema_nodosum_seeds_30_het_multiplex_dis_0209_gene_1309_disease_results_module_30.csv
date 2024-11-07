@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,21,22,0.9147035135407227
+2,disease_on_drugs,21,29,-0.010771756978653624

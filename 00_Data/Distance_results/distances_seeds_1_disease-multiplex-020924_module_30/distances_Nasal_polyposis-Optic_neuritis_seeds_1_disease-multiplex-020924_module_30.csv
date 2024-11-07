@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,15,27,0.3582010582010582
+1,disease_on_symptoms,25,16,0.4775914634146343
+2,disease_on_drugs,10,27,0.025125125125124992

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Keratitis nodes,sAB
+0,disease_on_genes,13,28,0.4830474403645135
+1,disease_on_symptoms,26,25,1.2305128205128204
+2,disease_on_drugs,9,23,0.5042270531400965

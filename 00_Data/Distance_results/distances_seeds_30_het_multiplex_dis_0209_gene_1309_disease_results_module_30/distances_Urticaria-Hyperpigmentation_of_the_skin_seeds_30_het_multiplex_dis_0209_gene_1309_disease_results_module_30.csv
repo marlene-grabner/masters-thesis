@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,24,30,-0.14814814814814814
+1,disease_on_symptoms,21,17,0.1048945894147133
+2,disease_on_drugs,24,28,-0.07119963369963389

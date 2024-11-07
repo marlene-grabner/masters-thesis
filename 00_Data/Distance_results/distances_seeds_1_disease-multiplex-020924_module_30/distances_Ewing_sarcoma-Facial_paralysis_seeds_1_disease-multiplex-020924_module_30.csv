@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,24,14,0.3905075187969924
+1,disease_on_symptoms,25,23,1.391485507246377
+2,disease_on_drugs,17,14,1.064516129032258

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.021212121212121238
+1,disease_on_symptoms,19,21,0.7108395989974938
+2,disease_on_drugs,24,21,0.044841269841269904

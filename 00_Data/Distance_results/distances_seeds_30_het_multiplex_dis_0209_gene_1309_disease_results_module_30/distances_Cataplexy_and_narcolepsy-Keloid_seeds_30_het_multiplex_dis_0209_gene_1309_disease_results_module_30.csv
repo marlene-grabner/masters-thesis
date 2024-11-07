@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Keloid nodes,sAB
+0,disease_on_genes,25,23,-0.16666666666666663
+1,disease_on_symptoms,19,17,2.3915548675610596
+2,disease_on_drugs,18,22,-0.10050505050505065

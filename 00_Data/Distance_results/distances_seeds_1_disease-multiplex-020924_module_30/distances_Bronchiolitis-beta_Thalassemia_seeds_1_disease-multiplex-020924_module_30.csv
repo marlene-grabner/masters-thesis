@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,23,22,0.5100790513833993
+1,disease_on_symptoms,25,21,2.1802070393374744
+2,disease_on_drugs,18,6,1.1666666666666665

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,9,24,0.1862373737373737
+1,disease_on_symptoms,27,17,1.4303327391562686
+2,disease_on_drugs,9,23,0.90625

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,19,19,-0.07894736842105265
+2,disease_on_drugs,29,30,-0.08420027274498354

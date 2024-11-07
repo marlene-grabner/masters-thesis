@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,0.08891941391941405
+1,disease_on_symptoms,21,24,0.8061507936507937
+2,disease_on_drugs,24,24,0.18750000000000022

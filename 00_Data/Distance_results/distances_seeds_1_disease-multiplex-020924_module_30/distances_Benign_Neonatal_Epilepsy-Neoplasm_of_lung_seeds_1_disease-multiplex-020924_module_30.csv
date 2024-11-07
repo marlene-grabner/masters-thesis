@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,29,30,0.18672316384180787
+1,disease_on_symptoms,16,20,1.8826388888888888
+2,disease_on_drugs,26,30,1.3583333333333334

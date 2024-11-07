@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,25,30,0.4342424242424243
+1,disease_on_symptoms,20,20,1.725
+2,disease_on_drugs,14,22,0.30952380952380953

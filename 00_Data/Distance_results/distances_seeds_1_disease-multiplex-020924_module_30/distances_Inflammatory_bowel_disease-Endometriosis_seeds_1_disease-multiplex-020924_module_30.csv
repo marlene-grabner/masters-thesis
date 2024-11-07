@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Endometriosis nodes,sAB
+0,disease_on_genes,17,30,0.263586956521739
+1,disease_on_symptoms,27,12,1.5883190883190883
+2,disease_on_drugs,14,27,0.647212543554007

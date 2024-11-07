@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,30,0.05341130604288513
+1,disease_on_symptoms,17,22,0.9364801864801864
+2,disease_on_drugs,24,30,0.28101851851851856

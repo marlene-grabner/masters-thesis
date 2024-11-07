@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.08771929824561409
+1,disease_on_symptoms,18,22,0.8126262626262624
+2,disease_on_drugs,30,27,0.20633528265107226

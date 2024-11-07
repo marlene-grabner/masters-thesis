@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.1488603988603988
+1,disease_on_symptoms,17,18,0.17810457516339895
+2,disease_on_drugs,24,27,0.13194444444444442

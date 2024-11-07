@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,26,0.12244897959183665
+1,disease_on_symptoms,20,18,1.3194444444444444
+2,disease_on_drugs,20,26,0.5117892976588629

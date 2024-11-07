@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,17,18,-0.047992530345471573
+2,disease_on_drugs,24,21,-0.31845238095238093

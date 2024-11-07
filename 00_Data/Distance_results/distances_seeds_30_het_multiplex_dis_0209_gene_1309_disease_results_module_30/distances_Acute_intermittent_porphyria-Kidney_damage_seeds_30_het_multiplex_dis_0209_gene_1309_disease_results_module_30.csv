@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,30,0.05263157894736836
+1,disease_on_symptoms,17,15,1.1126225490196078
+2,disease_on_drugs,24,21,0.0974206349206348

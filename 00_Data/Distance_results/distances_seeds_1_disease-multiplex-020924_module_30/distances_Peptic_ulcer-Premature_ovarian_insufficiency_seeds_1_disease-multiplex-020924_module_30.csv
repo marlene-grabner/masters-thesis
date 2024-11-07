@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,28,23,0.1477591036414565
+1,disease_on_symptoms,14,22,0.8823953823953823
+2,disease_on_drugs,28,17,1.111764705882353

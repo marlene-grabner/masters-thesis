@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,15,27,0.5957671957671955
+2,disease_on_drugs,30,28,0.6348111658456486

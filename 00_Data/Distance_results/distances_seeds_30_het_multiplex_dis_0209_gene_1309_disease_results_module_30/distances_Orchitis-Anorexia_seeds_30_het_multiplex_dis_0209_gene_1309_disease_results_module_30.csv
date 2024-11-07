@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,25,29,-0.20242656449552998
+1,disease_on_symptoms,19,13,0.33147773279352233
+2,disease_on_drugs,25,28,-0.021617250673854338

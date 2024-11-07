@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,29,27,0.375
+1,disease_on_symptoms,18,14,2.170634920634921
+2,disease_on_drugs,22,13,1.2857142857142856

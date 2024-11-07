@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,18,-0.4444444444444444
+2,disease_on_drugs,27,28,-0.43347763347763346

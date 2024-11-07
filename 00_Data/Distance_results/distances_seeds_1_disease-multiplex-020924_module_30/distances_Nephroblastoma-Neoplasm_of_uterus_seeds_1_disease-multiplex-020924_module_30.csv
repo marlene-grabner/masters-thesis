@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,25,28,-0.546522911051213
+1,disease_on_symptoms,25,19,-0.645980861244019
+2,disease_on_drugs,21,28,-0.4872448979591836

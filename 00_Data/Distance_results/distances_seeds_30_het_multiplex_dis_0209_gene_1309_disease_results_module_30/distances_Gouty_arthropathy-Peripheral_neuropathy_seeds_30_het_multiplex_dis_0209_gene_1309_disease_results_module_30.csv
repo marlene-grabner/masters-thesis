@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,28,30,-0.12068965517241381
+1,disease_on_symptoms,18,21,-0.20360195360195332
+2,disease_on_drugs,23,29,0.042555645254296115

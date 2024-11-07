@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555558
+1,disease_on_symptoms,21,22,0.856941508104299
+2,disease_on_drugs,27,26,0.2648497554157929

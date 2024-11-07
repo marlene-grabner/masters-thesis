@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Ascites nodes,sAB
+0,disease_on_genes,25,30,0.1399999999999999
+1,disease_on_symptoms,18,17,1.195518207282913
+2,disease_on_drugs,23,27,0.3244444444444443

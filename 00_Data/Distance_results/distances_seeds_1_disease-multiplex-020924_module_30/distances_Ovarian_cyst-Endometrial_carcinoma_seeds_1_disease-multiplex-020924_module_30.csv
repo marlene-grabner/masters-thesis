@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,20,23,-0.09370576339737102
+1,disease_on_symptoms,22,21,0.3248011678244236
+2,disease_on_drugs,15,21,-0.11587301587301568

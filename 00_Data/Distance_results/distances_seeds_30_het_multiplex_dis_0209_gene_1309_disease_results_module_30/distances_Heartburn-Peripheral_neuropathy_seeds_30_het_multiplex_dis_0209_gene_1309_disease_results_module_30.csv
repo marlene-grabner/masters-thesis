@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,-0.2857142857142857
+1,disease_on_symptoms,16,21,-0.0138352638352639
+2,disease_on_drugs,25,29,-0.20324393358876114

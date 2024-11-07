@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,29,28,0.21052631578947367
+1,disease_on_symptoms,18,16,1.5551470588235294
+2,disease_on_drugs,29,23,0.16566716641679147

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,24,27,0.28799019607843146
+1,disease_on_symptoms,20,14,1.797268907563025
+2,disease_on_drugs,22,13,1.0058441558441558

@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.15999999999999992
+1,disease_on_symptoms,23,23,0.3695652173913042
+2,disease_on_drugs,30,17,0.6596996245306634

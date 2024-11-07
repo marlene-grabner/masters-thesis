@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,21,15,0.17539682539682522
+2,disease_on_drugs,29,26,0.048758138413311114

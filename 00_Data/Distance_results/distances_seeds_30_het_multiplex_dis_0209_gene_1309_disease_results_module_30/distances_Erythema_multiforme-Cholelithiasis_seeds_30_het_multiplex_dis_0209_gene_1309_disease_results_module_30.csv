@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.05454545454545445
+1,disease_on_symptoms,18,20,0.9102339181286552
+2,disease_on_drugs,30,18,0.2138888888888888

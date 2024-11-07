@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,17,13,0.36696832579185523
+1,disease_on_symptoms,21,25,3.6743271221532092
+2,disease_on_drugs,17,8,1.221176470588235

@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,-0.0003487253487255426
+1,disease_on_symptoms,17,20,0.09058028616852165
+2,disease_on_drugs,25,25,0.06000000000000005

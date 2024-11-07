@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,22,0.46243042671614076
+1,disease_on_symptoms,17,21,2.8533097449506117
+2,disease_on_drugs,25,6,1.0268817204301075

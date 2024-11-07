@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,-0.017857142857142905
+1,disease_on_symptoms,22,15,0.33918918918918894
+2,disease_on_drugs,24,30,0.25648148148148153

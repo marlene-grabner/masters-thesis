@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,21,24,0.10952380952380958
+1,disease_on_symptoms,22,17,1.602426984779926
+2,disease_on_drugs,21,23,0.6101072840203274

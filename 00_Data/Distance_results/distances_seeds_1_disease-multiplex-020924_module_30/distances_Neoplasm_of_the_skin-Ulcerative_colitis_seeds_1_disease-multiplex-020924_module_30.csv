@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_skin nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,28,27,0.10971620971620988
+1,disease_on_symptoms,21,20,0.9056620209059234
+2,disease_on_drugs,24,25,0.3877551020408163

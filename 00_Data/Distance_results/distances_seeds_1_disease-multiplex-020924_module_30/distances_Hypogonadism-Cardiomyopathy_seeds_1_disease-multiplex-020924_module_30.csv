@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,0.034074074074074145
+1,disease_on_symptoms,12,17,0.34364435429344153
+2,disease_on_drugs,30,24,0.3120370370370371

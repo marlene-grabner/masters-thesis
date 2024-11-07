@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,14,15,0.6472085385878488
+2,disease_on_drugs,28,23,0.2512483254171234

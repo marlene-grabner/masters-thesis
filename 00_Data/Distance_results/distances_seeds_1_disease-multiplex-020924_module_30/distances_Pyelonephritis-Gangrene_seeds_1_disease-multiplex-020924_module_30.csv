@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Gangrene nodes,sAB
+0,disease_on_genes,23,26,0.13886424134871356
+1,disease_on_symptoms,21,19,0.7478070175438596
+2,disease_on_drugs,19,23,0.5496894409937887

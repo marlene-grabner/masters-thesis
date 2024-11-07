@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,21,18,-0.16056166056166044
+2,disease_on_drugs,25,26,-0.3353846153846154

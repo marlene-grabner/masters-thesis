@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Lymphoma nodes,sAB
+0,disease_on_genes,28,26,-0.03703703703703709
+1,disease_on_symptoms,17,20,0.517329093799682
+2,disease_on_drugs,25,24,0.12360544217687064

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.24561403508771928
+1,disease_on_symptoms,21,16,-0.2139639639639639
+2,disease_on_drugs,23,30,-0.3450642603226688

@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,24,24,-0.10416666666666674
+1,disease_on_symptoms,21,26,0.2301457407840386
+2,disease_on_drugs,18,15,-0.36111111111111105

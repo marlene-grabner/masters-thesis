@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,27,30,-0.021442495126705596
+1,disease_on_symptoms,19,17,0.33144134846921225
+2,disease_on_drugs,20,25,0.27722222222222226

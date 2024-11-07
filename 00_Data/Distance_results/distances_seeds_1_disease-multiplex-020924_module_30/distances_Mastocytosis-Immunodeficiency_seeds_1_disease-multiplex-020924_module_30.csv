@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,18,22,0.35404040404040393
+1,disease_on_symptoms,28,19,1.8133298672212446
+2,disease_on_drugs,17,18,0.056255835667600174

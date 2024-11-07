@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,16,24,0.2250000000000001
+1,disease_on_symptoms,26,17,2.085025781332211
+2,disease_on_drugs,14,23,0.39424206815511176

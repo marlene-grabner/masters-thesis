@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,18,23,0.5850712854954636
+1,disease_on_symptoms,21,19,1.5692355889724312
+2,disease_on_drugs,6,11,0.715686274509804

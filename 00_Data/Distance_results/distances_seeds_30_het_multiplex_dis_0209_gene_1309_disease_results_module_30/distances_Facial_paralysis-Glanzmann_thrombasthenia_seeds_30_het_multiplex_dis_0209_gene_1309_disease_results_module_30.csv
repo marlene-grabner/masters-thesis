@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,22,24,-0.021739130434782594
+1,disease_on_symptoms,21,19,1.418922305764411
+2,disease_on_drugs,17,24,0.49273672883787656

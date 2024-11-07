@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,9,29,0.06432748538011701
+1,disease_on_symptoms,27,14,1.7286101432442893
+2,disease_on_drugs,9,28,0.3783783783783783

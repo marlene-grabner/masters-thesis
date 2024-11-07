@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.07005494505494503
+1,disease_on_symptoms,21,22,0.4659720124836404
+2,disease_on_drugs,27,25,0.22532763532763522

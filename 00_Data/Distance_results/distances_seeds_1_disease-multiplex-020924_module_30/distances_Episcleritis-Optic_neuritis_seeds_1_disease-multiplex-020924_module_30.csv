@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.12085769980506811
+1,disease_on_symptoms,22,16,0.2405801435406698
+2,disease_on_drugs,29,27,0.07318463783981022

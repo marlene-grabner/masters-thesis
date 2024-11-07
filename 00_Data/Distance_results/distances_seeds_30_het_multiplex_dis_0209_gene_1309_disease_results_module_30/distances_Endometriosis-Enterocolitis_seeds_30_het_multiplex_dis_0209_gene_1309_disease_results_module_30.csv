@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.1394736842105263
+1,disease_on_symptoms,16,21,0.10991795366795354
+2,disease_on_drugs,30,25,-0.044545454545454444

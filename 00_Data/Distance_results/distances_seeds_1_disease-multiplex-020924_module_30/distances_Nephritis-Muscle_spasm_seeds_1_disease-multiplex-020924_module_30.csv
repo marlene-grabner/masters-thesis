@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Muscle_spasm nodes,sAB
+0,disease_on_genes,30,25,0.08181818181818179
+1,disease_on_symptoms,18,23,0.7168905384706021
+2,disease_on_drugs,27,19,0.6900161030595813

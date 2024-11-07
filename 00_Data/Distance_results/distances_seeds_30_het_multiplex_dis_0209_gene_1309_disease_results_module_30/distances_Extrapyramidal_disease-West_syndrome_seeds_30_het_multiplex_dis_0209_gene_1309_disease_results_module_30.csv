@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,18,13,-0.31823821339950387
+2,disease_on_drugs,25,19,-0.3134449760765551

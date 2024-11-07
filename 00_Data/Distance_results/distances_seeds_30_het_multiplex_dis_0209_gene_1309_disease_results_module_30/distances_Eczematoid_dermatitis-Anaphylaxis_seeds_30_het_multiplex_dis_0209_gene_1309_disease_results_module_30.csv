@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.08869395711500982
+1,disease_on_symptoms,25,14,0.7773992673992671
+2,disease_on_drugs,30,26,-0.08983516483516496

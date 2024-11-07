@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,22,16,0.1765849282296652
+2,disease_on_drugs,29,28,0.24525754040273084

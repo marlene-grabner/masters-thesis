@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,22,15,0.13587223587223551
+2,disease_on_drugs,26,30,0.1028388278388277

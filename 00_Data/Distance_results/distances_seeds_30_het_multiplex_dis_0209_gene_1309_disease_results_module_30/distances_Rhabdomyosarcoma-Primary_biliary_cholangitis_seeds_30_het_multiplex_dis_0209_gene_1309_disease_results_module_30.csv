@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,29,26,0.018181818181818077
+1,disease_on_symptoms,19,23,0.3801351204097201
+2,disease_on_drugs,29,26,0.3781287677839402

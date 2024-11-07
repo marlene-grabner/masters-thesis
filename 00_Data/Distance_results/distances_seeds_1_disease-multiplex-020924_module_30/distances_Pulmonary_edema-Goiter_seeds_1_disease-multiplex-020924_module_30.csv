@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.4945054945054945
+1,disease_on_symptoms,14,15,1.034072249589491
+2,disease_on_drugs,27,16,0.7536606373815675

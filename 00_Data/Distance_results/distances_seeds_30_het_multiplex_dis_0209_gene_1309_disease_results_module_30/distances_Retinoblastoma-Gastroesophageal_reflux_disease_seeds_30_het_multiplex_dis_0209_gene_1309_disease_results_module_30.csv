@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,0.016483516483516647
+1,disease_on_symptoms,21,18,0.884310134310134
+2,disease_on_drugs,27,25,0.8814814814814815

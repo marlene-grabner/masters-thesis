@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,29,0.19779358572462002
+1,disease_on_symptoms,19,17,2.0775713794289645
+2,disease_on_drugs,24,30,0.5162037037037035

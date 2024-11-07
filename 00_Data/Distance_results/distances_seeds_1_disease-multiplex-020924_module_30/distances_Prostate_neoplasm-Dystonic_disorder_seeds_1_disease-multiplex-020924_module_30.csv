@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,17,17,0.5294117647058822
+1,disease_on_symptoms,21,28,2.866496598639456
+2,disease_on_drugs,17,9,1.2488687782805428

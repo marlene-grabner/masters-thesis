@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Ascites nodes,sAB
+0,disease_on_genes,22,30,0.30944055944055937
+1,disease_on_symptoms,23,17,0.990601023017903
+2,disease_on_drugs,17,27,0.5447118241235889

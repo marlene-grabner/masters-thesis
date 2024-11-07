@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,23,30,0.06320754716981125
+1,disease_on_symptoms,16,16,2.0625
+2,disease_on_drugs,17,29,0.8324808184143222

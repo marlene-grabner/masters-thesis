@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,17,30,0.3074885273258239
+1,disease_on_symptoms,22,15,0.7603603603603606
+2,disease_on_drugs,15,26,0.12332707942464038

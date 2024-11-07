@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.3833333333333335
+1,disease_on_symptoms,17,21,1.8813209494324046
+2,disease_on_drugs,17,29,0.769865067466267

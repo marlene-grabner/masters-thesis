@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.016270337922402955
+1,disease_on_symptoms,20,24,0.5950757575757575
+2,disease_on_drugs,27,16,0.45313845822566745

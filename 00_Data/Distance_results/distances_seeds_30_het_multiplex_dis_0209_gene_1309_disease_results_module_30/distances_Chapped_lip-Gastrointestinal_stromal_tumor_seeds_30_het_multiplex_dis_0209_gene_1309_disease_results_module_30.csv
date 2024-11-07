@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,20,19,0.17297570850202448
+2,disease_on_drugs,23,28,0.23377176957739598

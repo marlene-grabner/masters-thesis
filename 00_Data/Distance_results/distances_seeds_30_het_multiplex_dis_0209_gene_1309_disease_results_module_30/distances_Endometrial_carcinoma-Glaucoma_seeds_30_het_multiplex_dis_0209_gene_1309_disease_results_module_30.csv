@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,-0.1595238095238095
+1,disease_on_symptoms,21,18,0.06868131868131866
+2,disease_on_drugs,26,28,-0.07300569800569812

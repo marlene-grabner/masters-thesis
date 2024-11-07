@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Sinusitis nodes,sAB
+0,disease_on_genes,29,29,0.2931034482758621
+1,disease_on_symptoms,14,20,0.7838235294117646
+2,disease_on_drugs,22,27,0.5149797292654434

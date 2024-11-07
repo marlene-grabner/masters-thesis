@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,24,25,0.18236394557823132
+1,disease_on_symptoms,20,19,0.9188596491228072
+2,disease_on_drugs,22,18,0.12449494949494944

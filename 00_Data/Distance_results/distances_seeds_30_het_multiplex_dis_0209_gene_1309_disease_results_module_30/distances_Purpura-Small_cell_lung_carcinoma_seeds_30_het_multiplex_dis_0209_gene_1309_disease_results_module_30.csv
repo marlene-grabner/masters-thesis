@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,27,30,0.05165692007797262
+1,disease_on_symptoms,17,19,0.5482456140350875
+2,disease_on_drugs,24,30,0.37731481481481466

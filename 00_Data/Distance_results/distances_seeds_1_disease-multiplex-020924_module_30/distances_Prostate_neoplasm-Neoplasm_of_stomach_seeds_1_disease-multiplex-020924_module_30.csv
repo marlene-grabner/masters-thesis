@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,17,23,-0.1926470588235294
+1,disease_on_symptoms,21,24,-0.032738095238095344
+2,disease_on_drugs,17,22,-0.13283285342108875

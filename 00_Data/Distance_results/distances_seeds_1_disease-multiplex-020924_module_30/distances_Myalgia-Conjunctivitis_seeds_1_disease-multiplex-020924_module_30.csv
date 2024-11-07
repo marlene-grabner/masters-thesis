@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.036744639376218524
+1,disease_on_symptoms,16,27,1.2602820844099913
+2,disease_on_drugs,29,26,0.197902097902098

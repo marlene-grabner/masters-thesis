@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,27,-0.1413255360623783
+1,disease_on_symptoms,12,21,0.6699134199134198
+2,disease_on_drugs,29,27,0.035531837255975196

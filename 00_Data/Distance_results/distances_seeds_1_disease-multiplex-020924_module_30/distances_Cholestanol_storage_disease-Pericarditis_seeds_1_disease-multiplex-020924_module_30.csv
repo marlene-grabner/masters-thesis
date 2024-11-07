@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.10909090909090913
+1,disease_on_symptoms,17,22,0.5202934320581378
+2,disease_on_drugs,25,25,0.4999999999999998

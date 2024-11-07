@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Ascites nodes,sAB
+0,disease_on_genes,9,30,0.20940170940170955
+1,disease_on_symptoms,27,17,1.2471776589423647
+2,disease_on_drugs,9,27,0.5833333333333333

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,-0.16000000000000003
+1,disease_on_symptoms,19,26,0.8149797570850201
+2,disease_on_drugs,23,24,0.06421523280912744

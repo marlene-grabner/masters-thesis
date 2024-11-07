@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,24,0.1775599128540304
+1,disease_on_symptoms,17,23,0.24616368286445023
+2,disease_on_drugs,20,24,0.18181818181818188

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.11779661016949161
+1,disease_on_symptoms,19,20,0.5859311740890689
+2,disease_on_drugs,20,27,-0.19190307328605205

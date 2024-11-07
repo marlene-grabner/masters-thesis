@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,18,16,0.5253267973856213
+2,disease_on_drugs,30,29,0.16829339567504364

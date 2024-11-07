@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,11,17,0.57009167303285
+2,disease_on_drugs,21,28,0.18197278911564618

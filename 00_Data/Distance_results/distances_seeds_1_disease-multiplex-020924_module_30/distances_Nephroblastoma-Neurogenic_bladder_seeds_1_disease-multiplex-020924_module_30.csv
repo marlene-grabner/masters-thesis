@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.35212121212121206
+1,disease_on_symptoms,25,17,1.2675630252100838
+2,disease_on_drugs,21,26,1.4255319148936172

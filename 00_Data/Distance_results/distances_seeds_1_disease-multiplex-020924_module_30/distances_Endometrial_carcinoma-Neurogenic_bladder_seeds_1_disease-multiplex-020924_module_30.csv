@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,23,30,0.3863549357396776
+1,disease_on_symptoms,21,17,0.789768538994545
+2,disease_on_drugs,21,26,1.1838905775075987

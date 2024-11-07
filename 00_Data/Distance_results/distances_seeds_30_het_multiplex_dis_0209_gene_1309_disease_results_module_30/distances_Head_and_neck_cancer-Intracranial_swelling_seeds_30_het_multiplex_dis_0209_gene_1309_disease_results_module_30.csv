@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,0.1578947368421053
+1,disease_on_symptoms,22,11,0.46212121212121193
+2,disease_on_drugs,23,21,0.26802183323922435

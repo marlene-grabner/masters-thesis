@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,22,16,0.7398325358851674
+2,disease_on_drugs,25,28,0.3396630727762804

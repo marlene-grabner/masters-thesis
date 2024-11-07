@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.1950916051408258
+1,disease_on_symptoms,15,20,-0.6845238095238095
+2,disease_on_drugs,21,20,-0.4634436701509873

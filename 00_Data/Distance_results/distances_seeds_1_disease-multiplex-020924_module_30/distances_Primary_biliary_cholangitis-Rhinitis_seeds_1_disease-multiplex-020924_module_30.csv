@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.25338827838827815
+1,disease_on_symptoms,17,15,0.45147058823529407
+2,disease_on_drugs,18,22,0.6833333333333336

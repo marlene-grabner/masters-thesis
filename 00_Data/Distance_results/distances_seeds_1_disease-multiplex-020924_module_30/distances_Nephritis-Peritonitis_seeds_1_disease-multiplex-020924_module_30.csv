@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,18,17,0.5686741363211951
+2,disease_on_drugs,27,28,0.10805675805675818

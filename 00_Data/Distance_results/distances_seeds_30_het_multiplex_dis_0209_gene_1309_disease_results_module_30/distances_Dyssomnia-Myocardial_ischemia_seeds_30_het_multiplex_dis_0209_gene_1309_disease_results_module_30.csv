@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,18,30,-0.1416666666666666
+1,disease_on_symptoms,21,19,1.933458646616541
+2,disease_on_drugs,17,30,-0.06086775135586153

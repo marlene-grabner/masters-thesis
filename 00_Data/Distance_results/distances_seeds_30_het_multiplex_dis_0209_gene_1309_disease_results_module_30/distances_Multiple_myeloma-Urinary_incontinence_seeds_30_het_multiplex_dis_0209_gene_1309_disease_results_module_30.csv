@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,29,0.18181818181818188
+1,disease_on_symptoms,21,20,1.3656213704994191
+2,disease_on_drugs,25,20,0.56

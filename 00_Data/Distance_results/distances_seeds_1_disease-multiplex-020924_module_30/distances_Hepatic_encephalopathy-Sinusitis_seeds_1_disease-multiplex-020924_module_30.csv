@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,9,29,-0.013712442024601756
+1,disease_on_symptoms,27,21,2.067460317460317
+2,disease_on_drugs,9,28,0.2977799227799227

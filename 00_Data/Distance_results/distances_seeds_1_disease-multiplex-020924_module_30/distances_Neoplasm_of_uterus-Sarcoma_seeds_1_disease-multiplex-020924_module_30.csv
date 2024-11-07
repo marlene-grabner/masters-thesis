@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,25,-0.2789757412398921
+1,disease_on_symptoms,19,26,-0.3229194781826361
+2,disease_on_drugs,28,21,-0.32397959183673464

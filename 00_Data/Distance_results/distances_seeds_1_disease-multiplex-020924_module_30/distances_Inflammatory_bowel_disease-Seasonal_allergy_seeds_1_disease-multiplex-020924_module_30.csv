@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,17,29,-0.020354406130268288
+1,disease_on_symptoms,27,15,-0.08677248677248706
+2,disease_on_drugs,14,29,-0.006444037117653734

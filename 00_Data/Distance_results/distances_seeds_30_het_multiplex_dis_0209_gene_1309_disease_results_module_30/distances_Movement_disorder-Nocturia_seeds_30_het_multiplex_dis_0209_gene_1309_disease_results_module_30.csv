@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.20185185185185184
+1,disease_on_symptoms,17,18,0.042670401493930754
+2,disease_on_drugs,26,24,-0.21333333333333337

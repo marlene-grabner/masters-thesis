@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,21,30,-0.1568627450980392
+1,disease_on_symptoms,22,16,0.3720095693779908
+2,disease_on_drugs,19,30,-0.12409595417114216

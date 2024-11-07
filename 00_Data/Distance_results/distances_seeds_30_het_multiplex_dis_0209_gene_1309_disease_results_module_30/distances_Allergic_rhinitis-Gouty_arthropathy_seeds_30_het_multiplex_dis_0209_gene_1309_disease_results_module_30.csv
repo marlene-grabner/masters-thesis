@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,28,28,0.125
+1,disease_on_symptoms,20,18,0.6788011695906435
+2,disease_on_drugs,25,23,0.12177536231884067

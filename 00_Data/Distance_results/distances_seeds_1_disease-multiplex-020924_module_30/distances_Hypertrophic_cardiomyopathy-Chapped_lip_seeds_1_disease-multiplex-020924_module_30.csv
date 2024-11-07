@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,30,26,0.3952380952380954
+1,disease_on_symptoms,17,21,2.16578210231461
+2,disease_on_drugs,17,24,0.8048780487804879

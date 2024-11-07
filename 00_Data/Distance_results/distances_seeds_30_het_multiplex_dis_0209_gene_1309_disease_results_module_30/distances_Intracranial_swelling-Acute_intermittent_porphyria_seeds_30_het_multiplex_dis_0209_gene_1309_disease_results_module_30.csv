@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,11,17,0.7549656226126813
+2,disease_on_drugs,21,24,-0.1613095238095239

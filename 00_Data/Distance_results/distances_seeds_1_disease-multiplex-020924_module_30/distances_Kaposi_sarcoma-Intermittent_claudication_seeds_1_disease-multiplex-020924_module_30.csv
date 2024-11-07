@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,15,20,0.2583333333333333
+1,disease_on_symptoms,27,24,2.530637254901961
+2,disease_on_drugs,13,18,0.9534050179211468

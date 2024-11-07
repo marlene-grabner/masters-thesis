@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,21,0.19727891156462585
+1,disease_on_symptoms,21,22,1.3199436222692036
+2,disease_on_drugs,21,20,0.534698025551684

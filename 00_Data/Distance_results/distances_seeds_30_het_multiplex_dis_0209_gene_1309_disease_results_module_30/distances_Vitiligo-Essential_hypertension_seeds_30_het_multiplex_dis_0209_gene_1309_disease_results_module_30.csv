@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.034482758620689724
+1,disease_on_symptoms,19,13,0.42661943319838036
+2,disease_on_drugs,25,28,0.09361185983827491

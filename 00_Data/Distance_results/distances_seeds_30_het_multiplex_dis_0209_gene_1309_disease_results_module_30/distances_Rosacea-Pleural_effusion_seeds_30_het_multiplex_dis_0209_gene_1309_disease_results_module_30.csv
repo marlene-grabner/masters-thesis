@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,18,18,0.38888888888888884
+2,disease_on_drugs,30,27,-0.019298245614034926

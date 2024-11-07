@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.10169491525423724
+1,disease_on_symptoms,20,16,0.20416666666666683
+2,disease_on_drugs,23,29,0.06680313689309192

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Rosacea nodes,sAB
+0,disease_on_genes,28,30,-0.13735632183908042
+1,disease_on_symptoms,17,18,0.16988795518207267
+2,disease_on_drugs,19,30,-0.12796276405298967

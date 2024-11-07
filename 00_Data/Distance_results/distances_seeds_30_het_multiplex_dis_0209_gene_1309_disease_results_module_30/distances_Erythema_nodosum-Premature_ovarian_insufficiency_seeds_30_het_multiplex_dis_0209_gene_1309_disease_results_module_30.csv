@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,22,18,0.7411616161616161
+2,disease_on_drugs,29,22,0.3217161472739565

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,25,0.30727272727272736
+1,disease_on_symptoms,16,17,1.4606172014260252
+2,disease_on_drugs,21,25,0.5662939958592133

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,27,30,0.03304093567251454
+1,disease_on_symptoms,17,15,-0.006862745098039191
+2,disease_on_drugs,24,29,0.05823031880286278

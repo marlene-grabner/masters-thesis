@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Emphysema nodes,sAB
+0,disease_on_genes,29,30,-0.2033898305084746
+1,disease_on_symptoms,19,18,0.21360834518729255
+2,disease_on_drugs,29,27,-0.08819102353585095

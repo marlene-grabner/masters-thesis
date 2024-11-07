@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,17,24,0.5848577235772359
+2,disease_on_drugs,24,20,0.15113636363636362

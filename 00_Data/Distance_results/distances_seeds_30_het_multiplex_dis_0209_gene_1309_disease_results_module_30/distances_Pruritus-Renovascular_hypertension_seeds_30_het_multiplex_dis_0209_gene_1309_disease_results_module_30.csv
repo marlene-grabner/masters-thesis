@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,27,30,-0.05360623781676421
+1,disease_on_symptoms,21,17,0.9770013268465281
+2,disease_on_drugs,27,29,0.004127896369275685

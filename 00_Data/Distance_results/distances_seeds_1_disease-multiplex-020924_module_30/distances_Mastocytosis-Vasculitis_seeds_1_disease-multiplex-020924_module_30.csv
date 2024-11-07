@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,18,24,0.2132936507936507
+1,disease_on_symptoms,28,19,0.9107542793153094
+2,disease_on_drugs,17,20,0.4587440381558028

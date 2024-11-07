@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,24,18,0.20042417815482505
+1,disease_on_symptoms,23,27,1.749339774557166
+2,disease_on_drugs,20,17,0.8056836248012718

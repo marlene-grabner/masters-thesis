@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Keloid nodes,sAB
+0,disease_on_genes,26,22,0.14685314685314688
+1,disease_on_symptoms,19,20,1.3876518218623481
+2,disease_on_drugs,24,19,0.4907945736434107

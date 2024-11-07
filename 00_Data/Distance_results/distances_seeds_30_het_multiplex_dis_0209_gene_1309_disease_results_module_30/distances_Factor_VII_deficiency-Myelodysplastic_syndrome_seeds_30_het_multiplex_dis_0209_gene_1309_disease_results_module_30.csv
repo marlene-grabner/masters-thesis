@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.11177248677248675
+1,disease_on_symptoms,19,17,0.4371345029239764
+2,disease_on_drugs,25,24,0.42724489795918363

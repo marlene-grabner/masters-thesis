@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Encephalitis nodes,sAB
+0,disease_on_genes,24,28,0.18704212454212454
+1,disease_on_symptoms,20,17,0.8122019077901432
+2,disease_on_drugs,22,18,0.3522727272727273

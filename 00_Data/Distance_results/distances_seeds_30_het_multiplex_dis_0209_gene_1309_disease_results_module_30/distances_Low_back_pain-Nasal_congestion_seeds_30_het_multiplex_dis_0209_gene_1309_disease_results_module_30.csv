@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,16,14,-0.18214285714285738
+2,disease_on_drugs,25,25,-0.1399999999999999

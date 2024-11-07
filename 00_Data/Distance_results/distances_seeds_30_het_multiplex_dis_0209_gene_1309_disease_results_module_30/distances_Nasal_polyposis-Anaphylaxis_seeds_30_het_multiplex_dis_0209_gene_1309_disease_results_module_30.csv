@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.05165692007797262
+1,disease_on_symptoms,20,14,0.4718487394957982
+2,disease_on_drugs,25,26,0.17720965309200598

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.43645224171539954
+1,disease_on_symptoms,22,22,1.5454545454545454
+2,disease_on_drugs,15,26,0.973170731707317

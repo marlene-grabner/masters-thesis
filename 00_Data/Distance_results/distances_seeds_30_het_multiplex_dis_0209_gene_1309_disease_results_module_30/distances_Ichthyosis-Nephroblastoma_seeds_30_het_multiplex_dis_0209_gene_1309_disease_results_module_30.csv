@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,28,29,0.05262077607812632
+1,disease_on_symptoms,18,20,0.7343567251461991
+2,disease_on_drugs,25,24,0.22273809523809507

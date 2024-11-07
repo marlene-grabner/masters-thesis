@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,30,27,-0.03421052631578947
+1,disease_on_symptoms,17,16,0.6320744206773621
+2,disease_on_drugs,26,23,0.1907378335949763

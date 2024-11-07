@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.1552790346907993
+1,disease_on_symptoms,17,23,1.1569053708439898
+2,disease_on_drugs,18,20,0.6517543859649122

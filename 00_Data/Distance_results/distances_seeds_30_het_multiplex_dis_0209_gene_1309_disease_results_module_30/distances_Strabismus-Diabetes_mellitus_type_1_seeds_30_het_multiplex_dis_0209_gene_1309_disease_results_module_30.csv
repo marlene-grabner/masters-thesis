@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,17,30,-0.0801001251564456
+1,disease_on_symptoms,24,18,0.7291666666666665
+2,disease_on_drugs,16,26,0.26682692307692313

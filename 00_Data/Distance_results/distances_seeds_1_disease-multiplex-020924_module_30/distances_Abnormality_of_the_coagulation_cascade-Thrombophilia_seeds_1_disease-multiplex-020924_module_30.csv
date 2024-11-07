@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,23,27,-0.3637359098228663
+1,disease_on_symptoms,23,18,-0.599446211853423
+2,disease_on_drugs,18,21,-0.004884004884005089

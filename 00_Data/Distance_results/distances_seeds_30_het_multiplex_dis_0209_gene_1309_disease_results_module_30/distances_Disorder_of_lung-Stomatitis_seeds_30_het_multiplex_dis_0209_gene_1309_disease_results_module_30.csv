@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,18,19,0.6517701912438756
+2,disease_on_drugs,24,29,-0.04786109303838648

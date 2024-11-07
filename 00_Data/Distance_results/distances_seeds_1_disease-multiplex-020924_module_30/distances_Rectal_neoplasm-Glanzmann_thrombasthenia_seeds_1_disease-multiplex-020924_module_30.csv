@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.10879629629629606
+1,disease_on_symptoms,21,21,0.7380952380952384
+2,disease_on_drugs,29,24,0.653803404901323

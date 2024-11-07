@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,27,30,-0.30116959064327486
+1,disease_on_symptoms,18,16,0.0008169934640522847
+2,disease_on_drugs,25,28,-0.1296495956873316

@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,27,-0.185185185185185
+1,disease_on_symptoms,19,22,0.506243435640098
+2,disease_on_drugs,26,26,0.05769230769230771

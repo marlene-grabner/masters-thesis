@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.08928571428571419
+1,disease_on_symptoms,19,21,0.14154135338345863
+2,disease_on_drugs,25,26,0.04025641025641025

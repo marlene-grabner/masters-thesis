@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,9,30,0.2350427350427351
+1,disease_on_symptoms,27,13,1.6485042735042734
+2,disease_on_drugs,9,29,0.9473684210526316

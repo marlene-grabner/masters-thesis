@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,21,30,0.39677871148459376
+1,disease_on_symptoms,22,13,1.3561438561438561
+2,disease_on_drugs,21,18,0.466117216117216

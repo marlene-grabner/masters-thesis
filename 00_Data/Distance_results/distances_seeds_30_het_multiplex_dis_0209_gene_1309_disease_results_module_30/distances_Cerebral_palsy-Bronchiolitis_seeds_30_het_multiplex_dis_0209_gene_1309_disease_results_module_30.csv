@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,0.06896551724137923
+1,disease_on_symptoms,13,25,0.8239676113360326
+2,disease_on_drugs,21,24,-0.11269841269841274

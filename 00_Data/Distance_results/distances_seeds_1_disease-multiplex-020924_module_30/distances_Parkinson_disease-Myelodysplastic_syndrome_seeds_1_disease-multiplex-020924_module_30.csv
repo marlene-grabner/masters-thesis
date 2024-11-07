@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,21,26,0.3378926038500507
+1,disease_on_symptoms,20,15,1.5452380952380955
+2,disease_on_drugs,19,21,1.2535714285714288

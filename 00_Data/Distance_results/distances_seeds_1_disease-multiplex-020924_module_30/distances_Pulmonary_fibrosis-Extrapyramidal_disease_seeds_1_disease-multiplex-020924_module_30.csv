@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,24,14,0.4697681704260652
+1,disease_on_symptoms,22,25,2.4105029013539654
+2,disease_on_drugs,24,10,0.6558823529411764

@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.15129280223619834
+1,disease_on_symptoms,23,19,0.5367767244197452
+2,disease_on_drugs,26,24,0.3219871794871796

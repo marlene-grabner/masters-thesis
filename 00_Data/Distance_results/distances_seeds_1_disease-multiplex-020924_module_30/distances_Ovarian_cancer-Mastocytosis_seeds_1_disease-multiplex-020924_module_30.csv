@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,27,18,0.32777777777777795
+1,disease_on_symptoms,17,28,1.024299719887955
+2,disease_on_drugs,25,17,0.7507002801120448

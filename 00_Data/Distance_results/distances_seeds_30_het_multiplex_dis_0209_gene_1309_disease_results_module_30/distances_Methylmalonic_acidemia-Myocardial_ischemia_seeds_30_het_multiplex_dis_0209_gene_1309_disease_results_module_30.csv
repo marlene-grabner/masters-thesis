@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,-0.25303030303030294
+1,disease_on_symptoms,17,19,0.23383212934296527
+2,disease_on_drugs,21,30,-0.14117647058823524

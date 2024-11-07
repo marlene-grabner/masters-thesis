@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Malnutrition nodes,sAB
+0,disease_on_genes,22,26,0.21911421911421924
+1,disease_on_symptoms,22,18,1.0459595959595962
+2,disease_on_drugs,14,23,0.6766409266409266

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,21,0.2351395730706074
+1,disease_on_symptoms,23,22,0.9602986385595083
+2,disease_on_drugs,27,20,0.667750197005516

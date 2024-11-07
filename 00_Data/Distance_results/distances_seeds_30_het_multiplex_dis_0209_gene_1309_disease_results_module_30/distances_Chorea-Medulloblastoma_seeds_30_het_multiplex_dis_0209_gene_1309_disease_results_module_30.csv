@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,17,22,0.8635678047442754
+2,disease_on_drugs,24,26,0.2972435897435899

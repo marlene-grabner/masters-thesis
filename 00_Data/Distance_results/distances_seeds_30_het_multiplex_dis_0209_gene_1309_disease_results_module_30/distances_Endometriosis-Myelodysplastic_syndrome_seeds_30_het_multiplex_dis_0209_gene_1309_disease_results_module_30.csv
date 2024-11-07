@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.019047619047619202
+1,disease_on_symptoms,16,17,0.21685606060606055
+2,disease_on_drugs,30,24,0.17685185185185182

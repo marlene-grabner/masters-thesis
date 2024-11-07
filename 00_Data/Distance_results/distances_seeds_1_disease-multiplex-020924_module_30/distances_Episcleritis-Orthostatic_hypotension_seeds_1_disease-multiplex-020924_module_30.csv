@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666679
+1,disease_on_symptoms,22,12,1.3139483065953654
+2,disease_on_drugs,29,17,0.6017726430902197

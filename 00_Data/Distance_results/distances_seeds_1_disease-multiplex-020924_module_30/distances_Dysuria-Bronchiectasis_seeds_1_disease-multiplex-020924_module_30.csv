@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.08210598090785104
+1,disease_on_symptoms,16,15,0.7766801075268819
+2,disease_on_drugs,23,26,0.286738106613883

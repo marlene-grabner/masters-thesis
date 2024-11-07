@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,0.12719780219780197
+1,disease_on_symptoms,21,23,1.504093732354602
+2,disease_on_drugs,24,14,1.1578947368421053

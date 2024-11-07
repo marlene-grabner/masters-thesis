@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Meningitis nodes,sAB
+0,disease_on_genes,22,29,0.174211690945971
+1,disease_on_symptoms,19,20,0.6421390013495276
+2,disease_on_drugs,18,26,0.1540404040404042

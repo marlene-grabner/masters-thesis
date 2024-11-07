@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,29,30,0.05112994350282496
+1,disease_on_symptoms,25,24,0.2835374149659864
+2,disease_on_drugs,28,28,0.0714285714285714

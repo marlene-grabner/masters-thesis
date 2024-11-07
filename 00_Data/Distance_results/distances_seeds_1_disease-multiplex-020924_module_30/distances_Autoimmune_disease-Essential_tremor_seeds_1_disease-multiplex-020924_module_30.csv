@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,22,21,0.32769556025369995
+1,disease_on_symptoms,19,20,1.5631916329284752
+2,disease_on_drugs,19,19,0.631578947368421

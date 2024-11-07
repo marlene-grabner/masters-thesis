@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.0
+1,disease_on_symptoms,20,20,0.2999999999999998
+2,disease_on_drugs,25,30,0.3872727272727272

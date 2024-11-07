@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,28,0.07272727272727275
+1,disease_on_symptoms,17,22,0.17612779377485244
+2,disease_on_drugs,17,15,-0.04607843137254908

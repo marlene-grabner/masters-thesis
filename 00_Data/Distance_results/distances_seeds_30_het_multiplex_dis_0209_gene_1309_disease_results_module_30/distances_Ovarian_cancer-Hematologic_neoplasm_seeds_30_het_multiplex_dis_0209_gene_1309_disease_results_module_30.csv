@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,17,18,0.31946778711484614
+2,disease_on_drugs,17,27,0.031194295900178304

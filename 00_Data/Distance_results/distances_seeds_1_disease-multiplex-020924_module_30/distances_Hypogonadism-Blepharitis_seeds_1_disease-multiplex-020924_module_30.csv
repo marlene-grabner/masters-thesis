@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.2198979591836736
+1,disease_on_symptoms,12,27,1.3938746438746437
+2,disease_on_drugs,30,19,0.6653956319369851

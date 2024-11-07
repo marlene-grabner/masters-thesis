@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.09212962962962945
+1,disease_on_symptoms,14,19,0.39126224652540453
+2,disease_on_drugs,26,20,0.2568561872909696

@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.625
+1,disease_on_symptoms,9,15,0.7694444444444446
+2,disease_on_drugs,11,21,0.2893668831168832

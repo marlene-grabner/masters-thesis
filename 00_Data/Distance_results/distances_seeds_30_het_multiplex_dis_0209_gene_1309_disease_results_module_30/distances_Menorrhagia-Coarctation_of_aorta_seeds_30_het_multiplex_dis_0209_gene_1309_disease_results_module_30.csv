@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555569
+1,disease_on_symptoms,16,19,0.5945018796992483
+2,disease_on_drugs,23,24,0.2788120567375889

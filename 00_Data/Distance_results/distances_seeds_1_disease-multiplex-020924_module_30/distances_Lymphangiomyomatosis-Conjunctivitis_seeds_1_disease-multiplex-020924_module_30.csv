@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.22676450034940587
+1,disease_on_symptoms,19,27,1.3930417832019661
+2,disease_on_drugs,22,26,0.32706876456876466

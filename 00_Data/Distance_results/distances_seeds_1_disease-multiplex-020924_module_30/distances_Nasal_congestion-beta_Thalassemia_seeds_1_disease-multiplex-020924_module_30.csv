@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.49720279720279725
+1,disease_on_symptoms,15,21,2.6079365079365084
+2,disease_on_drugs,23,6,1.0874562718640681

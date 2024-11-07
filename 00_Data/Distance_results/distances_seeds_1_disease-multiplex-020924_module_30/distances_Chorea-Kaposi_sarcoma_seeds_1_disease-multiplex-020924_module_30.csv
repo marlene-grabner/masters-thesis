@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,14,15,0.6562397372742199
+1,disease_on_symptoms,27,27,2.148148148148148
+2,disease_on_drugs,8,13,1.2232142857142856

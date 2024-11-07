@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,20,25,0.07999999999999985
+1,disease_on_symptoms,23,20,1.387462082912032
+2,disease_on_drugs,18,21,0.5042735042735043

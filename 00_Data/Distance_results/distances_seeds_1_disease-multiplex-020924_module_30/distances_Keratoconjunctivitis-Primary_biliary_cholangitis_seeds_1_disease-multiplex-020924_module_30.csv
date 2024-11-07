@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,29,26,0.4353146853146854
+1,disease_on_symptoms,25,17,0.6936134453781513
+2,disease_on_drugs,27,18,0.08888888888888902

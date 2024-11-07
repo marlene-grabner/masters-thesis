@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,-0.0535714285714286
+1,disease_on_symptoms,20,23,0.1252275025278058
+2,disease_on_drugs,26,26,0.05769230769230793

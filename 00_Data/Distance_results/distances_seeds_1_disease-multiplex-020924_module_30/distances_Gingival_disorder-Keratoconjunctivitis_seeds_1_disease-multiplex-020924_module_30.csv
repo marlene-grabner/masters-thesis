@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,21,29,-0.13142857142857145
+1,disease_on_symptoms,26,25,0.5242533936651583
+2,disease_on_drugs,20,27,0.2163120567375889

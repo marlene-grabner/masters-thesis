@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,23,27,-0.15555555555555556
+1,disease_on_symptoms,22,22,0.7954545454545454
+2,disease_on_drugs,21,20,-0.1424216027874563

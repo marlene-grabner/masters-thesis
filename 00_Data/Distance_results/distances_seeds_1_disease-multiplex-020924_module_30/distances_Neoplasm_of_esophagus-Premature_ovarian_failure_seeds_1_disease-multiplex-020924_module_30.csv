@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,21,28,0.061224489795918435
+1,disease_on_symptoms,24,21,0.8958333333333335
+2,disease_on_drugs,20,21,0.17128339140534243

@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,23,26,-0.26428230154938226
+1,disease_on_symptoms,19,22,0.7833761232349168
+2,disease_on_drugs,21,25,-0.3615734989648034

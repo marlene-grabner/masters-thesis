@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333348
+1,disease_on_symptoms,18,22,-0.33358585858585865
+2,disease_on_drugs,26,27,-0.11585496962855468

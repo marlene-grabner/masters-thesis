@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666683
+1,disease_on_symptoms,15,12,-0.02129629629629637
+2,disease_on_drugs,29,17,-0.003174883146662033

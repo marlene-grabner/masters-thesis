@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Angioedema nodes,sAB
+0,disease_on_genes,23,29,0.25025879917184257
+1,disease_on_symptoms,25,17,0.6378711484593838
+2,disease_on_drugs,22,25,0.5488394584139262

@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.32175141242937844
+1,disease_on_symptoms,21,17,-0.6511130768096711
+2,disease_on_drugs,29,27,-0.36054095967889066

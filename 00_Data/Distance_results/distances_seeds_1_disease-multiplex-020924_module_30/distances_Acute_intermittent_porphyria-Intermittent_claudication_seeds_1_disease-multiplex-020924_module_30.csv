@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.3560480693459418
+1,disease_on_symptoms,20,24,2.2428030303030306
+2,disease_on_drugs,15,18,0.6767676767676767

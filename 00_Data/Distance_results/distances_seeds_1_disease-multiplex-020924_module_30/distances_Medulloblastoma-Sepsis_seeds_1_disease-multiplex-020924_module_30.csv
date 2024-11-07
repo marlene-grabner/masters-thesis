@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Sepsis nodes,sAB
+0,disease_on_genes,26,22,0.365530303030303
+1,disease_on_symptoms,19,23,1.655170535033235
+2,disease_on_drugs,24,17,0.9691236250597801

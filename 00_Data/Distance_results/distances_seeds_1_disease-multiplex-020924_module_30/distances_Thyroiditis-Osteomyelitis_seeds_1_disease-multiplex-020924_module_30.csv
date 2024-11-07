@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,-0.5094720965309201
+1,disease_on_symptoms,28,23,-0.4016410912190964
+2,disease_on_drugs,23,23,-0.4782608695652172

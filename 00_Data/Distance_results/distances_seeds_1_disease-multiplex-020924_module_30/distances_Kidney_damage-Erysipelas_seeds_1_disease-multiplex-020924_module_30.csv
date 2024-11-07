@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Erysipelas nodes,sAB
+0,disease_on_genes,20,28,0.15595238095238106
+1,disease_on_symptoms,26,20,0.787123745819398
+2,disease_on_drugs,13,27,0.25769230769230766

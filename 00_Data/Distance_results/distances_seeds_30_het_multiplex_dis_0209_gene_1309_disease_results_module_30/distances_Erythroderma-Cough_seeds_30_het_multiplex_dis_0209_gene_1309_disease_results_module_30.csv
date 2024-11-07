@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.08771929824561409
+1,disease_on_symptoms,20,22,0.7866883116883119
+2,disease_on_drugs,29,24,-0.08756235090002162

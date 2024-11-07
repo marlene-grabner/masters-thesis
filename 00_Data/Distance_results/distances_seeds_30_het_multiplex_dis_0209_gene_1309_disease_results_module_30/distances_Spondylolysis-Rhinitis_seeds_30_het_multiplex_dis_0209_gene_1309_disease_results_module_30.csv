@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,28,30,0.051724137931034475
+1,disease_on_symptoms,17,12,0.10987153482082501
+2,disease_on_drugs,19,23,0.07088373106679735

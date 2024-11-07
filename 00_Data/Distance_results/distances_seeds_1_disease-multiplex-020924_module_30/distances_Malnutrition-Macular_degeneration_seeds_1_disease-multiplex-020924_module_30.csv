@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,26,30,0.24844322344322345
+1,disease_on_symptoms,18,15,1.0414141414141413
+2,disease_on_drugs,23,21,0.8398268398268398

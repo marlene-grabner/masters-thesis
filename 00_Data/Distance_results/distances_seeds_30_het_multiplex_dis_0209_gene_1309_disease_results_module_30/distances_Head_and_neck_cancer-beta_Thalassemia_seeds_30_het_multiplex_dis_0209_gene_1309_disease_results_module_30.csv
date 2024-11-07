@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,0.07017543859649122
+1,disease_on_symptoms,22,13,0.3899600399600398
+2,disease_on_drugs,23,24,-0.06080403946962698

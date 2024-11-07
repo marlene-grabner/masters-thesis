@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.2456140350877194
+1,disease_on_symptoms,16,21,1.2411116473616473
+2,disease_on_drugs,28,24,0.5199175824175823

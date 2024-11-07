@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,17,30,0.2199415936587401
+1,disease_on_symptoms,28,20,1.6113095238095236
+2,disease_on_drugs,9,30,0.3846153846153846

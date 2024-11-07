@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,29,25,0.47111111111111104
+1,disease_on_symptoms,18,13,1.398125172318721
+2,disease_on_drugs,22,16,0.9391447368421053

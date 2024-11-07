@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,25,0.3690909090909089
+1,disease_on_symptoms,19,13,1.714574898785425
+2,disease_on_drugs,29,16,0.1517480842911878

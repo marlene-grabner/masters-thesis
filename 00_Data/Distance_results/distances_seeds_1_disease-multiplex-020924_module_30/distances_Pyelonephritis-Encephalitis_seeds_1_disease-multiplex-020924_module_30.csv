@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,23,28,-0.33622579466569236
+1,disease_on_symptoms,21,17,-0.05521155830753366
+2,disease_on_drugs,19,18,-0.5135135135135135

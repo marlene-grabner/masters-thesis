@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,20,0.9971383147853736
+2,disease_on_drugs,28,24,0.40476190476190466

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.06929824561403508
+1,disease_on_symptoms,22,21,0.695736434108527
+2,disease_on_drugs,27,26,0.2449201741654572

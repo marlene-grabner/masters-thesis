@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,29,24,0.13598901098901095
+1,disease_on_symptoms,17,17,0.2941176470588236
+2,disease_on_drugs,25,23,0.30978260869565233

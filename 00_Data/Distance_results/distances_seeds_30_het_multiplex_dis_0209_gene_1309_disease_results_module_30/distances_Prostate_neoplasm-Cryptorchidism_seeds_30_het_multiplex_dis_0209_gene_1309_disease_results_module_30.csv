@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,21,23,-0.06827592697157914
+1,disease_on_symptoms,20,19,1.076012145748988
+2,disease_on_drugs,21,21,-0.04761904761904767

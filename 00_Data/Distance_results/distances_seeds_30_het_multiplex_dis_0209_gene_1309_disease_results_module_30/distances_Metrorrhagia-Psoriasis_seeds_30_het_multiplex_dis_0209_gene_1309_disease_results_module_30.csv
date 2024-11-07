@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Psoriasis nodes,sAB
+0,disease_on_genes,29,30,-0.1578947368421053
+1,disease_on_symptoms,17,17,0.11764705882352944
+2,disease_on_drugs,26,30,-0.06080586080586059

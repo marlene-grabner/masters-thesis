@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.05660377358490565
+1,disease_on_symptoms,24,23,0.49038313290163416
+2,disease_on_drugs,27,22,0.043736686593829566

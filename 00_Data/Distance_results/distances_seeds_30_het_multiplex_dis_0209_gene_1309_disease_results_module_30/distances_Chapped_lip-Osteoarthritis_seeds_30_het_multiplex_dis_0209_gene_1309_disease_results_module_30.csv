@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,26,-0.2499999999999999
+1,disease_on_symptoms,20,22,0.49642857142857166
+2,disease_on_drugs,23,25,-0.20862318840579708

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,17,15,-0.19803921568627447
+2,disease_on_drugs,25,21,-0.5330020703933747

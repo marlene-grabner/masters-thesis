@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,0.019607843137254832
+1,disease_on_symptoms,19,17,0.27631578947368407
+2,disease_on_drugs,22,24,0.06472332015810278

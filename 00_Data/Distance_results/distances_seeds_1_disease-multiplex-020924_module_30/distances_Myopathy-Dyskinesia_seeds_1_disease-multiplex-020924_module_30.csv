@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,18,24,0.36805555555555536
+1,disease_on_symptoms,21,17,1.3134306354120593
+2,disease_on_drugs,6,23,0.5574712643678161

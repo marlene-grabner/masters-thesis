@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,18,0.3305555555555555
+1,disease_on_symptoms,17,28,1.4543650793650795
+2,disease_on_drugs,26,17,0.5042355045775018

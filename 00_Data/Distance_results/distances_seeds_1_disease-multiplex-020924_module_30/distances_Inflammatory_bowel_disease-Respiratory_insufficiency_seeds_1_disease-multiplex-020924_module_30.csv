@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,17,25,0.04384146341463402
+1,disease_on_symptoms,27,20,-0.09931048069345949
+2,disease_on_drugs,14,14,-0.3214285714285714

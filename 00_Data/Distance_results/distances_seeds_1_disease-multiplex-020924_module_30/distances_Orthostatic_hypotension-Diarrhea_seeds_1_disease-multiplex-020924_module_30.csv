@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.17144249512670573
+1,disease_on_symptoms,12,19,1.1548528579513297
+2,disease_on_drugs,17,26,0.39321793117962733

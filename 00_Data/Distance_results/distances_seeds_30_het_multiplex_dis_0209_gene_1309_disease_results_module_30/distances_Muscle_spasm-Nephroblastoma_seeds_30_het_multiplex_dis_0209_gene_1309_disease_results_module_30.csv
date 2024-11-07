@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,29,-0.06808883693746337
+1,disease_on_symptoms,15,20,0.7083333333333335
+2,disease_on_drugs,29,24,0.13132997180654948

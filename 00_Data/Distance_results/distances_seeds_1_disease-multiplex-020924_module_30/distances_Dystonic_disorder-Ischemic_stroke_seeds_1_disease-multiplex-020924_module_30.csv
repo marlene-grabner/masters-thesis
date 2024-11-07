@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,17,30,0.4827075511055485
+1,disease_on_symptoms,28,16,2.823051948051948
+2,disease_on_drugs,9,23,0.7567934782608696

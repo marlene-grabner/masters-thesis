@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,29,26,0.07648902821316605
+1,disease_on_symptoms,15,19,0.46037151702786394
+2,disease_on_drugs,29,22,0.24167127666113464

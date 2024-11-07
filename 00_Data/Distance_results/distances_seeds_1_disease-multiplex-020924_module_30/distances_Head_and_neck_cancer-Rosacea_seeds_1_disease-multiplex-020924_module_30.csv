@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,0.21218323586744647
+1,disease_on_symptoms,22,17,0.5194364459070342
+2,disease_on_drugs,24,27,0.5857843137254903

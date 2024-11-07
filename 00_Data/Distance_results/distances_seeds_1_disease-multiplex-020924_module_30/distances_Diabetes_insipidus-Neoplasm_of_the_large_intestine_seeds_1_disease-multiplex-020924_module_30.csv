@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,24,20,0.1587121212121212
+1,disease_on_symptoms,18,25,0.4504651162790696
+2,disease_on_drugs,18,19,0.7852062588904694

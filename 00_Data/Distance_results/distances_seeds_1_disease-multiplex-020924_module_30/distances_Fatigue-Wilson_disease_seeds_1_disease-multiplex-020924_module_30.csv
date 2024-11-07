@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,26,23,0.1385570950788344
+1,disease_on_symptoms,21,19,2.0966165413533835
+2,disease_on_drugs,26,11,0.9345114345114347

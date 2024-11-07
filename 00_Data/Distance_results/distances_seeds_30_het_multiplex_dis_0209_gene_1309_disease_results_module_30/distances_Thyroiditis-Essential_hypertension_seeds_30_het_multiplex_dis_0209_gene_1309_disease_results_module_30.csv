@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.12068965517241381
+1,disease_on_symptoms,21,13,-0.26966171083818136
+2,disease_on_drugs,29,28,-0.08717915478351035

@@ -1,0 +1,4 @@
+,Layer,Hyperpigmentation_of_the_skin nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.038461538461538436
+1,disease_on_symptoms,17,21,0.6261978475600767
+2,disease_on_drugs,28,17,0.37829131652661063

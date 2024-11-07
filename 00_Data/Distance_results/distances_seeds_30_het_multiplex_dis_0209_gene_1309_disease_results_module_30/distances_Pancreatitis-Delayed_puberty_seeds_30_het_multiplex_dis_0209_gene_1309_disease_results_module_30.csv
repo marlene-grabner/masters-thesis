@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,17,16,-0.2462121212121211
+2,disease_on_drugs,30,29,-0.18622637833625544

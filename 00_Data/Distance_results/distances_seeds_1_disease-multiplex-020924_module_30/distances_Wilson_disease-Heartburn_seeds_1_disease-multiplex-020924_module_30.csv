@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Heartburn nodes,sAB
+0,disease_on_genes,23,24,0.12756321307431406
+1,disease_on_symptoms,19,20,1.5106275303643726
+2,disease_on_drugs,11,22,1.2500000000000002

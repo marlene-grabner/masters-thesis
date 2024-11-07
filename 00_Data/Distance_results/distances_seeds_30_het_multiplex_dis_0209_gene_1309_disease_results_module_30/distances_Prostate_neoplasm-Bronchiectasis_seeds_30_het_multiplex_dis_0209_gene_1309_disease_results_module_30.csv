@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,21,30,0.07422969187675088
+1,disease_on_symptoms,20,19,0.29868421052631566
+2,disease_on_drugs,21,25,0.31064182194616974

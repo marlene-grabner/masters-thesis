@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,25,30,-0.034848484848484795
+1,disease_on_symptoms,20,19,0.43137651821862333
+2,disease_on_drugs,18,28,0.1176673567977915

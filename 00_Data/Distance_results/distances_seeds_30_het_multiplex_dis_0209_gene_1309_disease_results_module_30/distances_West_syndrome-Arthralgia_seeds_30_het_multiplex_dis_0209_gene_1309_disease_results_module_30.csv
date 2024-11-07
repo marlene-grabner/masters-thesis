@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,13,17,0.5788838612368024
+2,disease_on_drugs,19,30,-0.012406015037594198

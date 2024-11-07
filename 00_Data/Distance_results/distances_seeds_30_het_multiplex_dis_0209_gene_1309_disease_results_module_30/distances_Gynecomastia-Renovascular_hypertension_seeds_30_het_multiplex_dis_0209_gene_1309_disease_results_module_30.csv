@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,15,17,0.33210784313725483
+2,disease_on_drugs,29,29,-0.0862068965517242

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,22,17,0.9473810503222273
+2,disease_on_drugs,24,28,0.35347985347985356

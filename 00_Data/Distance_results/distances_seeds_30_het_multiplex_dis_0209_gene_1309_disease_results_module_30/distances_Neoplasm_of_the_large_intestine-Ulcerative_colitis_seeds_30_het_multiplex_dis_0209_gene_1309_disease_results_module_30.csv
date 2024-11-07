@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,22,20,0.047402597402597335
+2,disease_on_drugs,29,27,-0.08682266009852235

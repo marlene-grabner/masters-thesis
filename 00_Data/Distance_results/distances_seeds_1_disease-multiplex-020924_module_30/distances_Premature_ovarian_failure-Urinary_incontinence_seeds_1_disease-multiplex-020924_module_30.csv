@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,28,26,0.19871794871794868
+1,disease_on_symptoms,21,20,1.0965447154471542
+2,disease_on_drugs,21,20,0.537746806039489

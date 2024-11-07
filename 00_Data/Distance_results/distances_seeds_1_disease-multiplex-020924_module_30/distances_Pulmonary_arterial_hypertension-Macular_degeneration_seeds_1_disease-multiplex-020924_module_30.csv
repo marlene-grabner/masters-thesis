@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,28,30,0.3620279146141214
+1,disease_on_symptoms,18,15,0.6853535353535358
+2,disease_on_drugs,26,21,0.7229171537682175

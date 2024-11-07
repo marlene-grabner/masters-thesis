@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,21,17,1.015406162464986
+2,disease_on_drugs,27,25,0.34225071225071235

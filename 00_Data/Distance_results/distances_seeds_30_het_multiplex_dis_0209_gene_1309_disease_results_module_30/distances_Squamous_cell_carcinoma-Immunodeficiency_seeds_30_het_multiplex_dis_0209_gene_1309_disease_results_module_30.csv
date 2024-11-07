@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.0535714285714286
+1,disease_on_symptoms,22,21,0.7194452833987717
+2,disease_on_drugs,30,26,0.2953296703296704

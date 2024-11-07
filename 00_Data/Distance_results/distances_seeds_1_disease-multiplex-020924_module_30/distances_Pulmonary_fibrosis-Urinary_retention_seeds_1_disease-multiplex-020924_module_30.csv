@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,24,30,0.19958586883029072
+1,disease_on_symptoms,22,18,1.1156565656565656
+2,disease_on_drugs,24,19,0.10709914320685443

@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.017282430213464872
+1,disease_on_symptoms,15,20,0.29047619047619033
+2,disease_on_drugs,26,28,0.07264957264957284

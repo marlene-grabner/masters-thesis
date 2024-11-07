@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,27,27,0.11111111111111116
+1,disease_on_symptoms,17,22,1.2924379542026603
+2,disease_on_drugs,24,24,0.5625000000000002

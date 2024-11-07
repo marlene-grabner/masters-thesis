@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Constipation nodes,sAB
+0,disease_on_genes,27,30,0.10224171539961002
+1,disease_on_symptoms,19,17,0.5307877536979702
+2,disease_on_drugs,20,27,0.3181836091410559

@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,28,0.34609187109187123
+1,disease_on_symptoms,21,19,1.1085213032581456
+2,disease_on_drugs,24,26,0.5399358974358974

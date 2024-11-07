@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.0185185185185186
+1,disease_on_symptoms,19,21,0.3850877192982458
+2,disease_on_drugs,29,27,0.14338168217478575

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,14,25,0.12040293040293037
+1,disease_on_symptoms,23,23,2.0869565217391304
+2,disease_on_drugs,14,23,0.4970622796709754

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,0.3793103448275863
+1,disease_on_symptoms,18,20,1.9785087719298247
+2,disease_on_drugs,30,26,1.1261904761904762

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Sepsis nodes,sAB
+0,disease_on_genes,25,22,0.12423597678916809
+1,disease_on_symptoms,18,23,1.645634499823259
+2,disease_on_drugs,23,17,0.5411764705882354

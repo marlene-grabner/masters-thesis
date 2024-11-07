@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.15384615384615374
+1,disease_on_symptoms,21,21,1.0
+2,disease_on_drugs,23,21,0.16356107660455477

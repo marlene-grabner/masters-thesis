@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,28,30,0.05110837438423643
+1,disease_on_symptoms,19,15,0.547265221878225
+2,disease_on_drugs,25,25,0.2799999999999998

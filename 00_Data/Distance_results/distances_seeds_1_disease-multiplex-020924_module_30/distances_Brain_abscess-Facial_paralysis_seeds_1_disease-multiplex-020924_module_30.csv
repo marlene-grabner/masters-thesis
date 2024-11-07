@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,0.08881791198864364
+1,disease_on_symptoms,21,23,0.9781197063805762
+2,disease_on_drugs,23,14,0.4101057579318448

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.016666666666666607
+1,disease_on_symptoms,21,18,1.3574481074481075
+2,disease_on_drugs,29,24,0.37959499024072874

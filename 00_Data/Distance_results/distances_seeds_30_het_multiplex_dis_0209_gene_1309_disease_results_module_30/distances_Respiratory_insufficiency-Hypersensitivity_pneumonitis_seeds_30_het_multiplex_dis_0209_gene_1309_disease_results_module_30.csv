@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,27,25,-0.21153846153846156
+1,disease_on_symptoms,21,20,-0.14921602787456445
+2,disease_on_drugs,25,25,-0.19999999999999973

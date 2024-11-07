@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,21,30,0.23809523809523792
+1,disease_on_symptoms,24,22,1.6084486166007905
+2,disease_on_drugs,14,28,0.5654761904761905

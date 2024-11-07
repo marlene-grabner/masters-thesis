@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,26,0.06878787878787884
+1,disease_on_symptoms,20,19,0.9917678812415653
+2,disease_on_drugs,27,24,0.9607843137254901

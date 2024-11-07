@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.15504926108374373
+1,disease_on_symptoms,17,19,0.6309769521843829
+2,disease_on_drugs,27,26,0.5656748911465894

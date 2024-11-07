@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.23727839470095446
+1,disease_on_symptoms,12,16,-0.23809523809523792
+2,disease_on_drugs,17,24,-0.005021520803443202

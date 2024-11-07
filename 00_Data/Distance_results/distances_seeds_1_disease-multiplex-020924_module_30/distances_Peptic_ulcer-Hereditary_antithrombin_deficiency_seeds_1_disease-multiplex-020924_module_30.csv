@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,28,28,0.2678571428571428
+1,disease_on_symptoms,14,15,2.9554187192118224
+2,disease_on_drugs,28,20,1.2666666666666666

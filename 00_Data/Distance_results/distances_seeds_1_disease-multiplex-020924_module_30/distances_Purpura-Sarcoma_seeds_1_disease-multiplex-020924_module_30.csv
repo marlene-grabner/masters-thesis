@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.2952488687782806
+1,disease_on_symptoms,17,26,2.0021835209933707
+2,disease_on_drugs,20,21,0.975609756097561

@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,24,27,-0.2941176470588235
+1,disease_on_symptoms,21,21,-0.40476190476190466
+2,disease_on_drugs,24,27,-0.3764978213507626

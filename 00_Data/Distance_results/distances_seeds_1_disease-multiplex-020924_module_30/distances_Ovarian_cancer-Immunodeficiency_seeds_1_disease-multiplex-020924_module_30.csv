@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,22,0.3399814471243041
+1,disease_on_symptoms,17,19,1.4550223598211214
+2,disease_on_drugs,25,18,0.5071059431524549

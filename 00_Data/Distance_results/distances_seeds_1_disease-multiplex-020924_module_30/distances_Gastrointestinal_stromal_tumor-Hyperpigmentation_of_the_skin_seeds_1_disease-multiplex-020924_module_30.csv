@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,23,24,0.10938945420906565
+1,disease_on_symptoms,20,23,1.9981799797775532
+2,disease_on_drugs,19,12,0.7096774193548387

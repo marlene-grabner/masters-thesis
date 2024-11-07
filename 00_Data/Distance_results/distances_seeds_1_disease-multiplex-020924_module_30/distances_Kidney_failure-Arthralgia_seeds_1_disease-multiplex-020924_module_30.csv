@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Arthralgia nodes,sAB
+0,disease_on_genes,20,30,0.020000000000000018
+1,disease_on_symptoms,23,19,1.1072790672333004
+2,disease_on_drugs,18,30,0.2222222222222221

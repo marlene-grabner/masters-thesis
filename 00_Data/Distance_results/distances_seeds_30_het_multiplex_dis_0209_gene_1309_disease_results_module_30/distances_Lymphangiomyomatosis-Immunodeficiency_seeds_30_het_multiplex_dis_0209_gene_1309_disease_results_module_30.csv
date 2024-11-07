@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,26,0.03846153846153855
+1,disease_on_symptoms,17,21,0.5905941323897979
+2,disease_on_drugs,24,26,0.378782051282051

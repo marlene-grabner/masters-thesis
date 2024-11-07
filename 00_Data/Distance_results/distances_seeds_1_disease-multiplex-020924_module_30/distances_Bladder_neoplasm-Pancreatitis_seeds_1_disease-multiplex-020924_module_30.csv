@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,26,30,0.36190476190476195
+1,disease_on_symptoms,20,20,1.3499999999999999
+2,disease_on_drugs,25,30,1.018181818181818

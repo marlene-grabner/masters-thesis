@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.2754629629629628
+1,disease_on_symptoms,21,20,1.7587979094076656
+2,disease_on_drugs,27,19,0.582379862700229

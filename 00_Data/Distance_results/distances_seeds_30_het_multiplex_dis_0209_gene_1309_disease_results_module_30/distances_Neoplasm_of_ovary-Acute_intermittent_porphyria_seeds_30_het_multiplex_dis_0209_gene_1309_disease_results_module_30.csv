@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.17456140350877192
+1,disease_on_symptoms,22,17,0.9197175373645963
+2,disease_on_drugs,29,24,-0.023815332899588038

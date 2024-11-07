@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,28,30,0.01662561576354693
+1,disease_on_symptoms,18,14,0.5545634920634921
+2,disease_on_drugs,25,24,-0.04171768707482992

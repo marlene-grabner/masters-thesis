@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.1578947368421053
+1,disease_on_symptoms,21,21,-0.47619047619047605
+2,disease_on_drugs,29,26,0.09738365083192657

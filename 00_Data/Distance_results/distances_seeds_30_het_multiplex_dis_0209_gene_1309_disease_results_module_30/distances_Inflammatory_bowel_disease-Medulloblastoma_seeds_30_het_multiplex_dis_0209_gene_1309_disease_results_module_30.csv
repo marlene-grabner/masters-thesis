@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.21052631578947367
+1,disease_on_symptoms,20,22,-0.5074675324675324
+2,disease_on_drugs,27,26,-0.2463849916680103

@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Cellulitis nodes,sAB
+0,disease_on_genes,20,22,0.41867015098722393
+1,disease_on_symptoms,23,26,1.0499624599003483
+2,disease_on_drugs,18,12,0.8999999999999999

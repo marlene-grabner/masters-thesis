@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,30,29,0.27118644067796605
+1,disease_on_symptoms,16,20,1.3104166666666666
+2,disease_on_drugs,28,20,0.7910714285714286

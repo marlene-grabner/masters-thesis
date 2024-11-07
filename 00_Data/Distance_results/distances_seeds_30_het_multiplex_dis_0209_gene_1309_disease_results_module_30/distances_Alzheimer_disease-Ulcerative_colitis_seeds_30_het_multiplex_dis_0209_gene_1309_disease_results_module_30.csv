@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,23,27,-0.07999999999999996
+1,disease_on_symptoms,19,20,0.7701754385964912
+2,disease_on_drugs,19,27,-0.004576659038901365

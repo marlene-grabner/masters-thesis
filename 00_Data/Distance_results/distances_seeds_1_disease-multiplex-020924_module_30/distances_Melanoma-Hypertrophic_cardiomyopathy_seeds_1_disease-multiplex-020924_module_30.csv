@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hypertrophic_cardiomyopathy nodes,sAB
+0,disease_on_genes,24,30,0.3925925925925926
+1,disease_on_symptoms,23,17,3.118925831202046
+2,disease_on_drugs,22,17,0.5641025641025641

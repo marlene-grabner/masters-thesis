@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.14035087719298245
+1,disease_on_symptoms,14,18,0.3159722222222223
+2,disease_on_drugs,22,27,0.06411049268192115

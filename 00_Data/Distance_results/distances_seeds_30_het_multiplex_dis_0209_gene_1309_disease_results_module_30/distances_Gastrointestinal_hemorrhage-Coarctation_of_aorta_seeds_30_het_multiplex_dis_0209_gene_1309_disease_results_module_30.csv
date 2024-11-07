@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,28,27,-0.10910293410293415
+1,disease_on_symptoms,20,19,0.25917678812415645
+2,disease_on_drugs,27,24,0.07883986928104592

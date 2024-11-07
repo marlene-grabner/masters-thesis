@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,28,30,0.1206896551724137
+1,disease_on_symptoms,22,15,0.5737919737919739
+2,disease_on_drugs,15,23,-0.05957284515636907

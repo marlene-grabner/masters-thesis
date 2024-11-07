@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,19,17,-0.806845545235638
+2,disease_on_drugs,30,30,-0.4

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Myopathy nodes,sAB
+0,disease_on_genes,27,18,0.47777777777777763
+1,disease_on_symptoms,17,21,0.9233377561550937
+2,disease_on_drugs,24,6,0.26666666666666683

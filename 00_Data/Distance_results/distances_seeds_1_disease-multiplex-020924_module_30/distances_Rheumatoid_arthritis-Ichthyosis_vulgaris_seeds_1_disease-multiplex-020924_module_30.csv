@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,27,27,0.12962962962962976
+1,disease_on_symptoms,15,21,1.5587301587301587
+2,disease_on_drugs,25,27,0.3838461538461537

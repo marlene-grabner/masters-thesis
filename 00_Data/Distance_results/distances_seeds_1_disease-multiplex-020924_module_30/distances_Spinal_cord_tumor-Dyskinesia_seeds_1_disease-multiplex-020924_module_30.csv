@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,22,24,0.03746706192358373
+1,disease_on_symptoms,22,17,0.6748937337172634
+2,disease_on_drugs,14,23,0.3523166023166022

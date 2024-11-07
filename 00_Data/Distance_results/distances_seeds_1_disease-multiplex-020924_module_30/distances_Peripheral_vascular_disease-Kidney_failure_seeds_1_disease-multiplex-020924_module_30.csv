@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,23,20,-0.20717896865520724
+1,disease_on_symptoms,16,23,0.3353191192865106
+2,disease_on_drugs,22,18,0.0888888888888888

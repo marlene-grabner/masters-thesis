@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,24,25,0.36857142857142855
+1,disease_on_symptoms,23,21,2.8134763786937698
+2,disease_on_drugs,22,20,0.9988095238095238

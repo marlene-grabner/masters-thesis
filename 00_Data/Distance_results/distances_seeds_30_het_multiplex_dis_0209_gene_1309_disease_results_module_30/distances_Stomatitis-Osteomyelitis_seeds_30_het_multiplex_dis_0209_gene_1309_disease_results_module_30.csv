@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,19,22,-0.4398996382308322
+2,disease_on_drugs,29,28,-0.27954584737706323

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Glaucoma nodes,sAB
+0,disease_on_genes,24,30,0.3222222222222222
+1,disease_on_symptoms,23,14,1.206479771697163
+2,disease_on_drugs,22,30,0.7935897435897437

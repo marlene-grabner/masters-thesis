@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,16,30,0.2931159420289855
+1,disease_on_symptoms,26,16,1.9917582417582418
+2,disease_on_drugs,14,23,0.8589894242068157

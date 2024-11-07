@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.19200779727095507
+1,disease_on_symptoms,18,18,1.5833333333333335
+2,disease_on_drugs,27,21,0.4639550264550265

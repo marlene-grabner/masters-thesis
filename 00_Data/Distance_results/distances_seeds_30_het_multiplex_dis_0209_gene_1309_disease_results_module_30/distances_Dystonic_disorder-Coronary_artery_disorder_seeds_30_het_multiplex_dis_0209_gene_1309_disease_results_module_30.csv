@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.09146841673502859
+1,disease_on_symptoms,17,19,1.8404712762297901
+2,disease_on_drugs,26,22,0.35620629370629375

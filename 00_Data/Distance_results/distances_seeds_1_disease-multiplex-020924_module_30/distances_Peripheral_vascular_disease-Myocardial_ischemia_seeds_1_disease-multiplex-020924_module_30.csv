@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,23,30,0.05824446267432304
+1,disease_on_symptoms,16,13,1.7454409814323606
+2,disease_on_drugs,22,23,0.04589371980676349

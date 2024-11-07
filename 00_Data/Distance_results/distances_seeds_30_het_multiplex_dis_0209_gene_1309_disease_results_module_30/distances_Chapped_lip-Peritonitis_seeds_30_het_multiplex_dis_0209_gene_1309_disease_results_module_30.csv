@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,-0.0357142857142857
+1,disease_on_symptoms,20,14,0.4628151260504203
+2,disease_on_drugs,23,24,-0.042187018193031056

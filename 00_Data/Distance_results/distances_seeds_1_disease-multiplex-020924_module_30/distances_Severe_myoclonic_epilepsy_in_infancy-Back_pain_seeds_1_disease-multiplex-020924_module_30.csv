@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,0.3999999999999999
+1,disease_on_symptoms,16,16,1.25
+2,disease_on_drugs,21,23,0.6569264069264069

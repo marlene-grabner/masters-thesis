@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,26,30,-0.0400183150183151
+1,disease_on_symptoms,28,20,0.6083333333333332
+2,disease_on_drugs,23,30,0.32008476893628646

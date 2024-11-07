@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,30,-0.038484848484848566
+1,disease_on_symptoms,21,25,0.5151138716356107
+2,disease_on_drugs,24,29,0.3350140967252222

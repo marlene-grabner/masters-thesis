@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.05540293040293043
+1,disease_on_symptoms,19,19,0.8684210526315792
+2,disease_on_drugs,24,26,0.33993589743589725

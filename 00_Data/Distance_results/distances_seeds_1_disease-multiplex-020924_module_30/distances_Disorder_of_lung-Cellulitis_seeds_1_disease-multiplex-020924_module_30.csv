@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,22,0.35350529100529116
+1,disease_on_symptoms,17,26,1.5886035988635168
+2,disease_on_drugs,20,12,0.34375

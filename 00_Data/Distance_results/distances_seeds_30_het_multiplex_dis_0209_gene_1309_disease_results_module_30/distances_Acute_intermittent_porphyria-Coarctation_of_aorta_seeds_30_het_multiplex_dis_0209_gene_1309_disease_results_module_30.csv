@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,-0.20370370370370383
+1,disease_on_symptoms,17,19,0.7837117303061576
+2,disease_on_drugs,24,24,-0.08333333333333326

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,28,24,-0.038461538461538436
+1,disease_on_symptoms,17,19,0.17629858961128297
+2,disease_on_drugs,25,24,0.02198979591836725

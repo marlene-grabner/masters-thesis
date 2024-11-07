@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,11,19,0.2194577352472089
+2,disease_on_drugs,21,30,-0.13949579831932768

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,26,0.2333333333333334
+1,disease_on_symptoms,12,17,1.1129986477349563
+2,disease_on_drugs,17,23,0.17384910485933514

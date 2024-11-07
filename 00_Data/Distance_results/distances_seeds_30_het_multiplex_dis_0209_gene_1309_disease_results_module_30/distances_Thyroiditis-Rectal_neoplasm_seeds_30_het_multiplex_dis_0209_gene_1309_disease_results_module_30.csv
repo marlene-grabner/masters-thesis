@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,21,20,-0.11425667828106878
+2,disease_on_drugs,29,29,0.017241379310344973

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,19,23,0.08940830336711336
+2,disease_on_drugs,30,26,0.3306776556776556

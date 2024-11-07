@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.19757575757575774
+1,disease_on_symptoms,16,25,1.2098475609756094
+2,disease_on_drugs,30,21,0.4509803921568627

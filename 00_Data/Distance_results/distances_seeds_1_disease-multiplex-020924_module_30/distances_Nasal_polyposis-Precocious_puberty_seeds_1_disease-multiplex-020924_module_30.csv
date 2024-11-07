@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,15,30,0.4444444444444444
+1,disease_on_symptoms,25,14,0.7706959706959706
+2,disease_on_drugs,10,24,0.8705882352941177

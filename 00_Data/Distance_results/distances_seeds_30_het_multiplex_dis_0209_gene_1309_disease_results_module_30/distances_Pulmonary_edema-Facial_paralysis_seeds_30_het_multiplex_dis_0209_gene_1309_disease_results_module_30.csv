@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.23076923076923084
+1,disease_on_symptoms,11,21,1.1094426406926408
+2,disease_on_drugs,27,17,0.5179738562091503

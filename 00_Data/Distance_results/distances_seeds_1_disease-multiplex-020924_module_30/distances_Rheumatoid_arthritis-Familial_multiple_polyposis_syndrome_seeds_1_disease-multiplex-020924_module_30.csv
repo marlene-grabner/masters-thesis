@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,27,18,0.06666666666666665
+1,disease_on_symptoms,15,26,-0.2948092557848656
+2,disease_on_drugs,25,10,-0.1485714285714287

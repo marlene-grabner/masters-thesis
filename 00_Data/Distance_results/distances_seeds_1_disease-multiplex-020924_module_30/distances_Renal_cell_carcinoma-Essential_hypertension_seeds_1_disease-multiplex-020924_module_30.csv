@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,25,28,0.05623989218328829
+1,disease_on_symptoms,24,14,1.9959273182957395
+2,disease_on_drugs,20,28,0.7351190476190477

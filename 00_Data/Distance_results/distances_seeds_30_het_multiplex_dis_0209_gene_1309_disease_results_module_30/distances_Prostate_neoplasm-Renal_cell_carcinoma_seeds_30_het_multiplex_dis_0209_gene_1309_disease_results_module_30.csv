@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,21,27,-0.39649470899470896
+1,disease_on_symptoms,20,22,-0.3373376623376625
+2,disease_on_drugs,21,22,-0.46516661632940703

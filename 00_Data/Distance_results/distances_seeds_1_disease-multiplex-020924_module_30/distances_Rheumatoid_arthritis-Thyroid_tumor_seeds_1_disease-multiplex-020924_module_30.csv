@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,0.15922705314009655
+1,disease_on_symptoms,15,20,1.6726190476190474
+2,disease_on_drugs,25,20,0.6883333333333335

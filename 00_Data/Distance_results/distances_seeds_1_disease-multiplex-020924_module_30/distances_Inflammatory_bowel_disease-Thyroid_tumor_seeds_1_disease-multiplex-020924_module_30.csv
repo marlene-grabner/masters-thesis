@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,17,23,0.17997491638796004
+1,disease_on_symptoms,27,20,0.908136327817179
+2,disease_on_drugs,14,20,0.23340336134453787

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,0.413888888888889
+1,disease_on_symptoms,12,26,1.6860661268556008
+2,disease_on_drugs,17,15,0.9705882352941178

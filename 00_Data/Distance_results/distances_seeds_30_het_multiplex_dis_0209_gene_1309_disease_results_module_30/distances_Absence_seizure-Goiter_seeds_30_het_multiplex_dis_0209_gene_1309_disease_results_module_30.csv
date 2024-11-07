@@ -1,0 +1,4 @@
+,Layer,Absence_seizure nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.2857142857142858
+1,disease_on_symptoms,14,12,2.3292124542124544
+2,disease_on_drugs,22,18,0.699747474747475

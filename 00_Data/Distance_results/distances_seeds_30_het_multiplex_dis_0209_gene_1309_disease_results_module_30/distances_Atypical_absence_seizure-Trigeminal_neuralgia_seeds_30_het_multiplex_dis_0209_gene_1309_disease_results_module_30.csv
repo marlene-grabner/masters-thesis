@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,13,15,-0.2963369963369964
+2,disease_on_drugs,22,25,-0.16690522243713746

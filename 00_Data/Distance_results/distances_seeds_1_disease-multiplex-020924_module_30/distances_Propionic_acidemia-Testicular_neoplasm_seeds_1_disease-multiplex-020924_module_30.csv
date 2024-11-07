@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,22,25,0.19404255319148933
+1,disease_on_symptoms,17,25,1.873389355742297
+2,disease_on_drugs,21,23,1.2032749858836818

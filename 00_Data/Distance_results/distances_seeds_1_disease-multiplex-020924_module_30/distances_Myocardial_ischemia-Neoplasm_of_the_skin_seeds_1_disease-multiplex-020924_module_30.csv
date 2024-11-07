@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.18719211822660098
+1,disease_on_symptoms,13,21,0.8555268261150613
+2,disease_on_drugs,23,24,0.4454209065679928

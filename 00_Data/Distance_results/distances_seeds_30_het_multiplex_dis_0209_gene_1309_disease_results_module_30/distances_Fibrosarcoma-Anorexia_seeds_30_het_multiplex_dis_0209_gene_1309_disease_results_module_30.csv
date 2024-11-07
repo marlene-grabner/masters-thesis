@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.11893629456458199
+1,disease_on_symptoms,14,13,0.1948514448514449
+2,disease_on_drugs,26,28,-0.0030525030525030417

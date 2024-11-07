@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,29,30,-0.1228070175438597
+1,disease_on_symptoms,17,17,0.5882352941176472
+2,disease_on_drugs,26,25,-0.038929110105580866

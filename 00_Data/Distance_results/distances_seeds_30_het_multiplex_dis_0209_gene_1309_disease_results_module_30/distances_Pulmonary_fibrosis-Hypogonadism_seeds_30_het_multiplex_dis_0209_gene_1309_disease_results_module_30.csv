@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,22,17,0.533148224324695
+2,disease_on_drugs,25,29,0.2607918263090676

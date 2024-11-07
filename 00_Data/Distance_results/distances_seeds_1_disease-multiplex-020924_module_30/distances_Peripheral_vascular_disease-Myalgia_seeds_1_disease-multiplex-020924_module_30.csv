@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Myalgia nodes,sAB
+0,disease_on_genes,23,30,-0.04835931091058243
+1,disease_on_symptoms,16,16,1.53125
+2,disease_on_drugs,22,29,0.11764705882352944

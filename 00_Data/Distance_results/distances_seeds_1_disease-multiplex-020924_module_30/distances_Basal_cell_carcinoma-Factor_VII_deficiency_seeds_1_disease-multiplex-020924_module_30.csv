@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.41096530920060337
+1,disease_on_symptoms,23,23,1.9347826086956523
+2,disease_on_drugs,25,21,1.2132505175983435

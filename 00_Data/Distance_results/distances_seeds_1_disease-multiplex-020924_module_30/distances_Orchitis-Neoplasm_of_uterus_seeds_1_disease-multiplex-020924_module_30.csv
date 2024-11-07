@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,23,28,0.14425770308123242
+1,disease_on_symptoms,16,19,0.5760808270676692
+2,disease_on_drugs,17,28,0.01220821661998106

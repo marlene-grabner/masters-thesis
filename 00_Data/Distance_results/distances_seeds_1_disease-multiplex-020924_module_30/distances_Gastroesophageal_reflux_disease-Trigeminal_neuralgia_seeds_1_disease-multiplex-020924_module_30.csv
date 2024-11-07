@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.09457671957671954
+1,disease_on_symptoms,17,19,0.7469900240798075
+2,disease_on_drugs,25,26,0.5882202111613877

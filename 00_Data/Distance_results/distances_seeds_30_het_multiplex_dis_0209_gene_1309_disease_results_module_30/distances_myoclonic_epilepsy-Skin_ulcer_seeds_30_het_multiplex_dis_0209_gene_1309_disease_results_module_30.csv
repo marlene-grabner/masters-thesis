@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,16,20,1.925
+2,disease_on_drugs,25,24,0.6934013605442175

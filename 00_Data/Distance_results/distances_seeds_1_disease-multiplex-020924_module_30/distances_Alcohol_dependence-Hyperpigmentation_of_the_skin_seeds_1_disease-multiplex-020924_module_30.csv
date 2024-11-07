@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,12,24,0.1527777777777779
+1,disease_on_symptoms,27,23,3.409049919484702
+2,disease_on_drugs,9,12,0.7936507936507935

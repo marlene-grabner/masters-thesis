@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,0.05535121328224779
+1,disease_on_symptoms,20,20,1.4
+2,disease_on_drugs,22,28,0.3722727272727273

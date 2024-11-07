@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,0.20857963875205243
+1,disease_on_symptoms,19,14,0.6606288448393713
+2,disease_on_drugs,26,30,0.7166666666666668

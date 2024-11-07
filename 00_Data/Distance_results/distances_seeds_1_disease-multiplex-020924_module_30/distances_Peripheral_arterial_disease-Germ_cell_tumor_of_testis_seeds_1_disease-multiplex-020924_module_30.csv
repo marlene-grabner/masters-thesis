@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,25,27,0.4215384615384614
+1,disease_on_symptoms,14,23,1.0678613396004701
+2,disease_on_drugs,22,20,1.1666666666666665

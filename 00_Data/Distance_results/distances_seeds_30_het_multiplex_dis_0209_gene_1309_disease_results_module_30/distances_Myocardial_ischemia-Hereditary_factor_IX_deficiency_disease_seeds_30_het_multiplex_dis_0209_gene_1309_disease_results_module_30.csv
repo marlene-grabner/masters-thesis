@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.34610016420361267
+1,disease_on_symptoms,19,18,0.7905800537379484
+2,disease_on_drugs,30,26,-0.1816849816849817

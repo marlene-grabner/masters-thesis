@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Ascites nodes,sAB
+0,disease_on_genes,21,30,0.1918767507002801
+1,disease_on_symptoms,22,17,1.3897573015220077
+2,disease_on_drugs,21,27,0.32242063492063466

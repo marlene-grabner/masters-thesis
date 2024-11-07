@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.41999999999999993
+1,disease_on_symptoms,24,23,2.3380743139068763
+2,disease_on_drugs,20,21,1.3670150987224157

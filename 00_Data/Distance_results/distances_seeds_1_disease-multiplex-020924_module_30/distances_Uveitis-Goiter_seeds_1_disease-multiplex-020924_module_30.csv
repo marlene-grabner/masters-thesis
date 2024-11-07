@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.2635531135531135
+1,disease_on_symptoms,21,15,0.7182539682539681
+2,disease_on_drugs,27,16,0.42334194659776037

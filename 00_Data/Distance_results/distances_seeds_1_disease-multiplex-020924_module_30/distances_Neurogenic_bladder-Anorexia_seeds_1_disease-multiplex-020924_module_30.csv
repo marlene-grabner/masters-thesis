@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.34476428869420106
+1,disease_on_symptoms,17,25,0.7637535014005601
+2,disease_on_drugs,26,13,0.7564102564102566

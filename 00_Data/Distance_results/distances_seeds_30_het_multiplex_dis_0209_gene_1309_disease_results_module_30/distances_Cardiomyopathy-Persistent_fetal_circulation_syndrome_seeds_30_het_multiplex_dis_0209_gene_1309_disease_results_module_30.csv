@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,25,24,-0.24408163265306126
+1,disease_on_symptoms,21,22,0.4339575153528643
+2,disease_on_drugs,24,21,-0.15793650793650804

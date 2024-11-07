@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,-0.10406403940886688
+1,disease_on_symptoms,20,19,0.20840080971659924
+2,disease_on_drugs,30,22,-0.11899766899766884

@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Obesity nodes,sAB
+0,disease_on_genes,25,27,-0.44017094017094016
+1,disease_on_symptoms,19,18,0.10613244823771129
+2,disease_on_drugs,23,25,-0.35271739130434776

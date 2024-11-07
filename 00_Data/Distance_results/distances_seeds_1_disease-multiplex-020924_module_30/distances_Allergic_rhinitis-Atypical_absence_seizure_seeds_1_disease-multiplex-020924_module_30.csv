@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,21,29,0.01619047619047631
+1,disease_on_symptoms,22,15,2.981408681408681
+2,disease_on_drugs,21,27,0.7367724867724867

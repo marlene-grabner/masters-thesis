@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Strabismus nodes,sAB
+0,disease_on_genes,9,13,0.24320124320124337
+1,disease_on_symptoms,27,26,1.2833010804708915
+2,disease_on_drugs,9,9,0.8888888888888888

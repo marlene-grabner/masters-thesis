@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,17,16,-0.02907754010695185
+2,disease_on_drugs,24,29,0.054909455649533756

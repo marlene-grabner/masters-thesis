@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Pruritus nodes,sAB
+0,disease_on_genes,24,26,0.06202380952380926
+1,disease_on_symptoms,18,19,0.680298719772404
+2,disease_on_drugs,18,24,0.5

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,-0.09435306133419341
+1,disease_on_symptoms,25,19,0.8469856459330145
+2,disease_on_drugs,25,24,0.06073129251700693

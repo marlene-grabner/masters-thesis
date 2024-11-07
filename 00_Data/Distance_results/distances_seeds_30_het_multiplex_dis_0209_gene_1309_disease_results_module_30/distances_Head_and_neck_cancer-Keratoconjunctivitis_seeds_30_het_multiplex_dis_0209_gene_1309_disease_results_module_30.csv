@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.0714285714285714
+1,disease_on_symptoms,22,20,0.6609307359307361
+2,disease_on_drugs,23,27,0.21082125603864732

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,20,16,-0.3145833333333332
+2,disease_on_drugs,30,27,0.000779727095516547

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,15,30,0.2833333333333332
+1,disease_on_symptoms,25,18,0.47118863049095605
+2,disease_on_drugs,10,25,0.0028571428571426694

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,20,24,0.8640151515151517
+2,disease_on_drugs,27,15,0.2767195767195767

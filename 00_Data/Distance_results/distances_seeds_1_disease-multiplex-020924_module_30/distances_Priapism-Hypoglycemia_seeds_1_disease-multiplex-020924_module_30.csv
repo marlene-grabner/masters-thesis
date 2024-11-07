@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,17,12,0.6124070317782286
+2,disease_on_drugs,28,22,0.5464285714285715

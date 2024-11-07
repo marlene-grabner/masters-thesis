@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,27,26,0.019217330538085164
+1,disease_on_symptoms,17,21,0.7042606516290728
+2,disease_on_drugs,24,25,0.058214285714285774

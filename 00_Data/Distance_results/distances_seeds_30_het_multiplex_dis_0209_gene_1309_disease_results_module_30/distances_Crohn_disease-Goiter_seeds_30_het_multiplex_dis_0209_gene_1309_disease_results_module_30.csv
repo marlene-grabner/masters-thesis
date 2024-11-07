@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.21153846153846145
+1,disease_on_symptoms,22,12,1.5465686274509807
+2,disease_on_drugs,24,18,0.2956349206349209

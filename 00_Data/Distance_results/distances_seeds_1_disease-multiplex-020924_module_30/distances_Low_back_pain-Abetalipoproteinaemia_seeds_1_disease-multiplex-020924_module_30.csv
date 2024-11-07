@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,17,0.4007300792657489
+1,disease_on_symptoms,17,25,0.05523809523809531
+2,disease_on_drugs,26,13,0.7500000000000002

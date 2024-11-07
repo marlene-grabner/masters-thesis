@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.05660377358490565
+1,disease_on_symptoms,17,23,0.1992327365728901
+2,disease_on_drugs,24,22,-0.019186429512516368

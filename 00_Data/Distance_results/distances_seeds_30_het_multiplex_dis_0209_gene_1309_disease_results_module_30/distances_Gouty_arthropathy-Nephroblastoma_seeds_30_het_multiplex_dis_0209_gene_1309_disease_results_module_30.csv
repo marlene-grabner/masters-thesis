@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,28,29,0.14065335753176056
+1,disease_on_symptoms,18,20,-0.03172514619883038
+2,disease_on_drugs,23,24,-0.02279910576626576

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,30,-0.44999999999999996
+1,disease_on_symptoms,21,18,-0.5869963369963369
+2,disease_on_drugs,29,25,-0.5039846743295019

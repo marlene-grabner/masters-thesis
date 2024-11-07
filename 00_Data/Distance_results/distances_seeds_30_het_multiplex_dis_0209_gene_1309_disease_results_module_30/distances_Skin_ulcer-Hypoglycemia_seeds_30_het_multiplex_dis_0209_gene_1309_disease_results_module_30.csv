@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,19,0.6134278002699056
+2,disease_on_drugs,24,27,0.2587145969498912

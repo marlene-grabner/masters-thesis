@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,26,27,0.05624092888243837
+1,disease_on_symptoms,20,18,0.8847953216374271
+2,disease_on_drugs,20,22,0.0400432900432901

@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,21,17,0.6587055874981573
+2,disease_on_drugs,26,29,0.022232939474318814

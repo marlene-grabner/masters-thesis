@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,21,28,0.1215986394557822
+1,disease_on_symptoms,22,19,0.7730773719220445
+2,disease_on_drugs,21,26,0.04863221884498481

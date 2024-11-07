@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.14035087719298245
+1,disease_on_symptoms,20,20,0.875
+2,disease_on_drugs,28,27,0.18409090909090908

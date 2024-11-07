@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,18,25,0.5465633074935399
+1,disease_on_symptoms,21,25,1.4134575569358179
+2,disease_on_drugs,6,23,0.34157921039480255

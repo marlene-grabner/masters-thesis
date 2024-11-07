@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,27,28,0.3076960076960078
+1,disease_on_symptoms,16,19,1.048402255639098
+2,disease_on_drugs,18,28,0.8517080745341616

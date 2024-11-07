@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.09433962264150941
+1,disease_on_symptoms,21,20,0.2661149825783973
+2,disease_on_drugs,28,20,0.23095238095238102

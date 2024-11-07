@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,28,-0.28133912367124725
+1,disease_on_symptoms,17,19,-0.32653938768489843
+2,disease_on_drugs,26,26,-0.42307692307692313

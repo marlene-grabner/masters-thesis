@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,0.015594541910331161
+1,disease_on_symptoms,21,21,0.7380952380952381
+2,disease_on_drugs,27,25,0.44148148148148136

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.016482479784366566
+1,disease_on_symptoms,19,20,0.5917678812415654
+2,disease_on_drugs,24,28,0.5

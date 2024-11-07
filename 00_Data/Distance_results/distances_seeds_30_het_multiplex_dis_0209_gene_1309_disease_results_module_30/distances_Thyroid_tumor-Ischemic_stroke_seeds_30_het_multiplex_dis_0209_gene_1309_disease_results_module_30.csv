@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,23,30,0.13207547169811318
+1,disease_on_symptoms,20,16,0.6944444444444446
+2,disease_on_drugs,20,28,0.5017857142857143

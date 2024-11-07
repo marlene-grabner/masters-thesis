@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,30,23,0.010445720535958491
+1,disease_on_symptoms,14,16,1.938392857142857
+2,disease_on_drugs,26,22,0.5208333333333333

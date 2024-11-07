@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Gout nodes,sAB
+0,disease_on_genes,30,28,0.10283251231527091
+1,disease_on_symptoms,17,19,0.5313897488820092
+2,disease_on_drugs,24,22,0.17234848484848486

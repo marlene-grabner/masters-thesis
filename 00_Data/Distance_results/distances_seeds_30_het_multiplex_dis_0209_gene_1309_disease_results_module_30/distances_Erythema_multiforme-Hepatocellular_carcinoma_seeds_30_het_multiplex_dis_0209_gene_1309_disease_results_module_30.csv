@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,24,-0.2407407407407407
+1,disease_on_symptoms,18,23,-0.2877930953222576
+2,disease_on_drugs,30,22,-0.11468531468531473

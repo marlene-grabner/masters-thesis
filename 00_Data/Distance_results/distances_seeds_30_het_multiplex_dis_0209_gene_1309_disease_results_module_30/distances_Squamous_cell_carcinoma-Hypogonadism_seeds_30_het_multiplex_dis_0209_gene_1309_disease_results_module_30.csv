@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,22,17,0.30237899355546416
+2,disease_on_drugs,30,29,0.20134424313267107

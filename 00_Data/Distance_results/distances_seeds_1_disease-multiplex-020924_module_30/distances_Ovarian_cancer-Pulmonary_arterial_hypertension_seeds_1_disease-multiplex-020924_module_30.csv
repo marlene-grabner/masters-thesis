@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.36396103896103904
+1,disease_on_symptoms,17,18,1.7961251167133518
+2,disease_on_drugs,25,26,0.8631221719457014

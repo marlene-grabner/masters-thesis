@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Purpura nodes,sAB
+0,disease_on_genes,30,26,0.1030219780219781
+1,disease_on_symptoms,14,17,1.3603280021686095
+2,disease_on_drugs,27,20,0.1757289204097714

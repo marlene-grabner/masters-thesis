@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.15555555555555567
+1,disease_on_symptoms,22,27,1.9692331478045761
+2,disease_on_drugs,28,13,1.1284843205574915

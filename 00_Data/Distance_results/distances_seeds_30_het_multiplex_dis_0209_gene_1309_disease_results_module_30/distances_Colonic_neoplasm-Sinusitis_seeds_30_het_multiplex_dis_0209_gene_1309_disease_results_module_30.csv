@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.05112994350282496
+1,disease_on_symptoms,19,20,0.5353913630229421
+2,disease_on_drugs,29,27,0.7122559751870097

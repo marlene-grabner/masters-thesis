@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.0008771929824562541
+1,disease_on_symptoms,17,17,0.9705882352941178
+2,disease_on_drugs,26,17,0.39500683994528063

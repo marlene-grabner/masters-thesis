@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.019607843137254943
+1,disease_on_symptoms,17,23,0.8634910485933505
+2,disease_on_drugs,25,21,0.04356107660455466

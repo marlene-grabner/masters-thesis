@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,24,24,-0.06250000000000011
+1,disease_on_symptoms,24,19,0.4863321093431252
+2,disease_on_drugs,23,19,-0.22322109621880792

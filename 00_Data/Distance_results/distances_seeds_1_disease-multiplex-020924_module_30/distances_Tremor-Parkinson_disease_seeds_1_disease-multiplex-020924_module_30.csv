@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,16,21,-0.2526946589446588
+1,disease_on_symptoms,23,20,0.16142568250758327
+2,disease_on_drugs,16,19,-0.11696428571428574

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.01575757575757586
+1,disease_on_symptoms,14,21,1.7809523809523808
+2,disease_on_drugs,29,20,0.13826530612244903

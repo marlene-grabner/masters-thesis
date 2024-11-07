@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,29,26,-0.18181818181818177
+1,disease_on_symptoms,20,20,0.6499999999999999
+2,disease_on_drugs,27,23,-0.23091787439613531

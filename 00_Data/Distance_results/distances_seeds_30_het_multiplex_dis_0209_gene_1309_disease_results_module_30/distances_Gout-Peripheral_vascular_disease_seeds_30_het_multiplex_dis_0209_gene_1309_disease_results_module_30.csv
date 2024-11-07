@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,28,25,-0.056725067385444694
+1,disease_on_symptoms,19,17,0.508513931888545
+2,disease_on_drugs,22,25,0.09860735009671195

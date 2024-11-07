@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,29,29,0.0862068965517242
+1,disease_on_symptoms,21,25,-0.012877846790890102
+2,disease_on_drugs,28,27,0.19794372294372287

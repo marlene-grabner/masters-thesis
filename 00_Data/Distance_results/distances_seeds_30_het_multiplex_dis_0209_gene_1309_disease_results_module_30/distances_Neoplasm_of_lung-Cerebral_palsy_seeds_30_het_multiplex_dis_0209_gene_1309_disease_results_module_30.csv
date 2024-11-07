@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,19,13,0.6360070850202431
+2,disease_on_drugs,30,21,-0.047338935574229746

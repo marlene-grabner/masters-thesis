@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,-0.0565217391304349
+1,disease_on_symptoms,19,26,0.12152496626180831
+2,disease_on_drugs,23,13,-0.019602378298030354

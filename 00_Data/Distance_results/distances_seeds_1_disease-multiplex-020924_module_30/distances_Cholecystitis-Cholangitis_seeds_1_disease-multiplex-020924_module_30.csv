@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,27,0.0020797720797722796
+1,disease_on_symptoms,19,22,-0.44305053098377867
+2,disease_on_drugs,13,26,-0.3717948717948717

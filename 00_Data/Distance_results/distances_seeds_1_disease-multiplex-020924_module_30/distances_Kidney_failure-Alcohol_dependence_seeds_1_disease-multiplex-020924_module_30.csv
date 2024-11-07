@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,20,12,0.3270833333333334
+1,disease_on_symptoms,23,27,1.5360064412238326
+2,disease_on_drugs,18,9,0.6296296296296295

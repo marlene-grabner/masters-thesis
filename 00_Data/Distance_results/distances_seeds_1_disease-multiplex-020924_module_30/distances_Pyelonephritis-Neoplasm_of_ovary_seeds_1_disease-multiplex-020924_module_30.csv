@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,23,24,0.4480804810360779
+1,disease_on_symptoms,21,26,1.0624659028914347
+2,disease_on_drugs,19,15,1.1470588235294117

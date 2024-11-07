@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,30,-0.017857142857142905
+1,disease_on_symptoms,20,18,0.6964912280701754
+2,disease_on_drugs,23,29,-0.013868065967016507

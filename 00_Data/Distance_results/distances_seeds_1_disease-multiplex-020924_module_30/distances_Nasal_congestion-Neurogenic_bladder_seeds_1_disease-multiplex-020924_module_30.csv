@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,17,0.5938725490196077
+2,disease_on_drugs,23,26,0.3660159716060336

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Myopathy nodes,sAB
+0,disease_on_genes,28,18,0.368702553485162
+1,disease_on_symptoms,14,21,1.1404761904761904
+2,disease_on_drugs,28,6,1.0098039215686274

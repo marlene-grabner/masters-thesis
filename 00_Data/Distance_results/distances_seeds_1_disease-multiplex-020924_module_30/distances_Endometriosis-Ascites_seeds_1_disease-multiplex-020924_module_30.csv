@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,12,17,-0.2315753887762002
+2,disease_on_drugs,27,27,0.2222222222222221

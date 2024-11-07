@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Angioedema nodes,sAB
+0,disease_on_genes,24,30,-0.33333333333333337
+1,disease_on_symptoms,21,18,-0.4865689865689864
+2,disease_on_drugs,24,26,-0.519551282051282

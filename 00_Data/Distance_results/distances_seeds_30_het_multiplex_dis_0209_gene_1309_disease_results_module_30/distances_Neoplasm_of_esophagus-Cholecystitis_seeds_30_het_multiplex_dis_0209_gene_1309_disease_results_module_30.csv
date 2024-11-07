@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,29,25,-0.23946360153256696
+1,disease_on_symptoms,20,23,0.09681496461071792
+2,disease_on_drugs,25,21,-0.2857142857142856

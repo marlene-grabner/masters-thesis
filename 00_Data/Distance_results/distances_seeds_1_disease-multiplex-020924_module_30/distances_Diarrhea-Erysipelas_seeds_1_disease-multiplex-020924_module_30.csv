@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.017147667147667356
+1,disease_on_symptoms,19,20,0.6112010796221323
+2,disease_on_drugs,26,27,0.07510885341074025

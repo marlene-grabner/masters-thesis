@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Fatigue nodes,sAB
+0,disease_on_genes,25,26,-0.19494720965309198
+1,disease_on_symptoms,19,16,0.8734962406015039
+2,disease_on_drugs,23,26,-0.19747798785065873

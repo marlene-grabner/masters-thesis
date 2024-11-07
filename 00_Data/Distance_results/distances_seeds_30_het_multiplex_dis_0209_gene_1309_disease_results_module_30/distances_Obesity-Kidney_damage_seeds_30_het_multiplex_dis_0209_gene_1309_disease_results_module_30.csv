@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,30,-0.09064327485380119
+1,disease_on_symptoms,18,15,0.26868686868686864
+2,disease_on_drugs,25,21,-0.06169772256728767

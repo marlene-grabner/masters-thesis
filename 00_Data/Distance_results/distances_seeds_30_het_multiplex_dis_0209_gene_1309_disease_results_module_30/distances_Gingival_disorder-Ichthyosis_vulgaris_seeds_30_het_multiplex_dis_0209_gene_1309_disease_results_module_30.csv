@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,19,21,0.580576441102757
+2,disease_on_drugs,24,24,-0.02083333333333326

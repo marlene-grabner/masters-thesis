@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,0.17241379310344818
+1,disease_on_symptoms,17,18,1.0612978524743233
+2,disease_on_drugs,24,23,0.5091157878507555

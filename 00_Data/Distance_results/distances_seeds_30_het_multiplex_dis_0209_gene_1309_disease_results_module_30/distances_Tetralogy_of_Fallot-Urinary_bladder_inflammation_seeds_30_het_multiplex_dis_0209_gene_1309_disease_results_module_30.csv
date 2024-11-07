@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,30,-0.13333333333333341
+1,disease_on_symptoms,19,16,0.0914943609022556
+2,disease_on_drugs,20,29,-0.13386699507389155

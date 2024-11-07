@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,29,24,0.035770440251572166
+1,disease_on_symptoms,14,19,0.8915470494417863
+2,disease_on_drugs,22,19,-0.07772202123935124

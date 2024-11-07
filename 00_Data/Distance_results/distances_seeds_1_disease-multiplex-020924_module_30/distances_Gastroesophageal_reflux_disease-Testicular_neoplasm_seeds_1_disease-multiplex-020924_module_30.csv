@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,0.11686274509803929
+1,disease_on_symptoms,17,25,0.9686274509803923
+2,disease_on_drugs,25,23,1.0823550724637683

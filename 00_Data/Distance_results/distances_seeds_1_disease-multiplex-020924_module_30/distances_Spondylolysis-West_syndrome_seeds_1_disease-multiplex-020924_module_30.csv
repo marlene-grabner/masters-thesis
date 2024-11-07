@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,29,0.08664021164021185
+1,disease_on_symptoms,19,18,0.3261419314050895
+2,disease_on_drugs,20,22,0.046428571428571486

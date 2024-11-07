@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.10283251231527091
+1,disease_on_symptoms,18,19,0.7835862177967441
+2,disease_on_drugs,27,26,0.303633822501747

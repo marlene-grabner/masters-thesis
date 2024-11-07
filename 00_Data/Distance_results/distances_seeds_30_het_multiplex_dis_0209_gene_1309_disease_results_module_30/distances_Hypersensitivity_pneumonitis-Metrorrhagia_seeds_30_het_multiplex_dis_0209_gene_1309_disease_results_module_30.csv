@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,25,29,-0.13461538461538458
+1,disease_on_symptoms,20,17,0.3421701112877584
+2,disease_on_drugs,25,26,-0.05775263951734533

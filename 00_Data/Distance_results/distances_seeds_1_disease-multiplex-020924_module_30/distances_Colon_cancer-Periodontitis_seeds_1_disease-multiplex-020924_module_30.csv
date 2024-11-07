@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Periodontitis nodes,sAB
+0,disease_on_genes,26,23,0.3645314313016177
+1,disease_on_symptoms,21,25,1.1370186335403725
+2,disease_on_drugs,24,22,0.9535573122529644

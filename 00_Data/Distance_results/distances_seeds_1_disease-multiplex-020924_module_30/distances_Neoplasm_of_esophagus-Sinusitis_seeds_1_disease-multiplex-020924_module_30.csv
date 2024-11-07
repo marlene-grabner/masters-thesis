@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Sinusitis nodes,sAB
+0,disease_on_genes,21,29,0.18827586206896552
+1,disease_on_symptoms,24,21,0.8355158730158729
+2,disease_on_drugs,20,28,0.9422619047619047

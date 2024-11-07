@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,17,28,0.4122082166199812
+1,disease_on_symptoms,21,23,1.596555618294749
+2,disease_on_drugs,14,28,0.36309523809523814

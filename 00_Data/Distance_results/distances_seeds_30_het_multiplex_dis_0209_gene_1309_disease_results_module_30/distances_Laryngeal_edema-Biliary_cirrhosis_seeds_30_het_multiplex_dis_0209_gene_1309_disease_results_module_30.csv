@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.10732600732600739
+1,disease_on_symptoms,16,22,0.2973983253588517
+2,disease_on_drugs,28,25,-0.03971698113207567

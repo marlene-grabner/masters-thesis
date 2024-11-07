@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.05175438596491222
+1,disease_on_symptoms,15,21,0.9095238095238094
+2,disease_on_drugs,25,27,0.05527065527065522

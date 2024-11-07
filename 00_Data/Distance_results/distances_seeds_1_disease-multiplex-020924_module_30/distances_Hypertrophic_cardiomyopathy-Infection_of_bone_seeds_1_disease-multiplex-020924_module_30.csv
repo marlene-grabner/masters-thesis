@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,30,26,0.5174908424908424
+1,disease_on_symptoms,17,21,0.5053810998083443
+2,disease_on_drugs,17,24,0.8643292682926829

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,22,26,0.04166666666666674
+1,disease_on_symptoms,21,17,0.7268170426065166
+2,disease_on_drugs,17,24,-0.008787661406025826

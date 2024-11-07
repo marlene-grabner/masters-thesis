@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,21,22,-0.2221886640491293
+2,disease_on_drugs,29,28,-0.05177815227724469

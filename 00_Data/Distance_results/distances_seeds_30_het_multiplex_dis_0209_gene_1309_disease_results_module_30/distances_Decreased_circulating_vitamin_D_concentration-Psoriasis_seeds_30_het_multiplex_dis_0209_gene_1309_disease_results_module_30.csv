@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Psoriasis nodes,sAB
+0,disease_on_genes,25,30,-0.036363636363636376
+1,disease_on_symptoms,13,17,0.9627450980392154
+2,disease_on_drugs,21,30,0.1417366946778713

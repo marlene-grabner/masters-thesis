@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,23,30,0.26866283839212457
+1,disease_on_symptoms,19,7,2.7070561017929435
+2,disease_on_drugs,11,22,0.8030303030303032

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Peritonitis nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,21,14,0.5357142857142856
+2,disease_on_drugs,25,24,-0.2629421768707483

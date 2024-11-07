@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,26,-0.09433962264150941
+1,disease_on_symptoms,18,20,0.1589181286549708
+2,disease_on_drugs,24,25,-0.12250000000000005

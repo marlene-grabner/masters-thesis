@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,25,30,-0.10757575757575755
+1,disease_on_symptoms,23,18,0.24375515494285382
+2,disease_on_drugs,21,28,-0.27040816326530615

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Esophagitis nodes,sAB
+0,disease_on_genes,30,24,0.3571506699480447
+1,disease_on_symptoms,17,23,2.068925831202046
+2,disease_on_drugs,17,20,0.812837837837838

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,13,25,0.22132709632709635
+1,disease_on_symptoms,26,20,1.3103678929765885
+2,disease_on_drugs,9,21,0.6968253968253968

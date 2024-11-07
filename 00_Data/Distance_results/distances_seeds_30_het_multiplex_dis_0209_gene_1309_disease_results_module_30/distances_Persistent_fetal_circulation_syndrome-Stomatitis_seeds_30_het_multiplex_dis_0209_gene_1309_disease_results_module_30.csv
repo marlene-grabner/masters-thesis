@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Stomatitis nodes,sAB
+0,disease_on_genes,24,30,0.03703703703703698
+1,disease_on_symptoms,22,19,0.5889251954720507
+2,disease_on_drugs,21,29,0.26577996715927754

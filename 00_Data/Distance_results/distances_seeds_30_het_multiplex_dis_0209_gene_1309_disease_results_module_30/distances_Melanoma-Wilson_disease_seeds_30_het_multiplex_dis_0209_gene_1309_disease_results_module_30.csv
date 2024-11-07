@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,27,25,-0.17236467236467246
+1,disease_on_symptoms,23,19,-0.046147978642257614
+2,disease_on_drugs,25,22,-0.2376402321083172

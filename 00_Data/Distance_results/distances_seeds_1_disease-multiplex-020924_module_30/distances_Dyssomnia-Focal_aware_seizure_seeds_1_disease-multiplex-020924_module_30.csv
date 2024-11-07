@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,18,29,-0.12765957446808507
+1,disease_on_symptoms,21,15,2.3865079365079365
+2,disease_on_drugs,17,29,-0.044757033248082

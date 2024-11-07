@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.1071428571428572
+1,disease_on_symptoms,17,19,0.6329549363605089
+2,disease_on_drugs,25,29,1.0725925925925925

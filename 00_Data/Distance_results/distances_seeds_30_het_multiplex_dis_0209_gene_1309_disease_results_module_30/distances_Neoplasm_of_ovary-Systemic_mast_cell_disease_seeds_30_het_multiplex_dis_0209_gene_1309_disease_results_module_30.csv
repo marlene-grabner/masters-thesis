@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,-0.08446327683615817
+1,disease_on_symptoms,22,25,-0.09462282398452593
+2,disease_on_drugs,29,21,0.06446633825944148

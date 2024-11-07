@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.6085164835164835
+1,disease_on_symptoms,21,21,-0.7142857142857143
+2,disease_on_drugs,24,29,-0.6382563435263499

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.30000000000000004
+1,disease_on_symptoms,17,21,-0.7288810260946483
+2,disease_on_drugs,24,30,-0.28009259259259256

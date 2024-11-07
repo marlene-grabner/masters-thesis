@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,-0.08682266009852213
+1,disease_on_symptoms,20,17,0.2495230524642289
+2,disease_on_drugs,27,28,0.11031746031746015

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,19,14,1.1638186375028483
+2,disease_on_drugs,22,22,0.022727272727272707

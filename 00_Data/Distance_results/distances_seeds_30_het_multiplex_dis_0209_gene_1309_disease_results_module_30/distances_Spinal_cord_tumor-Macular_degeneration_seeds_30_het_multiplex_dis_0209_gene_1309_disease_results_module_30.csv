@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.30536723163841817
+1,disease_on_symptoms,14,17,0.33111954459203075
+2,disease_on_drugs,22,17,0.024612642259701056

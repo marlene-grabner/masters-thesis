@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Purpura nodes,sAB
+0,disease_on_genes,30,27,0.10516569200779724
+1,disease_on_symptoms,22,17,0.7628205128205128
+2,disease_on_drugs,27,24,0.24387254901960786

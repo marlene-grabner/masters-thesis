@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,28,0.13029100529100535
+1,disease_on_symptoms,20,19,0.5905533063427799
+2,disease_on_drugs,24,25,0.5301360544217686

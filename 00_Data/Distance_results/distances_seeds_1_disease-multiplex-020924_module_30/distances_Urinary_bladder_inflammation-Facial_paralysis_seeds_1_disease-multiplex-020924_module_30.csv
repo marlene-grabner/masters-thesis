@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,14,0.1716849816849817
+1,disease_on_symptoms,22,23,1.226460254721124
+2,disease_on_drugs,24,14,0.4956140350877192

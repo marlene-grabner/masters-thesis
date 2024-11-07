@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,15,-0.25595238095238093
+2,disease_on_drugs,30,24,0.15416666666666656

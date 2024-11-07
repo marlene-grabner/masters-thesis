@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,18,20,0.20818713450292403
+2,disease_on_drugs,28,24,-0.27152014652014644

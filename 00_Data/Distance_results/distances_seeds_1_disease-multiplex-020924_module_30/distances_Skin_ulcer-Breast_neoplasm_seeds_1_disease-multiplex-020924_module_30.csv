@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,16,0.8999530075187971
+2,disease_on_drugs,22,30,0.42832167832167833

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,19,15,0.2831785345717237
+2,disease_on_drugs,20,26,-0.2216555183946487

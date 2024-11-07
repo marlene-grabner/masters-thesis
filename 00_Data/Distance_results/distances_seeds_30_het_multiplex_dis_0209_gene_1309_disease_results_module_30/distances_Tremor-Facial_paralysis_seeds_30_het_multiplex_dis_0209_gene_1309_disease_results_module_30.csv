@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,-0.16326530612244894
+1,disease_on_symptoms,17,21,0.21133716644552547
+2,disease_on_drugs,24,17,-0.07179579148732684

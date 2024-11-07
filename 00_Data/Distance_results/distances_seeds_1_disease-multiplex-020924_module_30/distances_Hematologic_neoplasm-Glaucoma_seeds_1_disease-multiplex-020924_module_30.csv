@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Glaucoma nodes,sAB
+0,disease_on_genes,22,30,0.4141025641025642
+1,disease_on_symptoms,24,14,0.8507205513784459
+2,disease_on_drugs,19,30,0.6165055495882563

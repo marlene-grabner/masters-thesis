@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Cholangitis nodes,sAB
+0,disease_on_genes,22,27,0.4699890057032914
+1,disease_on_symptoms,21,22,2.7705627705627704
+2,disease_on_drugs,6,26,1.2395833333333335

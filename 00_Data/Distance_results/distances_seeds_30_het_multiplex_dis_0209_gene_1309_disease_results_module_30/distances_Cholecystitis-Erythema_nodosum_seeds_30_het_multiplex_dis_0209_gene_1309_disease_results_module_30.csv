@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,25,30,0.10909090909090913
+1,disease_on_symptoms,23,22,0.5284804567413264
+2,disease_on_drugs,21,29,0.06256157635467963

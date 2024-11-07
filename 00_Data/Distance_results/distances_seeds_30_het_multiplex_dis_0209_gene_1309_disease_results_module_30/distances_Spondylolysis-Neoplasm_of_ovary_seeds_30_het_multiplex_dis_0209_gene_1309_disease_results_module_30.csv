@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,28,30,-0.05114942528735622
+1,disease_on_symptoms,17,22,0.14596188125599885
+2,disease_on_drugs,19,29,-0.0012855414398065257

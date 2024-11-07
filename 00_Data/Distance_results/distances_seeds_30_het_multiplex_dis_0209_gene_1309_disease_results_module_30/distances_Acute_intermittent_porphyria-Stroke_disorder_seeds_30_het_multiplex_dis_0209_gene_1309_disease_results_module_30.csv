@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,17,16,0.5601604278074865
+2,disease_on_drugs,24,30,-0.026388888888888795

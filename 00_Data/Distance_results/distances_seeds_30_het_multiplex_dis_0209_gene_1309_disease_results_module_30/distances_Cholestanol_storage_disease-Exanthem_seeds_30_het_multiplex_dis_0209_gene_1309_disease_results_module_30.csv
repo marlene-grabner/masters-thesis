@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,30,-0.06780635106175736
+1,disease_on_symptoms,18,21,0.17551892551892534
+2,disease_on_drugs,28,29,0.2969708754645235

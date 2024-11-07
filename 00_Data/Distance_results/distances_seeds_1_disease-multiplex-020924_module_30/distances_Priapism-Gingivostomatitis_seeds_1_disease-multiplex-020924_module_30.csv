@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333348
+1,disease_on_symptoms,17,23,0.4842710997442454
+2,disease_on_drugs,28,29,0.03505531069051937

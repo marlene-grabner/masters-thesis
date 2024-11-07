@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,27,18,-0.1333333333333333
+1,disease_on_symptoms,22,21,2.1668680157052247
+2,disease_on_drugs,26,17,-0.13711459539092918

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.1454545454545455
+1,disease_on_symptoms,11,20,0.8037390029325515
+2,disease_on_drugs,21,21,-0.19047619047619047

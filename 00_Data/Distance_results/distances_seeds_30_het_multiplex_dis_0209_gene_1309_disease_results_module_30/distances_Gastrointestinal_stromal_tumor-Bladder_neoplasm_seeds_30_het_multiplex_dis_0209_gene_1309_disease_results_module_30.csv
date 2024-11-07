@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,0.0535714285714286
+1,disease_on_symptoms,19,19,0.368421052631579
+2,disease_on_drugs,28,25,0.2870619946091644

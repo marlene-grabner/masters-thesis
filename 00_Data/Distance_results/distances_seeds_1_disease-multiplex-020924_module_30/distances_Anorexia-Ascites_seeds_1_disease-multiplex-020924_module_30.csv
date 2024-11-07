@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Ascites nodes,sAB
+0,disease_on_genes,17,30,0.07384230287859816
+1,disease_on_symptoms,25,17,0.10408963585434194
+2,disease_on_drugs,13,27,0.6559829059829059

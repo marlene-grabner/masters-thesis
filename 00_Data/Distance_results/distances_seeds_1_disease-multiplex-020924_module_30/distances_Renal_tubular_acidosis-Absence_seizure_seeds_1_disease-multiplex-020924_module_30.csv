@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,18,29,0.5032404010760578
+1,disease_on_symptoms,18,16,3.030637254901961
+2,disease_on_drugs,10,22,0.5562499999999999

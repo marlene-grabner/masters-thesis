@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,-0.24528301886792447
+1,disease_on_symptoms,18,22,0.28181818181818175
+2,disease_on_drugs,25,21,-0.4909316770186335

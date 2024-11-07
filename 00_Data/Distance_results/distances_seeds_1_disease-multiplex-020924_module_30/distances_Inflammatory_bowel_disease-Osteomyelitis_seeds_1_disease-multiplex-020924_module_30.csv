@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,17,25,0.14579268292682923
+1,disease_on_symptoms,27,23,2.1086312399355878
+2,disease_on_drugs,14,23,0.24513177774047334

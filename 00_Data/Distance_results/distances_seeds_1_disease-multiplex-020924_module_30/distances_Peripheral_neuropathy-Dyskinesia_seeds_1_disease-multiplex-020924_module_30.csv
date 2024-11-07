@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,-0.06898148148148131
+1,disease_on_symptoms,20,17,0.168839427662957
+2,disease_on_drugs,24,23,0.17109929078014208

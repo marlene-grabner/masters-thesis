@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,30,-0.052631578947368474
+1,disease_on_symptoms,22,18,-0.3398989898989899
+2,disease_on_drugs,24,26,0.06128205128205111

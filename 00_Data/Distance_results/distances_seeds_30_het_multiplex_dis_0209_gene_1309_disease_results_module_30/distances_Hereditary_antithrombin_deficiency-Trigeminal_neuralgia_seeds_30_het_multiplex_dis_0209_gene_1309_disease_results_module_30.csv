@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,16,15,-0.19045698924731203
+2,disease_on_drugs,23,25,-0.1109420289855072

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.20955165692007793
+1,disease_on_symptoms,13,14,2.369251119251119
+2,disease_on_drugs,19,26,0.43704453441295543

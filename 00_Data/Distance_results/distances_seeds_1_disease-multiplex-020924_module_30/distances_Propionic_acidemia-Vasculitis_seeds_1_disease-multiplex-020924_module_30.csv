@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,22,24,0.28351449275362306
+1,disease_on_symptoms,17,19,1.3347093223254214
+2,disease_on_drugs,21,20,0.5858885017421602

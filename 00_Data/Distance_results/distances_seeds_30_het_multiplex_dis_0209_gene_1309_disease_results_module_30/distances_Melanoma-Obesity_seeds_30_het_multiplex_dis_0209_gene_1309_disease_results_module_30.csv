@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Obesity nodes,sAB
+0,disease_on_genes,27,27,-0.2777777777777777
+1,disease_on_symptoms,23,18,0.5914928714504539
+2,disease_on_drugs,25,25,-0.040000000000000036

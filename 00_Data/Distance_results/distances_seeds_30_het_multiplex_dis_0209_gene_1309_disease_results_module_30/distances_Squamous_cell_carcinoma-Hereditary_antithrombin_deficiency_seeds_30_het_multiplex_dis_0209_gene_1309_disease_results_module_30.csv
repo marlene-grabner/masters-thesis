@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.15517241379310343
+1,disease_on_symptoms,22,16,0.8071172248803831
+2,disease_on_drugs,30,23,0.3777686628383923

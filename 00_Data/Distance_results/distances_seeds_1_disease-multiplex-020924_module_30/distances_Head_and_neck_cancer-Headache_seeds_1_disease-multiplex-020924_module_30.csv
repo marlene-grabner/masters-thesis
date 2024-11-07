@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Headache nodes,sAB
+0,disease_on_genes,27,30,0.1577972709551656
+1,disease_on_symptoms,22,25,0.9597098646034816
+2,disease_on_drugs,24,26,1.0591025641025642

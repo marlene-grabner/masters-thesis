@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,26,0.05660377358490565
+1,disease_on_symptoms,22,21,0.8584516258934864
+2,disease_on_drugs,26,26,0.34615384615384626

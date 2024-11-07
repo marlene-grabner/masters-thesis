@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,16,17,0.36837121212121193
+2,disease_on_drugs,30,26,0.10384615384615392

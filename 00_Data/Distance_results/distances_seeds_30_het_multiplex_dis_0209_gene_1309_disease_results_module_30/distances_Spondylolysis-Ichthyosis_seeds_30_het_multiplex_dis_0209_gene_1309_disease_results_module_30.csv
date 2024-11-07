@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,28,28,-0.1785714285714285
+1,disease_on_symptoms,17,18,0.2857609710550888
+2,disease_on_drugs,19,25,-0.2633492822966508

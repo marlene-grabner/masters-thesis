@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,14,23,0.13572267920094028
+2,disease_on_drugs,29,29,0.1206896551724137

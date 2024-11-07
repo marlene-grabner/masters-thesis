@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,29,30,-0.5251509838301188
+1,disease_on_symptoms,17,16,-0.6649398395721926
+2,disease_on_drugs,26,23,-0.5946522421677701

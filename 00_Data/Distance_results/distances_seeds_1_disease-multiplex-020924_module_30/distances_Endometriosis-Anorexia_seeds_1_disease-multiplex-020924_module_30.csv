@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,17,0.28660826032540676
+1,disease_on_symptoms,12,25,0.4565765765765768
+2,disease_on_drugs,27,13,0.6365384615384617

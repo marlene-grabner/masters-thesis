@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666643
+1,disease_on_symptoms,19,15,0.20288957688338494
+2,disease_on_drugs,28,29,0.281004234724743

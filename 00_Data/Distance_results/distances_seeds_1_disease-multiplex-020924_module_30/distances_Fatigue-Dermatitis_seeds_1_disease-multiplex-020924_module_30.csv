@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Dermatitis nodes,sAB
+0,disease_on_genes,26,26,-0.05806938159879327
+1,disease_on_symptoms,21,25,0.45627329192546573
+2,disease_on_drugs,26,24,0.11987179487179489

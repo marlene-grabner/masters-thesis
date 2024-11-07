@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.0979020979020977
+1,disease_on_symptoms,22,23,1.224483970136144
+2,disease_on_drugs,29,17,0.4419260957756417

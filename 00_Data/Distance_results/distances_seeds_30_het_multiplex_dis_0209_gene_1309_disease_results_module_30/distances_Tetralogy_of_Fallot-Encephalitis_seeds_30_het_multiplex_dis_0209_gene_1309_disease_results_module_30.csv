@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,0.06864406779661003
+1,disease_on_symptoms,19,13,0.21381578947368407
+2,disease_on_drugs,20,22,0.04231601731601731

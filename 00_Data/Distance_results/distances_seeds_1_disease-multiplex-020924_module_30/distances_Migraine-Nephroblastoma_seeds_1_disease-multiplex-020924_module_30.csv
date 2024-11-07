@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.12484848484848499
+1,disease_on_symptoms,14,25,1.2519413919413922
+2,disease_on_drugs,29,21,1.12

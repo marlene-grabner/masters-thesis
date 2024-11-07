@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,24,29,-0.0027515723270439274
+1,disease_on_symptoms,22,14,1.2633477633477632
+2,disease_on_drugs,11,28,-0.02564102564102566

@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Erysipelas nodes,sAB
+0,disease_on_genes,18,30,-0.08333333333333337
+1,disease_on_symptoms,21,18,1.748168498168498
+2,disease_on_drugs,17,29,0.059661345797689336

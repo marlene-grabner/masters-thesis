@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.09272727272727277
+1,disease_on_symptoms,17,26,0.8990318846679997
+2,disease_on_drugs,26,24,0.501282051282051

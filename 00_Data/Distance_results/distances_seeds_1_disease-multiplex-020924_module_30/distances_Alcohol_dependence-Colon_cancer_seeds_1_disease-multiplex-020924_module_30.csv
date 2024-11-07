@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,12,26,0.2812078272604588
+1,disease_on_symptoms,27,21,0.33201058201058187
+2,disease_on_drugs,9,24,0.3737373737373737

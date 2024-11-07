@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.2757936507936508
+1,disease_on_symptoms,15,14,-0.3893267651888339
+2,disease_on_drugs,26,28,-0.2579365079365078

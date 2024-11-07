@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,20,18,0.39210526315789473
+2,disease_on_drugs,20,29,0.01706544686840261

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,23,25,0.34038698735738504
+1,disease_on_symptoms,19,20,1.275910931174089
+2,disease_on_drugs,19,21,0.6023809523809522

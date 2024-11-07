@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.17658730158730163
+1,disease_on_symptoms,17,25,0.8840896358543415
+2,disease_on_drugs,24,27,0.0490196078431373

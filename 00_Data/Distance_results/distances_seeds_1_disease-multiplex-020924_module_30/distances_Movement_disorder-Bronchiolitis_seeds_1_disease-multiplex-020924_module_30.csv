@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,23,0.5109652720809408
+1,disease_on_symptoms,22,25,2.048762088974855
+2,disease_on_drugs,15,18,0.9378787878787878

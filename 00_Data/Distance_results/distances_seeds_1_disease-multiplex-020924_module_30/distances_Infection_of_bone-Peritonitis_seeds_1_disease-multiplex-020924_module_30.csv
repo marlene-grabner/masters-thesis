@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,-0.3706043956043955
+1,disease_on_symptoms,21,17,0.06420462922010883
+2,disease_on_drugs,24,28,-0.463598901098901

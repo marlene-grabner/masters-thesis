@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,0.22870370370370385
+1,disease_on_symptoms,14,26,0.7747252747252746
+2,disease_on_drugs,24,15,0.3637820512820511

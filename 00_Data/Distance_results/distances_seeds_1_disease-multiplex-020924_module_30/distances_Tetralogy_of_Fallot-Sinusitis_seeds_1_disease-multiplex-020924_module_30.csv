@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.5251120202610557
+1,disease_on_symptoms,14,21,1.6476190476190478
+2,disease_on_drugs,11,28,0.9977106227106225

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,-0.06666666666666665
+1,disease_on_symptoms,23,22,0.3099692577953448
+2,disease_on_drugs,29,25,0.020868454661558067

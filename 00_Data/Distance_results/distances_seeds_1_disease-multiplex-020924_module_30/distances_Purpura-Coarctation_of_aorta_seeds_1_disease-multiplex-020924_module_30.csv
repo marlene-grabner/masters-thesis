@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.09325108853410735
+1,disease_on_symptoms,17,14,2.0124017348875034
+2,disease_on_drugs,20,13,-0.030303030303030276

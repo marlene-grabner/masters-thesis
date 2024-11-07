@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,24,25,0.429795918367347
+1,disease_on_symptoms,23,23,2.326086956521739
+2,disease_on_drugs,22,21,1.3709856035437429

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,26,27,0.0765199161425576
+1,disease_on_symptoms,17,15,1.5311274509803923
+2,disease_on_drugs,25,25,0.8200000000000001

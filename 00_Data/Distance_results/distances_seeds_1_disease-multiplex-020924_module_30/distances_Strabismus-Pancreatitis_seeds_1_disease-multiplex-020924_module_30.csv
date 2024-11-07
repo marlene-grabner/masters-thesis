@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,13,30,0.14353011329755505
+1,disease_on_symptoms,26,20,2.0918896321070237
+2,disease_on_drugs,9,30,0.3803418803418803

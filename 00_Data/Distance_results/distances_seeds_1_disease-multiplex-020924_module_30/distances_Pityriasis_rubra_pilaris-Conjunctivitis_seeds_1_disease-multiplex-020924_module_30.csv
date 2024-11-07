@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,28,27,-0.4912457912457914
+1,disease_on_symptoms,23,27,-0.43423510466988713
+2,disease_on_drugs,26,26,-0.5769230769230769

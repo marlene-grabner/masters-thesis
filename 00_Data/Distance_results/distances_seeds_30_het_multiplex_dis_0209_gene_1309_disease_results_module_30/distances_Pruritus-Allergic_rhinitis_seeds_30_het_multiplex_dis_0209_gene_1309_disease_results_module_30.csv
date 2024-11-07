@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,27,28,-0.14579124579124592
+1,disease_on_symptoms,21,20,-0.3169860627177701
+2,disease_on_drugs,27,25,-0.1371509971509972

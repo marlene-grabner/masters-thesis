@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,27,-0.6725356125356124
+1,disease_on_symptoms,23,22,-0.670223978919631
+2,disease_on_drugs,23,26,-0.512866015971606

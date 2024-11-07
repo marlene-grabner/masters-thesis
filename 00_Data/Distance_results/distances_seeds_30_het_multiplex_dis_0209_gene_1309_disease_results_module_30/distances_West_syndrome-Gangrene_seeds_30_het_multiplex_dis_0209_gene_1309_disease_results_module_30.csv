@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.1578947368421053
+1,disease_on_symptoms,13,22,0.5451048951048949
+2,disease_on_drugs,19,27,0.17815069073650314

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,24,-0.03703703703703709
+1,disease_on_symptoms,11,23,0.29097884212973724
+2,disease_on_drugs,27,22,0.001030715316429509

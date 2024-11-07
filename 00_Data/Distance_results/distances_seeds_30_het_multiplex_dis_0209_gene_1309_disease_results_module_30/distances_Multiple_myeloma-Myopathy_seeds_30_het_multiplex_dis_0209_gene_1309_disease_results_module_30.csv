@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Myopathy nodes,sAB
+0,disease_on_genes,26,23,-0.12244897959183676
+1,disease_on_symptoms,21,22,0.6308768750629214
+2,disease_on_drugs,25,21,-0.13006211180124216

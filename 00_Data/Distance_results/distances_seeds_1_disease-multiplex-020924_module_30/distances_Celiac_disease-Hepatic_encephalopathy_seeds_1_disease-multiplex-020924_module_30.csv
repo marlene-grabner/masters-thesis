@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,17,9,0.08647561588738051
+1,disease_on_symptoms,22,27,2.888888888888889
+2,disease_on_drugs,15,9,0.5916666666666668

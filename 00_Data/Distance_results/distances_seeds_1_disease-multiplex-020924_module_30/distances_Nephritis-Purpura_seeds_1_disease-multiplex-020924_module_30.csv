@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Purpura nodes,sAB
+0,disease_on_genes,30,26,0.08516483516483508
+1,disease_on_symptoms,18,17,1.0829598506069096
+2,disease_on_drugs,27,20,0.20527974783293934

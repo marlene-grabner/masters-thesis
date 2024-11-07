@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.0017482517482516613
+1,disease_on_symptoms,20,23,0.15308392315470143
+2,disease_on_drugs,28,17,0.08760504201680663

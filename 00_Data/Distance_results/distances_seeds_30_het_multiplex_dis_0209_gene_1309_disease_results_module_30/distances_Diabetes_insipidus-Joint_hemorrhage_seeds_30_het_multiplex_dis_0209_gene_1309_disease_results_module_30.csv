@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,26,30,-0.0013736263736263687
+1,disease_on_symptoms,20,17,1.158108108108108
+2,disease_on_drugs,20,26,0.02341137123745818

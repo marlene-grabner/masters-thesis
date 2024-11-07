@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,28,0.2142857142857142
+1,disease_on_symptoms,17,19,1.098297213622291
+2,disease_on_drugs,25,26,0.7258672699849171

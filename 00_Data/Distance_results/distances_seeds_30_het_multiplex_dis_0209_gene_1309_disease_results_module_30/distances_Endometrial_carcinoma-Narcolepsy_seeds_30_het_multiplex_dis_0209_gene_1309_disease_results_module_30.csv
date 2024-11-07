@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,26,25,-0.039215686274509776
+1,disease_on_symptoms,21,20,0.9240127758420442
+2,disease_on_drugs,26,21,-0.08247603460369413

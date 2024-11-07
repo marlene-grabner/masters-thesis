@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,28,25,0.16516172506738536
+1,disease_on_symptoms,18,23,2.5200011782726524
+2,disease_on_drugs,26,20,0.5829431438127088

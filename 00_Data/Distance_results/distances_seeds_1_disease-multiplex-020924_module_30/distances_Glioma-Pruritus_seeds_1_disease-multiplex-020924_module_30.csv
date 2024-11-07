@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Pruritus nodes,sAB
+0,disease_on_genes,22,26,0.17259187620889738
+1,disease_on_symptoms,24,19,1.0697419420644634
+2,disease_on_drugs,20,24,1.0886363636363638

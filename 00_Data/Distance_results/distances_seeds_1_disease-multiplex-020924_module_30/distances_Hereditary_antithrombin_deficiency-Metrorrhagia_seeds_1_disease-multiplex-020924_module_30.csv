@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,28,27,0.12889610389610384
+1,disease_on_symptoms,15,17,0.9882352941176471
+2,disease_on_drugs,20,26,0.6539297658862877

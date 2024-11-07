@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,25,27,0.0010893246187362315
+1,disease_on_symptoms,18,19,0.276513355460724
+2,disease_on_drugs,24,24,0.08333333333333326

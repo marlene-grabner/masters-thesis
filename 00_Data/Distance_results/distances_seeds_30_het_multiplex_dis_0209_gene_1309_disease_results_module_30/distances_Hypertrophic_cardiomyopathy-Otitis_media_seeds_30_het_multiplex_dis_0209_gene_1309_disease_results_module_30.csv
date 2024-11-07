@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.10168517436197155
+1,disease_on_symptoms,19,20,0.5813427800269908
+2,disease_on_drugs,22,28,0.2677272727272728

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.22807017543859653
+1,disease_on_symptoms,17,21,0.23426212590299267
+2,disease_on_drugs,28,23,-0.32278346121057133

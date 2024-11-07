@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,29,30,-0.18644067796610164
+1,disease_on_symptoms,19,16,0.1283364661654134
+2,disease_on_drugs,29,29,-0.08620689655172398

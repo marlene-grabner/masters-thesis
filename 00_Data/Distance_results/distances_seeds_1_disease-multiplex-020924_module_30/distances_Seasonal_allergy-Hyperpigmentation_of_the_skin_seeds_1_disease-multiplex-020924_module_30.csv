@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,29,24,0.03952504879635632
+1,disease_on_symptoms,15,23,2.2524027459954232
+2,disease_on_drugs,29,12,0.5437342304457529

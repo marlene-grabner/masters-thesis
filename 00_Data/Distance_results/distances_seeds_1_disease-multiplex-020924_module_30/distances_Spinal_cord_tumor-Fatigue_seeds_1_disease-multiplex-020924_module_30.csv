@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Fatigue nodes,sAB
+0,disease_on_genes,22,26,0.1774475524475525
+1,disease_on_symptoms,22,21,1.0009060706735127
+2,disease_on_drugs,14,26,0.5293956043956045

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,14,17,0.7059501219842774
+2,disease_on_drugs,25,24,-0.12130952380952387

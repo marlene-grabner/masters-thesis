@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,17,0.9714228934817168
+2,disease_on_drugs,29,25,0.09519795657726715

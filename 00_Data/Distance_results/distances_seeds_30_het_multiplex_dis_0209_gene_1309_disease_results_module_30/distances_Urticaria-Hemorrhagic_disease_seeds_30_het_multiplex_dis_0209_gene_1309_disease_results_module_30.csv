@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,24,26,-0.020000000000000018
+1,disease_on_symptoms,21,19,0.9791979949874685
+2,disease_on_drugs,24,24,-0.04166666666666652

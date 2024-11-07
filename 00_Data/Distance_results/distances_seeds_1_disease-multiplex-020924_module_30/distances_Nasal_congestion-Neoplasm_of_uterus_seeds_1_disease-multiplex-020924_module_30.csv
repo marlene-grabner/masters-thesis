@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.033743842364531984
+1,disease_on_symptoms,15,19,0.7031991744066046
+2,disease_on_drugs,23,28,0.9211880404335646

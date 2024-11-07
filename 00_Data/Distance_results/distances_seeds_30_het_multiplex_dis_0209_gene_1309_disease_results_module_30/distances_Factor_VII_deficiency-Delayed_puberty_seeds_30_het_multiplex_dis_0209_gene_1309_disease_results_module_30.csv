@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,28,30,0.20628078817733986
+1,disease_on_symptoms,19,16,0.9780075187969925
+2,disease_on_drugs,25,29,0.3563473818646232

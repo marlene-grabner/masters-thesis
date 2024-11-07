@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.41666666666666674
+1,disease_on_symptoms,12,13,0.972948717948718
+2,disease_on_drugs,17,29,0.5358056265984656

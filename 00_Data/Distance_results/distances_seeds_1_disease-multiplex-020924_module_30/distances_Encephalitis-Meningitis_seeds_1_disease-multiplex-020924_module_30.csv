@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,-0.2453331604874256
+1,disease_on_symptoms,17,20,-0.1567170111287759
+2,disease_on_drugs,18,26,-0.2272727272727273

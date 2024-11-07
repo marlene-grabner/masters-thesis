@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,13,17,0.5277526395173455
+2,disease_on_drugs,29,25,0.28740740740740733

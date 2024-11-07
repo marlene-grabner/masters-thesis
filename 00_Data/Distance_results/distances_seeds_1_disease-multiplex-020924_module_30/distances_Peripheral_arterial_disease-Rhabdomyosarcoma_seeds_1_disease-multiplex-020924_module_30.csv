@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,25,23,0.34949275362318843
+1,disease_on_symptoms,14,24,1.6293859649122808
+2,disease_on_drugs,22,17,1.1794871794871793

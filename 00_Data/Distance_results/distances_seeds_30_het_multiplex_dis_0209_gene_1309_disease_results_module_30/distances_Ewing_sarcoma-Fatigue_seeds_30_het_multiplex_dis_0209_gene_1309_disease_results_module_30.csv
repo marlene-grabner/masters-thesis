@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.146978021978022
+1,disease_on_symptoms,17,16,1.158422459893048
+2,disease_on_drugs,24,26,0.10275641025641002

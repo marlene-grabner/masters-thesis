@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,0.22939560439560447
+1,disease_on_symptoms,21,16,0.6527509652509651
+2,disease_on_drugs,26,24,0.7390384615384618

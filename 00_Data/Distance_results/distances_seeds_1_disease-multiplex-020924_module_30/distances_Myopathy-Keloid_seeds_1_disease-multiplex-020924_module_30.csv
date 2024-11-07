@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Keloid nodes,sAB
+0,disease_on_genes,18,22,0.26843434343434347
+1,disease_on_symptoms,21,20,1.2889082462253194
+2,disease_on_drugs,6,19,-0.04666666666666641

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,26,30,0.2321428571428572
+1,disease_on_symptoms,17,25,0.5863305322128851
+2,disease_on_drugs,24,30,0.3921296296296295

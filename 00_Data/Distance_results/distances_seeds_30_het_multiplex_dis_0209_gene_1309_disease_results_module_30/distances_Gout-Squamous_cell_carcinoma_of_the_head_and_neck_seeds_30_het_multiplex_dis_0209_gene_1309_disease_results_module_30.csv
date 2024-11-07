@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,28,30,-0.1891215106732349
+1,disease_on_symptoms,19,22,0.1285739292799628
+2,disease_on_drugs,22,30,-0.1164335664335665

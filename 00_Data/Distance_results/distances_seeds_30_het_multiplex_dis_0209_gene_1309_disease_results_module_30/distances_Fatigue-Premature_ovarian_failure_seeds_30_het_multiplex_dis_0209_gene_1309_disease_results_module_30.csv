@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,30,-0.1648351648351648
+1,disease_on_symptoms,16,15,0.5986559139784948
+2,disease_on_drugs,26,26,-0.07692307692307687

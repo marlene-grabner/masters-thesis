@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Myalgia nodes,sAB
+0,disease_on_genes,9,30,-0.045726495726495786
+1,disease_on_symptoms,27,16,1.2973191214470283
+2,disease_on_drugs,9,29,0.5526315789473684

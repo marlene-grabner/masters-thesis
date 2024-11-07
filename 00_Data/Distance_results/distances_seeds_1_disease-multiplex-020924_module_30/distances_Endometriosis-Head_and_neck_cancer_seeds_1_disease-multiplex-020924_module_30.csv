@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,0.06920077972709548
+1,disease_on_symptoms,12,22,0.09937611408199643
+2,disease_on_drugs,27,24,0.23284313725490202

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Glioma nodes,sAB
+0,disease_on_genes,17,22,0.30950956937799035
+1,disease_on_symptoms,27,24,1.7318899782135075
+2,disease_on_drugs,14,20,0.498109243697479

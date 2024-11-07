@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,24,27,-0.11778322440087152
+1,disease_on_symptoms,22,27,0.16864220435649013
+2,disease_on_drugs,24,26,-0.15846153846153832

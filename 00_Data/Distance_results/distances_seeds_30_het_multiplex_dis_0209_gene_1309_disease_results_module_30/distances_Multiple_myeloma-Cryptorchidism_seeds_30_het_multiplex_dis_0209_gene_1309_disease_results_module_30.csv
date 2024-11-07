@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,26,23,-0.08296362023070103
+1,disease_on_symptoms,21,19,0.9739974937343359
+2,disease_on_drugs,25,21,0.06973084886128356

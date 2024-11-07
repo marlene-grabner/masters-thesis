@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Arthralgia nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,18,17,1.653548085901027
+2,disease_on_drugs,22,30,0.14755244755244745

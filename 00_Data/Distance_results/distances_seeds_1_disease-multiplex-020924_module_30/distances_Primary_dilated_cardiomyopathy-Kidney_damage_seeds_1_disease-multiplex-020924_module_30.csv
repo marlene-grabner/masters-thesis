@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.6399999999999999
+1,disease_on_symptoms,25,26,1.5096983408748113
+2,disease_on_drugs,7,13,0.28626373626373636

@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,13,30,0.1536076326774003
+1,disease_on_symptoms,26,24,0.6563461538461537
+2,disease_on_drugs,9,24,0.1452020202020201

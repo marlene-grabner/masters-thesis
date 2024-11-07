@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.15854341736694666
+1,disease_on_symptoms,16,25,1.224969512195122
+2,disease_on_drugs,30,21,0.588235294117647

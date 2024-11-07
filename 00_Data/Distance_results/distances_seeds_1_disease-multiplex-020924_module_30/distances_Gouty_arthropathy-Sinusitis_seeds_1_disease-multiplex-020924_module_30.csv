@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,25,29,0.42383141762452126
+1,disease_on_symptoms,13,21,1.3795518207282913
+2,disease_on_drugs,16,28,0.8469967532467533

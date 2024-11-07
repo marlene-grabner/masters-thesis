@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.2075337311186367
+1,disease_on_symptoms,20,18,2.383625730994152
+2,disease_on_drugs,27,21,0.7070105820105821

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,26,26,0.019230769230769384
+1,disease_on_symptoms,17,18,0.5128384687208216
+2,disease_on_drugs,24,25,0.1818877551020408

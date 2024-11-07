@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,16,19,-0.17241541353383472
+2,disease_on_drugs,29,29,0.01724137931034475

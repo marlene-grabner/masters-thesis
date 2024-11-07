@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,13,0.33965414430530716
+1,disease_on_symptoms,16,26,0.5392628205128205
+2,disease_on_drugs,23,9,0.2542270531400965

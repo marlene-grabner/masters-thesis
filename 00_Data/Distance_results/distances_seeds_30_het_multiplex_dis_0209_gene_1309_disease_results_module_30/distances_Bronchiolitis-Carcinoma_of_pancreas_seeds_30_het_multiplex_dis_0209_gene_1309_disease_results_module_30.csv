@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,28,30,0.06954022988505759
+1,disease_on_symptoms,25,18,0.4203359173126615
+2,disease_on_drugs,24,21,0.24603174603174605

@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,24,22,-0.1461627140974966
+1,disease_on_symptoms,22,19,1.6270568327692847
+2,disease_on_drugs,11,19,-0.25964912280701735

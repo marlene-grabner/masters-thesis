@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.0847457627118644
+1,disease_on_symptoms,14,16,-0.012499999999999956
+2,disease_on_drugs,27,29,-0.07827038861521607

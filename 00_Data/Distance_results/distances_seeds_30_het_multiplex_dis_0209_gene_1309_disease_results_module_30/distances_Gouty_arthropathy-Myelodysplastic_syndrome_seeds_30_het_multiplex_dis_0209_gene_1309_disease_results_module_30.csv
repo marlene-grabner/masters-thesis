@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,28,26,0.07407407407407418
+1,disease_on_symptoms,18,17,0.057936507936508175
+2,disease_on_drugs,23,24,-0.023242368177613493

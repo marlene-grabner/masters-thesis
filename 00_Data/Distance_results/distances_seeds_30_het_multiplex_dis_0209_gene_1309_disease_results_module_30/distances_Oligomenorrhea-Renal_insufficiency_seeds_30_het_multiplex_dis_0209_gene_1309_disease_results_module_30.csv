@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.15254237288135597
+1,disease_on_symptoms,11,19,0.275279106858054
+2,disease_on_drugs,24,28,-0.017857142857142794

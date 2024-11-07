@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,20,30,0.19833333333333347
+1,disease_on_symptoms,24,19,1.1131935944512446
+2,disease_on_drugs,18,22,0.6452020202020203

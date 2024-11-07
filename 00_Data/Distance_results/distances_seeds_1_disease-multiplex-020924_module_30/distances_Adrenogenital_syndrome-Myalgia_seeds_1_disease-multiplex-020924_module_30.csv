@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,7,16,-0.13237577639751552
+2,disease_on_drugs,22,29,0.3342245989304815

@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,27,18,0.09999999999999987
+1,disease_on_symptoms,15,21,3.142063492063492
+2,disease_on_drugs,25,17,0.6774789915966386

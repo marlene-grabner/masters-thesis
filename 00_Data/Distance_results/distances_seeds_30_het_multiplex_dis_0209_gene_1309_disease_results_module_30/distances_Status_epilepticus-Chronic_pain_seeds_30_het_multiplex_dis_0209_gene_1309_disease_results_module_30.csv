@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,18,19,-0.48202149517938997
+2,disease_on_drugs,30,28,-0.25812807881773414

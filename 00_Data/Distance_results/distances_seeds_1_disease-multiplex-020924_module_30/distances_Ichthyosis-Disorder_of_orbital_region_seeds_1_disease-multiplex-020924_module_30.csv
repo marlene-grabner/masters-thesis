@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,17,-0.014111705288175846
+1,disease_on_symptoms,17,27,0.15879382055852664
+2,disease_on_drugs,24,16,-0.03750000000000009

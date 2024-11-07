@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.12920426579163236
+1,disease_on_symptoms,11,19,0.8633173843700161
+2,disease_on_drugs,21,22,0.2767542534984395

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,24,0.11260893246187376
+1,disease_on_symptoms,17,20,1.3670508744038155
+2,disease_on_drugs,20,22,0.23917748917748916

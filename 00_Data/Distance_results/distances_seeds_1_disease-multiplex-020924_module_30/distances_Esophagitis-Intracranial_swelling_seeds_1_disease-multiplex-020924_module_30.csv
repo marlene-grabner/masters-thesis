@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,24,30,0.05306261963357928
+1,disease_on_symptoms,23,14,0.530804096021487
+2,disease_on_drugs,20,24,0.24962121212121202

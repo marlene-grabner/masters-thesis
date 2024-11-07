@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,25,25,0.11999999999999988
+1,disease_on_symptoms,24,23,1.5484312365094048
+2,disease_on_drugs,23,20,0.2523255813953489

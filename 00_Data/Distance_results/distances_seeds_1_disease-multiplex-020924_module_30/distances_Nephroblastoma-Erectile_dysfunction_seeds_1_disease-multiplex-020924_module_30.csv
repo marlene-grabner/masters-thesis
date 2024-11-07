@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,0.1233333333333333
+1,disease_on_symptoms,25,16,1.4461280487804875
+2,disease_on_drugs,21,30,0.5186274509803921

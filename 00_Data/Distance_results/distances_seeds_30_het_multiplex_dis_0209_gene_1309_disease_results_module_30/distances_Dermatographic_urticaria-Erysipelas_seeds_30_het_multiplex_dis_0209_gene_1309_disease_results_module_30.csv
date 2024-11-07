@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,30,-0.30508474576271183
+1,disease_on_symptoms,18,18,-0.38888888888888906
+2,disease_on_drugs,28,29,-0.2623152709359604

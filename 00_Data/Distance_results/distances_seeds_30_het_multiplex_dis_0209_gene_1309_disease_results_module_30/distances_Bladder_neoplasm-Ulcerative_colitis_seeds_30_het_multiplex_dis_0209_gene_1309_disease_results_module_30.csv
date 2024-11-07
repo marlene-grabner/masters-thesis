@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,-0.1132075471698113
+1,disease_on_symptoms,19,20,0.4854251012145747
+2,disease_on_drugs,25,27,0.019230769230769162

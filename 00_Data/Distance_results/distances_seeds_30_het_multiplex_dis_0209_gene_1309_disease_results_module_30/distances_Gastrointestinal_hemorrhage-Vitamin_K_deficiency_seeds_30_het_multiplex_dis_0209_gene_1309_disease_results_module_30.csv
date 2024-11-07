@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,28,25,-0.017857142857142794
+1,disease_on_symptoms,20,21,0.798548199767712
+2,disease_on_drugs,27,21,0.06150793650793651

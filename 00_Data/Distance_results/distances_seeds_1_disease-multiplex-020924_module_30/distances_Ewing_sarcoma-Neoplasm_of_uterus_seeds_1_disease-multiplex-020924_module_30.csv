@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,24,28,-0.3262362637362637
+1,disease_on_symptoms,25,19,-0.5696172248803827
+2,disease_on_drugs,17,28,-0.4178571428571428

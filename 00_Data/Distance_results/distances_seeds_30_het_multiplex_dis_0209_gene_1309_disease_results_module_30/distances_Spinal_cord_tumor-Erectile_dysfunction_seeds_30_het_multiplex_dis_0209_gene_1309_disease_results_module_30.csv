@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,29,30,0.03389830508474567
+1,disease_on_symptoms,14,15,0.10689655172413781
+2,disease_on_drugs,22,30,0.10221445221445213

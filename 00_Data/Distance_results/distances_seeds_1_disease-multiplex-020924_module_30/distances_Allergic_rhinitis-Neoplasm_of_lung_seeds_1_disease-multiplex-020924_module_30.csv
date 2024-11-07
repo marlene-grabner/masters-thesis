@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,21,30,0.25364145658263304
+1,disease_on_symptoms,22,20,1.2923160173160173
+2,disease_on_drugs,21,30,0.5659663865546218

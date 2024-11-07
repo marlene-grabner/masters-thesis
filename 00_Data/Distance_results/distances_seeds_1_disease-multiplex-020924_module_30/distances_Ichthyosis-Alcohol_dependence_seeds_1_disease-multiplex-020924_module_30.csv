@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,12,0.4668803418803418
+1,disease_on_symptoms,17,27,0.2530699148346207
+2,disease_on_drugs,24,9,0.31313131313131315

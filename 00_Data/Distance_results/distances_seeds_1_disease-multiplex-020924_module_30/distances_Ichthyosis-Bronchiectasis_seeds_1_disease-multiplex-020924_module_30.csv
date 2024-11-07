@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.13830409356725126
+1,disease_on_symptoms,17,15,0.3160539215686273
+2,disease_on_drugs,24,26,0.44153846153846166

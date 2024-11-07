@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,22,30,0.4343822843822842
+1,disease_on_symptoms,21,15,1.9801587301587302
+2,disease_on_drugs,6,30,1.2222222222222223

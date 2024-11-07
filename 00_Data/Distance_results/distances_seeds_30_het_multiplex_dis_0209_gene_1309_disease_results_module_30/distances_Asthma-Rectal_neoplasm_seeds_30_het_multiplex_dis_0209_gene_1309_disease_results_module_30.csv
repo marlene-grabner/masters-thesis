@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,0.0724242424242425
+1,disease_on_symptoms,20,20,1.025
+2,disease_on_drugs,22,29,0.4400854385641406

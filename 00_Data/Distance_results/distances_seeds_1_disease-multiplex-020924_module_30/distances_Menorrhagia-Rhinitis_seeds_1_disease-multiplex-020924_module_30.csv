@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.23278388278388285
+1,disease_on_symptoms,19,15,0.8566563467492261
+2,disease_on_drugs,24,22,0.4791666666666665

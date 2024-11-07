@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,21,18,0.7548840048840049
+2,disease_on_drugs,29,21,0.570935960591133

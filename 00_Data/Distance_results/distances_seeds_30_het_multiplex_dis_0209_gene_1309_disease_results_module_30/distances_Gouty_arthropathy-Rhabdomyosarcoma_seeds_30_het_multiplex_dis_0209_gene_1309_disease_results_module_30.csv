@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,28,29,0.07017543859649122
+1,disease_on_symptoms,18,19,0.6678125493914968
+2,disease_on_drugs,23,29,0.21563256833121902

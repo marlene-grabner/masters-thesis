@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,-0.1385467980295566
+1,disease_on_symptoms,20,19,0.0020917678812415463
+2,disease_on_drugs,27,30,0.1380116959064328

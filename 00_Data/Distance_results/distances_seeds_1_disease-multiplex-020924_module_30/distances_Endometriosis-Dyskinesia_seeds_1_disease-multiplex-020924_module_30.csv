@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.2569444444444442
+1,disease_on_symptoms,12,17,1.4225828262339417
+2,disease_on_drugs,27,23,0.8400000000000001

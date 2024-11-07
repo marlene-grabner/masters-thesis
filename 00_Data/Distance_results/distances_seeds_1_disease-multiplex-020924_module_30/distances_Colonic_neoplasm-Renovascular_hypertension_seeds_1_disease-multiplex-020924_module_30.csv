@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.1876750700280112
+1,disease_on_symptoms,19,22,1.799976660053682
+2,disease_on_drugs,29,20,0.6301020408163265

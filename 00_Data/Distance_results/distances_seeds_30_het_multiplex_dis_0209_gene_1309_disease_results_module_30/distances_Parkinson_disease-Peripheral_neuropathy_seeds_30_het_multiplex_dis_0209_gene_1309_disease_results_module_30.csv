@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,23,30,-0.39622641509433965
+1,disease_on_symptoms,23,21,-0.3954451345755694
+2,disease_on_drugs,22,29,-0.44538693220234804

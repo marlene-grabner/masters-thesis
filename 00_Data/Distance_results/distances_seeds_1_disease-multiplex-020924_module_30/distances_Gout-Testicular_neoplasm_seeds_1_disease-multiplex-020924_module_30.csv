@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,25,25,0.039999999999999813
+1,disease_on_symptoms,18,25,2.082170542635659
+2,disease_on_drugs,23,23,0.7173913043478262

@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Dermatitis nodes,sAB
+0,disease_on_genes,14,26,0.4771062271062272
+1,disease_on_symptoms,25,25,3.1399999999999997
+2,disease_on_drugs,10,24,0.878921568627451

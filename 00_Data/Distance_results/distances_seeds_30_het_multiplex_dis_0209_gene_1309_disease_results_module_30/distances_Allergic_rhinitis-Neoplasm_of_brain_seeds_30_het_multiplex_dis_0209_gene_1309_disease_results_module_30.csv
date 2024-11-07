@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,28,30,0.0005747126436781436
+1,disease_on_symptoms,20,19,0.5898448043184883
+2,disease_on_drugs,25,29,0.36255427841634735

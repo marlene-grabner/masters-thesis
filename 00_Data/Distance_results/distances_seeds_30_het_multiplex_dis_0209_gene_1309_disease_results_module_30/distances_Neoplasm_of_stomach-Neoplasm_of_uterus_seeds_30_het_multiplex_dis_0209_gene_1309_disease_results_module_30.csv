@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,25,30,-0.2927272727272727
+1,disease_on_symptoms,23,18,-0.40511959467420766
+2,disease_on_drugs,24,26,-0.29698717948717956

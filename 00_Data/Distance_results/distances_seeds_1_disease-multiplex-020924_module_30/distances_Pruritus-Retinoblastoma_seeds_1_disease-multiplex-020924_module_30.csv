@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,26,26,0.1368325791855205
+1,disease_on_symptoms,19,24,1.0280752753977969
+2,disease_on_drugs,24,24,1.0625

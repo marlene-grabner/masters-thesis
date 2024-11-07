@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,21,16,0.7070463320463318
+2,disease_on_drugs,25,25,-0.040000000000000036

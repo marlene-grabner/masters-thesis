@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,12,20,0.8833333333333333
+2,disease_on_drugs,29,25,-0.05489144316730532

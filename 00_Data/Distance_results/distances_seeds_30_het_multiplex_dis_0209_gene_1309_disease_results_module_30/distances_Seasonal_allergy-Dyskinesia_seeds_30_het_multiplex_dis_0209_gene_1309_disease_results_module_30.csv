@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,18,15,1.806060606060606
+2,disease_on_drugs,29,28,0.333927491141647

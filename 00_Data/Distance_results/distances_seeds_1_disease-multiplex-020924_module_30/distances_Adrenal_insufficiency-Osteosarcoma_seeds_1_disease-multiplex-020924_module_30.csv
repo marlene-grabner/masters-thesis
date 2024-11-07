@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,17,25,0.34974789915966387
+1,disease_on_symptoms,21,24,1.649404761904762
+2,disease_on_drugs,14,23,0.972972972972973

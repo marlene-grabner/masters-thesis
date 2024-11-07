@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,16,11,0.6779250841750843
+2,disease_on_drugs,28,21,0.2482993197278911

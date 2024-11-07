@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,27,0.09354673977315486
+1,disease_on_symptoms,20,19,0.8746626180836707
+2,disease_on_drugs,20,26,0.7633779264214047

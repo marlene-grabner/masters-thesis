@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,15,21,1.0730158730158732
+2,disease_on_drugs,29,26,0.4194116228598985

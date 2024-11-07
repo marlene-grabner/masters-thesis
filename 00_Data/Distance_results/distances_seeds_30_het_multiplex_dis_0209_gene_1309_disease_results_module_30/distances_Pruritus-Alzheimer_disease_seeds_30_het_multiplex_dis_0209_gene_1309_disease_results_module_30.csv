@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,23,-0.03851851851851862
+1,disease_on_symptoms,21,19,0.958270676691729
+2,disease_on_drugs,27,19,0.11700144080006791

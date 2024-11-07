@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,0.26826417299824645
+1,disease_on_symptoms,16,16,0.78125
+2,disease_on_drugs,23,24,0.9370374653098983

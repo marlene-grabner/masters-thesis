@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.15692007797270957
+1,disease_on_symptoms,16,14,1.8821428571428571
+2,disease_on_drugs,25,26,0.6274057315233785

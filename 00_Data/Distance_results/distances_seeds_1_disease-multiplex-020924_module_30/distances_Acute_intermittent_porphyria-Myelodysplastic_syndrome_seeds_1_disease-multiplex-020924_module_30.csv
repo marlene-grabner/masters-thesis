@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,0.45352900069881175
+1,disease_on_symptoms,20,15,2.498809523809524
+2,disease_on_drugs,15,21,0.984126984126984

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,0.08501850769530495
+1,disease_on_symptoms,23,24,0.550705365402405
+2,disease_on_drugs,27,24,0.17619825708061

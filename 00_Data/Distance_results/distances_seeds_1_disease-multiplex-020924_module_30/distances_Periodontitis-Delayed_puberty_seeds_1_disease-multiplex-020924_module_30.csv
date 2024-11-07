@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,23,22,0.32006399397703755
+1,disease_on_symptoms,25,20,1.757222222222222
+2,disease_on_drugs,22,19,0.8791866028708133

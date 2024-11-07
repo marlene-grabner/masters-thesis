@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.2241715399610138
+1,disease_on_symptoms,21,22,0.6515151515151516
+2,disease_on_drugs,29,26,1.0200626959247652

@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.0009746588693957392
+1,disease_on_symptoms,14,19,0.8537821827295513
+2,disease_on_drugs,21,24,0.20218253968253963

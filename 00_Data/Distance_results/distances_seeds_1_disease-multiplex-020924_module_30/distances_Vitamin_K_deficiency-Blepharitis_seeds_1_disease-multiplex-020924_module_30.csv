@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,20,0.16388888888888897
+1,disease_on_symptoms,23,27,1.3763607085346214
+2,disease_on_drugs,20,19,0.35890688259109305

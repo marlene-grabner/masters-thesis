@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,23,30,-0.20314465408805016
+1,disease_on_symptoms,23,22,0.3572244180939834
+2,disease_on_drugs,22,29,0.005593459954514657

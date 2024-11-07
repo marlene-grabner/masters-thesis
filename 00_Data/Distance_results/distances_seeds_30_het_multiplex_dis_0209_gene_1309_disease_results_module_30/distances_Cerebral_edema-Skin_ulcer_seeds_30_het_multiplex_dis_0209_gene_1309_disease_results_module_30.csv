@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,10,20,0.8166666666666669
+2,disease_on_drugs,16,24,0.37291666666666656

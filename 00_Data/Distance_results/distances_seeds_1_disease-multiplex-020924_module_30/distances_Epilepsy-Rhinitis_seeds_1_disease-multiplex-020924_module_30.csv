@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Rhinitis nodes,sAB
+0,disease_on_genes,29,30,0.4079096045197741
+1,disease_on_symptoms,18,15,0.8318181818181816
+2,disease_on_drugs,30,22,0.8487179487179488

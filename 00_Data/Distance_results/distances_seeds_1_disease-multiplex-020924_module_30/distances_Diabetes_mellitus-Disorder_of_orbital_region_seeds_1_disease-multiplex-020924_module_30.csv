@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,20,17,0.10465023847376798
+1,disease_on_symptoms,18,27,2.15
+2,disease_on_drugs,19,16,0.711184210526316

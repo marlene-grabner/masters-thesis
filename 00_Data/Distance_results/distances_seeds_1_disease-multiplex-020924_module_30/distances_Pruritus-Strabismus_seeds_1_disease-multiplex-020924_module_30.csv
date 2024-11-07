@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,13,0.3509311740890688
+1,disease_on_symptoms,19,26,1.2161268556005398
+2,disease_on_drugs,24,9,0.7323232323232323

@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,26,28,0.01638176638176647
+1,disease_on_symptoms,17,23,1.6886189258312019
+2,disease_on_drugs,20,26,0.02675585284280957

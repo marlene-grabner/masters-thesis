@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,25,27,0.2092307692307691
+1,disease_on_symptoms,24,17,1.5709588713534195
+2,disease_on_drugs,20,26,0.9615384615384617

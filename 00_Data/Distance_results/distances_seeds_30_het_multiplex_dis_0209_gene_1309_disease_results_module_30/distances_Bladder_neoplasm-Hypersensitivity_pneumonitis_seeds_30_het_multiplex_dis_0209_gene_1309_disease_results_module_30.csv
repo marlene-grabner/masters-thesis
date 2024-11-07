@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,25,-0.3137254901960784
+1,disease_on_symptoms,19,20,-0.3818825910931174
+2,disease_on_drugs,25,25,-0.28

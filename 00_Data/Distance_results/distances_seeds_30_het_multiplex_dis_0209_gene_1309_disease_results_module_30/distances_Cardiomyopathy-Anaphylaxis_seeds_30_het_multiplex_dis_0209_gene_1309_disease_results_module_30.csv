@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,-0.07774928774928791
+1,disease_on_symptoms,21,14,0.7595238095238095
+2,disease_on_drugs,24,26,0.338974358974359

@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,24,26,0.06000000000000005
+1,disease_on_symptoms,23,19,0.12177182085648908
+2,disease_on_drugs,24,23,0.0633672525439406

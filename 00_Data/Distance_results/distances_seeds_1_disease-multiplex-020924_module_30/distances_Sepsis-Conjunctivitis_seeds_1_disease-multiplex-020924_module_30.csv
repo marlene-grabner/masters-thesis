@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,22,27,-0.009705902563045488
+1,disease_on_symptoms,23,27,0.5509822866344605
+2,disease_on_drugs,17,26,0.22829632747553386

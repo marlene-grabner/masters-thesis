@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,9,23,-0.08559782608695654
+2,disease_on_drugs,23,30,0.049712879409351984

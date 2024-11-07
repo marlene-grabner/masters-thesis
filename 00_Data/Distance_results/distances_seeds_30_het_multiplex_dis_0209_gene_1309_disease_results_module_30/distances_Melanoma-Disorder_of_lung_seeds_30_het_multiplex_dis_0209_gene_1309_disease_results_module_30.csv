@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,27,27,-0.18518518518518523
+1,disease_on_symptoms,23,18,0.28458230234476267
+2,disease_on_drugs,25,24,0.00035714285714272265

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,11,18,0.017676767676767735
+2,disease_on_drugs,27,23,-0.09294685990338158

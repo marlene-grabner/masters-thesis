@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,0.78
+1,disease_on_symptoms,9,19,0.8861737677527151
+2,disease_on_drugs,11,13,0.9994172494172497

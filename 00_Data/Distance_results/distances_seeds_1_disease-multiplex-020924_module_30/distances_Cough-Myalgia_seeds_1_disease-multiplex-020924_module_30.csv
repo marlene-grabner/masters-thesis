@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,-0.06851851851851842
+1,disease_on_symptoms,21,16,1.2460585585585586
+2,disease_on_drugs,27,29,0.1593915343915342

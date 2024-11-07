@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,21,19,0.2772556390977443
+1,disease_on_symptoms,26,21,2.3035227184163354
+2,disease_on_drugs,20,17,1.0

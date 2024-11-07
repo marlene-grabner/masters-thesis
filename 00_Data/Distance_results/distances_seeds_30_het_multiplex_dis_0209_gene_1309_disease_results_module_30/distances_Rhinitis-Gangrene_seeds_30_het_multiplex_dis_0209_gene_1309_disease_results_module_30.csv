@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.1578947368421053
+1,disease_on_symptoms,12,22,0.08778966131907318
+2,disease_on_drugs,23,27,0.17819645732689215

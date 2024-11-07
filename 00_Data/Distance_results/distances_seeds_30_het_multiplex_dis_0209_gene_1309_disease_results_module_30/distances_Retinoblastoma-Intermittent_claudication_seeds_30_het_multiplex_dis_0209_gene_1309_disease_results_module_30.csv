@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,21,14,0.623809523809524
+2,disease_on_drugs,27,24,0.5219226579520697

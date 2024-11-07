@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,0.08502824858757063
+1,disease_on_symptoms,15,12,0.2055555555555557
+2,disease_on_drugs,29,30,0.7118546658873952

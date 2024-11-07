@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,28,30,-0.12068965517241381
+1,disease_on_symptoms,17,14,-0.1111412306858226
+2,disease_on_drugs,19,29,-0.115509679370841

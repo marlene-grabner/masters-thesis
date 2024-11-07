@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,18,-0.2197724039829303
+2,disease_on_drugs,30,29,-0.01758231053964554

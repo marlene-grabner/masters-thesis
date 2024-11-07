@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,27,30,0.05165692007797262
+1,disease_on_symptoms,17,18,0.9674603174603176
+2,disease_on_drugs,24,30,0.33657407407407414

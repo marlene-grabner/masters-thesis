@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,16,20,0.002083333333333659
+2,disease_on_drugs,30,21,-0.17142857142857126

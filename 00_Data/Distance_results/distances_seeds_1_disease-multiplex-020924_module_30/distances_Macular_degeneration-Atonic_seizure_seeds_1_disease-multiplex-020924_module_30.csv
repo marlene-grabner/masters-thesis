@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.32202415741281887
+1,disease_on_symptoms,15,16,1.0518817204301074
+2,disease_on_drugs,21,24,1.1761904761904765

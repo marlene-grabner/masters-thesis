@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,West_syndrome nodes,sAB
+0,disease_on_genes,29,29,0.43103448275862055
+1,disease_on_symptoms,15,18,1.4505050505050505
+2,disease_on_drugs,29,22,0.5906017579445573

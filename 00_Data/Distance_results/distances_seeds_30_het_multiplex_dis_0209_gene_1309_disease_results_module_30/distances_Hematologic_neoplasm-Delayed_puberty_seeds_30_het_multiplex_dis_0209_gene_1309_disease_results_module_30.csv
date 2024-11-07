@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,18,16,-0.4828431372549018
+2,disease_on_drugs,27,29,-0.19807060755336625

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.6200738916256159
+1,disease_on_symptoms,25,17,2.0854901960784313
+2,disease_on_drugs,7,25,0.9285714285714286

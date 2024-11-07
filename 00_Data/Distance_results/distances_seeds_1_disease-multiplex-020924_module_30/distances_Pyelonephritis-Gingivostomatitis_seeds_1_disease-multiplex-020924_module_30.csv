@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,23,30,-0.4903746240087504
+1,disease_on_symptoms,21,23,-0.06982872200263501
+2,disease_on_drugs,19,29,-0.4683908045977011

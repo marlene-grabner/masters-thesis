@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Rosacea nodes,sAB
+0,disease_on_genes,21,30,0.01582633053221283
+1,disease_on_symptoms,26,17,0.17478690939703267
+2,disease_on_drugs,20,27,-0.021276595744680882

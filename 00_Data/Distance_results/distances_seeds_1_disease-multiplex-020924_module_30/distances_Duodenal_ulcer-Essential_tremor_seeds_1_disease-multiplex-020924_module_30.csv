@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.22959183673469408
+1,disease_on_symptoms,17,20,1.9410572337042924
+2,disease_on_drugs,28,19,0.8885778275475926

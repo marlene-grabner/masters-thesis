@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,24,29,0.2345478204294078
+1,disease_on_symptoms,23,22,1.7978919631093546
+2,disease_on_drugs,22,29,1.1051386071670046

@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,0.0
+1,disease_on_symptoms,23,20,0.30952982810920115
+2,disease_on_drugs,26,20,0.25593645484949823

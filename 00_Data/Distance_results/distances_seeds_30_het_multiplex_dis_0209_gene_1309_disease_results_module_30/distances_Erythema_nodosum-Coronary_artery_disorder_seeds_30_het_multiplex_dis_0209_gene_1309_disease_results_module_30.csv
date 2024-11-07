@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.01599671862182106
+1,disease_on_symptoms,22,19,0.9047438440891586
+2,disease_on_drugs,29,22,0.053445202532423464

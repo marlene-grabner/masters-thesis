@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.17999999999999994
+1,disease_on_symptoms,19,17,0.7703818369453044
+2,disease_on_drugs,24,23,0.31820459451125505

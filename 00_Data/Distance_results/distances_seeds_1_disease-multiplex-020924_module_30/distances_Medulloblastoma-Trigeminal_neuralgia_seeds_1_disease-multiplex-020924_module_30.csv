@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,26,28,0.15013227513227512
+1,disease_on_symptoms,19,19,0.8157894736842106
+2,disease_on_drugs,24,26,0.6599358974358973

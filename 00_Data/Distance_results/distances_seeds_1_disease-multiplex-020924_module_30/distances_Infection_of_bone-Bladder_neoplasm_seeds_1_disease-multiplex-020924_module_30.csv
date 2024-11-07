@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,26,26,0.2692307692307694
+1,disease_on_symptoms,21,20,1.1675667828106853
+2,disease_on_drugs,24,25,1.0191326530612246

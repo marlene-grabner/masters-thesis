@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.12851213282247764
+1,disease_on_symptoms,16,22,0.29022129186602896
+2,disease_on_drugs,23,26,0.10070984915705394

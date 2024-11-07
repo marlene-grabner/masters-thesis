@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,28,0.2541967291967291
+1,disease_on_symptoms,19,23,0.7053503323526209
+2,disease_on_drugs,27,28,0.5275974025974026

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,29,25,0.25016602809706256
+1,disease_on_symptoms,17,13,1.7912518853695323
+2,disease_on_drugs,26,16,1.000114468864469

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,0.1921245421245421
+1,disease_on_symptoms,28,15,0.8827519379844959
+2,disease_on_drugs,23,30,0.9593929450369154

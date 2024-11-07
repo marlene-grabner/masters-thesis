@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666687
+1,disease_on_symptoms,18,22,0.2381313131313132
+2,disease_on_drugs,24,28,0.30815018315018317

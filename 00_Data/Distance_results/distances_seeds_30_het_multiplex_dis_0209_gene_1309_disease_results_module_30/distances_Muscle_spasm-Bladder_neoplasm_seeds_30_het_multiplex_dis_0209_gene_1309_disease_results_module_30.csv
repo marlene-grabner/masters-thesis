@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,15,19,0.9002063983488133
+2,disease_on_drugs,29,25,0.4176245210727969

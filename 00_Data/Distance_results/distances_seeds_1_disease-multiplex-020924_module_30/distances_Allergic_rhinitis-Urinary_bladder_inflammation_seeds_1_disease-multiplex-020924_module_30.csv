@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,21,25,0.13358178053830239
+1,disease_on_symptoms,22,22,1.2727272727272727
+2,disease_on_drugs,21,24,0.5071428571428571

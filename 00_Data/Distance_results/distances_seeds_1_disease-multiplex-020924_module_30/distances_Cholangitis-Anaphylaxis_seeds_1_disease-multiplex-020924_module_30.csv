@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.37037037037037024
+1,disease_on_symptoms,22,15,1.437100737100737
+2,disease_on_drugs,26,26,0.7307692307692308

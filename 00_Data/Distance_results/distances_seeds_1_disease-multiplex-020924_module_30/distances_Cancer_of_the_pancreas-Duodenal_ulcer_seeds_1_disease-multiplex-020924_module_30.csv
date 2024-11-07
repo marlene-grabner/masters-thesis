@@ -1,0 +1,4 @@
+,Layer,Cancer_of_the_pancreas nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,29,28,0.19235588972431095
+1,disease_on_symptoms,16,17,0.5165998217468806
+2,disease_on_drugs,29,28,1.0704779189352691

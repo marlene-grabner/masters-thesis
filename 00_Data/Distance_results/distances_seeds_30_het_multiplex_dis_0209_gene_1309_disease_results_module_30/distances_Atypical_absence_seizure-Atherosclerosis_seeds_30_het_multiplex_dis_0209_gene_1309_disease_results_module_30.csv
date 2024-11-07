@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,13,14,1.1253561253561255
+2,disease_on_drugs,22,29,0.3679236584916099

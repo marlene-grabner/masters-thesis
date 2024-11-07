@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,13,14,0.7507122507122506
+2,disease_on_drugs,21,29,-0.08495894909688029

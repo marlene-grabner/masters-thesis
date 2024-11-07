@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,27,27,0.18518518518518512
+1,disease_on_symptoms,17,21,1.3520566121185316
+2,disease_on_drugs,25,27,0.7115384615384615

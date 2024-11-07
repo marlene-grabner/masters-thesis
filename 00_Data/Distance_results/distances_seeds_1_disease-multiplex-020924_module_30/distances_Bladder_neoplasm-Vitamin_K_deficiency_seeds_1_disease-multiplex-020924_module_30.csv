@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.021568627450980538
+1,disease_on_symptoms,20,23,1.1961324570273004
+2,disease_on_drugs,25,20,0.17222222222222228

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,12,15,0.3092592592592591
+2,disease_on_drugs,29,28,-0.08838907613862235

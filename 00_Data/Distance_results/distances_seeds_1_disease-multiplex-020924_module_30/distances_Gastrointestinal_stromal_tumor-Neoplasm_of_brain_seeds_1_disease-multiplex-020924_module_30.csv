@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,23,22,0.09079929732103653
+1,disease_on_symptoms,20,23,0.7625884732052581
+2,disease_on_drugs,19,20,0.2833333333333332

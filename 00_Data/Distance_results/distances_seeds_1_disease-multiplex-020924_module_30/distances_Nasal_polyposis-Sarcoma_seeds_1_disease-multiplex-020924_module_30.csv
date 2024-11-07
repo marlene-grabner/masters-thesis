@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,15,25,0.3666666666666667
+1,disease_on_symptoms,25,26,1.2536199095022627
+2,disease_on_drugs,10,21,0.5451612903225806

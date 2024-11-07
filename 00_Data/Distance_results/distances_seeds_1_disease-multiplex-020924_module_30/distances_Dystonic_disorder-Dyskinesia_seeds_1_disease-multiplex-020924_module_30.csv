@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,17,24,-0.38238283118125316
+1,disease_on_symptoms,28,17,-0.31328197945845004
+2,disease_on_drugs,9,23,-0.5625

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,27,25,-0.07626780626780649
+1,disease_on_symptoms,21,23,0.7911725955204219
+2,disease_on_drugs,25,24,0.2248809523809523

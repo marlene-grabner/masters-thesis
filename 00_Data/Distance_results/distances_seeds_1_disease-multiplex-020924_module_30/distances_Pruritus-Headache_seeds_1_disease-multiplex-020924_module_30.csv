@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Headache nodes,sAB
+0,disease_on_genes,26,30,-0.058484848484848584
+1,disease_on_symptoms,19,25,0.7707655502392343
+2,disease_on_drugs,24,26,0.14076923076923076

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,17,0.11764705882352944
+2,disease_on_drugs,25,26,-0.03784313725490218

@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.2030752916224816
+1,disease_on_symptoms,23,27,0.12064412238325284
+2,disease_on_drugs,18,17,0.5435107376283845

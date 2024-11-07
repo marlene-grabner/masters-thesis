@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666654
+1,disease_on_symptoms,18,22,0.06212121212121202
+2,disease_on_drugs,27,30,-0.17573099415204685

@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,28,0.3571428571428572
+1,disease_on_symptoms,15,25,1.0183333333333335
+2,disease_on_drugs,21,23,0.8893280632411069

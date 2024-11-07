@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,30,0.10833333333333339
+1,disease_on_symptoms,22,18,0.8027777777777776
+2,disease_on_drugs,24,21,0.1710317460317461

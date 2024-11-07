@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,17,22,0.5695187165775402
+2,disease_on_drugs,24,28,0.053342490842490875

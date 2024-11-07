@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,30,-0.1607142857142857
+1,disease_on_symptoms,23,17,0.026150895140665043
+2,disease_on_drugs,26,30,-0.008608058608058577

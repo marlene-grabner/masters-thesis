@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.17302955665024622
+1,disease_on_symptoms,16,15,-0.4215053763440857
+2,disease_on_drugs,27,23,-0.06450885668276984

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Nocturia nodes,sAB
+0,disease_on_genes,27,25,-0.34967320261437906
+1,disease_on_symptoms,18,18,0.22222222222222232
+2,disease_on_drugs,25,24,-0.24455782312925167

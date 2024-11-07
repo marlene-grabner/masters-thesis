@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,26,26,0.3653846153846152
+1,disease_on_symptoms,17,21,2.181999115435648
+2,disease_on_drugs,20,24,0.8409090909090908

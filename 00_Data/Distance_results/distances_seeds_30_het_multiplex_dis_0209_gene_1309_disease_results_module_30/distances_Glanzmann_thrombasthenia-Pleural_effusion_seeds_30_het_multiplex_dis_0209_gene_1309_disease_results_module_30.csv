@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,24,30,0.0185185185185186
+1,disease_on_symptoms,19,18,0.6831436699857754
+2,disease_on_drugs,24,27,0.14338235294117663

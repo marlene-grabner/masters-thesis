@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Purpura nodes,sAB
+0,disease_on_genes,30,26,-0.18031135531135545
+1,disease_on_symptoms,14,17,0.2393602602331255
+2,disease_on_drugs,11,20,-0.29032258064516125

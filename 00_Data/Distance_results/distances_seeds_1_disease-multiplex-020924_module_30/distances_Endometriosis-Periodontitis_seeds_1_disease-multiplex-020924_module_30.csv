@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,23,0.2744052502050862
+1,disease_on_symptoms,12,25,0.6176576576576573
+2,disease_on_drugs,27,22,0.9318181818181817

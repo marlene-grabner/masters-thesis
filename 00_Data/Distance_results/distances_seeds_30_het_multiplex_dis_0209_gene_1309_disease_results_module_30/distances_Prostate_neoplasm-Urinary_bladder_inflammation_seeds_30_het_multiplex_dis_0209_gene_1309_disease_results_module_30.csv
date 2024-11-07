@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,21,30,-0.18067226890756294
+1,disease_on_symptoms,20,16,0.2520833333333332
+2,disease_on_drugs,21,29,0.10065681444991781

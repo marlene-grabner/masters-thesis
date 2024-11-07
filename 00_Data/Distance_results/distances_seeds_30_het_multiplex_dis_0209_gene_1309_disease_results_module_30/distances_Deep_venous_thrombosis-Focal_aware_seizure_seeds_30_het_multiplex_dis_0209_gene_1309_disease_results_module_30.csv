@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,16,16,0.65625
+2,disease_on_drugs,28,29,0.2458733039495291

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,14,22,0.23809523809523814
+1,disease_on_symptoms,23,24,1.697868485969781
+2,disease_on_drugs,14,19,0.6220095693779906

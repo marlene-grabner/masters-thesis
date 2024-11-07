@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,16,18,0.5827205882352939
+2,disease_on_drugs,30,25,0.1736363636363636

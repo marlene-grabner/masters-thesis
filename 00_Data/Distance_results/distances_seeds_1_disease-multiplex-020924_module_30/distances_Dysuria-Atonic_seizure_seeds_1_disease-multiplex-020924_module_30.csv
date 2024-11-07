@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.017241379310344973
+1,disease_on_symptoms,16,16,1.4375
+2,disease_on_drugs,23,24,0.2548566142460684

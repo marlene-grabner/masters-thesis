@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.06148148148148147
+1,disease_on_symptoms,23,14,1.3944519053214703
+2,disease_on_drugs,22,26,0.3968531468531469

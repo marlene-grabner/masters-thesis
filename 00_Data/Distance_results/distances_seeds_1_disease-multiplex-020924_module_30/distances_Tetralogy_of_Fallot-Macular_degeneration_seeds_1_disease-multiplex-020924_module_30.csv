@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.6833333333333333
+1,disease_on_symptoms,14,15,0.7013136288998356
+2,disease_on_drugs,11,21,0.6324404761904763

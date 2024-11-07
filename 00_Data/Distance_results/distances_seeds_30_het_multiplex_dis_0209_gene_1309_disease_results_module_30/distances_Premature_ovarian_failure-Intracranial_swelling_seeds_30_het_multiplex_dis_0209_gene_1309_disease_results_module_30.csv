@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,15,11,0.08018648018648022
+2,disease_on_drugs,26,21,-0.08491154235835086

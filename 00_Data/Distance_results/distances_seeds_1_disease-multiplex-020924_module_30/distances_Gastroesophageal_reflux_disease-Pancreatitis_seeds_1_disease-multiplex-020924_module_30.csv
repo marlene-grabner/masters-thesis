@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,26,30,-0.013095238095238049
+1,disease_on_symptoms,17,20,0.2670508744038156
+2,disease_on_drugs,25,30,0.10727272727272719

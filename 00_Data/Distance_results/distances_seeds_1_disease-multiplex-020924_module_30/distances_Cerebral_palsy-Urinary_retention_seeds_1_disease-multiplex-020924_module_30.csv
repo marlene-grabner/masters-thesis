@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.22477650063856958
+1,disease_on_symptoms,16,18,0.019199346405228912
+2,disease_on_drugs,18,19,0.32645803698435283

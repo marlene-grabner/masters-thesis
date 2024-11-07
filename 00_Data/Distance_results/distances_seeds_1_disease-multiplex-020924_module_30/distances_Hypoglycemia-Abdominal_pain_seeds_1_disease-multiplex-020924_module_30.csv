@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,12,24,1.3680555555555558
+2,disease_on_drugs,22,24,0.588768115942029

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,29,27,0.07076719576719559
+1,disease_on_symptoms,20,19,0.9982793522267208
+2,disease_on_drugs,27,24,0.5668572984749456

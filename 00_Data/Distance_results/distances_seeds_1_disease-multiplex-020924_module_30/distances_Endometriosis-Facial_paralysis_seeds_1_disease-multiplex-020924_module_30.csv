@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.3214285714285714
+1,disease_on_symptoms,12,23,0.9718426501035198
+2,disease_on_drugs,27,14,1.1219512195121952

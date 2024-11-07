@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.17237274220032828
+1,disease_on_symptoms,17,19,1.2295321637426901
+2,disease_on_drugs,26,26,0.42307692307692313

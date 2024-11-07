@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,23,30,0.40293956795187325
+1,disease_on_symptoms,19,20,1.1529352226720646
+2,disease_on_drugs,11,22,0.9696969696969697

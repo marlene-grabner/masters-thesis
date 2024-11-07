@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.36379310344827576
+1,disease_on_symptoms,17,12,1.2246450304259633
+2,disease_on_drugs,27,21,0.8035714285714286

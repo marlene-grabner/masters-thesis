@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,24,27,0.27886710239651435
+1,disease_on_symptoms,23,21,1.6500564652738567
+2,disease_on_drugs,22,23,0.9584541062801932

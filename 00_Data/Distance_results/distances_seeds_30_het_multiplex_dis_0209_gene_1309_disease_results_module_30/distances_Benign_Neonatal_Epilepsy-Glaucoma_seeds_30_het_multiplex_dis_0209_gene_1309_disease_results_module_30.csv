@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,18,0.4013480392156865
+2,disease_on_drugs,21,28,0.17431972789115635

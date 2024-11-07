@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,17,27,0.5244602891661714
+1,disease_on_symptoms,25,19,1.1250717703349282
+2,disease_on_drugs,13,27,0.8865384615384617

@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.36190476190476195
+1,disease_on_symptoms,19,14,0.3871041239462292
+2,disease_on_drugs,18,30,0.8138888888888889

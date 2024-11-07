@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,18,28,0.46187025534851633
+1,disease_on_symptoms,21,15,1.9547619047619045
+2,disease_on_drugs,6,21,0.6851851851851853

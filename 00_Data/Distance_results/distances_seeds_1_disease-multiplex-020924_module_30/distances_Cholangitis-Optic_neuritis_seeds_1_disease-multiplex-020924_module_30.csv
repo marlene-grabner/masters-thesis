@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.11111111111111116
+1,disease_on_symptoms,22,16,0.32311602870813405
+2,disease_on_drugs,26,27,0.7554157931516421

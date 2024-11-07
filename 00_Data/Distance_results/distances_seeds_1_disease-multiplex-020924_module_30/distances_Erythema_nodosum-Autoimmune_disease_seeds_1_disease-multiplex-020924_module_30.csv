@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,22,-0.04876623376623379
+1,disease_on_symptoms,23,19,0.6890596055355782
+2,disease_on_drugs,28,19,-0.15055591105423138

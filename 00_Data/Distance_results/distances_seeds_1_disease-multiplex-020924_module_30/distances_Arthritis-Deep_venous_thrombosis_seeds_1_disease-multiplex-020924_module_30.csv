@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,28,0.08559113300492616
+1,disease_on_symptoms,19,14,1.971234905445432
+2,disease_on_drugs,29,24,0.25016265452179565

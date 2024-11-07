@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,29,0.39895104895104905
+1,disease_on_symptoms,23,18,1.8180747024861554
+2,disease_on_drugs,25,22,1.021276595744681

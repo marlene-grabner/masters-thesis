@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,23,0.26415094339622636
+1,disease_on_symptoms,18,16,1.881331699346405
+2,disease_on_drugs,27,17,0.7349475143592792

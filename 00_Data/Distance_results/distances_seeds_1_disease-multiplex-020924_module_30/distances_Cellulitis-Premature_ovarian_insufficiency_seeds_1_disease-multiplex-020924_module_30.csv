@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,22,23,0.33225108225108224
+1,disease_on_symptoms,26,22,1.267773892773893
+2,disease_on_drugs,12,17,0.9462474645030423

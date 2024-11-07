@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,20,13,0.8504079254079255
+2,disease_on_drugs,30,19,0.534872896527032

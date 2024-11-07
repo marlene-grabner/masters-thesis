@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,27,30,0.03118908382066299
+1,disease_on_symptoms,21,17,0.25917735515258733
+2,disease_on_drugs,23,25,0.3953985507246376

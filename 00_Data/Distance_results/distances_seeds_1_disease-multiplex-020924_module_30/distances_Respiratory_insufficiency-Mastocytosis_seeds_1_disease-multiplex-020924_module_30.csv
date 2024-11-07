@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,25,18,0.30431524547803623
+1,disease_on_symptoms,20,28,0.4029761904761904
+2,disease_on_drugs,14,17,0.059840065058281544

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,0.07792207792207795
+1,disease_on_symptoms,16,26,0.12122252747252737
+2,disease_on_drugs,28,14,0.4642857142857142

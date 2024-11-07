@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.05110837438423643
+1,disease_on_symptoms,19,19,0.7105263157894739
+2,disease_on_drugs,30,26,0.3214285714285714

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.03333333333333344
+1,disease_on_symptoms,19,18,0.05184131499920985
+2,disease_on_drugs,20,21,-0.2685540069686412

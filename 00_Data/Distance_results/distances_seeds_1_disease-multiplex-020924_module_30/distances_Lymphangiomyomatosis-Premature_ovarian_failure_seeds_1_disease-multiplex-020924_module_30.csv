@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,28,0.16666666666666674
+1,disease_on_symptoms,19,21,0.7535087719298246
+2,disease_on_drugs,22,21,0.0945585422329609

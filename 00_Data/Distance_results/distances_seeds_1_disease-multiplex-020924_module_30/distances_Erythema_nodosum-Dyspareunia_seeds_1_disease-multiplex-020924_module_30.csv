@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,28,24,0.13598901098901095
+1,disease_on_symptoms,23,17,0.11464194373401537
+2,disease_on_drugs,28,23,0.2698666423090976

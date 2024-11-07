@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,25,28,0.3969946091644203
+1,disease_on_symptoms,20,19,1.872165991902834
+2,disease_on_drugs,14,26,0.8736263736263736

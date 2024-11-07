@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,30,-0.08682266009852213
+1,disease_on_symptoms,18,17,-0.2856676003734826
+2,disease_on_drugs,25,30,-0.07515151515151519

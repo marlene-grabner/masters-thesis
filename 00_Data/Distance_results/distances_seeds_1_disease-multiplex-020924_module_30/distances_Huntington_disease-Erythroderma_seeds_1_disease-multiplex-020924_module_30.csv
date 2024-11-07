@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Erythroderma nodes,sAB
+0,disease_on_genes,30,30,0.2833333333333332
+1,disease_on_symptoms,16,19,1.2519266917293232
+2,disease_on_drugs,27,28,0.6909090909090909

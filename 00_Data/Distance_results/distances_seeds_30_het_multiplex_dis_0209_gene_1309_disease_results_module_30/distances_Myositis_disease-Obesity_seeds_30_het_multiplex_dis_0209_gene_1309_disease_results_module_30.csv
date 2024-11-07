@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.21257309941520486
+1,disease_on_symptoms,18,18,0.4444444444444442
+2,disease_on_drugs,26,25,-0.07473604826545999

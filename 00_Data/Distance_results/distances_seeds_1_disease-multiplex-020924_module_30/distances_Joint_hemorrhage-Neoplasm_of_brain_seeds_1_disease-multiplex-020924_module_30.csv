@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,0.48496503496503496
+1,disease_on_symptoms,13,23,1.6687105165366036
+2,disease_on_drugs,18,20,1.2087719298245614

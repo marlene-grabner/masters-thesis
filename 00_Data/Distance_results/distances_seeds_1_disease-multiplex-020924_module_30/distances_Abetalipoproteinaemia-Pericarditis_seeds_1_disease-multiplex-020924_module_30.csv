@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,17,25,0.23249299719887961
+1,disease_on_symptoms,25,22,0.2675435203094778
+2,disease_on_drugs,13,25,0.5204858299595143

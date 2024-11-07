@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,28,27,0.311038961038961
+1,disease_on_symptoms,14,14,2.3214285714285716
+2,disease_on_drugs,28,13,0.975609756097561

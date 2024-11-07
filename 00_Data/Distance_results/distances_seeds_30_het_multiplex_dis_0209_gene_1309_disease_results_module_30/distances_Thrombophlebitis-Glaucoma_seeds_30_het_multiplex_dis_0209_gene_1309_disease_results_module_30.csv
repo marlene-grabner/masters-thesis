@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,18,-0.11111111111111094
+2,disease_on_drugs,29,28,0.05255595886267406

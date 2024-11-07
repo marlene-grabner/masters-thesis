@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,24,23,0.12987588652482285
+1,disease_on_symptoms,20,22,0.8208874458874456
+2,disease_on_drugs,22,17,0.991601535719183

@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,28,21,0.3877551020408163
+1,disease_on_symptoms,26,20,1.8132943143812708
+2,disease_on_drugs,28,19,0.530295152775556

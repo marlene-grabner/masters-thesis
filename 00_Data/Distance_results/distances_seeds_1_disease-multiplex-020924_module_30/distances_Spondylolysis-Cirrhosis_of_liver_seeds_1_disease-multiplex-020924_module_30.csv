@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,0.26013645224171533
+1,disease_on_symptoms,19,14,1.2094440647072227
+2,disease_on_drugs,20,26,0.434030100334448

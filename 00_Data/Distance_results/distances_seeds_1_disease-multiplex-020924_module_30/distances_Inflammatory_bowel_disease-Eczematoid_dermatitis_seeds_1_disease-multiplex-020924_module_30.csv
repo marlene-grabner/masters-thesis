@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,17,28,0.10146103896103909
+1,disease_on_symptoms,27,24,0.4610566448801743
+2,disease_on_drugs,14,28,0.11904761904761907

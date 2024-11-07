@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.25
+1,disease_on_symptoms,19,21,-0.029824561403508865
+2,disease_on_drugs,22,29,-0.3638053967668572

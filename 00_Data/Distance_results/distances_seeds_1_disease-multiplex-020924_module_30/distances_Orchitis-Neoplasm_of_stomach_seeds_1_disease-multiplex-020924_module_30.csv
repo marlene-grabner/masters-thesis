@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,23,23,0.15217391304347827
+1,disease_on_symptoms,16,24,0.9229166666666666
+2,disease_on_drugs,17,22,-0.030268750856986104

@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,30,0.016363636363636358
+1,disease_on_symptoms,26,15,0.6145090681676044
+2,disease_on_drugs,24,21,0.18492063492063493

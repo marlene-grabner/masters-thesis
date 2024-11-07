@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,25,26,-0.039215686274509776
+1,disease_on_symptoms,17,20,1.5184022257551668
+2,disease_on_drugs,21,25,0.12115942028985516

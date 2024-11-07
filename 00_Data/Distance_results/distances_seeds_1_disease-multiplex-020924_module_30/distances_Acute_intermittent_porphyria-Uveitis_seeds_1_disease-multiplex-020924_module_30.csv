@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,0.3498050682261207
+1,disease_on_symptoms,20,21,1.7784843205574914
+2,disease_on_drugs,15,27,0.36243386243386233

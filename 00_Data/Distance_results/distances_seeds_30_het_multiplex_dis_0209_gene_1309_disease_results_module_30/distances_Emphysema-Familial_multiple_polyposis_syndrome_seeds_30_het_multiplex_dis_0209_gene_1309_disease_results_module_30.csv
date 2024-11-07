@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,18,19,-0.05026078710289239
+2,disease_on_drugs,27,25,0.018290598290598314

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,29,-0.18181818181818177
+1,disease_on_symptoms,21,19,-0.07731829573934812
+2,disease_on_drugs,25,29,-0.2187994891443168

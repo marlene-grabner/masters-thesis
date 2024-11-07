@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,30,-0.10909090909090913
+1,disease_on_symptoms,19,13,-0.3943572874493926
+2,disease_on_drugs,22,24,-0.3437911725955203

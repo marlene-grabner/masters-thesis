@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,23,30,-0.339622641509434
+1,disease_on_symptoms,19,17,-0.040935672514619714
+2,disease_on_drugs,19,30,-0.4045470819906909

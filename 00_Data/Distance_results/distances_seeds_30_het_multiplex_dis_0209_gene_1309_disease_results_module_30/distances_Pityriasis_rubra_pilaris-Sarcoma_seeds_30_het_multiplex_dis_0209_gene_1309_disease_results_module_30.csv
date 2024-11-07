@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,30,0.06822612085769975
+1,disease_on_symptoms,21,23,0.6943346508563897
+2,disease_on_drugs,25,24,0.14027210884353747

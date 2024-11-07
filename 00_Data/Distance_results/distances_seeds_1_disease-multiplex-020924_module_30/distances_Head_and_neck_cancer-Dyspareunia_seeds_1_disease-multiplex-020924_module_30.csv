@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,24,0.05991285403050095
+1,disease_on_symptoms,22,17,0.6076717400246814
+2,disease_on_drugs,24,23,-0.04305427073697188

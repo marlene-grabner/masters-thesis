@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.3583333333333334
+1,disease_on_symptoms,18,15,1.0308080808080806
+2,disease_on_drugs,25,15,0.8183333333333334

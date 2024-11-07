@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.40000000000000013
+1,disease_on_symptoms,18,25,-0.653875968992248
+2,disease_on_drugs,30,29,-0.4559516851743618

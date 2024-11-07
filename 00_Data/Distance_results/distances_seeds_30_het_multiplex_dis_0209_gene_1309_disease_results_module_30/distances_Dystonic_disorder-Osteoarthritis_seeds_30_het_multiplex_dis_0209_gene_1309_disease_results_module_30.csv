@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.16346153846153832
+1,disease_on_symptoms,17,22,0.5795625942684768
+2,disease_on_drugs,26,25,0.15755656108597282

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,28,30,-0.017241379310344862
+1,disease_on_symptoms,17,15,0.4762254901960785
+2,disease_on_drugs,25,23,0.10547101449275353

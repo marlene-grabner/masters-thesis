@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.7446386946386947
+1,disease_on_symptoms,14,21,3.980952380952381
+2,disease_on_drugs,11,6,1.0098039215686274

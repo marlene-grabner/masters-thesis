@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Arthralgia nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,17,19,0.8025455796353629
+2,disease_on_drugs,25,30,0.3799999999999999

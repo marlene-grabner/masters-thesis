@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Blepharitis nodes,sAB
+0,disease_on_genes,23,20,0.35164307381193116
+1,disease_on_symptoms,20,27,1.282840819542947
+2,disease_on_drugs,20,19,0.4864709851551956

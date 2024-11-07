@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.1385467980295566
+1,disease_on_symptoms,19,15,-0.08214654282765732
+2,disease_on_drugs,30,23,-0.08169264424391587

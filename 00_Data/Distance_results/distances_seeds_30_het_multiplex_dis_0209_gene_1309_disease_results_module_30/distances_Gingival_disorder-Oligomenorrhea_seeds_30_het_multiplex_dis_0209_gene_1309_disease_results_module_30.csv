@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,19,11,0.8665071770334927
+2,disease_on_drugs,24,24,0.27083333333333326

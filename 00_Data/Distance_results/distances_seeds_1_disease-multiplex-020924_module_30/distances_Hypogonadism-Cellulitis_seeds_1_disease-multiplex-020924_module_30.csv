@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.30952380952380953
+1,disease_on_symptoms,12,26,1.2344804318488531
+2,disease_on_drugs,30,12,1.2452380952380953

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,24,25,0.044021739130434945
+1,disease_on_symptoms,23,23,1.6086956521739129
+2,disease_on_drugs,20,20,0.32499999999999973

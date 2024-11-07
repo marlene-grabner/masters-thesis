@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,18,22,0.23863636363636376
+2,disease_on_drugs,28,26,0.002340252340252258

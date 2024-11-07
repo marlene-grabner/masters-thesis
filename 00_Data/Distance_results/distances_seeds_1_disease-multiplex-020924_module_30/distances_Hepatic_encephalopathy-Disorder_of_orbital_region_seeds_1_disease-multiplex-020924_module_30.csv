@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,9,17,-0.04927099044746086
+1,disease_on_symptoms,27,27,2.148148148148148
+2,disease_on_drugs,9,16,0.4175

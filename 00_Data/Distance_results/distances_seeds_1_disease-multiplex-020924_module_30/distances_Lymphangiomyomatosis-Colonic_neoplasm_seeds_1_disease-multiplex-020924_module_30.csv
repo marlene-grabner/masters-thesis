@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.1964285714285714
+1,disease_on_symptoms,19,19,-0.05263157894736836
+2,disease_on_drugs,22,29,-0.30971479500891275

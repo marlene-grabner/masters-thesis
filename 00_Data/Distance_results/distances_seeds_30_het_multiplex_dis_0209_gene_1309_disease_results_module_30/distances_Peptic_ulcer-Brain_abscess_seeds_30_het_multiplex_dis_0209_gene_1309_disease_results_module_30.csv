@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,20,21,0.5022357723577238
+2,disease_on_drugs,30,23,-0.024309543341536788

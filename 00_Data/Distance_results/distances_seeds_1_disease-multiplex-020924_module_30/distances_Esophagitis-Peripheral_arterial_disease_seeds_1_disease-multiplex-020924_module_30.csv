@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,24,25,0.3540217391304348
+1,disease_on_symptoms,23,14,1.4468272620446534
+2,disease_on_drugs,20,22,0.7607142857142859

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,29,30,-0.20310734463276825
+1,disease_on_symptoms,23,25,0.047463768115941773
+2,disease_on_drugs,26,29,-0.20441282855075948

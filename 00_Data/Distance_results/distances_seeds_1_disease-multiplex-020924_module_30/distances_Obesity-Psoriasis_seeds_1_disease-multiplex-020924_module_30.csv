@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,0.13024013024013015
+1,disease_on_symptoms,20,21,1.3119628339140532
+2,disease_on_drugs,27,28,0.7817941317941317

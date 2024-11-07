@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,23,0.4045092838196285
+1,disease_on_symptoms,16,24,1.0604166666666663
+2,disease_on_drugs,23,22,1.1110891523935003

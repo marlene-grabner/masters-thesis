@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,19,20,0.6405533063427802
+2,disease_on_drugs,30,26,0.37133699633699613

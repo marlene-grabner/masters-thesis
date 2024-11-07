@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.13427672955974845
+1,disease_on_symptoms,15,20,0.9392857142857145
+2,disease_on_drugs,25,20,0.49722222222222223

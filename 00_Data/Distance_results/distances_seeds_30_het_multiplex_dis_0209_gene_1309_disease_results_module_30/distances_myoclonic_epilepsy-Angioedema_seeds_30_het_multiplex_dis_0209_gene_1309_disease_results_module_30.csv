@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,16,18,0.2540849673202614
+2,disease_on_drugs,25,26,-0.018521870286576148

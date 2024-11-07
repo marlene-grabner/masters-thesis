@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,20,19,0.07631578947368434
+2,disease_on_drugs,24,30,0.050000000000000044

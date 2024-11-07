@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,14,0.44146825396825395
+2,disease_on_drugs,27,26,0.0768558834596571

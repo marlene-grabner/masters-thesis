@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.1577972709551656
+1,disease_on_symptoms,21,15,0.7134920634920636
+2,disease_on_drugs,24,26,0.22070512820512822

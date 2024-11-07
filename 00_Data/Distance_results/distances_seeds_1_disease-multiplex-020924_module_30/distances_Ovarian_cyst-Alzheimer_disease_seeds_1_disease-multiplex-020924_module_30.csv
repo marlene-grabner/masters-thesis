@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,20,20,0.25
+1,disease_on_symptoms,22,23,1.0456960913482651
+2,disease_on_drugs,15,18,0.7787878787878788

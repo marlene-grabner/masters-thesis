@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,18,20,0.44692982456140373
+1,disease_on_symptoms,18,22,2.7371212121212123
+2,disease_on_drugs,10,15,0.7900000000000003

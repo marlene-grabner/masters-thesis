@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.36744639376218324
+1,disease_on_symptoms,19,23,1.0402637027350987
+2,disease_on_drugs,29,15,0.20282131661442016

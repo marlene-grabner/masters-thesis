@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,27,30,0.2085769980506822
+1,disease_on_symptoms,19,13,0.9893724696356276
+2,disease_on_drugs,27,23,0.43478260869565233

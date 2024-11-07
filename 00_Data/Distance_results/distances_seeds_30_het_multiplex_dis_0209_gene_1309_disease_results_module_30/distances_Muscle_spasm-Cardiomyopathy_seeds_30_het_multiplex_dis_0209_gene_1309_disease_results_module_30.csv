@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.27636363636363637
+1,disease_on_symptoms,15,21,-0.303968253968254
+2,disease_on_drugs,29,24,-0.20239644328779005

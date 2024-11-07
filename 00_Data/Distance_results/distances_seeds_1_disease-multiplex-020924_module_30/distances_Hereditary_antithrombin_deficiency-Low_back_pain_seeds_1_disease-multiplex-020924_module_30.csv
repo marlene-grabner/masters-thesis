@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,28,30,0.2733579638752053
+1,disease_on_symptoms,15,17,2.24375
+2,disease_on_drugs,20,26,0.6882107023411372

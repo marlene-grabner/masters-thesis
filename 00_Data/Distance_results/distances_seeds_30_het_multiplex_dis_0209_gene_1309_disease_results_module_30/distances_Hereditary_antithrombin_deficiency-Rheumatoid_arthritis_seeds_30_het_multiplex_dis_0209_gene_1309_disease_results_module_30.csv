@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,28,30,0.1040229885057471
+1,disease_on_symptoms,16,19,0.6187030075187971
+2,disease_on_drugs,23,30,0.02147935466229134

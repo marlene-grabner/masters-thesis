@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,20,0.5716666666666665
+1,disease_on_symptoms,22,22,1.4772727272727273
+2,disease_on_drugs,15,15,0.8

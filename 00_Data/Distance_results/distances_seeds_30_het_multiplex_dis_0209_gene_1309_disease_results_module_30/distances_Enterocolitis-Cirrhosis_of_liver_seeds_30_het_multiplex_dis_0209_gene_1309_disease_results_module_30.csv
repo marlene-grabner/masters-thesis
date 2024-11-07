@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,21,19,-0.12556390977443588
+2,disease_on_drugs,25,30,-0.07939393939393935

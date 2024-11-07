@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.053732567678424825
+1,disease_on_symptoms,21,19,0.9766290726817044
+2,disease_on_drugs,27,22,0.4415927987356558

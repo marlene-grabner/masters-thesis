@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.3824675324675326
+1,disease_on_symptoms,14,25,1.7323443223443222
+2,disease_on_drugs,13,23,0.9070048309178746

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.6218864468864469
+1,disease_on_symptoms,22,15,1.4592547092547092
+2,disease_on_drugs,15,16,1.125806451612903

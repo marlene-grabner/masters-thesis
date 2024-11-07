@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,24,0.10244897959183663
+1,disease_on_symptoms,24,17,0.7114120038259206
+2,disease_on_drugs,23,23,0.0652173913043479

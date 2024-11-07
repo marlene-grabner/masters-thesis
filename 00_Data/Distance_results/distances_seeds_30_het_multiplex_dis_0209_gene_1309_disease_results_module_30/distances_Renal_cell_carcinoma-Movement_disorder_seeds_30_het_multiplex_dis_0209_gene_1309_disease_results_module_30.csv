@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.08781676413255368
+1,disease_on_symptoms,22,17,0.496572055395585
+2,disease_on_drugs,22,26,-0.0037878787878786735

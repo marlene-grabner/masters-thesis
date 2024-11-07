@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Blepharitis nodes,sAB
+0,disease_on_genes,17,20,0.15941971383147835
+1,disease_on_symptoms,22,27,3.2116402116402116
+2,disease_on_drugs,15,19,0.2669762641898865

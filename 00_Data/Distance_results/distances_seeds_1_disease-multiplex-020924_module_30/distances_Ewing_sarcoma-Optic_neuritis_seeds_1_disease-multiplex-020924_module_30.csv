@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,24,27,0.31222766884531583
+1,disease_on_symptoms,25,16,0.4044207317073172
+2,disease_on_drugs,17,27,0.2129629629629628

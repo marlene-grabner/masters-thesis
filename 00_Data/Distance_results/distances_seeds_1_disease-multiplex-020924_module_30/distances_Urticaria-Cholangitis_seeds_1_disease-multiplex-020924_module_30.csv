@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Cholangitis nodes,sAB
+0,disease_on_genes,10,27,0.30430430430430433
+1,disease_on_symptoms,27,22,1.6216587645159073
+2,disease_on_drugs,9,26,0.7714285714285714

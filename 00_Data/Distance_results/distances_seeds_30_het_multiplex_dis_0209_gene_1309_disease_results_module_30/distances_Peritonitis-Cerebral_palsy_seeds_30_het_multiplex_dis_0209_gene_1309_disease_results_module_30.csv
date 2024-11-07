@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,14,13,1.0112942612942613
+2,disease_on_drugs,24,21,0.08313492063492056

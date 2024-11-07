@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,18,0.18611111111111112
+1,disease_on_symptoms,17,26,0.31432179311796293
+2,disease_on_drugs,27,10,0.22432432432432425

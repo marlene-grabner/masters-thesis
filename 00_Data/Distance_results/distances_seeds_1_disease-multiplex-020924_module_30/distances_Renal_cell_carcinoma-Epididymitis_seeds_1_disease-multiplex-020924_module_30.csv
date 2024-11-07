@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Epididymitis nodes,sAB
+0,disease_on_genes,25,29,0.33016602809706264
+1,disease_on_symptoms,24,23,0.9305812519272281
+2,disease_on_drugs,20,27,1.4310480693459415

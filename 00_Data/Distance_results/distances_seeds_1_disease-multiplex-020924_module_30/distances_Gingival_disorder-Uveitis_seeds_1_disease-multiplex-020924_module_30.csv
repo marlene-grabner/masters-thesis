@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Uveitis nodes,sAB
+0,disease_on_genes,21,30,0.10798319327731076
+1,disease_on_symptoms,26,21,1.0568155249006312
+2,disease_on_drugs,20,27,0.23680063041765154

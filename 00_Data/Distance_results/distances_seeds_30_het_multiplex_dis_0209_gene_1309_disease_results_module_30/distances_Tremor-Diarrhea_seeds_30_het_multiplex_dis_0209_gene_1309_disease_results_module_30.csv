@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Diarrhea nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,17,21,1.284018870706177
+2,disease_on_drugs,24,29,0.040311212318369094

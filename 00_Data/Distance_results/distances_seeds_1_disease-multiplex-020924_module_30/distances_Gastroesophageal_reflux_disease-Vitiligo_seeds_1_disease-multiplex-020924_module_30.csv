@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.1908333333333334
+1,disease_on_symptoms,17,22,2.3139654463183876
+2,disease_on_drugs,25,11,0.7022222222222223

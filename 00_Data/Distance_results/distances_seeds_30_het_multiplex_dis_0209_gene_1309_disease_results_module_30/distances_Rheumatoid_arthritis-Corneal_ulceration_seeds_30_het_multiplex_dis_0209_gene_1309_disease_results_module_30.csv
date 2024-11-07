@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.15521346469622344
+1,disease_on_symptoms,19,15,-0.13168214654282773
+2,disease_on_drugs,30,23,-0.09049767569045675

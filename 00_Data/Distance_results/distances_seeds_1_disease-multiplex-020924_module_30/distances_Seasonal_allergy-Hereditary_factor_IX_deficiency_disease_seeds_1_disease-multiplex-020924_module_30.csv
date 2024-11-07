@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,29,25,0.31696040868454634
+1,disease_on_symptoms,15,22,1.7912776412776412
+2,disease_on_drugs,29,21,0.7189490968801313

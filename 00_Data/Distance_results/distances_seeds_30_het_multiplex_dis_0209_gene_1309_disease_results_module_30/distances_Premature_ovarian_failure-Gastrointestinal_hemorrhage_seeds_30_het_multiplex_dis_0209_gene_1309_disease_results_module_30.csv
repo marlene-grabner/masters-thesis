@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,0.0683497536945814
+1,disease_on_symptoms,15,20,0.09761904761904772
+2,disease_on_drugs,26,27,0.05507176261893232

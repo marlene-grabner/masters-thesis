@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,29,26,-0.015469013744875859
+1,disease_on_symptoms,15,21,0.04682539682539666
+2,disease_on_drugs,29,24,0.2469095640858816

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,24,20,0.04780080889787652
+1,disease_on_symptoms,23,25,0.23221014492753622
+2,disease_on_drugs,20,19,0.6146761133603238

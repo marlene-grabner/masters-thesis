@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.017775041050902995
+1,disease_on_symptoms,19,19,0.7894736842105265
+2,disease_on_drugs,24,25,0.24357142857142855

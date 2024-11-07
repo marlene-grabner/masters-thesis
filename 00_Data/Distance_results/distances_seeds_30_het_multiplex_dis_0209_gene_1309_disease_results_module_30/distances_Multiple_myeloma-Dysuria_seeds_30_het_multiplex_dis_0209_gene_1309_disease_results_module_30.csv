@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Dysuria nodes,sAB
+0,disease_on_genes,26,30,0.08928571428571419
+1,disease_on_symptoms,21,12,1.3625541125541125
+2,disease_on_drugs,25,21,0.41548654244306427

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.10344827586206895
+1,disease_on_symptoms,15,25,0.5683333333333334
+2,disease_on_drugs,29,24,0.09162871394491412

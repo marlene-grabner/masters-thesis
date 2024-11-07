@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Arthralgia nodes,sAB
+0,disease_on_genes,25,30,-0.02545454545454562
+1,disease_on_symptoms,13,19,0.8519736842105263
+2,disease_on_drugs,16,30,0.033967391304347894

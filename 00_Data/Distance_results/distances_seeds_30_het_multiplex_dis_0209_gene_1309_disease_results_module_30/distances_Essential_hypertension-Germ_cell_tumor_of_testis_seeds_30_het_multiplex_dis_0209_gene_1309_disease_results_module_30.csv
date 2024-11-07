@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,28,27,-0.14646464646464652
+1,disease_on_symptoms,13,22,0.9183316683316685
+2,disease_on_drugs,28,20,-0.12797619047619047

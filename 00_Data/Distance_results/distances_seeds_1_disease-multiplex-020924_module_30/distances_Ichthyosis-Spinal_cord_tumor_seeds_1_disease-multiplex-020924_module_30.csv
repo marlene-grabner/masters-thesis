@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,27,22,0.3363739435168007
+1,disease_on_symptoms,17,22,1.0331139448786506
+2,disease_on_drugs,24,14,0.7612781954887218

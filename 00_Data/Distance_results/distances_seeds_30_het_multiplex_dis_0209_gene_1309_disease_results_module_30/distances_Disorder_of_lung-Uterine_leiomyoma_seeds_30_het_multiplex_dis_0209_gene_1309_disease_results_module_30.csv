@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,27,30,0.05263157894736836
+1,disease_on_symptoms,18,20,1.0326023391812864
+2,disease_on_drugs,24,28,0.21634615384615374

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,-0.29629629629629617
+1,disease_on_symptoms,21,15,-0.10555555555555562
+2,disease_on_drugs,27,26,-0.24530989625329247

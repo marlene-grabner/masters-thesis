@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,24,30,0.540740740740741
+1,disease_on_symptoms,23,22,1.8903162055335967
+2,disease_on_drugs,22,15,1.4135135135135135

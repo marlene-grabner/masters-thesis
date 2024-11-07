@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,27,25,0.42438746438746455
+1,disease_on_symptoms,19,19,1.263157894736842
+2,disease_on_drugs,20,18,0.8156432748538012

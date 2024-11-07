@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111116
+1,disease_on_symptoms,21,14,0.6452380952380952
+2,disease_on_drugs,25,26,-0.15651583710407246

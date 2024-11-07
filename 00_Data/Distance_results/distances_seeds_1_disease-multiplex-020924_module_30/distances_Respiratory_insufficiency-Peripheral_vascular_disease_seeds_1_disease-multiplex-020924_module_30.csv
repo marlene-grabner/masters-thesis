@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,25,23,0.14206521739130418
+1,disease_on_symptoms,20,16,1.7229166666666664
+2,disease_on_drugs,14,22,0.03174603174603163

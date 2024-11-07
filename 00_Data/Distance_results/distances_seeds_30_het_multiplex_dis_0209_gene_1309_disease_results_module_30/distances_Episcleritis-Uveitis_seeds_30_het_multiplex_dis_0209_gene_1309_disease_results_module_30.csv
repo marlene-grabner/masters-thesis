@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,18,20,-0.31081871345029266
+2,disease_on_drugs,28,23,-0.2775545000608939

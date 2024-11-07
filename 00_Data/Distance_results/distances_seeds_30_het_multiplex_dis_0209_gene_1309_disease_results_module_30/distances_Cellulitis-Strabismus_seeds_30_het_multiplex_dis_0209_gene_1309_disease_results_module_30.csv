@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,0.04755944931163958
+1,disease_on_symptoms,20,24,1.1064393939393937
+2,disease_on_drugs,26,16,0.5662774725274726

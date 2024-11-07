@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,18,21,-0.34584859584859573
+2,disease_on_drugs,28,29,-0.40541007691642905

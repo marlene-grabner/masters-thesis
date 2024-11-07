@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.5833333333333335
+1,disease_on_symptoms,25,25,2.46
+2,disease_on_drugs,26,7,0.7275224775224773

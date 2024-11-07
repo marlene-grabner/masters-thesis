@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,26,30,0.3047619047619048
+1,disease_on_symptoms,17,12,0.7884550371872887
+2,disease_on_drugs,25,17,0.5220168067226891

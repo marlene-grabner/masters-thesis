@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Strabismus nodes,sAB
+0,disease_on_genes,12,13,0.48294871794871796
+1,disease_on_symptoms,27,26,0.09322421114873936
+2,disease_on_drugs,9,9,0.7222222222222221

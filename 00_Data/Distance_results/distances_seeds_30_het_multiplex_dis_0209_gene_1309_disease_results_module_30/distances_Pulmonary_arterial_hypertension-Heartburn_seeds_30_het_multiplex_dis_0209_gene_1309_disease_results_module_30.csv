@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Heartburn nodes,sAB
+0,disease_on_genes,28,26,-0.2407407407407407
+1,disease_on_symptoms,17,16,0.3970588235294117
+2,disease_on_drugs,25,25,0.020000000000000018

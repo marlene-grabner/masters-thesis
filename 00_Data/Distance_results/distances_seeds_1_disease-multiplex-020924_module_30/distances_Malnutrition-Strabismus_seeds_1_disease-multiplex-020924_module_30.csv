@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,13,0.12820512820512842
+1,disease_on_symptoms,18,26,0.7043512043512046
+2,disease_on_drugs,23,9,0.2569444444444444

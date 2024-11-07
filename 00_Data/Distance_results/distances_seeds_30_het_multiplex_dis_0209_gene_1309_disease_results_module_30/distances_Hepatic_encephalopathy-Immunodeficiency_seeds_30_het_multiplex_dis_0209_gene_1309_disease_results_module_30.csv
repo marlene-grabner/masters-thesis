@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.1607142857142857
+1,disease_on_symptoms,14,21,0.20952380952380967
+2,disease_on_drugs,29,26,-0.1451651796479383

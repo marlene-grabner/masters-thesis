@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,25,28,0.23168498168498153
+1,disease_on_symptoms,20,19,1.3035762483130906
+2,disease_on_drugs,21,26,0.5288948640012467

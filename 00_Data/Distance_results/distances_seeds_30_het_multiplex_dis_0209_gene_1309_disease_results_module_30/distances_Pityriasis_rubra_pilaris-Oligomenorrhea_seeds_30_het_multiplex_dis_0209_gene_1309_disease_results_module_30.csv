@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,29,-0.019179894179894408
+1,disease_on_symptoms,21,11,0.9933712121212119
+2,disease_on_drugs,25,24,-0.022142857142857242

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Tremor nodes,sAB
+0,disease_on_genes,26,27,0.05660377358490565
+1,disease_on_symptoms,20,17,1.7982114467408583
+2,disease_on_drugs,23,24,0.5947810669133518

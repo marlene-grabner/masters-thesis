@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.1790909090909092
+1,disease_on_symptoms,19,23,0.2633758308815519
+2,disease_on_drugs,20,24,-0.08674242424242418

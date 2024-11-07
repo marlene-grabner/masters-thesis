@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,24,18,0.2847222222222221
+1,disease_on_symptoms,18,28,0.656055900621118
+2,disease_on_drugs,18,17,0.2268907563025211

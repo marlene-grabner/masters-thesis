@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,28,27,-0.5087782587782588
+1,disease_on_symptoms,15,18,-0.8111111111111112
+2,disease_on_drugs,21,21,-0.6190476190476191

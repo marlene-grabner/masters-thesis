@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,14,19,0.6615971747550693
+2,disease_on_drugs,21,24,0.3591269841269842

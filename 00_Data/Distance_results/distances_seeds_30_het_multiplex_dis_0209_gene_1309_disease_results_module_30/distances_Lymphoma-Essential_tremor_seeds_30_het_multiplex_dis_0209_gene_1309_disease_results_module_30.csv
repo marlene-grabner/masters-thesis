@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.06382978723404253
+1,disease_on_symptoms,20,23,1.2430738119312439
+2,disease_on_drugs,24,21,0.4642857142857142

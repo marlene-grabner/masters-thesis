@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Emphysema nodes,sAB
+0,disease_on_genes,29,30,-0.2545295149035651
+1,disease_on_symptoms,20,18,0.23245614035087714
+2,disease_on_drugs,25,27,-0.05555555555555558

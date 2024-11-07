@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,25,30,-0.18518518518518523
+1,disease_on_symptoms,18,19,0.43583056740951465
+2,disease_on_drugs,24,28,-0.0915750915750917

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.17699805068226127
+1,disease_on_symptoms,19,15,0.8164086687306502
+2,disease_on_drugs,27,22,0.5918367346938775

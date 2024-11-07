@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,29,23,0.23693922269634404
+1,disease_on_symptoms,17,16,2.2990753119429588
+2,disease_on_drugs,26,22,0.7307692307692308

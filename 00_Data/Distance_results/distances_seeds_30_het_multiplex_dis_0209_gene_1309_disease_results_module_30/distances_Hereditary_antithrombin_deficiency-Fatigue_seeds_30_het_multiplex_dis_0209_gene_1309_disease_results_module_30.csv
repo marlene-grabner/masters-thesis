@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Fatigue nodes,sAB
+0,disease_on_genes,28,26,-0.02065527065527073
+1,disease_on_symptoms,16,16,0.5625
+2,disease_on_drugs,23,26,-0.10874684321889316

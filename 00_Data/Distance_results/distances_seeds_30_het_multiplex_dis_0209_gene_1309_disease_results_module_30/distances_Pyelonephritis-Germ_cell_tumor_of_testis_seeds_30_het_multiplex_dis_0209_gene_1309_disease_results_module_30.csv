@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,24,27,-0.13521241830065356
+1,disease_on_symptoms,19,22,0.8263216244602636
+2,disease_on_drugs,19,20,-0.10678137651821862

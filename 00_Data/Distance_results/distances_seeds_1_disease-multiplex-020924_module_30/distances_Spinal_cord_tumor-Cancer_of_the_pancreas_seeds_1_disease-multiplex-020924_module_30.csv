@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,22,29,0.017379679144384985
+1,disease_on_symptoms,22,16,0.7622607655502396
+2,disease_on_drugs,14,29,0.4337552984305191

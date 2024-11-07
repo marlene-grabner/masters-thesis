@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,27,30,0.1409356725146198
+1,disease_on_symptoms,17,20,0.7217408585055645
+2,disease_on_drugs,24,29,0.45608327911515945

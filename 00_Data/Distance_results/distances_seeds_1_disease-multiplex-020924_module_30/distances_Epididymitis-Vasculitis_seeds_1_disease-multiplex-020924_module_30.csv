@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,24,0.20720830622424624
+1,disease_on_symptoms,23,19,0.8585594420834697
+2,disease_on_drugs,27,20,0.4236012608353035

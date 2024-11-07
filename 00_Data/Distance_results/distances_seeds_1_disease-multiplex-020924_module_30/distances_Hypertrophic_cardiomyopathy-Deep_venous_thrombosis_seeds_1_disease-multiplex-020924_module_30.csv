@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,28,0.20743021346469614
+1,disease_on_symptoms,17,14,1.9650989428029275
+2,disease_on_drugs,17,24,0.04878048780487809

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,26,30,0.1428571428571428
+1,disease_on_symptoms,17,22,1.2206567941862057
+2,disease_on_drugs,23,28,0.23491353062964304

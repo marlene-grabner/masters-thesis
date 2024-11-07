@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,29,-0.18055555555555558
+1,disease_on_symptoms,18,20,0.6216374269005851
+2,disease_on_drugs,25,20,-0.033333333333333215

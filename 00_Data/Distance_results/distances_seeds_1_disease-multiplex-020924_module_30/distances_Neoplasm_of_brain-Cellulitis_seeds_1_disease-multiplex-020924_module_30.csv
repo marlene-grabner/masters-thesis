@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Cellulitis nodes,sAB
+0,disease_on_genes,22,22,0.32168025772676945
+1,disease_on_symptoms,23,26,1.4252952016927174
+2,disease_on_drugs,20,12,1.575

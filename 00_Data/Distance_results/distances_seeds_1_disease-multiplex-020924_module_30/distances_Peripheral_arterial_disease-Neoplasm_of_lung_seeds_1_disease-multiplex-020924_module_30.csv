@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,25,30,0.12515151515151524
+1,disease_on_symptoms,14,20,0.5249999999999999
+2,disease_on_drugs,22,30,0.9064102564102565

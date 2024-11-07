@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.13207547169811318
+1,disease_on_symptoms,14,20,0.3539915966386553
+2,disease_on_drugs,24,20,0.007196969696969813

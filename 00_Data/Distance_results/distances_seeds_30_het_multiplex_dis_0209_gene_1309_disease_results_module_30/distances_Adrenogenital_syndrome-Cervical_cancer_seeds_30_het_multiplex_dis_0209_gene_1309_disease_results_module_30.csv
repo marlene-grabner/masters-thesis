@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.17241379310344818
+1,disease_on_symptoms,9,22,0.20381231671554234
+2,disease_on_drugs,23,15,0.0811594202898549

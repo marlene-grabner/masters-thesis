@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.4820197044334975
+1,disease_on_symptoms,13,21,1.043309631544926
+2,disease_on_drugs,18,24,0.6309523809523807

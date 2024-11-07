@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,-0.28785310734463276
+1,disease_on_symptoms,19,19,-0.026315789473684292
+2,disease_on_drugs,29,30,-0.17038768751217603

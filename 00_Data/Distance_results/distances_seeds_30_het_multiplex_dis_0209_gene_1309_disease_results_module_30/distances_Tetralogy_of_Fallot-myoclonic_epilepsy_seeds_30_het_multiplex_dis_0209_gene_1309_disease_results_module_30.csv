@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,19,16,0.458458646616541
+2,disease_on_drugs,20,25,0.04833333333333312

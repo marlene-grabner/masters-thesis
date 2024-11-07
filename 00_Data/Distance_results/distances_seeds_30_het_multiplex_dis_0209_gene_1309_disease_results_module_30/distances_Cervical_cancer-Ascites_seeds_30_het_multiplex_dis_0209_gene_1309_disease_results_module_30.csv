@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Ascites nodes,sAB
+0,disease_on_genes,28,30,-0.03390804597701147
+1,disease_on_symptoms,22,22,0.2954545454545454
+2,disease_on_drugs,15,27,0.03756613756613736

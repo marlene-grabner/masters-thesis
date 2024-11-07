@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,25,21,0.1356521739130434
+1,disease_on_symptoms,24,20,2.306060606060606
+2,disease_on_drugs,20,19,1.0762483130904186

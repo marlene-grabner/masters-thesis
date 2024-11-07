@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,0.7358490566037736
+1,disease_on_symptoms,9,22,0.40338872596937136
+2,disease_on_drugs,11,17,0.6163101604278074

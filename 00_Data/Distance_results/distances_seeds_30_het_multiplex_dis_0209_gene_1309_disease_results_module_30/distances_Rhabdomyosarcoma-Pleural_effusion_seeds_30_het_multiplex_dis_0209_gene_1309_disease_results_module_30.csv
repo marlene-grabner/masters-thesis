@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,29,30,0.016949152542372836
+1,disease_on_symptoms,19,18,0.6753200568990043
+2,disease_on_drugs,29,27,0.10426929392446649

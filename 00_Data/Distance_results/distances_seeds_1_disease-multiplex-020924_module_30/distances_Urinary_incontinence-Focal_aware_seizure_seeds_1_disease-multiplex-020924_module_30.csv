@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,0.15629370629370642
+1,disease_on_symptoms,20,15,1.1488095238095237
+2,disease_on_drugs,20,29,0.7551020408163265

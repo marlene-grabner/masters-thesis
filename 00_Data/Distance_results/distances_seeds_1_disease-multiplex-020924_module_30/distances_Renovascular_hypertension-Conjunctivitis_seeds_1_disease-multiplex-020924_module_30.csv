@@ -1,0 +1,4 @@
+,Layer,Renovascular_hypertension nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,21,27,0.05886243386243395
+1,disease_on_symptoms,22,27,1.4548203119631689
+2,disease_on_drugs,20,26,0.3582775919732444

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Myopathy nodes,sAB
+0,disease_on_genes,23,18,0.4413809355484857
+1,disease_on_symptoms,16,21,1.7400659588159586
+2,disease_on_drugs,22,6,0.7619047619047621

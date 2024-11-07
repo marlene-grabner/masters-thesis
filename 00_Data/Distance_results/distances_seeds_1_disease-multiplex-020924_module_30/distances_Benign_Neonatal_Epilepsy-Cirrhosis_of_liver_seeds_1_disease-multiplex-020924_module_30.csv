@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,29,30,0.322316384180791
+1,disease_on_symptoms,16,14,1.8616071428571428
+2,disease_on_drugs,26,26,0.8461538461538463

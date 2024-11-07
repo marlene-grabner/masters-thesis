@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,22,18,-0.025000000000000022
+1,disease_on_symptoms,21,21,2.714285714285714
+2,disease_on_drugs,21,17,0.041574524546660774

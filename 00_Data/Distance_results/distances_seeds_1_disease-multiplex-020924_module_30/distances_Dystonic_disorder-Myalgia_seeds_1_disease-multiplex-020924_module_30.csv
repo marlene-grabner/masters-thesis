@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Myalgia nodes,sAB
+0,disease_on_genes,17,30,0.1515018773466832
+1,disease_on_symptoms,28,16,1.9196428571428572
+2,disease_on_drugs,9,29,0.4736842105263157

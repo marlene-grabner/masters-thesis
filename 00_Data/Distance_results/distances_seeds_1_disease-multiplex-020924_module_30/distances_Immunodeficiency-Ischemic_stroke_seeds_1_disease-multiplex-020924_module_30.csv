@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,22,30,0.28053613053613047
+1,disease_on_symptoms,19,16,0.7898496240601502
+2,disease_on_drugs,18,23,0.6413632614587015

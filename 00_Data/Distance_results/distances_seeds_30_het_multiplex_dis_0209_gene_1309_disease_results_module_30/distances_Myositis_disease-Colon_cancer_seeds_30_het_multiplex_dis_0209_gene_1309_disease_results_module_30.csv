@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,-0.088095238095238
+1,disease_on_symptoms,18,22,-0.08358585858585865
+2,disease_on_drugs,26,26,-0.1730769230769229

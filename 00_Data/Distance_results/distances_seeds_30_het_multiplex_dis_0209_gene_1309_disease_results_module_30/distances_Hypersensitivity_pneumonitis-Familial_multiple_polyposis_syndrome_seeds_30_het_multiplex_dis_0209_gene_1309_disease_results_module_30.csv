@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,25,30,-0.23636363636363633
+1,disease_on_symptoms,20,19,-0.23073549257759796
+2,disease_on_drugs,25,25,-0.29999999999999993

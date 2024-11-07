@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.09433962264150941
+1,disease_on_symptoms,18,20,0.4641812865497077
+2,disease_on_drugs,30,20,0.04499999999999993

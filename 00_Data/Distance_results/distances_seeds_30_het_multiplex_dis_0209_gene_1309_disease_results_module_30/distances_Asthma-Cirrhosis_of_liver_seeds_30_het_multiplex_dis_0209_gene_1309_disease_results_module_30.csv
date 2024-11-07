@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,-0.14727272727272733
+1,disease_on_symptoms,20,19,0.20273279352226714
+2,disease_on_drugs,22,30,-0.03170163170163165

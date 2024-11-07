@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.10197740112994347
+1,disease_on_symptoms,14,13,0.5512820512820511
+2,disease_on_drugs,22,28,0.0034415584415585787

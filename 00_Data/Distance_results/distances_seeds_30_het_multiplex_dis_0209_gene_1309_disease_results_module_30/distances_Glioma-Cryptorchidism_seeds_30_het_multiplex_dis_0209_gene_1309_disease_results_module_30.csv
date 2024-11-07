@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,22,23,-0.13285024154589387
+1,disease_on_symptoms,21,19,1.1501879699248123
+2,disease_on_drugs,21,21,-0.023809523809523725

@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,20,0.07500000000000018
+1,disease_on_symptoms,19,25,0.7993301435406699
+2,disease_on_drugs,29,19,0.2914776164549304

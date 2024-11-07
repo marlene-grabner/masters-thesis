@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,0.19603318250377066
+1,disease_on_symptoms,19,22,1.0718578597269226
+2,disease_on_drugs,24,24,0.625

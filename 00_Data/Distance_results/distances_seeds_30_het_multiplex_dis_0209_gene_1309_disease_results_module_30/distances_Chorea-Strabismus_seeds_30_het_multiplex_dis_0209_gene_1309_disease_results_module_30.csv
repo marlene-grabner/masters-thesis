@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.3566958698372966
+1,disease_on_symptoms,17,24,-0.38489359158297476
+2,disease_on_drugs,24,16,-0.3520833333333335

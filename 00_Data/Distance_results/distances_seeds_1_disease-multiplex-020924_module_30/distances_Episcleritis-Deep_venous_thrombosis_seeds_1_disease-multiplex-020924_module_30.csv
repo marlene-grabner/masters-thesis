@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,28,0.20628078817733986
+1,disease_on_symptoms,22,14,1.1583694083694085
+2,disease_on_drugs,29,24,0.6873780091086532

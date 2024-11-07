@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,25,30,0.7618181818181817
+1,disease_on_symptoms,19,25,1.214066985645933
+2,disease_on_drugs,13,7,1.39010989010989

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,27,29,0.23209724502827944
+1,disease_on_symptoms,22,17,1.5088783765254354
+2,disease_on_drugs,24,30,1.3287037037037037

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,23,28,0.30405857995372054
+1,disease_on_symptoms,24,19,1.8408302733578132
+2,disease_on_drugs,17,26,1.097048300536673

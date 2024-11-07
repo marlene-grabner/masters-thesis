@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,26,23,0.0803016858917478
+1,disease_on_symptoms,17,25,0.6152941176470588
+2,disease_on_drugs,25,18,0.1292248062015502

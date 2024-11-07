@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,15,21,-0.050793650793650835
+2,disease_on_drugs,26,30,-0.11492673992673974

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.2549019607843137
+1,disease_on_symptoms,13,23,-0.3349126718691935
+2,disease_on_drugs,19,21,-0.5743107769423558

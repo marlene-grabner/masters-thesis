@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,29,30,0.2884083382037794
+1,disease_on_symptoms,23,14,0.6531811314420013
+2,disease_on_drugs,27,24,1.119825708061002

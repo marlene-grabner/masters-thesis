@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,12,14,0.11080586080586086
+2,disease_on_drugs,28,29,-0.19274479301702518

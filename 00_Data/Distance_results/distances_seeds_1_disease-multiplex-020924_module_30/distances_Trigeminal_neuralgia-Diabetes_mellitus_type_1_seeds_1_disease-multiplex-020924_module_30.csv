@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,28,13,0.22128785848298027
+1,disease_on_symptoms,19,25,2.30311004784689
+2,disease_on_drugs,26,8,0.9807692307692308

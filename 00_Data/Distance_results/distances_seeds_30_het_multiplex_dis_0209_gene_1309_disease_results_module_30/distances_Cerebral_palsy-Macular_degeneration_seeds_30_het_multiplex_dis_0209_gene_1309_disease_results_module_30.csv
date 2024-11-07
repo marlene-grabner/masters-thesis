@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,13,17,0.2809954751131225
+2,disease_on_drugs,21,17,-0.21524399233377567

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,16,18,-0.11540032679738554
+2,disease_on_drugs,28,26,0.09096459096459086

@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,0.20320512820512837
+1,disease_on_symptoms,21,17,0.7747309450095825
+2,disease_on_drugs,24,26,0.21750000000000003

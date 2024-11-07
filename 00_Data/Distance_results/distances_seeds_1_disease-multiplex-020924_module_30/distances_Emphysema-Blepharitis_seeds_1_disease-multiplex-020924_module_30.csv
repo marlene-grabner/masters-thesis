@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.21833333333333327
+1,disease_on_symptoms,14,27,0.48428829526390493
+2,disease_on_drugs,29,19,0.36403508771929816

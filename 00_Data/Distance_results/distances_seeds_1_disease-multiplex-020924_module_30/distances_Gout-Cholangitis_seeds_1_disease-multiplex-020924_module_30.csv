@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Cholangitis nodes,sAB
+0,disease_on_genes,25,27,0.09669515669515683
+1,disease_on_symptoms,18,22,1.2265151515151518
+2,disease_on_drugs,23,26,0.7346938775510203

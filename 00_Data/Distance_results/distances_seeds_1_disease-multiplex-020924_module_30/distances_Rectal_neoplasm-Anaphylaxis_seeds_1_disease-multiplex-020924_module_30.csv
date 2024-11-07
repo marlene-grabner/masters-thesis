@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.17251461988304095
+1,disease_on_symptoms,21,15,0.922222222222222
+2,disease_on_drugs,29,26,0.6179647938268629

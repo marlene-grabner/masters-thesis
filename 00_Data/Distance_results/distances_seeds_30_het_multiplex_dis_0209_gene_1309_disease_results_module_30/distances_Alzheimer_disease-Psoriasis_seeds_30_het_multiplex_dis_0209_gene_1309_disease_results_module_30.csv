@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Psoriasis nodes,sAB
+0,disease_on_genes,23,30,-0.13207547169811318
+1,disease_on_symptoms,19,17,0.21069831441348463
+2,disease_on_drugs,19,30,-0.018832796276405217

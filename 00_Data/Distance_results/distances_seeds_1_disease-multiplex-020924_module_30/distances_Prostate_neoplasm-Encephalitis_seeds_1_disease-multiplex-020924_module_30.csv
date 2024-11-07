@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Encephalitis nodes,sAB
+0,disease_on_genes,17,28,0.40219421101774055
+1,disease_on_symptoms,21,17,0.5951643815420908
+2,disease_on_drugs,17,18,1.2840336134453783

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,23,27,0.31278582930756826
+1,disease_on_symptoms,19,23,1.1756020485997605
+2,disease_on_drugs,11,15,0.10769230769230775

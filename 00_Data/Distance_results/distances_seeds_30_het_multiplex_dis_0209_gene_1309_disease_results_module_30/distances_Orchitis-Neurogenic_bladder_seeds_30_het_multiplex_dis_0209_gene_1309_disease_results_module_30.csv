@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.21818181818181825
+1,disease_on_symptoms,19,18,0.3214003477161369
+2,disease_on_drugs,25,21,0.2309316770186336

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.036363636363636376
+1,disease_on_symptoms,23,20,0.31822548028311415
+2,disease_on_drugs,23,25,-0.04648550724637679

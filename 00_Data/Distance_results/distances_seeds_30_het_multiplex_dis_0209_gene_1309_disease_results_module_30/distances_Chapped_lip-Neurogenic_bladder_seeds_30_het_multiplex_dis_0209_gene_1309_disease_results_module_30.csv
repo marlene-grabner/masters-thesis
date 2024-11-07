@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,26,30,0.0714285714285714
+1,disease_on_symptoms,20,18,0.14576023391812853
+2,disease_on_drugs,23,21,0.03966685488424604

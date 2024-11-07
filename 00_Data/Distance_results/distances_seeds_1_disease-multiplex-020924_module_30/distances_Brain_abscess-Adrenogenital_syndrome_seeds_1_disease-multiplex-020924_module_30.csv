@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.3118908382066279
+1,disease_on_symptoms,21,7,1.5714285714285712
+2,disease_on_drugs,23,22,0.4887571365832235

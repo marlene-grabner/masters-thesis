@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Lymphoma nodes,sAB
+0,disease_on_genes,29,26,0.07272727272727275
+1,disease_on_symptoms,14,20,0.5705882352941178
+2,disease_on_drugs,22,24,-0.0714756258234519

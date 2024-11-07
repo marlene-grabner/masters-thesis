@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,18,30,-0.04166666666666663
+1,disease_on_symptoms,21,15,0.8738095238095238
+2,disease_on_drugs,17,23,-0.2351662404092072

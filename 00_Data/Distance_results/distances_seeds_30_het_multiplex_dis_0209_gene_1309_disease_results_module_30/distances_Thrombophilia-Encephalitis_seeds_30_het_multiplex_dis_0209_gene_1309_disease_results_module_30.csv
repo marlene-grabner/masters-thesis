@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,29,0.2142857142857142
+1,disease_on_symptoms,18,13,0.6460573476702509
+2,disease_on_drugs,22,22,0.40909090909090895

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,17,18,-0.3711951447245567
+2,disease_on_drugs,26,30,-0.41538461538461546

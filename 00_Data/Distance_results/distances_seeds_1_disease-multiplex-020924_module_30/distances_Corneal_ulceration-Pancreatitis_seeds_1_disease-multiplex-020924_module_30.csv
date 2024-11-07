@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,28,30,0.32926929392446613
+1,disease_on_symptoms,19,20,1.1818825910931174
+2,disease_on_drugs,26,30,0.5714285714285714

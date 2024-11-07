@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,25,22,0.4686653771760154
+1,disease_on_symptoms,23,19,2.0720823798627004
+2,disease_on_drugs,19,19,0.9210526315789476

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.10406403940886688
+1,disease_on_symptoms,18,18,-0.02777777777777768
+2,disease_on_drugs,30,25,-0.055454545454545645

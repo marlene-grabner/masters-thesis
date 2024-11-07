@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,0.1873307790549168
+1,disease_on_symptoms,15,25,1.0499999999999998
+2,disease_on_drugs,29,23,0.4777418982816284

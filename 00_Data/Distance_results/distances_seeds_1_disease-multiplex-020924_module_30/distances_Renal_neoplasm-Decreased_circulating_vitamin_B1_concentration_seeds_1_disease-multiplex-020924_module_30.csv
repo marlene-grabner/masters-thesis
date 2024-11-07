@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,22,25,0.12934235976789177
+1,disease_on_symptoms,25,13,2.8514170040485833
+2,disease_on_drugs,18,16,0.6636029411764706

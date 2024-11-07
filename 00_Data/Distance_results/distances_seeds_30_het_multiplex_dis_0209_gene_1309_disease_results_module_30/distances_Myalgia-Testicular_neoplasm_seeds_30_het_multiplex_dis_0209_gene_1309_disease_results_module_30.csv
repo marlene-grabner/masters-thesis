@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.038181818181818206
+1,disease_on_symptoms,16,26,0.9673763736263736
+2,disease_on_drugs,29,24,0.3021578833224896

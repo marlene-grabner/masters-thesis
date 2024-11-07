@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,22,29,0.019607843137254832
+1,disease_on_symptoms,21,25,0.30832298136645964
+2,disease_on_drugs,21,21,0.19047619047619047

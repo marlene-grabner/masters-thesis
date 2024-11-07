@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,28,0.19388989715668492
+1,disease_on_symptoms,21,26,0.833917855194451
+2,disease_on_drugs,28,28,0.3035714285714284

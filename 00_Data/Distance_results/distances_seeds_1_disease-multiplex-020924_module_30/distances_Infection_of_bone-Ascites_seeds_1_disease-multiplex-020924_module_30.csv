@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.22939560439560447
+1,disease_on_symptoms,21,17,0.9233377561550937
+2,disease_on_drugs,24,27,0.568218954248366

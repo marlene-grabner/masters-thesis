@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.3357575757575757
+1,disease_on_symptoms,20,17,1.4315977742448331
+2,disease_on_drugs,14,26,0.5678571428571428

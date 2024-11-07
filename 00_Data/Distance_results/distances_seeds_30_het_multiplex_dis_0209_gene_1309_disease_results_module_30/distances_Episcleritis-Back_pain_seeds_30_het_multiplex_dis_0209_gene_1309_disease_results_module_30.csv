@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,15,0.5883838383838385
+2,disease_on_drugs,28,23,-0.18164657167214693

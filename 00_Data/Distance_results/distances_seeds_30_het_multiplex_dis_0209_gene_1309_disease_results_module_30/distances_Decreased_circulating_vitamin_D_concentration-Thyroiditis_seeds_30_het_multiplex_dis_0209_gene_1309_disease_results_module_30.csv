@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Thyroiditis nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,13,21,0.42717086834733875
+2,disease_on_drugs,21,29,0.08302134646962234

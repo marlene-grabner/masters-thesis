@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,28,26,0.03632478632478642
+1,disease_on_symptoms,25,22,0.3476208897485493
+2,disease_on_drugs,24,25,-0.020544217687074928

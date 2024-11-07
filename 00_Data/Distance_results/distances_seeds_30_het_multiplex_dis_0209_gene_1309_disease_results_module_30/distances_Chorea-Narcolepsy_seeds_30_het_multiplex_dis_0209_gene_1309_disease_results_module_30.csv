@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.0
+1,disease_on_symptoms,17,20,0.3277821939586645
+2,disease_on_drugs,24,21,0.07162698412698432

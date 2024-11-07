@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,20,18,0.161842105263158
+1,disease_on_symptoms,22,21,2.978732507802275
+2,disease_on_drugs,15,17,0.9992647058823529

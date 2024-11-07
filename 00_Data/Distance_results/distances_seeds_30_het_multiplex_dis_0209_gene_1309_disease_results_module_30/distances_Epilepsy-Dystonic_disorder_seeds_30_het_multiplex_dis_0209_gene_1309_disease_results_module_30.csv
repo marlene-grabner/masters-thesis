@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,21,17,-0.6045997346306942
+2,disease_on_drugs,29,26,-0.45613696648179414

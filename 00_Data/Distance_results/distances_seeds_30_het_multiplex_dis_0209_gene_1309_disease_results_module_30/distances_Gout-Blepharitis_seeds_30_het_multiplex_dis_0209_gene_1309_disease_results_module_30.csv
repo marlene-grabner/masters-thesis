@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,30,0.13731527093596063
+1,disease_on_symptoms,19,18,0.5706495969653864
+2,disease_on_drugs,22,30,0.031002331002331296

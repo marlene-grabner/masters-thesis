@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,-0.1923076923076924
+1,disease_on_symptoms,18,25,0.6281912144702841
+2,disease_on_drugs,25,25,0.06000000000000005

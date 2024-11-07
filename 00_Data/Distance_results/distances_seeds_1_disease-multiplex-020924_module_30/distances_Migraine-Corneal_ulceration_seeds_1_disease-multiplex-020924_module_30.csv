@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.1039819376026272
+1,disease_on_symptoms,14,19,1.2580314422419687
+2,disease_on_drugs,29,26,0.6909090909090909

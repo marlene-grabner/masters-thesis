@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,29,27,-0.25
+1,disease_on_symptoms,20,17,-0.002861685214626375
+2,disease_on_drugs,20,24,-0.41780303030303034

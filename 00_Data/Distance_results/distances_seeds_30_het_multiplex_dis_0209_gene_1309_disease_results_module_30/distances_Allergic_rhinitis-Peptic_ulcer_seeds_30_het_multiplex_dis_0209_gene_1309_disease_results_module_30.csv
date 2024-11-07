@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,20,20,0.5750000000000002
+2,disease_on_drugs,25,30,0.17212121212121212

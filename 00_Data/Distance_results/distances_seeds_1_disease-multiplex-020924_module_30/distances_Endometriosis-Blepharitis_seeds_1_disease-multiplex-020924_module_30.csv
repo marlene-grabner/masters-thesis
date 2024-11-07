@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.375
+1,disease_on_symptoms,12,27,0.6182336182336181
+2,disease_on_drugs,27,19,0.7951945080091531

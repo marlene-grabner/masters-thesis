@@ -1,0 +1,4 @@
+,Layer,Cancer_of_the_pancreas nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.3627551020408164
+1,disease_on_symptoms,16,27,1.3895887166236003
+2,disease_on_drugs,29,19,0.3884603750756199

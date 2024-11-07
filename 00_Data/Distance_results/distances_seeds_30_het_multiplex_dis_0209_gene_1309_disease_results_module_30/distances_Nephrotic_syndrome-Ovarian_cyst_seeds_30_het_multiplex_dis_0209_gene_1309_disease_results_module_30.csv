@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,15,19,-0.026625386996903977
+2,disease_on_drugs,28,24,-0.13598901098901095

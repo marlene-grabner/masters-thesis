@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,26,21,0.2978723404255319
+1,disease_on_symptoms,15,20,1.5202380952380954
+2,disease_on_drugs,21,19,1.0522556390977442

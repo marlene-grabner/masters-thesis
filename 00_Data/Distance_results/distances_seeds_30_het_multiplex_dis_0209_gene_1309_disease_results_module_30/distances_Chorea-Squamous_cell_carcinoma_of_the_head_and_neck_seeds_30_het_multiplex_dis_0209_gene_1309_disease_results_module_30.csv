@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,17,22,0.823358014534485
+2,disease_on_drugs,24,30,0.2671296296296297

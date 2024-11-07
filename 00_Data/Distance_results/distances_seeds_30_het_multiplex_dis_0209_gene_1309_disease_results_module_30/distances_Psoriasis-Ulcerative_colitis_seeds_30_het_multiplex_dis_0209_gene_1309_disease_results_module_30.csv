@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.3508771929824561
+1,disease_on_symptoms,17,20,-0.28410174880763117
+2,disease_on_drugs,30,27,-0.3666666666666666

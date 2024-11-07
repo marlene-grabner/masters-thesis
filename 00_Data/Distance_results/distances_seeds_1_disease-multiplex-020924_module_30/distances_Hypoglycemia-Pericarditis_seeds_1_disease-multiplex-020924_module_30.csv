@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.2727272727272727
+1,disease_on_symptoms,12,22,1.2936720142602494
+2,disease_on_drugs,22,25,0.8097872340425532

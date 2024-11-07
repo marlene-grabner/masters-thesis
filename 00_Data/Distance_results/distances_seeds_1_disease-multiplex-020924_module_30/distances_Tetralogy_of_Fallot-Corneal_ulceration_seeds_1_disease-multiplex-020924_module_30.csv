@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.5005336617405582
+1,disease_on_symptoms,14,19,1.9550011392116655
+2,disease_on_drugs,11,26,1.054054054054054

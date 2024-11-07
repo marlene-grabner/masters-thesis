@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Erythroderma nodes,sAB
+0,disease_on_genes,30,30,0.6166666666666665
+1,disease_on_symptoms,16,19,2.2599624060150374
+2,disease_on_drugs,21,28,0.9727891156462583

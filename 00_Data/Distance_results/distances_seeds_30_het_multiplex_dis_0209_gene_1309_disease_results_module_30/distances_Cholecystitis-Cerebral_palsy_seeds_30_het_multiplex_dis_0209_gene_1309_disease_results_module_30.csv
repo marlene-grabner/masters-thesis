@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,25,30,-0.07272727272727275
+1,disease_on_symptoms,23,13,0.35377183203270146
+2,disease_on_drugs,21,21,-0.30952380952380953

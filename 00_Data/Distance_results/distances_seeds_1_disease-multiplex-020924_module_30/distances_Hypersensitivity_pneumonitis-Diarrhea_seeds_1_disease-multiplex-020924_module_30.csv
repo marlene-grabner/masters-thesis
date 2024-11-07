@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,24,27,0.0838779956427016
+1,disease_on_symptoms,23,19,1.140568813337692
+2,disease_on_drugs,24,26,0.6607692307692308

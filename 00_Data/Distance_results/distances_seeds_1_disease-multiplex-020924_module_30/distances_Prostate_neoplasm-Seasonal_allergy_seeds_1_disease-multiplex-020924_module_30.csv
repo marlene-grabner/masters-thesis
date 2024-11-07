@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,17,29,-0.12139518476056099
+1,disease_on_symptoms,21,15,0.16587301587301573
+2,disease_on_drugs,17,29,0.25002204779962933

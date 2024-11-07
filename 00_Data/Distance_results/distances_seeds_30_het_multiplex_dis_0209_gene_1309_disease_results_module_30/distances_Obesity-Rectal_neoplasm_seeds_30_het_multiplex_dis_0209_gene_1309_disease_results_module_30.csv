@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.23011695906432772
+1,disease_on_symptoms,18,20,0.28874269005847975
+2,disease_on_drugs,25,29,-0.05657726692209453

@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.24107191687175278
+1,disease_on_symptoms,14,20,0.8628151260504202
+2,disease_on_drugs,24,20,0.8159090909090909

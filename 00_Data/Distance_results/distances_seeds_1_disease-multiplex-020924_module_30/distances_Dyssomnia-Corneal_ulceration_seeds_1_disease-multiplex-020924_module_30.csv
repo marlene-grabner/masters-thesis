@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,18,28,0.13431677018633548
+1,disease_on_symptoms,21,19,2.84937343358396
+2,disease_on_drugs,17,26,1.0512995896032828

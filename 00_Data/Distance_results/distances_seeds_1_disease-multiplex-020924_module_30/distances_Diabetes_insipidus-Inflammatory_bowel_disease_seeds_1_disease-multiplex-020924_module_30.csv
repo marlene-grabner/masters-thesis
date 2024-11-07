@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Inflammatory_bowel_disease nodes,sAB
+0,disease_on_genes,24,17,0.24166666666666647
+1,disease_on_symptoms,18,27,0.8203703703703704
+2,disease_on_drugs,18,14,0.3705357142857144

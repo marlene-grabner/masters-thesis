@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,18,21,0.33852258852258843
+2,disease_on_drugs,30,29,-0.10201636469900643

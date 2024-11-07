@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,23,21,-0.13546960286090737
+1,disease_on_symptoms,19,25,0.1177990430622009
+2,disease_on_drugs,19,21,-0.15000000000000002

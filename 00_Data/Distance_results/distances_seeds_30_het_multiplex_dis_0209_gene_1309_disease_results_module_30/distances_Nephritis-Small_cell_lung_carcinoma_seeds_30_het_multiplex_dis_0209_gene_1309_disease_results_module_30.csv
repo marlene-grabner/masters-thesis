@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,19,0.25576195390436873
+2,disease_on_drugs,25,30,0.20939393939393924

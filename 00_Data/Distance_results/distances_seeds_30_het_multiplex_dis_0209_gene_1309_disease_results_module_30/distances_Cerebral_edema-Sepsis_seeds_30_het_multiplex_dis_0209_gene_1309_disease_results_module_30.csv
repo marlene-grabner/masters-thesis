@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.3666666666666667
+1,disease_on_symptoms,10,15,1.1400000000000001
+2,disease_on_drugs,16,25,0.3397865853658535

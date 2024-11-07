@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,20,21,0.7788327526132406
+2,disease_on_drugs,29,25,-0.04694763729246465

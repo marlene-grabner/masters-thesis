@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,27,25,-0.020113960113960383
+1,disease_on_symptoms,20,21,-0.0008420441347269936
+2,disease_on_drugs,15,20,0.14642857142857157

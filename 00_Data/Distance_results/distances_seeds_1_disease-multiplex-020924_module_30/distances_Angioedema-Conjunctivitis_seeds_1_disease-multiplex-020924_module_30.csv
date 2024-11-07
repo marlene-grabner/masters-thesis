@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,29,27,-0.07273929773929777
+1,disease_on_symptoms,17,27,-0.08932461873638342
+2,disease_on_drugs,25,26,-0.018853695324283493

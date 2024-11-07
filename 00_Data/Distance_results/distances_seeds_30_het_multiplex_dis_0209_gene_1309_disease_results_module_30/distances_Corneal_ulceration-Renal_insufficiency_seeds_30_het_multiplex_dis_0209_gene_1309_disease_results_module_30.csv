@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,28,30,-0.24199507389162556
+1,disease_on_symptoms,15,19,-0.4505675954592361
+2,disease_on_drugs,23,28,-0.2340762391913287

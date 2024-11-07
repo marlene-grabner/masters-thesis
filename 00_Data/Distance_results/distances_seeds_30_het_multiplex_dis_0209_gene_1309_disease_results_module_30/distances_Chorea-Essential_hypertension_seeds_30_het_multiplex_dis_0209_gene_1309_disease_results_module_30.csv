@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.034482758620689724
+1,disease_on_symptoms,17,13,1.0227752639517345
+2,disease_on_drugs,24,28,0.22779304029304037

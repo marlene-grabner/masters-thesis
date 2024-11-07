@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,29,30,-0.15254237288135597
+1,disease_on_symptoms,19,16,-0.07969924812030071
+2,disease_on_drugs,29,27,-0.10670954205436955

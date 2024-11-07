@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Heartburn nodes,sAB
+0,disease_on_genes,25,26,-0.23529411764705888
+1,disease_on_symptoms,19,16,0.34849624060150375
+2,disease_on_drugs,23,25,-0.06188405797101448

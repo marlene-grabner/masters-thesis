@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.5592592592592593
+1,disease_on_symptoms,16,22,2.365879186602871
+2,disease_on_drugs,23,26,1.3429458740017748

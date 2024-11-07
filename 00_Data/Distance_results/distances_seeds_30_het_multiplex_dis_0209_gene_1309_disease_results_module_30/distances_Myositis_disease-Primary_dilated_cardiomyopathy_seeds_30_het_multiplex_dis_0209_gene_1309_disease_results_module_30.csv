@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,18,24,-0.20138888888888884
+2,disease_on_drugs,26,15,0.3099124452782991

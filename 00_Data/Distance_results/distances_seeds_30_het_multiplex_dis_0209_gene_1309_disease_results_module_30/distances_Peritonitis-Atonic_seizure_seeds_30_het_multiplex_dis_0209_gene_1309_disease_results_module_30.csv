@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,14,15,0.7137110016420363
+2,disease_on_drugs,24,23,0.1913930003083566

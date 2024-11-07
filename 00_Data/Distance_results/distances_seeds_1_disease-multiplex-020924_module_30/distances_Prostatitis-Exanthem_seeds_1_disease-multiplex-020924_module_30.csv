@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.2091954022988507
+1,disease_on_symptoms,20,26,1.4589464882943144
+2,disease_on_drugs,29,28,0.4564320283467289

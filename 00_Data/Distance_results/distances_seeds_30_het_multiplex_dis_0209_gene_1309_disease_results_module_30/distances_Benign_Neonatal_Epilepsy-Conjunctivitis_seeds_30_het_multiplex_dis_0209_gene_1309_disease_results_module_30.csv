@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.35593220338983045
+1,disease_on_symptoms,16,27,1.6939330318690782
+2,disease_on_drugs,21,28,0.7227891156462587

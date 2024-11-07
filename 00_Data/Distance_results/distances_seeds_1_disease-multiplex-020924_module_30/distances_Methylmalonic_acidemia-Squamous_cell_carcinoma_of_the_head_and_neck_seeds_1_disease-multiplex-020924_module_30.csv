@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,25,21,0.39966873706004136
+1,disease_on_symptoms,16,25,1.8720731707317073
+2,disease_on_drugs,17,21,1.1811145510835916

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.14578754578754594
+1,disease_on_symptoms,18,16,0.696895424836601
+2,disease_on_drugs,26,26,-0.30769230769230793

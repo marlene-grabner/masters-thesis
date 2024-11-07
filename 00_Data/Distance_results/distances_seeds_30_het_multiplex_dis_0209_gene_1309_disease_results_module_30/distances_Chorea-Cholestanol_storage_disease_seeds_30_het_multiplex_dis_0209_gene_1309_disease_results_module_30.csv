@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.3731735827001753
+1,disease_on_symptoms,17,18,-0.5387021475256768
+2,disease_on_drugs,24,28,-0.3683608058608059

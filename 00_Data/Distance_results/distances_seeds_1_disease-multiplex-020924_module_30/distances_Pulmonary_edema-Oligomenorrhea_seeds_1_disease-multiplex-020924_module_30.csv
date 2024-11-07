@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.31034482758620685
+1,disease_on_symptoms,14,12,1.3406593406593406
+2,disease_on_drugs,27,21,0.7665343915343916

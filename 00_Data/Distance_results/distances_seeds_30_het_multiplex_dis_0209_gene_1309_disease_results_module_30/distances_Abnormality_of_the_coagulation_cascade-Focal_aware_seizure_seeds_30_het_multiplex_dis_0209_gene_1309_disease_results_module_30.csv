@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,24,29,0.018867924528301883
+1,disease_on_symptoms,24,16,0.14583333333333348
+2,disease_on_drugs,23,29,0.08352554491984776

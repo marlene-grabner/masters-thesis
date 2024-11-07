@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,27,27,0.5185185185185186
+1,disease_on_symptoms,23,18,1.9016142335336395
+2,disease_on_drugs,15,21,0.4746031746031747

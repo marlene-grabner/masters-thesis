@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Uveitis nodes,sAB
+0,disease_on_genes,29,30,0.22032924215858163
+1,disease_on_symptoms,17,21,1.242591773551526
+2,disease_on_drugs,26,27,0.679231844326184

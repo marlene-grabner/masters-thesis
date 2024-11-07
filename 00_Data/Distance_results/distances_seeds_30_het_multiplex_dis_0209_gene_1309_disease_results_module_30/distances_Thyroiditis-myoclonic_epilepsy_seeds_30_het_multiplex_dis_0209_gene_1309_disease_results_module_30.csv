@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,21,16,0.7520913770913771
+2,disease_on_drugs,29,25,0.28355044699872267

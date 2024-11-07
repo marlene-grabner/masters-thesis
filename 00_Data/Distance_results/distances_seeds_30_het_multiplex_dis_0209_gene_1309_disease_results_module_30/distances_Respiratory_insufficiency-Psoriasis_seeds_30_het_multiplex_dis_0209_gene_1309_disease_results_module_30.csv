@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,21,17,-0.0645731977001327
+2,disease_on_drugs,25,30,-0.07151515151515153

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Vasculitis nodes,sAB
+0,disease_on_genes,28,24,0.2882326007326006
+1,disease_on_symptoms,19,19,0.8947368421052633
+2,disease_on_drugs,26,20,0.6456521739130434

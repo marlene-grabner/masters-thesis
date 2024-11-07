@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,-0.08620689655172409
+1,disease_on_symptoms,23,18,-0.035937315894898125
+2,disease_on_drugs,26,28,-0.00030525030525030417

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,20,22,0.11244588744588735
+2,disease_on_drugs,29,28,-0.31463356667530884

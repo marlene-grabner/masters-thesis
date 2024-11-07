@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,0.03508771929824572
+1,disease_on_symptoms,19,22,-0.10447543470650023
+2,disease_on_drugs,25,27,0.2311396011396012

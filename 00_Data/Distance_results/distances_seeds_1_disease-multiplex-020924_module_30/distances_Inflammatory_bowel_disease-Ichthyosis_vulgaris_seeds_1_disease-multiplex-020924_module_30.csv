@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,17,27,0.08650947459086988
+1,disease_on_symptoms,27,21,0.5221560846560847
+2,disease_on_drugs,14,27,0.1837979094076656

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Hypertrophic_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.43333333333333335
+1,disease_on_symptoms,14,17,0.5676335050149093
+2,disease_on_drugs,11,17,0.03571428571428581

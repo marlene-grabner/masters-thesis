@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Meningitis nodes,sAB
+0,disease_on_genes,13,29,0.3090817228748264
+1,disease_on_symptoms,26,20,1.7505852842809366
+2,disease_on_drugs,9,26,0.7158730158730158

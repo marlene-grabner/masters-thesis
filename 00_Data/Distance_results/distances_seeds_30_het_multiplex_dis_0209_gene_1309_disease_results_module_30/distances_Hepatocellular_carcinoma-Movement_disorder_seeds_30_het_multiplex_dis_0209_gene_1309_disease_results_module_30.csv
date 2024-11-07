@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,24,30,-0.10925925925925917
+1,disease_on_symptoms,23,17,0.5117007672634273
+2,disease_on_drugs,22,26,-0.14962121212121215

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.14743589743589758
+1,disease_on_symptoms,23,26,1.0987645894478195
+2,disease_on_drugs,25,28,0.35950134770889486

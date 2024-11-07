@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.04277389277389276
+1,disease_on_symptoms,18,25,0.9897932816537467
+2,disease_on_drugs,25,18,0.21581395348837207

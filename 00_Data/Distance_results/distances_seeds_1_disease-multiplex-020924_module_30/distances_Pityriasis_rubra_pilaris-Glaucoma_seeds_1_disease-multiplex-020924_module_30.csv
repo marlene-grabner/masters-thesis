@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,0.14022988505747125
+1,disease_on_symptoms,23,14,-0.005623636058418535
+2,disease_on_drugs,26,30,0.30320512820512824

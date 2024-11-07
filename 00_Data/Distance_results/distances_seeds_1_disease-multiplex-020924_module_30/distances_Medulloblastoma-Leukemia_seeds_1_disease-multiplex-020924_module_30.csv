@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,-0.11363636363636365
+1,disease_on_symptoms,19,27,0.25167387066700564
+2,disease_on_drugs,24,17,-0.0846783835485414

@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Glaucoma nodes,sAB
+0,disease_on_genes,25,30,0.11388888888888893
+1,disease_on_symptoms,20,14,0.496218487394958
+2,disease_on_drugs,21,30,0.7229691876750699

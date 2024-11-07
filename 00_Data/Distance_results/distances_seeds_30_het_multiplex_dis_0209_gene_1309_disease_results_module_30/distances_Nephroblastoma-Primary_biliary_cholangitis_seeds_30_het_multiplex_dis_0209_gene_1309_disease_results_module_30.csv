@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,29,26,0.16457680250783713
+1,disease_on_symptoms,20,23,0.6548786653185035
+2,disease_on_drugs,24,26,0.28032051282051285

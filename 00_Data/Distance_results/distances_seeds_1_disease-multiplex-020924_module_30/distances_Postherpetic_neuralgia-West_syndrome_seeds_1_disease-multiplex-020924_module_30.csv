@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.13587570621468936
+1,disease_on_symptoms,15,18,-0.1404040404040403
+2,disease_on_drugs,29,22,0.04158215010141997

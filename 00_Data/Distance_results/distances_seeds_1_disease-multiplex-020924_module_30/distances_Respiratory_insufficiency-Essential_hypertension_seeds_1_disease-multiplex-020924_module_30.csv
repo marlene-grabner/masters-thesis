@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,25,28,0.26491913746630713
+1,disease_on_symptoms,20,14,2.211974789915966
+2,disease_on_drugs,14,28,0.3571428571428572

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,21,0.3141534391534391
+1,disease_on_symptoms,19,25,0.3677990430622009
+2,disease_on_drugs,27,21,1.0

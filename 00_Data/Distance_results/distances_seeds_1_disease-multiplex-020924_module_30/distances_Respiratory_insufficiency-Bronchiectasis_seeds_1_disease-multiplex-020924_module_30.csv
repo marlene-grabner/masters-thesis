@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,25,30,0.197878787878788
+1,disease_on_symptoms,20,15,-0.12023809523809526
+2,disease_on_drugs,14,26,-0.2206043956043955

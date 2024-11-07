@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,26,29,-0.01756691584277781
+1,disease_on_symptoms,19,15,0.44489164086687283
+2,disease_on_drugs,24,29,0.28268000433745377

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.10229885057471255
+1,disease_on_symptoms,19,18,-0.16362415046625567
+2,disease_on_drugs,24,27,-0.06290849673202614

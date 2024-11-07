@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,28,23,0.08680428693216413
+1,disease_on_symptoms,14,25,0.8204761904761906
+2,disease_on_drugs,28,18,0.3514492753623186

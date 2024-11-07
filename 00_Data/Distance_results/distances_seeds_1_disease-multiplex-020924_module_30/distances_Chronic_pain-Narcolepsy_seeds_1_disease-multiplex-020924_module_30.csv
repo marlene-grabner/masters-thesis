@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.20545454545454556
+1,disease_on_symptoms,22,21,0.36924896808617746
+2,disease_on_drugs,28,20,-0.10535714285714293

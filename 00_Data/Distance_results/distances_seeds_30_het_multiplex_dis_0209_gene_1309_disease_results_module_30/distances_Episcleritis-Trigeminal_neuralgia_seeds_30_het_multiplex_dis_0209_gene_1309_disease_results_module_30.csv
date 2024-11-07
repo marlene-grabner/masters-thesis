@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,18,15,0.13686868686868703
+2,disease_on_drugs,28,25,0.09563342318059287

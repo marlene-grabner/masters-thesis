@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,22,24,0.32600461133069847
+1,disease_on_symptoms,24,21,1.3378968253968253
+2,disease_on_drugs,20,24,0.9162878787878788

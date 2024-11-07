@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,22,21,0.2573744085371992
+1,disease_on_symptoms,19,25,1.1285645933014354
+2,disease_on_drugs,19,21,0.523684210526316

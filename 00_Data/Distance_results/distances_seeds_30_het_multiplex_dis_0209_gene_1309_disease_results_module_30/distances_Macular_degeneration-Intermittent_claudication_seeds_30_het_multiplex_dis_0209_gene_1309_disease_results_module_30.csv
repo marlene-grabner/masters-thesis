@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,17,14,-0.15275142314990475
+2,disease_on_drugs,17,24,0.10667742706838812

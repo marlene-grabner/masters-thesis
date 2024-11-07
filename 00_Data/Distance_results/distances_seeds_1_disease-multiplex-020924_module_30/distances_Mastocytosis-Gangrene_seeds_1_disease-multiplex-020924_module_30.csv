@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,18,26,0.04040404040404044
+1,disease_on_symptoms,28,19,0.6705527115661494
+2,disease_on_drugs,17,23,0.1694373401534528

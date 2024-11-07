@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.03809523809523818
+1,disease_on_symptoms,18,21,0.343101343101343
+2,disease_on_drugs,24,26,0.1612820512820512

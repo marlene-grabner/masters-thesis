@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,23,30,0.16847142466502585
+1,disease_on_symptoms,19,24,1.6160495716034273
+2,disease_on_drugs,19,24,0.7490310077519382

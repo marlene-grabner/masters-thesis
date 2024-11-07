@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,28,26,0.4999491249491248
+1,disease_on_symptoms,14,17,2.0324613716454323
+2,disease_on_drugs,24,18,1.3095238095238098

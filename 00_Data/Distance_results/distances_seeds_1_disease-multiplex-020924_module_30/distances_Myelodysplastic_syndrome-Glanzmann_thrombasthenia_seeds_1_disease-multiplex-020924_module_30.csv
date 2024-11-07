@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,26,24,0.019166666666666554
+1,disease_on_symptoms,15,21,0.08095238095238111
+2,disease_on_drugs,21,24,0.24662698412698414

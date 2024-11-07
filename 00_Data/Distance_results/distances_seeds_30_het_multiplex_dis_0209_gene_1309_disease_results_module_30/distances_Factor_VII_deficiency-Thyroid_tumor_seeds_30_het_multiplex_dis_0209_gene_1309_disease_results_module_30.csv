@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,28,23,0.1782212885154062
+1,disease_on_symptoms,19,20,1.0258097165991902
+2,disease_on_drugs,25,20,0.7150000000000001

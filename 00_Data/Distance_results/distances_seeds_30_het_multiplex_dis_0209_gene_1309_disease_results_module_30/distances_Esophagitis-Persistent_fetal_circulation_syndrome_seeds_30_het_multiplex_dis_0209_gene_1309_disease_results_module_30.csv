@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,0.07592592592592595
+1,disease_on_symptoms,20,22,0.5291125541125545
+2,disease_on_drugs,30,21,0.153501400560224

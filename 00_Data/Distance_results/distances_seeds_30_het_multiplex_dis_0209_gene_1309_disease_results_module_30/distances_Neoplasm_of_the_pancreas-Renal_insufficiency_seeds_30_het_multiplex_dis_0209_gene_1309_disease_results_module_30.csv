@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,20,19,0.2343117408906883
+2,disease_on_drugs,30,28,0.01403940886699484

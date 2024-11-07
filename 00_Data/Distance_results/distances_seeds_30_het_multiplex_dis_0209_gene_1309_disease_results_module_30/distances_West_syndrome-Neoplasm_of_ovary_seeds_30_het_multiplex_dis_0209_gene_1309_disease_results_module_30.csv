@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,13,22,0.824975024975025
+2,disease_on_drugs,19,29,0.48884603750756184

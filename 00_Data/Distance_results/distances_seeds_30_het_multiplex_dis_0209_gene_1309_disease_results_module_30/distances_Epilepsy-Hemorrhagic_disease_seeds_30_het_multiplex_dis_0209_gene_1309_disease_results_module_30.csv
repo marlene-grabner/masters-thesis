@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.088095238095238
+1,disease_on_symptoms,21,19,0.1958646616541353
+2,disease_on_drugs,29,24,0.0977553675992191

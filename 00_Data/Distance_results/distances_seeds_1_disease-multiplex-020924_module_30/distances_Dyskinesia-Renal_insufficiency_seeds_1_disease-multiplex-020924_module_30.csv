@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,24,20,0.21553030303030307
+1,disease_on_symptoms,17,23,1.8519181585677749
+2,disease_on_drugs,23,17,0.7485294117647059

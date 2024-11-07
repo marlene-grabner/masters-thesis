@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,22,25,-0.4076789168278532
+1,disease_on_symptoms,23,23,0.4782608695652175
+2,disease_on_drugs,17,23,-0.42730179028132986

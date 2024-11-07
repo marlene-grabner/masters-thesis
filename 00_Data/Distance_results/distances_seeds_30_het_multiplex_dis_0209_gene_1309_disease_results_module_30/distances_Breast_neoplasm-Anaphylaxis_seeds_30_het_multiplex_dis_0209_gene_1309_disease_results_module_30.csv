@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.016569200779727122
+1,disease_on_symptoms,20,14,1.017436974789916
+2,disease_on_drugs,30,26,0.6744505494505495

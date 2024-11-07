@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.07005494505494503
+1,disease_on_symptoms,22,12,0.08645276292335113
+2,disease_on_drugs,25,23,0.3753260869565218

@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.5666666666666664
+1,disease_on_symptoms,16,13,2.3732592838196283
+2,disease_on_drugs,23,18,1.0465712265818312

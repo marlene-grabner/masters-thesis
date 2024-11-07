@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.2524475524475527
+1,disease_on_symptoms,21,12,0.8365800865800868
+2,disease_on_drugs,24,30,0.6245370370370371

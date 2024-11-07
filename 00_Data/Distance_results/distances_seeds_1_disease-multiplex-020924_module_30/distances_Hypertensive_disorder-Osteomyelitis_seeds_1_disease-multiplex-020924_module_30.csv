@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,0.351764705882353
+1,disease_on_symptoms,15,23,1.3589626239511823
+2,disease_on_drugs,26,23,0.9361135758651287

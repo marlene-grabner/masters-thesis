@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,23,28,0.37742053343076387
+1,disease_on_symptoms,25,19,1.1467464114832535
+2,disease_on_drugs,18,28,1.0727225672877845

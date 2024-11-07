@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,29,30,-0.3387103058640172
+1,disease_on_symptoms,20,19,-0.10829959514170051
+2,disease_on_drugs,25,24,-0.3698979591836735

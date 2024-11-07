@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Sepsis nodes,sAB
+0,disease_on_genes,23,22,-0.20107597716293368
+1,disease_on_symptoms,21,23,0.9588274044795781
+2,disease_on_drugs,19,17,-0.1421568627450981

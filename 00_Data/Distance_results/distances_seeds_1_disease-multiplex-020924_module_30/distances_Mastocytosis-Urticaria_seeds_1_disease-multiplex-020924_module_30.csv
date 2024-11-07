@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Urticaria nodes,sAB
+0,disease_on_genes,18,10,0.00793650793650813
+1,disease_on_symptoms,28,27,0.09443241943241931
+2,disease_on_drugs,17,9,-0.020361990950226172

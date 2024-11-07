@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.21083333333333343
+1,disease_on_symptoms,17,22,2.4572535307829426
+2,disease_on_drugs,23,11,0.7429667519181584

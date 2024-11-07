@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,29,22,0.08079783637592985
+1,disease_on_symptoms,20,21,0.7110917537746806
+2,disease_on_drugs,25,17,0.6330532212885154

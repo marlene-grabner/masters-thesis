@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,26,24,0.3307692307692309
+1,disease_on_symptoms,17,23,2.252557544757033
+2,disease_on_drugs,18,12,1.1

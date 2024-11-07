@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,25,20,0.17878787878787872
+1,disease_on_symptoms,20,24,1.2814393939393938
+2,disease_on_drugs,21,18,0.48229548229548214

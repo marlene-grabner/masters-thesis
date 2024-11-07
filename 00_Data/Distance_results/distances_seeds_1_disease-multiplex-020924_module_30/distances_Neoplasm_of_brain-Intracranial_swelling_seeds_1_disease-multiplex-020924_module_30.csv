@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,22,30,0.3836829836829836
+1,disease_on_symptoms,23,14,0.9738123216384089
+2,disease_on_drugs,20,24,0.4518939393939394

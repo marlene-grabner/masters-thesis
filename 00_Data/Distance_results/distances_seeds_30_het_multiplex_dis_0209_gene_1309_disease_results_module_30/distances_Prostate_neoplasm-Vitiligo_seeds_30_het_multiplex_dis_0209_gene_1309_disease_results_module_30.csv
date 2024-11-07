@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Vitiligo nodes,sAB
+0,disease_on_genes,21,30,-0.08263305322128844
+1,disease_on_symptoms,20,19,0.37020917678812393
+2,disease_on_drugs,21,25,0.15846790890269147

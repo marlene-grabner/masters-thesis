@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,0.270909090909091
+1,disease_on_symptoms,18,19,0.40805278963173697
+2,disease_on_drugs,27,13,0.44394586894586907

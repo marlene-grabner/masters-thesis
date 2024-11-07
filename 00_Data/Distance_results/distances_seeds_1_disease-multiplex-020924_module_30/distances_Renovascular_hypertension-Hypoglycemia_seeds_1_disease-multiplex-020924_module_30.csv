@@ -1,0 +1,4 @@
+,Layer,Renovascular_hypertension nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,21,30,0.1876750700280112
+1,disease_on_symptoms,22,12,0.7375222816399285
+2,disease_on_drugs,20,22,-0.029761904761904656

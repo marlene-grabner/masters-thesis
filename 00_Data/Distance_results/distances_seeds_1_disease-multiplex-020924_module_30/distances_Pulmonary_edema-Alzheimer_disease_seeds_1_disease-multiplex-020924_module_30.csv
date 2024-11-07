@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,0.03500000000000014
+1,disease_on_symptoms,14,23,0.6956941413463151
+2,disease_on_drugs,27,18,0.2296296296296294

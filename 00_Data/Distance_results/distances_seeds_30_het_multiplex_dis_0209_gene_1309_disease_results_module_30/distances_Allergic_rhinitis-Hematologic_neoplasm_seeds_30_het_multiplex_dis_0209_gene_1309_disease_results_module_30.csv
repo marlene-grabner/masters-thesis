@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,20,18,0.3688596491228071
+2,disease_on_drugs,25,27,0.1548717948717948

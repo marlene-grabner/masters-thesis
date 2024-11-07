@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,27,26,0.018867924528301883
+1,disease_on_symptoms,21,21,0.5714285714285716
+2,disease_on_drugs,25,26,0.136395173453997

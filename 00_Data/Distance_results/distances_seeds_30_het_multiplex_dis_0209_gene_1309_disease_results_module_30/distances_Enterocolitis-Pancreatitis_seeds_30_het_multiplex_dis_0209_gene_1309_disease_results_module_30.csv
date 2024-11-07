@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.29824561403508776
+1,disease_on_symptoms,21,17,-0.7518796992481203
+2,disease_on_drugs,25,30,-0.327878787878788

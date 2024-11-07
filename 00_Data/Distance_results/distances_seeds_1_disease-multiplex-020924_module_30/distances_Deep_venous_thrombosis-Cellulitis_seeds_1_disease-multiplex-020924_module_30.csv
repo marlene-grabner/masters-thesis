@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,28,22,0.3630952380952379
+1,disease_on_symptoms,14,26,1.926648351648352
+2,disease_on_drugs,24,12,1.5

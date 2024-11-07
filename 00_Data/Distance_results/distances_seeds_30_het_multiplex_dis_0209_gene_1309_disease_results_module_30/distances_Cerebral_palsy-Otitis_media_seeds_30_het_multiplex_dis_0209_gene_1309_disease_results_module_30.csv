@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.1691992986557569
+1,disease_on_symptoms,13,20,0.5745337995337996
+2,disease_on_drugs,21,28,0.15391156462585043

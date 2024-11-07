@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,0.42975734355044715
+1,disease_on_symptoms,18,20,1.4770467836257308
+2,disease_on_drugs,21,26,1.1864235055724415

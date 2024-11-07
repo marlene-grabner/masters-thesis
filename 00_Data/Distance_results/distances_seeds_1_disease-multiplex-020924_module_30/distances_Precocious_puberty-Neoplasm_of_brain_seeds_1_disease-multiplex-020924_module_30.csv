@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,0.1554778554778553
+1,disease_on_symptoms,14,23,0.9892563370824239
+2,disease_on_drugs,24,20,0.49545454545454537

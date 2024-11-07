@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Psoriasis nodes,sAB
+0,disease_on_genes,29,30,-0.30508474576271183
+1,disease_on_symptoms,20,17,-0.5962639109697931
+2,disease_on_drugs,28,30,-0.39971264367816084

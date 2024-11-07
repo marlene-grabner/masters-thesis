@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,25,29,-0.3348148148148148
+1,disease_on_symptoms,26,20,-0.5942307692307693
+2,disease_on_drugs,24,28,-0.31272893772893784

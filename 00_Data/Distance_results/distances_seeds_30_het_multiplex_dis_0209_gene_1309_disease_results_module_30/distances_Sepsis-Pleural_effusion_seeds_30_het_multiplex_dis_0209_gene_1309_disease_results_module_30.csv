@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,18,0.38030303030303036
+2,disease_on_drugs,25,27,0.17564102564102568

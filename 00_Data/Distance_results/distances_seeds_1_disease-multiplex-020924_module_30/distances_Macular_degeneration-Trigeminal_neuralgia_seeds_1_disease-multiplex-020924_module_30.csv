@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.3263136288998356
+1,disease_on_symptoms,15,19,0.7581011351909186
+2,disease_on_drugs,21,26,0.7867469410022601

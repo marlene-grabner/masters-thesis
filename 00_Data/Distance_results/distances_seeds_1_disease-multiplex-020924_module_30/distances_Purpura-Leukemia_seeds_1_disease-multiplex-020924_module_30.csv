@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.1923076923076923
+1,disease_on_symptoms,17,27,1.9473658150128736
+2,disease_on_drugs,20,17,0.6955484896661366

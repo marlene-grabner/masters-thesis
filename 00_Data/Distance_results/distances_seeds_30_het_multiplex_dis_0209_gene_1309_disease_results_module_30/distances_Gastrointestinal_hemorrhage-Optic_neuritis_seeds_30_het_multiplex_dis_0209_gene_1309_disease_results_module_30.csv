@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,-0.18149350649350648
+1,disease_on_symptoms,20,21,0.29041811846689924
+2,disease_on_drugs,27,27,-0.07407407407407418

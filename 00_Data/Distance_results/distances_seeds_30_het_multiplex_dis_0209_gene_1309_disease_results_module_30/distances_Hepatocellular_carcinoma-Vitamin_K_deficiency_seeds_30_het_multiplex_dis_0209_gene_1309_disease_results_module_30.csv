@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,24,25,-0.12244897959183676
+1,disease_on_symptoms,23,21,0.31841709015622066
+2,disease_on_drugs,22,21,-0.07147890868821105

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,26,30,-0.1251831501831503
+1,disease_on_symptoms,25,19,0.8218660287081341
+2,disease_on_drugs,25,27,0.0026210826210828486

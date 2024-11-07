@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Seasonal_allergy nodes,sAB
+0,disease_on_genes,27,29,-0.0185185185185186
+1,disease_on_symptoms,17,18,0.05714285714285694
+2,disease_on_drugs,24,29,-0.14488451528952506

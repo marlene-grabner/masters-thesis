@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,0.18508343508343517
+1,disease_on_symptoms,18,21,1.048840048840049
+2,disease_on_drugs,23,28,0.5133053221288517

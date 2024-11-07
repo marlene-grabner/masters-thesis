@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Keratitis nodes,sAB
+0,disease_on_genes,23,30,0.03993710691823904
+1,disease_on_symptoms,17,25,0.7106442577030812
+2,disease_on_drugs,22,29,0.0996527137500769

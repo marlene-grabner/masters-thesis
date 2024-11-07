@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,15,14,-0.13932676518883458
+2,disease_on_drugs,30,25,-0.1372727272727272

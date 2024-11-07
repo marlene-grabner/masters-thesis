@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,25,30,0.3090909090909091
+1,disease_on_symptoms,19,14,1.6730462519936204
+2,disease_on_drugs,18,24,0.20734126984126977

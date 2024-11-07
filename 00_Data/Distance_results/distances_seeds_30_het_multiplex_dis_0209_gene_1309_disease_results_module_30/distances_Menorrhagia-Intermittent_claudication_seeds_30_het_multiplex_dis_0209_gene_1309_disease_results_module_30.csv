@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,30,0.07017543859649122
+1,disease_on_symptoms,16,14,0.1937500000000001
+2,disease_on_drugs,23,24,0.06693262411347511

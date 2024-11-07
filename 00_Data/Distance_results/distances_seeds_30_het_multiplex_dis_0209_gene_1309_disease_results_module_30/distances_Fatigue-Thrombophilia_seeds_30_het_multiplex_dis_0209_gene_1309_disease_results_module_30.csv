@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,-0.0010885341074020616
+1,disease_on_symptoms,16,18,1.3047385620915033
+2,disease_on_drugs,26,22,0.279574592074592

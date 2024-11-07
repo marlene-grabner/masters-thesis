@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,16,22,0.3601994851994852
+1,disease_on_symptoms,26,26,2.153846153846154
+2,disease_on_drugs,14,12,1.3846153846153846

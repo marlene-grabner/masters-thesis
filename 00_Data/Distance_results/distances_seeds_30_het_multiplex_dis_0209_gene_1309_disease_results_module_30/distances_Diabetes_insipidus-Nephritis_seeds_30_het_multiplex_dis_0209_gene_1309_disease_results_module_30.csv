@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Nephritis nodes,sAB
+0,disease_on_genes,26,30,0.08791208791208804
+1,disease_on_symptoms,20,17,0.6906995230524642
+2,disease_on_drugs,20,25,0.14777777777777756

@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,27,-0.10623781676413269
+1,disease_on_symptoms,18,21,0.11843711843711846
+2,disease_on_drugs,30,27,-0.018810916179337278

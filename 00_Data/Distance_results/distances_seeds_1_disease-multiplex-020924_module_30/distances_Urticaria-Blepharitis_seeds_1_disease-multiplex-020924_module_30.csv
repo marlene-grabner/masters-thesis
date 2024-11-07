@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Blepharitis nodes,sAB
+0,disease_on_genes,10,20,0.04166666666666674
+1,disease_on_symptoms,27,27,0.6296296296296295
+2,disease_on_drugs,9,19,0.05451127819548862

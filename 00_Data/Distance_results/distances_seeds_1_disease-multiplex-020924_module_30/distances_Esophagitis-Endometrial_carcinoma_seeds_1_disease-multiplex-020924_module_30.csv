@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,24,23,0.30434782608695654
+1,disease_on_symptoms,23,21,1.129493694711086
+2,disease_on_drugs,20,21,0.8304006968641113

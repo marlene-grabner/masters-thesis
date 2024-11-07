@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,-0.0185185185185186
+1,disease_on_symptoms,23,17,0.1858695652173914
+2,disease_on_drugs,25,24,0.06030612244897959

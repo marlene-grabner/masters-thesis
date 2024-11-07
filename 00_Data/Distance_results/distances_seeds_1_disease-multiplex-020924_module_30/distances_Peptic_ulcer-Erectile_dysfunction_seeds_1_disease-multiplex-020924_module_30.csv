@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,28,30,0.03136288998357961
+1,disease_on_symptoms,14,16,1.3883928571428572
+2,disease_on_drugs,28,30,0.743103448275862

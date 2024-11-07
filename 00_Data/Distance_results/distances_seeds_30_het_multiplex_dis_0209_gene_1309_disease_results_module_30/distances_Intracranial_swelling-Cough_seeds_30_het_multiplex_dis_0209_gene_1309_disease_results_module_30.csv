@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.1929824561403508
+1,disease_on_symptoms,11,22,1.4621212121212124
+2,disease_on_drugs,21,24,0.28174603174603186

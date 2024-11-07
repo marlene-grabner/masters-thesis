@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Psoriasis nodes,sAB
+0,disease_on_genes,25,28,0.33485175202156325
+1,disease_on_symptoms,16,21,1.3872265122265122
+2,disease_on_drugs,17,28,0.5793183940242763

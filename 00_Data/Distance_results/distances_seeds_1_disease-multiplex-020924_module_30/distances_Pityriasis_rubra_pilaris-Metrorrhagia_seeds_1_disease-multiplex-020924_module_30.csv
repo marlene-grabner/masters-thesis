@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,28,27,0.21818181818181825
+1,disease_on_symptoms,23,17,0.9621483375959081
+2,disease_on_drugs,26,26,0.5961538461538463

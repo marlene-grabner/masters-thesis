@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,24,14,0.18984962406015038
+1,disease_on_symptoms,23,23,2.0
+2,disease_on_drugs,22,14,1.0277777777777777

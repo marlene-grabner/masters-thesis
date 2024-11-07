@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,20,15,0.717857142857143
+2,disease_on_drugs,27,28,-0.02189754689754686

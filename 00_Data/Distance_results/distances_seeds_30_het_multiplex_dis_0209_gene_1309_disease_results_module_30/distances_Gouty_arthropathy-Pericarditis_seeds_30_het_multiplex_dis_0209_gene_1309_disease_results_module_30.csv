@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,26,0.09259259259259256
+1,disease_on_symptoms,18,21,0.5253357753357752
+2,disease_on_drugs,23,26,0.11973585420790389

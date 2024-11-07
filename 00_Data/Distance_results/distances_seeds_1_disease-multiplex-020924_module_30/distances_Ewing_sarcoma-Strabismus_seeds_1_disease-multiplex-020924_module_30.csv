@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Strabismus nodes,sAB
+0,disease_on_genes,24,13,0.4167099792099791
+1,disease_on_symptoms,25,26,1.1940422322775266
+2,disease_on_drugs,17,9,1.1752136752136753

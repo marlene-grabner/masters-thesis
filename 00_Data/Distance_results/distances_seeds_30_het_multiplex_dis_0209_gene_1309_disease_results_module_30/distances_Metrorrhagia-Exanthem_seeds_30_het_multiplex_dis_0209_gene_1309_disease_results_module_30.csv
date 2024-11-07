@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,30,-0.1394736842105263
+1,disease_on_symptoms,17,21,0.014521598112929635
+2,disease_on_drugs,26,29,0.06726549312756225

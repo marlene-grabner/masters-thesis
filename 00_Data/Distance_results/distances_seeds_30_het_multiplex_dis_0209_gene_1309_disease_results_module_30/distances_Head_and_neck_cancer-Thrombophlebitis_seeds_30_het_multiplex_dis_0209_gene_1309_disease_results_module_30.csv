@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,22,18,-0.37954545454545463
+2,disease_on_drugs,23,29,-0.28456925383462117

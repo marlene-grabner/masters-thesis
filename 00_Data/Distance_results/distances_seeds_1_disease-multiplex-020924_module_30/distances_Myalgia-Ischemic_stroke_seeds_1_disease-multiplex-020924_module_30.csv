@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666385
+1,disease_on_symptoms,16,16,1.8125
+2,disease_on_drugs,29,23,0.12458193979933108

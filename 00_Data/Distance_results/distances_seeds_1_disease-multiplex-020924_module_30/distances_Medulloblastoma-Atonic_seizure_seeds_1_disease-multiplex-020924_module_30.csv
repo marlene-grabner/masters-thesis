@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,29,0.3645768025078371
+1,disease_on_symptoms,19,16,2.0362781954887215
+2,disease_on_drugs,24,24,1.270833333333333

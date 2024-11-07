@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,25,30,-0.20212121212121215
+1,disease_on_symptoms,21,18,0.051587301587301626
+2,disease_on_drugs,24,21,-0.13730158730158748

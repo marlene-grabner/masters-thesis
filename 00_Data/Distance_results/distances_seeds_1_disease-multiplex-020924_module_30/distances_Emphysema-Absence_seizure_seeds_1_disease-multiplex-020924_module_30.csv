@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.45703292421585795
+1,disease_on_symptoms,14,16,1.2113095238095237
+2,disease_on_drugs,29,22,0.5490196078431373

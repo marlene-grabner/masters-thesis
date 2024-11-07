@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.21237179487179492
+1,disease_on_symptoms,18,22,2.439141414141414
+2,disease_on_drugs,23,11,0.588235294117647

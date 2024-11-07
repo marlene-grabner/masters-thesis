@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,17,18,0.8337068160597572
+2,disease_on_drugs,26,28,0.42363654863654854

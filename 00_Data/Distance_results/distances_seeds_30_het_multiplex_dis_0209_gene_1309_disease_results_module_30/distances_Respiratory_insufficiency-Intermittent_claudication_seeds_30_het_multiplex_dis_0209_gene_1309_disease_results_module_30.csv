@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,21,14,0.31428571428571406
+2,disease_on_drugs,25,24,0.0015136054421769352

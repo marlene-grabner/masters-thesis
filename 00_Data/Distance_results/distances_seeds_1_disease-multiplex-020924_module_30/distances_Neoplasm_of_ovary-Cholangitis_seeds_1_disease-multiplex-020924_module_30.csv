@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Cholangitis nodes,sAB
+0,disease_on_genes,24,27,0.34994553376906334
+1,disease_on_symptoms,26,22,1.4768356643356644
+2,disease_on_drugs,15,26,1.6585365853658538

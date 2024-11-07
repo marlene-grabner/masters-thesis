@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,27,25,0.020541310541310587
+1,disease_on_symptoms,21,17,0.5904467049977886
+2,disease_on_drugs,23,24,0.27470706136293566

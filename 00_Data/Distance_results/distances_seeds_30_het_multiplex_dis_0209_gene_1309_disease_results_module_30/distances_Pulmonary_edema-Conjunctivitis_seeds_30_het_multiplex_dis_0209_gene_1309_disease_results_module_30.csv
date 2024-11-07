@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,11,27,0.48307637781321966
+2,disease_on_drugs,27,28,0.5463924963924964

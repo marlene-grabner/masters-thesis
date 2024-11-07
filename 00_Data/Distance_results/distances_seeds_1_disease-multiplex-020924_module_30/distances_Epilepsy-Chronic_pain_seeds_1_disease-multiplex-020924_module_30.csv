@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,29,30,0.03389830508474567
+1,disease_on_symptoms,18,22,0.1984848484848485
+2,disease_on_drugs,30,28,0.10340722495894905

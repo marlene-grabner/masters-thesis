@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Psoriasis nodes,sAB
+0,disease_on_genes,13,28,0.4098767086571966
+1,disease_on_symptoms,26,21,0.8623061335827296
+2,disease_on_drugs,9,28,0.7465679965679966

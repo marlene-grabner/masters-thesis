@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.1428571428571428
+1,disease_on_symptoms,13,20,1.207226107226107
+2,disease_on_drugs,19,24,0.8114035087719298

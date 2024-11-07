@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,25,20,0.4850000000000001
+1,disease_on_symptoms,19,24,0.8670185638514893
+2,disease_on_drugs,18,18,1.0277777777777777

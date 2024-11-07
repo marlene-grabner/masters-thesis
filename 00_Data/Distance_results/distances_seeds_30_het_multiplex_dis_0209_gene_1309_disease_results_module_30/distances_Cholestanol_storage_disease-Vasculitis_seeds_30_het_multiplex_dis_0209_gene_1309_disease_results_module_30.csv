@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,29,26,0.0009404388714733258
+1,disease_on_symptoms,18,18,0.7777777777777779
+2,disease_on_drugs,28,26,0.16636141636141621

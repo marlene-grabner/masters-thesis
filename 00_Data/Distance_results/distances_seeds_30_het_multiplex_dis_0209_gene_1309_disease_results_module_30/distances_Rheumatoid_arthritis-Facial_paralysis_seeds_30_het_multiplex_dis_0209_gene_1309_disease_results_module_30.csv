@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.03589743589743588
+1,disease_on_symptoms,19,21,0.4228696741854636
+2,disease_on_drugs,30,17,0.23239465999165598

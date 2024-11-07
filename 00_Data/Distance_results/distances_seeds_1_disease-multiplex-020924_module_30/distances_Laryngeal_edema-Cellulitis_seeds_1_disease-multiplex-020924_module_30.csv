@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.2997198879551821
+1,disease_on_symptoms,20,26,0.6317725752508361
+2,disease_on_drugs,28,12,0.7464285714285714

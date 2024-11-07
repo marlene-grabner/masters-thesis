@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Exanthem nodes,sAB
+0,disease_on_genes,24,28,0.25
+1,disease_on_symptoms,23,26,2.0197938707255476
+2,disease_on_drugs,22,28,0.5621428571428573

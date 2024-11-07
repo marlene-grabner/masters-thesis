@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.3362573099415205
+1,disease_on_symptoms,18,16,-0.9330065359477124
+2,disease_on_drugs,25,30,-0.2606060606060606

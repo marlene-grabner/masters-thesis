@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,17,30,0.22238214434710035
+1,disease_on_symptoms,22,16,3.0444078947368425
+2,disease_on_drugs,15,30,0.5833333333333333

@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.23729787648548617
+1,disease_on_symptoms,19,13,0.05022773279352233
+2,disease_on_drugs,30,28,-0.0018883415435140272

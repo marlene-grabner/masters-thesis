@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,0.2563178201109235
+1,disease_on_symptoms,17,16,0.36018270944741526
+2,disease_on_drugs,18,25,0.22868217054263584

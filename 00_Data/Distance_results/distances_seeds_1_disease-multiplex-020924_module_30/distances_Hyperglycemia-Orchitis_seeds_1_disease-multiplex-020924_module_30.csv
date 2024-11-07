@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,23,0.25408805031446535
+1,disease_on_symptoms,14,16,1.9675595238095238
+2,disease_on_drugs,26,17,0.8481532147742818

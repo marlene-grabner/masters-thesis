@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,22,30,0.3574467404516666
+1,disease_on_symptoms,22,18,0.35429292929292955
+2,disease_on_drugs,14,19,0.20784916837548417

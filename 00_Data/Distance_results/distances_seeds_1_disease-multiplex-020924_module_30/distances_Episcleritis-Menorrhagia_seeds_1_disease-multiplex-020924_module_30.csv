@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,30,26,0.1387362637362637
+1,disease_on_symptoms,22,19,1.733720387443109
+2,disease_on_drugs,29,24,0.3835258078507915

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,27,30,0.10614035087719298
+1,disease_on_symptoms,16,18,0.41564542483660105
+2,disease_on_drugs,23,21,0.47077922077922074

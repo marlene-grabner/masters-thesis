@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.15886939571150105
+1,disease_on_symptoms,23,17,0.756457800511509
+2,disease_on_drugs,25,26,0.3536349924585218

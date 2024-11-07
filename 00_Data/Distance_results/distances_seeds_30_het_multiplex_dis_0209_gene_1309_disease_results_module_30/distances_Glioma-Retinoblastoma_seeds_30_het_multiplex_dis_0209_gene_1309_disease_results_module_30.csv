@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,22,30,-0.34615384615384615
+1,disease_on_symptoms,21,21,-0.5476190476190476
+2,disease_on_drugs,21,27,-0.2774470899470898

@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,25,22,0.18696324951644105
+1,disease_on_symptoms,20,19,1.0766531713900136
+2,disease_on_drugs,21,19,0.07368421052631602

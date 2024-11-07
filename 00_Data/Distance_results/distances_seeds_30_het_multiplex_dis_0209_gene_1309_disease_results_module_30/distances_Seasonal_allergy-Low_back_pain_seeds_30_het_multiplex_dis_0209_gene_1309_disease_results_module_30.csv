@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,29,30,0.0847457627118644
+1,disease_on_symptoms,18,16,0.30147058823529393
+2,disease_on_drugs,29,25,0.006053639846743231

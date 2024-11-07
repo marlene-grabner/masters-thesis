@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,29,26,0.45338799131902574
+1,disease_on_symptoms,17,21,2.158631873802152
+2,disease_on_drugs,26,24,0.9782692307692309

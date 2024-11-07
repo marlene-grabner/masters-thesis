@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,18,22,0.26590909090909065
+2,disease_on_drugs,29,28,0.36897199896292454

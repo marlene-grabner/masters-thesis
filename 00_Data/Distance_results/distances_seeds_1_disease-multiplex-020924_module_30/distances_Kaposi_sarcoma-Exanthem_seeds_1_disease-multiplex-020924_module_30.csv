@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Exanthem nodes,sAB
+0,disease_on_genes,15,28,0.16589147286821704
+1,disease_on_symptoms,27,26,1.4545234639574263
+2,disease_on_drugs,13,28,0.39677700348432055

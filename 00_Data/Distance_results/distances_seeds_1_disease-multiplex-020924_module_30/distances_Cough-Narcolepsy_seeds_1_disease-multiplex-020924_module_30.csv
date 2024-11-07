@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,27,25,-0.020826210826210945
+1,disease_on_symptoms,21,21,1.3095238095238098
+2,disease_on_drugs,27,20,-0.1684200157604414

@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Otitis_media nodes,sAB
+0,disease_on_genes,22,29,0.02520130309176971
+1,disease_on_symptoms,20,22,0.9015151515151518
+2,disease_on_drugs,19,29,0.3441091954022988

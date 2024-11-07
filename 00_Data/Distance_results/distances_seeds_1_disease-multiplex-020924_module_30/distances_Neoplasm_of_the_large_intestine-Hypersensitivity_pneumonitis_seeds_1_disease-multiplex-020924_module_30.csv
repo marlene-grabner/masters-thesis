@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,20,24,0.04318181818181821
+1,disease_on_symptoms,25,23,0.5175362318840582
+2,disease_on_drugs,19,24,0.29620563035495695

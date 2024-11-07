@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.3780788177339902
+1,disease_on_symptoms,19,20,0.639541160593792
+2,disease_on_drugs,29,27,0.6964285714285714

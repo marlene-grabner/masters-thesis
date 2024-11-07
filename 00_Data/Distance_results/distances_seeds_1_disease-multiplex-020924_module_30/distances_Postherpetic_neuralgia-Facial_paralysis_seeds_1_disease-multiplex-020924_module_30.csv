@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.03203463203463186
+1,disease_on_symptoms,15,23,0.8938977879481314
+2,disease_on_drugs,29,14,0.47113071371291104

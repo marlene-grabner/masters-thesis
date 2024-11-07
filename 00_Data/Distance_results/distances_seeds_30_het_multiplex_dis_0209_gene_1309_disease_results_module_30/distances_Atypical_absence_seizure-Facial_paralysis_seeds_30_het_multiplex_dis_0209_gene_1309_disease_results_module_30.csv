@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.09615384615384615
+1,disease_on_symptoms,13,21,0.39161818573583296
+2,disease_on_drugs,22,17,0.01175784999314411

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.08762183235867438
+1,disease_on_symptoms,19,14,0.6908749145591249
+2,disease_on_drugs,22,26,0.19420163170163174

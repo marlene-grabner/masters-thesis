@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,29,23,-0.19481605351170583
+1,disease_on_symptoms,19,19,0.2105263157894739
+2,disease_on_drugs,29,21,-0.18430213464696243

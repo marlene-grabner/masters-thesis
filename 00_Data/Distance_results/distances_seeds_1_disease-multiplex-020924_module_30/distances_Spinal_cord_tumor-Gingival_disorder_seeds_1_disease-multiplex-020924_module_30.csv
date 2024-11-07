@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,22,21,0.3043642404107523
+1,disease_on_symptoms,22,26,1.1995920745920747
+2,disease_on_drugs,14,20,0.6281512605042017

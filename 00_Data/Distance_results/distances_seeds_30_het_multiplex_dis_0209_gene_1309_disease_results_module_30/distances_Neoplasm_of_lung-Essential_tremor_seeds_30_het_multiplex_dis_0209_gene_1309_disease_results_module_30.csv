@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.196078431372549
+1,disease_on_symptoms,19,23,0.7074207257273621
+2,disease_on_drugs,30,21,-0.015126050420168013

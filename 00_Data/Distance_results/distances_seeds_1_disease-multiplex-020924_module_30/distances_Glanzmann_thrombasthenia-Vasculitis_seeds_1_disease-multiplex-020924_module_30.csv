@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,24,24,0.04166666666666652
+1,disease_on_symptoms,21,19,0.874812030075188
+2,disease_on_drugs,24,20,0.41401515151515134

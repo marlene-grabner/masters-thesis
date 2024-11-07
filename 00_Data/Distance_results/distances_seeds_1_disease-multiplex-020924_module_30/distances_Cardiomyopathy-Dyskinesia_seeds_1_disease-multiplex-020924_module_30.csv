@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,25,24,0.2248809523809523
+1,disease_on_symptoms,17,17,1.647058823529412
+2,disease_on_drugs,24,23,0.8093971631205674

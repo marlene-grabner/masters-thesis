@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,24,30,0.12962962962962954
+1,disease_on_symptoms,24,22,0.6633728590250332
+2,disease_on_drugs,23,28,0.38172877846790887

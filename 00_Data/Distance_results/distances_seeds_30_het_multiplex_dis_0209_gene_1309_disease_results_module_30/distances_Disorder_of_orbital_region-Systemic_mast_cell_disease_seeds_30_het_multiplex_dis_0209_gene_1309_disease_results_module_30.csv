@@ -1,0 +1,4 @@
+,Layer,Disorder_of_orbital_region nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.00028248587570622874
+1,disease_on_symptoms,18,25,0.6902583979328165
+2,disease_on_drugs,28,21,0.011904761904761862

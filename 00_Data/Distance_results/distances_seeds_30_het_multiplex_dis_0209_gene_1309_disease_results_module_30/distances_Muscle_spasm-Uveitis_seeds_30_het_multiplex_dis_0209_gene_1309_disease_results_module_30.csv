@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,15,20,0.3333333333333335
+2,disease_on_drugs,29,23,-0.04261330873025049

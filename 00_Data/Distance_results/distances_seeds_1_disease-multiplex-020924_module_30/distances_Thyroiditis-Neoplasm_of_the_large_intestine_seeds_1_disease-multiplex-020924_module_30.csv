@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,26,20,-0.014966555183946628
+1,disease_on_symptoms,28,25,0.8093396226415095
+2,disease_on_drugs,23,19,0.23515310014165847

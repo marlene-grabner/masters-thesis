@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Pericarditis nodes,sAB
+0,disease_on_genes,25,26,0.058431372549019533
+1,disease_on_symptoms,17,21,1.0329500221141088
+2,disease_on_drugs,25,26,0.23751131221719457

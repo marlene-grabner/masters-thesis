@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,23,28,0.3956582633053223
+1,disease_on_symptoms,16,17,1.644997771836007
+2,disease_on_drugs,17,18,0.7697478991596638

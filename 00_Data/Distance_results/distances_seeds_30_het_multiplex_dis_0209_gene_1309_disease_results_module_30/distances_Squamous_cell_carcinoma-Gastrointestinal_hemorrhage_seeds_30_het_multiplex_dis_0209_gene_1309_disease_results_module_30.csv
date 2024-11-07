@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.10406403940886688
+1,disease_on_symptoms,22,20,-0.07662337662337682
+2,disease_on_drugs,30,27,0.23976608187134496

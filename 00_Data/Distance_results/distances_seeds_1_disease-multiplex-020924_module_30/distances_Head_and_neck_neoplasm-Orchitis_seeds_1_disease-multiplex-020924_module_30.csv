@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,23,0.3229559748427673
+1,disease_on_symptoms,20,16,0.7993055555555553
+2,disease_on_drugs,27,17,0.07754010695187175

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,9,30,0.194017094017094
+1,disease_on_symptoms,27,20,2.323463356973995
+2,disease_on_drugs,9,30,0.35897435897435903

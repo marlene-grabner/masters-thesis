@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,15,18,-0.09646464646464636
+2,disease_on_drugs,28,26,-0.15486365486365483

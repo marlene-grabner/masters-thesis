@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.06896551724137934
+1,disease_on_symptoms,17,13,0.08944193061840111
+2,disease_on_drugs,29,28,0.05286924207069399

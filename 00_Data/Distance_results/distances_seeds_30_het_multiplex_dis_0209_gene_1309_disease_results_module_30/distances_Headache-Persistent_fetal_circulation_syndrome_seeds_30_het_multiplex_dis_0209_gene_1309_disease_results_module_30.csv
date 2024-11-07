@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.07407407407407407
+1,disease_on_symptoms,23,22,0.4496267018006148
+2,disease_on_drugs,23,21,-0.11015433841520794

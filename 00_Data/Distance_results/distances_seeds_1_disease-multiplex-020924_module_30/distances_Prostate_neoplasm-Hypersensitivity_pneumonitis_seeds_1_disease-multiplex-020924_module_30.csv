@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,17,24,0.1750358680057389
+1,disease_on_symptoms,21,23,1.1656314699792962
+2,disease_on_drugs,17,24,0.7948350071736012

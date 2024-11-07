@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,19,15,0.948813209494324
+2,disease_on_drugs,29,26,0.293730407523511

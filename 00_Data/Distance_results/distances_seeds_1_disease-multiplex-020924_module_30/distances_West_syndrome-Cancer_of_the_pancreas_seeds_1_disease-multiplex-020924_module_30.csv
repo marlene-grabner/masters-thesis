@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,29,29,0.39655172413793105
+1,disease_on_symptoms,18,16,1.5020424836601305
+2,disease_on_drugs,22,29,1.1592292089249492

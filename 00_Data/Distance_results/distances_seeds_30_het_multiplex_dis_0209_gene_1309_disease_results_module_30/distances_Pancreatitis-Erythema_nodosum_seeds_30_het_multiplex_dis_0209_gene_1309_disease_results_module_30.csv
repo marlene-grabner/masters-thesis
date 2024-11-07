@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,22,-0.202214452214452
+2,disease_on_drugs,30,29,0.03528151178647976

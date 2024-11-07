@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,18,-0.24016121384542433
+2,disease_on_drugs,30,30,-0.19999999999999996

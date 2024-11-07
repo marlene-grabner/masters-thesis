@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,19,15,-0.15552115583075343
+2,disease_on_drugs,29,25,-0.08168582375478928

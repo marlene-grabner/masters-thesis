@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.2542372881355932
+1,disease_on_symptoms,14,16,1.300595238095238
+2,disease_on_drugs,27,29,0.6064358693669039

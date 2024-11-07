@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,29,30,0.08386908240794866
+1,disease_on_symptoms,21,22,1.6006996879089899
+2,disease_on_drugs,28,28,0.4999999999999998

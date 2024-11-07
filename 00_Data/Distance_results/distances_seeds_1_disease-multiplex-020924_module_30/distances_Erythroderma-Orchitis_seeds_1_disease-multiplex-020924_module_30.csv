@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,23,0.15754716981132066
+1,disease_on_symptoms,19,16,1.2858552631578948
+2,disease_on_drugs,28,17,0.5411764705882354

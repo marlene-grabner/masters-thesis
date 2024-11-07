@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.1272727272727272
+1,disease_on_symptoms,16,20,0.9451388888888888
+2,disease_on_drugs,21,18,0.2707570207570207

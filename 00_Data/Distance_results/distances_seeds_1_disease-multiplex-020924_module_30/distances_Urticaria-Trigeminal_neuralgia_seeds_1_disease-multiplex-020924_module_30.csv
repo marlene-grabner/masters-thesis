@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,10,28,0.6306390977443608
+1,disease_on_symptoms,27,19,1.7371387405712349
+2,disease_on_drugs,9,26,0.7807692307692309

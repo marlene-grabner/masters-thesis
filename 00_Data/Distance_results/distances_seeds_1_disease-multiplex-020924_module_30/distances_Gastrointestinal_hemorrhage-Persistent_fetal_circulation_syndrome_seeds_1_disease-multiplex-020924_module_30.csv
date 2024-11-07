@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,25,0.3460398860398859
+1,disease_on_symptoms,19,20,0.7182186234817811
+2,disease_on_drugs,27,18,0.5166666666666666

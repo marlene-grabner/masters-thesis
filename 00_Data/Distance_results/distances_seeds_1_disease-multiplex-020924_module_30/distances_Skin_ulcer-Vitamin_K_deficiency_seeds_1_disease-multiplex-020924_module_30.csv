@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.16212121212121233
+1,disease_on_symptoms,19,23,-0.2693145908248882
+2,disease_on_drugs,22,20,-0.16471861471861493

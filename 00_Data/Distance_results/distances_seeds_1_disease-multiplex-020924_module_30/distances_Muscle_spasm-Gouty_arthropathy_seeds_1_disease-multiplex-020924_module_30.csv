@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,25,25,0.26
+1,disease_on_symptoms,23,13,2.504830917874396
+2,disease_on_drugs,19,16,1.2258928571428571

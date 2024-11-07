@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,24,0.29993589743589744
+1,disease_on_symptoms,20,19,1.4893387314439948
+2,disease_on_drugs,27,19,0.7707432833290957

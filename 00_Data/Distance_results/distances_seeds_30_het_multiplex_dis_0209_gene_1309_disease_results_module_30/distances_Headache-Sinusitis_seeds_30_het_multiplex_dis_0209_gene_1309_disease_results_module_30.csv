@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,-0.0847457627118644
+1,disease_on_symptoms,23,20,0.3089231547017188
+2,disease_on_drugs,23,27,-0.20972624798711736

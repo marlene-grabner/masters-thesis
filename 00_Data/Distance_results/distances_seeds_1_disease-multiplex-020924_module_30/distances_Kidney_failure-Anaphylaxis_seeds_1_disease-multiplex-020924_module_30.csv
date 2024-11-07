@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,20,27,-0.02789598108747038
+1,disease_on_symptoms,23,15,2.0867276887871853
+2,disease_on_drugs,18,26,0.12315462315462322

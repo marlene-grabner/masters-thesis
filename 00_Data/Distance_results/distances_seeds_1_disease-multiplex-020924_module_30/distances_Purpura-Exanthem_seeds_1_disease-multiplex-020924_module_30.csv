@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.146011396011396
+1,disease_on_symptoms,17,26,1.734294433336841
+2,disease_on_drugs,20,28,0.1696428571428572

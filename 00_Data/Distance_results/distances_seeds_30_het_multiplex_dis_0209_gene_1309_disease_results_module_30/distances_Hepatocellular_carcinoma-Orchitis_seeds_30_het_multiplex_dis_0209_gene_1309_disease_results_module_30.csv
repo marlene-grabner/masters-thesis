@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Orchitis nodes,sAB
+0,disease_on_genes,24,25,-0.04081632653061229
+1,disease_on_symptoms,23,19,0.38078892884384885
+2,disease_on_drugs,22,25,0.19624758220502891

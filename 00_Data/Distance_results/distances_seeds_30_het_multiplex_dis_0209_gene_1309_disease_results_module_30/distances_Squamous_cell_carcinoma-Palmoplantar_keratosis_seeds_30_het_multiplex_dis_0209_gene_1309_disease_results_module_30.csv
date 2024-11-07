@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,-0.1964285714285714
+1,disease_on_symptoms,22,20,0.10432900432900438
+2,disease_on_drugs,30,23,-0.12756357670221496

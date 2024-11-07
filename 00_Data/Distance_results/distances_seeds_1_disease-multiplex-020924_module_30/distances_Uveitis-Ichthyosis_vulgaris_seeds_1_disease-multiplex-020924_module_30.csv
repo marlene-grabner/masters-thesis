@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.2642300194931775
+1,disease_on_symptoms,21,21,-0.11904761904761907
+2,disease_on_drugs,27,27,-0.2777777777777779

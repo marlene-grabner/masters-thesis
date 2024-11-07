@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.15367231638418088
+1,disease_on_symptoms,12,14,0.42216117216117244
+2,disease_on_drugs,30,30,0.8499999999999999

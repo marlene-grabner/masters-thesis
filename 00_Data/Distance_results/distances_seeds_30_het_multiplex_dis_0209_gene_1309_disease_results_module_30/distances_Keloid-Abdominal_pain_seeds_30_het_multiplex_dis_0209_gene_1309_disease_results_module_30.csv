@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,23,30,-0.07327044025157226
+1,disease_on_symptoms,17,19,1.03921568627451
+2,disease_on_drugs,22,29,0.4181111315999755

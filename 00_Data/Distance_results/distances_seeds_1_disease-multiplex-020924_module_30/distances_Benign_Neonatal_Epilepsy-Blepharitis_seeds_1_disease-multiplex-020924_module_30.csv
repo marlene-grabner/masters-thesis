@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.4647959183673471
+1,disease_on_symptoms,16,27,1.8714201119724376
+2,disease_on_drugs,26,19,0.8362573099415203

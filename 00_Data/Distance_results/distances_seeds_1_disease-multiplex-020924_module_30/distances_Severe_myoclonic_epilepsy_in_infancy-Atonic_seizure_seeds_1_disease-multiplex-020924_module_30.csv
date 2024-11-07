@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.5932300798753167
+1,disease_on_symptoms,16,16,-0.875
+2,disease_on_drugs,21,24,-0.6031746031746033

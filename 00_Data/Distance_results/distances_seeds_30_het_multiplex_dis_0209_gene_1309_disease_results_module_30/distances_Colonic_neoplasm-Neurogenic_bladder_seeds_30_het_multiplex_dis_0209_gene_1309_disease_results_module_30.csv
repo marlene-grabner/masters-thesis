@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,19,18,0.21186976450134365
+2,disease_on_drugs,29,21,0.2284729064039408

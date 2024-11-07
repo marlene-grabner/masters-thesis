@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,26,16,0.07440476190476186
+1,disease_on_symptoms,17,21,0.6336429308565532
+2,disease_on_drugs,23,15,0.320366132723112

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Dysuria nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,12,0.7870684776457271
+2,disease_on_drugs,20,21,0.04968060394889662

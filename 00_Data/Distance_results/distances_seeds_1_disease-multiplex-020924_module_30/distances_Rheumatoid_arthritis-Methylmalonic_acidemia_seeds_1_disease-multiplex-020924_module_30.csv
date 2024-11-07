@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,27,25,0.22829059829059828
+1,disease_on_symptoms,15,16,2.5760752688172044
+2,disease_on_drugs,25,17,0.7124929971988796

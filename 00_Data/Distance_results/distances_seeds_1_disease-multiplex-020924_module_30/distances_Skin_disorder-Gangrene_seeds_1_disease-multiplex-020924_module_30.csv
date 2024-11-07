@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Gangrene nodes,sAB
+0,disease_on_genes,7,26,0.02813852813852802
+1,disease_on_symptoms,30,19,0.947296813462227
+2,disease_on_drugs,6,23,0.30872063968015984

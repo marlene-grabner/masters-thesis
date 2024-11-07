@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Angioedema nodes,sAB
+0,disease_on_genes,24,29,0.32829670329670346
+1,disease_on_symptoms,23,17,1.5468670076726343
+2,disease_on_drugs,22,25,0.7234042553191489

@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,0.311296462158531
+1,disease_on_symptoms,17,18,1.2199346405228757
+2,disease_on_drugs,25,19,0.3074162679425838

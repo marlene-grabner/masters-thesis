@@ -1,0 +1,4 @@
+,Layer,Headache nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.3189976689976688
+1,disease_on_symptoms,25,21,2.1906418219461696
+2,disease_on_drugs,26,6,0.9078525641025641

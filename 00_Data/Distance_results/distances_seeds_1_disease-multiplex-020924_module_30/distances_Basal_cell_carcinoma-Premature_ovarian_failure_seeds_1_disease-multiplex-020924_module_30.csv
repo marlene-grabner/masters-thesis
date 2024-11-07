@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,28,0.05484330484330502
+1,disease_on_symptoms,23,21,1.4680500658761526
+2,disease_on_drugs,25,21,0.0828157349896479

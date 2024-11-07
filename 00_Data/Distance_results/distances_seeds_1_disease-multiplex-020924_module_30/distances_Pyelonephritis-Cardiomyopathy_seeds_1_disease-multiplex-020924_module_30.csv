@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,23,25,0.24894927536231903
+1,disease_on_symptoms,21,17,0.7621259029927758
+2,disease_on_drugs,19,24,0.9350775193798451

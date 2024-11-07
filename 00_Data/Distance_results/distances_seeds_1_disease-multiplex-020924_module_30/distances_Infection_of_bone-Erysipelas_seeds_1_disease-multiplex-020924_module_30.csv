@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,-0.11121286121286122
+1,disease_on_symptoms,21,20,0.5852497096399536
+2,disease_on_drugs,24,27,-0.1605392156862745

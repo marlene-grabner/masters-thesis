@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.11111111111111116
+1,disease_on_symptoms,12,19,1.057017543859649
+2,disease_on_drugs,29,24,0.07608165256994126

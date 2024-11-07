@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,22,13,0.19955044955044943
+1,disease_on_symptoms,23,25,2.076630434782609
+2,disease_on_drugs,17,8,0.9411764705882353

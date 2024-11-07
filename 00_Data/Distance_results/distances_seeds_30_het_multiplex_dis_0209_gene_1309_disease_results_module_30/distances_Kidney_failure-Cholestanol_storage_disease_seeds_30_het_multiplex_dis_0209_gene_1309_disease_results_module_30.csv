@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.47458601207870654
+1,disease_on_symptoms,20,18,-0.38172514619883025
+2,disease_on_drugs,28,28,-0.5714285714285714

@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,28,0.23668831168831184
+1,disease_on_symptoms,24,23,0.5109081097748998
+2,disease_on_drugs,25,28,0.12969002695417786

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Keratitis nodes,sAB
+0,disease_on_genes,22,28,0.13064935064935068
+1,disease_on_symptoms,23,25,1.419963768115942
+2,disease_on_drugs,17,23,0.45095907928388734

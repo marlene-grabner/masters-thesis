@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,23,29,0.25
+1,disease_on_symptoms,16,25,1.8452134146341463
+2,disease_on_drugs,17,27,0.04723707664884125

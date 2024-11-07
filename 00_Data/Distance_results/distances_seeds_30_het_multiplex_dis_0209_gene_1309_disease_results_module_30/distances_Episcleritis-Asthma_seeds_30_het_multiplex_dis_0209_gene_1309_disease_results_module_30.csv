@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.038181818181818206
+1,disease_on_symptoms,18,20,1.8668128654970757
+2,disease_on_drugs,28,22,-0.005584415584415803

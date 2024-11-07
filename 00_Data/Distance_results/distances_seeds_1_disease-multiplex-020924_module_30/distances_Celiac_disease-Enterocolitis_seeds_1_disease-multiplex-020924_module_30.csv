@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,17,27,0.01356704297880773
+1,disease_on_symptoms,22,21,0.5957918050941307
+2,disease_on_drugs,15,24,0.17660256410256414

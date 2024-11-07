@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,-0.12192982456140344
+1,disease_on_symptoms,17,22,0.301419169066228
+2,disease_on_drugs,24,27,-0.09545206971677556

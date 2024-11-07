@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,21,20,-0.4118176538908245
+2,disease_on_drugs,29,30,0.13382037794661983

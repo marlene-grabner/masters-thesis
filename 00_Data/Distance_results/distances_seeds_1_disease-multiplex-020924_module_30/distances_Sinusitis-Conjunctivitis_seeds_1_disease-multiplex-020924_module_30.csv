@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,29,27,0.054757343550447146
+1,disease_on_symptoms,21,27,0.19708994708994698
+2,disease_on_drugs,28,26,-0.01795889295889297

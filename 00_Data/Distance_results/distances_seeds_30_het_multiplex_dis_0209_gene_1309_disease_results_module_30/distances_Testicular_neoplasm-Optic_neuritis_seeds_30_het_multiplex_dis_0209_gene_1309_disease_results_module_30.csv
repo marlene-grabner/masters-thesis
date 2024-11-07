@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,-0.17384615384615387
+1,disease_on_symptoms,26,21,0.33107318213701187
+2,disease_on_drugs,24,27,-0.002723311546841023

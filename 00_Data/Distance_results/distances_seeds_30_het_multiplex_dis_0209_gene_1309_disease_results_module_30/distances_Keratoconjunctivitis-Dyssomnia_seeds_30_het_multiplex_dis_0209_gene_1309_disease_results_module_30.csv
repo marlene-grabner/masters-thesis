@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,29,18,-0.12765957446808507
+1,disease_on_symptoms,20,21,2.580923344947735
+2,disease_on_drugs,27,17,-0.05778371954842543

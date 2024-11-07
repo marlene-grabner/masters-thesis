@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.27033898305084747
+1,disease_on_symptoms,19,19,0.26315789473684204
+2,disease_on_drugs,20,29,-0.20916608022519356

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.17543859649122806
+1,disease_on_symptoms,12,17,-0.14283299526707238
+2,disease_on_drugs,29,26,-0.14903544731130958

@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.11607875307629212
+1,disease_on_symptoms,17,19,0.6541967664258688
+2,disease_on_drugs,29,22,-0.11355953039523015

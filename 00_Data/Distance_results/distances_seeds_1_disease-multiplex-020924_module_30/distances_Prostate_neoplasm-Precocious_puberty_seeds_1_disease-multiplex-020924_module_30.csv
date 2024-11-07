@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,17,30,0.04050896954526495
+1,disease_on_symptoms,21,14,0.19047619047619047
+2,disease_on_drugs,17,24,0.11190817790530838

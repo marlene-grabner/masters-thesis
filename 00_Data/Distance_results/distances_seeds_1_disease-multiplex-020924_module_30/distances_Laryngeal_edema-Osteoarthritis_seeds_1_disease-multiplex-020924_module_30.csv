@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.17999999999999994
+1,disease_on_symptoms,20,20,0.6499999999999999
+2,disease_on_drugs,28,21,0.21173469387755106

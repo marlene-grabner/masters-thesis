@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,0.037878787878787845
+1,disease_on_symptoms,18,19,0.16220167535956986
+2,disease_on_drugs,26,22,-0.02899184149184153

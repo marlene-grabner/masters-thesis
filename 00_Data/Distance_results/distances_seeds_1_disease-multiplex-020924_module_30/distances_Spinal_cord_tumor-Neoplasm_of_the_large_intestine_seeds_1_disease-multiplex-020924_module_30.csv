@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,22,20,0.10162337662337673
+1,disease_on_symptoms,22,25,0.9986073500967119
+2,disease_on_drugs,14,19,0.38568010936431985

@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,25,28,0.3593800539083558
+1,disease_on_symptoms,24,17,1.169087757054041
+2,disease_on_drugs,23,18,1.0975609756097562

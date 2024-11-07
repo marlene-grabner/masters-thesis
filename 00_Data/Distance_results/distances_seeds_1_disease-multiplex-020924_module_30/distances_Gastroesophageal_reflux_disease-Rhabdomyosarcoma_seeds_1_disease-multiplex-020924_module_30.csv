@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,0.13354037267080754
+1,disease_on_symptoms,17,24,0.8643591582974657
+2,disease_on_drugs,25,17,1.3133333333333335

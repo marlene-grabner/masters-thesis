@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,20,0.21721828211189909
+1,disease_on_symptoms,19,23,0.9848534379426828
+2,disease_on_drugs,27,17,0.9598930481283421

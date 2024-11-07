@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,0.05555555555555558
+1,disease_on_symptoms,17,14,1.287544049878016
+2,disease_on_drugs,26,13,0.2692307692307694

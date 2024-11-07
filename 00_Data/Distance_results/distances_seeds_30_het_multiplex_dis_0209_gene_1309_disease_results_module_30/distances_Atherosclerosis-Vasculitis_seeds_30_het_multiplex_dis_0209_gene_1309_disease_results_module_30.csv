@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,14,18,0.7569444444444444
+2,disease_on_drugs,29,26,0.050132625994695035

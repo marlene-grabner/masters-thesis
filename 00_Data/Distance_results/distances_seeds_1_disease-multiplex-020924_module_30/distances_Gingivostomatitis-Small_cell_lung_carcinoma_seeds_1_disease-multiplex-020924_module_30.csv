@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,27,0.14385964912280702
+1,disease_on_symptoms,23,24,1.3420829478877583
+2,disease_on_drugs,29,25,0.6660536398467432

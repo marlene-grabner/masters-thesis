@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Keloid nodes,sAB
+0,disease_on_genes,27,22,0.09929224214938492
+1,disease_on_symptoms,23,20,1.4689079878665319
+2,disease_on_drugs,15,19,0.388235294117647

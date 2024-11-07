@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,21,17,0.29927760577915374
+2,disease_on_drugs,25,27,0.4044444444444444

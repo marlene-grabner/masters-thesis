@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.1353107344632768
+1,disease_on_symptoms,17,20,0.356240063593005
+2,disease_on_drugs,26,27,-0.016852120625705735

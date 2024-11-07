@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,23,17,1.5195652173913041
+2,disease_on_drugs,29,26,0.48638775018085356

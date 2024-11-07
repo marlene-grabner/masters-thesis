@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Meningitis nodes,sAB
+0,disease_on_genes,24,29,0.13207547169811318
+1,disease_on_symptoms,23,17,1.2675831202046037
+2,disease_on_drugs,22,27,0.3351199065484778

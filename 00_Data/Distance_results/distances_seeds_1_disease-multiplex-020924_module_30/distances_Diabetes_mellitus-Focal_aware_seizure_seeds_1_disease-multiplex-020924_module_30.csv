@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,20,29,0.12908163265306127
+1,disease_on_symptoms,18,15,1.636868686868687
+2,disease_on_drugs,19,29,1.1820175438596494

@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.0009746588693957392
+1,disease_on_symptoms,14,19,1.6127249943039415
+2,disease_on_drugs,26,28,0.16982091982091974

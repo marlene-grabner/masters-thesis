@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,16,15,0.29677419354838697
+2,disease_on_drugs,27,28,0.2353415103415104

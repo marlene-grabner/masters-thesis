@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Anorexia nodes,sAB
+0,disease_on_genes,23,29,-0.1133952254641909
+1,disease_on_symptoms,17,13,1.4930618401206637
+2,disease_on_drugs,22,28,0.24584415584415598

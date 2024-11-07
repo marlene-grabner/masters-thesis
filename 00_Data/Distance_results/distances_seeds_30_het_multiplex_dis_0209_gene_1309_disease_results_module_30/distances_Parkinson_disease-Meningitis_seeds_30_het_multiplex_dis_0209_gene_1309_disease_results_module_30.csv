@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Meningitis nodes,sAB
+0,disease_on_genes,23,29,0.13461538461538458
+1,disease_on_symptoms,23,17,1.0904092071611253
+2,disease_on_drugs,22,27,0.4371607228750085

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,23,28,0.5034100596760445
+1,disease_on_symptoms,25,12,0.899189189189189
+2,disease_on_drugs,22,21,0.8371337964361221

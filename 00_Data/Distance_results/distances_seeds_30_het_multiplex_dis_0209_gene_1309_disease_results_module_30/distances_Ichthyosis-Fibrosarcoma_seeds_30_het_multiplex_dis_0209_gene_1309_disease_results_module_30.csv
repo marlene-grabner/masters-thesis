@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,28,30,0.0683497536945814
+1,disease_on_symptoms,18,14,0.3893849206349205
+2,disease_on_drugs,25,26,0.06066365007541474

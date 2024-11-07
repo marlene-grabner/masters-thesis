@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Rosacea nodes,sAB
+0,disease_on_genes,29,30,-0.15225988700564963
+1,disease_on_symptoms,23,18,0.34685401201838095
+2,disease_on_drugs,26,30,-0.03443223443223453

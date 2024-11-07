@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,17,30,0.18904881101376714
+1,disease_on_symptoms,22,15,0.9423423423423425
+2,disease_on_drugs,15,23,0.6028222730739894

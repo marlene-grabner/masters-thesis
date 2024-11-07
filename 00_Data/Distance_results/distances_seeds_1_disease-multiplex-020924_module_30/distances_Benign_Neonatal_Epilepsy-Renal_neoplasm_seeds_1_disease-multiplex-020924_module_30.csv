@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,29,22,0.2785204991087342
+1,disease_on_symptoms,16,25,1.7955792682926828
+2,disease_on_drugs,26,18,1.3863636363636362

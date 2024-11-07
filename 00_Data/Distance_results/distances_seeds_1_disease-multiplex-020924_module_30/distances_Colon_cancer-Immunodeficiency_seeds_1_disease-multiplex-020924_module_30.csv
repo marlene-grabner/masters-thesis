@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,22,0.2875874125874125
+1,disease_on_symptoms,21,19,1.2541353383458649
+2,disease_on_drugs,24,18,0.376984126984127

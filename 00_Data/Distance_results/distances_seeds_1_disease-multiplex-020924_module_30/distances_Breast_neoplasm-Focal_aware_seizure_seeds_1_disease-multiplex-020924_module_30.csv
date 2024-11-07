@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.15254237288135597
+1,disease_on_symptoms,16,15,1.4563844086021507
+2,disease_on_drugs,30,29,1.4745762711864407

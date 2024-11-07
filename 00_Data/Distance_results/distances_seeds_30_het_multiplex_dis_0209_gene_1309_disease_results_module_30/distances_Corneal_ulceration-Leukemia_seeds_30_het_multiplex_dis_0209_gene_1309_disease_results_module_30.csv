@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,30,-0.17302955665024622
+1,disease_on_symptoms,15,21,-0.161904761904762
+2,disease_on_drugs,23,30,-0.13829641782882152

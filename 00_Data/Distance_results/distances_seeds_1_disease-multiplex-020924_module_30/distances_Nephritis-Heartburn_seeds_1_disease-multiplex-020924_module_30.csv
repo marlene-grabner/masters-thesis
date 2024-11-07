@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,24,-0.011574074074073959
+1,disease_on_symptoms,18,20,0.7361111111111112
+2,disease_on_drugs,27,22,0.12957809386380825

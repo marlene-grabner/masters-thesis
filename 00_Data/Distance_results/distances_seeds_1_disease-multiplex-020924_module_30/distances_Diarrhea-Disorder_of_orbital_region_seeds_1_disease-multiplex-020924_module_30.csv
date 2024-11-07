@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,17,-0.07387601505248553
+1,disease_on_symptoms,19,27,0.5146198830409356
+2,disease_on_drugs,26,16,0.5849358974358976

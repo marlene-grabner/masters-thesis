@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.055172413793103336
+1,disease_on_symptoms,17,26,0.548247921708934
+2,disease_on_drugs,28,28,0.1785714285714286

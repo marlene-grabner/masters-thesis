@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,17,19,0.17337461300309598
+2,disease_on_drugs,26,25,-0.1953846153846155

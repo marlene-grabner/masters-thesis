@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,14,19,-0.12104123946229262
+2,disease_on_drugs,24,25,-0.18335034013605434

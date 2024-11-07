@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,21,23,0.3831168831168832
+1,disease_on_symptoms,26,25,1.4313122171945705
+2,disease_on_drugs,20,21,1.024390243902439

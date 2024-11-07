@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,25,-0.040000000000000036
+1,disease_on_symptoms,9,20,0.006513409961685701
+2,disease_on_drugs,11,18,-0.025339602925809945

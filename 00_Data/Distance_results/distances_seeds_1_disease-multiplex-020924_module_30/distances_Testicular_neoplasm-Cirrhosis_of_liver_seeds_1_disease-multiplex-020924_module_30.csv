@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,0.08878787878787886
+1,disease_on_symptoms,25,14,0.9210622710622711
+2,disease_on_drugs,23,26,0.32504607194048174

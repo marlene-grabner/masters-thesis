@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,28,25,0.283787061994609
+1,disease_on_symptoms,14,19,1.4442925495557075
+2,disease_on_drugs,28,18,0.8930296756383713

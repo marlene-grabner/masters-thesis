@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,26,28,-0.019993894993895145
+1,disease_on_symptoms,17,14,0.9916644076985632
+2,disease_on_drugs,20,24,0.0

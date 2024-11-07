@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Uveitis nodes,sAB
+0,disease_on_genes,29,30,0.322316384180791
+1,disease_on_symptoms,16,21,1.6367036679536682
+2,disease_on_drugs,26,27,0.7739343116701607

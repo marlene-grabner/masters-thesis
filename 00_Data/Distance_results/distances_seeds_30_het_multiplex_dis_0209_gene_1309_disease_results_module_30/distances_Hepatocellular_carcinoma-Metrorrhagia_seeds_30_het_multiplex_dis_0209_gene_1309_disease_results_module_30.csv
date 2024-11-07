@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,24,29,-0.1568627450980392
+1,disease_on_symptoms,23,17,-0.13388746803069052
+2,disease_on_drugs,22,26,-0.09673659673659674

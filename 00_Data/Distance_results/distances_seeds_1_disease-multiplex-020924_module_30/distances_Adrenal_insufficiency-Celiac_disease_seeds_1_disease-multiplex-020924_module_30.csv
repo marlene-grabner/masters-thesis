@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,17,17,0.5
+1,disease_on_symptoms,21,22,2.9518272425249172
+2,disease_on_drugs,14,15,0.552873563218391

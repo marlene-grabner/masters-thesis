@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,0.03418079096045212
+1,disease_on_symptoms,18,14,0.21527777777777768
+2,disease_on_drugs,26,22,-0.0365675990675991

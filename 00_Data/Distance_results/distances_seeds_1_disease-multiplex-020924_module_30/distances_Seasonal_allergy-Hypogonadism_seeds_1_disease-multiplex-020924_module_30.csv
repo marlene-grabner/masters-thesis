@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,29,30,-0.034482758620689724
+1,disease_on_symptoms,15,12,0.7055555555555553
+2,disease_on_drugs,29,30,0.5762614455484121

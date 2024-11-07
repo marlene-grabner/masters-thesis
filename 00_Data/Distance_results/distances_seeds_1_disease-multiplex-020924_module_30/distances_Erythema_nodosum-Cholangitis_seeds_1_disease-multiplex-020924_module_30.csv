@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Cholangitis nodes,sAB
+0,disease_on_genes,28,27,0.14443241943241936
+1,disease_on_symptoms,23,22,1.2447518664909971
+2,disease_on_drugs,28,26,0.6858465608465609

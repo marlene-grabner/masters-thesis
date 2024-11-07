@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,26,22,0.12310606060606055
+1,disease_on_symptoms,17,23,1.0798593350383632
+2,disease_on_drugs,25,20,1.041111111111111

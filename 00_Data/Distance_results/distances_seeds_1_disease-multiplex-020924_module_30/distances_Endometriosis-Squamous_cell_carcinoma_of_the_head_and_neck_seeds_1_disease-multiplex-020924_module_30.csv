@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.035014005602240994
+1,disease_on_symptoms,12,25,0.9592792792792793
+2,disease_on_drugs,27,21,0.16666666666666674

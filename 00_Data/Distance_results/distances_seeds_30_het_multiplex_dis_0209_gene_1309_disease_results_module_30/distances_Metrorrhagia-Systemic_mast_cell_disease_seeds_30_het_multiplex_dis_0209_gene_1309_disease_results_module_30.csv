@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,-0.017857142857142905
+1,disease_on_symptoms,17,25,0.5803361344537814
+2,disease_on_drugs,26,21,0.1394474320006236

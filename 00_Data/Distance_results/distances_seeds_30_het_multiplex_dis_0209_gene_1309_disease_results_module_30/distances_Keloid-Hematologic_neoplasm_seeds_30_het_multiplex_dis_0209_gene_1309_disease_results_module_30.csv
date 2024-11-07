@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,23,30,-0.15094339622641506
+1,disease_on_symptoms,17,18,0.37492997198879574
+2,disease_on_drugs,22,27,-0.1689857761286333

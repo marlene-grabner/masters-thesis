@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.08221040189125306
+1,disease_on_symptoms,17,24,0.8721006695361071
+2,disease_on_drugs,24,18,0.24603174603174605

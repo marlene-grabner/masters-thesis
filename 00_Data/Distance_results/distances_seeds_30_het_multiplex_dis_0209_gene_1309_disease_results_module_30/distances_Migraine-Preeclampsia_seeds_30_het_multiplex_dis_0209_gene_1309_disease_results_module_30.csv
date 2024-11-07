@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,12,18,1.2777777777777781
+2,disease_on_drugs,29,22,0.01659598008482388

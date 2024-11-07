@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.2955840455840457
+1,disease_on_symptoms,21,12,1.7478354978354975
+2,disease_on_drugs,25,21,0.758136645962733

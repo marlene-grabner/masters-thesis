@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,-0.05696661828737293
+1,disease_on_symptoms,17,25,1.4186554621848737
+2,disease_on_drugs,24,25,0.24568027210884358

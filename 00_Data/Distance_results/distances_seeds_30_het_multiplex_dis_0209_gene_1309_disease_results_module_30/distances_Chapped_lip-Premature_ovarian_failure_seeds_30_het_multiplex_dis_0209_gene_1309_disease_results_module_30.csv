@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,20,15,0.22261904761904772
+2,disease_on_drugs,23,26,-0.054774418128455515

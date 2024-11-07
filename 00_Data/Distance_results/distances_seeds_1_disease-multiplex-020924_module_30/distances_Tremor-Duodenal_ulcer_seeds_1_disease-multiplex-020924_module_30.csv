@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,16,28,0.18871753246753253
+1,disease_on_symptoms,23,17,1.6842710997442452
+2,disease_on_drugs,16,28,0.5823863636363635

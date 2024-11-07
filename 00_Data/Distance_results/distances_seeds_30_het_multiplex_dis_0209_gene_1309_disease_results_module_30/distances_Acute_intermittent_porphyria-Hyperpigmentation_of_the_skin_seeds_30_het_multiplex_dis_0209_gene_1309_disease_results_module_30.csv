@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,27,30,-0.10526315789473684
+1,disease_on_symptoms,17,17,0.5588235294117647
+2,disease_on_drugs,24,28,0.06341575091575091

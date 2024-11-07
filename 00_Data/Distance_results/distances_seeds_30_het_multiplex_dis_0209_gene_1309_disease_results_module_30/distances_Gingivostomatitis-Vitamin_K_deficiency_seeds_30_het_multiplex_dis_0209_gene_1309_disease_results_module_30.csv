@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.1621212121212121
+1,disease_on_symptoms,15,21,0.603968253968254
+2,disease_on_drugs,30,21,-0.1690476190476191

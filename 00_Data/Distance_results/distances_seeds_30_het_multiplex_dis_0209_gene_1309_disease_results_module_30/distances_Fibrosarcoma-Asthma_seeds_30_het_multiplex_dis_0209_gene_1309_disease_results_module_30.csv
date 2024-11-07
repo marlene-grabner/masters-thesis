@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.056363636363636394
+1,disease_on_symptoms,14,20,0.8531512605042018
+2,disease_on_drugs,26,22,0.19842657342657333

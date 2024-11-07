@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,17,30,0.5085940759282437
+1,disease_on_symptoms,21,14,2.4190476190476193
+2,disease_on_drugs,17,11,0.9411764705882353

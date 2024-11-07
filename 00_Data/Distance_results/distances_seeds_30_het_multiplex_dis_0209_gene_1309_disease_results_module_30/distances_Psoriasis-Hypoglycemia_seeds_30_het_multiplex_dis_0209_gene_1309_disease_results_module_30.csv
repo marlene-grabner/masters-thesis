@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,19,0.7530959752321982
+2,disease_on_drugs,30,27,0.15185185185185168

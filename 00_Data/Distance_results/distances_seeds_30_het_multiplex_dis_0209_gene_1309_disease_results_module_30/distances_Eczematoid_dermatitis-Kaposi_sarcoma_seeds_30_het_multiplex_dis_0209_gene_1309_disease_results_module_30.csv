@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,25,16,0.09231707317073168
+2,disease_on_drugs,30,28,-0.08940886699507411

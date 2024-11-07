@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,25,30,-0.2545454545454545
+1,disease_on_symptoms,17,17,0.11764705882352944
+2,disease_on_drugs,21,29,-0.06735632183908047

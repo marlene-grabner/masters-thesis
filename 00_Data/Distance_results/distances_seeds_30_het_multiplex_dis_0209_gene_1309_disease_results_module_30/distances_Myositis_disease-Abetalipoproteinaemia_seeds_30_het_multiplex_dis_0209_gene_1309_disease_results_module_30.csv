@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.14329004329004336
+1,disease_on_symptoms,18,26,-0.06487956487956503
+2,disease_on_drugs,26,14,0.12582417582417582

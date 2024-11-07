@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,27,30,-0.30116959064327486
+1,disease_on_symptoms,18,18,-0.19444444444444442
+2,disease_on_drugs,25,30,-0.22272727272727266

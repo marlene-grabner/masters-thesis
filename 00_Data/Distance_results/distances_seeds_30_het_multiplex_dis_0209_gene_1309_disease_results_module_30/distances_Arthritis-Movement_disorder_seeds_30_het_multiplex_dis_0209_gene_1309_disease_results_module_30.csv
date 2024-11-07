@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,20,17,0.3087042925278216
+2,disease_on_drugs,29,26,0.11833855799373039

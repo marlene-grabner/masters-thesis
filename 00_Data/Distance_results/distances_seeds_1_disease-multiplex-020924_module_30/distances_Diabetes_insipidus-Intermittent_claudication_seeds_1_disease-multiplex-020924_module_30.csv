@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,20,0.08598484848484866
+1,disease_on_symptoms,18,24,0.38988095238095233
+2,disease_on_drugs,18,18,0.3055555555555556

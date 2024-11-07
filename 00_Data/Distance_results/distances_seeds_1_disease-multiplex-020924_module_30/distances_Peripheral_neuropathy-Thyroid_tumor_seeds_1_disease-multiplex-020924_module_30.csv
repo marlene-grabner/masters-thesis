@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.22660650806672122
+1,disease_on_symptoms,20,20,1.6
+2,disease_on_drugs,24,20,1.115151515151515

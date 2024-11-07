@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,-0.3556497175141242
+1,disease_on_symptoms,19,19,-0.26315789473684204
+2,disease_on_drugs,29,29,-0.27586206896551724

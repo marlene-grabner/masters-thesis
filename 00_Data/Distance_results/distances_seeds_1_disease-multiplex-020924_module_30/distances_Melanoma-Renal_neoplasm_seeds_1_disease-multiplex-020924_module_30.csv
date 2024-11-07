@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,24,22,-0.004940711462450675
+1,disease_on_symptoms,23,25,0.06304347826086953
+2,disease_on_drugs,22,18,-0.125

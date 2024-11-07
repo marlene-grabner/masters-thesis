@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,28,22,0.3460884353741496
+1,disease_on_symptoms,14,20,1.747689075630252
+2,disease_on_drugs,24,19,0.8776009791921664

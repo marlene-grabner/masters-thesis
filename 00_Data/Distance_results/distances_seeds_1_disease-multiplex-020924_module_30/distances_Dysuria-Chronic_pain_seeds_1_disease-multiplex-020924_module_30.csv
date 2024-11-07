@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.087668030391584
+1,disease_on_symptoms,16,22,1.6933313397129184
+2,disease_on_drugs,23,28,0.39177627572768237

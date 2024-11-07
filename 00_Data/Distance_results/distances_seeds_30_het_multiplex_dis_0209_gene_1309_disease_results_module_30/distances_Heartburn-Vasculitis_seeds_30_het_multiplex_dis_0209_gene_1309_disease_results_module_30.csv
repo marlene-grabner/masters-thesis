@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,26,0.05769230769230771
+1,disease_on_symptoms,16,18,0.47385620915032667
+2,disease_on_drugs,25,26,0.13794871794871777

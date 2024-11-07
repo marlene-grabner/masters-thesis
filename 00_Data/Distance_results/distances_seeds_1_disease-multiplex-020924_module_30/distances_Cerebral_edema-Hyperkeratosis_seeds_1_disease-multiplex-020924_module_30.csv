@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.6236263736263736
+1,disease_on_symptoms,9,21,1.0825396825396825
+2,disease_on_drugs,11,23,0.33689839572192515

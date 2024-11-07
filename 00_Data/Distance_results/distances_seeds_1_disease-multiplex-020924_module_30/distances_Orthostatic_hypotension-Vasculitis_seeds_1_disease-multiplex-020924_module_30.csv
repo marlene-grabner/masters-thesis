@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.35138888888888875
+1,disease_on_symptoms,12,19,1.612408036219581
+2,disease_on_drugs,17,20,0.5962639109697931

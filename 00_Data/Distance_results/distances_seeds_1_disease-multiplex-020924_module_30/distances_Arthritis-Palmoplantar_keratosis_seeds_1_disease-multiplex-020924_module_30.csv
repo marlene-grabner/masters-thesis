@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.375
+1,disease_on_symptoms,19,19,1.0526315789473686
+2,disease_on_drugs,29,18,0.3673065949294856

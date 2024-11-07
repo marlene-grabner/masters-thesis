@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.4833333333333333
+1,disease_on_symptoms,18,19,-0.9158764027185081
+2,disease_on_drugs,30,30,-0.4666666666666668

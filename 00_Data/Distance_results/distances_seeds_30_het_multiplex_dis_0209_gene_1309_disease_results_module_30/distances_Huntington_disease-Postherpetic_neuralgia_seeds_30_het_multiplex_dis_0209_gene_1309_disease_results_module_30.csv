@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,17,16,-0.1559714795008913
+2,disease_on_drugs,26,29,-0.36052568121533657

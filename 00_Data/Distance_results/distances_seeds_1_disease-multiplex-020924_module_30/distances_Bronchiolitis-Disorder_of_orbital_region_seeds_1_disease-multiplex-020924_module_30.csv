@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,23,17,0.08561381074168795
+1,disease_on_symptoms,25,27,1.3308547008547007
+2,disease_on_drugs,18,16,0.6482843137254901

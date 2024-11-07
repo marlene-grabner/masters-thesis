@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.12515151515151524
+1,disease_on_symptoms,14,25,0.8148351648351646
+2,disease_on_drugs,29,23,0.6872909698996656

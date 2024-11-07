@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,23,23,-0.021739130434782705
+1,disease_on_symptoms,20,19,0.9030026990553304
+2,disease_on_drugs,20,22,0.1459956709956709

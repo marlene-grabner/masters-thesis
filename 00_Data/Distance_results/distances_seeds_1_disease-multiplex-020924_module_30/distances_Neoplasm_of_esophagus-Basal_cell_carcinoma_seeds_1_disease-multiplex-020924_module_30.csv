@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,21,26,-0.040507364975450044
+1,disease_on_symptoms,24,23,0.6802921677459144
+2,disease_on_drugs,20,25,0.13055555555555554

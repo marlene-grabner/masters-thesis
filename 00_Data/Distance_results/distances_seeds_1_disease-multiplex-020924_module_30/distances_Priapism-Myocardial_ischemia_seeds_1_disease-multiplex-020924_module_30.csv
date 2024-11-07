@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.20000000000000018
+1,disease_on_symptoms,17,13,0.9185520361990949
+2,disease_on_drugs,28,23,0.3910151016928509

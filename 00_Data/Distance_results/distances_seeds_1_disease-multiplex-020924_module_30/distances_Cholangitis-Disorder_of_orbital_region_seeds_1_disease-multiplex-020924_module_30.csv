@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,17,0.035551594375123896
+1,disease_on_symptoms,22,27,0.902082044939188
+2,disease_on_drugs,26,16,0.8898809523809523

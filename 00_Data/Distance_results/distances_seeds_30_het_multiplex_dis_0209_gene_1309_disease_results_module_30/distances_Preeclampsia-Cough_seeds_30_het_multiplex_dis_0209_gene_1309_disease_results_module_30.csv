@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Cough nodes,sAB
+0,disease_on_genes,27,27,0.16666666666666674
+1,disease_on_symptoms,18,22,1.6656565656565658
+2,disease_on_drugs,22,24,0.49967061923583667

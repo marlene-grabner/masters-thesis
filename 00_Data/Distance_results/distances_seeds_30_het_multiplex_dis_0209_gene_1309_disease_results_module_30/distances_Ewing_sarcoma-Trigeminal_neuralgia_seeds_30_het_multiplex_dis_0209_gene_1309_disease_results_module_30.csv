@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,15,-0.2883578431372549
+2,disease_on_drugs,24,25,-0.12212585034013612

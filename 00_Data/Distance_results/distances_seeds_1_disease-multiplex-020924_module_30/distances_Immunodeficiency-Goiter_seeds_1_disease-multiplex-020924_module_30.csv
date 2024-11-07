@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Goiter nodes,sAB
+0,disease_on_genes,22,26,0.43822843822843827
+1,disease_on_symptoms,19,15,1.4370485036119711
+2,disease_on_drugs,18,16,0.5898692810457518

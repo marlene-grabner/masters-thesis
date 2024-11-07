@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,20,0.06136363636363651
+1,disease_on_symptoms,23,24,0.5086532531606538
+2,disease_on_drugs,24,18,0.24603174603174605

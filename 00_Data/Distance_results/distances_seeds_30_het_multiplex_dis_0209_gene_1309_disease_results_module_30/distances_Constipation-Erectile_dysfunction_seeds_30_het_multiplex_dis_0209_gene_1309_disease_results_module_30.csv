@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,16,15,0.2780241935483869
+2,disease_on_drugs,28,30,-0.037602627257799615

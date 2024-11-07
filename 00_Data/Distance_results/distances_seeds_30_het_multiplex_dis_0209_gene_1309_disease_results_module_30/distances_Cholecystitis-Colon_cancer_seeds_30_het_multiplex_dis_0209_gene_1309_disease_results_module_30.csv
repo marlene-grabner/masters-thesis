@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,25,26,-0.1568627450980392
+1,disease_on_symptoms,23,22,0.3092885375494072
+2,disease_on_drugs,21,26,-0.27343932663081594

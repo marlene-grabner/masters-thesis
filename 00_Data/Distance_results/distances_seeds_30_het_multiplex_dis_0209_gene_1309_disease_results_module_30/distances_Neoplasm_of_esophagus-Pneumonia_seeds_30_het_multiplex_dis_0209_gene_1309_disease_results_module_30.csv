@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Pneumonia nodes,sAB
+0,disease_on_genes,29,30,-0.08503798947983632
+1,disease_on_symptoms,20,23,0.45171890798786674
+2,disease_on_drugs,25,29,0.338441890166028

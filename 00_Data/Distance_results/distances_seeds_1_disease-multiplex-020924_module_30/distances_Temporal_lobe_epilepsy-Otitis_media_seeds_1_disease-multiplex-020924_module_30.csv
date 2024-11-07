@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.27586206896551735
+1,disease_on_symptoms,17,22,2.0632798573975046
+2,disease_on_drugs,26,29,0.8563178201109234

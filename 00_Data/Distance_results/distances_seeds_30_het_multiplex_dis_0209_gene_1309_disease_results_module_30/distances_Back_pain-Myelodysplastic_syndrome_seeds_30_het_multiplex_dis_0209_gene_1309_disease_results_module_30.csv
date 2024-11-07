@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.1607142857142858
+1,disease_on_symptoms,15,17,-0.15625
+2,disease_on_drugs,23,24,0.10487974098057351

@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.375
+1,disease_on_symptoms,21,19,-0.3041353383458647
+2,disease_on_drugs,28,24,-0.37225274725274704

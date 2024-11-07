@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,25,0.27833333333333354
+1,disease_on_symptoms,21,20,1.5870499419279904
+2,disease_on_drugs,24,21,0.53015873015873

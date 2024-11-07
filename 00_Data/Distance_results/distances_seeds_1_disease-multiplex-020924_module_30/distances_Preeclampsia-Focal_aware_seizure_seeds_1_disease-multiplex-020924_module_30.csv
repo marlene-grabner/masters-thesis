@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,0.05454545454545445
+1,disease_on_symptoms,17,15,0.407107843137255
+2,disease_on_drugs,23,29,0.18979933110367875

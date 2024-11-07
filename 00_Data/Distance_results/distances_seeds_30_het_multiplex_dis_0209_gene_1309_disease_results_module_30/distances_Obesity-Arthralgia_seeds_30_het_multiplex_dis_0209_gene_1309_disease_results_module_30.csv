@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Arthralgia nodes,sAB
+0,disease_on_genes,27,30,-0.17836257309941528
+1,disease_on_symptoms,18,17,0.48926237161531283
+2,disease_on_drugs,25,30,-0.05909090909090908

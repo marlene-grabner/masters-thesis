@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Fatigue nodes,sAB
+0,disease_on_genes,30,26,-0.07554945054945061
+1,disease_on_symptoms,14,16,0.5011904761904762
+2,disease_on_drugs,21,26,-0.13812251578209023

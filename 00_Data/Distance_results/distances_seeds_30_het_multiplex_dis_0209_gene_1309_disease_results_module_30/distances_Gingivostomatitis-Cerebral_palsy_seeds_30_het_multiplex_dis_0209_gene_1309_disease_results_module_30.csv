@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,13,0.5597069597069599
+2,disease_on_drugs,30,21,-0.12282913165266107

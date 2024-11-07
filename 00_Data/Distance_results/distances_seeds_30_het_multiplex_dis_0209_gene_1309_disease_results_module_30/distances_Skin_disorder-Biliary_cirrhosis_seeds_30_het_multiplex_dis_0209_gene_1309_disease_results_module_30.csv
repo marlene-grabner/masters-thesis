@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,25,26,-0.11726998491704366
+1,disease_on_symptoms,19,22,0.6520597502625747
+2,disease_on_drugs,23,25,0.08728260869565219

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.5527272727272725
+1,disease_on_symptoms,16,7,2.142080745341615
+2,disease_on_drugs,17,22,0.8855066502125324

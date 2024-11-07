@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Epilepsy nodes,sAB
+0,disease_on_genes,26,29,0.32307692307692304
+1,disease_on_symptoms,28,18,0.8134057971014492
+2,disease_on_drugs,23,30,1.282348919879683

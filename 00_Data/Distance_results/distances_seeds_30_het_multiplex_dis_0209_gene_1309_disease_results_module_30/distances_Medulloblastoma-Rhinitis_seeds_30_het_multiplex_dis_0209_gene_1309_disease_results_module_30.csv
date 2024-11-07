@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.12280701754385959
+1,disease_on_symptoms,22,12,0.31907308377896637
+2,disease_on_drugs,26,23,0.5668213773803836

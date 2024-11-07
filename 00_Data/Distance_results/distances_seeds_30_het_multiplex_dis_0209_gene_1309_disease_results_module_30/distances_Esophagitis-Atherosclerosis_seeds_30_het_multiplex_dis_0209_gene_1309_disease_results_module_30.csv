@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,14,-0.20147058823529407
+2,disease_on_drugs,30,29,0.06890707188778489

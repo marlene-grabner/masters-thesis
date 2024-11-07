@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,26,27,0.3766193624684191
+1,disease_on_symptoms,19,17,2.1037151702786376
+2,disease_on_drugs,24,20,0.5246212121212119

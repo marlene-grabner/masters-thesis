@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,17,27,0.6294315706080413
+2,disease_on_drugs,29,28,0.5791850315443783

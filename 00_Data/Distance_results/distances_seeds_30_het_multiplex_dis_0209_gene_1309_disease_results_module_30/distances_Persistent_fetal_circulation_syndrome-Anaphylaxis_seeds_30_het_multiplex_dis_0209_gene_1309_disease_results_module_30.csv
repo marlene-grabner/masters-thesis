@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,24,27,-0.07734204793028332
+1,disease_on_symptoms,22,14,0.6652236652236654
+2,disease_on_drugs,21,26,0.03602603070688182

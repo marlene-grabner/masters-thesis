@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,28,20,-0.08452380952380967
+1,disease_on_symptoms,14,23,0.19678529461138172
+2,disease_on_drugs,24,17,0.16499282639885227

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,28,28,-0.1964285714285714
+1,disease_on_symptoms,23,19,-0.1481420943663505
+2,disease_on_drugs,26,26,-0.3076923076923076

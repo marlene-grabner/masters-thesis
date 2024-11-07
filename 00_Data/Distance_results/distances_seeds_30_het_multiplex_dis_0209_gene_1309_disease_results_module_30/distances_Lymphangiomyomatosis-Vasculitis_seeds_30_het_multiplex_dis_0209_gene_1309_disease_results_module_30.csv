@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,26,0.019230769230769384
+1,disease_on_symptoms,17,18,0.8860410830999066
+2,disease_on_drugs,24,26,0.41878205128205104

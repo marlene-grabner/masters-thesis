@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.14044834307992204
+1,disease_on_symptoms,19,19,0.5
+2,disease_on_drugs,29,24,0.012293970939058818

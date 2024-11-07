@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,0.1785714285714286
+1,disease_on_symptoms,18,19,1.40876402718508
+2,disease_on_drugs,27,22,0.5896894111179825

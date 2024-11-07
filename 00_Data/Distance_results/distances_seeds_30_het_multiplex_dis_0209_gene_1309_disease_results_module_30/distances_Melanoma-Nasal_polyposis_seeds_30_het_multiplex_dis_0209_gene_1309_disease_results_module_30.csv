@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,23,20,0.17482305358948413
+2,disease_on_drugs,25,25,0.09999999999999987

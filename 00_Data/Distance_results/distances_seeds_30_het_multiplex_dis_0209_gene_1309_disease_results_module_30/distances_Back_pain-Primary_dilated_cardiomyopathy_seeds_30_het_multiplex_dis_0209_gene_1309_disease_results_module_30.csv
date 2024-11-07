@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,15,24,-0.47275641025641013
+2,disease_on_drugs,23,15,-0.2763539282990084

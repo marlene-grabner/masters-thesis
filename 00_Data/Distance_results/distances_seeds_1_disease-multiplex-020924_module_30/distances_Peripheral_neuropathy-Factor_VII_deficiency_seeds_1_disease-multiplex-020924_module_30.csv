@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.34606060606060596
+1,disease_on_symptoms,20,23,2.1361981799797776
+2,disease_on_drugs,24,21,0.7329365079365078

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,22,21,0.09269606362629612
+2,disease_on_drugs,29,26,-0.07421027248613465

@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Exanthem nodes,sAB
+0,disease_on_genes,23,30,-0.0006699480448455475
+1,disease_on_symptoms,19,21,0.8382832080200502
+2,disease_on_drugs,21,29,0.5474220032840724

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,30,0.13559322033898313
+1,disease_on_symptoms,20,14,0.10735294117647065
+2,disease_on_drugs,27,24,0.46636710239651413

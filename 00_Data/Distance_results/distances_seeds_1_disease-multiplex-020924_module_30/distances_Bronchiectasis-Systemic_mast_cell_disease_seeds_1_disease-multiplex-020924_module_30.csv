@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.11804987336840034
+1,disease_on_symptoms,15,16,0.2635752688172044
+2,disease_on_drugs,26,25,0.07918552036199111

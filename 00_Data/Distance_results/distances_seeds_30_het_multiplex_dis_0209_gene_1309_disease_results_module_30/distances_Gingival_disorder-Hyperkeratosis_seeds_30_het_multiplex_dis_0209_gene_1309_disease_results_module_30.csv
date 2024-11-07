@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.07280219780219777
+1,disease_on_symptoms,19,25,0.5192344497607657
+2,disease_on_drugs,24,25,-0.022602040816326552

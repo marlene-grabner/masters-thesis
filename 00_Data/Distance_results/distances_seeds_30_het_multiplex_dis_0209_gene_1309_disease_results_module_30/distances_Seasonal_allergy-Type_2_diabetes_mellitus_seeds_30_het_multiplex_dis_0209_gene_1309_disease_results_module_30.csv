@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,29,30,-0.0847457627118644
+1,disease_on_symptoms,18,16,1.0349264705882355
+2,disease_on_drugs,29,27,0.12618591497901854

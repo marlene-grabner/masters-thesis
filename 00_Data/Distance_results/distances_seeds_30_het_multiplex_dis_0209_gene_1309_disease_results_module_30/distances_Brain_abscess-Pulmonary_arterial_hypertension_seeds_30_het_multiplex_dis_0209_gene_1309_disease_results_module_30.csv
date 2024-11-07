@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.34545454545454546
+1,disease_on_symptoms,21,17,0.00670794633642946
+2,disease_on_drugs,23,25,-0.5240579710144927

@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,30,-0.052380952380952306
+1,disease_on_symptoms,22,25,-0.0629593810444875
+2,disease_on_drugs,26,29,-0.07714010127803217

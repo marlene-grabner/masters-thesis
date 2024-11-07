@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,-0.05084745762711862
+1,disease_on_symptoms,19,16,0.5310150375939848
+2,disease_on_drugs,29,28,0.29693846685679715

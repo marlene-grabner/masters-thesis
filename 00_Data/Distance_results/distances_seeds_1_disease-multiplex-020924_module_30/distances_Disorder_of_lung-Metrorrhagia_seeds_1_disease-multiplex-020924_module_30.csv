@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,27,0.4259259259259258
+1,disease_on_symptoms,17,17,1.9705882352941178
+2,disease_on_drugs,20,26,0.6789297658862878

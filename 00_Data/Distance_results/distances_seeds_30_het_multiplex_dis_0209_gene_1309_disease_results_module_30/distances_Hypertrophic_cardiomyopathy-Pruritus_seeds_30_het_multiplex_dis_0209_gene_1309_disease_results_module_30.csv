@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,27,0.17534113060428846
+1,disease_on_symptoms,19,21,0.793796992481203
+2,disease_on_drugs,22,27,0.18844911702054556

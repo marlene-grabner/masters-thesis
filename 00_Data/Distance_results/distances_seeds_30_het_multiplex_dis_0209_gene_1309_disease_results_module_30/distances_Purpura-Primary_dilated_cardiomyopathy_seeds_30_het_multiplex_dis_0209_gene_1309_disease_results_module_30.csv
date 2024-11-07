@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,27,30,0.4200779727095516
+1,disease_on_symptoms,17,24,0.6122967479674797
+2,disease_on_drugs,24,15,0.14070512820512815

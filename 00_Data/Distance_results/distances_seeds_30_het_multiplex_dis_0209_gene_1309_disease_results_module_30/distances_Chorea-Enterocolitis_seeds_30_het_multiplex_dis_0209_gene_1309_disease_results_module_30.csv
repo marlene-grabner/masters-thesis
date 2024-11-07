@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,17,21,1.1552410437859355
+2,disease_on_drugs,24,25,0.4080442176870749

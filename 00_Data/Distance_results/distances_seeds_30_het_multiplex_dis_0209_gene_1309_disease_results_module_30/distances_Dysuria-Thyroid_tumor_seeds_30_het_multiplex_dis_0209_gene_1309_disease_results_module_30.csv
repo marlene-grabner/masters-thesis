@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.09433962264150941
+1,disease_on_symptoms,12,20,1.4583333333333335
+2,disease_on_drugs,21,20,0.17650987224157966

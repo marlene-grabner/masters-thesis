@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,27,30,0.17543859649122817
+1,disease_on_symptoms,17,14,2.080374085117918
+2,disease_on_drugs,17,22,0.5265322912381736

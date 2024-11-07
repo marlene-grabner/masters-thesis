@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,23,30,-0.037735849056603765
+1,disease_on_symptoms,19,18,0.28939465781571005
+2,disease_on_drugs,19,21,-0.21560150375939857

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,30,0.014619883040935644
+1,disease_on_symptoms,22,22,0.7272727272727271
+2,disease_on_drugs,20,29,0.1906228008444757

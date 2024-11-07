@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,24,26,0.04076923076923089
+1,disease_on_symptoms,23,21,0.387492941840768
+2,disease_on_drugs,24,25,0.14367346938775505

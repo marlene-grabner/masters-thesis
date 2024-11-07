@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.039999999999999813
+1,disease_on_symptoms,16,23,0.9416806020066888
+2,disease_on_drugs,29,17,0.4974424552429668

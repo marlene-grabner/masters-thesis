@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,29,21,0.036564625850339816
+1,disease_on_symptoms,17,22,0.5448375154257508
+2,disease_on_drugs,25,20,0.23055555555555562

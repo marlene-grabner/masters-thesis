@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,0.19454545454545458
+1,disease_on_symptoms,23,21,1.2661396574440054
+2,disease_on_drugs,23,29,0.8066543651251297

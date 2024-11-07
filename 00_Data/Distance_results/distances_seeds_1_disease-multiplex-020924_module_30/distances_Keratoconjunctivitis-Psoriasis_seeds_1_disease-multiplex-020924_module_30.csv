@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,29,28,-0.0006265664160398643
+1,disease_on_symptoms,25,21,0.2956107660455485
+2,disease_on_drugs,27,28,-0.056926406926406825

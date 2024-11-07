@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,24,30,-0.461111111111111
+1,disease_on_symptoms,23,22,-0.515349143610013
+2,disease_on_drugs,22,29,-0.49170200995758784

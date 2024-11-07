@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,30,0.0
+1,disease_on_symptoms,22,23,0.26433904259991214
+2,disease_on_drugs,15,30,0.05555555555555558

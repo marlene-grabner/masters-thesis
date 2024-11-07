@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,26,25,-0.0980392156862745
+1,disease_on_symptoms,20,23,0.27762891809909007
+2,disease_on_drugs,23,21,-0.1908526256352343

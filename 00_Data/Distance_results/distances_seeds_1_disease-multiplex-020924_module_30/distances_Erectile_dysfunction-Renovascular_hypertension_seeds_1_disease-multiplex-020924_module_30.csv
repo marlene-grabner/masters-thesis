@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,-0.08389355742296944
+1,disease_on_symptoms,16,22,0.8482356459330145
+2,disease_on_drugs,30,20,-0.05499999999999994

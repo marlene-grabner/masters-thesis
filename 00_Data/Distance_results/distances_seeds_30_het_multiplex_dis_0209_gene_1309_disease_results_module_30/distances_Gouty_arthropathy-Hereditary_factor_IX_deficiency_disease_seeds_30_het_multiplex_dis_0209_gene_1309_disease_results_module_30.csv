@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,28,28,0.03571428571428559
+1,disease_on_symptoms,18,18,0.8611111111111112
+2,disease_on_drugs,23,26,0.2362978636270563

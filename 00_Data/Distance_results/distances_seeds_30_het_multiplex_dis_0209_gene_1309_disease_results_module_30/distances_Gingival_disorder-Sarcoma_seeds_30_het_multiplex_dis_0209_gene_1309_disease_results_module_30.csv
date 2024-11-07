@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,19,23,0.502833169881225
+2,disease_on_drugs,24,24,0.12500000000000022

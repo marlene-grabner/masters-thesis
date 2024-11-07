@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,25,25,0.41999999999999993
+1,disease_on_symptoms,20,19,1.4598852901484483
+2,disease_on_drugs,14,18,0.7400793650793651

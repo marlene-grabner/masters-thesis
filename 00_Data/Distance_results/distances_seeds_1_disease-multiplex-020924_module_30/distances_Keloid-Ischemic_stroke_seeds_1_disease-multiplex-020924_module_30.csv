@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,22,30,0.18787878787878798
+1,disease_on_symptoms,20,16,1.9166666666666665
+2,disease_on_drugs,19,23,0.6987577639751554

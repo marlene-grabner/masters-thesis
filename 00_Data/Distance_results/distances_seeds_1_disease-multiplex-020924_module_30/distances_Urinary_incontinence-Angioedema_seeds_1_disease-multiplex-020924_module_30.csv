@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,29,0.31049043549043565
+1,disease_on_symptoms,20,17,1.2919316375198726
+2,disease_on_drugs,20,25,0.48888888888888893

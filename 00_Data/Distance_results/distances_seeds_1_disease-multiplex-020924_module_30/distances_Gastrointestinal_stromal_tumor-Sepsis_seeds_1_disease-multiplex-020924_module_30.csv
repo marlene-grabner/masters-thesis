@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Sepsis nodes,sAB
+0,disease_on_genes,23,22,0.24433465085638972
+1,disease_on_symptoms,20,23,1.3763397371081902
+2,disease_on_drugs,19,17,1.2467320261437906

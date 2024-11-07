@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.0535714285714286
+1,disease_on_symptoms,16,20,0.38819444444444473
+2,disease_on_drugs,28,24,0.4990842490842491

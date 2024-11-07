@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,0.33333333333333326
+1,disease_on_symptoms,20,21,1.7130662020905922
+2,disease_on_drugs,21,24,0.6926587301587301

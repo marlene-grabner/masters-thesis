@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,26,22,-0.17613636363636376
+1,disease_on_symptoms,20,25,-0.3916666666666666
+2,disease_on_drugs,25,18,-0.3023255813953488

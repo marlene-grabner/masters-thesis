@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.0714285714285714
+1,disease_on_symptoms,23,20,0.18915571284125376
+2,disease_on_drugs,23,25,-0.15148550724637677

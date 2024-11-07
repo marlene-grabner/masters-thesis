@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,23,22,-0.3485789572746093
+1,disease_on_symptoms,25,26,-0.3145701357466062
+2,disease_on_drugs,18,12,-0.3833333333333335

@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,26,25,0.3129411764705883
+1,disease_on_symptoms,15,22,0.9065929565929562
+2,disease_on_drugs,21,21,0.6428571428571428

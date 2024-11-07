@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,28,29,-0.08771929824561409
+1,disease_on_symptoms,17,20,0.1598966613672499
+2,disease_on_drugs,25,27,-0.11222222222222222

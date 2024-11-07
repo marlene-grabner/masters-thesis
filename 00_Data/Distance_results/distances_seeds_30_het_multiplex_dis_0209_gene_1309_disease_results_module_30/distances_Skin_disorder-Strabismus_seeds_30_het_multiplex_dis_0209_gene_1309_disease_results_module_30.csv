@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Strabismus nodes,sAB
+0,disease_on_genes,25,17,-0.20168067226890762
+1,disease_on_symptoms,19,24,0.7854702162382703
+2,disease_on_drugs,23,16,0.11186594202898559

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,16,14,0.4937499999999999
+2,disease_on_drugs,28,29,-0.12345518969838398

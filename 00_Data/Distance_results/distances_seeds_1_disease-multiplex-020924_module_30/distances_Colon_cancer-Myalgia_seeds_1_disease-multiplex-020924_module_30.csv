@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,0.16291208791208778
+1,disease_on_symptoms,21,16,0.8515926640926641
+2,disease_on_drugs,24,29,0.7358490566037736

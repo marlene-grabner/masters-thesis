@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,17,14,-0.05502846299810238
+2,disease_on_drugs,25,24,0.28641156462585027

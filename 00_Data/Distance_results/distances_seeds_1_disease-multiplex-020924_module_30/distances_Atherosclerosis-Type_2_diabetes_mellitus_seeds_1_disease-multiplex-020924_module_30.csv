@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,16,-0.013586956521739024
+1,disease_on_symptoms,13,21,2.600301659125189
+2,disease_on_drugs,29,15,0.13636363636363646

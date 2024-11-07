@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,27,28,0.053186628186628226
+1,disease_on_symptoms,19,20,1.1855600539811069
+2,disease_on_drugs,26,28,0.591880341880342

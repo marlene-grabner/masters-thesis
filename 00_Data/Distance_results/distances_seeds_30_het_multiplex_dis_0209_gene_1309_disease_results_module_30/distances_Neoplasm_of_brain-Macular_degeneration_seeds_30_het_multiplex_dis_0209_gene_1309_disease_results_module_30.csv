@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.23333333333333317
+1,disease_on_symptoms,19,17,0.5462676298589608
+2,disease_on_drugs,29,17,0.3823970367757299

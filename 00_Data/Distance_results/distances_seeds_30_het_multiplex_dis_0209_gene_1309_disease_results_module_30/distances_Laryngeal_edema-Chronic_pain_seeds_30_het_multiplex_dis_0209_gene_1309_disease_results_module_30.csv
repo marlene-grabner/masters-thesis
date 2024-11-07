@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666676
+1,disease_on_symptoms,16,19,-0.35578007518797006
+2,disease_on_drugs,28,28,-0.2857142857142856

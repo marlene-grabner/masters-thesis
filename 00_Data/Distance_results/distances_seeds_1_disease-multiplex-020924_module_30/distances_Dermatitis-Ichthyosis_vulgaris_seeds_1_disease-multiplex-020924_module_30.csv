@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,26,27,-0.19088319088319106
+1,disease_on_symptoms,25,21,-0.18658385093167706
+2,disease_on_drugs,24,27,-0.19852941176470573

@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,22,21,-0.06976744186046513
+1,disease_on_symptoms,21,23,0.1733013363448146
+2,disease_on_drugs,17,21,0.12553442429603412

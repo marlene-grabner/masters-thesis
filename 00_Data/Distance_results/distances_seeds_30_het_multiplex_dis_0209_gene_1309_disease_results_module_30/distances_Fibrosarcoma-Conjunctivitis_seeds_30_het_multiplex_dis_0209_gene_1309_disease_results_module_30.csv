@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,14,27,0.2361272422248033
+2,disease_on_drugs,26,28,0.47975172975172975

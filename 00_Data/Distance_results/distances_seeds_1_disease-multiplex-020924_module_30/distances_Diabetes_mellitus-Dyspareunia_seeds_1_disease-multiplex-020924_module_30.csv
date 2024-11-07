@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,20,24,0.17500000000000004
+1,disease_on_symptoms,18,17,1.3964052287581699
+2,disease_on_drugs,19,23,1.1227525335076824

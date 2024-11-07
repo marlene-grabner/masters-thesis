@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,0.019203891845401166
+1,disease_on_symptoms,23,16,0.3495331661092529
+2,disease_on_drugs,25,27,0.3475783475783474

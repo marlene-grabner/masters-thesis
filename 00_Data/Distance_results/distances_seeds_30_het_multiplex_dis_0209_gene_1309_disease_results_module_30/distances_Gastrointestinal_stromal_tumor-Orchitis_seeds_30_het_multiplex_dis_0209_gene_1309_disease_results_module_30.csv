@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,-0.12727272727272732
+1,disease_on_symptoms,19,19,0.47368421052631593
+2,disease_on_drugs,28,25,0.11045822102425884

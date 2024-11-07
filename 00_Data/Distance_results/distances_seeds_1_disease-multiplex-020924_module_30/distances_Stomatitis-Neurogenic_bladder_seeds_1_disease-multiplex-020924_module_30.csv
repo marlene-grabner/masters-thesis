@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,23,17,0.5647058823529412
+2,disease_on_drugs,30,26,-0.028571428571428692

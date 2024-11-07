@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.48050314465408817
+1,disease_on_symptoms,15,25,1.02
+2,disease_on_drugs,22,21,1.0697674418604652

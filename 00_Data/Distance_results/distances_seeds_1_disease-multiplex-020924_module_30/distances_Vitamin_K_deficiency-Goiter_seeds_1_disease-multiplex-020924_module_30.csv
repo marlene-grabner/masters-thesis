@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Goiter nodes,sAB
+0,disease_on_genes,25,26,0.27405731523378596
+1,disease_on_symptoms,23,15,1.4900839054157131
+2,disease_on_drugs,20,16,0.44999999999999996

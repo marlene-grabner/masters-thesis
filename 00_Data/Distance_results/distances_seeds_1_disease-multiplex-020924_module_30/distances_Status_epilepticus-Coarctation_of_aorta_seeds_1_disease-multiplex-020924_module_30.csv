@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,29,27,0.32204433497536944
+1,disease_on_symptoms,17,14,2.1091759284358904
+2,disease_on_drugs,30,13,1.0232558139534884

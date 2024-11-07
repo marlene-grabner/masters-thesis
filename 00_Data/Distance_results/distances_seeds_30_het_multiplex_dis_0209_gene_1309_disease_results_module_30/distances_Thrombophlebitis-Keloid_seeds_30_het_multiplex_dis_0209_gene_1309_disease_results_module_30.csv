@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,18,17,0.4344537815126053
+2,disease_on_drugs,29,22,0.09187718974737225

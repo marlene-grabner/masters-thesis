@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,0.15774557165861514
+1,disease_on_symptoms,21,16,0.8607223294723294
+2,disease_on_drugs,21,27,0.3915343915343916

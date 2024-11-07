@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,17,0.48445945945945956
+2,disease_on_drugs,27,26,0.33815782400688055

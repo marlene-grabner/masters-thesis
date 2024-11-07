@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,15,25,0.3566666666666667
+1,disease_on_symptoms,25,22,0.15444874274661524
+2,disease_on_drugs,10,24,0.16960784313725497

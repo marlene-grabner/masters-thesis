@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.30972906403940903
+1,disease_on_symptoms,17,19,1.582559339525284
+2,disease_on_drugs,24,25,0.7533503401360542

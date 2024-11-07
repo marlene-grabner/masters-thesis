@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.2577385835384194
+1,disease_on_symptoms,17,21,0.526610644257703
+2,disease_on_drugs,27,21,0.9100529100529102

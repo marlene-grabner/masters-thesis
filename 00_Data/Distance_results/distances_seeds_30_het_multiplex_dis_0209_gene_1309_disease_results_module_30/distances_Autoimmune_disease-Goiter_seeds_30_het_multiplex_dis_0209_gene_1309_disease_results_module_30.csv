@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615374
+1,disease_on_symptoms,20,12,1.2270833333333333
+2,disease_on_drugs,25,18,0.3127390180878553

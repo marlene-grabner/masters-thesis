@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Cholangitis nodes,sAB
+0,disease_on_genes,28,27,0.0006012506012507135
+1,disease_on_symptoms,14,22,0.39754689754689765
+2,disease_on_drugs,28,26,0.4259259259259258

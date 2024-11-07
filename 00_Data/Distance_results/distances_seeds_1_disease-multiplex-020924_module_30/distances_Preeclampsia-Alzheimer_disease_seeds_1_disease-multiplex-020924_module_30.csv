@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,26,20,0.08369565217391317
+1,disease_on_symptoms,17,23,1.0920716112531967
+2,disease_on_drugs,23,18,0.05143160127253443

@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,16,14,0.349404761904762
+2,disease_on_drugs,29,30,0.3056497175141244

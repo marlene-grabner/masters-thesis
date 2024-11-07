@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,20,17,0.9683227344992054
+2,disease_on_drugs,23,29,0.25389228462691715

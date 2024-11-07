@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,0.16519129019128997
+1,disease_on_symptoms,17,19,2.105349157206742
+2,disease_on_drugs,20,26,0.4347826086956521

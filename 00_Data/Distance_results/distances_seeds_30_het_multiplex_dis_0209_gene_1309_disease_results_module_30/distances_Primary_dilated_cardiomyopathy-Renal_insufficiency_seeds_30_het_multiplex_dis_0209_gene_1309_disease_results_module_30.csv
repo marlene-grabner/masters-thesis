@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.19999999999999996
+1,disease_on_symptoms,24,19,0.9991075071399429
+2,disease_on_drugs,15,28,0.049390919158361024

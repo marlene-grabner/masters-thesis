@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.05454545454545445
+1,disease_on_symptoms,22,18,0.7035353535353535
+2,disease_on_drugs,25,21,0.14223602484472053

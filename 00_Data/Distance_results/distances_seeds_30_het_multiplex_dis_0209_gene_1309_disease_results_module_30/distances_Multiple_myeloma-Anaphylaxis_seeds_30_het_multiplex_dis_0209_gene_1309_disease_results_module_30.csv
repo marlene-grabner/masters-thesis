@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.019217330538085164
+1,disease_on_symptoms,21,14,1.388095238095238
+2,disease_on_drugs,25,26,0.23564102564102551

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,-0.34065934065934056
+1,disease_on_symptoms,20,11,-0.35029325513196463
+2,disease_on_drugs,20,21,-0.6355981416957026

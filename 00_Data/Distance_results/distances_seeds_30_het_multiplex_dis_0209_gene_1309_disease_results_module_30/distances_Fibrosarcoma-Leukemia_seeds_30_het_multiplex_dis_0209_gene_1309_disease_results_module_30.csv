@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,14,21,-0.49285714285714266
+2,disease_on_drugs,26,30,-0.3264652014652015

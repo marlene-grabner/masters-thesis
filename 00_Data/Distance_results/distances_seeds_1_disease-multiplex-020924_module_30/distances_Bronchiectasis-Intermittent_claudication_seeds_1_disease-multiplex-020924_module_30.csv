@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.04833333333333312
+1,disease_on_symptoms,15,24,-0.0022435897435897356
+2,disease_on_drugs,26,18,-0.12684537684537678

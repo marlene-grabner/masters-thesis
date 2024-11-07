@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.2709437963944856
+1,disease_on_symptoms,25,27,1.1955270655270653
+2,disease_on_drugs,18,17,0.9998599439775908

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.07834290401968835
+1,disease_on_symptoms,20,19,0.48883265856950064
+2,disease_on_drugs,29,21,0.006732348111658348

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,13,0.21794871794871784
+1,disease_on_symptoms,17,26,1.4777175628748815
+2,disease_on_drugs,23,9,0.23520531400966194

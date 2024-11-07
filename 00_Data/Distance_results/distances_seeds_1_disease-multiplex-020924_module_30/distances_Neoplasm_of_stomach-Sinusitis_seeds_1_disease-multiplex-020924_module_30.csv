@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Sinusitis nodes,sAB
+0,disease_on_genes,23,29,0.2175066312997347
+1,disease_on_symptoms,24,21,0.6466269841269838
+2,disease_on_drugs,22,28,1.0237012987012988

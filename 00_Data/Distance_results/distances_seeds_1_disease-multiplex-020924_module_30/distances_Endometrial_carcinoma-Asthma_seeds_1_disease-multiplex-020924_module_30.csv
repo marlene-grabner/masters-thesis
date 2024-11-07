@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Asthma nodes,sAB
+0,disease_on_genes,23,25,0.26894927536231905
+1,disease_on_symptoms,21,19,1.6026942355889724
+2,disease_on_drugs,21,24,0.6869047619047619

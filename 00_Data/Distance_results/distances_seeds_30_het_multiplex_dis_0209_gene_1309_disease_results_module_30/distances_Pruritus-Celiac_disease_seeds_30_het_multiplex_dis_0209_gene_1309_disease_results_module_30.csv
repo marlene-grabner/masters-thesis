@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,27,30,-0.10623781676413269
+1,disease_on_symptoms,21,18,-0.08241758241758235
+2,disease_on_drugs,27,28,-0.12537277537277558

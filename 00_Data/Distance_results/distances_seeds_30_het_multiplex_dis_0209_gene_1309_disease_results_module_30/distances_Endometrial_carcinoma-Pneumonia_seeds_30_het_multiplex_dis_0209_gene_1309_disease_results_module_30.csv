@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.1607142857142858
+1,disease_on_symptoms,21,23,0.5491718426501035
+2,disease_on_drugs,26,29,0.5257897275138654

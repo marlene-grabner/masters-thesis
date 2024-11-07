@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,20,16,-0.2631944444444445
+2,disease_on_drugs,27,28,-0.37988215488215493

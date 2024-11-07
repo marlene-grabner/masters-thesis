@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,28,23,-0.13550420168067223
+1,disease_on_symptoms,19,23,0.300043587228942
+2,disease_on_drugs,22,22,0.06818181818181834

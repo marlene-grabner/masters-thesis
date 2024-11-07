@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,28,29,0.24620819289603313
+1,disease_on_symptoms,18,16,2.3966503267973858
+2,disease_on_drugs,26,22,0.8141025641025641

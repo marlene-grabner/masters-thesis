@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,26,22,-0.1404428904428905
+1,disease_on_symptoms,23,24,0.3163737280296022
+2,disease_on_drugs,25,13,0.18421052631578938

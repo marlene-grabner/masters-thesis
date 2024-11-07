@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,23,22,0.3762626262626261
+1,disease_on_symptoms,25,19,1.1747846889952154
+2,disease_on_drugs,21,18,0.4337606837606838

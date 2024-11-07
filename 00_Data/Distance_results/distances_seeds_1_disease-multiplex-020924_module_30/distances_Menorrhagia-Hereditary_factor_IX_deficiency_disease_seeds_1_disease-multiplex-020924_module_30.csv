@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,26,25,-0.019260935143288194
+1,disease_on_symptoms,19,22,0.5319465515229316
+2,disease_on_drugs,24,21,-0.0001984126984126977

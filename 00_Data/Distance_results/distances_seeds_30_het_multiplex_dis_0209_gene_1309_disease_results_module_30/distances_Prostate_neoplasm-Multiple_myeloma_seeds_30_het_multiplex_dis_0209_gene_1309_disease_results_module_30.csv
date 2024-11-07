@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,21,26,-0.3429584599797365
+1,disease_on_symptoms,20,21,-0.4142566782810686
+2,disease_on_drugs,21,25,-0.34848861283643906

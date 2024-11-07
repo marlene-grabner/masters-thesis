@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.3511396011396013
+1,disease_on_symptoms,23,12,1.9052795031055898
+2,disease_on_drugs,25,21,0.5807453416149069

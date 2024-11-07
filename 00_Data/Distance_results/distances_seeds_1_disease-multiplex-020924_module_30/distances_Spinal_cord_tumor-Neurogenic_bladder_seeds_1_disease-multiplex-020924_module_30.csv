@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,22,30,-0.2924242424242425
+1,disease_on_symptoms,22,17,-0.59659947895242
+2,disease_on_drugs,14,26,-0.18214285714285716

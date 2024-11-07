@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,26,25,0.1414102564102564
+1,disease_on_symptoms,28,20,0.8458333333333334
+2,disease_on_drugs,23,21,0.18064182194616984

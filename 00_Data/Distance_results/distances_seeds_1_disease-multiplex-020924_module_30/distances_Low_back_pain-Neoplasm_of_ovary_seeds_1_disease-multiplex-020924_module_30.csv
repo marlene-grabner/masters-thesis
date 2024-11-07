@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,0.04351851851851851
+1,disease_on_symptoms,17,26,0.020572450805009135
+2,disease_on_drugs,26,15,0.4507504690431521

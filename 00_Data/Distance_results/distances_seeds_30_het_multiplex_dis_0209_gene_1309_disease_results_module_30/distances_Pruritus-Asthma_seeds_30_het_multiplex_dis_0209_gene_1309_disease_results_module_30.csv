@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.09621082621082633
+1,disease_on_symptoms,21,20,0.1500871080139372
+2,disease_on_drugs,27,22,-0.015168693740122308

@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.30536723163841817
+1,disease_on_symptoms,15,15,1.2000000000000002
+2,disease_on_drugs,21,29,1.1161904761904764

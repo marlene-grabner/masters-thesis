@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Myopathy nodes,sAB
+0,disease_on_genes,22,18,0.45479797979797976
+1,disease_on_symptoms,22,21,0.9322460485251183
+2,disease_on_drugs,14,6,0.2761904761904763

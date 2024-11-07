@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,17,22,-0.15333196215549139
+2,disease_on_drugs,29,26,0.00028936580660721134

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,20,22,0.38863636363636367
+2,disease_on_drugs,27,28,-0.14416786916786917

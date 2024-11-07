@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.07692307692307687
+1,disease_on_symptoms,16,21,0.5014880952380953
+2,disease_on_drugs,21,17,-0.03987910953855245

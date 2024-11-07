@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,30,0.03703703703703698
+1,disease_on_symptoms,23,14,0.5746180963572267
+2,disease_on_drugs,22,24,0.22175559947299073

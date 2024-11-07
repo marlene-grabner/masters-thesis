@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.34966422466422453
+1,disease_on_symptoms,17,15,0.985906862745098
+2,disease_on_drugs,25,16,0.7804878048780488

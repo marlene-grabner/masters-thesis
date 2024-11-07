@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Malnutrition nodes,sAB
+0,disease_on_genes,14,26,0.3258241758241758
+1,disease_on_symptoms,27,18,1.4777777777777779
+2,disease_on_drugs,8,23,0.5181451612903225

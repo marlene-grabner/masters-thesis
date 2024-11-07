@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,25,30,0.18181818181818188
+1,disease_on_symptoms,21,16,0.9412805662805661
+2,disease_on_drugs,21,29,0.30026272577996727

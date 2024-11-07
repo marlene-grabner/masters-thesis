@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,27,21,0.3118386243386244
+1,disease_on_symptoms,18,25,1.8479586563307495
+2,disease_on_drugs,21,21,0.47619047619047605

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,28,30,0.18965517241379315
+1,disease_on_symptoms,18,13,0.789840088227185
+2,disease_on_drugs,23,21,0.1603143233578017

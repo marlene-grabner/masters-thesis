@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.07005494505494503
+1,disease_on_symptoms,17,22,1.1596051007815713
+2,disease_on_drugs,29,25,0.3674584929757343

@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,22,20,0.7365800865800864
+1,disease_on_symptoms,21,26,2.839042163510248
+2,disease_on_drugs,6,13,0.7462887989203777

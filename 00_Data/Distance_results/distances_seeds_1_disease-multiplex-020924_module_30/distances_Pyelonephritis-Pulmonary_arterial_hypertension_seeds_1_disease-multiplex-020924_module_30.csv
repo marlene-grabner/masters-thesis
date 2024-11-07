@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,23,28,0.2698666423090976
+1,disease_on_symptoms,21,18,1.5021367521367521
+2,disease_on_drugs,19,26,0.8252136752136754

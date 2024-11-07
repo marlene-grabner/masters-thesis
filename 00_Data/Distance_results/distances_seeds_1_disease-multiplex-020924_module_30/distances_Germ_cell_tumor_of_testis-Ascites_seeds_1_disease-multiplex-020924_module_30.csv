@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.12280701754385959
+1,disease_on_symptoms,23,17,0.7308184143222507
+2,disease_on_drugs,20,27,0.3912529550827424

@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,27,30,-0.0009746588693957392
+1,disease_on_symptoms,22,21,0.7396556931440654
+2,disease_on_drugs,22,28,0.1938311688311689

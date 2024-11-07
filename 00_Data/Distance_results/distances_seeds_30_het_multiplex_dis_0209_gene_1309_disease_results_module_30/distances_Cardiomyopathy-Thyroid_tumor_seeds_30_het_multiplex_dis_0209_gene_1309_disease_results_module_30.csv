@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,-0.1858333333333334
+1,disease_on_symptoms,21,20,0.514663182346109
+2,disease_on_drugs,24,20,-0.017424242424242564

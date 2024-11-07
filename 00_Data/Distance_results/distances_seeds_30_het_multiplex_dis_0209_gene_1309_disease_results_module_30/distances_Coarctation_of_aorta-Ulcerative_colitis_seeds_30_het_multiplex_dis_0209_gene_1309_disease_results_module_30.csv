@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,0.0
+1,disease_on_symptoms,19,20,0.793792172739541
+2,disease_on_drugs,24,27,0.2683823529411766

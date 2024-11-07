@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,17,30,0.37632457238214445
+1,disease_on_symptoms,21,12,2.097943722943723
+2,disease_on_drugs,17,17,1.176470588235294

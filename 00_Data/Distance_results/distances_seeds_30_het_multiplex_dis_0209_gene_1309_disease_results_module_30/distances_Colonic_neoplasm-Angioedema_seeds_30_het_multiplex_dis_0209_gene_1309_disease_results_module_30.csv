@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,19,18,0.3229808756124548
+2,disease_on_drugs,29,26,0.3037376416686761

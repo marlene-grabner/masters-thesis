@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,28,26,0.14809727309727294
+1,disease_on_symptoms,14,21,2.3880952380952385
+2,disease_on_drugs,24,23,0.42553191489361697

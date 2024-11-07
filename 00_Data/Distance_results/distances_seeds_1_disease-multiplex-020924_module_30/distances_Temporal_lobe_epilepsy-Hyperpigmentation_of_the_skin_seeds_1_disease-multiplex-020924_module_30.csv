@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,29,24,0.3742680546519195
+1,disease_on_symptoms,17,23,3.412851662404092
+2,disease_on_drugs,26,12,1.1649797570850202

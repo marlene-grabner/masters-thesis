@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.05045155993431827
+1,disease_on_symptoms,18,19,0.9163505610874032
+2,disease_on_drugs,25,26,0.25449472096530923

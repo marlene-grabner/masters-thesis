@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,-0.30173913043478273
+1,disease_on_symptoms,21,19,-0.3676691729323307
+2,disease_on_drugs,25,21,-0.4146169772256729

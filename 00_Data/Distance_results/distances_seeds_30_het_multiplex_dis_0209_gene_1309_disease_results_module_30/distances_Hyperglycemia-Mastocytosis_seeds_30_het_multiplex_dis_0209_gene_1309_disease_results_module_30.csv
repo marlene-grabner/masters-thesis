@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,24,0.8445420851267338
+2,disease_on_drugs,26,20,0.1639632107023412

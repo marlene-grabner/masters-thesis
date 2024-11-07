@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,29,30,0.10080849405805559
+1,disease_on_symptoms,15,16,1.18125
+2,disease_on_drugs,29,30,0.5429281122150786

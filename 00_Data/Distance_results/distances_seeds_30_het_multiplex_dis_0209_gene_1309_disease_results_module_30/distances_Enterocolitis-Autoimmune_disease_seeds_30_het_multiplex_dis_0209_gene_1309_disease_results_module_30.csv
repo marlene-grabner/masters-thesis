@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,26,-0.16981132075471694
+1,disease_on_symptoms,21,20,-0.19433797909407646
+2,disease_on_drugs,25,25,-0.28000000000000014

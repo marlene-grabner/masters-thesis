@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,13,16,-0.5388759946949602
+2,disease_on_drugs,28,27,-0.18053150553150554

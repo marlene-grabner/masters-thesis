@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,29,30,-0.25367231638418064
+1,disease_on_symptoms,19,18,0.10700173858068607
+2,disease_on_drugs,29,24,-0.3204836261114725

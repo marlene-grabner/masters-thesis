@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,17,20,0.028338632750397386
+1,disease_on_symptoms,21,18,2.712759462759463
+2,disease_on_drugs,14,19,0.9736842105263159

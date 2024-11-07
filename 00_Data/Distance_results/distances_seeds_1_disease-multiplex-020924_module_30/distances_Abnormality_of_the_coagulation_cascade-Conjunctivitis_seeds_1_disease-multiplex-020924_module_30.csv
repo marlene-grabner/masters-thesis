@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,0.31626409017713364
+1,disease_on_symptoms,23,27,0.8361996779388086
+2,disease_on_drugs,18,26,0.8277000777000778

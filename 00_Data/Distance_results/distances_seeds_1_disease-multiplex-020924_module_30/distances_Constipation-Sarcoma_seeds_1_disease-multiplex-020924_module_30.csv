@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.23787878787878802
+1,disease_on_symptoms,17,26,1.7696253814584866
+2,disease_on_drugs,27,21,1.460648148148148

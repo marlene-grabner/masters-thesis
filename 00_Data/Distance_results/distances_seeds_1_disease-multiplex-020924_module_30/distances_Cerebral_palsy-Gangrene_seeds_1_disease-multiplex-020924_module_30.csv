@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,0.28581411600279516
+1,disease_on_symptoms,16,19,1.5055451127819548
+2,disease_on_drugs,18,23,0.8806998939554611

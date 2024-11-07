@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,0.06954022988505759
+1,disease_on_symptoms,18,22,0.4608585858585861
+2,disease_on_drugs,23,29,0.03658747549302288

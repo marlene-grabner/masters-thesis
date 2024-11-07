@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.1412190294177873
+1,disease_on_symptoms,21,21,0.4285714285714286
+2,disease_on_drugs,26,21,0.6347907411737199

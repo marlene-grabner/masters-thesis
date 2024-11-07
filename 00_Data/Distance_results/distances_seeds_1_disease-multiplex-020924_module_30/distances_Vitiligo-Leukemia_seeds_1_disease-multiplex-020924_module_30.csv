@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Leukemia nodes,sAB
+0,disease_on_genes,24,18,0.2708333333333335
+1,disease_on_symptoms,22,27,1.3357211571497283
+2,disease_on_drugs,11,17,0.126050420168067

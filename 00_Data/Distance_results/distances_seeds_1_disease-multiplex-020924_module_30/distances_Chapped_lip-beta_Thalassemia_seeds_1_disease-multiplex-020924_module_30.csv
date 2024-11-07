@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,26,22,0.4109848484848484
+1,disease_on_symptoms,21,21,1.9285714285714286
+2,disease_on_drugs,24,6,0.7000000000000002

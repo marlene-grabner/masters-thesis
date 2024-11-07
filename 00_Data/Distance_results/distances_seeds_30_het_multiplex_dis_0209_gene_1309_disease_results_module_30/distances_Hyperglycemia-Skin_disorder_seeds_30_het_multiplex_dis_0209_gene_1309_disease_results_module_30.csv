@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Skin_disorder nodes,sAB
+0,disease_on_genes,30,25,-0.1621212121212121
+1,disease_on_symptoms,17,19,0.6972824217406259
+2,disease_on_drugs,26,23,-0.1806020066889631

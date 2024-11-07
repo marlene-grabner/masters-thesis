@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,17,0.20110554860241958
+1,disease_on_symptoms,15,21,1.2174603174603176
+2,disease_on_drugs,29,14,0.6804330392943063

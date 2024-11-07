@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,25,24,-0.04081632653061229
+1,disease_on_symptoms,17,19,1.76453388372893
+2,disease_on_drugs,21,24,0.14861111111111125

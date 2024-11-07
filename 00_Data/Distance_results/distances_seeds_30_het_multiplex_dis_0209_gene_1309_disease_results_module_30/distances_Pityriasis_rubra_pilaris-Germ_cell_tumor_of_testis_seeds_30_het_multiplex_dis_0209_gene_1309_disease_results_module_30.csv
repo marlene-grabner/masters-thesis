@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,27,27,-0.16666666666666663
+1,disease_on_symptoms,21,22,0.5614869626497536
+2,disease_on_drugs,25,20,-0.2316666666666667

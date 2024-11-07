@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Gout nodes,sAB
+0,disease_on_genes,27,28,-0.1818302068302069
+1,disease_on_symptoms,22,19,0.3153810246236435
+2,disease_on_drugs,22,22,2.220446049250313e-16

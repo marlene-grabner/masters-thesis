@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,26,0.0
+1,disease_on_symptoms,17,20,1.581995230524642
+2,disease_on_drugs,24,25,0.4493537414965987

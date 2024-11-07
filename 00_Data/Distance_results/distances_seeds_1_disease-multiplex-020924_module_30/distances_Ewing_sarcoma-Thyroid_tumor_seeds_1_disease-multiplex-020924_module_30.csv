@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,24,23,0.12760175763182247
+1,disease_on_symptoms,25,20,0.5805555555555555
+2,disease_on_drugs,17,20,0.19121621621621632

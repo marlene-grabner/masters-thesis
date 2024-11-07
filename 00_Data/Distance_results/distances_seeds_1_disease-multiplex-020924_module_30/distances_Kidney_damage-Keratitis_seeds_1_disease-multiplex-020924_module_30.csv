@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Keratitis nodes,sAB
+0,disease_on_genes,20,28,0.2601190476190476
+1,disease_on_symptoms,26,25,0.8195022624434389
+2,disease_on_drugs,13,23,0.24247491638795982

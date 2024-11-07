@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Gout nodes,sAB
+0,disease_on_genes,29,25,0.23757343550447008
+1,disease_on_symptoms,17,18,1.2593837535014005
+2,disease_on_drugs,26,23,0.32770800627943486

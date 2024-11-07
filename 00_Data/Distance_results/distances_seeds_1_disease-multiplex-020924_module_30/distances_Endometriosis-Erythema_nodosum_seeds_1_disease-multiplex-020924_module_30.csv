@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,0.395935960591133
+1,disease_on_symptoms,12,23,0.5948240165631471
+2,disease_on_drugs,27,28,0.6730519480519481

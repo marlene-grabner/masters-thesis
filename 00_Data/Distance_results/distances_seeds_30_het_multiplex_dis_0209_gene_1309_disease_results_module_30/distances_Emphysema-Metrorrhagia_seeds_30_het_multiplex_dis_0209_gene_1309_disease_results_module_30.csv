@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.10526315789473684
+1,disease_on_symptoms,18,17,0.3927170868347343
+2,disease_on_drugs,27,26,0.05511207869698431

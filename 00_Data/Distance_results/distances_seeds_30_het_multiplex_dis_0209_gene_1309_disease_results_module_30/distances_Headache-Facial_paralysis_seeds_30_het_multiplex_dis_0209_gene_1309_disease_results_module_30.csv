@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.11538461538461542
+1,disease_on_symptoms,23,21,0.2029456051195182
+2,disease_on_drugs,23,17,0.002877237851662384

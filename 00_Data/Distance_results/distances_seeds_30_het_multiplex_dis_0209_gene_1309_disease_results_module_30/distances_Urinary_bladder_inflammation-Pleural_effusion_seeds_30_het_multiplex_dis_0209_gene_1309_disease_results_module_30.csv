@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,16,18,0.10845588235294112
+2,disease_on_drugs,29,27,-0.02196223316912982

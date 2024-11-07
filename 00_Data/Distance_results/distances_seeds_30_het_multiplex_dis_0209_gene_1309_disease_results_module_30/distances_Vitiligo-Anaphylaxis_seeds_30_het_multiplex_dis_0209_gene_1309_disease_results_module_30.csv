@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.12183235867446385
+1,disease_on_symptoms,19,14,0.3248462064251538
+2,disease_on_drugs,25,26,0.09681749622926095

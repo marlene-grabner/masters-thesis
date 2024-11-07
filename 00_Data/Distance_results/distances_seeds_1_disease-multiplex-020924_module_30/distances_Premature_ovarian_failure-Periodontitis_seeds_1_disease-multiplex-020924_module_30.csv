@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Periodontitis nodes,sAB
+0,disease_on_genes,28,23,0.052429667519181766
+1,disease_on_symptoms,21,25,0.431014492753623
+2,disease_on_drugs,21,22,0.09350145978052948

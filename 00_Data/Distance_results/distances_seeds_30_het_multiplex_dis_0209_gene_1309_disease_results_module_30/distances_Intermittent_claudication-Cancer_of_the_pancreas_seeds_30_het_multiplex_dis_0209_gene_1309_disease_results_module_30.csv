@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,14,23,0.16862514688601649
+2,disease_on_drugs,24,30,0.27268518518518525

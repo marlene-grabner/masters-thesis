@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,25,30,-0.2759259259259259
+1,disease_on_symptoms,18,20,0.4823099415204679
+2,disease_on_drugs,24,28,-0.2248168498168499

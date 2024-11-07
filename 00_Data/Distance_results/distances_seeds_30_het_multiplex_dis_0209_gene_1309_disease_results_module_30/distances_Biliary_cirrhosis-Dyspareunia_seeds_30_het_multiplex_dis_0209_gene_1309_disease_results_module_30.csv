@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,29,-0.09195804195804191
+1,disease_on_symptoms,22,20,0.3465367965367965
+2,disease_on_drugs,25,28,-0.001981132075471903

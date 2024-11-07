@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,23,28,0.32869017172086235
+1,disease_on_symptoms,21,24,0.8527777777777776
+2,disease_on_drugs,19,28,0.3898176291793314

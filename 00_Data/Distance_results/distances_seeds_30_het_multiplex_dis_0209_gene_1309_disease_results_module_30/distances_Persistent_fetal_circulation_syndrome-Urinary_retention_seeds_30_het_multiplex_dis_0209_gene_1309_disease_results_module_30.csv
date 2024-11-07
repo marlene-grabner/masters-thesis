@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,24,30,-0.12962962962962965
+1,disease_on_symptoms,22,16,0.7567284688995217
+2,disease_on_drugs,21,28,-0.10629251700680298

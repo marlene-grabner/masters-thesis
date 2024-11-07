@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.13559322033898302
+1,disease_on_symptoms,14,19,0.08133971291866016
+2,disease_on_drugs,22,28,-0.07012987012987026

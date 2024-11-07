@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,24,0.3941993464052289
+1,disease_on_symptoms,17,19,1.5273477812177503
+2,disease_on_drugs,24,19,0.8714810281517749

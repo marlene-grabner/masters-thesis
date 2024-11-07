@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,29,30,-0.14035087719298245
+1,disease_on_symptoms,17,23,-0.31758312020460355
+2,disease_on_drugs,26,30,-0.14532967032967048

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,17,26,0.2232142857142858
+1,disease_on_symptoms,27,15,0.4751322751322751
+2,disease_on_drugs,14,15,0.5183087027914612

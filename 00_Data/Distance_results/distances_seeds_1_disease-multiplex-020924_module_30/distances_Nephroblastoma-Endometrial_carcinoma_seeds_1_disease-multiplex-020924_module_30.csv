@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,25,23,-0.0002173913043477249
+1,disease_on_symptoms,25,21,1.4697308488612837
+2,disease_on_drugs,21,21,0.1428571428571428

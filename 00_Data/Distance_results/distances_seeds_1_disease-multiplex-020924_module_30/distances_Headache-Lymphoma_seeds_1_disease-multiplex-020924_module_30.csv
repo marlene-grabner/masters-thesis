@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.1426739926739926
+1,disease_on_symptoms,25,21,1.1978881987577639
+2,disease_on_drugs,26,25,0.9603770739064856

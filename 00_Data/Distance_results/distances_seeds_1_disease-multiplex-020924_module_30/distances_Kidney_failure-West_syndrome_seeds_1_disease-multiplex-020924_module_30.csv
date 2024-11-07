@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,West_syndrome nodes,sAB
+0,disease_on_genes,20,29,0.2265306122448978
+1,disease_on_symptoms,23,18,1.7396017438435254
+2,disease_on_drugs,18,22,0.6638888888888888

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,24,25,0.36734693877551017
+1,disease_on_symptoms,23,18,2.774154589371981
+2,disease_on_drugs,22,17,1.0731523378582204

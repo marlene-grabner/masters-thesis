@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.23818181818181816
+1,disease_on_symptoms,19,26,-0.1873594242015295
+2,disease_on_drugs,25,24,-0.12251700680272104

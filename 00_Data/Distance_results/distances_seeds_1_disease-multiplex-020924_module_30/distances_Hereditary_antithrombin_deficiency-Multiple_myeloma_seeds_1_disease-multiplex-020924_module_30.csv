@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,28,26,0.318121693121693
+1,disease_on_symptoms,15,21,1.4
+2,disease_on_drugs,20,25,0.7350000000000001

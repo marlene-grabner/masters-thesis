@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,20,30,0.23833333333333329
+1,disease_on_symptoms,23,14,0.7130686587208328
+2,disease_on_drugs,18,26,0.3444055944055944

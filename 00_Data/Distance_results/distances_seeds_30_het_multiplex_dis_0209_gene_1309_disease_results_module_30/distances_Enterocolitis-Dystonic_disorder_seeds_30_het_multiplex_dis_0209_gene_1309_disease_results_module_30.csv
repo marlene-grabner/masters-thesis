@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.07017543859649122
+1,disease_on_symptoms,21,17,0.7713401149933659
+2,disease_on_drugs,25,26,0.23481146304675704

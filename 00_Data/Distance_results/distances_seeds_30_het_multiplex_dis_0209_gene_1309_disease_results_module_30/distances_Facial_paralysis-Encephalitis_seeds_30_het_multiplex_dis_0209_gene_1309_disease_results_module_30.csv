@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,22,29,0.03921568627450989
+1,disease_on_symptoms,21,13,0.30112044817927197
+2,disease_on_drugs,17,22,-0.1619018236665295

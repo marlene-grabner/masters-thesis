@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,26,24,0.15916666666666646
+1,disease_on_symptoms,20,21,0.8307491289198605
+2,disease_on_drugs,25,24,0.7325680272108845

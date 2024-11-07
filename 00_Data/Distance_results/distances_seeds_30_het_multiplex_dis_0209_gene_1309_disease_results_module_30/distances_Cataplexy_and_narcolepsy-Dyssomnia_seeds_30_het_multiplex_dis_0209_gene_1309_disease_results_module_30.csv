@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,25,18,-0.06976744186046513
+1,disease_on_symptoms,19,21,0.06503759398496256
+2,disease_on_drugs,18,17,-0.03281979458450057

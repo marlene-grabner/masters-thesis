@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.3211041229909153
+1,disease_on_symptoms,20,18,1.3480994152046781
+2,disease_on_drugs,25,21,0.7567287784679089

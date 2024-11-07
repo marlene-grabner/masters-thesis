@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.27303030303030296
+1,disease_on_symptoms,19,23,0.027786858450473906
+2,disease_on_drugs,30,24,-0.018981481481481488

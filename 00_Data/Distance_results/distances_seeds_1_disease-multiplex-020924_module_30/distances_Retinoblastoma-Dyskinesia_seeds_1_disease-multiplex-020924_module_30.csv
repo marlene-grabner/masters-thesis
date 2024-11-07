@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,0.2007051282051282
+1,disease_on_symptoms,24,17,1.9905846484935439
+2,disease_on_drugs,24,23,1.5531914893617023

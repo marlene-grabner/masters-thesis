@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,25,29,0.01703703703703696
+1,disease_on_symptoms,20,27,0.5646375098502756
+2,disease_on_drugs,22,28,0.2701298701298702

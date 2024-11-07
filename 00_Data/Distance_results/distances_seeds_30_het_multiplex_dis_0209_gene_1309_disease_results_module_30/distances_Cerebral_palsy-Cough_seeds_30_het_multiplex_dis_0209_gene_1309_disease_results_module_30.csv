@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,0.2456140350877194
+1,disease_on_symptoms,13,22,1.7023476523476524
+2,disease_on_drugs,21,24,0.19285714285714284

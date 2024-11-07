@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.5916666666666668
+1,disease_on_symptoms,22,27,1.1443173228887513
+2,disease_on_drugs,15,9,0.9138888888888888

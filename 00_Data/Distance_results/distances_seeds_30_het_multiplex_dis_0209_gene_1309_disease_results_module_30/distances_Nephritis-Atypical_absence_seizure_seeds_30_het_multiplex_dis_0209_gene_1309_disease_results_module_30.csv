@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,13,0.8199095022624436
+2,disease_on_drugs,25,22,0.30500967117988376

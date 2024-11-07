@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.34999999999999987
+1,disease_on_symptoms,15,14,0.539983579638752
+2,disease_on_drugs,21,26,0.659087366534175

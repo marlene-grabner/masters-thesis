@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,26,21,0.2740628166160082
+1,disease_on_symptoms,21,20,1.4394308943089429
+2,disease_on_drugs,25,19,1.2781818181818183

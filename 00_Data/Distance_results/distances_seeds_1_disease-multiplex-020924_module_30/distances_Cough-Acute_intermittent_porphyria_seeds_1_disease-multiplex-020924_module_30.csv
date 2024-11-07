@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,27,27,0.07407407407407396
+1,disease_on_symptoms,21,20,1.905081300813008
+2,disease_on_drugs,27,15,0.034391534391534195

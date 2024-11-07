@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.054545454545454564
+1,disease_on_symptoms,14,19,0.22220323536113007
+2,disease_on_drugs,26,22,-0.18604312354312347

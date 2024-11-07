@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,-0.15517241379310343
+1,disease_on_symptoms,16,16,-0.28125
+2,disease_on_drugs,23,28,-0.3256759225429302

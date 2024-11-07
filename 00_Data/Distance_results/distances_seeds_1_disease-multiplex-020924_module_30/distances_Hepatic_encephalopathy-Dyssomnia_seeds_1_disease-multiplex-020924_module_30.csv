@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,9,18,-0.09259259259259256
+1,disease_on_symptoms,27,21,2.3323412698412698
+2,disease_on_drugs,9,17,0.8733031674208143

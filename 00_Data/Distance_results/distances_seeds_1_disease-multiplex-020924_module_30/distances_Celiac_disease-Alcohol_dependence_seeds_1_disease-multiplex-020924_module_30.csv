@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,17,12,0.7960615280594996
+1,disease_on_symptoms,22,27,3.0037792894935746
+2,disease_on_drugs,15,9,0.6888888888888889

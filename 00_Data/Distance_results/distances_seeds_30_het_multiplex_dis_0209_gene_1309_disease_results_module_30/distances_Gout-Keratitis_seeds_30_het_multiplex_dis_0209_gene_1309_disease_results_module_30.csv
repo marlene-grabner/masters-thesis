@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,30,0.051683087027914576
+1,disease_on_symptoms,19,25,0.6980861244019139
+2,disease_on_drugs,22,29,0.09742454975720705

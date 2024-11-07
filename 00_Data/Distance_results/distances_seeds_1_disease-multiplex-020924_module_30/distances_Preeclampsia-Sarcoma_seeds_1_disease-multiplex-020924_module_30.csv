@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.23529411764705888
+1,disease_on_symptoms,17,26,2.2532095127854364
+2,disease_on_drugs,23,21,1.0009881422924902

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Fatigue nodes,sAB
+0,disease_on_genes,27,26,-0.07656023222060959
+1,disease_on_symptoms,16,16,1.53125
+2,disease_on_drugs,23,26,0.1738618524332809

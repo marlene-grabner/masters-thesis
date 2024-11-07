@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,22,26,-0.013257575757575912
+1,disease_on_symptoms,22,20,0.6646103896103899
+2,disease_on_drugs,14,25,0.2518315018315018

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Vitiligo nodes,sAB
+0,disease_on_genes,27,30,-0.14327485380116967
+1,disease_on_symptoms,18,19,-0.07167694009799286
+2,disease_on_drugs,25,25,-0.040000000000000036

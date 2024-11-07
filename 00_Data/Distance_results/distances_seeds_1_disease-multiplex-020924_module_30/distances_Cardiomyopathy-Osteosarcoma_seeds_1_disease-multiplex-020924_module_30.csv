@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,25,25,0.07999999999999985
+1,disease_on_symptoms,17,24,1.5313546150167383
+2,disease_on_drugs,24,23,0.596631205673759

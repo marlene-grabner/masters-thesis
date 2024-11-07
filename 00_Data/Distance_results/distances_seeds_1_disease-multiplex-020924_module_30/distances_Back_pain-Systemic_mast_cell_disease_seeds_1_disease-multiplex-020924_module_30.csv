@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.10223066432885264
+1,disease_on_symptoms,16,16,1.03125
+2,disease_on_drugs,23,25,0.625

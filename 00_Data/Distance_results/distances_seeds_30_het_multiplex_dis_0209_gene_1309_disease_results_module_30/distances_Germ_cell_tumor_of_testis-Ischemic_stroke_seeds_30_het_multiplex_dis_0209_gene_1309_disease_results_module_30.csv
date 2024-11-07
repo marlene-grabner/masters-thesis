@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.032163742690058506
+1,disease_on_symptoms,22,16,0.779306220095694
+2,disease_on_drugs,20,28,0.38095238095238115

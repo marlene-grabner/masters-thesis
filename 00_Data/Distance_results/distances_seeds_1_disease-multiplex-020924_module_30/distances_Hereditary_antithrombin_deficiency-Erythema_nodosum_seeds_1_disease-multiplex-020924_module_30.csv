@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,28,28,0.3214285714285714
+1,disease_on_symptoms,15,23,1.756979405034325
+2,disease_on_drugs,20,28,0.6238095238095238

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Urticaria nodes,sAB
+0,disease_on_genes,25,10,0.1685714285714286
+1,disease_on_symptoms,18,27,1.9592592592592595
+2,disease_on_drugs,23,9,0.53125

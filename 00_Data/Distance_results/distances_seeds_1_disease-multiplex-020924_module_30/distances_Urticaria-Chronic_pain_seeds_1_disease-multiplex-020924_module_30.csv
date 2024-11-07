@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,10,30,0.375
+1,disease_on_symptoms,27,22,2.082233903662475
+2,disease_on_drugs,9,28,0.792953667953668

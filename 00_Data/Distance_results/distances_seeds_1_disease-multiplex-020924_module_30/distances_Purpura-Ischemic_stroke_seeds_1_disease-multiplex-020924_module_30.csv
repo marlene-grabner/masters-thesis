@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,-0.07435897435897454
+1,disease_on_symptoms,17,16,1.120766488413547
+2,disease_on_drugs,20,23,-0.11021233569261879

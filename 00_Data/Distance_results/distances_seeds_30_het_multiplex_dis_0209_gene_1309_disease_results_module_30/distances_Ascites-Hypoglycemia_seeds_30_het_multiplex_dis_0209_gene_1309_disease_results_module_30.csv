@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666679
+1,disease_on_symptoms,22,19,0.014149842455362105
+2,disease_on_drugs,27,27,-0.2592592592592593

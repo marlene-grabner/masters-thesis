@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Orchitis nodes,sAB
+0,disease_on_genes,27,25,-0.09472934472934491
+1,disease_on_symptoms,21,19,0.3942982456140349
+2,disease_on_drugs,25,25,-0.20000000000000018

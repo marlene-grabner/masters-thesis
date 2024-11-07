@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,28,28,0.1964285714285714
+1,disease_on_symptoms,23,19,0.7252914895935492
+2,disease_on_drugs,26,26,0.23076923076923084

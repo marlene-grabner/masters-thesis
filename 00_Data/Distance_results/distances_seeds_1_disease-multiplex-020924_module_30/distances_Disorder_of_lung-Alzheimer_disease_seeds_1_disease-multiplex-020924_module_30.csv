@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,20,0.08414105594956656
+1,disease_on_symptoms,17,23,0.5494245524296677
+2,disease_on_drugs,20,18,0.05263157894736836

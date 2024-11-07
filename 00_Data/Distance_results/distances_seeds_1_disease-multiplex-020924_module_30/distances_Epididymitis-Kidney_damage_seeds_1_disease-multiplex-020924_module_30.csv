@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,0.08684025334271639
+1,disease_on_symptoms,23,26,0.31613883011398536
+2,disease_on_drugs,27,13,0.04565527065527064

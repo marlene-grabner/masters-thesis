@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,-0.09120370370370379
+1,disease_on_symptoms,22,17,-0.26857945975593034
+2,disease_on_drugs,15,23,-0.2842105263157896

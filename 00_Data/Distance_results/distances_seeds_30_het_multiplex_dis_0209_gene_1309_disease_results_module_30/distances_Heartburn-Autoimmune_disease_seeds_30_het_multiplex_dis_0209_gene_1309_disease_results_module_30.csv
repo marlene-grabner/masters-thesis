@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,26,0.03846153846153855
+1,disease_on_symptoms,16,20,0.6472222222222224
+2,disease_on_drugs,25,25,0.11999999999999988

@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,20,18,0.2421052631578946
+2,disease_on_drugs,18,27,-0.18333333333333335

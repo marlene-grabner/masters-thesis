@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,28,29,-0.10557644110275688
+1,disease_on_symptoms,19,20,0.1795546558704455
+2,disease_on_drugs,22,28,-0.14681818181818174

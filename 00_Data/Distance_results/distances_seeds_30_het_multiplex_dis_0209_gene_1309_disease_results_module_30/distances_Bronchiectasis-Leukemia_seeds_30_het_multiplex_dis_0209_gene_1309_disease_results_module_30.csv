@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,19,21,0.09511278195488693
+2,disease_on_drugs,25,30,0.12393939393939402

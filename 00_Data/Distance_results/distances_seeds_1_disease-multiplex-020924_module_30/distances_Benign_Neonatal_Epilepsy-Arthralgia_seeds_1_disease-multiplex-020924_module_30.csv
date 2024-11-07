@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Arthralgia nodes,sAB
+0,disease_on_genes,29,30,0.27118644067796605
+1,disease_on_symptoms,16,19,1.243937969924812
+2,disease_on_drugs,26,30,0.2321428571428572

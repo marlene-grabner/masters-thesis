@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.0011904761904761862
+1,disease_on_symptoms,17,21,-0.0537372843874393
+2,disease_on_drugs,26,26,-0.17307692307692313

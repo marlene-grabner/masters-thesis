@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Pruritus nodes,sAB
+0,disease_on_genes,24,26,0.16448979591836732
+1,disease_on_symptoms,23,19,1.8491337038247795
+2,disease_on_drugs,22,24,0.9347826086956521

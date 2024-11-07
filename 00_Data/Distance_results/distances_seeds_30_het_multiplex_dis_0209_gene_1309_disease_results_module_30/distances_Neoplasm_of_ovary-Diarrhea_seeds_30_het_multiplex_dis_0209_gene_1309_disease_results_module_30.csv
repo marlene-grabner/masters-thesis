@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,22,21,0.6119500654384378
+2,disease_on_drugs,29,29,0.051724137931034475

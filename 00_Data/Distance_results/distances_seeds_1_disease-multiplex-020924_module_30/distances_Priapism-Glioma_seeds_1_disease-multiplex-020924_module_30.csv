@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Glioma nodes,sAB
+0,disease_on_genes,30,22,0.27086247086247073
+1,disease_on_symptoms,17,24,1.8170432807269248
+2,disease_on_drugs,28,20,0.8589285714285713

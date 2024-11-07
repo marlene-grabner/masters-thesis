@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,24,25,0.34732993197278894
+1,disease_on_symptoms,22,19,1.5126327459446844
+2,disease_on_drugs,24,18,0.9246031746031746

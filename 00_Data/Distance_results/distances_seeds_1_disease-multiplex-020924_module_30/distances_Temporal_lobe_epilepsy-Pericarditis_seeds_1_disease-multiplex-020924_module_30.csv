@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,25,0.24201787994891455
+1,disease_on_symptoms,17,22,0.7555875497051967
+2,disease_on_drugs,26,25,0.37253393665158385

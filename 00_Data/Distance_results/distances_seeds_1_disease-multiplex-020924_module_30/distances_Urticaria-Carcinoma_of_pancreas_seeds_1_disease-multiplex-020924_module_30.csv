@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,10,23,0.5757575757575757
+1,disease_on_symptoms,27,25,1.6536182336182335
+2,disease_on_drugs,9,21,1.0333333333333332

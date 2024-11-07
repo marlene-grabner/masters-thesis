@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,27,28,0.10904280904280905
+1,disease_on_symptoms,22,21,0.7866203563877985
+2,disease_on_drugs,26,24,1.38

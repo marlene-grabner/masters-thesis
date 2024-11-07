@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,28,17,-0.09105975723622772
+1,disease_on_symptoms,19,27,0.863590134757183
+2,disease_on_drugs,26,16,-0.038690476190476275

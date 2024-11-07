@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,15,0.24444444444444446
+1,disease_on_symptoms,20,27,1.1141843971631207
+2,disease_on_drugs,28,13,0.5317944250871081

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.0847457627118644
+1,disease_on_symptoms,15,20,0.836904761904762
+2,disease_on_drugs,29,28,0.23017673494080015

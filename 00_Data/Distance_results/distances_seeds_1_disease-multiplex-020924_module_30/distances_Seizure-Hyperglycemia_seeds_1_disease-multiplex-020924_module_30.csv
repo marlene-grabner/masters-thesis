@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Hyperglycemia nodes,sAB
+0,disease_on_genes,29,30,0.18757062146892656
+1,disease_on_symptoms,25,14,1.3227838827838827
+2,disease_on_drugs,28,26,0.6481481481481481

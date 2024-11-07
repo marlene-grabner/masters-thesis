@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,0.10393046107331805
+1,disease_on_symptoms,22,21,1.1089801671197022
+2,disease_on_drugs,22,17,0.44474153297682717

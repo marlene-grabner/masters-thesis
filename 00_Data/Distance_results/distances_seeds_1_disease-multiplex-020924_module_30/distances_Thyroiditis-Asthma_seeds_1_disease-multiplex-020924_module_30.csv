@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,0.15797888386123682
+1,disease_on_symptoms,28,19,1.0312150055991043
+2,disease_on_drugs,23,24,0.38340271353684874

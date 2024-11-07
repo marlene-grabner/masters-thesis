@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,14,0.1404029304029304
+1,disease_on_symptoms,19,23,1.5728451563691837
+2,disease_on_drugs,18,14,0.2534722222222223

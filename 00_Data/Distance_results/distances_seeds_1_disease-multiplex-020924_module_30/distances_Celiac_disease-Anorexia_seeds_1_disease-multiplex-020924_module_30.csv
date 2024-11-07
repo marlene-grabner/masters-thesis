@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,17,17,0.23529411764705888
+1,disease_on_symptoms,22,25,2.4757446808510637
+2,disease_on_drugs,15,13,0.7853479853479854

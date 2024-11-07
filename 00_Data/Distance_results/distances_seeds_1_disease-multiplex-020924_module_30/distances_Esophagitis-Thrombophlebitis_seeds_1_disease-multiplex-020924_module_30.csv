@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,24,28,0.2737486298867373
+1,disease_on_symptoms,23,15,1.8884820747520976
+2,disease_on_drugs,20,21,1.2432926829268292

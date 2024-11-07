@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,14,16,0.369345238095238
+2,disease_on_drugs,27,30,0.1410331384015595

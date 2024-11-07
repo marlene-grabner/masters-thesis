@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,23,22,0.19892402283706634
+1,disease_on_symptoms,21,25,1.255072463768116
+2,disease_on_drugs,19,18,1.054054054054054

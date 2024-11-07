@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,9,20,0.5750000000000002
+2,disease_on_drugs,23,28,0.33066922421142375

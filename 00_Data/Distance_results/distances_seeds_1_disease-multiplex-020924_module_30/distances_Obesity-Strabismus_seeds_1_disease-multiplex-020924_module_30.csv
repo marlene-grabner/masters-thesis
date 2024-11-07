@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Strabismus nodes,sAB
+0,disease_on_genes,26,13,0.32692307692307687
+1,disease_on_symptoms,20,26,0.37341137123745827
+2,disease_on_drugs,27,9,0.5185185185185186

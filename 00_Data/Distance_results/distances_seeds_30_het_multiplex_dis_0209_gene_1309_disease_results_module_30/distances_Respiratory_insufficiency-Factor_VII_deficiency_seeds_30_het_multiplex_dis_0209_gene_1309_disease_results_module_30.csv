@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,28,0.00032467532467528315
+1,disease_on_symptoms,21,19,1.4744360902255642
+2,disease_on_drugs,25,25,0.24

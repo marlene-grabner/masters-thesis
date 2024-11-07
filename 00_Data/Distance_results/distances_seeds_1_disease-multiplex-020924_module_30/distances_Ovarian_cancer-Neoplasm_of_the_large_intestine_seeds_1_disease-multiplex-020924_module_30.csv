@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,27,20,-0.11010638297872333
+1,disease_on_symptoms,17,25,0.3512044817927171
+2,disease_on_drugs,25,19,0.1746411483253587

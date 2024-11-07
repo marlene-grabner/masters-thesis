@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.017592655791413447
+1,disease_on_symptoms,23,21,1.6769245247506115
+2,disease_on_drugs,25,21,0.21118012422360244

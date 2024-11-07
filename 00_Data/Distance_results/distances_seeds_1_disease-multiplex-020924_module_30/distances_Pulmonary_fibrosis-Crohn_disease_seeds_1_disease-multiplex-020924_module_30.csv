@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,24,25,-0.125
+1,disease_on_symptoms,22,20,0.011688311688311748
+2,disease_on_drugs,24,21,-0.13650793650793658

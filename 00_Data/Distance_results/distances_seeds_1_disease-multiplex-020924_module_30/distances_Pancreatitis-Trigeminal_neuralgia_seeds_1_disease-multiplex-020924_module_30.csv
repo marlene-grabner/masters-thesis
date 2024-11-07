@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,0.05217569786535292
+1,disease_on_symptoms,20,19,0.6413967611336036
+2,disease_on_drugs,30,26,0.44505494505494503

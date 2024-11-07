@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Pneumonia nodes,sAB
+0,disease_on_genes,24,30,0.05555555555555558
+1,disease_on_symptoms,24,23,0.3143694110391615
+2,disease_on_drugs,23,29,0.2353823088455771

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,29,-0.3646853146853146
+1,disease_on_symptoms,23,16,-0.34357580824972145
+2,disease_on_drugs,25,29,-0.4431673052362707

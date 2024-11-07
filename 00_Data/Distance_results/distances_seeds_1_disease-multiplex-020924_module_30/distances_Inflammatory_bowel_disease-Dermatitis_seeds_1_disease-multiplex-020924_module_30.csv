@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Dermatitis nodes,sAB
+0,disease_on_genes,17,26,0.035060975609756184
+1,disease_on_symptoms,27,25,1.4611396011396012
+2,disease_on_drugs,14,24,-0.024749373433583965

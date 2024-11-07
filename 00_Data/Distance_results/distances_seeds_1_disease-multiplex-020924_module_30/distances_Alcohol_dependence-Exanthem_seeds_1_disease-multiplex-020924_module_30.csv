@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Exanthem nodes,sAB
+0,disease_on_genes,12,28,0.43333333333333357
+1,disease_on_symptoms,27,26,1.8294361124549803
+2,disease_on_drugs,9,28,0.3304912054912055

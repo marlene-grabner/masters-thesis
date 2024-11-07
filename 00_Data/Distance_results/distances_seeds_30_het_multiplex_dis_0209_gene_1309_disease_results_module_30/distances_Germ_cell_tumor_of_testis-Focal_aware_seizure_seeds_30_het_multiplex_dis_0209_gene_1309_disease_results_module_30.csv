@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,-0.23412698412698418
+1,disease_on_symptoms,22,16,0.18391148325358841
+2,disease_on_drugs,20,29,-0.2520232230823365

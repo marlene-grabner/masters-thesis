@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,16,19,-0.7451127819548873
+2,disease_on_drugs,27,30,-0.03723196881091617

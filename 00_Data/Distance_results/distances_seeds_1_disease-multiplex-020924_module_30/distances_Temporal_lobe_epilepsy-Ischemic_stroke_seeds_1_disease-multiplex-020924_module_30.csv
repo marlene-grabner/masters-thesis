@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,29,30,0.18643093707383596
+1,disease_on_symptoms,17,16,1.4193404634581106
+2,disease_on_drugs,26,23,0.689731076377039

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Tremor nodes,sAB
+0,disease_on_genes,20,16,0.1312500000000001
+1,disease_on_symptoms,24,23,1.0614978415047795
+2,disease_on_drugs,18,16,0.47691993464052285

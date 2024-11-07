@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,26,29,0.03791897757415019
+1,disease_on_symptoms,19,22,0.8329443342280314
+2,disease_on_drugs,24,29,0.4746123400563871

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,29,25,0.348684546615581
+1,disease_on_symptoms,17,22,1.4135129576306047
+2,disease_on_drugs,26,24,0.9574358974358974

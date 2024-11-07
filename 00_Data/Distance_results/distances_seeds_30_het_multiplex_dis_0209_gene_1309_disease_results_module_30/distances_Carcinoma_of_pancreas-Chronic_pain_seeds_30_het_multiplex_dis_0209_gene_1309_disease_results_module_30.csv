@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666683
+1,disease_on_symptoms,18,19,0.6230836099257151
+2,disease_on_drugs,21,28,0.37244897959183665

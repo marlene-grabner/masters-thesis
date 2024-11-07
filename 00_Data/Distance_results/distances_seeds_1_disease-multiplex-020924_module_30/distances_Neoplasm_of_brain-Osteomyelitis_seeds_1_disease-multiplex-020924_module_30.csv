@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,22,25,0.3428046421663442
+1,disease_on_symptoms,23,23,0.8695652173913044
+2,disease_on_drugs,20,23,1.1390798786653185

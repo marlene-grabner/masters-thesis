@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,-0.02499999999999991
+1,disease_on_symptoms,19,26,0.42568600989653604
+2,disease_on_drugs,24,15,-0.0721153846153848

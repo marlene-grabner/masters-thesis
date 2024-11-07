@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Strabismus nodes,sAB
+0,disease_on_genes,25,17,-0.273109243697479
+1,disease_on_symptoms,13,24,0.9588963963963963
+2,disease_on_drugs,21,16,0.13010778635778641

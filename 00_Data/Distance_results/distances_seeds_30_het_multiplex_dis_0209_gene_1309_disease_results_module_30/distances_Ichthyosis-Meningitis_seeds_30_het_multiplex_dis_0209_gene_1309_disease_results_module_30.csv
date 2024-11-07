@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,0.05231829573934843
+1,disease_on_symptoms,18,17,0.5731559290382822
+2,disease_on_drugs,25,27,0.15652421652421644

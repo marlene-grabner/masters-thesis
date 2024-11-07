@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Esophagitis nodes,sAB
+0,disease_on_genes,17,24,-0.2767099681866384
+1,disease_on_symptoms,27,23,-0.15658615136876008
+2,disease_on_drugs,14,20,-0.20777310924369752

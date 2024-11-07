@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,26,30,-0.07023809523809521
+1,disease_on_symptoms,20,16,0.27569444444444446
+2,disease_on_drugs,23,28,-0.19234867860187554

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.5504229017566691
+1,disease_on_symptoms,15,18,1.6217171717171717
+2,disease_on_drugs,15,19,0.5602683178534571

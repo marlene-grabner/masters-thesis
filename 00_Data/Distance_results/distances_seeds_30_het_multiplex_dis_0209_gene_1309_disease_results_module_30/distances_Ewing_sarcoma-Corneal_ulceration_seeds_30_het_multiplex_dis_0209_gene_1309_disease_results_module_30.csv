@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.1385467980295566
+1,disease_on_symptoms,17,15,-0.10710784313725474
+2,disease_on_drugs,24,23,-0.06438868331791547

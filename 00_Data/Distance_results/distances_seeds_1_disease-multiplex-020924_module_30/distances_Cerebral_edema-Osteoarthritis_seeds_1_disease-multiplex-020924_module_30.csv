@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.43454545454545457
+1,disease_on_symptoms,9,20,0.10651340996168579
+2,disease_on_drugs,11,21,0.017045454545454586

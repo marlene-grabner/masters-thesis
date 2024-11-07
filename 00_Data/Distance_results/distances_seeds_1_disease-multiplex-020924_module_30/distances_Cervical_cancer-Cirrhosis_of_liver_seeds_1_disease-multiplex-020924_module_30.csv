@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,0.38586744639376214
+1,disease_on_symptoms,23,14,1.1290498573107266
+2,disease_on_drugs,15,26,0.4149155722326452

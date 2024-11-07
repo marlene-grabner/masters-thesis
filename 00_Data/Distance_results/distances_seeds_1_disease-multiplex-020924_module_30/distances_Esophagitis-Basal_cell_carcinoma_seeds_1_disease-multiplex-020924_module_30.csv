@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,24,26,0.1617807658180328
+1,disease_on_symptoms,23,23,1.4565217391304346
+2,disease_on_drugs,20,25,1.0194444444444444

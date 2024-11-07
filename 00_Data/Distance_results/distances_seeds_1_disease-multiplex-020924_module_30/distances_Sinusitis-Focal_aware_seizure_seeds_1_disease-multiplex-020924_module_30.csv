@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,0.27586206896551735
+1,disease_on_symptoms,21,15,1.6563492063492062
+2,disease_on_drugs,28,29,1.1394110275689224

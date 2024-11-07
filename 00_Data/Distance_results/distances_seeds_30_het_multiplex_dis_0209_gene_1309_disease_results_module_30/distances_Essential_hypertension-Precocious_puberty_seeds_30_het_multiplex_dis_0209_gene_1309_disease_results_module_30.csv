@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,28,30,-0.12068965517241381
+1,disease_on_symptoms,13,16,0.3488063660477452
+2,disease_on_drugs,28,27,0.09151034151034154

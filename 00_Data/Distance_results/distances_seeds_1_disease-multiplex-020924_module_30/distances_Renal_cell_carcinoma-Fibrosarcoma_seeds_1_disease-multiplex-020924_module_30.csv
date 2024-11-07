@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,25,22,-0.24326885880077387
+1,disease_on_symptoms,24,24,0.02083333333333348
+2,disease_on_drugs,20,13,-0.030303030303030276

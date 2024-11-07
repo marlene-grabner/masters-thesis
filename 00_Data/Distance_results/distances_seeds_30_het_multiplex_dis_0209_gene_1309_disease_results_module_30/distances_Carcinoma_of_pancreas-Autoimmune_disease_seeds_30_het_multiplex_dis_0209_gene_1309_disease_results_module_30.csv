@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,0.0904761904761906
+1,disease_on_symptoms,18,20,0.3869883040935673
+2,disease_on_drugs,21,25,0.18844720496894407

@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Purpura nodes,sAB
+0,disease_on_genes,30,26,0.2994505494505495
+1,disease_on_symptoms,12,17,1.856659905341447
+2,disease_on_drugs,27,20,0.7446808510638299

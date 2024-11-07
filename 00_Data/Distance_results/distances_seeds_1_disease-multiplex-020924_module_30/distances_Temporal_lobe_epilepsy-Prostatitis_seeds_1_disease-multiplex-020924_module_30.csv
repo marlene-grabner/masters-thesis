@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Prostatitis nodes,sAB
+0,disease_on_genes,29,30,0.255075004870446
+1,disease_on_symptoms,17,20,1.9840620031796503
+2,disease_on_drugs,26,29,0.9826501085121773

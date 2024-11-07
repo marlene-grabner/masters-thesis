@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,21,22,-0.09146280076512636
+1,disease_on_symptoms,22,19,2.2063251254522114
+2,disease_on_drugs,21,19,-0.019172932330827175

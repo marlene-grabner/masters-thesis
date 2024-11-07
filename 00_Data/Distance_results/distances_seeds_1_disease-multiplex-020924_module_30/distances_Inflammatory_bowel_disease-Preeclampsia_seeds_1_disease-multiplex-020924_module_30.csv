@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,17,26,0.24702380952380953
+1,disease_on_symptoms,27,17,2.5642206377500494
+2,disease_on_drugs,14,23,0.7263303676347155

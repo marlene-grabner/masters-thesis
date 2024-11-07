@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.4573154100915644
+1,disease_on_symptoms,17,21,0.8098923780038332
+2,disease_on_drugs,17,28,0.8575396825396826

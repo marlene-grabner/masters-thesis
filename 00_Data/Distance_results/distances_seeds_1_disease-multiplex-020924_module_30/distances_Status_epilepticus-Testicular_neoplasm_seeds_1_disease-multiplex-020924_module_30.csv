@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,29,25,0.12794380587484033
+1,disease_on_symptoms,17,25,2.1885154061624648
+2,disease_on_drugs,30,23,1.428219852337982

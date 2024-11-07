@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,-0.02060439560439553
+1,disease_on_symptoms,18,13,0.6785221946512268
+2,disease_on_drugs,23,29,0.07692307692307687

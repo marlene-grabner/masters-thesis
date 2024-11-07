@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,29,28,0.3330200501253133
+1,disease_on_symptoms,18,23,1.5502827854365497
+2,disease_on_drugs,30,28,0.7585796387520525

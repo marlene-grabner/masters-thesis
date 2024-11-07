@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.1393762183235867
+1,disease_on_symptoms,21,17,1.106295149638803
+2,disease_on_drugs,27,27,0.35185185185185186

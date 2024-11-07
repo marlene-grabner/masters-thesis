@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,17,18,0.3453781512605043
+2,disease_on_drugs,24,28,0.057005494505494525

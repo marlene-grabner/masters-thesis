@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Rosacea nodes,sAB
+0,disease_on_genes,30,30,-0.10000000000000009
+1,disease_on_symptoms,19,18,0.10964912280701755
+2,disease_on_drugs,24,30,0.037962962962962976

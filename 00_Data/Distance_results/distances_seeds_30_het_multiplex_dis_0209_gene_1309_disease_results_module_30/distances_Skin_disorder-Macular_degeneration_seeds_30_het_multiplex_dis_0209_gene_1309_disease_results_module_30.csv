@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,25,30,-0.10757575757575755
+1,disease_on_symptoms,19,17,-0.43180254557963504
+2,disease_on_drugs,23,17,-0.1255115089514065

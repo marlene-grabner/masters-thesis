@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,24,30,-0.2407407407407407
+1,disease_on_symptoms,23,18,-0.5635383527748319
+2,disease_on_drugs,22,27,-0.31416202844774255

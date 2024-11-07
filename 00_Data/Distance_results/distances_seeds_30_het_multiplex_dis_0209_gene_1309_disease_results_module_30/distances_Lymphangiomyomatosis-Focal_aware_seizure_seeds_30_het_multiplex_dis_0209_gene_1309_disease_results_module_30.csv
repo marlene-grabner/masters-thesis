@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,-0.20104895104895093
+1,disease_on_symptoms,17,16,-0.09146613190730823
+2,disease_on_drugs,24,29,-0.1943043808284537

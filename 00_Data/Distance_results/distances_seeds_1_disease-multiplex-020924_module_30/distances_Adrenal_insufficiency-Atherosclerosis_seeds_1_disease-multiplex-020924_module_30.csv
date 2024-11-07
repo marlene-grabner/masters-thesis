@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,17,30,0.28160200250312895
+1,disease_on_symptoms,21,13,1.724951519069166
+2,disease_on_drugs,14,29,0.6046511627906976

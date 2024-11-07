@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,18,15,0.24595959595959593
+2,disease_on_drugs,26,21,-0.15117683734705012

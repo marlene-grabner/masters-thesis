@@ -1,0 +1,4 @@
+,Layer,Hereditary_factor_IX_deficiency_disease nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,24,-0.12205782312925184
+1,disease_on_symptoms,22,19,-0.16445909674407755
+2,disease_on_drugs,21,19,-0.004072681704260672

@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.25
+1,disease_on_symptoms,13,27,0.630911680911681
+2,disease_on_drugs,29,17,0.7161125319693094

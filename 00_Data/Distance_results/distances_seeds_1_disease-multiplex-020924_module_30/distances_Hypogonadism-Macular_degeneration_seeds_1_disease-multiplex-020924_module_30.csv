@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.30536723163841817
+1,disease_on_symptoms,12,15,1.0203703703703706
+2,disease_on_drugs,30,21,0.9203081232492996

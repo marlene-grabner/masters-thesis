@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.16978375219170072
+1,disease_on_symptoms,19,20,0.14477058029689593
+2,disease_on_drugs,24,28,-0.23557692307692313

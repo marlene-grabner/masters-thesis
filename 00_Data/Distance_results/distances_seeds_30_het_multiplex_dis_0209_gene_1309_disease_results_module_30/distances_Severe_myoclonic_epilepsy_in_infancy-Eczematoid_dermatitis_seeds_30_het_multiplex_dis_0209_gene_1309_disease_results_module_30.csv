@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,30,0.19999999999999996
+1,disease_on_symptoms,14,25,1.011831501831502
+2,disease_on_drugs,21,30,0.17268907563025215

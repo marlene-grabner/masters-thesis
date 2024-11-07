@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,17,20,-0.19861111111111107
+1,disease_on_symptoms,27,25,-0.30886039886039895
+2,disease_on_drugs,14,19,-0.11864889496468445

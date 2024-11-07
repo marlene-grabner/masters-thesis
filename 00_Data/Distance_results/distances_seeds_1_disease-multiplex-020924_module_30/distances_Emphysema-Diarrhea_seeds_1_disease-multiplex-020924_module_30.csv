@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.01354775828460042
+1,disease_on_symptoms,14,19,1.0106516290726815
+2,disease_on_drugs,29,26,0.36258741258741267

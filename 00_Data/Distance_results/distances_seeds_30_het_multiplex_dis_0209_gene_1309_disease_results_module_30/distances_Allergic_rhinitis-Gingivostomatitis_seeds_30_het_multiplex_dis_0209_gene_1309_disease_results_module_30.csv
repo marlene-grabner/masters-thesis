@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,28,30,-0.15459770114942528
+1,disease_on_symptoms,20,15,-0.04880952380952386
+2,disease_on_drugs,25,30,-0.008181818181818068

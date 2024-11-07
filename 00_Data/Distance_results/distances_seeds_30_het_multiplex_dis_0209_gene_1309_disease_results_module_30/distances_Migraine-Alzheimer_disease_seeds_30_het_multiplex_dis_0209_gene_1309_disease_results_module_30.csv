@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.2075471698113207
+1,disease_on_symptoms,12,19,0.6750141482739107
+2,disease_on_drugs,29,19,-0.2411146400483969

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,23,27,-0.16000000000000003
+1,disease_on_symptoms,23,22,0.5339920948616603
+2,disease_on_drugs,22,26,0.023455710955710973

@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,20,30,0.01445341159207647
+1,disease_on_symptoms,23,18,1.4570814186402736
+2,disease_on_drugs,18,19,0.2694009799272956

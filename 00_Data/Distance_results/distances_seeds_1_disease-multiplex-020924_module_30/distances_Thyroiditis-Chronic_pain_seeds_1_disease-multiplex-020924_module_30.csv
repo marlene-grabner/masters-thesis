@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,26,30,0.10164835164835173
+1,disease_on_symptoms,28,22,1.6668181818181815
+2,disease_on_drugs,23,28,0.7055017659237608

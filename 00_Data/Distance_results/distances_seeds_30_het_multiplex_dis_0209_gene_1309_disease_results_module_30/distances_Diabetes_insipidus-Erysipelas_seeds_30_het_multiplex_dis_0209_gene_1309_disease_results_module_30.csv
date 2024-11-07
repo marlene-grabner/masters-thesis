@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,20,18,0.10701754385964901
+2,disease_on_drugs,20,29,0.023399014778325178

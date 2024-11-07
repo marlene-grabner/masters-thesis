@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.015558292282430441
+1,disease_on_symptoms,23,19,0.09512912716574062
+2,disease_on_drugs,29,26,0.20282131661442016

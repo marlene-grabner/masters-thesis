@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,23,22,-0.2056277056277055
+1,disease_on_symptoms,16,20,-0.3812500000000001
+2,disease_on_drugs,17,19,-0.5281217750257997

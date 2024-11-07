@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,22,17,1.0391814068284657
+2,disease_on_drugs,30,24,0.3032407407407409

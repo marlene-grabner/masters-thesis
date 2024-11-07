@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,20,0.12472419227738363
+1,disease_on_symptoms,16,23,0.2727842809364549
+2,disease_on_drugs,18,18,0.36111111111111116

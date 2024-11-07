@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,30,0.052727272727272734
+1,disease_on_symptoms,20,18,1.049561403508772
+2,disease_on_drugs,22,30,0.17086247086247086

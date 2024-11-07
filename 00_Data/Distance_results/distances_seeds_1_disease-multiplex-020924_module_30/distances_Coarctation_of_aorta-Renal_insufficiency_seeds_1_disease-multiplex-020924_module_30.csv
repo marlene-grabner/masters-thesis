@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,20,0.147872340425532
+1,disease_on_symptoms,14,23,1.0867466845727713
+2,disease_on_drugs,13,17,0.42352941176470593

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_skin nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,0.17052545155993415
+1,disease_on_symptoms,21,14,0.19285714285714306
+2,disease_on_drugs,24,26,0.2007692307692308

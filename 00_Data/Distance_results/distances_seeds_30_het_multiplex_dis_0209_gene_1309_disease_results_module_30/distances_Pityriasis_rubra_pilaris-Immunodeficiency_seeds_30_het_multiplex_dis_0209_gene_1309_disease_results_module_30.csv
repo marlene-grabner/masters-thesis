@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,26,-0.16911250873515038
+1,disease_on_symptoms,21,21,0.11904761904761907
+2,disease_on_drugs,25,26,-0.21420814479638017

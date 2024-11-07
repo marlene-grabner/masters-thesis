@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.4
+1,disease_on_symptoms,15,17,-0.8990196078431372
+2,disease_on_drugs,24,29,-0.5306739319019737

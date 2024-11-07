@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.30000000000000004
+1,disease_on_symptoms,19,7,0.28600347021399664
+2,disease_on_drugs,29,22,-0.011617186059376783

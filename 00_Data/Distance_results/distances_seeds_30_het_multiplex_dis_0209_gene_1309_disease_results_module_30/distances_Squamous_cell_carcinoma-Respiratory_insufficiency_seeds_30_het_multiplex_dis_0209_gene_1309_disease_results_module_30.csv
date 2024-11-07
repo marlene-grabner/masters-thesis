@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,0.01754385964912286
+1,disease_on_symptoms,22,21,0.6972968891573541
+2,disease_on_drugs,30,25,0.4163636363636365

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,24,26,0.11916666666666642
+1,disease_on_symptoms,19,21,0.7110275689223056
+2,disease_on_drugs,19,26,-0.09374718848403063

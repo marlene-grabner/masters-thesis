@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,19,18,0.0812786470681206
+2,disease_on_drugs,30,26,-0.2509157509157509

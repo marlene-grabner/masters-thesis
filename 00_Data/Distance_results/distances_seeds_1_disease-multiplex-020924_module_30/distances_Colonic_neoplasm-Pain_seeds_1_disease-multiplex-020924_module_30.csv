@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.21153846153846168
+1,disease_on_symptoms,19,21,1.0349624060150373
+2,disease_on_drugs,29,26,0.8534965034965036

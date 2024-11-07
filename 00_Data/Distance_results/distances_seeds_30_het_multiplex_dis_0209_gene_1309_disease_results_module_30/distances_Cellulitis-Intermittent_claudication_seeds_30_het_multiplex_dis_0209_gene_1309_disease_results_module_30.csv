@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,20,14,0.26764705882352935
+2,disease_on_drugs,26,24,0.15955128205128188

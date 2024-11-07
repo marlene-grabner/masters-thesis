@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,-0.5833333333333334
+1,disease_on_symptoms,19,16,-0.7230263157894736
+2,disease_on_drugs,30,29,-0.576271186440678

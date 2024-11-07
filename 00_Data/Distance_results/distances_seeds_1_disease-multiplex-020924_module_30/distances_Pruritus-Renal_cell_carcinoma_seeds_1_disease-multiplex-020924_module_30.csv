@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,26,25,0.07999999999999985
+1,disease_on_symptoms,19,24,1.0489086087311303
+2,disease_on_drugs,24,20,1.2045454545454546

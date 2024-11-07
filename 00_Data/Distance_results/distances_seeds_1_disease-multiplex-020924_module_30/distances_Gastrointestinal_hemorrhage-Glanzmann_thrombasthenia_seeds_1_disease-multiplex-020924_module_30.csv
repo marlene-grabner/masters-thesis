@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,27,24,-0.31277233115468417
+1,disease_on_symptoms,19,21,-0.20018796992481214
+2,disease_on_drugs,27,24,-0.1433823529411763

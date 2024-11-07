@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,17,14,0.3320683111954459
+2,disease_on_drugs,25,22,0.20974854932301734

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,14,18,0.6220238095238095
+2,disease_on_drugs,29,30,0.051061757256964935

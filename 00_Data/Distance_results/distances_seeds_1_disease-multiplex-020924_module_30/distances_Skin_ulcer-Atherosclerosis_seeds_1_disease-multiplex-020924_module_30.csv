@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,19,13,0.46849696356275317
+2,disease_on_drugs,22,29,0.04634581105169344

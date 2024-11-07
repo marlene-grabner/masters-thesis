@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.07454545454545458
+1,disease_on_symptoms,20,26,-0.0007525083612041072
+2,disease_on_drugs,29,24,0.044513120798091554

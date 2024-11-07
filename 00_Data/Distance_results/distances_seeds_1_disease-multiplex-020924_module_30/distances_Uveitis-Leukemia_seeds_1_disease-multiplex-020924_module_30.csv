@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.12916666666666665
+1,disease_on_symptoms,21,27,0.17427248677248675
+2,disease_on_drugs,27,17,0.006882551000197967

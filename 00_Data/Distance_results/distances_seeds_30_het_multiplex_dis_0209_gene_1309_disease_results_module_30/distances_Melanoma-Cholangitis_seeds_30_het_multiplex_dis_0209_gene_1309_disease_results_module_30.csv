@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,27,30,-0.0185185185185186
+1,disease_on_symptoms,23,18,0.5325497820195597
+2,disease_on_drugs,25,28,0.27175202156334244

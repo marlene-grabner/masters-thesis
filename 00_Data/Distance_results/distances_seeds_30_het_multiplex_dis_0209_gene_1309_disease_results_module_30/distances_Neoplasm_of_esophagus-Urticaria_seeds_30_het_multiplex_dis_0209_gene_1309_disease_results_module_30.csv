@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Urticaria nodes,sAB
+0,disease_on_genes,29,24,-0.11158100195185416
+1,disease_on_symptoms,20,21,0.4195702671312429
+2,disease_on_drugs,25,24,-0.002125850340136015

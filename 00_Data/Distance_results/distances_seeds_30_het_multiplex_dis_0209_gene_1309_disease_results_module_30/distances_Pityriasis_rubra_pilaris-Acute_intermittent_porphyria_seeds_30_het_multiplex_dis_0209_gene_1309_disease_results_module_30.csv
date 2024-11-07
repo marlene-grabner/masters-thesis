@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555569
+1,disease_on_symptoms,21,17,0.9576883384932917
+2,disease_on_drugs,25,24,0.12113945578231311

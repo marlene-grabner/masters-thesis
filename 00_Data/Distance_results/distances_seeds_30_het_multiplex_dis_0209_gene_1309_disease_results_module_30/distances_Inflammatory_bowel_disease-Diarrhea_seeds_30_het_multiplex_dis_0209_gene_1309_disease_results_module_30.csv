@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,20,21,0.2102497096399536
+2,disease_on_drugs,27,29,-0.14105546433132643

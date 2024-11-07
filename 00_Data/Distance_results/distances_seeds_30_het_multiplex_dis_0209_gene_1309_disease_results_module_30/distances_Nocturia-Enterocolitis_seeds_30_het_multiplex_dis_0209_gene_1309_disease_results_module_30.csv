@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,25,27,-0.07843137254901966
+1,disease_on_symptoms,18,21,0.7112332112332109
+2,disease_on_drugs,24,25,0.14401360544217678

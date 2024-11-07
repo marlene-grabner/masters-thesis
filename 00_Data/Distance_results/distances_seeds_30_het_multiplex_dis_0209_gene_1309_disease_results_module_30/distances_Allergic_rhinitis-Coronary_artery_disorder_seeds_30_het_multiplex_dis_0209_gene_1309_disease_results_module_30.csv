@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,23,0.037084398976982014
+1,disease_on_symptoms,20,19,0.9042847503373819
+2,disease_on_drugs,25,22,0.13079303675048348

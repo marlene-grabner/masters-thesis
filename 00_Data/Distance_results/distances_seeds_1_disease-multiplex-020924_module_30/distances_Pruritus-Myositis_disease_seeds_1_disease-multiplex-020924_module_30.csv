@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,26,30,-0.13121212121212122
+1,disease_on_symptoms,19,24,-0.02957976336189283
+2,disease_on_drugs,24,28,0.1607142857142856

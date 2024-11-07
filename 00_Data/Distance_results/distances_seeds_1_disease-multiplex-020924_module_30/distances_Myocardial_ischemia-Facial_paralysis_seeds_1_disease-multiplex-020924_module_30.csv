@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.20779220779220786
+1,disease_on_symptoms,13,23,1.3772761055369749
+2,disease_on_drugs,23,14,0.4482961222091659

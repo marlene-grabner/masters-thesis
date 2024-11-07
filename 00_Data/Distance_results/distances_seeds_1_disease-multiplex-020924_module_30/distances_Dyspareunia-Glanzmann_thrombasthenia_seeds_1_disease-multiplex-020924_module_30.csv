@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,24,24,0.20833333333333326
+1,disease_on_symptoms,17,21,0.7390535161432994
+2,disease_on_drugs,23,24,0.5540201973481345

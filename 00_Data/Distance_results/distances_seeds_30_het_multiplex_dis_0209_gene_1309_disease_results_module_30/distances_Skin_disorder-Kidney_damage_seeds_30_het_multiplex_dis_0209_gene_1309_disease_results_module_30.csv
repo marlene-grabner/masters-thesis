@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,19,15,0.13323013415892682
+2,disease_on_drugs,23,21,-0.07928665537361201

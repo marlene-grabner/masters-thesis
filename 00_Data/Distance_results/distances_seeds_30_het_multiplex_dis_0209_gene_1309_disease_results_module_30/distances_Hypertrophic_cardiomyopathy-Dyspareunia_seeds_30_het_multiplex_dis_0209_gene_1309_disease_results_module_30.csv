@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,0.10197740112994347
+1,disease_on_symptoms,19,20,0.6640350877192982
+2,disease_on_drugs,22,28,0.08772727272727265

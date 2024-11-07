@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,28,0.2857142857142856
+1,disease_on_symptoms,19,20,0.6381916329284751
+2,disease_on_drugs,28,27,0.763961038961039

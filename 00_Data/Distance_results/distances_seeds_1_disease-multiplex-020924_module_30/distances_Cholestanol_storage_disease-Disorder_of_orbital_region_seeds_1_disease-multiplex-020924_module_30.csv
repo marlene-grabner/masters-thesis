@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,17,0.11639549436795993
+1,disease_on_symptoms,17,27,0.9542483660130721
+2,disease_on_drugs,25,16,0.6955487804878047

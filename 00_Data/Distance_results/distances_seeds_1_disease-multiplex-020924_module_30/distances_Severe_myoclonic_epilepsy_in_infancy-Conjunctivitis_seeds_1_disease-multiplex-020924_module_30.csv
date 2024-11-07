@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,0.4735867446393762
+1,disease_on_symptoms,16,27,2.1919681309216195
+2,disease_on_drugs,21,26,0.9351960096640948

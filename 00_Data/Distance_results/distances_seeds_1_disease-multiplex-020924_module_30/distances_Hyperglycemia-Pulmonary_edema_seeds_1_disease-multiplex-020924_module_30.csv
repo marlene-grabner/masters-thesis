@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,14,14,1.392857142857143
+2,disease_on_drugs,26,27,0.3025856044723967

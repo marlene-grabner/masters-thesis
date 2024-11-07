@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,29,0.07167832167832167
+1,disease_on_symptoms,25,11,1.408787878787879
+2,disease_on_drugs,25,24,0.2643877551020408

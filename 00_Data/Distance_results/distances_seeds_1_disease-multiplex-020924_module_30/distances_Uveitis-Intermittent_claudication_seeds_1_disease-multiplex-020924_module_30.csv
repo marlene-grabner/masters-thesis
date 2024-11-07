@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.08833333333333315
+1,disease_on_symptoms,21,24,1.6224206349206347
+2,disease_on_drugs,27,18,0.49259259259259247

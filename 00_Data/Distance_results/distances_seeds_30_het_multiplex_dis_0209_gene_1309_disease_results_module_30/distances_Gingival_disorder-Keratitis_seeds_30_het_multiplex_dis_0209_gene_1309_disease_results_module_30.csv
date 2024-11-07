@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,25,0.29377990430622036
+2,disease_on_drugs,24,29,0.004432335718933089

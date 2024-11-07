@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,13,17,0.15535444947209642
+2,disease_on_drugs,19,17,-0.03500171998624002

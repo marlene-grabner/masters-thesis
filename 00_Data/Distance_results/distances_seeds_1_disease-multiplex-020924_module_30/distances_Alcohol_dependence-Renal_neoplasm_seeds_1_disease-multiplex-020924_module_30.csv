@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,12,22,0.4329322638146167
+1,disease_on_symptoms,27,25,2.6706552706552706
+2,disease_on_drugs,9,18,0.37037037037037024

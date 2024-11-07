@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.33993589743589725
+1,disease_on_symptoms,21,19,1.1462406015037594
+2,disease_on_drugs,24,20,0.8136363636363635

@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,27,30,0.1393762183235867
+1,disease_on_symptoms,21,10,0.7101382488479264
+2,disease_on_drugs,27,16,0.149036391042205

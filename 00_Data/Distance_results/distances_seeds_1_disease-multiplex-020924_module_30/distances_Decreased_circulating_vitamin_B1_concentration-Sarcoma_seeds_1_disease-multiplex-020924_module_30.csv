@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Sarcoma nodes,sAB
+0,disease_on_genes,25,25,0.2799999999999998
+1,disease_on_symptoms,13,26,3.0961538461538467
+2,disease_on_drugs,16,21,0.6731418918918919

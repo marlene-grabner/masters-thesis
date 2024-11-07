@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,28,26,-0.07412494912494927
+1,disease_on_symptoms,19,17,0.4251805985552115
+2,disease_on_drugs,22,24,0.08539196310935449

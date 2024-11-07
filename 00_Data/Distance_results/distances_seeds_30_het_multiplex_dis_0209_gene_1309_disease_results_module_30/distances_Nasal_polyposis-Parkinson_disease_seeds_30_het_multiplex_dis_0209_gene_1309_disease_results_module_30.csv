@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,23,-0.018867924528301883
+1,disease_on_symptoms,20,23,0.6707785642062687
+2,disease_on_drugs,25,22,0.12603481624758217

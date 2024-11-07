@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.16428571428571437
+1,disease_on_symptoms,24,25,0.7577891156462586
+2,disease_on_drugs,25,23,0.24978260869565228

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,21,25,0.19879917184265006
+1,disease_on_symptoms,20,22,1.7363636363636363
+2,disease_on_drugs,19,24,0.8236434108527131

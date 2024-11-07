@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,28,30,0.5112964621585312
+1,disease_on_symptoms,24,18,1.16468253968254
+2,disease_on_drugs,28,19,0.5236362182050873

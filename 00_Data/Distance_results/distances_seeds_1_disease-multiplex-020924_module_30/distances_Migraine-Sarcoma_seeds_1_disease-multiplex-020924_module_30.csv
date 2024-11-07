@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.16666666666666674
+1,disease_on_symptoms,14,26,1.511813186813187
+2,disease_on_drugs,29,21,1.0

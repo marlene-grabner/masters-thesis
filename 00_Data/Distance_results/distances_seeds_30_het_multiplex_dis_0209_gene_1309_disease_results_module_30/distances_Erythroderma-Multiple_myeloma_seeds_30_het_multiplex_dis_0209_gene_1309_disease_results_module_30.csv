@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,20,21,0.6564750290360046
+2,disease_on_drugs,29,25,-0.13961685823754788

@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,29,29,-0.10344827586206884
+1,disease_on_symptoms,13,27,0.451994301994302
+2,disease_on_drugs,28,28,0.267857142857143

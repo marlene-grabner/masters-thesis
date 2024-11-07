@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,0.5561660561660562
+1,disease_on_symptoms,21,17,0.7919062361786819
+2,disease_on_drugs,24,18,0.9761904761904763

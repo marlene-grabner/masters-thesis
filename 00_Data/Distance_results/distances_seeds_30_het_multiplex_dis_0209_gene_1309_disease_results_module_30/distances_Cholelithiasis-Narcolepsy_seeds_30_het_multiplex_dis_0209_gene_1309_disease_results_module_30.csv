@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,0.1200000000000001
+1,disease_on_symptoms,20,20,1.5
+2,disease_on_drugs,18,21,0.11874236874236876

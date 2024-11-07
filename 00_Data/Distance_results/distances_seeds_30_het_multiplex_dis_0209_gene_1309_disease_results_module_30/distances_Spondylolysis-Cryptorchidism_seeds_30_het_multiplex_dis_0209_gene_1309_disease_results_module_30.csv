@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,28,23,-0.2178175618073317
+1,disease_on_symptoms,17,19,0.20777433780529764
+2,disease_on_drugs,19,21,-0.39598997493734345

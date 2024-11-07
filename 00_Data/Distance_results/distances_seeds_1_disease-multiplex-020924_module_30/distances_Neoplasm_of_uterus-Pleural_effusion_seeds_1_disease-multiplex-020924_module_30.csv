@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,0.11880131362889967
+1,disease_on_symptoms,19,20,0.38370445344129545
+2,disease_on_drugs,28,22,0.3821428571428571

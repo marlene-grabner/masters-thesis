@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,26,30,0.625
+1,disease_on_symptoms,21,9,0.9920634920634919
+2,disease_on_drugs,24,11,0.6402597402597403

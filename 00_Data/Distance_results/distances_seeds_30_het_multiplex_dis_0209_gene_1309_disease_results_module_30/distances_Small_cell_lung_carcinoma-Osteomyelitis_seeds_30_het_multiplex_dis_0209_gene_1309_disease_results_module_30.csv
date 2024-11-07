@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,22,0.3444392577897073
+2,disease_on_drugs,30,28,0.3101395730706076

@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,20,0.055952380952380976
+1,disease_on_symptoms,21,24,1.3081349206349207
+2,disease_on_drugs,28,18,0.7227398205659077

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,29,26,0.017132867132867213
+1,disease_on_symptoms,20,25,1.2022222222222223
+2,disease_on_drugs,20,25,0.36444444444444457

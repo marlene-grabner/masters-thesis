@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Myalgia nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,18,16,1.7587826797385622
+2,disease_on_drugs,24,29,0.1720478204294078

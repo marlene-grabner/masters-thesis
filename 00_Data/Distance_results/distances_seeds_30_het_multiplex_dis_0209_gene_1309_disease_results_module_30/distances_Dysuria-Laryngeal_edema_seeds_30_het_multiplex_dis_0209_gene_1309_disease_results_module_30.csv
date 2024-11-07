@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,12,16,1.025297619047619
+2,disease_on_drugs,21,28,0.14370748299319724

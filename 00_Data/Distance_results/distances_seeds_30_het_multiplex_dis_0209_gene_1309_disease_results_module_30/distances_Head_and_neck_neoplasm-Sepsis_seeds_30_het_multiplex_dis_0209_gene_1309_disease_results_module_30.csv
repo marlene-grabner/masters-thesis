@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.11666666666666647
+1,disease_on_symptoms,22,15,1.2418918918918922
+2,disease_on_drugs,27,25,0.5346153846153845

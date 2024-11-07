@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,21,18,0.41758241758241743
+2,disease_on_drugs,27,26,-0.018921679299037875

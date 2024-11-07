@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,28,0.019540229885057547
+1,disease_on_symptoms,23,21,0.5589591567852439
+2,disease_on_drugs,29,21,0.14065681444991784

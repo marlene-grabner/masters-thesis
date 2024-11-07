@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,23,26,0.6490683229813665
+1,disease_on_symptoms,21,15,0.6563492063492065
+2,disease_on_drugs,21,15,1.2507936507936508

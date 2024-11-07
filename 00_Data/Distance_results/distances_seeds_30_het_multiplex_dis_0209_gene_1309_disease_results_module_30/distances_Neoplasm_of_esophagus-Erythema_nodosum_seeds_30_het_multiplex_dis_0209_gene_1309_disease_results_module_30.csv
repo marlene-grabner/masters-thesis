@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,29,30,-0.06808883693746337
+1,disease_on_symptoms,20,22,0.632034632034632
+2,disease_on_drugs,25,29,0.17049808429118785

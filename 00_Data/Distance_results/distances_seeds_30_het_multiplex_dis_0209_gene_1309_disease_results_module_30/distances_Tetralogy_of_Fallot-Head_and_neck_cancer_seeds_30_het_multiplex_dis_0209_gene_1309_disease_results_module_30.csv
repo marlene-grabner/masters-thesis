@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,30,27,0.002631578947368318
+1,disease_on_symptoms,19,22,0.46811179834286376
+2,disease_on_drugs,20,23,0.03688068756319507

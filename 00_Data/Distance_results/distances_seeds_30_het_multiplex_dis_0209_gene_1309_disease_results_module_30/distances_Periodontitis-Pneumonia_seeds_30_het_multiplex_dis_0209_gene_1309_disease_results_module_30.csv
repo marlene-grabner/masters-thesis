@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,21,23,-0.540654997176736
+2,disease_on_drugs,28,29,-0.26476752225391065

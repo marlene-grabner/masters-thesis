@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.10666666666666669
+1,disease_on_symptoms,14,22,0.6800144300144302
+2,disease_on_drugs,29,24,0.3883647798742136

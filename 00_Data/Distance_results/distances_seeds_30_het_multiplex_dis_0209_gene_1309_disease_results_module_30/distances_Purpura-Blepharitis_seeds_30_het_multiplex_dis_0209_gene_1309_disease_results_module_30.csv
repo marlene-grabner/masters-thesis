@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,17,18,0.7380952380952381
+2,disease_on_drugs,24,30,0.06805555555555554

@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,25,29,0.4783141762452108
+1,disease_on_symptoms,23,16,2.60103121516165
+2,disease_on_drugs,21,24,0.9968253968253966

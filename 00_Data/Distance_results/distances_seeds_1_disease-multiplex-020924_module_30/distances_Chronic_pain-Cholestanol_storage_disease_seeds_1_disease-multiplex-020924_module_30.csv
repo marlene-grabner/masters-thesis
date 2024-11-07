@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,22,17,0.5826477444124505
+2,disease_on_drugs,28,25,0.2772371967654985

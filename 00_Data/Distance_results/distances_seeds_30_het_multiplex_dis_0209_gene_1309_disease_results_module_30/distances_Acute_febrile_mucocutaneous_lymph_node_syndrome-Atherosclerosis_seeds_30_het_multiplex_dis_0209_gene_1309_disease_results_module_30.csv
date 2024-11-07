@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,13,14,-0.1894586894586896
+2,disease_on_drugs,28,29,-0.19394391150289514

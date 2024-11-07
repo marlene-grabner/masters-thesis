@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,25,30,0.3490740740740741
+1,disease_on_symptoms,20,16,1.7555555555555553
+2,disease_on_drugs,21,23,0.7290607942781853

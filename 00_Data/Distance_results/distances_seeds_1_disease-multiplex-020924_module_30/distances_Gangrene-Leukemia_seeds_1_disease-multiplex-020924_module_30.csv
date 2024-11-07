@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.25
+1,disease_on_symptoms,19,27,1.2596830239850834
+2,disease_on_drugs,23,17,0.7150255754475703

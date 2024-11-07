@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,13,16,0.23698607427055696
+2,disease_on_drugs,22,29,0.10051324605077139

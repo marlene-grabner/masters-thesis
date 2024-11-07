@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,0.23529411764705888
+1,disease_on_symptoms,15,22,0.626289926289926
+2,disease_on_drugs,15,25,0.6383333333333334

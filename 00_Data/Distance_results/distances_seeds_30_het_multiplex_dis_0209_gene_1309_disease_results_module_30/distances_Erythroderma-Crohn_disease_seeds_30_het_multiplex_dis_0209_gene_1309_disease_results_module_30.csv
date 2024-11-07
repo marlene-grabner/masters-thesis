@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,-0.0535714285714286
+1,disease_on_symptoms,20,22,1.236904761904762
+2,disease_on_drugs,29,24,-0.045895684233355105

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,20,19,-0.4621457489878542
+2,disease_on_drugs,28,30,-0.21190476190476204

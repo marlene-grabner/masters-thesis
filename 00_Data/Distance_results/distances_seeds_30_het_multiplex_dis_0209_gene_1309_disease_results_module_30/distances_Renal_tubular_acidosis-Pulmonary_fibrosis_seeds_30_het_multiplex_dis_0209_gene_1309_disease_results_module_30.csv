@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,25,-0.018181818181818188
+1,disease_on_symptoms,14,22,0.7702020202020203
+2,disease_on_drugs,27,25,0.06452991452991452

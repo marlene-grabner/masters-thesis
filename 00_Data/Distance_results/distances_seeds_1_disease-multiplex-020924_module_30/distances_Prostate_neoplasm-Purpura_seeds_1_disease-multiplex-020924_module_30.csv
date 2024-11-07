@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Purpura nodes,sAB
+0,disease_on_genes,17,26,0.2665210986004418
+1,disease_on_symptoms,21,17,2.064204629220109
+2,disease_on_drugs,17,20,0.7790143084260732

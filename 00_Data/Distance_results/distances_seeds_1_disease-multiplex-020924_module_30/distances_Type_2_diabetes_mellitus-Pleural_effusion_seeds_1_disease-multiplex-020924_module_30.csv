@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,16,30,0.056702898550724745
+1,disease_on_symptoms,21,20,2.7071138211382113
+2,disease_on_drugs,15,22,0.7567567567567568

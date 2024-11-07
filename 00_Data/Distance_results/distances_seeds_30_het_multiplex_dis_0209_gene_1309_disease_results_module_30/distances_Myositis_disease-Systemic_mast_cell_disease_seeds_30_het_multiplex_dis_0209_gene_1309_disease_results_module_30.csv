@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.16977401129943503
+1,disease_on_symptoms,18,25,0.40731266149870793
+2,disease_on_drugs,26,21,-0.014398721845530371

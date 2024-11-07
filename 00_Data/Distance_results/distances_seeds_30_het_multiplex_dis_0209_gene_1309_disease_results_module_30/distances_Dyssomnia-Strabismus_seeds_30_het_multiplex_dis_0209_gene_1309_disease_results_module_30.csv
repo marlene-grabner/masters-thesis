@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Strabismus nodes,sAB
+0,disease_on_genes,18,17,-0.6016806722689076
+1,disease_on_symptoms,21,24,0.8751984126984125
+2,disease_on_drugs,17,16,-0.6660539215686275

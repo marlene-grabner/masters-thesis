@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.2129629629629628
+1,disease_on_symptoms,12,20,1.2541666666666669
+2,disease_on_drugs,30,25,0.6378787878787879

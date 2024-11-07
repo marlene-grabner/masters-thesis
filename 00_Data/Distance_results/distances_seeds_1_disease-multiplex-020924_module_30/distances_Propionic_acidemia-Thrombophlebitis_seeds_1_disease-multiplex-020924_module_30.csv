@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,22,28,0.2042857142857144
+1,disease_on_symptoms,17,15,1.9623774509803922
+2,disease_on_drugs,21,21,0.7857142857142858

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,22,22,0.2954545454545454
+1,disease_on_symptoms,23,25,1.4932971014492753
+2,disease_on_drugs,17,18,0.9126050420168068

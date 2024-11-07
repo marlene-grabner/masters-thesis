@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,28,0.4003126503126504
+1,disease_on_symptoms,17,15,2.493627450980392
+2,disease_on_drugs,20,21,0.8048780487804879

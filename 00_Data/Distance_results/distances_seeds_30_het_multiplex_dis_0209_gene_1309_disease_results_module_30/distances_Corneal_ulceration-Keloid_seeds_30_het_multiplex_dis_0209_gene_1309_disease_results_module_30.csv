@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Keloid nodes,sAB
+0,disease_on_genes,28,23,-0.07668067226890751
+1,disease_on_symptoms,15,17,1.1392156862745098
+2,disease_on_drugs,23,22,0.0023935002195871746

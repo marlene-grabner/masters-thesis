@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Rosacea nodes,sAB
+0,disease_on_genes,21,30,-0.19733893557422977
+1,disease_on_symptoms,20,18,0.5399122807017545
+2,disease_on_drugs,21,30,0.211204481792717

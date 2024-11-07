@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.3612121212121213
+1,disease_on_symptoms,14,25,2.098095238095238
+2,disease_on_drugs,11,21,0.84375

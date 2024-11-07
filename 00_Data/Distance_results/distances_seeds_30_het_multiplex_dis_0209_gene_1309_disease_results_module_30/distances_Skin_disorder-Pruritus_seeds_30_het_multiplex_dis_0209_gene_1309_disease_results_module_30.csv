@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Pruritus nodes,sAB
+0,disease_on_genes,25,27,-0.11467236467236475
+1,disease_on_symptoms,19,21,0.7806390977443609
+2,disease_on_drugs,23,27,-0.05929146537842178

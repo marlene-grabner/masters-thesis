@@ -1,0 +1,4 @@
+,Layer,Pulmonary_hypertension nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,28,27,-0.12760942760942773
+1,disease_on_symptoms,18,14,-0.17063492063492047
+2,disease_on_drugs,27,26,0.15090308014836307

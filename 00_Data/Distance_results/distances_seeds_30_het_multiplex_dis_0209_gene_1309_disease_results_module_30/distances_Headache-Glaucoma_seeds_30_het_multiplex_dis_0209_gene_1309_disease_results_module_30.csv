@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,23,18,-0.17647578649699525
+2,disease_on_drugs,23,28,0.032289002557544855

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,16,30,0.3148550724637682
+1,disease_on_symptoms,26,15,1.315509693558474
+2,disease_on_drugs,14,30,1.1818181818181817

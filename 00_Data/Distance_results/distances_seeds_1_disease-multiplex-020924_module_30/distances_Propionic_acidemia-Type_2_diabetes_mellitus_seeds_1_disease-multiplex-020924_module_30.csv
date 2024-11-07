@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,22,16,0.023026315789473673
+1,disease_on_symptoms,17,21,1.2528379772961817
+2,disease_on_drugs,21,15,0.6507936507936509

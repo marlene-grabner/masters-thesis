@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,26,30,0.0025274010309794814
+1,disease_on_symptoms,21,18,1.3336385836385838
+2,disease_on_drugs,26,19,0.08259109311740898

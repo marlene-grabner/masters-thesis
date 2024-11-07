@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,16,-0.043749999999999956
+2,disease_on_drugs,28,28,-0.0714285714285714

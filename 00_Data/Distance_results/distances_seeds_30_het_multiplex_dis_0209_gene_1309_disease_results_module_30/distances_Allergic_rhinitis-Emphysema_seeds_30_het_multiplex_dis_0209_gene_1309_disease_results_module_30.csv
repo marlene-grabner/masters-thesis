@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Emphysema nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,20,18,0.32061403508771935
+2,disease_on_drugs,25,27,-0.13786324786324777

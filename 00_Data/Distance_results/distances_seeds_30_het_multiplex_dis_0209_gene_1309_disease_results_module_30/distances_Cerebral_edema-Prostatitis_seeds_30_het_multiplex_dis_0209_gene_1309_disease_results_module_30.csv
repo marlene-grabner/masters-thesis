@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,10,22,0.7886363636363636
+2,disease_on_drugs,16,28,0.37378246753246747

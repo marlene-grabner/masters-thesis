@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,26,-0.12633228840125388
+1,disease_on_symptoms,20,21,0.2715156794425089
+2,disease_on_drugs,28,26,-0.11289173789173801

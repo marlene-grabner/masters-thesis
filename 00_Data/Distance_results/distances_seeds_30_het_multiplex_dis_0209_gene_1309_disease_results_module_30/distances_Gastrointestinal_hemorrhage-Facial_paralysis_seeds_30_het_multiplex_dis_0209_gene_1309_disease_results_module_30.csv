@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,22,-0.017857142857142794
+1,disease_on_symptoms,20,21,0.4623112659698023
+2,disease_on_drugs,27,17,0.14423648247177656

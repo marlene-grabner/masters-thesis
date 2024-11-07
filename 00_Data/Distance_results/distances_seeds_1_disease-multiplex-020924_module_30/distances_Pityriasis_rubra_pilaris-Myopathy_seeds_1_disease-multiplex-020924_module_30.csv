@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Myopathy nodes,sAB
+0,disease_on_genes,28,18,0.5410628019323671
+1,disease_on_symptoms,23,21,1.1923113118765294
+2,disease_on_drugs,26,6,0.13862179487179493

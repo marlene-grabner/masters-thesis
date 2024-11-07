@@ -1,0 +1,4 @@
+,Layer,Hemorrhagic_disease nodes,Glaucoma nodes,sAB
+0,disease_on_genes,24,30,0.26435185185185195
+1,disease_on_symptoms,19,14,1.0218728639781274
+2,disease_on_drugs,19,30,0.7389545291800932

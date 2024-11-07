@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.25
+1,disease_on_symptoms,14,21,2.7023809523809526
+2,disease_on_drugs,27,17,0.7383640324816794

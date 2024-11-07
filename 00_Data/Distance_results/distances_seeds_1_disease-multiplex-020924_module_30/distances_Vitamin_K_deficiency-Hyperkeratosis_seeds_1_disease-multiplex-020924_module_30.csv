@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,25,26,0.09645550527903457
+1,disease_on_symptoms,23,21,1.6412572934312069
+2,disease_on_drugs,20,23,0.2755813953488371

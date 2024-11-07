@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.036725067385444676
+1,disease_on_symptoms,25,20,0.13777777777777755
+2,disease_on_drugs,24,28,0.1314102564102566

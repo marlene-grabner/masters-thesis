@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,15,13,0.3769230769230769
+2,disease_on_drugs,28,19,0.10674292113261874

@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,0.11873638344226567
+1,disease_on_symptoms,18,14,1.089781746031746
+2,disease_on_drugs,24,26,0.4189743589743591

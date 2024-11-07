@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,26,30,0.08653846153846168
+1,disease_on_symptoms,21,20,0.45598141695702665
+2,disease_on_drugs,24,28,0.21085164835164827

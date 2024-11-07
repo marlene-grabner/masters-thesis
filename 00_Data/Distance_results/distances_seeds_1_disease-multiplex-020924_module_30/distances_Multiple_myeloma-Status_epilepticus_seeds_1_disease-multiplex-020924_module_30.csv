@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,29,0.27366771159874625
+1,disease_on_symptoms,21,17,1.5980392156862746
+2,disease_on_drugs,25,30,1.3599999999999999

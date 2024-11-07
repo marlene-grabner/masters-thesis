@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,26,28,-0.1121967654986522
+1,disease_on_symptoms,25,19,0.13751196172248825
+2,disease_on_drugs,24,26,-0.061666666666666536

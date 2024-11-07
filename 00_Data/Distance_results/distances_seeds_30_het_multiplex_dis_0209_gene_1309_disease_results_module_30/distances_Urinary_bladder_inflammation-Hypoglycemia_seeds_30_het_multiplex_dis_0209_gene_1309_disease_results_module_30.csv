@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,16,19,-0.13256578947368425
+2,disease_on_drugs,29,27,-0.11058657179346842

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,26,30,0.125
+1,disease_on_symptoms,17,20,0.6866454689984103
+2,disease_on_drugs,25,28,0.39812668463611844

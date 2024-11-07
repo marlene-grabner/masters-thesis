@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,27,30,0.15857699805068237
+1,disease_on_symptoms,19,15,0.6830753353973167
+2,disease_on_drugs,27,23,0.8182608695652174

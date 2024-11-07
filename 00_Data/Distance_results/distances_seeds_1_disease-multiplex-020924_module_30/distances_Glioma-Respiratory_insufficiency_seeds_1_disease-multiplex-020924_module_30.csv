@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,22,25,0.42663442940038676
+1,disease_on_symptoms,24,20,2.0496212121212123
+2,disease_on_drugs,20,14,1.0149159663865546

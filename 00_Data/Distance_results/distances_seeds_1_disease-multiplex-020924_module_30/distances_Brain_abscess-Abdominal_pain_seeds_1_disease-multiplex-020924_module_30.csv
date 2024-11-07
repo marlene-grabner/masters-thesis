@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,-0.0021442495126704486
+1,disease_on_symptoms,21,24,0.3490079365079366
+2,disease_on_drugs,23,24,0.08321769966080783

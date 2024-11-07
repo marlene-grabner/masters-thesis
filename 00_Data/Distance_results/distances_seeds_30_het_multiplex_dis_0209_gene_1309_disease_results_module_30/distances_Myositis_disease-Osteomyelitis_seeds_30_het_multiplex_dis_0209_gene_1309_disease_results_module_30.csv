@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,18,22,-0.6313131313131313
+2,disease_on_drugs,26,28,-0.34071021571021576

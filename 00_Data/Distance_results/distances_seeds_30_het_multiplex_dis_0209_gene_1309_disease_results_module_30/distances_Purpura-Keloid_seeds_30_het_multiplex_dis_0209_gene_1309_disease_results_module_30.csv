@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,0.08148148148148149
+1,disease_on_symptoms,17,17,1.2352941176470589
+2,disease_on_drugs,24,22,0.2245553359683794

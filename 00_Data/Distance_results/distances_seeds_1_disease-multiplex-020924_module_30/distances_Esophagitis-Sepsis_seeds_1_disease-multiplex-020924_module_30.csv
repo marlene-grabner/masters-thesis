@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Sepsis nodes,sAB
+0,disease_on_genes,24,22,0.17621870882740454
+1,disease_on_symptoms,23,23,2.1956521739130435
+2,disease_on_drugs,20,17,0.5377980922098569

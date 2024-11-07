@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,-0.18251563251563252
+1,disease_on_symptoms,22,20,0.5515151515151515
+2,disease_on_drugs,26,27,0.09433962264150941

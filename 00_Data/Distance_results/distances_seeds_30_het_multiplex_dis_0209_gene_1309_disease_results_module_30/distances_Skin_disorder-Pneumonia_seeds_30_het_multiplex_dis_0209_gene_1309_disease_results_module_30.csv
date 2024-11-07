@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Pneumonia nodes,sAB
+0,disease_on_genes,25,30,-0.2909090909090909
+1,disease_on_symptoms,19,23,-0.49280810722458335
+2,disease_on_drugs,23,29,-0.36495213931495785

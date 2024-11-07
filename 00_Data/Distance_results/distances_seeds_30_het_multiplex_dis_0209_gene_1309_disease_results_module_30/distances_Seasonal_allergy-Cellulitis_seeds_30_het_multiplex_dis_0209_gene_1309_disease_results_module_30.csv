@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,29,30,-0.05084745762711862
+1,disease_on_symptoms,18,20,0.17631578947368398
+2,disease_on_drugs,29,26,-0.04088497709187355

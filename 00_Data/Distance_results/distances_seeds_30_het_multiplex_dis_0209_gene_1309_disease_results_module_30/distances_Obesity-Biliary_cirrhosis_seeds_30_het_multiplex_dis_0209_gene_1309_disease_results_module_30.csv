@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,-0.11252217384292873
+1,disease_on_symptoms,18,22,1.233838383838384
+2,disease_on_drugs,25,25,0.15999999999999992

@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,23,30,-0.2974842767295597
+1,disease_on_symptoms,17,22,0.19364459070341433
+2,disease_on_drugs,22,30,-0.18811188811188817

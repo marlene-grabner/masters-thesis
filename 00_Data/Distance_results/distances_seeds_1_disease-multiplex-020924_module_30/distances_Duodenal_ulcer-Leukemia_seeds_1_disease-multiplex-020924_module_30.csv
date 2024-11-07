@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,18,0.26863354037267095
+1,disease_on_symptoms,17,27,1.242820360467419
+2,disease_on_drugs,28,17,1.0895424836601304

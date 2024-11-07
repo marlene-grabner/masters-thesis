@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,17,0.10784313725490202
+1,disease_on_symptoms,25,22,1.4557446808510637
+2,disease_on_drugs,24,15,0.2070512820512822

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Vasculitis nodes,sAB
+0,disease_on_genes,26,24,0.2845512820512819
+1,disease_on_symptoms,20,19,1.4637314439946019
+2,disease_on_drugs,20,20,0.7

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Blepharitis nodes,sAB
+0,disease_on_genes,21,20,0.2682636469221835
+1,disease_on_symptoms,20,27,1.4142237982663513
+2,disease_on_drugs,19,19,0.8684210526315788

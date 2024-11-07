@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.24999999999999978
+1,disease_on_symptoms,15,14,0.7802134646962231
+2,disease_on_drugs,23,26,0.6529076513548564

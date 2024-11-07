@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Erysipelas nodes,sAB
+0,disease_on_genes,23,30,0.09433962264150941
+1,disease_on_symptoms,20,18,0.7609649122807021
+2,disease_on_drugs,20,29,0.39125615763546784

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.1578947368421053
+1,disease_on_symptoms,18,13,1.7552384891094568
+2,disease_on_drugs,24,19,0.4368880048959609

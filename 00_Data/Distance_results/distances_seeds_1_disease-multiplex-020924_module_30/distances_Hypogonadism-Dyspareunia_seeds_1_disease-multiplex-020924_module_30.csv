@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,-0.39622641509433965
+1,disease_on_symptoms,12,17,-0.22734956051386068
+2,disease_on_drugs,30,23,-0.4026387749521466

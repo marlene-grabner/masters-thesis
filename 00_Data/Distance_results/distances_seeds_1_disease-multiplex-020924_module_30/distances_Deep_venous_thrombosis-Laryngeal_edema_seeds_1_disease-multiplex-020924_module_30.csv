@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,28,30,0.1890394088669951
+1,disease_on_symptoms,14,20,1.0432773109243696
+2,disease_on_drugs,24,28,0.7348901098901099

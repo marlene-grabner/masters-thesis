@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,-0.3330015082956259
+1,disease_on_symptoms,28,22,-0.21863636363636374
+2,disease_on_drugs,23,24,-0.14762565525747762

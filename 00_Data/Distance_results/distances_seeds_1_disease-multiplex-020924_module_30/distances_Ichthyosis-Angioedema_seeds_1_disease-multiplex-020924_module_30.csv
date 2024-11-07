@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Angioedema nodes,sAB
+0,disease_on_genes,27,29,0.07204184704184691
+1,disease_on_symptoms,17,17,0.23529411764705888
+2,disease_on_drugs,24,25,0.20408163265306123

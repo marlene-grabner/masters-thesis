@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,-0.07851851851851865
+1,disease_on_symptoms,19,27,0.4090600898381218
+2,disease_on_drugs,24,26,0.08153846153846178

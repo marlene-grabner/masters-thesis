@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,22,24,0.21434453227931471
+1,disease_on_symptoms,19,19,1.289473684210526
+2,disease_on_drugs,19,20,0.5647098515519566

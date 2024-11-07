@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,0.2299642218246869
+1,disease_on_symptoms,17,25,1.7613445378151262
+2,disease_on_drugs,27,8,0.6571428571428573

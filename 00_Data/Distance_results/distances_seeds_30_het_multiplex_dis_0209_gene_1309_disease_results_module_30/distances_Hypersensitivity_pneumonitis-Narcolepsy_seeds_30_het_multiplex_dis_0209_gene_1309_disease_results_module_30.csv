@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,-0.09999999999999998
+1,disease_on_symptoms,20,20,1.475
+2,disease_on_drugs,25,21,-0.042732919254658164

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,29,25,0.31845044458902616
+1,disease_on_symptoms,17,20,1.822813990461049
+2,disease_on_drugs,30,21,0.7366946778711485

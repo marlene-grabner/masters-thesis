@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,23,30,0.06331692644243914
+1,disease_on_symptoms,20,17,0.6243243243243242
+2,disease_on_drugs,19,26,0.5987179487179488

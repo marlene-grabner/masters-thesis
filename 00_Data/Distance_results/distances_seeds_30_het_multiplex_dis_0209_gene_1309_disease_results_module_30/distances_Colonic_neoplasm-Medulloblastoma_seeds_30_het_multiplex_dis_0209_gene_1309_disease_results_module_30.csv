@@ -1,0 +1,4 @@
+,Layer,Colonic_neoplasm nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.40263157894736834
+1,disease_on_symptoms,19,22,-0.7616991480919595
+2,disease_on_drugs,29,26,-0.34870991077887636

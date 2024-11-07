@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,20,27,0.2515957446808512
+1,disease_on_symptoms,24,14,1.0036027568922308
+2,disease_on_drugs,18,13,0.37724014336917566

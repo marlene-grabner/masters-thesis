@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Anorexia nodes,sAB
+0,disease_on_genes,28,29,-0.12250453720508159
+1,disease_on_symptoms,16,13,0.26375994694960214
+2,disease_on_drugs,23,28,-0.13835099257094163

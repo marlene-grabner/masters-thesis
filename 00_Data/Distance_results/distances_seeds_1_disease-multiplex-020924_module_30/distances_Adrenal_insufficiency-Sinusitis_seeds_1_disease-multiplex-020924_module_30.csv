@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Sinusitis nodes,sAB
+0,disease_on_genes,17,29,0.19380015874415735
+1,disease_on_symptoms,21,21,0.26190476190476186
+2,disease_on_drugs,14,28,0.25595238095238093

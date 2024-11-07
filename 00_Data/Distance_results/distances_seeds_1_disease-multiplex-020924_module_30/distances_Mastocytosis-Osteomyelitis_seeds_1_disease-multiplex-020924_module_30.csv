@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,18,25,0.2145478036175712
+1,disease_on_symptoms,28,23,0.29863902082572147
+2,disease_on_drugs,17,23,0.09769820971867005

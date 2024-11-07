@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,21,18,-0.32539682539682535
+2,disease_on_drugs,29,26,-0.18340969375452154

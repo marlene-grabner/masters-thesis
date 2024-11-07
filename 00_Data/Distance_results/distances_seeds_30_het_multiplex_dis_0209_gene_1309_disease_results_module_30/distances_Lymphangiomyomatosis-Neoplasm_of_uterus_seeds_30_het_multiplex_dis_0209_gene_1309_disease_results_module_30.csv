@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,26,30,-0.23351648351648346
+1,disease_on_symptoms,17,18,0.05905695611577966
+2,disease_on_drugs,24,26,-0.26198717948717953

@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,28,30,0.03563218390804601
+1,disease_on_symptoms,18,18,-0.11111111111111094
+2,disease_on_drugs,23,24,0.082254085723096

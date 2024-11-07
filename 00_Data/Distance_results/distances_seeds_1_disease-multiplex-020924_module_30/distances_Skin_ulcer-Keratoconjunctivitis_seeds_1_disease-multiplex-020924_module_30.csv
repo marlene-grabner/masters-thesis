@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.12062146892655368
+1,disease_on_symptoms,19,25,0.2580861244019139
+2,disease_on_drugs,22,27,0.37507730364873226

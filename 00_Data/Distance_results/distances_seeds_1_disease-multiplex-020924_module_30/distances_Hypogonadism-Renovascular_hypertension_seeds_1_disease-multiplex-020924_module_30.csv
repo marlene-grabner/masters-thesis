@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.05238095238095242
+1,disease_on_symptoms,12,22,0.9139928698752229
+2,disease_on_drugs,30,20,0.6583333333333334

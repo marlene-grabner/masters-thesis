@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,16,19,0.1338345864661652
+2,disease_on_drugs,29,29,0.15517241379310343

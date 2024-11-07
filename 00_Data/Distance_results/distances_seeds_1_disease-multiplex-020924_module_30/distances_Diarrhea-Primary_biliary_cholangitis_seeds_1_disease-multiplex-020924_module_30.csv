@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,27,26,0.20893135515777028
+1,disease_on_symptoms,19,17,0.07997936016511864
+2,disease_on_drugs,26,18,0.20046620046620056

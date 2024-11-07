@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,18,18,0.6666666666666667
+1,disease_on_symptoms,21,28,0.9022108843537415
+2,disease_on_drugs,6,17,0.33972719522591643

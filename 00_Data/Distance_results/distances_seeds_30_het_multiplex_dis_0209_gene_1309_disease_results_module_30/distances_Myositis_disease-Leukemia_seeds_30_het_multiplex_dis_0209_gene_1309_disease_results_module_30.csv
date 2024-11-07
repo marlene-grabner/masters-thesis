@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,21,0.07356532356532375
+2,disease_on_drugs,26,30,-0.1217948717948718

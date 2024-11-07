@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Glaucoma nodes,sAB
+0,disease_on_genes,23,30,-0.07614164615805308
+1,disease_on_symptoms,19,18,-0.27726410621147446
+2,disease_on_drugs,22,28,-0.03590909090909089

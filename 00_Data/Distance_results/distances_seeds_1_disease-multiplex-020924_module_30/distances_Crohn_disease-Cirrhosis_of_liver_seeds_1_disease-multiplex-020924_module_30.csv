@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,25,30,0.18240740740740735
+1,disease_on_symptoms,20,14,1.107563025210084
+2,disease_on_drugs,21,26,0.5501714597459275

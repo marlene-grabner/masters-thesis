@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,-0.5313303717559036
+1,disease_on_symptoms,28,26,-0.46118233618233617
+2,disease_on_drugs,23,20,-0.4868554095045502

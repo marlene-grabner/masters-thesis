@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.2852201257861635
+1,disease_on_symptoms,14,25,0.040879120879121045
+2,disease_on_drugs,24,21,0.42361111111111094

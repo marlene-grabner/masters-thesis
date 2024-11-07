@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,0.3081818181818181
+1,disease_on_symptoms,24,23,1.5753546099290783
+2,disease_on_drugs,20,30,1.1999999999999997

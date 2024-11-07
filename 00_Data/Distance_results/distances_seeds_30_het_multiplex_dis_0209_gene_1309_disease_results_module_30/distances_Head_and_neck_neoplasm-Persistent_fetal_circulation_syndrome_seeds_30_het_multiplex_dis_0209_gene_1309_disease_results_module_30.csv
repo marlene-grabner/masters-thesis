@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,24,-0.0351851851851851
+1,disease_on_symptoms,22,22,0.5227272727272729
+2,disease_on_drugs,27,21,-0.05654761904761907

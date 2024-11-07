@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,25,0.190700808625337
+1,disease_on_symptoms,21,26,0.7174616163977865
+2,disease_on_drugs,28,21,0.392857142857143

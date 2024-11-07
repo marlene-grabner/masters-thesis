@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,27,30,-0.12378167641325544
+1,disease_on_symptoms,21,18,0.6974969474969475
+2,disease_on_drugs,27,30,0.2618908382066276

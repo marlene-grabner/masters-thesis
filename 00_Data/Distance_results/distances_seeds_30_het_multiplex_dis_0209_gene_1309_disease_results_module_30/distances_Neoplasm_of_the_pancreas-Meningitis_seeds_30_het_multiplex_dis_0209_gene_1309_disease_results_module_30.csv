@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_pancreas nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.0847457627118644
+1,disease_on_symptoms,20,17,0.4294515103338634
+2,disease_on_drugs,30,27,0.24142300194931776

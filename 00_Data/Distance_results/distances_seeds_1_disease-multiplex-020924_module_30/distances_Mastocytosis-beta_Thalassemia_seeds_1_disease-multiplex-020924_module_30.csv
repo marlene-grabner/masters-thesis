@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,18,22,0.5540404040404039
+1,disease_on_symptoms,28,21,2.5416666666666665
+2,disease_on_drugs,17,6,0.6005967604433076

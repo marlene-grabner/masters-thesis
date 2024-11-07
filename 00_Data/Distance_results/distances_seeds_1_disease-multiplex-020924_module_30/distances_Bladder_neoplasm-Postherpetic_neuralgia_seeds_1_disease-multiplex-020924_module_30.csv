@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,26,30,0.1440476190476192
+1,disease_on_symptoms,20,15,1.1416666666666666
+2,disease_on_drugs,25,29,1.0753512132822478

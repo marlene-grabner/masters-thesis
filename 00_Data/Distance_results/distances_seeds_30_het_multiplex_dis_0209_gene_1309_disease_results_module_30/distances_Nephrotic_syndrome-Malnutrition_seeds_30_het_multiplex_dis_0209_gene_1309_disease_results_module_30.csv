@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,15,14,0.2729064039408866
+2,disease_on_drugs,28,29,-0.10532797511018921

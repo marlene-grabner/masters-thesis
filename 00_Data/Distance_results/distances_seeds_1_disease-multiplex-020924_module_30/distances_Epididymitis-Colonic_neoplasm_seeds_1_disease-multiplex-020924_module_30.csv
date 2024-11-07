@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,0.23699590882524846
+1,disease_on_symptoms,23,19,0.5615669608804619
+2,disease_on_drugs,27,29,1.0522486772486772

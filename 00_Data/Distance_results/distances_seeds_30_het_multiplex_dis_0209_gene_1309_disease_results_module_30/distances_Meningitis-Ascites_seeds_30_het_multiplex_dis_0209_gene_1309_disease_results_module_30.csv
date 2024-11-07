@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,-0.033615819209039444
+1,disease_on_symptoms,17,22,0.3300767859591389
+2,disease_on_drugs,27,27,0.07407407407407418

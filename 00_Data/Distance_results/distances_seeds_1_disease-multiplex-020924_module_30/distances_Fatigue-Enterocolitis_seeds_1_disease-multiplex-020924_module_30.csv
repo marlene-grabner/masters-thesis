@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,0.018491641133150605
+1,disease_on_symptoms,21,21,1.0238095238095237
+2,disease_on_drugs,26,24,0.12070512820512813

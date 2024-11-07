@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Sepsis nodes,sAB
+0,disease_on_genes,27,22,0.26882773311344743
+1,disease_on_symptoms,16,23,1.2984253065774805
+2,disease_on_drugs,18,17,0.7983193277310925

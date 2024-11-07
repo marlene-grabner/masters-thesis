@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,-0.019230769230769162
+1,disease_on_symptoms,17,22,0.6073975044563282
+2,disease_on_drugs,24,27,0.46963507625272327

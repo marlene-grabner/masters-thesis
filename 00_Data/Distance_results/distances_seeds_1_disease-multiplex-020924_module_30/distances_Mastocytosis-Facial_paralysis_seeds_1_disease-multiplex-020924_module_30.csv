@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,18,14,0.2624007936507935
+1,disease_on_symptoms,28,23,1.4277950310559007
+2,disease_on_drugs,17,14,0.19924098671726753

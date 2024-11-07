@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,24,20,0.29053030303030325
+1,disease_on_symptoms,18,22,0.2954545454545454
+2,disease_on_drugs,18,15,0.7484848484848483

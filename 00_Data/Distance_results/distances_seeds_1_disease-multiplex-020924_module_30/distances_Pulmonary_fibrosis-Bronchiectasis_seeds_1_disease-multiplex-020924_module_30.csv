@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,24,30,0.09212962962962945
+1,disease_on_symptoms,22,15,-0.02158067158067145
+2,disease_on_drugs,24,26,0.041538461538461746

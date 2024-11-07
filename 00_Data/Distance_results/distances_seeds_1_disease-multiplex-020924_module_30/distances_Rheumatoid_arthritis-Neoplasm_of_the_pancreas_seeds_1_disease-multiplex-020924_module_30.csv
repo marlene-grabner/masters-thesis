@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,30,0.17251461988304095
+1,disease_on_symptoms,15,20,1.0976190476190475
+2,disease_on_drugs,25,30,0.5072727272727273

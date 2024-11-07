@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,18,30,0.2055555555555555
+1,disease_on_symptoms,28,17,0.11907096171802056
+2,disease_on_drugs,17,28,0.1276844070961718

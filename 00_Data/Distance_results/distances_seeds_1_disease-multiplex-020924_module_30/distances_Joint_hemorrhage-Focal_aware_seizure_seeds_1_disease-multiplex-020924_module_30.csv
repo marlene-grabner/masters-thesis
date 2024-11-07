@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.4245762711864407
+1,disease_on_symptoms,13,15,2.015018315018315
+2,disease_on_drugs,18,29,0.9592198581560281

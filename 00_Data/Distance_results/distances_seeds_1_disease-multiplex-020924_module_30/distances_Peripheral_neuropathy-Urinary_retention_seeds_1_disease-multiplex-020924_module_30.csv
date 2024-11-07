@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.1093768905021173
+1,disease_on_symptoms,20,18,1.2137426900584798
+2,disease_on_drugs,24,19,0.41426968584251345

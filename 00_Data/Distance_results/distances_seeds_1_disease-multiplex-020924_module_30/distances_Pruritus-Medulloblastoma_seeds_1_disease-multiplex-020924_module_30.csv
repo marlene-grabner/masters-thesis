@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,26,26,0.15568627450980377
+1,disease_on_symptoms,19,19,0.9473684210526316
+2,disease_on_drugs,24,24,0.8124999999999998

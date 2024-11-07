@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,28,26,0.4285205535205534
+1,disease_on_symptoms,15,17,2.5764705882352943
+2,disease_on_drugs,20,18,1.360964912280702

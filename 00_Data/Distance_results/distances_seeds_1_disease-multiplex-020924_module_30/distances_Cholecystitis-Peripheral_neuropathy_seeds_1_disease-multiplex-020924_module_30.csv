@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,25,30,0.3496969696969696
+1,disease_on_symptoms,19,20,1.6144399460188934
+2,disease_on_drugs,13,24,1.0279799029799028

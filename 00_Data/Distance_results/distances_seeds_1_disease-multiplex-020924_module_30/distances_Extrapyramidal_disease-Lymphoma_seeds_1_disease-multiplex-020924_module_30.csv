@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Lymphoma nodes,sAB
+0,disease_on_genes,14,26,0.44505494505494503
+1,disease_on_symptoms,25,21,2.269192546583851
+2,disease_on_drugs,10,25,1.3385714285714283

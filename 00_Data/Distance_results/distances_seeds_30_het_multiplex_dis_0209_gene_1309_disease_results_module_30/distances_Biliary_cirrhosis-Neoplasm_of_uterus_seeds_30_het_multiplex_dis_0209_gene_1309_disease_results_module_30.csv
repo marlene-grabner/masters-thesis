@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,22,18,0.5366161616161615
+2,disease_on_drugs,25,26,0.018355957767722364

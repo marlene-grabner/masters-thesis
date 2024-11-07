@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,29,30,0.33809662965127596
+1,disease_on_symptoms,15,15,0.2999999999999998
+2,disease_on_drugs,29,21,0.8389490968801312

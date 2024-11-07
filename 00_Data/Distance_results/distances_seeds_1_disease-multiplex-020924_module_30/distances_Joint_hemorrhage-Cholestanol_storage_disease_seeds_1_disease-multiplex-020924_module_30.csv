@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.3999999999999999
+1,disease_on_symptoms,13,17,1.320060331825038
+2,disease_on_drugs,18,25,0.633875968992248

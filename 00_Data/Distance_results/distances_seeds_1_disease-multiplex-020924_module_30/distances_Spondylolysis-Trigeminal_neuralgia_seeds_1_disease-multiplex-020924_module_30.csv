@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,28,-0.545827320827321
+1,disease_on_symptoms,19,19,-0.7368421052631579
+2,disease_on_drugs,20,26,-0.5442307692307693

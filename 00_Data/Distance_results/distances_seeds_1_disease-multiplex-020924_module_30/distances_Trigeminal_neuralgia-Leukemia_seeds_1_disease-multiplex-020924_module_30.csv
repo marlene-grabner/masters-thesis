@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Leukemia nodes,sAB
+0,disease_on_genes,28,18,0.2725155279503104
+1,disease_on_symptoms,19,27,1.2596830239850834
+2,disease_on_drugs,26,17,1.0320688203725137

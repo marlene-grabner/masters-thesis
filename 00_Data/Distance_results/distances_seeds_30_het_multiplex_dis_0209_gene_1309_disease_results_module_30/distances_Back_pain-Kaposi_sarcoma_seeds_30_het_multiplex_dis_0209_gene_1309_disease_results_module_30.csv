@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,15,16,-0.10080645161290325
+2,disease_on_drugs,23,28,-0.12282304226038243

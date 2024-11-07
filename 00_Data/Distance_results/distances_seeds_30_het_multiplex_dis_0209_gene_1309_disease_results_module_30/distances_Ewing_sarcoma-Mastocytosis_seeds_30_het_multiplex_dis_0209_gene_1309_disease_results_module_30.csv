@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,24,0.024599473935915883
+2,disease_on_drugs,24,20,0.05265151515151523

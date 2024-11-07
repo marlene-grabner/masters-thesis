@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,26,29,0.032167832167832255
+1,disease_on_symptoms,28,16,0.7784090909090908
+2,disease_on_drugs,23,29,0.46101949025487254

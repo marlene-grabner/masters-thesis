@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.09538784067085948
+1,disease_on_symptoms,19,15,0.6659442724458202
+2,disease_on_drugs,23,26,0.30714626987918914

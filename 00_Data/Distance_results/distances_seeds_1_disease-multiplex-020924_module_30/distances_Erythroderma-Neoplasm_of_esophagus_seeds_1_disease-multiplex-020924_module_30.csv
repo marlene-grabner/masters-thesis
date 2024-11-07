@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,30,21,0.1264705882352941
+1,disease_on_symptoms,19,24,0.6914269685842513
+2,disease_on_drugs,28,20,0.5791666666666668

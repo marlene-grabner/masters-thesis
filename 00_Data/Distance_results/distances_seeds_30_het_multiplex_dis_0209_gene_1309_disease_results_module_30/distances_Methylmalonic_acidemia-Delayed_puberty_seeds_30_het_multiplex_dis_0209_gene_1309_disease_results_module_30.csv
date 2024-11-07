@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,25,30,-0.1454545454545455
+1,disease_on_symptoms,17,16,0.29211229946524053
+2,disease_on_drugs,21,29,-0.06735632183908047

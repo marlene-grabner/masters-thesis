@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.07272727272727275
+1,disease_on_symptoms,15,20,0.6464285714285716
+2,disease_on_drugs,23,21,-0.10798983625070568

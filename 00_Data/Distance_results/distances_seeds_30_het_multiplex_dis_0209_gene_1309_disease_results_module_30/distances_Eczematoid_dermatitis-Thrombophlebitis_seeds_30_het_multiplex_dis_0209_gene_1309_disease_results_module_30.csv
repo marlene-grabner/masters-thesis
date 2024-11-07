@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,25,18,0.5158139534883721
+2,disease_on_drugs,30,29,0.18524254821741648

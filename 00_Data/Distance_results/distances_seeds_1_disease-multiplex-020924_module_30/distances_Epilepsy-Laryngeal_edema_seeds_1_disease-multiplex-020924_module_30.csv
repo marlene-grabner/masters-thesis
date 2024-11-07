@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,29,30,0.27118644067796605
+1,disease_on_symptoms,18,20,1.1482456140350878
+2,disease_on_drugs,30,28,0.9125205254515598

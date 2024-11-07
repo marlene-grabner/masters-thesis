@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.16309523809523818
+1,disease_on_symptoms,19,26,1.0141925326135852
+2,disease_on_drugs,22,28,0.8863636363636362

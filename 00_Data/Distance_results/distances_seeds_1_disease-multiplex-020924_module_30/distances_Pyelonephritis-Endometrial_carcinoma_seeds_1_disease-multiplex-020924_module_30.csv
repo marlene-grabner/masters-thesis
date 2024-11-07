@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,23,23,0.34782608695652173
+1,disease_on_symptoms,21,21,0.8095238095238098
+2,disease_on_drugs,19,21,1.2035714285714285

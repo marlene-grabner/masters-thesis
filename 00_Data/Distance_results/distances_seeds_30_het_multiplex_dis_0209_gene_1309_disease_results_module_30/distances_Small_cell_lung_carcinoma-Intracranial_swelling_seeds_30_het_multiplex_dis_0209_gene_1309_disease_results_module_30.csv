@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,19,11,-0.24720893141945766
+2,disease_on_drugs,30,21,-0.2738095238095237

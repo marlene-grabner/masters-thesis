@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,29,23,0.34615384615384626
+1,disease_on_symptoms,25,25,1.3599999999999999
+2,disease_on_drugs,28,21,1.3673469387755102

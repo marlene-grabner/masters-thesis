@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus_type_1 nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,13,23,0.46794871794871784
+1,disease_on_symptoms,25,22,3.855512572533849
+2,disease_on_drugs,8,17,1.071764705882353

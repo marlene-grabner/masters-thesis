@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,29,-0.2172413793103447
+1,disease_on_symptoms,22,18,-0.08914141414141397
+2,disease_on_drugs,26,28,-0.16697191697191704

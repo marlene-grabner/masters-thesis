@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555547
+1,disease_on_symptoms,17,14,0.4619815668202767
+2,disease_on_drugs,24,26,-0.06519230769230777

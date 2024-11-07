@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,30,26,-0.014285714285714235
+1,disease_on_symptoms,19,17,0.36455108359133126
+2,disease_on_drugs,20,24,-0.04886363636363655

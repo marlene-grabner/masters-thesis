@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,15,20,0.4559523809523809
+1,disease_on_symptoms,25,27,2.0336182336182334
+2,disease_on_drugs,10,19,0.08874773139745917

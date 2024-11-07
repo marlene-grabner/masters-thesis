@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,0.03846153846153855
+1,disease_on_symptoms,16,23,0.3230211817168338
+2,disease_on_drugs,25,26,0.17791855203619922

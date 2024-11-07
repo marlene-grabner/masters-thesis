@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,26,29,0.3098143236074269
+1,disease_on_symptoms,21,16,1.3911679536679538
+2,disease_on_drugs,26,22,0.6474358974358976

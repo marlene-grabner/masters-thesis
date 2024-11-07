@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Myopathy nodes,sAB
+0,disease_on_genes,20,18,0.4428362573099416
+1,disease_on_symptoms,24,21,0.9061507936507935
+2,disease_on_drugs,18,6,0.2777777777777779

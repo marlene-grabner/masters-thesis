@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,19,0.23684210526315774
+2,disease_on_drugs,30,24,0.09398148148148167

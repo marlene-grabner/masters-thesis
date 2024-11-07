@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Epididymitis nodes,sAB
+0,disease_on_genes,27,29,-0.3220899470899472
+1,disease_on_symptoms,21,23,-0.14398644833427454
+2,disease_on_drugs,27,26,-0.34040208568510444

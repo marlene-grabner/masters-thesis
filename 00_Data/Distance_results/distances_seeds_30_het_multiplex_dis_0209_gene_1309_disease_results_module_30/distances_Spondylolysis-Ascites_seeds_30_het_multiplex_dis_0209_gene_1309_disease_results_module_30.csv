@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Ascites nodes,sAB
+0,disease_on_genes,28,30,0.03505747126436787
+1,disease_on_symptoms,17,22,-0.010798025503907738
+2,disease_on_drugs,19,27,-0.08865158064242729

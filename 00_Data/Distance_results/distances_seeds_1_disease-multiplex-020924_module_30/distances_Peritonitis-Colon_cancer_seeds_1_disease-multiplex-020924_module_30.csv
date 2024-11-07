@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,30,26,0.32719780219780215
+1,disease_on_symptoms,17,21,1.1293675364882794
+2,disease_on_drugs,28,24,1.0604395604395607

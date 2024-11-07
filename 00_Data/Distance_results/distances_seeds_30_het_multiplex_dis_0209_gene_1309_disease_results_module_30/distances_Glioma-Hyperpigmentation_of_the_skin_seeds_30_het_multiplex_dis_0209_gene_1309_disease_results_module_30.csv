@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,22,30,0.03846153846153855
+1,disease_on_symptoms,21,17,0.5272003538257408
+2,disease_on_drugs,21,28,0.2806122448979591

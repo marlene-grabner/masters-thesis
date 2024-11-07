@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,15,13,1.1014652014652015
+2,disease_on_drugs,26,23,0.1820353559483996

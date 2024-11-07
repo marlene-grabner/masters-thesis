@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,0.021428571428571352
+1,disease_on_symptoms,21,17,0.3701164676396873
+2,disease_on_drugs,24,27,0.07843137254901955

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,28,0.08678160919540234
+1,disease_on_symptoms,20,17,0.19360095389507137
+2,disease_on_drugs,30,19,-0.01299677765843188

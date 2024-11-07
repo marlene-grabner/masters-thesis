@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1428571428571428
+1,disease_on_symptoms,19,12,0.8102009054895305
+2,disease_on_drugs,25,18,0.15971576227390183

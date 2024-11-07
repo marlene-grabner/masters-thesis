@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.17512531328320802
+1,disease_on_symptoms,19,15,1.7939112487100102
+2,disease_on_drugs,26,29,0.9454545454545455

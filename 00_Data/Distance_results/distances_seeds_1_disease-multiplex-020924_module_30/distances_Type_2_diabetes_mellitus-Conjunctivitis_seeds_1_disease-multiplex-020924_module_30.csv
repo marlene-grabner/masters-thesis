@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,16,27,0.11956287683031852
+1,disease_on_symptoms,21,27,2.747685185185185
+2,disease_on_drugs,15,26,0.6932457786116324

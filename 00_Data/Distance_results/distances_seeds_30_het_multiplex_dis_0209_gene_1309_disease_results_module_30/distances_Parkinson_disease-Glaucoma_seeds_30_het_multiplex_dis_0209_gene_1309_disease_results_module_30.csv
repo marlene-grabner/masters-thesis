@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Glaucoma nodes,sAB
+0,disease_on_genes,23,30,-0.07327044025157226
+1,disease_on_symptoms,23,18,0.1623365146694944
+2,disease_on_drugs,22,28,0.04954545454545456

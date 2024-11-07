@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,21,15,-0.873809523809524
+2,disease_on_drugs,29,24,-0.18942474517458252

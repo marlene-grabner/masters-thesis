@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,26,0.0714285714285714
+1,disease_on_symptoms,11,21,0.3445616883116882
+2,disease_on_drugs,27,26,0.337405257216578

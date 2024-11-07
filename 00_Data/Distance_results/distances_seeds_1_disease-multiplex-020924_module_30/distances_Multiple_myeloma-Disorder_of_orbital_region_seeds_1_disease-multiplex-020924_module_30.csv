@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,17,-0.001367989056087593
+1,disease_on_symptoms,21,27,0.8611111111111112
+2,disease_on_drugs,25,16,0.16579268292682925

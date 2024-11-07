@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.17183908045977003
+1,disease_on_symptoms,17,18,-0.4311391223155929
+2,disease_on_drugs,26,27,-0.19234800838574428

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,25,28,0.0
+1,disease_on_symptoms,19,25,0.6444497607655502
+2,disease_on_drugs,25,24,0.019455782312925107

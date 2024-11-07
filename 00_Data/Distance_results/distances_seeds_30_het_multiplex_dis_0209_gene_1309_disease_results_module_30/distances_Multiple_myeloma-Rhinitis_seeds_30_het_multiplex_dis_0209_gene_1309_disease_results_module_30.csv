@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.08928571428571419
+1,disease_on_symptoms,21,12,0.1883116883116882
+2,disease_on_drugs,25,23,0.39115942028985495

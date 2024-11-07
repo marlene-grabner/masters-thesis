@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,22,29,0.05659536541889465
+1,disease_on_symptoms,22,15,0.8470106470106473
+2,disease_on_drugs,14,29,0.4277408637873754

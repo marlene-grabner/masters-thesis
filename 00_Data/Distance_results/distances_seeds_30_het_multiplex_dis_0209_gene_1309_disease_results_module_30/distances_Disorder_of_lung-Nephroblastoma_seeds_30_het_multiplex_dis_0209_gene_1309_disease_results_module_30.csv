@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,-0.05295566502463045
+1,disease_on_symptoms,18,20,0.6378654970760231
+2,disease_on_drugs,24,24,-0.02083333333333348

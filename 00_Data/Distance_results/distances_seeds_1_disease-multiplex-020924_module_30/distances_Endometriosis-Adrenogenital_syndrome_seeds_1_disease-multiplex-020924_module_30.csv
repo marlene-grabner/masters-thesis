@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,12,7,-0.41102756892230596
+2,disease_on_drugs,27,22,-0.09554730983302395

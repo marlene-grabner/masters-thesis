@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,26,28,0.2962454212454211
+1,disease_on_symptoms,20,24,1.3310606060606063
+2,disease_on_drugs,27,28,0.5454304954304954

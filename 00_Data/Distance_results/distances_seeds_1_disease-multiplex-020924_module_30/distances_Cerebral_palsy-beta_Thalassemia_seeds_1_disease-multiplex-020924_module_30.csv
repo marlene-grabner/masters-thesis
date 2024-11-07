@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,22,0.4367312581598297
+1,disease_on_symptoms,16,21,3.072313384813385
+2,disease_on_drugs,18,6,1.166666666666667

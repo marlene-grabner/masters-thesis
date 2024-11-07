@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.08928571428571419
+1,disease_on_symptoms,17,17,1.0294117647058822
+2,disease_on_drugs,23,27,-0.057294685990338046

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Uveitis nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,17,20,0.5443561208267091
+2,disease_on_drugs,25,23,-0.10557971014492762

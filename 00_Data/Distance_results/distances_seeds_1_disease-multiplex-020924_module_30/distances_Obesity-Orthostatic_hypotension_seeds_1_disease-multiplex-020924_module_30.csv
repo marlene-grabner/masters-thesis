@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,26,30,0.24981684981684982
+1,disease_on_symptoms,20,12,0.8395833333333333
+2,disease_on_drugs,27,17,0.25173301643889867

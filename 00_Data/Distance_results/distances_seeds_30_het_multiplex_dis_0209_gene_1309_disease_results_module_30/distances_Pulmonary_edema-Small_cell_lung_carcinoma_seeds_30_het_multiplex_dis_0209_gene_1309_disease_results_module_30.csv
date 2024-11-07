@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,11,19,-0.022966507177033524
+2,disease_on_drugs,27,30,0.0014619883040936088

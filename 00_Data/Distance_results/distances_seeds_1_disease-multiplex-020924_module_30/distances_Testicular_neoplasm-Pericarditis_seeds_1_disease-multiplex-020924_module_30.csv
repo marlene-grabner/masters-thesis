@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Pericarditis nodes,sAB
+0,disease_on_genes,25,25,0.11999999999999988
+1,disease_on_symptoms,25,22,1.5905222437137332
+2,disease_on_drugs,23,25,0.832355072463768

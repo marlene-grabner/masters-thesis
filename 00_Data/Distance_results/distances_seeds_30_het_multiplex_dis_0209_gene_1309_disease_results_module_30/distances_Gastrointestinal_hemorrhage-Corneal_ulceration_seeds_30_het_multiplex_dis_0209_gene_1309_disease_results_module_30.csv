@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,28,28,-0.03571428571428581
+1,disease_on_symptoms,20,15,0.15476190476190466
+2,disease_on_drugs,27,23,0.03845410628019308

@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,29,30,0.20250340931229283
+1,disease_on_symptoms,15,15,0.3333333333333335
+2,disease_on_drugs,29,26,0.28975162768266216

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,27,0.11495457721872815
+1,disease_on_symptoms,17,19,0.8953388372893014
+2,disease_on_drugs,23,26,0.4692341819671011

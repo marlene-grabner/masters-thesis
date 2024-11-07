@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,19,12,0.19050650820599913
+2,disease_on_drugs,29,18,0.4293429526371566

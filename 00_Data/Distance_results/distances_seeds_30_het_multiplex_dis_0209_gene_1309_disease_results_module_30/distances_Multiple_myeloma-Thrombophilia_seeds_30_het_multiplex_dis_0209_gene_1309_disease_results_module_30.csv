@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,26,27,0.09433962264150941
+1,disease_on_symptoms,21,18,0.7860195360195359
+2,disease_on_drugs,25,22,0.4875628626692454

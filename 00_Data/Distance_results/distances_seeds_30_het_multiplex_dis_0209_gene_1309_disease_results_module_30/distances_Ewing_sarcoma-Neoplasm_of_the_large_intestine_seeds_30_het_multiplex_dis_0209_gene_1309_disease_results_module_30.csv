@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,17,22,-0.03301110654051831
+2,disease_on_drugs,24,29,-0.3429435046627629

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,18,24,0.07043650793650791
+1,disease_on_symptoms,28,21,0.6301020408163265
+2,disease_on_drugs,17,24,0.2516439502630319

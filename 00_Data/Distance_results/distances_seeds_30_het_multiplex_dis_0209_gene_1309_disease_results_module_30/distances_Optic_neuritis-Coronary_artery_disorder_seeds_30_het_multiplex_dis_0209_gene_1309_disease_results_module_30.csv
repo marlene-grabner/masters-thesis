@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,-0.06173913043478274
+1,disease_on_symptoms,21,19,0.8349624060150376
+2,disease_on_drugs,27,22,0.2598089740946883

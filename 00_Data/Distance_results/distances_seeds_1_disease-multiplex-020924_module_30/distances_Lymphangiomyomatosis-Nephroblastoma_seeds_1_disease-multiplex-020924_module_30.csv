@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,26,25,-0.15803921568627455
+1,disease_on_symptoms,19,25,-0.244066985645933
+2,disease_on_drugs,22,21,-0.253171247357294

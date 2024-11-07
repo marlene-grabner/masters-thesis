@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.18333333333333313
+1,disease_on_symptoms,15,23,0.480091533180778
+2,disease_on_drugs,22,17,0.4901960784313726

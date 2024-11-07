@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,0.1014814814814815
+1,disease_on_symptoms,19,17,1.0026659786721708
+2,disease_on_drugs,24,22,0.1774538866930171

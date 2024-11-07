@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,15,21,0.31507936507936507
+2,disease_on_drugs,29,25,-0.13570881226053633

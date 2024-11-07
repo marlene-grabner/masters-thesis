@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.20367231638418093
+1,disease_on_symptoms,17,27,0.7644583085759558
+2,disease_on_drugs,17,28,0.23534080298786164

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,-0.14814814814814825
+1,disease_on_symptoms,22,19,0.624080989613724
+2,disease_on_drugs,23,24,0.00036617329633048534

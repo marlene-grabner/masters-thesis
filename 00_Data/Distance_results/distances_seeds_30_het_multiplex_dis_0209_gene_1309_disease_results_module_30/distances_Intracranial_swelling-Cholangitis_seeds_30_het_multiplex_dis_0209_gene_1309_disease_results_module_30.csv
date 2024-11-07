@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,11,18,-0.08664228491814696
+2,disease_on_drugs,21,28,-0.07823129251700678

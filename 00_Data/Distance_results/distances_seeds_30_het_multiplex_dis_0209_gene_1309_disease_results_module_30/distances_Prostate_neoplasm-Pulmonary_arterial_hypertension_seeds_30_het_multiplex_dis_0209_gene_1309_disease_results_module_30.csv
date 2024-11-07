@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,21,28,0.09863945578231292
+1,disease_on_symptoms,20,17,0.49908585055643906
+2,disease_on_drugs,21,25,0.3123809523809524

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.1730769230769229
+1,disease_on_symptoms,21,15,0.7023809523809526
+2,disease_on_drugs,25,16,0.6917073170731707

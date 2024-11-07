@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,30,0.15934065934065944
+1,disease_on_symptoms,17,14,0.36717267552182165
+2,disease_on_drugs,24,24,0.4791666666666665

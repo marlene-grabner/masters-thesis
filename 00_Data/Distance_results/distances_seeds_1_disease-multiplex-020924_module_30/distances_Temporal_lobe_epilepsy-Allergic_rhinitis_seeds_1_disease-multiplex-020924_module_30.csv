@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,29,21,0.07894909688013141
+1,disease_on_symptoms,17,22,2.881461675579322
+2,disease_on_drugs,26,21,0.7315291091886835

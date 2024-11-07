@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Hereditary_antithrombin_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.0005747126436781436
+1,disease_on_symptoms,20,16,0.44027777777777777
+2,disease_on_drugs,30,23,0.03248564397046749

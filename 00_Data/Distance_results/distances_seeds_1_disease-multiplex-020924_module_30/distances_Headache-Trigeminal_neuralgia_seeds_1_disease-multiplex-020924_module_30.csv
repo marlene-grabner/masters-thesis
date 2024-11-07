@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,28,-0.07023809523809543
+1,disease_on_symptoms,25,19,-0.20052631578947366
+2,disease_on_drugs,26,26,0.038461538461538325

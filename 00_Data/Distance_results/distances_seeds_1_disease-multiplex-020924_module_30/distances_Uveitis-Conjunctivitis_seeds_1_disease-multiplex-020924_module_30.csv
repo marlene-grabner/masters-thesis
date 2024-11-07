@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,27,-0.4386939571150098
+1,disease_on_symptoms,21,27,-0.41600529100529116
+2,disease_on_drugs,27,26,-0.47207439660269845

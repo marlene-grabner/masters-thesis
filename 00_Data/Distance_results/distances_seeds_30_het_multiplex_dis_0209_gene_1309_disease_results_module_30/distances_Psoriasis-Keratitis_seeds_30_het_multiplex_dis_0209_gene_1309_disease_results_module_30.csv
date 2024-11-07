@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,17,25,-0.6563025210084035
+2,disease_on_drugs,30,29,-0.37290083771673477

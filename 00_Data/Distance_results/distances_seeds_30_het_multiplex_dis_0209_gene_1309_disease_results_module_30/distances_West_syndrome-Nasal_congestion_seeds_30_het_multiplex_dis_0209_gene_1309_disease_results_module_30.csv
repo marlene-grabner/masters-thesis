@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,13,14,-0.06725681725681709
+2,disease_on_drugs,19,25,-0.037990430622009574

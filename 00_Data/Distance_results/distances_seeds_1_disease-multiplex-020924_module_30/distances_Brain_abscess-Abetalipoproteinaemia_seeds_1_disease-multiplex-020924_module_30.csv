@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,27,17,0.16924143394731628
+1,disease_on_symptoms,21,25,0.6525465838509317
+2,disease_on_drugs,23,13,0.7199925678186547

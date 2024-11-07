@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,14,0.18873626373626373
+1,disease_on_symptoms,19,23,1.468835131306527
+2,disease_on_drugs,24,14,0.7949561403508771

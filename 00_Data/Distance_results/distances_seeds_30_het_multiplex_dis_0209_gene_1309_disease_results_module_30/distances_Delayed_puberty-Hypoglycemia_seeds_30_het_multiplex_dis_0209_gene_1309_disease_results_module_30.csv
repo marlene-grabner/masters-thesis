@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,16,19,-0.5227443609022555
+2,disease_on_drugs,29,27,-0.14383780332056206

@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,-0.2712121212121211
+1,disease_on_symptoms,25,22,-0.1877756286266925
+2,disease_on_drugs,26,25,-0.23530920060331817

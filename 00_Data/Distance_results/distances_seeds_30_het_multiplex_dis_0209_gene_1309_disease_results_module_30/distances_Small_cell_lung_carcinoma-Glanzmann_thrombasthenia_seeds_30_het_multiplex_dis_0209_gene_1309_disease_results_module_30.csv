@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,-0.01851851851851849
+1,disease_on_symptoms,19,19,0.6578947368421053
+2,disease_on_drugs,30,24,0.3726851851851851

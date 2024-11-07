@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,20,28,0.22559523809523818
+1,disease_on_symptoms,22,14,0.8827561327561328
+2,disease_on_drugs,15,28,0.7014950166112957

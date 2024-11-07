@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,24,23,-0.25531914893617025
+1,disease_on_symptoms,17,22,-0.19244481009186898
+2,disease_on_drugs,23,17,-0.3534526854219948

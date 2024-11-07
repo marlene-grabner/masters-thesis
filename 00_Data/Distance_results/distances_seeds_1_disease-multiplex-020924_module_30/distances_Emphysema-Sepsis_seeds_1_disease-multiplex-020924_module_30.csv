@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.1389277389277388
+1,disease_on_symptoms,14,23,0.9678949135470871
+2,disease_on_drugs,29,17,0.2672634271099743

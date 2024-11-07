@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,10,30,0.560111835973905
+1,disease_on_symptoms,27,18,1.9425925925925926
+2,disease_on_drugs,9,19,0.38533834586466154

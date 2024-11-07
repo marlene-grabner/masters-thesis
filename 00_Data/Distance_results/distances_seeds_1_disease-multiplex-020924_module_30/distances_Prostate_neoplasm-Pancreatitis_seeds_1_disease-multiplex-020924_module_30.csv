@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,17,30,0.24121818940342088
+1,disease_on_symptoms,21,20,0.6065911730545877
+2,disease_on_drugs,17,30,1.260325406758448

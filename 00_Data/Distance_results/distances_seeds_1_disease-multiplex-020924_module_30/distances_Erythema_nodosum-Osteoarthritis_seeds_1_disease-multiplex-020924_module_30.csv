@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,28,25,0.1696900269541779
+1,disease_on_symptoms,23,20,0.27876643073811946
+2,disease_on_drugs,28,21,0.0025510204081633514

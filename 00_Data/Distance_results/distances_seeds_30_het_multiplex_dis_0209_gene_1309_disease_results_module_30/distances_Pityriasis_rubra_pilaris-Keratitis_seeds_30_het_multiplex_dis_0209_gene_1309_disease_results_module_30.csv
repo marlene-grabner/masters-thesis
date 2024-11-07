@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,30,-0.4572124756335284
+1,disease_on_symptoms,21,25,-0.646376811594203
+2,disease_on_drugs,25,29,-0.5004086845466155

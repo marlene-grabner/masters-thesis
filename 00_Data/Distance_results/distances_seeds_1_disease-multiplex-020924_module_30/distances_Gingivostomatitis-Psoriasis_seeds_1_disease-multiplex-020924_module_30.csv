@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.03555008210180621
+1,disease_on_symptoms,23,21,0.4972708450969321
+2,disease_on_drugs,29,28,0.2809826289862587

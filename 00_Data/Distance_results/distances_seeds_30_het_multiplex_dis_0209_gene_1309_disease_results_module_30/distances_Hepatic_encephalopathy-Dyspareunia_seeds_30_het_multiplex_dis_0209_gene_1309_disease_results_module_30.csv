@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,14,20,0.33991596638655475
+2,disease_on_drugs,29,28,-0.05270719903206289

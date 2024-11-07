@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Gangrene nodes,sAB
+0,disease_on_genes,13,26,0.11538461538461542
+1,disease_on_symptoms,26,19,0.9155420602789026
+2,disease_on_drugs,9,23,0.17270531400966194

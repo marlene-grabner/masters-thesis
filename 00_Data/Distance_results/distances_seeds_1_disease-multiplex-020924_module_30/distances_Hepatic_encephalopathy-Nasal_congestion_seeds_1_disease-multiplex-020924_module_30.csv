@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,9,30,0.23632478632478615
+1,disease_on_symptoms,27,15,1.822222222222222
+2,disease_on_drugs,9,23,0.7282608695652173

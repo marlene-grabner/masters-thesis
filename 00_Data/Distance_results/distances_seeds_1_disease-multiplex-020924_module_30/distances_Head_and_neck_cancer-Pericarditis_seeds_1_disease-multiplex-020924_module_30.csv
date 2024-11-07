@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,25,0.19301994301994285
+1,disease_on_symptoms,22,22,1.022727272727273
+2,disease_on_drugs,24,25,0.6322108843537417

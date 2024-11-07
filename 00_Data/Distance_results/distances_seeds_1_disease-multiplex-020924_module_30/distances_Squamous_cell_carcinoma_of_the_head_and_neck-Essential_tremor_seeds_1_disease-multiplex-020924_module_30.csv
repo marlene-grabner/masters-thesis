@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma_of_the_head_and_neck nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,21,21,0.2142857142857144
+1,disease_on_symptoms,25,20,1.7938888888888886
+2,disease_on_drugs,21,19,0.7986842105263159

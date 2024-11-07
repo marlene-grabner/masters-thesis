@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.436946386946387
+1,disease_on_symptoms,14,19,0.8337890179995444
+2,disease_on_drugs,11,18,0.696360153256705

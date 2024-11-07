@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,-0.28651249771939435
+1,disease_on_symptoms,21,20,-0.046080139372822515
+2,disease_on_drugs,23,26,-0.1304347826086958

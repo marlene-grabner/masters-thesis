@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666665
+1,disease_on_symptoms,21,23,-0.3900809335591945
+2,disease_on_drugs,27,24,-0.3812636165577341

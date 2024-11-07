@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,-0.14727272727272733
+1,disease_on_symptoms,17,20,0.29097774244833063
+2,disease_on_drugs,26,22,0.09105477855477861

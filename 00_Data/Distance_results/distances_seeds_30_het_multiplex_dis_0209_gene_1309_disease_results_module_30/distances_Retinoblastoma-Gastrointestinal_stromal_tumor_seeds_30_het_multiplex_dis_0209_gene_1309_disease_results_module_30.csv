@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,21,19,0.3555764411027569
+2,disease_on_drugs,27,28,0.3645983645983648

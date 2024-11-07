@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.05494505494505486
+1,disease_on_symptoms,18,25,0.3116537467700258
+2,disease_on_drugs,28,25,0.0035579514824797265

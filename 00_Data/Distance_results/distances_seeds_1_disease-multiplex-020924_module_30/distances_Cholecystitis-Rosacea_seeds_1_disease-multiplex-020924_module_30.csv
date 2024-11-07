@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Rosacea nodes,sAB
+0,disease_on_genes,25,30,0.3663636363636362
+1,disease_on_symptoms,19,17,0.4657722738218093
+2,disease_on_drugs,13,27,0.4615384615384617

@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,27,28,-0.34545454545454546
+1,disease_on_symptoms,21,17,0.25740822644847405
+2,disease_on_drugs,27,28,-0.39840067340067353

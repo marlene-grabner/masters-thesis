@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,26,-0.11538461538461542
+1,disease_on_symptoms,16,19,1.0780075187969926
+2,disease_on_drugs,26,24,-0.16307692307692312

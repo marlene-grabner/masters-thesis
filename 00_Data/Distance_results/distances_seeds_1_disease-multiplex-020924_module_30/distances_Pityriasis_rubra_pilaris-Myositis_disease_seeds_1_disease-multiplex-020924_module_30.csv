@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,28,30,0.03505747126436787
+1,disease_on_symptoms,23,24,0.48596978106691346
+2,disease_on_drugs,26,28,0.020400895400895402

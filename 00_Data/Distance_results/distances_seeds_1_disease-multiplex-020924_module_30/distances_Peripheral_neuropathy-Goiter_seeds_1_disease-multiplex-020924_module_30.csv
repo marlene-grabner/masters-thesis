@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3564102564102565
+1,disease_on_symptoms,20,15,1.3476190476190477
+2,disease_on_drugs,24,16,0.9833333333333334

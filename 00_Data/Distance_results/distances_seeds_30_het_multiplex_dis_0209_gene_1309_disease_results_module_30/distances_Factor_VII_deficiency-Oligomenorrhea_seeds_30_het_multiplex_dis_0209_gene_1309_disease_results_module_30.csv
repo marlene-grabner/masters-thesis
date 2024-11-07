@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,29,0.21021303258145374
+1,disease_on_symptoms,19,11,1.3770334928229666
+2,disease_on_drugs,25,24,0.4476530612244898

@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,20,0.20643912737508785
+1,disease_on_symptoms,21,23,0.5405608883869752
+2,disease_on_drugs,28,17,0.9255135387488327

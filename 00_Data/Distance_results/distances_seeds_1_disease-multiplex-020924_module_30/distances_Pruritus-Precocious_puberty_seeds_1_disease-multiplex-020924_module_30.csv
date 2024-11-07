@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,0.12484848484848499
+1,disease_on_symptoms,19,14,0.8689906584643428
+2,disease_on_drugs,24,24,1.0208333333333335

@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,17,11,0.8017570664629488
+2,disease_on_drugs,26,24,0.13961538461538447

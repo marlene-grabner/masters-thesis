@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Strabismus nodes,sAB
+0,disease_on_genes,25,17,-0.07882352941176474
+1,disease_on_symptoms,20,24,0.6359848484848483
+2,disease_on_drugs,22,16,0.294706937799043

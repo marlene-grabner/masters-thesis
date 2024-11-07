@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Strabismus nodes,sAB
+0,disease_on_genes,27,13,0.1596153846153845
+1,disease_on_symptoms,23,26,1.1979898983004573
+2,disease_on_drugs,20,9,1.2547892720306513

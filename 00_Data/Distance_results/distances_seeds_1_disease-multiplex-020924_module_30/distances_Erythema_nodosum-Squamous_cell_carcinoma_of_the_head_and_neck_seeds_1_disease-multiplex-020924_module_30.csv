@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,28,21,0.14200680272108834
+1,disease_on_symptoms,23,25,0.7551811594202902
+2,disease_on_drugs,28,21,0.14540816326530615

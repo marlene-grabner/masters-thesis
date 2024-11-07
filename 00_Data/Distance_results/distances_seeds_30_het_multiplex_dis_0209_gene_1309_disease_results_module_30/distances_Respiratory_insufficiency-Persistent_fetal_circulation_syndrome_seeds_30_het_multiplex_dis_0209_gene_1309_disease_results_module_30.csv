@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,24,-0.21568627450980393
+1,disease_on_symptoms,21,22,0.3669586227725763
+2,disease_on_drugs,25,21,-0.38252587991718423

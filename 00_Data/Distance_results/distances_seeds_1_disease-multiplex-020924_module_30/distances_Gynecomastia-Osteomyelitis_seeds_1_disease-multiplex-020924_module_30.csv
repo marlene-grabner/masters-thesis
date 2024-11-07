@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.33999999999999986
+1,disease_on_symptoms,16,23,0.9990942028985508
+2,disease_on_drugs,24,23,1.0216813135985199

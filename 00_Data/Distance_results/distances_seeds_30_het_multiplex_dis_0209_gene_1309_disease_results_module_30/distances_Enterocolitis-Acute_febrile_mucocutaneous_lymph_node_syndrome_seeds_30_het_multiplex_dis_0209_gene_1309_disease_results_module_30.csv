@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.20964912280701753
+1,disease_on_symptoms,21,13,-0.678409825468649
+2,disease_on_drugs,25,28,-0.3802291105121294

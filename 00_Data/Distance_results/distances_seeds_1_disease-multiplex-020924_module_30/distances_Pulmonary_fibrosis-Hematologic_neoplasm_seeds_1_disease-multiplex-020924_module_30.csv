@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,24,22,0.1313405797101448
+1,disease_on_symptoms,22,24,0.7308135704874839
+2,disease_on_drugs,24,19,0.08078335373317036

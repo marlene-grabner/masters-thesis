@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,28,28,0.2142857142857142
+1,disease_on_symptoms,18,19,1.483681049470523
+2,disease_on_drugs,25,25,0.48

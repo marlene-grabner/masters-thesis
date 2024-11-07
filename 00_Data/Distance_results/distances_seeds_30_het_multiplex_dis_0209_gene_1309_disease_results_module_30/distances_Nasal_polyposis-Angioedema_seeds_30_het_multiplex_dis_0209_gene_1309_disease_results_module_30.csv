@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,18,0.20818713450292403
+2,disease_on_drugs,25,26,-0.017737556561086

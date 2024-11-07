@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,27,30,0.05263157894736836
+1,disease_on_symptoms,21,18,0.9996947496947497
+2,disease_on_drugs,25,26,0.2328657616892913

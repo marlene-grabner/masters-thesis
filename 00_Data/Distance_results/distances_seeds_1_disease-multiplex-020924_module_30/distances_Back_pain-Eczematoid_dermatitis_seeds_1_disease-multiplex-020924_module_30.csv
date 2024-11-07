@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,28,-0.014983579638752076
+1,disease_on_symptoms,16,24,0.2895833333333335
+2,disease_on_drugs,23,28,0.14075630252100857

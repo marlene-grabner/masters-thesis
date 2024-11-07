@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,-0.29121212121212114
+1,disease_on_symptoms,20,19,-0.2615047233468286
+2,disease_on_drugs,22,30,-0.22913752913752927

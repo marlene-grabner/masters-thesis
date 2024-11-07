@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,17,25,0.45408536585365855
+1,disease_on_symptoms,27,19,2.0248326129332996
+2,disease_on_drugs,14,13,0.5184167684167684

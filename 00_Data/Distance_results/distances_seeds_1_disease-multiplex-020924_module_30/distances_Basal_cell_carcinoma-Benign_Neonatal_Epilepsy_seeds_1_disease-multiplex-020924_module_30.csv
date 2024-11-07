@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,26,29,0.3444055944055944
+1,disease_on_symptoms,23,16,2.0947254738015606
+2,disease_on_drugs,25,26,1.1960784313725492

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,18,27,0.4203703703703703
+1,disease_on_symptoms,28,18,1.968857832988268
+2,disease_on_drugs,17,21,0.7093468966533982

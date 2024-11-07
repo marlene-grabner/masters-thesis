@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,14,23,0.5627705627705628
+1,disease_on_symptoms,25,18,2.768165374677002
+2,disease_on_drugs,10,18,0.9142857142857141

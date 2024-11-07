@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,20,24,0.38901515151515165
+2,disease_on_drugs,23,20,0.2136248736097066

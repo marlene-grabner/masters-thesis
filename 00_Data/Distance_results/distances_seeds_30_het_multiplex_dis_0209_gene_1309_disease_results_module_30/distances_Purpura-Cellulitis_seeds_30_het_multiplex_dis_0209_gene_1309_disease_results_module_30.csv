@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,-0.19395711500974666
+1,disease_on_symptoms,17,20,0.1499999999999999
+2,disease_on_drugs,24,26,-0.30211538461538456

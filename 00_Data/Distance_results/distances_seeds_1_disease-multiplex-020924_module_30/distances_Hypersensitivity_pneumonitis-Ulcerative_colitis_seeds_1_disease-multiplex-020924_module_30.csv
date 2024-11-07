@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,24,27,-0.19389978213507642
+1,disease_on_symptoms,23,20,-0.27808392315470143
+2,disease_on_drugs,24,25,-0.18367346938775508

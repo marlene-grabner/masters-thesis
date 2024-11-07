@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.21153846153846168
+1,disease_on_symptoms,18,27,1.574074074074074
+2,disease_on_drugs,23,17,0.7867647058823528

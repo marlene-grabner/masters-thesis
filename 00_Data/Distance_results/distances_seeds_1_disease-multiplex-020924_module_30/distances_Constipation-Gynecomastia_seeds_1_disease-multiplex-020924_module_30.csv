@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,0.26666666666666683
+1,disease_on_symptoms,17,16,0.724933155080214
+2,disease_on_drugs,27,24,0.9581971677559911

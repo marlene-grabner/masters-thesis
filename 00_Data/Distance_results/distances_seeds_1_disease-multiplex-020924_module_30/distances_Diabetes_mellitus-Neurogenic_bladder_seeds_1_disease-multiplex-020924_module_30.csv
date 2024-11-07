@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,20,30,0.13166666666666682
+1,disease_on_symptoms,18,17,1.7401027077497666
+2,disease_on_drugs,19,26,1.062573099415205

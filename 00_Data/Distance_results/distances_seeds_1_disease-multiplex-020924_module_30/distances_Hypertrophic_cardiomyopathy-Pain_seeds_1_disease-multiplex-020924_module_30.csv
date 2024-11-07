@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.35677655677655684
+1,disease_on_symptoms,17,21,1.5855816010614774
+2,disease_on_drugs,17,26,0.49239713774597504

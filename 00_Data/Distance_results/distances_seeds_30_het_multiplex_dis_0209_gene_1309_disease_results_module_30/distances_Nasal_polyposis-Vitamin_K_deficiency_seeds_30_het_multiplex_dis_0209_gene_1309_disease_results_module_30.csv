@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.036363636363636376
+1,disease_on_symptoms,20,21,1.1412311265969803
+2,disease_on_drugs,25,21,-0.030351966873706004

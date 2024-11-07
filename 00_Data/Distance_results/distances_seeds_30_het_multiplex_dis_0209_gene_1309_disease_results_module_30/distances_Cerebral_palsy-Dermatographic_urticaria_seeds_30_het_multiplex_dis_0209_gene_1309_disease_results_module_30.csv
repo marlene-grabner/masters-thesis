@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.22033898305084754
+1,disease_on_symptoms,13,18,1.1169010201268268
+2,disease_on_drugs,21,28,0.2125850340136055

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.5731481481481482
+1,disease_on_symptoms,17,20,2.7099364069952308
+2,disease_on_drugs,17,21,0.8208020050125313

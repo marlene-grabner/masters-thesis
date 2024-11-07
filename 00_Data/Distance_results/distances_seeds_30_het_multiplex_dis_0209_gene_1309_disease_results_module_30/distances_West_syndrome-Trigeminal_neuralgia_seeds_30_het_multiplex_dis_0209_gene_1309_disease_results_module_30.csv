@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,13,15,-0.3540293040293039
+2,disease_on_drugs,19,25,-0.31617224880382777

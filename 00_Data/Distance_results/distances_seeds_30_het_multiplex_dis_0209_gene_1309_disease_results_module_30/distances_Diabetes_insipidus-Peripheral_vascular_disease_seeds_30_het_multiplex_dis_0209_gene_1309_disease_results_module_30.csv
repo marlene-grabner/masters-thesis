@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,26,25,-1.5082956259293567e-05
+1,disease_on_symptoms,20,17,0.8504769475357712
+2,disease_on_drugs,20,25,0.22333333333333338

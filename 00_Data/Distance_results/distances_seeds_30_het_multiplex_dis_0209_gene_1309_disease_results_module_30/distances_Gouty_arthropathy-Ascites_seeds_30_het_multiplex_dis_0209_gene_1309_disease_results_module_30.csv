@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Ascites nodes,sAB
+0,disease_on_genes,28,30,0.03505747126436787
+1,disease_on_symptoms,18,22,0.4608585858585861
+2,disease_on_drugs,23,27,-0.10553945249597407

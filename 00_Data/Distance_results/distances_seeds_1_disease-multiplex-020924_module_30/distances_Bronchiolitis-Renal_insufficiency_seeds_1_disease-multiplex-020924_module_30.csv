@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,23,20,0.29337714863498476
+1,disease_on_symptoms,25,23,0.8953985507246378
+2,disease_on_drugs,18,17,0.9401960784313728

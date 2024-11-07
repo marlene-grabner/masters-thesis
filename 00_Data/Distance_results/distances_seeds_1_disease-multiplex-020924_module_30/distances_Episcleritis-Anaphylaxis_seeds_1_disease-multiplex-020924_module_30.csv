@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.10233918128654973
+1,disease_on_symptoms,22,15,1.1355036855036857
+2,disease_on_drugs,29,26,0.32987701953219206

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.09615384615384626
+1,disease_on_symptoms,21,21,1.666666666666667
+2,disease_on_drugs,25,21,0.09573498964803306

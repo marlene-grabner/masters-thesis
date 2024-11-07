@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.03586744639376227
+1,disease_on_symptoms,21,24,0.9902777777777776
+2,disease_on_drugs,27,24,0.21541394335511987

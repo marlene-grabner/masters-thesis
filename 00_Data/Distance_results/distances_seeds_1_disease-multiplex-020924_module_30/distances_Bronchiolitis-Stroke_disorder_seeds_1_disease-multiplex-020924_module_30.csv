@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,23,30,0.3578206179928902
+1,disease_on_symptoms,25,15,1.0633333333333335
+2,disease_on_drugs,18,30,0.8749999999999998

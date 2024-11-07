@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.41575757575757577
+1,disease_on_symptoms,22,21,0.9728430484244437
+2,disease_on_drugs,15,20,0.7321428571428572

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,26,22,-0.22916666666666663
+1,disease_on_symptoms,16,21,0.37226512226512254
+2,disease_on_drugs,25,17,-0.11361344537815121

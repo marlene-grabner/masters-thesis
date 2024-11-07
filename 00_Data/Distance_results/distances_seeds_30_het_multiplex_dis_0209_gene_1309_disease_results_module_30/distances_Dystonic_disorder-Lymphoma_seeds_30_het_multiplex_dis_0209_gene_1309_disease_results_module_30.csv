@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,-0.0357142857142857
+1,disease_on_symptoms,17,20,0.9895071542130367
+2,disease_on_drugs,26,24,0.48128205128205104

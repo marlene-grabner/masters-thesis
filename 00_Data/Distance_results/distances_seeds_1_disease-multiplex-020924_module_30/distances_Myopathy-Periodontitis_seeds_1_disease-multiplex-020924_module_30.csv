@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Periodontitis nodes,sAB
+0,disease_on_genes,18,23,0.48220808295039475
+1,disease_on_symptoms,21,25,0.5821532091097308
+2,disease_on_drugs,6,22,0.6580086580086579

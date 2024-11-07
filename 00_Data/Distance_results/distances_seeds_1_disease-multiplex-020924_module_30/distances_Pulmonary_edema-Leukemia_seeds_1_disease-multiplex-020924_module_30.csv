@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.375
+1,disease_on_symptoms,14,27,1.2518712091882824
+2,disease_on_drugs,27,17,0.7156367597544067

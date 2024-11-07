@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.3971264367816092
+1,disease_on_symptoms,20,12,1.7125
+2,disease_on_drugs,27,21,0.6577380952380953

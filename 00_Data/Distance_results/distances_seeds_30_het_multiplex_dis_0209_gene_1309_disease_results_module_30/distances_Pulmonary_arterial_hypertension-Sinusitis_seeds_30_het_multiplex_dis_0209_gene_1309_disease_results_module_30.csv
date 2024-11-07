@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Sinusitis nodes,sAB
+0,disease_on_genes,28,29,-0.03508771929824561
+1,disease_on_symptoms,17,20,0.20989666136724972
+2,disease_on_drugs,25,27,0.016695156695156754

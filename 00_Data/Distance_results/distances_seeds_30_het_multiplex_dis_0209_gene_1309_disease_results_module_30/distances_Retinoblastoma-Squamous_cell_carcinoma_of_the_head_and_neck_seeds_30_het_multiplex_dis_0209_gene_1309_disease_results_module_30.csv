@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.3999999999999999
+1,disease_on_symptoms,21,22,-0.5113007147890869
+2,disease_on_drugs,27,30,-0.29658869395711496

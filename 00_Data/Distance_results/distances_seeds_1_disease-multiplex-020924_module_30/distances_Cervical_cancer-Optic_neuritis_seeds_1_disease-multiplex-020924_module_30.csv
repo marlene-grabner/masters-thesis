@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.2777777777777777
+1,disease_on_symptoms,23,16,1.2269021739130435
+2,disease_on_drugs,15,27,0.0724867724867726

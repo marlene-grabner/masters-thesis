@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,25,21,0.5431469979296066
+1,disease_on_symptoms,19,25,1.534066985645933
+2,disease_on_drugs,13,21,1.255656108597285

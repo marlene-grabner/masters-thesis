@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,30,0.13530099357101122
+1,disease_on_symptoms,20,15,0.513095238095238
+2,disease_on_drugs,24,21,-0.12202380952380953

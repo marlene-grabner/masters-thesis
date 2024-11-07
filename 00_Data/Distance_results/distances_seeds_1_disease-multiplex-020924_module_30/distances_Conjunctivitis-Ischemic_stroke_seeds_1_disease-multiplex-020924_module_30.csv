@@ -1,0 +1,4 @@
+,Layer,Conjunctivitis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,0.19288499025341133
+1,disease_on_symptoms,27,16,0.7181309216192939
+2,disease_on_drugs,26,23,0.6500921438809637

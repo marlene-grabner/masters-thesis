@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,23,30,0.2990155865463493
+1,disease_on_symptoms,25,21,1.3437681159420292
+2,disease_on_drugs,18,29,0.754524333577892

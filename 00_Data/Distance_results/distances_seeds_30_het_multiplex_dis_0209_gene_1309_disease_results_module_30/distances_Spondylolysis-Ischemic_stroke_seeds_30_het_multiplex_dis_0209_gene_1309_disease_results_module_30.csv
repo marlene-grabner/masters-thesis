@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,0.0862068965517242
+1,disease_on_symptoms,17,16,0.39683600713012446
+2,disease_on_drugs,19,28,0.1707526795712686

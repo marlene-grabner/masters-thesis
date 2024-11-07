@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,17,23,0.29117647058823537
+1,disease_on_symptoms,22,25,1.8136170212765959
+2,disease_on_drugs,15,21,0.3555555555555556

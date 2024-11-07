@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.08771929824561409
+1,disease_on_symptoms,23,18,0.5200011782726524
+2,disease_on_drugs,23,22,0.24727711901624927

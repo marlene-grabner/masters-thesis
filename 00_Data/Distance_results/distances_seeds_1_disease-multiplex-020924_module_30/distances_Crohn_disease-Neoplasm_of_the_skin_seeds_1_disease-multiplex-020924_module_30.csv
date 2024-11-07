@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,25,28,0.15613553113553102
+1,disease_on_symptoms,20,21,0.9099303135888501
+2,disease_on_drugs,21,24,0.4634920634920634

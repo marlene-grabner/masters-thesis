@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,0.4833333333333334
+1,disease_on_symptoms,25,15,1.2766666666666664
+2,disease_on_drugs,7,23,0.7734989648033128

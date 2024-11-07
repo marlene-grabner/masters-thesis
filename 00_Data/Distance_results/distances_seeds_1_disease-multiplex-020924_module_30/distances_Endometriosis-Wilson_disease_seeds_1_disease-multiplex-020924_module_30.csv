@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.26866283839212457
+1,disease_on_symptoms,12,19,1.638936049801924
+2,disease_on_drugs,27,11,0.39473684210526305

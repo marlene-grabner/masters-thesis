@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.27118644067796616
+1,disease_on_symptoms,12,17,0.13708586883029072
+2,disease_on_drugs,29,27,-0.3593094325852947

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,20,20,0.1499999999999999
+2,disease_on_drugs,25,28,0.0564824797843666

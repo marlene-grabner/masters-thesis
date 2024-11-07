@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Nocturia nodes,sAB
+0,disease_on_genes,21,21,0.01984126984126977
+1,disease_on_symptoms,20,24,1.6511363636363638
+2,disease_on_drugs,19,14,0.49891774891774876

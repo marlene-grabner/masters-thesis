@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,30,-0.3728813559322034
+1,disease_on_symptoms,17,18,-0.6284313725490196
+2,disease_on_drugs,27,29,-0.46337347199416157

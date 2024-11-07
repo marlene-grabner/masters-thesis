@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.04870129870129869
+1,disease_on_symptoms,16,23,0.8959726867335562
+2,disease_on_drugs,24,14,1.0690789473684212

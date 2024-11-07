@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,28,27,0.10941558441558441
+1,disease_on_symptoms,18,18,1.0
+2,disease_on_drugs,25,22,0.10441005802707926

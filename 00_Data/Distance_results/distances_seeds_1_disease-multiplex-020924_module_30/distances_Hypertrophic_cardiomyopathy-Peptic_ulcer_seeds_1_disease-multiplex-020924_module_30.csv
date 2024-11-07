@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.23883415435139588
+1,disease_on_symptoms,17,14,1.3775413391162916
+2,disease_on_drugs,17,28,0.711111111111111

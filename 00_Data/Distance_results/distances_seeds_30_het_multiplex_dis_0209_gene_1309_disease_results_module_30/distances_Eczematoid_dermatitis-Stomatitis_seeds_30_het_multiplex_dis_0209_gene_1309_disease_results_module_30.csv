@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,25,19,0.3844019138755981
+2,disease_on_drugs,30,29,0.04906487434248974

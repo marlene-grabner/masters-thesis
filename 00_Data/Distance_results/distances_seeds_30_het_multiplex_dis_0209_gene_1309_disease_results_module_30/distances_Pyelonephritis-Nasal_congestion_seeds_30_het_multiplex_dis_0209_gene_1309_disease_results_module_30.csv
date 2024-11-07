@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,24,30,-0.11342592592592604
+1,disease_on_symptoms,19,14,0.29955570745044424
+2,disease_on_drugs,19,25,-0.26765550239234437

@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,0.22413793103448265
+1,disease_on_symptoms,20,25,1.3177777777777777
+2,disease_on_drugs,20,21,0.48350754936120777

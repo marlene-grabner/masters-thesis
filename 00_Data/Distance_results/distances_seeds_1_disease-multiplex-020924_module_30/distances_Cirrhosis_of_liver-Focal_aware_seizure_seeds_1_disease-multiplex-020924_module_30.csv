@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,0.16977401129943503
+1,disease_on_symptoms,14,15,1.4836617405582921
+2,disease_on_drugs,26,29,0.6534965034965035

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,24,30,0.21990740740740722
+1,disease_on_symptoms,19,13,1.2677125506072873
+2,disease_on_drugs,19,19,0.42105263157894735

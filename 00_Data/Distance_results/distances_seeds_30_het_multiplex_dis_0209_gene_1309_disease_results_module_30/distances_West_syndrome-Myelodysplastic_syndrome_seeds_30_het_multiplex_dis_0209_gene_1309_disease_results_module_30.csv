@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.25
+1,disease_on_symptoms,13,17,0.676923076923077
+2,disease_on_drugs,19,24,0.5836903304773562

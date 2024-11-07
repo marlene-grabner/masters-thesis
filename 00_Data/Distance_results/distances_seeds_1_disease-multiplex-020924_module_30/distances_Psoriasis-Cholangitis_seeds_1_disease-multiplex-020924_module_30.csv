@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,28,27,0.14475709475709486
+1,disease_on_symptoms,21,22,1.209100976542837
+2,disease_on_drugs,28,26,0.9457671957671958

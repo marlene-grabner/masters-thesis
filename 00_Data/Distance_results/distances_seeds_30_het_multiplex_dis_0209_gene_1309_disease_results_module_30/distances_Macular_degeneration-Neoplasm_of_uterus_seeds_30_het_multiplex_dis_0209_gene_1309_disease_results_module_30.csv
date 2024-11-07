@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,17,18,0.022082166199813402
+2,disease_on_drugs,17,26,-0.052378196359044615

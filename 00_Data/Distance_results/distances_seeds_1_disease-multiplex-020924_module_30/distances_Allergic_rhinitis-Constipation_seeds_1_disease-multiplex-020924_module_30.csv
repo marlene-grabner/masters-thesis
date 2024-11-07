@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Constipation nodes,sAB
+0,disease_on_genes,21,30,0.23403361344537799
+1,disease_on_symptoms,22,17,1.6574797751268338
+2,disease_on_drugs,21,27,0.5261243386243386

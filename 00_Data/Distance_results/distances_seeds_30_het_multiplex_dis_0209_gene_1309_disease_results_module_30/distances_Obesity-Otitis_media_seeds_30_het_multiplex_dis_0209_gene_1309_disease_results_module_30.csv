@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,-0.10851122058018625
+1,disease_on_symptoms,18,20,0.38611111111111107
+2,disease_on_drugs,25,28,0.15235849056603756

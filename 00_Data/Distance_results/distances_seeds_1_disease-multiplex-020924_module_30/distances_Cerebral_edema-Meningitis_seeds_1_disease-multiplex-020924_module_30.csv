@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.5245470485096435
+1,disease_on_symptoms,9,20,0.993582375478927
+2,disease_on_drugs,11,26,0.25184275184275196

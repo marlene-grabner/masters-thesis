@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,17,0.8529411764705885
+2,disease_on_drugs,30,28,0.20246305418719213

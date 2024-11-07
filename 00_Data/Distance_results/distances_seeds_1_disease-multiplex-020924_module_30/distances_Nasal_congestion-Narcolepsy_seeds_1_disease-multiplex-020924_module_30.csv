@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.1100000000000001
+1,disease_on_symptoms,15,21,-0.14603174603174618
+2,disease_on_drugs,23,20,-0.06999494438827103

@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,26,20,0.17065217391304355
+1,disease_on_symptoms,20,23,1.2118048533872599
+2,disease_on_drugs,25,18,0.9767441860465116

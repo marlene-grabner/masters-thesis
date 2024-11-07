@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.020000000000000018
+1,disease_on_symptoms,18,20,1.0124269005847952
+2,disease_on_drugs,22,20,0.0745670995670995

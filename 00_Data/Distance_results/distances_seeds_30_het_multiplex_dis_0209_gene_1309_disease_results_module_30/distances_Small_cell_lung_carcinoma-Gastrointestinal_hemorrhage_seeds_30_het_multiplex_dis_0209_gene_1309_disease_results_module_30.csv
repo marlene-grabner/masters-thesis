@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.15578817733990147
+1,disease_on_symptoms,19,20,-0.07483130904183533
+2,disease_on_drugs,30,27,0.12134502923976598

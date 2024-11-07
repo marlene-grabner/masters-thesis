@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.0009746588693957392
+1,disease_on_symptoms,11,14,0.6325974025974026
+2,disease_on_drugs,27,26,0.24524270278987248

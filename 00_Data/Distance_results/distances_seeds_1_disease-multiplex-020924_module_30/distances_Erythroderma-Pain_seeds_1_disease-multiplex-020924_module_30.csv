@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.018681318681318615
+1,disease_on_symptoms,19,21,0.3599624060150375
+2,disease_on_drugs,28,26,0.24002849002849014

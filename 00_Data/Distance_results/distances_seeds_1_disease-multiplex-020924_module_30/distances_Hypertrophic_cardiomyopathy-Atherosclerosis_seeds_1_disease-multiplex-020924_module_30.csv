@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,17,13,1.3238310708898946
+2,disease_on_drugs,17,29,0.08695652173913038

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,26,30,0.2154761904761906
+1,disease_on_symptoms,21,16,1.2525740025740024
+2,disease_on_drugs,24,23,0.6364477335800185

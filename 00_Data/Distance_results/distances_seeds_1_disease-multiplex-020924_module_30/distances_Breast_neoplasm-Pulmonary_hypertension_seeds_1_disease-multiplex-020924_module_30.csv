@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.17179802955665036
+1,disease_on_symptoms,16,20,1.1631944444444446
+2,disease_on_drugs,30,28,0.8793103448275863

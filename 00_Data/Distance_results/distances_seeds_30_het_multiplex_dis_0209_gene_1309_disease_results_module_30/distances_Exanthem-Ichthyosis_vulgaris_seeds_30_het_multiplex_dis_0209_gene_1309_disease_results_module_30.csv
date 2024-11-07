@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.2622807017543859
+1,disease_on_symptoms,21,21,-0.04761904761904745
+2,disease_on_drugs,29,24,-0.24792615484710456

@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,16,17,0.6283422459893049
+2,disease_on_drugs,27,24,-0.0017701525054465428

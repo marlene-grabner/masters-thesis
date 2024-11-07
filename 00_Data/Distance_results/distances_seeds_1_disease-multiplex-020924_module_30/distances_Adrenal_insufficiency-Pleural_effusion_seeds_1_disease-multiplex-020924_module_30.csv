@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,17,30,0.2862119315811429
+1,disease_on_symptoms,21,20,0.7779616724738676
+2,disease_on_drugs,14,22,0.3055555555555556

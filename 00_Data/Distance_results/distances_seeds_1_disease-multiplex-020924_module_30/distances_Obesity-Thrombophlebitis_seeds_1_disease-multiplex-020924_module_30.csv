@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,0.18579568579568573
+1,disease_on_symptoms,20,15,2.1476190476190475
+2,disease_on_drugs,27,21,0.8171296296296295

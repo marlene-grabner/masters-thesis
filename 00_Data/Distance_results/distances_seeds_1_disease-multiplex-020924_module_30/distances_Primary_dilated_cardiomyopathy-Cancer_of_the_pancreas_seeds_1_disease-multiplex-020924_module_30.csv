@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.5423728813559323
+1,disease_on_symptoms,25,16,2.2090853658536584
+2,disease_on_drugs,7,29,1.4946633825944171

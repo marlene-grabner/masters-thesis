@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,20,20,0.3999999999999999
+2,disease_on_drugs,29,28,0.1913620257540405

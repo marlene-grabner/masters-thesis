@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,26,23,0.1820353559483996
+1,disease_on_symptoms,21,20,1.1455574912891984
+2,disease_on_drugs,26,20,0.8930602006688964

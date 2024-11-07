@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.14148351648351665
+1,disease_on_symptoms,20,13,0.39965034965034985
+2,disease_on_drugs,20,19,0.05499325236167363

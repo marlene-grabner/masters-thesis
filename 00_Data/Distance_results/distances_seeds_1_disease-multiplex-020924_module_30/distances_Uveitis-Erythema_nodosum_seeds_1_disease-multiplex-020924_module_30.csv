@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,-0.36211001642036134
+1,disease_on_symptoms,21,23,-0.4748729531338226
+2,disease_on_drugs,27,28,-0.4545574795574796

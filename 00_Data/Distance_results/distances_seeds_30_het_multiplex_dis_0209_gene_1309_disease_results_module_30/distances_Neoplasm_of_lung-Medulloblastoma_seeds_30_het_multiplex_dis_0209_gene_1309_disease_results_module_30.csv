@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.49122807017543857
+1,disease_on_symptoms,19,22,-0.5100945267825883
+2,disease_on_drugs,30,26,-0.5031135531135532

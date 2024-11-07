@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,23,30,-0.49056603773584906
+1,disease_on_symptoms,24,20,-0.7162878787878788
+2,disease_on_drugs,22,30,-0.5034965034965034

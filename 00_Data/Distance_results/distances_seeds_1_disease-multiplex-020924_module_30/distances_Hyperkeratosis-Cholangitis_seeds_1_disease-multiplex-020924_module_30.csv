@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,27,0.170846100091383
+1,disease_on_symptoms,21,22,1.0213933353468239
+2,disease_on_drugs,23,26,0.8571428571428572

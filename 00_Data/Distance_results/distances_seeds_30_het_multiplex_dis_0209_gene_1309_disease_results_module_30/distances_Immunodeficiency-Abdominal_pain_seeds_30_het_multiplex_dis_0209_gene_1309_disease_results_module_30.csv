@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,-0.10595238095238091
+1,disease_on_symptoms,21,19,0.47023809523809534
+2,disease_on_drugs,26,29,0.10655895828309614

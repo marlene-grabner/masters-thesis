@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,20,18,0.7513157894736842
+2,disease_on_drugs,30,25,0.2145454545454546

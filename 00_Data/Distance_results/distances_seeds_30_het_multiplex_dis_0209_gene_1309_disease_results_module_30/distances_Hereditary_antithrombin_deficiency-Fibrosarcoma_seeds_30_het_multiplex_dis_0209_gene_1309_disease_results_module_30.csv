@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,16,14,0.0970238095238094
+2,disease_on_drugs,23,26,-0.028291584192205343

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Stomatitis nodes,sAB
+0,disease_on_genes,24,30,0.24398148148148158
+1,disease_on_symptoms,18,23,0.5304878048780488
+2,disease_on_drugs,18,30,0.5041666666666667

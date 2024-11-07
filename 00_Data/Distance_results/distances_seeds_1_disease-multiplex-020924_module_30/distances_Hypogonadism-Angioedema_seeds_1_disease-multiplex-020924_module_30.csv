@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.08383777239709445
+1,disease_on_symptoms,12,17,0.8720419202163625
+2,disease_on_drugs,30,25,0.45606060606060606

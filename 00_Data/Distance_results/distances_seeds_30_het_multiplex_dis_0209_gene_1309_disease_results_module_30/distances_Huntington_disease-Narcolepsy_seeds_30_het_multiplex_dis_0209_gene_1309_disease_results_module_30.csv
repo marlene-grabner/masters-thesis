@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.21818181818181814
+1,disease_on_symptoms,17,20,0.1950317965023849
+2,disease_on_drugs,26,21,-0.12298339957914428

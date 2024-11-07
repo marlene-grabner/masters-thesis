@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,25,21,0.21672877846790883
+1,disease_on_symptoms,20,22,1.8507575757575756
+2,disease_on_drugs,14,20,0.20903361344537807

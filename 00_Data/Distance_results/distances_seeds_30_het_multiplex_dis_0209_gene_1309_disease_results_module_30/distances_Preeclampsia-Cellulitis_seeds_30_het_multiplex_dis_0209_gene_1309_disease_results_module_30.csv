@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,18,20,1.1426900584795323
+2,disease_on_drugs,22,26,0.1494755244755246

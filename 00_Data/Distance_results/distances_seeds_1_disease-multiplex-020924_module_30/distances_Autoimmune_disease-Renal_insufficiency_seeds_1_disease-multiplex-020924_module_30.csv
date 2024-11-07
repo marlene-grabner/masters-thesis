@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,22,20,0.2352813852813853
+1,disease_on_symptoms,19,23,1.6828484254113545
+2,disease_on_drugs,19,17,0.5472136222910216

@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,29,27,0.5886243386243386
+1,disease_on_symptoms,18,27,2.051851851851852
+2,disease_on_drugs,22,26,0.7532051282051284

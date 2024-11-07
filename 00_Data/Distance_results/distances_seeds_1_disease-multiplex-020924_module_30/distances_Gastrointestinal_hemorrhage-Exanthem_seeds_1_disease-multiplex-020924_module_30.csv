@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Exanthem nodes,sAB
+0,disease_on_genes,27,28,0.21750841750841743
+1,disease_on_symptoms,19,26,0.9224921277552856
+2,disease_on_drugs,27,28,0.4185064935064935

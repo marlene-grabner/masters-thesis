@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,17,28,0.13204948646125114
+1,disease_on_symptoms,22,14,3.615079365079365
+2,disease_on_drugs,15,28,0.41932447397563677

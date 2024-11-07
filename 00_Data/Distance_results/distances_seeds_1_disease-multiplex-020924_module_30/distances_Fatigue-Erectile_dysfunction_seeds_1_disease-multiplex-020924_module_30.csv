@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,0.06987179487179485
+1,disease_on_symptoms,21,16,0.9356901544401546
+2,disease_on_drugs,26,30,0.3579670329670328

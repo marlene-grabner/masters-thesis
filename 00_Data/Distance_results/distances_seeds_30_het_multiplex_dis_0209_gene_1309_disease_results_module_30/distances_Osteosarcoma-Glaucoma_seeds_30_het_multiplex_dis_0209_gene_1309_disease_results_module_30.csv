@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,22,18,-0.2393939393939395
+2,disease_on_drugs,29,28,-0.08839987900786461

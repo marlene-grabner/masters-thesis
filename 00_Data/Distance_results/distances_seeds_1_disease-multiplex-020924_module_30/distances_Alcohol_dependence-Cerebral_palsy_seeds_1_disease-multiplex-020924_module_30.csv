@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,12,27,0.47685185185185186
+1,disease_on_symptoms,27,16,1.0923234280792418
+2,disease_on_drugs,9,18,1.0

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Vitiligo nodes,sAB
+0,disease_on_genes,25,24,0.44511904761904764
+1,disease_on_symptoms,20,22,1.851839826839827
+2,disease_on_drugs,14,11,0.2528571428571429

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.6458823529411764
+1,disease_on_symptoms,15,23,2.626773455377574
+2,disease_on_drugs,15,21,1.2468253968253968

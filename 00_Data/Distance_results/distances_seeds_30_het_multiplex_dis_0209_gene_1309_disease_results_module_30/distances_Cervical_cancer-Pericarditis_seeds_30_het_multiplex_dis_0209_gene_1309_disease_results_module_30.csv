@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,26,0.12962962962962954
+1,disease_on_symptoms,22,21,0.6523708849290244
+2,disease_on_drugs,15,26,0.09684177611006861

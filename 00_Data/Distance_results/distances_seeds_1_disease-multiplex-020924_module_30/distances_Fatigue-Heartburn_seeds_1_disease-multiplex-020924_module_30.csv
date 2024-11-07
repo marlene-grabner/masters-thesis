@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Heartburn nodes,sAB
+0,disease_on_genes,26,24,-0.04262820512820498
+1,disease_on_symptoms,21,20,0.7077526132404182
+2,disease_on_drugs,26,22,0.25131118881118875

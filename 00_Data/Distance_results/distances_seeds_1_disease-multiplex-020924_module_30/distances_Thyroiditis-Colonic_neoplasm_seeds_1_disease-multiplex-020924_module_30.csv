@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,0.012362637362637319
+1,disease_on_symptoms,28,19,0.5681690929451286
+2,disease_on_drugs,23,29,0.4782608695652173

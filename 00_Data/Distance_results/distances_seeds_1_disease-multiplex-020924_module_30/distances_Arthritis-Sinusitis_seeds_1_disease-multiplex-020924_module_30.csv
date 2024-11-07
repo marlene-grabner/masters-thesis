@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.08386908240794866
+1,disease_on_symptoms,19,21,0.4553258145363408
+2,disease_on_drugs,29,28,0.28066934577823877

@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,28,-0.037138787138787155
+1,disease_on_symptoms,21,17,0.8069438301636445
+2,disease_on_drugs,26,18,0.07167832167832167

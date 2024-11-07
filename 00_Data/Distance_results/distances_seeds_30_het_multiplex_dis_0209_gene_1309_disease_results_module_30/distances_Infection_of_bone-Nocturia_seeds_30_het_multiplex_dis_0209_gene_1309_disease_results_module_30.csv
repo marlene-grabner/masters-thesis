@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.05555555555555558
+1,disease_on_symptoms,18,18,0.41666666666666674
+2,disease_on_drugs,28,24,0.1323260073260073

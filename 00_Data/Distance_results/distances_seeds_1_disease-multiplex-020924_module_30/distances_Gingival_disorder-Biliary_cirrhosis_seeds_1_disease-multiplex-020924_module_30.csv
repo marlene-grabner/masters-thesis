@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,21,26,0.20516717325227973
+1,disease_on_symptoms,26,15,0.15966228893058165
+2,disease_on_drugs,20,15,0.6190476190476191

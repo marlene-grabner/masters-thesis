@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,20,15,0.3726190476190476
+1,disease_on_symptoms,22,27,2.322665429808287
+2,disease_on_drugs,15,13,0.8642857142857141

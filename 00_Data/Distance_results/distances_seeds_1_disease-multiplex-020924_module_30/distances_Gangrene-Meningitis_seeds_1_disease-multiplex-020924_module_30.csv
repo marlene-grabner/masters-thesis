@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,-0.0153605015673981
+1,disease_on_symptoms,19,20,1.1529352226720646
+2,disease_on_drugs,23,26,0.38642413487133975

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.3902777777777777
+1,disease_on_symptoms,14,19,1.0092276144907721
+2,disease_on_drugs,11,20,-0.14677419354838717

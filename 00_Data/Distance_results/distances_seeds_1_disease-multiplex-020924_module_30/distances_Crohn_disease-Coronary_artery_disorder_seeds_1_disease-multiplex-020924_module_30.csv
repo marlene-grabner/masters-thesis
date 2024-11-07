@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,25,19,0.5599245206038352
+1,disease_on_symptoms,20,21,1.7554587688734027
+2,disease_on_drugs,21,17,0.768170426065163

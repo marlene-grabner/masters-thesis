@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,24,25,0.28653061224489784
+1,disease_on_symptoms,23,20,1.3445904954499492
+2,disease_on_drugs,24,18,0.24999999999999978

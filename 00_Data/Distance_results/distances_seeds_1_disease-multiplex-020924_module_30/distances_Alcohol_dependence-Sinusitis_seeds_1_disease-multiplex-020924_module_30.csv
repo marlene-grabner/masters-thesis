@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Sinusitis nodes,sAB
+0,disease_on_genes,12,29,0.34563358564620117
+1,disease_on_symptoms,27,21,1.8082010582010581
+2,disease_on_drugs,9,28,0.646128271128271

@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,29,17,0.1867007672634271
+1,disease_on_symptoms,15,28,1.8092746400885937
+2,disease_on_drugs,27,9,0.6018518518518516

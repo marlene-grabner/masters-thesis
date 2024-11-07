@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,27,29,0.17658730158730163
+1,disease_on_symptoms,15,16,0.9651881720430109
+2,disease_on_drugs,25,29,0.40720306513409965

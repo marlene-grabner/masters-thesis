@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,28,30,0.25800492610837455
+1,disease_on_symptoms,19,22,1.1820224063484654
+2,disease_on_drugs,25,29,0.517905491698595

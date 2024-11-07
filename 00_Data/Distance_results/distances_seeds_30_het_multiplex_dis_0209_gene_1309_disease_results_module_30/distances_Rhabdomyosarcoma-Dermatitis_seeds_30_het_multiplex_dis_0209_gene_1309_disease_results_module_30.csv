@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Dermatitis nodes,sAB
+0,disease_on_genes,29,30,0.0
+1,disease_on_symptoms,19,14,0.6928115743905219
+2,disease_on_drugs,29,28,0.15815400570391525

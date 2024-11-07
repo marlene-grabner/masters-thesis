@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,-0.054545454545454564
+1,disease_on_symptoms,20,16,0.6763888888888889
+2,disease_on_drugs,23,29,0.016635912812824172

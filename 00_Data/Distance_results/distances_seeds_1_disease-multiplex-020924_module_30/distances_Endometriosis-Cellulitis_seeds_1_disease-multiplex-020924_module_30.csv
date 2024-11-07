@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.535014005602241
+1,disease_on_symptoms,12,26,1.4932523616734144
+2,disease_on_drugs,27,12,1.5128205128205128

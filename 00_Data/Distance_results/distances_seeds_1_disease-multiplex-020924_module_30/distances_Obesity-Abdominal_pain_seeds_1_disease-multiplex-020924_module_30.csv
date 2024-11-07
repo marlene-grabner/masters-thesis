@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,0.05457875457875461
+1,disease_on_symptoms,20,24,0.7079545454545455
+2,disease_on_drugs,27,24,0.2742374727668846

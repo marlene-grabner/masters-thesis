@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.33817126269956455
+1,disease_on_symptoms,23,15,1.63768115942029
+2,disease_on_drugs,20,16,0.6111111111111112

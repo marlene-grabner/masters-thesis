@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,15,19,0.6494324045407638
+2,disease_on_drugs,29,29,0.06896551724137945

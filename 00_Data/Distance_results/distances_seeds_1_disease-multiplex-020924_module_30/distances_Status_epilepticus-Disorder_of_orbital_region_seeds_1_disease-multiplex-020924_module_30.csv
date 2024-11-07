@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,29,17,0.06076373577916927
+1,disease_on_symptoms,17,27,1.7470291146761734
+2,disease_on_drugs,30,16,0.763586956521739

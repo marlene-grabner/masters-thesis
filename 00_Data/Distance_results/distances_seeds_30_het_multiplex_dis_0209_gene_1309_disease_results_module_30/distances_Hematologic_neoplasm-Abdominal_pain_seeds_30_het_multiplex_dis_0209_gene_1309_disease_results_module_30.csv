@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,18,19,-0.10585585585585577
+2,disease_on_drugs,27,29,-0.057060755336617364

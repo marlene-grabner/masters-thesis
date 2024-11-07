@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Temporal_lobe_epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,20,17,0.46220190779014336
+2,disease_on_drugs,27,28,-0.07079124579124585

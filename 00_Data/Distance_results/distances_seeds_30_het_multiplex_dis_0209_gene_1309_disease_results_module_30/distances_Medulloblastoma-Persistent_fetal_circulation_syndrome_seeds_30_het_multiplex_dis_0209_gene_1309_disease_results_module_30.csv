@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,24,-0.2549019607843137
+1,disease_on_symptoms,22,22,0.7954545454545454
+2,disease_on_drugs,26,21,-0.1321409087366534

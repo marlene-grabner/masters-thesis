@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,27,28,-0.018855218855219125
+1,disease_on_symptoms,21,17,0.5381836945304437
+2,disease_on_drugs,25,19,-0.24334928229665076

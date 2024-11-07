@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,29,-0.017857142857142794
+1,disease_on_symptoms,19,13,0.4901315789473686
+2,disease_on_drugs,22,22,-0.15909090909090895

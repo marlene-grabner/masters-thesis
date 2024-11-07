@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,-0.1228070175438597
+1,disease_on_symptoms,22,19,0.16320457462947813
+2,disease_on_drugs,26,29,0.14972269110200154

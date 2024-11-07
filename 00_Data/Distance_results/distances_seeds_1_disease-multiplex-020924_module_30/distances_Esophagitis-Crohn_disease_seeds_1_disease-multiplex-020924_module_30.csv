@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,24,25,-0.3096347234545993
+1,disease_on_symptoms,23,20,-0.13695652173913064
+2,disease_on_drugs,20,21,-0.21896051103368197

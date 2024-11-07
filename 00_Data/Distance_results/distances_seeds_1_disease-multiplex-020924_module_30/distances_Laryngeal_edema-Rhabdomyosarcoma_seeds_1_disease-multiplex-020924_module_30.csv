@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,23,0.41386382280557843
+1,disease_on_symptoms,20,24,1.0810606060606063
+2,disease_on_drugs,28,17,0.6130952380952381

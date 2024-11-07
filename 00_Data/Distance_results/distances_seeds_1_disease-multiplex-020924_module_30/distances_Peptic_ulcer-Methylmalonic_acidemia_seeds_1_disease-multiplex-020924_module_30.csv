@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,28,25,0.30115902964959584
+1,disease_on_symptoms,14,16,2.0821428571428573
+2,disease_on_drugs,28,17,0.7261437908496733

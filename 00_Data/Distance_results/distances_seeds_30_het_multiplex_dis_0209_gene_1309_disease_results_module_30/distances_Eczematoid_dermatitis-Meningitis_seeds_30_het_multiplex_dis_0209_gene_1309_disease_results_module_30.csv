@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.1694915254237288
+1,disease_on_symptoms,25,17,-0.10414565826330535
+2,disease_on_drugs,30,27,-0.26734892787524367

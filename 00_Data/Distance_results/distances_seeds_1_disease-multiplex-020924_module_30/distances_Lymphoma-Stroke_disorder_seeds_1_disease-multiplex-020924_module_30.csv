@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,26,30,0.12481684981684982
+1,disease_on_symptoms,21,15,0.7579365079365079
+2,disease_on_drugs,25,30,1.0690909090909089

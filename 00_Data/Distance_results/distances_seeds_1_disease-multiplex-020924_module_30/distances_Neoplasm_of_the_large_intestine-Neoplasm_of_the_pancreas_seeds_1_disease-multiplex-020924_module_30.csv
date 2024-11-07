@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,20,30,-0.18499999999999994
+1,disease_on_symptoms,25,20,0.08999999999999986
+2,disease_on_drugs,19,30,-0.21589688506981752

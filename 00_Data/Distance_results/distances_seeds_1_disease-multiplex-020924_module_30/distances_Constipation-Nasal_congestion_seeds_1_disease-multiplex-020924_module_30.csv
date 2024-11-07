@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666385
+1,disease_on_symptoms,17,15,0.5313725490196077
+2,disease_on_drugs,27,23,0.519742351046699

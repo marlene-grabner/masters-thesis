@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,15,28,0.3162236987818383
+1,disease_on_symptoms,27,17,2.0057932263814617
+2,disease_on_drugs,13,18,1.193548387096774

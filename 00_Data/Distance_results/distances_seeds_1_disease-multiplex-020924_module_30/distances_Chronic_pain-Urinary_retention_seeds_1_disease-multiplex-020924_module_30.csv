@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.10586811857229295
+1,disease_on_symptoms,22,18,1.4179292929292928
+2,disease_on_drugs,28,19,0.4776635738281876

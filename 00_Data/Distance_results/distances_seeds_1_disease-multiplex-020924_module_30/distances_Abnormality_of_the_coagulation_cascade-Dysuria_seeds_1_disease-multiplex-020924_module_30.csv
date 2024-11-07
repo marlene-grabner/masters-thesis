@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Dysuria nodes,sAB
+0,disease_on_genes,23,30,0.3008303540537425
+1,disease_on_symptoms,23,16,2.075982441471572
+2,disease_on_drugs,18,23,0.9159302462589842

@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,28,30,0.0005747126436781436
+1,disease_on_symptoms,17,18,0.08576097105508862
+2,disease_on_drugs,19,26,-0.2685784975258658

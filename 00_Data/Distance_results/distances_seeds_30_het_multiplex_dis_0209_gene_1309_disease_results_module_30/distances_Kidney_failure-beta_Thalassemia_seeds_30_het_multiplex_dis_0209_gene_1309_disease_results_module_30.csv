@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,20,13,-0.09434731934731944
+2,disease_on_drugs,28,24,-0.25526556776556775

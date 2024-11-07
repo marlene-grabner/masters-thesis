@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,29,30,-0.1694915254237288
+1,disease_on_symptoms,11,15,0.5146853146853145
+2,disease_on_drugs,24,28,-0.027472527472527375

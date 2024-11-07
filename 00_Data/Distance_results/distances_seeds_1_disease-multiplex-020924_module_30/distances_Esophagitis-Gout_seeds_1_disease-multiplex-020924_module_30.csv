@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Gout nodes,sAB
+0,disease_on_genes,24,25,0.14652173913043476
+1,disease_on_symptoms,23,18,1.4536938847649348
+2,disease_on_drugs,20,23,0.649418604651163

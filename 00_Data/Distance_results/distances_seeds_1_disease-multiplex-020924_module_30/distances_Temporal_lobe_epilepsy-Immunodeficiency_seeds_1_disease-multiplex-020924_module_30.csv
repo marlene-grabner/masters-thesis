@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,29,22,0.3655571946646996
+1,disease_on_symptoms,17,19,1.6690746474028209
+2,disease_on_drugs,26,18,1.112082362082362

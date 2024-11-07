@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.3713183145598664
+1,disease_on_symptoms,12,22,1.090686274509804
+2,disease_on_drugs,17,15,0.7810049019607843

@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Heartburn nodes,sAB
+0,disease_on_genes,23,24,0.08593509096515572
+1,disease_on_symptoms,23,20,1.4700455005055613
+2,disease_on_drugs,18,22,0.8411616161616162

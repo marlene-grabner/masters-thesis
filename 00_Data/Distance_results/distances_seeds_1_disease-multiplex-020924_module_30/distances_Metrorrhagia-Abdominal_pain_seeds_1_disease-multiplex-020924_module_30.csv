@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,0.019298245614035148
+1,disease_on_symptoms,17,24,0.03488163558106172
+2,disease_on_drugs,26,24,0.05987179487179484

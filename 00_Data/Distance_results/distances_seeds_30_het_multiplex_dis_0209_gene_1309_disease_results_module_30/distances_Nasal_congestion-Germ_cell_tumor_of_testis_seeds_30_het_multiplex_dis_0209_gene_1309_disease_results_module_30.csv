@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,30,27,-0.10818713450292405
+1,disease_on_symptoms,14,22,-0.02886002886002892
+2,disease_on_drugs,25,20,0.0038888888888888307

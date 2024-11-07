@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,30,28,-0.17426108374384242
+1,disease_on_symptoms,19,18,0.7607080764975502
+2,disease_on_drugs,30,26,0.14212454212454229

@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666643
+1,disease_on_symptoms,17,16,0.9131573083778965
+2,disease_on_drugs,27,30,0.6166666666666667

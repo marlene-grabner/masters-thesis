@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,0.02083333333333326
+1,disease_on_symptoms,20,23,1.226794742163802
+2,disease_on_drugs,27,21,0.29761904761904767

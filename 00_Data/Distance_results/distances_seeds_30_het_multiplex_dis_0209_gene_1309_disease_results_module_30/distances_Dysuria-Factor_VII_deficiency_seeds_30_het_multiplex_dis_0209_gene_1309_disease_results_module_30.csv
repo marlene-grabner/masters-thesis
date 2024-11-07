@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.34421182266009853
+1,disease_on_symptoms,12,19,1.8278155065082058
+2,disease_on_drugs,21,25,0.5476604554865425

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,24,28,0.4965659340659341
+1,disease_on_symptoms,25,24,1.1205782312925168
+2,disease_on_drugs,17,28,0.6531746031746033

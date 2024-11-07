@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,17,23,0.7187979539641942
+2,disease_on_drugs,26,26,0.09615384615384626

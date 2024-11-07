@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.10818713450292405
+1,disease_on_symptoms,14,18,0.22271825396825395
+2,disease_on_drugs,26,25,-0.15580693815987923

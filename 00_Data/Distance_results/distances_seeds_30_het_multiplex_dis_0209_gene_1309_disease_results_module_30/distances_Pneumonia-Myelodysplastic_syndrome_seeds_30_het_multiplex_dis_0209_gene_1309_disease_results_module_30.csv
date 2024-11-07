@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,23,17,0.05869565217391304
+2,disease_on_drugs,29,24,0.2777325959661676

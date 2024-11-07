@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,23,29,0.18478260869565233
+1,disease_on_symptoms,21,14,1.1476190476190475
+2,disease_on_drugs,19,28,0.2978723404255319

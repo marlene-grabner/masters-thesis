@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666681
+1,disease_on_symptoms,18,19,0.6217401612138458
+2,disease_on_drugs,30,29,0.2898110266900449

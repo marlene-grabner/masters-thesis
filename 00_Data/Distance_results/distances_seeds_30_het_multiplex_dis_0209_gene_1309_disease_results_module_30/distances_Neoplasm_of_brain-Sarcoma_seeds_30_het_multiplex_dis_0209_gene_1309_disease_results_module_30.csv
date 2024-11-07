@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,19,23,-0.2202244742290509
+2,disease_on_drugs,29,24,-0.3332248969854694

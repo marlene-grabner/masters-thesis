@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Lymphoma nodes,sAB
+0,disease_on_genes,24,26,0.03660256410256402
+1,disease_on_symptoms,20,21,1.0509581881533099
+2,disease_on_drugs,22,25,0.7245067698259187

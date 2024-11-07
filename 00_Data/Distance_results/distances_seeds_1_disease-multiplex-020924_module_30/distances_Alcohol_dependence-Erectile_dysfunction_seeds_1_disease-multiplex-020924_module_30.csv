@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,12,30,0.22738095238095246
+1,disease_on_symptoms,27,16,1.1860734280792418
+2,disease_on_drugs,9,30,0.685042735042735

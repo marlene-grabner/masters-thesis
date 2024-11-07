@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,18,26,0.4378399378399378
+1,disease_on_symptoms,21,21,1.142857142857143
+2,disease_on_drugs,6,24,0.6000000000000001

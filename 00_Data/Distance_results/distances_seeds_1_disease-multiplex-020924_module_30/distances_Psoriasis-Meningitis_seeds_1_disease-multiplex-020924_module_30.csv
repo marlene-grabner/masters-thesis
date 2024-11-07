@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,-0.03480684469795192
+1,disease_on_symptoms,21,20,0.4637921022067364
+2,disease_on_drugs,28,26,0.14947089947089953

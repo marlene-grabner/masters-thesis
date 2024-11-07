@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,26,27,-0.2445842068483579
+1,disease_on_symptoms,20,21,0.09776422764227655
+2,disease_on_drugs,23,25,-0.3144565217391304

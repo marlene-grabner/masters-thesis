@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,-1.0004223227752638
+1,disease_on_symptoms,21,23,-0.9578863165819688
+2,disease_on_drugs,24,23,-0.9783186864014801

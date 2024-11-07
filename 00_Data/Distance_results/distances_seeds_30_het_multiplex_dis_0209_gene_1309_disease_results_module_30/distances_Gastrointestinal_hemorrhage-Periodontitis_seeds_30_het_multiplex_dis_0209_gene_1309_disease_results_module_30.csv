@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Periodontitis nodes,sAB
+0,disease_on_genes,28,30,-0.15578817733990147
+1,disease_on_symptoms,20,21,0.5081881533101047
+2,disease_on_drugs,27,28,-0.035461760461760417

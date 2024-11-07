@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,0.05263157894736836
+1,disease_on_symptoms,17,20,0.8065182829888715
+2,disease_on_drugs,24,27,0.17034313725490202

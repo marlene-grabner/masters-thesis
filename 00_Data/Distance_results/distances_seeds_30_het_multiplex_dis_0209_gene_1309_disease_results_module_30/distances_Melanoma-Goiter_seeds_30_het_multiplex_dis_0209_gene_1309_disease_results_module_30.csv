@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.07582110412299081
+1,disease_on_symptoms,23,12,0.7263457556935817
+2,disease_on_drugs,25,18,0.22297157622739006

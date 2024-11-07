@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,27,18,0.14814814814814836
+1,disease_on_symptoms,21,21,2.4761904761904763
+2,disease_on_drugs,23,17,0.5563299232736572

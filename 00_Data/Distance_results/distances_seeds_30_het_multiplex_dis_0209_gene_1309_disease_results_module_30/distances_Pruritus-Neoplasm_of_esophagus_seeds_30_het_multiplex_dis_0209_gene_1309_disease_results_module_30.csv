@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,27,29,-0.053617040686006257
+1,disease_on_symptoms,21,20,0.5897212543554005
+2,disease_on_drugs,27,25,0.2528490028490029

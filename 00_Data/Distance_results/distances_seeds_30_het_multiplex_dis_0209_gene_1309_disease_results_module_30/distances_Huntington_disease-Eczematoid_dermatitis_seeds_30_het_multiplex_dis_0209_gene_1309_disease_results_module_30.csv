@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,17,25,0.4070588235294119
+2,disease_on_drugs,26,30,0.01318681318681314

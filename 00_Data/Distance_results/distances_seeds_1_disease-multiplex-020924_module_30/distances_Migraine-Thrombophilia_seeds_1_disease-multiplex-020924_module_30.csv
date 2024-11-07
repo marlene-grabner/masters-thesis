@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.28148148148148144
+1,disease_on_symptoms,14,18,1.7728174603174602
+2,disease_on_drugs,29,21,0.5923809523809522

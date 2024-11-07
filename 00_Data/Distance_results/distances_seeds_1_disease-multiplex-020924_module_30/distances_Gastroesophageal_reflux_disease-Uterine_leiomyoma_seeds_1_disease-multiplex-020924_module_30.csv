@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,26,24,0.15500000000000003
+1,disease_on_symptoms,17,21,1.386923190328763
+2,disease_on_drugs,25,18,0.9987338501291991

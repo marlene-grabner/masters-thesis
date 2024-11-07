@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.2015160765160764
+1,disease_on_symptoms,28,20,0.6666666666666665
+2,disease_on_drugs,23,28,0.644927536231884

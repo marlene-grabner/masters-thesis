@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,18,27,0.23518518518518539
+1,disease_on_symptoms,28,19,1.0860062390017597
+2,disease_on_drugs,17,26,0.4335736083342101

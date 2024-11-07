@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,0.23791208791208796
+1,disease_on_symptoms,23,17,1.2842710997442452
+2,disease_on_drugs,25,28,0.8322102425876012

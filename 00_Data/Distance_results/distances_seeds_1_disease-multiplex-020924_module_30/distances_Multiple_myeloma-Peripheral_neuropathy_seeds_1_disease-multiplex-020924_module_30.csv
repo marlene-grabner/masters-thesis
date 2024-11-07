@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,26,30,0.23690476190476195
+1,disease_on_symptoms,21,20,1.267479674796748
+2,disease_on_drugs,25,24,1.2244557823129254

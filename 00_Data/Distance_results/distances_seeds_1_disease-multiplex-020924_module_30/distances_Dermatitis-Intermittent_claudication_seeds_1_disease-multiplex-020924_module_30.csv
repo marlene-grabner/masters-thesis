@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.01388888888888884
+1,disease_on_symptoms,25,24,0.040697278911564494
+2,disease_on_drugs,24,18,0.2757936507936509

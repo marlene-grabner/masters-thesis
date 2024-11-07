@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,27,27,0.2777777777777777
+1,disease_on_symptoms,20,21,1.8063588850174215
+2,disease_on_drugs,15,27,0.4285714285714286

@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,15,20,0.2511904761904762
+2,disease_on_drugs,29,28,-0.03486085904416214

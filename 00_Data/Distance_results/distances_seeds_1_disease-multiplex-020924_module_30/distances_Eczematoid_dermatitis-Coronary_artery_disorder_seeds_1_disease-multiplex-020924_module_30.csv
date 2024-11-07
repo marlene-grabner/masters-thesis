@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,28,19,0.4026355783074709
+1,disease_on_symptoms,24,21,1.351190476190476
+2,disease_on_drugs,28,17,0.8309523809523811

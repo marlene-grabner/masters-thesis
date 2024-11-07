@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,25,30,0.036060606060606126
+1,disease_on_symptoms,23,17,0.0726342710997443
+2,disease_on_drugs,24,17,0.13411645145863194

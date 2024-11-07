@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.41666666666666674
+1,disease_on_symptoms,18,19,-0.9406511774932828
+2,disease_on_drugs,24,30,-0.46851851851851856

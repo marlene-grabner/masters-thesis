@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,-0.10344827586206895
+1,disease_on_symptoms,25,18,0.13093023255813963
+2,disease_on_drugs,24,27,0.03921568627450989

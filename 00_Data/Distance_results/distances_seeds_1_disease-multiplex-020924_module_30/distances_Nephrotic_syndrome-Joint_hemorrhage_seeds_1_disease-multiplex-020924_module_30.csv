@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,20,30,0.24499999999999988
+1,disease_on_symptoms,24,13,1.5020356895356897
+2,disease_on_drugs,18,18,0.5833333333333333

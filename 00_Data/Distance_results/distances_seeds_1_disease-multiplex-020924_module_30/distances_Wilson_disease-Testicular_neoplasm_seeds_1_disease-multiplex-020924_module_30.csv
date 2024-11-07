@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,23,25,0.18463768115942014
+1,disease_on_symptoms,19,25,1.0076555023923448
+2,disease_on_drugs,11,23,0.1035805626598465

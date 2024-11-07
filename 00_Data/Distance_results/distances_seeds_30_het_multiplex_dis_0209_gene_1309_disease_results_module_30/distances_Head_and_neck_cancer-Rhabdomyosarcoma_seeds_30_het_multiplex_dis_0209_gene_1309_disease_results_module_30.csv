@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,27,29,-0.1428571428571429
+1,disease_on_symptoms,22,19,-0.07553390127202708
+2,disease_on_drugs,23,29,-0.1539326490600854

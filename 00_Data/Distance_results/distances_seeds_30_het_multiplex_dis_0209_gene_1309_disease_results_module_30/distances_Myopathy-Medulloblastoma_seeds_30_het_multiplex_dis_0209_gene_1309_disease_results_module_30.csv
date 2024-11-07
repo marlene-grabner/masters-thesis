@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,23,27,-0.21999999999999997
+1,disease_on_symptoms,22,22,0.5681818181818181
+2,disease_on_drugs,21,26,-0.21370119242459662

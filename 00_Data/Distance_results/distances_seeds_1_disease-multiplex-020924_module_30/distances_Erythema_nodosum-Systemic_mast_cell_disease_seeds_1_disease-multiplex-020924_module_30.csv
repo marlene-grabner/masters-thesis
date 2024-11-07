@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,0.12340117535217332
+1,disease_on_symptoms,23,16,1.1873606465997772
+2,disease_on_drugs,28,25,0.2085579514824798

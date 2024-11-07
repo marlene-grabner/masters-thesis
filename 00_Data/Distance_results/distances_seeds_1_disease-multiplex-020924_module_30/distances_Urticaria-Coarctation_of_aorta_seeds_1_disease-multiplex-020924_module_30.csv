@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,10,27,0.7567567567567568
+1,disease_on_symptoms,27,14,2.4529294102464836
+2,disease_on_drugs,9,13,1.0454545454545454

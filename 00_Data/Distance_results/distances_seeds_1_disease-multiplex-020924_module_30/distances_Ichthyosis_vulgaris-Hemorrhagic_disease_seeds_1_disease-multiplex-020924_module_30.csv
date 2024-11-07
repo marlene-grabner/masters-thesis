@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,24,0.3146786492374727
+1,disease_on_symptoms,21,19,1.473496240601504
+2,disease_on_drugs,27,19,0.6121281464530894

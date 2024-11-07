@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,24,28,0.20329670329670346
+1,disease_on_symptoms,21,19,1.4529448621553884
+2,disease_on_drugs,18,26,0.744949494949495

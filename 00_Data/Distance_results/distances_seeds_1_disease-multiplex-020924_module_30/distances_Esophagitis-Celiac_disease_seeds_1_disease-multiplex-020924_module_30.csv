@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,24,17,0.19769820971867014
+1,disease_on_symptoms,23,22,0.4685990338164252
+2,disease_on_drugs,20,15,0.3988095238095237

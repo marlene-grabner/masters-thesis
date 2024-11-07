@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.30999999999999983
+1,disease_on_symptoms,23,25,1.5041666666666664
+2,disease_on_drugs,30,23,1.0829368334700575

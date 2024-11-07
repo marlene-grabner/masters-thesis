@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,0.34615384615384626
+1,disease_on_symptoms,21,17,1.2466460268317854
+2,disease_on_drugs,25,18,0.8165891472868219

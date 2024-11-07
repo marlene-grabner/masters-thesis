@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,25,26,-0.05882352941176472
+1,disease_on_symptoms,23,21,0.255175983436853
+2,disease_on_drugs,21,25,-0.28223602484472043

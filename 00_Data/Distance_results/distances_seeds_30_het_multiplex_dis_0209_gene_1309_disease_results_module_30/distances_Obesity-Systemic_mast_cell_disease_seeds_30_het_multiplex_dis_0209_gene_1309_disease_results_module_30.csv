@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,-0.037698412698412787
+1,disease_on_symptoms,18,25,0.6069250645994833
+2,disease_on_drugs,25,21,0.11532091097308483

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,23,27,0.2614814814814814
+1,disease_on_symptoms,24,21,0.7482142857142855
+2,disease_on_drugs,22,24,0.6086133069828723

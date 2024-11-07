@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,27,13,0.42257834757834734
+1,disease_on_symptoms,21,25,2.6577639751552797
+2,disease_on_drugs,27,8,0.6285714285714286

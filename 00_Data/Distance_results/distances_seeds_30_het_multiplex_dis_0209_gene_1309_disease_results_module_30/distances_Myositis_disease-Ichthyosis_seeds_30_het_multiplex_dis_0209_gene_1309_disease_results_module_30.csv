@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.10348932676518896
+1,disease_on_symptoms,18,18,0.0
+2,disease_on_drugs,26,25,-0.03473604826545995

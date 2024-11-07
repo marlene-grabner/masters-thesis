@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Myalgia nodes,sAB
+0,disease_on_genes,24,30,0.012499999999999956
+1,disease_on_symptoms,20,16,0.6180555555555554
+2,disease_on_drugs,22,29,0.5655080213903743

@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,29,0.03571428571428581
+1,disease_on_symptoms,22,11,0.6893939393939394
+2,disease_on_drugs,27,24,0.412037037037037

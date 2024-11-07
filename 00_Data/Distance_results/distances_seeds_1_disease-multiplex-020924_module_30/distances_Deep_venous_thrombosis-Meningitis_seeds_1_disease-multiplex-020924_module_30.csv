@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,0.35147135079076985
+1,disease_on_symptoms,14,20,1.562394957983193
+2,disease_on_drugs,24,26,1.1600000000000001

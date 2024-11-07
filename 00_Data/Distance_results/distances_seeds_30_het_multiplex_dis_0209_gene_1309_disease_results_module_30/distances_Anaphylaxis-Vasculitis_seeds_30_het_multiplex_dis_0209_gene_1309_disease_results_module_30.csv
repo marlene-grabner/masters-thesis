@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,26,0.03808525506638705
+1,disease_on_symptoms,14,18,1.9265873015873014
+2,disease_on_drugs,26,26,0.11538461538461542

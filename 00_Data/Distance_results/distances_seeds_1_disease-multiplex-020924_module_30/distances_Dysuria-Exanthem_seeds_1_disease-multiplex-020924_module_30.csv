@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.40653357531760426
+1,disease_on_symptoms,16,26,1.4840888278388278
+2,disease_on_drugs,23,28,0.33295274631591765

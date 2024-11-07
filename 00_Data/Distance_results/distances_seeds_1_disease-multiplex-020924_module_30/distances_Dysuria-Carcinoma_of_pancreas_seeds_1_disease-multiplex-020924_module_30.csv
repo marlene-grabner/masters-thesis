@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.3852785145888593
+1,disease_on_symptoms,16,25,1.2103963414634147
+2,disease_on_drugs,23,21,1.2964426877470356

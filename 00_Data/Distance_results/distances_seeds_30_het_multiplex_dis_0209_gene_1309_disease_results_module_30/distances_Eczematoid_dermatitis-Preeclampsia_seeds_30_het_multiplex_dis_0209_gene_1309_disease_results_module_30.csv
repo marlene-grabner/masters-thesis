@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.1929824561403508
+1,disease_on_symptoms,25,18,1.2955297157622738
+2,disease_on_drugs,30,22,0.20524475524475516

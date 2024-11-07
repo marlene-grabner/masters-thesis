@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,22,17,0.12762237762237771
+2,disease_on_drugs,24,30,0.19074074074074066

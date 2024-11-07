@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,26,21,0.06129685916919958
+1,disease_on_symptoms,21,22,1.7731299708043893
+2,disease_on_drugs,24,21,0.10158730158730167

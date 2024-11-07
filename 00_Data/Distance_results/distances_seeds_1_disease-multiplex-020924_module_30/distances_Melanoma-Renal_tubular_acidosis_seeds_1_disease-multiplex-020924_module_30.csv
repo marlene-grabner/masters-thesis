@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,24,18,0.44047619047619024
+1,disease_on_symptoms,23,18,3.4638564863909505
+2,disease_on_drugs,22,10,0.6187499999999999

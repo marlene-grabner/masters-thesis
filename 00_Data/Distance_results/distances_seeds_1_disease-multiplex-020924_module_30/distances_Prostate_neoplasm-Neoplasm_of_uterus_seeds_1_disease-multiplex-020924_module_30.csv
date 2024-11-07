@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,17,28,-0.32240896358543414
+1,disease_on_symptoms,21,19,0.01923558897243116
+2,disease_on_drugs,17,28,-0.21001400560224104

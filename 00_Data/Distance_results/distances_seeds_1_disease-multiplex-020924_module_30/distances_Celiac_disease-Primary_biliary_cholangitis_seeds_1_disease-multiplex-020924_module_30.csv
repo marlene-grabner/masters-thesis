@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,17,26,0.27078291065979143
+1,disease_on_symptoms,22,17,0.548265460030166
+2,disease_on_drugs,15,18,0.8303030303030303

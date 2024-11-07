@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,26,28,0.2420634920634921
+1,disease_on_symptoms,21,15,1.3753968253968254
+2,disease_on_drugs,24,21,0.9111111111111112

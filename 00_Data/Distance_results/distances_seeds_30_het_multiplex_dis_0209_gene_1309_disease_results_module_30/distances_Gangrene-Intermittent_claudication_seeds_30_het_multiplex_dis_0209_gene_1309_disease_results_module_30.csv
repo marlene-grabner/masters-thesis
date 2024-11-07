@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,30,-0.26315789473684215
+1,disease_on_symptoms,22,14,-0.43181818181818166
+2,disease_on_drugs,27,24,-0.3735021786492375

@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.20338983050847448
+1,disease_on_symptoms,9,20,0.5181034482758622
+2,disease_on_drugs,23,27,0.4737520128824475

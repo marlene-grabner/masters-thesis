@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,19,-0.37174016121384557
+2,disease_on_drugs,27,24,-0.18423202614379086

@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.28910256410256396
+1,disease_on_symptoms,17,14,0.6211710490647873
+2,disease_on_drugs,18,30,0.7791666666666668

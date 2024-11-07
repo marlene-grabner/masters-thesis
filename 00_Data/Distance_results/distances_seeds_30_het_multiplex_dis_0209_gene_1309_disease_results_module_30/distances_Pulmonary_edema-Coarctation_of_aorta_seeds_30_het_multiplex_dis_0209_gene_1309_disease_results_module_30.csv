@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.1413255360623783
+1,disease_on_symptoms,11,19,-0.09665071770334932
+2,disease_on_drugs,27,24,-0.12050653594771243

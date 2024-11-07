@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,20,21,0.5397212543554004
+2,disease_on_drugs,27,30,-0.013157894736842257

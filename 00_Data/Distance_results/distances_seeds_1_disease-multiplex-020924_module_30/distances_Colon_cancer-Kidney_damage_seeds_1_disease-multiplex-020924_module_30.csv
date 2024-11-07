@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.4677257525083611
+1,disease_on_symptoms,21,26,1.4808861351414544
+2,disease_on_drugs,24,13,0.8076923076923077

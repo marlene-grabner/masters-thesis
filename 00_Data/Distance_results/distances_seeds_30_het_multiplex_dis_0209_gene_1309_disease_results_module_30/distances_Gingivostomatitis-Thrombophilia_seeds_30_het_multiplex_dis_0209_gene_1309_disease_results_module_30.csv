@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,-0.03421052631578947
+1,disease_on_symptoms,15,18,0.37020202020202
+2,disease_on_drugs,30,22,0.2087412587412587

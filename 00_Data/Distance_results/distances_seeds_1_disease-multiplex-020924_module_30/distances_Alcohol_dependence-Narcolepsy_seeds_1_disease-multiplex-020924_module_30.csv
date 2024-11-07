@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,12,25,-0.02058558558558543
+1,disease_on_symptoms,27,21,1.3349867724867726
+2,disease_on_drugs,9,20,0.0018199233716476027

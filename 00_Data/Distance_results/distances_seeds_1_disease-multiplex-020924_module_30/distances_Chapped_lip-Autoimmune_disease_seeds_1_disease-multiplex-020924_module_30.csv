@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,22,0.17992424242424243
+1,disease_on_symptoms,21,19,1.345426065162907
+2,disease_on_drugs,24,19,0.3457772337821299

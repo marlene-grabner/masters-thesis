@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.2808176100628931
+1,disease_on_symptoms,19,19,0.1578947368421053
+2,disease_on_drugs,30,19,-0.24706408879341213

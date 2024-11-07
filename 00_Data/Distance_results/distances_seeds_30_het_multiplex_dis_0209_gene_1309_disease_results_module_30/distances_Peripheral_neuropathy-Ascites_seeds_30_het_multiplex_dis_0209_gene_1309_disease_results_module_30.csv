@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,21,22,-0.3758431490989631
+2,disease_on_drugs,29,27,-0.21649790184272932

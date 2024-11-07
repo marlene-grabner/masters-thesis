@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,28,27,0.07305194805194803
+1,disease_on_symptoms,19,17,1.1506707946336432
+2,disease_on_drugs,22,17,0.35287261757849997

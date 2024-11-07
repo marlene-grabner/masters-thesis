@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,24,23,0.17391304347826098
+1,disease_on_symptoms,23,19,1.5521412226217715
+2,disease_on_drugs,20,19,0.9750000000000001

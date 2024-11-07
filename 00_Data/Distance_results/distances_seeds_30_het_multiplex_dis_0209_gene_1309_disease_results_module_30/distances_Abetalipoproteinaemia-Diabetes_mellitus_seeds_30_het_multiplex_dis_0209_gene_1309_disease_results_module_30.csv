@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,14,21,-0.06428571428571417
+1,disease_on_symptoms,26,22,0.4035547785547786
+2,disease_on_drugs,14,19,0.10543403964456588

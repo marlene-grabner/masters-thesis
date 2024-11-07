@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,24,28,0.13474302764584078
+1,disease_on_symptoms,23,20,1.2735085945399396
+2,disease_on_drugs,20,28,0.7041666666666668

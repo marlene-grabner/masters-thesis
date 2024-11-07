@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.4324242424242424
+1,disease_on_symptoms,16,22,2.0508373205741623
+2,disease_on_drugs,21,24,0.9801587301587302

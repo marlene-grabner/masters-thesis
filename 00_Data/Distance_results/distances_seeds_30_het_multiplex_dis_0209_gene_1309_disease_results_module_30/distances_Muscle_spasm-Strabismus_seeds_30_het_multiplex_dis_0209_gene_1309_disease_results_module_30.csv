@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.31414267834793497
+1,disease_on_symptoms,15,24,-0.045192307692307754
+2,disease_on_drugs,29,16,-0.22751436781609202

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,29,0.35775862068965525
+1,disease_on_symptoms,17,16,1.7595811051693404
+2,disease_on_drugs,25,24,1.3265306122448979

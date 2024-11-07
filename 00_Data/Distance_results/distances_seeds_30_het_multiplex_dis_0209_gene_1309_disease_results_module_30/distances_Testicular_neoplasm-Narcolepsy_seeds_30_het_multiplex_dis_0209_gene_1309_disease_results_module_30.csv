@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,-0.040000000000000036
+1,disease_on_symptoms,26,20,1.3057692307692306
+2,disease_on_drugs,24,21,0.0452380952380953

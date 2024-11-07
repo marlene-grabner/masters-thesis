@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,21,23,0.3694711086015432
+1,disease_on_symptoms,22,24,1.529479578392622
+2,disease_on_drugs,21,17,0.9624060150375939

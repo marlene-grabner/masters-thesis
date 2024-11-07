@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,-0.17236467236467246
+1,disease_on_symptoms,25,21,0.2616563146997928
+2,disease_on_drugs,24,24,-0.1875

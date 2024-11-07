@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,22,26,-0.20833333333333337
+1,disease_on_symptoms,21,22,0.21330413772274226
+2,disease_on_drugs,21,26,-0.12298339957914428

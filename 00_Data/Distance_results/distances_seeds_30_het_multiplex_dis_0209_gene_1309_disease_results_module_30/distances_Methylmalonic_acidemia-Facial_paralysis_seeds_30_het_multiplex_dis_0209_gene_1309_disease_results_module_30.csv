@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,22,-0.04255319148936165
+1,disease_on_symptoms,17,21,0.698953265516733
+2,disease_on_drugs,21,17,-0.027347781217750278

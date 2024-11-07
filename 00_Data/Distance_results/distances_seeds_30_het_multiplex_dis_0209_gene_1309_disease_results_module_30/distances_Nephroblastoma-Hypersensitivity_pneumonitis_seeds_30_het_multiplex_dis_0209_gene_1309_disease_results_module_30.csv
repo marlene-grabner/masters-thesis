@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,29,25,0.0012771392081738497
+1,disease_on_symptoms,20,20,0.3500000000000001
+2,disease_on_drugs,24,25,-0.042159863945578246

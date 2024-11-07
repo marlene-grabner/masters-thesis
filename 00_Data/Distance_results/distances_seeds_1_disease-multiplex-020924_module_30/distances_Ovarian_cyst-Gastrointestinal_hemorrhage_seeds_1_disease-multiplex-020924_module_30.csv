@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,20,27,0.20711189913317574
+1,disease_on_symptoms,22,19,0.31085891002450694
+2,disease_on_drugs,15,27,0.9476190476190474

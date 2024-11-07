@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Obesity nodes,sAB
+0,disease_on_genes,25,26,0.31371040723981913
+1,disease_on_symptoms,19,20,1.311875843454791
+2,disease_on_drugs,13,27,0.8245014245014244

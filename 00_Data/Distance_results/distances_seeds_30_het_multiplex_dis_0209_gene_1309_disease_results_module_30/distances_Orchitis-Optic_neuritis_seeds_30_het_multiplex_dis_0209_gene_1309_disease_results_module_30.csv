@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,-0.05769230769230771
+1,disease_on_symptoms,19,21,0.7204887218045113
+2,disease_on_drugs,25,27,-0.04165242165242167

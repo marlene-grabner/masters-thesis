@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.36363636363636354
+1,disease_on_symptoms,13,12,0.8883333333333336
+2,disease_on_drugs,22,18,0.6724747474747474

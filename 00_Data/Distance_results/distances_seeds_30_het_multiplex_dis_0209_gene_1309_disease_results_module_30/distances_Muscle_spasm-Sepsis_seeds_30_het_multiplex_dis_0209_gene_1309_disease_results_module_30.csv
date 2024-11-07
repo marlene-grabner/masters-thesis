@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,15,15,1.4666666666666668
+2,disease_on_drugs,29,25,0.5213282247765008

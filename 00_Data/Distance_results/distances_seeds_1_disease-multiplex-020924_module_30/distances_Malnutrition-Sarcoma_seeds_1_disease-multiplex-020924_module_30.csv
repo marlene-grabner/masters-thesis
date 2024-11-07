@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.13800904977375583
+1,disease_on_symptoms,18,26,2.1886169386169385
+2,disease_on_drugs,23,21,1.0454545454545454

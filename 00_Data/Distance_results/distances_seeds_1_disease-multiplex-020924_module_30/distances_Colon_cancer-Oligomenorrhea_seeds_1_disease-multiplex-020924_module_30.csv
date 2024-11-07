@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,28,0.42521367521367526
+1,disease_on_symptoms,21,12,1.7175324675324672
+2,disease_on_drugs,24,21,0.6174603174603175

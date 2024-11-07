@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,16,21,0.49593790218790224
+2,disease_on_drugs,28,29,0.4905798980209144

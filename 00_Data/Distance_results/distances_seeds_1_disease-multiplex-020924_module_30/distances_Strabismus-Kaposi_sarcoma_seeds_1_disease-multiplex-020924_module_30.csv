@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,13,15,0.2822344322344321
+1,disease_on_symptoms,26,27,2.0013304305757136
+2,disease_on_drugs,9,13,1.0808080808080807

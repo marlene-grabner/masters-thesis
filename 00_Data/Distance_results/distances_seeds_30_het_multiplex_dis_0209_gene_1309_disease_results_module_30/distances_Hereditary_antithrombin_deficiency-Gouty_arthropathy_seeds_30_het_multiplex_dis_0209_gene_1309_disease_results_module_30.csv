@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,28,28,0.0714285714285714
+1,disease_on_symptoms,16,18,0.2920751633986929
+2,disease_on_drugs,23,23,-0.021739130434782705

@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,0.1704966940815995
+1,disease_on_symptoms,15,21,0.44365079365079385
+2,disease_on_drugs,25,23,0.14666666666666672

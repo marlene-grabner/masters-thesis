@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,28,0.4003126503126504
+1,disease_on_symptoms,23,21,0.8006305288913984
+2,disease_on_drugs,15,28,0.22940199335548161

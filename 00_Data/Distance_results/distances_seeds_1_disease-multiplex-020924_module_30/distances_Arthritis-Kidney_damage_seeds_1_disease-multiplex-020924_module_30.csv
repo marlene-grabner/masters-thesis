@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.24
+1,disease_on_symptoms,19,26,0.5115834457939721
+2,disease_on_drugs,29,13,0.39882531261841603

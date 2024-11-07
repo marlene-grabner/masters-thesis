@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,21,30,-0.2591036414565826
+1,disease_on_symptoms,20,15,-0.28928571428571437
+2,disease_on_drugs,21,30,-0.08389355742296944

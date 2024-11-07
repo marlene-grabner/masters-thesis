@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,27,30,0.14035087719298245
+1,disease_on_symptoms,20,15,1.1809523809523812
+2,disease_on_drugs,27,23,0.45130434782608697

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Atypical_absence_seizure nodes,sAB
+0,disease_on_genes,26,30,-0.09065934065934056
+1,disease_on_symptoms,17,13,0.4571644042232279
+2,disease_on_drugs,24,22,0.41641963109354396

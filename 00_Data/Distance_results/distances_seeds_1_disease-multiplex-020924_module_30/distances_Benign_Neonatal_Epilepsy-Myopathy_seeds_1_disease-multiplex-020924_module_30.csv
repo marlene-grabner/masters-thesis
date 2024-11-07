@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Myopathy nodes,sAB
+0,disease_on_genes,29,18,0.5697399527186762
+1,disease_on_symptoms,16,21,2.8194578507078507
+2,disease_on_drugs,26,6,1.1145833333333335

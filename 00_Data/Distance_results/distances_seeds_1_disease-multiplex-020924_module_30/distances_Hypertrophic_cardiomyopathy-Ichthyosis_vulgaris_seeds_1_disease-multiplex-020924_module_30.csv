@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.38576998050682265
+1,disease_on_symptoms,17,21,1.7622733303847855
+2,disease_on_drugs,17,27,0.6136363636363635

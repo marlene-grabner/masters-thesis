@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,13,17,-0.17224736048265465
+2,disease_on_drugs,29,27,0.12301587301587302

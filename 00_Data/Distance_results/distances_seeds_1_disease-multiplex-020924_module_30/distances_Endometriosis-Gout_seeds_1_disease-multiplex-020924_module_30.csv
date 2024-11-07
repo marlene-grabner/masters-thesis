@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Gout nodes,sAB
+0,disease_on_genes,30,25,0.26727272727272733
+1,disease_on_symptoms,12,18,0.6333333333333333
+2,disease_on_drugs,27,23,0.6399999999999999

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,28,27,0.05454545454545445
+1,disease_on_symptoms,16,21,0.5938706563706564
+2,disease_on_drugs,23,27,-0.07964573268921105

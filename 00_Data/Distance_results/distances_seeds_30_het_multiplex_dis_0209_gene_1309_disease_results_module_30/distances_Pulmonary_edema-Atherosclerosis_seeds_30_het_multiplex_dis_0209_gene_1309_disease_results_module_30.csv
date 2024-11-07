@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,11,14,-0.39454545454545453
+2,disease_on_drugs,27,29,-0.1971811713191024

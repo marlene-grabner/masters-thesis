@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,22,29,0.019607843137254832
+1,disease_on_symptoms,21,16,0.3638191763191765
+2,disease_on_drugs,17,29,0.12862686303906878

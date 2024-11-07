@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,22,30,-0.12261072261072248
+1,disease_on_symptoms,23,20,1.165293225480283
+2,disease_on_drugs,17,30,-0.03754693366708395

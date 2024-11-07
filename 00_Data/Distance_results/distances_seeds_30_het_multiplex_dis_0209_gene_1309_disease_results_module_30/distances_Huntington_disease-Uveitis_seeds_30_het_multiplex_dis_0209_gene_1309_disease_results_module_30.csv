@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,20,0.40922098569157406
+2,disease_on_drugs,26,23,-0.023991536413896508

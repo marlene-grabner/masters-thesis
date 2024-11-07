@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,-0.0007692307692308553
+1,disease_on_symptoms,23,22,1.065415019762846
+2,disease_on_drugs,24,24,0.5208333333333333

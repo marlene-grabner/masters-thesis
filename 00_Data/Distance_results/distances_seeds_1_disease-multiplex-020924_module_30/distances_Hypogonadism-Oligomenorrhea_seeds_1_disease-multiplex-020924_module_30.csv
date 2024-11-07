@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,-0.368421052631579
+1,disease_on_symptoms,12,12,-0.33333333333333326
+2,disease_on_drugs,30,21,-0.4214285714285716

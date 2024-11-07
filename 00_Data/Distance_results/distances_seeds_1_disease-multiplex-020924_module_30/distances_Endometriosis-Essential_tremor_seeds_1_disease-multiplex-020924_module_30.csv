@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.3137254901960784
+1,disease_on_symptoms,12,20,1.1583333333333332
+2,disease_on_drugs,27,19,0.6258581235697942

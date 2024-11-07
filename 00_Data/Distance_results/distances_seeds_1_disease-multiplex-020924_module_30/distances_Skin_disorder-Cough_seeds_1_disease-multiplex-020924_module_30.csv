@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Cough nodes,sAB
+0,disease_on_genes,7,27,0.03190164954870833
+1,disease_on_symptoms,30,21,1.2666666666666666
+2,disease_on_drugs,6,27,0.3341750841750841

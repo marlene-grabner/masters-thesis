@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,27,30,-0.43957115009746595
+1,disease_on_symptoms,23,21,-0.5659702616224355
+2,disease_on_drugs,25,27,-0.4446723646723646

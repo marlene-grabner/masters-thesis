@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,18,18,1.0000000000000002
+2,disease_on_drugs,30,22,0.08986013986013974

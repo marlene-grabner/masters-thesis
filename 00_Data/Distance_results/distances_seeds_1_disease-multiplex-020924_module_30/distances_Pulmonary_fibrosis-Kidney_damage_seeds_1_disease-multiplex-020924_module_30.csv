@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.19734848484848477
+1,disease_on_symptoms,22,26,1.13243006993007
+2,disease_on_drugs,24,13,0.13201663201663205

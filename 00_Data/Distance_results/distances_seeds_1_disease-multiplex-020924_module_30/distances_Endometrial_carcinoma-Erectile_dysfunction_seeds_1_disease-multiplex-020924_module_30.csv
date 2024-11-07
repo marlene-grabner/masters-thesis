@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,23,30,-0.044148208914410736
+1,disease_on_symptoms,21,16,0.32693854568854563
+2,disease_on_drugs,21,30,0.13347338935574227

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Headache nodes,sAB
+0,disease_on_genes,26,30,0.1797619047619048
+1,disease_on_symptoms,21,25,1.358343685300207
+2,disease_on_drugs,24,26,0.7607692307692309

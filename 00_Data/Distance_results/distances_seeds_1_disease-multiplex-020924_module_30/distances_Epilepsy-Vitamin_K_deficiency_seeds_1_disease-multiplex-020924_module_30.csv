@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,29,25,0.12222222222222223
+1,disease_on_symptoms,18,23,0.9861258395192647
+2,disease_on_drugs,30,20,0.7733333333333332

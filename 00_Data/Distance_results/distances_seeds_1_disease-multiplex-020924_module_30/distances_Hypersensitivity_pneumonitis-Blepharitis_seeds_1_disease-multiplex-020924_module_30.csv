@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,24,20,-0.18409090909090897
+1,disease_on_symptoms,23,27,0.08679549114331708
+2,disease_on_drugs,24,19,-0.2851897184822523

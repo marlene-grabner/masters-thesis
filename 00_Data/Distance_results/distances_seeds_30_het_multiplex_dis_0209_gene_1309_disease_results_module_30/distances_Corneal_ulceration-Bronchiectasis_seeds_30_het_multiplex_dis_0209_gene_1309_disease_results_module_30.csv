@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,28,30,-0.017857142857142794
+1,disease_on_symptoms,15,19,0.024664602683178494
+2,disease_on_drugs,23,25,-0.06293478260869567

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,25,16,0.42753048780487823
+2,disease_on_drugs,27,30,-0.02631578947368407

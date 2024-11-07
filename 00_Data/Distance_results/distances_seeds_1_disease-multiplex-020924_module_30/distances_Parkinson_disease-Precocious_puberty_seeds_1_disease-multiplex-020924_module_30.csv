@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,21,30,0.19775910364145655
+1,disease_on_symptoms,20,14,1.0642857142857143
+2,disease_on_drugs,19,24,0.6046511627906976

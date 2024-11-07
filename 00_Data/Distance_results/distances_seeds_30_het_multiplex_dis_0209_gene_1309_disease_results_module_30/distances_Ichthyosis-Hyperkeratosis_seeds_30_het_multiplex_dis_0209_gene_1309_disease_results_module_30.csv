@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,28,26,-0.5556064306064308
+1,disease_on_symptoms,18,25,-0.6922222222222221
+2,disease_on_drugs,25,25,-0.5000000000000001

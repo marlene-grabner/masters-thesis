@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,26,30,0.016483516483516647
+1,disease_on_symptoms,20,18,0.21520467836257295
+2,disease_on_drugs,20,30,-0.1200000000000001

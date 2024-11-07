@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,24,27,-0.2538126361655775
+1,disease_on_symptoms,22,19,0.4239701248687129
+2,disease_on_drugs,21,24,-0.28988095238095224

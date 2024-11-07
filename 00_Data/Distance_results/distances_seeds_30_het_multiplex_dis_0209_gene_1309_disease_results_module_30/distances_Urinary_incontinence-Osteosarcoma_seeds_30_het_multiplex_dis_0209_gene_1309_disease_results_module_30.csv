@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,29,30,0.03446327683615835
+1,disease_on_symptoms,20,22,0.932034632034632
+2,disease_on_drugs,20,29,0.5913441238564394

@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,29,30,-0.016949152542372836
+1,disease_on_symptoms,17,18,1.064425770308123
+2,disease_on_drugs,27,26,0.13306993495672748

@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Diarrhea nodes,sAB
+0,disease_on_genes,24,30,-0.18518518518518523
+1,disease_on_symptoms,22,21,0.9311889660726869
+2,disease_on_drugs,21,29,-0.12801313628899846

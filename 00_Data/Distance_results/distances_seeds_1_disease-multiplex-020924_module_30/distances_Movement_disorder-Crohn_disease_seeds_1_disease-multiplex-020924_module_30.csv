@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.5546296296296296
+1,disease_on_symptoms,22,20,1.689177489177489
+2,disease_on_drugs,15,21,0.7968253968253969

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,26,23,0.16044979864855646
+1,disease_on_symptoms,20,21,0.8740998838559815
+2,disease_on_drugs,27,21,0.43320105820105836

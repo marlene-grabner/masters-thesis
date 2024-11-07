@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,23,0.35518053375196246
+1,disease_on_symptoms,20,25,0.7894444444444444
+2,disease_on_drugs,20,21,1.3414634146341462

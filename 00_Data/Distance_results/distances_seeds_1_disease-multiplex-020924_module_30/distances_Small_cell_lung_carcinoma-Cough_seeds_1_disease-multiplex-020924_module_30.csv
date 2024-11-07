@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Cough nodes,sAB
+0,disease_on_genes,27,27,0.14814814814814814
+1,disease_on_symptoms,24,21,0.9694444444444443
+2,disease_on_drugs,25,27,0.6721937321937319

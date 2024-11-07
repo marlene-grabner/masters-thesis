@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.47016591251885376
+1,disease_on_symptoms,21,23,2.3434970826275174
+2,disease_on_drugs,24,21,1.3121031746031744

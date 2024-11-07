@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.125
+1,disease_on_symptoms,14,21,0.1261904761904762
+2,disease_on_drugs,24,26,-0.14032051282051272

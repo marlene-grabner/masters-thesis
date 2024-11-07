@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,14,18,0.08928571428571441
+1,disease_on_symptoms,27,21,0.6795634920634921
+2,disease_on_drugs,8,17,0.6092647058823528

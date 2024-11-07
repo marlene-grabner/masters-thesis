@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,16,27,0.23656869078380693
+1,disease_on_symptoms,23,17,1.7048593350383632
+2,disease_on_drugs,16,20,0.4409722222222223

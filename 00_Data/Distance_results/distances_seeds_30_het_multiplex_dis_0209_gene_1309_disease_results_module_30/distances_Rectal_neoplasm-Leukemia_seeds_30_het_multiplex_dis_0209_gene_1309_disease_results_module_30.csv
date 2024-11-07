@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,20,21,-0.6084494773519165
+2,disease_on_drugs,29,30,-0.16954022988505746

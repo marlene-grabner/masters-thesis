@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,20,30,0.14166666666666683
+1,disease_on_symptoms,25,17,0.9856582633053219
+2,disease_on_drugs,19,26,0.9918128654970757

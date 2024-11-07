@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.016666666666666607
+1,disease_on_symptoms,18,17,1.2639122315592903
+2,disease_on_drugs,21,24,0.26408730158730154

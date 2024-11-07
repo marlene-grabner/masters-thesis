@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,28,0.22454844006568164
+1,disease_on_symptoms,16,21,1.0997828185328187
+2,disease_on_drugs,23,24,0.7021276595744681

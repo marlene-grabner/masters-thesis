@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,23,22,0.11023276240667546
+2,disease_on_drugs,23,28,-0.06925161368895405

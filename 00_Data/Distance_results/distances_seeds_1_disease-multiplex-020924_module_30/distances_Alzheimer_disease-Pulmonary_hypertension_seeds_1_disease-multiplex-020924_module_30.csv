@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,20,28,0.019642857142857073
+1,disease_on_symptoms,23,20,1.0298281092012134
+2,disease_on_drugs,18,28,0.28260869565217384

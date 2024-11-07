@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.5517241379310345
+1,disease_on_symptoms,18,15,-0.7924242424242425
+2,disease_on_drugs,30,29,-0.6607344632768362

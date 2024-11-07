@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,26,18,0.3393550893550894
+1,disease_on_symptoms,20,28,1.1654761904761906
+2,disease_on_drugs,27,17,0.3814121608239256

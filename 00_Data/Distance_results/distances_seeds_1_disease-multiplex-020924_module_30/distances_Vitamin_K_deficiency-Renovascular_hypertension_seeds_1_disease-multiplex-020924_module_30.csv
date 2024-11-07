@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,25,21,-0.06066252587991716
+1,disease_on_symptoms,23,22,2.3839701361440495
+2,disease_on_drugs,20,20,0.2749999999999999

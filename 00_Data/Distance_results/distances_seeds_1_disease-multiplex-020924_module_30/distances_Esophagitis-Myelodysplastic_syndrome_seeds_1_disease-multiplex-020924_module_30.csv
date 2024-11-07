@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,24,26,0.2830523513753327
+1,disease_on_symptoms,23,15,1.8060259344012204
+2,disease_on_drugs,20,21,0.8791811846689894

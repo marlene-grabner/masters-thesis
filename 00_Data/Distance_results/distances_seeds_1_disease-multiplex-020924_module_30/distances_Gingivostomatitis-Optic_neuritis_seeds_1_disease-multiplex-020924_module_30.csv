@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.015984405458089546
+1,disease_on_symptoms,23,16,0.11876393534002205
+2,disease_on_drugs,29,27,0.036238825031928545

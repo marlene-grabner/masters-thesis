@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,27,28,0.03602693602693585
+1,disease_on_symptoms,22,17,0.46414369943781697
+2,disease_on_drugs,22,19,0.06494340063017856

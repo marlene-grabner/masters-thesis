@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,17,0.409261576971214
+1,disease_on_symptoms,14,22,2.765873015873016
+2,disease_on_drugs,27,15,0.5962962962962963

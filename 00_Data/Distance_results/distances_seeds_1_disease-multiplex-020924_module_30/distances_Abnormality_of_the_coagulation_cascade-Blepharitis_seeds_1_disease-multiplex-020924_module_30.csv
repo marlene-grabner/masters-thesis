@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Blepharitis nodes,sAB
+0,disease_on_genes,23,20,0.5144337714863498
+1,disease_on_symptoms,23,27,0.7702737520128826
+2,disease_on_drugs,18,19,0.9443654180496281

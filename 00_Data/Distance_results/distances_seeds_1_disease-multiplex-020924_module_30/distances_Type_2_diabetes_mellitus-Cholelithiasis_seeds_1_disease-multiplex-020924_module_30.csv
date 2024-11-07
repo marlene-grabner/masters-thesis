@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,16,25,0.1871341463414633
+1,disease_on_symptoms,21,19,3.493859649122807
+2,disease_on_drugs,15,18,1.4873737373737375

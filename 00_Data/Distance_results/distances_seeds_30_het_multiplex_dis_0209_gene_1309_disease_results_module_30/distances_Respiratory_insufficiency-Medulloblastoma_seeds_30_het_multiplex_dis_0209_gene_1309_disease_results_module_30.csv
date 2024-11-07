@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111116
+1,disease_on_symptoms,21,22,0.650256720024162
+2,disease_on_drugs,25,26,0.21288084464555057

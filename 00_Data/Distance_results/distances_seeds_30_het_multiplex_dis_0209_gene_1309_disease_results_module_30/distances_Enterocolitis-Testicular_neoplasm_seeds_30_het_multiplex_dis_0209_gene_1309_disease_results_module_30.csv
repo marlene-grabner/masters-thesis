@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,0.03769230769230769
+1,disease_on_symptoms,21,26,0.8417114800093524
+2,disease_on_drugs,25,24,0.16442176870748293

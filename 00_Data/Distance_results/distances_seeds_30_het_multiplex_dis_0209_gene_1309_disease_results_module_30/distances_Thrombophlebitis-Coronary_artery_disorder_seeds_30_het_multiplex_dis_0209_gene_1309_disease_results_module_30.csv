@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.05947497949138647
+1,disease_on_symptoms,18,19,0.8556187766714083
+2,disease_on_drugs,29,22,-0.015520314708955762

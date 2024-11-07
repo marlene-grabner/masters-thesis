@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,-0.019287749287749456
+1,disease_on_symptoms,23,20,1.090520728008089
+2,disease_on_drugs,25,22,0.514294003868472

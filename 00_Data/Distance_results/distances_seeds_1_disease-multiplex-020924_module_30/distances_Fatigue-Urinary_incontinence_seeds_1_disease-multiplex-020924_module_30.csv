@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,26,26,0.1346153846153848
+1,disease_on_symptoms,21,20,0.6528745644599305
+2,disease_on_drugs,26,20,0.2658862876254182

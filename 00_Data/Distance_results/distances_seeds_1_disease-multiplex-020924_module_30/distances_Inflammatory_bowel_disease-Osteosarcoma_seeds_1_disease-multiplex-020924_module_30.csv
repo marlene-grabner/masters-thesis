@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,17,25,0.16140243902439022
+1,disease_on_symptoms,27,24,1.0382625272331156
+2,disease_on_drugs,14,23,0.28861003861003875

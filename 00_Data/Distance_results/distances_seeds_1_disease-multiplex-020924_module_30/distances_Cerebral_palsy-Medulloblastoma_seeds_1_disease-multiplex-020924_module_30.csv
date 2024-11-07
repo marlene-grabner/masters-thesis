@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,27,26,0.19147449336128575
+1,disease_on_symptoms,16,19,0.8416353383458646
+2,disease_on_drugs,18,24,0.669642857142857

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,29,30,0.0680790960451978
+1,disease_on_symptoms,23,20,0.34087462082912023
+2,disease_on_drugs,26,29,0.16204485170002392

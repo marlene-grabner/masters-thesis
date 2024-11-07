@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,16,17,-0.09893048128342241
+2,disease_on_drugs,29,24,-0.10676913901539797

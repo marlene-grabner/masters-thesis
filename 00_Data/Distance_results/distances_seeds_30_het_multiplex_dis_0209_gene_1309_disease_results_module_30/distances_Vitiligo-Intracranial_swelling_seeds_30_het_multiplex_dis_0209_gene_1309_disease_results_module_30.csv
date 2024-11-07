@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,19,11,-0.048963317384369986
+2,disease_on_drugs,25,21,0.10256728778467927

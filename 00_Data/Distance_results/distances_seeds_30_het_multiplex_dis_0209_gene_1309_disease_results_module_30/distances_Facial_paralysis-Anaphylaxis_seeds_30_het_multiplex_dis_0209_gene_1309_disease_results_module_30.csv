@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,22,27,0.0835222978080119
+1,disease_on_symptoms,21,14,1.030952380952381
+2,disease_on_drugs,17,26,0.1611859412817005

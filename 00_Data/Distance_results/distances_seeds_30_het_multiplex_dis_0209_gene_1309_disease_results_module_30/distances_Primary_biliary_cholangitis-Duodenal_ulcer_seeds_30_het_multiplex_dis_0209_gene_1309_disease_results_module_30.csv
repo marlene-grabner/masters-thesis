@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,26,28,0.11111111111111116
+1,disease_on_symptoms,23,17,0.5349744245524295
+2,disease_on_drugs,26,28,0.1100427350427351

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,17,14,0.19354838709677402
+2,disease_on_drugs,26,29,0.0693633952254642

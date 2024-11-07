@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Leukemia nodes,sAB
+0,disease_on_genes,27,18,-0.0888888888888889
+1,disease_on_symptoms,23,27,0.780644122383253
+2,disease_on_drugs,20,17,-0.007154213036566048

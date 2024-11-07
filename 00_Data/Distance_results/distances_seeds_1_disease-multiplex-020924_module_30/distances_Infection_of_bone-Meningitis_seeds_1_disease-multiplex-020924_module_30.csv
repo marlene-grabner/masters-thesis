@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.018905232698336105
+1,disease_on_symptoms,21,20,0.9004936120789782
+2,disease_on_drugs,24,26,-0.0625

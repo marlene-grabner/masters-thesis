@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.29500000000000015
+1,disease_on_symptoms,13,27,0.5855413105413105
+2,disease_on_drugs,29,19,0.4682017543859647

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,28,25,0.4020146520146519
+1,disease_on_symptoms,14,20,2.157983193277311
+2,disease_on_drugs,24,21,0.7968253968253969

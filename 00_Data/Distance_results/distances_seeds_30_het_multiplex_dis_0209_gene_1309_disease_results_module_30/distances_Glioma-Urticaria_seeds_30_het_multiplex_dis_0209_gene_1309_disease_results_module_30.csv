@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Urticaria nodes,sAB
+0,disease_on_genes,22,24,-0.10869565217391308
+1,disease_on_symptoms,21,21,0.7380952380952381
+2,disease_on_drugs,21,24,0.024404761904761818

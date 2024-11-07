@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,0.09027777777777768
+1,disease_on_symptoms,12,19,0.6088002263723822
+2,disease_on_drugs,28,19,-0.013637817949127884

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.24909090909090903
+1,disease_on_symptoms,18,12,1.7166666666666668
+2,disease_on_drugs,23,22,0.711111111111111

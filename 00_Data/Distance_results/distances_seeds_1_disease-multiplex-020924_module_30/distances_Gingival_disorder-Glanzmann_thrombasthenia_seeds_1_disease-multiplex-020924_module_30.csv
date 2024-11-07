@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,21,24,0.1077380952380953
+1,disease_on_symptoms,26,21,1.2331073182137011
+2,disease_on_drugs,20,24,0.8731060606060608

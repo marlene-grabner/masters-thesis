@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,28,-0.482142857142857
+1,disease_on_symptoms,26,25,-0.5345701357466064
+2,disease_on_drugs,28,23,-0.5928784557301181

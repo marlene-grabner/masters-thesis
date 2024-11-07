@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Erythroderma nodes,sAB
+0,disease_on_genes,29,30,0.3225891291642313
+1,disease_on_symptoms,17,19,1.7260921912624698
+2,disease_on_drugs,26,28,0.9807692307692308

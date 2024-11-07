@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,16,30,0.048913043478260976
+1,disease_on_symptoms,26,21,0.2711402073104201
+2,disease_on_drugs,14,29,0.08179631114675234

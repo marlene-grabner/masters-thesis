@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.33394383394383387
+1,disease_on_symptoms,17,25,0.8364705882352941
+2,disease_on_drugs,18,23,0.6461647225167904

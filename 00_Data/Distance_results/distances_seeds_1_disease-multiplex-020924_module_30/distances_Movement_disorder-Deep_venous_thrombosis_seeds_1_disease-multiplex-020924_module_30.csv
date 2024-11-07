@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,28,0.4660509031198685
+1,disease_on_symptoms,22,14,2.128066378066378
+2,disease_on_drugs,15,24,0.823076923076923

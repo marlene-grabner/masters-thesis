@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,0.0
+1,disease_on_symptoms,17,21,0.5549904172195195
+2,disease_on_drugs,29,26,0.38210754762478905

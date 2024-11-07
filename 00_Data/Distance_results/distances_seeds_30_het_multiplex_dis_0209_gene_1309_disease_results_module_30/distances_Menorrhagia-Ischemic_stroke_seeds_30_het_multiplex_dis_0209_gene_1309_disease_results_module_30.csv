@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,16,16,0.4375
+2,disease_on_drugs,23,28,-0.14110644257703076

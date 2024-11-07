@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,20,27,0.09797084318360927
+1,disease_on_symptoms,22,21,0.5307812342696065
+2,disease_on_drugs,15,24,0.5714743589743589

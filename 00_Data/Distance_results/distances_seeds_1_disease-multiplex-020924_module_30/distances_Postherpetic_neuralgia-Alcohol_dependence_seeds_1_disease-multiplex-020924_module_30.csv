@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.29880952380952386
+1,disease_on_symptoms,15,27,0.5534391534391534
+2,disease_on_drugs,29,9,0.3190159306311757

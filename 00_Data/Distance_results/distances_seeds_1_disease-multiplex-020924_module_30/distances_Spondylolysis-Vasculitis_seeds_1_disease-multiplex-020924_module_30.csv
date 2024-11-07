@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.35607298474945526
+1,disease_on_symptoms,19,19,1.3947368421052633
+2,disease_on_drugs,20,20,0.32499999999999973

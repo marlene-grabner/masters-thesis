@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,-0.038098693759071045
+1,disease_on_symptoms,20,17,0.5125596184419712
+2,disease_on_drugs,27,26,0.26412406601085836

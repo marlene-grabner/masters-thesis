@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,25,28,0.1481940700808626
+1,disease_on_symptoms,16,21,0.4097490347490347
+2,disease_on_drugs,17,24,0.36083213773314204

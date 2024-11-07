@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,23,30,-0.26415094339622647
+1,disease_on_symptoms,22,17,-0.25407925407925425
+2,disease_on_drugs,21,30,-0.5366946778711483

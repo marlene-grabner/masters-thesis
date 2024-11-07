@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,24,22,0.2640974967061924
+1,disease_on_symptoms,23,22,1.264558629776021
+2,disease_on_drugs,20,14,0.544327731092437

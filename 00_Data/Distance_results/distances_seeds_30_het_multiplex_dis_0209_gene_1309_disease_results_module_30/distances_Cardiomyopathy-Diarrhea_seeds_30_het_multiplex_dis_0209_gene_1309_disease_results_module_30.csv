@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Diarrhea nodes,sAB
+0,disease_on_genes,25,30,-0.16727272727272735
+1,disease_on_symptoms,21,21,0.3571428571428572
+2,disease_on_drugs,24,29,0.055248319236608

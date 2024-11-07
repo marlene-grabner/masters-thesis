@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,20,16,-0.2972222222222225
+2,disease_on_drugs,27,29,-0.01751505199781067

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.1166666666666667
+1,disease_on_symptoms,16,22,1.3308911483253587
+2,disease_on_drugs,21,29,0.5006568144499179

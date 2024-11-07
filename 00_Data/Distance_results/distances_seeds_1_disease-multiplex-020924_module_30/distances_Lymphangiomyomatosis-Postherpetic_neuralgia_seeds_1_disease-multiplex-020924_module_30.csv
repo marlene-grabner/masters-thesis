@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,26,30,0.07261904761904758
+1,disease_on_symptoms,19,15,1.2152734778121772
+2,disease_on_drugs,22,29,0.7318673550925072

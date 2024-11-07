@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,28,27,-0.10909090909090913
+1,disease_on_symptoms,16,22,0.2508971291866029
+2,disease_on_drugs,23,26,-0.03300116033035305

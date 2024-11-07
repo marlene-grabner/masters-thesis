@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,28,30,0.05402298850574705
+1,disease_on_symptoms,21,20,0.85630081300813
+2,disease_on_drugs,21,30,0.5014005602240896

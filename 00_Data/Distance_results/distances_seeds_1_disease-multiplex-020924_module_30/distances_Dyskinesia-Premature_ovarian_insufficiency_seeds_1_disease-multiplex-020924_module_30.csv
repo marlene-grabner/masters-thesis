@@ -1,0 +1,4 @@
+,Layer,Dyskinesia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,24,23,0.4259751773049645
+1,disease_on_symptoms,17,22,1.4417935006170297
+2,disease_on_drugs,23,17,0.6867647058823527

@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.33218390804597697
+1,disease_on_symptoms,17,26,1.362201410081027
+2,disease_on_drugs,26,28,0.7414021164021165

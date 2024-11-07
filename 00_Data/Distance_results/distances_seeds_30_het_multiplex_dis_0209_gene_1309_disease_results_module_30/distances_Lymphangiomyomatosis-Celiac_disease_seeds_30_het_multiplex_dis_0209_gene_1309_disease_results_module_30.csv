@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,17,18,0.634453781512605
+2,disease_on_drugs,24,28,0.1371336996336996

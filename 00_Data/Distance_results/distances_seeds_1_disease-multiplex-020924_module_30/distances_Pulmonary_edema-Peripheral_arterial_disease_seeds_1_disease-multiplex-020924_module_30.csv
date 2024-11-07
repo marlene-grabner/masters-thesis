@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,30,25,-0.0945454545454546
+1,disease_on_symptoms,14,14,0.3214285714285714
+2,disease_on_drugs,27,22,0.18745275888133017

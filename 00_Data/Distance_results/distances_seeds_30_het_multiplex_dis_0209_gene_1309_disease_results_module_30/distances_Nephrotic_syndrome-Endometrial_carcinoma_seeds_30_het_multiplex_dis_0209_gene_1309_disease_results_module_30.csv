@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,15,21,0.43492063492063493
+2,disease_on_drugs,28,26,0.03744403744403746

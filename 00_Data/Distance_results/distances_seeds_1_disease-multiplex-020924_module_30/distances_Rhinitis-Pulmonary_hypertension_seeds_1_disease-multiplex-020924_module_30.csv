@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.2396962233169131
+1,disease_on_symptoms,15,20,-0.47142857142857153
+2,disease_on_drugs,22,28,-0.16000000000000003

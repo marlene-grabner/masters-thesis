@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,28,0.3214285714285714
+1,disease_on_symptoms,19,25,1.0858373205741625
+2,disease_on_drugs,26,23,0.5686130639546789

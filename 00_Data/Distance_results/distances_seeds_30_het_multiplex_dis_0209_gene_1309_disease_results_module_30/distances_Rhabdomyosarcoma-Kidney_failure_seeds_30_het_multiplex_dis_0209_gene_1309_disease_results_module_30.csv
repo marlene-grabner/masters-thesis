@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,29,30,-0.253954802259887
+1,disease_on_symptoms,19,20,0.6420040485829959
+2,disease_on_drugs,29,28,-0.036394866476536114

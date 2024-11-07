@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,24,-0.21999999999999997
+1,disease_on_symptoms,22,21,0.30079029497634124
+2,disease_on_drugs,26,24,-0.15955128205128188

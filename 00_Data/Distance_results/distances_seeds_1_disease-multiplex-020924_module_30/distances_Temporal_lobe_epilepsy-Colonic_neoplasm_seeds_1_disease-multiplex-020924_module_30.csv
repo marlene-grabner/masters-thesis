@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,29,30,0.13530099357101122
+1,disease_on_symptoms,17,19,1.5594255245958029
+2,disease_on_drugs,26,29,1.0898601398601397

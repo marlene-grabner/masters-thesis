@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,23,12,0.37199792960662514
+1,disease_on_symptoms,19,27,2.890880583100263
+2,disease_on_drugs,19,9,0.8888888888888888

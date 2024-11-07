@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,26,27,-0.07547169811320753
+1,disease_on_symptoms,19,18,0.9791765449660186
+2,disease_on_drugs,25,22,0.01547388781431347

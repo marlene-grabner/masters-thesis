@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,29,20,0.13052427867698801
+1,disease_on_symptoms,15,23,0.9022883295194506
+2,disease_on_drugs,29,18,0.4295671313279532

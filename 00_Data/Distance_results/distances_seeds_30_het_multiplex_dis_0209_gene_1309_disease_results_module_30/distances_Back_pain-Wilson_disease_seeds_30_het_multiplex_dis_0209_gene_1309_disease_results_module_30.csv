@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,0.10909090909090913
+1,disease_on_symptoms,15,19,0.2321981424148607
+2,disease_on_drugs,23,22,0.045761967501098066

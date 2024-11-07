@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,21,25,0.1791304347826086
+1,disease_on_symptoms,24,23,1.150689947579402
+2,disease_on_drugs,20,23,0.9082659251769463

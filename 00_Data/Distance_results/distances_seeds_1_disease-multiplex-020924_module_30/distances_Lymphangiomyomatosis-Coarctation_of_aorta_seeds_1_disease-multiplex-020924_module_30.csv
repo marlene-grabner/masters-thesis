@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,26,27,0.35849056603773577
+1,disease_on_symptoms,19,14,2.266062884483937
+2,disease_on_drugs,22,13,0.8577922077922078

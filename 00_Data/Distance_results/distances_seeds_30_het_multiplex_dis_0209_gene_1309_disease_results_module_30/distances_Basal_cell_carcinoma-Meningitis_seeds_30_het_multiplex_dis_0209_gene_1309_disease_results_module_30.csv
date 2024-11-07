@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.03389830508474567
+1,disease_on_symptoms,24,17,0.46069464371114277
+2,disease_on_drugs,27,27,0.0185185185185186

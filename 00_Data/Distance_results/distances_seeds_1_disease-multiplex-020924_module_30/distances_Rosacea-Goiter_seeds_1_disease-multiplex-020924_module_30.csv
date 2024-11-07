@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.3195054945054945
+1,disease_on_symptoms,17,15,0.35539215686274517
+2,disease_on_drugs,27,16,0.4651162790697674

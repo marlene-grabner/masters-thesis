@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.2388706590101175
+1,disease_on_symptoms,24,21,0.5952380952380953
+2,disease_on_drugs,28,21,0.8188775510204083

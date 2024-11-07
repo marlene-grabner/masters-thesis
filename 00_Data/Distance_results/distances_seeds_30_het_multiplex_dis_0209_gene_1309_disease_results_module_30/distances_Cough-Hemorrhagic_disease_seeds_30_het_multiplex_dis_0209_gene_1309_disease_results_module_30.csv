@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,26,0.1132075471698113
+1,disease_on_symptoms,22,19,1.1653926945968023
+2,disease_on_drugs,24,24,0.27083333333333326

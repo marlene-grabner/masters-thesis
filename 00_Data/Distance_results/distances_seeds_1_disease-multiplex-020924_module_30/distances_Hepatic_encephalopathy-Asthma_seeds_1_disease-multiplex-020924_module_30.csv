@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Asthma nodes,sAB
+0,disease_on_genes,9,25,0.17281045751634005
+1,disease_on_symptoms,27,19,2.009026188660056
+2,disease_on_drugs,9,24,0.5037878787878789

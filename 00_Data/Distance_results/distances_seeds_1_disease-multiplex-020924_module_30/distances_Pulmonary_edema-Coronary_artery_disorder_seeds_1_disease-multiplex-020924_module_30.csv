@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.034908700322234365
+1,disease_on_symptoms,14,21,0.769047619047619
+2,disease_on_drugs,27,17,0.03114478114478092

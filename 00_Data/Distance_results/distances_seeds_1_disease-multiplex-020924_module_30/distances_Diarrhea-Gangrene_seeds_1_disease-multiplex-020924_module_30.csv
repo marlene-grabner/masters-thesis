@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Gangrene nodes,sAB
+0,disease_on_genes,27,26,-0.01712089447938503
+1,disease_on_symptoms,19,19,0.39473684210526305
+2,disease_on_drugs,26,23,0.3671933656405706

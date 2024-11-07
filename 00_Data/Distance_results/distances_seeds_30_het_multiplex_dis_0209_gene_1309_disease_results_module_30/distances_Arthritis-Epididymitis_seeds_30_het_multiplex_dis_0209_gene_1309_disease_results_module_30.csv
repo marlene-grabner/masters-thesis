@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,-0.3728813559322034
+1,disease_on_symptoms,20,23,-0.6858695652173914
+2,disease_on_drugs,29,26,-0.5470460573908851

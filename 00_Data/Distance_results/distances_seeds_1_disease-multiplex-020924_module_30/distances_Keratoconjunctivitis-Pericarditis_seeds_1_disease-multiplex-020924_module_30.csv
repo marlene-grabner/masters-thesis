@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,25,0.2407407407407407
+1,disease_on_symptoms,25,22,0.8824371373307545
+2,disease_on_drugs,27,25,0.25564102564102575

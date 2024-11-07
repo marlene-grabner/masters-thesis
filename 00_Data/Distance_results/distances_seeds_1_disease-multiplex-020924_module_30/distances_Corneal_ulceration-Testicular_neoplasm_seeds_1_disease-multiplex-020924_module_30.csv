@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,0.2440296495956873
+1,disease_on_symptoms,19,25,1.1775119617224883
+2,disease_on_drugs,26,23,0.4871339840283939

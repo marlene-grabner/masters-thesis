@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,22,23,0.20043917435221803
+1,disease_on_symptoms,20,20,0.8499999999999999
+2,disease_on_drugs,19,20,0.6929487179487179

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,21,21,0.11904761904761885
+1,disease_on_symptoms,22,22,1.75
+2,disease_on_drugs,21,20,0.3906794425087108

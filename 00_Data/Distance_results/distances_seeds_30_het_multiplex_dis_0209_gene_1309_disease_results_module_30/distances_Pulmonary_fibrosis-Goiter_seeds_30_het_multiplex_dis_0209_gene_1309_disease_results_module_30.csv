@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Goiter nodes,sAB
+0,disease_on_genes,25,26,0.23529411764705888
+1,disease_on_symptoms,22,12,1.0144830659536541
+2,disease_on_drugs,25,18,0.20297157622739004

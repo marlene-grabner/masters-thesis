@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.24137931034482762
+1,disease_on_symptoms,14,20,0.8632352941176471
+2,disease_on_drugs,22,28,0.3677272727272727

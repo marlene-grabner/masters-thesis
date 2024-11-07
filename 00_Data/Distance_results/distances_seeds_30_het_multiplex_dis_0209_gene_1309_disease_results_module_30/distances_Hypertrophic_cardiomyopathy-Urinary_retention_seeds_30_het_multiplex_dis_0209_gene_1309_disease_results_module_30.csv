@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,16,0.6179041353383459
+2,disease_on_drugs,22,28,-0.27655844155844145

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,-0.00399610136452222
+1,disease_on_symptoms,20,19,1.2554318488529015
+2,disease_on_drugs,30,26,0.8033882783882782

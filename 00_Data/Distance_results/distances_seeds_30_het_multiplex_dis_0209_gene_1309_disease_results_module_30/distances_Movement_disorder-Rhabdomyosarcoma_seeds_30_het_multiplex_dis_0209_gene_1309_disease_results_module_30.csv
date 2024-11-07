@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,29,-0.10141242937853101
+1,disease_on_symptoms,17,19,0.33995528035775724
+2,disease_on_drugs,26,29,-0.06347962382445149

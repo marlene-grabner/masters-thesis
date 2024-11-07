@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,15,15,0.0
+2,disease_on_drugs,29,30,0.15048704461328644

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,24,26,0.41916666666666647
+1,disease_on_symptoms,18,19,1.2670697012802277
+2,disease_on_drugs,18,24,1.0982142857142856

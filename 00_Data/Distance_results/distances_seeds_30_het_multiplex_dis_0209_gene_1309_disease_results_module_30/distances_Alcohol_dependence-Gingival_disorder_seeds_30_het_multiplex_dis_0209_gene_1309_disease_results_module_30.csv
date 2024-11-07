@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,19,0.17030188082819686
+2,disease_on_drugs,24,24,0.02083333333333326

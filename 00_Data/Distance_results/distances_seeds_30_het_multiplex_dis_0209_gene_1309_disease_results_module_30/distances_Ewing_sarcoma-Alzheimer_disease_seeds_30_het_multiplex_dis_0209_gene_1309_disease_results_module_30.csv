@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.13207547169811318
+1,disease_on_symptoms,17,19,0.439456484348125
+2,disease_on_drugs,24,19,-0.22350571195430435

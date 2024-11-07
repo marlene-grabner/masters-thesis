@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Constipation nodes,sAB
+0,disease_on_genes,28,30,0.08678160919540234
+1,disease_on_symptoms,18,16,0.8417075163398695
+2,disease_on_drugs,23,28,0.244093289489709

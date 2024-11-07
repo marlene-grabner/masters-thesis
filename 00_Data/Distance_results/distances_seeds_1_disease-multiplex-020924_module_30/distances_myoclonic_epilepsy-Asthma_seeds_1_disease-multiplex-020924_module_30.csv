@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.4557575757575758
+1,disease_on_symptoms,16,19,2.098825187969925
+2,disease_on_drugs,23,24,0.7654563675609005

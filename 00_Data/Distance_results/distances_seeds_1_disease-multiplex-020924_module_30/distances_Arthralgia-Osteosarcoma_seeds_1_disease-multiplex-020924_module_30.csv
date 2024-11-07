@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,25,0.12545454545454549
+1,disease_on_symptoms,19,24,1.6203845369237047
+2,disease_on_drugs,30,23,0.7547169811320755

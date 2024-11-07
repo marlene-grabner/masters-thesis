@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,29,-0.19581280788177335
+1,disease_on_symptoms,21,13,0.5025856496444734
+2,disease_on_drugs,25,28,0.014986522911051292

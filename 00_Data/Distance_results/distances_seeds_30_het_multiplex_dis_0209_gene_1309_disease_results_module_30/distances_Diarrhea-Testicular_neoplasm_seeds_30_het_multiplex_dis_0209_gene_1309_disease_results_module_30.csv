@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.020000000000000018
+1,disease_on_symptoms,21,26,0.9121268802119866
+2,disease_on_drugs,29,24,0.33826718716113624

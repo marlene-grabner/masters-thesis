@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,22,0.3933766233766234
+1,disease_on_symptoms,15,19,1.8051599587203302
+2,disease_on_drugs,21,19,0.8736842105263158

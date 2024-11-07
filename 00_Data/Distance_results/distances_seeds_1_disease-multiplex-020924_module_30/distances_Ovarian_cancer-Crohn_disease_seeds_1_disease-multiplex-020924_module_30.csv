@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,25,0.3700980392156865
+1,disease_on_symptoms,17,20,1.4547694753577107
+2,disease_on_drugs,25,21,0.9958592132505177

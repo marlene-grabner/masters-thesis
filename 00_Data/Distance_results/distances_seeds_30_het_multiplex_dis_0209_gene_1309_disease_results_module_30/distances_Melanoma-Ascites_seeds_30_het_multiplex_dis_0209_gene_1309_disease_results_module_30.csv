@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,-0.05272904483430807
+1,disease_on_symptoms,23,22,0.06339481774264377
+2,disease_on_drugs,25,27,0.07954415954415972

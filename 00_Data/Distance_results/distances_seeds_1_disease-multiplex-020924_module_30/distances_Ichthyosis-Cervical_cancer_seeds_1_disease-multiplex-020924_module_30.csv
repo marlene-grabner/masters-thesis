@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,27,0.16666666666666674
+1,disease_on_symptoms,17,23,0.7971227621483374
+2,disease_on_drugs,24,15,0.28717948717948727

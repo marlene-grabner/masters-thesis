@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Exanthem nodes,sAB
+0,disease_on_genes,25,30,0.0015151515151514694
+1,disease_on_symptoms,20,21,0.5884436701509872
+2,disease_on_drugs,18,29,0.21788130757316382

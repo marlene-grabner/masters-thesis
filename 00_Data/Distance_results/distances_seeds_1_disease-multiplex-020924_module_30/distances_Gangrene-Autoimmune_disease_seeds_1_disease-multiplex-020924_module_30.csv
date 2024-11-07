@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,26,22,0.05492424242424243
+1,disease_on_symptoms,19,19,1.6842105263157894
+2,disease_on_drugs,23,19,0.30908793723439043

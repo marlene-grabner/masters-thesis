@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,24,29,0.0
+1,disease_on_symptoms,21,25,0.7006625258799173
+2,disease_on_drugs,24,21,0.04980158730158735

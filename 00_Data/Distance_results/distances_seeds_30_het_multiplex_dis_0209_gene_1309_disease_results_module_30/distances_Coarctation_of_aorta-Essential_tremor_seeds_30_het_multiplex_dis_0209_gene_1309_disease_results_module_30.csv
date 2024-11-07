@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,27,21,-0.06018518518518523
+1,disease_on_symptoms,19,23,0.6785986705895173
+2,disease_on_drugs,24,21,-0.045436507936507775

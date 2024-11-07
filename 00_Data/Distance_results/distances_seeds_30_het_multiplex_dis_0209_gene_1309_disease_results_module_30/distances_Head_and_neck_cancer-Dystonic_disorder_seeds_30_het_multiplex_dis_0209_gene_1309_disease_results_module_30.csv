@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,22,17,1.0609145756204579
+2,disease_on_drugs,23,26,0.6752098832844176

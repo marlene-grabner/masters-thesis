@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Obesity nodes,sAB
+0,disease_on_genes,23,26,0.2052590266875982
+1,disease_on_symptoms,24,20,1.2382575757575758
+2,disease_on_drugs,22,27,0.49125609839895557

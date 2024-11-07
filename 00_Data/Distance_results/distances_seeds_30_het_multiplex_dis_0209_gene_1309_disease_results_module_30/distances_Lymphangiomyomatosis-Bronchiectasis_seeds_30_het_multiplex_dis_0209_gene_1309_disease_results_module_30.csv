@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,26,30,0.03434065934065944
+1,disease_on_symptoms,17,19,0.31845545235638095
+2,disease_on_drugs,24,25,0.1015136054421768

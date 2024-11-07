@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,28,30,-0.18850574712643664
+1,disease_on_symptoms,17,22,-0.051007815713697946
+2,disease_on_drugs,19,29,-0.22326830006049625

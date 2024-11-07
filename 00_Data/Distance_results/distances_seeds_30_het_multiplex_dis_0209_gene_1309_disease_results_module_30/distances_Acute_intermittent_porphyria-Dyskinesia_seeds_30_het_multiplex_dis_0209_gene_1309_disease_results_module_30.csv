@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,30,-0.24561403508771928
+1,disease_on_symptoms,17,15,0.3084558823529411
+2,disease_on_drugs,24,28,-0.1989468864468864

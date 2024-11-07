@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,17,17,-0.02941176470588225
+2,disease_on_drugs,30,29,-0.4246834210013637

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,27,27,-0.11111111111111116
+1,disease_on_symptoms,17,22,1.2783491018785136
+2,disease_on_drugs,24,26,0.44141025641025644

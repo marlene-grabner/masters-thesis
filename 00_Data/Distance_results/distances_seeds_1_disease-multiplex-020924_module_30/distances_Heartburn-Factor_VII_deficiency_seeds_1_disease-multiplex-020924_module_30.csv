@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,24,25,0.12154761904761924
+1,disease_on_symptoms,20,23,2.1646865520728005
+2,disease_on_drugs,22,21,0.5575606563978657

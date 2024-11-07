@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,30,0.2456140350877194
+1,disease_on_symptoms,21,14,0.5904761904761906
+2,disease_on_drugs,23,24,0.10486046870181931

@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,25,29,0.05407407407407416
+1,disease_on_symptoms,17,20,1.1106120826709063
+2,disease_on_drugs,25,27,0.3139316239316239

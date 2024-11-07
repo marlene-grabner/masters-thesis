@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,20,19,0.15458839406207825
+2,disease_on_drugs,24,29,-0.14416612448492727

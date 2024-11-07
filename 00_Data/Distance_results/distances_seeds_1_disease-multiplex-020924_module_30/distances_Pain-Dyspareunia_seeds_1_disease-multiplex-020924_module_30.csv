@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.16153846153846163
+1,disease_on_symptoms,21,17,0.9570986289252543
+2,disease_on_drugs,26,23,0.7114702068118217

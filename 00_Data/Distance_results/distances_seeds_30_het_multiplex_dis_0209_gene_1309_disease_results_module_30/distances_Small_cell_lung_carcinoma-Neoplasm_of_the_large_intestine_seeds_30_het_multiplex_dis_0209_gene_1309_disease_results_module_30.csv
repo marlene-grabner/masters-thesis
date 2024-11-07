@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,19,22,-0.5175341346714903
+2,disease_on_drugs,30,29,-0.4065361387103059

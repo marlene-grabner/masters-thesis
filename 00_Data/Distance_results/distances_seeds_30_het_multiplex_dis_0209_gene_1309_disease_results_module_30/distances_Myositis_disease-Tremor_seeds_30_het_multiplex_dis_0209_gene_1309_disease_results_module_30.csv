@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Tremor nodes,sAB
+0,disease_on_genes,30,27,-0.12192982456140344
+1,disease_on_symptoms,18,17,0.8378618113912233
+2,disease_on_drugs,26,24,0.14987179487179492

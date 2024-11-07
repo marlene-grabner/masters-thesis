@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,25,27,0.2668091168091167
+1,disease_on_symptoms,23,20,1.6273761375126392
+2,disease_on_drugs,19,25,0.5681818181818181

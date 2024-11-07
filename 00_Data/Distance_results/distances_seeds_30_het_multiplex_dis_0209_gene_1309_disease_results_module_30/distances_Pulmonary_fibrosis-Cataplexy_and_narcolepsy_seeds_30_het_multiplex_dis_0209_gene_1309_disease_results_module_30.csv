@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,25,25,-0.19999999999999996
+1,disease_on_symptoms,22,19,1.3901563776403316
+2,disease_on_drugs,25,18,-0.1975452196382429

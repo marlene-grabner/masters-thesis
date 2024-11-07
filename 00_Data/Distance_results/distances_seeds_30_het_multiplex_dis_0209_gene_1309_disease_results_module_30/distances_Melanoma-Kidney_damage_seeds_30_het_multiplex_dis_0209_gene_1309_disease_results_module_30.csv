@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,30,0.03411306042884976
+1,disease_on_symptoms,23,15,0.564378337147216
+2,disease_on_drugs,25,21,0.1539544513457558

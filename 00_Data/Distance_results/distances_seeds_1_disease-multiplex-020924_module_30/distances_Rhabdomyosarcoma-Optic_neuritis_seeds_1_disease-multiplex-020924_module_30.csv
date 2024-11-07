@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,0.2507890499194847
+1,disease_on_symptoms,24,16,0.6645833333333333
+2,disease_on_drugs,17,27,0.4402356902356901

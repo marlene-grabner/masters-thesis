@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,19,18,0.05867709815078248
+2,disease_on_drugs,29,27,0.08887520525451564

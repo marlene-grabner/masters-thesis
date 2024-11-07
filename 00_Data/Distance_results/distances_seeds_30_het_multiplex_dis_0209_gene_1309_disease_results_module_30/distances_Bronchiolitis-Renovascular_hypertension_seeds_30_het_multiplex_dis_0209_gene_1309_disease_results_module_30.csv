@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,28,30,-0.15517241379310343
+1,disease_on_symptoms,25,17,0.22722689075630242
+2,disease_on_drugs,24,29,-0.39405768813706343

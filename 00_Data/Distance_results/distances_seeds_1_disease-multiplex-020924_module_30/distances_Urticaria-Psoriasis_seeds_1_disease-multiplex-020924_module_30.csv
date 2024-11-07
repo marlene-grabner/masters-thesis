@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Psoriasis nodes,sAB
+0,disease_on_genes,10,28,0.17481203007518809
+1,disease_on_symptoms,27,21,0.6312830687830686
+2,disease_on_drugs,9,28,0.6399613899613901

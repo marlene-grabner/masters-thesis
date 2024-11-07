@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Erysipelas nodes,sAB
+0,disease_on_genes,23,30,-0.07547169811320753
+1,disease_on_symptoms,22,18,0.16515151515151505
+2,disease_on_drugs,21,29,-0.18088669950738923

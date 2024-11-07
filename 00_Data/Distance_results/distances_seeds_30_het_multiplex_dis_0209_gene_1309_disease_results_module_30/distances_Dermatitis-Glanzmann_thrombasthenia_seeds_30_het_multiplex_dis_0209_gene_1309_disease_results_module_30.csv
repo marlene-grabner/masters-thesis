@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.0
+1,disease_on_symptoms,14,19,0.28212576896787445
+2,disease_on_drugs,28,24,0.13530219780219777

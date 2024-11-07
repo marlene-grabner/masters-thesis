@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,20,22,0.16655844155844135
+1,disease_on_symptoms,23,23,1.0869565217391304
+2,disease_on_drugs,18,20,0.8973684210526316

@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,25,22,-0.115183752417795
+2,disease_on_drugs,29,30,-0.050584453535944096

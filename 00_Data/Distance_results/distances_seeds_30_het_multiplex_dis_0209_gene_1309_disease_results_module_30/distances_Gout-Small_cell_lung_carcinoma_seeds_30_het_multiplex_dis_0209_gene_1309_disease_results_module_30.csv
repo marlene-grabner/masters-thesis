@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,28,30,-0.05233990147783241
+1,disease_on_symptoms,19,19,0.13157894736842102
+2,disease_on_drugs,22,30,0.04254079254079257

@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,25,15,0.1183333333333334
+1,disease_on_symptoms,17,27,2.2932263814616753
+2,disease_on_drugs,24,13,0.7961711711711714

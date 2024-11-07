@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Nocturia nodes,sAB
+0,disease_on_genes,27,21,0.283068783068783
+1,disease_on_symptoms,21,24,1.1184523809523812
+2,disease_on_drugs,23,14,0.546206144032231

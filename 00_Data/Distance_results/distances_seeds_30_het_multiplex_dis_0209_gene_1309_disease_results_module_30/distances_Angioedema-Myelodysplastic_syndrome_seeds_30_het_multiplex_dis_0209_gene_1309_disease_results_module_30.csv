@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,18,17,0.3698412698412701
+2,disease_on_drugs,26,24,0.1796153846153845

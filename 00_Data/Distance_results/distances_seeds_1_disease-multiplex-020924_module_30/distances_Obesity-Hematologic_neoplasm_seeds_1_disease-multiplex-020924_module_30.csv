@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.3141025641025641
+1,disease_on_symptoms,20,24,1.609469696969697
+2,disease_on_drugs,27,19,0.6185693702856174

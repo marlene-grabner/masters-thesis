@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.38656987295825784
+1,disease_on_symptoms,13,18,1.1166942376619797
+2,disease_on_drugs,29,19,0.15021929824561409

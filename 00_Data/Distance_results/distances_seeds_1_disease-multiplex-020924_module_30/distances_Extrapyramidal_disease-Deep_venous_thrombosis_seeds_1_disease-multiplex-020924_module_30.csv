@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,14,28,0.5892857142857142
+1,disease_on_symptoms,25,14,2.6698534798534794
+2,disease_on_drugs,10,24,0.95

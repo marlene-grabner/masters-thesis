@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,28,25,-0.09433962264150941
+1,disease_on_symptoms,13,20,1.124067599067599
+2,disease_on_drugs,28,25,-0.017331536388140112

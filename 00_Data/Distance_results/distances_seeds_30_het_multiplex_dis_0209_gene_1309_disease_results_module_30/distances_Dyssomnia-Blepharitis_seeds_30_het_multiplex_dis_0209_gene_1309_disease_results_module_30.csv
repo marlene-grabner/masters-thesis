@@ -1,0 +1,4 @@
+,Layer,Dyssomnia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,18,30,-0.04166666666666663
+1,disease_on_symptoms,21,18,2.4468864468864466
+2,disease_on_drugs,17,30,0.2221109720483938

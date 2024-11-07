@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,16,15,0.5729166666666665
+2,disease_on_drugs,21,29,0.24617405582922824

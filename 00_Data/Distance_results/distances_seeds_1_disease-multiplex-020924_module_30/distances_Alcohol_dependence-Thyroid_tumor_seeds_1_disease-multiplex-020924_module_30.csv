@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,12,23,0.37883022774327135
+1,disease_on_symptoms,27,20,2.7028565799842394
+2,disease_on_drugs,9,20,0.8294061302681992

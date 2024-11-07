@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,23,28,-0.0980392156862745
+1,disease_on_symptoms,17,18,0.8638188608776844
+2,disease_on_drugs,22,27,-0.09869099154813443

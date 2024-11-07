@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,0.3193979933110369
+1,disease_on_symptoms,21,15,1.684126984126984
+2,disease_on_drugs,21,29,0.9485714285714286

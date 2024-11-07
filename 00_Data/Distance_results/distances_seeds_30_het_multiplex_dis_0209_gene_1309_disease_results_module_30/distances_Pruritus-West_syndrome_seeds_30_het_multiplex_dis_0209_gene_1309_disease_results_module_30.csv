@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,30,0.19200779727095507
+1,disease_on_symptoms,21,13,1.618939883645766
+2,disease_on_drugs,27,19,0.45109755063988466

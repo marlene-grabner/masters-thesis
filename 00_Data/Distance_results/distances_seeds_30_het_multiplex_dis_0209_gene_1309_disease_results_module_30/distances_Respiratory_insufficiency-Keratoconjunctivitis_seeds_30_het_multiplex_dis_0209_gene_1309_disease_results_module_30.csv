@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,-0.125
+1,disease_on_symptoms,21,20,0.7568815331010454
+2,disease_on_drugs,25,27,-0.05760683760683749

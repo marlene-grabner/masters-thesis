@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.06765188834154334
+1,disease_on_symptoms,14,19,0.6639325586694009
+2,disease_on_drugs,29,28,0.7365288220551378

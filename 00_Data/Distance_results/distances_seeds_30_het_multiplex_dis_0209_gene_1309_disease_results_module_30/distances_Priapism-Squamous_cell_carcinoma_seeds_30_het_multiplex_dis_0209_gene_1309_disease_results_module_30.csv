@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,12,22,0.6836007130124777
+2,disease_on_drugs,28,30,0.11699507389162545

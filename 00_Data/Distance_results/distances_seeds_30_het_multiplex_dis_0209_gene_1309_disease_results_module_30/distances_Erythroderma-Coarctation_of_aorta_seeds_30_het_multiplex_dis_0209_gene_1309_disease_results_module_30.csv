@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.08869395711500982
+1,disease_on_symptoms,20,19,0.6905870445344129
+2,disease_on_drugs,29,24,0.0991514855779656

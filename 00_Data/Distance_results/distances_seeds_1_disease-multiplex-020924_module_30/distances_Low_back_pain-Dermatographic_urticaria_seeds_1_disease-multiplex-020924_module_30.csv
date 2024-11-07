@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.20367231638418093
+1,disease_on_symptoms,17,14,0.8456221198156684
+2,disease_on_drugs,26,28,0.49501424501424496

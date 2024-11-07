@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,20,17,0.7604531001589825
+2,disease_on_drugs,30,26,0.2619963369963372

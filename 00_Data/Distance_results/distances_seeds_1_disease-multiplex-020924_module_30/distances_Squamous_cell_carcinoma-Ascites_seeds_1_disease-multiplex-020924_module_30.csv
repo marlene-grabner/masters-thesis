@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Ascites nodes,sAB
+0,disease_on_genes,16,30,0.20108695652173902
+1,disease_on_symptoms,26,17,1.630853414711144
+2,disease_on_drugs,14,27,0.40785907859078585

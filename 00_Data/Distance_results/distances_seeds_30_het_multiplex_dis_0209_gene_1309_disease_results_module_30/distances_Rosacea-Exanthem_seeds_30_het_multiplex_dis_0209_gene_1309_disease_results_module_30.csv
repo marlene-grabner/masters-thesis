@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,-0.31666666666666676
+1,disease_on_symptoms,18,21,-0.35439560439560425
+2,disease_on_drugs,30,29,-0.286460159750633

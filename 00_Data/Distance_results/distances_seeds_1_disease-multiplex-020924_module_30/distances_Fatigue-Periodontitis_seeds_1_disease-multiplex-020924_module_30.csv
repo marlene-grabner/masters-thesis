@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Periodontitis nodes,sAB
+0,disease_on_genes,26,23,0.01877004982595043
+1,disease_on_symptoms,21,25,0.49105590062111815
+2,disease_on_drugs,26,22,0.14335664335664333

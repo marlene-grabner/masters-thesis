@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,19,18,0.2112770665402246
+2,disease_on_drugs,30,28,0.06272577996715922

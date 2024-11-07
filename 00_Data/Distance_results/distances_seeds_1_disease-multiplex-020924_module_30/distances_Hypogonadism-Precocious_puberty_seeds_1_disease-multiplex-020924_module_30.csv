@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.2706214689265536
+1,disease_on_symptoms,12,14,-0.13827838827838823
+2,disease_on_drugs,30,24,-0.2759259259259259

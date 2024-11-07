@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,21,24,0.4480311355311355
+1,disease_on_symptoms,24,19,1.598454712362301
+2,disease_on_drugs,14,19,0.7572909546593758

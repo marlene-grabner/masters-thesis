@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,17,27,0.5203010497128144
+1,disease_on_symptoms,22,16,2.476973684210526
+2,disease_on_drugs,15,18,0.9363636363636365

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.18650793650793673
+1,disease_on_symptoms,17,25,0.9429131652661065
+2,disease_on_drugs,25,23,0.5397826086956523

@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Dermatitis nodes,sAB
+0,disease_on_genes,23,30,-0.07547169811320753
+1,disease_on_symptoms,23,14,0.7284287392983044
+2,disease_on_drugs,22,28,0.20311688311688325

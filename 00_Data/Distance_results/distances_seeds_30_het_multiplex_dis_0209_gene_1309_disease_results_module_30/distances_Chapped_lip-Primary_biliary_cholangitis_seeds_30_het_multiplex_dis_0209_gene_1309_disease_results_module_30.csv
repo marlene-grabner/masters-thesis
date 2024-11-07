@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,-0.019230769230769273
+1,disease_on_symptoms,20,23,0.359529828109201
+2,disease_on_drugs,23,26,0.18776875298614426

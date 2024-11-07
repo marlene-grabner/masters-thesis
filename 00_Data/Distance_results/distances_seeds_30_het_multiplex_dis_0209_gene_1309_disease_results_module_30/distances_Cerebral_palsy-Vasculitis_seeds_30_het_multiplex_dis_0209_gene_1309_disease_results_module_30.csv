@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,13,18,1.6894816652881168
+2,disease_on_drugs,21,26,0.26860727924557715

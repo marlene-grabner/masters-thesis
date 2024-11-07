@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,21,30,-0.004201680672268893
+1,disease_on_symptoms,20,9,-0.3129310344827585
+2,disease_on_drugs,21,23,0.07293431206474676

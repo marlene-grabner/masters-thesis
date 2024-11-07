@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,16,17,0.11575311942958999
+2,disease_on_drugs,23,29,-0.09560604313228005

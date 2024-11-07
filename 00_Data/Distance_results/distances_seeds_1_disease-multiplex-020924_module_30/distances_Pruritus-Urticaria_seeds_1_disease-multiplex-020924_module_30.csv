@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Urticaria nodes,sAB
+0,disease_on_genes,26,10,-0.1457142857142858
+1,disease_on_symptoms,19,27,-0.16903974913128228
+2,disease_on_drugs,24,9,-0.1515151515151515

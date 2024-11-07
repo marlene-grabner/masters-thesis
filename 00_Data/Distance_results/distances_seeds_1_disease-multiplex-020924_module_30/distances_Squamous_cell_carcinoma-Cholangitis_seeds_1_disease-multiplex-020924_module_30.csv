@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,16,27,0.31255383290267025
+1,disease_on_symptoms,26,22,1.6819638694638694
+2,disease_on_drugs,14,26,1.4249999999999998

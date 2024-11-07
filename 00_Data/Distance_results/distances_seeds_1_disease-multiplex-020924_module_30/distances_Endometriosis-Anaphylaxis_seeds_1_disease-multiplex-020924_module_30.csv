@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.1549707602339181
+1,disease_on_symptoms,12,15,1.7740740740740741
+2,disease_on_drugs,27,26,0.4521044992743106

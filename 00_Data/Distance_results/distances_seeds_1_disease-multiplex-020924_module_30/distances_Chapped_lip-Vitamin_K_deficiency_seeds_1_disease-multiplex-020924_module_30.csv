@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.056862745098039236
+1,disease_on_symptoms,21,23,1.4886598908338038
+2,disease_on_drugs,24,20,0.38181818181818183

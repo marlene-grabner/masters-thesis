@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,27,27,0.14814814814814814
+1,disease_on_symptoms,17,19,0.5244238046095631
+2,disease_on_drugs,24,26,0.26076923076923086

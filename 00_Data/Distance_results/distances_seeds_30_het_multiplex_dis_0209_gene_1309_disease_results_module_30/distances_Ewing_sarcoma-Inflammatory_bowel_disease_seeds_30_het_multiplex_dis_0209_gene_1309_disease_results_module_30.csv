@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Inflammatory_bowel_disease nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,17,20,0.19908585055643901
+2,disease_on_drugs,24,27,-0.04425381263616557

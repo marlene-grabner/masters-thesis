@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,25,0.1106060606060606
+1,disease_on_symptoms,25,26,1.331266968325792
+2,disease_on_drugs,26,21,1.129705400981997

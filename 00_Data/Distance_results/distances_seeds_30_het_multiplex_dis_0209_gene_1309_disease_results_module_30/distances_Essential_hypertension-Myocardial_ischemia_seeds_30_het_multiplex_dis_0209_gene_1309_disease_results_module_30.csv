@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,28,30,-0.41321839080459766
+1,disease_on_symptoms,13,19,-0.6227226720647774
+2,disease_on_drugs,28,30,-0.4335796387520525

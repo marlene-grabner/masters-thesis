@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,23,22,0.0
+1,disease_on_symptoms,19,21,0.5570802005012532
+2,disease_on_drugs,19,17,0.1583247334021327

@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,22,0.24
+1,disease_on_symptoms,21,24,0.7625000000000002
+2,disease_on_drugs,21,19,0.22211779448621538

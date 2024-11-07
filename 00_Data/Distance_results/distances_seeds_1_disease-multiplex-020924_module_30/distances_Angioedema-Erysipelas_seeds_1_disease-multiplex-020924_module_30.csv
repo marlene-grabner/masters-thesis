@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,28,-0.017857142857142794
+1,disease_on_symptoms,17,20,0.08044515103338656
+2,disease_on_drugs,25,27,0.26923076923076916

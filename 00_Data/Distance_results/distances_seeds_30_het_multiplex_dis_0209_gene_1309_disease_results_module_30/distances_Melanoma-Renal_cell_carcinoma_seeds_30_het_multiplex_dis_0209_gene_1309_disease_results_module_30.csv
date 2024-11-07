@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,27,27,-0.4259259259259258
+1,disease_on_symptoms,23,22,-0.3744839701361441
+2,disease_on_drugs,25,22,-0.5297098646034817

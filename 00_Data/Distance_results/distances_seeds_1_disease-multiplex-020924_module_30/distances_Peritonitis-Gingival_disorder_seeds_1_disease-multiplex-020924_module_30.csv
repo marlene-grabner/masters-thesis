@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,21,-0.21064425770308104
+1,disease_on_symptoms,17,26,0.22266652636009687
+2,disease_on_drugs,28,20,-0.18154761904761896

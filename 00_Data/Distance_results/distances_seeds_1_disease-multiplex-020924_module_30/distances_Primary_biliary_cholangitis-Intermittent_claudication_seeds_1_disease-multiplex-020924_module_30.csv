@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.2970735785953176
+1,disease_on_symptoms,17,24,0.7257592061214733
+2,disease_on_drugs,18,18,0.75

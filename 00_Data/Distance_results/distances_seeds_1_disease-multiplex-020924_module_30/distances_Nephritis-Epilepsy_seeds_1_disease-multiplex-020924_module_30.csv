@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Epilepsy nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,18,18,-0.3055555555555557
+2,disease_on_drugs,27,30,0.066179337231969

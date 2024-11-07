@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,24,23,-0.343663274745606
+1,disease_on_symptoms,23,24,-0.29883595436324395
+2,disease_on_drugs,22,17,-0.3589743589743589

@@ -1,0 +1,4 @@
+,Layer,Dermatographic_urticaria nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,29,29,-0.01724137931034475
+1,disease_on_symptoms,18,18,0.16666666666666696
+2,disease_on_drugs,28,28,0.03571428571428581

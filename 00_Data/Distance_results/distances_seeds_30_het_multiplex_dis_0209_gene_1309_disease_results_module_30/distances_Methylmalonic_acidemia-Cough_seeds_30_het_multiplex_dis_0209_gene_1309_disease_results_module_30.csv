@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,0.11538461538461542
+1,disease_on_symptoms,17,22,1.132147264500206
+2,disease_on_drugs,21,24,0.37222222222222223

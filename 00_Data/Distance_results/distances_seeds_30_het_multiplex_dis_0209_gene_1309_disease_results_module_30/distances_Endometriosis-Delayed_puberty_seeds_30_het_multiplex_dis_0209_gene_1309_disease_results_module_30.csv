@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,16,16,-0.78125
+2,disease_on_drugs,30,29,-0.306282875511397

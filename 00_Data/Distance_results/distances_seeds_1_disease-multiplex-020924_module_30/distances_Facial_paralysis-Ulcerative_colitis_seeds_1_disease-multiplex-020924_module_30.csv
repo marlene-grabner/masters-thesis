@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,14,27,-0.09365724609627035
+1,disease_on_symptoms,23,20,0.8892568250758339
+2,disease_on_drugs,14,25,0.02564102564102555

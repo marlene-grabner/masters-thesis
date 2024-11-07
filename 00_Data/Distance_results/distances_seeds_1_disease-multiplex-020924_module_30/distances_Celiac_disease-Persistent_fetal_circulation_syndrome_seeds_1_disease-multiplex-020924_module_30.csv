@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,17,25,0.21070028011204478
+1,disease_on_symptoms,22,20,1.4619047619047618
+2,disease_on_drugs,15,18,0.27727272727272734

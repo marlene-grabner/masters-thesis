@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,28,0.41748436748436757
+1,disease_on_symptoms,19,15,2.0203302373581007
+2,disease_on_drugs,20,21,0.6823170731707318

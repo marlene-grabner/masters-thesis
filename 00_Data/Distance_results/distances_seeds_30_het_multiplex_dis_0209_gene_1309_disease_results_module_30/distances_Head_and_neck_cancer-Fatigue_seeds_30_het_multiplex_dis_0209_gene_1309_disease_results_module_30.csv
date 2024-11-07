@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Fatigue nodes,sAB
+0,disease_on_genes,27,26,-0.03882438316400583
+1,disease_on_symptoms,22,16,1.5388755980861242
+2,disease_on_drugs,23,26,0.3726196164084361

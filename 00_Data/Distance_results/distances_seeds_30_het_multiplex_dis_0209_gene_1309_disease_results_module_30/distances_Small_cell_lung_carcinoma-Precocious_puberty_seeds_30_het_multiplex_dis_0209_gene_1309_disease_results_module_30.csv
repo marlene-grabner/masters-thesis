@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,19,16,-0.668421052631579
+2,disease_on_drugs,30,27,-0.1749512670565303

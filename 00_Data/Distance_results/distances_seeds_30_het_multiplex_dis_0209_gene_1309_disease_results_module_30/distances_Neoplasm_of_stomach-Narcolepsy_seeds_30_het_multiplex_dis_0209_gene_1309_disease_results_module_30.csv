@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,-0.14
+1,disease_on_symptoms,23,20,1.6149393326592518
+2,disease_on_drugs,24,21,-0.025595238095238004

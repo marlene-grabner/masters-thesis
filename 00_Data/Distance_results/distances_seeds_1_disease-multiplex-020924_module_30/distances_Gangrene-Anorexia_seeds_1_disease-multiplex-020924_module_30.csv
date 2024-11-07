@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,17,-0.001367989056087593
+1,disease_on_symptoms,19,25,1.0558373205741627
+2,disease_on_drugs,23,13,0.8009104422147901

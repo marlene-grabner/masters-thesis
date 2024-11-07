@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,25,0.15384615384615374
+1,disease_on_symptoms,17,26,1.2908292118278442
+2,disease_on_drugs,26,21,0.4296235679214404

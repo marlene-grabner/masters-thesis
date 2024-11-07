@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,30,25,0.15999999999999992
+1,disease_on_symptoms,18,14,0.7986111111111112
+2,disease_on_drugs,27,22,0.2747543461829176

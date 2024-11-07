@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,17,14,0.806451612903226
+2,disease_on_drugs,24,29,0.13650780741704627

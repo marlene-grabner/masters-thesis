@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Asthma nodes,sAB
+0,disease_on_genes,27,25,0.03982905982905982
+1,disease_on_symptoms,17,19,0.6033711730306157
+2,disease_on_drugs,24,24,0.12500000000000022

@@ -1,0 +1,4 @@
+,Layer,Cirrhosis_of_liver nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.1889983579638752
+1,disease_on_symptoms,14,20,0.1752100840336135
+2,disease_on_drugs,26,27,0.5279390420899857

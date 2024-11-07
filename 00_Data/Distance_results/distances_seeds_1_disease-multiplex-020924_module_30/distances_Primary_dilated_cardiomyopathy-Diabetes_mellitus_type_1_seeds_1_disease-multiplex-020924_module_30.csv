@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,13,0.535778175313059
+1,disease_on_symptoms,25,25,2.12
+2,disease_on_drugs,7,8,0.3285714285714285

@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,19,0.41170715249662626
+2,disease_on_drugs,28,30,0.10143678160919545

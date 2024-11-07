@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,28,28,0.125
+1,disease_on_symptoms,17,19,1.1675266597867218
+2,disease_on_drugs,25,25,0.2999999999999998

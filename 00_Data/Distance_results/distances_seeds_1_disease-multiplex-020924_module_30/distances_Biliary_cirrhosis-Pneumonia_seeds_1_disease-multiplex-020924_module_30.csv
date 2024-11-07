@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.10952380952380958
+1,disease_on_symptoms,15,26,-0.19446529080675412
+2,disease_on_drugs,15,28,0.09612403100775202

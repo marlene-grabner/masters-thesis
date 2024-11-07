@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.0801001251564456
+1,disease_on_symptoms,15,24,0.6830128205128205
+2,disease_on_drugs,28,16,0.2138798701298701

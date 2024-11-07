@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Headache nodes,sAB
+0,disease_on_genes,20,30,0.1383333333333332
+1,disease_on_symptoms,24,25,0.433044217687075
+2,disease_on_drugs,18,26,0.3873348873348874

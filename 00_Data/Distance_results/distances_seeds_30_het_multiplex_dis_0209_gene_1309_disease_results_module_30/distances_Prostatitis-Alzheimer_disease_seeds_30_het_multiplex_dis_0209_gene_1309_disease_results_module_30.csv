@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.037735849056603765
+1,disease_on_symptoms,22,19,0.6492589567043996
+2,disease_on_drugs,28,19,0.09716445368741011

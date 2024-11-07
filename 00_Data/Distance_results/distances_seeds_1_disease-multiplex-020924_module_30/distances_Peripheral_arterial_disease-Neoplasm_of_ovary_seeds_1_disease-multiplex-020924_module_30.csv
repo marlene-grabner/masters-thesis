@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,25,24,0.07989795918367348
+1,disease_on_symptoms,14,26,1.0961538461538463
+2,disease_on_drugs,22,15,0.7837837837837838

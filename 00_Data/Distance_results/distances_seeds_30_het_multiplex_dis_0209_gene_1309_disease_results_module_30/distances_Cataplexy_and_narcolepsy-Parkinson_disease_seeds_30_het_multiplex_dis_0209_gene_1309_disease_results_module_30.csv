@@ -1,0 +1,4 @@
+,Layer,Cataplexy_and_narcolepsy nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,25,23,-0.125
+1,disease_on_symptoms,19,23,0.6910210308379645
+2,disease_on_drugs,18,22,0.0017676767676768623

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,18,27,0.709259259259259
+2,disease_on_drugs,26,28,0.3892958892958893

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,24,-0.18518518518518523
+1,disease_on_symptoms,21,21,0.16666666666666652
+2,disease_on_drugs,29,24,-0.12889015397961412

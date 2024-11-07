@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,29,28,0.36810776942355905
+1,disease_on_symptoms,18,19,1.7040066382171646
+2,disease_on_drugs,30,26,1.1083333333333334

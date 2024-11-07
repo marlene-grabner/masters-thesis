@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,0.1440476190476192
+1,disease_on_symptoms,15,16,1.156451612903226
+2,disease_on_drugs,25,25,0.3400000000000001

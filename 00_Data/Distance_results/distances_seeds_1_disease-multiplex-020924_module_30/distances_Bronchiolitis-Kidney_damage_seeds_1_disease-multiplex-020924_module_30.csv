@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,23,20,0.06430738119312451
+1,disease_on_symptoms,25,26,0.588521870286576
+2,disease_on_drugs,18,13,-0.0820926385442513

@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,20,26,0.42500000000000004
+1,disease_on_symptoms,18,19,1.659119645961751
+2,disease_on_drugs,19,18,0.945906432748538

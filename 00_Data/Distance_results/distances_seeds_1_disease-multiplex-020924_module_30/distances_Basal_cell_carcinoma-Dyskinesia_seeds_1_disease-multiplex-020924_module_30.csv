@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,24,0.23993589743589738
+1,disease_on_symptoms,23,17,1.9019181585677747
+2,disease_on_drugs,25,23,1.25

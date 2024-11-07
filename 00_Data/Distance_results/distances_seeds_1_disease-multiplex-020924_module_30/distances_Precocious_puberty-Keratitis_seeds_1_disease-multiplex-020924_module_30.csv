@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.3102627257799673
+1,disease_on_symptoms,14,25,0.5537728937728936
+2,disease_on_drugs,24,23,0.9135060129509716

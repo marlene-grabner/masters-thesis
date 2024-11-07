@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.08678160919540234
+1,disease_on_symptoms,20,26,1.0241638795986625
+2,disease_on_drugs,30,28,0.3620279146141214

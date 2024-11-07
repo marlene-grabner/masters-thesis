@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,0.11111111111111116
+1,disease_on_symptoms,16,21,0.5879584942084941
+2,disease_on_drugs,23,27,0.18296296296296277

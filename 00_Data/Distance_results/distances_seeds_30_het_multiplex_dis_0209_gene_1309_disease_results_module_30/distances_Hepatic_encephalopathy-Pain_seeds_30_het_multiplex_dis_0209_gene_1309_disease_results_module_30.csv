@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.25
+1,disease_on_symptoms,14,16,1.419940476190476
+2,disease_on_drugs,29,26,-0.3259344104171691

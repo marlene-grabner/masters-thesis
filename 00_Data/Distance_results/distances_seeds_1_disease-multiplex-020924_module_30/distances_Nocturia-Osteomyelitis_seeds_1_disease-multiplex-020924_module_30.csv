@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,21,25,0.2197619047619046
+1,disease_on_symptoms,24,23,1.362569380203515
+2,disease_on_drugs,14,23,0.17370320631190217

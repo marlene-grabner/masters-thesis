@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,0.1243664717348929
+1,disease_on_symptoms,19,20,0.33168016194332006
+2,disease_on_drugs,27,30,0.1929824561403508

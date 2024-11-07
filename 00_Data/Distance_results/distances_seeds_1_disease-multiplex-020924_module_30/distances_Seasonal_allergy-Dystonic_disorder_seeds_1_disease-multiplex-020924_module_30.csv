@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,29,17,0.4003439456742215
+1,disease_on_symptoms,15,28,2.6379568106312288
+2,disease_on_drugs,29,9,0.8248638838475499

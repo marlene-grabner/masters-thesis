@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.4423076923076923
+1,disease_on_symptoms,17,15,1.8792892156862746
+2,disease_on_drugs,20,16,0.6944444444444444

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,27,25,0.5338461538461536
+1,disease_on_symptoms,17,16,2.0095811051693406
+2,disease_on_drugs,25,17,1.2563025210084033

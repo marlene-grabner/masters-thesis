@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.18614845119812973
+1,disease_on_symptoms,14,20,0.7560924369747899
+2,disease_on_drugs,26,28,0.3322649572649574

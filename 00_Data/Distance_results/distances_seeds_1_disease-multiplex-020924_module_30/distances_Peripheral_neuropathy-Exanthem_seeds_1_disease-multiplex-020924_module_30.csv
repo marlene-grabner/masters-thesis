@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,0.17471264367816097
+1,disease_on_symptoms,20,26,1.505685618729097
+2,disease_on_drugs,24,28,0.7481684981684982

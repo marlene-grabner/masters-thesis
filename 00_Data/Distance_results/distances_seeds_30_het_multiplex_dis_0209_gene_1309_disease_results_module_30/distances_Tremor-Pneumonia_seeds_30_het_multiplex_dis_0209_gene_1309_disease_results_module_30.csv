@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,17,23,1.0366368286445016
+2,disease_on_drugs,24,29,0.30446215571459545

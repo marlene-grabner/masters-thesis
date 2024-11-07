@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,27,25,-0.15390313390313404
+1,disease_on_symptoms,23,17,0.44175191815856785
+2,disease_on_drugs,25,25,0.11999999999999988

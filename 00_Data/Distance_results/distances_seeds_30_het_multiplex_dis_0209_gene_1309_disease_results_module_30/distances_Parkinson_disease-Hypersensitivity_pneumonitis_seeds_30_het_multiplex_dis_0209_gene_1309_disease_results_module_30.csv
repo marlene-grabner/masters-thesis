@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,23,25,-0.33333333333333337
+1,disease_on_symptoms,23,20,0.33996461071789685
+2,disease_on_drugs,22,25,-0.10417794970986471

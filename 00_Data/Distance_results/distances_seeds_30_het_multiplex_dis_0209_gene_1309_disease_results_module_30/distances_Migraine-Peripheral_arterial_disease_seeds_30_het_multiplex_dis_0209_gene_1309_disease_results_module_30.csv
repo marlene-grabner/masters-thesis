@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,30,26,0.0535714285714286
+1,disease_on_symptoms,12,17,1.2750169033130494
+2,disease_on_drugs,29,24,0.17749674690956385

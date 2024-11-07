@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,25,16,-0.007987804878048843
+1,disease_on_symptoms,14,21,2.869047619047619
+2,disease_on_drugs,22,15,0.4054054054054055

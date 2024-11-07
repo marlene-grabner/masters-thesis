@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,24,30,0.3652777777777778
+1,disease_on_symptoms,22,16,1.9258373205741623
+2,disease_on_drugs,11,23,0.8248081841432227

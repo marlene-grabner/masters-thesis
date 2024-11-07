@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Diarrhea nodes,sAB
+0,disease_on_genes,16,27,0.06147717484926796
+1,disease_on_symptoms,26,19,2.443679712100765
+2,disease_on_drugs,14,26,0.9807692307692308

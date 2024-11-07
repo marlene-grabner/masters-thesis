@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,12,17,0.1434246112237998
+2,disease_on_drugs,17,25,0.3982072829131653

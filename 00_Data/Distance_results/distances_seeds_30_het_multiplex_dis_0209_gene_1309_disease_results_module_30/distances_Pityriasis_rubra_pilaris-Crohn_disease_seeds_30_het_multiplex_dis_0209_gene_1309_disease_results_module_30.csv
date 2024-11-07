@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,27,26,-0.18798043326345226
+1,disease_on_symptoms,21,22,0.3468992248062015
+2,disease_on_drugs,25,24,-0.18370748299319717

@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,19,18,0.24403350719140215
+2,disease_on_drugs,25,26,0.15755656108597282

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,30,-0.1598440545808969
+1,disease_on_symptoms,21,18,-0.1858974358974359
+2,disease_on_drugs,25,29,-0.19517241379310346

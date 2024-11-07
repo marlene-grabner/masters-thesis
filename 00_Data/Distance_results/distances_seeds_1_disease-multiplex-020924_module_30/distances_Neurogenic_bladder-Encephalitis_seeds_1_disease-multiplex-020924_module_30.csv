@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,28,0.3309523809523811
+1,disease_on_symptoms,17,17,1.2941176470588236
+2,disease_on_drugs,26,18,0.5227272727272727

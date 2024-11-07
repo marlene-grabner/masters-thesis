@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,26,0.07843137254901955
+1,disease_on_symptoms,21,18,1.580891330891331
+2,disease_on_drugs,21,26,0.1698230847167017

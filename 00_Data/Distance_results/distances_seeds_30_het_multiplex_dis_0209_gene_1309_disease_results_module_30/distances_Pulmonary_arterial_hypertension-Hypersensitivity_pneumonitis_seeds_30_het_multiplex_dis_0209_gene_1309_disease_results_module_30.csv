@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,28,25,-0.018867924528301883
+1,disease_on_symptoms,17,20,0.3342209856915741
+2,disease_on_drugs,25,25,-0.11999999999999988

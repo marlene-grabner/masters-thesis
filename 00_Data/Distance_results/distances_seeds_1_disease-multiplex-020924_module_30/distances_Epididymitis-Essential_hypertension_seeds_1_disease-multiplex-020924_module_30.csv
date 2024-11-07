@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,29,28,0.22743280615331418
+1,disease_on_symptoms,23,14,0.9601309383918077
+2,disease_on_drugs,27,28,0.6908850408850409

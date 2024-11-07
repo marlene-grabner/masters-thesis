@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.3192982456140352
+1,disease_on_symptoms,17,15,0.9900735294117649
+2,disease_on_drugs,25,22,1.148936170212766

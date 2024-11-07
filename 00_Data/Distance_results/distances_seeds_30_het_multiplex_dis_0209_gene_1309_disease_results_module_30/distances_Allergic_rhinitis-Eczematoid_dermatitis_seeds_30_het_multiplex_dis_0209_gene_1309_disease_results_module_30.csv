@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,28,30,-0.22413793103448276
+1,disease_on_symptoms,20,25,-0.3316666666666668
+2,disease_on_drugs,25,30,-0.35363636363636364

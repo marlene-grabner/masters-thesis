@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,28,26,-0.01851851851851849
+1,disease_on_symptoms,25,18,0.6335142118863049
+2,disease_on_drugs,24,26,0.07794871794871816

@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Sarcoma nodes,sAB
+0,disease_on_genes,28,30,0.1206896551724137
+1,disease_on_symptoms,13,23,1.1519881085098476
+2,disease_on_drugs,28,24,0.05311355311355315

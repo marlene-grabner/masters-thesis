@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.05114942528735622
+1,disease_on_symptoms,19,17,-0.016683866529067615
+2,disease_on_drugs,22,25,-0.19705996131528036

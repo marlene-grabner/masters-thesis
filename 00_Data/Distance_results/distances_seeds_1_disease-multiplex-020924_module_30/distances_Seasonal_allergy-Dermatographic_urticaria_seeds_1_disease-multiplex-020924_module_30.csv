@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,29,29,-0.13793103448275879
+1,disease_on_symptoms,15,14,-0.23546798029556637
+2,disease_on_drugs,29,28,-0.06987295825771322

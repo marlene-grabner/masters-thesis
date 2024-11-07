@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,-0.24658869395711513
+1,disease_on_symptoms,19,18,0.02125810020546859
+2,disease_on_drugs,24,21,-0.2962301587301588

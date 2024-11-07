@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.03434065934065944
+1,disease_on_symptoms,22,19,0.3478235500058351
+2,disease_on_drugs,25,25,0.17999999999999994

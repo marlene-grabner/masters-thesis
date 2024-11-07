@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,20,17,0.6833863275039747
+2,disease_on_drugs,26,17,0.2579974744817426

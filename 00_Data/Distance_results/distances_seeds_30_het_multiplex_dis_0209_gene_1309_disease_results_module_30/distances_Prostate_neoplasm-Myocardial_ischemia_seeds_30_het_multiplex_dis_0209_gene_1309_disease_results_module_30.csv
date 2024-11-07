@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,21,30,-0.3738095238095239
+1,disease_on_symptoms,20,19,-0.39227395411605936
+2,disease_on_drugs,21,30,-0.12016806722689088

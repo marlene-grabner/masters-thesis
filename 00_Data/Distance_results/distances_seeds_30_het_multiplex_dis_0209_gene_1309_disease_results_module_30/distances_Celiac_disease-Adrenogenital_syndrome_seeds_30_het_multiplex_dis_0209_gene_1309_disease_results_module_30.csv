@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,18,9,0.24074074074074092
+2,disease_on_drugs,28,23,0.13984289367921088

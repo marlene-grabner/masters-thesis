@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.2455165692007797
+1,disease_on_symptoms,18,15,1.7737373737373736
+2,disease_on_drugs,21,26,0.4883874990257968

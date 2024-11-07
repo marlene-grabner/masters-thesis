@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,29,30,0.1694915254237288
+1,disease_on_symptoms,13,19,0.29440789473684204
+2,disease_on_drugs,22,28,0.2035064935064934

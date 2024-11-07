@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,21,0.060504201680672276
+1,disease_on_symptoms,22,20,0.30346320346320343
+2,disease_on_drugs,15,19,-0.04117647058823537

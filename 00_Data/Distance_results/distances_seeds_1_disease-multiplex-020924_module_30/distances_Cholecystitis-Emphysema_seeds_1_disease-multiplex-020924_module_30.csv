@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Emphysema nodes,sAB
+0,disease_on_genes,25,30,0.39969696969696966
+1,disease_on_symptoms,19,14,0.5824219640009112
+2,disease_on_drugs,13,29,0.556776556776557

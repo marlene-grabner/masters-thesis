@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,-0.13554778554778568
+1,disease_on_symptoms,20,23,0.6997977755308393
+2,disease_on_drugs,27,20,-0.07127659574468093

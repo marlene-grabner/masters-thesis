@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Cough nodes,sAB
+0,disease_on_genes,18,27,0.3370370370370368
+1,disease_on_symptoms,21,21,1.3095238095238095
+2,disease_on_drugs,6,27,0.6144781144781144

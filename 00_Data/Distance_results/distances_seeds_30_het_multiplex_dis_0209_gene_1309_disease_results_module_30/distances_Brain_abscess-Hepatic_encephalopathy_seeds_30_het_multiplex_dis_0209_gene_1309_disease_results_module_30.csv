@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,27,30,-0.22807017543859653
+1,disease_on_symptoms,21,14,-0.03809523809523796
+2,disease_on_drugs,23,29,-0.4919271133663937

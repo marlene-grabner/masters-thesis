@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Vasculitis nodes,sAB
+0,disease_on_genes,17,24,0.17859277857484446
+1,disease_on_symptoms,21,19,1.7152882205513786
+2,disease_on_drugs,17,20,0.7830683624801271

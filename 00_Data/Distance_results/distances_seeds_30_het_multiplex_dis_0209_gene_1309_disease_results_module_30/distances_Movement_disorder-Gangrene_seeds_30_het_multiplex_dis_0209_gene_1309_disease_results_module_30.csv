@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.016666666666666607
+1,disease_on_symptoms,17,22,-0.023824215000685545
+2,disease_on_drugs,26,27,-0.002271139063592109

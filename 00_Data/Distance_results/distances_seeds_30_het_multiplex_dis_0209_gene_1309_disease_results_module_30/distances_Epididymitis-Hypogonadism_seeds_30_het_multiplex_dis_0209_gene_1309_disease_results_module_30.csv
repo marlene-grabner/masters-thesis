@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,29,30,-0.016949152542372836
+1,disease_on_symptoms,23,17,0.5567774936061383
+2,disease_on_drugs,26,29,0.21847118398842547

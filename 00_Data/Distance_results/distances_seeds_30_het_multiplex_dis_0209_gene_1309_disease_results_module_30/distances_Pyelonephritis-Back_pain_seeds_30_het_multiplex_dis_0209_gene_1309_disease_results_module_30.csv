@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Back_pain nodes,sAB
+0,disease_on_genes,24,30,-0.03935185185185197
+1,disease_on_symptoms,19,15,0.051083591331269496
+2,disease_on_drugs,19,23,-0.2708401438378556

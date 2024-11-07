@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.2321428571428571
+1,disease_on_symptoms,21,20,-0.024767711962833783
+2,disease_on_drugs,26,30,-0.14972527472527486

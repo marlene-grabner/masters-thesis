@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,25,23,0.4713926499032881
+1,disease_on_symptoms,16,18,2.1429738562091503
+2,disease_on_drugs,17,18,1.5991596638655463

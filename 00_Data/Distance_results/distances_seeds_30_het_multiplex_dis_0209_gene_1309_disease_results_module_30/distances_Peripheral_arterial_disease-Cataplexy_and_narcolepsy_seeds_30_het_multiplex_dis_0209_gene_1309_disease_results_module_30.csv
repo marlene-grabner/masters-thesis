@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,26,25,0.0
+1,disease_on_symptoms,17,19,1.1905744754041971
+2,disease_on_drugs,24,18,0.02281746031746046

@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,28,0.6071428571428572
+1,disease_on_symptoms,19,12,1.553904923599321
+2,disease_on_drugs,26,21,1.0562310030395137

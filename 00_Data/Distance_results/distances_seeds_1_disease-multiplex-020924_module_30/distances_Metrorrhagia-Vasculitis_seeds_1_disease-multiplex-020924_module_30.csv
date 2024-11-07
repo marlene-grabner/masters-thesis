@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.13602941176470584
+1,disease_on_symptoms,17,19,0.770983832129343
+2,disease_on_drugs,26,20,0.8028428093645483

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.2222222222222222
+1,disease_on_symptoms,22,21,0.3981425551192994
+2,disease_on_drugs,20,27,-0.1620370370370372

@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.18571428571428572
+1,disease_on_symptoms,12,26,0.8609986504723348
+2,disease_on_drugs,30,13,0.9305605247465709

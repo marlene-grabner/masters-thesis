@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Myopathy nodes,sAB
+0,disease_on_genes,21,23,-0.16017316017316008
+1,disease_on_symptoms,20,22,0.45919913419913416
+2,disease_on_drugs,21,21,-0.14285714285714302

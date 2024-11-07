@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,25,30,-0.1836363636363637
+1,disease_on_symptoms,23,14,0.12669968104750717
+2,disease_on_drugs,24,25,-0.05838435374149675

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.17062146892655372
+1,disease_on_symptoms,14,16,1.2696428571428573
+2,disease_on_drugs,26,29,0.5827586206896553

@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,14,13,-0.14417989417989419
+2,disease_on_drugs,25,22,-0.03959381044487431

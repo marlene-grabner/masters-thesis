@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,14,15,0.3499178981937603
+2,disease_on_drugs,29,21,0.08702791461412152

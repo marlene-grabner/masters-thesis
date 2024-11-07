@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,29,30,-0.2033898305084746
+1,disease_on_symptoms,19,19,-0.07894736842105265
+2,disease_on_drugs,29,25,-0.12916985951468707

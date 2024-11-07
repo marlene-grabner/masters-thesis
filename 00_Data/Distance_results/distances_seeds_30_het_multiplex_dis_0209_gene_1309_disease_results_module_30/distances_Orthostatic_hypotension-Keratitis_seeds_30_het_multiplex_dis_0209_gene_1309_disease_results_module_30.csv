@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,20,25,0.37222222222222223
+2,disease_on_drugs,28,29,0.12027914614121493

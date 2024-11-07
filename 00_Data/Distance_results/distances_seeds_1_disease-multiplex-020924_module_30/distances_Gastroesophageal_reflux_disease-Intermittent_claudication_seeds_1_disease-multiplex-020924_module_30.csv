@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.2728260869565218
+1,disease_on_symptoms,17,24,0.9309241989478716
+2,disease_on_drugs,25,18,0.5898191214470283

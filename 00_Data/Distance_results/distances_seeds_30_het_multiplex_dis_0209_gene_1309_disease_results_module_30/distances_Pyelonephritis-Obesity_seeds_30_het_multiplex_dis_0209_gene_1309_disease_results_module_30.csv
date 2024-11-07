@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Obesity nodes,sAB
+0,disease_on_genes,24,27,-0.17442810457516333
+1,disease_on_symptoms,19,18,0.8593330172277542
+2,disease_on_drugs,19,25,-0.07129186602870807

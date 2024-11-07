@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Pneumonia nodes,sAB
+0,disease_on_genes,23,30,0.25419742958709324
+1,disease_on_symptoms,20,26,0.675418060200669
+2,disease_on_drugs,19,28,1.021276595744681

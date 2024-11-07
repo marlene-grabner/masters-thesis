@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,20,18,-0.3739766081871345
+2,disease_on_drugs,28,21,-0.18877551020408156

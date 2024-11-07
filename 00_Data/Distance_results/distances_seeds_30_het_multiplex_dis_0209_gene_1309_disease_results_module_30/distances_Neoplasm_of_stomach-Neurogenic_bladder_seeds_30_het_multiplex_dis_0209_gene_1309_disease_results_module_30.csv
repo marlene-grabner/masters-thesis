@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,25,30,0.034545454545454435
+1,disease_on_symptoms,23,18,0.22970425356427482
+2,disease_on_drugs,24,21,0.0537698412698413

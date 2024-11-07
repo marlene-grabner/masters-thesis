@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,26,30,0.35439560439560447
+1,disease_on_symptoms,24,13,0.7004937629937631
+2,disease_on_drugs,24,29,0.7358490566037736

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,-0.16208791208791207
+1,disease_on_symptoms,20,15,0.01666666666666683
+2,disease_on_drugs,20,29,-0.009676284306826322

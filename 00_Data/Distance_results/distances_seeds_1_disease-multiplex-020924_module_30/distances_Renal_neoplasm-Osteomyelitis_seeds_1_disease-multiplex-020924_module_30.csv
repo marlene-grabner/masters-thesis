@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,22,25,0.2306189555125724
+1,disease_on_symptoms,25,23,1.149094202898551
+2,disease_on_drugs,18,23,1.029692470837752

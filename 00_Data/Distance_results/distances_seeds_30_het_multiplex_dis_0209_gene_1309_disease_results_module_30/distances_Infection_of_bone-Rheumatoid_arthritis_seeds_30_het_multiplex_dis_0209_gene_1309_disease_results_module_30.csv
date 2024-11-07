@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,30,-0.2499999999999999
+1,disease_on_symptoms,18,19,-0.5404615141457247
+2,disease_on_drugs,28,30,-0.2081691297208541

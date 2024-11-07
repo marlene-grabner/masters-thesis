@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,-0.0011320754716981352
+1,disease_on_symptoms,20,26,0.7188127090301002
+2,disease_on_drugs,25,24,0.45013605442176874

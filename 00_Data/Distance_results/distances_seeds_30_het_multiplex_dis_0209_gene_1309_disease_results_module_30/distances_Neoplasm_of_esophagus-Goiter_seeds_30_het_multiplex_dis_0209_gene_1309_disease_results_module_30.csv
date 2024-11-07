@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.09184952978056438
+1,disease_on_symptoms,20,12,0.9583333333333335
+2,disease_on_drugs,25,18,0.4657622739018088

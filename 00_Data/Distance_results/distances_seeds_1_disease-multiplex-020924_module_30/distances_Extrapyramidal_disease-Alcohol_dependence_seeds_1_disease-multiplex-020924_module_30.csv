@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,14,12,0.4610805860805862
+1,disease_on_symptoms,25,27,2.5568091168091165
+2,disease_on_drugs,10,9,1.2073099415204676

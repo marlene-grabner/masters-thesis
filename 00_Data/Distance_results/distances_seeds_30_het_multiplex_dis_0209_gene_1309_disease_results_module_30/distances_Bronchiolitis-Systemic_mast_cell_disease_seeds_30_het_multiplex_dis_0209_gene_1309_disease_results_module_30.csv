@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,0.0
+1,disease_on_symptoms,25,25,0.6999999999999997
+2,disease_on_drugs,24,21,0.07619047619047614

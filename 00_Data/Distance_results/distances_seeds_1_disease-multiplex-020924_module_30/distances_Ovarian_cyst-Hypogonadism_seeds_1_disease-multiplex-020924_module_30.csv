@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,20,30,-0.29948979591836733
+1,disease_on_symptoms,22,12,-0.464349376114082
+2,disease_on_drugs,15,30,-0.36111111111111116

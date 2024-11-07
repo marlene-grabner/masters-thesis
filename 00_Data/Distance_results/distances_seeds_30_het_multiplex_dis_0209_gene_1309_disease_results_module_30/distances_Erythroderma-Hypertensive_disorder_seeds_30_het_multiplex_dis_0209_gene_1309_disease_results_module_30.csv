@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,20,21,0.80630081300813
+2,disease_on_drugs,29,26,0.08014227152158182

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.11726998491704366
+1,disease_on_symptoms,22,21,1.3264371287627101
+2,disease_on_drugs,25,21,0.04703933747411981

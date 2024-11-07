@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,26,20,0.1641304347826087
+1,disease_on_symptoms,21,24,1.9573412698412698
+2,disease_on_drugs,24,18,0.7698412698412698

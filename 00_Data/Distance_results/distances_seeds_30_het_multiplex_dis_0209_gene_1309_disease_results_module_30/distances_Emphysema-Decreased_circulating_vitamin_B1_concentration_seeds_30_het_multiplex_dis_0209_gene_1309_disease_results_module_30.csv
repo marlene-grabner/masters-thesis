@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,18,17,0.4296918767507001
+2,disease_on_drugs,27,25,0.016752136752136826

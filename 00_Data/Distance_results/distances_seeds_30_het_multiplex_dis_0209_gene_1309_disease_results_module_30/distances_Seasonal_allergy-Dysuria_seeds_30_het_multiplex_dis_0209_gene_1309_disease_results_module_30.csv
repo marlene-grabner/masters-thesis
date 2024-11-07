@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Dysuria nodes,sAB
+0,disease_on_genes,29,30,0.1694915254237288
+1,disease_on_symptoms,18,12,1.8833333333333333
+2,disease_on_drugs,29,21,0.2263711001642037

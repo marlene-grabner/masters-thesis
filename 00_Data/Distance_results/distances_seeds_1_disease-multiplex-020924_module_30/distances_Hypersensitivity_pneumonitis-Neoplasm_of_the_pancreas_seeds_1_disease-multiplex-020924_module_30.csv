@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,24,30,0.12962962962962954
+1,disease_on_symptoms,23,20,0.5643579373104144
+2,disease_on_drugs,24,30,0.462962962962963

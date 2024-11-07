@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,0.15197817556308113
+1,disease_on_symptoms,19,21,1.4986215538847116
+2,disease_on_drugs,20,23,0.5563953488372093

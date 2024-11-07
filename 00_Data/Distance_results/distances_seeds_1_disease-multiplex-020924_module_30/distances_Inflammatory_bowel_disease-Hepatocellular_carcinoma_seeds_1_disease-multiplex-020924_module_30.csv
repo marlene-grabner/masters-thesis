@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,17,23,-0.0034141583054625446
+1,disease_on_symptoms,27,19,0.863505381812018
+2,disease_on_drugs,14,19,0.05519480519480524

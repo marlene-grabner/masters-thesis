@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.0013736263736263687
+1,disease_on_symptoms,18,25,0.5125581395348837
+2,disease_on_drugs,29,25,0.02153256704980855

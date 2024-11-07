@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,18,26,0.18026418026418023
+1,disease_on_symptoms,28,21,0.8579931972789119
+2,disease_on_drugs,17,23,0.19117647058823528

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,26,23,-0.10204081632653061
+1,disease_on_symptoms,19,25,0.470239234449761
+2,disease_on_drugs,24,21,-0.06527777777777788

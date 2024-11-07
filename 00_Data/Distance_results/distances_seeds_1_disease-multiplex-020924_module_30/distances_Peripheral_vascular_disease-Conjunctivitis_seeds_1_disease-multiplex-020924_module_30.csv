@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,23,27,0.07104669887278581
+1,disease_on_symptoms,16,27,1.4935669681309218
+2,disease_on_drugs,22,26,0.8365384615384617

@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Encephalitis nodes,sAB
+0,disease_on_genes,27,28,0.4003126503126504
+1,disease_on_symptoms,22,17,0.9696626902509256
+2,disease_on_drugs,24,18,1.005952380952381

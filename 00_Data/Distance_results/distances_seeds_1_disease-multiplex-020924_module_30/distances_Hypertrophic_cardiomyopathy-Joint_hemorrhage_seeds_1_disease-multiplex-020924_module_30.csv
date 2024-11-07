@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666643
+1,disease_on_symptoms,17,13,1.8828054298642534
+2,disease_on_drugs,17,18,0.3452380952380951

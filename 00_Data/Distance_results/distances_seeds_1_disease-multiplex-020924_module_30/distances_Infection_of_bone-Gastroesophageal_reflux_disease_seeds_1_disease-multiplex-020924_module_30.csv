@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,26,26,0.019230769230769384
+1,disease_on_symptoms,21,17,0.4821612855668582
+2,disease_on_drugs,24,25,0.36647959183673473

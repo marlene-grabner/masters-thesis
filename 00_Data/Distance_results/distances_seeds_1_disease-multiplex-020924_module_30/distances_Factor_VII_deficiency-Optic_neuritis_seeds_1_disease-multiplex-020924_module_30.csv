@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,25,27,0.3837321937321936
+1,disease_on_symptoms,23,16,2.0457427536231885
+2,disease_on_drugs,21,27,0.8945105820105821

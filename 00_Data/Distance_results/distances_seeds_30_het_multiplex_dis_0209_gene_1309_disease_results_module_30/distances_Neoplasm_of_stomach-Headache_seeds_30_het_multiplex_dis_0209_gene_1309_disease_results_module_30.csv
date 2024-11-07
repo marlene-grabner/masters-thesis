@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Headache nodes,sAB
+0,disease_on_genes,25,30,-0.020000000000000018
+1,disease_on_symptoms,23,23,0.6739130434782608
+2,disease_on_drugs,24,23,0.2515995991366018

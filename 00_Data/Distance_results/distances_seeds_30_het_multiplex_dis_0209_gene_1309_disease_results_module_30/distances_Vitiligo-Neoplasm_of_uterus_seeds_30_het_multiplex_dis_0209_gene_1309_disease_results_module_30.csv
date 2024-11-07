@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,19,18,0.010154891733838767
+2,disease_on_drugs,25,26,0.11717948717948712

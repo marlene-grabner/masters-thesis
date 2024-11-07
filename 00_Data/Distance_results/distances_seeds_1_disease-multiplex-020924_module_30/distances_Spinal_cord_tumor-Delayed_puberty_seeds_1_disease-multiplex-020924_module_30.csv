@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,22,22,0.2822158461693345
+1,disease_on_symptoms,22,20,1.9027056277056276
+2,disease_on_drugs,14,19,0.900831624515835

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,27,29,0.3392857142857142
+1,disease_on_symptoms,23,14,1.5919926137317442
+2,disease_on_drugs,20,28,1.2083333333333335

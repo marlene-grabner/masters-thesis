@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.3773047357953019
+1,disease_on_symptoms,21,15,0.9087301587301588
+2,disease_on_drugs,23,16,0.7926421404682273

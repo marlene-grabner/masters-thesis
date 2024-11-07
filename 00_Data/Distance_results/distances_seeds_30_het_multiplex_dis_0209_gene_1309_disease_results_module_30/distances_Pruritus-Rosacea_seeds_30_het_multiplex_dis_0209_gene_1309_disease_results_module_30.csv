@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Rosacea nodes,sAB
+0,disease_on_genes,27,30,-0.22816764132553613
+1,disease_on_symptoms,21,18,0.28296703296703285
+2,disease_on_drugs,27,30,-0.13723196881091604

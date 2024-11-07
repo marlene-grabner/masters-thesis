@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Heartburn nodes,sAB
+0,disease_on_genes,14,24,0.38643483709273196
+1,disease_on_symptoms,25,20,2.0372222222222223
+2,disease_on_drugs,10,22,0.8022727272727272

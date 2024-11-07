@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Myalgia nodes,sAB
+0,disease_on_genes,24,30,0.17222222222222228
+1,disease_on_symptoms,23,16,2.1133639910813824
+2,disease_on_drugs,22,29,1.0

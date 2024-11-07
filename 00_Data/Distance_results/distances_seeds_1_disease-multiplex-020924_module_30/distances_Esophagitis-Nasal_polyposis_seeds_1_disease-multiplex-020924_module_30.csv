@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,24,15,0.29160945842868036
+1,disease_on_symptoms,23,25,0.5672101449275362
+2,disease_on_drugs,20,10,0.1416666666666666

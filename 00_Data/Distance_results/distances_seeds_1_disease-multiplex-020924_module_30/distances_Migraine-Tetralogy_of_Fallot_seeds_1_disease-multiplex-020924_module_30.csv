@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,14,14,1.4285714285714284
+2,disease_on_drugs,29,11,0.7

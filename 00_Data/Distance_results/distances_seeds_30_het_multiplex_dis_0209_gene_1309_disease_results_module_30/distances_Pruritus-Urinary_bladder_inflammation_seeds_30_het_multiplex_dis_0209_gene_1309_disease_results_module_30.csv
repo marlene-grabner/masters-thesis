@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,27,30,-0.1413255360623783
+1,disease_on_symptoms,21,16,0.5976110038610039
+2,disease_on_drugs,27,29,0.03491607370917715

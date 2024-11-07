@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.2222222222222222
+1,disease_on_symptoms,21,21,-0.30952380952380953
+2,disease_on_drugs,25,27,-0.3116524216524217

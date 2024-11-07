@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,0.34032145352900045
+1,disease_on_symptoms,15,20,1.413095238095238
+2,disease_on_drugs,21,25,0.4285714285714286

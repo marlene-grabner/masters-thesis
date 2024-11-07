@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,22,22,0.45454545454545436
+1,disease_on_symptoms,21,19,3.1168546365914787
+2,disease_on_drugs,6,19,0.36701754385964924

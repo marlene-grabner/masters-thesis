@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,28,0.5263157894736843
+1,disease_on_symptoms,18,12,1.9944444444444445
+2,disease_on_drugs,22,21,0.951827242524917

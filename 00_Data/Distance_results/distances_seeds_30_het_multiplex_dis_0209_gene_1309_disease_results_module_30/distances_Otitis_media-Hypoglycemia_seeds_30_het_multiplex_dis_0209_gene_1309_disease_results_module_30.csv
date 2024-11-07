@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,29,30,-0.06780635106175736
+1,disease_on_symptoms,20,19,0.8897098515519568
+2,disease_on_drugs,28,27,0.19957912457912452

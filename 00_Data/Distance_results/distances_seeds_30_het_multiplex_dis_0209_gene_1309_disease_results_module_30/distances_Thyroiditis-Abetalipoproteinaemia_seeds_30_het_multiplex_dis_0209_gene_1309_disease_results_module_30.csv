@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.10389610389610382
+1,disease_on_symptoms,21,26,-0.2739459122437846
+2,disease_on_drugs,29,14,0.15193607515179264

@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,26,30,0.017857142857142794
+1,disease_on_symptoms,23,18,0.24531636620714004
+2,disease_on_drugs,26,26,0.15384615384615374

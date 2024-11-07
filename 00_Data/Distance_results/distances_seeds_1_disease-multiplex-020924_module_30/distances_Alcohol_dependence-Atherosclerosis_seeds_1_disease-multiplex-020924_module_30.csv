@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,12,30,0.3154761904761907
+1,disease_on_symptoms,27,13,0.14757834757834742
+2,disease_on_drugs,9,29,0.41520467836257313

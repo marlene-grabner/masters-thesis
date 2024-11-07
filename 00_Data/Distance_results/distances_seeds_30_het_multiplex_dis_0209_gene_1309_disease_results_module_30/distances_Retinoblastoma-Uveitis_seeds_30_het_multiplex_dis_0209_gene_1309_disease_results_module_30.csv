@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,21,20,0.7509872241579556
+2,disease_on_drugs,27,23,0.5075684380032206

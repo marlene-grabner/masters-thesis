@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Rhinitis nodes,sAB
+0,disease_on_genes,26,30,0.0020146520146520075
+1,disease_on_symptoms,21,15,-0.23492063492063497
+2,disease_on_drugs,26,22,-0.10256410256410253

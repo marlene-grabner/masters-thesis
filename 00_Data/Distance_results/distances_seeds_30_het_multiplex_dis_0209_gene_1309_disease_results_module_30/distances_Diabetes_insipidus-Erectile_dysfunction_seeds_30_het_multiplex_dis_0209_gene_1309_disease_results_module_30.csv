@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,-0.10851648351648346
+1,disease_on_symptoms,20,15,0.12142857142857144
+2,disease_on_drugs,20,30,-0.006666666666666599

@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,29,20,-0.10346586910626321
+1,disease_on_symptoms,17,23,0.4008951406649617
+2,disease_on_drugs,26,18,-0.15559440559440552

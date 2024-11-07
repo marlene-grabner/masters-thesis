@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,-0.13207547169811318
+1,disease_on_symptoms,25,26,0.19484162895927626
+2,disease_on_drugs,24,28,-0.15567765567765568

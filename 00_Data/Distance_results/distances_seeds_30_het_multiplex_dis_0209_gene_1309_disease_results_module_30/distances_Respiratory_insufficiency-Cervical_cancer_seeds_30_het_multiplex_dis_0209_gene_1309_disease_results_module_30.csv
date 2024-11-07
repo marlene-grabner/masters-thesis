@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,27,28,-0.036363636363636376
+1,disease_on_symptoms,21,22,0.6756266988825128
+2,disease_on_drugs,25,15,-0.011666666666666714

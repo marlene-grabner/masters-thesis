@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,30,0.08909090909090911
+1,disease_on_symptoms,26,18,0.22319347319347327
+2,disease_on_drugs,24,29,0.4407395358924313

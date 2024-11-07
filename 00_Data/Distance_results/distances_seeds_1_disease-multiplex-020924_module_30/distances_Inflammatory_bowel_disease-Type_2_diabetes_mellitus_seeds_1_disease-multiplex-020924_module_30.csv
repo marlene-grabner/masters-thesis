@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,17,16,0.125
+1,disease_on_symptoms,27,21,4.016203703703704
+2,disease_on_drugs,14,15,0.8608374384236455

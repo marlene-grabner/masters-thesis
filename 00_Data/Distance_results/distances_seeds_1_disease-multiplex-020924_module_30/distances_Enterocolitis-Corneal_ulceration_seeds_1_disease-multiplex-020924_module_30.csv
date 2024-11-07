@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,27,28,0.09089706589706581
+1,disease_on_symptoms,21,19,0.6874686716791982
+2,disease_on_drugs,24,26,0.03916666666666657

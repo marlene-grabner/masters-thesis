@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,29,30,-0.052631578947368474
+1,disease_on_symptoms,17,22,0.13087892499657228
+2,disease_on_drugs,26,28,0.053876678876678685

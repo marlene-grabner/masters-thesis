@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,22,18,0.006818181818181612
+2,disease_on_drugs,26,29,0.056932722449963835

@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,-0.5714285714285714
+1,disease_on_symptoms,22,19,-0.9776228264674993
+2,disease_on_drugs,30,25,-0.5454545454545454

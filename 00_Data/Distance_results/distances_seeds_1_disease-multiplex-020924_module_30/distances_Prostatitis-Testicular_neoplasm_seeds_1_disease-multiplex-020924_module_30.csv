@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.16606060606060602
+1,disease_on_symptoms,20,25,1.2750000000000001
+2,disease_on_drugs,29,23,0.9797312882020526

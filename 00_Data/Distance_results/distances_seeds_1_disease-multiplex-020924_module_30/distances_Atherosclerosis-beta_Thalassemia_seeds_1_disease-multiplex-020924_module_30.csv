@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,22,0.5664335664335662
+1,disease_on_symptoms,13,21,2.5428786899375133
+2,disease_on_drugs,29,6,0.7476190476190478

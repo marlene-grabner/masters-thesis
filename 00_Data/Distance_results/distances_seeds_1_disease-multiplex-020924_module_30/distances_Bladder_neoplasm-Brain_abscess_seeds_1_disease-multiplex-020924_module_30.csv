@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,26,27,0.2844164919636618
+1,disease_on_symptoms,20,21,0.9283101045296167
+2,disease_on_drugs,25,23,0.786231884057971

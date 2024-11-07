@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,30,28,0.15517241379310343
+1,disease_on_symptoms,10,17,0.7400871459694986
+2,disease_on_drugs,16,28,0.019886363636363535

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,26,25,0.09686274509803927
+1,disease_on_symptoms,17,22,0.21140134375428477
+2,disease_on_drugs,25,24,0.30482993197278896

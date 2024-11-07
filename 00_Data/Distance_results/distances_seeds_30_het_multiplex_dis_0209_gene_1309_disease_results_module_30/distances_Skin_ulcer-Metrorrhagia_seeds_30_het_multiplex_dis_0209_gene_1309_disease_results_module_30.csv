@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.1228070175438597
+1,disease_on_symptoms,20,17,0.2860890302066772
+2,disease_on_drugs,24,26,-0.09794871794871796

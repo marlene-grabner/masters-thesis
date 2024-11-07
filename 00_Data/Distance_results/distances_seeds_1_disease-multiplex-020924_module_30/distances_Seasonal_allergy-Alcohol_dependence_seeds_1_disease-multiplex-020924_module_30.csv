@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,29,12,0.30400196243341737
+1,disease_on_symptoms,15,27,0.41058201058201016
+2,disease_on_drugs,29,9,0.29270014115749143

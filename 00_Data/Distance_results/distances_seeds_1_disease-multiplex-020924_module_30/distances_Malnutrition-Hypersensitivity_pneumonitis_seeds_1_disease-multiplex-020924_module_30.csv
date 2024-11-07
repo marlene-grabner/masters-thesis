@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,24,0.10153846153846158
+1,disease_on_symptoms,18,23,1.2459644161659011
+2,disease_on_drugs,23,24,0.23404255319148937

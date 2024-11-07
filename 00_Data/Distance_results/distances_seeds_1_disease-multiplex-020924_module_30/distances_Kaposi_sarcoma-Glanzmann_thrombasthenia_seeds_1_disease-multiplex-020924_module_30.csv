@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,15,24,0.2714743589743591
+1,disease_on_symptoms,27,21,1.7351190476190477
+2,disease_on_drugs,13,24,0.9498873873873874

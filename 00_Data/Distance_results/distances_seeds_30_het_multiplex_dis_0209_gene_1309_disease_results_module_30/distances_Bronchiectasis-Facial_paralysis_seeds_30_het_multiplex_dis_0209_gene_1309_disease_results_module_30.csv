@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.23076923076923084
+1,disease_on_symptoms,19,21,0.5939223057644107
+2,disease_on_drugs,25,17,0.322577030812325

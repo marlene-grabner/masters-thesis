@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma_of_the_head_and_neck nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.06904761904761891
+1,disease_on_symptoms,22,18,0.81489898989899
+2,disease_on_drugs,30,26,0.35247252747252733

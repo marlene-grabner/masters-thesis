@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,14,27,0.7691637630662023
+1,disease_on_symptoms,27,17,1.9350861556743908
+2,disease_on_drugs,8,25,1.3011363636363638

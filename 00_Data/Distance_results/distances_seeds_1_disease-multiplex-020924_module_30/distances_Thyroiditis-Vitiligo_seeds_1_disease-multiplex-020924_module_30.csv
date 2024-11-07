@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Vitiligo nodes,sAB
+0,disease_on_genes,26,24,0.1939102564102564
+1,disease_on_symptoms,28,22,1.9413636363636364
+2,disease_on_drugs,23,11,0.36061381074168786

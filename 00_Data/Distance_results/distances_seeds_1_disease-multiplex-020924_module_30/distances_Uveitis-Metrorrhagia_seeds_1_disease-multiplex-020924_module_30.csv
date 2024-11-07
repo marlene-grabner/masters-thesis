@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.19385964912280707
+1,disease_on_symptoms,21,17,1.3401149933657674
+2,disease_on_drugs,27,26,0.5845293769822073

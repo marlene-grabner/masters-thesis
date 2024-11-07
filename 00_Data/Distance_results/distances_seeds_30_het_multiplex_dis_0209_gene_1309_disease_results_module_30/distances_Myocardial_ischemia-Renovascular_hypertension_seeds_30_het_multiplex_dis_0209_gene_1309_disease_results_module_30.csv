@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,19,17,0.1014791881664947
+2,disease_on_drugs,30,29,-0.1890902006623807

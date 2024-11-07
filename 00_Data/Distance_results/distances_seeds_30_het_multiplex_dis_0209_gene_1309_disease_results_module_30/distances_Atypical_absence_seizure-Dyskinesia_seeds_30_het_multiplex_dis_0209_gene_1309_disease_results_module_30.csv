@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,13,15,-0.45109890109890116
+2,disease_on_drugs,22,28,-0.36603896103896116

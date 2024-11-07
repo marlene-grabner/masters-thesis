@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,29,28,-0.10496067755595884
+1,disease_on_symptoms,20,25,0.5655555555555556
+2,disease_on_drugs,25,24,0.15986394557823136

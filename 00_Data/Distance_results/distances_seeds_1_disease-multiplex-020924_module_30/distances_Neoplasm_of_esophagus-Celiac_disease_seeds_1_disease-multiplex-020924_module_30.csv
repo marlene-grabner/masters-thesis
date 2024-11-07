@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,21,17,0.09907120743034059
+1,disease_on_symptoms,24,22,0.526268115942029
+2,disease_on_drugs,20,15,0.2845238095238094

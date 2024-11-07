@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,-0.13333333333333341
+1,disease_on_symptoms,13,25,0.0898785425101214
+2,disease_on_drugs,28,29,-0.0009614553625443278

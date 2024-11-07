@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.3404761904761906
+1,disease_on_symptoms,15,14,0.1733169129720853
+2,disease_on_drugs,21,26,0.505085340191723

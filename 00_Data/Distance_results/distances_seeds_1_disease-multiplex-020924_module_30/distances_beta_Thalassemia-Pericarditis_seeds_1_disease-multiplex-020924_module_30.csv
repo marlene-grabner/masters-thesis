@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,22,25,0.3573500967117986
+1,disease_on_symptoms,21,22,3.189167421725561
+2,disease_on_drugs,6,25,0.6197849462365592

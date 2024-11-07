@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,28,26,-0.03703703703703709
+1,disease_on_symptoms,17,20,0.6908982511923689
+2,disease_on_drugs,19,25,-0.12698564593301453

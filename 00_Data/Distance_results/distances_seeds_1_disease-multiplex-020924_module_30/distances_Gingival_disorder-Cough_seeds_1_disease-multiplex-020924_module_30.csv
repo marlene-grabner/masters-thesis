@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Cough nodes,sAB
+0,disease_on_genes,21,27,-0.048280423280423035
+1,disease_on_symptoms,26,21,0.9301691216584835
+2,disease_on_drugs,20,27,0.13317572892040963

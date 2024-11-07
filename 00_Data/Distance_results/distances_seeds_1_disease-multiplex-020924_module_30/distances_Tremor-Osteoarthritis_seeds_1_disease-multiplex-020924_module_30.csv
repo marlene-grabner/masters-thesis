@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,16,25,0.1789329268292683
+1,disease_on_symptoms,23,20,1.7393326592517697
+2,disease_on_drugs,16,21,0.6714527027027026

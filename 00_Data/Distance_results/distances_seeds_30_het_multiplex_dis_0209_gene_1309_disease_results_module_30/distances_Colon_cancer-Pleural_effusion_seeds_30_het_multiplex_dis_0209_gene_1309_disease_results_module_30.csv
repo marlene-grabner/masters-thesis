@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,-0.1071428571428571
+1,disease_on_symptoms,22,18,0.013636363636363669
+2,disease_on_drugs,26,27,-0.055636187711659346

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,26,26,0.1346153846153848
+1,disease_on_symptoms,18,15,1.468686868686869
+2,disease_on_drugs,23,26,0.3877551020408163

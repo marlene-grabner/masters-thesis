@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.2619496855345911
+1,disease_on_symptoms,19,20,0.12567476383265852
+2,disease_on_drugs,30,20,-0.15833333333333333

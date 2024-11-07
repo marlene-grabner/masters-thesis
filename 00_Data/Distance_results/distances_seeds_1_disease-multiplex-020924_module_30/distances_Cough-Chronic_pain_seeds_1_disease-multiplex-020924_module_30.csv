@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,27,30,-0.0185185185185186
+1,disease_on_symptoms,21,22,1.3659267089499647
+2,disease_on_drugs,27,28,0.32692400192400184

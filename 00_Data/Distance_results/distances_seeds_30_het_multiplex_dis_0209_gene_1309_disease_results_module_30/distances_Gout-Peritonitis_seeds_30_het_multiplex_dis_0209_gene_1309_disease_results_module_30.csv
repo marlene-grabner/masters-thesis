@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Peritonitis nodes,sAB
+0,disease_on_genes,28,30,0.0683497536945814
+1,disease_on_symptoms,19,14,0.4108566871724766
+2,disease_on_drugs,22,24,-0.13381093544137013

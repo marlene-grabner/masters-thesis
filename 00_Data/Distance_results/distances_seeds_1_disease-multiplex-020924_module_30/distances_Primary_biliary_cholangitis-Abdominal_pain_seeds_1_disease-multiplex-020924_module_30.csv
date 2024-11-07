@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,0.126007326007326
+1,disease_on_symptoms,17,24,0.5865315638450503
+2,disease_on_drugs,18,24,0.31547619047619047

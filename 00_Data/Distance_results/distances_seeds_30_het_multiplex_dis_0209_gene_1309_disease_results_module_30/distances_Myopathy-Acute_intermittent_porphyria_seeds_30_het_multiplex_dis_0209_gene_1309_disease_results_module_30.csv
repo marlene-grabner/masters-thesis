@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,23,27,-0.21999999999999997
+1,disease_on_symptoms,22,17,0.6003702180172765
+2,disease_on_drugs,21,24,-0.38988095238095233

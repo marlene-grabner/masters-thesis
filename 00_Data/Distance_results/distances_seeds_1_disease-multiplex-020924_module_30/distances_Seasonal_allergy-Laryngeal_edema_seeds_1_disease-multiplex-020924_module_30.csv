@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,29,30,0.18527177089421376
+1,disease_on_symptoms,15,20,0.4571428571428573
+2,disease_on_drugs,29,28,0.05199420966208601

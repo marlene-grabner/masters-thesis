@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Myopathy nodes,sAB
+0,disease_on_genes,29,18,0.4461155946849271
+1,disease_on_symptoms,17,21,2.4217897685389946
+2,disease_on_drugs,26,6,1.064102564102564

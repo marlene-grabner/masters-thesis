@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,24,9,0.004419191919191823
+1,disease_on_symptoms,22,27,1.98118944547516
+2,disease_on_drugs,24,9,0.33333333333333326

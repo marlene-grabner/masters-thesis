@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,18,30,0.35833333333333317
+1,disease_on_symptoms,18,14,3.3720238095238093
+2,disease_on_drugs,10,26,0.43632478632478633

@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,23,30,-0.1654088050314464
+1,disease_on_symptoms,22,22,0.29545454545454564
+2,disease_on_drugs,21,29,-0.21192118226600987

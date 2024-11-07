@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,18,22,-0.039141414141414144
+2,disease_on_drugs,24,29,-0.26875948818043804

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.18181818181818177
+1,disease_on_symptoms,14,20,0.43256302521008405
+2,disease_on_drugs,29,25,-0.1451340996168582

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,19,0.12901484480431824
+2,disease_on_drugs,25,30,-0.050303030303030294

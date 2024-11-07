@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,26,0.01921568627450987
+1,disease_on_symptoms,26,18,0.5843045843045842
+2,disease_on_drugs,24,26,0.5212820512820511

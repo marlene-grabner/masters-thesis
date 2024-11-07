@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.019230769230769162
+1,disease_on_symptoms,15,25,0.48
+2,disease_on_drugs,28,25,-0.036199460916441994

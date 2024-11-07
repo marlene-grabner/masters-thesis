@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,-0.052380952380952306
+1,disease_on_symptoms,15,19,0.7315789473684209
+2,disease_on_drugs,25,24,0.1193877551020408

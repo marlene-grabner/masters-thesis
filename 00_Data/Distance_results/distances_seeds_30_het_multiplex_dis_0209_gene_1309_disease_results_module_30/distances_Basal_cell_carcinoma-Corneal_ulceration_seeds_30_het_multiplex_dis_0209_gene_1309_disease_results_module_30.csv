@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,-0.12130541871921174
+1,disease_on_symptoms,24,15,-0.06506410256410255
+2,disease_on_drugs,27,23,-0.10450885668276966

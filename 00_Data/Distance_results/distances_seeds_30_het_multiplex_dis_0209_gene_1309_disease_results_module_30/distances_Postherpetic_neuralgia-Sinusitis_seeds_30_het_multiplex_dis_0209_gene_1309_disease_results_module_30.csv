@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,16,20,0.6138888888888889
+2,disease_on_drugs,29,27,0.19994070425104904

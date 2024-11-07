@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.5080379520229144
+1,disease_on_symptoms,12,21,2.0481601731601735
+2,disease_on_drugs,17,17,0.7058823529411766

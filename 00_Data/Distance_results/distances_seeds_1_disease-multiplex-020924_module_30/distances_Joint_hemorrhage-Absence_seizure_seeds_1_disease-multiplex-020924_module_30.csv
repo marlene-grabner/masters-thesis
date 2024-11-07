@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.6101402688486266
+1,disease_on_symptoms,13,16,2.2385610079575597
+2,disease_on_drugs,18,22,1.0166666666666666

@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,20,27,0.09797084318360927
+1,disease_on_symptoms,24,27,1.2942538126361658
+2,disease_on_drugs,18,26,0.46406371406371405

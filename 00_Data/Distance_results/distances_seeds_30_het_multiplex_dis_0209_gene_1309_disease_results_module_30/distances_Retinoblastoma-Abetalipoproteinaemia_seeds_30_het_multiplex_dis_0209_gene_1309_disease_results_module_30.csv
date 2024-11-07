@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,0.05519480519480524
+1,disease_on_symptoms,21,26,0.6303094069051516
+2,disease_on_drugs,27,14,0.3360110982062201

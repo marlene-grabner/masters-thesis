@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,22,27,-0.10753796468082188
+1,disease_on_symptoms,19,16,-0.3364191729323309
+2,disease_on_drugs,19,27,-0.17204847868463435

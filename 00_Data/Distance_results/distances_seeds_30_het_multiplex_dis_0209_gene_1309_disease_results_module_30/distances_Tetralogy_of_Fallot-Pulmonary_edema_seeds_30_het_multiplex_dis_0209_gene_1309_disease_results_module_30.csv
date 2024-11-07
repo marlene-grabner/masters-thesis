@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Pulmonary_edema nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,11,0.1051036682615627
+2,disease_on_drugs,20,27,-0.003959810874704317

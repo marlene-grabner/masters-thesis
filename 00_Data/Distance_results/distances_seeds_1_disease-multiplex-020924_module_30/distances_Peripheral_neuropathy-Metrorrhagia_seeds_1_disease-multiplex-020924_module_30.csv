@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.19649122807017538
+1,disease_on_symptoms,20,17,1.1720190779014308
+2,disease_on_drugs,24,26,0.8998717948717949

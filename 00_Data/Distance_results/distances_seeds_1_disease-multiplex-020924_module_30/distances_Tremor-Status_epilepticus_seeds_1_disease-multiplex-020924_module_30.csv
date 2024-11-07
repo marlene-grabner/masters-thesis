@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,16,29,-0.28876915708812256
+1,disease_on_symptoms,23,17,-0.21572890025575475
+2,disease_on_drugs,16,30,-0.18342391304347827

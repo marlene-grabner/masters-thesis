@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,21,20,0.19233449477351905
+2,disease_on_drugs,29,23,0.00911082920078421

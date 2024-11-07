@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.320754716981132
+1,disease_on_symptoms,18,12,1.8027777777777776
+2,disease_on_drugs,22,18,0.8179292929292927

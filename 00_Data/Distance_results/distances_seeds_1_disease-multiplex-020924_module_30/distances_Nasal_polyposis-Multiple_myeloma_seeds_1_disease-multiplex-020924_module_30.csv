@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,15,26,0.3569105691056911
+1,disease_on_symptoms,25,21,1.2420289855072464
+2,disease_on_drugs,10,25,0.3742857142857141

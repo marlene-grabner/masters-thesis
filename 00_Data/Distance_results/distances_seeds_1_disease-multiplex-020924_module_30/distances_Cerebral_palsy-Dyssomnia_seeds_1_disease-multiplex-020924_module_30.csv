@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,27,18,0.14074074074074083
+1,disease_on_symptoms,16,21,1.4062902187902186
+2,disease_on_drugs,18,17,0.6831932773109242

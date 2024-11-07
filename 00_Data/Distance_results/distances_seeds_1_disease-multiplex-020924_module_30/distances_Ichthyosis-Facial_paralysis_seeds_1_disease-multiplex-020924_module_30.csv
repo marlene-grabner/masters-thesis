@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,14,0.2048974061169182
+1,disease_on_symptoms,17,23,0.9721227621483377
+2,disease_on_drugs,24,14,0.44736842105263164

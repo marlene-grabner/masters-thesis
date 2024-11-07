@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,-0.3539961013645223
+1,disease_on_symptoms,19,24,-0.1483323133414931
+2,disease_on_drugs,26,24,-0.2808974358974359

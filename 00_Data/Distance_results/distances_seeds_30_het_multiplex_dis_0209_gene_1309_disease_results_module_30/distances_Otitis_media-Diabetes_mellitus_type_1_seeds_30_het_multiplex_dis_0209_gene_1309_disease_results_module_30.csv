@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,29,30,-0.051139684395090534
+1,disease_on_symptoms,20,18,0.9504385964912281
+2,disease_on_drugs,28,26,0.02029914529914545

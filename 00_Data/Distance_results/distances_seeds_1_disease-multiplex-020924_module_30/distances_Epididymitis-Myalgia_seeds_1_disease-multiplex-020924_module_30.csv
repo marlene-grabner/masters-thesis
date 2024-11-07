@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,29,30,-0.016393921683226287
+1,disease_on_symptoms,23,16,0.5626393534002228
+2,disease_on_drugs,27,29,0.12367724867724861

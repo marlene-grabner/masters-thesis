@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,28,30,0.15389983579638722
+1,disease_on_symptoms,19,16,1.5966165413533833
+2,disease_on_drugs,26,23,0.5264657702545901

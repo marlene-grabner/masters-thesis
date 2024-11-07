@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.14941724941724943
+1,disease_on_symptoms,14,20,1.4747899159663866
+2,disease_on_drugs,29,19,0.375

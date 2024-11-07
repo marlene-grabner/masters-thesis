@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,29,30,-0.08446327683615817
+1,disease_on_symptoms,20,19,0.1461538461538463
+2,disease_on_drugs,20,29,0.03715693173821255

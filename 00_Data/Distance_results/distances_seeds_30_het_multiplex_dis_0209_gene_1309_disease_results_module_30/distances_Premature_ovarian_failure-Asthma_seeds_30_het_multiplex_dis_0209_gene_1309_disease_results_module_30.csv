@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Asthma nodes,sAB
+0,disease_on_genes,30,25,0.07090909090909081
+1,disease_on_symptoms,15,20,1.6154761904761905
+2,disease_on_drugs,26,22,0.097465034965035

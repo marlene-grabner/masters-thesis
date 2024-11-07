@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,29,0.16976427040716935
+1,disease_on_symptoms,22,16,0.15490430622009566
+2,disease_on_drugs,15,24,0.002564102564102555

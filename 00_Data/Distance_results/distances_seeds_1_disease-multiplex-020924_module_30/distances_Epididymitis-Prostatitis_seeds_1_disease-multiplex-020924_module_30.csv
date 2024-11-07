@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,29,30,-0.6940775375024353
+1,disease_on_symptoms,23,20,-0.9479524772497473
+2,disease_on_drugs,27,29,-0.660805509943441

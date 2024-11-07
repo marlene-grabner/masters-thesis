@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Myalgia nodes,sAB
+0,disease_on_genes,25,30,0.3754545454545455
+1,disease_on_symptoms,16,16,1.21875
+2,disease_on_drugs,17,29,0.5140664961636829

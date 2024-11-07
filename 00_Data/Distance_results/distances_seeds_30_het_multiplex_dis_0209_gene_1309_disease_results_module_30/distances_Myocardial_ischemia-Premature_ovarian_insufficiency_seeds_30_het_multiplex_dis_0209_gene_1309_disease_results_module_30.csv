@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,19,18,-0.26722775406985955
+2,disease_on_drugs,30,22,-0.20815850815850812

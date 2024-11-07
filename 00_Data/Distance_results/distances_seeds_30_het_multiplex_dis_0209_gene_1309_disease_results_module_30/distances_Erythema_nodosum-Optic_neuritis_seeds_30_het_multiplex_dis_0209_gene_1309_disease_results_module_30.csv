@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.1578947368421053
+1,disease_on_symptoms,22,21,-0.1356840833585018
+2,disease_on_drugs,29,27,-0.12447546068235715

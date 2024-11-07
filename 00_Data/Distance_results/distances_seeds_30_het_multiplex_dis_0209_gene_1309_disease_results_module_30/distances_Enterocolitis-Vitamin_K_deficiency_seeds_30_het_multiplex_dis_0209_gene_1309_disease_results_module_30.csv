@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,-0.15384615384615385
+1,disease_on_symptoms,21,21,0.8095238095238098
+2,disease_on_drugs,25,21,-0.2590476190476192

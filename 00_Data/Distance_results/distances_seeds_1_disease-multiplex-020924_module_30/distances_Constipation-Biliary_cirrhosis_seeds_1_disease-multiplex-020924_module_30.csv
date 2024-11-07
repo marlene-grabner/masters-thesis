@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.05476190476190479
+1,disease_on_symptoms,17,15,-0.09779411764705892
+2,disease_on_drugs,27,15,-0.18042328042328026

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Purpura nodes,sAB
+0,disease_on_genes,26,27,0.07582110412299081
+1,disease_on_symptoms,20,17,0.9587837837837838
+2,disease_on_drugs,23,24,0.30001156336725265

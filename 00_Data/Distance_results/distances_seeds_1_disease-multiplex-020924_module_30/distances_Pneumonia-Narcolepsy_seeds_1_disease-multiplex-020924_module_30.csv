@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,30,25,0.32484848484848494
+1,disease_on_symptoms,26,21,1.5128789650066246
+2,disease_on_drugs,28,20,0.6416666666666668

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.24473684210526314
+1,disease_on_symptoms,16,20,0.3006944444444444
+2,disease_on_drugs,28,27,-0.2886363636363637

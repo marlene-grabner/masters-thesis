@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,28,26,-0.09193121693121686
+1,disease_on_symptoms,18,21,0.764041514041514
+2,disease_on_drugs,25,26,0.059909502262443404

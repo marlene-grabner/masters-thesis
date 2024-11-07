@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,-0.10909090909090913
+1,disease_on_symptoms,20,25,-0.015555555555555767
+2,disease_on_drugs,24,21,0.04841269841269824

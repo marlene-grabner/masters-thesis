@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,23,29,0.5945969323030791
+1,disease_on_symptoms,21,16,2.122184684684685
+2,disease_on_drugs,19,22,1.1219512195121952

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,29,30,0.22033898305084754
+1,disease_on_symptoms,23,16,1.1389701783723523
+2,disease_on_drugs,26,28,0.2582926332926332

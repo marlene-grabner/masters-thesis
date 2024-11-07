@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,22,16,-0.11064593301435388
+2,disease_on_drugs,30,28,-0.004926108374384119

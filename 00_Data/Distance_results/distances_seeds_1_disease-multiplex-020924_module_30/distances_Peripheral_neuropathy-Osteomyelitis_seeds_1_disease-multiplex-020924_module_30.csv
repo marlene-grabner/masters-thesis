@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.2733333333333332
+1,disease_on_symptoms,20,23,2.1503538928210317
+2,disease_on_drugs,24,23,0.8723018809744063

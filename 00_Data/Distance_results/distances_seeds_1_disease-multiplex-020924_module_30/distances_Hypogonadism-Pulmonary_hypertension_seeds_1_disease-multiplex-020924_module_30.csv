@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.01723057644110293
+1,disease_on_symptoms,12,20,0.885416666666667
+2,disease_on_drugs,30,28,0.5522988505747126

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Asthma nodes,sAB
+0,disease_on_genes,29,25,0.2022222222222223
+1,disease_on_symptoms,18,19,1.6784020862968232
+2,disease_on_drugs,30,24,0.6268518518518518

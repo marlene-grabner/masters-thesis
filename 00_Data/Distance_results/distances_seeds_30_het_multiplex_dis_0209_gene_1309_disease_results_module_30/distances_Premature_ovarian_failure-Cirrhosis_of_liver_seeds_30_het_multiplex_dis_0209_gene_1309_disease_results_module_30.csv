@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,15,19,-0.14097007223942204
+2,disease_on_drugs,26,30,-0.38397435897435894

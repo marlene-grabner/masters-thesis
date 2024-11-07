@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,30,0.13559322033898313
+1,disease_on_symptoms,12,17,0.886240703177823
+2,disease_on_drugs,30,25,0.8451515151515152

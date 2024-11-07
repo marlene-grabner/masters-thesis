@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.30536723163841817
+1,disease_on_symptoms,12,16,1.1279761904761907
+2,disease_on_drugs,17,29,1.0403033777229032

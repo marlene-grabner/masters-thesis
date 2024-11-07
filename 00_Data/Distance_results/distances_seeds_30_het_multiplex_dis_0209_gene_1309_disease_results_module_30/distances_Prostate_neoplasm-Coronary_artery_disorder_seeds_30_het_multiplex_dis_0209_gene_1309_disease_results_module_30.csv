@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,21,23,-0.09100319969885184
+1,disease_on_symptoms,20,19,0.564541160593792
+2,disease_on_drugs,21,22,0.2103090707741868

@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,20,15,-0.15595238095238084
+2,disease_on_drugs,29,24,-0.0745906527868141

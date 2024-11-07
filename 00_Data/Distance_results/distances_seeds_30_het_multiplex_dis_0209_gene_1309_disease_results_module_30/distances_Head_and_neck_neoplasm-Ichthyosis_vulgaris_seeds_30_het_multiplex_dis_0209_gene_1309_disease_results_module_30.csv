@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.08684210526315783
+1,disease_on_symptoms,22,21,0.4199889258028793
+2,disease_on_drugs,27,24,0.05514705882352944

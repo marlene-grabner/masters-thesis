@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,29,26,0.29184952978056433
+1,disease_on_symptoms,23,19,0.5878827503541462
+2,disease_on_drugs,27,24,1.0989923747276686

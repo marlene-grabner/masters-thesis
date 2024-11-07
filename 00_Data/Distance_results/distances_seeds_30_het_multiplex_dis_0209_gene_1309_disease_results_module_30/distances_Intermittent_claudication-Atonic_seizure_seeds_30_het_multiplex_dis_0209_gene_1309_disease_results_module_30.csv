@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.3666666666666667
+1,disease_on_symptoms,14,15,0.542528735632184
+2,disease_on_drugs,24,23,0.4901518655565833

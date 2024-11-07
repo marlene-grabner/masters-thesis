@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,25,27,0.13521367521367522
+1,disease_on_symptoms,14,15,1.035057471264368
+2,disease_on_drugs,22,25,0.4480851063829787

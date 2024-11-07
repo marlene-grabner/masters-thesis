@@ -1,0 +1,4 @@
+,Layer,Abdominal_pain nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.3559523809523809
+1,disease_on_symptoms,19,18,0.05930930930930933
+2,disease_on_drugs,29,26,-0.2752592235350858

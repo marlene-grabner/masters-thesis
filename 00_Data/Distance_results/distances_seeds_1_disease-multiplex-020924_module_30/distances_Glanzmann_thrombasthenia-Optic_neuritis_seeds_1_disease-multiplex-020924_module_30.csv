@@ -1,0 +1,4 @@
+,Layer,Glanzmann_thrombasthenia nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,24,27,0.1186002178649237
+1,disease_on_symptoms,21,16,0.9752654440154442
+2,disease_on_drugs,24,27,0.2705610021786493

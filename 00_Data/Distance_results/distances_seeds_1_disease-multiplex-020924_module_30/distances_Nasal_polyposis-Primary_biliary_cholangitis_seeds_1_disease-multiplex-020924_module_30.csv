@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,15,26,0.48402126328955597
+1,disease_on_symptoms,25,17,0.5955182072829133
+2,disease_on_drugs,10,18,0.2690476190476192

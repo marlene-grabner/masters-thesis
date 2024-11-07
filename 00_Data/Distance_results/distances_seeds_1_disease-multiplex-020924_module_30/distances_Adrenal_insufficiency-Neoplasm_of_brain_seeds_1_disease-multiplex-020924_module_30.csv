@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,17,22,0.3543466337583985
+1,disease_on_symptoms,21,23,1.4117730095990968
+2,disease_on_drugs,14,20,0.8323529411764705

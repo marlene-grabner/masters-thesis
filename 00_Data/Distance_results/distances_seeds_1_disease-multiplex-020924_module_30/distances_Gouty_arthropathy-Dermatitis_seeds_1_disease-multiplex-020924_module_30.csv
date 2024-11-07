@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Dermatitis nodes,sAB
+0,disease_on_genes,25,26,0.21999999999999997
+1,disease_on_symptoms,13,25,1.123157894736842
+2,disease_on_drugs,16,24,0.3020833333333335

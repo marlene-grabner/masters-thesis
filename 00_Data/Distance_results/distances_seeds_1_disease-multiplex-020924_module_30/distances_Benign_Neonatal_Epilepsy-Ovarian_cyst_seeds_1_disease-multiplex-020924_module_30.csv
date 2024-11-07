@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,29,20,0.35357142857142865
+1,disease_on_symptoms,16,22,2.5273624401913874
+2,disease_on_drugs,26,15,1.0219512195121951

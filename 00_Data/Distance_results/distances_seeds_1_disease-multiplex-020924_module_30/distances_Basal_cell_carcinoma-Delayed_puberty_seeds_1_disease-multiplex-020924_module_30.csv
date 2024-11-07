@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,26,22,0.042066089938430196
+1,disease_on_symptoms,23,20,2.2259605662285136
+2,disease_on_drugs,25,19,0.151913875598086

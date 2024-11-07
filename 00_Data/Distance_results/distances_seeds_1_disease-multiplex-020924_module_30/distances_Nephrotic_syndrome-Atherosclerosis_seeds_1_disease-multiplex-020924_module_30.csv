@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,20,30,0.135
+1,disease_on_symptoms,24,13,0.3367550242550241
+2,disease_on_drugs,18,29,0.20153664302600482

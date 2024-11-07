@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.3084905660377357
+1,disease_on_symptoms,19,25,0.8530143540669854
+2,disease_on_drugs,28,21,0.5918367346938775

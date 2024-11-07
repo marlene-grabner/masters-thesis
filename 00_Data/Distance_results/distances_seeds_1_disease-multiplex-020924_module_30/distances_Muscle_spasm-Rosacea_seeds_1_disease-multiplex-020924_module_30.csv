@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Rosacea nodes,sAB
+0,disease_on_genes,25,30,0.15909090909090917
+1,disease_on_symptoms,23,17,0.9296675191815857
+2,disease_on_drugs,19,27,1.0434782608695654

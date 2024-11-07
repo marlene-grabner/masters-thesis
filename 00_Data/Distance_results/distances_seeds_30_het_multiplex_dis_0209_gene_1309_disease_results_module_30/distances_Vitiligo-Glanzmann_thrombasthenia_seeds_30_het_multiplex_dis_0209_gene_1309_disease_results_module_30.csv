@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.12962962962962954
+1,disease_on_symptoms,19,19,0.4210526315789469
+2,disease_on_drugs,25,24,0.4297448979591836

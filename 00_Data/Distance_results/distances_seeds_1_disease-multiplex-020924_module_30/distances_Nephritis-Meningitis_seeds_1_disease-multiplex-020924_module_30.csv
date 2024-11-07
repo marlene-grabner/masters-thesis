@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.11776738749269433
+1,disease_on_symptoms,18,20,1.0808479532163744
+2,disease_on_drugs,27,26,0.20929419986023756

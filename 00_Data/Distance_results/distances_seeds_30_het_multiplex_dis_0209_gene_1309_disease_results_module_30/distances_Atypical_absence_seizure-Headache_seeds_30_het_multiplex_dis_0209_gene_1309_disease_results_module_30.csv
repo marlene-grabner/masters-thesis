@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,13,23,-0.01272761055369731
+2,disease_on_drugs,22,23,-0.174945103205973

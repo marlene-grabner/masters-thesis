@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,-0.3584905660377359
+1,disease_on_symptoms,16,22,-0.3954844497607657
+2,disease_on_drugs,30,21,-0.4445378151260504

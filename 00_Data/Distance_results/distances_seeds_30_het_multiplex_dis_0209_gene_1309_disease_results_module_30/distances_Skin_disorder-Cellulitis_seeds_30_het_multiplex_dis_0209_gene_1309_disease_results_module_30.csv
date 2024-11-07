@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Cellulitis nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,19,20,0.5393387314439948
+2,disease_on_drugs,23,26,0.08588150979455356

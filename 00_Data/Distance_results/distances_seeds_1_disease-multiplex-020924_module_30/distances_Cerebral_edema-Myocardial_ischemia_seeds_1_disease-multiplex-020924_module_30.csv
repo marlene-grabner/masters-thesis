@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,0.6666666666666667
+1,disease_on_symptoms,9,13,0.8255633255633255
+2,disease_on_drugs,11,23,0.5952104161822833

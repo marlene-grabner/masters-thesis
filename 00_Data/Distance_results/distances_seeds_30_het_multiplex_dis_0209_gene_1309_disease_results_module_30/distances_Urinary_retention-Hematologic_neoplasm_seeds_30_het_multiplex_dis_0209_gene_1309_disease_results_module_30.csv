@@ -1,0 +1,4 @@
+,Layer,Urinary_retention nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,16,18,0.12193627450980404
+2,disease_on_drugs,28,27,-0.055952380952380976

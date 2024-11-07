@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,22,20,1.1647186147186148
+2,disease_on_drugs,29,24,0.909862285838213

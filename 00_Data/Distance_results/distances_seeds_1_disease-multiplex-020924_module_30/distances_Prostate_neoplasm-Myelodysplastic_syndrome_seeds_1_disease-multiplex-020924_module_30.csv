@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,17,26,0.13816689466484267
+1,disease_on_symptoms,21,15,1.6880952380952379
+2,disease_on_drugs,17,21,0.42237947810703225

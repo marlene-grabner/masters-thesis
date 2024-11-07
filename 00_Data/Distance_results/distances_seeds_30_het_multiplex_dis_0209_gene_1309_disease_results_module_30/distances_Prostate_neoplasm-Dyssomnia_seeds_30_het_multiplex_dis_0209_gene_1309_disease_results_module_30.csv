@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,21,18,-0.07509157509157505
+1,disease_on_symptoms,20,21,2.4870209059233446
+2,disease_on_drugs,21,17,0.09169983782986879

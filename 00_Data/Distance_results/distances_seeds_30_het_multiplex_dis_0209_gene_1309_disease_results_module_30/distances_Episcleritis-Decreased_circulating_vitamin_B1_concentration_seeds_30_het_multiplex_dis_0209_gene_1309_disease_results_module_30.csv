@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,18,17,0.20032679738562087
+2,disease_on_drugs,28,25,0.11450134770889475

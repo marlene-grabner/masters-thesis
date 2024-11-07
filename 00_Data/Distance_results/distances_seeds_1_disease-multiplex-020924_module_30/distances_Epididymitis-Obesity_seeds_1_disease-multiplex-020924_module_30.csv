@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Obesity nodes,sAB
+0,disease_on_genes,29,26,0.10898239691343137
+1,disease_on_symptoms,23,20,0.5049544994944388
+2,disease_on_drugs,27,27,0.4259259259259258

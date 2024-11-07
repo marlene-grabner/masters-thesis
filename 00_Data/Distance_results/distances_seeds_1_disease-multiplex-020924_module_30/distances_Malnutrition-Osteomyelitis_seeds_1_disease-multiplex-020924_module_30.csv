@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,0.17604826546003016
+1,disease_on_symptoms,18,23,2.3170142570990926
+2,disease_on_drugs,23,23,0.5434782608695652

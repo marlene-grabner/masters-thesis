@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.05882352941176472
+1,disease_on_symptoms,20,23,0.9727249747219413
+2,disease_on_drugs,29,21,0.06577996715927759

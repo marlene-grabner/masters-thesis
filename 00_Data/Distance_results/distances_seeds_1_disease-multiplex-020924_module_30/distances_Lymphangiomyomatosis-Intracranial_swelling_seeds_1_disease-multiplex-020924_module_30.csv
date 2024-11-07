@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.2154761904761906
+1,disease_on_symptoms,19,14,0.4987468671679198
+2,disease_on_drugs,22,24,0.3220520421607378

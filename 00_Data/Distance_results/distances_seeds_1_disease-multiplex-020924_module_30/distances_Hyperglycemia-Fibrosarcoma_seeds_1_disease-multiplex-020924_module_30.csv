@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,22,0.30571095571095563
+1,disease_on_symptoms,14,24,1.8834586466165413
+2,disease_on_drugs,26,13,1.076923076923077

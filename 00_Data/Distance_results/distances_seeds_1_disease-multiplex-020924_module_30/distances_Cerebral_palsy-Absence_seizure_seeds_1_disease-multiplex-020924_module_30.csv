@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,27,29,0.24655628534938878
+1,disease_on_symptoms,16,16,1.03125
+2,disease_on_drugs,18,22,0.3500000000000001

@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,18,23,0.3040404040404039
+1,disease_on_symptoms,28,18,1.8722394755003449
+2,disease_on_drugs,17,18,0.7697478991596638

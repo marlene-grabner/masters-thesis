@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,22,27,-0.05744520030234335
+1,disease_on_symptoms,21,21,0.4999999999999998
+2,disease_on_drugs,21,25,0.12770186335403722

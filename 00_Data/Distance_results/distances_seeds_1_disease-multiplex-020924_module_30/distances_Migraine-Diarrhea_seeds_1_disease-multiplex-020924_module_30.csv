@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,-0.03820662768031169
+1,disease_on_symptoms,14,19,0.27796764638869886
+2,disease_on_drugs,29,26,0.21713286713286717

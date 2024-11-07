@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,18,16,-0.14093137254901955
+2,disease_on_drugs,27,29,-0.09215927750410491

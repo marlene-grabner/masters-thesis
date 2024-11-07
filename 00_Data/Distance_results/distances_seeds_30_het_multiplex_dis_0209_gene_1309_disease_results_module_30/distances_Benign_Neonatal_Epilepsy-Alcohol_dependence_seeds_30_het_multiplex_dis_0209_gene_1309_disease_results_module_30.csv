@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,16,18,0.09906045751634007
+2,disease_on_drugs,21,24,-0.08650793650793642

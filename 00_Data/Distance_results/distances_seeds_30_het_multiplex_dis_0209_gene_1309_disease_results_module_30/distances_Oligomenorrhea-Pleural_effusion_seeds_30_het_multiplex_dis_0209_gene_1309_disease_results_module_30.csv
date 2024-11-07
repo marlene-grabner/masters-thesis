@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,11,18,0.5023510971786833
+2,disease_on_drugs,24,27,0.12009803921568651

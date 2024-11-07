@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Encephalitis nodes,sAB
+0,disease_on_genes,25,29,0.12814814814814812
+1,disease_on_symptoms,20,13,1.0128787878787882
+2,disease_on_drugs,22,22,0.34090909090909105

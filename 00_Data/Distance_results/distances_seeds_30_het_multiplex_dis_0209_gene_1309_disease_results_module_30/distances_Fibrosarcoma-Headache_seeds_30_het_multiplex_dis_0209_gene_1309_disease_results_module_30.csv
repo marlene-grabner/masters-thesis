@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Headache nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,14,23,-0.3821134799395669
+2,disease_on_drugs,26,23,-0.10460036857552368

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,17,25,0.43759103641456587
+1,disease_on_symptoms,21,19,1.1402882205513785
+2,disease_on_drugs,17,18,1.7705415499533146

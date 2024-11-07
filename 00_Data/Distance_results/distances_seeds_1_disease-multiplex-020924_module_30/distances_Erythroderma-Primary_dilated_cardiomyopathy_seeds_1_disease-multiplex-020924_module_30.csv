@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.7166666666666666
+1,disease_on_symptoms,19,25,1.6793779904306216
+2,disease_on_drugs,28,7,1.1857142857142857

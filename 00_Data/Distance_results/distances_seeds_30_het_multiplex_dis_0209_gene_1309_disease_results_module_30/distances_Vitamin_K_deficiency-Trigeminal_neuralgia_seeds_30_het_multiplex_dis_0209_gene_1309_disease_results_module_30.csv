@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,21,15,0.5373015873015876
+2,disease_on_drugs,21,25,-0.0868737060041409

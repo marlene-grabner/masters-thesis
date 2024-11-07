@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,28,30,-0.035098522167487656
+1,disease_on_symptoms,15,18,0.6479797979797979
+2,disease_on_drugs,23,26,-0.06332332264009288

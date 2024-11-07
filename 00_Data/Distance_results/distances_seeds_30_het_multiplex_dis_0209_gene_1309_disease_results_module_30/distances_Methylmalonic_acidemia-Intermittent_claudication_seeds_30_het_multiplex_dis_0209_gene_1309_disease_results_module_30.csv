@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,25,30,-0.018181818181818188
+1,disease_on_symptoms,17,14,0.4611005692599619
+2,disease_on_drugs,21,24,0.10972222222222228

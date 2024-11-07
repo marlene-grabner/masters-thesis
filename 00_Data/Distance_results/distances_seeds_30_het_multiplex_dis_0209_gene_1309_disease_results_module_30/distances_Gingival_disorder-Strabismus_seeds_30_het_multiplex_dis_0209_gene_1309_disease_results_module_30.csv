@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Strabismus nodes,sAB
+0,disease_on_genes,30,17,-0.03754693366708395
+1,disease_on_symptoms,19,24,0.4990565075479396
+2,disease_on_drugs,24,16,0.2562500000000001

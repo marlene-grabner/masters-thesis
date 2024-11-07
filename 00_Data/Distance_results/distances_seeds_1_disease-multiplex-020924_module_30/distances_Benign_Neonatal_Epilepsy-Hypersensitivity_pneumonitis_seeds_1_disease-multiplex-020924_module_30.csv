@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,29,24,0.39622641509433953
+1,disease_on_symptoms,16,23,2.1398759754738013
+2,disease_on_drugs,26,24,0.8799999999999999

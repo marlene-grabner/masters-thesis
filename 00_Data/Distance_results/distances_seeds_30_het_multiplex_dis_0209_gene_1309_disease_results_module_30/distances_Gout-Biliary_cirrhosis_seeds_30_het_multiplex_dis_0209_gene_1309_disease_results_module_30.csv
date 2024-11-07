@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,28,26,-0.09264346764346776
+1,disease_on_symptoms,19,22,0.6668222663087873
+2,disease_on_drugs,22,25,-0.1503288201160542

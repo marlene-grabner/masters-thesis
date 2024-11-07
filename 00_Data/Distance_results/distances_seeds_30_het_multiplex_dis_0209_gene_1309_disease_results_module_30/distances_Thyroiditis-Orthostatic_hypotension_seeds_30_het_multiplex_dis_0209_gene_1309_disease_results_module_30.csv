@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,21,20,-0.33559814169570257
+2,disease_on_drugs,29,28,0.03437472992826884

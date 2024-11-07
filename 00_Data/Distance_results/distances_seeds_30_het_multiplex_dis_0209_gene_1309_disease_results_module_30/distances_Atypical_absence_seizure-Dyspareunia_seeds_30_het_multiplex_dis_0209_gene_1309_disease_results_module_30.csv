@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,0.11864406779661008
+1,disease_on_symptoms,13,20,0.9497668997668998
+2,disease_on_drugs,22,28,0.6868181818181816

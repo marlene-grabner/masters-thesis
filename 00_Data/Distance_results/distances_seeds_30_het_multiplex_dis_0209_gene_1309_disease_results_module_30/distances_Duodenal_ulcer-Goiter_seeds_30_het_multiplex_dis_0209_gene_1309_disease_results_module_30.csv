@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,0.22222222222222232
+1,disease_on_symptoms,17,12,0.9862237998647736
+2,disease_on_drugs,28,18,0.3665458937198067

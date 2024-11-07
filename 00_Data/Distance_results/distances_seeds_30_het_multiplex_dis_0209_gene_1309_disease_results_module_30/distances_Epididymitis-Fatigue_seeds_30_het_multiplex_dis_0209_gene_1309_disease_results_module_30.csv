@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Fatigue nodes,sAB
+0,disease_on_genes,29,26,-0.14860139860139865
+1,disease_on_symptoms,23,16,0.7679765886287624
+2,disease_on_drugs,26,26,-0.019230769230769384

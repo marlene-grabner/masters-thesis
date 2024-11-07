@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,25,27,0.01692307692307682
+1,disease_on_symptoms,18,17,0.10728291316526617
+2,disease_on_drugs,23,26,0.36970172684458413

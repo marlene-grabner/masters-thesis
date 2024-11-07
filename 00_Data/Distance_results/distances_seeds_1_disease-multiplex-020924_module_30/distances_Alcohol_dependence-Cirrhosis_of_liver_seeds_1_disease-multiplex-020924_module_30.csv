@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,12,30,0.4892857142857143
+1,disease_on_symptoms,27,14,1.7826493741127887
+2,disease_on_drugs,9,26,0.6696581196581197

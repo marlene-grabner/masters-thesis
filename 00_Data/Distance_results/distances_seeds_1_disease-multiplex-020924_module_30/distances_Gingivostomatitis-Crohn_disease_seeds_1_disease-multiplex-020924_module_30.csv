@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.1324074074074073
+1,disease_on_symptoms,23,20,1.4474721941354902
+2,disease_on_drugs,29,21,0.2006568144499179

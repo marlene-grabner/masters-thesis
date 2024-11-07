@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,27,29,0.10709724502827944
+1,disease_on_symptoms,21,20,0.6830139372822299
+2,disease_on_drugs,27,24,0.3487200435729847

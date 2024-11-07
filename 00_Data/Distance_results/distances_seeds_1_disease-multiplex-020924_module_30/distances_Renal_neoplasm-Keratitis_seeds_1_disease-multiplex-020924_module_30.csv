@@ -1,0 +1,4 @@
+,Layer,Renal_neoplasm nodes,Keratitis nodes,sAB
+0,disease_on_genes,22,28,0.11064935064935066
+1,disease_on_symptoms,25,25,0.98
+2,disease_on_drugs,18,23,0.34941675503711567

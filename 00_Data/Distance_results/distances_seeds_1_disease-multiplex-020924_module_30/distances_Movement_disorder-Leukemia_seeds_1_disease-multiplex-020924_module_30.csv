@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.48750000000000004
+1,disease_on_symptoms,22,27,1.4062220847935134
+2,disease_on_drugs,15,17,1.311764705882353

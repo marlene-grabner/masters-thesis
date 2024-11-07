@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,29,30,0.32174167153711286
+1,disease_on_symptoms,17,12,1.0698106828938472
+2,disease_on_drugs,26,22,1.0641025641025643

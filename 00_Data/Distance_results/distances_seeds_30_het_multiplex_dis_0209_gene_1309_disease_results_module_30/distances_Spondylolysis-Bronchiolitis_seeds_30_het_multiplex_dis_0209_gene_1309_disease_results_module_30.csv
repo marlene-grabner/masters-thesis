@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,28,28,0.0535714285714286
+1,disease_on_symptoms,17,25,0.30845938375350146
+2,disease_on_drugs,19,24,0.07078743370053053

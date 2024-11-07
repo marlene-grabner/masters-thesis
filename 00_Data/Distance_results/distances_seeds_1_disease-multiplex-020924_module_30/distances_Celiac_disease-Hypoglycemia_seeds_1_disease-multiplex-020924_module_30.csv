@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,17,30,0.3241551939924907
+1,disease_on_symptoms,22,12,1.1225490196078436
+2,disease_on_drugs,15,22,0.6693693693693694

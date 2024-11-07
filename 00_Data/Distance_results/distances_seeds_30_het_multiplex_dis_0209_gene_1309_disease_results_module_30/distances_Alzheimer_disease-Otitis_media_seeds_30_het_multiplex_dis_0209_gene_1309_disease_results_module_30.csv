@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Otitis_media nodes,sAB
+0,disease_on_genes,23,29,0.0019893899204244114
+1,disease_on_symptoms,19,20,0.6400472334682861
+2,disease_on_drugs,19,28,0.25293952967525213

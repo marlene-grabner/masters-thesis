@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,27,23,0.1399999999999999
+1,disease_on_symptoms,24,22,0.16716073781291163
+2,disease_on_drugs,25,17,-0.10061624649859957

@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.01298701298701288
+1,disease_on_symptoms,14,26,-0.04038461538461546
+2,disease_on_drugs,27,14,0.174312814556717

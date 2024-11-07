@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,26,30,0.21666666666666679
+1,disease_on_symptoms,19,24,0.9832466340269279
+2,disease_on_drugs,24,24,0.8958333333333333

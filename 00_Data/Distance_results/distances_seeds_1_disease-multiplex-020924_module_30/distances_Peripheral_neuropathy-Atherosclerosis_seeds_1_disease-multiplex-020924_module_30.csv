@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,20,13,0.6088578088578089
+2,disease_on_drugs,24,29,0.41116352201257866

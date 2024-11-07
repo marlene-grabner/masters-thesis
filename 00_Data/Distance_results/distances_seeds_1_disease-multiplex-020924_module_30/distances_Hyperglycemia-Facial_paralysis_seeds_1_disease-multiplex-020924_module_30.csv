@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,14,0.004761904761904745
+1,disease_on_symptoms,14,23,1.269011247272117
+2,disease_on_drugs,26,14,0.42500000000000004

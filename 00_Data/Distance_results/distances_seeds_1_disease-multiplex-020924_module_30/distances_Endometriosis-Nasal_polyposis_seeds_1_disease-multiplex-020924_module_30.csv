@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,30,15,0.4555555555555557
+1,disease_on_symptoms,12,25,1.2414414414414412
+2,disease_on_drugs,27,10,0.7378378378378379

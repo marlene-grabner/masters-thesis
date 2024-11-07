@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,-0.14035087719298245
+1,disease_on_symptoms,22,11,0.16666666666666652
+2,disease_on_drugs,26,21,-0.0120801184630972

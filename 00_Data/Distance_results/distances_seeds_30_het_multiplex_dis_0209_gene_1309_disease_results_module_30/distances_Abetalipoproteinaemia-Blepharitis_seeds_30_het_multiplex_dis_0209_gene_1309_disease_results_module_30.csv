@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,14,30,0.10064935064935088
+1,disease_on_symptoms,26,18,0.7331002331002328
+2,disease_on_drugs,14,30,0.6491341991341992

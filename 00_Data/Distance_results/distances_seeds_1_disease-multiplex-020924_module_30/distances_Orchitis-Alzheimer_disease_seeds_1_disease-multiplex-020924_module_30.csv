@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,23,20,0.3238372093023256
+1,disease_on_symptoms,16,23,1.557239409141583
+2,disease_on_drugs,17,18,0.7411764705882353

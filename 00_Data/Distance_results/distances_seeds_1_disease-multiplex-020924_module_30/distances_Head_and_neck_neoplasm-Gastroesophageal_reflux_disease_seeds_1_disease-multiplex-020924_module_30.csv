@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,30,26,0.1261904761904762
+1,disease_on_symptoms,20,17,0.8785373608903022
+2,disease_on_drugs,27,25,0.9223076923076923

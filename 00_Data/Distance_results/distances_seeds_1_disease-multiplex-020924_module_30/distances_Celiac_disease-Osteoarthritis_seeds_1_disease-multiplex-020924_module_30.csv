@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,17,25,0.3021288515406162
+1,disease_on_symptoms,22,20,2.6333333333333337
+2,disease_on_drugs,15,21,0.30000000000000004

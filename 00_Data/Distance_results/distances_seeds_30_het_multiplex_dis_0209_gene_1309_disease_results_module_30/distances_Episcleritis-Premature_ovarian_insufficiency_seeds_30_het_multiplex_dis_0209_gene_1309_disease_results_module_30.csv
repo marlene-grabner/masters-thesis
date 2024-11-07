@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,18,18,0.41666666666666674
+2,disease_on_drugs,28,22,0.040779220779220804

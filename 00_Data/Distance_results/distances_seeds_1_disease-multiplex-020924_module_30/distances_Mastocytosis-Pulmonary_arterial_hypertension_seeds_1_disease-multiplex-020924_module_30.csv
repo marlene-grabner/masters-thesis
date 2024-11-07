@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,18,28,0.23697377501725314
+1,disease_on_symptoms,28,18,1.0135438233264318
+2,disease_on_drugs,17,26,0.29403872461327984

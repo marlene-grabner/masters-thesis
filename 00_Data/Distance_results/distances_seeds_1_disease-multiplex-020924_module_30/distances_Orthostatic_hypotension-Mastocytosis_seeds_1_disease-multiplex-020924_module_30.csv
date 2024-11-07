@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,18,0.43472222222222223
+1,disease_on_symptoms,12,28,1.7154761904761904
+2,disease_on_drugs,17,17,0.44117647058823506

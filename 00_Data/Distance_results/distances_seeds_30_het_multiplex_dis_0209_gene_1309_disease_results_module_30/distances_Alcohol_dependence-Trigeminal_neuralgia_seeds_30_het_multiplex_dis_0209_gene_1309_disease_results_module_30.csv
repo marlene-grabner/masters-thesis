@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,18,15,-0.6838383838383839
+2,disease_on_drugs,24,25,-0.4482312925170069

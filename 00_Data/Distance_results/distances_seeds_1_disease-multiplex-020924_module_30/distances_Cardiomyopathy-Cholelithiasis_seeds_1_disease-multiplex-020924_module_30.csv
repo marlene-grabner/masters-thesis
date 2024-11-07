@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,25,25,0.3799999999999999
+1,disease_on_symptoms,17,19,0.9785001719986242
+2,disease_on_drugs,24,18,1.4543650793650793

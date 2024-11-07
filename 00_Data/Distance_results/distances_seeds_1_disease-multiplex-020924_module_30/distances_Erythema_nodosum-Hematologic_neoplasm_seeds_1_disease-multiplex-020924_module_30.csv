@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,22,0.12214285714285711
+1,disease_on_symptoms,23,24,0.3384790317607156
+2,disease_on_drugs,28,19,0.004539273716205328

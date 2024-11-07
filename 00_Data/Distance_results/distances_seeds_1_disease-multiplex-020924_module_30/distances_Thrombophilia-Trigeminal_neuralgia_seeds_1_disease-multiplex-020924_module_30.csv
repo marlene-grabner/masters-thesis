@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,28,0.47336459836459843
+1,disease_on_symptoms,18,19,2.0026868974237395
+2,disease_on_drugs,21,26,0.635277842724651

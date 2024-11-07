@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.4333333333333331
+1,disease_on_symptoms,16,23,2.46474358974359
+2,disease_on_drugs,21,30,0.8327731092436976

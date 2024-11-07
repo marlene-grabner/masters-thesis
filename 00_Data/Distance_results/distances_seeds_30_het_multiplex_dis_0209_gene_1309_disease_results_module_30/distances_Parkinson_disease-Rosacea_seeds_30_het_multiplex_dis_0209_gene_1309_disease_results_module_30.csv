@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Rosacea nodes,sAB
+0,disease_on_genes,23,30,-0.31855345911949684
+1,disease_on_symptoms,23,18,0.2598974902792506
+2,disease_on_drugs,22,30,-0.27494172494172486

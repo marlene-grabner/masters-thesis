@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Periodontitis nodes,sAB
+0,disease_on_genes,24,30,-0.03935185185185197
+1,disease_on_symptoms,19,21,0.5050751879699249
+2,disease_on_drugs,19,28,-0.04593265077587594

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,-0.2182058682058683
+1,disease_on_symptoms,21,20,-0.09303135888501735
+2,disease_on_drugs,27,27,-0.16666666666666663

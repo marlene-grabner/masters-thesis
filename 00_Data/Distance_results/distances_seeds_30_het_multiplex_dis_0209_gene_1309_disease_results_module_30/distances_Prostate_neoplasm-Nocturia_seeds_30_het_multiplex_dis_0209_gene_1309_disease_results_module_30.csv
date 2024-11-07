@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Nocturia nodes,sAB
+0,disease_on_genes,21,25,-0.22380952380952368
+1,disease_on_symptoms,20,18,0.3980994152046782
+2,disease_on_drugs,21,24,0.04682539682539688

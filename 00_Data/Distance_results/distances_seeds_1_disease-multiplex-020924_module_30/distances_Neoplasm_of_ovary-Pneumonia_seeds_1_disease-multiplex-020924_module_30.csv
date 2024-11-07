@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Pneumonia nodes,sAB
+0,disease_on_genes,24,30,0.41574074074074097
+1,disease_on_symptoms,26,26,1.0576923076923075
+2,disease_on_drugs,15,28,1.3255813953488373

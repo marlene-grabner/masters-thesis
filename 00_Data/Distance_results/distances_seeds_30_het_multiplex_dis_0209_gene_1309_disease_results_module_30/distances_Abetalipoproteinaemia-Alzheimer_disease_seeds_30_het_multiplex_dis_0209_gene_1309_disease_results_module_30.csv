@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,14,23,-0.2519305019305018
+1,disease_on_symptoms,26,19,-0.08965362123256848
+2,disease_on_drugs,14,19,-0.21354522670312137

@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,15,25,0.6983333333333333
+2,disease_on_drugs,26,21,0.0392019328189539

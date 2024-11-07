@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,25,30,0.12787878787878793
+1,disease_on_symptoms,18,20,1.3978070175438595
+2,disease_on_drugs,23,30,0.49056603773584895

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.07017543859649122
+1,disease_on_symptoms,16,21,-0.17808880308880326
+2,disease_on_drugs,25,27,-0.08396011396011382

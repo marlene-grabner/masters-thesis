@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,21,0.15158730158730194
+2,disease_on_drugs,26,29,0.15502773088979982

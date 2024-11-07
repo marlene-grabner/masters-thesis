@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.22807017543859653
+1,disease_on_symptoms,21,18,0.8373015873015874
+2,disease_on_drugs,27,22,0.5867690510547654

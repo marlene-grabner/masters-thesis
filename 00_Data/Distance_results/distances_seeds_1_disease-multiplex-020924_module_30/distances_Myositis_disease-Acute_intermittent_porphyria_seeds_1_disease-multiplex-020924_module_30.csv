@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,30,27,0.2620857699805068
+1,disease_on_symptoms,24,20,0.9946969696969696
+2,disease_on_drugs,28,15,0.5153654485049832

@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,25,20,0.6127777777777776
+2,disease_on_drugs,30,30,0.4166666666666665

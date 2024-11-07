@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,-0.07638888888888906
+1,disease_on_symptoms,18,19,1.1333570412517782
+2,disease_on_drugs,25,19,0.002344497607655649

@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,28,30,0.04987684729064035
+1,disease_on_symptoms,14,12,-0.017399267399267337
+2,disease_on_drugs,28,22,-0.01571428571428557

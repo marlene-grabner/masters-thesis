@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,24,30,0.07175925925925908
+1,disease_on_symptoms,19,24,0.4848786209710323
+2,disease_on_drugs,19,20,0.2239878542510121

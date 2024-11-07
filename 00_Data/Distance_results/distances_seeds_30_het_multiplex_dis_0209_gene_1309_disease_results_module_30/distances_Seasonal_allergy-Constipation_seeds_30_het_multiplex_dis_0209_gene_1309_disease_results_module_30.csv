@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Constipation nodes,sAB
+0,disease_on_genes,29,30,-0.05056497175141239
+1,disease_on_symptoms,18,16,1.4283088235294117
+2,disease_on_drugs,29,28,0.10429089966295058

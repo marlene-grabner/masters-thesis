@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,17,17,0.1470588235294117
+2,disease_on_drugs,30,24,0.008333333333333526

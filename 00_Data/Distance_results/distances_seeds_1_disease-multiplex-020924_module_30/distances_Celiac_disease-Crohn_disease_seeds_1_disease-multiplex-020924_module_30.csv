@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,17,25,-0.10049019607843146
+1,disease_on_symptoms,22,20,0.14047619047619042
+2,disease_on_drugs,15,21,-0.16428571428571448

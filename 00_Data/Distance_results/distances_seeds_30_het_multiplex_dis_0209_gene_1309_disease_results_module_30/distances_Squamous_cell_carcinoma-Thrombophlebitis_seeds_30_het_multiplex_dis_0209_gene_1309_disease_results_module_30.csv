@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,22,18,-0.11590909090909074
+2,disease_on_drugs,30,29,0.014903565166569432

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,0.04459561602418738
+1,disease_on_symptoms,21,21,0.7380952380952381
+2,disease_on_drugs,25,17,0.16448179271708674

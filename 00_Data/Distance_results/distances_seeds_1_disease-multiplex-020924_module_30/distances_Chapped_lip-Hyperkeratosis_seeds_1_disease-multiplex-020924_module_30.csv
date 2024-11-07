@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,-0.423076923076923
+1,disease_on_symptoms,21,21,0.04761904761904767
+2,disease_on_drugs,24,23,-0.5106382978723405

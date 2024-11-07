@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,0.1923076923076925
+1,disease_on_symptoms,18,15,0.8717171717171719
+2,disease_on_drugs,23,15,0.3543859649122807

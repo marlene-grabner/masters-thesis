@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,-0.03389830508474578
+1,disease_on_symptoms,15,13,0.12142857142857144
+2,disease_on_drugs,28,22,0.01922077922077925

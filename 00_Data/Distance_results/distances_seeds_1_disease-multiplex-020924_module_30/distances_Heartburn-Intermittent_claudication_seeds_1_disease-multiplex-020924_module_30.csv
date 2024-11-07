@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,24,20,0.18446969696969684
+1,disease_on_symptoms,20,24,1.2973484848484849
+2,disease_on_drugs,22,18,0.7161616161616162

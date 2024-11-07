@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,25,28,0.3149730458221023
+1,disease_on_symptoms,16,18,2.1870915032679736
+2,disease_on_drugs,17,26,0.7187993265284647

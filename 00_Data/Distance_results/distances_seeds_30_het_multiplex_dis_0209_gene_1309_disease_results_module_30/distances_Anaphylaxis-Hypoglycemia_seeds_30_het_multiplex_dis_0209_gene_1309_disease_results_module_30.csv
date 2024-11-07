@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,-0.08781676413255368
+1,disease_on_symptoms,14,19,2.323251310093415
+2,disease_on_drugs,26,27,0.13378218566897804

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,14,20,0.32310924369747873
+2,disease_on_drugs,29,28,-0.10658110794226938

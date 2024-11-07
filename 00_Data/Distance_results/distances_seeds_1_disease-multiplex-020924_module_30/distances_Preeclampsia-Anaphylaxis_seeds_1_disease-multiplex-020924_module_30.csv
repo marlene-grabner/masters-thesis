@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.1897274633123689
+1,disease_on_symptoms,17,15,2.271691176470588
+2,disease_on_drugs,23,26,0.30714626987918914

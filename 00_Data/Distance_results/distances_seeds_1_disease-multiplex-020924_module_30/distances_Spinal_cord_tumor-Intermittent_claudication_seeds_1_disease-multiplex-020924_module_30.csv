@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,22,20,0.45638528138528156
+1,disease_on_symptoms,22,24,1.2375658761528325
+2,disease_on_drugs,14,18,0.8442460317460316

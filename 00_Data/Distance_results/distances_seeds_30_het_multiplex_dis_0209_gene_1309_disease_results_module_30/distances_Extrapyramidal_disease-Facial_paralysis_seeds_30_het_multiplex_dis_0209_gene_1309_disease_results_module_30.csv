@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,-0.11538461538461542
+1,disease_on_symptoms,18,21,0.26831501831501847
+2,disease_on_drugs,25,17,-0.10218487394957987

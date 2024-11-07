@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,27,27,0.07407407407407396
+1,disease_on_symptoms,18,19,0.8388256677730361
+2,disease_on_drugs,22,24,0.24069499341238476

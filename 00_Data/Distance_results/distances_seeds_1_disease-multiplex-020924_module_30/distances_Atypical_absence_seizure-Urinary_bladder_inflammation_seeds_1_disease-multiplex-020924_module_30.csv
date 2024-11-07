@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,29,25,0.3103703703703704
+1,disease_on_symptoms,15,22,1.5557330057330057
+2,disease_on_drugs,27,24,0.9776688453159041

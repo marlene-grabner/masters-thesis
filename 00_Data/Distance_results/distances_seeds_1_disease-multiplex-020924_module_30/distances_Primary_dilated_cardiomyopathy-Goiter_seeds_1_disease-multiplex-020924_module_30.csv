@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.6373626373626373
+1,disease_on_symptoms,25,15,1.3183333333333334
+2,disease_on_drugs,7,16,0.972049689440994

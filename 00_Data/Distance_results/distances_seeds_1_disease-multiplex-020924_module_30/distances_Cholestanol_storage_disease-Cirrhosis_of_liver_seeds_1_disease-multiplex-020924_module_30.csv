@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,17,14,0.6661019246408242
+2,disease_on_drugs,25,26,0.23331825037707388

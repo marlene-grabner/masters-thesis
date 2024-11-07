@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,19,17,0.17371861025111812
+2,disease_on_drugs,29,25,0.16033205619412527

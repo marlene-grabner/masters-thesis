@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,12,15,1.3129629629629629
+2,disease_on_drugs,21,30,0.27633053221288506

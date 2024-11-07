@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.48275862068965514
+1,disease_on_symptoms,18,16,-0.7442810457516341
+2,disease_on_drugs,22,24,-0.6304347826086957

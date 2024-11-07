@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Lymphoma nodes,sAB
+0,disease_on_genes,29,26,0.16352785145888582
+1,disease_on_symptoms,17,21,1.6293675364882794
+2,disease_on_drugs,30,25,1.378181818181818

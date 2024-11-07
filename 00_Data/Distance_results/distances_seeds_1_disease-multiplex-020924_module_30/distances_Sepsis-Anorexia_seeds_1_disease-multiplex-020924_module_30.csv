@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Anorexia nodes,sAB
+0,disease_on_genes,22,17,0.30717811600164535
+1,disease_on_symptoms,23,25,2.0149637681159422
+2,disease_on_drugs,17,13,0.93604826546003

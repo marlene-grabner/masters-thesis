@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,27,30,0.28586744639376205
+1,disease_on_symptoms,17,19,1.3434812521499828
+2,disease_on_drugs,20,22,0.9329004329004329

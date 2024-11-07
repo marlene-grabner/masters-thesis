@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,0.1333333333333333
+1,disease_on_symptoms,20,13,0.05337995337995327
+2,disease_on_drugs,25,24,0.056955782312925196

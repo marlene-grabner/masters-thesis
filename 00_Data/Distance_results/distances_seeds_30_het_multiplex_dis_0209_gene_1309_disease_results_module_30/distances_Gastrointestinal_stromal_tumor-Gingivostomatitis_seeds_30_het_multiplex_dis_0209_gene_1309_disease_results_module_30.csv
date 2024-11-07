@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,15,0.41320949432404497
+2,disease_on_drugs,28,30,0.2751231527093596

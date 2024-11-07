@@ -1,0 +1,4 @@
+,Layer,Hematologic_neoplasm nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,22,20,0.040476190476190554
+1,disease_on_symptoms,24,23,0.5526325932778291
+2,disease_on_drugs,19,17,0.4682662538699689

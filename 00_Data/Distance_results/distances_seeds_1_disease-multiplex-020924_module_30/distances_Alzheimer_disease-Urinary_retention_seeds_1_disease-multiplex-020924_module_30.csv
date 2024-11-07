@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,20,30,0.1107300073367572
+1,disease_on_symptoms,23,18,1.0636561800400612
+2,disease_on_drugs,18,19,0.16429587482219055

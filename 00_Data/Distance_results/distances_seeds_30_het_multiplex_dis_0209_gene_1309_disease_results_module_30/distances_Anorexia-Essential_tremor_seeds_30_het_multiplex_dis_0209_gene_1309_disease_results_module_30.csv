@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,29,21,-0.2172413793103447
+1,disease_on_symptoms,13,23,0.4364548494983278
+2,disease_on_drugs,28,21,-0.2108843537414966

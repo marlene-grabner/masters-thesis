@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.2633333333333332
+1,disease_on_symptoms,16,18,2.128267973856209
+2,disease_on_drugs,17,25,0.6448739495798319

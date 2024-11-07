@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Cellulitis nodes,sAB
+0,disease_on_genes,21,30,0.015406162464986162
+1,disease_on_symptoms,20,20,0.40000000000000013
+2,disease_on_drugs,21,26,0.349680461382589

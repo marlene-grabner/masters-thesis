@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,16,0.1298611111111112
+2,disease_on_drugs,30,29,-0.017260861094876345

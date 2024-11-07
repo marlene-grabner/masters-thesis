@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,17,30,0.07344597413433451
+1,disease_on_symptoms,21,14,1.4785714285714286
+2,disease_on_drugs,14,26,0.05576923076923079

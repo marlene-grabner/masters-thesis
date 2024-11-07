@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,-0.2264150943396226
+1,disease_on_symptoms,18,20,-0.24342105263157898
+2,disease_on_drugs,29,20,-0.16609781843771998

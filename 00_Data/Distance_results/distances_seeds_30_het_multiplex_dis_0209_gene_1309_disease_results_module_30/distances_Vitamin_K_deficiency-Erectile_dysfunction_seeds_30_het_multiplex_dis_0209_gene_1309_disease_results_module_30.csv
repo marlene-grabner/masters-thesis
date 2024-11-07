@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,21,15,0.7650793650793648
+2,disease_on_drugs,21,30,0.21722689075630264

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Encephalitis nodes,sAB
+0,disease_on_genes,28,29,0.14035087719298245
+1,disease_on_symptoms,16,13,0.3168103448275863
+2,disease_on_drugs,23,22,0.025977162933684683

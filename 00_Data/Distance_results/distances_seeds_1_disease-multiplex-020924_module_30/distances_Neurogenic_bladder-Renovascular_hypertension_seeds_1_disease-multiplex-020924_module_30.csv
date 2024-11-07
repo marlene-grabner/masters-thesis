@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.11316526610644262
+1,disease_on_symptoms,17,22,1.494309611956671
+2,disease_on_drugs,26,20,0.6793478260869565

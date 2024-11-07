@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.043333333333333224
+1,disease_on_symptoms,15,26,0.44262038774233914
+2,disease_on_drugs,30,13,0.15652951699463324

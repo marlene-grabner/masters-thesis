@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.3846153846153846
+1,disease_on_symptoms,15,15,0.9666666666666668
+2,disease_on_drugs,21,16,0.7393822393822393

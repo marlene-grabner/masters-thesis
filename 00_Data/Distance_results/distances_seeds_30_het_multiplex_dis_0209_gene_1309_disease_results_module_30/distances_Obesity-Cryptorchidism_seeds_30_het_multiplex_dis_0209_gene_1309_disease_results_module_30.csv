@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,-0.3572946859903381
+1,disease_on_symptoms,18,19,0.6978820926189349
+2,disease_on_drugs,25,21,-0.20766045548654266

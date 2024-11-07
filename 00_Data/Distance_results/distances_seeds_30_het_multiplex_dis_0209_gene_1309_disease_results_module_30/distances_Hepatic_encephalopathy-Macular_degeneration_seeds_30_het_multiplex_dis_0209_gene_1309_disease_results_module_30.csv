@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,14,17,0.15139604228788306
+2,disease_on_drugs,29,17,0.013581444571831858

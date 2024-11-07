@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,29,12,0.40450658816932994
+1,disease_on_symptoms,17,27,1.0792731233907704
+2,disease_on_drugs,26,9,0.5553724053724054

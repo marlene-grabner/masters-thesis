@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,25,24,0.083673469387755
+1,disease_on_symptoms,23,17,1.3157289002557548
+2,disease_on_drugs,20,23,0.16385237613751258

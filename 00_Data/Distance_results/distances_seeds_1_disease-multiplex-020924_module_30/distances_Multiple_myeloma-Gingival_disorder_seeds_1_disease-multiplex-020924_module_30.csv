@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,0.16261398176291797
+1,disease_on_symptoms,21,26,1.2244953627932351
+2,disease_on_drugs,25,20,0.47111111111111104

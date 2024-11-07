@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.29999999999999993
+1,disease_on_symptoms,18,21,0.06135531135531114
+2,disease_on_drugs,30,29,-0.16869277225793877

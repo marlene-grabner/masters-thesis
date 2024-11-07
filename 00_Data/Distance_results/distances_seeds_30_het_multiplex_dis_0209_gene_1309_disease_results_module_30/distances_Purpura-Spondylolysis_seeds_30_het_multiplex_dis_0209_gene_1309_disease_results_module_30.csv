@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,27,28,0.16329966329966328
+1,disease_on_symptoms,17,17,0.7647058823529411
+2,disease_on_drugs,24,19,0.02669828641370864

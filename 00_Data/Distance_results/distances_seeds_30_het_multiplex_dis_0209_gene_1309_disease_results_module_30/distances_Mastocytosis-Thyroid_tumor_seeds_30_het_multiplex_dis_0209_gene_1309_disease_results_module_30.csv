@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.09433962264150941
+1,disease_on_symptoms,24,20,0.5662878787878789
+2,disease_on_drugs,20,20,0.32499999999999996

@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,18,24,0.46726190476190466
+1,disease_on_symptoms,18,19,2.4927690848743485
+2,disease_on_drugs,10,19,0.5102540834845735

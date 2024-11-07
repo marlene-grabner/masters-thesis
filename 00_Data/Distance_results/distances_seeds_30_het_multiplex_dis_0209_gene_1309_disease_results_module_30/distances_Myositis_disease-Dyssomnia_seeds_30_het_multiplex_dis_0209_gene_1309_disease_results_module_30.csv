@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,-0.1416666666666666
+1,disease_on_symptoms,18,21,1.9233821733821732
+2,disease_on_drugs,26,17,-0.04632747553404193

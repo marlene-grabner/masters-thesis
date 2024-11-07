@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,29,30,-0.1353107344632768
+1,disease_on_symptoms,18,19,0.05192034139402568
+2,disease_on_drugs,29,29,0.051724137931034475

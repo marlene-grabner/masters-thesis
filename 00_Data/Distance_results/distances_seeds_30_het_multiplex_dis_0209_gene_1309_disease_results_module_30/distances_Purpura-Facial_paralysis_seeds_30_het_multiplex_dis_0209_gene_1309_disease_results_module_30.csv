@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,0.0018896447467875443
+1,disease_on_symptoms,17,21,1.0689223057644113
+2,disease_on_drugs,24,17,0.12383428981348632

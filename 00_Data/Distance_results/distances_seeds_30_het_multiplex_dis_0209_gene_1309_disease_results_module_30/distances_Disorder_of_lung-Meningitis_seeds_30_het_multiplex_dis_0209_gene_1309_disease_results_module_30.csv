@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,0.1071428571428572
+1,disease_on_symptoms,18,17,1.3969654528478057
+2,disease_on_drugs,24,27,0.16081154684095855

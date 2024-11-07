@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Blepharitis nodes,sAB
+0,disease_on_genes,25,20,0.29499999999999993
+1,disease_on_symptoms,13,27,0.6509259259259261
+2,disease_on_drugs,16,19,0.20183270676691722

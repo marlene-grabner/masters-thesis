@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.27118644067796605
+1,disease_on_symptoms,16,20,0.9576388888888889
+2,disease_on_drugs,28,27,0.6544973544973545

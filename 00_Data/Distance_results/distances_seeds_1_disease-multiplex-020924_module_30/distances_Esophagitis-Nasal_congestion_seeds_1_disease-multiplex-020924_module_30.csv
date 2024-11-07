@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,24,30,0.2084085315832649
+1,disease_on_symptoms,23,15,0.9165522501906942
+2,disease_on_drugs,20,23,0.6044236602628918

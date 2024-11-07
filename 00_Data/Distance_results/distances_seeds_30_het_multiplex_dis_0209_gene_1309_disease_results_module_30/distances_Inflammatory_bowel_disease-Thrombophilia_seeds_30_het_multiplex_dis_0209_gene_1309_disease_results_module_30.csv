@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.14035087719298245
+1,disease_on_symptoms,20,18,0.7194444444444446
+2,disease_on_drugs,27,22,0.5459527245241531

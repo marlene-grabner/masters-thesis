@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Ascites nodes,sAB
+0,disease_on_genes,27,30,0.22807017543859653
+1,disease_on_symptoms,14,17,0.8919083762537277
+2,disease_on_drugs,13,27,0.3194444444444444

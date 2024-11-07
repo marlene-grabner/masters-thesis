@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,30,25,-0.036363636363636376
+1,disease_on_symptoms,17,17,1.0
+2,disease_on_drugs,25,21,0.022898550724637756

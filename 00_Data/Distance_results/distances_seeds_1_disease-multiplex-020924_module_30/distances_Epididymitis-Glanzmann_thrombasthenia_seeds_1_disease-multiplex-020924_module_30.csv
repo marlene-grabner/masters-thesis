@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,29,24,0.20720830622424624
+1,disease_on_symptoms,23,21,0.8872106154714849
+2,disease_on_drugs,27,24,0.9764433551198257

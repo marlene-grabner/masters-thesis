@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,21,20,0.37261904761904785
+1,disease_on_symptoms,24,18,2.1557539682539684
+2,disease_on_drugs,14,19,1.01805650489861

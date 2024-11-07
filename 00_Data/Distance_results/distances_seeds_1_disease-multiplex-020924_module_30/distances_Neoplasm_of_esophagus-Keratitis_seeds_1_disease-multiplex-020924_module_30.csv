@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Keratitis nodes,sAB
+0,disease_on_genes,21,28,0.025510204081632848
+1,disease_on_symptoms,24,25,0.5150170068027211
+2,disease_on_drugs,20,23,0.398154701718908

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,24,27,0.01947167755991286
+1,disease_on_symptoms,19,14,1.241114149008886
+2,disease_on_drugs,19,26,0.1417228969860549

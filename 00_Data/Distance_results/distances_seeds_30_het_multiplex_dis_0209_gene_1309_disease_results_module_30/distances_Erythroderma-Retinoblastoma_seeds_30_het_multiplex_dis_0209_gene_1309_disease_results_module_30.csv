@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,21,0.7052555168408827
+2,disease_on_drugs,29,27,0.1655947819740924

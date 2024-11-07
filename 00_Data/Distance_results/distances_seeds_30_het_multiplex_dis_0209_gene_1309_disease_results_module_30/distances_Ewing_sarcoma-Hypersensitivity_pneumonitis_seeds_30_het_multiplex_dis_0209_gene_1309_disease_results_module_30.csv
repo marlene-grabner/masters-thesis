@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.12727272727272732
+1,disease_on_symptoms,17,20,0.11800476947535787
+2,disease_on_drugs,24,25,-0.08212585034013609

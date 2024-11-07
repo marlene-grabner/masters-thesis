@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,30,25,-0.1636363636363637
+1,disease_on_symptoms,17,23,-0.27052429667519173
+2,disease_on_drugs,28,21,-0.3698979591836733

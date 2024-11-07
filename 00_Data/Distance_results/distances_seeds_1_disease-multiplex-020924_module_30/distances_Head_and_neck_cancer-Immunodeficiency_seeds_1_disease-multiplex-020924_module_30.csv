@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,22,0.13778945921803065
+1,disease_on_symptoms,22,19,1.1272902322324658
+2,disease_on_drugs,24,18,0.2876984126984128

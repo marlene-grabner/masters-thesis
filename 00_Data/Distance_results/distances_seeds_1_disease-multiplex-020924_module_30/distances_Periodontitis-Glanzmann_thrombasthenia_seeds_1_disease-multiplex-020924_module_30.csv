@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,23,24,0.16926842429848898
+1,disease_on_symptoms,25,21,1.196024844720497
+2,disease_on_drugs,22,24,0.8059123847167324

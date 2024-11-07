@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,16,17,0.16555258467023193
+2,disease_on_drugs,25,17,-0.1286274509803922

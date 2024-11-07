@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,16,23,0.9951923076923075
+2,disease_on_drugs,24,30,0.8745370370370371

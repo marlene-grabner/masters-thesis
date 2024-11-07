@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,22,24,0.4135375494071145
+1,disease_on_symptoms,23,26,1.6873250972629852
+2,disease_on_drugs,17,15,1.1286764705882353

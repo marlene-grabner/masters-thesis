@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,0.18644067796610164
+1,disease_on_symptoms,14,14,0.8928571428571428
+2,disease_on_drugs,27,28,0.34478114478114463

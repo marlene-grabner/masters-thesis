@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Asthma nodes,sAB
+0,disease_on_genes,25,25,0.07999999999999985
+1,disease_on_symptoms,18,19,2.189663347558084
+2,disease_on_drugs,23,24,0.21365248226950362

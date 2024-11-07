@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,22,0.3487179487179488
+1,disease_on_symptoms,15,24,0.10352564102564132
+2,disease_on_drugs,21,19,0.19592731829573928

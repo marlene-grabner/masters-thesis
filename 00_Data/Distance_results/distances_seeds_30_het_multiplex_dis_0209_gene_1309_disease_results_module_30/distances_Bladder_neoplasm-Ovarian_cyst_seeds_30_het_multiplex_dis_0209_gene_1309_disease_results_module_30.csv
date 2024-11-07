@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,26,30,-0.1940476190476189
+1,disease_on_symptoms,19,19,0.18421052631578938
+2,disease_on_drugs,25,24,-0.20663265306122447

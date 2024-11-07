@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,25,30,-0.054545454545454564
+1,disease_on_symptoms,19,16,0.630639097744361
+2,disease_on_drugs,23,29,-0.03206089263060785

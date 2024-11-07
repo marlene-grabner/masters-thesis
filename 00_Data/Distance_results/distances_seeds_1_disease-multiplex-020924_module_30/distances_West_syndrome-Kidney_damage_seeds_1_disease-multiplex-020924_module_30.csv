@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,20,0.3693877551020408
+1,disease_on_symptoms,18,26,1.8249805749805748
+2,disease_on_drugs,22,13,0.8076923076923077

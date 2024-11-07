@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,16,30,0.12871376811594204
+1,disease_on_symptoms,23,17,0.14456521739130412
+2,disease_on_drugs,16,26,0.3817536630036631

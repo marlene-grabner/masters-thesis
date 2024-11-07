@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,23,30,0.3382827454197428
+1,disease_on_symptoms,19,14,1.3945089997721576
+2,disease_on_drugs,19,24,0.6744186046511629

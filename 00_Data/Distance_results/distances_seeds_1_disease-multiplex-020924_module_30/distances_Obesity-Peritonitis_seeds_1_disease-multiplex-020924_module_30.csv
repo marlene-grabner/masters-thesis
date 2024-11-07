@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,0.14862637362637354
+1,disease_on_symptoms,20,17,1.1214626391096978
+2,disease_on_drugs,27,28,0.3817941317941318

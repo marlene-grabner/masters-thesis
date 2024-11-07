@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,27,30,0.05165692007797262
+1,disease_on_symptoms,23,13,1.4467670011148273
+2,disease_on_drugs,25,21,0.1860455486542445

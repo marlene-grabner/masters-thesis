@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.6833333333333331
+1,disease_on_symptoms,22,13,1.697052947052947
+2,disease_on_drugs,15,18,0.7863636363636364

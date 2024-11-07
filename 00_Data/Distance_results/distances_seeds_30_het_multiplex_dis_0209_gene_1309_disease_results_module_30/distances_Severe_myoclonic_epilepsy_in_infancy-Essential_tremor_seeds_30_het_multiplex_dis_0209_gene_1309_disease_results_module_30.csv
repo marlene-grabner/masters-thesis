@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.47058823529411764
+1,disease_on_symptoms,14,23,-0.5407503777068994
+2,disease_on_drugs,21,21,-0.6666666666666666

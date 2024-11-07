@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.056363636363636394
+1,disease_on_symptoms,11,23,-0.13485235991629851
+2,disease_on_drugs,27,24,0.13929738562091498

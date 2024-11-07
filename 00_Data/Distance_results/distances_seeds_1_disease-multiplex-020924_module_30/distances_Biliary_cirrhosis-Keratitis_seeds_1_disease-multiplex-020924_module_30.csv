@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.5383597883597886
+1,disease_on_symptoms,15,25,1.0099999999999998
+2,disease_on_drugs,15,23,0.7891685736079328

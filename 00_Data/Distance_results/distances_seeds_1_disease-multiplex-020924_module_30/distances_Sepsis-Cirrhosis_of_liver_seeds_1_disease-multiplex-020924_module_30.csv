@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,22,30,0.23508158508158505
+1,disease_on_symptoms,23,14,1.0644200100721841
+2,disease_on_drugs,17,26,0.4103177943807217

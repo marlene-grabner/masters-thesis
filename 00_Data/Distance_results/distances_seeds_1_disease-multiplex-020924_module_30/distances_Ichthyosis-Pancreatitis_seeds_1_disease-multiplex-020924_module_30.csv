@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,0.28128654970760225
+1,disease_on_symptoms,17,20,1.046065182829889
+2,disease_on_drugs,24,30,0.40740740740740744

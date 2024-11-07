@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.222824302134647
+1,disease_on_symptoms,16,19,0.9832236842105264
+2,disease_on_drugs,30,28,0.7062807881773399

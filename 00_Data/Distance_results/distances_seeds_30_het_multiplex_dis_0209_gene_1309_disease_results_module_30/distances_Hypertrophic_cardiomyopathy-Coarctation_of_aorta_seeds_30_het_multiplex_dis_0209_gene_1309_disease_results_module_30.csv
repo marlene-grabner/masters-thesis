@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.1579922027290449
+1,disease_on_symptoms,19,19,0.44736842105263164
+2,disease_on_drugs,22,24,-0.13578722002635057

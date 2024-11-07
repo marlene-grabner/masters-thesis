@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,26,26,0.3846153846153846
+1,disease_on_symptoms,17,15,1.552941176470588
+2,disease_on_drugs,23,15,0.43790999237223516

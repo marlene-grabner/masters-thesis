@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,28,30,-0.017282430213464872
+1,disease_on_symptoms,19,20,0.33147773279352233
+2,disease_on_drugs,22,29,-0.013123117585592148

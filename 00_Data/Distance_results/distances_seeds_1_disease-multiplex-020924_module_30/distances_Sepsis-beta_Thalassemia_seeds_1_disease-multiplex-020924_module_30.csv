@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,22,22,0.40909090909090895
+1,disease_on_symptoms,23,21,1.668784114436288
+2,disease_on_drugs,17,6,0.9484228473998293

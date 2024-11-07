@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,16,19,0.43886278195488715
+2,disease_on_drugs,28,25,0.46894878706199483

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,25,22,0.2776982591876209
+1,disease_on_symptoms,14,23,1.4844300822561691
+2,disease_on_drugs,22,20,0.8547619047619046

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Arthralgia nodes,sAB
+0,disease_on_genes,29,30,0.15254237288135597
+1,disease_on_symptoms,18,19,0.5169511616880038
+2,disease_on_drugs,30,30,0.25

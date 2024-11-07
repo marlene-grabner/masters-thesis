@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,27,30,0.14035087719298245
+1,disease_on_symptoms,18,18,0.9166666666666667
+2,disease_on_drugs,22,26,0.2939976689976689

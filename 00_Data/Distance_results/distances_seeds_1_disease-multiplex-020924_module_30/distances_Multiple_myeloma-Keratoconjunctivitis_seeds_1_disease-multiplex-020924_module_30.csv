@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,26,29,0.0
+1,disease_on_symptoms,21,25,0.5150724637681161
+2,disease_on_drugs,25,27,-0.033589743589743426

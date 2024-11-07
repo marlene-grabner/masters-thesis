@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.2620857699805068
+1,disease_on_symptoms,15,16,0.18393817204301088
+2,disease_on_drugs,21,27,0.5641534391534391

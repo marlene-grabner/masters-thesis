@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.125
+1,disease_on_symptoms,13,21,2.7949795302736478
+2,disease_on_drugs,29,17,0.4769820971867007

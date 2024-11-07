@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Dermatitis nodes,sAB
+0,disease_on_genes,30,26,-0.018181818181818188
+1,disease_on_symptoms,22,25,0.7647388781431335
+2,disease_on_drugs,29,24,0.00420190847972246

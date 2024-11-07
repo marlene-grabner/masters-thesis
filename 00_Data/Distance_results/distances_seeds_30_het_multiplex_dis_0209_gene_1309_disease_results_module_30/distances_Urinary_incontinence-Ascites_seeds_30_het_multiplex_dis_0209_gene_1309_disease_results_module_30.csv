@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,0.03418079096045212
+1,disease_on_symptoms,20,22,0.31839826839826824
+2,disease_on_drugs,20,27,0.33270291568163923

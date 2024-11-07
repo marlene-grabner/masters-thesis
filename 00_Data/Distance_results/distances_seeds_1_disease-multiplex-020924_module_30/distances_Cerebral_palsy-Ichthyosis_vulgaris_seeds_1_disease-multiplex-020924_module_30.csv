@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,27,27,0.4444444444444444
+1,disease_on_symptoms,16,21,1.6180019305019306
+2,disease_on_drugs,18,27,1.088888888888889

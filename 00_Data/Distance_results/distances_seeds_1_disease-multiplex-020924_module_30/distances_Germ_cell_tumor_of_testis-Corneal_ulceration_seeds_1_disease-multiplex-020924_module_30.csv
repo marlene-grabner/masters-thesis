@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,27,28,0.21850649350649354
+1,disease_on_symptoms,23,19,1.220387926337583
+2,disease_on_drugs,20,26,0.4782608695652173

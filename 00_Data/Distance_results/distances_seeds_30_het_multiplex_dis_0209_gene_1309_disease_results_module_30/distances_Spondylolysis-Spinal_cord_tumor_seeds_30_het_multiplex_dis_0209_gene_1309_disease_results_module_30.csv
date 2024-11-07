@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,28,29,0.14035087719298245
+1,disease_on_symptoms,17,14,-0.06736242884250476
+2,disease_on_drugs,19,22,-0.14126502509044236

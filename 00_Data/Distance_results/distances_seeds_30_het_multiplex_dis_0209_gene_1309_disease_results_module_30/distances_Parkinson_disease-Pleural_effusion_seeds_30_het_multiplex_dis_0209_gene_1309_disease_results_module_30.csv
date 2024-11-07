@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,23,30,0.07547169811320753
+1,disease_on_symptoms,23,18,0.9143690349946978
+2,disease_on_drugs,22,27,0.23685837971552282

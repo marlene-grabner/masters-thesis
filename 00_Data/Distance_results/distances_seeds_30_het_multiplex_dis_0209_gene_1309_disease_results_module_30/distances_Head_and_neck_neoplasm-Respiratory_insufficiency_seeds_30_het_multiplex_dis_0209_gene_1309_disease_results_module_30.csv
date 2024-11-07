@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,0.08859649122807034
+1,disease_on_symptoms,22,21,0.4393687707641196
+2,disease_on_drugs,27,25,0.3761538461538463

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Pruritus nodes,sAB
+0,disease_on_genes,24,26,0.26525510204081626
+1,disease_on_symptoms,25,19,1.1289473684210527
+2,disease_on_drugs,17,24,1.2195121951219514

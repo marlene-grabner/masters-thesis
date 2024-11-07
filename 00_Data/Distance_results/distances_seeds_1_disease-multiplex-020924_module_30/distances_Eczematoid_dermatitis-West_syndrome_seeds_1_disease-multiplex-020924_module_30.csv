@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,28,29,0.7891604010025064
+1,disease_on_symptoms,24,18,2.0813492063492065
+2,disease_on_drugs,28,22,0.6842857142857144

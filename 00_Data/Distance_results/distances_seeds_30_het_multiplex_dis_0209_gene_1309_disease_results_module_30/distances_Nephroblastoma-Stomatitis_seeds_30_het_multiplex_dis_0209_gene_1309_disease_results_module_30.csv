@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Stomatitis nodes,sAB
+0,disease_on_genes,29,30,-0.0002922267679719148
+1,disease_on_symptoms,20,19,0.6154858299595143
+2,disease_on_drugs,24,29,0.24616406419431813

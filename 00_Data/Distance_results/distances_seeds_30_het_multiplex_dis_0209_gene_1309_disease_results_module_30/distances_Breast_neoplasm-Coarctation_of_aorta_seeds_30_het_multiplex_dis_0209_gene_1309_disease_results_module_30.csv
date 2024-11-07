@@ -1,0 +1,4 @@
+,Layer,Breast_neoplasm nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.1764132553606239
+1,disease_on_symptoms,20,19,-0.026079622132253677
+2,disease_on_drugs,30,24,-0.030092592592592338

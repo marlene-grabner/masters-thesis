@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,21,26,0.24772036474164127
+1,disease_on_symptoms,26,15,1.3019387116948093
+2,disease_on_drugs,20,21,0.6602787456445993

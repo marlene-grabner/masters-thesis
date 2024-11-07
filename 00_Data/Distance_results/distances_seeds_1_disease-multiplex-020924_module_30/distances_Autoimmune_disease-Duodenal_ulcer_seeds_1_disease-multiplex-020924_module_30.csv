@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Duodenal_ulcer nodes,sAB
+0,disease_on_genes,22,28,0.1533766233766234
+1,disease_on_symptoms,19,17,1.3319573443412451
+2,disease_on_drugs,19,28,0.4204927211646139

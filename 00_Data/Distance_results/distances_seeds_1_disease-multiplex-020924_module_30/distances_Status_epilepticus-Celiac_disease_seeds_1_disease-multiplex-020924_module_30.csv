@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,29,17,0.29350030866919474
+1,disease_on_symptoms,17,22,2.8159879336349922
+2,disease_on_drugs,30,15,0.9888888888888889

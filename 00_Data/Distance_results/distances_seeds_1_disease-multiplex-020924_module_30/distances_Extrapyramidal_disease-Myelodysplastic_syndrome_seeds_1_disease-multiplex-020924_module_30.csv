@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,14,26,0.4642857142857144
+1,disease_on_symptoms,25,15,2.3316666666666666
+2,disease_on_drugs,10,21,1.459216589861751

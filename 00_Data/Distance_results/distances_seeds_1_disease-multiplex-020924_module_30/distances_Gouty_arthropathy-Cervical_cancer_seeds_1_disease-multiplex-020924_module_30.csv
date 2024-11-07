@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,25,27,0.26686609686609697
+1,disease_on_symptoms,13,23,1.6956521739130435
+2,disease_on_drugs,16,15,0.25262096774193554

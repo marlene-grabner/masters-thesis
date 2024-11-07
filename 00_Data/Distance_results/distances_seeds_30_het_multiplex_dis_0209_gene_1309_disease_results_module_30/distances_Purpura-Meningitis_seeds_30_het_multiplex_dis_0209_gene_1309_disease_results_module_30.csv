@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Meningitis nodes,sAB
+0,disease_on_genes,27,29,-0.3220899470899472
+1,disease_on_symptoms,17,17,-0.08823529411764697
+2,disease_on_drugs,24,27,-0.4347766884531592

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.24137931034482762
+1,disease_on_symptoms,23,19,0.7541135447313936
+2,disease_on_drugs,26,29,0.5797202797202798

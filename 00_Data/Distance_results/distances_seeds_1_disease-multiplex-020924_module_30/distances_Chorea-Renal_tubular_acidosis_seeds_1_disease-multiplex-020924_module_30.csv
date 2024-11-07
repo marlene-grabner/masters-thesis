@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,14,18,0.7872023809523809
+1,disease_on_symptoms,27,18,3.5500000000000003
+2,disease_on_drugs,8,10,0.7541666666666664

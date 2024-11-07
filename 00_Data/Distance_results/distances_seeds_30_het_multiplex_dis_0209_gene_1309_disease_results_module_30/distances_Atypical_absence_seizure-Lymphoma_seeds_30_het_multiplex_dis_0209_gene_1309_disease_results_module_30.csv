@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.1785714285714286
+1,disease_on_symptoms,13,20,1.4543123543123544
+2,disease_on_drugs,22,24,0.9354413702239788

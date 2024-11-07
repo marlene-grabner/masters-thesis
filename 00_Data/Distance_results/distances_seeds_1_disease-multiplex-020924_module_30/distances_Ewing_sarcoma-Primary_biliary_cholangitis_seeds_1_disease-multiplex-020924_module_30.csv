@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,24,26,0.7982692307692307
+1,disease_on_symptoms,25,17,0.9526610644257705
+2,disease_on_drugs,17,18,1.3761904761904762

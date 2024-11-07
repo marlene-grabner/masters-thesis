@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,22,0.18867407102701228
+2,disease_on_drugs,25,28,-0.06173854447439364

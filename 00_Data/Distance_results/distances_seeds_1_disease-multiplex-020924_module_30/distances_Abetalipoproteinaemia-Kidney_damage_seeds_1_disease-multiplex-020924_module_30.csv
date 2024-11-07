@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,17,20,0.4381558028616852
+1,disease_on_symptoms,25,26,1.3547963800904976
+2,disease_on_drugs,13,13,0.5

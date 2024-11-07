@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,West_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.1454545454545455
+1,disease_on_symptoms,19,13,1.3219888663967612
+2,disease_on_drugs,22,19,0.17300735208309015

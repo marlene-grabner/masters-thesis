@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,22,20,0.6187229437229438
+1,disease_on_symptoms,21,24,3.3843253968253966
+2,disease_on_drugs,6,18,1.0555555555555558

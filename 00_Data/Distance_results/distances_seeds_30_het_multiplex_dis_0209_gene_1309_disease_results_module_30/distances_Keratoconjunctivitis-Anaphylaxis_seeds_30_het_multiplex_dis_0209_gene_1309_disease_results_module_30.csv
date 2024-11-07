@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,29,27,-0.1256613756613757
+1,disease_on_symptoms,20,14,1.5468487394957982
+2,disease_on_drugs,27,26,-0.20444283180132228

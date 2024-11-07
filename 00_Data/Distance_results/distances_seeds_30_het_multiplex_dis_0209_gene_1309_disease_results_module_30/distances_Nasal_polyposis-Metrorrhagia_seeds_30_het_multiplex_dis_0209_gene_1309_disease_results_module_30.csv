@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.052631578947368474
+1,disease_on_symptoms,20,17,0.2550079491255963
+2,disease_on_drugs,25,26,0.0022473604826547255

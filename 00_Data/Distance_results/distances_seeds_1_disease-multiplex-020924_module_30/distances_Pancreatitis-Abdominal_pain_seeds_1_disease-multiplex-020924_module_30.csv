@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,0.09999999999999987
+1,disease_on_symptoms,20,24,1.2920454545454545
+2,disease_on_drugs,30,24,0.23611111111111116

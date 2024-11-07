@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,30,-0.13333333333333341
+1,disease_on_symptoms,17,22,-0.05237899355546416
+2,disease_on_drugs,26,29,-0.028996865203761768

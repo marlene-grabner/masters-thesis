@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Asthma nodes,sAB
+0,disease_on_genes,26,25,-1.5082956259293567e-05
+1,disease_on_symptoms,17,20,1.4849364069952304
+2,disease_on_drugs,24,22,0.4183959156785244

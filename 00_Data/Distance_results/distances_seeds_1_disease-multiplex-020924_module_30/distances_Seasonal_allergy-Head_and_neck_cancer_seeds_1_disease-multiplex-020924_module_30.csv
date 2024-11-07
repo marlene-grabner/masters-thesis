@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,29,27,-0.01605546433132643
+1,disease_on_symptoms,15,22,0.27653562653562647
+2,disease_on_drugs,29,24,0.2995825200607243

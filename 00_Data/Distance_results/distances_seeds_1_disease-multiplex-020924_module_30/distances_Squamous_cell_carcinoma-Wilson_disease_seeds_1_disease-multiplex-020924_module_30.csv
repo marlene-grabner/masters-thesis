@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,16,23,0.04835562987736908
+1,disease_on_symptoms,26,19,0.4963112910481331
+2,disease_on_drugs,14,11,0.08000000000000007

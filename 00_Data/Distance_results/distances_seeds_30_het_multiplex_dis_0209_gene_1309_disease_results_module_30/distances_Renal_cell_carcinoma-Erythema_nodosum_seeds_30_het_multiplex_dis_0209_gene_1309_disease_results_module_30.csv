@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,27,30,0.03411306042884976
+1,disease_on_symptoms,22,22,0.8181818181818179
+2,disease_on_drugs,22,29,0.27537033622226326

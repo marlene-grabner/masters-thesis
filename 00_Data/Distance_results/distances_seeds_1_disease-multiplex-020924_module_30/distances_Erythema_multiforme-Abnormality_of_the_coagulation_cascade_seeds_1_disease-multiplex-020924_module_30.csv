@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Abnormality_of_the_coagulation_cascade nodes,sAB
+0,disease_on_genes,30,23,0.203336067815149
+1,disease_on_symptoms,16,23,1.372456800445931
+2,disease_on_drugs,30,18,0.8055555555555556

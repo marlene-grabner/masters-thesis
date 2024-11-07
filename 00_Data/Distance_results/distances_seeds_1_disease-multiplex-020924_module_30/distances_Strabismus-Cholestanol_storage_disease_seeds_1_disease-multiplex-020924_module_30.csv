@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,13,30,0.1869409660107335
+1,disease_on_symptoms,26,17,0.6500841839419134
+2,disease_on_drugs,9,25,0.38326797385620925

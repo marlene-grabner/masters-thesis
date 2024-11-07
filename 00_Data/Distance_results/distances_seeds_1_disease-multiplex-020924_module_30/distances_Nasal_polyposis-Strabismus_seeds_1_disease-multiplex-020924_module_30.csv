@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Strabismus nodes,sAB
+0,disease_on_genes,15,13,0.6012820512820514
+1,disease_on_symptoms,25,26,2.331297134238311
+2,disease_on_drugs,10,9,0.37076023391812885

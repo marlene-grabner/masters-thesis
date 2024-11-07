@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,27,28,0.21850649350649354
+1,disease_on_symptoms,22,19,1.799539036060217
+2,disease_on_drugs,24,25,0.5097278911564624

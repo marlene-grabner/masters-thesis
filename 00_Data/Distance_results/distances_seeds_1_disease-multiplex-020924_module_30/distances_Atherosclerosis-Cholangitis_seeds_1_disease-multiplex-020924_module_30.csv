@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.294346978557505
+1,disease_on_symptoms,13,22,1.3456543456543457
+2,disease_on_drugs,29,26,0.9636363636363636

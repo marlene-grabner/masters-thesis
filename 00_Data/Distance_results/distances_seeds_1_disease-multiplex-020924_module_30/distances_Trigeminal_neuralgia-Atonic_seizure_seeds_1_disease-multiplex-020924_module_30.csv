@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,28,29,-0.15853210612738766
+1,disease_on_symptoms,19,16,0.12875939849624052
+2,disease_on_drugs,26,24,-0.1792307692307692

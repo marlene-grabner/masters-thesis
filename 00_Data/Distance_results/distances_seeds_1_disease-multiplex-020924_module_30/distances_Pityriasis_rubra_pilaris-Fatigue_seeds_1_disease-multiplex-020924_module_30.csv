@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Fatigue nodes,sAB
+0,disease_on_genes,28,26,-0.16809116809116798
+1,disease_on_symptoms,23,21,0.3265104460756634
+2,disease_on_drugs,26,26,-0.21153846153846145

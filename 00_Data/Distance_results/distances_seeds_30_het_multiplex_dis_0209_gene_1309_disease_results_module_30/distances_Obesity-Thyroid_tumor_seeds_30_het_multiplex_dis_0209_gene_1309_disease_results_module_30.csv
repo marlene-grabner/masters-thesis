@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.1955555555555556
+1,disease_on_symptoms,18,20,1.1834795321637426
+2,disease_on_drugs,25,20,-0.05833333333333335

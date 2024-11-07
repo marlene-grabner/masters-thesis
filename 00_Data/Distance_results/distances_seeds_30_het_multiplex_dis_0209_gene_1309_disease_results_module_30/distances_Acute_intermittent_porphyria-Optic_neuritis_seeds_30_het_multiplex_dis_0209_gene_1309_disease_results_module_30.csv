@@ -1,0 +1,4 @@
+,Layer,Acute_intermittent_porphyria nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.14814814814814814
+1,disease_on_symptoms,17,21,1.1180893409995578
+2,disease_on_drugs,24,27,-0.00394880174291945

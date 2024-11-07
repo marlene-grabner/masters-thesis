@@ -1,0 +1,4 @@
+,Layer,Neurogenic_bladder nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,28,0.36543513957307083
+1,disease_on_symptoms,17,20,0.9890302066772652
+2,disease_on_drugs,26,27,0.6981132075471699

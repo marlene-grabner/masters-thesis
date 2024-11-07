@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.3666666666666666
+1,disease_on_symptoms,21,19,-0.8726190476190474
+2,disease_on_drugs,29,29,-0.2931034482758621

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,20,18,0.05350877192982462
+2,disease_on_drugs,26,30,-0.14294871794871788

@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,25,18,0.47961240310077535
+2,disease_on_drugs,25,27,-0.09282051282051285

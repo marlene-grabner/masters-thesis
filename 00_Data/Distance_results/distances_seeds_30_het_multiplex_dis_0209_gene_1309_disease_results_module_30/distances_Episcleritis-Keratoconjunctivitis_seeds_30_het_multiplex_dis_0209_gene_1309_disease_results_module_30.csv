@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.11864406779661019
+1,disease_on_symptoms,18,20,0.2641812865497075
+2,disease_on_drugs,28,27,-0.09235209235209241

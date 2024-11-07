@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Sinusitis nodes,sAB
+0,disease_on_genes,28,29,0.15786232823437896
+1,disease_on_symptoms,14,21,1.0047619047619047
+2,disease_on_drugs,28,28,0.7142857142857142

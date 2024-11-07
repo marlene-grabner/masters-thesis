@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,23,30,-0.15094339622641506
+1,disease_on_symptoms,23,15,0.39778794813119767
+2,disease_on_drugs,22,29,-0.0728379125945049

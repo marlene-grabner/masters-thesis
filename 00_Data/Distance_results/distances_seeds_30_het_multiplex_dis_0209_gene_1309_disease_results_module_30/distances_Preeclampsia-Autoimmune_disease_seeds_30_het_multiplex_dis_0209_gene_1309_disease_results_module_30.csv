@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,26,-0.05660377358490565
+1,disease_on_symptoms,18,20,0.5361111111111112
+2,disease_on_drugs,22,25,-0.023249516441005813

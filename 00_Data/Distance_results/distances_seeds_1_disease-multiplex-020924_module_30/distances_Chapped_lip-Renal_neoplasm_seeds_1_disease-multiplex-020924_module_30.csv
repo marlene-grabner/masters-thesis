@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,26,22,-0.009469696969697017
+1,disease_on_symptoms,21,25,0.4548654244306418
+2,disease_on_drugs,24,18,0.2142857142857142

@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,20,25,0.31499999999999995
+1,disease_on_symptoms,24,24,1.5416666666666665
+2,disease_on_drugs,18,20,0.7558479532163742

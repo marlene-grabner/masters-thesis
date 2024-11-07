@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,0.05476190476190479
+1,disease_on_symptoms,21,16,1.047015765765766
+2,disease_on_drugs,25,30,0.6372727272727272

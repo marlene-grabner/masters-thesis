@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,27,0.10526315789473695
+1,disease_on_symptoms,16,18,1.0890522875816995
+2,disease_on_drugs,25,22,0.18951644100580278

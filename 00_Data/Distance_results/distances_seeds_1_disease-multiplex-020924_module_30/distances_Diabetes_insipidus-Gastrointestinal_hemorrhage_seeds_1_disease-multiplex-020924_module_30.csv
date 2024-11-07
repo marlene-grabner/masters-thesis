@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,24,27,-0.35198801742919394
+1,disease_on_symptoms,18,19,-0.24217638691322896
+2,disease_on_drugs,18,27,-0.2666666666666667

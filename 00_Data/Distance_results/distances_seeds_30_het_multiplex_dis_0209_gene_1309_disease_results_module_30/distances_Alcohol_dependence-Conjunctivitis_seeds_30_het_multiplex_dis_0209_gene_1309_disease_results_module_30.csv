@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.15310734463276843
+1,disease_on_symptoms,18,27,0.7703703703703701
+2,disease_on_drugs,24,28,0.4441391941391941

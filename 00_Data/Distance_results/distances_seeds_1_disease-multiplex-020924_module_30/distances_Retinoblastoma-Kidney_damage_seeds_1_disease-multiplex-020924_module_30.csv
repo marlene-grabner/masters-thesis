@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.3615384615384616
+1,disease_on_symptoms,24,26,1.4028846153846155
+2,disease_on_drugs,24,13,0.6455301455301456

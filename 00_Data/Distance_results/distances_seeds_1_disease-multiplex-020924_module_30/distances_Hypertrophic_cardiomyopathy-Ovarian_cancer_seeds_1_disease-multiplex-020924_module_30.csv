@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.4403508771929825
+1,disease_on_symptoms,17,17,2.176470588235294
+2,disease_on_drugs,17,25,1.0238095238095237

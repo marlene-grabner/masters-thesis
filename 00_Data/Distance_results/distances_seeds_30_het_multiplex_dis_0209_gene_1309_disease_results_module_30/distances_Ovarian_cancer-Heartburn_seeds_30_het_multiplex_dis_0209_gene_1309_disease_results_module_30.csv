@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Heartburn nodes,sAB
+0,disease_on_genes,27,26,-0.05660377358490565
+1,disease_on_symptoms,17,16,1.0298573975044563
+2,disease_on_drugs,17,25,0.2715406162464986

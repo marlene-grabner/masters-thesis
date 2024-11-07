@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,24,0.06064814814814823
+1,disease_on_symptoms,20,17,0.6303259141494435
+2,disease_on_drugs,30,23,0.35849056603773577

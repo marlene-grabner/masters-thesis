@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,29,0.16977401129943503
+1,disease_on_symptoms,24,18,0.9920634920634921
+2,disease_on_drugs,28,22,0.3107142857142855

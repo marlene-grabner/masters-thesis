@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,24,30,0.0185185185185186
+1,disease_on_symptoms,21,18,0.9300976800976801
+2,disease_on_drugs,24,26,0.09967948717948727

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,-0.054545454545454564
+1,disease_on_symptoms,20,16,0.5652777777777778
+2,disease_on_drugs,24,29,0.47196920407720677

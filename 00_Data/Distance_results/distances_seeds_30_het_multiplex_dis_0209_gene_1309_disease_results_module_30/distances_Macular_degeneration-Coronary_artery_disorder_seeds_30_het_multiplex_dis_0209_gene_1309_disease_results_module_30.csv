@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.2823489198796827
+1,disease_on_symptoms,17,19,1.2538699690402477
+2,disease_on_drugs,17,22,0.21225832990538884

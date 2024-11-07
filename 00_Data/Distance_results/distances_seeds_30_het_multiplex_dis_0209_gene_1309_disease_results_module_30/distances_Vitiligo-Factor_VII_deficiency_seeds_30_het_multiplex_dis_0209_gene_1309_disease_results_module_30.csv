@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.22352216748768483
+1,disease_on_symptoms,19,19,0.6578947368421049
+2,disease_on_drugs,25,25,0.5199999999999998

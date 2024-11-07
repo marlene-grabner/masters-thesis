@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,0.021003134796238276
+1,disease_on_symptoms,19,16,0.923402255639098
+2,disease_on_drugs,23,25,0.3532608695652173

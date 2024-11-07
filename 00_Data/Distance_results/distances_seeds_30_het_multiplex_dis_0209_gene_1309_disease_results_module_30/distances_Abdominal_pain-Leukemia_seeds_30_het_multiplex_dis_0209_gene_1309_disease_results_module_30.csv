@@ -1,0 +1,4 @@
+,Layer,Abdominal_pain nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,19,21,0.3464285714285713
+2,disease_on_drugs,29,30,0.3900740307812196

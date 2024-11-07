@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,18,30,0.2513888888888889
+1,disease_on_symptoms,28,24,1.0831043956043955
+2,disease_on_drugs,17,24,0.3141439502630319

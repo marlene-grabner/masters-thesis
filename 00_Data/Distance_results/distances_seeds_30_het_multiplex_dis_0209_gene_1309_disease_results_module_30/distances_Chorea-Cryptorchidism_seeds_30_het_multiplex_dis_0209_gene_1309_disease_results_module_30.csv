@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.17268252666119777
+1,disease_on_symptoms,17,19,0.9071207430340558
+2,disease_on_drugs,24,21,-0.09503968253968265

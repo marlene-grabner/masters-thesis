@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,26,27,-0.09542815674891147
+1,disease_on_symptoms,16,18,1.3537581699346406
+2,disease_on_drugs,26,22,-0.09731934731934744

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Hyperglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666681
+1,disease_on_symptoms,19,17,0.015995872033023772
+2,disease_on_drugs,22,26,-0.25932400932400945

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,-0.045454545454545636
+1,disease_on_symptoms,19,23,0.9199084668192219
+2,disease_on_drugs,30,20,-0.050000000000000044

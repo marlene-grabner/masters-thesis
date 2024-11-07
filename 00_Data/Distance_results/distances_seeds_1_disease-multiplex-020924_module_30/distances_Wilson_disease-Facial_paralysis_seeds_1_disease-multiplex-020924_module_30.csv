@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,23,14,0.2262464327681719
+1,disease_on_symptoms,19,23,2.270840143837855
+2,disease_on_drugs,11,14,1.3199999999999998

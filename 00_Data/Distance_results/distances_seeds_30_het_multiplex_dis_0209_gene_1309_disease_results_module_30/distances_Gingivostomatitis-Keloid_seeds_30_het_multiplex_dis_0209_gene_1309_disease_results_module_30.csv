@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.2430817610062892
+1,disease_on_symptoms,15,17,0.014215686274509753
+2,disease_on_drugs,30,22,-0.09195804195804202

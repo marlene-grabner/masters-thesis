@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,20,16,0.40208333333333357
+2,disease_on_drugs,30,29,0.20362361192285228

@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,30,-0.14423076923076916
+1,disease_on_symptoms,17,17,0.32352941176470607
+2,disease_on_drugs,24,25,-0.0005272108843537016

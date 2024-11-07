@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,25,25,-0.040000000000000036
+1,disease_on_symptoms,14,17,1.1864326375711574
+2,disease_on_drugs,22,24,-0.06340579710144911

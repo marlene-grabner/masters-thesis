@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,17,18,-0.06086601307189543
+1,disease_on_symptoms,27,28,1.0025132275132274
+2,disease_on_drugs,14,17,-0.09453781512605053

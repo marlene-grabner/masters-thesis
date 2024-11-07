@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,17,0.18870356729453852
+1,disease_on_symptoms,21,25,1.8178881987577638
+2,disease_on_drugs,24,13,0.9615384615384617

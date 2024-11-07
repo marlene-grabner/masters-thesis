@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,23,30,0.3963210702341138
+1,disease_on_symptoms,21,12,1.128787878787879
+2,disease_on_drugs,19,30,1.064965986394558

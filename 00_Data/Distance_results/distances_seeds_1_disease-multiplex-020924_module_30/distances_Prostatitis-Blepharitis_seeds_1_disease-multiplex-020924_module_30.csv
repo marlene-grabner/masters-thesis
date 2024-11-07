@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,20,0.22833333333333328
+1,disease_on_symptoms,20,27,1.4243301812450748
+2,disease_on_drugs,29,19,0.5170523290986087

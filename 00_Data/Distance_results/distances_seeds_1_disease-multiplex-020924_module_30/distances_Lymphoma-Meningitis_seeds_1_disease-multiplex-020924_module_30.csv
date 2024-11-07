@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.03813600192910527
+1,disease_on_symptoms,21,20,0.3912020905923346
+2,disease_on_drugs,25,26,-0.040000000000000036

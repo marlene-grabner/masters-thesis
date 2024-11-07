@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666674
+1,disease_on_symptoms,19,19,0.36842105263157876
+2,disease_on_drugs,30,27,0.1334307992202728

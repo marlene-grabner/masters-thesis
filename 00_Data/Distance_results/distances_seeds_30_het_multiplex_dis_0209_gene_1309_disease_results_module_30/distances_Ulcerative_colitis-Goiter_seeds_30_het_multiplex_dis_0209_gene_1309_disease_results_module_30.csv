@@ -1,0 +1,4 @@
+,Layer,Ulcerative_colitis nodes,Goiter nodes,sAB
+0,disease_on_genes,27,26,0.24528301886792447
+1,disease_on_symptoms,20,12,0.9395833333333332
+2,disease_on_drugs,27,18,0.21666666666666679

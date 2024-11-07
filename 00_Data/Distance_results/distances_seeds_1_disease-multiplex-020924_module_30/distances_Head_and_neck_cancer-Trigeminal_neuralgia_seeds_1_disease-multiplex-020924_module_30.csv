@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,28,0.21881914381914402
+1,disease_on_symptoms,22,19,1.0727331077138522
+2,disease_on_drugs,24,26,1.0191025641025642

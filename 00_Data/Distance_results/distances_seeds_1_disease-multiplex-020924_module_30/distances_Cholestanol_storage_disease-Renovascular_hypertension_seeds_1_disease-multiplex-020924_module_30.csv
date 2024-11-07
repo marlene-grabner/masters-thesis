@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.0896358543417366
+1,disease_on_symptoms,17,22,0.9445358563005621
+2,disease_on_drugs,25,20,0.5549999999999999

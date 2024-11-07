@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Obesity nodes,sAB
+0,disease_on_genes,26,27,-0.07442348008385746
+1,disease_on_symptoms,17,18,0.3993464052287585
+2,disease_on_drugs,24,25,-0.04260204081632657

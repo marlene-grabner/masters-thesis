@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,22,0.3411798839458413
+1,disease_on_symptoms,13,21,3.775910364145658
+2,disease_on_drugs,16,6,0.3020833333333335

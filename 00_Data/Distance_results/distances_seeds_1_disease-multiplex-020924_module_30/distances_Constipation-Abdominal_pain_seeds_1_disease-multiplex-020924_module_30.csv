@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,17,24,-0.30084289813486365
+2,disease_on_drugs,27,24,-0.1974400871459694

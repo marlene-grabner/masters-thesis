@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,-0.1263227513227515
+1,disease_on_symptoms,21,20,-0.02296747967479673
+2,disease_on_drugs,25,27,-0.07561253561253545

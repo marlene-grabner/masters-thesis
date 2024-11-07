@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.14018883415435135
+1,disease_on_symptoms,16,20,1.1145833333333335
+2,disease_on_drugs,23,28,0.607843137254902

@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,12,25,0.17207207207207187
+2,disease_on_drugs,23,29,0.21718948218198575

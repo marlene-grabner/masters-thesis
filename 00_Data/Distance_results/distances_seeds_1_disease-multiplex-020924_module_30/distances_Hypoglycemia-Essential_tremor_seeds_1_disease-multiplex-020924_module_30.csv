@@ -1,0 +1,4 @@
+,Layer,Hypoglycemia nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.21568627450980382
+1,disease_on_symptoms,12,20,1.2416666666666667
+2,disease_on_drugs,22,19,0.19319640564826712

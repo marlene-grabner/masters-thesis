@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,27,30,-0.2485380116959065
+1,disease_on_symptoms,18,16,-0.23631535947712412
+2,disease_on_drugs,25,29,-0.17024265644955283

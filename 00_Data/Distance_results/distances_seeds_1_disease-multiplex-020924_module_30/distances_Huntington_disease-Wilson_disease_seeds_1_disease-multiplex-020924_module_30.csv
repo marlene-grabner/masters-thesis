@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,23,0.19539239814055231
+1,disease_on_symptoms,16,19,2.027866541353384
+2,disease_on_drugs,27,11,1.3421052631578947

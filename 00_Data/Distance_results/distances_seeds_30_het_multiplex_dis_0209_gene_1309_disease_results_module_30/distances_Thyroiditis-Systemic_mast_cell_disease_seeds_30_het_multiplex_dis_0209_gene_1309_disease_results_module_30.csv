@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.016949152542372836
+1,disease_on_symptoms,21,25,0.33213250517598336
+2,disease_on_drugs,29,21,0.17825944170771746

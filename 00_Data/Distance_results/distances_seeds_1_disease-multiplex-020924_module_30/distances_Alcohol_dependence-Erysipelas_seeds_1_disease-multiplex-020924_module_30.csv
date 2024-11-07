@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Erysipelas nodes,sAB
+0,disease_on_genes,12,28,0.3226190476190476
+1,disease_on_symptoms,27,20,1.7353033884948779
+2,disease_on_drugs,9,27,0.38888888888888884

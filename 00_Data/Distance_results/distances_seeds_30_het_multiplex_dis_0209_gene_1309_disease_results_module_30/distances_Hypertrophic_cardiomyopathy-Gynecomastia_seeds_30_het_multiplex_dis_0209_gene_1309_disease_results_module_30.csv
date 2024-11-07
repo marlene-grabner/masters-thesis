@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,19,15,0.26109391124871006
+2,disease_on_drugs,22,29,0.059069395783391876

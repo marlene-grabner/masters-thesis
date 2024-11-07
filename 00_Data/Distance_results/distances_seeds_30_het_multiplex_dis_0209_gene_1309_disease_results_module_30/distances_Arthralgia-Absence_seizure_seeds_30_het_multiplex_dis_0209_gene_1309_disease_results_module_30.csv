@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,14,0.986446191379778
+2,disease_on_drugs,30,22,0.08286713286713265

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,20,27,0.39860126083530356
+1,disease_on_symptoms,22,16,0.5372308612440193
+2,disease_on_drugs,15,27,0.6486772486772487

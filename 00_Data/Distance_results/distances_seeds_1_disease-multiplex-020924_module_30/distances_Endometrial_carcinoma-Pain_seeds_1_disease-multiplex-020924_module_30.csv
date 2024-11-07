@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Pain nodes,sAB
+0,disease_on_genes,23,26,0.07999453962186887
+1,disease_on_symptoms,21,21,0.5476190476190474
+2,disease_on_drugs,21,26,0.7604044891278932

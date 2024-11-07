@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,22,28,0.41396103896103886
+1,disease_on_symptoms,21,20,1.4279907084785133
+2,disease_on_drugs,6,28,0.6568627450980393

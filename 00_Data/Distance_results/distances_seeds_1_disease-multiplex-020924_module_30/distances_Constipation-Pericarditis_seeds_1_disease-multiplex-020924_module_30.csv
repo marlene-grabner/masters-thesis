@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,0.01969696969696977
+1,disease_on_symptoms,17,22,0.14699026463732356
+2,disease_on_drugs,27,25,0.3653276353276351

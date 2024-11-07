@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,22,17,0.050767859591388964
+1,disease_on_symptoms,23,27,1.5169082125603865
+2,disease_on_drugs,17,16,0.48473707664884125

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,27,30,0.07017543859649122
+1,disease_on_symptoms,18,20,0.5602339181286551
+2,disease_on_drugs,24,28,0.10508241758241765

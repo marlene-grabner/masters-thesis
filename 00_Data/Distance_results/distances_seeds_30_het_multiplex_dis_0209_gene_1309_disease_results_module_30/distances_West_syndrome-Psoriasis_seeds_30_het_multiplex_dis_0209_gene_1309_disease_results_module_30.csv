@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,13,17,1.2063348416289594
+2,disease_on_drugs,19,30,0.33079126387397073

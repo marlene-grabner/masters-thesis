@@ -1,0 +1,4 @@
+,Layer,Stroke_disorder nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,16,19,-0.6499999999999999
+2,disease_on_drugs,30,29,-0.05145139294759393

@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.05056497175141239
+1,disease_on_symptoms,20,11,0.6543255131964809
+2,disease_on_drugs,29,24,0.26049121665582287

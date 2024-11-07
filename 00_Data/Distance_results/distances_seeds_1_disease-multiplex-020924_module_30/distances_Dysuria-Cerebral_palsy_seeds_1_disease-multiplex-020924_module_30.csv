@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,30,27,-0.03484765553731051
+1,disease_on_symptoms,16,16,0.25
+2,disease_on_drugs,23,18,0.027041357370095387

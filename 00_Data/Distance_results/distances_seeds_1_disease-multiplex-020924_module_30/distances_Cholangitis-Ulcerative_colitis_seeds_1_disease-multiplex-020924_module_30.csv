@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,27,27,-0.0185185185185186
+1,disease_on_symptoms,22,20,0.9265151515151517
+2,disease_on_drugs,26,25,0.2549019607843137

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,0.10064935064935088
+1,disease_on_symptoms,14,26,-0.19752747252747271
+2,disease_on_drugs,26,14,0.08543956043956036

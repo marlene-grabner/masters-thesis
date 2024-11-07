@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,30,30,-0.1499999999999999
+1,disease_on_symptoms,16,18,-0.1378676470588236
+2,disease_on_drugs,30,28,-0.09064039408866997

@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,19,10,-1.0457350272232304
+2,disease_on_drugs,22,16,-0.7354964114832536

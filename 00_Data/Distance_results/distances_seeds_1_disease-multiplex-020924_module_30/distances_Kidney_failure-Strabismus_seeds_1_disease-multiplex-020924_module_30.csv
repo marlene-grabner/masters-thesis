@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Strabismus nodes,sAB
+0,disease_on_genes,20,13,0.23916083916083908
+1,disease_on_symptoms,23,26,1.3270937137396763
+2,disease_on_drugs,18,9,0.574074074074074

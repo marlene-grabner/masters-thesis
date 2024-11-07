@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,26,29,0.0706293706293708
+1,disease_on_symptoms,18,25,1.2284754521963825
+2,disease_on_drugs,23,27,0.4533333333333336

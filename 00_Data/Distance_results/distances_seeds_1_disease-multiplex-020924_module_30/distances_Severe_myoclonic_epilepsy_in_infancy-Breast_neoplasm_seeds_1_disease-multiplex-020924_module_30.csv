@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.4666666666666668
+1,disease_on_symptoms,16,16,1.65625
+2,disease_on_drugs,21,30,1.5014005602240894

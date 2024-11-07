@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,24,29,0.33372641509433953
+1,disease_on_symptoms,25,14,1.4483516483516485
+2,disease_on_drugs,17,28,0.9555555555555555

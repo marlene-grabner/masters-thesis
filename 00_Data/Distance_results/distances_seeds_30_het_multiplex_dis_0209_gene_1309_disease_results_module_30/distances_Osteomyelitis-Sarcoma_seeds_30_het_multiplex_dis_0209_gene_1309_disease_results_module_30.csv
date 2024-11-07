@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,0.19999999999999996
+1,disease_on_symptoms,22,23,0.7266578831796222
+2,disease_on_drugs,28,24,0.3017399267399268

@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.37228716150399355
+1,disease_on_symptoms,14,21,0.4190476190476191
+2,disease_on_drugs,24,28,0.6179029304029304

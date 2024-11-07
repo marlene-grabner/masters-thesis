@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,22,30,0.0
+1,disease_on_symptoms,21,18,1.0054945054945055
+2,disease_on_drugs,17,30,0.28594075928243634

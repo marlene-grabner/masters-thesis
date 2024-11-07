@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Peritonitis nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,13,14,1.1266788766788765
+2,disease_on_drugs,22,24,0.4146080368906455

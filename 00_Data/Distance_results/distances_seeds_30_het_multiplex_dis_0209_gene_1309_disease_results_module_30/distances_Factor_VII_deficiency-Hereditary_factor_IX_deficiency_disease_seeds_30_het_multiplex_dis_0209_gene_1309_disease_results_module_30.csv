@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,28,28,-0.6250000000000002
+1,disease_on_symptoms,19,18,-0.8879405721510983
+2,disease_on_drugs,25,26,-0.5682956259426848

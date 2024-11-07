@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,25,18,0.5646511627906976
+1,disease_on_symptoms,20,21,3.4608304297328685
+2,disease_on_drugs,14,17,0.7078476551911088

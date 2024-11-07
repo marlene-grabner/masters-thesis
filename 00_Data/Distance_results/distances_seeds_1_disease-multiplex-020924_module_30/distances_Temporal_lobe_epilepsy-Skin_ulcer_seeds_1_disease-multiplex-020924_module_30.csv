@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,29,30,0.20507500487044616
+1,disease_on_symptoms,17,19,2.242174062607499
+2,disease_on_drugs,26,22,0.9315268065268063

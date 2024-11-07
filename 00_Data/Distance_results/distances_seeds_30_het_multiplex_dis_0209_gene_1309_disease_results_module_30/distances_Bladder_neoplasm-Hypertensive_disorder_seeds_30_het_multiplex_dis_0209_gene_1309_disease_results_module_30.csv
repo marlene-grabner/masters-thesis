@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,26,27,-0.18867924528301883
+1,disease_on_symptoms,19,21,0.6982456140350877
+2,disease_on_drugs,25,26,0.157239819004525

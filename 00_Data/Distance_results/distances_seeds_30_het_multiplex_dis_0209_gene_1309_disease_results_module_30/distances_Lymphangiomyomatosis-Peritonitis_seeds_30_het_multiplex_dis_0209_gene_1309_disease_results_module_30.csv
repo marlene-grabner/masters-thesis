@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,26,30,-0.07280219780219777
+1,disease_on_symptoms,17,14,0.10565193819463259
+2,disease_on_drugs,24,24,-0.125

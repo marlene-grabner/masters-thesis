@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Glaucoma nodes,sAB
+0,disease_on_genes,22,30,0.25501165501165524
+1,disease_on_symptoms,22,14,0.2745310245310244
+2,disease_on_drugs,14,30,0.7913419913419915

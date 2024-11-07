@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,20,17,0.3947933227344995
+2,disease_on_drugs,30,28,0.28809523809523796

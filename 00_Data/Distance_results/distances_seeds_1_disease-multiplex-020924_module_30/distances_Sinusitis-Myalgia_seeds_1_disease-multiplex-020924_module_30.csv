@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Myalgia nodes,sAB
+0,disease_on_genes,29,30,0.016919929865575556
+1,disease_on_symptoms,21,16,0.719675032175032
+2,disease_on_drugs,28,29,0.40256892230576447

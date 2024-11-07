@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,29,23,0.2788605697151425
+1,disease_on_symptoms,15,24,0.9737179487179488
+2,disease_on_drugs,29,17,0.7218890554722639

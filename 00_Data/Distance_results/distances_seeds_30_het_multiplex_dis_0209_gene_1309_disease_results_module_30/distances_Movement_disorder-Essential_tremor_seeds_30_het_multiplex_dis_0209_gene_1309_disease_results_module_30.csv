@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.19313725490196076
+1,disease_on_symptoms,17,23,-0.38503836317135565
+2,disease_on_drugs,26,21,-0.241388044579534

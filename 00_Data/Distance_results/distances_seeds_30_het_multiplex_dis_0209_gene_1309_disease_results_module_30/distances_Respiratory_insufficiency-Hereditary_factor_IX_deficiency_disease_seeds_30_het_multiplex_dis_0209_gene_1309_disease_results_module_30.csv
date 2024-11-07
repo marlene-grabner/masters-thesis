@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Hereditary_factor_IX_deficiency_disease nodes,sAB
+0,disease_on_genes,27,28,0.0009740259740258495
+1,disease_on_symptoms,21,18,1.677045177045177
+2,disease_on_drugs,25,26,0.21288084464555057

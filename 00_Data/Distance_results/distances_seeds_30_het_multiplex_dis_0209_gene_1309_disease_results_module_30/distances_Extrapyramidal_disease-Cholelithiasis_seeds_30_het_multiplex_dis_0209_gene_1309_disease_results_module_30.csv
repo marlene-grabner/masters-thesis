@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.07272727272727275
+1,disease_on_symptoms,18,20,0.5842105263157893
+2,disease_on_drugs,25,18,0.10741602067183464

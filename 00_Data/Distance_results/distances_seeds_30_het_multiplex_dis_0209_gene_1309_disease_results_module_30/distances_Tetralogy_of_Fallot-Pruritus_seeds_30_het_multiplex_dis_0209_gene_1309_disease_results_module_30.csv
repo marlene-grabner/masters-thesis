@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,27,0.054288499025341164
+1,disease_on_symptoms,19,21,0.8977443609022555
+2,disease_on_drugs,20,27,0.041351457840819617

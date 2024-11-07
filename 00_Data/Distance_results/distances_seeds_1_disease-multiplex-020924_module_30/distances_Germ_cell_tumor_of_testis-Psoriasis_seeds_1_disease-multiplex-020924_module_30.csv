@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,28,0.23701298701298712
+1,disease_on_symptoms,23,21,0.886598908338039
+2,disease_on_drugs,20,28,0.6517857142857144

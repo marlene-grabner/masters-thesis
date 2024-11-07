@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,-0.02976588628762533
+1,disease_on_symptoms,21,26,0.1480593874210896
+2,disease_on_drugs,26,13,0.17948717948717952

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,21,18,-0.1993284493284493
+2,disease_on_drugs,29,21,-0.16906403940886694

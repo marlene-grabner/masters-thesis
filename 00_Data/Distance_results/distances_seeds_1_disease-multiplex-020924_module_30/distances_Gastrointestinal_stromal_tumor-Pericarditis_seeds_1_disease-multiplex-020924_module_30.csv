@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Pericarditis nodes,sAB
+0,disease_on_genes,23,25,0.12047101449275366
+1,disease_on_symptoms,20,22,1.4038961038961038
+2,disease_on_drugs,19,25,0.8436363636363635

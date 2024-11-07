@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,17,27,0.1314121608239256
+1,disease_on_symptoms,21,16,0.2165781853281854
+2,disease_on_drugs,14,27,-0.012646793134598155

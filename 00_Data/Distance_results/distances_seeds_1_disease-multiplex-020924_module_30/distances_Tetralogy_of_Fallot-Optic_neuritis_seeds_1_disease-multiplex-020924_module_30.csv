@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.4559454191033139
+1,disease_on_symptoms,14,16,1.369345238095238
+2,disease_on_drugs,11,27,0.8050682261208575

@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,0.33144927536231905
+1,disease_on_symptoms,19,20,0.7946356275303641
+2,disease_on_drugs,24,20,0.7742424242424242

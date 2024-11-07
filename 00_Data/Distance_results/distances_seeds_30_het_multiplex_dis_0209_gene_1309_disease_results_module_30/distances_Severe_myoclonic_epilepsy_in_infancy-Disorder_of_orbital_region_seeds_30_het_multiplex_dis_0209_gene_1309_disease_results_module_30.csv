@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,14,18,0.43105158730158744
+2,disease_on_drugs,21,28,0.10714285714285743

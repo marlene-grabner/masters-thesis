@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,28,30,-0.12011494252873556
+1,disease_on_symptoms,20,19,0.2038798920377869
+2,disease_on_drugs,25,30,-0.00969696969696976

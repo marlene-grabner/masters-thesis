@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,16,19,-0.34074248120300754
+2,disease_on_drugs,28,30,-0.38074712643678177

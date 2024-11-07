@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,-0.09435306133419341
+1,disease_on_symptoms,21,27,0.5066137566137567
+2,disease_on_drugs,23,26,-0.07927786499215062

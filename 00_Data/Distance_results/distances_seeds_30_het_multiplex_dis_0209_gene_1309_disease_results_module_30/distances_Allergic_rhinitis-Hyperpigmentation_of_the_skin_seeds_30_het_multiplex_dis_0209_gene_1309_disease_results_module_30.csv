@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,0.01724137931034475
+1,disease_on_symptoms,20,17,0.5447933227344994
+2,disease_on_drugs,25,28,0.1153908355795148

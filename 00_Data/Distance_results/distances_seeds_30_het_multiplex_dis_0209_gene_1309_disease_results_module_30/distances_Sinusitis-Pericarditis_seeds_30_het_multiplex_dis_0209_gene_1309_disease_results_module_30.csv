@@ -1,0 +1,4 @@
+,Layer,Sinusitis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,26,-0.07272727272727275
+1,disease_on_symptoms,20,21,0.416637630662021
+2,disease_on_drugs,27,26,-0.0396038273396766

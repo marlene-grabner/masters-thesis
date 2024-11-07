@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Emphysema nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,17,14,1.3452832746001626
+2,disease_on_drugs,17,29,0.21739130434782616

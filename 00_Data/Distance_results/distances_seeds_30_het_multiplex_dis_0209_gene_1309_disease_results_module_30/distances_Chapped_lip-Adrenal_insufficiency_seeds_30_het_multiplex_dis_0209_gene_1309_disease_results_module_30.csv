@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,26,30,0.0714285714285714
+1,disease_on_symptoms,20,15,0.22261904761904772
+2,disease_on_drugs,23,24,0.1927420598211531

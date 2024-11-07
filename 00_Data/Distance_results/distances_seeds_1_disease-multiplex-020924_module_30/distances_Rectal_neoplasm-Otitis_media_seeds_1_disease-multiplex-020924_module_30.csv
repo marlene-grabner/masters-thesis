@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,0.10023378141437744
+1,disease_on_symptoms,21,22,0.6282593375616632
+2,disease_on_drugs,29,29,0.603448275862069

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Anorexia nodes,sAB
+0,disease_on_genes,26,17,-0.001367989056087593
+1,disease_on_symptoms,17,25,-0.0751820728291317
+2,disease_on_drugs,25,13,0.020485829959514312

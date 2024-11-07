@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Rosacea nodes,sAB
+0,disease_on_genes,26,30,-0.08636363636363642
+1,disease_on_symptoms,25,17,-0.01675070028011194
+2,disease_on_drugs,24,27,-0.10049019607843124

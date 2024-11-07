@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,29,27,0.08928571428571419
+1,disease_on_symptoms,14,21,0.16666666666666652
+2,disease_on_drugs,22,26,-0.017336829836829937

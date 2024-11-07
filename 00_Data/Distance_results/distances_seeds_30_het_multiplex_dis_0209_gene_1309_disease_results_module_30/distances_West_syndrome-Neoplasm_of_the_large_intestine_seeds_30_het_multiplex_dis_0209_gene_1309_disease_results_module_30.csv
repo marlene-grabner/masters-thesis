@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,30,30,0.1166666666666667
+1,disease_on_symptoms,13,22,0.91003996003996
+2,disease_on_drugs,19,29,0.4507713248638838

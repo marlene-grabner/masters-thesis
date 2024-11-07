@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.30972906403940903
+1,disease_on_symptoms,16,19,1.937828947368421
+2,disease_on_drugs,21,25,0.6532505175983436

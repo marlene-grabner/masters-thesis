@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.0
+1,disease_on_symptoms,21,11,0.4828192640692641
+2,disease_on_drugs,25,21,-0.03482401656314704

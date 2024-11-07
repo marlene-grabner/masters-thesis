@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,27,26,0.17013384937913223
+1,disease_on_symptoms,15,18,1.6323232323232322
+2,disease_on_drugs,25,23,0.5425

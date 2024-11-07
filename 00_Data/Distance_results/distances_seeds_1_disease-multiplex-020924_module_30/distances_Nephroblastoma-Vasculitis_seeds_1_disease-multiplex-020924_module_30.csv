@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,24,0.3273299319727889
+1,disease_on_symptoms,25,19,1.1614354066985646
+2,disease_on_drugs,21,20,0.7304878048780488

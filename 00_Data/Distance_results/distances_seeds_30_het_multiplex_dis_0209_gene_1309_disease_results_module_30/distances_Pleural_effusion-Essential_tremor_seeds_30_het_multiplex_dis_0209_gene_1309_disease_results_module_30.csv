@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.05882352941176472
+1,disease_on_symptoms,18,23,1.0204135737009543
+2,disease_on_drugs,27,21,0.17261904761904767

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,29,30,-0.10169491525423724
+1,disease_on_symptoms,20,21,0.7342334494773519
+2,disease_on_drugs,27,30,0.01023391812865504

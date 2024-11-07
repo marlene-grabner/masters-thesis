@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Lymphoma nodes,sAB
+0,disease_on_genes,29,26,0.12716421509524944
+1,disease_on_symptoms,17,21,1.64484741264927
+2,disease_on_drugs,26,25,1.13684766214178

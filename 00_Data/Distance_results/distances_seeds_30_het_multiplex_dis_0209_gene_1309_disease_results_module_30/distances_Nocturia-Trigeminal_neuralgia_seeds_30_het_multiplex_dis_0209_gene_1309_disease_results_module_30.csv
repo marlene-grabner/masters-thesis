@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,25,30,-0.2592592592592593
+1,disease_on_symptoms,18,15,0.05858585858585852
+2,disease_on_drugs,24,25,-0.34619047619047627

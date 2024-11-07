@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Ascites nodes,sAB
+0,disease_on_genes,25,30,-0.05484848484848481
+1,disease_on_symptoms,23,22,0.3745059288537549
+2,disease_on_drugs,24,27,0.08592047930283231

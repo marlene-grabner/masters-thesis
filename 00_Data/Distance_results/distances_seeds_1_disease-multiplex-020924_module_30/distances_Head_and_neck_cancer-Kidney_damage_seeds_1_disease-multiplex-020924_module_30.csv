@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,27,20,0.4133963750985028
+1,disease_on_symptoms,22,26,1.3691724941724943
+2,disease_on_drugs,24,13,0.766025641025641

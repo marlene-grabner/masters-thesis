@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,30,0.07005494505494503
+1,disease_on_symptoms,18,15,0.2964646464646463
+2,disease_on_drugs,25,21,0.0904761904761906

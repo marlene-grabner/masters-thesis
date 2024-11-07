@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.2053566629038326
+1,disease_on_symptoms,20,27,1.4555752561071709
+2,disease_on_drugs,20,26,0.6789297658862878

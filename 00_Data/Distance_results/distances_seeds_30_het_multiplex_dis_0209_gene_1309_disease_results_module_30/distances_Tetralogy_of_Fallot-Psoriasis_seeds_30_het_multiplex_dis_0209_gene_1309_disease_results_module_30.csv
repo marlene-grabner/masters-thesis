@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,19,17,0.27794977640178886
+2,disease_on_drugs,20,30,-0.05833333333333335

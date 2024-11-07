@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,23,27,0.1812238325281803
+1,disease_on_symptoms,25,21,0.4855900621118012
+2,disease_on_drugs,18,27,0.44999999999999996

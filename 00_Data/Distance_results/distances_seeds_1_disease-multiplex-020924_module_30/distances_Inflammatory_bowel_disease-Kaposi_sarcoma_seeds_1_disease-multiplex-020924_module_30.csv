@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,17,15,-0.06465053763440864
+1,disease_on_symptoms,27,27,0.7962962962962963
+2,disease_on_drugs,14,13,0.14947089947089953

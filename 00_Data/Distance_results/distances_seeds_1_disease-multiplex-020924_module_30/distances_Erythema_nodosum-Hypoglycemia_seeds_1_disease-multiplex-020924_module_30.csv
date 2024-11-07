@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,28,30,0.3269704433497538
+1,disease_on_symptoms,23,12,1.5210144927536229
+2,disease_on_drugs,28,22,0.7421428571428572

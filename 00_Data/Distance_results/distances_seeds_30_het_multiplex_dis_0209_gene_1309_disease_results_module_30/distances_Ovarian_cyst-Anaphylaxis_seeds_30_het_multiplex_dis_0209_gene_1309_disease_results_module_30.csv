@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.016764132553606093
+1,disease_on_symptoms,19,14,0.9213374344953293
+2,disease_on_drugs,24,26,0.39730769230769236

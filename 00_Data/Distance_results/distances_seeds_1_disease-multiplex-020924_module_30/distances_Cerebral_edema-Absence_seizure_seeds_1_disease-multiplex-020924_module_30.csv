@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,29,0.45675043834015194
+1,disease_on_symptoms,9,16,1.1819444444444442
+2,disease_on_drugs,11,22,0.8333333333333335

@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Otitis_media nodes,sAB
+0,disease_on_genes,23,29,0.39456233421750664
+1,disease_on_symptoms,25,22,0.7807350096711798
+2,disease_on_drugs,21,29,1.0682758620689656

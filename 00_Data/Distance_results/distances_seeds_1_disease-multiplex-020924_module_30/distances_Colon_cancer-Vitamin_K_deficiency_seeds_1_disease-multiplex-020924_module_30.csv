@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.17488687782805434
+1,disease_on_symptoms,21,23,1.370694522868436
+2,disease_on_drugs,24,20,0.5409090909090908

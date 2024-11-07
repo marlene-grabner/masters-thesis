@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,-0.03478523895946761
+1,disease_on_symptoms,16,20,0.4624999999999999
+2,disease_on_drugs,23,28,0.06297953964194392

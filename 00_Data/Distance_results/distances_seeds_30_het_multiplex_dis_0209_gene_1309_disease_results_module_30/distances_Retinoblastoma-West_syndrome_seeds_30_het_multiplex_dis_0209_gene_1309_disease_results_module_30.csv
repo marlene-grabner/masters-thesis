@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,21,13,1.6217410040939453
+2,disease_on_drugs,27,19,1.311000932282397

@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,26,21,0.10287584755669865
+1,disease_on_symptoms,18,26,2.4054001554001556
+2,disease_on_drugs,23,20,0.6046511627906976

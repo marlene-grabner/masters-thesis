@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,27,30,0.1779100529100528
+1,disease_on_symptoms,21,12,0.9145021645021647
+2,disease_on_drugs,24,30,0.610648148148148

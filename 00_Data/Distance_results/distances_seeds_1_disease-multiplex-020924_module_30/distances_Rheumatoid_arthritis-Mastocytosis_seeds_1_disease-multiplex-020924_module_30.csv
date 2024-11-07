@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,27,18,0.24999999999999978
+1,disease_on_symptoms,15,28,1.558499446290144
+2,disease_on_drugs,25,17,0.42117647058823526

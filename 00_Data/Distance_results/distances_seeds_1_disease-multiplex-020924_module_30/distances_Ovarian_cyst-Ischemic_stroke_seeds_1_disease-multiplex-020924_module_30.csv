@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,20,30,0.22833333333333328
+1,disease_on_symptoms,22,16,1.38755980861244
+2,disease_on_drugs,15,23,0.6551487414187642

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.18957307060755335
+1,disease_on_symptoms,14,15,1.65303776683087
+2,disease_on_drugs,29,21,0.6599999999999999

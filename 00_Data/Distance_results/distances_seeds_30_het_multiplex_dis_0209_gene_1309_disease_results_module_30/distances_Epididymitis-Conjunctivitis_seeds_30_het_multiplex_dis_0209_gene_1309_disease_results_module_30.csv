@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,29,29,-0.3620689655172413
+1,disease_on_symptoms,23,27,-0.5927214170692432
+2,disease_on_drugs,26,28,-0.5003052503052504

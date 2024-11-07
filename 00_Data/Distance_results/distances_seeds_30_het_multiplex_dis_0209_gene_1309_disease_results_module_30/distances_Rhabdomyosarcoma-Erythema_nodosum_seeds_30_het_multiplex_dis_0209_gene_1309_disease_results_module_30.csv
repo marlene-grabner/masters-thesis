@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,29,30,0.0
+1,disease_on_symptoms,19,22,0.8014062317656672
+2,disease_on_drugs,29,29,0.3103448275862071

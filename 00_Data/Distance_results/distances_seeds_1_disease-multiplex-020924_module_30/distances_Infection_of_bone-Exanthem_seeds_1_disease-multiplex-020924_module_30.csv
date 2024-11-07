@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,28,0.1652421652421654
+1,disease_on_symptoms,21,26,1.5086898916686153
+2,disease_on_drugs,24,28,0.24656593406593408

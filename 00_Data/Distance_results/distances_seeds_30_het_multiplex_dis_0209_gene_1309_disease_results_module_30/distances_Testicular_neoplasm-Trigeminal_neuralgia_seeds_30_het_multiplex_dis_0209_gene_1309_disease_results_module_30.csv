@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,25,30,-0.20181818181818179
+1,disease_on_symptoms,26,15,-0.052970606629143324
+2,disease_on_drugs,24,25,-0.04006802721088443

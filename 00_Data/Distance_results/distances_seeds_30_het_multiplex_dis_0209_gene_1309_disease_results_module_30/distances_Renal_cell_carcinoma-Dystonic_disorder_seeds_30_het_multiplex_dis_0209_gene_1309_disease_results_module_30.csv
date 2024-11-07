@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.1413255360623783
+1,disease_on_symptoms,22,17,0.48224324694912957
+2,disease_on_drugs,22,26,0.17249417249417243

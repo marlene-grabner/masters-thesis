@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,22,28,0.2885064935064934
+1,disease_on_symptoms,23,20,0.7275025278058644
+2,disease_on_drugs,17,28,0.7633986928104575

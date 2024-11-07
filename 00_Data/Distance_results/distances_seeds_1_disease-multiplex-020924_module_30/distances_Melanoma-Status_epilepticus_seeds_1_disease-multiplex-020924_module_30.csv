@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,24,29,0.22804163955757972
+1,disease_on_symptoms,23,17,2.0777493606138107
+2,disease_on_drugs,22,30,1.4807692307692308

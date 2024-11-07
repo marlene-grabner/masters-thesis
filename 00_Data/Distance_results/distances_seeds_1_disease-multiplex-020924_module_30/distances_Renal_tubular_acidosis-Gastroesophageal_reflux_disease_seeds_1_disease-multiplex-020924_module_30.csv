@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Gastroesophageal_reflux_disease nodes,sAB
+0,disease_on_genes,18,26,0.303030303030303
+1,disease_on_symptoms,18,17,3.509103641456582
+2,disease_on_drugs,10,25,0.3157142857142856

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,24,28,0.1192765567765568
+1,disease_on_symptoms,22,19,0.9086532850974443
+2,disease_on_drugs,24,28,0.44368131868131866

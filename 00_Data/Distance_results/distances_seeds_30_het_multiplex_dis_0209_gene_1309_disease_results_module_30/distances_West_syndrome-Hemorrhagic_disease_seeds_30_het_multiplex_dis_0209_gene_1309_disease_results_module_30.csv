@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,13,19,0.5522520242914979
+2,disease_on_drugs,19,24,0.31915544675642615

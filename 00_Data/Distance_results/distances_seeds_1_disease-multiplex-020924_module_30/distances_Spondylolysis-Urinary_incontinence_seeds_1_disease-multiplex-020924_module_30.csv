@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,26,-0.0011422888781378315
+1,disease_on_symptoms,19,20,0.41244939271255077
+2,disease_on_drugs,20,20,0.17500000000000004

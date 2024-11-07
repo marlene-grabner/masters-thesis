@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,27,30,0.19610136452241722
+1,disease_on_symptoms,21,17,0.7947810703228662
+2,disease_on_drugs,23,26,0.6246672582076307

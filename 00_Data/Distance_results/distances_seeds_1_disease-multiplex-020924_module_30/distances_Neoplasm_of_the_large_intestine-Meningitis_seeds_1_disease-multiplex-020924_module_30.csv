@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Meningitis nodes,sAB
+0,disease_on_genes,20,29,0.12735749472202662
+1,disease_on_symptoms,25,20,0.5094444444444446
+2,disease_on_drugs,19,26,0.43625730994152034

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,23,27,0.5214814814814814
+1,disease_on_symptoms,16,17,2.2760138146167557
+2,disease_on_drugs,17,20,0.751987281399046

@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.19155045118949965
+1,disease_on_symptoms,17,19,0.5087719298245612
+2,disease_on_drugs,30,22,-0.14731934731934726

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Orchitis nodes,sAB
+0,disease_on_genes,24,23,0.2770390070921984
+1,disease_on_symptoms,18,16,1.59375
+2,disease_on_drugs,18,17,1.1126050420168065

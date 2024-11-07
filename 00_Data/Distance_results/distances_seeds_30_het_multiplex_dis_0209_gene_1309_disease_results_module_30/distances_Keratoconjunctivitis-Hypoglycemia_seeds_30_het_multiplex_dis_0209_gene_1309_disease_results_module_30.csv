@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,29,30,-0.2200564971751412
+1,disease_on_symptoms,20,19,0.3794534412955466
+2,disease_on_drugs,27,27,-0.2222222222222221

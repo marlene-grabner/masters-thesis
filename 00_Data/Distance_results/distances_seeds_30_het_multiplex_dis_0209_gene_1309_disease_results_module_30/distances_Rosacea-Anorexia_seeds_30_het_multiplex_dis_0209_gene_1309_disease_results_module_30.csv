@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.30509448665497774
+1,disease_on_symptoms,18,13,0.10814722911497099
+2,disease_on_drugs,30,28,-0.2047619047619047

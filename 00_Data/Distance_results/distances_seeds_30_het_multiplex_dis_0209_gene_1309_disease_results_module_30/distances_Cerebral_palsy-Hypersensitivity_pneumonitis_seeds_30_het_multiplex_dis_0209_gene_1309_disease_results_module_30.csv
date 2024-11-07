@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,0.07272727272727275
+1,disease_on_symptoms,13,20,1.1124125874125876
+2,disease_on_drugs,21,25,0.012132505175983521

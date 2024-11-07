@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,-0.1428571428571429
+1,disease_on_symptoms,14,20,0.2296218487394961
+2,disease_on_drugs,29,25,-0.19920817369093224

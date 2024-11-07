@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,27,27,-0.2222222222222222
+1,disease_on_symptoms,17,21,1.1536930561698364
+2,disease_on_drugs,24,27,0.0781590413943356

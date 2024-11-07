@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,17,20,1.4277821939586646
+2,disease_on_drugs,24,23,0.511890995991366

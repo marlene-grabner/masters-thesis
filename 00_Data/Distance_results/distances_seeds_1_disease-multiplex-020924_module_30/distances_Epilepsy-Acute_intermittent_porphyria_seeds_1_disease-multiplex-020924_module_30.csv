@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,29,27,0.2129629629629628
+1,disease_on_symptoms,18,20,2.481140350877193
+2,disease_on_drugs,30,15,0.6277777777777778

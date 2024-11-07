@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,-0.020060331825037414
+1,disease_on_symptoms,28,23,1.0740622335890881
+2,disease_on_drugs,23,20,0.18407482305358958

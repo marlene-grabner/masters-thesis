@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,0.08981481481481479
+1,disease_on_symptoms,18,20,0.8286549707602338
+2,disease_on_drugs,25,21,0.12977225672877846

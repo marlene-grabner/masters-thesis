@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Arthralgia nodes,sAB
+0,disease_on_genes,12,30,0.3154761904761907
+1,disease_on_symptoms,27,19,0.25243664717348935
+2,disease_on_drugs,9,30,0.170940170940171

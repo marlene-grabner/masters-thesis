@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.07380952380952399
+1,disease_on_symptoms,18,17,0.2507936507936508
+2,disease_on_drugs,24,24,0.18749999999999978

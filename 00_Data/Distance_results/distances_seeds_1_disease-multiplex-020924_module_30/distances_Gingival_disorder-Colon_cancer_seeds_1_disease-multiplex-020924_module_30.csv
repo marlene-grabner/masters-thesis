@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,21,26,0.24976619125555288
+1,disease_on_symptoms,26,21,1.4960252513444003
+2,disease_on_drugs,20,24,0.9090909090909092

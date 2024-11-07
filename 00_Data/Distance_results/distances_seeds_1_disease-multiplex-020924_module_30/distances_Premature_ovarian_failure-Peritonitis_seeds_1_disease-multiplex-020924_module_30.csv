@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Peritonitis nodes,sAB
+0,disease_on_genes,28,30,0.193103448275862
+1,disease_on_symptoms,21,17,0.6945304437564497
+2,disease_on_drugs,21,28,0.1411564625850339

@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.09615384615384626
+1,disease_on_symptoms,18,21,0.7603785103785103
+2,disease_on_drugs,22,21,0.3476542837007952

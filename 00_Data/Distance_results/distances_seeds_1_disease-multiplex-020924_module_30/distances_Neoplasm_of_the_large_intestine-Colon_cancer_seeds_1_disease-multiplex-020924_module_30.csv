@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,20,26,-0.13118729096989978
+1,disease_on_symptoms,25,21,0.4518012422360247
+2,disease_on_drugs,19,24,-0.12239902080783371

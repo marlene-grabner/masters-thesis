@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,22,20,0.11764069264069277
+1,disease_on_symptoms,20,24,1.058712121212121
+2,disease_on_drugs,19,18,0.3213213213213213

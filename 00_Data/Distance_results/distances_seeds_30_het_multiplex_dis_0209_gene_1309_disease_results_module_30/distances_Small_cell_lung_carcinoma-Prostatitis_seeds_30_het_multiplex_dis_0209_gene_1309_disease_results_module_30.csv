@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,19,22,0.32448360368771145
+2,disease_on_drugs,30,28,0.06876026272577995

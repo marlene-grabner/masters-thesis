@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Myopathy nodes,sAB
+0,disease_on_genes,27,23,-0.16000000000000003
+1,disease_on_symptoms,21,22,0.561663143058492
+2,disease_on_drugs,23,21,-0.3440146809712026

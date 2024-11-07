@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.2666666666666667
+1,disease_on_symptoms,15,16,-0.4827956989247313
+2,disease_on_drugs,29,29,-0.3275862068965517

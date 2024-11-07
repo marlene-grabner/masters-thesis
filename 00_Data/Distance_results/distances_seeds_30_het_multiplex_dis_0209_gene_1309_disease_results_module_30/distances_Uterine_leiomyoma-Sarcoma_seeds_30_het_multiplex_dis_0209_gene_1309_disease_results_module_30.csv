@@ -1,0 +1,4 @@
+,Layer,Uterine_leiomyoma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,20,23,0.16397876643073794
+2,disease_on_drugs,28,24,-0.13782051282051277

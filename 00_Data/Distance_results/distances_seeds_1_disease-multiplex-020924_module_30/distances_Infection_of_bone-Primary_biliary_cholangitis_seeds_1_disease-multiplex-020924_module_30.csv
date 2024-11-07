@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,0.17307692307692313
+1,disease_on_symptoms,21,17,-0.181925401739643
+2,disease_on_drugs,24,18,0.24702380952380976

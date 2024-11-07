@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,26,30,0.0904761904761906
+1,disease_on_symptoms,21,20,0.7047328687572589
+2,disease_on_drugs,24,30,0.2981481481481483

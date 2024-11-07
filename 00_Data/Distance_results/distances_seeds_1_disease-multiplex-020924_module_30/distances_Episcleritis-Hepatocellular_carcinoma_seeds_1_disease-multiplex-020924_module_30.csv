@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,23,0.16406890894175552
+1,disease_on_symptoms,22,19,1.1855817481619795
+2,disease_on_drugs,29,19,0.6221264367816091

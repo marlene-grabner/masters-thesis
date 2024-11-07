@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Cholangitis nodes,sAB
+0,disease_on_genes,26,27,0.0950115572757082
+1,disease_on_symptoms,21,22,0.6520688613711869
+2,disease_on_drugs,26,26,0.5192307692307694

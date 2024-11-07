@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,24,30,0.22203898050974513
+1,disease_on_symptoms,23,18,0.9936667844939322
+2,disease_on_drugs,20,19,0.04989878542510118

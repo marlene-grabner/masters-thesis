@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Epididymitis nodes,sAB
+0,disease_on_genes,26,29,0.07272727272727275
+1,disease_on_symptoms,21,23,0.5259269715791455
+2,disease_on_drugs,25,26,-0.05734539969834085

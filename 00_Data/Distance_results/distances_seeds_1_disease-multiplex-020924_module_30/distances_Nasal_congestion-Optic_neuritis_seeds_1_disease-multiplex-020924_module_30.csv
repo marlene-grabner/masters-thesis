@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.21120857699805073
+1,disease_on_symptoms,15,16,0.5398521505376341
+2,disease_on_drugs,23,27,0.46122383252818033

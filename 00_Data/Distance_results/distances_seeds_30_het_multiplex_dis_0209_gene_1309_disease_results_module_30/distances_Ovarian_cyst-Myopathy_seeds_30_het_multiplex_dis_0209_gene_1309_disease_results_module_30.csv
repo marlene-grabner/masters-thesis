@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,-0.07106918238993698
+1,disease_on_symptoms,19,22,0.03740226397479285
+2,disease_on_drugs,24,21,-0.23293650793650778

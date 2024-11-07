@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,30,26,-0.25
+1,disease_on_symptoms,17,21,0.1626124133864073
+2,disease_on_drugs,30,26,0.05027472527472532

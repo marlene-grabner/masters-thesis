@@ -1,0 +1,4 @@
+,Layer,Systemic_mast_cell_disease nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,25,18,0.811705426356589
+2,disease_on_drugs,21,29,0.22101806239737254

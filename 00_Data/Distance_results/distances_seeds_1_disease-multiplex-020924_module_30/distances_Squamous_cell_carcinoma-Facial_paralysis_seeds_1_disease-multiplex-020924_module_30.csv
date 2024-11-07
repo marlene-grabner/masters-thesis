@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,16,14,0.2964285714285715
+1,disease_on_symptoms,26,23,2.3149614360794484
+2,disease_on_drugs,14,14,0.7857142857142858

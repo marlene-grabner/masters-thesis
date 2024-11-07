@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,25,28,0.2261725067385445
+1,disease_on_symptoms,19,20,0.9438596491228073
+2,disease_on_drugs,18,27,0.6388888888888891

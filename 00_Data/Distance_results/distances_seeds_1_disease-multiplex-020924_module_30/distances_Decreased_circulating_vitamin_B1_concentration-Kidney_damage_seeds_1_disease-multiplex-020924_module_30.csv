@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,20,0.3600000000000001
+1,disease_on_symptoms,13,26,1.5320512820512824
+2,disease_on_drugs,16,13,0.5199767904509285

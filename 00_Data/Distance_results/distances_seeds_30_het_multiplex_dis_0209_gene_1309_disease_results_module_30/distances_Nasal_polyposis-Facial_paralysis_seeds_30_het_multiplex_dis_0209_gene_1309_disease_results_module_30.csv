@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.21153846153846145
+1,disease_on_symptoms,20,21,0.6098722415795585
+2,disease_on_drugs,25,17,0.4463865546218486

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,28,29,0.1049498746867168
+1,disease_on_symptoms,18,11,1.0387495646116336
+2,disease_on_drugs,25,24,0.18234693877551011

@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Anorexia nodes,sAB
+0,disease_on_genes,21,29,-0.10105090311986875
+1,disease_on_symptoms,20,13,0.6606643356643356
+2,disease_on_drugs,21,28,0.3299319727891157

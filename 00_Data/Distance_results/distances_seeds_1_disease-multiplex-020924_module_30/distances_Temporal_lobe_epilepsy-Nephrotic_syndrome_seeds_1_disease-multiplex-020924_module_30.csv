@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Nephrotic_syndrome nodes,sAB
+0,disease_on_genes,29,20,0.1822484166080225
+1,disease_on_symptoms,17,24,1.354346006695361
+2,disease_on_drugs,26,18,0.6146076146076147

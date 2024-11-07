@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,29,23,0.1942970822281167
+1,disease_on_symptoms,17,24,1.6897118603538976
+2,disease_on_drugs,26,22,1.2497086247086244

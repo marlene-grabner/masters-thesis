@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Headache nodes,sAB
+0,disease_on_genes,26,30,-0.07435897435897454
+1,disease_on_symptoms,19,25,1.0147846889952152
+2,disease_on_drugs,24,26,0.07993589743589746

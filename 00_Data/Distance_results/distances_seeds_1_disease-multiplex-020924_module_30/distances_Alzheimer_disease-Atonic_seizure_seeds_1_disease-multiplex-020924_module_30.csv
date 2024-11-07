@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,20,29,-0.12387403237156935
+1,disease_on_symptoms,23,16,0.030797101449275388
+2,disease_on_drugs,18,24,-0.04761904761904767

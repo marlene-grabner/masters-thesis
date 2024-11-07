@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,14,27,0.5799135372306103
+1,disease_on_symptoms,25,21,2.8851345755693583
+2,disease_on_drugs,10,24,0.8997549019607844

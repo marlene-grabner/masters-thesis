@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,-0.10623781676413269
+1,disease_on_symptoms,23,16,0.519683667781494
+2,disease_on_drugs,25,28,0.26467654986522904

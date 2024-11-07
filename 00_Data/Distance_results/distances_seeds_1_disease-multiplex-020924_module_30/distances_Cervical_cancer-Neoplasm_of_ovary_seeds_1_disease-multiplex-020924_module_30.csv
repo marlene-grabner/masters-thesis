@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,27,24,-0.08469498910675388
+1,disease_on_symptoms,23,26,0.11323459149546111
+2,disease_on_drugs,15,15,-0.19999999999999996

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,20,14,-0.11596638655462166
+2,disease_on_drugs,28,25,-0.055552560646900284

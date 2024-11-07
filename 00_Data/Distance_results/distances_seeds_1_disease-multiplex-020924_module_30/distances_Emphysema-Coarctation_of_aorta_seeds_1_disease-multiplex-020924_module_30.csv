@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.36929824561403524
+1,disease_on_symptoms,14,14,1.75
+2,disease_on_drugs,29,13,0.7619047619047619

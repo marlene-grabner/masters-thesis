@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,0.09397677793904213
+1,disease_on_symptoms,18,22,1.0921717171717171
+2,disease_on_drugs,22,25,0.5164990328820116

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,27,0.08664717348927864
+1,disease_on_symptoms,20,19,0.45988529014844826
+2,disease_on_drugs,30,27,0.7728070175438597

@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,23,27,0.23922705314009662
+1,disease_on_symptoms,23,15,2.1885583524027457
+2,disease_on_drugs,18,26,0.3504273504273505

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,30,26,-0.016666666666666607
+1,disease_on_symptoms,17,20,0.8697535771065186
+2,disease_on_drugs,26,23,0.16500580165176437

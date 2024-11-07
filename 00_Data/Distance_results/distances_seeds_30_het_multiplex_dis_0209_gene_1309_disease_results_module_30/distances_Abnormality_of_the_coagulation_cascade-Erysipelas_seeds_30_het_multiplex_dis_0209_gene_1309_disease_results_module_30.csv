@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Erysipelas nodes,sAB
+0,disease_on_genes,24,30,0.0
+1,disease_on_symptoms,24,18,0.6071428571428574
+2,disease_on_drugs,23,29,0.14917541229385312

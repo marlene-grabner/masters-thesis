@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,25,25,-0.07999999999999996
+1,disease_on_symptoms,13,22,1.244805194805195
+2,disease_on_drugs,21,25,0.12877846790890257

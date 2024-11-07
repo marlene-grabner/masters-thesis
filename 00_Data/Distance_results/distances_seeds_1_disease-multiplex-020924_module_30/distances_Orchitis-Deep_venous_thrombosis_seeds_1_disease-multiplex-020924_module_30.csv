@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,23,28,0.3742997198879552
+1,disease_on_symptoms,16,14,1.755654761904762
+2,disease_on_drugs,17,24,1.0387374461979915

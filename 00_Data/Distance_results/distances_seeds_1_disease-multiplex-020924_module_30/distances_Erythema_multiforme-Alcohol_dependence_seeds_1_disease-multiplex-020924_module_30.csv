@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.4011904761904763
+1,disease_on_symptoms,16,27,0.25438738156761387
+2,disease_on_drugs,30,9,0.2991452991452992

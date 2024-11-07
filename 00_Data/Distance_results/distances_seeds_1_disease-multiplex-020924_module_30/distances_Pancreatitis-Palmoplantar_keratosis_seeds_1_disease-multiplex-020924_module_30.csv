@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.37976190476190474
+1,disease_on_symptoms,20,19,1.3512483130904185
+2,disease_on_drugs,30,18,0.7638888888888891

@@ -1,0 +1,4 @@
+,Layer,Psoriasis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,17,18,0.3667133520074697
+2,disease_on_drugs,30,26,-0.023717948717948634

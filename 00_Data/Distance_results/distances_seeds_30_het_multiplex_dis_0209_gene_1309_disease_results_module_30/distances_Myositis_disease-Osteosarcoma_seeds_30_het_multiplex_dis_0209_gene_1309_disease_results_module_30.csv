@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,18,22,-0.019949494949494717
+2,disease_on_drugs,26,29,-0.22921388955871702

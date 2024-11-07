@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,28,27,-0.017857142857142794
+1,disease_on_symptoms,18,21,0.47649572649572636
+2,disease_on_drugs,25,26,0.2344947209653092

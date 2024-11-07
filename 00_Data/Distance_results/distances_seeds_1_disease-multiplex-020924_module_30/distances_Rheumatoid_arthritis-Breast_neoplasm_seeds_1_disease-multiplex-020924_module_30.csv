@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.13742690058479523
+1,disease_on_symptoms,15,16,0.8714381720430109
+2,disease_on_drugs,25,30,0.6345454545454545

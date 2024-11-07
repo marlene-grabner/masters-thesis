@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Dysuria nodes,sAB
+0,disease_on_genes,25,30,0.26758620689655155
+1,disease_on_symptoms,24,16,1.4645833333333336
+2,disease_on_drugs,20,23,1.4201213346814963

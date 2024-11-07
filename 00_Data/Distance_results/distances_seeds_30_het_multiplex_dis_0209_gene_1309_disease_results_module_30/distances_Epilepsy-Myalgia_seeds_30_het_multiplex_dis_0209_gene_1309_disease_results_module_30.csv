@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Myalgia nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,21,16,-0.15142374517374502
+2,disease_on_drugs,29,29,-0.15517241379310343

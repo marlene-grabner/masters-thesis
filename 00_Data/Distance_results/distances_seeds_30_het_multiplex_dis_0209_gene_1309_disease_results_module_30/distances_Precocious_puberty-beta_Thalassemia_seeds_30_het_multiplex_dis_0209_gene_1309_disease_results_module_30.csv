@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,16,13,-0.24933687002652483
+2,disease_on_drugs,27,24,0.049700435729847614

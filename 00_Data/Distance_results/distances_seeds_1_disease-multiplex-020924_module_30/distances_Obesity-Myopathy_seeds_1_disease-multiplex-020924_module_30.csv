@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Myopathy nodes,sAB
+0,disease_on_genes,26,18,0.4832944832944832
+1,disease_on_symptoms,20,21,0.87061556329849
+2,disease_on_drugs,27,6,0.7962962962962963

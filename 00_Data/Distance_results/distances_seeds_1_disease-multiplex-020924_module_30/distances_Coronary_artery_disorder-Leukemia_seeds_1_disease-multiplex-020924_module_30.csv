@@ -1,0 +1,4 @@
+,Layer,Coronary_artery_disorder nodes,Leukemia nodes,sAB
+0,disease_on_genes,19,18,0.4061166429587484
+1,disease_on_symptoms,21,27,1.8974867724867726
+2,disease_on_drugs,17,17,0.9411764705882351

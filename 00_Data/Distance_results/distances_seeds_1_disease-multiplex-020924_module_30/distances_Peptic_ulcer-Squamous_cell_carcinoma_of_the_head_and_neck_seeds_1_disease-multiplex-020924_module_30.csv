@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,28,21,0.11394557823129259
+1,disease_on_symptoms,14,25,1.4666300366300364
+2,disease_on_drugs,28,21,1.3877551020408165

@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,27,22,0.04081632653061229
+1,disease_on_symptoms,24,24,0.7291666666666665
+2,disease_on_drugs,25,19,0.062009569377990514

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.17543859649122817
+1,disease_on_symptoms,16,18,0.26062091503268014
+2,disease_on_drugs,25,22,0.030967117988394577

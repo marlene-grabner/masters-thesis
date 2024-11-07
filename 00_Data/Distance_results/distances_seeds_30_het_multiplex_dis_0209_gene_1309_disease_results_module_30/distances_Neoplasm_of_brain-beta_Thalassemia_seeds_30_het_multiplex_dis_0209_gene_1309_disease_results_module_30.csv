@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_brain nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,19,13,0.2520242914979758
+2,disease_on_drugs,29,24,0.05710529169377576

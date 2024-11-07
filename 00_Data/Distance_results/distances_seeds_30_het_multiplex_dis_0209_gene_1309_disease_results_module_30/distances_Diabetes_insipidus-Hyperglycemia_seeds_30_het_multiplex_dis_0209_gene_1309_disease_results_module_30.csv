@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Hyperglycemia nodes,sAB
+0,disease_on_genes,26,30,-0.2680402930402931
+1,disease_on_symptoms,20,17,-0.4174085850556437
+2,disease_on_drugs,20,26,-0.3653846153846154

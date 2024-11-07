@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,25,22,0.07213250517598335
+1,disease_on_symptoms,19,26,0.6640125955915432
+2,disease_on_drugs,13,12,-0.2784615384615383

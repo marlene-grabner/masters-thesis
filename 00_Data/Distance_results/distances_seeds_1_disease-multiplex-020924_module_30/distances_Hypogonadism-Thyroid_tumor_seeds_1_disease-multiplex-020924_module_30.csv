@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,30,23,0.2809364548494986
+1,disease_on_symptoms,12,20,1.4604166666666667
+2,disease_on_drugs,30,20,0.9583333333333333

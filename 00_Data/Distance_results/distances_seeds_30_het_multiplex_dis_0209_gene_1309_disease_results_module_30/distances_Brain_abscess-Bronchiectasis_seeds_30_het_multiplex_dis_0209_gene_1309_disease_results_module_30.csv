@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,27,30,0.14035087719298245
+1,disease_on_symptoms,21,19,0.4820175438596488
+2,disease_on_drugs,23,25,0.03760869565217395

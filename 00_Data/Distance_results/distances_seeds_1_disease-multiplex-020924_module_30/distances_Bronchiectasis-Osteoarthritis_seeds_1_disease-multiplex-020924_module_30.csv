@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.1996969696969697
+1,disease_on_symptoms,15,20,1.1619047619047618
+2,disease_on_drugs,26,21,0.30196399345335534

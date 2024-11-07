@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,18,14,0.3893849206349205
+2,disease_on_drugs,26,26,-0.07692307692307687

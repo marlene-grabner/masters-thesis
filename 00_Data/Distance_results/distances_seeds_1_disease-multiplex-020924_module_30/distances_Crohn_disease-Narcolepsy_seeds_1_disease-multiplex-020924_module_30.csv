@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,0.2248639455782313
+1,disease_on_symptoms,20,21,1.6375725900116143
+2,disease_on_drugs,21,20,0.22006387921022053

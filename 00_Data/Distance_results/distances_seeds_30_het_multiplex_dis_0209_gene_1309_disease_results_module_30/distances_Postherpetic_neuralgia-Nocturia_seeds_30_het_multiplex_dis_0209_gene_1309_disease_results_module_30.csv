@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.20370370370370372
+1,disease_on_symptoms,16,18,0.09477124183006524
+2,disease_on_drugs,29,24,-0.23687920190847978

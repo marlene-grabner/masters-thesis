@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,25,26,-0.17610859728506778
+1,disease_on_symptoms,17,22,0.353318250377074
+2,disease_on_drugs,25,25,0.1399999999999999

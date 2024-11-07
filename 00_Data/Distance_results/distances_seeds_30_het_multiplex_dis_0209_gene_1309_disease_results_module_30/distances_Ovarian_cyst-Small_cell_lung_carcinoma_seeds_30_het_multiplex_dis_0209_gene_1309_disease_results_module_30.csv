@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666656
+1,disease_on_symptoms,19,19,-0.21052631578947367
+2,disease_on_drugs,24,30,-0.30092592592592604

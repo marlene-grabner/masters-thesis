@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.26315789473684215
+1,disease_on_symptoms,17,15,-0.08247549019607847
+2,disease_on_drugs,24,25,-0.2432993197278911

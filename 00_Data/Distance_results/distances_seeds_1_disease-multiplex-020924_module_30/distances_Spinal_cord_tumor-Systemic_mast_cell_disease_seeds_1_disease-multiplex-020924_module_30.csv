@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,22,29,0.12251828631138983
+1,disease_on_symptoms,22,16,1.0912081339712922
+2,disease_on_drugs,14,25,0.6108058608058606

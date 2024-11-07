@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.2758620689655171
+1,disease_on_symptoms,18,22,1.184848484848485
+2,disease_on_drugs,30,29,0.7790668225209427

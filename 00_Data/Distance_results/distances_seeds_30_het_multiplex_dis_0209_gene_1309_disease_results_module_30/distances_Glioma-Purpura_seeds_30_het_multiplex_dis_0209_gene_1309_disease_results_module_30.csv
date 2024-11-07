@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Purpura nodes,sAB
+0,disease_on_genes,22,27,0.14474678760393034
+1,disease_on_symptoms,21,17,0.8383458646616542
+2,disease_on_drugs,21,24,0.49662698412698414

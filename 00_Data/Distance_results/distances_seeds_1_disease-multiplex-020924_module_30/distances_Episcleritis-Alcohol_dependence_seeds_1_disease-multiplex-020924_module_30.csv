@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.3154761904761907
+1,disease_on_symptoms,22,27,1.783463890606748
+2,disease_on_drugs,29,9,0.4079451502319016

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Ascites nodes,sAB
+0,disease_on_genes,29,30,-0.05056497175141239
+1,disease_on_symptoms,14,22,-0.2196969696969695
+2,disease_on_drugs,22,27,-0.2121555692984265

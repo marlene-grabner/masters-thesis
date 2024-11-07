@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,28,30,-0.1724137931034483
+1,disease_on_symptoms,18,19,-0.3556582898688161
+2,disease_on_drugs,23,30,-0.18971834837298318

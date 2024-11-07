@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,25,30,-0.11090909090909096
+1,disease_on_symptoms,17,18,0.42731092436974816
+2,disease_on_drugs,25,27,0.08102564102564114

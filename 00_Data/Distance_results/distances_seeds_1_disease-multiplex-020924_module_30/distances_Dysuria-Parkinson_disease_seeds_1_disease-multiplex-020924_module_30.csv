@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,30,21,-0.07622331691297202
+1,disease_on_symptoms,16,20,0.5618055555555554
+2,disease_on_drugs,23,19,0.16873706004140776

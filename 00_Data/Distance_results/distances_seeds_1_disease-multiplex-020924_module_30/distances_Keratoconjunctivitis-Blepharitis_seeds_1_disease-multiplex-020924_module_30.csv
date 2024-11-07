@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,29,20,0.17908163265306132
+1,disease_on_symptoms,25,27,0.8936182336182334
+2,disease_on_drugs,27,19,0.04157131960335625

@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,30,25,-0.015151515151515138
+1,disease_on_symptoms,26,22,0.12747668997668993
+2,disease_on_drugs,28,25,0.22528301886792446

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,22,30,0.2682983682983682
+1,disease_on_symptoms,24,17,1.6011178861788617
+2,disease_on_drugs,20,26,0.5577759197324417

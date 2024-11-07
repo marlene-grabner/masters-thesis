@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,20,30,0.1416666666666666
+1,disease_on_symptoms,25,24,1.0810714285714282
+2,disease_on_drugs,19,24,0.6498878008975928

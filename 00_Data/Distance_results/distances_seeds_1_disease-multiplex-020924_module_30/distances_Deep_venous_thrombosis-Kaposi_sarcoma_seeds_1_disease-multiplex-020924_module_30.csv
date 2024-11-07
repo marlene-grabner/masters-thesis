@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,28,15,0.19454595791805085
+1,disease_on_symptoms,14,27,1.6582462253193961
+2,disease_on_drugs,24,13,1.054054054054054

@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.30536723163841817
+1,disease_on_symptoms,12,25,1.6926576576576575
+2,disease_on_drugs,17,27,0.5311942959001783

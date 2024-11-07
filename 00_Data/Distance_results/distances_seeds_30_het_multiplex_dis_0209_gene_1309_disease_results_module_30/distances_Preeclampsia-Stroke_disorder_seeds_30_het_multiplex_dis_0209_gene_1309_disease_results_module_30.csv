@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.1578947368421053
+1,disease_on_symptoms,18,16,-0.44771241830065356
+2,disease_on_drugs,22,30,-0.23962703962703968

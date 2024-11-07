@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,18,17,0.6515406162464985
+2,disease_on_drugs,27,26,0.05547492339945159

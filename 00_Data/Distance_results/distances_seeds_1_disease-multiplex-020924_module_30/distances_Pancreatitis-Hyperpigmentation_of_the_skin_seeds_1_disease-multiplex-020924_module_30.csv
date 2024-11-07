@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,30,24,0.2759259259259259
+1,disease_on_symptoms,20,23,2.391784630940344
+2,disease_on_drugs,30,12,0.8095238095238095

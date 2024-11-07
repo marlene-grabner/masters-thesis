@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,29,27,-0.051108374384236654
+1,disease_on_symptoms,15,24,0.16602564102564088
+2,disease_on_drugs,29,25,0.12646232439335892

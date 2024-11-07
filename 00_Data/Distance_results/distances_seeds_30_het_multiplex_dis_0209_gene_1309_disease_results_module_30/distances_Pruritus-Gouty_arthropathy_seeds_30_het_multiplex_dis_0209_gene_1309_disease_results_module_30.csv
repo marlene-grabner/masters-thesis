@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,27,28,0.1087542087542086
+1,disease_on_symptoms,21,18,0.45390720390720385
+2,disease_on_drugs,27,23,0.14853462157809982

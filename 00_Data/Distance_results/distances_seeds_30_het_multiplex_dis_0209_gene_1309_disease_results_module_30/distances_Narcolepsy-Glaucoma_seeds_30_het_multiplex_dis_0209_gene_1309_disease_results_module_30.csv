@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Glaucoma nodes,sAB
+0,disease_on_genes,25,30,-0.10757575757575755
+1,disease_on_symptoms,20,18,0.6057017543859646
+2,disease_on_drugs,21,28,0.007653061224489832

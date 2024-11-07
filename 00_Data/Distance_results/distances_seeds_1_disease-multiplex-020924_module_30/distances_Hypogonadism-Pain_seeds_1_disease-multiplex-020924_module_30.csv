@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,0.197902097902098
+1,disease_on_symptoms,12,21,0.6352813852813854
+2,disease_on_drugs,30,26,0.7676739926739926

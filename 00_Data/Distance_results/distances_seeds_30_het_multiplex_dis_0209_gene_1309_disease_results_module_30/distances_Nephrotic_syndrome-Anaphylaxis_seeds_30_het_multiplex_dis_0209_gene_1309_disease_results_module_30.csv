@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.016569200779727122
+1,disease_on_symptoms,15,14,1.510591133004926
+2,disease_on_drugs,28,26,0.001831501831502047

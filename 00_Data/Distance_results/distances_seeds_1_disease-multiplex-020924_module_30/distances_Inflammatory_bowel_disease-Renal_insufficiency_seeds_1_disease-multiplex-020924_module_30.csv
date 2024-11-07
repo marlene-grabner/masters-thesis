@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,17,20,0.2597222222222224
+1,disease_on_symptoms,27,23,2.2199355877616744
+2,disease_on_drugs,14,17,0.5942667389536458

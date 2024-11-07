@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,14,0.1845238095238093
+1,disease_on_symptoms,24,23,1.0210067838421217
+2,disease_on_drugs,28,14,0.22619047619047628

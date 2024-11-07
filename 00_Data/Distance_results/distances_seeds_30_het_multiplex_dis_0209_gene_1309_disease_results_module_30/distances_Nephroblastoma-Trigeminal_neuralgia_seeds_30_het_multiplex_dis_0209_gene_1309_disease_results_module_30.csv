@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,29,30,0.01665692577440092
+1,disease_on_symptoms,20,15,0.2511904761904762
+2,disease_on_drugs,24,25,0.019880952380952444

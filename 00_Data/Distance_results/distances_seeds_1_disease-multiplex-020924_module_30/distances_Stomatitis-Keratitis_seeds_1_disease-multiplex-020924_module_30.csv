@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.15566502463054177
+1,disease_on_symptoms,23,25,0.7850000000000001
+2,disease_on_drugs,30,23,0.38195242001640706

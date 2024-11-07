@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,-0.05057471264367819
+1,disease_on_symptoms,17,23,0.2603580562659846
+2,disease_on_drugs,28,27,0.00030062530062524573

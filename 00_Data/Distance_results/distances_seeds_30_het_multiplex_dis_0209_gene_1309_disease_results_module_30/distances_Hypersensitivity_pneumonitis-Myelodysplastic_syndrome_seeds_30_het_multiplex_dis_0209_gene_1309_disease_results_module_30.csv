@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,0.019607843137254832
+1,disease_on_symptoms,20,17,0.6736486486486486
+2,disease_on_drugs,25,24,0.1215306122448978

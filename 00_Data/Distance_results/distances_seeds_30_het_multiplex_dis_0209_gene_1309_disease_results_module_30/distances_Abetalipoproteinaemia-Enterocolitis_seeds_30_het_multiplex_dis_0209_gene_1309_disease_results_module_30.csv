@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,14,27,-0.08449477351916368
+1,disease_on_symptoms,26,21,0.5913023147065699
+2,disease_on_drugs,14,25,0.3114652014652015

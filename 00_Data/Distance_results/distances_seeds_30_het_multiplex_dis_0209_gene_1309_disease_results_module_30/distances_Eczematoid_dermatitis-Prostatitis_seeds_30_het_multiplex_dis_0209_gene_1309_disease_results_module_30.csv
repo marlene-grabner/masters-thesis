@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,25,22,0.24065764023210812
+2,disease_on_drugs,30,28,-0.20825123152709357

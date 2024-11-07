@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,24,27,0.2359749455337692
+1,disease_on_symptoms,25,19,1.328708133971292
+2,disease_on_drugs,17,20,0.9209459459459461

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Epididymitis nodes,sAB
+0,disease_on_genes,24,29,0.48629635653871195
+1,disease_on_symptoms,25,23,0.97481884057971
+2,disease_on_drugs,17,27,1.2584175084175082

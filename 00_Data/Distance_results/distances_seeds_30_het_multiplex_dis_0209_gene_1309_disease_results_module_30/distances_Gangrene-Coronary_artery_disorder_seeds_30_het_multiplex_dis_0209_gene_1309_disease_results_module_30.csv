@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,23,0.01826086956521733
+1,disease_on_symptoms,22,19,1.117604154510445
+2,disease_on_drugs,27,22,0.02435923864495293

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,0.41909090909090896
+1,disease_on_symptoms,14,23,1.1824324324324325
+2,disease_on_drugs,22,30,0.6499999999999999

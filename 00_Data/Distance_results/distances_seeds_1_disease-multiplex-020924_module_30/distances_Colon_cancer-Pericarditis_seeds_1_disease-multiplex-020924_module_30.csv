@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,0.2552790346907994
+1,disease_on_symptoms,21,22,0.9062216852914529
+2,disease_on_drugs,24,25,0.7146938775510203

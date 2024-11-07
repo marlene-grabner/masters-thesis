@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_ovary nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,22,17,0.4506375976964212
+2,disease_on_drugs,29,25,-0.02357598978288622

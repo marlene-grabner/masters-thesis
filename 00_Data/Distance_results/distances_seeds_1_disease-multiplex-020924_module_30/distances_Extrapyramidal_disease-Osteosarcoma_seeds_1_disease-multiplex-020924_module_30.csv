@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,14,25,0.4314652014652016
+1,disease_on_symptoms,25,24,2.549268707482993
+2,disease_on_drugs,10,23,1.4348484848484848

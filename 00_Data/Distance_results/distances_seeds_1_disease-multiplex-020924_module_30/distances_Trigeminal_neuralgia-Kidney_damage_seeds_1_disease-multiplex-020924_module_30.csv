@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,28,20,0.28392857142857153
+1,disease_on_symptoms,19,26,1.0770805218173638
+2,disease_on_drugs,26,13,0.8141025641025639

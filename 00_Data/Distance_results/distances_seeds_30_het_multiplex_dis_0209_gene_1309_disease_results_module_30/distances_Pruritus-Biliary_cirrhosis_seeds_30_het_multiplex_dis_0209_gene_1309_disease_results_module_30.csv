@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,27,26,-0.3207681556738161
+1,disease_on_symptoms,21,22,-0.30700694654183036
+2,disease_on_drugs,27,25,-0.4263817663817664

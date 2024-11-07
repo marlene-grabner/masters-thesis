@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,20,15,0.8630952380952384
+2,disease_on_drugs,27,23,0.2127858293075684

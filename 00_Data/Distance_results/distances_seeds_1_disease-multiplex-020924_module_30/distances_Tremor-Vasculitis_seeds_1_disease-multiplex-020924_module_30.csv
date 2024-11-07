@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Vasculitis nodes,sAB
+0,disease_on_genes,16,24,0.18541666666666656
+1,disease_on_symptoms,23,19,1.961043914133159
+2,disease_on_drugs,16,20,0.44652777777777763

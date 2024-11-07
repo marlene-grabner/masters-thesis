@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-0.3508771929824561
+1,disease_on_symptoms,22,20,-0.35746753246753227
+2,disease_on_drugs,26,30,-0.36263736263736257

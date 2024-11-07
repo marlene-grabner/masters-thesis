@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.10727272727272719
+1,disease_on_symptoms,12,26,1.2088394062078274
+2,disease_on_drugs,21,24,0.4103174603174602

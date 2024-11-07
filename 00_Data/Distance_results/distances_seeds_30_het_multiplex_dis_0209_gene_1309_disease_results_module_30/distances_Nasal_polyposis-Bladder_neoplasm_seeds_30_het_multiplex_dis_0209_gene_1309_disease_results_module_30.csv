@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Bladder_neoplasm nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,20,19,0.33414304993252353
+2,disease_on_drugs,25,25,-0.020000000000000018

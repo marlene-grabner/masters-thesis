@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,26,0.00034940600978328185
+1,disease_on_symptoms,23,18,1.4309237657593967
+2,disease_on_drugs,25,26,0.5889291101055807

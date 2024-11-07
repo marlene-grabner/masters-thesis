@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Erythema_multiforme nodes,sAB
+0,disease_on_genes,25,30,0.018181818181818077
+1,disease_on_symptoms,13,18,1.1379928315412187
+2,disease_on_drugs,21,30,0.32114845938375347

@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Ascites nodes,sAB
+0,disease_on_genes,24,30,0.2523148148148149
+1,disease_on_symptoms,25,17,0.4764705882352942
+2,disease_on_drugs,17,27,0.4671717171717171

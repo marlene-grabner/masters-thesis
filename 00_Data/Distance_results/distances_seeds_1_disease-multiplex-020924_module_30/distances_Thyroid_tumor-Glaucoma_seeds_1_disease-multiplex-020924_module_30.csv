@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Glaucoma nodes,sAB
+0,disease_on_genes,23,30,0.20773858353841934
+1,disease_on_symptoms,20,14,0.6653361344537814
+2,disease_on_drugs,20,30,0.9216666666666666

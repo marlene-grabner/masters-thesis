@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,25,30,-0.20185185185185184
+1,disease_on_symptoms,18,22,0.6297979797979796
+2,disease_on_drugs,24,29,0.09135762307525486

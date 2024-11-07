@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,24,30,-0.03703703703703709
+1,disease_on_symptoms,23,21,0.745906267645398
+2,disease_on_drugs,22,28,0.09383116883116904

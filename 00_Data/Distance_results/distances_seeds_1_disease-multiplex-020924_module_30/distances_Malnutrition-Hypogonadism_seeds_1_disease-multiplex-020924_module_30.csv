@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,26,30,0.10699300699300718
+1,disease_on_symptoms,18,12,0.6277777777777778
+2,disease_on_drugs,23,30,0.49276729559748444

@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,28,-0.033374384236453336
+1,disease_on_symptoms,16,23,1.0815914158305464
+2,disease_on_drugs,29,28,0.06986215538847129

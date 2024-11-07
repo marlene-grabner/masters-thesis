@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,18,10,0.28015873015873005
+2,disease_on_drugs,30,16,-0.029619565217391397

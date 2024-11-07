@@ -1,0 +1,4 @@
+,Layer,Disorder_of_orbital_region nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,18,22,0.06489898989898979
+2,disease_on_drugs,28,30,-0.10541871921182255

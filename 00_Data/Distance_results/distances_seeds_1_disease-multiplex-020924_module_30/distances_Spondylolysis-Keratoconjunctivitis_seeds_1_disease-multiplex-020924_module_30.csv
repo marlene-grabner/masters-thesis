@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,27,29,0.14021164021164023
+1,disease_on_symptoms,19,25,0.8932535885167465
+2,disease_on_drugs,20,27,0.5955673758865248

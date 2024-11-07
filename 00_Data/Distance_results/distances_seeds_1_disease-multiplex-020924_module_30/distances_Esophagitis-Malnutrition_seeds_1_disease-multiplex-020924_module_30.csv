@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,24,26,0.020101016995426768
+1,disease_on_symptoms,23,18,1.2030163779898668
+2,disease_on_drugs,20,23,0.16104651162790717

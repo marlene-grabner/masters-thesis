@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615397
+1,disease_on_symptoms,25,12,0.8937387387387385
+2,disease_on_drugs,25,18,0.24622739018087847

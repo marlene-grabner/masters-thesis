@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,23,16,0.12799609810479384
+1,disease_on_symptoms,19,21,1.9438596491228068
+2,disease_on_drugs,19,15,0.6764705882352942

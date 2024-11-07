@@ -1,0 +1,4 @@
+,Layer,Skin_disorder nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,7,25,0.25696428571428553
+1,disease_on_symptoms,30,23,0.47763193874760757
+2,disease_on_drugs,6,23,0.6662918540729637

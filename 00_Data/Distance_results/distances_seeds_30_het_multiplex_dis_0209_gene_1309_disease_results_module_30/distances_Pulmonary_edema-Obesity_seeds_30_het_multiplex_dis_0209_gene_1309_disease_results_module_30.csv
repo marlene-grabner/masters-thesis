@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.19590643274853803
+1,disease_on_symptoms,11,18,0.4324277255311739
+2,disease_on_drugs,27,25,-0.07863247863247858

@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Extrapyramidal_disease nodes,sAB
+0,disease_on_genes,18,14,0.6622023809523809
+1,disease_on_symptoms,18,25,4.065968992248062
+2,disease_on_drugs,10,10,0.7000000000000002

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,17,19,0.8925008599931203
+2,disease_on_drugs,24,30,0.30046296296296293

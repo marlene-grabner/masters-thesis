@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,28,30,-0.20632183908045976
+1,disease_on_symptoms,17,19,-0.4099587203302373
+2,disease_on_drugs,25,30,-0.33696969696969703

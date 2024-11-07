@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Anorexia nodes,sAB
+0,disease_on_genes,28,17,0.25100373482726424
+1,disease_on_symptoms,19,25,0.6922009569377994
+2,disease_on_drugs,26,13,0.7628205128205128

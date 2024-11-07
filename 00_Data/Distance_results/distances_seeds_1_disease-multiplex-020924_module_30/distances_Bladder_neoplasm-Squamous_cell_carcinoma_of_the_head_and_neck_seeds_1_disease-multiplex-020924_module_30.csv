@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,26,21,-0.08763931104356626
+1,disease_on_symptoms,20,25,0.05500000000000016
+2,disease_on_drugs,25,21,-0.13043478260869568

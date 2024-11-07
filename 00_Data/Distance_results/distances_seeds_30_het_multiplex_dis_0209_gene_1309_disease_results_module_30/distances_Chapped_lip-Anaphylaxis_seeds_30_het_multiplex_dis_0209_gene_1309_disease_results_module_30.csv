@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,26,27,0.019217330538085164
+1,disease_on_symptoms,20,14,1.6350840336134453
+2,disease_on_drugs,23,26,0.22269810934407186

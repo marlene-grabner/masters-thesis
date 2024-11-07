@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,27,30,-0.03421052631578947
+1,disease_on_symptoms,18,18,1.0833333333333335
+2,disease_on_drugs,24,28,-0.015796703296703463

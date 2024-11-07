@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Neoplasm_of_stomach nodes,sAB
+0,disease_on_genes,30,25,-0.1836363636363637
+1,disease_on_symptoms,21,23,0.3799171842650104
+2,disease_on_drugs,29,24,0.117748319236608

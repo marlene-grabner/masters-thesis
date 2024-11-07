@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,21,25,-0.24120082815734978
+1,disease_on_symptoms,20,19,1.8675101214574898
+2,disease_on_drugs,21,18,-0.04975579975580002

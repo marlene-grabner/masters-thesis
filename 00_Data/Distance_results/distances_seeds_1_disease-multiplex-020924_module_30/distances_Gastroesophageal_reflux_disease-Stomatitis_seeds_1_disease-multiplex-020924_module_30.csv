@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Stomatitis nodes,sAB
+0,disease_on_genes,26,30,-0.13928571428571435
+1,disease_on_symptoms,17,23,-0.2397058823529412
+2,disease_on_drugs,25,30,-0.19272727272727286

@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.07993966817496245
+1,disease_on_symptoms,28,26,1.258903133903134
+2,disease_on_drugs,23,21,0.50098814229249

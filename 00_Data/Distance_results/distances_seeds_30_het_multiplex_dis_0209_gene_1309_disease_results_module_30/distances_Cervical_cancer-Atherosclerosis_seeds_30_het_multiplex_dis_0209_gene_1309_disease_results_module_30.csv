@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,28,30,0.22413793103448265
+1,disease_on_symptoms,22,14,0.7297979797979797
+2,disease_on_drugs,15,29,0.44885057471264367

@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,28,25,-0.28301886792452835
+1,disease_on_symptoms,13,20,1.2952797202797202
+2,disease_on_drugs,28,21,-0.3214285714285713

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,29,-0.14650349650349648
+1,disease_on_symptoms,18,11,0.4602055033089516
+2,disease_on_drugs,25,24,0.10153061224489779

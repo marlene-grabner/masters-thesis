@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,13,26,0.858974358974359
+1,disease_on_symptoms,26,19,1.4886414754835808
+2,disease_on_drugs,9,18,0.8425925925925923

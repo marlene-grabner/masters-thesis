@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.23818181818181816
+1,disease_on_symptoms,20,26,-0.36488294314381275
+2,disease_on_drugs,25,24,-0.1033333333333335

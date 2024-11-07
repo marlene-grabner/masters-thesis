@@ -1,0 +1,4 @@
+,Layer,Carcinoma_of_pancreas nodes,Pneumonia nodes,sAB
+0,disease_on_genes,23,30,0.41949685534591197
+1,disease_on_symptoms,25,26,0.7868929110105582
+2,disease_on_drugs,21,28,1.2244897959183674

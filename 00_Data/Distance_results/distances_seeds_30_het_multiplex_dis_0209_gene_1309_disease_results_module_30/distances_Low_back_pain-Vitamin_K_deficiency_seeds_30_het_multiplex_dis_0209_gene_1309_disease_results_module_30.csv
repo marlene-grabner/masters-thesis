@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.0
+1,disease_on_symptoms,16,21,-0.3087194337194339
+2,disease_on_drugs,25,21,-0.14339544513457558

@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.3224358974358974
+1,disease_on_symptoms,21,26,0.8720481646013563
+2,disease_on_drugs,24,28,1.1346153846153846

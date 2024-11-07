@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,28,25,0.09094339622641501
+1,disease_on_symptoms,21,25,0.8962318840579708
+2,disease_on_drugs,21,21,0.26190476190476186

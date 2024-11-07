@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,29,0.12886650386650378
+1,disease_on_symptoms,21,17,0.6753648827952237
+2,disease_on_drugs,26,25,0.5297888386123681

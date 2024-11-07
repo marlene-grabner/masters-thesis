@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.6449883449883449
+1,disease_on_symptoms,22,19,2.010648850507644
+2,disease_on_drugs,15,19,0.8736842105263158

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,26,-0.1238095238095237
+1,disease_on_symptoms,16,21,-0.3431064993564992
+2,disease_on_drugs,28,26,-0.07371794871794868

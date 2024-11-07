@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,30,29,-0.01638418079096038
+1,disease_on_symptoms,17,14,0.40065058281377053
+2,disease_on_drugs,28,28,0.017857142857142794

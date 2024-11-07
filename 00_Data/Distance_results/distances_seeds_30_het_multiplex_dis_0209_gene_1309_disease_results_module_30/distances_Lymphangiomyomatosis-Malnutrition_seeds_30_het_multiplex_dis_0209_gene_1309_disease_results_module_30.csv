@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Malnutrition nodes,sAB
+0,disease_on_genes,26,30,-0.26923076923076916
+1,disease_on_symptoms,17,14,-0.5798319327731092
+2,disease_on_drugs,24,29,-0.21154576013879867

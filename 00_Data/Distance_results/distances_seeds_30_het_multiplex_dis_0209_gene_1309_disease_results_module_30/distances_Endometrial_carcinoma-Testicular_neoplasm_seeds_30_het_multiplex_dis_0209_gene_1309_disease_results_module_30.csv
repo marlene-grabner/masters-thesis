@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,-0.09843137254901968
+1,disease_on_symptoms,21,26,0.3786922297560593
+2,disease_on_drugs,26,24,-0.05948717948717941

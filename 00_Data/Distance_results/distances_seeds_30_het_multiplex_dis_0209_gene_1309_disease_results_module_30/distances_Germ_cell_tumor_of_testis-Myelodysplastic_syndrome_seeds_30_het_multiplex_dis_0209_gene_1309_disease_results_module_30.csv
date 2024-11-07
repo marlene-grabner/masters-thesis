@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,27,26,-0.05555555555555558
+1,disease_on_symptoms,22,17,0.4842657342657344
+2,disease_on_drugs,20,24,-0.06818181818181812

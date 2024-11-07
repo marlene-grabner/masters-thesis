@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,-0.21052631578947367
+1,disease_on_symptoms,18,13,0.026123518059002038
+2,disease_on_drugs,22,24,-0.29833662714097486

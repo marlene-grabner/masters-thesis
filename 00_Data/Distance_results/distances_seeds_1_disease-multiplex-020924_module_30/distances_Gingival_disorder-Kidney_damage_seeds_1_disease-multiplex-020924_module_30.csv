@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,21,20,-0.0006968641114981633
+1,disease_on_symptoms,26,26,0.6153846153846154
+2,disease_on_drugs,20,13,0.08041958041958042

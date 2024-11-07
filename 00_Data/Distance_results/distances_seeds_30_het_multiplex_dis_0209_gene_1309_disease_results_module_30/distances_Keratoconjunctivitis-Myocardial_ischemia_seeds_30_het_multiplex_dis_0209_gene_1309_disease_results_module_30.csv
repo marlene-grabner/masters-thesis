@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,29,30,-0.1353107344632768
+1,disease_on_symptoms,20,19,0.303879892037787
+2,disease_on_drugs,27,30,-0.09766081871345023

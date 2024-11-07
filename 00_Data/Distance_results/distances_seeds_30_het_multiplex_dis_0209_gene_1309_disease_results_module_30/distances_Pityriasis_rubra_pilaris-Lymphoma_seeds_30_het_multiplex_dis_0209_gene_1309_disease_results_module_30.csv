@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Lymphoma nodes,sAB
+0,disease_on_genes,27,26,-0.01816911250873532
+1,disease_on_symptoms,21,20,0.4130081300813009
+2,disease_on_drugs,25,24,-0.021292517006803013

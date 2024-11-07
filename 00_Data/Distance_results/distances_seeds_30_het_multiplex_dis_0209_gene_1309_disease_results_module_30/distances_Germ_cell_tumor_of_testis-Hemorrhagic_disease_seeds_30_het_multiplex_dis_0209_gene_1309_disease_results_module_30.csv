@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,26,-0.07442348008385746
+1,disease_on_symptoms,22,19,0.8372330493639866
+2,disease_on_drugs,20,24,0.23863636363636354

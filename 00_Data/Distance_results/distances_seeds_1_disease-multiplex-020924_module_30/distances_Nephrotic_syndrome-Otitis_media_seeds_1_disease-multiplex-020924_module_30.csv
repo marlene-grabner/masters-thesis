@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Otitis_media nodes,sAB
+0,disease_on_genes,20,29,0.03165024630541868
+1,disease_on_symptoms,24,22,0.1669137022397893
+2,disease_on_drugs,18,29,0.3838550582864597

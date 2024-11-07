@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,25,30,-0.1803030303030303
+1,disease_on_symptoms,23,16,0.19805602006688972
+2,disease_on_drugs,21,28,-0.28826530612244894

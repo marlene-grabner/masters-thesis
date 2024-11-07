@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Leukemia nodes,sAB
+0,disease_on_genes,16,18,0.28860294117647056
+1,disease_on_symptoms,23,27,1.9458615136876003
+2,disease_on_drugs,16,17,1.2744540998217468

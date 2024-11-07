@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.17878787878787872
+1,disease_on_symptoms,18,20,0.06301169590643285
+2,disease_on_drugs,24,25,-0.20414965986394562

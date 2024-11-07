@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.2618908382066276
+1,disease_on_symptoms,15,22,0.8145782145782148
+2,disease_on_drugs,23,26,0.8354037267080745

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,17,27,0.5102820844099913
+1,disease_on_symptoms,27,16,1.8601959517657192
+2,disease_on_drugs,14,18,0.8392857142857144

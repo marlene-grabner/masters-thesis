@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Epilepsy nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,18,21,0.9215506715506714
+2,disease_on_drugs,28,29,0.4902342062051681

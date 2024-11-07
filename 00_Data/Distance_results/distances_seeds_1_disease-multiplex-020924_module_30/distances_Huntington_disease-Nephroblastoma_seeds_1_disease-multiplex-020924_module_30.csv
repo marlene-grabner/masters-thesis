@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.21424242424242435
+1,disease_on_symptoms,16,25,1.3973475609756094
+2,disease_on_drugs,27,21,1.0625

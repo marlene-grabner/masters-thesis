@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.125
+1,disease_on_symptoms,25,12,0.9277927927927929
+2,disease_on_drugs,30,18,0.22777777777777786

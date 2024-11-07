@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,17,0.13727576136837705
+1,disease_on_symptoms,17,21,0.9827509951348958
+2,disease_on_drugs,27,14,0.9814814814814814

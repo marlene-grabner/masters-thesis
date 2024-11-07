@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Pericarditis nodes,sAB
+0,disease_on_genes,17,25,0.0490196078431373
+1,disease_on_symptoms,21,22,0.9322460485251183
+2,disease_on_drugs,17,25,0.5164145658263306

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,26,30,-0.1291208791208791
+1,disease_on_symptoms,16,18,1.4142156862745099
+2,disease_on_drugs,26,26,-0.09615384615384626

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,24,24,-0.10416666666666685
+1,disease_on_symptoms,23,19,0.6201372997711672
+2,disease_on_drugs,22,19,-0.23736725405531556

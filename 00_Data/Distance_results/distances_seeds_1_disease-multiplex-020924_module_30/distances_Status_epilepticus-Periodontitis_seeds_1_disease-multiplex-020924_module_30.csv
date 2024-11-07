@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Periodontitis nodes,sAB
+0,disease_on_genes,29,23,0.3213873832314611
+1,disease_on_symptoms,17,25,2.4151820728291318
+2,disease_on_drugs,30,22,0.7972027972027971

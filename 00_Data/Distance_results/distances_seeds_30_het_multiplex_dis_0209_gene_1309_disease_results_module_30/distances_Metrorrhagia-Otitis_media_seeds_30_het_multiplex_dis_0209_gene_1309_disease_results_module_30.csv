@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Otitis_media nodes,sAB
+0,disease_on_genes,29,29,0.08990147783251246
+1,disease_on_symptoms,17,20,0.5381160572337045
+2,disease_on_drugs,26,28,0.258903133903134

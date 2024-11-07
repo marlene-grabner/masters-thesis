@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,-0.13725490196078427
+1,disease_on_symptoms,19,23,0.4856162144491667
+2,disease_on_drugs,30,21,-0.08473389355742311

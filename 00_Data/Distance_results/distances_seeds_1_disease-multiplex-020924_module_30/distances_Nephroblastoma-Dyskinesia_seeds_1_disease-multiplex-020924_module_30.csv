@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,25,24,0.2252891156462582
+1,disease_on_symptoms,25,17,1.9566386554621849
+2,disease_on_drugs,21,23,1.477272727272727

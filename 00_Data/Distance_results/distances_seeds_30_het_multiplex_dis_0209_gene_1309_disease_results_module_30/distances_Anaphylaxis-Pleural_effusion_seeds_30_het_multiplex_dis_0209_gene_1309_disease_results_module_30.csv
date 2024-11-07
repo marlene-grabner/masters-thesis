@@ -1,0 +1,4 @@
+,Layer,Anaphylaxis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.08674463937621835
+1,disease_on_symptoms,14,18,1.5758928571428572
+2,disease_on_drugs,26,27,0.11526366715045944

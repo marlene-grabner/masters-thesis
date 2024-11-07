@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,25,0.157239819004525
+1,disease_on_symptoms,23,22,1.443302591128678
+2,disease_on_drugs,25,25,0.6599999999999999

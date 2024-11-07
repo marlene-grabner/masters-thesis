@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,30,9,0.2485380116959066
+1,disease_on_symptoms,12,27,1.9465811965811965
+2,disease_on_drugs,30,9,1.085897435897436

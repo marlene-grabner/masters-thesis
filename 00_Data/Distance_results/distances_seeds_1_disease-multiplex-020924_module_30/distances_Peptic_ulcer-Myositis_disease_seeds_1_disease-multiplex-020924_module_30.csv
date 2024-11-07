@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,28,30,-0.12380952380952381
+1,disease_on_symptoms,14,24,0.30889724310776945
+2,disease_on_drugs,28,28,0.2857142857142856

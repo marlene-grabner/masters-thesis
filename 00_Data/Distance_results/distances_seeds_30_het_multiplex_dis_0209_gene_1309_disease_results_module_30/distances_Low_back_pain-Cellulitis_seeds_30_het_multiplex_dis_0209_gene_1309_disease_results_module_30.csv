@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,16,20,0.2749999999999999
+2,disease_on_drugs,25,26,0.07675716440422331

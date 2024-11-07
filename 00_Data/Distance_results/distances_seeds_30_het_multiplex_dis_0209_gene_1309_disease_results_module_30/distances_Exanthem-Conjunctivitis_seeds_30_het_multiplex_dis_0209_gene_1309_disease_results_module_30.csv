@@ -1,0 +1,4 @@
+,Layer,Exanthem nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.525141242937853
+1,disease_on_symptoms,21,27,-0.9530423280423279
+2,disease_on_drugs,29,28,-0.5275905280442484

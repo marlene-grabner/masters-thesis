@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Glaucoma nodes,sAB
+0,disease_on_genes,22,30,0.3843822843822844
+1,disease_on_symptoms,19,14,1.4788106630211892
+2,disease_on_drugs,18,30,0.6055555555555556

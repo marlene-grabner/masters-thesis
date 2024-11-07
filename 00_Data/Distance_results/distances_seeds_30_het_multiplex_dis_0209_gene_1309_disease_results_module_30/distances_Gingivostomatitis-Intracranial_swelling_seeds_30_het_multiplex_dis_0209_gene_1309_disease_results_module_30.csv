@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,11,0.2724941724941723
+2,disease_on_drugs,30,21,0.07324929971988792

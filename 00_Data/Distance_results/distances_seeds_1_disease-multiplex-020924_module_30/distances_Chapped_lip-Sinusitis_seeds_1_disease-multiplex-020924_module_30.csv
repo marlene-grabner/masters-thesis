@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Sinusitis nodes,sAB
+0,disease_on_genes,26,29,0.18463949843260186
+1,disease_on_symptoms,21,21,1.0
+2,disease_on_drugs,24,28,0.9271978021978022

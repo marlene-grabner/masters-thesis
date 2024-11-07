@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,29,29,-0.22413793103448276
+1,disease_on_symptoms,19,16,0.022086466165413432
+2,disease_on_drugs,29,29,-0.293103448275862

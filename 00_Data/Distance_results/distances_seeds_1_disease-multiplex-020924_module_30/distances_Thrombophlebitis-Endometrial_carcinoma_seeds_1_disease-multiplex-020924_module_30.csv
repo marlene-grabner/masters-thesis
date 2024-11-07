@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,28,23,0.15397028376568023
+1,disease_on_symptoms,15,21,1.1174603174603175
+2,disease_on_drugs,21,21,0.5

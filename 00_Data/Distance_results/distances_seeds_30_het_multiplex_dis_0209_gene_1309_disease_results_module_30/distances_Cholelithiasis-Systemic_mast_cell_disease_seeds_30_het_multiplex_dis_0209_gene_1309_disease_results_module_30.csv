@@ -1,0 +1,4 @@
+,Layer,Cholelithiasis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,25,29,0.3148148148148149
+1,disease_on_symptoms,20,25,1.1677777777777778
+2,disease_on_drugs,18,21,0.2945665445665444

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,0.1461038961038963
+1,disease_on_symptoms,18,26,0.7381507381507382
+2,disease_on_drugs,28,14,0.41666666666666674

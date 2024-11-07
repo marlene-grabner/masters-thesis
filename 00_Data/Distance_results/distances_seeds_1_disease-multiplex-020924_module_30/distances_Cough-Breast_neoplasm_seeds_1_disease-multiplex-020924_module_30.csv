@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.20955165692007793
+1,disease_on_symptoms,21,16,0.9529842342342341
+2,disease_on_drugs,27,30,1.0857699805068224

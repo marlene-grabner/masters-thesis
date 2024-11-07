@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333348
+1,disease_on_symptoms,14,21,-0.6285714285714288
+2,disease_on_drugs,24,27,-0.2550381263616558

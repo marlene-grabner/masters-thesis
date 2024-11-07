@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.28038847117794496
+1,disease_on_symptoms,23,15,1.6183829138062547
+2,disease_on_drugs,28,29,0.6838972431077694

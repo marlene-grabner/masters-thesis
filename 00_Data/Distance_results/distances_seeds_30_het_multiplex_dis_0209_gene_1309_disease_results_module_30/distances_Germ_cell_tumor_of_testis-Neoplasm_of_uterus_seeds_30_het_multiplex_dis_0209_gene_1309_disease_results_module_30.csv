@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,27,30,-0.16081871345029242
+1,disease_on_symptoms,22,18,0.16161616161616155
+2,disease_on_drugs,20,26,-0.17767558528428107

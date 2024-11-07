@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,-0.01783625730994154
+1,disease_on_symptoms,15,15,0.4666666666666668
+2,disease_on_drugs,23,26,0.30714626987918914

@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.07272727272727275
+1,disease_on_symptoms,20,17,0.9118839427662957
+2,disease_on_drugs,23,27,0.0834138486312399

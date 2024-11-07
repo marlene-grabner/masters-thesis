@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Retinoblastoma nodes,sAB
+0,disease_on_genes,30,26,0.06868131868131888
+1,disease_on_symptoms,22,24,0.6044960474308299
+2,disease_on_drugs,29,24,0.1402081977878984

@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Asthma nodes,sAB
+0,disease_on_genes,25,25,-0.040000000000000036
+1,disease_on_symptoms,19,20,1.2007085020242914
+2,disease_on_drugs,25,22,0.19769825918762107

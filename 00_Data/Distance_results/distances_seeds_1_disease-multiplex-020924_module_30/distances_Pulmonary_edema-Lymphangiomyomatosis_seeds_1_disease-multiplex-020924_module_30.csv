@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Lymphangiomyomatosis nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,14,19,1.255240373661426
+2,disease_on_drugs,27,22,0.6248368034082319

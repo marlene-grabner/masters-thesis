@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,29,30,0.03360607831677398
+1,disease_on_symptoms,20,21,0.5575783972125432
+2,disease_on_drugs,24,28,0.23191391941391948

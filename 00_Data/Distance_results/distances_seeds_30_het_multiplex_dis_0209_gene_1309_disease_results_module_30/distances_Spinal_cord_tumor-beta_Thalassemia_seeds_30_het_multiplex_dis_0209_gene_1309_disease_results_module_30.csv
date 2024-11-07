@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,29,30,0.18644067796610164
+1,disease_on_symptoms,14,13,0.14529914529914567
+2,disease_on_drugs,22,24,-0.04339591567852441

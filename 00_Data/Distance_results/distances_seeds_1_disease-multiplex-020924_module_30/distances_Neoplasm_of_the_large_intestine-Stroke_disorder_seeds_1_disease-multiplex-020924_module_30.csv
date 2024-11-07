@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,20,30,0.1383333333333332
+1,disease_on_symptoms,25,15,0.8233333333333333
+2,disease_on_drugs,19,30,0.8045112781954886

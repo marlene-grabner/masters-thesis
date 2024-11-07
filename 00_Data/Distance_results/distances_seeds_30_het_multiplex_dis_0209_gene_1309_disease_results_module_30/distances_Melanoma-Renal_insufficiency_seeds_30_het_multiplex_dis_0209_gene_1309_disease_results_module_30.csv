@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.22904483430799227
+1,disease_on_symptoms,23,19,0.7621226980494717
+2,disease_on_drugs,25,28,0.02242587601078161

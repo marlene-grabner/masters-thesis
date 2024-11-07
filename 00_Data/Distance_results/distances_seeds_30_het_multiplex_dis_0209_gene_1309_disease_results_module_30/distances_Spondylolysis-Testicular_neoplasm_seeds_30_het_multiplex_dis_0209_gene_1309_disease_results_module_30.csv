@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,28,25,0.0743396226415094
+1,disease_on_symptoms,17,26,0.09739029780069441
+2,disease_on_drugs,19,24,0.014585883312933312

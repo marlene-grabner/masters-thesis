@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,17,24,-0.023134863701578245
+1,disease_on_symptoms,21,21,1.2380952380952381
+2,disease_on_drugs,17,18,-0.08660130718954262

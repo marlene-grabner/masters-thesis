@@ -1,0 +1,4 @@
+,Layer,Cancer_of_the_pancreas nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,23,16,0.19244704570791527
+2,disease_on_drugs,30,28,0.0841133004926109

@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,17,19,-0.326797385620915
+2,disease_on_drugs,24,29,-0.1204592279332033

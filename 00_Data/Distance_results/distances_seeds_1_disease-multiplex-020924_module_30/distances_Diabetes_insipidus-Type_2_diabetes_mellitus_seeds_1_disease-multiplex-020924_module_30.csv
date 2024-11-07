@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,24,16,0.11666666666666647
+1,disease_on_symptoms,18,21,2.5064102564102564
+2,disease_on_drugs,18,15,0.6363636363636365

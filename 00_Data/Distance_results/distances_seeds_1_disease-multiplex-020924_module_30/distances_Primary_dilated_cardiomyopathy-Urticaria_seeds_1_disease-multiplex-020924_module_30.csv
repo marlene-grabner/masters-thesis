@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Urticaria nodes,sAB
+0,disease_on_genes,30,10,0.95
+1,disease_on_symptoms,25,27,2.632079772079772
+2,disease_on_drugs,7,9,0.7410714285714286

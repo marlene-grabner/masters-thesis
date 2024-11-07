@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,24,20,0.6390151515151516
+2,disease_on_drugs,20,25,0.203888888888889

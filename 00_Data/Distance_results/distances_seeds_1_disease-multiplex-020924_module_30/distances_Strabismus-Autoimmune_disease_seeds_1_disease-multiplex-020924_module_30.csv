@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,13,22,0.450849150849151
+1,disease_on_symptoms,26,19,1.4933198380566801
+2,disease_on_drugs,9,19,0.7038429406850459

@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,30,30,-0.28333333333333344
+1,disease_on_symptoms,17,19,-0.5328517371861028
+2,disease_on_drugs,26,28,-0.2857142857142856

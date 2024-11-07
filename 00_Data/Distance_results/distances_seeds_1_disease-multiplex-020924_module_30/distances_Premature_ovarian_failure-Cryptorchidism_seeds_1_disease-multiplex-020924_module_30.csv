@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,28,23,-0.028181818181818308
+1,disease_on_symptoms,21,18,1.0726495726495728
+2,disease_on_drugs,21,18,-0.04761904761904767

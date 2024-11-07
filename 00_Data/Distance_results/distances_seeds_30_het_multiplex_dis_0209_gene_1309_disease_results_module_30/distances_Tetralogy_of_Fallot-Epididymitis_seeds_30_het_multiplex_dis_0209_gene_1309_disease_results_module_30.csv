@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,-0.11779661016949161
+1,disease_on_symptoms,19,23,0.384493843303912
+2,disease_on_drugs,20,26,-0.12299331103678934

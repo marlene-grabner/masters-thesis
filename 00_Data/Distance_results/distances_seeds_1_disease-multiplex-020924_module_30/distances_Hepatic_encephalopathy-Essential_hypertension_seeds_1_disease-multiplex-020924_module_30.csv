@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,9,28,0.02000214500214481
+1,disease_on_symptoms,27,14,2.1902826171118854
+2,disease_on_drugs,9,28,0.9642857142857144

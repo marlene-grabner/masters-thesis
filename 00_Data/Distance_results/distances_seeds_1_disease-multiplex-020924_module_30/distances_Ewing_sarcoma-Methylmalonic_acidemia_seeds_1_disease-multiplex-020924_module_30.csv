@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,24,25,0.5930102040816325
+1,disease_on_symptoms,25,16,1.9920731707317072
+2,disease_on_drugs,17,17,0.9705882352941178

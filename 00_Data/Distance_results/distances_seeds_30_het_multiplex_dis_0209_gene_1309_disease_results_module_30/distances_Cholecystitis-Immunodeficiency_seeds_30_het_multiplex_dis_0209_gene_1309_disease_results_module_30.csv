@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,25,26,0.05882352941176472
+1,disease_on_symptoms,23,21,0.4954357236965934
+2,disease_on_drugs,21,26,0.10953939677343949

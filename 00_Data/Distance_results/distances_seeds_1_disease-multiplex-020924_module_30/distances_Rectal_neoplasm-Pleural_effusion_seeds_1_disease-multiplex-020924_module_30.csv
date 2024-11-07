@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,21,20,0.4876016260162601
+2,disease_on_drugs,29,22,0.24002704530087904

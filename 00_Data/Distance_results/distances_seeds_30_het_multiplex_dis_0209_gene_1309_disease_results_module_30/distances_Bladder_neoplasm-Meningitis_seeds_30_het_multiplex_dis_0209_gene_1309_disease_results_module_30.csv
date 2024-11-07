@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.10909090909090913
+1,disease_on_symptoms,19,17,1.0531475748194015
+2,disease_on_drugs,25,27,0.15883190883190879

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.13333333333333341
+1,disease_on_symptoms,19,19,-0.3157894736842106
+2,disease_on_drugs,24,29,0.07018542615484691

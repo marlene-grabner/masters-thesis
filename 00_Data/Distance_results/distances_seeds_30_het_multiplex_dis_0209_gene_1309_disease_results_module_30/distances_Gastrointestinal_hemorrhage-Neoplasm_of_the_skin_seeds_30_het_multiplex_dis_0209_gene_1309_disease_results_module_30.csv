@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,28,30,-0.10348932676518896
+1,disease_on_symptoms,20,22,0.2350649350649352
+2,disease_on_drugs,27,29,0.14012041598248515

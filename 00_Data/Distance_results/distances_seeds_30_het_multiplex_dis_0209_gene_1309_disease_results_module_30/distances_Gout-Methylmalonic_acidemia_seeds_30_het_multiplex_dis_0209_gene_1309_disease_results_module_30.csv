@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Methylmalonic_acidemia nodes,sAB
+0,disease_on_genes,28,25,-0.1310646900269541
+1,disease_on_symptoms,19,17,0.6212590299277609
+2,disease_on_drugs,22,21,0.00035236081747713754

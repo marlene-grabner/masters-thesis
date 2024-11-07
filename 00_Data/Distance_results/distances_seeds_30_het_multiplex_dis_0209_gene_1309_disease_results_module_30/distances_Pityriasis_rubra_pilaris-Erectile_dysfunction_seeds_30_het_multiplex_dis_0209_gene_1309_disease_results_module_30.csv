@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,-0.14230019493177404
+1,disease_on_symptoms,21,15,0.23333333333333295
+2,disease_on_drugs,25,30,0.08878787878787886

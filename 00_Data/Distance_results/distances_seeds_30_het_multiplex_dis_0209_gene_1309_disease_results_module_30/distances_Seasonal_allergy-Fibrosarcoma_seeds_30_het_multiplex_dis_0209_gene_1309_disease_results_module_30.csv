@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,18,14,0.5178571428571428
+2,disease_on_drugs,29,26,0.03079334458644789

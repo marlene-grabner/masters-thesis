@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,23,23,0.13043478260869557
+1,disease_on_symptoms,16,22,1.059061004784689
+2,disease_on_drugs,17,17,-0.11764705882352944

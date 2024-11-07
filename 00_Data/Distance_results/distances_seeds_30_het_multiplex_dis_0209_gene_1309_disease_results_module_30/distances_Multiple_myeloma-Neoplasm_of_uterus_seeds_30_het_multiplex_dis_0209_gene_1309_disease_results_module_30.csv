@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,26,30,-0.2321428571428571
+1,disease_on_symptoms,21,18,0.08943833943833934
+2,disease_on_drugs,25,26,-0.194977375565611

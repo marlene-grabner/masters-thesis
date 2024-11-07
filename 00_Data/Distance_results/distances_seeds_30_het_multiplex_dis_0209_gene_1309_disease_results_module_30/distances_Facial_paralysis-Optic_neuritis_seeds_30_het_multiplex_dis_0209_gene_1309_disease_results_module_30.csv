@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,22,27,-0.12244897959183676
+1,disease_on_symptoms,21,21,0.7142857142857144
+2,disease_on_drugs,17,27,0.1274014656367597

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Ascites nodes,sAB
+0,disease_on_genes,25,30,0.014545454545454417
+1,disease_on_symptoms,14,17,-0.025142314990512338
+2,disease_on_drugs,22,27,0.1281179138321995

@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.1890394088669951
+1,disease_on_symptoms,20,20,1.025
+2,disease_on_drugs,28,28,0.3928571428571428

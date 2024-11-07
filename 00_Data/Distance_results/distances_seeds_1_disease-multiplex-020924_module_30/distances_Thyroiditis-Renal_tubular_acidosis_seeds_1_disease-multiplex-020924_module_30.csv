@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Renal_tubular_acidosis nodes,sAB
+0,disease_on_genes,26,18,0.29428904428904445
+1,disease_on_symptoms,28,18,2.1612318840579707
+2,disease_on_drugs,23,10,0.02220026350461146

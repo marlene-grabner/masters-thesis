@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.40521978021978033
+1,disease_on_symptoms,13,15,0.9322344322344325
+2,disease_on_drugs,29,16,0.22222222222222232

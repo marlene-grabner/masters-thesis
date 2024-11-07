@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,25,0.05727272727272714
+1,disease_on_symptoms,19,20,0.38569500674763835
+2,disease_on_drugs,28,21,0.0

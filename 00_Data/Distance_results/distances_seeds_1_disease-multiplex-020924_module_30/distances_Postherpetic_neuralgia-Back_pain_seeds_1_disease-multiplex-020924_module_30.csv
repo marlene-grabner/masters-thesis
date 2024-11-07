@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333337
+1,disease_on_symptoms,15,16,-0.5230510752688171
+2,disease_on_drugs,29,23,-0.32493368700265246

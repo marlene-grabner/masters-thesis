@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Vitiligo nodes,sAB
+0,disease_on_genes,28,30,0.034482758620689724
+1,disease_on_symptoms,16,19,0.3006578947368421
+2,disease_on_drugs,23,25,0.18072463768115932

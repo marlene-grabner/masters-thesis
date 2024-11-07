@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,0.286904761904762
+1,disease_on_symptoms,16,21,1.1551238738738738
+2,disease_on_drugs,27,25,0.8638461538461537

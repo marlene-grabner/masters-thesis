@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,22,28,0.07285714285714273
+1,disease_on_symptoms,17,14,1.9875982651124966
+2,disease_on_drugs,21,28,0.6224489795918369

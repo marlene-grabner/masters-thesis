@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,14,27,0.02242224803200421
+1,disease_on_symptoms,23,27,0.44750402576489523
+2,disease_on_drugs,14,26,0.28653846153846163

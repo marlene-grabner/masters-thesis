@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Angioedema nodes,sAB
+0,disease_on_genes,23,29,0.30055717939349647
+1,disease_on_symptoms,24,17,1.541547106647537
+2,disease_on_drugs,17,25,0.7857142857142858

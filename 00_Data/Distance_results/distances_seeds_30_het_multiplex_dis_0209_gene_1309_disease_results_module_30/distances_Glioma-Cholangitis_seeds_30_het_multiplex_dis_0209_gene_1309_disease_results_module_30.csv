@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Cholangitis nodes,sAB
+0,disease_on_genes,22,30,-0.019230769230769273
+1,disease_on_symptoms,21,18,0.3904151404151406
+2,disease_on_drugs,21,28,0.22448979591836737

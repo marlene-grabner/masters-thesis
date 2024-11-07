@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,0.1796969696969697
+1,disease_on_symptoms,16,17,0.9381127450980393
+2,disease_on_drugs,27,24,0.5269607843137256

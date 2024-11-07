@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,-0.10169491525423724
+1,disease_on_symptoms,17,14,-0.3045540796963948
+2,disease_on_drugs,24,22,-0.26622200263504614

@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.3500000000000001
+1,disease_on_symptoms,22,18,-0.4530303030303029
+2,disease_on_drugs,27,28,-0.3458754208754209

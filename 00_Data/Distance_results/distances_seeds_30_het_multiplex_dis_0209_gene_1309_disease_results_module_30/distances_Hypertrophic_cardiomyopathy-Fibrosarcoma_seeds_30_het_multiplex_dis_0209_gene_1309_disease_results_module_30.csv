@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,19,14,0.3856801093643196
+2,disease_on_drugs,22,26,0.03554778554778548

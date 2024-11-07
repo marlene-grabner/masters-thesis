@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,0.29976689976689963
+1,disease_on_symptoms,15,19,-0.015892672858617063
+2,disease_on_drugs,21,18,0.5894383394383393

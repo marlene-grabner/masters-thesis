@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Sepsis nodes,sAB
+0,disease_on_genes,30,22,0.5261072261072262
+1,disease_on_symptoms,16,23,2.0924958193979935
+2,disease_on_drugs,23,17,1.1009590792838875

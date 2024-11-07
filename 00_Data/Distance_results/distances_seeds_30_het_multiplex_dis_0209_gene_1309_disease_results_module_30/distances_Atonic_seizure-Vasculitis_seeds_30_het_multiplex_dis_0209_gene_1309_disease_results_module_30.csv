@@ -1,0 +1,4 @@
+,Layer,Atonic_seizure nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,26,0.2321428571428572
+1,disease_on_symptoms,15,18,1.1277777777777778
+2,disease_on_drugs,23,26,0.36775646713534904

@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.6586206896551723
+1,disease_on_symptoms,17,12,1.2733265720081137
+2,disease_on_drugs,28,21,0.9744897959183674

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,24,26,0.25916666666666655
+1,disease_on_symptoms,22,19,0.8900396779087407
+2,disease_on_drugs,24,24,0.20833333333333326

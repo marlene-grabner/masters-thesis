@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Epididymitis nodes,sAB
+0,disease_on_genes,29,29,0.22413793103448265
+1,disease_on_symptoms,14,23,0.6715628672150411
+2,disease_on_drugs,22,26,0.19900932400932403

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,-0.4277472527472529
+1,disease_on_symptoms,21,16,-0.4553571428571428
+2,disease_on_drugs,26,29,-0.42027972027972016

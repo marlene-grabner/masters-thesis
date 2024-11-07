@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,25,30,-0.07272727272727275
+1,disease_on_symptoms,19,13,-0.3055414979757085
+2,disease_on_drugs,25,24,-0.12467687074829925

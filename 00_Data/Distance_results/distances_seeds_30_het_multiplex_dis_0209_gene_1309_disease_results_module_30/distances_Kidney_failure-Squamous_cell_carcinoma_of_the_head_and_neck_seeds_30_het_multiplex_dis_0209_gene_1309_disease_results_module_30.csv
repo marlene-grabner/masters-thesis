@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666674
+1,disease_on_symptoms,20,22,0.3775974025974027
+2,disease_on_drugs,28,30,-0.021059113300492704

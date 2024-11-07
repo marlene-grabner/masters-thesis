@@ -1,0 +1,4 @@
+,Layer,Renovascular_hypertension nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,21,30,-0.0025210084033615576
+1,disease_on_symptoms,22,24,0.8302865612648223
+2,disease_on_drugs,20,24,0.03787878787878807

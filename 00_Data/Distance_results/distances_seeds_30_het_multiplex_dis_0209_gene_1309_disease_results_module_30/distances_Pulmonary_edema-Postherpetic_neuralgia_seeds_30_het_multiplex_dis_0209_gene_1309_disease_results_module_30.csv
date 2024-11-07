@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,11,16,0.08249158249158262
+2,disease_on_drugs,27,29,0.23631636562671043

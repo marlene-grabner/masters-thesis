@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Keloid nodes,sAB
+0,disease_on_genes,25,22,0.1898646034816247
+1,disease_on_symptoms,24,20,1.399621212121212
+2,disease_on_drugs,23,19,0.6428571428571428

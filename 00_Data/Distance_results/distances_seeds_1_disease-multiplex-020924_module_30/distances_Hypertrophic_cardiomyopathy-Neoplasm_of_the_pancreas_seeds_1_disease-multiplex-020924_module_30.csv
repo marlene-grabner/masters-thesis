@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.41666666666666674
+1,disease_on_symptoms,17,20,2.123449920508744
+2,disease_on_drugs,17,30,0.9787234042553192

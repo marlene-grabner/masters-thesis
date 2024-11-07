@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,30,24,0.3124999999999998
+1,disease_on_symptoms,22,19,0.5739001050297585
+2,disease_on_drugs,29,19,0.6001966122202058

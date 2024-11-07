@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,18,-0.2906629318394023
+2,disease_on_drugs,26,26,-0.28846153846153855

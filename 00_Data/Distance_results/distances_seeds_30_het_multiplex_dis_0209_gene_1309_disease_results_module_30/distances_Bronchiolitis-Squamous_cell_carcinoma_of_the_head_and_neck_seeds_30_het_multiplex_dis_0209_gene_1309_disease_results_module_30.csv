@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,28,30,-0.033333333333333215
+1,disease_on_symptoms,25,22,0.6043907156673116
+2,disease_on_drugs,24,30,0.24629629629629624

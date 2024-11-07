@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Otitis_media nodes,sAB
+0,disease_on_genes,25,29,0.20712643678160902
+1,disease_on_symptoms,17,22,0.5135061017413958
+2,disease_on_drugs,24,29,0.7745337237041856

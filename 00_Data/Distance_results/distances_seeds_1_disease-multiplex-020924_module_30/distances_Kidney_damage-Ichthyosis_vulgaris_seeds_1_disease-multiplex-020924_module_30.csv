@@ -1,0 +1,4 @@
+,Layer,Kidney_damage nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,20,27,0.26721828211189913
+1,disease_on_symptoms,26,21,1.09030862754267
+2,disease_on_drugs,13,27,0.38269230769230766

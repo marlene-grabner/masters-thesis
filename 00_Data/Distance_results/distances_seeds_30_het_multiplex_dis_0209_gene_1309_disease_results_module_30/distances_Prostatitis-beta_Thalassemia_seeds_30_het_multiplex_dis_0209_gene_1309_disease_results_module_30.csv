@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,22,13,-0.027572427572427616
+2,disease_on_drugs,28,24,-0.010760073260073222

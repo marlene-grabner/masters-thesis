@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.19210526315789467
+1,disease_on_symptoms,17,21,-0.0011057054400709365
+2,disease_on_drugs,26,27,-0.2870370370370372

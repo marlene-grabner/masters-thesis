@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Encephalitis nodes,sAB
+0,disease_on_genes,21,29,0.040000000000000036
+1,disease_on_symptoms,22,13,1.1415584415584414
+2,disease_on_drugs,19,22,0.07185785972692282

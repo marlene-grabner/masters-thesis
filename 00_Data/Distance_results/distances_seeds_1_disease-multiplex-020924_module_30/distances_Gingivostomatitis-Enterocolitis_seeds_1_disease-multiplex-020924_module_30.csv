@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.12027290448343064
+1,disease_on_symptoms,23,21,0.14770374552983245
+2,disease_on_drugs,29,24,-0.26123671654738656

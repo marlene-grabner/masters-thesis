@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,-0.1785714285714286
+1,disease_on_symptoms,20,17,-0.14729729729729746
+2,disease_on_drugs,26,24,-0.1596153846153845

@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.23242753623188417
+1,disease_on_symptoms,25,23,2.052101449275362
+2,disease_on_drugs,18,20,0.5508771929824561

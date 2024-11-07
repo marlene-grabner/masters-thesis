@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Dermatographic_urticaria nodes,sAB
+0,disease_on_genes,27,29,0.10582010582010559
+1,disease_on_symptoms,19,14,0.8577124629756208
+2,disease_on_drugs,27,28,0.38181818181818183

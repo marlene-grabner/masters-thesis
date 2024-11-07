@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,28,29,0.368421052631579
+1,disease_on_symptoms,21,15,1.8388888888888886
+2,disease_on_drugs,21,29,0.7923809523809524

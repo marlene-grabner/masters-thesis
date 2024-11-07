@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.016666666666666607
+1,disease_on_symptoms,15,16,0.9921370967741936
+2,disease_on_drugs,25,26,0.058748114630467585

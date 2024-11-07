@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,26,30,0.016300366300366242
+1,disease_on_symptoms,21,14,0.45714285714285685
+2,disease_on_drugs,26,24,0.22070512820512822

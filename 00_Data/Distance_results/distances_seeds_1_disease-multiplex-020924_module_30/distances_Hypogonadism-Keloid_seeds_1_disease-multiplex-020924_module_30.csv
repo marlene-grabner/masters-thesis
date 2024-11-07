@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.28787878787878785
+1,disease_on_symptoms,12,20,1.7916666666666667
+2,disease_on_drugs,30,19,0.6159863945578232

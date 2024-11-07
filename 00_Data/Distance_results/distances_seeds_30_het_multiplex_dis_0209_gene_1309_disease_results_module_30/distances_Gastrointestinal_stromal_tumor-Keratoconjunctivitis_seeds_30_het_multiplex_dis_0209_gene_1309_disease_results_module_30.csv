@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.06779661016949157
+1,disease_on_symptoms,19,20,0.3011808367071527
+2,disease_on_drugs,28,27,0.17907647907647917

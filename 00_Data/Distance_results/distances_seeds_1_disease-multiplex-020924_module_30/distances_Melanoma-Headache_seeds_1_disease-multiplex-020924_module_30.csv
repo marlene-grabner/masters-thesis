@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Headache nodes,sAB
+0,disease_on_genes,24,30,0.15000000000000013
+1,disease_on_symptoms,23,25,1.589710144927536
+2,disease_on_drugs,22,26,1.0641025641025643

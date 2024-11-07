@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,28,30,0.0862068965517242
+1,disease_on_symptoms,20,16,0.5611111111111113
+2,disease_on_drugs,25,29,0.3689399744572157

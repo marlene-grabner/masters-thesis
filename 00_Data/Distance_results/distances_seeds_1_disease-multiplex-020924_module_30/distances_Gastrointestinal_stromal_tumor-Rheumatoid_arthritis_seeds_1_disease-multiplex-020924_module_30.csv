@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,23,27,0.21574879227053123
+1,disease_on_symptoms,20,15,1.8190476190476188
+2,disease_on_drugs,19,25,0.7754545454545454

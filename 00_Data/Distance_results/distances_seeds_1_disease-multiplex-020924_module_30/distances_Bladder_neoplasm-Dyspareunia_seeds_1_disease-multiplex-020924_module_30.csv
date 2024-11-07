@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,24,0.1399999999999999
+1,disease_on_symptoms,20,17,0.6994833068362478
+2,disease_on_drugs,25,23,0.22644927536231907

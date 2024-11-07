@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.1132075471698113
+1,disease_on_symptoms,17,17,1.0294117647058827
+2,disease_on_drugs,26,22,0.422785547785548

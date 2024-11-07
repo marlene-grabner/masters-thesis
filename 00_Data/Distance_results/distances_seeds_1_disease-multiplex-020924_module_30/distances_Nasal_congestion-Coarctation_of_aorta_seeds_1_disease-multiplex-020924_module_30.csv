@@ -1,0 +1,4 @@
+,Layer,Nasal_congestion nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,0.16052631578947363
+1,disease_on_symptoms,15,14,1.12504105090312
+2,disease_on_drugs,23,13,0.31159420289855055

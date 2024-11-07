@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Back_pain nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666652
+1,disease_on_symptoms,20,16,0.9451388888888888
+2,disease_on_drugs,30,23,0.7569182389937108

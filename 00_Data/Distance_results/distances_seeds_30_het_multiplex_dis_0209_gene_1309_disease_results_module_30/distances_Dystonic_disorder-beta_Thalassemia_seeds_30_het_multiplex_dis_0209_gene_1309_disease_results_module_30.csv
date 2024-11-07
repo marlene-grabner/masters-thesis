@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,13,-0.1063348416289589
+2,disease_on_drugs,26,24,0.25544871794871815

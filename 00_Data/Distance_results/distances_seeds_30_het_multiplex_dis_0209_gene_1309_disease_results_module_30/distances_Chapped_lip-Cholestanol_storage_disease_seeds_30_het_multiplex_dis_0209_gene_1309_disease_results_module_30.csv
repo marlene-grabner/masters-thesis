@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,29,-0.10815047021943569
+1,disease_on_symptoms,20,18,0.48932748538011706
+2,disease_on_drugs,23,28,0.21766532700036545

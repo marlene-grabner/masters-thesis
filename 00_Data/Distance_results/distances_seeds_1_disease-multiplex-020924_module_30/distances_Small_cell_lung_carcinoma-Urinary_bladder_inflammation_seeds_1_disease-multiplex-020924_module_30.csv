@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,27,25,0.30538461538461537
+1,disease_on_symptoms,24,22,1.3519433465085637
+2,disease_on_drugs,25,24,1.1627891156462584

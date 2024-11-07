@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,26,26,0.653846153846154
+1,disease_on_symptoms,19,17,1.2671138630890955
+2,disease_on_drugs,24,18,1.0505952380952381

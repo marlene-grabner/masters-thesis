@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,30,22,0.32342657342657355
+1,disease_on_symptoms,14,23,1.3396424374685245
+2,disease_on_drugs,27,20,0.5299842395587075

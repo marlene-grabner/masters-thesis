@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,26,22,0.08304195804195791
+1,disease_on_symptoms,20,23,1.2835187057633974
+2,disease_on_drugs,27,20,0.5725374310480693

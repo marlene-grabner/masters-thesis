@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,28,0.3035714285714286
+1,disease_on_symptoms,15,20,1.9142857142857144
+2,disease_on_drugs,20,27,1.0175531914893616

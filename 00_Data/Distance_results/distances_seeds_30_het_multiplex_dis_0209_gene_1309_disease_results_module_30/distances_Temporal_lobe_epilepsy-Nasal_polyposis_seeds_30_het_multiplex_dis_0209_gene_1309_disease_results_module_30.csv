@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,17,20,0.07774244833068344
+2,disease_on_drugs,28,25,0.06254716981132069

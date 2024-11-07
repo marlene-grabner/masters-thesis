@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.293030303030303
+1,disease_on_symptoms,15,21,-0.37619047619047596
+2,disease_on_drugs,30,24,-0.1703703703703704

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Diarrhea nodes,sAB
+0,disease_on_genes,25,27,0.29048433048433053
+1,disease_on_symptoms,14,19,1.2444178628389158
+2,disease_on_drugs,22,26,0.6891025641025641

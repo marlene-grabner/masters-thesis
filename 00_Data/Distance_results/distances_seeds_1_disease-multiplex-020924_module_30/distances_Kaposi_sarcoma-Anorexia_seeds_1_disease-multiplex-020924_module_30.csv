@@ -1,0 +1,4 @@
+,Layer,Kaposi_sarcoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,15,17,0.1281862745098039
+1,disease_on_symptoms,27,25,2.617179487179487
+2,disease_on_drugs,13,13,1.1538461538461542

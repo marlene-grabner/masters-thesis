@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,25,26,-0.2749019607843137
+1,disease_on_symptoms,23,21,-0.0031996988518727676
+2,disease_on_drugs,24,26,-0.2369871794871795

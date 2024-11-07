@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,27,22,0.12244897959183665
+1,disease_on_symptoms,18,21,1.5589133089133091
+2,disease_on_drugs,22,17,0.3480049362402302

@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,25,27,0.30982905982905984
+1,disease_on_symptoms,26,15,1.5166041275797373
+2,disease_on_drugs,21,26,1.0253682487725042

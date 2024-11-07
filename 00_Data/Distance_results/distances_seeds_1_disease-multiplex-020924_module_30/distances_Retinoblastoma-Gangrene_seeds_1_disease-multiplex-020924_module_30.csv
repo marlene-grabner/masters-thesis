@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,26,0.21153846153846168
+1,disease_on_symptoms,24,19,1.3781364749082006
+2,disease_on_drugs,24,23,0.7867715078630897

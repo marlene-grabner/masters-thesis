@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,20,19,-0.2349190283400806
+2,disease_on_drugs,30,25,0.10121212121212131

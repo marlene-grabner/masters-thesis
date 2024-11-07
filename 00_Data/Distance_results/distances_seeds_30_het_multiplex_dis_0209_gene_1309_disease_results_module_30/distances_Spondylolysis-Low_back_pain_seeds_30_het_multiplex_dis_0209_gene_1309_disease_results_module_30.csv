@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,28,30,-0.12068965517241381
+1,disease_on_symptoms,17,16,-0.07286096256684482
+2,disease_on_drugs,19,25,-0.2188038277511961

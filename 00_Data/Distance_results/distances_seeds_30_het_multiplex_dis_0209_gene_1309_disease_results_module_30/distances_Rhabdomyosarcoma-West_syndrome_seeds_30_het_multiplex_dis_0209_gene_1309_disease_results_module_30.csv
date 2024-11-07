@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,West_syndrome nodes,sAB
+0,disease_on_genes,29,30,-0.06779661016949157
+1,disease_on_symptoms,19,13,0.8713309716599191
+2,disease_on_drugs,29,19,0.39186327888687233

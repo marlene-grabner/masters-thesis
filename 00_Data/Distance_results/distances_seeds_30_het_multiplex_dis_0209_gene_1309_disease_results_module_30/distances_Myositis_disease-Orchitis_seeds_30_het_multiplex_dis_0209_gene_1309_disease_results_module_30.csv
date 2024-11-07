@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,25,-0.07121212121212117
+1,disease_on_symptoms,18,19,0.4047336810494704
+2,disease_on_drugs,26,25,-0.11434389140271484

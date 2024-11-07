@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Sarcoma nodes,sAB
+0,disease_on_genes,26,25,0.0
+1,disease_on_symptoms,21,26,0.7625477359519914
+2,disease_on_drugs,25,21,-0.06173913043478263

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,28,30,-0.13797208538587857
+1,disease_on_symptoms,19,22,0.21671140156377655
+2,disease_on_drugs,22,29,-0.17471879033745163

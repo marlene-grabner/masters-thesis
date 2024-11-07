@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,28,30,-0.017857142857142794
+1,disease_on_symptoms,19,19,0.47368421052631593
+2,disease_on_drugs,22,25,-0.07032882011605412

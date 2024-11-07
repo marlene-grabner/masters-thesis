@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,26,30,0.2606227106227108
+1,disease_on_symptoms,20,14,1.1922268907563027
+2,disease_on_drugs,20,24,1.2045454545454546

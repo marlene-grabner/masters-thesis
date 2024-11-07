@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,28,-0.2407916157916159
+1,disease_on_symptoms,18,20,-0.5742690058479532
+2,disease_on_drugs,25,27,-0.09572649572649583

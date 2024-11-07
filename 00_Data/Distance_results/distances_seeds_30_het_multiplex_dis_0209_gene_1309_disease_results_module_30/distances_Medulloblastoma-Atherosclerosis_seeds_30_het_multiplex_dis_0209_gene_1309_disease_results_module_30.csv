@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,22,14,0.23737373737373701
+2,disease_on_drugs,26,29,0.10677598263805166

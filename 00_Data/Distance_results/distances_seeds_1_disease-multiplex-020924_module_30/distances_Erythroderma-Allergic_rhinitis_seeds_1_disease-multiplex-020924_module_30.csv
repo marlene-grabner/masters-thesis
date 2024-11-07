@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,21,0.024229691876750614
+1,disease_on_symptoms,19,22,0.4052981678142138
+2,disease_on_drugs,28,21,-0.08163265306122436

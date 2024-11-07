@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Neoplasm_of_brain nodes,sAB
+0,disease_on_genes,25,22,0.4530174081237912
+1,disease_on_symptoms,16,23,2.1548216276477143
+2,disease_on_drugs,17,20,0.8935612082670905

@@ -1,0 +1,4 @@
+,Layer,Asthma nodes,Goiter nodes,sAB
+0,disease_on_genes,25,26,0.1368627450980393
+1,disease_on_symptoms,20,12,1.1520833333333333
+2,disease_on_drugs,22,18,0.48838383838383836

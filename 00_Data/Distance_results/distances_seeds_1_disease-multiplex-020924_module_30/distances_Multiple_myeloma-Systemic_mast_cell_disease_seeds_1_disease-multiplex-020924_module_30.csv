@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,0.021003134796238276
+1,disease_on_symptoms,21,16,1.3958333333333335
+2,disease_on_drugs,25,25,0.5

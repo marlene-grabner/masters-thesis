@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,17,17,0.32352941176470607
+2,disease_on_drugs,29,24,0.13166883539362395

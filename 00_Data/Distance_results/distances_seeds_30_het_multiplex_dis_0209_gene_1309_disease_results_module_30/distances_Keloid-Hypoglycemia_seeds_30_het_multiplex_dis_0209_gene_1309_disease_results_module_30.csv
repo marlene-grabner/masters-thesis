@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,23,30,-0.03553459119496849
+1,disease_on_symptoms,17,19,1.4295665634674921
+2,disease_on_drugs,22,27,0.3393286607572321

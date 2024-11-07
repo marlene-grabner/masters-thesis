@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.3612121212121213
+1,disease_on_symptoms,22,22,0.8636363636363638
+2,disease_on_drugs,15,24,0.996153846153846

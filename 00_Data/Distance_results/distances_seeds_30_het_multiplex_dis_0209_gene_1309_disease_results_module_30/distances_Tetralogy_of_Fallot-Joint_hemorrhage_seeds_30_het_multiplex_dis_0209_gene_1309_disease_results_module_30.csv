@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.19999999999999996
+1,disease_on_symptoms,19,17,0.4707602339181287
+2,disease_on_drugs,20,26,0.04841137123745831

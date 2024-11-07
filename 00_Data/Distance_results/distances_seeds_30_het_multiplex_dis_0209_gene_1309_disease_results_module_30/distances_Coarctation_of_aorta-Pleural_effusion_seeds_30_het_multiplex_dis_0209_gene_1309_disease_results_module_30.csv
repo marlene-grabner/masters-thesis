@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,19,18,0.48897581792318645
+2,disease_on_drugs,24,27,0.14093137254901977

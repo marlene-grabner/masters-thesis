@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,23,28,0.19668737060041397
+1,disease_on_symptoms,25,21,0.8854658385093166
+2,disease_on_drugs,22,24,0.8448616600790513

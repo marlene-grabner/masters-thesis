@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,14,30,-0.03571428571428559
+1,disease_on_symptoms,26,19,-0.3060278902384166
+2,disease_on_drugs,14,30,0.05670995670995671

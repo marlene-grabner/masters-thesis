@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,30,22,0.2801120448179273
+1,disease_on_symptoms,22,26,0.8889860139860142
+2,disease_on_drugs,29,12,0.7674516400336417

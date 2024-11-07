@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,24,25,0.24528911564625822
+1,disease_on_symptoms,18,20,1.3184210526315787
+2,disease_on_drugs,18,18,0.30555555555555536

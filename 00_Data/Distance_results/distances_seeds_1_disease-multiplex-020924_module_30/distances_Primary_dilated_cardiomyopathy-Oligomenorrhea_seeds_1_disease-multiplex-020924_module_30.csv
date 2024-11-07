@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.7241379310344827
+1,disease_on_symptoms,25,12,2.1775675675675674
+2,disease_on_drugs,7,21,0.9285714285714288

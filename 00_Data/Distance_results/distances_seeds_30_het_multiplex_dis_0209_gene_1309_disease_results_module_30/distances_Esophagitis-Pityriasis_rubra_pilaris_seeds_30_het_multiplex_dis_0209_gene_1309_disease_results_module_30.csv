@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,30,27,-0.018615984405458086
+1,disease_on_symptoms,20,21,-0.05345528455284554
+2,disease_on_drugs,30,25,0.05999999999999983

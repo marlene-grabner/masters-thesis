@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,27,19,0.40846681922196804
+1,disease_on_symptoms,23,21,1.5532655750047057
+2,disease_on_drugs,20,17,1.0810810810810811

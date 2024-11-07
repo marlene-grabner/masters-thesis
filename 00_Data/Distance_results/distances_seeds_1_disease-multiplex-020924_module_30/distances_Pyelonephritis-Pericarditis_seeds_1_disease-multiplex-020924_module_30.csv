@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,23,25,-0.0027173913043476716
+1,disease_on_symptoms,21,22,0.48872445384073293
+2,disease_on_drugs,19,25,0.0027272727272726893

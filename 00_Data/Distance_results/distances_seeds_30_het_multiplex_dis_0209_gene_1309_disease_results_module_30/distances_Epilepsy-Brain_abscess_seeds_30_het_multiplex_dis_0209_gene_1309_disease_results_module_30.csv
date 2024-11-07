@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.20964912280701753
+1,disease_on_symptoms,21,21,0.4047619047619049
+2,disease_on_drugs,29,23,-0.22667512397647327

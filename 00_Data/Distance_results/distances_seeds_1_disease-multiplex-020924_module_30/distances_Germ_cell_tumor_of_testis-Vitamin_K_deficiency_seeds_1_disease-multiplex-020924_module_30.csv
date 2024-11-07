@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,27,25,0.18846153846153846
+1,disease_on_symptoms,23,23,1.6956521739130435
+2,disease_on_drugs,20,20,0.25

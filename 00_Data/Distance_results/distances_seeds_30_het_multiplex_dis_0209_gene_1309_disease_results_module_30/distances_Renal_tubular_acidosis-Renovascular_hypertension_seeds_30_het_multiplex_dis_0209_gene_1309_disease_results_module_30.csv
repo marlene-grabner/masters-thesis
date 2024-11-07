@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,14,17,0.2884250474383303
+2,disease_on_drugs,27,29,-0.25314723590585664

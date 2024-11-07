@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Exanthem nodes,sAB
+0,disease_on_genes,26,30,-0.1952380952380952
+1,disease_on_symptoms,22,21,-0.23781838316722048
+2,disease_on_drugs,24,29,-0.1327531988722619

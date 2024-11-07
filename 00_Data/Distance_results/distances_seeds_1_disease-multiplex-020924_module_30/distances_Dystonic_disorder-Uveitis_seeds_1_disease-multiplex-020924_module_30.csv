@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Uveitis nodes,sAB
+0,disease_on_genes,17,30,0.5252607425949103
+1,disease_on_symptoms,28,21,2.6352040816326534
+2,disease_on_drugs,9,27,0.787037037037037

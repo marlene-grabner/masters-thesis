@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,12,16,0.4226190476190479
+2,disease_on_drugs,21,29,-0.1825944170771756

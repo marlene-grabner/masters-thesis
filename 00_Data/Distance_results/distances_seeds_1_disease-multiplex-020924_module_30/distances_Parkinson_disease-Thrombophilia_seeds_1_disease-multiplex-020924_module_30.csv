@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,21,27,0.3326719576719577
+1,disease_on_symptoms,20,18,2.0809941520467836
+2,disease_on_drugs,19,21,0.6773809523809524

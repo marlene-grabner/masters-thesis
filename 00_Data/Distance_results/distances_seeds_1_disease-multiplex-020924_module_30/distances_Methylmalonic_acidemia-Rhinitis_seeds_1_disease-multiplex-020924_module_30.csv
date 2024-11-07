@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,0.5224242424242425
+1,disease_on_symptoms,16,15,1.8879032258064514
+2,disease_on_drugs,17,22,0.816742081447964

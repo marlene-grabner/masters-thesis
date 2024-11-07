@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,30,18,0.3472222222222223
+1,disease_on_symptoms,18,28,0.8323844030365772
+2,disease_on_drugs,27,17,0.21222024163200626

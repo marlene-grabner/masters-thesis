@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.034482758620689724
+1,disease_on_symptoms,9,13,-0.37062937062937085
+2,disease_on_drugs,23,28,0.03480087687248834

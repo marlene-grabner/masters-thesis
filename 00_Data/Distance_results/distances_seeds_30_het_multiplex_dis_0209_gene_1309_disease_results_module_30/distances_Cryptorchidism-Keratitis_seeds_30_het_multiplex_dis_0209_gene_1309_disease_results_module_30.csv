@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Keratitis nodes,sAB
+0,disease_on_genes,23,30,-0.13274541974295873
+1,disease_on_symptoms,19,25,0.29856459330143537
+2,disease_on_drugs,21,29,0.04742200328407242

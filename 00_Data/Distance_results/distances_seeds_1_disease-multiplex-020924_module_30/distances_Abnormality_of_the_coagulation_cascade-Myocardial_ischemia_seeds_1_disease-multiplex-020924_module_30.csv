@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,23,30,0.1800656275635768
+1,disease_on_symptoms,23,13,1.485971757710888
+2,disease_on_drugs,18,23,0.48220808295039475

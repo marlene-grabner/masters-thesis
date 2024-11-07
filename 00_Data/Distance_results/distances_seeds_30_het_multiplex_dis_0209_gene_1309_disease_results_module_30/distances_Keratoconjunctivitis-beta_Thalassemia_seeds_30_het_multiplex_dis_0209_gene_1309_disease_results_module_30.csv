@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,29,30,-0.05084745762711862
+1,disease_on_symptoms,20,13,0.43141025641025665
+2,disease_on_drugs,27,24,-0.0788398692810457

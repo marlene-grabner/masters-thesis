@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,26,30,0.09404761904761916
+1,disease_on_symptoms,21,23,1.0686994165255035
+2,disease_on_drugs,24,29,0.6463890696161354

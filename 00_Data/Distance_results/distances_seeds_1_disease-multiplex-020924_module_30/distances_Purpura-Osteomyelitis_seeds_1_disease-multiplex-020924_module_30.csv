@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,26,25,0.2744645550527902
+1,disease_on_symptoms,17,23,1.2679667519181583
+2,disease_on_drugs,20,23,0.6774519716885743

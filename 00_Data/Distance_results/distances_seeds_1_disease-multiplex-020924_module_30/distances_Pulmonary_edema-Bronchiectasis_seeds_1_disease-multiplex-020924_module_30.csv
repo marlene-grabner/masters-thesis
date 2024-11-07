@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,14,15,0.14096880131362877
+2,disease_on_drugs,27,26,-0.13210234908348117

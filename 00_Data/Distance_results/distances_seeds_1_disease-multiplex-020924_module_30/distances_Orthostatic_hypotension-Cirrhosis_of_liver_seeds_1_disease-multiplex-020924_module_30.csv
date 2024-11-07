@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,0.2666666666666666
+1,disease_on_symptoms,12,14,1.1011904761904763
+2,disease_on_drugs,17,26,0.6025202567610228

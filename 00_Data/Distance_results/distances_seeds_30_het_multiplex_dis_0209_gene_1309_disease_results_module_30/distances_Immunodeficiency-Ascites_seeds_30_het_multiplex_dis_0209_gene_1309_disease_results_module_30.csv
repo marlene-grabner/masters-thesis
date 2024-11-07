@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,-0.016666666666666607
+1,disease_on_symptoms,21,22,0.5112000402698078
+2,disease_on_drugs,26,27,0.1138257270332741

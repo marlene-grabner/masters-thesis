@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,23,27,0.4666344605475039
+1,disease_on_symptoms,21,16,1.7370495495495497
+2,disease_on_drugs,19,18,1.0810810810810811

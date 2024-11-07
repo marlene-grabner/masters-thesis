@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Blepharitis nodes,sAB
+0,disease_on_genes,23,30,0.037735849056603765
+1,disease_on_symptoms,19,18,0.781887150308203
+2,disease_on_drugs,19,30,0.18728965270318665

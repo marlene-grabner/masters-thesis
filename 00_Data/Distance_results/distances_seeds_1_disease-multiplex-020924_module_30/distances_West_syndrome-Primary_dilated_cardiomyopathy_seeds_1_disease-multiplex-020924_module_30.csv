@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,29,30,0.7796610169491525
+1,disease_on_symptoms,18,25,3.75405684754522
+2,disease_on_drugs,22,7,1.376847290640394

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,26,29,-0.036363636363636376
+1,disease_on_symptoms,21,20,0.45708478513356576
+2,disease_on_drugs,25,28,-0.014056603773584975

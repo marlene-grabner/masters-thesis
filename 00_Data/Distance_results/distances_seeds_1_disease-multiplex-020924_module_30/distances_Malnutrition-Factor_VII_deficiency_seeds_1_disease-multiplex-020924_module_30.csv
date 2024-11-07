@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.3917345399698342
+1,disease_on_symptoms,18,23,2.3085306940025925
+2,disease_on_drugs,23,21,0.8614718614718615

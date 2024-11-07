@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Meningitis nodes,sAB
+0,disease_on_genes,29,29,0.5172413793103448
+1,disease_on_symptoms,18,20,2.339619883040936
+2,disease_on_drugs,22,26,0.9166666666666667

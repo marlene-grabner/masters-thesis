@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,21,0.5454076367389062
+2,disease_on_drugs,28,29,0.33331172759484917

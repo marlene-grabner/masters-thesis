@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,9,27,0.2129629629629628
+1,disease_on_symptoms,27,20,2.9830378250591014
+2,disease_on_drugs,9,15,0.5833333333333333

@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,24,20,0.19772727272727275
+1,disease_on_symptoms,23,18,1.9390538470602097
+2,disease_on_drugs,24,19,0.6248470012239904

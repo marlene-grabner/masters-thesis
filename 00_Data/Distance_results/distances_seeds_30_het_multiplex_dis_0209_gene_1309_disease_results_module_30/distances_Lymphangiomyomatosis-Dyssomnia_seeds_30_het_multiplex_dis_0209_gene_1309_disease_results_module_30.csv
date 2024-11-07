@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,26,18,-0.15559440559440552
+1,disease_on_symptoms,17,21,1.984077841662981
+2,disease_on_drugs,24,17,-0.10279172644667622

@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,0.2321428571428572
+1,disease_on_symptoms,22,15,1.5679361179361182
+2,disease_on_drugs,29,15,0.8471264367816094

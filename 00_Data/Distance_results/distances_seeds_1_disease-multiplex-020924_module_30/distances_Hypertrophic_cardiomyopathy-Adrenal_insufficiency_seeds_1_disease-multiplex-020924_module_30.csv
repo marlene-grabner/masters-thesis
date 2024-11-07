@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,17,0.3546516478931998
+1,disease_on_symptoms,17,21,1.2134011499336577
+2,disease_on_drugs,17,14,0.7741935483870968

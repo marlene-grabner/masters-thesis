@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Chapped_lip nodes,sAB
+0,disease_on_genes,29,26,0.27366771159874625
+1,disease_on_symptoms,17,21,1.8190328763084178
+2,disease_on_drugs,26,24,1.060769230769231

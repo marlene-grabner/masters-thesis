@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,24,19,0.04485414116687059
+2,disease_on_drugs,20,30,0.1483333333333332

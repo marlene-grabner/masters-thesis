@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.1283333333333332
+1,disease_on_symptoms,15,24,0.8823717948717951
+2,disease_on_drugs,29,18,0.31845602021684205

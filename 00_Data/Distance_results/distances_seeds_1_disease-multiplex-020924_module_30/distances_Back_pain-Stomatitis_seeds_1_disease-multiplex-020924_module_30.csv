@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Stomatitis nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,16,23,0.5504807692307692
+2,disease_on_drugs,23,30,0.560377358490566

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Fatigue nodes,sAB
+0,disease_on_genes,20,26,0.14740802675585285
+1,disease_on_symptoms,22,21,0.9084113560857747
+2,disease_on_drugs,15,26,0.6908067542213885

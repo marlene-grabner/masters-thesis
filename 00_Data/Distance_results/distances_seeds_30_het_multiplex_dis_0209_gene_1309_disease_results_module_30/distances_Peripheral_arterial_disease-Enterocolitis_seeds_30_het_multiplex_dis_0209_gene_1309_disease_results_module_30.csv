@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,0.1132075471698113
+1,disease_on_symptoms,17,21,0.6521450685537373
+2,disease_on_drugs,24,25,0.12147959183673462

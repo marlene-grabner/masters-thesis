@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,27,17,0.09016636957813429
+1,disease_on_symptoms,17,22,1.3687782805429867
+2,disease_on_drugs,24,15,0.4025641025641027

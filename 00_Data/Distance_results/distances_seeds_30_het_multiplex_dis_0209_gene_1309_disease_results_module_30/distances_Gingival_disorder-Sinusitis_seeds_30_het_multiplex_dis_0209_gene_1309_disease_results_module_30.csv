@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,-0.06779661016949157
+1,disease_on_symptoms,19,20,-0.16163967611336028
+2,disease_on_drugs,24,27,-0.1831427015250544

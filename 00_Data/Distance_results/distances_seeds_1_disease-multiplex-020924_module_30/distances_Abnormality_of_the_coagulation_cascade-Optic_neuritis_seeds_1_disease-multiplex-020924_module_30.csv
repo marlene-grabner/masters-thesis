@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,23,27,0.2577455716586152
+1,disease_on_symptoms,23,16,1.3355978260869565
+2,disease_on_drugs,18,27,0.6074074074074072

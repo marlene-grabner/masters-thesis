@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,0.299122807017544
+1,disease_on_symptoms,22,17,0.5661936103112575
+2,disease_on_drugs,23,17,0.3527493606138108

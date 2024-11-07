@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Arthralgia nodes,sAB
+0,disease_on_genes,25,30,0.12363636363636354
+1,disease_on_symptoms,14,19,0.9940191387559809
+2,disease_on_drugs,22,30,0.32692307692307687

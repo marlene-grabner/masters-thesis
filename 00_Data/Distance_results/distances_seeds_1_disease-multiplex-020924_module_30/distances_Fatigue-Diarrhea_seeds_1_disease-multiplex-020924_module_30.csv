@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,27,-0.2253937536956403
+1,disease_on_symptoms,21,19,-0.15601503759398505
+2,disease_on_drugs,26,26,-0.05769230769230771

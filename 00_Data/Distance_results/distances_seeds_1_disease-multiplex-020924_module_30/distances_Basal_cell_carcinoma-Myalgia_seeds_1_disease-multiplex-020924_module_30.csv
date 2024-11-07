@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,0.07362637362637336
+1,disease_on_symptoms,23,16,1.4801421404682271
+2,disease_on_drugs,25,29,0.7037037037037037

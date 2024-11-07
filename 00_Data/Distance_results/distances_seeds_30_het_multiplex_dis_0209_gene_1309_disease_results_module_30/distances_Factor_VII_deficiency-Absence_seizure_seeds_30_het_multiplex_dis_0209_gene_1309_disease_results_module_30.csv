@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,28,30,0.30972906403940903
+1,disease_on_symptoms,19,14,2.014695830485304
+2,disease_on_drugs,25,22,0.9525725338491298

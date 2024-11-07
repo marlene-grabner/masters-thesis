@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Erysipelas nodes,sAB
+0,disease_on_genes,27,28,0.5094035594035595
+1,disease_on_symptoms,23,20,1.014256825075834
+2,disease_on_drugs,15,27,0.37142857142857144

@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,18,0.351388888888889
+1,disease_on_symptoms,16,21,1.09141731016731
+2,disease_on_drugs,27,6,0.8333333333333335

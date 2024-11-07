@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,26,30,0.0
+1,disease_on_symptoms,22,15,0.1911138411138411
+2,disease_on_drugs,26,23,-0.06081496143607956

@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,30,29,-0.05084745762711862
+1,disease_on_symptoms,17,16,0.09035204991087364
+2,disease_on_drugs,25,29,0.0900893997445722

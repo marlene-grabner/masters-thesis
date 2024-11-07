@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,13,19,0.19698886639676116
+2,disease_on_drugs,19,30,-0.05696383816684558

@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,26,30,0.0535714285714286
+1,disease_on_symptoms,23,19,0.6896589299335294
+2,disease_on_drugs,26,28,0.14774114774114766

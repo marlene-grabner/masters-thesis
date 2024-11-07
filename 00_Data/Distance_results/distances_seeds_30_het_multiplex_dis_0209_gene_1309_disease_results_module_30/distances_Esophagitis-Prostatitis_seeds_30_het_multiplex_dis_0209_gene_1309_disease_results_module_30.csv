@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,-0.04999999999999993
+1,disease_on_symptoms,20,22,-0.042316017316017085
+2,disease_on_drugs,30,28,-0.12032019704433505

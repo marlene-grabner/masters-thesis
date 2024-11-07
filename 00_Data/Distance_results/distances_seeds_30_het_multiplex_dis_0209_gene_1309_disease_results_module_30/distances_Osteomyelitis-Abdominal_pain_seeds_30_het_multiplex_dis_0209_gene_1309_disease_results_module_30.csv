@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,22,19,-0.1529933481152994
+2,disease_on_drugs,28,29,0.15753824215711698

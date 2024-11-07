@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,28,0.05229885057471262
+1,disease_on_symptoms,22,17,0.6127450980392157
+2,disease_on_drugs,27,19,0.059496567505720854

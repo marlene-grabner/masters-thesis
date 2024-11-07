@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Neoplasm_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,30,0.20000000000000018
+1,disease_on_symptoms,16,20,1.0548611111111112
+2,disease_on_drugs,30,30,0.6666666666666667

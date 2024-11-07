@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,25,29,-0.20242656449552998
+1,disease_on_symptoms,20,18,0.07616959064327489
+2,disease_on_drugs,25,28,0.09587601078167118

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,26,20,0.3782608695652172
+1,disease_on_symptoms,19,26,1.48936122357175
+2,disease_on_drugs,24,13,0.7057778932778933

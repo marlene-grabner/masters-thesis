@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Peripheral_arterial_disease nodes,sAB
+0,disease_on_genes,24,26,-0.040000000000000036
+1,disease_on_symptoms,23,17,0.39258312020460373
+2,disease_on_drugs,22,24,0.1800889328063242

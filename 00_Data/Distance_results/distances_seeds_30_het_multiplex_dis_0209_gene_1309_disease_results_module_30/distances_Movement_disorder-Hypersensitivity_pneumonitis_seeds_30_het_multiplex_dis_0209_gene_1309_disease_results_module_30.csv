@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,25,-0.08939393939393936
+1,disease_on_symptoms,17,20,0.42086645468998407
+2,disease_on_drugs,26,25,-0.0947058823529412

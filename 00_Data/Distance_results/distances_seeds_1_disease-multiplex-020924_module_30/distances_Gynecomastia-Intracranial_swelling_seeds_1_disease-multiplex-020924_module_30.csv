@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,30,30,0.28333333333333344
+1,disease_on_symptoms,16,14,0.04940476190476195
+2,disease_on_drugs,24,24,0.27083333333333326

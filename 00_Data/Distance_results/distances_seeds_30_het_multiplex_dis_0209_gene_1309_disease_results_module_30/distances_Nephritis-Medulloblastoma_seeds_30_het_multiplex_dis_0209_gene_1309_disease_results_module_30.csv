@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,17,22,0.7760866584395996
+2,disease_on_drugs,25,26,0.3901357466063349

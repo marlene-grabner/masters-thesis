@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,25,27,0.1330199430199428
+1,disease_on_symptoms,25,27,0.6926210826210828
+2,disease_on_drugs,21,26,0.28068739770867435

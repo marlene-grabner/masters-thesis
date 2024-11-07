@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,17,21,0.48319327731092443
+2,disease_on_drugs,17,30,0.27711722987067144

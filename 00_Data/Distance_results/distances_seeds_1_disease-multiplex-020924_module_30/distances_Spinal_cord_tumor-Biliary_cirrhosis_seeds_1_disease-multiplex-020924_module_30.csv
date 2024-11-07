@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,22,26,0.5700757575757576
+1,disease_on_symptoms,22,15,1.3560196560196558
+2,disease_on_drugs,14,15,0.9641215106732348

@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,12,30,0.20119047619047614
+1,disease_on_symptoms,27,20,0.8055161544523246
+2,disease_on_drugs,9,24,0.422979797979798

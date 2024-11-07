@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Peripheral_vascular_disease nodes,sAB
+0,disease_on_genes,28,25,0.11207547169811316
+1,disease_on_symptoms,20,17,0.8484499205087439
+2,disease_on_drugs,25,25,0.11999999999999988

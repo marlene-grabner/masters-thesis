@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,28,30,-0.0019704433497536034
+1,disease_on_symptoms,14,15,0.4944991789819375
+2,disease_on_drugs,28,23,0.42924126172208

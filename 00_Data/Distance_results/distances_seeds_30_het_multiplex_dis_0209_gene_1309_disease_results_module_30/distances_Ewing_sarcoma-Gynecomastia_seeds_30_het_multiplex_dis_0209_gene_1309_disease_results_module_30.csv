@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,17,15,0.18872549019607843
+2,disease_on_drugs,24,29,-0.03943016699197566

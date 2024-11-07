@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,-0.23351648351648346
+1,disease_on_symptoms,20,25,0.06333333333333346
+2,disease_on_drugs,24,25,-0.14292517006802719

@@ -1,0 +1,4 @@
+,Layer,Delayed_puberty nodes,Leukemia nodes,sAB
+0,disease_on_genes,22,18,0.30952380952380953
+1,disease_on_symptoms,20,27,1.5074665090622537
+2,disease_on_drugs,19,17,0.5535775713794289

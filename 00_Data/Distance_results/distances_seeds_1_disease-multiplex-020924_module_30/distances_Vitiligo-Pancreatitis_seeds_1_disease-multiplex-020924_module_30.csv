@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,24,30,0.33379629629629615
+1,disease_on_symptoms,22,20,2.1137445887445887
+2,disease_on_drugs,11,30,0.7073170731707317

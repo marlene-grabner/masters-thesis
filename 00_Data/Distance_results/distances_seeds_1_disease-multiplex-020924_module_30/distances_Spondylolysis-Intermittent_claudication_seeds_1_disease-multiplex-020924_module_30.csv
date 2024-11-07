@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.38284081954294713
+1,disease_on_symptoms,19,24,1.2158557731538147
+2,disease_on_drugs,20,18,0.7323099415204679

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.1257309941520468
+1,disease_on_symptoms,21,18,0.8565323565323564
+2,disease_on_drugs,27,25,0.24686609686609695

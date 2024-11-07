@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,-0.21052631578947367
+1,disease_on_symptoms,20,18,0.1102339181286549
+2,disease_on_drugs,25,24,-0.32739795918367354

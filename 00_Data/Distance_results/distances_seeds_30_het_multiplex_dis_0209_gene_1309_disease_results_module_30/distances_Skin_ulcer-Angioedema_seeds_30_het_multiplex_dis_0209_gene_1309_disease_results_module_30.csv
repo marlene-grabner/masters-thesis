@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,20,18,0.4476608187134503
+2,disease_on_drugs,24,26,0.021282051282051073

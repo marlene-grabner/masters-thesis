@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,24,21,0.2962301587301588
+2,disease_on_drugs,27,28,0.11066618566618569

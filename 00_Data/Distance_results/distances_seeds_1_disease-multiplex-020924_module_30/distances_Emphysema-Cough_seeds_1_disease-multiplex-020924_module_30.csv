@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.19307992202729052
+1,disease_on_symptoms,14,21,-0.2404761904761905
+2,disease_on_drugs,29,27,-0.1084656084656086

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Stomatitis nodes,sAB
+0,disease_on_genes,9,30,0.08247863247863241
+1,disease_on_symptoms,27,23,1.948888888888889
+2,disease_on_drugs,9,30,0.31025641025641026

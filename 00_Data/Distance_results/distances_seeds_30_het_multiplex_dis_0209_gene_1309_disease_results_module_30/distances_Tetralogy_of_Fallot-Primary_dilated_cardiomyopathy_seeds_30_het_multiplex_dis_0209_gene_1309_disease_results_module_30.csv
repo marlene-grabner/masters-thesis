@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,19,24,0.459939820481436
+2,disease_on_drugs,20,15,-0.015476190476190643

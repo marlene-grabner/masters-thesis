@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,29,0.14035087719298245
+1,disease_on_symptoms,23,16,1.1017976588628762
+2,disease_on_drugs,26,29,0.2352061731372077

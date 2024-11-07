@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Angioedema nodes,sAB
+0,disease_on_genes,20,29,0.3654761904761903
+1,disease_on_symptoms,22,17,1.1235088440970793
+2,disease_on_drugs,15,25,0.7

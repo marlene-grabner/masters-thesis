@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,27,0.7183235867446394
+1,disease_on_symptoms,9,23,1.0463466183574879
+2,disease_on_drugs,11,15,0.6006993006993009

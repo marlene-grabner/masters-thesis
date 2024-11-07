@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Meningitis nodes,sAB
+0,disease_on_genes,14,29,0.04877420093939744
+1,disease_on_symptoms,23,20,1.497396359959555
+2,disease_on_drugs,14,26,0.25

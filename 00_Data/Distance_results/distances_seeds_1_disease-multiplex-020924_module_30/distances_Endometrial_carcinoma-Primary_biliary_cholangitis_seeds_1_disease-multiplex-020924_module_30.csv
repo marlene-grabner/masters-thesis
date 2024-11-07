@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,23,26,0.6094293904852912
+1,disease_on_symptoms,21,17,0.675217455403214
+2,disease_on_drugs,21,18,1.0439560439560438

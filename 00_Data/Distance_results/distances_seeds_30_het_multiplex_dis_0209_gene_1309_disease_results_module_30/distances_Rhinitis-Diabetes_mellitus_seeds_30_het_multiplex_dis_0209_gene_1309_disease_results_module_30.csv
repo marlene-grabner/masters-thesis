@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,30,21,0.11764705882352944
+1,disease_on_symptoms,12,22,0.7174688057041001
+2,disease_on_drugs,23,19,0.025770949111910246

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,26,25,0.13647058823529412
+1,disease_on_symptoms,17,20,0.9217806041335452
+2,disease_on_drugs,25,18,0.4082945736434107

@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,-0.0874125874125874
+1,disease_on_symptoms,23,27,0.5458615136876004
+2,disease_on_drugs,25,17,-0.13585434173669486

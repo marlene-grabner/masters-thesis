@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,27,27,0.0185185185185186
+1,disease_on_symptoms,21,21,0.4761904761904763
+2,disease_on_drugs,25,24,0.02362244897959176

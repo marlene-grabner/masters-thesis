@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,26,30,0.26648351648351665
+1,disease_on_symptoms,23,7,1.9076604554865426
+2,disease_on_drugs,25,22,0.5870406189555126

@@ -1,0 +1,4 @@
+,Layer,Lymphoma nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,26,22,0.058420745920745754
+1,disease_on_symptoms,21,19,0.8041353383458647
+2,disease_on_drugs,25,18,-0.06777777777777771

@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,26,26,-0.42307692307692313
+1,disease_on_symptoms,16,22,0.19916267942583743
+2,disease_on_drugs,26,26,-0.3076923076923078

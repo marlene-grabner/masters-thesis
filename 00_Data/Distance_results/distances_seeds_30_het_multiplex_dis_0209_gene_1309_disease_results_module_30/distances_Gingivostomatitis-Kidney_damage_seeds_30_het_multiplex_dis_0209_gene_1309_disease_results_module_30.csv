@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,15,0.033333333333333215
+2,disease_on_drugs,30,21,0.0326330532212884

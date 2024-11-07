@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,27,0.07473257001558897
+1,disease_on_symptoms,17,27,2.2301940978411565
+2,disease_on_drugs,20,26,0.3311036789297661

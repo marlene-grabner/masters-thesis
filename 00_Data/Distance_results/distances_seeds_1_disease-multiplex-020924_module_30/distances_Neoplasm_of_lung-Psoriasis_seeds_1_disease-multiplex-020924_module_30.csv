@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Psoriasis nodes,sAB
+0,disease_on_genes,30,28,0.12003284072249576
+1,disease_on_symptoms,20,21,0.3894018583042975
+2,disease_on_drugs,30,28,0.41313628899835786

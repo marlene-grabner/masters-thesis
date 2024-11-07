@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,23,29,0.3096816976127321
+1,disease_on_symptoms,16,17,2.4569407308377897
+2,disease_on_drugs,17,30,0.9411764705882353

@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,30,29,0.3220338983050848
+1,disease_on_symptoms,16,25,1.5730792682926829
+2,disease_on_drugs,21,21,0.5952380952380951

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Sinusitis nodes,sAB
+0,disease_on_genes,28,29,0.3151304986604444
+1,disease_on_symptoms,15,21,1.8285714285714283
+2,disease_on_drugs,20,28,1.1089285714285713

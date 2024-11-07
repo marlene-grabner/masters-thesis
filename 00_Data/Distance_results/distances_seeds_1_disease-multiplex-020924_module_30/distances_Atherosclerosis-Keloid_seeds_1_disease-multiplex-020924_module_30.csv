@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Keloid nodes,sAB
+0,disease_on_genes,30,22,0.30069930069930084
+1,disease_on_symptoms,13,20,1.1649184149184149
+2,disease_on_drugs,29,19,0.5

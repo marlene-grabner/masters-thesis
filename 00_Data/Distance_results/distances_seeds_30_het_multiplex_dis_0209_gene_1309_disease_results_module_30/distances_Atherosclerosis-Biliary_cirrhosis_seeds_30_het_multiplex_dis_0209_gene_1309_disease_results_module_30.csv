@@ -1,0 +1,4 @@
+,Layer,Atherosclerosis nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.09065934065934056
+1,disease_on_symptoms,14,22,0.6338383838383839
+2,disease_on_drugs,29,25,0.2129246487867178

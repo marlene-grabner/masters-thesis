@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Diarrhea nodes,sAB
+0,disease_on_genes,30,27,0.1889863547758286
+1,disease_on_symptoms,16,19,0.5466635338345864
+2,disease_on_drugs,27,26,0.5090711175616838

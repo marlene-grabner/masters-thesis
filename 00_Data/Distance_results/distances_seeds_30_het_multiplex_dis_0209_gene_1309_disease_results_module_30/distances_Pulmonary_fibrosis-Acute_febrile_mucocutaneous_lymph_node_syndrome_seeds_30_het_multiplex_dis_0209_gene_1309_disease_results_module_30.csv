@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,25,30,-0.25303030303030294
+1,disease_on_symptoms,22,13,-0.09915084915084904
+2,disease_on_drugs,25,28,-0.41570080862533687

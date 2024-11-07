@@ -1,0 +1,4 @@
+,Layer,Keratitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,-0.36754385964912273
+1,disease_on_symptoms,25,21,-0.46004140786749503
+2,disease_on_drugs,29,24,-0.4177374756018216

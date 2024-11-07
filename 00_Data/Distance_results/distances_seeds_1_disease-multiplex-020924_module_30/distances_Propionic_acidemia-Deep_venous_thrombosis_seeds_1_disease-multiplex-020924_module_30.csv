@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,22,28,0.3821428571428571
+1,disease_on_symptoms,17,14,2.0267687720249388
+2,disease_on_drugs,21,24,0.6396825396825396

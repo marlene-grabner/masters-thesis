@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,29,30,-0.1695012663159946
+1,disease_on_symptoms,17,15,-0.3340686274509803
+2,disease_on_drugs,26,29,-0.20010851217747783

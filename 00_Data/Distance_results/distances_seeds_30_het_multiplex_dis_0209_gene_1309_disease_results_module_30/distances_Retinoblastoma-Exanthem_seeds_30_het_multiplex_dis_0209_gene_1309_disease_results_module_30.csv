@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,21,21,0.785714285714286
+2,disease_on_drugs,27,29,0.5184272942893633

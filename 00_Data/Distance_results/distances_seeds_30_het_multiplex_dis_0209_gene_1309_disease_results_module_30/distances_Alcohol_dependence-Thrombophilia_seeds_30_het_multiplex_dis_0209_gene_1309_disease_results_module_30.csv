@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.10701754385964923
+1,disease_on_symptoms,18,18,0.38888888888888884
+2,disease_on_drugs,24,22,0.23978919631093532

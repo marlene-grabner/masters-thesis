@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,25,30,0.16363636363636358
+1,disease_on_symptoms,22,19,0.7142898821332713
+2,disease_on_drugs,25,28,0.2059299191374664

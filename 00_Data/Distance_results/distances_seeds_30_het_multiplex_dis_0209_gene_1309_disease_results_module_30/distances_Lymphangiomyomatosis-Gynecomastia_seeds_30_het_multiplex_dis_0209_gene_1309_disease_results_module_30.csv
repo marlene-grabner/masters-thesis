@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,26,30,-0.21565934065934056
+1,disease_on_symptoms,17,15,0.028799019607843146
+2,disease_on_drugs,24,29,-0.04336098460203863

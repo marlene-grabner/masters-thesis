@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,12,22,0.5144830659536541
+1,disease_on_symptoms,27,19,1.1437409949995763
+2,disease_on_drugs,9,19,0.32685881370091896

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,22,26,-0.27083333333333337
+1,disease_on_symptoms,21,21,-0.09523809523809512
+2,disease_on_drugs,21,25,-0.2853416149068323

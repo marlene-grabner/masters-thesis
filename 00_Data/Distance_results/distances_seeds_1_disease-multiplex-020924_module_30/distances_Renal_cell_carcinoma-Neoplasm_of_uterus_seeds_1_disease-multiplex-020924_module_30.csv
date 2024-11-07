@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,25,28,-0.16916442048517522
+1,disease_on_symptoms,24,19,-0.019634842921256723
+2,disease_on_drugs,20,28,-0.1428571428571428

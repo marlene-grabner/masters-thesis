@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Sinusitis nodes,sAB
+0,disease_on_genes,18,29,0.4116328360642374
+1,disease_on_symptoms,21,21,0.19047619047619024
+2,disease_on_drugs,6,28,0.8679971988795518

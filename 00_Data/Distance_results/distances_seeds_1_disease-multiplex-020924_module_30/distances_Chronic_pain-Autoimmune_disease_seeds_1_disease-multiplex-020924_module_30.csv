@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.13986013986014
+1,disease_on_symptoms,22,19,1.7212918660287082
+2,disease_on_drugs,28,19,0.5515717485202367

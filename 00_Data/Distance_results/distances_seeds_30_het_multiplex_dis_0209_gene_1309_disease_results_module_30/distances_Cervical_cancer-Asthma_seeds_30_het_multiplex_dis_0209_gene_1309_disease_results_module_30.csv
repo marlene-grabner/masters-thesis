@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Asthma nodes,sAB
+0,disease_on_genes,28,25,0.2630188679245282
+1,disease_on_symptoms,22,20,1.1730519480519481
+2,disease_on_drugs,15,22,0.3322276822276822

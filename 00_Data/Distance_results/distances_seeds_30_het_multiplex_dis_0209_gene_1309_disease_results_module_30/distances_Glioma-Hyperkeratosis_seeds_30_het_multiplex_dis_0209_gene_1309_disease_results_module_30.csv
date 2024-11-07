@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,22,26,0.0016025641025640969
+1,disease_on_symptoms,21,25,1.3048447204968947
+2,disease_on_drugs,21,25,0.2616149068322984

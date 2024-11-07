@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Melanoma nodes,sAB
+0,disease_on_genes,26,27,-0.13208891039079718
+1,disease_on_symptoms,20,23,0.5201718907987867
+2,disease_on_drugs,20,25,0.20333333333333337

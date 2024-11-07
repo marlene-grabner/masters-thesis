@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.1694915254237288
+1,disease_on_symptoms,21,20,0.3428281068524972
+2,disease_on_drugs,29,27,-0.023330596606458753

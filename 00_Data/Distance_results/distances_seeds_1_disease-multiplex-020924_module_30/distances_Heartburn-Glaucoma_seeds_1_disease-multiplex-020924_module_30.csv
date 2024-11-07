@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Glaucoma nodes,sAB
+0,disease_on_genes,24,30,-0.09675925925925921
+1,disease_on_symptoms,20,14,0.03886554621848748
+2,disease_on_drugs,22,30,0.25163170163170157

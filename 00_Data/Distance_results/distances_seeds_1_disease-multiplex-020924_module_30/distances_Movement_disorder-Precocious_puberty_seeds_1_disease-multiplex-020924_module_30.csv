@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,30,30,0.44999999999999996
+1,disease_on_symptoms,22,14,1.1637806637806638
+2,disease_on_drugs,15,24,0.8999999999999999

@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,24,24,-0.10416666666666685
+1,disease_on_symptoms,19,19,0.3157894736842102
+2,disease_on_drugs,19,24,-0.21243880048959607

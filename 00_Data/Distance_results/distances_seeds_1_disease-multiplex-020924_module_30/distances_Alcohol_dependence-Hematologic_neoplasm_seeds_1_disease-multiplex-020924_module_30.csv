@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,12,22,0.6053921568627452
+1,disease_on_symptoms,27,24,1.8391884531590414
+2,disease_on_drugs,9,19,0.6050543024227235

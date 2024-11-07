@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Goiter nodes,sAB
+0,disease_on_genes,25,26,0.2941176470588236
+1,disease_on_symptoms,20,12,2.689583333333333
+2,disease_on_drugs,21,18,0.43070818070818073

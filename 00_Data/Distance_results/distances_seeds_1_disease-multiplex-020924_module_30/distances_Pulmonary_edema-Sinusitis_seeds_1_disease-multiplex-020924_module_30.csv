@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Sinusitis nodes,sAB
+0,disease_on_genes,30,29,0.3550555230859147
+1,disease_on_symptoms,14,21,0.5261904761904761
+2,disease_on_drugs,27,28,0.7639369889369889

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,24,22,0.34873188405797095
+1,disease_on_symptoms,18,24,0.5982142857142858
+2,disease_on_drugs,18,19,0.7866287339971552

@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Vitiligo nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,19,0.11525999683894383
+2,disease_on_drugs,26,25,-0.09473604826546

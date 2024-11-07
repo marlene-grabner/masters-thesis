@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Vasculitis nodes,sAB
+0,disease_on_genes,25,24,0.2248809523809523
+1,disease_on_symptoms,20,19,1.4855263157894738
+2,disease_on_drugs,14,20,-0.06890756302521006

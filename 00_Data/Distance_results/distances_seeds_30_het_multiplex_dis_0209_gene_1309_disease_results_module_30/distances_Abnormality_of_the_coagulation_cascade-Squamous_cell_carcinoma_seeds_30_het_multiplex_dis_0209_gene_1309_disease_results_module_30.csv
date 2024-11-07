@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,24,30,-0.01851851851851849
+1,disease_on_symptoms,24,22,0.4706851119894597
+2,disease_on_drugs,23,30,0.3137817883511076

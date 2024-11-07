@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Germ_cell_tumor_of_testis nodes,sAB
+0,disease_on_genes,26,27,0.16908563134978238
+1,disease_on_symptoms,21,23,1.79785431959345
+2,disease_on_drugs,26,20,1.0267558528428093

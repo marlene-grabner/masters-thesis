@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,24,26,0.23993589743589738
+1,disease_on_symptoms,22,21,0.8623527635155543
+2,disease_on_drugs,24,24,0.375

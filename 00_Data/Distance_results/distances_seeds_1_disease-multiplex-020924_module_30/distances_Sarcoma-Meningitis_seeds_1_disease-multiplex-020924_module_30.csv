@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Meningitis nodes,sAB
+0,disease_on_genes,25,29,0.2445721583652618
+1,disease_on_symptoms,26,20,1.5816889632107023
+2,disease_on_drugs,21,26,0.44680851063829796

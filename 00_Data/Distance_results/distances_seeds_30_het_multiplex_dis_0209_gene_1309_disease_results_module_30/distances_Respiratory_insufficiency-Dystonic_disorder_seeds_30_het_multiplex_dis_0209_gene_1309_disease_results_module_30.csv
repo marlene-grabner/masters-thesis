@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.26315789473684215
+1,disease_on_symptoms,21,17,0.40291906236178665
+2,disease_on_drugs,25,26,-0.2765610859728507

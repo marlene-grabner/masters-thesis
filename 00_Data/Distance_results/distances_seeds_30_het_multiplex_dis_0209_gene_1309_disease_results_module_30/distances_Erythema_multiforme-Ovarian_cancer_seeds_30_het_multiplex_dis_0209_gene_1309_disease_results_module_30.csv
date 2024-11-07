@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,18,17,0.7234360410830998
+2,disease_on_drugs,30,17,0.3035669586983729

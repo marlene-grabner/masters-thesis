@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.4666666666666668
+1,disease_on_symptoms,17,26,1.0059717983794592
+2,disease_on_drugs,17,28,1.088888888888889

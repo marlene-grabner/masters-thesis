@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Rheumatoid_arthritis nodes,sAB
+0,disease_on_genes,26,27,0.03733268827608449
+1,disease_on_symptoms,28,15,0.8176356589147287
+2,disease_on_drugs,23,25,0.4582608695652173

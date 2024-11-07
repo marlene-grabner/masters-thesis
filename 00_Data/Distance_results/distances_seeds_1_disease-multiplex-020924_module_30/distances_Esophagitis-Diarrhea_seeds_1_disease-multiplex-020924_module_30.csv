@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,24,27,0.003929146537842154
+1,disease_on_symptoms,23,19,1.1975046311430748
+2,disease_on_drugs,20,26,0.28185618729096973

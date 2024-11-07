@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Exanthem nodes,sAB
+0,disease_on_genes,22,28,0.33545454545454545
+1,disease_on_symptoms,24,26,1.9830769230769232
+2,disease_on_drugs,13,28,0.6162891986062717

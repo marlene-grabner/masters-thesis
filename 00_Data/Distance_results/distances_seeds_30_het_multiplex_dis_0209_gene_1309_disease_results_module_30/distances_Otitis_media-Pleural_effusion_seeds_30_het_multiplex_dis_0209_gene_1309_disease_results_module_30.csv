@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,29,30,-0.0002922267679719148
+1,disease_on_symptoms,20,18,0.2092105263157893
+2,disease_on_drugs,28,27,0.1265151515151517

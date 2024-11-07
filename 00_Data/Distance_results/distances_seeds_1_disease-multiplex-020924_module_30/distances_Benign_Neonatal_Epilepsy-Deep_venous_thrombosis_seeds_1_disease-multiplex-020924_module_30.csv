@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,29,28,0.3856516290726817
+1,disease_on_symptoms,16,14,2.380654761904762
+2,disease_on_drugs,26,24,0.78

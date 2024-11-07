@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,26,27,0.1705101327742835
+1,disease_on_symptoms,15,20,1.394047619047619
+2,disease_on_drugs,26,25,0.6862745098039216

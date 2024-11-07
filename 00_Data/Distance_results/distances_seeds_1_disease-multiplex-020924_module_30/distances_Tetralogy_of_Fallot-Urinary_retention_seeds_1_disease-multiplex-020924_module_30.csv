@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.5111312764670297
+1,disease_on_symptoms,14,18,2.370039682539683
+2,disease_on_drugs,11,19,0.7543859649122806

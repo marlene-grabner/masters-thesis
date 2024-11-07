@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Constipation nodes,sAB
+0,disease_on_genes,24,30,-0.20185185185185184
+1,disease_on_symptoms,24,16,0.9645833333333336
+2,disease_on_drugs,23,28,-0.06750091340884179

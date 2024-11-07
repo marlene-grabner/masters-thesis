@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Fatigue nodes,sAB
+0,disease_on_genes,28,26,0.07661782661782679
+1,disease_on_symptoms,14,21,0.8642857142857141
+2,disease_on_drugs,28,26,0.27635327635327656

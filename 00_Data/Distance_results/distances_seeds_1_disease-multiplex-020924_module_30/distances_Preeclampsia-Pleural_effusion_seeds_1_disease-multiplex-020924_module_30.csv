@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,26,30,0.19761904761904758
+1,disease_on_symptoms,17,20,1.2725357710651828
+2,disease_on_drugs,23,22,0.644927536231884

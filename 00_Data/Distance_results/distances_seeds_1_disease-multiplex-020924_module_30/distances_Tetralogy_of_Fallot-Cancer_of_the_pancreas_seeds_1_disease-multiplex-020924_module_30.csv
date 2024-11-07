@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,30,29,0.49209039548022604
+1,disease_on_symptoms,14,16,1.8839285714285714
+2,disease_on_drugs,11,29,0.9827586206896552

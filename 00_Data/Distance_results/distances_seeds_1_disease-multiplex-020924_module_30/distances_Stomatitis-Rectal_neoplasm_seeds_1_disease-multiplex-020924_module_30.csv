@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.18333333333333335
+1,disease_on_symptoms,23,21,1.2651515151515151
+2,disease_on_drugs,30,29,0.5604324956165985

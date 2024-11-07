@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,0.1132075471698113
+1,disease_on_symptoms,21,21,0.7142857142857144
+2,disease_on_drugs,24,26,0.06442307692307692

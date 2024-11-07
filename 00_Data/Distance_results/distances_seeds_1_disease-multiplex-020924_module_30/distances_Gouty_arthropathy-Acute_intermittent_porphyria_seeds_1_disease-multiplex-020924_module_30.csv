@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,25,27,0.4214245014245015
+1,disease_on_symptoms,13,20,3.2598484848484843
+2,disease_on_drugs,16,15,0.7752016129032258

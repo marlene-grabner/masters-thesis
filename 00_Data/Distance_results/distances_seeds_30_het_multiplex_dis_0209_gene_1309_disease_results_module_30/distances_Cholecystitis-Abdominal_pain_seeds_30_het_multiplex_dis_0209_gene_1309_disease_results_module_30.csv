@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,25,30,-0.1621212121212121
+1,disease_on_symptoms,23,19,0.052795031055900665
+2,disease_on_drugs,21,29,-0.1746798029556651

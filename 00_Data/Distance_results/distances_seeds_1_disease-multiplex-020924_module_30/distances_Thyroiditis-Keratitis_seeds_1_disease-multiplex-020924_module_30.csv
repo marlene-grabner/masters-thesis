@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Keratitis nodes,sAB
+0,disease_on_genes,26,28,0.165140415140415
+1,disease_on_symptoms,28,25,0.1576415094339625
+2,disease_on_drugs,23,23,0.0869565217391306

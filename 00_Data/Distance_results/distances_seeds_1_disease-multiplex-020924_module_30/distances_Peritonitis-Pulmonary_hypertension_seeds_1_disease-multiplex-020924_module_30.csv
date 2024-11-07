@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.20972906403940894
+1,disease_on_symptoms,17,20,0.940381558028617
+2,disease_on_drugs,28,28,0.7142857142857144

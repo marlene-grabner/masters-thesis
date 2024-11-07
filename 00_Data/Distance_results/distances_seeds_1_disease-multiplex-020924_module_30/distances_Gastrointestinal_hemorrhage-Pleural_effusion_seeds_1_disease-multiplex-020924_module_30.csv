@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,0.24454191033138395
+1,disease_on_symptoms,19,20,0.45860323886639676
+2,disease_on_drugs,27,22,0.7346938775510203

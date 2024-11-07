@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Cellulitis nodes,sAB
+0,disease_on_genes,22,22,0.2513842746400885
+1,disease_on_symptoms,17,26,2.030464063979796
+2,disease_on_drugs,21,12,1.2922077922077924

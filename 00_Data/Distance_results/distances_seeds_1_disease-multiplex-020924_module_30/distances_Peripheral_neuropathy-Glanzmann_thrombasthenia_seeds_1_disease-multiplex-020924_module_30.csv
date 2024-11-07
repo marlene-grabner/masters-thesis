@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.20879629629629637
+1,disease_on_symptoms,20,21,1.2947735191637628
+2,disease_on_drugs,24,24,0.6458333333333335

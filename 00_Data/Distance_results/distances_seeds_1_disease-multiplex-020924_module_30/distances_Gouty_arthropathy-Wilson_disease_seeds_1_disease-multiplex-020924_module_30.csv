@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,25,23,0.5404710144927536
+1,disease_on_symptoms,13,19,2.4769736842105265
+2,disease_on_drugs,16,11,0.5983796296296295

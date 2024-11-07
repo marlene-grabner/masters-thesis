@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,23,20,0.20861981799797769
+1,disease_on_symptoms,21,24,0.9097222222222223
+2,disease_on_drugs,19,18,0.6996996996996996

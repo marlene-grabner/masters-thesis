@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,22,29,0.11764705882352944
+1,disease_on_symptoms,21,20,0.7259581881533101
+2,disease_on_drugs,21,28,0.2729591836734695

@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,27,26,-0.0366876310272537
+1,disease_on_symptoms,22,21,0.81674720628209
+2,disease_on_drugs,20,26,0.20192307692307687

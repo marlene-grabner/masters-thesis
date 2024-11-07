@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,25,20,0.3666666666666665
+1,disease_on_symptoms,26,26,1.6923076923076925
+2,disease_on_drugs,21,13,0.7782805429864255

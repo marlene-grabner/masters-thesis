@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,17,16,-0.24214572192513373
+2,disease_on_drugs,24,28,-0.34455128205128194

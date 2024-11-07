@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Glaucoma nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666676
+1,disease_on_symptoms,13,18,-0.2901157981803142
+2,disease_on_drugs,28,28,0.0714285714285714

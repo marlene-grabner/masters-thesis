@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.25
+1,disease_on_symptoms,20,17,0.6405405405405404
+2,disease_on_drugs,25,24,0.30397959183673473

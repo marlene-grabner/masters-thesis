@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,25,30,-0.3490909090909091
+1,disease_on_symptoms,21,11,-0.4278950216450217
+2,disease_on_drugs,24,21,-0.2738095238095237

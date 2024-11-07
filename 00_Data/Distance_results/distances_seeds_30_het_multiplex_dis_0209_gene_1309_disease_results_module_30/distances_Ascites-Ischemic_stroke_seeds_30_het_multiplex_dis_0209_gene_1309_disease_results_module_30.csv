@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,22,16,-0.23504784688995195
+2,disease_on_drugs,27,28,-0.30886243386243395

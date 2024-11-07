@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,27,26,0.17119550610116652
+1,disease_on_symptoms,19,21,1.3249373433583962
+2,disease_on_drugs,26,23,0.4705651491365779

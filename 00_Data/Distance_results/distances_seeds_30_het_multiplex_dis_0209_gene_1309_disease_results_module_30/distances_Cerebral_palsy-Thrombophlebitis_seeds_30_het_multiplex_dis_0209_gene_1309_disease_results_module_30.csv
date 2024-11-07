@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,13,18,0.9466501240694787
+2,disease_on_drugs,21,29,0.14883415435139558

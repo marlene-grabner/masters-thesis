@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,26,30,0.3226190476190476
+1,disease_on_symptoms,19,14,0.6097630439735704
+2,disease_on_drugs,24,26,0.45993589743589736

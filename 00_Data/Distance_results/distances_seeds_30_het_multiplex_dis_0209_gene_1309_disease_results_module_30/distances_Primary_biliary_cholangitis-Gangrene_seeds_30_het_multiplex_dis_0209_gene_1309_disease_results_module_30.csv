@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,26,27,-0.13207547169811318
+1,disease_on_symptoms,23,22,-0.08785682916117699
+2,disease_on_drugs,26,27,-0.0759286136644628

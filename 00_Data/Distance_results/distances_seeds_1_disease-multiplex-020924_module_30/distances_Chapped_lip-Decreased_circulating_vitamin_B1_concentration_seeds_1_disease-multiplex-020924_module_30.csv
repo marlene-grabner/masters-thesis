@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,25,0.428627450980392
+1,disease_on_symptoms,21,13,2.7859297565179917
+2,disease_on_drugs,24,16,0.5562499999999999

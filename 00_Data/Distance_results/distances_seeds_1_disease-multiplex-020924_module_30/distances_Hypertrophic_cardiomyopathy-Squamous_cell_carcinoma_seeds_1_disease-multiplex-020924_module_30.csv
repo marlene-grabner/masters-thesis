@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Squamous_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,16,0.42862318840579716
+1,disease_on_symptoms,17,26,3.1021256445333054
+2,disease_on_drugs,17,14,0.903225806451613

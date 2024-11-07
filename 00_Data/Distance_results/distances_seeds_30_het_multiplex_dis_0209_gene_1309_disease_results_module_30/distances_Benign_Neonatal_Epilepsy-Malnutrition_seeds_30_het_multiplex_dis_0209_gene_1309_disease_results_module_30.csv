@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Malnutrition nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,16,14,0.32053571428571437
+2,disease_on_drugs,21,29,0.14893267651888342

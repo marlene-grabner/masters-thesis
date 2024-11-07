@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,-0.08166666666666678
+1,disease_on_symptoms,16,23,0.30643812709030094
+2,disease_on_drugs,21,18,-0.098901098901099

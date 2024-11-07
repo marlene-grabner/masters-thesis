@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,26,26,0.3846153846153846
+1,disease_on_symptoms,15,19,1.3605779153766768
+2,disease_on_drugs,26,24,0.8191666666666666

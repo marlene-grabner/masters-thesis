@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,26,-0.19939393939393946
+1,disease_on_symptoms,14,19,-0.5184552289815447
+2,disease_on_drugs,26,24,-0.06000000000000005

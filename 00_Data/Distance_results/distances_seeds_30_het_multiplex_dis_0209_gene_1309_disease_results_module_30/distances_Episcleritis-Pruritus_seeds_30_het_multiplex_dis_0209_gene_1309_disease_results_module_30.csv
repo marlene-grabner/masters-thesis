@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Pruritus nodes,sAB
+0,disease_on_genes,30,27,-0.1764132553606239
+1,disease_on_symptoms,18,21,0.41971916971916956
+2,disease_on_drugs,28,27,0.037614237614237656

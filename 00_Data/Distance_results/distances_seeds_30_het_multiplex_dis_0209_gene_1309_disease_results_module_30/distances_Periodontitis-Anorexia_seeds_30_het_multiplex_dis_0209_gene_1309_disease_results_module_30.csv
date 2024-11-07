@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.23758036236119218
+1,disease_on_symptoms,21,13,0.3387201034259859
+2,disease_on_drugs,28,28,-0.017857142857143016

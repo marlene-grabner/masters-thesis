@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Ascites nodes,sAB
+0,disease_on_genes,24,30,0.09027777777777768
+1,disease_on_symptoms,22,17,0.227169888934595
+2,disease_on_drugs,24,27,-0.03594771241830075

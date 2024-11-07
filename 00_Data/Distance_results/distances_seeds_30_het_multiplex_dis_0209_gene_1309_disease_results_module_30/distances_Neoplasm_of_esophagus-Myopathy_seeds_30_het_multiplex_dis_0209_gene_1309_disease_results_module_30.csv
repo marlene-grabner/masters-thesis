@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Myopathy nodes,sAB
+0,disease_on_genes,29,23,-0.13262599469496017
+1,disease_on_symptoms,20,22,0.5032467532467533
+2,disease_on_drugs,25,21,-0.06832298136645942

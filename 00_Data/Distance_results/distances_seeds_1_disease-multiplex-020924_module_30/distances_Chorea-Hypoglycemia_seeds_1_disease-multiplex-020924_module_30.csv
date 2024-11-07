@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,14,30,0.6461038961038963
+1,disease_on_symptoms,27,12,1.9636752136752134
+2,disease_on_drugs,8,22,0.9375

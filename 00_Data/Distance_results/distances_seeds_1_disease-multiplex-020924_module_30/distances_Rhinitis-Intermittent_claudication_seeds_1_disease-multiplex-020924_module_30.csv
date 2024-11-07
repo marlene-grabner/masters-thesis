@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.23833333333333329
+1,disease_on_symptoms,15,24,0.279807692307692
+2,disease_on_drugs,22,18,0.26388888888888884

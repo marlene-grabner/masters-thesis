@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,21,30,0.09677871148459372
+1,disease_on_symptoms,20,18,1.5970760233918129
+2,disease_on_drugs,19,25,0.5281818181818181

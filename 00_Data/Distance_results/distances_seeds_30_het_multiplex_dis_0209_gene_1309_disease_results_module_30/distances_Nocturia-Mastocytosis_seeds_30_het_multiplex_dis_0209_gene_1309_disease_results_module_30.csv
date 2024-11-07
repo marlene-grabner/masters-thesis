@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Mastocytosis nodes,sAB
+0,disease_on_genes,25,30,0.2407407407407407
+1,disease_on_symptoms,18,24,1.0109126984126986
+2,disease_on_drugs,24,20,0.5734848484848485

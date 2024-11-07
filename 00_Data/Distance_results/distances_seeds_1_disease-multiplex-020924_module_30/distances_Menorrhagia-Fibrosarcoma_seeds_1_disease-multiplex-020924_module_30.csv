@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,26,22,0.2377622377622377
+1,disease_on_symptoms,19,24,2.1940024479804165
+2,disease_on_drugs,24,13,0.9791666666666665

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,26,30,0.41547619047619055
+1,disease_on_symptoms,15,14,0.8182266009852217
+2,disease_on_drugs,15,30,0.7222222222222221

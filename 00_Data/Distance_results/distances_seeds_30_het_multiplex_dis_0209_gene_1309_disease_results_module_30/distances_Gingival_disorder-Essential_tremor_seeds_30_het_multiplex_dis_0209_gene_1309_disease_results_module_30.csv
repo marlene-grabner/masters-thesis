@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,30,21,0.019607843137254832
+1,disease_on_symptoms,19,23,0.9179470415168356
+2,disease_on_drugs,24,21,0.5156746031746031

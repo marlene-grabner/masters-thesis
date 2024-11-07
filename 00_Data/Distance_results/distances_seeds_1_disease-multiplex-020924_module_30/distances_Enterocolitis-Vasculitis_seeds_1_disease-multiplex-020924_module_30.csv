@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.11751089324618746
+1,disease_on_symptoms,21,19,1.5045739348370926
+2,disease_on_drugs,24,20,0.4518939393939394

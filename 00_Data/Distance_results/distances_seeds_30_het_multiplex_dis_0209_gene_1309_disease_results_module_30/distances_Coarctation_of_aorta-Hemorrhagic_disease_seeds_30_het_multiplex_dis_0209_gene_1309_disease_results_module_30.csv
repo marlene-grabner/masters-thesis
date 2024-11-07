@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,26,-0.20719776380153743
+1,disease_on_symptoms,19,19,0.605263157894737
+2,disease_on_drugs,24,24,-0.12499999999999978

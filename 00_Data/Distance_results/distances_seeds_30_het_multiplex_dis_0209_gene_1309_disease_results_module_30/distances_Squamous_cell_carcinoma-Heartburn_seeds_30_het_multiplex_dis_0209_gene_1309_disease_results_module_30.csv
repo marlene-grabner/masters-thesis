@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Heartburn nodes,sAB
+0,disease_on_genes,30,26,-0.1071428571428571
+1,disease_on_symptoms,22,16,0.25119617224880386
+2,disease_on_drugs,30,25,0.19272727272727264

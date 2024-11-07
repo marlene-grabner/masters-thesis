@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,0.14035087719298245
+1,disease_on_symptoms,14,21,1.6214285714285717
+2,disease_on_drugs,21,25,0.5059627329192549

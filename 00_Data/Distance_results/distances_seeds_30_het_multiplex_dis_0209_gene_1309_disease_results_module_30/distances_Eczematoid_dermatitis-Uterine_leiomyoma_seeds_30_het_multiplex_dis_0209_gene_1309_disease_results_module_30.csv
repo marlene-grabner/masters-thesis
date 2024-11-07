@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Uterine_leiomyoma nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,25,20,0.29055555555555546
+2,disease_on_drugs,30,28,0.1353448275862068

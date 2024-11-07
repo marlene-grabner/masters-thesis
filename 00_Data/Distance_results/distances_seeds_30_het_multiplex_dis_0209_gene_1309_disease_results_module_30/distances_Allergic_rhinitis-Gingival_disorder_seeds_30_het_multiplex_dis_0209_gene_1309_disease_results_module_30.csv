@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,20,19,0.07297570850202417
+2,disease_on_drugs,25,24,-0.0826020408163266

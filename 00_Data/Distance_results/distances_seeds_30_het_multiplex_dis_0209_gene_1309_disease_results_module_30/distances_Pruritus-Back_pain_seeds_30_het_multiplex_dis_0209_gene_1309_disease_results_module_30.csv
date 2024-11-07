@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Back_pain nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,21,15,0.09920634920634908
+2,disease_on_drugs,27,23,-0.1497262479871173

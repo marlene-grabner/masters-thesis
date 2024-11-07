@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,26,25,0.057239819004524906
+1,disease_on_symptoms,23,23,1.7173913043478262
+2,disease_on_drugs,25,20,0.461111111111111

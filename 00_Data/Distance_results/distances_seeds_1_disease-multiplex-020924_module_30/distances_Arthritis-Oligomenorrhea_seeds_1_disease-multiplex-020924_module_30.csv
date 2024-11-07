@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.3793103448275863
+1,disease_on_symptoms,19,12,0.682937181663837
+2,disease_on_drugs,29,21,0.41684729064039416

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,17,30,0.18170289855072475
+1,disease_on_symptoms,27,15,0.19894179894179898
+2,disease_on_drugs,14,21,0.25476190476190474

@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,0.0847457627118644
+1,disease_on_symptoms,18,11,0.997561825148032
+2,disease_on_drugs,28,24,0.35989010989010994

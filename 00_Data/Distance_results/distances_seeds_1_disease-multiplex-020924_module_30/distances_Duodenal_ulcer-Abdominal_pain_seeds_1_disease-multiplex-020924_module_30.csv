@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,28,30,0.20681444991789832
+1,disease_on_symptoms,17,24,1.0650107604017216
+2,disease_on_drugs,28,24,0.5160256410256412

@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,26,24,0.07576923076923081
+1,disease_on_symptoms,20,26,1.837458193979933
+2,disease_on_drugs,27,15,0.8677248677248675

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,28,28,-0.017857142857142794
+1,disease_on_symptoms,16,15,0.06438172043010759
+2,disease_on_drugs,23,23,-0.0869565217391306

@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Basal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,26,0.17719780219780223
+1,disease_on_symptoms,19,23,1.4522719843085978
+2,disease_on_drugs,29,25,0.4853128991060025

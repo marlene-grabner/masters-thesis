@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,27,27,-0.05555555555555558
+1,disease_on_symptoms,23,21,0.8593544137022397
+2,disease_on_drugs,25,25,0.2799999999999998

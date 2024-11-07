@@ -1,0 +1,4 @@
+,Layer,Kidney_failure nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,20,29,0.3380717804363127
+1,disease_on_symptoms,23,16,1.1678511705685621
+2,disease_on_drugs,18,25,0.6330749354005167

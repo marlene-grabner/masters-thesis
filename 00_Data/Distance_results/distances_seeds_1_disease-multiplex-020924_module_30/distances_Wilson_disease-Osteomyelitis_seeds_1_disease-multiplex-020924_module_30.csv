@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,23,25,0.3729710144927536
+1,disease_on_symptoms,19,23,1.2201155061566964
+2,disease_on_drugs,11,23,1.2800511508951409

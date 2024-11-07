@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.33333333333333326
+1,disease_on_symptoms,16,18,0.1292892156862746
+2,disease_on_drugs,28,27,-0.36471861471861466

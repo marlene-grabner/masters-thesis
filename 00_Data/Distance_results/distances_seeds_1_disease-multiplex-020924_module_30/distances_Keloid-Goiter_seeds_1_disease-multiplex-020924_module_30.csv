@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Goiter nodes,sAB
+0,disease_on_genes,22,26,0.35678904428904445
+1,disease_on_symptoms,20,15,1.0690476190476192
+2,disease_on_drugs,19,16,0.48571428571428577

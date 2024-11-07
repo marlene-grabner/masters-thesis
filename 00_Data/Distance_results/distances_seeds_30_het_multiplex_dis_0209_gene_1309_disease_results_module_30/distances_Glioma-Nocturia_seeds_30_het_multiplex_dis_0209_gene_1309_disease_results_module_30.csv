@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Nocturia nodes,sAB
+0,disease_on_genes,22,25,-0.19565217391304346
+1,disease_on_symptoms,21,18,1.1617826617826617
+2,disease_on_drugs,21,24,0.13412698412698432

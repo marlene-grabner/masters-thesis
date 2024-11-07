@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Pneumonia nodes,sAB
+0,disease_on_genes,27,30,0.4569200779727096
+1,disease_on_symptoms,18,26,1.5864413364413363
+2,disease_on_drugs,21,28,1.401360544217687

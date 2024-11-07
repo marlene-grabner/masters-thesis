@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,27,30,-0.3157894736842105
+1,disease_on_symptoms,21,15,-0.8500000000000003
+2,disease_on_drugs,26,30,-0.3037545787545789

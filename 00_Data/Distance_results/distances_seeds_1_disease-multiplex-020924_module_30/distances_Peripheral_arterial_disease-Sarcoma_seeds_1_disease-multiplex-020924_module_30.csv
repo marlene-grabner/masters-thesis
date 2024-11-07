@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Sarcoma nodes,sAB
+0,disease_on_genes,25,25,0.30000000000000004
+1,disease_on_symptoms,14,26,1.2653846153846153
+2,disease_on_drugs,22,21,1.0930232558139537

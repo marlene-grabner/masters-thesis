@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,15,30,-0.2777777777777779
+1,disease_on_symptoms,25,15,-0.42500000000000004
+2,disease_on_drugs,10,22,-0.3187500000000001

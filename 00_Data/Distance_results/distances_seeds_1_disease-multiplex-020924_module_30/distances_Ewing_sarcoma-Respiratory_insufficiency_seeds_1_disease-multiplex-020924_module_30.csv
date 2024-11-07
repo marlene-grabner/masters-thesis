@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,24,25,0.5913775510204082
+1,disease_on_symptoms,25,20,1.9083333333333337
+2,disease_on_drugs,17,14,0.8928571428571428

@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,0.6166666666666667
+1,disease_on_symptoms,25,20,1.3683333333333334
+2,disease_on_drugs,7,30,0.7934362934362935

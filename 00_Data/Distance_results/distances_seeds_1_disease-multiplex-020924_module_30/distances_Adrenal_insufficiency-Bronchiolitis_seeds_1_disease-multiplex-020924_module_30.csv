@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,17,23,0.2944373401534528
+1,disease_on_symptoms,21,25,0.7216149068322983
+2,disease_on_drugs,14,18,0.3541666666666665

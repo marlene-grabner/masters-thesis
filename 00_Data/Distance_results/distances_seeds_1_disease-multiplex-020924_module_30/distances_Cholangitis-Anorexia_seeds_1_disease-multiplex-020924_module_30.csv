@@ -1,0 +1,4 @@
+,Layer,Cholangitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,17,0.24009704892057848
+1,disease_on_symptoms,22,25,1.4854158607350096
+2,disease_on_drugs,26,13,0.6794871794871795

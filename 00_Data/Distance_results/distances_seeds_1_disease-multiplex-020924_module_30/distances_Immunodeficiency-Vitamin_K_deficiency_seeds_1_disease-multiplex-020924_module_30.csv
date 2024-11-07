@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,22,25,0.19352030947775622
+1,disease_on_symptoms,19,23,2.1417129780974173
+2,disease_on_drugs,18,20,0.44853801169590635

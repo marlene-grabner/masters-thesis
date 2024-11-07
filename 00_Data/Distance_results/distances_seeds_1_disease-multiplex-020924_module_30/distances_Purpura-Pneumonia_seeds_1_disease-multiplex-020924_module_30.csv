@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Pneumonia nodes,sAB
+0,disease_on_genes,26,30,0.17683150183150165
+1,disease_on_symptoms,17,26,1.0647953277912237
+2,disease_on_drugs,20,28,0.7708333333333333

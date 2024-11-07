@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,26,22,0.27610864312991956
+1,disease_on_symptoms,20,20,0.8250000000000002
+2,disease_on_drugs,27,19,0.38859225358081173

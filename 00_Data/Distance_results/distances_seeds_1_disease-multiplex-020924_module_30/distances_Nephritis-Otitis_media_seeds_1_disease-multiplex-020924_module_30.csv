@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Otitis_media nodes,sAB
+0,disease_on_genes,30,29,-0.22180011689070722
+1,disease_on_symptoms,18,22,-0.045707070707070585
+2,disease_on_drugs,27,29,-0.19788815909505564

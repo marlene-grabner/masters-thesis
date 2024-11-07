@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Dysuria nodes,sAB
+0,disease_on_genes,24,30,0.07256948448852518
+1,disease_on_symptoms,23,16,0.7231396321070234
+2,disease_on_drugs,20,23,-0.0002275025278057896

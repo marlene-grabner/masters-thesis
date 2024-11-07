@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Cough nodes,sAB
+0,disease_on_genes,17,27,-0.05776270456503019
+1,disease_on_symptoms,27,21,0.22453703703703698
+2,disease_on_drugs,14,27,0.09798038456575031

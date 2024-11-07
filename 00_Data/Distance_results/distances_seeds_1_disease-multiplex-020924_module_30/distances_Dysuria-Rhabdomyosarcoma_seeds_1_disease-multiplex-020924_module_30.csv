@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,30,23,0.4061815246223044
+1,disease_on_symptoms,16,24,1.6395833333333334
+2,disease_on_drugs,23,17,1.4032608695652171

@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,18,-0.21408250355618774
+2,disease_on_drugs,24,29,0.1257726089785296

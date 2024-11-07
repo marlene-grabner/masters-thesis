@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,19,19,-0.18421052631578938
+2,disease_on_drugs,30,25,-0.18151515151515152

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Colonic_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.44999999999999996
+1,disease_on_symptoms,21,19,-0.7602130325814536
+2,disease_on_drugs,27,29,-0.39290275497172045

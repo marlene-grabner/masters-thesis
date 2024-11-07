@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,West_syndrome nodes,sAB
+0,disease_on_genes,25,29,0.43999999999999995
+1,disease_on_symptoms,22,18,1.6641414141414141
+2,disease_on_drugs,24,22,0.9384057971014492

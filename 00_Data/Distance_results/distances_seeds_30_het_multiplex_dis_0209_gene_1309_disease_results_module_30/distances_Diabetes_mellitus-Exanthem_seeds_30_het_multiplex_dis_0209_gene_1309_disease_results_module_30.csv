@@ -1,0 +1,4 @@
+,Layer,Diabetes_mellitus nodes,Exanthem nodes,sAB
+0,disease_on_genes,21,30,-0.13431372549019605
+1,disease_on_symptoms,22,21,0.599919460384577
+2,disease_on_drugs,19,29,-0.061895039322444

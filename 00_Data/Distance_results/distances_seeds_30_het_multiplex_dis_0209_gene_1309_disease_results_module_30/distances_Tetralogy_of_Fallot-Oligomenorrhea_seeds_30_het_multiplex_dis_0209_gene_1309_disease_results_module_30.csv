@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,29,-0.10084745762711866
+1,disease_on_symptoms,19,11,0.5051036682615626
+2,disease_on_drugs,20,24,-0.07727272727272738

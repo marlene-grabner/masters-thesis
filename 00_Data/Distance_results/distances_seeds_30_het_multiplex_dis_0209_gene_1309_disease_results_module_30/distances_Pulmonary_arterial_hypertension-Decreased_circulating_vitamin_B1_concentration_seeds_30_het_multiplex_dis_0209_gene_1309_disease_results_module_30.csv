@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,28,30,-0.06896551724137934
+1,disease_on_symptoms,17,17,0.9117647058823528
+2,disease_on_drugs,25,25,0.040000000000000036

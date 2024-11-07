@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Obesity nodes,sAB
+0,disease_on_genes,30,27,-0.2485380116959065
+1,disease_on_symptoms,13,18,0.07637165701681825
+2,disease_on_drugs,22,25,-0.0830754352030949

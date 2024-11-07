@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,0.19148148148148136
+1,disease_on_symptoms,21,25,1.7840579710144928
+2,disease_on_drugs,27,23,1.079484702093398

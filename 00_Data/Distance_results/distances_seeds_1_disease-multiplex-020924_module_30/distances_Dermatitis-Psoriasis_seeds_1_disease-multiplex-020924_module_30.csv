@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Psoriasis nodes,sAB
+0,disease_on_genes,26,28,-0.05458221024258747
+1,disease_on_symptoms,25,21,0.6695238095238096
+2,disease_on_drugs,24,28,0.23031135531135538

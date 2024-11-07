@@ -1,0 +1,4 @@
+,Layer,Erythroderma nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,20,18,0.6051169590643275
+2,disease_on_drugs,29,24,-0.04982650184341786

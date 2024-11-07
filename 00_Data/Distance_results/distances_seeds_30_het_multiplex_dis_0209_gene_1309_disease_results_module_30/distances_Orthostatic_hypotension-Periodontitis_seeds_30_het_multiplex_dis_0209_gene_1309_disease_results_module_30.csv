@@ -1,0 +1,4 @@
+,Layer,Orthostatic_hypotension nodes,Periodontitis nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,20,21,0.3374564459930314
+2,disease_on_drugs,28,28,-0.07142857142857162

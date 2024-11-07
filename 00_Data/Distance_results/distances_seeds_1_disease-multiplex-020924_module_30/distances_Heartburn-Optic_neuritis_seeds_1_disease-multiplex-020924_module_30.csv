@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,24,27,0.11369825708060999
+1,disease_on_symptoms,20,16,0.9895833333333335
+2,disease_on_drugs,22,27,0.5320724249295679

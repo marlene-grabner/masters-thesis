@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Nasal_polyposis nodes,sAB
+0,disease_on_genes,26,15,0.08486554096310184
+1,disease_on_symptoms,28,25,0.33537735849056616
+2,disease_on_drugs,23,10,-0.15204216073781285

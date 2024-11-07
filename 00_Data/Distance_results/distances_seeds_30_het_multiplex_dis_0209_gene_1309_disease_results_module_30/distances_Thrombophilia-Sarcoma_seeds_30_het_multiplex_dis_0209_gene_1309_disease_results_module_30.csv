@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,27,30,0.2807017543859649
+1,disease_on_symptoms,18,23,1.0491634264168728
+2,disease_on_drugs,22,24,0.4390645586297761

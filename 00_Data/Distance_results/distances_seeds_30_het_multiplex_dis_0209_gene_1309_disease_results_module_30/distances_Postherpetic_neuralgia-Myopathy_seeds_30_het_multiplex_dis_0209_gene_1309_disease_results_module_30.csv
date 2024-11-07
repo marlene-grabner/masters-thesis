@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Myopathy nodes,sAB
+0,disease_on_genes,30,23,-0.26415094339622647
+1,disease_on_symptoms,16,22,-0.08133971291866038
+2,disease_on_drugs,29,21,-0.518128078817734

@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,26,27,-0.24565930226307575
+1,disease_on_symptoms,24,22,-0.1800889328063242
+2,disease_on_drugs,24,24,-0.2499999999999999

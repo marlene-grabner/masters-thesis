@@ -1,0 +1,4 @@
+,Layer,Seizure nodes,Epididymitis nodes,sAB
+0,disease_on_genes,30,29,0.05084745762711873
+1,disease_on_symptoms,21,23,0.8809053265575006
+2,disease_on_drugs,29,26,0.34292259464673247

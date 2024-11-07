@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,24,26,0.1617807658180328
+1,disease_on_symptoms,23,21,1.4942123094297006
+2,disease_on_drugs,20,24,0.8840909090909093

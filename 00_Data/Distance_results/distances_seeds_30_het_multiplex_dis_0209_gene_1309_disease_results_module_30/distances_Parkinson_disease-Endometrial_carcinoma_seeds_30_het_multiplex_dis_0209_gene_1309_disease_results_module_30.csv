@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Endometrial_carcinoma nodes,sAB
+0,disease_on_genes,23,26,0.020408163265306145
+1,disease_on_symptoms,23,21,0.5926501035196687
+2,disease_on_drugs,22,26,0.06672494172494159

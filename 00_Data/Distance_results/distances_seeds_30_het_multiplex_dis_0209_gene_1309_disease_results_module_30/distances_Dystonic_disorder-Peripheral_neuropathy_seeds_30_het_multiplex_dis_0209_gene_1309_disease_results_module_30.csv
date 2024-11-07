@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,30,30,-0.44999999999999996
+1,disease_on_symptoms,17,21,-0.8928202860091403
+2,disease_on_drugs,26,29,-0.4925006028454305

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,28,30,0.06896551724137923
+1,disease_on_symptoms,20,17,0.8683227344992053
+2,disease_on_drugs,25,29,0.4800510855683269

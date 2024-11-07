@@ -1,0 +1,4 @@
+,Layer,Peripheral_vascular_disease nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,25,30,-0.056363636363636394
+1,disease_on_symptoms,17,17,0.5588235294117649
+2,disease_on_drugs,25,26,0.17717948717948695

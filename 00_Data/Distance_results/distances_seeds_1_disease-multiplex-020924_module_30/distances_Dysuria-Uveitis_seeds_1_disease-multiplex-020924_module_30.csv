@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.18380089616208828
+1,disease_on_symptoms,16,21,1.243122586872587
+2,disease_on_drugs,23,27,0.3597423510466988

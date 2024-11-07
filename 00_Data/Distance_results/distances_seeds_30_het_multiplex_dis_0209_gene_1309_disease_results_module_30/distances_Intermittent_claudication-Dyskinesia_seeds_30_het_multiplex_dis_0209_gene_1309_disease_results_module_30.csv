@@ -1,0 +1,4 @@
+,Layer,Intermittent_claudication nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,0.16666666666666674
+1,disease_on_symptoms,14,15,0.7172413793103447
+2,disease_on_drugs,24,28,0.4132326007326006

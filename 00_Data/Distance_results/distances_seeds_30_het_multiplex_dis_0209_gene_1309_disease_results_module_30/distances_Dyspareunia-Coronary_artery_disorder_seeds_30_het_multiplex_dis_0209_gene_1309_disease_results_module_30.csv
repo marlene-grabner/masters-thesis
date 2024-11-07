@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,23,-0.04096989966555198
+1,disease_on_symptoms,20,19,0.5972334682861
+2,disease_on_drugs,28,22,-0.03590909090909089

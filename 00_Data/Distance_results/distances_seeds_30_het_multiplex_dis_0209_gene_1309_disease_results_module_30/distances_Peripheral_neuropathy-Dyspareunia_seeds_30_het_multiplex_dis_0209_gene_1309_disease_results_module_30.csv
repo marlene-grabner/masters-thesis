@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,21,20,0.09994192799070856
+2,disease_on_drugs,29,28,0.08703871748336356

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,17,20,0.3123211446740861
+2,disease_on_drugs,26,28,-0.03469678469678472

@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,-0.001818181818181941
+1,disease_on_symptoms,17,26,1.117226139113964
+2,disease_on_drugs,30,24,0.49629629629629624

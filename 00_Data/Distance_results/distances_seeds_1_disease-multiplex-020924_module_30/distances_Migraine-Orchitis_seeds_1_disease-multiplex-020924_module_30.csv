@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Orchitis nodes,sAB
+0,disease_on_genes,30,23,0.09874213836477996
+1,disease_on_symptoms,14,16,1.781845238095238
+2,disease_on_drugs,29,17,0.7020460358056266

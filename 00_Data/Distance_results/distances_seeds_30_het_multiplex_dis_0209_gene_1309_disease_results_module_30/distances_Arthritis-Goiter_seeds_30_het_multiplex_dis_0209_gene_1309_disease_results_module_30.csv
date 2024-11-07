@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1607142857142858
+1,disease_on_symptoms,20,12,0.5645833333333332
+2,disease_on_drugs,29,18,0.328095703921089

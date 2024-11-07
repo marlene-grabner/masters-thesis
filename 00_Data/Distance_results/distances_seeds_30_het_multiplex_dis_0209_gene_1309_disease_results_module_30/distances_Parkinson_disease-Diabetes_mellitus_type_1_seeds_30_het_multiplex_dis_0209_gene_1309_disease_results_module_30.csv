@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,23,30,-0.15094339622641506
+1,disease_on_symptoms,23,18,0.9855072463768115
+2,disease_on_drugs,22,26,0.023455710955710973

@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,26,27,-0.11357039187227858
+1,disease_on_symptoms,18,21,0.20482295482295476
+2,disease_on_drugs,25,25,0.15999999999999992

@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Erysipelas nodes,sAB
+0,disease_on_genes,29,28,0.38533834586466176
+1,disease_on_symptoms,18,20,1.5271929824561405
+2,disease_on_drugs,30,27,0.9833333333333334

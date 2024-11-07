@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,29,0.125
+1,disease_on_symptoms,18,11,1.3778300243817483
+2,disease_on_drugs,22,24,0.41551383399209474

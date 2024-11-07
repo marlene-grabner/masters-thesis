@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,30,30,0.46666666666666656
+1,disease_on_symptoms,16,14,2.3797619047619047
+2,disease_on_drugs,21,11,0.7648809523809523

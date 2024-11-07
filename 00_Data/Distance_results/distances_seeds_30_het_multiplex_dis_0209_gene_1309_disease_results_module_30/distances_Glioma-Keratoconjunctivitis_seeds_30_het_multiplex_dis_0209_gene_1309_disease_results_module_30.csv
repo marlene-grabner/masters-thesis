@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,22,29,0.03921568627450989
+1,disease_on_symptoms,21,20,1.2168118466898954
+2,disease_on_drugs,21,27,0.3313492063492065

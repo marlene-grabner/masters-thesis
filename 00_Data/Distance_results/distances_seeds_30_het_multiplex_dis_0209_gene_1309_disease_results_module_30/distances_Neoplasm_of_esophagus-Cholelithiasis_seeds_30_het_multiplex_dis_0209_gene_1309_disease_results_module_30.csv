@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,29,25,0.07535121328224781
+1,disease_on_symptoms,20,20,1.1
+2,disease_on_drugs,25,18,0.47997416020671846

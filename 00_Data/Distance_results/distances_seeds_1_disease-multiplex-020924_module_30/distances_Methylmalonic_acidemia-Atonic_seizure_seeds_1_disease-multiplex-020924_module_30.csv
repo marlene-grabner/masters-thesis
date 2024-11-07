@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,25,29,0.36275862068965514
+1,disease_on_symptoms,16,16,1.375
+2,disease_on_drugs,17,24,0.9949784791965568

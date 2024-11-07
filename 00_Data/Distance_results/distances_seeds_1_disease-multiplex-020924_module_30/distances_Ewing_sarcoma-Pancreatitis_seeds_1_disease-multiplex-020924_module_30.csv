@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,24,30,0.5189814814814815
+1,disease_on_symptoms,25,20,1.3972222222222226
+2,disease_on_drugs,17,30,1.3404255319148937

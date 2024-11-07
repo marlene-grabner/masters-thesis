@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,22,30,0.38636363636363624
+1,disease_on_symptoms,23,21,1.299736495388669
+2,disease_on_drugs,17,29,0.7545197989240673

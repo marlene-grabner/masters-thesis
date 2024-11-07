@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,27,22,-0.02779495636638485
+1,disease_on_symptoms,21,19,1.0561403508771932
+2,disease_on_drugs,27,19,0.17577760827188738

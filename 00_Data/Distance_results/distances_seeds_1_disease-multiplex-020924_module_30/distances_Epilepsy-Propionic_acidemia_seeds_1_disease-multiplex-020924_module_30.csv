@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Propionic_acidemia nodes,sAB
+0,disease_on_genes,29,22,0.019607843137254832
+1,disease_on_symptoms,18,17,0.2233893557422968
+2,disease_on_drugs,30,21,0.02955182072829121

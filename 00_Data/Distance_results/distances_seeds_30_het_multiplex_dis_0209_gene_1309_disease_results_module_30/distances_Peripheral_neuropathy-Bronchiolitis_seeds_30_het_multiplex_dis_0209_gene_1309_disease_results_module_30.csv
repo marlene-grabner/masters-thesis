@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.18965517241379315
+1,disease_on_symptoms,21,25,-0.1484886128364391
+2,disease_on_drugs,29,24,-0.12079809152027754

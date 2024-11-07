@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,23,30,0.14539239814055227
+1,disease_on_symptoms,19,20,2.4356275303643726
+2,disease_on_drugs,11,24,1.272619047619048

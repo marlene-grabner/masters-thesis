@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Myalgia nodes,sAB
+0,disease_on_genes,26,30,0.039285714285714146
+1,disease_on_symptoms,21,16,1.27759009009009
+2,disease_on_drugs,25,29,0.7748148148148148

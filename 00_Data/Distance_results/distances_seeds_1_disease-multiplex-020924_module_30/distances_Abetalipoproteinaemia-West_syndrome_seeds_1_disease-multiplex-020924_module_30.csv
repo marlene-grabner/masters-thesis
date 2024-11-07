@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,West_syndrome nodes,sAB
+0,disease_on_genes,17,29,0.3836317135549874
+1,disease_on_symptoms,25,18,-0.1226873385012921
+2,disease_on_drugs,13,22,0.075824175824176

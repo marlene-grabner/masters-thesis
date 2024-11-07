@@ -1,0 +1,4 @@
+,Layer,Duodenal_ulcer nodes,Blepharitis nodes,sAB
+0,disease_on_genes,28,20,0.21011904761904754
+1,disease_on_symptoms,17,27,1.281540899187958
+2,disease_on_drugs,28,19,0.4792833146696527

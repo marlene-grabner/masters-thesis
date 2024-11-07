@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Ascites nodes,sAB
+0,disease_on_genes,26,30,0.06868131868131888
+1,disease_on_symptoms,21,17,0.37571870853604583
+2,disease_on_drugs,26,27,0.01919045315271717

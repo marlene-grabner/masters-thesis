@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,0.22575250836120397
+1,disease_on_symptoms,19,15,2.753663570691435
+2,disease_on_drugs,19,29,1.1041666666666665

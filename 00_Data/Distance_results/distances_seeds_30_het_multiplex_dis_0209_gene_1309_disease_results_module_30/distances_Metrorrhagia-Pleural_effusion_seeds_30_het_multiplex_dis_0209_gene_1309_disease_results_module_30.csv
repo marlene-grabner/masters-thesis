@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,29,30,-0.052631578947368474
+1,disease_on_symptoms,17,18,-0.03823529411764692
+2,disease_on_drugs,26,27,-0.055999032414126626

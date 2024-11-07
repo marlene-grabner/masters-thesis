@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,25,-0.023148148148147918
+1,disease_on_symptoms,22,20,0.8385281385281385
+2,disease_on_drugs,29,21,0.10617405582922834

@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,27,30,-0.21150097465886952
+1,disease_on_symptoms,23,16,0.030100334448160515
+2,disease_on_drugs,25,27,-0.00022792022792028632

@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,30,30,-0.13333333333333341
+1,disease_on_symptoms,17,20,0.6035373608903023
+2,disease_on_drugs,26,29,0.03477212442729671

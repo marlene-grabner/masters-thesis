@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Cough nodes,sAB
+0,disease_on_genes,27,27,0.05555555555555558
+1,disease_on_symptoms,16,22,1.245663875598086
+2,disease_on_drugs,23,24,0.406028368794326

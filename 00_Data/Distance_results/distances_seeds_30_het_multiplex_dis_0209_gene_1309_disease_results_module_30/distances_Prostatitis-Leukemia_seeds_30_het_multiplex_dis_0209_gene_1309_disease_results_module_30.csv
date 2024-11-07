@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,22,21,0.5978556327393534
+2,disease_on_drugs,28,30,0.20669129720853863

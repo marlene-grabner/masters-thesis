@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,16,29,0.16388888888888897
+1,disease_on_symptoms,26,25,0.7799095022624436
+2,disease_on_drugs,14,27,0.15040650406504086

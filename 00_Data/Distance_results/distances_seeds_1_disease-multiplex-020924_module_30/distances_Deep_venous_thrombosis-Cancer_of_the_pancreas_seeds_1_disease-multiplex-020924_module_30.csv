@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,29,0.2628446115288221
+1,disease_on_symptoms,14,16,1.5910714285714287
+2,disease_on_drugs,24,29,0.869551073519844

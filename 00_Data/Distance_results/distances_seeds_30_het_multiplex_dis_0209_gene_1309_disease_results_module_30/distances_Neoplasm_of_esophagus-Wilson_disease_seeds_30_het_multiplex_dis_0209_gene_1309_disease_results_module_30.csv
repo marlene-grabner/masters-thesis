@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,29,25,-0.31353767560664103
+1,disease_on_symptoms,20,19,-0.5698380566801622
+2,disease_on_drugs,25,22,-0.3916827852998065

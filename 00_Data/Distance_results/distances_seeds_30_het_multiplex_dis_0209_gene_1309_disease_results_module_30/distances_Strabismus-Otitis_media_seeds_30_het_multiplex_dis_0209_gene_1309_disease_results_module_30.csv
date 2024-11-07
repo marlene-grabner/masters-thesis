@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Otitis_media nodes,sAB
+0,disease_on_genes,17,29,0.03263074345180339
+1,disease_on_symptoms,24,20,0.9132575757575758
+2,disease_on_drugs,16,28,0.4460227272727273

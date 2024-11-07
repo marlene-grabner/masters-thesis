@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.20945419103313823
+1,disease_on_symptoms,15,16,0.006518817204301142
+2,disease_on_drugs,26,27,0.15091651884104706

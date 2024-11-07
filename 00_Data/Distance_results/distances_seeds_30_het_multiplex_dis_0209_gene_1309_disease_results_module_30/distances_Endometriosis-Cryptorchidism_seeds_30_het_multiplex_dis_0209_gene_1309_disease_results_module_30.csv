@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,-0.22708504238446814
+1,disease_on_symptoms,16,19,-0.21141917293233092
+2,disease_on_drugs,30,21,-0.2488795518207283

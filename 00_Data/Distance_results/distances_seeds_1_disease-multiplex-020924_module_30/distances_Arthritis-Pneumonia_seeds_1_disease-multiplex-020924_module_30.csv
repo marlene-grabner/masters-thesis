@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,19,26,0.27910481331533976
+2,disease_on_drugs,29,28,0.35178463399879

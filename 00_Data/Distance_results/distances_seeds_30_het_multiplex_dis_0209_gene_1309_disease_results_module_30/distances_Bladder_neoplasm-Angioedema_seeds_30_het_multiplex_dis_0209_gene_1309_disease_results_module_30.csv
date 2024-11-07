@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Angioedema nodes,sAB
+0,disease_on_genes,26,30,0.08928571428571419
+1,disease_on_symptoms,19,18,0.6465939623834362
+2,disease_on_drugs,25,26,0.27677224736048256

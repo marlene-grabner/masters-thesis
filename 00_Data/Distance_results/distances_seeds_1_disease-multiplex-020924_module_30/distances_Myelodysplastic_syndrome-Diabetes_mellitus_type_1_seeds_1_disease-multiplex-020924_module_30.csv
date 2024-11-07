@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,26,13,0.5512820512820513
+1,disease_on_symptoms,15,25,3.541666666666667
+2,disease_on_drugs,21,8,1.169950738916256

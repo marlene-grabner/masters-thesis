@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.27463054187192126
+1,disease_on_symptoms,14,25,0.583992673992674
+2,disease_on_drugs,27,23,0.3577455716586151

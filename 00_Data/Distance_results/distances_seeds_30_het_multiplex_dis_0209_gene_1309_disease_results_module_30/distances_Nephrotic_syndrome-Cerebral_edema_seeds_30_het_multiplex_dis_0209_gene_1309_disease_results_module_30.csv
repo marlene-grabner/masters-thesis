@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,15,10,0.18000000000000016
+2,disease_on_drugs,28,16,-0.09862012987012991

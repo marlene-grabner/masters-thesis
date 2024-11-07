@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.35251322751322767
+1,disease_on_symptoms,15,20,0.8857142857142855
+2,disease_on_drugs,15,28,0.8635658914728683

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Emphysema nodes,sAB
+0,disease_on_genes,22,30,0.22983682983682963
+1,disease_on_symptoms,24,14,0.7968358395989976
+2,disease_on_drugs,20,29,0.791326530612245

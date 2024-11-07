@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,-0.05555555555555558
+1,disease_on_symptoms,18,12,0.2111111111111108
+2,disease_on_drugs,25,23,0.12282608695652186

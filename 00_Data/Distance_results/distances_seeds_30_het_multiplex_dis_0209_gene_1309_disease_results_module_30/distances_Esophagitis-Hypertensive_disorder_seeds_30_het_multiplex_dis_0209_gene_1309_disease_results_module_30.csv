@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.06929824561403508
+1,disease_on_symptoms,20,21,0.26361788617886184
+2,disease_on_drugs,30,26,0.25576923076923075

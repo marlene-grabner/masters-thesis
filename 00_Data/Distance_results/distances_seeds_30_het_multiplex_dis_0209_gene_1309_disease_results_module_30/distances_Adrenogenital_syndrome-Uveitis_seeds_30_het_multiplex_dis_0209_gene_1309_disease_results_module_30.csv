@@ -1,0 +1,4 @@
+,Layer,Adrenogenital_syndrome nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.25
+1,disease_on_symptoms,9,20,0.08275862068965534
+2,disease_on_drugs,23,23,-0.021739130434782705

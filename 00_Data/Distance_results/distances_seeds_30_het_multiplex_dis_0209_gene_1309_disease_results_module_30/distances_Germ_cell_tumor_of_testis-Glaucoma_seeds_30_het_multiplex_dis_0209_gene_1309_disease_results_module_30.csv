@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,27,30,-0.17748538011695925
+1,disease_on_symptoms,22,18,0.18106060606060614
+2,disease_on_drugs,20,28,0.0625

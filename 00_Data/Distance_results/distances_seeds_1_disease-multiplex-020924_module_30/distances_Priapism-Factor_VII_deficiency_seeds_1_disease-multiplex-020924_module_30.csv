@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.43393939393939407
+1,disease_on_symptoms,17,23,2.5375319693094625
+2,disease_on_drugs,28,21,0.7763605442176871

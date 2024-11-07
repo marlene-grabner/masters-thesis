@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,26,27,0.15094339622641506
+1,disease_on_symptoms,17,17,1.1764705882352942
+2,disease_on_drugs,23,26,0.45000341273633193

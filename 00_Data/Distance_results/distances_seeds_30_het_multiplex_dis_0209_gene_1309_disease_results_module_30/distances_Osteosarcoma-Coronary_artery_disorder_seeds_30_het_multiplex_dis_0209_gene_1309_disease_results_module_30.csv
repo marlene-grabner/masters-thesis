@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,-0.09280831282471969
+1,disease_on_symptoms,22,19,0.8132804294550124
+2,disease_on_drugs,29,22,0.19543303214702812

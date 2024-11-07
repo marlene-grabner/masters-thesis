@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.2050925925925926
+1,disease_on_symptoms,14,21,0.5999999999999999
+2,disease_on_drugs,24,24,0.5625000000000002

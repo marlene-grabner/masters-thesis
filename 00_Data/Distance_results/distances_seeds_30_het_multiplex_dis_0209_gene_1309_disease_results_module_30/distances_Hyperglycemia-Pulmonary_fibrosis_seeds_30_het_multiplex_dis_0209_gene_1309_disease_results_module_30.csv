@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Pulmonary_fibrosis nodes,sAB
+0,disease_on_genes,30,25,-0.12575757575757573
+1,disease_on_symptoms,17,22,0.8046414369943782
+2,disease_on_drugs,26,25,0.00030165912518831384

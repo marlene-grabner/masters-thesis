@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,-0.33090909090909093
+1,disease_on_symptoms,17,21,-0.3740232935279375
+2,disease_on_drugs,26,24,-0.15871794871794886

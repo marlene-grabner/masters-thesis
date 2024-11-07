@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Headache nodes,sAB
+0,disease_on_genes,26,30,0.1426739926739926
+1,disease_on_symptoms,23,25,1.275398550724638
+2,disease_on_drugs,25,26,0.9023378582202113

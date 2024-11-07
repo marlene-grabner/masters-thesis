@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Hepatocellular_carcinoma nodes,sAB
+0,disease_on_genes,30,24,-0.33333333333333337
+1,disease_on_symptoms,21,23,-0.45431018257105216
+2,disease_on_drugs,27,22,-0.2476465333608191

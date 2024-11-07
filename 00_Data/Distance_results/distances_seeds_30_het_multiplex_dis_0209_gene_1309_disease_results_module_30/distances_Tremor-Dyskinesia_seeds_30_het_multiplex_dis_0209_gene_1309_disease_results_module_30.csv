@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,27,30,-0.5964912280701755
+1,disease_on_symptoms,17,15,-0.697058823529412
+2,disease_on_drugs,24,28,-0.6556776556776557

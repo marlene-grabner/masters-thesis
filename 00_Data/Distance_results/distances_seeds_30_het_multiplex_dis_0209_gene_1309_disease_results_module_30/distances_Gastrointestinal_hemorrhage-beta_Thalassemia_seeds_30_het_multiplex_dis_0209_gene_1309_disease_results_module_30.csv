@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,28,30,-0.017857142857142794
+1,disease_on_symptoms,20,13,0.09428904428904428
+2,disease_on_drugs,27,24,-0.026552287581699252

@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,26,29,0.25454545454545463
+1,disease_on_symptoms,15,15,1.5666666666666669
+2,disease_on_drugs,21,29,0.8285714285714285

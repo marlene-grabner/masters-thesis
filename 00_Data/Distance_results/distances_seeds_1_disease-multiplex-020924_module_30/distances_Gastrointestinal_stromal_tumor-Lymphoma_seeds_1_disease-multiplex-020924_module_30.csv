@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Lymphoma nodes,sAB
+0,disease_on_genes,23,26,-0.046293768343457664
+1,disease_on_symptoms,20,21,0.7564459930313592
+2,disease_on_drugs,19,25,0.09636363636363643

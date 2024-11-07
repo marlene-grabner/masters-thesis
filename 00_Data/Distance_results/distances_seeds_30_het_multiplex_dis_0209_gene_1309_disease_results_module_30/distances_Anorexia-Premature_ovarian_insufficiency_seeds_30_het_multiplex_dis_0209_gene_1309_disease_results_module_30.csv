@@ -1,0 +1,4 @@
+,Layer,Anorexia nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,29,30,-0.13560296123124882
+1,disease_on_symptoms,13,18,0.4540253653156876
+2,disease_on_drugs,28,22,0.07220779220779217

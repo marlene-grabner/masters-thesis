@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,28,30,0.13793103448275867
+1,disease_on_symptoms,18,16,0.9354575163398695
+2,disease_on_drugs,23,25,0.5142753623188405

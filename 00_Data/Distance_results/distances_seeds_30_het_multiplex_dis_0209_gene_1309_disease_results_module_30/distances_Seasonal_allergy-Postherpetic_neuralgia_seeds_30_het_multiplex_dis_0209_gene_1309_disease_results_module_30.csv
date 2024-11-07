@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,29,30,-0.03389830508474578
+1,disease_on_symptoms,18,16,0.7647058823529411
+2,disease_on_drugs,29,29,0.017241379310344973

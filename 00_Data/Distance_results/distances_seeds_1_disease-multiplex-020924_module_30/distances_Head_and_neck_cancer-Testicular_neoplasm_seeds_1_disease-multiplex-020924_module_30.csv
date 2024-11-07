@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,27,25,-0.3277492877492879
+1,disease_on_symptoms,22,25,-0.1556092843326886
+2,disease_on_drugs,24,23,-0.38301726796176383

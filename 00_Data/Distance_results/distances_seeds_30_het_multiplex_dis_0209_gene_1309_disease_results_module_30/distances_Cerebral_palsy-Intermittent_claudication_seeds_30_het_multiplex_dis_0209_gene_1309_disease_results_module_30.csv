@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.31666666666666665
+1,disease_on_symptoms,13,14,0.6766381766381766
+2,disease_on_drugs,21,24,0.26369047619047636

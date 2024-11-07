@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Obesity nodes,sAB
+0,disease_on_genes,29,27,-0.41208264915161485
+1,disease_on_symptoms,20,18,-0.007309941520467822
+2,disease_on_drugs,25,25,-0.28000000000000014

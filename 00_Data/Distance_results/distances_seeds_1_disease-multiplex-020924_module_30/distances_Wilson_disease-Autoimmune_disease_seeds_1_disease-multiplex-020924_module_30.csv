@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,23,22,0.3781730346947738
+1,disease_on_symptoms,19,19,2.026315789473684
+2,disease_on_drugs,11,19,0.5070175438596494

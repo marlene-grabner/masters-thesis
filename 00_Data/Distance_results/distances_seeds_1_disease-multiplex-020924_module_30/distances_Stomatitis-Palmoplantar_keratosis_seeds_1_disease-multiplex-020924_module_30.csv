@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.32499999999999996
+1,disease_on_symptoms,23,19,1.3070175438596492
+2,disease_on_drugs,30,18,0.726388888888889

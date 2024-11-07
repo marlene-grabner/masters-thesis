@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.5
+1,disease_on_symptoms,17,25,1.5476750700280113
+2,disease_on_drugs,25,7,0.8460714285714286

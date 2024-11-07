@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,West_syndrome nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,16,13,-0.7582062334217508
+2,disease_on_drugs,21,19,-0.5528822055137846

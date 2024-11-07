@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,-0.07327044025157226
+1,disease_on_symptoms,18,17,0.8336601307189544
+2,disease_on_drugs,26,22,-0.12368881118881125

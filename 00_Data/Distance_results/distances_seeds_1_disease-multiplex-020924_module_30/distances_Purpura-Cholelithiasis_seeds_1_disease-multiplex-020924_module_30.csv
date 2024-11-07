@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,26,25,0.4709351432880844
+1,disease_on_symptoms,17,19,1.8641210870313036
+2,disease_on_drugs,20,18,1.077485380116959

@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,29,25,0.08814814814814809
+1,disease_on_symptoms,25,23,0.5965942028985507
+2,disease_on_drugs,27,23,0.429855072463768

@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,27,28,0.2178210678210677
+1,disease_on_symptoms,17,15,1.8723039215686275
+2,disease_on_drugs,24,21,0.6444444444444444

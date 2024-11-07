@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.13735632183908042
+1,disease_on_symptoms,21,17,0.4139761167624947
+2,disease_on_drugs,29,25,0.0330523627075352

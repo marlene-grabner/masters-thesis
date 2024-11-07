@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,24,29,0.11612177401865109
+1,disease_on_symptoms,18,16,0.7536764705882355
+2,disease_on_drugs,18,25,0.2558139534883721

@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,29,28,0.5102843315184513
+1,disease_on_symptoms,22,12,1.1858288770053478
+2,disease_on_drugs,29,21,0.9368472906403942

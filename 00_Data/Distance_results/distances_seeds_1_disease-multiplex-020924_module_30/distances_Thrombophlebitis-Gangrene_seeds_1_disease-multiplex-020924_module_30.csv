@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,28,26,0.18650793650793673
+1,disease_on_symptoms,15,19,1.6581011351909185
+2,disease_on_drugs,21,23,0.13735177865612647

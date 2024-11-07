@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,30,29,0.2542372881355932
+1,disease_on_symptoms,13,27,1.7077635327635325
+2,disease_on_drugs,22,28,0.9246753246753248

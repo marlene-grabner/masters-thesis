@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,30,30,-0.2333333333333334
+1,disease_on_symptoms,17,18,0.37259570494864613
+2,disease_on_drugs,26,28,-0.07437932437932449

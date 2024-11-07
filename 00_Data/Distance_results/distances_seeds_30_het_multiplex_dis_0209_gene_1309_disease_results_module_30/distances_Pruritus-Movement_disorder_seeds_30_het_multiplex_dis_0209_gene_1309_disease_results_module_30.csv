@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Movement_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.03518518518518521
+1,disease_on_symptoms,21,17,0.8485183547103055
+2,disease_on_drugs,27,26,0.07215234102026558

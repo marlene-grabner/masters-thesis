@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Allergic_rhinitis nodes,sAB
+0,disease_on_genes,30,21,0.2928571428571427
+1,disease_on_symptoms,16,22,3.1692583732057416
+2,disease_on_drugs,21,21,0.8571428571428568

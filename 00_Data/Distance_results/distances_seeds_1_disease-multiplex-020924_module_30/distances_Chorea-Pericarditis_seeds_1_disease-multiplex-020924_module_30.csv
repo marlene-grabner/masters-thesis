@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Pericarditis nodes,sAB
+0,disease_on_genes,14,25,0.502747252747253
+1,disease_on_symptoms,27,22,1.3340548340548342
+2,disease_on_drugs,8,25,0.7053787878787878

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,28,-0.32899230399230406
+1,disease_on_symptoms,16,19,-0.7230263157894736
+2,disease_on_drugs,18,26,-0.3146853146853146

@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,16,15,0.040725806451612945
+2,disease_on_drugs,23,28,0.013259651686761575

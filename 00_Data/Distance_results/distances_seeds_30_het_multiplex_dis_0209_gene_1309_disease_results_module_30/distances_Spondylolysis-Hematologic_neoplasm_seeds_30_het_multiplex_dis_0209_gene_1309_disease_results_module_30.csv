@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,28,30,0.0
+1,disease_on_symptoms,17,18,0.027030812324930098
+2,disease_on_drugs,19,27,-0.08543096872616318

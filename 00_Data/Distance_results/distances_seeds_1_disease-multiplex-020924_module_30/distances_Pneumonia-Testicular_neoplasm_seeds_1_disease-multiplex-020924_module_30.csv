@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.2903030303030303
+1,disease_on_symptoms,26,25,0.9433634992458522
+2,disease_on_drugs,28,23,1.2898550724637683

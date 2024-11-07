@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Pericarditis nodes,sAB
+0,disease_on_genes,22,25,0.2722437137330753
+1,disease_on_symptoms,19,22,1.7597736025207142
+2,disease_on_drugs,18,25,0.23129198966408282

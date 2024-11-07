@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.08791423001949328
+1,disease_on_symptoms,26,20,-0.21914715719063538
+2,disease_on_drugs,28,25,-0.018867924528301883

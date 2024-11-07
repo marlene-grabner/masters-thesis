@@ -1,0 +1,4 @@
+,Layer,Autoimmune_disease nodes,Blepharitis nodes,sAB
+0,disease_on_genes,22,20,-0.020670995670995618
+1,disease_on_symptoms,19,27,1.0849648275277564
+2,disease_on_drugs,19,19,-0.1578947368421053

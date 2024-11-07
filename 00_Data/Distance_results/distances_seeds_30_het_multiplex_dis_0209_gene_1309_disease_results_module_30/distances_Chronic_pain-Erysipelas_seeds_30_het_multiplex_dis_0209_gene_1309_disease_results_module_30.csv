@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Erysipelas nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,19,18,-0.024063537221432174
+2,disease_on_drugs,28,29,-0.13825512056002087

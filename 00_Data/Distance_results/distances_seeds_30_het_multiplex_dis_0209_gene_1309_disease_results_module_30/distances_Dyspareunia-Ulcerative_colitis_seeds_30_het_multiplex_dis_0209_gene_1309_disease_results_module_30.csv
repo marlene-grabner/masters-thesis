@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,29,27,-0.2678571428571429
+1,disease_on_symptoms,20,20,-0.32499999999999996
+2,disease_on_drugs,28,27,-0.30681818181818177

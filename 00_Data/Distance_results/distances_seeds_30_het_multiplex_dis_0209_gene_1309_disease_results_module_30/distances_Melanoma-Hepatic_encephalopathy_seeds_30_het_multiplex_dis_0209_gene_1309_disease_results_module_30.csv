@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,27,30,0.016569200779727122
+1,disease_on_symptoms,23,14,0.7821050864529129
+2,disease_on_drugs,25,29,0.20671775223499367

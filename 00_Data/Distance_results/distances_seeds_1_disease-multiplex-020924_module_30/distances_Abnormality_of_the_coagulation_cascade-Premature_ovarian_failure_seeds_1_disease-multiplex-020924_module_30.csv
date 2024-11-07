@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,23,28,-0.10443307757885745
+1,disease_on_symptoms,23,21,0.7664690382081685
+2,disease_on_drugs,18,21,-0.13308913308913328

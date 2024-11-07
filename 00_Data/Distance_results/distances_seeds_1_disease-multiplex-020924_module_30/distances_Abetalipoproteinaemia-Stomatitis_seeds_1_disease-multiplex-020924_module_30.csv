@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Stomatitis nodes,sAB
+0,disease_on_genes,17,30,0.26101376720901115
+1,disease_on_symptoms,25,23,0.7725
+2,disease_on_drugs,13,30,0.5359570661896245

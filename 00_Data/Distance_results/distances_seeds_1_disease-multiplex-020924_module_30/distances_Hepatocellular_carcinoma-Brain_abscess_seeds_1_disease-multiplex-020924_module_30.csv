@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,23,27,0.24244766505636073
+1,disease_on_symptoms,19,21,1.524812030075188
+2,disease_on_drugs,19,23,0.9648033126293996

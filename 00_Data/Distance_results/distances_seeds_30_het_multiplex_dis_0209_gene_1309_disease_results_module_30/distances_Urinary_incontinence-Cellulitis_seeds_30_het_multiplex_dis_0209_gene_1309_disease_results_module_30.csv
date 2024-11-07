@@ -1,0 +1,4 @@
+,Layer,Urinary_incontinence nodes,Cellulitis nodes,sAB
+0,disease_on_genes,29,30,0.23728813559322037
+1,disease_on_symptoms,20,20,1.475
+2,disease_on_drugs,20,26,0.6001672240802676

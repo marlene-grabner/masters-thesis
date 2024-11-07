@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.11450216450216444
+1,disease_on_symptoms,19,26,-0.23351327035537572
+2,disease_on_drugs,24,14,0.023496240601503793

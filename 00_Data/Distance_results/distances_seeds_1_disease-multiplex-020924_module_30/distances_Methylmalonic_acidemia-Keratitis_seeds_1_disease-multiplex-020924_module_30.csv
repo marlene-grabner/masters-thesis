@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Keratitis nodes,sAB
+0,disease_on_genes,25,28,0.3914555256064691
+1,disease_on_symptoms,16,25,1.242317073170732
+2,disease_on_drugs,17,23,0.3303708439897699

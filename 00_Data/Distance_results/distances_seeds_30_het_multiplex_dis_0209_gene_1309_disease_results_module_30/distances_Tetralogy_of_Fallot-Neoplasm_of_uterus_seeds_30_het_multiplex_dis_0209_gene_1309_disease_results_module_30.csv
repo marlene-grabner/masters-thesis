@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,30,-0.03333333333333344
+1,disease_on_symptoms,19,18,0.35439386755176194
+2,disease_on_drugs,20,26,-0.016806020066889582

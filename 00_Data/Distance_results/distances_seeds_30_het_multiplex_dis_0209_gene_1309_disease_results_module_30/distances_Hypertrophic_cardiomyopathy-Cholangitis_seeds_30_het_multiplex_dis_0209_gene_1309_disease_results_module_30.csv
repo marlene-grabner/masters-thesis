@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,19,18,-0.15998893630472555
+2,disease_on_drugs,22,28,-0.2015584415584415

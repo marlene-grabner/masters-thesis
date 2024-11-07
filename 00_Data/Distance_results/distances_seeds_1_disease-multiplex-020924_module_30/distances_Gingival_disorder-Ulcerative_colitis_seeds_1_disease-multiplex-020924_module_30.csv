@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,21,27,-0.045965608465608376
+1,disease_on_symptoms,26,20,0.8937290969899667
+2,disease_on_drugs,20,25,0.0

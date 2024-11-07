@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Arthralgia nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,14,17,0.6684738411493631
+2,disease_on_drugs,29,30,-0.018147282291057998

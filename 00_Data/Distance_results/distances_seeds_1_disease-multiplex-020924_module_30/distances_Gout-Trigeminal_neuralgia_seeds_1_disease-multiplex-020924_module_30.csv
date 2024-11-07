@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,25,28,0.07510781671159017
+1,disease_on_symptoms,18,19,0.7038880986249407
+2,disease_on_drugs,23,26,0.18485086342229207

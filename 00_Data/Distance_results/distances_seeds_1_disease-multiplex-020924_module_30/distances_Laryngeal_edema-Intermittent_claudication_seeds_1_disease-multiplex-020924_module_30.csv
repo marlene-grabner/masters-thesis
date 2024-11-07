@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.14500000000000002
+1,disease_on_symptoms,20,24,0.9087121212121212
+2,disease_on_drugs,28,18,0.4222739820565906

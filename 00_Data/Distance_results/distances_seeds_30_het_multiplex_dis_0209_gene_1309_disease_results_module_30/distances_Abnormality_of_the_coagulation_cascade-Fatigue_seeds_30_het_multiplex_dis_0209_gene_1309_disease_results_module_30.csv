@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Fatigue nodes,sAB
+0,disease_on_genes,24,26,-0.1776923076923077
+1,disease_on_symptoms,24,16,1.3583333333333334
+2,disease_on_drugs,23,26,-0.1442393010715992

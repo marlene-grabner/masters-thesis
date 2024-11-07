@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,24,0.17851307189542487
+1,disease_on_symptoms,17,19,1.2758857929136567
+2,disease_on_drugs,24,20,0.2681818181818181

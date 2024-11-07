@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,23,21,0.11443628834933173
+1,disease_on_symptoms,25,22,0.8052611218568666
+2,disease_on_drugs,22,20,0.6163419913419912

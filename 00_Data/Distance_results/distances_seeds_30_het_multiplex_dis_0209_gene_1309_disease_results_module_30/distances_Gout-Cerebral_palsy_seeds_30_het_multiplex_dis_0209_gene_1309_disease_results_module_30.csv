@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Cerebral_palsy nodes,sAB
+0,disease_on_genes,28,30,0.0683497536945814
+1,disease_on_symptoms,19,13,0.5406123481781377
+2,disease_on_drugs,22,21,-0.02345716299204681

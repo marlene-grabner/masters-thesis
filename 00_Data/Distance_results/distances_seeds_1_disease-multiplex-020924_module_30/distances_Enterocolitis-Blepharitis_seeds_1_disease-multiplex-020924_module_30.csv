@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,27,20,-0.04351851851851851
+1,disease_on_symptoms,21,27,0.5241402116402119
+2,disease_on_drugs,24,19,-0.09672072623419026

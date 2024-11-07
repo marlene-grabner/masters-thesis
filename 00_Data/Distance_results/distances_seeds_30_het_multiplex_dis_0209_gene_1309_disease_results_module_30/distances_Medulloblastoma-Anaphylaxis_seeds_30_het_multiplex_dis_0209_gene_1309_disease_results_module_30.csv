@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,27,27,0.03703703703703698
+1,disease_on_symptoms,22,14,1.2611832611832612
+2,disease_on_drugs,26,26,0.5576923076923077

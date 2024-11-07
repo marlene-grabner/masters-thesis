@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,14,29,0.24936991637071837
+1,disease_on_symptoms,27,16,0.8717700258397933
+2,disease_on_drugs,8,24,0.59375

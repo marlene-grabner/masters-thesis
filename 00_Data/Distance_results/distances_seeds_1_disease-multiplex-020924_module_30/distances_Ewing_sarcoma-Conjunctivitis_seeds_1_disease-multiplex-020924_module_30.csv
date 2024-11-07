@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,24,27,0.33074618736383443
+1,disease_on_symptoms,25,27,0.9210826210826211
+2,disease_on_drugs,17,26,0.5196779964221827

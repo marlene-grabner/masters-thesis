@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,18,20,0.18508771929824563
+1,disease_on_symptoms,18,23,2.829710144927536
+2,disease_on_drugs,10,18,0.5031746031746029

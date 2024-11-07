@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,29,29,0.051724137931034475
+1,disease_on_symptoms,19,20,0.999055330634278
+2,disease_on_drugs,29,20,0.4893033075299087

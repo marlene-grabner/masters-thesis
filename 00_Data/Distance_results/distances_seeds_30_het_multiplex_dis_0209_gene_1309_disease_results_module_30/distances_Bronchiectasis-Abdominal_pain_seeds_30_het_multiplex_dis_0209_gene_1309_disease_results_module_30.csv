@@ -1,0 +1,4 @@
+,Layer,Bronchiectasis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,19,19,-0.3157894736842104
+2,disease_on_drugs,25,29,-0.022298850574712592

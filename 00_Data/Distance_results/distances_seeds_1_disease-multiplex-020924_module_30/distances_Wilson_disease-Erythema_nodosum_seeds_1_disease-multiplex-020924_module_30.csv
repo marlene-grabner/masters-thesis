@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,23,28,0.20678053830227738
+1,disease_on_symptoms,19,23,0.35572627220224473
+2,disease_on_drugs,11,28,0.18727106227106227

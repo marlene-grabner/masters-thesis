@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Gangrene nodes,sAB
+0,disease_on_genes,30,27,-0.03508771929824561
+1,disease_on_symptoms,18,22,0.43484848484848504
+2,disease_on_drugs,27,27,0.12962962962962976

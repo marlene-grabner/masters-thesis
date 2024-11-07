@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,-0.3899999999999999
+1,disease_on_symptoms,18,23,-0.2937139154000237
+2,disease_on_drugs,27,17,-0.35997227173697766

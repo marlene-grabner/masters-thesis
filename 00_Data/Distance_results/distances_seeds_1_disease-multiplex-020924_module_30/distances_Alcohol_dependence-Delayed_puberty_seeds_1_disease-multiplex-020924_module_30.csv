@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,12,22,0.3890692640692641
+1,disease_on_symptoms,27,20,2.184771473601261
+2,disease_on_drugs,9,19,0.6934001670843775

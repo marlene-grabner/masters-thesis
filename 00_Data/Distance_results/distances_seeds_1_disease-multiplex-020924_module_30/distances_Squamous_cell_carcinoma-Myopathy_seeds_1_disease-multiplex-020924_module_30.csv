@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Myopathy nodes,sAB
+0,disease_on_genes,16,18,0.7638888888888888
+1,disease_on_symptoms,26,21,2.129802821292183
+2,disease_on_drugs,14,6,0.2333333333333334

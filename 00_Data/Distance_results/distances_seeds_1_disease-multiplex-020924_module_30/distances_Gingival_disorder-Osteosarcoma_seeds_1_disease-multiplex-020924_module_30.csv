@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,21,25,0.2346583850931676
+1,disease_on_symptoms,26,24,1.37724358974359
+2,disease_on_drugs,20,23,0.9534883720930232

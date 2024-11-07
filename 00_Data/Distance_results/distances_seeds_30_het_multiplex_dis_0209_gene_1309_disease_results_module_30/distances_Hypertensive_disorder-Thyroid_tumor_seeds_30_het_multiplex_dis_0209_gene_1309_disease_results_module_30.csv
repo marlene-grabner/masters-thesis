@@ -1,0 +1,4 @@
+,Layer,Hypertensive_disorder nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.09999999999999998
+1,disease_on_symptoms,21,20,0.8770325203252032
+2,disease_on_drugs,26,20,0.15142140468227416

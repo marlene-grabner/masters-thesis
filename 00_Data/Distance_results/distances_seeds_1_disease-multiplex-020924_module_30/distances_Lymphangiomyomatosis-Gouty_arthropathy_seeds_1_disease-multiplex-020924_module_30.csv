@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,26,25,0.3121568627450979
+1,disease_on_symptoms,19,13,0.830592105263158
+2,disease_on_drugs,22,16,0.2761662679425836

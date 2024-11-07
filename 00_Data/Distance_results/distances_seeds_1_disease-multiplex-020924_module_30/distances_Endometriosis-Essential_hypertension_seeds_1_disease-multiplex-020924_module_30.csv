@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.13608374384236455
+1,disease_on_symptoms,12,14,1.0531135531135534
+2,disease_on_drugs,27,28,0.3642857142857143

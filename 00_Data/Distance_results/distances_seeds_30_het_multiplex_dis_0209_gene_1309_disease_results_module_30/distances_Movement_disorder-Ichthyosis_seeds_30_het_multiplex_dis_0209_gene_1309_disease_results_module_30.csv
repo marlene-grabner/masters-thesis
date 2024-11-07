@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Ichthyosis nodes,sAB
+0,disease_on_genes,30,28,-0.1724548440065683
+1,disease_on_symptoms,17,18,-0.3184407096171804
+2,disease_on_drugs,26,25,-0.19235294117647062

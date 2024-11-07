@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Autoimmune_disease nodes,sAB
+0,disease_on_genes,30,22,0.25524475524475543
+1,disease_on_symptoms,17,19,1.6881664946680428
+2,disease_on_drugs,25,19,1.012775119617225

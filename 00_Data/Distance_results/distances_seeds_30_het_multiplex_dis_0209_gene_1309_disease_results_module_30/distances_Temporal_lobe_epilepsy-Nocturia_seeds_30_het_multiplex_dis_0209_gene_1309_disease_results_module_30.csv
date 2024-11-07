@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Nocturia nodes,sAB
+0,disease_on_genes,30,25,-0.2592592592592593
+1,disease_on_symptoms,17,18,0.07628384687208212
+2,disease_on_drugs,28,24,-0.36217948717948734

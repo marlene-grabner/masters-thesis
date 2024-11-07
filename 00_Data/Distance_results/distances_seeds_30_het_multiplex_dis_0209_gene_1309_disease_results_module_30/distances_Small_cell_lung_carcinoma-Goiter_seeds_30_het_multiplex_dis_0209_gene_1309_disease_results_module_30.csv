@@ -1,0 +1,4 @@
+,Layer,Small_cell_lung_carcinoma nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.03571428571428581
+1,disease_on_symptoms,19,12,1.1463638936049803
+2,disease_on_drugs,30,18,0.3194444444444444

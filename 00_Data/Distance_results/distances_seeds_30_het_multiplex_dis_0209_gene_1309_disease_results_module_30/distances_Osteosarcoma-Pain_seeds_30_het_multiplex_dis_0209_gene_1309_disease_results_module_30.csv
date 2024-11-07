@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Pain nodes,sAB
+0,disease_on_genes,30,26,-0.1404761904761903
+1,disease_on_symptoms,22,16,1.2026016746411485
+2,disease_on_drugs,29,26,0.1994574391126116

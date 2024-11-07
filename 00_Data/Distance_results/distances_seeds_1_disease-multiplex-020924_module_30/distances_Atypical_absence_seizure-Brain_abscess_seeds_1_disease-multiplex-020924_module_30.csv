@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,29,27,0.05092592592592604
+1,disease_on_symptoms,15,21,1.0976190476190475
+2,disease_on_drugs,27,23,0.45252818035426734

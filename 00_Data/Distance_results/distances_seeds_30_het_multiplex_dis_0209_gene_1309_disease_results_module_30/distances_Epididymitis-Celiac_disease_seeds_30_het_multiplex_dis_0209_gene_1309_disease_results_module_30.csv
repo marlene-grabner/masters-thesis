@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,29,30,0.06779661016949157
+1,disease_on_symptoms,23,18,-0.004772004241781591
+2,disease_on_drugs,26,28,-0.016178266178266343

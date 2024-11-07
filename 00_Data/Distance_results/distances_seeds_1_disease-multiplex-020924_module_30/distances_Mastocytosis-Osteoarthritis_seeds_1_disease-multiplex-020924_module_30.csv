@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,18,25,0.30105943152454784
+1,disease_on_symptoms,28,20,1.282142857142857
+2,disease_on_drugs,17,21,0.3622291021671826

@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Anorexia nodes,sAB
+0,disease_on_genes,24,29,-0.13044892648015605
+1,disease_on_symptoms,23,13,1.1804162021553326
+2,disease_on_drugs,22,28,0.2431168831168833

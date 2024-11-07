@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Erysipelas nodes,sAB
+0,disease_on_genes,28,28,0.2500000000000002
+1,disease_on_symptoms,21,20,0.8105691056910571
+2,disease_on_drugs,21,27,0.32738095238095233

@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.06878787878787884
+1,disease_on_symptoms,17,22,1.2325174825174825
+2,disease_on_drugs,26,24,0.602051282051282

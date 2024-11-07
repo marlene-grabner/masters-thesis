@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,0.06896551724137923
+1,disease_on_symptoms,21,22,0.24927010973522634
+2,disease_on_drugs,29,15,0.1181295715778472

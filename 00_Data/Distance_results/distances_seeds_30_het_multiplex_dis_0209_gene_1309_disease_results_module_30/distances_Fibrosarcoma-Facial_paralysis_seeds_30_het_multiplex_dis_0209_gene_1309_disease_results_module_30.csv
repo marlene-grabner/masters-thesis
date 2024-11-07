@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,30,22,0.1923076923076923
+1,disease_on_symptoms,14,21,0.730952380952381
+2,disease_on_drugs,26,17,0.34410186256971476

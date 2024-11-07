@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,20,0.15714285714285703
+1,disease_on_symptoms,24,24,1.5208333333333335
+2,disease_on_drugs,28,18,0.44013112491373363

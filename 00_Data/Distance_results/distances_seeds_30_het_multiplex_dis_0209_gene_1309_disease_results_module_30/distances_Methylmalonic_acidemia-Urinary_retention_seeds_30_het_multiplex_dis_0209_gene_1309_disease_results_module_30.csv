@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,-0.1454545454545455
+1,disease_on_symptoms,17,16,0.42184714795008915
+2,disease_on_drugs,21,28,-0.0518707482993197

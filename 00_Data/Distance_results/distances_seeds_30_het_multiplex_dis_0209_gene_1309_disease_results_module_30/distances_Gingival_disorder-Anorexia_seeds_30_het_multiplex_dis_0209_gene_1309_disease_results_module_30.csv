@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.06808883693746337
+1,disease_on_symptoms,19,13,0.5123987854251011
+2,disease_on_drugs,24,28,0.10645604395604402

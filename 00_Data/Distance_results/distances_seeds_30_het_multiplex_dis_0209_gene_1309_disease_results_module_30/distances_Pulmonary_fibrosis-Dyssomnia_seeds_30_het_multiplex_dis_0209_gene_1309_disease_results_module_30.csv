@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,25,18,0.11627906976744184
+1,disease_on_symptoms,22,21,2.4464663243733007
+2,disease_on_drugs,25,17,0.2949579831932774

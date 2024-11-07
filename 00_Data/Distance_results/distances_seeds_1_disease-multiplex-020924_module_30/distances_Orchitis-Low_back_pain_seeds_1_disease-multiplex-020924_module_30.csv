@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,23,30,0.20974842767295598
+1,disease_on_symptoms,16,17,0.8892045454545454
+2,disease_on_drugs,17,26,0.5507471324844786

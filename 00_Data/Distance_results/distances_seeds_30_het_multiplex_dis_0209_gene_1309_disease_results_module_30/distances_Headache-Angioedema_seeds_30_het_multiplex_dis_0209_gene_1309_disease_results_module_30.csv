@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,23,18,-0.2286438081772122
+2,disease_on_drugs,23,26,-0.2702204627670466

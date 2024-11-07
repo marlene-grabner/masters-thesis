@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,0.28181818181818175
+1,disease_on_symptoms,23,21,1.479578392621871
+2,disease_on_drugs,19,29,1.1530172413793105

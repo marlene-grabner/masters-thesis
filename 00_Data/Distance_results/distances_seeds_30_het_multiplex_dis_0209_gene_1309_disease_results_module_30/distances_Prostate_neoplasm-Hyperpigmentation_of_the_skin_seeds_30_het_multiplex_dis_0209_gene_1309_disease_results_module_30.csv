@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,21,30,-0.08263305322128844
+1,disease_on_symptoms,20,17,-0.016017488076311537
+2,disease_on_drugs,21,28,0.16156462585034004

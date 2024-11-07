@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,25,0.21369532428355953
+1,disease_on_symptoms,18,13,1.8819961400606564
+2,disease_on_drugs,23,16,0.19150641025641035

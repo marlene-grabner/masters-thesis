@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,28,17,0.45228758169934635
+1,disease_on_symptoms,21,22,2.852713178294574
+2,disease_on_drugs,21,15,0.47460317460317447

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,9,22,0.3959758879113717
+1,disease_on_symptoms,27,21,2.882936507936508
+2,disease_on_drugs,9,6,0.8333333333333335

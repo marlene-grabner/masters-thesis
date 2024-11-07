@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Glioma nodes,sAB
+0,disease_on_genes,30,22,-0.11282051282051275
+1,disease_on_symptoms,20,21,0.21193379790940758
+2,disease_on_drugs,30,21,0.12268907563025233

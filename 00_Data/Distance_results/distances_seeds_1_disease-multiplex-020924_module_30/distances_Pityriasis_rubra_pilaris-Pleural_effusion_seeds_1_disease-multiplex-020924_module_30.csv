@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,28,30,0.0005747126436781436
+1,disease_on_symptoms,23,20,0.10356420626895857
+2,disease_on_drugs,26,22,0.044871794871794934

@@ -1,0 +1,4 @@
+,Layer,Gingival_disorder nodes,Sepsis nodes,sAB
+0,disease_on_genes,21,22,-0.20832074901842335
+1,disease_on_symptoms,26,23,1.0499624599003483
+2,disease_on_drugs,20,17,-0.13990461049284575

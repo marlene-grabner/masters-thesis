@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,27,25,-0.11467236467236475
+1,disease_on_symptoms,21,20,0.5141114982578396
+2,disease_on_drugs,27,18,-0.11296296296296315

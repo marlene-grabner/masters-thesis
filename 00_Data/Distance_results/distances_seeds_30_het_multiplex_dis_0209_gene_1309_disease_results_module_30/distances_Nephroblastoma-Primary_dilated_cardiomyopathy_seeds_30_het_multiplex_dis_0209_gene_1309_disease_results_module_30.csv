@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,29,30,0.050555230859146816
+1,disease_on_symptoms,20,24,0.936742424242424
+2,disease_on_drugs,24,15,-0.2791666666666668

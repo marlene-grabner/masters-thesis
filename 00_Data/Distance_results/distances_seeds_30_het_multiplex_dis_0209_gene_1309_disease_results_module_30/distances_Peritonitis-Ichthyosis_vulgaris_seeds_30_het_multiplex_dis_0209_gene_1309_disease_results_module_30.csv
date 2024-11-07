@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.0
+1,disease_on_symptoms,14,21,0.6452380952380952
+2,disease_on_drugs,24,24,0.02083333333333348

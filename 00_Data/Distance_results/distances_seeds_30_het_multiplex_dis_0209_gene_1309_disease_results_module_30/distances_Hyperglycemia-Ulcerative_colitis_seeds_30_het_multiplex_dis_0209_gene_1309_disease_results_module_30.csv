@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Ulcerative_colitis nodes,sAB
+0,disease_on_genes,30,27,-0.06929824561403508
+1,disease_on_symptoms,17,20,1.1109697933227347
+2,disease_on_drugs,26,27,0.01669085631349776

@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,-0.03394909688013148
+1,disease_on_symptoms,17,20,0.10254372019077906
+2,disease_on_drugs,28,28,0.0714285714285714

@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Peripheral_neuropathy nodes,sAB
+0,disease_on_genes,27,30,-0.26315789473684215
+1,disease_on_symptoms,21,21,-0.04761904761904767
+2,disease_on_drugs,23,29,-0.3420597393610886

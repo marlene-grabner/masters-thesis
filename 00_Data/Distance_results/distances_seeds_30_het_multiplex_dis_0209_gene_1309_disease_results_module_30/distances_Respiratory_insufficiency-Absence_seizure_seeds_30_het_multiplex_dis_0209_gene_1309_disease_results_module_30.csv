@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,27,30,0.07017543859649122
+1,disease_on_symptoms,21,14,1.342857142857143
+2,disease_on_drugs,25,22,-0.015938104448742774

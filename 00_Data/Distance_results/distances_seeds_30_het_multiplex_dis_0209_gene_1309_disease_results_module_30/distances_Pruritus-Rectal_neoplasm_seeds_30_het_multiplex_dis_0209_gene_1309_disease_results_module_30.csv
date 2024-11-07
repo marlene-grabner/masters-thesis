@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,-9.74658869394851e-05
+1,disease_on_symptoms,21,20,0.5622822299651566
+2,disease_on_drugs,27,29,0.25043331508848765

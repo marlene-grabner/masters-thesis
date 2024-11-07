@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,27,23,-0.16000000000000003
+1,disease_on_symptoms,17,20,0.11943561208267095
+2,disease_on_drugs,17,20,-0.1354928457869634

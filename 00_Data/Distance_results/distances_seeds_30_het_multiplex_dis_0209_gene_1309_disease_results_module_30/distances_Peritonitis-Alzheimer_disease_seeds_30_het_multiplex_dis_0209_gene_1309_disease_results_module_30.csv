@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.24528301886792447
+1,disease_on_symptoms,14,19,-0.25341763499658265
+2,disease_on_drugs,24,19,-0.4095522235822113

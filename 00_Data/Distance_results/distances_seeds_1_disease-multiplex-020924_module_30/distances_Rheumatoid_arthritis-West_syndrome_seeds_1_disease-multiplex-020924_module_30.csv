@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,West_syndrome nodes,sAB
+0,disease_on_genes,27,29,0.3908730158730158
+1,disease_on_symptoms,15,18,1.4202020202020202
+2,disease_on_drugs,25,22,0.6608510638297873

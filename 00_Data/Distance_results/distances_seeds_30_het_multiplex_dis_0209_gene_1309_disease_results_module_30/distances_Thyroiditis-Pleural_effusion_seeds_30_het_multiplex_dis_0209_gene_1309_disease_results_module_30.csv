@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,21,18,-0.22252747252747263
+2,disease_on_drugs,29,27,-0.10816912972085402

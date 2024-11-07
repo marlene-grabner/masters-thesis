@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,25,14,0.2998901098901099
+1,disease_on_symptoms,23,23,2.782608695652174
+2,disease_on_drugs,21,14,0.7809523809523808

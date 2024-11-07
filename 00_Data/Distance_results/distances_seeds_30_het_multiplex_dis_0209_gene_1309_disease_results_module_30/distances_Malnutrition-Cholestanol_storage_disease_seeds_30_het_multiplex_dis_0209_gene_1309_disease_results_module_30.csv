@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.3223261250730566
+1,disease_on_symptoms,14,18,-0.09474206349206327
+2,disease_on_drugs,29,28,-0.21059113300492616

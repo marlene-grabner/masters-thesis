@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,28,30,0.0862068965517242
+1,disease_on_symptoms,16,18,0.5175653594771243
+2,disease_on_drugs,23,26,0.13144153982663287

@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,30,28,0.27586206896551735
+1,disease_on_symptoms,22,12,1.5935828877005345
+2,disease_on_drugs,28,21,0.7882653061224489

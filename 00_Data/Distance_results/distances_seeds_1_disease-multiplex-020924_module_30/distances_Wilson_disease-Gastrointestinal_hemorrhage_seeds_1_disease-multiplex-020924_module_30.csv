@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,23,27,0.3142673107890497
+1,disease_on_symptoms,19,19,1.236842105263158
+2,disease_on_drugs,11,27,1.236842105263158

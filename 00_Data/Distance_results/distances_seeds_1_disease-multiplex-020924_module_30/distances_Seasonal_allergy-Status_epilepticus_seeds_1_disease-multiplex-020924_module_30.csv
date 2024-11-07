@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,29,29,0.22413793103448265
+1,disease_on_symptoms,15,17,1.633455882352941
+2,disease_on_drugs,29,30,0.6607247223845705

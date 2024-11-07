@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,30,28,0.08669950738916232
+1,disease_on_symptoms,13,15,0.35311355311355297
+2,disease_on_drugs,18,21,0.4294871794871793

@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,14,20,1.0957983193277312
+2,disease_on_drugs,21,23,0.3198757763975155

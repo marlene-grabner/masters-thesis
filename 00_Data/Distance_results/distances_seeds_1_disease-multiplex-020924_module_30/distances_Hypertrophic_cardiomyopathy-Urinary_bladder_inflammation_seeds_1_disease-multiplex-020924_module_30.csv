@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,30,25,0.43393939393939407
+1,disease_on_symptoms,17,22,0.9512203482791719
+2,disease_on_drugs,17,24,0.9166666666666665

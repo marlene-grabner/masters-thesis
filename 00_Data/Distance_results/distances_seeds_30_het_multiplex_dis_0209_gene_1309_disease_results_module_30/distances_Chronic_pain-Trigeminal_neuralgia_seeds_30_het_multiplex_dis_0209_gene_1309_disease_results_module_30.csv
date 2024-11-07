@@ -1,0 +1,4 @@
+,Layer,Chronic_pain nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.41666666666666663
+1,disease_on_symptoms,19,15,-0.669453044375645
+2,disease_on_drugs,28,25,-0.43873315363881404

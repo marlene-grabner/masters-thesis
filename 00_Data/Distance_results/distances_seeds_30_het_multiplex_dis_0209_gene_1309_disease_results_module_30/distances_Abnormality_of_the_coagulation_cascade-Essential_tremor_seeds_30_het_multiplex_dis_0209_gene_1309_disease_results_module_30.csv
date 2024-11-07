@@ -1,0 +1,4 @@
+,Layer,Abnormality_of_the_coagulation_cascade nodes,Essential_tremor nodes,sAB
+0,disease_on_genes,24,21,0.06666666666666665
+1,disease_on_symptoms,24,23,0.9989207523897625
+2,disease_on_drugs,23,21,0.36711838885751935

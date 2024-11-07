@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,26,26,0.07880844645550544
+1,disease_on_symptoms,25,21,1.2761490683229815
+2,disease_on_drugs,24,25,0.4693537414965987

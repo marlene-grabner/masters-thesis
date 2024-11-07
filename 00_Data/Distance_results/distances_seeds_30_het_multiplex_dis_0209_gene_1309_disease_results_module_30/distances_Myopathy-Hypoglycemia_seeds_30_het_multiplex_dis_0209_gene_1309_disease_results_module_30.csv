@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,23,30,-0.1298742138364779
+1,disease_on_symptoms,22,19,0.17989263624693663
+2,disease_on_drugs,21,27,-0.30886243386243395

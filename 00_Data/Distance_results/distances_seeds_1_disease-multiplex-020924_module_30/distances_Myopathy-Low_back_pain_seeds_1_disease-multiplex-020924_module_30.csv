@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,Low_back_pain nodes,sAB
+0,disease_on_genes,18,30,0.5180555555555555
+1,disease_on_symptoms,21,17,1.325814536340852
+2,disease_on_drugs,6,26,0.3237179487179489

@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,29,23,-0.04096989966555198
+1,disease_on_symptoms,11,19,1.78755980861244
+2,disease_on_drugs,24,22,-0.08547430830039526

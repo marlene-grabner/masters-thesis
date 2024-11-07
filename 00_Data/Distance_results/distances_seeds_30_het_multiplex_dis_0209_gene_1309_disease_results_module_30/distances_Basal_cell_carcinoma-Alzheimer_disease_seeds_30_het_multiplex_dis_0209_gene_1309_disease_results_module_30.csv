@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.07547169811320753
+1,disease_on_symptoms,24,19,0.5503110975112198
+2,disease_on_drugs,27,19,0.07352317993050272

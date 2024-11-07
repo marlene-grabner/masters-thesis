@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,22,29,-0.33333333333333337
+1,disease_on_symptoms,21,19,-0.1261278195488722
+2,disease_on_drugs,21,29,-0.3376354679802954

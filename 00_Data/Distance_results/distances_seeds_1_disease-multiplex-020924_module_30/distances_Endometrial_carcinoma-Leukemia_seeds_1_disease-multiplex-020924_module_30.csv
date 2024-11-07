@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Leukemia nodes,sAB
+0,disease_on_genes,23,18,0.10551431601272543
+1,disease_on_symptoms,21,27,1.0582010582010581
+2,disease_on_drugs,21,17,0.4455992923485186

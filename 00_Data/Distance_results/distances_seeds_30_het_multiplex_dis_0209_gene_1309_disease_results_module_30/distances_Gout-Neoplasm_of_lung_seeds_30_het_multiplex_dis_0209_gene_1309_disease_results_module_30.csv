@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Neoplasm_of_lung nodes,sAB
+0,disease_on_genes,28,30,-0.08682266009852213
+1,disease_on_symptoms,19,19,0.3421052631578947
+2,disease_on_drugs,22,30,-0.022843822843822803

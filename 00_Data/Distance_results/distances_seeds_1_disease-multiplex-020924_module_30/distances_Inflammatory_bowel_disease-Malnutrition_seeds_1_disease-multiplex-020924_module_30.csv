@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Malnutrition nodes,sAB
+0,disease_on_genes,17,26,0.08951465201465214
+1,disease_on_symptoms,27,18,1.2925925925925925
+2,disease_on_drugs,14,23,0.2615830115830118

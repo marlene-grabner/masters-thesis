@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.3778787878787879
+1,disease_on_symptoms,16,23,2.8253901895206237
+2,disease_on_drugs,21,21,0.7142857142857142

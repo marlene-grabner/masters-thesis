@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Abetalipoproteinaemia nodes,sAB
+0,disease_on_genes,30,14,-0.05238095238095242
+1,disease_on_symptoms,20,26,0.1857023411371237
+2,disease_on_drugs,30,14,0.2506493506493508

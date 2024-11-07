@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Cough nodes,sAB
+0,disease_on_genes,24,27,0.15672657952069713
+1,disease_on_symptoms,18,21,0.16025641025641013
+2,disease_on_drugs,18,27,0.34074074074074057

@@ -1,0 +1,4 @@
+,Layer,Erysipelas nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,18,12,0.39166666666666683
+2,disease_on_drugs,29,18,0.3229599739137523

@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,29,28,-0.4038328580070867
+1,disease_on_symptoms,23,17,-0.4455242966751918
+2,disease_on_drugs,27,18,-0.5259259259259261

@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Pericarditis nodes,sAB
+0,disease_on_genes,29,25,0.0953504043126685
+1,disease_on_symptoms,17,22,1.146236116824352
+2,disease_on_drugs,25,25,0.3599999999999999

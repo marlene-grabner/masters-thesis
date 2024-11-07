@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Neurogenic_bladder nodes,sAB
+0,disease_on_genes,28,30,-0.1724137931034483
+1,disease_on_symptoms,16,18,-0.11805555555555536
+2,disease_on_drugs,23,21,-0.3832580463015247

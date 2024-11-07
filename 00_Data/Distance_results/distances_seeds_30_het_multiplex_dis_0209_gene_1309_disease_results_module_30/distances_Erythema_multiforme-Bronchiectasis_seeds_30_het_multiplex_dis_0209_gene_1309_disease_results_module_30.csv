@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,19,0.2154259522680575
+2,disease_on_drugs,30,25,0.10272727272727278

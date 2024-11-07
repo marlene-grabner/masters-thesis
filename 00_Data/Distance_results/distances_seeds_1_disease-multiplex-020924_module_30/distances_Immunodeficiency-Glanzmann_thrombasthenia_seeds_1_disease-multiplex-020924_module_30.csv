@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,22,24,0.2588109354413701
+1,disease_on_symptoms,19,21,1.132706766917293
+2,disease_on_drugs,18,24,0.5347222222222223

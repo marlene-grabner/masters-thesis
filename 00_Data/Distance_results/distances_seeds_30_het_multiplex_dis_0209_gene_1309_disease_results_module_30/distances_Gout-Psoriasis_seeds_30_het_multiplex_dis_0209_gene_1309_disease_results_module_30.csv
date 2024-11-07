@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,30,-0.17302955665024622
+1,disease_on_symptoms,19,17,-0.16795665634674917
+2,disease_on_drugs,22,30,-0.2728438228438228

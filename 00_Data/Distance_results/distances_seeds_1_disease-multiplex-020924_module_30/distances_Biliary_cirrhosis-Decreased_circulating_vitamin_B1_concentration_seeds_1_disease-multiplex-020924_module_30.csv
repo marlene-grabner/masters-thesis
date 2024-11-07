@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,26,25,0.428627450980392
+1,disease_on_symptoms,15,13,1.7247252747252744
+2,disease_on_drugs,15,16,1.1661962365591398

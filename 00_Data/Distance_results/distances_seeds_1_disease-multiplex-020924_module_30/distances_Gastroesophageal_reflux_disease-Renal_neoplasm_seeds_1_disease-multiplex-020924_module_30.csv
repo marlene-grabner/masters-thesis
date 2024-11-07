@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Renal_neoplasm nodes,sAB
+0,disease_on_genes,26,22,0.19886363636363624
+1,disease_on_symptoms,17,25,1.1829131652661062
+2,disease_on_drugs,25,18,1.096279069767442

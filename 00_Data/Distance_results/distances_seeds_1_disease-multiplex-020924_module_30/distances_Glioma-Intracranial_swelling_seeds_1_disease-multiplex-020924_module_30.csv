@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,22,30,0.40291375291375275
+1,disease_on_symptoms,24,14,0.6708959899749374
+2,disease_on_drugs,20,24,0.3632575757575758

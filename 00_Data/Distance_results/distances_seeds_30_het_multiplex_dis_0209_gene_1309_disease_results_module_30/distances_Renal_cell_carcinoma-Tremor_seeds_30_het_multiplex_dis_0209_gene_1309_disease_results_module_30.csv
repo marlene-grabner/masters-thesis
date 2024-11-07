@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Tremor nodes,sAB
+0,disease_on_genes,27,27,-0.12962962962962976
+1,disease_on_symptoms,22,17,1.7107500342794462
+2,disease_on_drugs,22,24,0.3476613965744402

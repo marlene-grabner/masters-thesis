@@ -1,0 +1,4 @@
+,Layer,Severe_myoclonic_epilepsy_in_infancy nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.536904761904762
+1,disease_on_symptoms,16,15,1.7094086021505377
+2,disease_on_drugs,21,21,1.0

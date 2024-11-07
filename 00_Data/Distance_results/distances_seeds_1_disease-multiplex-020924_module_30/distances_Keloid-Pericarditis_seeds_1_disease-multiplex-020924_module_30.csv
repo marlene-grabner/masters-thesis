@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Pericarditis nodes,sAB
+0,disease_on_genes,22,25,0.01837524177949712
+1,disease_on_symptoms,20,22,1.2348484848484849
+2,disease_on_drugs,19,25,0.18454545454545457

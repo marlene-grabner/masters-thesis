@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,30,27,-0.01754385964912286
+1,disease_on_symptoms,20,21,0.7020034843205578
+2,disease_on_drugs,30,25,0.12848484848484842

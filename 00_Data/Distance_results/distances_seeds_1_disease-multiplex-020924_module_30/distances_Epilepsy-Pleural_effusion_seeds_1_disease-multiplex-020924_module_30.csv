@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,29,30,0.4070621468926554
+1,disease_on_symptoms,18,20,0.9785087719298247
+2,disease_on_drugs,30,22,1.0602564102564105

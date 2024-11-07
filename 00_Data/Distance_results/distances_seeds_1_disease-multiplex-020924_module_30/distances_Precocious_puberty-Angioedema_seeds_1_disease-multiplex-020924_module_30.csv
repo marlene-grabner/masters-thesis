@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.3108784893267651
+1,disease_on_symptoms,14,17,0.6924640824071564
+2,disease_on_drugs,24,25,0.7346938775510203

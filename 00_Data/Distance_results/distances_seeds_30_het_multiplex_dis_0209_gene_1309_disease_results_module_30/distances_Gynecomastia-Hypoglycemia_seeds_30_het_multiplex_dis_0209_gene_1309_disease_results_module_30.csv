@@ -1,0 +1,4 @@
+,Layer,Gynecomastia nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333324
+1,disease_on_symptoms,15,19,0.2579979360165119
+2,disease_on_drugs,29,27,0.10493066958584207

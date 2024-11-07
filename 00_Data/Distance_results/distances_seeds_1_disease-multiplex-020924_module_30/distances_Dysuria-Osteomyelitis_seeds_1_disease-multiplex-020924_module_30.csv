@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,30,25,0.1564750957854404
+1,disease_on_symptoms,16,23,0.7114339464882944
+2,disease_on_drugs,23,23,0.0652173913043479

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,30,30,-0.23333333333333328
+1,disease_on_symptoms,12,19,-0.28593661573288043
+2,disease_on_drugs,29,28,-0.24565724656468746

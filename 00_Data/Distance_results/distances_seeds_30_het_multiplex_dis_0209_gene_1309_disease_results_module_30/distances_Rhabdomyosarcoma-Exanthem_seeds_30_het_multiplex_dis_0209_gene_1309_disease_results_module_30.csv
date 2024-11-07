@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,30,0.03418079096045212
+1,disease_on_symptoms,19,21,0.786967418546366
+2,disease_on_drugs,29,29,0.4310344827586208

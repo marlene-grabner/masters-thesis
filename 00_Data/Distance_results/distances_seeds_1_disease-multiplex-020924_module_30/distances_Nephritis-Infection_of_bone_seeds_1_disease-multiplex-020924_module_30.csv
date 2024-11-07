@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Infection_of_bone nodes,sAB
+0,disease_on_genes,30,26,0.03296703296703307
+1,disease_on_symptoms,18,21,0.09920634920634908
+2,disease_on_drugs,27,24,0.19784858387799575

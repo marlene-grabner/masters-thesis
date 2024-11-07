@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Propionic_acidemia nodes,sAB
+0,disease_on_genes,21,30,-0.161064425770308
+1,disease_on_symptoms,20,16,-0.3868055555555556
+2,disease_on_drugs,21,30,-0.010364145658263269

@@ -1,0 +1,4 @@
+,Layer,Renal_insufficiency nodes,Glaucoma nodes,sAB
+0,disease_on_genes,20,30,0.1633333333333331
+1,disease_on_symptoms,23,14,0.7846231324492194
+2,disease_on_drugs,17,30,0.5774301209845638

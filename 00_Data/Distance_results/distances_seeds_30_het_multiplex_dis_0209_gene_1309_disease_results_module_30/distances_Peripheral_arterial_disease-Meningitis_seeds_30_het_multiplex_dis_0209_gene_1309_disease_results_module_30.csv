@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.21818181818181825
+1,disease_on_symptoms,17,17,1.0000000000000002
+2,disease_on_drugs,24,27,0.2514978213507624

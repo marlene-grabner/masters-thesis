@@ -1,0 +1,4 @@
+,Layer,Thyroiditis nodes,Menorrhagia nodes,sAB
+0,disease_on_genes,26,26,0.21153846153846168
+1,disease_on_symptoms,28,19,0.9561870100783876
+2,disease_on_drugs,23,24,0.7872147702744372

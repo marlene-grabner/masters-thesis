@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,30,30,0.6833333333333333
+1,disease_on_symptoms,9,13,0.14724164724164712
+2,disease_on_drugs,11,29,0.4795454545454545

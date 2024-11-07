@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,28,23,-0.0980392156862745
+1,disease_on_symptoms,20,19,0.7733805668016194
+2,disease_on_drugs,25,19,-0.02995215311004773

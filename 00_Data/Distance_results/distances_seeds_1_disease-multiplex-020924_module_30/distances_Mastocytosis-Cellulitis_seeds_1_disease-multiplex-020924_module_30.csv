@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,18,22,0.3714896214896213
+1,disease_on_symptoms,28,26,1.0996642246642248
+2,disease_on_drugs,17,12,0.49290060851926976

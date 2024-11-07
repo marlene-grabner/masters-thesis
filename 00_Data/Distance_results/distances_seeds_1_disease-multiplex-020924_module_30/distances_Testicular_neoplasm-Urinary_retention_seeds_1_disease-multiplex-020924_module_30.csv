@@ -1,0 +1,4 @@
+,Layer,Testicular_neoplasm nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,25,30,0.36782493368700275
+1,disease_on_symptoms,25,18,1.1564599483204132
+2,disease_on_drugs,23,19,0.9728124659474775

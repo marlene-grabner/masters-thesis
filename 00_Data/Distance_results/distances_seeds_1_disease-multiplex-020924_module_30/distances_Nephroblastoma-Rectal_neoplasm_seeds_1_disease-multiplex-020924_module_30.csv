@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,25,30,-0.35090909090909095
+1,disease_on_symptoms,25,21,-0.26318840579710145
+2,disease_on_drugs,21,29,-0.31448275862068953

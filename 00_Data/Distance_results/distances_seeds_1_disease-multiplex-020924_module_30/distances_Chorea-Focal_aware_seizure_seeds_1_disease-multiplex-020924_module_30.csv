@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,14,29,0.26661129568106334
+1,disease_on_symptoms,27,15,1.453968253968254
+2,disease_on_drugs,8,29,0.5861486486486487

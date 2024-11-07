@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,27,30,0.4171539961013646
+1,disease_on_symptoms,19,16,0.8837406015037594
+2,disease_on_drugs,20,24,0.6852272727272728

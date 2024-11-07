@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.06910331384015578
+1,disease_on_symptoms,20,21,0.22221254355400677
+2,disease_on_drugs,22,27,0.12244897959183665

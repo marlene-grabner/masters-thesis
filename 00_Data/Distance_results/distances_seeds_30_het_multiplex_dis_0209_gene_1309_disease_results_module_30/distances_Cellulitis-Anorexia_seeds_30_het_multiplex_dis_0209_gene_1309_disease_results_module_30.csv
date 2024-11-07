@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.06808883693746337
+1,disease_on_symptoms,20,13,0.3947552447552447
+2,disease_on_drugs,26,28,0.16432641432641448

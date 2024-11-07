@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,30,25,0.3054545454545454
+1,disease_on_symptoms,19,19,1.5
+2,disease_on_drugs,30,18,0.4930555555555556

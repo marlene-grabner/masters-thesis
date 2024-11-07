@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,30,26,0.2855311355311354
+1,disease_on_symptoms,18,17,0.9137721755368813
+2,disease_on_drugs,25,18,0.5607751937984498

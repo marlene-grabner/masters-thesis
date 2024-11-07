@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.1929824561403508
+1,disease_on_symptoms,14,17,0.8612767687720249
+2,disease_on_drugs,27,26,0.4716712358221793

@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,26,24,0.020000000000000018
+1,disease_on_symptoms,21,23,0.2532938076416338
+2,disease_on_drugs,25,24,0.1640816326530612

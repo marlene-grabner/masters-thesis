@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Kidney_failure nodes,sAB
+0,disease_on_genes,30,20,-0.033333333333333215
+1,disease_on_symptoms,17,23,0.9689258312020461
+2,disease_on_drugs,17,18,-0.11111111111111116

@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,West_syndrome nodes,sAB
+0,disease_on_genes,26,29,0.3059440559440558
+1,disease_on_symptoms,19,18,1.6191718033823297
+2,disease_on_drugs,24,22,0.4139492753623186

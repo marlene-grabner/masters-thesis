@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,30,28,-0.10348932676518896
+1,disease_on_symptoms,18,20,0.025146198830409583
+2,disease_on_drugs,26,27,-0.09768585711981936

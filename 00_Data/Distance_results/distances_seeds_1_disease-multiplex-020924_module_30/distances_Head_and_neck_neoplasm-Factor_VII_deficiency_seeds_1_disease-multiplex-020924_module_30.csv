@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.32333333333333325
+1,disease_on_symptoms,20,23,1.5385237613751266
+2,disease_on_drugs,27,21,1.1815476190476188

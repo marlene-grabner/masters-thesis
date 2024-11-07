@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,22,28,0.3018707482993195
+1,disease_on_symptoms,26,23,0.8906900552863288
+2,disease_on_drugs,12,28,0.7571428571428571

@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,30,25,0.10727272727272719
+1,disease_on_symptoms,17,26,1.1144901610017888
+2,disease_on_drugs,26,24,0.5005128205128204

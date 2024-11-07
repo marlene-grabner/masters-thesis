@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,25,27,-0.039215686274509776
+1,disease_on_symptoms,18,18,0.9166666666666667
+2,disease_on_drugs,24,24,0.10416666666666652

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,30,26,-0.0357142857142857
+1,disease_on_symptoms,11,21,0.011228354978354949
+2,disease_on_drugs,27,25,0.15444444444444438

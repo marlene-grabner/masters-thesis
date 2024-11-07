@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,16,22,0.49207535885167464
+2,disease_on_drugs,29,29,0.13793103448275867

@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,14,15,0.5164203612479474
+2,disease_on_drugs,29,29,0.22413793103448287

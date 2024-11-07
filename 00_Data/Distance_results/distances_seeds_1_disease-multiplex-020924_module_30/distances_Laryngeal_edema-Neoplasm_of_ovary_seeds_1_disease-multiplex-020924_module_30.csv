@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Neoplasm_of_ovary nodes,sAB
+0,disease_on_genes,30,24,0.28240740740740744
+1,disease_on_symptoms,20,26,0.46789297658862883
+2,disease_on_drugs,28,15,0.4115448504983388

@@ -1,0 +1,4 @@
+,Layer,Status_epilepticus nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,0.017857142857142794
+1,disease_on_symptoms,18,17,0.2246031746031747
+2,disease_on_drugs,30,24,0.15833333333333321

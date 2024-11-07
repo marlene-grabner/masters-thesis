@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,24,20,0.2162878787878788
+1,disease_on_symptoms,22,26,2.1267482517482517
+2,disease_on_drugs,11,13,0.5993589743589745

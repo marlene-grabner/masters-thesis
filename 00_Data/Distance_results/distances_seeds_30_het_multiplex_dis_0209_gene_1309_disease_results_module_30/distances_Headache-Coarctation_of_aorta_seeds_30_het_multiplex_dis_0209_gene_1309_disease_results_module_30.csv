@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,30,27,-0.03606237816764146
+1,disease_on_symptoms,23,19,0.09785332897461063
+2,disease_on_drugs,23,24,0.14698967005858798

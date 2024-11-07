@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Bronchiolitis nodes,sAB
+0,disease_on_genes,30,28,-0.15517241379310343
+1,disease_on_symptoms,16,25,0.009847560975609904
+2,disease_on_drugs,29,24,-0.14291910648449369

@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.16190020069330435
+1,disease_on_symptoms,17,21,0.8656199321833995
+2,disease_on_drugs,20,28,0.09226190476190466

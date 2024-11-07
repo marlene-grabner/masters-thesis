@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Anorexia nodes,sAB
+0,disease_on_genes,27,17,0.10962566844919786
+1,disease_on_symptoms,17,25,1.0158543417366945
+2,disease_on_drugs,26,13,0.5641025641025641

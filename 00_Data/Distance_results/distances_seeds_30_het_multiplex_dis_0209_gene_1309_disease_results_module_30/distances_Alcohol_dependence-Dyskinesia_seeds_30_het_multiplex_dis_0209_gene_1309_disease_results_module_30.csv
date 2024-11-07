@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,30,30,-0.34999999999999987
+1,disease_on_symptoms,18,15,-0.15353535353535364
+2,disease_on_drugs,24,28,-0.23580586080586086

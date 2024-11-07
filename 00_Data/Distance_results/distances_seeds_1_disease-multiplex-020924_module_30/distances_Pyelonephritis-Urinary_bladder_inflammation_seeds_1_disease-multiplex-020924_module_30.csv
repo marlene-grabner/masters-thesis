@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Urinary_bladder_inflammation nodes,sAB
+0,disease_on_genes,23,25,-0.2502173913043477
+1,disease_on_symptoms,21,22,0.11504580690627209
+2,disease_on_drugs,19,24,-0.47868217054263584

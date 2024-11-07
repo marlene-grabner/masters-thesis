@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,25,26,0.00037707390648566985
+1,disease_on_symptoms,13,25,1.043157894736842
+2,disease_on_drugs,21,25,0.21399585921325048

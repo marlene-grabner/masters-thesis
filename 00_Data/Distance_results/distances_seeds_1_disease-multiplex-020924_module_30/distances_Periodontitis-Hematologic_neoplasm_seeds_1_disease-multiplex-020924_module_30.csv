@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,23,22,0.33478260869565224
+1,disease_on_symptoms,25,24,0.8150170068027212
+2,disease_on_drugs,22,19,0.7533842922161278

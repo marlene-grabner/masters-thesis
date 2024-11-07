@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,17,20,0.2236111111111112
+1,disease_on_symptoms,27,22,2.257661650518793
+2,disease_on_drugs,14,15,0.7608374384236454

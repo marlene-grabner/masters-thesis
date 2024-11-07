@@ -1,0 +1,4 @@
+,Layer,Alzheimer_disease nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,20,27,0.31542553191489375
+1,disease_on_symptoms,23,14,1.2806362262884003
+2,disease_on_drugs,18,13,0.6774193548387097

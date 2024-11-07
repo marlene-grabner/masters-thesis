@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,26,30,-0.1964285714285714
+1,disease_on_symptoms,21,15,0.5571428571428569
+2,disease_on_drugs,26,28,0.16376678876678863

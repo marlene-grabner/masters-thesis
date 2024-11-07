@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Peritonitis nodes,sAB
+0,disease_on_genes,16,30,0.3497282608695651
+1,disease_on_symptoms,23,17,1.6342710997442453
+2,disease_on_drugs,16,28,0.6148538961038963

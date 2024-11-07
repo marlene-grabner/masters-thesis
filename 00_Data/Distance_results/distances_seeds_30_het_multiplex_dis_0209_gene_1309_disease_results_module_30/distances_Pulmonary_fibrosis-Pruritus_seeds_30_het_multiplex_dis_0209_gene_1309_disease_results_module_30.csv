@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Pruritus nodes,sAB
+0,disease_on_genes,25,27,-0.2877492877492879
+1,disease_on_symptoms,22,21,-0.07180610087586858
+2,disease_on_drugs,25,27,-0.2702279202279202

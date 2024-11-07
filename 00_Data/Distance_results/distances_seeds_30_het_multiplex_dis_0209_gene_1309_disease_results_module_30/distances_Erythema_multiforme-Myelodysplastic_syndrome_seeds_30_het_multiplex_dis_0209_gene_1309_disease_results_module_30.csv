@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,30,26,-0.017857142857142905
+1,disease_on_symptoms,18,17,0.1730158730158733
+2,disease_on_drugs,30,24,0.10277777777777763

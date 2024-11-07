@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.09999999999999998
+1,disease_on_symptoms,14,18,0.4136904761904763
+2,disease_on_drugs,26,26,-0.0769230769230771

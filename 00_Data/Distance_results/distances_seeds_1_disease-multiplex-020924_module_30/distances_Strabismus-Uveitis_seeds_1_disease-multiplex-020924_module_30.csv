@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Uveitis nodes,sAB
+0,disease_on_genes,13,30,0.35632081097197377
+1,disease_on_symptoms,26,21,1.2077975216273087
+2,disease_on_drugs,9,27,0.5092592592592593

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,30,26,-0.09065934065934056
+1,disease_on_symptoms,21,22,0.2948756669686903
+2,disease_on_drugs,29,25,0.10564495530012774

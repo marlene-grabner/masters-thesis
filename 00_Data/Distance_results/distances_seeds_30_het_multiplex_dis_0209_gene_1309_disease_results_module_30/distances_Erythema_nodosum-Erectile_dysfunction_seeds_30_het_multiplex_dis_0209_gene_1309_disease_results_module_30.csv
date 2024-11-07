@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.050000000000000044
+1,disease_on_symptoms,22,15,0.30970515970515944
+2,disease_on_drugs,29,30,0.3383888564192479

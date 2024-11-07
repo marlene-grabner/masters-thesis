@@ -1,0 +1,4 @@
+,Layer,Erectile_dysfunction nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,-0.05166666666666675
+1,disease_on_symptoms,16,24,0.8104166666666663
+2,disease_on_drugs,30,18,0.10972222222222205

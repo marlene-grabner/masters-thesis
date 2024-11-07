@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Hypogonadism nodes,sAB
+0,disease_on_genes,30,30,-0.1333333333333333
+1,disease_on_symptoms,12,17,-0.005916159567274981
+2,disease_on_drugs,21,29,-0.10259441707717554

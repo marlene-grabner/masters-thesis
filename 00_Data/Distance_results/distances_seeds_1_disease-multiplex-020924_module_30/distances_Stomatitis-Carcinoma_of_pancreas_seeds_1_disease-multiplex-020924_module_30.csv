@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,23,0.3462264150943395
+1,disease_on_symptoms,23,25,1.42
+2,disease_on_drugs,30,21,1.0372549019607842

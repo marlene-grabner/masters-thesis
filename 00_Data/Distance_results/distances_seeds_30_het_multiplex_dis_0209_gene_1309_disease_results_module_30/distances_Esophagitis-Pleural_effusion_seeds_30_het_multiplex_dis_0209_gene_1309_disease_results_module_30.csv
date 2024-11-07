@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,18,-0.011842105263157876
+2,disease_on_drugs,30,27,0.04912280701754401

@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Angioedema nodes,sAB
+0,disease_on_genes,30,29,0.34421182266009853
+1,disease_on_symptoms,13,17,0.7460030165912519
+2,disease_on_drugs,23,25,0.37228260869565233

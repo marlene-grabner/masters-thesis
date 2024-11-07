@@ -1,0 +1,4 @@
+,Layer,Sarcoma nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.1132075471698113
+1,disease_on_symptoms,23,17,0.5471867007672635
+2,disease_on_drugs,24,22,0.006258234519104011

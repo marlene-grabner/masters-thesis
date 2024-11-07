@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Pleural_effusion nodes,sAB
+0,disease_on_genes,27,30,-0.0030214424951267027
+1,disease_on_symptoms,21,20,0.17343205574912868
+2,disease_on_drugs,23,22,0.18067632850241533

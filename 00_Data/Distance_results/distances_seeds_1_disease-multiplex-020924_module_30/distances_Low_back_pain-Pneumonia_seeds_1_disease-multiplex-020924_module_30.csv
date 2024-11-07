@@ -1,0 +1,4 @@
+,Layer,Low_back_pain nodes,Pneumonia nodes,sAB
+0,disease_on_genes,30,30,0.1499999999999999
+1,disease_on_symptoms,17,26,1.218694096601073
+2,disease_on_drugs,26,28,0.6246438746438747

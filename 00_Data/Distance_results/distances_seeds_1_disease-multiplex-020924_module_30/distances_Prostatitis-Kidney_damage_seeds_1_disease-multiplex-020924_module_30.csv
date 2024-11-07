@@ -1,0 +1,4 @@
+,Layer,Prostatitis nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,20,0.09333333333333349
+1,disease_on_symptoms,20,26,0.48821070234113706
+2,disease_on_drugs,29,13,0.15416193002399892

@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,22,26,0.02083333333333326
+1,disease_on_symptoms,21,22,1.0938538205980066
+2,disease_on_drugs,21,24,0.2424603174603175

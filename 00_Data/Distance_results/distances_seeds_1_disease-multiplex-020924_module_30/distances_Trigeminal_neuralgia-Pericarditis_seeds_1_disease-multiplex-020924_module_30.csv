@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Pericarditis nodes,sAB
+0,disease_on_genes,28,25,0.09737196765498646
+1,disease_on_symptoms,19,22,0.3637530633679542
+2,disease_on_drugs,26,25,0.1568476621417798

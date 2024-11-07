@@ -1,0 +1,4 @@
+,Layer,Lymphangiomyomatosis nodes,Head_and_neck_cancer nodes,sAB
+0,disease_on_genes,26,27,-0.26451378809869364
+1,disease_on_symptoms,17,22,-0.2935348964760729
+2,disease_on_drugs,24,23,-0.33917283379586816

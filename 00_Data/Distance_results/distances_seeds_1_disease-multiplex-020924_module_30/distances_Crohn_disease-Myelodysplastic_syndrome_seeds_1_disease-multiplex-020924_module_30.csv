@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Myelodysplastic_syndrome nodes,sAB
+0,disease_on_genes,25,26,0.39833333333333343
+1,disease_on_symptoms,20,15,1.5595238095238095
+2,disease_on_drugs,21,21,0.4761904761904763

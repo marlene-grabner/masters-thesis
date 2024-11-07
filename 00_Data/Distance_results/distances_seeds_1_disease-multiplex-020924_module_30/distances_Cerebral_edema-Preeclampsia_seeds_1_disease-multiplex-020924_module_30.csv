@@ -1,0 +1,4 @@
+,Layer,Cerebral_edema nodes,Preeclampsia nodes,sAB
+0,disease_on_genes,30,26,0.375
+1,disease_on_symptoms,9,17,1.7204625439919554
+2,disease_on_drugs,11,23,0.6681004417577308

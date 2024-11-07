@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Epididymitis nodes,sAB
+0,disease_on_genes,24,29,0.22804163955757972
+1,disease_on_symptoms,23,23,1.5434782608695654
+2,disease_on_drugs,22,27,1.2690854119425548

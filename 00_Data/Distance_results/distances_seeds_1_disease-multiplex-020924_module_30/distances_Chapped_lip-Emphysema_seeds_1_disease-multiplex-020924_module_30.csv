@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Emphysema nodes,sAB
+0,disease_on_genes,26,30,0.07261904761904758
+1,disease_on_symptoms,21,14,0.7738095238095237
+2,disease_on_drugs,24,29,0.5283018867924529

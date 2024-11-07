@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,25,30,-0.18181818181818177
+1,disease_on_symptoms,19,14,-0.6403508771929827
+2,disease_on_drugs,22,29,-0.3473169832196201

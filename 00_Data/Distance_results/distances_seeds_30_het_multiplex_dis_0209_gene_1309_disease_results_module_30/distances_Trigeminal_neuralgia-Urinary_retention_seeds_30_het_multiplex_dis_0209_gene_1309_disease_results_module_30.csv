@@ -1,0 +1,4 @@
+,Layer,Trigeminal_neuralgia nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,15,16,-0.4233198924731183
+2,disease_on_drugs,25,28,-0.2847574123989218

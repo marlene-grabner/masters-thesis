@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_esophagus nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,21,24,0.11249999999999982
+1,disease_on_symptoms,24,21,0.8767857142857143
+2,disease_on_drugs,20,24,0.5981060606060606

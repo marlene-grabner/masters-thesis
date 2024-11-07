@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,27,30,-0.03606237816764146
+1,disease_on_symptoms,21,19,0.9345864661654137
+2,disease_on_drugs,27,28,0.14670514670514656

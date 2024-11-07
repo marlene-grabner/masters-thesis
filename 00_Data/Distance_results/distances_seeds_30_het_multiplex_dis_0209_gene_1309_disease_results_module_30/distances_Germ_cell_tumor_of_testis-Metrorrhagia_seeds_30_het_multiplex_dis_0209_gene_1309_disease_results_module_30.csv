@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,27,29,-0.18518518518518523
+1,disease_on_symptoms,22,17,0.19090223501988213
+2,disease_on_drugs,20,26,-0.2161371237458194

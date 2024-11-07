@@ -1,0 +1,4 @@
+,Layer,Germ_cell_tumor_of_testis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.2485380116959065
+1,disease_on_symptoms,22,15,-0.025020475020474997
+2,disease_on_drugs,20,25,-0.2005555555555556

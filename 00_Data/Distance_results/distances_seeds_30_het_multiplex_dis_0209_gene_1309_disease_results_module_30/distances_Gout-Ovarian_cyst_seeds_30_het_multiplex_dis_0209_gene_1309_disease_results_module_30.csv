@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,28,30,-0.016707717569786507
+1,disease_on_symptoms,19,19,0.2105263157894739
+2,disease_on_drugs,22,24,0.019268774703557368

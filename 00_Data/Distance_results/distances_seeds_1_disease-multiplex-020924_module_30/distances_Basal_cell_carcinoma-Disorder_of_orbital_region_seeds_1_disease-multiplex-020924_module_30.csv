@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,26,17,0.049168683573608485
+1,disease_on_symptoms,23,27,1.7673429951690822
+2,disease_on_drugs,25,16,0.4253048780487805

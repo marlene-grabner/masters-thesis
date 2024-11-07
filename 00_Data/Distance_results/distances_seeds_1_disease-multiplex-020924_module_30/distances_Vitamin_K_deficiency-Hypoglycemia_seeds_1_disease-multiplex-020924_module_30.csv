@@ -1,0 +1,4 @@
+,Layer,Vitamin_K_deficiency nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.209090909090909
+1,disease_on_symptoms,23,12,0.6899585921325051
+2,disease_on_drugs,20,22,0.5452380952380953

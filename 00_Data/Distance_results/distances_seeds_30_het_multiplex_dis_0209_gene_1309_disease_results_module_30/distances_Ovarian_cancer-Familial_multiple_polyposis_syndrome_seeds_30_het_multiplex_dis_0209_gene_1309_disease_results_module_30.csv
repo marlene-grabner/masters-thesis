@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,27,30,-0.2807017543859649
+1,disease_on_symptoms,17,19,0.15213278293773635
+2,disease_on_drugs,17,25,-0.2998879551820728

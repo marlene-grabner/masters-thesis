@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,22,27,0.04081632653061229
+1,disease_on_symptoms,21,21,1.166666666666667
+2,disease_on_drugs,21,24,0.2660714285714285

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,24,30,0.19212962962962976
+1,disease_on_symptoms,20,13,0.6535547785547786
+2,disease_on_drugs,22,29,0.643939393939394

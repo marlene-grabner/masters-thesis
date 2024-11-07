@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,21,0.1330532212885156
+1,disease_on_symptoms,19,25,1.1393301435406697
+2,disease_on_drugs,29,21,0.5482758620689656

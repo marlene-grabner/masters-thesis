@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,25,0.1399999999999999
+1,disease_on_symptoms,12,25,0.7338738738738737
+2,disease_on_drugs,27,21,0.25

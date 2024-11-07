@@ -1,0 +1,4 @@
+,Layer,Optic_neuritis nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,-0.08684210526315783
+1,disease_on_symptoms,21,19,0.7415413533834587
+2,disease_on_drugs,27,27,0.16666666666666674

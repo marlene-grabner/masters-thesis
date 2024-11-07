@@ -1,0 +1,4 @@
+,Layer,Coarctation_of_aorta nodes,Otitis_media nodes,sAB
+0,disease_on_genes,27,29,0.4316502463054186
+1,disease_on_symptoms,14,22,2.0443722943722946
+2,disease_on_drugs,13,29,0.995894909688013

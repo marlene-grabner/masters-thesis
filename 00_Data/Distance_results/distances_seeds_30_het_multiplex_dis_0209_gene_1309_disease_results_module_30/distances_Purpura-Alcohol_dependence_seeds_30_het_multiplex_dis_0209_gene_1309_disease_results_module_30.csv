@@ -1,0 +1,4 @@
+,Layer,Purpura nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,27,30,0.1060428849902535
+1,disease_on_symptoms,17,18,1.0222222222222221
+2,disease_on_drugs,24,24,0.27083333333333326

@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Atherosclerosis nodes,sAB
+0,disease_on_genes,28,30,-0.06896551724137934
+1,disease_on_symptoms,20,14,0.398529411764706
+2,disease_on_drugs,25,29,0.06625798212005107

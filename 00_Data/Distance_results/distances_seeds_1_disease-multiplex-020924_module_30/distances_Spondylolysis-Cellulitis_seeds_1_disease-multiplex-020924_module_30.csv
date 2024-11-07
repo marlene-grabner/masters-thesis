@@ -1,0 +1,4 @@
+,Layer,Spondylolysis nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,22,0.11044973544973535
+1,disease_on_symptoms,19,26,0.8780476833108413
+2,disease_on_drugs,20,12,1.1625

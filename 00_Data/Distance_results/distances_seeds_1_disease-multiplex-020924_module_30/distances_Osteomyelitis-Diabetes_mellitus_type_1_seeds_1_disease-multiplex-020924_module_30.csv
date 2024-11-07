@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,25,13,0.24566801619433187
+1,disease_on_symptoms,23,25,3.503260869565217
+2,disease_on_drugs,23,8,1.2145862552594673

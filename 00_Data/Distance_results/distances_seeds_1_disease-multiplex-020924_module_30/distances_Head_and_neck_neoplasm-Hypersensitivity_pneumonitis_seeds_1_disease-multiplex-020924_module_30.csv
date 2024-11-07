@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,30,24,0.11296296296296293
+1,disease_on_symptoms,20,23,0.8004044489383215
+2,disease_on_drugs,27,24,0.33333333333333326

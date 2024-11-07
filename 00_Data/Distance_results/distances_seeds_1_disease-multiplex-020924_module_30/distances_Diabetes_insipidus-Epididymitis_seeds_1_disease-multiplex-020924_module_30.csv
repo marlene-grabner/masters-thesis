@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Epididymitis nodes,sAB
+0,disease_on_genes,24,29,0.32041585339405754
+1,disease_on_symptoms,18,23,0.3480911983032873
+2,disease_on_drugs,18,27,0.8962962962962961

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,27,25,0.40230769230769226
+1,disease_on_symptoms,17,20,1.8804451510333862
+2,disease_on_drugs,25,18,1.0329457364341086

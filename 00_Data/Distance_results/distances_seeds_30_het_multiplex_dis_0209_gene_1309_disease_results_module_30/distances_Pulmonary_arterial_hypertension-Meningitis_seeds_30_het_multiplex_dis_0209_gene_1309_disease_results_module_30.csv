@@ -1,0 +1,4 @@
+,Layer,Pulmonary_arterial_hypertension nodes,Meningitis nodes,sAB
+0,disease_on_genes,28,29,0.05263157894736836
+1,disease_on_symptoms,17,17,0.7941176470588234
+2,disease_on_drugs,25,27,-0.00039886039886050106

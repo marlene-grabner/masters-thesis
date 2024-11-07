@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,30,-0.017857142857142905
+1,disease_on_symptoms,17,18,0.4833333333333334
+2,disease_on_drugs,24,29,0.22926154847104763

@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Pyelonephritis nodes,sAB
+0,disease_on_genes,30,24,0.23842592592592582
+1,disease_on_symptoms,12,19,1.7862195812110924
+2,disease_on_drugs,21,19,0.14862155388471177

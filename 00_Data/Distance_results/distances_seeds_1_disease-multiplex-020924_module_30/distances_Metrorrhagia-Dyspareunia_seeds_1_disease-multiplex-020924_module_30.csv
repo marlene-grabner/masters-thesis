@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,27,24,-0.23529411764705888
+1,disease_on_symptoms,17,17,0.7941176470588238
+2,disease_on_drugs,26,23,-0.1444952562964985

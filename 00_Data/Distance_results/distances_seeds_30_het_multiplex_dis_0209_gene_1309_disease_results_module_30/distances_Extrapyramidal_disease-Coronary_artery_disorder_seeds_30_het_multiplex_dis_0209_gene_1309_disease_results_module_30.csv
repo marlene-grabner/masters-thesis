@@ -1,0 +1,4 @@
+,Layer,Extrapyramidal_disease nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.14807219031993424
+1,disease_on_symptoms,18,19,1.7812944523470837
+2,disease_on_drugs,25,22,0.3435589941972921

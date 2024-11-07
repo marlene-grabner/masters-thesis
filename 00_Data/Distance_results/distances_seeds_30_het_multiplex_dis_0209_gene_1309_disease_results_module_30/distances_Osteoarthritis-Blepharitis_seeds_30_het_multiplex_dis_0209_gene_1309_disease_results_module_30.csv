@@ -1,0 +1,4 @@
+,Layer,Osteoarthritis nodes,Blepharitis nodes,sAB
+0,disease_on_genes,26,30,-0.07417582417582402
+1,disease_on_symptoms,22,18,0.21666666666666656
+2,disease_on_drugs,25,30,-0.031515151515151496

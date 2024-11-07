@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Pain nodes,sAB
+0,disease_on_genes,27,26,0.30116110304789556
+1,disease_on_symptoms,17,21,1.333259619637329
+2,disease_on_drugs,25,26,1.0003770739064857

@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Cirrhosis_of_liver nodes,sAB
+0,disease_on_genes,27,30,0.14025341130604296
+1,disease_on_symptoms,21,14,1.6738095238095239
+2,disease_on_drugs,27,26,0.49090200505294845

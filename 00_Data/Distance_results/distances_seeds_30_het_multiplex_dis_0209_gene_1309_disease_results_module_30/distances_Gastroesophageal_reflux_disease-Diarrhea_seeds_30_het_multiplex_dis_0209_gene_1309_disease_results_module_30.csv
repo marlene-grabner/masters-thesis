@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Diarrhea nodes,sAB
+0,disease_on_genes,26,30,-0.26923076923076916
+1,disease_on_symptoms,18,21,0.10775335775335759
+2,disease_on_drugs,25,29,-0.16896551724137931

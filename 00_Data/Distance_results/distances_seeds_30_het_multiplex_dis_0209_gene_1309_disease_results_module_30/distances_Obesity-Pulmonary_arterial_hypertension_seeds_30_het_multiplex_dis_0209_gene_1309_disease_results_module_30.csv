@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.21919191919191927
+1,disease_on_symptoms,18,17,0.25816993464052285
+2,disease_on_drugs,25,25,-0.06000000000000005

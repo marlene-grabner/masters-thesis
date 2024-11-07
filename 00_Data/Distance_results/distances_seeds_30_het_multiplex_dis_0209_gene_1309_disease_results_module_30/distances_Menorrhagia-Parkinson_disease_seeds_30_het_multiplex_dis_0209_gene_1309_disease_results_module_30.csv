@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Parkinson_disease nodes,sAB
+0,disease_on_genes,27,23,0.1399999999999999
+1,disease_on_symptoms,16,23,1.1433598104793756
+2,disease_on_drugs,23,22,0.42121212121212115

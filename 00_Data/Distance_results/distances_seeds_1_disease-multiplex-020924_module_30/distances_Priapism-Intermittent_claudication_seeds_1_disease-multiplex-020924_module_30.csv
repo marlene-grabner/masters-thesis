@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,20,0.19166666666666665
+1,disease_on_symptoms,17,24,0.7408237685318029
+2,disease_on_drugs,28,18,0.22662180814354715

@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Constipation nodes,sAB
+0,disease_on_genes,28,30,-0.03452380952380962
+1,disease_on_symptoms,19,16,0.2767387218045114
+2,disease_on_drugs,22,28,-0.06896103896103889

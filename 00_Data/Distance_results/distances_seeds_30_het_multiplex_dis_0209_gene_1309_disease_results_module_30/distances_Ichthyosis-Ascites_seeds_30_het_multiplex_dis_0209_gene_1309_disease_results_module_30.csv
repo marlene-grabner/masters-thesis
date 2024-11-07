@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Ascites nodes,sAB
+0,disease_on_genes,28,30,-0.017282430213464872
+1,disease_on_symptoms,18,22,0.11641414141414153
+2,disease_on_drugs,25,27,-0.13122507122507132

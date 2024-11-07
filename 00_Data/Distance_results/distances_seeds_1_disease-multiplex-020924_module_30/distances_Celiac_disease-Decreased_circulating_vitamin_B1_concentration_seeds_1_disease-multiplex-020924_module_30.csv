@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,17,25,-0.008347338935574156
+1,disease_on_symptoms,22,13,4.189010989010988
+2,disease_on_drugs,15,16,-0.026276881720429968

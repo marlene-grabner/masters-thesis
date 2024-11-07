@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,18,16,0.9140114379084967
+2,disease_on_drugs,28,28,0.5357142857142858

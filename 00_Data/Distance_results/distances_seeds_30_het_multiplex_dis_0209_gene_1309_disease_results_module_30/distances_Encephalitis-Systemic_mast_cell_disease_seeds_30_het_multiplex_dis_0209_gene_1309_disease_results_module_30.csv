@@ -1,0 +1,4 @@
+,Layer,Encephalitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,29,29,0.17241379310344818
+1,disease_on_symptoms,13,25,0.6873684210526314
+2,disease_on_drugs,22,21,0.18813550790294964

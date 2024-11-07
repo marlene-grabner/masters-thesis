@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,30,30,-0.11666666666666659
+1,disease_on_symptoms,17,14,0.5797641637300082
+2,disease_on_drugs,26,25,-0.1381297134238313

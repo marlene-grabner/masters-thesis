@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,25,28,0.20617250673854448
+1,disease_on_symptoms,24,15,2.1814102564102567
+2,disease_on_drugs,20,21,0.853658536585366

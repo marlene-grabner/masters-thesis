@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,24,26,0.46288461538461534
+1,disease_on_symptoms,25,20,1.491666666666667
+2,disease_on_drugs,17,20,1.5675675675675675

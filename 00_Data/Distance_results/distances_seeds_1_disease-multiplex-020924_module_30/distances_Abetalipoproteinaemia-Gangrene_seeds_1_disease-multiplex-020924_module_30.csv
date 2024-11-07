@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Gangrene nodes,sAB
+0,disease_on_genes,17,26,0.3891928864569085
+1,disease_on_symptoms,25,19,1.0449282296650717
+2,disease_on_drugs,13,23,0.6064659977703457

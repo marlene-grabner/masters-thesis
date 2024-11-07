@@ -1,0 +1,4 @@
+,Layer,Gastroesophageal_reflux_disease nodes,Benign_Neonatal_Epilepsy nodes,sAB
+0,disease_on_genes,26,30,-0.03708791208791207
+1,disease_on_symptoms,18,16,0.2804330065359477
+2,disease_on_drugs,25,21,-0.017184265010351973

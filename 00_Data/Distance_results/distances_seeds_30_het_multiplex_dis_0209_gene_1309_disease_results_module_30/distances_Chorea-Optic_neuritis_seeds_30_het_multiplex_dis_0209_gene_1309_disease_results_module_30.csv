@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,17,21,0.6552410437859355
+2,disease_on_drugs,24,27,0.03281590413943336

@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Back_pain nodes,sAB
+0,disease_on_genes,17,30,0.15851449275362306
+1,disease_on_symptoms,27,16,1.837666881998277
+2,disease_on_drugs,14,23,0.3696911196911199

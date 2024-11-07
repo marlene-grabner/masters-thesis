@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,29,-0.016949152542372836
+1,disease_on_symptoms,22,14,0.04797979797979801
+2,disease_on_drugs,30,22,-0.054195804195804165

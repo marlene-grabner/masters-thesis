@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,27,-0.20877192982456128
+1,disease_on_symptoms,18,22,-0.1959595959595961
+2,disease_on_drugs,24,26,-0.2802564102564101

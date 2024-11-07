@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Renal_cell_carcinoma nodes,sAB
+0,disease_on_genes,30,25,0.4884848484848485
+1,disease_on_symptoms,14,24,2.582393483709273
+2,disease_on_drugs,11,20,1.161290322580645

@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Periodontitis nodes,sAB
+0,disease_on_genes,27,23,0.2747826086956524
+1,disease_on_symptoms,17,25,1.0664425770308121
+2,disease_on_drugs,25,22,0.9956479690522242

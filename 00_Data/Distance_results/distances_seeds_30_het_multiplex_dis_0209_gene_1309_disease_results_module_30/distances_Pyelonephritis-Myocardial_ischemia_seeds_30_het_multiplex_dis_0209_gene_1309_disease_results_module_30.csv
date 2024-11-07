@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,24,30,-0.22268518518518532
+1,disease_on_symptoms,19,19,0.26315789473684204
+2,disease_on_drugs,19,30,-0.2819906910132475

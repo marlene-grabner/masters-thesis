@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,25,26,0.4898039215686274
+1,disease_on_symptoms,19,15,1.1964912280701756
+2,disease_on_drugs,13,26,1.217948717948718

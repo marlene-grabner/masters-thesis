@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Diarrhea nodes,sAB
+0,disease_on_genes,15,27,0.06455026455026469
+1,disease_on_symptoms,25,19,1.173205741626794
+2,disease_on_drugs,10,26,0.10299145299145307

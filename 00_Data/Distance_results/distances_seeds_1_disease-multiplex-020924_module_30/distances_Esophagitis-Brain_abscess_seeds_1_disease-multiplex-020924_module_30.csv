@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,24,27,0.14244766505636064
+1,disease_on_symptoms,23,21,1.0818746470920384
+2,disease_on_drugs,20,23,0.23991405460060666

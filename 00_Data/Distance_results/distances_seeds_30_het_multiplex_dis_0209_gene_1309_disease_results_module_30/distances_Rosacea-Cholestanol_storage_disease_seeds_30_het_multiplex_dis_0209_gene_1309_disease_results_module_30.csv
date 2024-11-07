@@ -1,0 +1,4 @@
+,Layer,Rosacea nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.27119618157023195
+1,disease_on_symptoms,18,18,0.0555555555555558
+2,disease_on_drugs,30,28,-0.11978653530377681

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,22,21,0.3276703916238799
+1,disease_on_symptoms,23,25,1.523297101449275
+2,disease_on_drugs,17,21,1.1780185758513932

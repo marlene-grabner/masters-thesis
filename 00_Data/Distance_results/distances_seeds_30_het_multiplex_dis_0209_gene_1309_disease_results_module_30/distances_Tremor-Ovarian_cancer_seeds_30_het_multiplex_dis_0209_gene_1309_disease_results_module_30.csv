@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,27,27,0.03703703703703698
+1,disease_on_symptoms,17,17,1.9411764705882355
+2,disease_on_drugs,24,17,0.8069703491152558

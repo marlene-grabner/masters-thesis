@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Emphysema nodes,sAB
+0,disease_on_genes,27,30,0.17339181286549699
+1,disease_on_symptoms,17,14,0.31587150989428014
+2,disease_on_drugs,24,29,0.4150943396226414

@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Ovarian_cancer nodes,sAB
+0,disease_on_genes,27,27,-0.0370370370370372
+1,disease_on_symptoms,21,17,0.9313725490196076
+2,disease_on_drugs,25,17,0.38296918767507004

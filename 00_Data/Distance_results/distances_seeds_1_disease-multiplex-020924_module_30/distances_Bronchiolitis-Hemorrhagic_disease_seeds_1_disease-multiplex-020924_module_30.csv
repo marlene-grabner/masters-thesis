@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,23,24,0.34040625963613946
+1,disease_on_symptoms,25,19,1.768755980861244
+2,disease_on_drugs,18,19,0.9465386439070649

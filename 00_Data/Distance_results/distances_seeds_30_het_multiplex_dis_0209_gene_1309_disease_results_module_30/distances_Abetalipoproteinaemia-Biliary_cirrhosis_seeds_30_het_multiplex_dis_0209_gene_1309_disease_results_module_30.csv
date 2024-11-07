@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Biliary_cirrhosis nodes,sAB
+0,disease_on_genes,14,26,0.24505494505494507
+1,disease_on_symptoms,26,22,0.8240093240093238
+2,disease_on_drugs,14,25,0.4196703296703297

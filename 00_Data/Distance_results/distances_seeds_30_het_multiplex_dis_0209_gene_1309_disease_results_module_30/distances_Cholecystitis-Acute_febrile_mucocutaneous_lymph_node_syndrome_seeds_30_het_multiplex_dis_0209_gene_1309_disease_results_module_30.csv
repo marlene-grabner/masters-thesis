@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.056060606060606144
+1,disease_on_symptoms,23,13,0.1913786696395392
+2,disease_on_drugs,21,28,-0.17091836734693877

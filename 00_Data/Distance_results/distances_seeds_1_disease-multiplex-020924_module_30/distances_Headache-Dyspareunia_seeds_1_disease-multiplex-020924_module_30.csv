@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.13148148148148153
+1,disease_on_symptoms,25,17,0.47148459383753516
+2,disease_on_drugs,26,23,0.6910620435465156

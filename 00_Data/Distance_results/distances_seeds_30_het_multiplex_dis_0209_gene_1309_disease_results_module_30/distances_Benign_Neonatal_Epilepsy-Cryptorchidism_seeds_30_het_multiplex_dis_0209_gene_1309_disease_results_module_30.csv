@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,30,23,0.01599671862182106
+1,disease_on_symptoms,16,19,1.2957236842105264
+2,disease_on_drugs,21,21,0.04761904761904745

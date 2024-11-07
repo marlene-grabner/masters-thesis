@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,29,30,0.20309760374050279
+1,disease_on_symptoms,17,20,1.3225755166931639
+2,disease_on_drugs,26,28,0.927197802197802

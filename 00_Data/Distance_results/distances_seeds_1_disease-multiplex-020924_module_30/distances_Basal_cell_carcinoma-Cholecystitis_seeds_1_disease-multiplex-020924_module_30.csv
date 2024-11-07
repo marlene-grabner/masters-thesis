@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Cholecystitis nodes,sAB
+0,disease_on_genes,26,25,0.5686123680241328
+1,disease_on_symptoms,23,19,1.585104064509099
+2,disease_on_drugs,25,13,1.0668016194331984

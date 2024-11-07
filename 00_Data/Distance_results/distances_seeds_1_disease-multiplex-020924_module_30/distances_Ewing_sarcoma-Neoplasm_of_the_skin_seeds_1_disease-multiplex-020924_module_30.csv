@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Neoplasm_of_the_skin nodes,sAB
+0,disease_on_genes,24,28,0.21222527472527486
+1,disease_on_symptoms,25,21,0.3124223602484475
+2,disease_on_drugs,17,24,-0.024390243902439046

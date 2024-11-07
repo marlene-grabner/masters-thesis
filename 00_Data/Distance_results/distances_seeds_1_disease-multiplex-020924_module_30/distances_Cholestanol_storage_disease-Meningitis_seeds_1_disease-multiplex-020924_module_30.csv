@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.25336060783167746
+1,disease_on_symptoms,17,20,1.1501192368839428
+2,disease_on_drugs,25,26,0.9192156862745096

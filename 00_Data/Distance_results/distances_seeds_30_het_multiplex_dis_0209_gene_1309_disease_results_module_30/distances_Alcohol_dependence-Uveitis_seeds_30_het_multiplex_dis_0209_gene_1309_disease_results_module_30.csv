@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Uveitis nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,18,20,0.1380116959064328
+2,disease_on_drugs,24,23,-0.001927227875424098

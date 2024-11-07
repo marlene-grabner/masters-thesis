@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Respiratory_insufficiency nodes,sAB
+0,disease_on_genes,27,27,0.07407407407407418
+1,disease_on_symptoms,16,21,1.3447152509652507
+2,disease_on_drugs,23,25,0.21750000000000003

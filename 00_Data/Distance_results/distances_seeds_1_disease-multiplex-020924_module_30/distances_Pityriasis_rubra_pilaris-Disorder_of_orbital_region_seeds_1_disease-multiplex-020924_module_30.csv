@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Disorder_of_orbital_region nodes,sAB
+0,disease_on_genes,28,17,0.03790849673202601
+1,disease_on_symptoms,23,27,0.31169082125603875
+2,disease_on_drugs,26,16,-0.029532967032966928

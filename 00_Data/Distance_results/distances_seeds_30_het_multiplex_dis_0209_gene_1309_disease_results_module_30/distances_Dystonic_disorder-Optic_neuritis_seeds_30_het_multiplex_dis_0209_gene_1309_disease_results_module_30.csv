@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,-0.14035087719298245
+1,disease_on_symptoms,17,21,0.8239716939407344
+2,disease_on_drugs,26,27,0.09286136644627185

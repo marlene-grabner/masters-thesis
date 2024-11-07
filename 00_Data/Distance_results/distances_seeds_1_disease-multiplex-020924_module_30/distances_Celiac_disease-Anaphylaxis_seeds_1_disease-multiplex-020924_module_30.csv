@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,17,27,-0.1143790849673203
+1,disease_on_symptoms,22,15,-0.19189189189189193
+2,disease_on_drugs,15,26,-0.09618511569731081

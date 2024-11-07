@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,28,30,0.22471264367816102
+1,disease_on_symptoms,23,14,-0.2758939063286887
+2,disease_on_drugs,26,24,-0.09929487179487184

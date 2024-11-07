@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,30,12,0.4654761904761904
+1,disease_on_symptoms,25,27,0.8960398860398859
+2,disease_on_drugs,26,9,0.4410866910866911

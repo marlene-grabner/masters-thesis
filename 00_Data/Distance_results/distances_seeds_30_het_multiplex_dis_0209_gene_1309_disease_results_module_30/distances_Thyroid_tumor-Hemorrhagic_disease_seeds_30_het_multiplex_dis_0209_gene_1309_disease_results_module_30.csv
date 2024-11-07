@@ -1,0 +1,4 @@
+,Layer,Thyroid_tumor nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,23,26,0.08163265306122458
+1,disease_on_symptoms,20,19,0.5129892037786774
+2,disease_on_drugs,20,24,0.36136363636363655

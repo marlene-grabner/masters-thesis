@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,25,30,-0.2592592592592593
+1,disease_on_symptoms,18,14,0.5629960317460316
+2,disease_on_drugs,24,29,-0.1851550639774453

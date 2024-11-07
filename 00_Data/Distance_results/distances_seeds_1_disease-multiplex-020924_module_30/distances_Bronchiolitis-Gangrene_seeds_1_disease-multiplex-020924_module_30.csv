@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Gangrene nodes,sAB
+0,disease_on_genes,23,26,0.20275066548358467
+1,disease_on_symptoms,25,19,0.6922009569377994
+2,disease_on_drugs,18,23,0.4315129020855426

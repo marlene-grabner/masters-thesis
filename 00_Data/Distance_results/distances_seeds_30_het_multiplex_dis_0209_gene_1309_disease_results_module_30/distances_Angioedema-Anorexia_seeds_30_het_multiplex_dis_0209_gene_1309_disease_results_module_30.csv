@@ -1,0 +1,4 @@
+,Layer,Angioedema nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.18673290473407356
+1,disease_on_symptoms,18,13,0.20940170940170955
+2,disease_on_drugs,26,28,-0.18681318681318682

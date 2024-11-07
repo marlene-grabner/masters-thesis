@@ -1,0 +1,4 @@
+,Layer,Urinary_bladder_inflammation nodes,Cough nodes,sAB
+0,disease_on_genes,25,27,-0.020826210826210945
+1,disease_on_symptoms,22,21,0.8553558844256519
+2,disease_on_drugs,24,27,0.19335511982570797

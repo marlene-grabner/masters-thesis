@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,26,24,0.3207051282051281
+1,disease_on_symptoms,18,19,2.056582898688162
+2,disease_on_drugs,23,19,0.8233082706766919

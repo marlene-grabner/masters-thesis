@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Cancer_of_the_pancreas nodes,sAB
+0,disease_on_genes,28,29,0.050751879699248104
+1,disease_on_symptoms,14,16,0.719642857142857
+2,disease_on_drugs,28,29,1.1055656382335148

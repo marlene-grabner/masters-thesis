@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Spondylolysis nodes,sAB
+0,disease_on_genes,30,28,0.0
+1,disease_on_symptoms,20,17,0.4679252782193961
+2,disease_on_drugs,30,19,0.053669889008234994

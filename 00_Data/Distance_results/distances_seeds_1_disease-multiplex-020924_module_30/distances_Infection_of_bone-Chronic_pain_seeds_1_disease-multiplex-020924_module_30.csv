@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Chronic_pain nodes,sAB
+0,disease_on_genes,26,30,0.050824175824175866
+1,disease_on_symptoms,21,22,1.9063475284405518
+2,disease_on_drugs,24,28,0.45810439560439575

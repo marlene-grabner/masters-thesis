@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,30,22,-0.2386946386946388
+1,disease_on_symptoms,18,19,-0.16686423265370642
+2,disease_on_drugs,25,18,-0.2538242894056847

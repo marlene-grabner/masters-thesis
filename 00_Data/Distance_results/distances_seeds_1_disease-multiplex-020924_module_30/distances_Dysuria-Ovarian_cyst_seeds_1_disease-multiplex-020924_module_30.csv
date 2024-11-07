@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Ovarian_cyst nodes,sAB
+0,disease_on_genes,30,20,0.22197396199859276
+1,disease_on_symptoms,16,22,1.030651913875598
+2,disease_on_drugs,23,15,0.9045766590389015

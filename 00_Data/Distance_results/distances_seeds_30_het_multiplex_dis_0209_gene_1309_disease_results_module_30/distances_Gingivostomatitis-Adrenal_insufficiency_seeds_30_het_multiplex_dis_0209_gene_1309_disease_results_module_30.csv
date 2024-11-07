@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,15,15,0.26666666666666705
+2,disease_on_drugs,30,24,0.3041666666666667

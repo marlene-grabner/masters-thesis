@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.01724137931034475
+1,disease_on_symptoms,12,17,1.0924611223799867
+2,disease_on_drugs,21,25,0.03287784679089012

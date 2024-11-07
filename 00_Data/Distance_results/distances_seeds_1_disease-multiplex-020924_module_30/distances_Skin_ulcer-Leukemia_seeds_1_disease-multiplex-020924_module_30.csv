@@ -1,0 +1,4 @@
+,Layer,Skin_ulcer nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.1333333333333333
+1,disease_on_symptoms,19,27,0.8489278752436649
+2,disease_on_drugs,22,17,0.5644453585630056

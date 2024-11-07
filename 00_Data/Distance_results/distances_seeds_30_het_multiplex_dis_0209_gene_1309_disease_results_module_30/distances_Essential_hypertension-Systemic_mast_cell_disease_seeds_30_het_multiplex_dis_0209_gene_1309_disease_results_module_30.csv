@@ -1,0 +1,4 @@
+,Layer,Essential_hypertension nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,28,29,-0.01754385964912286
+1,disease_on_symptoms,13,25,1.0679352226720646
+2,disease_on_drugs,28,21,0.23639455782312924

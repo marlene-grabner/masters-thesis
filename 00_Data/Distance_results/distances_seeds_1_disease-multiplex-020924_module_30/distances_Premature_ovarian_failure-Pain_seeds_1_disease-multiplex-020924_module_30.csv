@@ -1,0 +1,4 @@
+,Layer,Premature_ovarian_failure nodes,Pain nodes,sAB
+0,disease_on_genes,28,26,0.29487179487179493
+1,disease_on_symptoms,21,21,1.0476190476190477
+2,disease_on_drugs,21,26,0.33740550229911914

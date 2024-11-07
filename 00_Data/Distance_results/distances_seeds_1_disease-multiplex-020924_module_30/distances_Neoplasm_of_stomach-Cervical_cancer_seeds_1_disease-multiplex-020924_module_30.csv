@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,23,27,-0.03851851851851862
+1,disease_on_symptoms,24,23,0.3397124576009867
+2,disease_on_drugs,22,15,-0.16867321867321872

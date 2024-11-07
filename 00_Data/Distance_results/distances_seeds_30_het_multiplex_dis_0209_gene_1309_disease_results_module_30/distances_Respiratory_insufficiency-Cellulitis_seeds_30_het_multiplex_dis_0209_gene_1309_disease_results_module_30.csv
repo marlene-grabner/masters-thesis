@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,21,20,1.0489547038327525
+2,disease_on_drugs,25,26,0.13558069381598803

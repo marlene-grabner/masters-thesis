@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Precocious_puberty nodes,sAB
+0,disease_on_genes,9,30,0.32991452991452985
+1,disease_on_symptoms,27,14,1.8714672861014323
+2,disease_on_drugs,9,24,1.0909090909090908

@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Conjunctivitis nodes,sAB
+0,disease_on_genes,26,29,-0.36363636363636365
+1,disease_on_symptoms,21,27,-0.6732804232804235
+2,disease_on_drugs,26,28,-0.38919413919413925

@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,-0.12127158555729978
+1,disease_on_symptoms,22,17,0.6068147538735773
+2,disease_on_drugs,25,22,-0.033791102514506566

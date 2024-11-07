@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,30,29,-0.15254237288135597
+1,disease_on_symptoms,11,20,0.4843841642228741
+2,disease_on_drugs,21,27,-0.2668650793650793

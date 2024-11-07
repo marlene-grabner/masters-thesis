@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,20,17,0.609260731319555
+2,disease_on_drugs,27,25,0.13071225071225068

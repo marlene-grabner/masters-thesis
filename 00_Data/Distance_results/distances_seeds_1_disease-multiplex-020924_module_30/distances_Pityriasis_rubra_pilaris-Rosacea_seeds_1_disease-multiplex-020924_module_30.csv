@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Rosacea nodes,sAB
+0,disease_on_genes,28,30,-0.18793103448275872
+1,disease_on_symptoms,23,17,-0.5040281329923273
+2,disease_on_drugs,26,27,-0.24600870827285903

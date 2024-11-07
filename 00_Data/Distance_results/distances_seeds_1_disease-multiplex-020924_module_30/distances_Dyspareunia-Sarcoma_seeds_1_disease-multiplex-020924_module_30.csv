@@ -1,0 +1,4 @@
+,Layer,Dyspareunia nodes,Sarcoma nodes,sAB
+0,disease_on_genes,24,25,0.1020408163265305
+1,disease_on_symptoms,17,26,0.9960275702409764
+2,disease_on_drugs,23,21,0.048418972332015864

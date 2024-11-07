@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,26,28,-0.2585978835978835
+1,disease_on_symptoms,17,20,-0.1335453100158981
+2,disease_on_drugs,23,28,-0.3550724637681161

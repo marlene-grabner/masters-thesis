@@ -1,0 +1,4 @@
+,Layer,Palmoplantar_keratosis nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,26,0.0
+1,disease_on_symptoms,20,21,0.785540069686411
+2,disease_on_drugs,23,26,0.08557436352467396

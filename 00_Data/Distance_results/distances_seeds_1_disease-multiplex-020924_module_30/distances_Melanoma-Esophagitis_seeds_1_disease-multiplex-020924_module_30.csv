@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Esophagitis nodes,sAB
+0,disease_on_genes,24,24,0.1692876965772434
+1,disease_on_symptoms,23,23,1.4999999999999998
+2,disease_on_drugs,22,20,0.8321428571428573

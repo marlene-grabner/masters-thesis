@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_lung nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,19,16,0.023919172932330923
+2,disease_on_drugs,30,28,0.17048440065681447

@@ -1,0 +1,4 @@
+,Layer,Rectal_neoplasm nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,20,18,0.8004385964912277
+2,disease_on_drugs,29,26,0.055051844707017406

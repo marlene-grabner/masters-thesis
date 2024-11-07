@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,30,25,0.25090909090909097
+1,disease_on_symptoms,14,20,1.227310924369748
+2,disease_on_drugs,27,18,0.3018518518518518

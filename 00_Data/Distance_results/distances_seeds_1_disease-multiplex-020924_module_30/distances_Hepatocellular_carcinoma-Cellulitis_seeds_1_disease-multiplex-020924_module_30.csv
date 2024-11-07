@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,23,22,0.33422736683606247
+1,disease_on_symptoms,19,26,0.7669365721997301
+2,disease_on_drugs,19,12,1.774193548387097

@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Leukemia nodes,sAB
+0,disease_on_genes,22,18,0.02954545454545454
+1,disease_on_symptoms,20,27,0.9718282111899135
+2,disease_on_drugs,19,17,0.13398692810457513

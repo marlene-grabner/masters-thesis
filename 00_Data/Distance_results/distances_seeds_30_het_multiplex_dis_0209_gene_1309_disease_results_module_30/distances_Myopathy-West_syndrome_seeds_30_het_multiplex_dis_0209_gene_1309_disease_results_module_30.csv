@@ -1,0 +1,4 @@
+,Layer,Myopathy nodes,West_syndrome nodes,sAB
+0,disease_on_genes,23,30,-0.05660377358490565
+1,disease_on_symptoms,22,13,-0.19840159840159832
+2,disease_on_drugs,21,19,-0.3659774436090226

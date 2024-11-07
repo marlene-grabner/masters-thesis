@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Cholangitis nodes,sAB
+0,disease_on_genes,22,27,-0.45301656015941727
+1,disease_on_symptoms,23,22,-0.5093544137022399
+2,disease_on_drugs,17,26,-0.36114911080711354

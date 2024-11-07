@@ -1,0 +1,4 @@
+,Layer,Crohn_disease nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,25,28,0.3443223443223442
+1,disease_on_symptoms,20,20,1.3749999999999998
+2,disease_on_drugs,21,28,0.6054421768707483

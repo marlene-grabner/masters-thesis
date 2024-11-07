@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.26492673992673965
+1,disease_on_symptoms,19,21,1.700563909774436
+2,disease_on_drugs,24,27,0.47045206971677556

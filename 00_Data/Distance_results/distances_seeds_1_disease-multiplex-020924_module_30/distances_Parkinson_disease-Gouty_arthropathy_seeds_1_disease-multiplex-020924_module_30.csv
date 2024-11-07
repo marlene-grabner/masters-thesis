@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Gouty_arthropathy nodes,sAB
+0,disease_on_genes,21,25,0.2874948240165631
+1,disease_on_symptoms,20,13,2.546969696969697
+2,disease_on_drugs,19,16,1.1401785714285713

@@ -1,0 +1,4 @@
+,Layer,Deep_venous_thrombosis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,-0.41440886699507384
+1,disease_on_symptoms,16,19,-0.5460996240601503
+2,disease_on_drugs,28,25,-0.4333153638814017

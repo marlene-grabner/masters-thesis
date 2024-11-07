@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.1166666666666667
+1,disease_on_symptoms,17,15,-0.3050245098039215
+2,disease_on_drugs,26,23,-0.34652924715036526

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,15,30,0.3999999999999999
+1,disease_on_symptoms,25,24,1.4900510204081632
+2,disease_on_drugs,10,24,0.2995098039215687

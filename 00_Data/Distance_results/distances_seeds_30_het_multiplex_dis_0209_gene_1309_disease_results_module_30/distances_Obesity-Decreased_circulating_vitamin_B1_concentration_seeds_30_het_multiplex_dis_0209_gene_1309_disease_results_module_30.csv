@@ -1,0 +1,4 @@
+,Layer,Obesity nodes,Decreased_circulating_vitamin_B1_concentration nodes,sAB
+0,disease_on_genes,27,30,-0.4415204678362573
+1,disease_on_symptoms,18,17,-0.768720821661998
+2,disease_on_drugs,25,25,-0.52

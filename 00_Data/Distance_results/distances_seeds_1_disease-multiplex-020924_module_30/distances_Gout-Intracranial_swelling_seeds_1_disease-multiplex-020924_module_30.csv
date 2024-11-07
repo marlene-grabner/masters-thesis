@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,25,30,0.06878787878787884
+1,disease_on_symptoms,18,14,0.07440476190476186
+2,disease_on_drugs,23,24,-0.06338652482269513

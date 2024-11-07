@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,25,25,0.020000000000000018
+1,disease_on_symptoms,13,19,1.088815789473684
+2,disease_on_drugs,21,22,0.11668176784455864

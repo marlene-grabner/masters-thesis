@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,18,17,0.931699346405229
+2,disease_on_drugs,22,26,0.0853729603729605

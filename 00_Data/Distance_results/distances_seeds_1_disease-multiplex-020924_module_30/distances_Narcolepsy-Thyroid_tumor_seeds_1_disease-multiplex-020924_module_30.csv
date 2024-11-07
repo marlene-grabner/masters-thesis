@@ -1,0 +1,4 @@
+,Layer,Narcolepsy nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,0.416449275362319
+1,disease_on_symptoms,21,20,2.488182346109175
+2,disease_on_drugs,20,20,0.8499999999999999

@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,30,26,-0.05631868131868123
+1,disease_on_symptoms,20,22,0.8047619047619046
+2,disease_on_drugs,26,25,0.11871794871794861

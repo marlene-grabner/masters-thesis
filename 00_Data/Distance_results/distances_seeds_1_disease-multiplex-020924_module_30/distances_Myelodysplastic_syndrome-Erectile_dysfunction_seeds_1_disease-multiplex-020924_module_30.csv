@@ -1,0 +1,4 @@
+,Layer,Myelodysplastic_syndrome nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,26,30,0.19761904761904758
+1,disease_on_symptoms,15,16,0.9059811827956992
+2,disease_on_drugs,21,30,0.6824929971988796

@@ -1,0 +1,4 @@
+,Layer,Cholestanol_storage_disease nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,30,27,0.2085769980506822
+1,disease_on_symptoms,17,16,0.692569073083779
+2,disease_on_drugs,25,27,0.9968091168091167

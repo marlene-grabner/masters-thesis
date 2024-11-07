@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Colon_cancer nodes,sAB
+0,disease_on_genes,26,26,-0.11538461538461531
+1,disease_on_symptoms,21,21,0.5
+2,disease_on_drugs,25,24,-0.01959183673469389

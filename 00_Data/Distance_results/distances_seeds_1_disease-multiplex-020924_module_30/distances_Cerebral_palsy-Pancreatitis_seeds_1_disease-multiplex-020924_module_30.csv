@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,27,30,0.11851851851851847
+1,disease_on_symptoms,16,20,0.7124999999999999
+2,disease_on_drugs,18,30,0.41666666666666674

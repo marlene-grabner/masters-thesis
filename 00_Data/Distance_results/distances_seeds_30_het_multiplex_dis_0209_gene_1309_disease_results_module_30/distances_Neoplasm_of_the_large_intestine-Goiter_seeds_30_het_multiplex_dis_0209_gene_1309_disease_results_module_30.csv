@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_large_intestine nodes,Goiter nodes,sAB
+0,disease_on_genes,30,26,0.1071428571428572
+1,disease_on_symptoms,22,12,0.8834670231729058
+2,disease_on_drugs,29,18,0.26023070025271045

@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,15,19,0.8925696594427244
+2,disease_on_drugs,25,28,0.26657681940700817

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Multiple_myeloma nodes,sAB
+0,disease_on_genes,23,26,-0.006654835847382579
+1,disease_on_symptoms,20,21,0.8528455284552847
+2,disease_on_drugs,19,25,0.16454545454545455

@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,28,-0.4464285714285715
+1,disease_on_symptoms,24,25,-0.7745238095238095
+2,disease_on_drugs,28,23,-0.5519120691754962

@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,27,9,-0.37962962962962965
+1,disease_on_symptoms,21,27,-0.3045634920634921
+2,disease_on_drugs,24,9,-0.20265151515151525

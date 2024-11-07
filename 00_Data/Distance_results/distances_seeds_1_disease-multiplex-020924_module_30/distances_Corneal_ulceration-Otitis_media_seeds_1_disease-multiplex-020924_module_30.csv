@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Otitis_media nodes,sAB
+0,disease_on_genes,28,29,-0.016344741163252907
+1,disease_on_symptoms,19,22,0.7841638464231533
+2,disease_on_drugs,26,29,0.36645768025078373

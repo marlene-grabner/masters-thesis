@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,30,22,0.32167832167832167
+1,disease_on_symptoms,19,22,1.2231882366670557
+2,disease_on_drugs,29,14,0.4457841677168062

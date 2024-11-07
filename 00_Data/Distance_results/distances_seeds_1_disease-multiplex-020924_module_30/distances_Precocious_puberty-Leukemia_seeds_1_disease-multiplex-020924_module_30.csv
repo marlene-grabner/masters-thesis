@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.2583333333333335
+1,disease_on_symptoms,14,27,0.6081429861917669
+2,disease_on_drugs,24,17,0.3507890961262552

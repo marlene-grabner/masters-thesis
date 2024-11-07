@@ -1,0 +1,4 @@
+,Layer,Vitiligo nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,24,25,0.22022108843537436
+1,disease_on_symptoms,22,24,1.9579216073781291
+2,disease_on_drugs,11,23,0.588235294117647

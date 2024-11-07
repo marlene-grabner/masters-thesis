@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,23,25,0.4554710144927536
+1,disease_on_symptoms,19,19,1.973684210526316
+2,disease_on_drugs,11,18,1.9032567049808429

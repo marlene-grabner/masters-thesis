@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,29,30,-0.033615819209039444
+1,disease_on_symptoms,23,16,0.11332915273132649
+2,disease_on_drugs,26,28,-0.14779202279202286

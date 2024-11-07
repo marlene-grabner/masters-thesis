@@ -1,0 +1,4 @@
+,Layer,Benign_Neonatal_Epilepsy nodes,Cellulitis nodes,sAB
+0,disease_on_genes,29,22,0.44952380952380944
+1,disease_on_symptoms,16,26,3.320398351648352
+2,disease_on_drugs,26,12,1.5

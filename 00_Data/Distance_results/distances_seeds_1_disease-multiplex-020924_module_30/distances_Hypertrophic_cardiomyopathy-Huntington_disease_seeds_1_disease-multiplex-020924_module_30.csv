@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Huntington_disease nodes,sAB
+0,disease_on_genes,30,30,0.2333333333333334
+1,disease_on_symptoms,17,16,1.0931929590017826
+2,disease_on_drugs,17,27,0.5227272727272727

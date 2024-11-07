@@ -1,0 +1,4 @@
+,Layer,Nephroblastoma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,25,27,0.26834757834757816
+1,disease_on_symptoms,25,19,0.7523444976076554
+2,disease_on_drugs,21,27,1.1875

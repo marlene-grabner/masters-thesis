@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,21,30,0.36834733893557425
+1,disease_on_symptoms,22,16,0.9028110047846889
+2,disease_on_drugs,21,24,0.8168650793650793

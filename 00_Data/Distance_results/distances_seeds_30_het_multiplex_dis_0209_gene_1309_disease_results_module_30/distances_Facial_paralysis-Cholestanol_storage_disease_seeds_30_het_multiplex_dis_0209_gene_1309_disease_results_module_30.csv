@@ -1,0 +1,4 @@
+,Layer,Facial_paralysis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,22,29,-0.09567275185936441
+1,disease_on_symptoms,21,18,0.1700244200244203
+2,disease_on_drugs,17,28,0.13860877684407114

@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Small_cell_lung_carcinoma nodes,sAB
+0,disease_on_genes,26,30,-0.19780219780219777
+1,disease_on_symptoms,20,19,-0.023549257759784004
+2,disease_on_drugs,20,30,-0.19333333333333358

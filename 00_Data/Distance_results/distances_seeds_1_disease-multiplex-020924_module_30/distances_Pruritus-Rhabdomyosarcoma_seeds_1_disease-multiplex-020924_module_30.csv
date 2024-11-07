@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Rhabdomyosarcoma nodes,sAB
+0,disease_on_genes,26,23,0.14199275362318842
+1,disease_on_symptoms,19,24,1.467513259893921
+2,disease_on_drugs,24,17,1.2195121951219514

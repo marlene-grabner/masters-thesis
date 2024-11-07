@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_B1_concentration nodes,Thyroid_tumor nodes,sAB
+0,disease_on_genes,25,23,0.1697826086956522
+1,disease_on_symptoms,13,20,2.8529720279720276
+2,disease_on_drugs,16,20,0.6173611111111112

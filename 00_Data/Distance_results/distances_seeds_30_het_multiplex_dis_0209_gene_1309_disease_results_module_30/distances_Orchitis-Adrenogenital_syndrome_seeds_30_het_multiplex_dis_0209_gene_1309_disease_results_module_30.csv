@@ -1,0 +1,4 @@
+,Layer,Orchitis nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,25,30,0.16363636363636358
+1,disease_on_symptoms,19,9,0.052631578947368585
+2,disease_on_drugs,25,23,0.22782608695652184

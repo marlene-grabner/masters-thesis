@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.1785714285714286
+1,disease_on_symptoms,17,20,0.8410572337042925
+2,disease_on_drugs,17,27,0.5556050703109527

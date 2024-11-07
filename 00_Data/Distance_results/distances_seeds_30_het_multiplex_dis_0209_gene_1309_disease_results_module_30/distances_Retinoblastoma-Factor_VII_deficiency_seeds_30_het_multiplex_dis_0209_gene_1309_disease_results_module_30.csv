@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.12007389162561588
+1,disease_on_symptoms,21,19,1.1411027568922307
+2,disease_on_drugs,27,25,0.7099430199430199

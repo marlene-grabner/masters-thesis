@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,22,0.3627152988855116
+1,disease_on_symptoms,20,26,1.0459030100334452
+2,disease_on_drugs,25,12,1.6216216216216215

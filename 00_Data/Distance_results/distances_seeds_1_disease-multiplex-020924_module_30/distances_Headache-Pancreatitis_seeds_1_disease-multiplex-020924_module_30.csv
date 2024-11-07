@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,0.033333333333333215
+1,disease_on_symptoms,25,20,1.1794444444444445
+2,disease_on_drugs,26,30,0.35576923076923084

@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.020370370370370372
+1,disease_on_symptoms,18,17,0.8297385620915032
+2,disease_on_drugs,25,23,0.12394927536231903

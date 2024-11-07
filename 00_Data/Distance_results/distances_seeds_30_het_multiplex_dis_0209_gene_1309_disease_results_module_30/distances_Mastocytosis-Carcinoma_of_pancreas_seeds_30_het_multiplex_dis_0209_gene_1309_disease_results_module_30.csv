@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Carcinoma_of_pancreas nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333326
+1,disease_on_symptoms,24,18,0.07837301587301582
+2,disease_on_drugs,20,21,-0.09468641114982579

@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,24,26,0.0007692307692308553
+1,disease_on_symptoms,23,21,0.6580557124035387
+2,disease_on_drugs,24,23,-0.12765957446808507

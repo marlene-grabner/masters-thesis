@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Meningitis nodes,sAB
+0,disease_on_genes,26,29,0.2755485893416929
+1,disease_on_symptoms,19,20,1.0267543859649124
+2,disease_on_drugs,24,26,0.37916666666666643

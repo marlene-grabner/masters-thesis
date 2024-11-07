@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Immunodeficiency nodes,sAB
+0,disease_on_genes,27,22,0.2863155363155363
+1,disease_on_symptoms,21,19,1.0827067669172932
+2,disease_on_drugs,23,18,0.329592317662307

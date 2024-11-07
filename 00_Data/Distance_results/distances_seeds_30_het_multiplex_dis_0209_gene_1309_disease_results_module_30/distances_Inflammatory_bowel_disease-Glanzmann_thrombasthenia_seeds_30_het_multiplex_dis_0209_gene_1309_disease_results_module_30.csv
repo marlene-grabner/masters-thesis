@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.07407407407407418
+1,disease_on_symptoms,20,19,0.5115047233468286
+2,disease_on_drugs,27,24,0.35035403050108926

@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,24,29,0.2065217391304348
+1,disease_on_symptoms,23,15,1.595499618611747
+2,disease_on_drugs,20,29,1.0566326530612247

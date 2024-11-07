@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Intracranial_swelling nodes,sAB
+0,disease_on_genes,27,30,-0.03508771929824561
+1,disease_on_symptoms,21,11,0.4724025974025974
+2,disease_on_drugs,25,21,0.12604554865424444

@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Goiter nodes,sAB
+0,disease_on_genes,29,26,0.34545454545454546
+1,disease_on_symptoms,14,12,0.7083333333333335
+2,disease_on_drugs,22,18,0.25883838383838387

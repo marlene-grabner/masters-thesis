@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Peritonitis nodes,sAB
+0,disease_on_genes,20,30,0.38500000000000023
+1,disease_on_symptoms,22,17,0.534519402166461
+2,disease_on_drugs,15,28,0.8875415282392027

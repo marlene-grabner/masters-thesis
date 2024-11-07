@@ -1,0 +1,4 @@
+,Layer,Gangrene nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,27,26,-0.09433962264150941
+1,disease_on_symptoms,22,19,0.32171198506243437
+2,disease_on_drugs,27,24,-0.06590413943355133

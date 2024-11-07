@@ -1,0 +1,4 @@
+,Layer,Disorder_of_lung nodes,Dermatitis nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,18,14,-0.11359126984126977
+2,disease_on_drugs,24,28,-0.09546703296703285

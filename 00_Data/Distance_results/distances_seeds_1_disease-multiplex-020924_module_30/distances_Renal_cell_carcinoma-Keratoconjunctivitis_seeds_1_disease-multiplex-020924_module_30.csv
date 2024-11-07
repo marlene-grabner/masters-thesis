@@ -1,0 +1,4 @@
+,Layer,Renal_cell_carcinoma nodes,Keratoconjunctivitis nodes,sAB
+0,disease_on_genes,25,29,-0.07851851851851854
+1,disease_on_symptoms,24,25,0.12853741496598636
+2,disease_on_drugs,20,27,-0.017730496453900457

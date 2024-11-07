@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Ascites nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,25,22,0.2034235976789167
+2,disease_on_drugs,30,27,0.012378167641325488

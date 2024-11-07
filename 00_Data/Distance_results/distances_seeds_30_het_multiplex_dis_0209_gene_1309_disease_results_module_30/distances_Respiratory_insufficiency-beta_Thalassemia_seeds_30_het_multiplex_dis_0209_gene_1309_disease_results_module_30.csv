@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,27,30,0.0
+1,disease_on_symptoms,21,13,0.8600517129928895
+2,disease_on_drugs,25,24,-0.10222789115646269

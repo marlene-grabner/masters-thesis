@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Vasculitis nodes,sAB
+0,disease_on_genes,27,26,-0.18798043326345226
+1,disease_on_symptoms,21,18,0.1559829059829061
+2,disease_on_drugs,25,26,-0.19460030165912523

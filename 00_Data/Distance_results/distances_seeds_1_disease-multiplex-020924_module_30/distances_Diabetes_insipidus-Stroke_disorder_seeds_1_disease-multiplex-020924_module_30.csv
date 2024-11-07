@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,24,30,0.18472222222222223
+1,disease_on_symptoms,18,15,0.8106060606060603
+2,disease_on_drugs,18,30,0.47916666666666674

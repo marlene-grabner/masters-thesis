@@ -1,0 +1,4 @@
+,Layer,Emphysema nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,18,19,-0.6434329065908013
+2,disease_on_drugs,27,25,-0.2717094017094016

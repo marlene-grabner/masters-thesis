@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.1409090909090911
+1,disease_on_symptoms,23,23,1.7391304347826089
+2,disease_on_drugs,30,20,0.49

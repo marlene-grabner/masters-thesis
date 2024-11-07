@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Skin_ulcer nodes,sAB
+0,disease_on_genes,28,30,-0.06958128078817727
+1,disease_on_symptoms,20,20,0.6499999999999999
+2,disease_on_drugs,27,24,0.0800653594771239

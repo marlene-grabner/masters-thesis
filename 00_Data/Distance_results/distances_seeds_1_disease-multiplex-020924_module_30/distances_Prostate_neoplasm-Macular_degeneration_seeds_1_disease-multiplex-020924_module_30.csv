@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,17,30,0.16355861493533586
+1,disease_on_symptoms,21,15,0.2769841269841269
+2,disease_on_drugs,17,21,0.23315642046292195

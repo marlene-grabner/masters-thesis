@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Thrombophilia nodes,sAB
+0,disease_on_genes,30,27,0.03411306042884976
+1,disease_on_symptoms,14,18,1.2728174603174602
+2,disease_on_drugs,27,21,0.08201058201058209

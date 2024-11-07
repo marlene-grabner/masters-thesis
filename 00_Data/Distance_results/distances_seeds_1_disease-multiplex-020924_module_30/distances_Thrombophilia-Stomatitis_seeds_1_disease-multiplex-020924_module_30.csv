@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Stomatitis nodes,sAB
+0,disease_on_genes,27,30,0.42270955165692015
+1,disease_on_symptoms,18,23,2.181571815718157
+2,disease_on_drugs,21,30,0.9700280112044819

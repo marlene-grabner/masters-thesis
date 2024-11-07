@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,28,0.375
+1,disease_on_symptoms,15,21,1.9873015873015873
+2,disease_on_drugs,20,28,1.0017857142857143

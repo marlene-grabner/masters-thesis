@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Otitis_media nodes,sAB
+0,disease_on_genes,20,29,0.26736453201970467
+1,disease_on_symptoms,22,22,0.9090909090909092
+2,disease_on_drugs,15,29,0.8482758620689657

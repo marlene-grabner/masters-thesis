@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Adrenogenital_syndrome nodes,sAB
+0,disease_on_genes,28,30,-0.08620689655172409
+1,disease_on_symptoms,18,9,-0.5277777777777777
+2,disease_on_drugs,23,23,-0.13043478260869557

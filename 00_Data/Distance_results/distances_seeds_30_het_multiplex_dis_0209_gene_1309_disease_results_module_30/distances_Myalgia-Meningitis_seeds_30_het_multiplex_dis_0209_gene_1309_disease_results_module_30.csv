@@ -1,0 +1,4 @@
+,Layer,Myalgia nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.3220338983050848
+1,disease_on_symptoms,16,17,-0.1210450089126558
+2,disease_on_drugs,29,27,-0.35869366903849664

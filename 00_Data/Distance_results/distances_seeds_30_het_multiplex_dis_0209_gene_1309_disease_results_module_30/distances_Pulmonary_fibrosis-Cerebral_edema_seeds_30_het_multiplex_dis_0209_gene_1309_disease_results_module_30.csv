@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,25,30,0.18181818181818188
+1,disease_on_symptoms,22,10,0.771590909090909
+2,disease_on_drugs,25,16,0.1202743902439023

@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Keloid nodes,sAB
+0,disease_on_genes,27,23,-0.020000000000000018
+1,disease_on_symptoms,18,17,1.3955648926237165
+2,disease_on_drugs,22,22,-0.045454545454545636

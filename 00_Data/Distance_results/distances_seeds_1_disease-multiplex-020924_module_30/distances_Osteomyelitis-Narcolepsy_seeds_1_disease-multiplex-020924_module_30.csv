@@ -1,0 +1,4 @@
+,Layer,Osteomyelitis nodes,Narcolepsy nodes,sAB
+0,disease_on_genes,25,25,0.33999999999999986
+1,disease_on_symptoms,23,21,2.4923301336344816
+2,disease_on_drugs,23,20,0.6291961577350857

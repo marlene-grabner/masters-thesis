@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.018181818181818077
+1,disease_on_symptoms,15,21,0.7206349206349207
+2,disease_on_drugs,28,21,0.018707482993197244

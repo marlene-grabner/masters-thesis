@@ -1,0 +1,4 @@
+,Layer,Stomatitis nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,30,27,0.08771929824561409
+1,disease_on_symptoms,19,21,1.038471177944862
+2,disease_on_drugs,29,24,0.3294973975276514

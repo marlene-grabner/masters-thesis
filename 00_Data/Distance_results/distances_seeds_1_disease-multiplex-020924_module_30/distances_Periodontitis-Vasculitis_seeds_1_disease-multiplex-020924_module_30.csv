@@ -1,0 +1,4 @@
+,Layer,Periodontitis nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,24,0.31820459451125505
+1,disease_on_symptoms,25,19,1.1023444976076553
+2,disease_on_drugs,22,20,0.5722943722943723

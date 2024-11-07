@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,26,25,-0.07806938159879329
+1,disease_on_symptoms,21,20,0.7790940766550523
+2,disease_on_drugs,26,21,0.004091653027823439

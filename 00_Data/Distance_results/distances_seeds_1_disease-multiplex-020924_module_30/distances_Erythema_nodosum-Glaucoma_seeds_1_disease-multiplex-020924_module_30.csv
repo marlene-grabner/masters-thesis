@@ -1,0 +1,4 @@
+,Layer,Erythema_nodosum nodes,Glaucoma nodes,sAB
+0,disease_on_genes,28,30,0.22582101806239718
+1,disease_on_symptoms,23,14,0.04373006546919589
+2,disease_on_drugs,28,30,0.3970853858784893

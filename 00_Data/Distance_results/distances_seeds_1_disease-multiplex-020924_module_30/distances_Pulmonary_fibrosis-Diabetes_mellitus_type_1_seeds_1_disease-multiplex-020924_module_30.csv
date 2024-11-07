@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Diabetes_mellitus_type_1 nodes,sAB
+0,disease_on_genes,24,13,0.16107934857934847
+1,disease_on_symptoms,22,25,3.7747582205029016
+2,disease_on_drugs,24,8,0.28125

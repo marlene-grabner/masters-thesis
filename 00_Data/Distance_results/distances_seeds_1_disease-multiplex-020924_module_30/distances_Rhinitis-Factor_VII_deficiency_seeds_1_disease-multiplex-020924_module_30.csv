@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,25,0.36424242424242426
+1,disease_on_symptoms,15,23,2.4320366132723112
+2,disease_on_drugs,22,21,0.9058693244739755

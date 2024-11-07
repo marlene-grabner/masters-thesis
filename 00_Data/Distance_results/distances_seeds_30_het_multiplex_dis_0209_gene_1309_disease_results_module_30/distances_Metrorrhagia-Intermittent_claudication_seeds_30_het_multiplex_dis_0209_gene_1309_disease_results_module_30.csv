@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,29,30,0.07017543859649122
+1,disease_on_symptoms,17,14,0.07305502846299827
+2,disease_on_drugs,26,24,0.21955128205128194

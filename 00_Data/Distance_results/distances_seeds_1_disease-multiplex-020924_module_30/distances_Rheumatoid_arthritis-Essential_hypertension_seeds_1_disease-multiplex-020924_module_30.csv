@@ -1,0 +1,4 @@
+,Layer,Rheumatoid_arthritis nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.05458152958152973
+1,disease_on_symptoms,15,14,0.8244663382594415
+2,disease_on_drugs,25,28,0.11409703504043134

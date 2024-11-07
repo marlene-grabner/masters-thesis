@@ -1,0 +1,4 @@
+,Layer,Chapped_lip nodes,Pericarditis nodes,sAB
+0,disease_on_genes,26,26,0.03846153846153855
+1,disease_on_symptoms,20,21,0.8056620209059235
+2,disease_on_drugs,23,26,0.10731349395945644

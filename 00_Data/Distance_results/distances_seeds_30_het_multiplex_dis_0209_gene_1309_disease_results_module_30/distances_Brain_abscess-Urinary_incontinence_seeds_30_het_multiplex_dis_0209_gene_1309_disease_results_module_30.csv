@@ -1,0 +1,4 @@
+,Layer,Brain_abscess nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,27,29,0.0
+1,disease_on_symptoms,21,20,1.1699186991869919
+2,disease_on_drugs,23,20,0.18725985844287174

@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,18,30,0.5266283524904214
+1,disease_on_symptoms,18,18,3.9444444444444446
+2,disease_on_drugs,10,19,0.5365698729582575

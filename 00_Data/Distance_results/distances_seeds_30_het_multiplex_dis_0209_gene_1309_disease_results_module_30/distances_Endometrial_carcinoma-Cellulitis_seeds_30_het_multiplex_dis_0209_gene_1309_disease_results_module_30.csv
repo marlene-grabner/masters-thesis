@@ -1,0 +1,4 @@
+,Layer,Endometrial_carcinoma nodes,Cellulitis nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,21,20,0.779500580720093
+2,disease_on_drugs,26,26,0.23076923076923062

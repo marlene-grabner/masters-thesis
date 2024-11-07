@@ -1,0 +1,4 @@
+,Layer,Erythema_multiforme nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,30,25,0.1266666666666667
+1,disease_on_symptoms,16,17,1.0839460784313724
+2,disease_on_drugs,30,24,0.6620370370370372

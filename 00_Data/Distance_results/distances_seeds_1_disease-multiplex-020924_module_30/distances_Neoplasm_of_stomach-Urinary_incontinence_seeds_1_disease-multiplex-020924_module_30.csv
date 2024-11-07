@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Urinary_incontinence nodes,sAB
+0,disease_on_genes,23,26,0.3959968602825745
+1,disease_on_symptoms,24,20,0.9678030303030303
+2,disease_on_drugs,22,20,1.1915584415584417

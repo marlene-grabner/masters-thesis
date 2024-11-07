@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,27,29,0.14470443349753692
+1,disease_on_symptoms,17,16,0.8182932263814615
+2,disease_on_drugs,25,25,0.8799999999999999

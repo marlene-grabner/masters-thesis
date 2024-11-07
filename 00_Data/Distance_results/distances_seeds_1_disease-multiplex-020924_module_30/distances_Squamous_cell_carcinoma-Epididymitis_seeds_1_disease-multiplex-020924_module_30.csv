@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Epididymitis nodes,sAB
+0,disease_on_genes,16,29,0.3466475095785442
+1,disease_on_symptoms,26,23,1.600675721793734
+2,disease_on_drugs,14,27,1.084914182475158

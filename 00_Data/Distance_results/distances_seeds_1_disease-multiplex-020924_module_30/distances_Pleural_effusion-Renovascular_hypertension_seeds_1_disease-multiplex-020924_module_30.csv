@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.1317927170868345
+1,disease_on_symptoms,20,22,1.2579004329004326
+2,disease_on_drugs,22,20,0.47023809523809534

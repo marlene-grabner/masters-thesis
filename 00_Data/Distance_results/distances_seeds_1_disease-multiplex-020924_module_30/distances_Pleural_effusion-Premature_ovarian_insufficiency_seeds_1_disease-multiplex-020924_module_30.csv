@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Premature_ovarian_insufficiency nodes,sAB
+0,disease_on_genes,30,23,-0.05440251572327037
+1,disease_on_symptoms,20,22,-0.062445887445887305
+2,disease_on_drugs,22,17,-0.06259426847662164

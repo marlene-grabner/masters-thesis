@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,28,29,0.3862457868809954
+1,disease_on_symptoms,15,21,1.3674603174603175
+2,disease_on_drugs,21,28,1.0892857142857142

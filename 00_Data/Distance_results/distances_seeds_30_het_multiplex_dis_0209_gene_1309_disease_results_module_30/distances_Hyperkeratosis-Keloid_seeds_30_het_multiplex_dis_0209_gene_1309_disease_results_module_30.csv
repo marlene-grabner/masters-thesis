@@ -1,0 +1,4 @@
+,Layer,Hyperkeratosis nodes,Keloid nodes,sAB
+0,disease_on_genes,26,23,0.08281004709576134
+1,disease_on_symptoms,25,17,1.1287394957983192
+2,disease_on_drugs,25,22,0.17386847195357857

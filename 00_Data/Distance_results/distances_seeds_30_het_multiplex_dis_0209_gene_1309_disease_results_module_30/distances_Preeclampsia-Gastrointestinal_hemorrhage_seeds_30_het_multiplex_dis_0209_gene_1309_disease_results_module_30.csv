@@ -1,0 +1,4 @@
+,Layer,Preeclampsia nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,27,28,-0.017857142857142794
+1,disease_on_symptoms,18,20,0.8058479532163745
+2,disease_on_drugs,22,27,0.12451041022469589

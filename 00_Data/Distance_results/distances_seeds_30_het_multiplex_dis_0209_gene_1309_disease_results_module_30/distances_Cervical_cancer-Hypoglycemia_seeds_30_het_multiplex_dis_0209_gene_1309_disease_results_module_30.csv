@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,28,30,0.05229885057471262
+1,disease_on_symptoms,22,19,0.7719103746061386
+2,disease_on_drugs,15,27,0.08518518518518503

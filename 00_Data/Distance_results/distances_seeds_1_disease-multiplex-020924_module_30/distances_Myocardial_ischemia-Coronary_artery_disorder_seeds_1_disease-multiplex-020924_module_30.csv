@@ -1,0 +1,4 @@
+,Layer,Myocardial_ischemia nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,19,0.157357679914071
+1,disease_on_symptoms,13,21,2.1006248653307478
+2,disease_on_drugs,23,17,-0.04021739130434776

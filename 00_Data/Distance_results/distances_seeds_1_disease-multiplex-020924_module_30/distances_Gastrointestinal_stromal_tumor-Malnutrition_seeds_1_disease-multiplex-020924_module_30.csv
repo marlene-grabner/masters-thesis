@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Malnutrition nodes,sAB
+0,disease_on_genes,23,26,0.03651627875230368
+1,disease_on_symptoms,20,18,1.6304093567251465
+2,disease_on_drugs,19,23,0.9047619047619047

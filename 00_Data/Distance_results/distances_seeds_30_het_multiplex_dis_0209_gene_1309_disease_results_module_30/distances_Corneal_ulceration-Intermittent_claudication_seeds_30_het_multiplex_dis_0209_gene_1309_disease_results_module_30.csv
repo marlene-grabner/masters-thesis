@@ -1,0 +1,4 @@
+,Layer,Corneal_ulceration nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,28,30,0.15455665024630538
+1,disease_on_symptoms,15,14,0.10574712643678197
+2,disease_on_drugs,23,24,0.23437018193031145

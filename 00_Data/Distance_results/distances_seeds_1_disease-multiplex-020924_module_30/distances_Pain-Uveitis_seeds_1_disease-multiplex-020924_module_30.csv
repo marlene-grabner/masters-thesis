@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.24844322344322345
+1,disease_on_symptoms,21,21,0.8571428571428572
+2,disease_on_drugs,26,27,0.35847712734505177

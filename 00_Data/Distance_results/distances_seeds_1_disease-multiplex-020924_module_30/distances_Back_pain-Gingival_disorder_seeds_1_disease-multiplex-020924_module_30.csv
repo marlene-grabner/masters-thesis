@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,30,21,0.0217086834733895
+1,disease_on_symptoms,16,26,0.466231684981685
+2,disease_on_drugs,23,20,0.30232558139534893

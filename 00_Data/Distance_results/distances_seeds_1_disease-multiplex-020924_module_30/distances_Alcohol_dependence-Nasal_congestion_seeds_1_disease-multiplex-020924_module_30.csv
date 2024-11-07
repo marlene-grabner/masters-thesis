@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Nasal_congestion nodes,sAB
+0,disease_on_genes,12,30,0.3369047619047618
+1,disease_on_symptoms,27,15,0.8248677248677247
+2,disease_on_drugs,9,23,0.7108997584541061

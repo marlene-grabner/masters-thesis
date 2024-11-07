@@ -1,0 +1,4 @@
+,Layer,Adrenal_insufficiency nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,17,21,0.3121037888839744
+1,disease_on_symptoms,21,25,1.4563975155279505
+2,disease_on_drugs,14,21,0.8857142857142857

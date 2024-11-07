@@ -1,0 +1,4 @@
+,Layer,Hypogonadism nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.39655172413793105
+1,disease_on_symptoms,12,20,1.4916666666666667
+2,disease_on_drugs,30,26,0.7690476190476192

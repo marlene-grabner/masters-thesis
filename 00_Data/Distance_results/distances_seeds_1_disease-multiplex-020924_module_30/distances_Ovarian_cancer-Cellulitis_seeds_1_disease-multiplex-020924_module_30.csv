@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Cellulitis nodes,sAB
+0,disease_on_genes,27,22,0.49702380952380953
+1,disease_on_symptoms,17,26,0.8074818478375252
+2,disease_on_drugs,25,12,1.7567567567567566

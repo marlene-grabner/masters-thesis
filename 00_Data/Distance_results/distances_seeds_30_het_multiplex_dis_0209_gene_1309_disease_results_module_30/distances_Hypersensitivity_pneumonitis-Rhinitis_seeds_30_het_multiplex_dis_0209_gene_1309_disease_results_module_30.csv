@@ -1,0 +1,4 @@
+,Layer,Hypersensitivity_pneumonitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,25,30,0.036363636363636376
+1,disease_on_symptoms,20,12,0.3479166666666669
+2,disease_on_drugs,25,23,0.12199275362318862

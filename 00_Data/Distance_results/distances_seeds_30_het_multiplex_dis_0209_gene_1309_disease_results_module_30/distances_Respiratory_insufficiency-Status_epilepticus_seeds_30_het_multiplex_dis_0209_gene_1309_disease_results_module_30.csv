@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,27,30,-0.17543859649122806
+1,disease_on_symptoms,21,18,0.179181929181929
+2,disease_on_drugs,25,30,-0.25181818181818194

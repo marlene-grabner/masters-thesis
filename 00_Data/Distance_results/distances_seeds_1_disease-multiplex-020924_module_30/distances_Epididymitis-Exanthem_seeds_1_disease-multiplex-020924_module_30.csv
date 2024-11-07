@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,29,28,0.05293405928614647
+1,disease_on_symptoms,23,26,0.6187290969899666
+2,disease_on_drugs,27,28,0.19965127465127464

@@ -1,0 +1,4 @@
+,Layer,Peripheral_arterial_disease nodes,Spinal_cord_tumor nodes,sAB
+0,disease_on_genes,25,22,0.43920696324951636
+1,disease_on_symptoms,14,22,0.762626262626263
+2,disease_on_drugs,22,14,0.6984126984126984

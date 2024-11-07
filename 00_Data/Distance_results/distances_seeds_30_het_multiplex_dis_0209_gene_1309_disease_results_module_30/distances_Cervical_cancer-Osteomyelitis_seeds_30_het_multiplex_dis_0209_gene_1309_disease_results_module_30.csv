@@ -1,0 +1,4 @@
+,Layer,Cervical_cancer nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,28,30,0.18965517241379315
+1,disease_on_symptoms,22,22,0.38636363636363646
+2,disease_on_drugs,15,28,0.1789313399778516

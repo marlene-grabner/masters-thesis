@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Cardiomyopathy nodes,sAB
+0,disease_on_genes,25,25,0.0
+1,disease_on_symptoms,18,17,1.0282913165266105
+2,disease_on_drugs,23,24,0.10726950354609954

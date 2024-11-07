@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.13588544710695494
+1,disease_on_symptoms,13,18,0.14467879790460447
+2,disease_on_drugs,21,28,-0.21598639455782287

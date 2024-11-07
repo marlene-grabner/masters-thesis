@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,30,30,-0.3833333333333333
+1,disease_on_symptoms,21,19,-0.8489348370927319
+2,disease_on_drugs,29,27,-0.3236407589855864

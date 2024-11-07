@@ -1,0 +1,4 @@
+,Layer,Oligomenorrhea nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,29,30,0.03389830508474567
+1,disease_on_symptoms,11,15,0.8428904428904429
+2,disease_on_drugs,24,21,0.07658730158730154

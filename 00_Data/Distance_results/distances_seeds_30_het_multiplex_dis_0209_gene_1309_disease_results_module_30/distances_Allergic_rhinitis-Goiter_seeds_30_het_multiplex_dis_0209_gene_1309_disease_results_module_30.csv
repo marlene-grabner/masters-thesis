@@ -1,0 +1,4 @@
+,Layer,Allergic_rhinitis nodes,Goiter nodes,sAB
+0,disease_on_genes,28,26,0.2592592592592593
+1,disease_on_symptoms,20,12,1.1270833333333332
+2,disease_on_drugs,25,18,0.18622739018087842

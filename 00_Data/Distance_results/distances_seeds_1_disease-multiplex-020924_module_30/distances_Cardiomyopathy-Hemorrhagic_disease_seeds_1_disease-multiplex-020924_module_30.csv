@@ -1,0 +1,4 @@
+,Layer,Cardiomyopathy nodes,Hemorrhagic_disease nodes,sAB
+0,disease_on_genes,25,24,0.3269217687074828
+1,disease_on_symptoms,17,19,0.8688510491916066
+2,disease_on_drugs,24,19,0.876325989392085

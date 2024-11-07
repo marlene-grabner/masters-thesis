@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,25,24,-0.14583333333333337
+1,disease_on_symptoms,18,22,0.9525252525252528
+2,disease_on_drugs,24,21,0.17539682539682522

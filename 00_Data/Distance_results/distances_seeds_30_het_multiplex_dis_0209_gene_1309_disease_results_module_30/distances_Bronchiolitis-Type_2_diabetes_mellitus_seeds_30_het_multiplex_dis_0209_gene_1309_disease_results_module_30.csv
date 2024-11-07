@@ -1,0 +1,4 @@
+,Layer,Bronchiolitis nodes,Type_2_diabetes_mellitus nodes,sAB
+0,disease_on_genes,28,30,-0.15517241379310343
+1,disease_on_symptoms,25,16,0.25375000000000014
+2,disease_on_drugs,24,27,-0.18518518518518512

@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Encephalitis nodes,sAB
+0,disease_on_genes,30,29,-0.15254237288135597
+1,disease_on_symptoms,23,13,-0.33574879227053134
+2,disease_on_drugs,29,22,-0.22181756715225276

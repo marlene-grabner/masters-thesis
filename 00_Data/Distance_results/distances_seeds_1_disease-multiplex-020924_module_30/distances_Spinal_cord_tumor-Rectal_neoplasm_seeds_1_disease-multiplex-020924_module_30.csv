@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,22,30,0.03321678321678312
+1,disease_on_symptoms,22,21,0.81430584918957
+2,disease_on_drugs,14,29,0.5560488028411044

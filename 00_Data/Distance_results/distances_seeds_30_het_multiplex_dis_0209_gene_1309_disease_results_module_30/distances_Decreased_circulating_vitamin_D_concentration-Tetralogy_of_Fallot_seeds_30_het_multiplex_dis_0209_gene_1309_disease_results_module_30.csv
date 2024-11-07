@@ -1,0 +1,4 @@
+,Layer,Decreased_circulating_vitamin_D_concentration nodes,Tetralogy_of_Fallot nodes,sAB
+0,disease_on_genes,25,30,-0.21363636363636374
+1,disease_on_symptoms,13,19,0.49506578947368407
+2,disease_on_drugs,21,20,-0.24648664343786297

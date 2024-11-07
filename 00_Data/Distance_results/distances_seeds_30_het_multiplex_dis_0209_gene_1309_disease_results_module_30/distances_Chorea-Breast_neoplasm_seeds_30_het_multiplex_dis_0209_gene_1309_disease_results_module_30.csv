@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,17,20,1.1034578696343404
+2,disease_on_drugs,24,30,0.4467592592592591

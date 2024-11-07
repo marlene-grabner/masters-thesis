@@ -1,0 +1,4 @@
+,Layer,Atypical_absence_seizure nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,29,27,0.2314814814814814
+1,disease_on_symptoms,15,23,1.8465293668954996
+2,disease_on_drugs,27,15,0.7391534391534393

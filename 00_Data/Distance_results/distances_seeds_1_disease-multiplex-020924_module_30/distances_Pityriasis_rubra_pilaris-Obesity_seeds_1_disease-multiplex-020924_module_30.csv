@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Obesity nodes,sAB
+0,disease_on_genes,28,26,0.22150997150997154
+1,disease_on_symptoms,23,20,0.9483316481294235
+2,disease_on_drugs,26,27,0.3018599150674621

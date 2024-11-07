@@ -1,0 +1,4 @@
+,Layer,Pruritus nodes,Arthralgia nodes,sAB
+0,disease_on_genes,27,30,-0.07115009746588707
+1,disease_on_symptoms,21,17,0.8593542680229989
+2,disease_on_drugs,27,30,0.033820662768031085

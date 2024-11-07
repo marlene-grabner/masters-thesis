@@ -1,0 +1,4 @@
+,Layer,Temporal_lobe_epilepsy nodes,Fibrosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.25
+1,disease_on_symptoms,17,14,-0.49993223095689876
+2,disease_on_drugs,28,26,-0.3714387464387463

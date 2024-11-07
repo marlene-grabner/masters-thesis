@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Glioma nodes,sAB
+0,disease_on_genes,26,22,0.04326923076923084
+1,disease_on_symptoms,20,21,1.1649825783972125
+2,disease_on_drugs,20,21,0.3858885017421603

@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_the_skin nodes,Kidney_damage nodes,sAB
+0,disease_on_genes,30,30,0.15000000000000013
+1,disease_on_symptoms,22,15,0.5586814086814087
+2,disease_on_drugs,29,21,0.09599343185550069

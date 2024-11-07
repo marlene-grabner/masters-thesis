@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Testicular_neoplasm nodes,sAB
+0,disease_on_genes,26,25,-0.11766214177978884
+1,disease_on_symptoms,20,26,0.1503344481605351
+2,disease_on_drugs,20,24,0.18939393939393923

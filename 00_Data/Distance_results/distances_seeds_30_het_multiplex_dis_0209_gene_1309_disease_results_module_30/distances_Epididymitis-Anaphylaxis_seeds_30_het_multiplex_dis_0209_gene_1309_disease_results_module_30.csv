@@ -1,0 +1,4 @@
+,Layer,Epididymitis nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,29,27,0.01719576719576721
+1,disease_on_symptoms,23,14,0.697624643276817
+2,disease_on_drugs,26,26,0.05769230769230771

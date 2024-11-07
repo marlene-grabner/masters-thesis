@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Dyspareunia nodes,sAB
+0,disease_on_genes,30,24,0.30740740740740735
+1,disease_on_symptoms,17,17,0.9117647058823528
+2,disease_on_drugs,28,23,0.7029898916088175

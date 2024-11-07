@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Wilson_disease nodes,sAB
+0,disease_on_genes,30,25,-0.033333333333333215
+1,disease_on_symptoms,19,19,-0.26315789473684226
+2,disease_on_drugs,24,22,-0.10918972332015797

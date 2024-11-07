@@ -1,0 +1,4 @@
+,Layer,Movement_disorder nodes,Cervical_cancer nodes,sAB
+0,disease_on_genes,30,28,-0.016666666666666607
+1,disease_on_symptoms,17,22,-0.02673796791443861
+2,disease_on_drugs,26,15,-0.15081300813008114

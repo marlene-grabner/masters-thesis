@@ -1,0 +1,4 @@
+,Layer,Squamous_cell_carcinoma nodes,Glanzmann_thrombasthenia nodes,sAB
+0,disease_on_genes,30,24,0.0
+1,disease_on_symptoms,22,19,0.6693604854708832
+2,disease_on_drugs,30,24,0.4189814814814814

@@ -1,0 +1,4 @@
+,Layer,Fibrosarcoma nodes,Prostatitis nodes,sAB
+0,disease_on_genes,30,30,0.06666666666666665
+1,disease_on_symptoms,14,22,0.47871572871572887
+2,disease_on_drugs,26,28,0.21983109483109486

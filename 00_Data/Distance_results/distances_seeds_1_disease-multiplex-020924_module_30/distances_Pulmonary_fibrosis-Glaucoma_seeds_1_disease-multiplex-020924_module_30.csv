@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Glaucoma nodes,sAB
+0,disease_on_genes,24,30,0.06064814814814823
+1,disease_on_symptoms,22,14,-0.06132756132756123
+2,disease_on_drugs,24,30,0.22592592592592609

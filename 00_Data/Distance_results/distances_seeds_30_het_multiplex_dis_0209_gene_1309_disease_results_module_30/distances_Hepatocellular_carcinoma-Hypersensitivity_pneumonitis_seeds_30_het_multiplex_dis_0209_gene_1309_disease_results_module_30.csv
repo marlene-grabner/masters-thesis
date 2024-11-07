@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,24,25,-0.36734693877551017
+1,disease_on_symptoms,23,20,-0.39158240647118303
+2,disease_on_drugs,22,25,-0.3169439071566732

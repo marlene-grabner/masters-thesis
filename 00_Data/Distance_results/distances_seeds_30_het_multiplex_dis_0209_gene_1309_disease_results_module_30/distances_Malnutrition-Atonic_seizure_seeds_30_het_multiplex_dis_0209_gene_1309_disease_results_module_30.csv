@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,14,15,0.10164203612479472
+2,disease_on_drugs,29,23,-0.13522085111290516

@@ -1,0 +1,4 @@
+,Layer,Precocious_puberty nodes,Erectile_dysfunction nodes,sAB
+0,disease_on_genes,30,30,-0.08333333333333337
+1,disease_on_symptoms,14,16,0.262202380952381
+2,disease_on_drugs,24,30,0.0981481481481481

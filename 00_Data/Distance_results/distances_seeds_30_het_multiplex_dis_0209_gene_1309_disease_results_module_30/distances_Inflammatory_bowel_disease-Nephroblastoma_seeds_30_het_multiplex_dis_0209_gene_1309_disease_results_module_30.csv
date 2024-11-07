@@ -1,0 +1,4 @@
+,Layer,Inflammatory_bowel_disease nodes,Nephroblastoma nodes,sAB
+0,disease_on_genes,30,29,-0.0002922267679719148
+1,disease_on_symptoms,20,20,0.10000000000000009
+2,disease_on_drugs,27,24,-0.10552832244008714

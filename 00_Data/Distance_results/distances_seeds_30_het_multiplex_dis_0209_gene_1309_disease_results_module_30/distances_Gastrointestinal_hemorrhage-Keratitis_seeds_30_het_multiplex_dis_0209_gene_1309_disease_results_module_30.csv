@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_hemorrhage nodes,Keratitis nodes,sAB
+0,disease_on_genes,28,30,-0.0862479474548441
+1,disease_on_symptoms,20,25,0.1055555555555554
+2,disease_on_drugs,27,29,0.06869184455391353

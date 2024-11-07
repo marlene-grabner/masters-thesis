@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,27,23,-0.1802576489533011
+1,disease_on_symptoms,23,19,0.6693908684755367
+2,disease_on_drugs,25,21,0.02973084886128352

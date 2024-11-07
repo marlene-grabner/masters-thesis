@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,24,30,0.2388015551048006
+1,disease_on_symptoms,18,18,0.6944444444444446
+2,disease_on_drugs,18,19,0.2453769559032717

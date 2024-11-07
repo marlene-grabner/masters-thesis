@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Systemic_mast_cell_disease nodes,sAB
+0,disease_on_genes,26,29,-0.10727969348659006
+1,disease_on_symptoms,25,16,0.1054268292682925
+2,disease_on_drugs,24,25,-0.04166666666666652

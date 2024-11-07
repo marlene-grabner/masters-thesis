@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Eczematoid_dermatitis nodes,sAB
+0,disease_on_genes,30,28,-0.397167487684729
+1,disease_on_symptoms,22,24,-0.5594532279314888
+2,disease_on_drugs,29,28,-0.38507907700285193

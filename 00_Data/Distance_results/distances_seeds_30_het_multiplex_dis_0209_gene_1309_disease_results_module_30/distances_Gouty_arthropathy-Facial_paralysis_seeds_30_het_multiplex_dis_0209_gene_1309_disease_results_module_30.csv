@@ -1,0 +1,4 @@
+,Layer,Gouty_arthropathy nodes,Facial_paralysis nodes,sAB
+0,disease_on_genes,28,22,0.06000000000000005
+1,disease_on_symptoms,18,21,0.7341269841269842
+2,disease_on_drugs,23,17,0.1311381074168798

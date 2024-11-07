@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,20,17,-0.08215421303656578
+2,disease_on_drugs,30,17,-0.034584897788902724

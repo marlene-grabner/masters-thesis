@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Joint_hemorrhage nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,20,17,0.5695945945945948
+2,disease_on_drugs,30,26,0.3038461538461539

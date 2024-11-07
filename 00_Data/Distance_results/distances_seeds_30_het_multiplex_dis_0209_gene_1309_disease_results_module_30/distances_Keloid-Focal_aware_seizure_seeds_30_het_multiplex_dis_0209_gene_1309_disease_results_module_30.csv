@@ -1,0 +1,4 @@
+,Layer,Keloid nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,23,29,-0.09615384615384615
+1,disease_on_symptoms,17,16,1.332776292335116
+2,disease_on_drugs,22,29,0.30283053660335635

@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,30,30,-0.10000000000000009
+1,disease_on_symptoms,19,16,-0.19154135338345868
+2,disease_on_drugs,20,28,-0.19821428571428568

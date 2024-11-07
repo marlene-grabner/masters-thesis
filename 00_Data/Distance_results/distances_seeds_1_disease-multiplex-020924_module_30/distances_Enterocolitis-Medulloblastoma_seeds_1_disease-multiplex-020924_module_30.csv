@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,27,26,0.26450034940600964
+1,disease_on_symptoms,21,19,1.1624686716791979
+2,disease_on_drugs,24,24,0.6041666666666665

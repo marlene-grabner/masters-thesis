@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,27,28,0.4363636363636363
+1,disease_on_symptoms,17,12,1.79158215010142
+2,disease_on_drugs,25,21,0.5807453416149069

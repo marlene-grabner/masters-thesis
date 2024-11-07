@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,17,26,0.2769388614121855
+1,disease_on_symptoms,25,17,0.6840896358543416
+2,disease_on_drugs,13,18,0.6980976013234079

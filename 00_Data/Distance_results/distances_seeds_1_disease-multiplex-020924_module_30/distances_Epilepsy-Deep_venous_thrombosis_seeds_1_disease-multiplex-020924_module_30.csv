@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Deep_venous_thrombosis nodes,sAB
+0,disease_on_genes,29,28,0.31547619047619047
+1,disease_on_symptoms,18,14,2.0952380952380953
+2,disease_on_drugs,30,24,0.7611111111111111

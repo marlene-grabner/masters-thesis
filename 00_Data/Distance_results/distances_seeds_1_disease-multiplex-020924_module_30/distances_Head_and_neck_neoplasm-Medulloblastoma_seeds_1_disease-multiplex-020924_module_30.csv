@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Medulloblastoma nodes,sAB
+0,disease_on_genes,30,26,-0.052380952380952306
+1,disease_on_symptoms,20,19,0.5120107962213227
+2,disease_on_drugs,27,24,-0.06004901960784326

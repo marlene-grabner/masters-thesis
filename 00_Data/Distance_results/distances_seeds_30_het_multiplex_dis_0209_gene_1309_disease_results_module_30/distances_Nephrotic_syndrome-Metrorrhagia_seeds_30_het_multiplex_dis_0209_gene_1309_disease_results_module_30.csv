@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.07017543859649122
+1,disease_on_symptoms,15,17,0.08676470588235308
+2,disease_on_drugs,28,26,-0.03805453805453807

@@ -1,0 +1,4 @@
+,Layer,Pulmonary_edema nodes,Osteosarcoma nodes,sAB
+0,disease_on_genes,30,30,-0.016666666666666607
+1,disease_on_symptoms,11,22,0.030303030303030276
+2,disease_on_drugs,27,29,0.19752326217843463

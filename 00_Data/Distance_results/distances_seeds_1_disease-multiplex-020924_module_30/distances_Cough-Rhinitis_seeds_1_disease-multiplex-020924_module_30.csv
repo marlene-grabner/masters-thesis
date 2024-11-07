@@ -1,0 +1,4 @@
+,Layer,Cough nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,-0.27816764132553595
+1,disease_on_symptoms,21,15,-0.7111111111111112
+2,disease_on_drugs,27,22,-0.3227513227513229

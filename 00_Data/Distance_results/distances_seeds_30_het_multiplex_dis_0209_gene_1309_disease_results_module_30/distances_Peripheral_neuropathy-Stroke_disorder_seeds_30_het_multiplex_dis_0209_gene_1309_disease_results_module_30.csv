@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,-0.19999999999999996
+1,disease_on_symptoms,21,16,-0.7841055341055339
+2,disease_on_drugs,29,30,-0.13648938242743025

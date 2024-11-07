@@ -1,0 +1,4 @@
+,Layer,Dysuria nodes,Disorder_of_lung nodes,sAB
+0,disease_on_genes,30,27,0.20192483123517602
+1,disease_on_symptoms,16,17,1.118816844919786
+2,disease_on_drugs,23,20,0.18756319514661257

@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Breast_neoplasm nodes,sAB
+0,disease_on_genes,24,30,0.13657407407407418
+1,disease_on_symptoms,20,16,0.7048611111111112
+2,disease_on_drugs,22,30,1.0926573426573427

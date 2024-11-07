@@ -1,0 +1,4 @@
+,Layer,Meningitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,29,26,0.33009404388714736
+1,disease_on_symptoms,20,19,0.837145748987854
+2,disease_on_drugs,26,18,0.33585858585858586

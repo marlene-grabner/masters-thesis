@@ -1,0 +1,4 @@
+,Layer,West_syndrome nodes,Persistent_fetal_circulation_syndrome nodes,sAB
+0,disease_on_genes,29,25,0.25629629629629624
+1,disease_on_symptoms,18,20,1.5304093567251464
+2,disease_on_drugs,22,18,0.44166666666666643

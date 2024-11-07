@@ -1,0 +1,4 @@
+,Layer,Pleural_effusion nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.09333333333333327
+1,disease_on_symptoms,20,23,0.8573559150657228
+2,disease_on_drugs,22,17,0.5414781297134237

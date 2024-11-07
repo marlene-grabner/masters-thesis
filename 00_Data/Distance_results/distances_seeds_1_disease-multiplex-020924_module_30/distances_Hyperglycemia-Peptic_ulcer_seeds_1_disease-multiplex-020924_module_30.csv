@@ -1,0 +1,4 @@
+,Layer,Hyperglycemia nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,30,28,-0.053119868637109935
+1,disease_on_symptoms,14,14,1.5
+2,disease_on_drugs,26,28,0.4259259259259258

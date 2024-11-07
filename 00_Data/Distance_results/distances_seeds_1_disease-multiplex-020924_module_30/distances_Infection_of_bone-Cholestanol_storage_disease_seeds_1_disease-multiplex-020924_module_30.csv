@@ -1,0 +1,4 @@
+,Layer,Infection_of_bone nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,26,30,0.22939560439560447
+1,disease_on_symptoms,21,17,0.6338640719445676
+2,disease_on_drugs,24,25,0.7562755102040815

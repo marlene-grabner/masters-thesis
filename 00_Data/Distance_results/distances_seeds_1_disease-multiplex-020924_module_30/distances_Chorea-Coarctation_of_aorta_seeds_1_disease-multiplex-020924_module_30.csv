@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,14,27,0.7691637630662023
+1,disease_on_symptoms,27,14,2.373886953155246
+2,disease_on_drugs,8,13,1.1279761904761907

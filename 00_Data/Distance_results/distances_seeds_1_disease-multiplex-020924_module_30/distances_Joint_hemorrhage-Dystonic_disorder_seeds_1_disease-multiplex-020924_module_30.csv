@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,30,17,0.6834167709637045
+1,disease_on_symptoms,13,28,3.3395537389439824
+2,disease_on_drugs,18,9,1.3611111111111112

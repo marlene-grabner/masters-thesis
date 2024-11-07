@@ -1,0 +1,4 @@
+,Layer,Retinoblastoma nodes,Premature_ovarian_failure nodes,sAB
+0,disease_on_genes,30,30,0.0
+1,disease_on_symptoms,21,15,0.4650793650793652
+2,disease_on_drugs,27,26,-0.041014890071493726

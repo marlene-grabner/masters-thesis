@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Tremor nodes,sAB
+0,disease_on_genes,22,27,-0.020408163265306145
+1,disease_on_symptoms,21,17,2.0860238832375053
+2,disease_on_drugs,21,24,0.5757936507936507

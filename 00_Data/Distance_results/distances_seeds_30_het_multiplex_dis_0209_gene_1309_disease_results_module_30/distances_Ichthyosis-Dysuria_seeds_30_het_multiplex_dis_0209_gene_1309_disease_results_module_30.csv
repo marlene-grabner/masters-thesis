@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Dysuria nodes,sAB
+0,disease_on_genes,28,30,0.05110837438423643
+1,disease_on_symptoms,18,12,1.2111111111111112
+2,disease_on_drugs,25,21,0.22157349896480327

@@ -1,0 +1,4 @@
+,Layer,Peptic_ulcer nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.18333333333333335
+1,disease_on_symptoms,20,15,-0.27023809523809517
+2,disease_on_drugs,30,25,-0.09878787878787887

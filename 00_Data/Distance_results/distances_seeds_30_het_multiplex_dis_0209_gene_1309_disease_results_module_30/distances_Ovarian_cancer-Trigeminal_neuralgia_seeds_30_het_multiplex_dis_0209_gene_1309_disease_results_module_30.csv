@@ -1,0 +1,4 @@
+,Layer,Ovarian_cancer nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,27,30,-0.08771929824561409
+1,disease_on_symptoms,17,15,0.39178921568627434
+2,disease_on_drugs,17,25,0.16011204481792718

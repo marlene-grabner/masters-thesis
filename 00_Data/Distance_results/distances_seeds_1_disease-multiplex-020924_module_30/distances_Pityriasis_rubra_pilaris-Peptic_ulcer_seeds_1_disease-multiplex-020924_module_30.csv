@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Peptic_ulcer nodes,sAB
+0,disease_on_genes,28,28,0.1607142857142856
+1,disease_on_symptoms,23,14,1.281055900621118
+2,disease_on_drugs,26,28,0.5170940170940173

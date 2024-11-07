@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Dystonic_disorder nodes,sAB
+0,disease_on_genes,15,17,0.6302696078431373
+1,disease_on_symptoms,25,28,3.348180592991914
+2,disease_on_drugs,10,9,0.6894736842105262

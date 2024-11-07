@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Pulmonary_hypertension nodes,sAB
+0,disease_on_genes,30,28,0.1890394088669951
+1,disease_on_symptoms,12,20,0.739583333333333
+2,disease_on_drugs,27,28,0.49090909090909096

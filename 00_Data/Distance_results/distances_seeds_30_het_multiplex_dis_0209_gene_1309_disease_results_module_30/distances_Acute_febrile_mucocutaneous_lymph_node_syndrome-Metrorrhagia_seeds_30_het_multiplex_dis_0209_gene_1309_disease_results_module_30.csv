@@ -1,0 +1,4 @@
+,Layer,Acute_febrile_mucocutaneous_lymph_node_syndrome nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.20964912280701753
+1,disease_on_symptoms,13,17,-0.23695324283559605
+2,disease_on_drugs,28,26,-0.24241961741961748

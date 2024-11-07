@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,Laryngeal_edema nodes,sAB
+0,disease_on_genes,25,30,-0.23666666666666658
+1,disease_on_symptoms,23,16,-0.14698299888517274
+2,disease_on_drugs,24,28,-0.18429487179487192

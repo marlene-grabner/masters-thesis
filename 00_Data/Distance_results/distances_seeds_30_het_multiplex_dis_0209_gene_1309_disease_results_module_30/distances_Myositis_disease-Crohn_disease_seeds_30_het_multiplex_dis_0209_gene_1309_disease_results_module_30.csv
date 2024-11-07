@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,30,26,-0.07023809523809521
+1,disease_on_symptoms,18,22,0.6027777777777779
+2,disease_on_drugs,26,24,-0.010128205128205003

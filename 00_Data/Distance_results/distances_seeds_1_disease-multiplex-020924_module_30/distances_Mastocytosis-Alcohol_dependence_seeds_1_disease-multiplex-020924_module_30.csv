@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Alcohol_dependence nodes,sAB
+0,disease_on_genes,18,12,0.5305555555555557
+1,disease_on_symptoms,28,27,2.0587421837421838
+2,disease_on_drugs,17,9,0.48391151332327786

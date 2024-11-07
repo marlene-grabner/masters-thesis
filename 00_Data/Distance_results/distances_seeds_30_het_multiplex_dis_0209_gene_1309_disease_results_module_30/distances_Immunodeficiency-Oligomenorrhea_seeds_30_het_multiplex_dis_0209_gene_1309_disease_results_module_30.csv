@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Oligomenorrhea nodes,sAB
+0,disease_on_genes,26,29,0.18181818181818188
+1,disease_on_symptoms,21,11,1.0781926406926408
+2,disease_on_drugs,26,24,0.45961538461538454

@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,17,23,0.20632798573975042
+1,disease_on_symptoms,22,18,3.3194444444444446
+2,disease_on_drugs,15,18,0.7545454545454546

@@ -1,0 +1,4 @@
+,Layer,Cerebral_palsy nodes,Keratitis nodes,sAB
+0,disease_on_genes,27,28,0.39795574795574784
+1,disease_on_symptoms,16,25,1.4450609756097563
+2,disease_on_drugs,18,23,1.0079533404029695

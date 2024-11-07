@@ -1,0 +1,4 @@
+,Layer,Priapism nodes,Status_epilepticus nodes,sAB
+0,disease_on_genes,30,29,0.1528151178647963
+1,disease_on_symptoms,17,17,2.0
+2,disease_on_drugs,28,30,0.5326354679802956

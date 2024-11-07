@@ -1,0 +1,4 @@
+,Layer,Chorea nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,-0.21666666666666667
+1,disease_on_symptoms,17,19,0.047471620227038214
+2,disease_on_drugs,24,28,-0.17330586080586086

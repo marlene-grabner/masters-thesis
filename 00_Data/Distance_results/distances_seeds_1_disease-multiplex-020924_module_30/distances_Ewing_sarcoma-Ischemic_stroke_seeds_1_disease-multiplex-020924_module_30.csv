@@ -1,0 +1,4 @@
+,Layer,Ewing_sarcoma nodes,Ischemic_stroke nodes,sAB
+0,disease_on_genes,24,30,0.3837962962962964
+1,disease_on_symptoms,25,16,1.4280487804878048
+2,disease_on_drugs,17,23,0.8630434782608696

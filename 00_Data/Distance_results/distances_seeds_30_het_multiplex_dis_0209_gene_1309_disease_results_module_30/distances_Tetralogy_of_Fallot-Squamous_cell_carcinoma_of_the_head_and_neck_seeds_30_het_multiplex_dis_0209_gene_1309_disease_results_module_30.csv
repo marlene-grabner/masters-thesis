@@ -1,0 +1,4 @@
+,Layer,Tetralogy_of_Fallot nodes,Squamous_cell_carcinoma_of_the_head_and_neck nodes,sAB
+0,disease_on_genes,30,30,-0.20000000000000018
+1,disease_on_symptoms,19,22,0.3217703349282295
+2,disease_on_drugs,20,30,-0.07499999999999996

@@ -1,0 +1,4 @@
+,Layer,Gingivostomatitis nodes,Exanthem nodes,sAB
+0,disease_on_genes,30,28,-0.014942528735632177
+1,disease_on_symptoms,23,26,0.5885605078151663
+2,disease_on_drugs,29,28,0.018138017457436595

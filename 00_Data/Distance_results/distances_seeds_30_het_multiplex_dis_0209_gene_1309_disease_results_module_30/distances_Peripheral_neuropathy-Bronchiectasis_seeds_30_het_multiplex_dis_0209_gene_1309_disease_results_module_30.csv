@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Bronchiectasis nodes,sAB
+0,disease_on_genes,30,30,-0.01666666666666672
+1,disease_on_symptoms,21,19,-0.2739348370927319
+2,disease_on_drugs,29,25,0.12712643678160918

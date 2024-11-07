@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Encephalitis nodes,sAB
+0,disease_on_genes,29,28,0.21110967072854558
+1,disease_on_symptoms,15,17,1.0213235294117649
+2,disease_on_drugs,29,18,0.5359501100513573

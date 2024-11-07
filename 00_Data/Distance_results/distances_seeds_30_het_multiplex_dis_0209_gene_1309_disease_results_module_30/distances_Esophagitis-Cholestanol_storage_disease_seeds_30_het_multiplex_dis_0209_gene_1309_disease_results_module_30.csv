@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Cholestanol_storage_disease nodes,sAB
+0,disease_on_genes,30,29,-0.0847555036041302
+1,disease_on_symptoms,20,18,-0.13172514619883025
+2,disease_on_drugs,30,28,0.03423645320197055

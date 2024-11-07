@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Celiac_disease nodes,sAB
+0,disease_on_genes,24,17,0.2338593974175036
+1,disease_on_symptoms,23,22,1.468599033816425
+2,disease_on_drugs,22,15,0.4261261261261262

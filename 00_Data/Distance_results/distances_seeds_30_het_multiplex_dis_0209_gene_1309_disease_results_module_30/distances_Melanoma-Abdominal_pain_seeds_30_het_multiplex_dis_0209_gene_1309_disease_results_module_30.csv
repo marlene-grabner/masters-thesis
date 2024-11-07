@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Abdominal_pain nodes,sAB
+0,disease_on_genes,27,30,-0.14044834307992204
+1,disease_on_symptoms,23,19,0.5942028985507248
+2,disease_on_drugs,25,29,0.5362196679438058

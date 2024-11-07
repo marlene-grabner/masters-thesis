@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.07547169811320753
+1,disease_on_symptoms,16,17,1.4899732620320858
+2,disease_on_drugs,25,22,0.40663442940038674

@@ -1,0 +1,4 @@
+,Layer,Thrombophlebitis nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.11893629456458199
+1,disease_on_symptoms,18,13,0.5732009925558312
+2,disease_on_drugs,29,28,0.22893440497796202

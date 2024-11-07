@@ -1,0 +1,4 @@
+,Layer,Persistent_fetal_circulation_syndrome nodes,Primary_biliary_cholangitis nodes,sAB
+0,disease_on_genes,24,26,0.08000000000000007
+1,disease_on_symptoms,22,23,0.6298199385155907
+2,disease_on_drugs,21,26,0.02497856753175909

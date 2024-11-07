@@ -1,0 +1,4 @@
+,Layer,beta_Thalassemia nodes,Anaphylaxis nodes,sAB
+0,disease_on_genes,30,27,0.03411306042884976
+1,disease_on_symptoms,13,14,1.919108669108669
+2,disease_on_drugs,24,26,0.013141025641025594

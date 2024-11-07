@@ -1,0 +1,4 @@
+,Layer,Headache nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.05660377358490565
+1,disease_on_symptoms,23,17,1.111317135549872
+2,disease_on_drugs,23,22,0.27050944224857276

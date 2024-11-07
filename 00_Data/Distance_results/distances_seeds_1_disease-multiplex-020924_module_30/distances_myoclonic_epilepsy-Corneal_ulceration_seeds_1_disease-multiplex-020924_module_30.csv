@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Corneal_ulceration nodes,sAB
+0,disease_on_genes,30,28,0.4832922824302135
+1,disease_on_symptoms,16,19,1.9514567669172933
+2,disease_on_drugs,23,26,1.1388642413487133

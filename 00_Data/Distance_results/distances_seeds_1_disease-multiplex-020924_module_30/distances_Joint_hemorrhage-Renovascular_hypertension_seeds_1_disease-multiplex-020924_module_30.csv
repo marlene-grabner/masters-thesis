@@ -1,0 +1,4 @@
+,Layer,Joint_hemorrhage nodes,Renovascular_hypertension nodes,sAB
+0,disease_on_genes,30,21,0.19649859943977588
+1,disease_on_symptoms,13,22,1.6288711288711286
+2,disease_on_drugs,18,20,0.6600877192982455

@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,12,22,-0.0325311942958999
+2,disease_on_drugs,23,29,-0.10774420482066649

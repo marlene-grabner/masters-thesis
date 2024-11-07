@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,West_syndrome nodes,sAB
+0,disease_on_genes,29,30,0.1694915254237288
+1,disease_on_symptoms,14,13,0.6324786324786322
+2,disease_on_drugs,22,19,0.37478118800326743

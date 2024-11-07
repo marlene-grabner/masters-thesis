@@ -1,0 +1,4 @@
+,Layer,Nephrotic_syndrome nodes,Gastrointestinal_stromal_tumor nodes,sAB
+0,disease_on_genes,20,23,0.14537411526794752
+1,disease_on_symptoms,24,20,1.5064393939393939
+2,disease_on_drugs,18,19,0.78003003003003

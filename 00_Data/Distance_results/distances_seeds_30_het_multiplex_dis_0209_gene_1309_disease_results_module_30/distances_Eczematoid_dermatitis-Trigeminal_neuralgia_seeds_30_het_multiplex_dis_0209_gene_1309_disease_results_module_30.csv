@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,30,30,-0.033333333333333326
+1,disease_on_symptoms,25,15,0.34333333333333327
+2,disease_on_drugs,30,25,0.12090909090909108

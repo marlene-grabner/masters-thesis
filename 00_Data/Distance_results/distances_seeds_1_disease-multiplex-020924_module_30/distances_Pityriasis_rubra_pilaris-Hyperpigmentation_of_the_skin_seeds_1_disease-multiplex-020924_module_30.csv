@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Hyperpigmentation_of_the_skin nodes,sAB
+0,disease_on_genes,28,24,0.0
+1,disease_on_symptoms,23,23,1.0869565217391304
+2,disease_on_drugs,26,12,-0.14372469635627516

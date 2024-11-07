@@ -1,0 +1,4 @@
+,Layer,Episcleritis nodes,Postherpetic_neuralgia nodes,sAB
+0,disease_on_genes,30,30,0.03333333333333344
+1,disease_on_symptoms,22,15,0.35352170352170376
+2,disease_on_drugs,29,29,0.3448275862068966

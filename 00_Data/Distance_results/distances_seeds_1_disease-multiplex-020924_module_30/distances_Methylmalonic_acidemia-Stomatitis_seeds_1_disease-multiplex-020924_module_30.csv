@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Stomatitis nodes,sAB
+0,disease_on_genes,25,30,0.5027272727272727
+1,disease_on_symptoms,16,23,1.8493589743589745
+2,disease_on_drugs,17,30,0.7642052565707134

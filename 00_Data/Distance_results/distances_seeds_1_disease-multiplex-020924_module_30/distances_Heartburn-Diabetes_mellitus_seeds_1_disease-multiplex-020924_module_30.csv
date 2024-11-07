@@ -1,0 +1,4 @@
+,Layer,Heartburn nodes,Diabetes_mellitus nodes,sAB
+0,disease_on_genes,24,20,0.0708333333333333
+1,disease_on_symptoms,20,18,2.1308479532163744
+2,disease_on_drugs,22,19,0.926566693896604

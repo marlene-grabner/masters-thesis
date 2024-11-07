@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Vasculitis nodes,sAB
+0,disease_on_genes,30,24,0.5162037037037035
+1,disease_on_symptoms,25,19,2.1614354066985646
+2,disease_on_drugs,7,20,0.6193121693121693

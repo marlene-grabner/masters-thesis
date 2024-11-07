@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Coarctation_of_aorta nodes,sAB
+0,disease_on_genes,28,27,0.38181818181818183
+1,disease_on_symptoms,23,14,1.78298640255162
+2,disease_on_drugs,26,13,0.7564102564102566

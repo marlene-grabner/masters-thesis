@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,25,30,0.26363636363636345
+1,disease_on_symptoms,23,9,1.3208031400966185
+2,disease_on_drugs,19,11,1.087878787878788

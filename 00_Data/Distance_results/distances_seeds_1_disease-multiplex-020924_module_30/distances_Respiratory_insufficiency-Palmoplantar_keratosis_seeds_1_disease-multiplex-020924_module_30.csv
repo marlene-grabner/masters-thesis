@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,25,26,0.6854901960784314
+1,disease_on_symptoms,20,19,0.9409919028340084
+2,disease_on_drugs,14,18,0.5838293650793651

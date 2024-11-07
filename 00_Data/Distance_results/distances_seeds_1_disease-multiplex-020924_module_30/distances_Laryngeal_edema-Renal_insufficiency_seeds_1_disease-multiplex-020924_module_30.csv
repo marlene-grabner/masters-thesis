@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Renal_insufficiency nodes,sAB
+0,disease_on_genes,30,20,0.13000000000000012
+1,disease_on_symptoms,20,23,0.9811931243680485
+2,disease_on_drugs,28,17,0.4588468720821661

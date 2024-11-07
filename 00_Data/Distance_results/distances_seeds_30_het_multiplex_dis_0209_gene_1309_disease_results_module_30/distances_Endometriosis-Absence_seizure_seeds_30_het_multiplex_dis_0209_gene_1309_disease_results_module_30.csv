@@ -1,0 +1,4 @@
+,Layer,Endometriosis nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,-0.06666666666666665
+1,disease_on_symptoms,16,14,0.4848214285714285
+2,disease_on_drugs,30,22,-0.16713286713286735

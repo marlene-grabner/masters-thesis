@@ -1,0 +1,4 @@
+,Layer,Cryptorchidism nodes,Sarcoma nodes,sAB
+0,disease_on_genes,23,30,-0.0028712059064808226
+1,disease_on_symptoms,19,23,1.1093494606080416
+2,disease_on_drugs,21,24,-0.11587301587301568

@@ -1,0 +1,4 @@
+,Layer,Peripheral_neuropathy nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.27124542124542117
+1,disease_on_symptoms,20,21,1.48931475029036
+2,disease_on_drugs,24,23,0.575354609929078

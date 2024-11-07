@@ -1,0 +1,4 @@
+,Layer,Ichthyosis nodes,Sinusitis nodes,sAB
+0,disease_on_genes,27,29,0.19629173508483855
+1,disease_on_symptoms,17,21,0.4646911396137401
+2,disease_on_drugs,24,28,0.3887362637362637

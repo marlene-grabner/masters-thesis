@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Gastrointestinal_hemorrhage nodes,sAB
+0,disease_on_genes,26,28,-0.09193121693121686
+1,disease_on_symptoms,21,20,0.3595238095238096
+2,disease_on_drugs,25,27,0.1565811965811965

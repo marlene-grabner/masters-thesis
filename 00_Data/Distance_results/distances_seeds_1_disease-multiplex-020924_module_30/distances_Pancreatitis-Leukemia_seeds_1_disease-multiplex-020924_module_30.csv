@@ -1,0 +1,4 @@
+,Layer,Pancreatitis nodes,Leukemia nodes,sAB
+0,disease_on_genes,30,18,0.2875000000000001
+1,disease_on_symptoms,20,27,1.5074665090622537
+2,disease_on_drugs,30,17,0.8479349186483103

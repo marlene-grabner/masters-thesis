@@ -1,0 +1,4 @@
+,Layer,Cholecystitis nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,25,25,0.6599999999999999
+1,disease_on_symptoms,19,18,2.462106843685791
+2,disease_on_drugs,13,17,0.8987933634992458

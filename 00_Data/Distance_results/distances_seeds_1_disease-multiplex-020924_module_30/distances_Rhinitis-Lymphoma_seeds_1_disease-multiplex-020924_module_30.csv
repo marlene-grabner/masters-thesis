@@ -1,0 +1,4 @@
+,Layer,Rhinitis nodes,Lymphoma nodes,sAB
+0,disease_on_genes,30,26,0.28910256410256396
+1,disease_on_symptoms,15,21,1.3801587301587301
+2,disease_on_drugs,22,25,0.7897872340425531

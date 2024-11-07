@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,-0.016846361185983705
+1,disease_on_symptoms,25,20,0.11555555555555563
+2,disease_on_drugs,24,27,0.0171568627450982

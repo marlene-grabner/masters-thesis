@@ -1,0 +1,4 @@
+,Layer,Macular_degeneration nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,30,30,0.44007864488808224
+1,disease_on_symptoms,15,18,0.6095959595959597
+2,disease_on_drugs,21,19,0.8972431077694236

@@ -1,0 +1,4 @@
+,Layer,Nephritis nodes,Brain_abscess nodes,sAB
+0,disease_on_genes,30,27,-0.1228070175438597
+1,disease_on_symptoms,17,21,0.27915376676986603
+2,disease_on_drugs,25,23,-0.12655797101449284

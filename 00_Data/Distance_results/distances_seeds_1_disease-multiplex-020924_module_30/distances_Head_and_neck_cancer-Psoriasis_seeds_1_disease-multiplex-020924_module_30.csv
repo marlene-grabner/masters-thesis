@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Psoriasis nodes,sAB
+0,disease_on_genes,27,28,0.05485810485810494
+1,disease_on_symptoms,22,21,0.2561411456760294
+2,disease_on_drugs,24,28,0.19184981684981683

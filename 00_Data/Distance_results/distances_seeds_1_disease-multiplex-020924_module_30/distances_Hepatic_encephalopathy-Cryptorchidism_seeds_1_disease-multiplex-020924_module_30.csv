@@ -1,0 +1,4 @@
+,Layer,Hepatic_encephalopathy nodes,Cryptorchidism nodes,sAB
+0,disease_on_genes,9,23,0.2346855653307265
+1,disease_on_symptoms,27,18,2.2111111111111112
+2,disease_on_drugs,9,18,1.1851851851851851

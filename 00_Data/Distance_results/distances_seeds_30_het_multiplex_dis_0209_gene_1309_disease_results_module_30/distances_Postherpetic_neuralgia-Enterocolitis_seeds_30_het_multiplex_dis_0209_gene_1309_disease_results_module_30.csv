@@ -1,0 +1,4 @@
+,Layer,Postherpetic_neuralgia nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,30,27,-0.052631578947368474
+1,disease_on_symptoms,16,21,-0.4517374517374517
+2,disease_on_drugs,29,25,-0.053154533844189

@@ -1,0 +1,4 @@
+,Layer,Urticaria nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,10,15,0.45333333333333337
+1,disease_on_symptoms,27,27,2.148148148148148
+2,disease_on_drugs,9,13,1.0454545454545454

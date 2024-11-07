@@ -1,0 +1,4 @@
+,Layer,Dermatitis nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,30,30,-0.2833333333333333
+1,disease_on_symptoms,14,19,-0.059182046024151225
+2,disease_on_drugs,28,30,-0.17372742200328417

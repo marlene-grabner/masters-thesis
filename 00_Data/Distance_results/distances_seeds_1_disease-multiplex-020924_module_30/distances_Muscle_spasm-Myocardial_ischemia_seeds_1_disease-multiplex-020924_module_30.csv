@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Myocardial_ischemia nodes,sAB
+0,disease_on_genes,25,30,0.24545454545454537
+1,disease_on_symptoms,23,13,0.7142326272761055
+2,disease_on_drugs,19,23,0.31573498964803326

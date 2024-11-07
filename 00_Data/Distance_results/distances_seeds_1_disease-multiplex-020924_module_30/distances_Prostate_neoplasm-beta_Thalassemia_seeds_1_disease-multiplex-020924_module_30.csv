@@ -1,0 +1,4 @@
+,Layer,Prostate_neoplasm nodes,beta_Thalassemia nodes,sAB
+0,disease_on_genes,17,22,0.42955573837926764
+1,disease_on_symptoms,21,21,2.547619047619048
+2,disease_on_drugs,17,6,1.1223358908780905

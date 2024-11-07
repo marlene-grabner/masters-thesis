@@ -1,0 +1,4 @@
+,Layer,Keratoconjunctivitis nodes,Cholelithiasis nodes,sAB
+0,disease_on_genes,29,25,-0.20370370370370372
+1,disease_on_symptoms,20,20,0.625
+2,disease_on_drugs,27,18,-0.30555555555555536

@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Neoplasm_of_the_large_intestine nodes,sAB
+0,disease_on_genes,15,20,0.1702380952380953
+1,disease_on_symptoms,25,25,0.5000000000000002
+2,disease_on_drugs,10,19,0.26116152450090735

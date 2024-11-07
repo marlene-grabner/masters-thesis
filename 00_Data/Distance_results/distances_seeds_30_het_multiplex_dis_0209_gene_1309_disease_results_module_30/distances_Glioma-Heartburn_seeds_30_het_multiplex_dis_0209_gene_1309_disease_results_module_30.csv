@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Heartburn nodes,sAB
+0,disease_on_genes,22,26,-0.0625
+1,disease_on_symptoms,21,16,1.157335907335907
+2,disease_on_drugs,21,25,0.2181366459627332

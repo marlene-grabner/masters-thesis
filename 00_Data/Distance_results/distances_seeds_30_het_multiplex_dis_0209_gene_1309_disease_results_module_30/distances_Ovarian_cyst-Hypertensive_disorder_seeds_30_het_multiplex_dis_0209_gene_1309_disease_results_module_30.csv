@@ -1,0 +1,4 @@
+,Layer,Ovarian_cyst nodes,Hypertensive_disorder nodes,sAB
+0,disease_on_genes,30,27,-0.17368421052631566
+1,disease_on_symptoms,19,21,-0.4570175438596491
+2,disease_on_drugs,24,26,-0.16423076923076918

@@ -1,0 +1,4 @@
+,Layer,Respiratory_insufficiency nodes,Macular_degeneration nodes,sAB
+0,disease_on_genes,27,30,-0.03421052631578947
+1,disease_on_symptoms,21,17,0.08093763821318012
+2,disease_on_drugs,25,17,-0.2648179271708684

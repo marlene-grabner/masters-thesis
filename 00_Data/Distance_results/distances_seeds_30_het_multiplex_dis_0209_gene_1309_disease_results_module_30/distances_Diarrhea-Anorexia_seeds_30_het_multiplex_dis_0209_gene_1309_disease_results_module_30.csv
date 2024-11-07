@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Anorexia nodes,sAB
+0,disease_on_genes,30,29,-0.3731735827001753
+1,disease_on_symptoms,21,13,-0.11786252962723553
+2,disease_on_drugs,29,28,-0.4210958430559155

@@ -1,0 +1,4 @@
+,Layer,Familial_multiple_polyposis_syndrome nodes,Absence_seizure nodes,sAB
+0,disease_on_genes,30,30,0.10000000000000009
+1,disease_on_symptoms,19,14,1.4245841877420826
+2,disease_on_drugs,25,22,0.3368278529980657

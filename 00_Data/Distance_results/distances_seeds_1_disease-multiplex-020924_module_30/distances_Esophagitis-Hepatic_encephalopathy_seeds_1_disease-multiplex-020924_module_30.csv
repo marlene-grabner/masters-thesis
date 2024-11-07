@@ -1,0 +1,4 @@
+,Layer,Esophagitis nodes,Hepatic_encephalopathy nodes,sAB
+0,disease_on_genes,24,9,-0.07125603864734309
+1,disease_on_symptoms,23,27,1.8219323671497585
+2,disease_on_drugs,20,9,0.3887931034482759

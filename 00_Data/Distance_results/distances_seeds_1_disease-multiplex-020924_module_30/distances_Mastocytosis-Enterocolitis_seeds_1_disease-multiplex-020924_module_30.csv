@@ -1,0 +1,4 @@
+,Layer,Mastocytosis nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,18,27,-0.13518518518518519
+1,disease_on_symptoms,28,21,-0.07738095238095233
+2,disease_on_drugs,17,24,-0.10404710664753702

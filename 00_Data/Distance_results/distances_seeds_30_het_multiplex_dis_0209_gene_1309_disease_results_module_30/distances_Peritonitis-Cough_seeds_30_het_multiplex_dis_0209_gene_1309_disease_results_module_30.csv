@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Cough nodes,sAB
+0,disease_on_genes,30,27,-0.01754385964912286
+1,disease_on_symptoms,14,22,0.6410533910533911
+2,disease_on_drugs,24,24,0.04166666666666674

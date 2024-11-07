@@ -1,0 +1,4 @@
+,Layer,Factor_VII_deficiency nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,18,0.26558139534883707
+1,disease_on_symptoms,23,27,0.8041223832528182
+2,disease_on_drugs,21,17,1.3115140793159368

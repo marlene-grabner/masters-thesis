@@ -1,0 +1,4 @@
+,Layer,Dystonic_disorder nodes,Delayed_puberty nodes,sAB
+0,disease_on_genes,30,30,-0.16666666666666663
+1,disease_on_symptoms,17,16,0.11831550802139068
+2,disease_on_drugs,26,29,0.03665300217024359

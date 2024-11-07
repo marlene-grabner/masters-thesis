@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,26,30,0.03571428571428581
+1,disease_on_symptoms,21,20,0.4814750290360048
+2,disease_on_drugs,25,28,0.10218328840970337

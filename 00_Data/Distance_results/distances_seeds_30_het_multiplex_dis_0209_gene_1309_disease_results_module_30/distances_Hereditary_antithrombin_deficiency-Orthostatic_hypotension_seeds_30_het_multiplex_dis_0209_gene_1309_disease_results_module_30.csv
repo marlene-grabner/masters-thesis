@@ -1,0 +1,4 @@
+,Layer,Hereditary_antithrombin_deficiency nodes,Orthostatic_hypotension nodes,sAB
+0,disease_on_genes,28,30,-0.15517241379310343
+1,disease_on_symptoms,16,20,0.348611111111111
+2,disease_on_drugs,23,28,-0.22588600657654379

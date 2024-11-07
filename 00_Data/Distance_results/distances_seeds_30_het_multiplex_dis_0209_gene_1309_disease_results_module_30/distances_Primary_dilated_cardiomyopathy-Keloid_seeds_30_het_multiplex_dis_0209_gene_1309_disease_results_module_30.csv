@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Keloid nodes,sAB
+0,disease_on_genes,30,23,0.320754716981132
+1,disease_on_symptoms,24,17,1.3059839789574366
+2,disease_on_drugs,15,22,0.4385339885339885

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Vitamin_K_deficiency nodes,sAB
+0,disease_on_genes,23,25,0.20615942028985512
+1,disease_on_symptoms,24,23,2.3547255627505397
+2,disease_on_drugs,17,20,0.5445945945945945

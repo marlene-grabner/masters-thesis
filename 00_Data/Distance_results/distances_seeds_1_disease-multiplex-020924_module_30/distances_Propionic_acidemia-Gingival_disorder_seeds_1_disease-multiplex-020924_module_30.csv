@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Gingival_disorder nodes,sAB
+0,disease_on_genes,22,21,0.1611295681063123
+1,disease_on_symptoms,17,26,2.3327896453751444
+2,disease_on_drugs,21,20,0.8310104529616724

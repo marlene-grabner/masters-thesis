@@ -1,0 +1,4 @@
+,Layer,Ascites nodes,Coronary_artery_disorder nodes,sAB
+0,disease_on_genes,30,23,0.018197976483456335
+1,disease_on_symptoms,22,19,0.4801318706966975
+2,disease_on_drugs,27,22,-0.11660825946540254

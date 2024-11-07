@@ -1,0 +1,4 @@
+,Layer,Pneumonia nodes,Blepharitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,23,18,0.08024036762106745
+2,disease_on_drugs,29,30,0.018040132476134785

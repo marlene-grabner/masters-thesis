@@ -1,0 +1,4 @@
+,Layer,Otitis_media nodes,Anorexia nodes,sAB
+0,disease_on_genes,29,29,-0.12068965517241381
+1,disease_on_symptoms,20,13,0.03490675990675984
+2,disease_on_drugs,28,28,0.0535714285714286

@@ -1,0 +1,4 @@
+,Layer,Back_pain nodes,Stroke_disorder nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,15,16,-0.37903225806451624
+2,disease_on_drugs,23,30,0.054033360678151565

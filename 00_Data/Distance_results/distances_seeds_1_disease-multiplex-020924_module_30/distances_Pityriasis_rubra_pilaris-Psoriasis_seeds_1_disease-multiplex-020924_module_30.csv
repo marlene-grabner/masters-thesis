@@ -1,0 +1,4 @@
+,Layer,Pityriasis_rubra_pilaris nodes,Psoriasis nodes,sAB
+0,disease_on_genes,28,28,-0.4642857142857142
+1,disease_on_symptoms,23,21,-0.6301995106342931
+2,disease_on_drugs,26,28,-0.5556573056573056

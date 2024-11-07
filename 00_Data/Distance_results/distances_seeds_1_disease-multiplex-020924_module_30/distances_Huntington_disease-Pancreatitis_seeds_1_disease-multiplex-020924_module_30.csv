@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Pancreatitis nodes,sAB
+0,disease_on_genes,30,30,0.016666666666666607
+1,disease_on_symptoms,16,20,0.25069444444444433
+2,disease_on_drugs,27,30,0.3157894736842106

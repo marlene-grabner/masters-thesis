@@ -1,0 +1,4 @@
+,Layer,Eczematoid_dermatitis nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,23,-0.13207547169811318
+1,disease_on_symptoms,25,19,0.3377511961722486
+2,disease_on_drugs,30,19,0.06654135338345846

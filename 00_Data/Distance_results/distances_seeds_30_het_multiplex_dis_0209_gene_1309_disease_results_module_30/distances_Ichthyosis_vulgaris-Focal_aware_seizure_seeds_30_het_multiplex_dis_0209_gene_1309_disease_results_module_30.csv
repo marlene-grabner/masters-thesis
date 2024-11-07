@@ -1,0 +1,4 @@
+,Layer,Ichthyosis_vulgaris nodes,Focal_aware_seizure nodes,sAB
+0,disease_on_genes,27,29,0.0714285714285714
+1,disease_on_symptoms,21,16,1.2808075933075933
+2,disease_on_drugs,24,29,0.49280253741054003

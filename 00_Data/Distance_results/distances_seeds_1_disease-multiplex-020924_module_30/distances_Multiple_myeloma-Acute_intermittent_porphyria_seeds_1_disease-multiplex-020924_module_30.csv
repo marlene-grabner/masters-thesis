@@ -1,0 +1,4 @@
+,Layer,Multiple_myeloma nodes,Acute_intermittent_porphyria nodes,sAB
+0,disease_on_genes,26,27,0.3969252271139061
+1,disease_on_symptoms,21,20,2.2912601626016262
+2,disease_on_drugs,25,15,0.81

@@ -1,0 +1,4 @@
+,Layer,Tremor nodes,Meningitis nodes,sAB
+0,disease_on_genes,16,29,0.25452586206896544
+1,disease_on_symptoms,23,20,1.973634984833165
+2,disease_on_drugs,16,26,0.7306547619047619

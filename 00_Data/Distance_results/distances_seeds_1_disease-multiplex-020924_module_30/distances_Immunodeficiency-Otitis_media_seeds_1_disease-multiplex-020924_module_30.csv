@@ -1,0 +1,4 @@
+,Layer,Immunodeficiency nodes,Otitis_media nodes,sAB
+0,disease_on_genes,22,29,0.10051324605077139
+1,disease_on_symptoms,19,22,1.589041895203641
+2,disease_on_drugs,18,29,0.4098597864188471

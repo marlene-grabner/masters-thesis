@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Uveitis nodes,sAB
+0,disease_on_genes,27,30,-0.01754385964912286
+1,disease_on_symptoms,21,20,-0.2449477351916376
+2,disease_on_drugs,25,23,-0.16807971014492762

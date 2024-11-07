@@ -1,0 +1,4 @@
+,Layer,Laryngeal_edema nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,-0.06867329047340731
+1,disease_on_symptoms,20,20,-0.2250000000000001
+2,disease_on_drugs,28,26,-0.12764550264550267

@@ -1,0 +1,4 @@
+,Layer,Rhabdomyosarcoma nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,29,26,-0.018181818181818188
+1,disease_on_symptoms,19,22,0.7814505776636711
+2,disease_on_drugs,29,24,0.24948492734764693

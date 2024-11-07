@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Osteomyelitis nodes,sAB
+0,disease_on_genes,23,25,0.26880434782608686
+1,disease_on_symptoms,20,23,0.801516683518706
+2,disease_on_drugs,19,23,1.0755693581780539

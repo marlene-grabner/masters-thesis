@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Myositis_disease nodes,sAB
+0,disease_on_genes,26,30,-0.0894688644688646
+1,disease_on_symptoms,20,18,0.2619883040935673
+2,disease_on_drugs,20,26,0.04849498327759205

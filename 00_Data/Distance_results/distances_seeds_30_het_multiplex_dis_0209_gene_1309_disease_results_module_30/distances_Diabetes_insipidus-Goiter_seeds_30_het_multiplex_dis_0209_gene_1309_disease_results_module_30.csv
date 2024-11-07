@@ -1,0 +1,4 @@
+,Layer,Diabetes_insipidus nodes,Goiter nodes,sAB
+0,disease_on_genes,26,26,0.0
+1,disease_on_symptoms,20,12,1.2270833333333333
+2,disease_on_drugs,20,18,-0.09941520467836251

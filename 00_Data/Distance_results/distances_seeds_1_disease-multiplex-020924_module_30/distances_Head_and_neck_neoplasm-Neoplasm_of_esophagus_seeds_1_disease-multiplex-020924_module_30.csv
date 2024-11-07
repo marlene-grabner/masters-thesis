@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_neoplasm nodes,Neoplasm_of_esophagus nodes,sAB
+0,disease_on_genes,30,21,-0.1147058823529411
+1,disease_on_symptoms,20,24,0.22765151515151527
+2,disease_on_drugs,27,20,-0.04627659574468079

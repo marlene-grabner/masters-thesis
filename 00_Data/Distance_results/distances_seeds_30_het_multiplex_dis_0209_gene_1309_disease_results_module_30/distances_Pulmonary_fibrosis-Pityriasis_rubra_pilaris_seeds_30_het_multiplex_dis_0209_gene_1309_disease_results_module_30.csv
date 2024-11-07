@@ -1,0 +1,4 @@
+,Layer,Pulmonary_fibrosis nodes,Pityriasis_rubra_pilaris nodes,sAB
+0,disease_on_genes,25,27,-0.21011396011396033
+1,disease_on_symptoms,22,21,-0.11610288935870328
+2,disease_on_drugs,25,25,-0.2400000000000001

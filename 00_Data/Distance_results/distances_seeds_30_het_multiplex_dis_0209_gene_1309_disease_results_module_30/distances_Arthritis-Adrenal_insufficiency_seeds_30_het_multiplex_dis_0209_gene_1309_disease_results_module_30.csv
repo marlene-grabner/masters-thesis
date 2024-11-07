@@ -1,0 +1,4 @@
+,Layer,Arthritis nodes,Adrenal_insufficiency nodes,sAB
+0,disease_on_genes,30,30,0.21666666666666656
+1,disease_on_symptoms,20,15,-0.0773809523809521
+2,disease_on_drugs,29,24,0.2962616569073955

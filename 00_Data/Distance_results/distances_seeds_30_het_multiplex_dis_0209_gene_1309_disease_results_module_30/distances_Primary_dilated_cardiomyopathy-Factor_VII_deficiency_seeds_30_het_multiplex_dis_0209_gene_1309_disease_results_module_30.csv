@@ -1,0 +1,4 @@
+,Layer,Primary_dilated_cardiomyopathy nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.395935960591133
+1,disease_on_symptoms,24,19,1.332644838841289
+2,disease_on_drugs,15,25,0.33166666666666655

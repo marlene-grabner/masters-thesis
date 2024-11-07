@@ -1,0 +1,4 @@
+,Layer,Peritonitis nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,30,18,0.04166666666666674
+1,disease_on_symptoms,14,21,1.9499999999999997
+2,disease_on_drugs,24,17,0.060826159732185525

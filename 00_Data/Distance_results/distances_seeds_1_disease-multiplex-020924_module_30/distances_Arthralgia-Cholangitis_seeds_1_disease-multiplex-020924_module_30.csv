@@ -1,0 +1,4 @@
+,Layer,Arthralgia nodes,Cholangitis nodes,sAB
+0,disease_on_genes,30,27,0.18908382066276808
+1,disease_on_symptoms,19,22,1.7539969658069787
+2,disease_on_drugs,30,26,0.5357142857142858

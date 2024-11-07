@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Palmoplantar_keratosis nodes,sAB
+0,disease_on_genes,26,26,-0.019230769230769273
+1,disease_on_symptoms,23,20,0.7670879676440847
+2,disease_on_drugs,26,23,0.14562145928605563

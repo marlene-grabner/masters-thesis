@@ -1,0 +1,4 @@
+,Layer,Renal_tubular_acidosis nodes,Cerebral_edema nodes,sAB
+0,disease_on_genes,30,30,-0.15000000000000002
+1,disease_on_symptoms,14,10,-0.4916666666666669
+2,disease_on_drugs,27,16,-0.333737080103359

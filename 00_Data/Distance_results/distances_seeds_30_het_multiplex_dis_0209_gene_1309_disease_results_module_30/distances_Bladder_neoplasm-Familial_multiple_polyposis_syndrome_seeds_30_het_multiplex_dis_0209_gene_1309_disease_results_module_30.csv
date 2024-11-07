@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Familial_multiple_polyposis_syndrome nodes,sAB
+0,disease_on_genes,26,30,-0.3571428571428571
+1,disease_on_symptoms,19,19,-0.5789473684210527
+2,disease_on_drugs,25,25,-0.4

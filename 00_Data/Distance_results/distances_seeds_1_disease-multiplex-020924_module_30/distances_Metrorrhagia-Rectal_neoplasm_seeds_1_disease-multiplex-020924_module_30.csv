@@ -1,0 +1,4 @@
+,Layer,Metrorrhagia nodes,Rectal_neoplasm nodes,sAB
+0,disease_on_genes,27,30,0.03508771929824572
+1,disease_on_symptoms,17,21,0.6057791537667698
+2,disease_on_drugs,26,29,0.18160115746322658

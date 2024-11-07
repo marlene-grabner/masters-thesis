@@ -1,0 +1,4 @@
+,Layer,Abetalipoproteinaemia nodes,Gynecomastia nodes,sAB
+0,disease_on_genes,14,30,-0.14935064935064923
+1,disease_on_symptoms,26,15,-0.18042526579111962
+2,disease_on_drugs,14,29,-0.005642112498567942

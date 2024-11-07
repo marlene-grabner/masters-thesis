@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Pulmonary_arterial_hypertension nodes,sAB
+0,disease_on_genes,26,28,0.2406898656898655
+1,disease_on_symptoms,23,18,1.9786438081772122
+2,disease_on_drugs,25,26,0.8042986425339367

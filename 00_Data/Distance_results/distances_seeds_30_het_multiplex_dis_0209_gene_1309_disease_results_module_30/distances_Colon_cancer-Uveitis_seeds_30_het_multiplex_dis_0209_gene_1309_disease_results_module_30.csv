@@ -1,0 +1,4 @@
+,Layer,Colon_cancer nodes,Uveitis nodes,sAB
+0,disease_on_genes,26,30,0.08928571428571419
+1,disease_on_symptoms,22,20,0.28506493506493524
+2,disease_on_drugs,26,23,0.09845744317794014

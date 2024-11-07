@@ -1,0 +1,4 @@
+,Layer,Myositis_disease nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,30,30,0.01666666666666683
+1,disease_on_symptoms,18,14,-0.003472222222222321
+2,disease_on_drugs,26,24,-0.014294871794871877

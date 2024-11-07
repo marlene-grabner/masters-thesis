@@ -1,0 +1,4 @@
+,Layer,Epilepsy nodes,Cataplexy_and_narcolepsy nodes,sAB
+0,disease_on_genes,30,25,-0.07121212121212117
+1,disease_on_symptoms,21,19,0.9721804511278198
+2,disease_on_drugs,29,18,0.22644085758539179

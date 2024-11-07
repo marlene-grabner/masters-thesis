@@ -1,0 +1,4 @@
+,Layer,Seasonal_allergy nodes,Gingivostomatitis nodes,sAB
+0,disease_on_genes,29,30,0.1016559516851745
+1,disease_on_symptoms,15,23,0.8748283752860408
+2,disease_on_drugs,29,29,0.3275862068965516

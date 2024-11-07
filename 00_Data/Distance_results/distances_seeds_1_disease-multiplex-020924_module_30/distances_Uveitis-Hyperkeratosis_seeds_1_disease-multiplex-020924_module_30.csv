@@ -1,0 +1,4 @@
+,Layer,Uveitis nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,30,26,0.1069597069597068
+1,disease_on_symptoms,21,21,0.8095238095238098
+2,disease_on_drugs,27,23,0.1014814814814815

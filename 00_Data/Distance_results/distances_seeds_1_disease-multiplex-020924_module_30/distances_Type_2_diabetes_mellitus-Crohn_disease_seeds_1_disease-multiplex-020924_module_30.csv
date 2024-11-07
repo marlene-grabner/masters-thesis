@@ -1,0 +1,4 @@
+,Layer,Type_2_diabetes_mellitus nodes,Crohn_disease nodes,sAB
+0,disease_on_genes,16,25,0.12083333333333357
+1,disease_on_symptoms,21,20,3.5394308943089428
+2,disease_on_drugs,15,21,0.8412698412698412

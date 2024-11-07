@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Keratitis nodes,sAB
+0,disease_on_genes,24,30,-0.16481481481481475
+1,disease_on_symptoms,23,25,0.44601449275362315
+2,disease_on_drugs,22,29,0.07692544102280441

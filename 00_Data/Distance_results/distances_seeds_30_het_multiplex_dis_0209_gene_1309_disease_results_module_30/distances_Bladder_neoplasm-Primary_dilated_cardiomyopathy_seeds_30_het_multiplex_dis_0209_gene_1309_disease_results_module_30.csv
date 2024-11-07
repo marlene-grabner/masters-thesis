@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Primary_dilated_cardiomyopathy nodes,sAB
+0,disease_on_genes,26,30,0.25
+1,disease_on_symptoms,19,24,0.8907843737250101
+2,disease_on_drugs,25,15,0.31666666666666665

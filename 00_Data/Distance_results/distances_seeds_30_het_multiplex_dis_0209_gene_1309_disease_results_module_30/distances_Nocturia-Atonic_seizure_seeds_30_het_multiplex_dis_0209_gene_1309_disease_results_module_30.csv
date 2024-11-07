@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Atonic_seizure nodes,sAB
+0,disease_on_genes,25,30,-0.11111111111111116
+1,disease_on_symptoms,18,15,0.35252525252525246
+2,disease_on_drugs,24,23,-0.1707523897625658

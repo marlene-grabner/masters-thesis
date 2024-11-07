@@ -1,0 +1,4 @@
+,Layer,Bladder_neoplasm nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,26,26,0.15384615384615397
+1,disease_on_symptoms,20,21,1.6838269454123114
+2,disease_on_drugs,25,23,0.6458333333333333

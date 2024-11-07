@@ -1,0 +1,4 @@
+,Layer,Glioma nodes,Enterocolitis nodes,sAB
+0,disease_on_genes,22,27,0.3465093107950252
+1,disease_on_symptoms,24,21,1.3093253968253968
+2,disease_on_drugs,20,24,0.8405303030303031

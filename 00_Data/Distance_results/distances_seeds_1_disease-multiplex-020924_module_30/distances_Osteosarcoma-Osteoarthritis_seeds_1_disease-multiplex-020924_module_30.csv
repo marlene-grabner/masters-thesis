@@ -1,0 +1,4 @@
+,Layer,Osteosarcoma nodes,Osteoarthritis nodes,sAB
+0,disease_on_genes,25,25,0.21999999999999997
+1,disease_on_symptoms,24,20,1.6768939393939397
+2,disease_on_drugs,23,21,0.7954545454545454

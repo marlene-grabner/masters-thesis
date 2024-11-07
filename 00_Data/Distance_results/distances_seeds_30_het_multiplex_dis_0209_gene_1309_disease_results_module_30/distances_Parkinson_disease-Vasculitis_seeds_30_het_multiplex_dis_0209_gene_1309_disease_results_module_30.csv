@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Vasculitis nodes,sAB
+0,disease_on_genes,23,26,0.1428571428571428
+1,disease_on_symptoms,23,18,1.2002768940732884
+2,disease_on_drugs,22,26,0.17249417249417243

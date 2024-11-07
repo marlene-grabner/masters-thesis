@@ -1,0 +1,4 @@
+,Layer,Parkinson_disease nodes,Dyssomnia nodes,sAB
+0,disease_on_genes,23,18,-0.14634146341463417
+1,disease_on_symptoms,23,21,1.2593167701863353
+2,disease_on_drugs,22,17,-0.17064308240778825

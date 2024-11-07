@@ -1,0 +1,4 @@
+,Layer,Head_and_neck_cancer nodes,Essential_hypertension nodes,sAB
+0,disease_on_genes,27,28,-0.018181818181818188
+1,disease_on_symptoms,22,13,1.3910589410589407
+2,disease_on_drugs,23,28,0.15884179758860073

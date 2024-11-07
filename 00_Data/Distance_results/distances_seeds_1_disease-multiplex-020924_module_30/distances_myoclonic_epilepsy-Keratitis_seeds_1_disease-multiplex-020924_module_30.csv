@@ -1,0 +1,4 @@
+,Layer,myoclonic_epilepsy nodes,Keratitis nodes,sAB
+0,disease_on_genes,30,28,0.4481937602627257
+1,disease_on_symptoms,16,25,1.4580182926829268
+2,disease_on_drugs,23,23,1.0000000000000002

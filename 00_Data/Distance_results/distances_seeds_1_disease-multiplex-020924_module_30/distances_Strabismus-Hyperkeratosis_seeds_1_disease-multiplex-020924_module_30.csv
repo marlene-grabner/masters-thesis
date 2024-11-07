@@ -1,0 +1,4 @@
+,Layer,Strabismus nodes,Hyperkeratosis nodes,sAB
+0,disease_on_genes,13,26,0.3782051282051282
+1,disease_on_symptoms,26,21,1.1313030940690516
+2,disease_on_drugs,9,23,0.4756944444444444

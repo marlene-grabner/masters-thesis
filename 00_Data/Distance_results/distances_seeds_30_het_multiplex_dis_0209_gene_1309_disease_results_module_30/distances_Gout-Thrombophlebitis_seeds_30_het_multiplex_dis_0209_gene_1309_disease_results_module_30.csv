@@ -1,0 +1,4 @@
+,Layer,Gout nodes,Thrombophlebitis nodes,sAB
+0,disease_on_genes,28,30,-0.017857142857142794
+1,disease_on_symptoms,19,18,0.45803698435277385
+2,disease_on_drugs,22,29,0.10925686889175745

@@ -1,0 +1,4 @@
+,Layer,Medulloblastoma nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,27,23,-0.19999999999999996
+1,disease_on_symptoms,22,19,0.4186602870813396
+2,disease_on_drugs,26,19,-0.12546108861898342

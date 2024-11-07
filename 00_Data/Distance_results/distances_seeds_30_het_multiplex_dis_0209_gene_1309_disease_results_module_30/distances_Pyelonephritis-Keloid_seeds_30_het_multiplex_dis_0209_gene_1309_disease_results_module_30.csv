@@ -1,0 +1,4 @@
+,Layer,Pyelonephritis nodes,Keloid nodes,sAB
+0,disease_on_genes,24,23,0.0004432624113472894
+1,disease_on_symptoms,19,17,0.771671826625387
+2,disease_on_drugs,19,22,-0.0682985179134088

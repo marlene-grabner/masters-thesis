@@ -1,0 +1,4 @@
+,Layer,Alcohol_dependence nodes,Meningitis nodes,sAB
+0,disease_on_genes,30,29,0.08531073446327686
+1,disease_on_symptoms,18,17,0.8818860877684409
+2,disease_on_drugs,24,27,0.15958605664488013

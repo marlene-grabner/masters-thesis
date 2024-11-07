@@ -1,0 +1,4 @@
+,Layer,Intracranial_swelling nodes,Neoplasm_of_uterus nodes,sAB
+0,disease_on_genes,30,28,0.25673234811165835
+1,disease_on_symptoms,14,19,0.21804511278195493
+2,disease_on_drugs,24,28,0.38438644688644685

@@ -1,0 +1,4 @@
+,Layer,Methylmalonic_acidemia nodes,Hypersensitivity_pneumonitis nodes,sAB
+0,disease_on_genes,25,24,0.2677551020408162
+1,disease_on_symptoms,16,23,1.4820234113712376
+2,disease_on_drugs,17,24,0.3852223816355811

@@ -1,0 +1,4 @@
+,Layer,Propionic_acidemia nodes,Factor_VII_deficiency nodes,sAB
+0,disease_on_genes,30,28,0.08559113300492616
+1,disease_on_symptoms,16,19,0.8610432330827069
+2,disease_on_drugs,30,25,0.3309090909090908

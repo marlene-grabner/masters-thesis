@@ -1,0 +1,4 @@
+,Layer,Muscle_spasm nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,25,30,0.28181818181818175
+1,disease_on_symptoms,23,12,1.2992753623188409
+2,disease_on_drugs,19,22,1.0975609756097562

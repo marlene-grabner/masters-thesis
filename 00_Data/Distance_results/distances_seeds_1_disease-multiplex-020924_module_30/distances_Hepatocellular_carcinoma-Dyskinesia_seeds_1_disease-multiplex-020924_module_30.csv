@@ -1,0 +1,4 @@
+,Layer,Hepatocellular_carcinoma nodes,Dyskinesia nodes,sAB
+0,disease_on_genes,23,24,0.2548373419673142
+1,disease_on_symptoms,19,17,2.5928792569659445
+2,disease_on_drugs,19,23,1.2619047619047619

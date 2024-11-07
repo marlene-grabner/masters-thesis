@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Leukemia nodes,sAB
+0,disease_on_genes,25,30,-0.1636363636363637
+1,disease_on_symptoms,19,21,-0.5022556390977444
+2,disease_on_drugs,22,30,-0.18123543123543118

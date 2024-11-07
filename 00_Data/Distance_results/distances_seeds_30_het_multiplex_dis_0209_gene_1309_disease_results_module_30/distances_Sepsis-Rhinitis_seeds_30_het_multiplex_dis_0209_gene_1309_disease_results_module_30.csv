@@ -1,0 +1,4 @@
+,Layer,Sepsis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333348
+1,disease_on_symptoms,15,12,0.13703703703703685
+2,disease_on_drugs,25,23,0.1644927536231886

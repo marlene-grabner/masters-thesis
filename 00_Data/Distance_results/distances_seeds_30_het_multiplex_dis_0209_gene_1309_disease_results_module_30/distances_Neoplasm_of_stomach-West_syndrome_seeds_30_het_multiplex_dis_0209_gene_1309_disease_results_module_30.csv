@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_stomach nodes,West_syndrome nodes,sAB
+0,disease_on_genes,25,30,-0.001818181818181941
+1,disease_on_symptoms,23,13,0.9211259754738017
+2,disease_on_drugs,24,19,0.5018104855161158

@@ -1,0 +1,4 @@
+,Layer,Migraine nodes,Abnormality_of_the_coagulation_cascade nodes,sAB
+0,disease_on_genes,30,24,-0.09259259259259256
+1,disease_on_symptoms,12,24,0.7777777777777779
+2,disease_on_drugs,29,23,-0.014617691154422907

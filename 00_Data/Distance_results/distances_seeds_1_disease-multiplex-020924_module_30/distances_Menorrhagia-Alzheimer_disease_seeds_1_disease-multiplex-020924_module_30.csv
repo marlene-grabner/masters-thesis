@@ -1,0 +1,4 @@
+,Layer,Menorrhagia nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,26,20,0.1781772575250835
+1,disease_on_symptoms,19,23,1.4885038683665686
+2,disease_on_drugs,24,18,0.28869047619047605

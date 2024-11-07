@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hematologic_neoplasm nodes,sAB
+0,disease_on_genes,24,22,0.0652173913043479
+1,disease_on_symptoms,23,24,0.6599406413814368
+2,disease_on_drugs,22,19,-0.007702182284980541

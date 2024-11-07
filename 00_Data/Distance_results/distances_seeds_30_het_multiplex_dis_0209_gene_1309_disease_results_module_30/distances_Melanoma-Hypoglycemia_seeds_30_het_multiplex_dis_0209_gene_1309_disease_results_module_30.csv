@@ -1,0 +1,4 @@
+,Layer,Melanoma nodes,Hypoglycemia nodes,sAB
+0,disease_on_genes,27,30,-0.17553606237816766
+1,disease_on_symptoms,23,19,0.9964585376484689
+2,disease_on_drugs,25,27,0.36800569800569827

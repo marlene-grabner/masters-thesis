@@ -1,0 +1,4 @@
+,Layer,Celiac_disease nodes,Asthma nodes,sAB
+0,disease_on_genes,17,25,-0.3169187675070029
+1,disease_on_symptoms,22,19,-0.3061617458279845
+2,disease_on_drugs,15,24,-0.28012820512820513

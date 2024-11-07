@@ -1,0 +1,4 @@
+,Layer,Hypertrophic_cardiomyopathy nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,27,0.26491228070175454
+1,disease_on_symptoms,17,17,1.2941176470588236
+2,disease_on_drugs,17,26,0.5429338103756709

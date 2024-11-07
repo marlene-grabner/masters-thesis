@@ -1,0 +1,4 @@
+,Layer,Primary_biliary_cholangitis nodes,Erysipelas nodes,sAB
+0,disease_on_genes,26,28,0.2598697598697599
+1,disease_on_symptoms,17,20,0.7926868044515105
+2,disease_on_drugs,18,27,0.4555555555555557

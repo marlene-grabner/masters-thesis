@@ -1,0 +1,4 @@
+,Layer,Thrombophilia nodes,Urinary_retention nodes,sAB
+0,disease_on_genes,27,30,0.10526315789473695
+1,disease_on_symptoms,18,16,1.1742238562091505
+2,disease_on_drugs,22,28,0.3625324675324675

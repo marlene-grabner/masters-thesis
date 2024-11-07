@@ -1,0 +1,4 @@
+,Layer,Basal_cell_carcinoma nodes,Metrorrhagia nodes,sAB
+0,disease_on_genes,30,29,-0.19298245614035092
+1,disease_on_symptoms,24,17,-0.2523613103778095
+2,disease_on_drugs,27,26,-0.18982153416115666

@@ -1,0 +1,4 @@
+,Layer,Pain nodes,Leukemia nodes,sAB
+0,disease_on_genes,26,18,0.23426573426573438
+1,disease_on_symptoms,21,27,0.8349867724867726
+2,disease_on_drugs,26,17,0.6367199831632115

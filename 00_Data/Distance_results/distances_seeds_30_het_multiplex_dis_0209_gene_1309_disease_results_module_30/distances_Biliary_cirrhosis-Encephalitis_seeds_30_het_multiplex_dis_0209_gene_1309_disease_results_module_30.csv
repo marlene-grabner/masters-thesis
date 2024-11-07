@@ -1,0 +1,4 @@
+,Layer,Biliary_cirrhosis nodes,Encephalitis nodes,sAB
+0,disease_on_genes,26,29,0.14440559440559442
+1,disease_on_symptoms,22,13,0.5012987012987014
+2,disease_on_drugs,25,22,0.045512572533848994

@@ -1,0 +1,4 @@
+,Layer,Gastrointestinal_stromal_tumor nodes,Kaposi_sarcoma nodes,sAB
+0,disease_on_genes,23,15,0.008848207475209646
+1,disease_on_symptoms,20,27,-0.11134751773049656
+2,disease_on_drugs,19,13,0.125

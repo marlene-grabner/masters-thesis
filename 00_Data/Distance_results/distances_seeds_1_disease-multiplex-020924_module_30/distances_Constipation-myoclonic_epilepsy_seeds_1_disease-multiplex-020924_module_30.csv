@@ -1,0 +1,4 @@
+,Layer,Constipation nodes,myoclonic_epilepsy nodes,sAB
+0,disease_on_genes,30,30,0.08333333333333326
+1,disease_on_symptoms,17,16,0.3092134581105168
+2,disease_on_drugs,27,23,0.1362640901771337

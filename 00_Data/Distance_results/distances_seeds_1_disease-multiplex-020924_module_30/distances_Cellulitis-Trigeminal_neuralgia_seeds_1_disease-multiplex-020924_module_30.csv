@@ -1,0 +1,4 @@
+,Layer,Cellulitis nodes,Trigeminal_neuralgia nodes,sAB
+0,disease_on_genes,22,28,0.2661564625850339
+1,disease_on_symptoms,26,19,1.2458839406207827
+2,disease_on_drugs,12,26,1.1649797570850202

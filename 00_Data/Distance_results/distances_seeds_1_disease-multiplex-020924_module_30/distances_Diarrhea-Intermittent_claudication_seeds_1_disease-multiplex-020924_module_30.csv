@@ -1,0 +1,4 @@
+,Layer,Diarrhea nodes,Intermittent_claudication nodes,sAB
+0,disease_on_genes,27,20,0.10900315208825861
+1,disease_on_symptoms,19,24,0.9398459812321502
+2,disease_on_drugs,26,18,0.6423853923853924

@@ -1,0 +1,4 @@
+,Layer,Wilson_disease nodes,Ascites nodes,sAB
+0,disease_on_genes,25,30,-0.034848484848484795
+1,disease_on_symptoms,19,22,0.13995215311004783
+2,disease_on_drugs,22,27,-0.06002198859341723

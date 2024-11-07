@@ -1,0 +1,4 @@
+,Layer,Enterocolitis nodes,Rhinitis nodes,sAB
+0,disease_on_genes,27,30,0.12534113060428864
+1,disease_on_symptoms,21,15,0.769047619047619
+2,disease_on_drugs,24,22,0.32699275362318825

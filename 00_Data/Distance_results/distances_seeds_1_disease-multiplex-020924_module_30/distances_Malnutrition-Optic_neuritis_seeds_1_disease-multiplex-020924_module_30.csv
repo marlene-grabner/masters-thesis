@@ -1,0 +1,4 @@
+,Layer,Malnutrition nodes,Optic_neuritis nodes,sAB
+0,disease_on_genes,26,27,0.018841047142933887
+1,disease_on_symptoms,18,16,1.4560866013071894
+2,disease_on_drugs,23,27,0.4829629629629628

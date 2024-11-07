@@ -1,0 +1,4 @@
+,Layer,Spinal_cord_tumor nodes,Ichthyosis_vulgaris nodes,sAB
+0,disease_on_genes,29,27,0.1428571428571428
+1,disease_on_symptoms,14,21,0.7666666666666668
+2,disease_on_drugs,22,24,0.2102272727272727

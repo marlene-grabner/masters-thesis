@@ -1,0 +1,4 @@
+,Layer,Huntington_disease nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,30,20,-0.021666666666666723
+1,disease_on_symptoms,16,23,0.08448299888517274
+2,disease_on_drugs,27,18,0.15555555555555545

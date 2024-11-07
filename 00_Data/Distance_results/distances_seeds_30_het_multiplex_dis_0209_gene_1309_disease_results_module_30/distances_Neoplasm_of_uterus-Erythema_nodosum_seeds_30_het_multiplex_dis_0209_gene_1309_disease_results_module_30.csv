@@ -1,0 +1,4 @@
+,Layer,Neoplasm_of_uterus nodes,Erythema_nodosum nodes,sAB
+0,disease_on_genes,30,30,0.050000000000000044
+1,disease_on_symptoms,18,22,0.516161616161616
+2,disease_on_drugs,26,29,0.10666747046057412

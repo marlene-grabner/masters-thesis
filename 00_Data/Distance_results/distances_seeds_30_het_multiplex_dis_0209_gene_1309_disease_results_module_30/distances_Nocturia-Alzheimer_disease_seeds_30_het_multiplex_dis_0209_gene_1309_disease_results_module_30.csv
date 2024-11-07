@@ -1,0 +1,4 @@
+,Layer,Nocturia nodes,Alzheimer_disease nodes,sAB
+0,disease_on_genes,25,23,-0.2978723404255319
+1,disease_on_symptoms,18,19,0.5176228860439387
+2,disease_on_drugs,24,19,-0.34220726234190124

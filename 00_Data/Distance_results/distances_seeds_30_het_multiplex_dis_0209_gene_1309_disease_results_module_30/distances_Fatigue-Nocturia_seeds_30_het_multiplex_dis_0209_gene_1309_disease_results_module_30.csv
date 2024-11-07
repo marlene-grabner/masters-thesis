@@ -1,0 +1,4 @@
+,Layer,Fatigue nodes,Nocturia nodes,sAB
+0,disease_on_genes,26,25,-0.21769230769230774
+1,disease_on_symptoms,16,18,0.9697712418300655
+2,disease_on_drugs,26,24,-0.036410256410256414

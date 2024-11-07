@@ -1,0 +1,4 @@
+,Layer,Nasal_polyposis nodes,Peritonitis nodes,sAB
+0,disease_on_genes,15,30,0.288888888888889
+1,disease_on_symptoms,25,17,0.8028011204481793
+2,disease_on_drugs,10,28,0.048496240601503704
