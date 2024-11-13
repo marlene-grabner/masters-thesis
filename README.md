@@ -1,4 +1,2 @@
 # masters-thesis
-Questions:
-- The original data I got from paper etc. - how do I present this? probably not at all? because then I would need to cite and how?
-- What do I do with the many results files I have (especially the distance files) - github truncates to 1000 per folder anyways, but I feel like even that is too many - just put like 5? of coure then not all graphs will be created if one were to run the code
+This repository contains the research, code, data and figures for my master’s thesis, "Exploring disease-gene interactions with a multiplex heterogeneous network model", completed at Vienna University of Technology and University of Vienna.
