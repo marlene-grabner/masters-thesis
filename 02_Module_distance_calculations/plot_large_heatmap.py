@@ -362,6 +362,7 @@ def main(
     drop_cols: list = [],
     cbar=False,
     as_png=False,
+    df_only=False,
 ):
 
     pair_dfs = {}
@@ -377,5 +378,11 @@ def main(
     # Concatenate all the dataframes to get a combined one containing all sAB distance values
     comb_df = create_combined_dataframe(pair_dfs, "sAB")
 
-    plot = plot_clustered(comb_df, drop_cols, save_fig, cbar, as_png)
-    return comb_df
+    # If specified only the dataframe of module distances will be returned
+    if df_only:
+        return comb_df
+
+    # Usually the data will also be plotted
+    else:
+        plot = plot_clustered(comb_df, drop_cols, save_fig, cbar, as_png)
+        return comb_df
