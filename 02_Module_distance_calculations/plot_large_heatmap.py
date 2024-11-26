@@ -350,20 +350,31 @@ Main function to execute the rest of the code
 
 def main(
     disease_pairs: list,
-    rwr_res_path: str,
-    rwr_file_prefix: str,
-    rwr_file_suffix: str,
     distances_res_path: str,
     distances_file_prefix: str,
     distances_file_suffix: str,
-    rwr_max_rank: int = 50,
-    rwr_min_rank: int = 0,
     save_fig: str = None,
     drop_cols: list = [],
     cbar=False,
     as_png=False,
     df_only=False,
 ):
+    """
+    Main function to process disease pairs and plot overlap analysis.
+
+    Parameters:
+        disease_pairs (list): List of disease pairs.
+        distances_res_path (str): Path to distances results.
+        distances_file_prefix (str): Prefix for distances files.
+        distances_file_suffix (str): Suffix for distances files.
+        save_fig (str): Path to save figure.
+        drop_cols (list): Columns to drop.
+        cbar (bool): Display colorbar if True.
+        as_png (bool): Save as PNG if True.
+
+    Returns:
+        comb_df (pd.DataFrame): Combined DataFrame of results.
+    """
 
     pair_dfs = {}
 
