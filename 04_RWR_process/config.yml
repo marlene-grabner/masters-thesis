@@ -1,0 +1,67 @@
+multiplex:
+    1:
+        layers:
+            - ../00_Data/Gene_multiplex/coex_KDN.tsv
+            - ../00_Data/Gene_multiplex/coex_OVR.tsv
+            - ../00_Data/Gene_multiplex/coex_BST.tsv
+            - ../00_Data/Gene_multiplex/coex_LNG.tsv
+            - ../00_Data/Gene_multiplex/coex_ITI.tsv
+            - ../00_Data/Gene_multiplex/coex_VGN.tsv
+            - ../00_Data/Gene_multiplex4/coex_HRV.tsv
+            - ../00_Data/Gene_multiplex/coex_MSG.tsv
+            - ../00_Data/Gene_multiplex/coex_ADV.tsv
+            - ../00_Data/Gene_multiplex/coex_EMS.tsv
+            - ../00_Data/Gene_multiplex/coex_SMU.tsv
+            - ../00_Data/Gene_multiplex/coex_ARG.tsv
+            - ../00_Data/Gene_multiplex/coex_TST.tsv
+            - ../00_Data/Gene_multiplex/coex_PIT.tsv
+            - ../00_Data/Gene_multiplex/coex_LVR.tsv
+            - ../00_Data/Gene_multiplex/coex_THY.tsv
+            - ../00_Data/Gene_multiplex/coex_PNC.tsv
+            - ../00_Data/Gene_multiplex/coex_ATC.tsv
+            - ../00_Data/Gene_multiplex/coex_BRO.tsv
+            - ../00_Data/Gene_multiplex/coex_SKN.tsv
+            - ../00_Data/Gene_multiplex/coex_ADS.tsv
+            - ../00_Data/Gene_multiplex/coex_GEJ.tsv
+            - ../00_Data/Gene_multiplex/coex_BRB.tsv
+            - ../00_Data/Gene_multiplex/coex_UTR.tsv
+            - ../00_Data/Gene_multiplex/coex_STM.tsv
+            - ../00_Data/Gene_multiplex/coex_HRA.tsv
+            - ../00_Data/Gene_multiplex/coex_PRS.tsv
+            - ../00_Data/Gene_multiplex/coex_ATA.tsv
+            - ../00_Data/Gene_multiplex/coex_FIB.tsv
+            - ../00_Data/Gene_multiplex/coex_BRC.tsv
+            - ../00_Data/Gene_multiplex/coex_ATT.tsv
+            - ../00_Data/Gene_multiplex/coex_TNV.tsv
+            - ../00_Data/Gene_multiplex/coex_SPL.tsv
+            - ../00_Data/Gene_multiplex/coex_LCL.tsv
+            - ../00_Data/Gene_multiplex/coex_CLS.tsv
+            - ../00_Data/Gene_multiplex/coex_EMC.tsv
+            - ../00_Data/Gene_multiplex/coex_CLT.tsv
+            - ../00_Data/Gene_multiplex/coex_core.tsv
+            - ../00_Data/Gene_multiplex/coex_WBL.tsv
+            - ../00_Data/Gene_multiplex/co-essential.tsv
+            - ../00_Data/Gene_multiplex/GOBP.tsv
+            - ../00_Data/Gene_multiplex/ppi.tsv
+            - ../00_Data/Gene_multiplex/reactome_copathway.tsv
+            - ../00_Data/Gene_multiplex/MP.tsv
+            - ../00_Data/Gene_multiplex/HP.tsv
+            - ../00_Data/Gene_multiplex/GI_net.tsv
+            - ../00_Data/Gene_multiplex/gene_gene_on_CbG_name_mapped.tsv
+            - ../00_Data/Gene_multiplex/gene_gene_on_GcG_name_mapped.tsv
+            - ../00_Data/Gene_multiplex/GOMF.tsv
+
+    2:
+        layers:
+            - ../00_Data/Sparsified_networks/disease_on_drugs.tsv
+            - ../00_Data/Sparsified_networks/disease_on_genes.tsv
+            - ../00_Data/Sparsified_networks/disease_on_symptoms.tsv
+
+
+bipartite:
+    ../00_Data/Bipartite_network/bipartite_240901_gene_to_disease.tsv:
+        source: 1
+        target: 2
+
+seed:
+    ./disease_name.txt
